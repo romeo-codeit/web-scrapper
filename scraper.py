@@ -153,66 +153,64 @@ def scrape_questions(session, subject_url, all_questions=None, page_limit=float(
 
     return all_questions
 
+import os
+import re
+
+def sanitize_filename(filename):
+    """
+    Sanitizes a string to be used as a filename.
+    """
+    return re.sub(r'[^a-zA-Z0-9_.-]', '', filename)
+
 def scrape_myschool():
     """
     Scrapes past questions from myschool.ng for all subjects and years.
     """
     classroom_url = f"{BASE_URL}/classroom"
+    output_dir = "past_questions"
 
-    all_questions_data = {}
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     paper_types = ['obj', 'theory'] # Add 'practical' if needed
 
     with requests.Session() as session:
         subjects = get_subjects(session, classroom_url)
 
         if subjects:
-            # Limiting to 2 subjects and 2 pages for demonstration
-            for subject_name, subject_url in list(subjects.items())[:2]:
+            for subject_name, subject_url in subjects.items():
                 print(f"Scraping questions for: {subject_name}")
+
+                subject_questions_by_year = {}
 
                 for paper_type in paper_types:
                     print(f"\n--- Scraping {paper_type.capitalize()} Questions ---")
 
-                    # Construct the URL for the paper type
                     if '?' not in subject_url:
                         scrape_url = f"{subject_url}?exam_type=waec&type={paper_type}"
                     else:
                         scrape_url = f"{subject_url}&exam_type=waec&type={paper_type}"
 
-                    # Scrape a limited number of pages for demonstration
-                    questions = scrape_questions(session, scrape_url, page_limit=2)
+                    questions = scrape_questions(session, scrape_url)
 
                     print(f"Found {len(questions)} {paper_type} questions for {subject_name}")
 
                     for q in questions:
                         year = q.get('year', 'Unknown')
-                        if year not in all_questions_data:
-                            all_questions_data[year] = {}
+                        if year not in subject_questions_by_year:
+                            subject_questions_by_year[year] = []
+                        subject_questions_by_year[year].append(q)
 
-                        if subject_name not in all_questions_data[year]:
-                            all_questions_data[year][subject_name] = {}
+                # Save the questions for the current subject to files
+                for year, questions in subject_questions_by_year.items():
+                    sanitized_subject_name = sanitize_filename(subject_name)
+                    filename = f"{sanitized_subject_name}_{year}.json"
+                    filepath = os.path.join(output_dir, filename)
+                    with open(filepath, 'w') as f:
+                        json.dump(questions, f, indent=2)
+                    print(f"Saved {len(questions)} questions to {filepath}")
 
-                        if paper_type not in all_questions_data[year][subject_name]:
-                            all_questions_data[year][subject_name][paper_type] = []
-
-                        all_questions_data[year][subject_name][paper_type].append(q)
-
-    # Re-structure the data for the final JSON output
-    final_data = {"WAEC": []}
-    for year, subjects in all_questions_data.items():
-        year_data = {"year": year, "subjects": []}
-        for subject_name, papers in subjects.items():
-            subject_data = {"name": subject_name, "papers": []}
-            for paper_name, questions in papers.items():
-                paper_data = {"name": paper_name, "questions": questions}
-                subject_data["papers"].append(paper_data)
-            year_data["subjects"].append(subject_data)
-        final_data["WAEC"].append(year_data)
-
-    with open('past_questions.json', 'w') as f:
-        json.dump(final_data, f, indent=2)
-
-    print("Scraping complete. Data saved to past_questions.json")
+    print("Scraping complete.")
 
 if __name__ == "__main__":
     scrape_myschool()
