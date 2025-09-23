@@ -3,104 +3,342 @@
     "number": "1",
     "text": "A used car was purchased at N900,000.00. Its value depreciated by 30% in the first year. In each subsequent year, the depreciation was 22% of its value at the beginning of the year. If the car was bought on the 1st of March, 2011, calculate, correct to the nearest hundred naira, the value of the car on the 28th of February, 2015.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52238?exam_type=waec&type=theory",
+    "correct_answer": "Beginning of 1st year (March 2011 - February 2012)\u00a0- N900,000\nDepreciation (30%) = \\(\\frac{30}{100} \\times N900,000\\)\n= N270,000\nPrice at the end of 1st year = N(900,000 - 270,000)\n= N630,000.\nBeginning of 2nd year (March 2012 - February 2013)\u00a0- N630,000\nDepreciation (22%) = \\(\\frac{22}{100} \\times N630,000\\)\n= N138,600\nPrice at the end of 2nd year = N(630,000 - 138,600)\n= N491,400.\nBeginning of 3rd year (March 2013 - February 2014)\u00a0- N491,400\nDepreciation (22%) = \\(\\frac{22}{100} \\times N491,400\\)\n= N108,108\nPrice at the end of the 3rd year = N(491,400 - 108,108)\n= N383,292.\nBeginning of 4th year (March 2014 - February 2015)\u00a0- N383,292\nDepreciation (22%) = \\(\\frac{22}{100} \\times N383,292\\)\n= N84,324.24\nPrice at the end of the 4th year = N(383,292 - 84,324.24)\n= N298,967.76 \\(\\approxeq\\) N299,000 (to the nearest hundred naira).",
+    "explanation": "Beginning of 1st year (March 2011 - February 2012)\u00a0- N900,000\nDepreciation (30%) = \\(\\frac{30}{100} \\times N900,000\\)\n= N270,000\nPrice at the end of 1st year = N(900,000 - 270,000)\n= N630,000.\nBeginning of 2nd year (March 2012 - February 2013)\u00a0- N630,000\nDepreciation (22%) = \\(\\frac{22}{100} \\times N630,000\\)\n= N138,600\nPrice at the end of 2nd year = N(630,000 - 138,600)\n= N491,400.\nBeginning of 3rd year (March 2013 - February 2014)\u00a0- N491,400\nDepreciation (22%) = \\(\\frac{22}{100} \\times N491,400\\)\n= N108,108\nPrice at the end of the 3rd year = N(491,400 - 108,108)\n= N383,292.\nBeginning of 4th year (March 2014 - February 2015)\u00a0- N383,292\nDepreciation (22%) = \\(\\frac{22}{100} \\times N383,292\\)\n= N84,324.24\nPrice at the end of the 4th year = N(383,292 - 84,324.24)\n= N298,967.76 \\(\\approxeq\\) N299,000 (to the nearest hundred naira).",
     "year": "2018"
   },
   {
     "number": "2",
     "text": "(a) The graph of \\(y = 2px^{2} - p^{2}x - 14\\) passes through the point (3, 10). Find the values of p.\n(b) Two lines, \\(3y - 2x = 21\\) and \\(4y + 5x = 5\\) intersect at the point Q. Find the coordinates of Q.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52242?exam_type=waec&type=theory",
+    "correct_answer": "(a) \\(y = 2px^{2} - p^{2}x - 14\\)\nAt point (3, 10), y = 10 when x = 3.\n\\(\\implies 10 = 2p(3^{2}) - p^{2}(3) - 14\\)\n\\(10 = 18p - 3p^{2} - 14\\)\n\\(-10 = 3p^{2} - 18p + 14 \\implies 3p^{2} - 18p + 24 = 0\\)\n\\(3p^{2} - 12p - 6p + 24 = 0\\)\n\\((p - 4)(3p - 6) = 0 \\implies \\text{p = 2 or 4}\\).\n(b) \\(3y - 2x = 21 ... (1)\\)\n\\(4y + 5x = 5 ....(2)\\)\nUsing elimination method, multiply (1) by 4 and (2) by 3.\n\\((1) \\times 4 : 12y - 8x = 84 ... (3)\\)\n\\((2) \\times 3 : 12y + 15x = 15 ... (4)\\)\nSubtracting (3) - (4), we have:\n\\(-23x = 69 \\implies x = -3\\)\nPutting x = -3 in (1), we have\n\\(3y - 2(-3) = 3y + 6 = 21\\)\n\\(3y = 15 \\implies y = 5\\)\nHence, the coordinates of Q are (-3, 5).",
+    "explanation": "(a) \\(y = 2px^{2} - p^{2}x - 14\\)\nAt point (3, 10), y = 10 when x = 3.\n\\(\\implies 10 = 2p(3^{2}) - p^{2}(3) - 14\\)\n\\(10 = 18p - 3p^{2} - 14\\)\n\\(-10 = 3p^{2} - 18p + 14 \\implies 3p^{2} - 18p + 24 = 0\\)\n\\(3p^{2} - 12p - 6p + 24 = 0\\)\n\\((p - 4)(3p - 6) = 0 \\implies \\text{p = 2 or 4}\\).\n(b) \\(3y - 2x = 21 ... (1)\\)\n\\(4y + 5x = 5 ....(2)\\)\nUsing elimination method, multiply (1) by 4 and (2) by 3.\n\\((1) \\times 4 : 12y - 8x = 84 ... (3)\\)\n\\((2) \\times 3 : 12y + 15x = 15 ... (4)\\)\nSubtracting (3) - (4), we have:\n\\(-23x = 69 \\implies x = -3\\)\nPutting x = -3 in (1), we have\n\\(3y - 2(-3) = 3y + 6 = 21\\)\n\\(3y = 15 \\implies y = 5\\)\nHence, the coordinates of Q are (-3, 5).",
     "year": "2018"
   },
   {
     "number": "3",
     "text": "(a) The diagonals of a rhombus are 10.2 cm and 9.3 cm long. Calculate, correct to one decimal place, the perimeter of the rhombus.\n(b) Given that \\(\\sin x = \\frac{3}{5}, 0\u00b0 < x < 90\u00b0\\), find the value of \\(5\\cos x - 4\\tan x\\).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52247?exam_type=waec&type=theory",
+    "correct_answer": "(a)\u00a0 see diagram above\nLet a side of the rhombus be n.\nThen \\(n^{2} = 4.65^{2} + 5.1^{2}\\)\n= \\(21.6225 + 26.01 \\)\n\\(n^{2} = 47.6325\\)\n\\(n = \\sqrt{47.6325} = 6.902 cm\\)\nHence, the perimeter of the rhombus = 4n\n= \\(4 \\times 6.902\\)\n= \\(27.608 cm \\approxeq 27.6 cm\\) (to 1 d.p)\n(b) Right-angled triangle ABC\nsee diagram above\n\\(\\sin x = \\frac{3}{5}\\), Thus, \\(m^{2} = 5^{2} - 3^{2} = 25 - 9 = 16\\)\n\\(m = 4\\).\n\\(\\cos x = \\frac{4}{5} \\implies 5\\cos x = 5\u00a0\\times \\frac{4}{5} = 4\\)\n\\(\\tan x = \\frac{3}{4} \\implies 4\\tan x = 4 \\times \\frac{3}{4} = 3\\)\n\\(5\\cos x - 4\\tan x = 4 - 3 = 1\\).",
+    "explanation": "(a)\u00a0 see diagram above\nLet a side of the rhombus be n.\nThen \\(n^{2} = 4.65^{2} + 5.1^{2}\\)\n= \\(21.6225 + 26.01 \\)\n\\(n^{2} = 47.6325\\)\n\\(n = \\sqrt{47.6325} = 6.902 cm\\)\nHence, the perimeter of the rhombus = 4n\n= \\(4 \\times 6.902\\)\n= \\(27.608 cm \\approxeq 27.6 cm\\) (to 1 d.p)\n(b) Right-angled triangle ABC\nsee diagram above\n\\(\\sin x = \\frac{3}{5}\\), Thus, \\(m^{2} = 5^{2} - 3^{2} = 25 - 9 = 16\\)\n\\(m = 4\\).\n\\(\\cos x = \\frac{4}{5} \\implies 5\\cos x = 5\u00a0\\times \\frac{4}{5} = 4\\)\n\\(\\tan x = \\frac{3}{4} \\implies 4\\tan x = 4 \\times \\frac{3}{4} = 3\\)\n\\(5\\cos x - 4\\tan x = 4 - 3 = 1\\).",
     "year": "2018"
   },
   {
     "number": "4",
     "text": "(a)\u00a0\nIn the diagram\n(i) The value of x; (ii)\n(b)\u00a0 If \\(2N4_{seven} = 15N_{nine}\\), find the value of N.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52249?exam_type=waec&type=theory",
+    "correct_answer": "(a)\n(i) In the diagram,\n\\(x\u00b0 + 90\u00b0 =\u00a0 (3x + 15)\u00b0\\) (Sum of opposite interior angles)\nThus, \\(90\u00b0 - 15\u00b0 = 3x - x \\implies 75\u00b0 = 2x\\)\n\\(x = 37.5\u00b0\\)\n(ii)\n< RSQ = 90\u00b0 - 37.5\u00b0 = 52.5\u00b0\n(b) \\(2N4_{seven} = 15N_{nine}\\)\n\\(2N4_{seven} = (2 \\times 7^{2}) + (N \\times 7^{1}) + (4 \\times 7^{0})\\)\n= \\(98 + 7N + 4\\)\n= \\(102 + 7N\\)\n\\(15N_{nine} = (1 \\times 9^{2}) + (5 \\times 9^{1}) + (N \\times 9^{0})\\)\n= \\(81 + 45 + N\\)\n= \\(126 + N\\)\n\\(\\implies 102 + 7N = 126 + N\\)\n\\(7N - N = 126 - 102 = 24\\)\n\\(6N = 24 \\implies N = 4\\)\nTherefore, \\(244_{seven} = 154_{nine}\\).",
+    "explanation": "(a)\n(i) In the diagram,\n\\(x\u00b0 + 90\u00b0 =\u00a0 (3x + 15)\u00b0\\) (Sum of opposite interior angles)\nThus, \\(90\u00b0 - 15\u00b0 = 3x - x \\implies 75\u00b0 = 2x\\)\n\\(x = 37.5\u00b0\\)\n(ii)\n< RSQ = 90\u00b0 - 37.5\u00b0 = 52.5\u00b0\n(b) \\(2N4_{seven} = 15N_{nine}\\)\n\\(2N4_{seven} = (2 \\times 7^{2}) + (N \\times 7^{1}) + (4 \\times 7^{0})\\)\n= \\(98 + 7N + 4\\)\n= \\(102 + 7N\\)\n\\(15N_{nine} = (1 \\times 9^{2}) + (5 \\times 9^{1}) + (N \\times 9^{0})\\)\n= \\(81 + 45 + N\\)\n= \\(126 + N\\)\n\\(\\implies 102 + 7N = 126 + N\\)\n\\(7N - N = 126 - 102 = 24\\)\n\\(6N = 24 \\implies N = 4\\)\nTherefore, \\(244_{seven} = 154_{nine}\\).",
     "year": "2018"
   },
   {
     "number": "5",
     "text": "(a) If the mean of m, n, s, p and q is 12, calculate the mean of (m + 4), (n - 3), (s + 6), (p - 2) and (q + 8).\n(b) In a community of 500 people, the 75th percentile age is 65 years while the 25th percentile age is 15 years. How many of the people are between 15 and 65 years?",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52250?exam_type=waec&type=theory",
+    "correct_answer": "(a) \\(\\frac{m + n + s + p + q}{5} = 12 \\)\n\\(\\implies m + n + s + p + q = 12 \\times 5 = 60\\)\n\\(\\frac{(m + 4) + (n - 3) + (s + 6) + (p - 2) + (q + 8)}{5} = \\frac{m + n + s + p + q + 4 - 3 + 6 - 2 + 8}{5}\\)\n= \\(\\frac{60 + 13}{5} = \\frac{73}{5}\\)\n= 14.6.\n(b) In the community, there are 500 people.\nThe 75th percentile age = 65 years\nNumber of people in the 75th percentile = \\(\\frac{75 \\times 500}{100} = 375\\)\nThe 25th percentile = 15 years\nNumber of people in the 25th percentile = \\(\\frac{25 \\times 500}{100} = 125\\)\nNumber of people between 15 years and 65 years = 375 - 125 = 250 people.",
+    "explanation": "(a) \\(\\frac{m + n + s + p + q}{5} = 12 \\)\n\\(\\implies m + n + s + p + q = 12 \\times 5 = 60\\)\n\\(\\frac{(m + 4) + (n - 3) + (s + 6) + (p - 2) + (q + 8)}{5} = \\frac{m + n + s + p + q + 4 - 3 + 6 - 2 + 8}{5}\\)\n= \\(\\frac{60 + 13}{5} = \\frac{73}{5}\\)\n= 14.6.\n(b) In the community, there are 500 people.\nThe 75th percentile age = 65 years\nNumber of people in the 75th percentile = \\(\\frac{75 \\times 500}{100} = 375\\)\nThe 25th percentile = 15 years\nNumber of people in the 25th percentile = \\(\\frac{25 \\times 500}{100} = 125\\)\nNumber of people between 15 years and 65 years = 375 - 125 = 250 people.",
     "year": "2018"
   },
   {
     "number": "6",
     "text": "In a road worthiness test on 240 cars, 60% passed. The number that failed had faults in Clutch, Brakes and Steering as follows: Clutch only - 28, Clutch and Steering - 14; Clutch, Steering and Brakes - 8; Clutch and Brakes - 20; Brakes and Steering only - 6. The number of cars with faults in Steering only is twice the number of cars with faults in Brakes only.\n(a) Draw a Venn Diagram to illustrate this information.\n(b) How many cars had : (i) Faulty Brakes?\u00a0 (ii)\u00a0 Only one fault?",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52253?exam_type=waec&type=theory&page=2",
+    "correct_answer": "(a)\n(b)\u00a0 From the Venn Diagram above,\n60% passed implies that 40% passed\n: 40% of 240 = 96.\n28 + 2x + x + 12 + 6 + 6 + 8 = 96\n60 + 3x = 96\n3x = 36\nx = 12\n(i) Faulty brakes = 12 + 12 + 8 + 6 =38\n(ii) Cars with only one fault = 28 + 2x + x\n= 28 + 3x = 28 + 3(12)\n= 28 + 36 = 64",
+    "explanation": "(a)\n(b)\u00a0 From the Venn Diagram above,\n60% passed implies that 40% passed\n: 40% of 240 = 96.\n28 + 2x + x + 12 + 6 + 6 + 8 = 96\n60 + 3x = 96\n3x = 36\nx = 12\n(i) Faulty brakes = 12 + 12 + 8 + 6 =38\n(ii) Cars with only one fault = 28 + 2x + x\n= 28 + 3x = 28 + 3(12)\n= 28 + 36 = 64",
     "year": "2018"
   },
   {
     "number": "7",
     "text": "(a) Find the equation of the line passing through the points (2, 5) and (-4, -7).\n(b) Three ships P, Q and R are at sea. The bearing of Q from P is 030\u00b0 and the bearing of P and R is 300\u00b0.\u00a0 If |PQ| = 5 km and |PR| = 8 km,\n(i) Illustrate the information in a diagram.\n(ii) Calculate, correct to three significant figures, the:\n(1) distance between Q and R\n(2) bearing of R from Q.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52254?exam_type=waec&type=theory&page=2",
+    "correct_answer": "(a) Using the two- point form,\n\\(\\frac{y - y_{1}}{y_{2} - y_{1}} = \\frac{x - x_{1}}{x_{2} - x_{1}}\\)\n\\(\\frac{y - 5}{-7 - 5} = \\frac{x - 2}{-4 - 2}\\)\n\\(\\frac{y - 5}{- 12} = \\frac{x - 2}{- 6}\\)\n\\(y - 5 = 2(x - 2)\\)\n\\(y - 5 = 2x - 4 \\implies y - 2x = -4 + 5 = 1\\)\n\\(Equation : y = 2x + 1\\)\n(b) (i)see figure above\nIn \\(\\Delta{\\text PQR,}\\)\n(ii) (1) In \\(\\Delta PQR, |QR|^{2} = 5^{2} + 8^{2}\\)\n\\(25 + 64 = 89\\)\n\\(|QR| = \\sqrt{89} = 9.434 km \\approxeq 9.43 km\\)\n(2) In the diagram above, the bearing of R from Q is the obtuse angle NQR.\nBut \\(\\tan \\alpha = \\frac{8}{5} = 1.6\\)\n\\(\\alpha = \\tan^{-1} (1.6) = 58\u00b0\\)\nHence, angle NQR = 360\u00b0 - (a + 60\u00b0 + 90\u00b0)\n= 360\u00b0 - (58\u00b0 + 60\u00b0 + 90\u00b0)\n= 360\u00b0 - 208\u00b0\n= 152\u00b0",
+    "explanation": "(a) Using the two- point form,\n\\(\\frac{y - y_{1}}{y_{2} - y_{1}} = \\frac{x - x_{1}}{x_{2} - x_{1}}\\)\n\\(\\frac{y - 5}{-7 - 5} = \\frac{x - 2}{-4 - 2}\\)\n\\(\\frac{y - 5}{- 12} = \\frac{x - 2}{- 6}\\)\n\\(y - 5 = 2(x - 2)\\)\n\\(y - 5 = 2x - 4 \\implies y - 2x = -4 + 5 = 1\\)\n\\(Equation : y = 2x + 1\\)\n(b) (i)see figure above\nIn \\(\\Delta{\\text PQR,}\\)\n(ii) (1) In \\(\\Delta PQR, |QR|^{2} = 5^{2} + 8^{2}\\)\n\\(25 + 64 = 89\\)\n\\(|QR| = \\sqrt{89} = 9.434 km \\approxeq 9.43 km\\)\n(2) In the diagram above, the bearing of R from Q is the obtuse angle NQR.\nBut \\(\\tan \\alpha = \\frac{8}{5} = 1.6\\)\n\\(\\alpha = \\tan^{-1} (1.6) = 58\u00b0\\)\nHence, angle NQR = 360\u00b0 - (a + 60\u00b0 + 90\u00b0)\n= 360\u00b0 - (58\u00b0 + 60\u00b0 + 90\u00b0)\n= 360\u00b0 - 208\u00b0\n= 152\u00b0",
     "year": "2018"
   },
   {
     "number": "8",
     "text": "(a) Lamin bought a book for N300.00 and sold it to Bola at a profit of x%. Bola then sold the same book at a profit of x%. If James paid \\(N(6x + \\frac{3}{4})\\) more for the book than Lamin paid, find the value of x.\n(b) Find the range of values of x which satisfies the inequality \\(3x - 2 < 10 + x < 2 + 5x\\).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52263?exam_type=waec&type=theory&page=2",
+    "correct_answer": "(a) S.P = \\(C.P + \\frac{%\u00a0 profit}{100} \\times C.P\\)\n= \\(300 + (\\frac{x}{100} \\times 300)\\)\nS.P = N(300 + 3x)\nTherefore, Bola bought it at N(300 + 3x).\nJames paid \\(N(6x + \\frac{3}{4})\\) extra from what Lamin paid, therefore Bola's S.P = \\(N(300 +\u00a06x + \\frac{3}{4})\\)\n= N(300.75 + 6x).\nProfit for Bola = \\(N(300.75 + 6x - (300 + 3x)) = N(0.75 + 3x)\\)\n\\(\\frac{x}{100} \\times N(300 + 3x) = N(0.75 + 3x)\\)\n\\(300x + 3x^{2} = 75 + 300x\\)\n\\(\\implies 3x^{2} = 75\\)\n\\(x^{2} = 25\u00a0 \\therefore x = 5\\)\n(b) \\(3x - 2 < 10 + x < 2 + 5x\\)\n\\(3x - 2 < 10 + x \\implies 3x - x < 10 + 2\\)\n\\(2x < 12 \\implies x < 6\\)\n\\(10 + x < 2 + 5x\\)\n\\(x - 5x < 2 - 10\\)\n\\(-4x < -8 \\implies x > 2\\)\nThe range = \\(2 < x < 6\\)",
+    "explanation": "(a) S.P = \\(C.P + \\frac{%\u00a0 profit}{100} \\times C.P\\)\n= \\(300 + (\\frac{x}{100} \\times 300)\\)\nS.P = N(300 + 3x)\nTherefore, Bola bought it at N(300 + 3x).\nJames paid \\(N(6x + \\frac{3}{4})\\) extra from what Lamin paid, therefore Bola's S.P = \\(N(300 +\u00a06x + \\frac{3}{4})\\)\n= N(300.75 + 6x).\nProfit for Bola = \\(N(300.75 + 6x - (300 + 3x)) = N(0.75 + 3x)\\)\n\\(\\frac{x}{100} \\times N(300 + 3x) = N(0.75 + 3x)\\)\n\\(300x + 3x^{2} = 75 + 300x\\)\n\\(\\implies 3x^{2} = 75\\)\n\\(x^{2} = 25\u00a0 \\therefore x = 5\\)\n(b) \\(3x - 2 < 10 + x < 2 + 5x\\)\n\\(3x - 2 < 10 + x \\implies 3x - x < 10 + 2\\)\n\\(2x < 12 \\implies x < 6\\)\n\\(10 + x < 2 + 5x\\)\n\\(x - 5x < 2 - 10\\)\n\\(-4x < -8 \\implies x > 2\\)\nThe range = \\(2 < x < 6\\)",
     "year": "2018"
   },
   {
     "number": "9",
     "text": "In the diagram, |PT| = 4 cm, |TS| = 6 cm, |PQ| = 6 cm and < SPR = 30\u00b0. Calculate, correct to the nearest whole number:\n(a) |SR| ;\n(b) area of TQRS.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52293?exam_type=waec&type=theory&page=2",
+    "correct_answer": "\\(|TQ|^{2} = 4^{2} + 6^{2} - 2 \\times 4 \\times 6 \\times \\cos 30\u00b0\\)\n= \\(16 + 36 - 48 \\times 0.8660\\)\n= \\(52 - 41.568 = 10.432\\)\n\\(\\therefore |TQ| = \\sqrt{10.432} \\approxeq 3.23 cm\\)\n(a) By the rules of similar triangles,\n\\(\\frac{|PT|}{|TQ|} = \\frac{|PS|}{|SR|}\\)\n\\(\\frac{4}{3.23} = \\frac{10}{|SR|}\\)\n\\(|SR| = \\frac{3.23 \\times 10}{4}\\)\n= \\(8.075 cm \\approxeq 8 cm\\)\n(b) Using sine rule,\n\\(\\frac{|PQ|}{\\sin \\alpha} = \\frac{|TQ|}{\\sin 30}\\)\n\\(\\frac{6}{\\sin \\alpha} = \\frac{3.23}{\\sin 30}\\)\n\\(\\sin \\alpha = \\frac{6 \\sin 30}{3.23}\\)\nsin \\(\\alpha\\) = 0.9288\nFrom the diagram, \\(\\alpha\\) = \\(\\beta\\)\n\\(\\sin \\alpha = \\sin \\beta = 0.9288\\)\n\\(\\sin \\beta = \\frac{h}{6}\\)\nh = \\(6 \\sin \\beta\\)\nHence, area of quadrilateral\nTQRS = \\(\\frac{1}{2} (TQ + SR) \\times h\\)\n= \\(\\frac{1}{2} (3.23 + 8.075) \\times 6\\sin \\beta\\)\n= \\(\\frac{1}{2} (11.305) (6 \\times 0.9288)\\)\n= 31.501 cm\\(^2\\)\n\\(\\approxeq\\) 32 cm\\(^2\\) (to the nearest whole number)",
+    "explanation": "\\(|TQ|^{2} = 4^{2} + 6^{2} - 2 \\times 4 \\times 6 \\times \\cos 30\u00b0\\)\n= \\(16 + 36 - 48 \\times 0.8660\\)\n= \\(52 - 41.568 = 10.432\\)\n\\(\\therefore |TQ| = \\sqrt{10.432} \\approxeq 3.23 cm\\)\n(a) By the rules of similar triangles,\n\\(\\frac{|PT|}{|TQ|} = \\frac{|PS|}{|SR|}\\)\n\\(\\frac{4}{3.23} = \\frac{10}{|SR|}\\)\n\\(|SR| = \\frac{3.23 \\times 10}{4}\\)\n= \\(8.075 cm \\approxeq 8 cm\\)\n(b) Using sine rule,\n\\(\\frac{|PQ|}{\\sin \\alpha} = \\frac{|TQ|}{\\sin 30}\\)\n\\(\\frac{6}{\\sin \\alpha} = \\frac{3.23}{\\sin 30}\\)\n\\(\\sin \\alpha = \\frac{6 \\sin 30}{3.23}\\)\nsin \\(\\alpha\\) = 0.9288\nFrom the diagram, \\(\\alpha\\) = \\(\\beta\\)\n\\(\\sin \\alpha = \\sin \\beta = 0.9288\\)\n\\(\\sin \\beta = \\frac{h}{6}\\)\nh = \\(6 \\sin \\beta\\)\nHence, area of quadrilateral\nTQRS = \\(\\frac{1}{2} (TQ + SR) \\times h\\)\n= \\(\\frac{1}{2} (3.23 + 8.075) \\times 6\\sin \\beta\\)\n= \\(\\frac{1}{2} (11.305) (6 \\times 0.9288)\\)\n= 31.501 cm\\(^2\\)\n\\(\\approxeq\\) 32 cm\\(^2\\) (to the nearest whole number)",
     "year": "2018"
   },
   {
     "number": "10",
     "text": "(a)\u00a0\u00a0 \u00a0In < PQS, |PQ| = 12 cm, |PS| = 5 cm, < SPQ = < PRQ = 90\u00b0, Find, correct to three significant figures, |PR|.\n(b) The lengths of two ladders, L and M are 10m and 12m respectively. They are placed against a wall such that each ladder makes angle with the horizontal ground. If the foot of L is 8m from the foot of the wall.\n(i) Draw a diagram to illustrate this information;\u00a0 (ii) Calculate the height at which M touches the wall.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52308?exam_type=waec&type=theory&page=2",
+    "correct_answer": "(a)\nIn triangle SPQ, \\(|SQ|^{2} = 5^{2} + 12^{2}\\) (Pythagoras theorem)\n= \\(25 + 144 = 169\\)\n\\(|SQ| = \\sqrt{169} = 13 cm\\)\nAngle b is common to triangles SPQ and PRS are similar.\nUsing \\(\\sin b = \\frac{12}{|SQ|} = \\frac{|PR|}{5}\\)\n\\(\\sin b = \\frac{12}{13} = \\frac{|PR|}{5}\\)\n\\(|PR| = \\frac{12 \\times 5}{13} \\approxeq 4.62 cm\\) (to 3 s.f)\n(b)(i)\n\\(h^{2} = 10^{2} - 8^{2} = 36\\)\n\\(h = \\sqrt{36} = 6 cm\\)\n(ii) In the smaller triangle, \\(\\cos x = \\frac{8}{10} = 0.8\\)\n\\(\\cos^{-1} (0.8) = 36.87\u00b0\\)\nSince these are corresponding angles, x = x in the bigger triangle.\n\\(\\sin x = \\frac{y}{12}\\)\n\\(y = 12 \\sin x = 12 \\sin 36.87\\)\n= \\(12 \\times 0.6\\)\n= 7.20 m\nThe ladder M touches the wall at a height 7.2 m above the horizontal ground.",
+    "explanation": "(a)\nIn triangle SPQ, \\(|SQ|^{2} = 5^{2} + 12^{2}\\) (Pythagoras theorem)\n= \\(25 + 144 = 169\\)\n\\(|SQ| = \\sqrt{169} = 13 cm\\)\nAngle b is common to triangles SPQ and PRS are similar.\nUsing \\(\\sin b = \\frac{12}{|SQ|} = \\frac{|PR|}{5}\\)\n\\(\\sin b = \\frac{12}{13} = \\frac{|PR|}{5}\\)\n\\(|PR| = \\frac{12 \\times 5}{13} \\approxeq 4.62 cm\\) (to 3 s.f)\n(b)(i)\n\\(h^{2} = 10^{2} - 8^{2} = 36\\)\n\\(h = \\sqrt{36} = 6 cm\\)\n(ii) In the smaller triangle, \\(\\cos x = \\frac{8}{10} = 0.8\\)\n\\(\\cos^{-1} (0.8) = 36.87\u00b0\\)\nSince these are corresponding angles, x = x in the bigger triangle.\n\\(\\sin x = \\frac{y}{12}\\)\n\\(y = 12 \\sin x = 12 \\sin 36.87\\)\n= \\(12 \\times 0.6\\)\n= 7.20 m\nThe ladder M touches the wall at a height 7.2 m above the horizontal ground.",
     "year": "2018"
   },
   {
     "number": "11",
     "text": "(a) Copy and complete the table of values for y = 2x\\(^{2}\\) + x - 10\u00a0for -5 \\(\\leq\\) x \\(\\leq\\)\u00a04.\n\n\n\nx\n-5\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n\n\ny\n\u00a0\n\u00a0\n5\n\u00a0\n-9\n-10\n\u00a0\n0\n\u00a0\n\u00a0\n\n\n\n(b) Using scales of 2cm to 1 unit on the x- axis and 2cm to 5 units on the y- axis, Draw the graph of y = 2x\\(^{2}\\)\u00a0+ x - 10\u00a0for -5 \\(\\leq\\)\u00a0x \\(\\leq\\) 4.\n(c) Use the graph to find the solution of :\n(i) 2x\\(^{2}\\) + x = 10\n(ii) 2x\\(^{2}\\) + x - 10 = 2x",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52316?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a)\nx\n-5\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\ny\n35\n18\n5\n-4\n-9\n-10\n-7\n0\n11\n26\n(b)\n(c)(i) 2x\\(^{2}\\)\u00a0+ x = 10 \\(\\equiv\\)\u00a02x\\(^{2}\\)\u00a0+ x - 10 = 0\nThus, the solution of 2x\\(^{2}\\) + x - 10 = 0\u00a0are the values of x at which the curve cuts the x- axis.\nx = -2.5 or x = 2.\n(ii)\u00a0 2x\\(^{2}\\)\u00a0+ x - 10 = 2x\nTo solve the given equation, we first draw the graph of y = 2x: when x =\u00a0 -2, y = 2(-2) = -4; when x = 3, y = 2(3) = 6.\nThe values of x at which y = 2x\\(^{2}\\) + x - 10\u00a0and y = 2x\u00a0intersect give the solution of 2x\\(^{2}\\)\u00a0+ x - 10 = 2x.\nThese are x = -2 or x = 2.5.",
+    "explanation": "(a)\nx\n-5\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\ny\n35\n18\n5\n-4\n-9\n-10\n-7\n0\n11\n26\n(b)\n(c)(i) 2x\\(^{2}\\)\u00a0+ x = 10 \\(\\equiv\\)\u00a02x\\(^{2}\\)\u00a0+ x - 10 = 0\nThus, the solution of 2x\\(^{2}\\) + x - 10 = 0\u00a0are the values of x at which the curve cuts the x- axis.\nx = -2.5 or x = 2.\n(ii)\u00a0 2x\\(^{2}\\)\u00a0+ x - 10 = 2x\nTo solve the given equation, we first draw the graph of y = 2x: when x =\u00a0 -2, y = 2(-2) = -4; when x = 3, y = 2(3) = 6.\nThe values of x at which y = 2x\\(^{2}\\) + x - 10\u00a0and y = 2x\u00a0intersect give the solution of 2x\\(^{2}\\)\u00a0+ x - 10 = 2x.\nThese are x = -2 or x = 2.5.",
     "year": "2018"
   },
   {
     "number": "12",
     "text": "(a) If \\(x = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}, y = \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix}\\) and \\(z = \\begin{pmatrix} -4 \\\\ 13 \\end{pmatrix}\\), find the scalars p and q such that \\(px + qy = z\\).\n(b)(i) Using the scale of 2cm to 2 units on both axis, draw on a graph paper two perpendicular axis x and y for \\(-5 \\leq x \\leq 5, -5 \\leq y \\leq 5\\) respectively.\n(ii) Draw, on the graph paper, indicating clearly the vertices and their coordinates,\n(1) the quadrilateral WXYZ with W(2, 3), X(4, -1), Y(-3, -4) and Z(-3, 2).\n(2) the image \\(W_{1}X_{1}Y_{1}Z_{1}\\) of the quadrilateral WXYZ under an anti-clockwise rotation of 90\u00b0 about the origin where \\(W \\to W_{1}, X \\to X_{1}, Y \\to Y_{1}\\) and \\(Z \\to Z_{1}\\).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52317?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) px + qy = z\n\\(p \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix} + q \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} = \\begin{pmatrix} -4 \\\\ 13 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} 2p + 5q \\\\ 3p - 2q \\end{pmatrix} = \\begin{pmatrix} -4 \\\\ 13 \\end{pmatrix}\\)\nThus,\n\\(2p + 5q = -4 .....(1)\\)\n\\(3p - 2q = 13 ......(2)\\)\nSolving the equations, we have p = 3 and q = -2.\n(b)(i)\n(ii)\u00a0 See attached graph for the quadrilateral W(2, 3), X(4, -1), Y(-3, -4) and Z(-3,2).\n(iii) See attached for the image for the quadrilateral WXYZ under an anticlockwise rotation of 90\u00b0 is \\(W_{1}(-3, 2), X_{1}(1, 4), Y_{1}(4, -3)\\) and \\(Z_{1}(-2, -3)\\).",
+    "explanation": "(a) px + qy = z\n\\(p \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix} + q \\begin{pmatrix} 5 \\\\ -2 \\end{pmatrix} = \\begin{pmatrix} -4 \\\\ 13 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} 2p + 5q \\\\ 3p - 2q \\end{pmatrix} = \\begin{pmatrix} -4 \\\\ 13 \\end{pmatrix}\\)\nThus,\n\\(2p + 5q = -4 .....(1)\\)\n\\(3p - 2q = 13 ......(2)\\)\nSolving the equations, we have p = 3 and q = -2.\n(b)(i)\n(ii)\u00a0 See attached graph for the quadrilateral W(2, 3), X(4, -1), Y(-3, -4) and Z(-3,2).\n(iii) See attached for the image for the quadrilateral WXYZ under an anticlockwise rotation of 90\u00b0 is \\(W_{1}(-3, 2), X_{1}(1, 4), Y_{1}(4, -3)\\) and \\(Z_{1}(-2, -3)\\).",
     "year": "2018"
   },
   {
     "number": "13",
     "text": "Marks\n10\n20\n30\n40\n50\n60\n70\n80\n90\n\n\nFrequency\n1\n1\nx\n5\ny\n1\n4\n3\n1\n\n\n\nThe frequency distribution shows the marks distribution of a class of 30 students in an examination.\nThe mean mark of the distribution is 52.\n(a) Find the values of x and y.\n(b) Construct a group frequency distribution table starting with a lower class limit of 1 and class interval of 10.\n(c) Draw a histogram for the distribution\n(d) Use the histogram to estimate the mode.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52323?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a)\nMarks(x)\nFrequency (f)\nfx\n10\n1\n10\n20\n1\n20\n30\nx\n30x\n40\n5\n200\n50\ny\n50y\n60\n1\n60\n70\n4\n280\n80\n3\n240\n90\n1\n90\nTotal\n16 + x + y\n900 + 30x + 50y\n\\(\\sum f = 16 + x + y = 30\\)\n\\(\\implies x + y = 14 ... (1)\\)\n\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n\\(52 = \\frac{900 + 30x + 50y}{30}\\)\n\\(1560 = 900 + 30x + 50y \\implies 30x + 50y = 660\\)\n\\(3x + 5y = 66 .... (2)\\)\nSolving equation (1) and (2),\nFrom (1), x = 14 - y\n\\(3(14 - y) + 5y = 42 - 3y + 5y = 66\\)\n\\(2y = 24 \\implies y = 12\\)\n\\(x = 14 - y = 14 - 12 = 2\\)\n(x, y) = (2, 12).\n(b)\nClass interval\nFrequency\nUpper class boundary\n1 - 10\n1\n10.5\n11 - 20\n1\n20.5\n21 - 30\n2\n30.5\n31 - 40\n5\n40.5\n41 - 50\n12\n50.5\n51 - 60\n1\n60.5\n61 - 70\n4\n70.5\n71 - 80\n3\n80.5\n81 - 90\n1\n90.5\n(c)\n(d) From the histogram, Mode = 44.",
+    "explanation": "(a)\nMarks(x)\nFrequency (f)\nfx\n10\n1\n10\n20\n1\n20\n30\nx\n30x\n40\n5\n200\n50\ny\n50y\n60\n1\n60\n70\n4\n280\n80\n3\n240\n90\n1\n90\nTotal\n16 + x + y\n900 + 30x + 50y\n\\(\\sum f = 16 + x + y = 30\\)\n\\(\\implies x + y = 14 ... (1)\\)\n\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n\\(52 = \\frac{900 + 30x + 50y}{30}\\)\n\\(1560 = 900 + 30x + 50y \\implies 30x + 50y = 660\\)\n\\(3x + 5y = 66 .... (2)\\)\nSolving equation (1) and (2),\nFrom (1), x = 14 - y\n\\(3(14 - y) + 5y = 42 - 3y + 5y = 66\\)\n\\(2y = 24 \\implies y = 12\\)\n\\(x = 14 - y = 14 - 12 = 2\\)\n(x, y) = (2, 12).\n(b)\nClass interval\nFrequency\nUpper class boundary\n1 - 10\n1\n10.5\n11 - 20\n1\n20.5\n21 - 30\n2\n30.5\n31 - 40\n5\n40.5\n41 - 50\n12\n50.5\n51 - 60\n1\n60.5\n61 - 70\n4\n70.5\n71 - 80\n3\n80.5\n81 - 90\n1\n90.5\n(c)\n(d) From the histogram, Mode = 44.",
+    "year": "2018"
+  },
+  {
+    "number": "392",
+    "text": "(a) Evaluate without using calculator, (\\(\\frac{1}{4} \\times 9\\frac{1}{7} + \\frac{2}{5} (\\frac{2}{2} + \\frac{3}{4})) \\div (\\frac{2}{5} - \\frac{1}{4})\\)\n(b) A hunter walked 250 m from point P to Q on a bearing 042\\(^o\\). Calculate, correct to the nearest meter the vertical distance he has moved.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56107?exam_type=waec&type=theory&page=79",
+    "correct_answer": "The Chief Examiner reported that in part (a), some Candidates' carried out the requirement of BODMAS correctly tile few couldn't. However, in part (b), most Candidates' could not sketch the diagram correctly and hence failed to earn the marks allocated.\nIn part (a), expressing as improper fraction we have (\\(\\frac{1}{4} \\times 9\\frac{1}{7} + \\frac{2}{5} (\\frac{2}{2} + \\frac{3}{4})) \\div (\\frac{2}{5} - \\frac{1}{4})\\) Next, using BODMAS to get (\\(\\frac{16}{7} + \\frac{2}{5} \\times \\frac{17}{12}) \\div \\frac{17}{12}\\). Simplifying and inverting yields \\(\\frac{1198}{420} \\times \\frac{20}{3} = 19\\frac{1}{63}\\)\nIn part (b), they were expected to sketch\nThen, using trigonometric ratio to have sin 48\\(^o\\) = \\(\\frac{x}{250}\\) or cos 42\\(^o\\) = \\(\\frac{x}{250}\\) and simplifying the vertical distance moved to be 186 m.",
+    "explanation": "The Chief Examiner reported that in part (a), some Candidates' carried out the requirement of BODMAS correctly tile few couldn't. However, in part (b), most Candidates' could not sketch the diagram correctly and hence failed to earn the marks allocated.\nIn part (a), expressing as improper fraction we have (\\(\\frac{1}{4} \\times 9\\frac{1}{7} + \\frac{2}{5} (\\frac{2}{2} + \\frac{3}{4})) \\div (\\frac{2}{5} - \\frac{1}{4})\\) Next, using BODMAS to get (\\(\\frac{16}{7} + \\frac{2}{5} \\times \\frac{17}{12}) \\div \\frac{17}{12}\\). Simplifying and inverting yields \\(\\frac{1198}{420} \\times \\frac{20}{3} = 19\\frac{1}{63}\\)\nIn part (b), they were expected to sketch\nThen, using trigonometric ratio to have sin 48\\(^o\\) = \\(\\frac{x}{250}\\) or cos 42\\(^o\\) = \\(\\frac{x}{250}\\) and simplifying the vertical distance moved to be 186 m.",
+    "year": "2018"
+  },
+  {
+    "number": "393",
+    "text": "Musa is three years older than Manya. Seven years ago, Musa was twice as old as Manya.\n(1) How old are they now?\n(2) When  will the sum of them be 45?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56135?exam_type=waec&type=theory&page=79",
+    "correct_answer": "(a) If Musa's age = x and Manya's age = y, then x = y + 3....\u00a0 (1) and (x \u2014 7) = 2(y\u2014 7) .......(2)\nSolving both equations will yield Musa's age = 13 years and Manya's age = 10 years.\n(b) Let n be the year when the sum of their ages will be 45,\nso that (10 + n) + (13 + n) = 45\nand solving will give n = 11 years.",
+    "explanation": "(a) If Musa's age = x and Manya's age = y, then x = y + 3....\u00a0 (1) and (x \u2014 7) = 2(y\u2014 7) .......(2)\nSolving both equations will yield Musa's age = 13 years and Manya's age = 10 years.\n(b) Let n be the year when the sum of their ages will be 45,\nso that (10 + n) + (13 + n) = 45\nand solving will give n = 11 years.",
+    "year": "2018"
+  },
+  {
+    "number": "394",
+    "text": "The diagram shows an athletics track with two parallel sides and two semi-circular ends Each of the parallel sides is 60 metres, long and the diameter of each semi-circular end is 120 metres long.\n(a) Calculate the distance covered by an athlete who runs round the tack the two times. [Take \\(\\pi\\) = \\(\\frac{22}{7}\\)]\n\n(b) If the athlete spends 200 seconds for the race, calculate the speed in km/h.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56139?exam_type=waec&type=theory&page=79",
+    "correct_answer": "The Chief Examiner reported that quite a handful of the Candidates' got part (a) correctly but couldn't establish the relationship between km/h and m/s.\n(a) The distance covered = (2 x 60) + (2 x \\(\\frac{22}{7}\\)) = 120 + 377.142 = 497.1429m so that if the athlete runs two times will covered = 2 x 497.1429\nm = 994.2857m (at least one decimal place).\n(b) The speed m/s = \\(\\frac{994,2857}{200}\\) and converting to km/h we will have \\(\\frac{994,2857}{1000} \\times \\frac{200}{3600}\\) = 17.8973 km/h",
+    "explanation": "The Chief Examiner reported that quite a handful of the Candidates' got part (a) correctly but couldn't establish the relationship between km/h and m/s.\n(a) The distance covered = (2 x 60) + (2 x \\(\\frac{22}{7}\\)) = 120 + 377.142 = 497.1429m so that if the athlete runs two times will covered = 2 x 497.1429\nm = 994.2857m (at least one decimal place).\n(b) The speed m/s = \\(\\frac{994,2857}{200}\\) and converting to km/h we will have \\(\\frac{994,2857}{1000} \\times \\frac{200}{3600}\\) = 17.8973 km/h",
+    "year": "2018"
+  },
+  {
+    "number": "395",
+    "text": "(a) The diagram, = IWYI = IXZI and < WXY = 80\\(^o\\). What is the size of < XWZ?\n(b) A man was charged 2 kobo per month for every N1.00 he borrowed from a bank. At what rate per annum was the interest charged?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56162?exam_type=waec&type=theory&page=79",
+    "correct_answer": "(a) First joining XZ and WY, we have < XWY = < XZY = \\(\\frac{1}{2}\\)(180\u00b0 \u2014 80\u00b0) = 50\u00b0. This implies that < ZXY = 50\u00b0(base angles of an isosceles triangle). So that < XWZ = 180\u00b0 - 80\u00b0 = 100\u00b0.\n(b) The rate in every N1.00 = \\(\\frac{2}{100}\\) so that the rate of interest charged per annum will be \\(\\frac{2 \\times 12}{100}\\) x 100 which gives 24%.",
+    "explanation": "(a) First joining XZ and WY, we have < XWY = < XZY = \\(\\frac{1}{2}\\)(180\u00b0 \u2014 80\u00b0) = 50\u00b0. This implies that < ZXY = 50\u00b0(base angles of an isosceles triangle). So that < XWZ = 180\u00b0 - 80\u00b0 = 100\u00b0.\n(b) The rate in every N1.00 = \\(\\frac{2}{100}\\) so that the rate of interest charged per annum will be \\(\\frac{2 \\times 12}{100}\\) x 100 which gives 24%.",
+    "year": "2018"
+  },
+  {
+    "number": "396",
+    "text": "The table shows the distribution of sources obtained when a fair diwe was rolled 50 times.\n\n\n\nScore\n1\n2\n3\n4\n5\n6\n\n\nFrequency\n2\n5\n13\n11\n9\n10\n\n\n\n1. Draw a bar chart for the distribution\n2. Calculate the mean score of the distribution",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56175?exam_type=waec&type=theory&page=80",
+    "correct_answer": "(a) The bar chart for the distribution is as shown\n(b) They were able to construct the frequency distribution table as\nScore (x)\n1\n2\n3\n4\n5\n6\nTotal\nFrequency (f)\n2\n5\n13\n11\n9\n10\n50\nfx\n2\n10\n39\n44\n45\n60\n200\nMean = \\(\\frac{200}{50}\\) = 4",
+    "explanation": "(a) The bar chart for the distribution is as shown\n(b) They were able to construct the frequency distribution table as\nScore (x)\n1\n2\n3\n4\n5\n6\nTotal\nFrequency (f)\n2\n5\n13\n11\n9\n10\n50\nfx\n2\n10\n39\n44\n45\n60\n200\nMean = \\(\\frac{200}{50}\\) = 4",
+    "year": "2018"
+  },
+  {
+    "number": "397",
+    "text": "(a) If tan x = \\(\\frac{5}{12}\\), \\(0^o\\). < x < 90\u00b0, evaluate, without using Mathematical tables or calculator, \\(\\frac{sin x}{(sin x)^2 + cosx}\\)\u00a0\n\n(b) The diagram shows a rectangular lawn measuring 14m by 11m. A path of uniform width \\(x\\)m surrounds it. If the total area of the path is 186 m\\(^2\\), how wide is the path?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56195?exam_type=waec&type=theory&page=80",
+    "correct_answer": "(a) By the use of Pythagoras theorem, the hypotenuse side is 13 and also sin x = \\(\\frac{5}{13}\\) and\u00a0cos x = \\(\\frac{12}{13}\\)\u00a0 Substituting and simplifying yields \\(\\frac{65}{161}\\)\n(b)\u00a0we have (11 + 2x)(14 + 2x) -\u00a0(11 x 14) =186.\nExpanding and simplifying to get the quadratic equation 2x\\(^2\\) +\u00a025x -\u00a0\u00a093 = 0.\nSolving the quadratic equation results in x = 3 m as the width of the path.",
+    "explanation": "(a) By the use of Pythagoras theorem, the hypotenuse side is 13 and also sin x = \\(\\frac{5}{13}\\) and\u00a0cos x = \\(\\frac{12}{13}\\)\u00a0 Substituting and simplifying yields \\(\\frac{65}{161}\\)\n(b)\u00a0we have (11 + 2x)(14 + 2x) -\u00a0(11 x 14) =186.\nExpanding and simplifying to get the quadratic equation 2x\\(^2\\) +\u00a025x -\u00a0\u00a093 = 0.\nSolving the quadratic equation results in x = 3 m as the width of the path.",
+    "year": "2018"
+  },
+  {
+    "number": "398",
+    "text": "A shop had two reduction sales during which prices of all items were reduced by 40% in the first sales and 30% in the second.\n\nIf a shirt was sold at GH\u20b535.00 during the second reduction sales, find the price before the first sale.\nIf the price of an article before the first reduction was GH\u20b5180.00, find the total:\nreduction in the price due to the two sales;\npercentage reduction in the price of the article.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56196?exam_type=waec&type=theory&page=80",
+    "correct_answer": "(a) let the original price of the shirt be\nx\n, then we have two percentages reduction leaving 60% and 70%. This implies that \\(\\frac{60}{100} \\times \\frac{70}{100} \\times\u00a0x\\) = 35.\nSolving for\nx\nyields\nx\n= GH\u20b5 83.33.\n(b) (i), the first reduction = (\\(\\frac{40}{100}\\)) x\u00a0180 = 72.00 and the second reduction = (\\(\\frac{30}{100}\\) ) x\u00a0108 = 32.40.\nThen total reduction = (72.00 + 32. 40) = GH\u20b5 104.40.\n(b) (ii), the percentage reduction in the price of the article = (\\(\\frac{104.40}{180} \\times 100\\))\u00a0 = 58%",
+    "explanation": "(a) let the original price of the shirt be\nx\n, then we have two percentages reduction leaving 60% and 70%. This implies that \\(\\frac{60}{100} \\times \\frac{70}{100} \\times\u00a0x\\) = 35.\nSolving for\nx\nyields\nx\n= GH\u20b5 83.33.\n(b) (i), the first reduction = (\\(\\frac{40}{100}\\)) x\u00a0180 = 72.00 and the second reduction = (\\(\\frac{30}{100}\\) ) x\u00a0108 = 32.40.\nThen total reduction = (72.00 + 32. 40) = GH\u20b5 104.40.\n(b) (ii), the percentage reduction in the price of the article = (\\(\\frac{104.40}{180} \\times 100\\))\u00a0 = 58%",
+    "year": "2018"
+  },
+  {
+    "number": "399",
+    "text": "(a) Using ruler a pair of compasses only, construct:\n(i) a trapezium PQRS such that |PQ| = 6.8 cm, < PQR = 120\\(^o\\), QR||PS, |PS| =10.6 cm, and IPRI = 93 cm;\n(ii) locus \\(l_1\\)\u00a0of points equidistant from P and R;\n(iii) locus \\(l_2\\) of points equidistant from Q and R\n\u00a0\n\u00a0(b) Measure: (i) |QR|;\nii. <\u00a0PSR\nii. < PSR\niii. |QY|, where Y is the point of intersection h and h.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56197?exam_type=waec&type=theory&page=80",
+    "correct_answer": "(a) The trapezium PQRS is as shown\n(b)\u00a0|QR| = (3.9 \u00b1 0.1) cm, < PSR = (60 \u00b1 1)\\(^o\\) and |QY| = (5.2 \u00b1 0.1) cm.",
+    "explanation": "(a) The trapezium PQRS is as shown\n(b)\u00a0|QR| = (3.9 \u00b1 0.1) cm, < PSR = (60 \u00b1 1)\\(^o\\) and |QY| = (5.2 \u00b1 0.1) cm.",
+    "year": "2018"
+  },
+  {
+    "number": "400",
+    "text": "1. A donkey is tied with a rope to a post which is 15 m from a fence. If the length of the rope between the donkey and the post is 17m, calculate the length of the fence within the reach of the donkey.\n2. The base of a right pyramid with vertex, V, is a square, PQRS, of side 15 cm. If the slant height is 32 cm long:\n3. represent the information in a diagram;\n4. calculate its:\n5. height, correct to one decimal place;\n6. volume, correct to the nearest \\(cm^3\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56217?exam_type=waec&type=theory&page=80",
+    "correct_answer": "(a) first is to sketch the diagram\nUsing Pythagoras theorem, x\\(^2\\) = 17\\(^2\\) - 15\\(^2\\) = 64 and x = 8 m. Then, multiplying by 2 we have 16m as the length of the fence within the reach of the donkey.\n(b)(i)\nPR = \\(\\sqrt{15^2 + 15^2}\\)\u00a0 = 21.2132 cm and PO = OR = \\(\\frac{21.2132}{2}\\) = 10.61 cm.\nThen height of the pyramid is 32\\(^2\\) = h\\(^2\\) + (10.6066)\\(^2\\) and h yields h = 30.2 cm.\n(b)(ii) Volume = \\(\\frac{1}{3}\\) x 15 x 15 x 30.19106 = 2264 cm\\(^2\\) (correct to the nearest cm\\(^3\\)).",
+    "explanation": "(a) first is to sketch the diagram\nUsing Pythagoras theorem, x\\(^2\\) = 17\\(^2\\) - 15\\(^2\\) = 64 and x = 8 m. Then, multiplying by 2 we have 16m as the length of the fence within the reach of the donkey.\n(b)(i)\nPR = \\(\\sqrt{15^2 + 15^2}\\)\u00a0 = 21.2132 cm and PO = OR = \\(\\frac{21.2132}{2}\\) = 10.61 cm.\nThen height of the pyramid is 32\\(^2\\) = h\\(^2\\) + (10.6066)\\(^2\\) and h yields h = 30.2 cm.\n(b)(ii) Volume = \\(\\frac{1}{3}\\) x 15 x 15 x 30.19106 = 2264 cm\\(^2\\) (correct to the nearest cm\\(^3\\)).",
+    "year": "2018"
+  },
+  {
+    "number": "401",
+    "text": "a) Copy and complete the following table of values for y = 2 cos x \u2013 sin x ,\\(0^o \\leq x \\leq 300^o\\)\n\\[\\begin{array}{c|c} x & 0^o & 30^o & 60^o & 90^o & 120^o & 150^o & 180^o & 210^o & 240^o & 270^o& 300^o \\\\ \\hline Y & 2.00 & & 0.13 &\u00a0 & -1.87 & & -2.00 &\u00a0 & -0.13 & &\u00a0 \\end{array}\\]\n(b) Using scales of 2 cm to 30\\(^o\\) on the x-axis and 2cm to 1 unit on the y-axis, draw the graph of y = 2 cos x \u2013 sin x for \\(0^o \\leq x \\leq 300^o\\)\n(c) Use the graph to find the value(s) of x for which:\n(i) 2 cos x \u2013 sin x = 1;\n(ii) tan x = 2.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56237?exam_type=waec&type=theory&page=81",
+    "correct_answer": "a) Table\n\\[\\begin{array}{c|c} x & 0^o & 30^o & 60^o & 90^o & 120^o & 150^o & 180^o & 210^o & 240^o & 270^o& 300^o \\\\ \\hline Y & 2.00 & 1.23 & 0.13 & -1.00 & -1.87 & -2.23 & -2.00 & -1.23 & -0.13 & 1.00 &1.87\u00a0 \\end{array}\\]\n(b)(i) The value of x for which 2 cos x - sinx = 1\nx = \\((36 \\pm 3)^o\\) or \\((270 \\pm 3)^o\\)\n(ii) The value of x for which tan x = 3\nx = \\((64 \\pm 3)^o\\) or \\((244 \\pm 3)^o\\)",
+    "explanation": "a) Table\n\\[\\begin{array}{c|c} x & 0^o & 30^o & 60^o & 90^o & 120^o & 150^o & 180^o & 210^o & 240^o & 270^o& 300^o \\\\ \\hline Y & 2.00 & 1.23 & 0.13 & -1.00 & -1.87 & -2.23 & -2.00 & -1.23 & -0.13 & 1.00 &1.87\u00a0 \\end{array}\\]\n(b)(i) The value of x for which 2 cos x - sinx = 1\nx = \\((36 \\pm 3)^o\\) or \\((270 \\pm 3)^o\\)\n(ii) The value of x for which tan x = 3\nx = \\((64 \\pm 3)^o\\) or \\((244 \\pm 3)^o\\)",
+    "year": "2018"
+  },
+  {
+    "number": "402",
+    "text": "If log\\(_a\\)(y + 2) = 1 + log\\(_a\\) x, find x in terms of y.\n2. The table shows the distribution of timber production in five communities in a certain year\n\n\n\n\nCommunity\n\n\nTimber Production (tonnes)\n\n\n\n\nBibiani\nAmenfi\nOda\nWiawso\nSankore\n\n\n600\n900\n1800\n1500\n2400\n\n\n\n\n\n1. Draw a pie chart to represent the information.\n2. What percentage of timber produced that year was from Amenfi?\n3. If a tonne of timber is sold at $560.00, how much more revenue would Oda community receive than Bibiani?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56257?exam_type=waec&type=theory&page=81",
+    "correct_answer": "(a) Applying the laws of logarithm, log(y + 2) = log ax which amplies that y + 2 = ax and finding x to get\nx = \\(\\frac{y + 2}{a}\\)\n(b)(i) The pie is shown\n(b)(i) The percentage of timber produced that year that was from Amenfi = \\(\\frac{900}{7200}\\) x 100% = 12.5%\n(ii) Difference in revenue = $560.00(1800 - 600) = $672,000.00",
+    "explanation": "(a) Applying the laws of logarithm, log(y + 2) = log ax which amplies that y + 2 = ax and finding x to get\nx = \\(\\frac{y + 2}{a}\\)\n(b)(i) The pie is shown\n(b)(i) The percentage of timber produced that year that was from Amenfi = \\(\\frac{900}{7200}\\) x 100% = 12.5%\n(ii) Difference in revenue = $560.00(1800 - 600) = $672,000.00",
+    "year": "2018"
+  },
+  {
+    "number": "403",
+    "text": "(a) Mr John paid N4,800.00 in N1.00 ordinary shares of a company which sold at N2.50 per share. If dividend was declared at 25k per share, how much dividend did he get?\n\n(b) Using the method of completing the square, solve \\(\\frac{1 - x}{x} + \\frac{x}{1 - x} = \\frac{5}{2}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56261?exam_type=waec&type=theory&page=81",
+    "correct_answer": "(a) The quantity of shares bought \\(\\frac{8400}{2.5}\\) = 3360 shares. Therefore, the dividend the man received is 3360 X 0.25 = N840.00.\n(b) Clearing fractions and simplifying they got the quadratic equations 9x\\(^2\\) - 9x + 2 = 0. Next, dividing by 9 and adding the square of the coefficient of x to both sides yields (x - \\(\\frac{1}{2}\\))\\(^2\\) = \\(\\frac{1}{4} - \\frac{2}{9}\\).\nThen, taking square root and solving for x\nTo obtain x = \\(\\frac{2}{3}\\) or x = \\(\\frac{1}{3}\\)",
+    "explanation": "(a) The quantity of shares bought \\(\\frac{8400}{2.5}\\) = 3360 shares. Therefore, the dividend the man received is 3360 X 0.25 = N840.00.\n(b) Clearing fractions and simplifying they got the quadratic equations 9x\\(^2\\) - 9x + 2 = 0. Next, dividing by 9 and adding the square of the coefficient of x to both sides yields (x - \\(\\frac{1}{2}\\))\\(^2\\) = \\(\\frac{1}{4} - \\frac{2}{9}\\).\nThen, taking square root and solving for x\nTo obtain x = \\(\\frac{2}{3}\\) or x = \\(\\frac{1}{3}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "404",
+    "text": "The sum of the first ten terms of an Arithmetic Progression (A.P.) is 130. If the fifth term is 3 times the first term, find the:\n\ncommon difference;\nfirst term;\nnumber of terms of the A.P. if the last term is 28.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56266?exam_type=waec&type=theory&page=81",
+    "correct_answer": "(a)\u00a0it was expected that they substitute into the formula for sum of an Arithmetic Progression to have 130 = 1\\(\\frac{1}{2}\\) [2a+(10 - 1)d] and simplifying will yield 2a + 9d = 26 -------(1).\nAlso, U5 = a + (5 \u2013 1)d = 3a and simplifying will yield a = 2d --------------------------------(2)\nSubstituting for a in equation (1) will yield 2(2d) + 9d = 26 and solving for d, d = 2.\n(b), Substituting for d in equation (2) to get the first term:a = 2(2) = 4\n(c) The number of terms required can be obtained by solving 28 = 4 + (n \u2013 1)2 which resulted to n = 13.",
+    "explanation": "(a)\u00a0it was expected that they substitute into the formula for sum of an Arithmetic Progression to have 130 = 1\\(\\frac{1}{2}\\) [2a+(10 - 1)d] and simplifying will yield 2a + 9d = 26 -------(1).\nAlso, U5 = a + (5 \u2013 1)d = 3a and simplifying will yield a = 2d --------------------------------(2)\nSubstituting for a in equation (1) will yield 2(2d) + 9d = 26 and solving for d, d = 2.\n(b), Substituting for d in equation (2) to get the first term:a = 2(2) = 4\n(c) The number of terms required can be obtained by solving 28 = 4 + (n \u2013 1)2 which resulted to n = 13.",
+    "year": "2018"
+  },
+  {
+    "number": "405",
+    "text": "(a) In a right-angled triangle, sin \u2061X = \\(\\frac{3}{5}\\). Evaluate, leaving the answer as a fraction, 5 (cosX)\\(^2\\) \u2013 3.\n(b) The base of a pyramid, 12 cm high, is a rectangle with dimensions 42 cm by 11 cm. if the pyramid is filled with water and emptied into a conical container of equal height and volume, calculate, leaving the answer in surd form (radicals), the base radius of the container. [Take \u03c0=\\(\\frac{22}{7}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56270?exam_type=waec&type=theory&page=81",
+    "correct_answer": "(a) By the use of Pythagoras theorem, the adjacent side of the right \u2013 angled triangle is 4.\nThen, cos\u2061(X = \\(\\frac{4}{5}\\)) and substituting to get 5(cos X)\\(^2\\)\u00a0\u2013 3\n= 5(\\(\\frac{4}{5}\\))\\(^2\\) - 3\n= \\(\\frac{16}{5}\\) - 3\n= \\(\\frac{(16 - 15)}{5}\\) = \\(\\frac{1}{5}\\)\n(b) find Volume of pyramid = \\(\\frac{1}{3}\\) \u00d7 42 \u00d7 11 \u00d7 12 = 1,848 (cm)\\(^2\\)\nVolume of conical container = \\(\\frac{1}{3}\\) \u00d7 \\(\\frac{22}{7}\\) x r\\(^2\\) \u00d7 12 = 1,848\nand simplifying to get r\\(^2\\) = 147 so that r =7\u221a3 cm as required.",
+    "explanation": "(a) By the use of Pythagoras theorem, the adjacent side of the right \u2013 angled triangle is 4.\nThen, cos\u2061(X = \\(\\frac{4}{5}\\)) and substituting to get 5(cos X)\\(^2\\)\u00a0\u2013 3\n= 5(\\(\\frac{4}{5}\\))\\(^2\\) - 3\n= \\(\\frac{16}{5}\\) - 3\n= \\(\\frac{(16 - 15)}{5}\\) = \\(\\frac{1}{5}\\)\n(b) find Volume of pyramid = \\(\\frac{1}{3}\\) \u00d7 42 \u00d7 11 \u00d7 12 = 1,848 (cm)\\(^2\\)\nVolume of conical container = \\(\\frac{1}{3}\\) \u00d7 \\(\\frac{22}{7}\\) x r\\(^2\\) \u00d7 12 = 1,848\nand simplifying to get r\\(^2\\) = 147 so that r =7\u221a3 cm as required.",
+    "year": "2018"
+  },
+  {
+    "number": "406",
+    "text": "(a) The frequency distribution shows the range of prices of a brand of a car sold by a dealer and the corresponding quantity demanded.\u00a0\n\n\n\n\nPrice\n(N1,000,000.00\n\n1.0 - 1.9\n2.0 - 2.9\n3.0 - 3.9\n4.0 - 4.9\n5.0 - 5.9\n\n\nNumber of Vehicles\n23\n48\n107\n90\n32\n\n\n\n\n(b) Represent the information in a histogram and use the histogram to determine the most preferred selling price for the brand of car.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56278?exam_type=waec&type=theory&page=82",
+    "correct_answer": "(a) The expected table with class boundaries was\nPrice\n(N1,000,000.00)\nClass\nBoundaries\nNumber of Vehicles\n1.0 - 1.9\n0.95 - 1.95\n23\n2.0 - 2.9\n1.95 - 2.95\n48\n3.0 - 3.9\n2.95 - 3.95\n107\n4.0 - 4.9\n3.95 - 4.95\n90\n5.0 - 5.9\n4.95 - 5.95\n32\n(b) From the first graph, the most preffered selling price for the brand of car is 2.95 + 0.75 = 3.70\n= N1,000,000 x 3.70 = N3,700,000.00",
+    "explanation": "(a) The expected table with class boundaries was\nPrice\n(N1,000,000.00)\nClass\nBoundaries\nNumber of Vehicles\n1.0 - 1.9\n0.95 - 1.95\n23\n2.0 - 2.9\n1.95 - 2.95\n48\n3.0 - 3.9\n2.95 - 3.95\n107\n4.0 - 4.9\n3.95 - 4.95\n90\n5.0 - 5.9\n4.95 - 5.95\n32\n(b) From the first graph, the most preffered selling price for the brand of car is 2.95 + 0.75 = 3.70\n= N1,000,000 x 3.70 = N3,700,000.00",
+    "year": "2018"
+  },
+  {
+    "number": "407",
+    "text": "In the diagram. PQR is an isosceles triangle. If the perimeter of the triangle is 28 cm, find the:\na. values of x and y;\nb. lengths of the sides of the triangle.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56287?exam_type=waec&type=theory&page=82",
+    "correct_answer": "(a) By summing 2y + x + 6y - 2x + 1 + 4y = 28 and simplified to arrive at 12y - x = 27 ...............(1).\nSimilarly, IPRI = IRQI, which implied that 4y = 6y - 2x + 1. This simplified to 2y - 2x - 1 ...............\u00a0(2)\nSolving equations (1) and (2) simultaneously gave 2y - 2(12y - 27) = -1.\nso that y = 2(\\(\\frac{1}{2}\\)). Then, x = 12(\\(\\frac{5}{2}\\)) - 27 = 30 - 27 = 3\n(b) The lengths of the sides of the triangle were also obtained as |PO| = 2y + x = 2(\\(\\frac{5}{2}\\)) + 3 = 8 cm.\n|QR| = 4y = 4(\\(\\frac{5}{2}\\)) = 10 cm and IPRI = 6y - 2x + 1 = 6(\\(\\frac{5}{2}\\)) - 2(3) + 1 = 10 cm",
+    "explanation": "(a) By summing 2y + x + 6y - 2x + 1 + 4y = 28 and simplified to arrive at 12y - x = 27 ...............(1).\nSimilarly, IPRI = IRQI, which implied that 4y = 6y - 2x + 1. This simplified to 2y - 2x - 1 ...............\u00a0(2)\nSolving equations (1) and (2) simultaneously gave 2y - 2(12y - 27) = -1.\nso that y = 2(\\(\\frac{1}{2}\\)). Then, x = 12(\\(\\frac{5}{2}\\)) - 27 = 30 - 27 = 3\n(b) The lengths of the sides of the triangle were also obtained as |PO| = 2y + x = 2(\\(\\frac{5}{2}\\)) + 3 = 8 cm.\n|QR| = 4y = 4(\\(\\frac{5}{2}\\)) = 10 cm and IPRI = 6y - 2x + 1 = 6(\\(\\frac{5}{2}\\)) - 2(3) + 1 = 10 cm",
+    "year": "2018"
+  },
+  {
+    "number": "408",
+    "text": "a. Find the range of values of x which satisfy the following inequalities simultaneously: 5 - x > 1 and 9 + x \\(\\geq\\) 8\n\nIn the diagram, O\u00a0is the centre of the circle, IPQI = IQRI and < PSR = 56\u00b0. Find < QRS.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56329?exam_type=waec&type=theory&page=82",
+    "correct_answer": "(a) x < 4 or -1 \\(\\geq\\) x. \u00a0The range of values of x is -1\u00a0\\(\\geq\\) x < 4.\n(b) First, < PQR + 56\u00b0= 180\u00b0\nso that < PQR = 180\u00b0- 56\u00b0= 124\u00b0 From triangle PQR,\n< PQR + < QRP+ < QPR = 180\u00b0. But IRQI = IQPI\nso that < QRP = < QPR.\n124\u00b0 + 2 < QRP = 180\u00b0 and < QRP =28\u00b0.\nBut < PRS = 90\u00b0 (angle on a semi-circle), therefore, < QRS = 28\u00b0+ 90\u00b0 = 118\u00b0.",
+    "explanation": "(a) x < 4 or -1 \\(\\geq\\) x. \u00a0The range of values of x is -1\u00a0\\(\\geq\\) x < 4.\n(b) First, < PQR + 56\u00b0= 180\u00b0\nso that < PQR = 180\u00b0- 56\u00b0= 124\u00b0 From triangle PQR,\n< PQR + < QRP+ < QPR = 180\u00b0. But IRQI = IQPI\nso that < QRP = < QPR.\n124\u00b0 + 2 < QRP = 180\u00b0 and < QRP =28\u00b0.\nBut < PRS = 90\u00b0 (angle on a semi-circle), therefore, < QRS = 28\u00b0+ 90\u00b0 = 118\u00b0.",
+    "year": "2018"
+  },
+  {
+    "number": "409",
+    "text": "a. A textbook company discovered that the profit made from selling its books is given by y = \\(\\frac{x^2}{8}\\) + 5x, where x is the number of textbooks sold (in thousands) and y is the corresponding profit (in Ghana Cedis). If the company made a profit of GH\u20b5 20,000.00\ni. form a quadratic equation in x;\nii. (using the quadratic formula, find, correct to the nearest whole number, the number of textbooks sold to make the profit.\nb. The angle of elevation of the top T of a tree from a point P on the same ground level as the foot Q of a tree is 28\\(^o\\). A bird perched at a point R, halfway up the tree.\ni. Represent the information in a diagram.\nii. Calculate, correct to the nearest degree, the angle of elevation of R from P.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56345?exam_type=waec&type=theory&page=82",
+    "correct_answer": "(a) They were expected to obtain 20,000 = \\(\\frac{x^2}{8} + 5x\\) and thereafter multiply through by 8 and simplify to get \\(x ^2\\) + 40x - 16,000. Using the quadratic formula\nx = \\(\\frac {-b \\pm \\sqrt{b^2 - 4ac} }{2a}\\)\nwhere a = 1, b = 40 and c = - 160,000\nx = \\(\\frac{-40 \\pm \\sqrt{(40)^2 - 4(1) (-160000)}} {2(1)}\\)\n= \\(\\frac{-40 \\pm \\sqrt{(40)^2 - 4(1) (-160000)}} {2}\\)\n= \\(\\frac{-40 \\pm \\sqrt{1600 + 640000}}{2}\\)\n= 38.4997 or -420.4997\nThe number of books required to make the profit approximately\u00a0 380,500, correct to the nearest whole number.\n(b) The required diagram is\nFrom triangle PQR, tan x = \\(\\frac{y}{2}\\)W\ny = 2w tan x..........(1)\nAlso, from \\(\\bigtriangleup\\) PTQ,\ntan 28\\(^o\\) = \\(\\frac{y}{w}\\)\ny = w tan 28\\(^o\\).........(2)\nEquating (1) and (2) yielded 2w tan X = w tan 28\\(^o\\)\nso that tanX = \\(\\frac{\\text{w} tan 28^o}{2w}\\) = \\(\\frac{0.5317}{2}\\) which implies that tan X = 0.2659\nX = tan\\(^{-1}\\)(0.2659) = 15.42\\(^o\\).\nThe angle of elevation of R from P = 15\\(^o\\), correct to the nearest degree.",
+    "explanation": "(a) They were expected to obtain 20,000 = \\(\\frac{x^2}{8} + 5x\\) and thereafter multiply through by 8 and simplify to get \\(x ^2\\) + 40x - 16,000. Using the quadratic formula\nx = \\(\\frac {-b \\pm \\sqrt{b^2 - 4ac} }{2a}\\)\nwhere a = 1, b = 40 and c = - 160,000\nx = \\(\\frac{-40 \\pm \\sqrt{(40)^2 - 4(1) (-160000)}} {2(1)}\\)\n= \\(\\frac{-40 \\pm \\sqrt{(40)^2 - 4(1) (-160000)}} {2}\\)\n= \\(\\frac{-40 \\pm \\sqrt{1600 + 640000}}{2}\\)\n= 38.4997 or -420.4997\nThe number of books required to make the profit approximately\u00a0 380,500, correct to the nearest whole number.\n(b) The required diagram is\nFrom triangle PQR, tan x = \\(\\frac{y}{2}\\)W\ny = 2w tan x..........(1)\nAlso, from \\(\\bigtriangleup\\) PTQ,\ntan 28\\(^o\\) = \\(\\frac{y}{w}\\)\ny = w tan 28\\(^o\\).........(2)\nEquating (1) and (2) yielded 2w tan X = w tan 28\\(^o\\)\nso that tanX = \\(\\frac{\\text{w} tan 28^o}{2w}\\) = \\(\\frac{0.5317}{2}\\) which implies that tan X = 0.2659\nX = tan\\(^{-1}\\)(0.2659) = 15.42\\(^o\\).\nThe angle of elevation of R from P = 15\\(^o\\), correct to the nearest degree.",
+    "year": "2018"
+  },
+  {
+    "number": "410",
+    "text": "(a) Evaluate: \\(\\int \\limits_1^2 (2x^3 - 4x + 3) dx\\)\n\n\n\u00a0\n(b) Given that P\\(^{-1}\\) = \\(\\begin{pmatrix} -1 & 1 \\\\ 4 & -3 \\end{pmatrix}\\), find the matrix P.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56361?exam_type=waec&type=theory&page=82",
+    "correct_answer": "(a). They integrated the given function correctly to obtain (\\(\\frac{x^4}{2} - 2x^2 + 6x\\)). Substituting the limits 2 and 1 for x and simplifying yielded 12 - \\(\\frac{9}{2}\\) = 7\\(\\frac{1}{2}\\)\n(b). Find the determinant of which was P(\\(^{-1}\\))\\(^{-1}\\) = |P=\\(^{-1}\\)|\u00a0 (-3 x -1) - (4 x 1) = -1.\nUsing the concept of P(\\(^{-1}\\))\\(^{-1}\\) = P, then, P = -1 \\(\\begin{pmatrix} -3 & -1 \\\\ 4 & -3 \\end{pmatrix}\\) = \\(\\begin{pmatrix} 3 & 1 \\\\ 4 & 1 \\end{pmatrix}\\)",
+    "explanation": "(a). They integrated the given function correctly to obtain (\\(\\frac{x^4}{2} - 2x^2 + 6x\\)). Substituting the limits 2 and 1 for x and simplifying yielded 12 - \\(\\frac{9}{2}\\) = 7\\(\\frac{1}{2}\\)\n(b). Find the determinant of which was P(\\(^{-1}\\))\\(^{-1}\\) = |P=\\(^{-1}\\)|\u00a0 (-3 x -1) - (4 x 1) = -1.\nUsing the concept of P(\\(^{-1}\\))\\(^{-1}\\) = P, then, P = -1 \\(\\begin{pmatrix} -3 & -1 \\\\ 4 & -3 \\end{pmatrix}\\) = \\(\\begin{pmatrix} 3 & 1 \\\\ 4 & 1 \\end{pmatrix}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "411",
+    "text": "(a)\n(i) Copy and complete the addition \\(\\oplus\\) and multiplication\u00a0\\(\\otimes\\) tables in modulo 5 on the set {2, 3, 4}.\n\n\n\n\\(\\oplus\\)\n2\n3\n4\n\n\n2\n\u00a0\n\u00a0\n\u00a0\n\n\n3\n\u00a0\n\u00a0\n\u00a0\n\n\n4\n\u00a0\n\u00a0\n\u00a0\n\n\n\n\u00a0\n\n\n\n\\(\\otimes\\)\n2\n3\n4\n\n\n2\n\u00a0\n\u00a0\n\u00a0\n\n\n3\n\u00a0\n\u00a0\n\u00a0\n\n\n4\n\u00a0\n\u00a0\n\u00a0\n\n\n\n\u00a0\n(ii) Use the tables to:\n(a) solve the equation 4 \\(\\otimes\\)e\\(\\oplus\\) 2 \\(\\equiv\\) 1 (mod 5):\n(b) find the value of n, if 4 \\(\\oplus\\)n\\(\\otimes\\) 2\u00a0\\(\\equiv\\) (mod 5).\n\u00a0\n(b) Consider the following statements:\np: Landi has cholera,\nq: Landi is in the hospital.\nIf p = q, state whether or not the following statements are valid:\n(i) If Landi is in the hospital, then he has cholera.\n(ii) If Landi is not in the hospital, then he does not have cholera.\n(iii) If Landi does not have cholera, then he is not in the hospital.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56402?exam_type=waec&type=theory&page=83",
+    "correct_answer": "(a). Completing the table as follows\n\\(\\oplus\\)\n2\n3\n4\n2\n4\n0\n1\n3\n0\n1\n2\n4\n1\n2\n3\n\\(\\otimes\\)\n2\n3\n4\n2\n4\n1\n3\n3\n1\n4\n2\n4\n3\n2\n1\n(a) (ii) (a), they obtained the value of e as 1.\n(a) (ii) (b), the value of n was 2.\n(b), they couldn't answer this question correctly. If p = q, then:\n(i) q \\(\\Rightarrow\\) p, this is invalid\n(ii) \\(sin\\) q \\(\\Rightarrow\\) \\(sin\\) p, this is valid\n(iii) \\(sin\\) p \\(\\Rightarrow\\) \\(sin\\) q, this is invalid",
+    "explanation": "(a). Completing the table as follows\n\\(\\oplus\\)\n2\n3\n4\n2\n4\n0\n1\n3\n0\n1\n2\n4\n1\n2\n3\n\\(\\otimes\\)\n2\n3\n4\n2\n4\n1\n3\n3\n1\n4\n2\n4\n3\n2\n1\n(a) (ii) (a), they obtained the value of e as 1.\n(a) (ii) (b), the value of n was 2.\n(b), they couldn't answer this question correctly. If p = q, then:\n(i) q \\(\\Rightarrow\\) p, this is invalid\n(ii) \\(sin\\) q \\(\\Rightarrow\\) \\(sin\\) p, this is valid\n(iii) \\(sin\\) p \\(\\Rightarrow\\) \\(sin\\) q, this is invalid",
+    "year": "2018"
+  },
+  {
+    "number": "412",
+    "text": "Using ruler and a pair of compasses only, construct:\n(a) (i) quadrilateral PQRS with |PQ| = 6 cm, |PS| = 8 cm, < PSR = 90\\(^o\\), |SR| = 12 cm and |QR| = 11 cm;\n(ii) perpendicular from Q to cut \\(\\over{SR}\\) at K.\n\u00a0\n(b) Measure:\n(i) IQRI;\n(ii) < QRS.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56403?exam_type=waec&type=theory&page=83",
+    "correct_answer": "(a) The following solution was expected from the candidates\n(b) (i) |QK| = 9.3cm\n(ii) < QRS = 55\\(^o\\)",
+    "explanation": "(a) The following solution was expected from the candidates\n(b) (i) |QK| = 9.3cm\n(ii) < QRS = 55\\(^o\\)",
+    "year": "2018"
+  },
+  {
+    "number": "413",
+    "text": "The table shows the distribution of marks scored by students in a test.\n\n\n\n\nMark\n(%)\n\n10 - 19\n20 - 29\n30 - 39\n40 - 49\n50 - 59\n60 - 69\n70 - 79\n80 - 89\n90 - 99\n\n\nFrequency\n4\n7\n12\n18\n20\n14\n9\n4\n2\n\n\n\n\n(a) Construct a cumulative frequency table for the distribution.\n\u00a0\n(b) Draw a cumulative frequency curve for the distribution.\n\u00a0\n(c) Use the curve to estimate the:\n(i) median;\n(ii) probability that a student selected at random obtained distinction, if the lowest mark for distinction is 75%.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56404?exam_type=waec&type=theory&page=83",
+    "correct_answer": "(a)\nMarks\nClass\nBoundaries\nFrequency\nCumulative\nFrequency\n10 - 19\n9.5 - 19.5\n4\n4\n20 - 29\n19.5 - 29.5\n7\n11\n30 - 39\n29.5 - 39.5\n12\n23\n40 - 49\n39.5 - 49.5\n18\n41\n50 - 59\n49.5 - 59.5\n20\n61\n60 - 69\n59.5 - 69.5\n14\n75\n70 - 79\n69.5 - 79.5\n9\n84\n80 - 89\n79.5 - 89.5\n4\n88\n90 - 99\n89.5 - 99.5\n2\n90\n(b) The cumulative frequency curve\n(c)(i) using the curve, the median was 51.5.\n(ii) Using the curve, the estimate of tbe number of students who scored at least 75% was 90 - 80 = 10\nTherefore, Prob(that a student selected at random obtained distinction) = \\(\\frac{10}{90} = \\frac{1}{9}\\)",
+    "explanation": "(a)\nMarks\nClass\nBoundaries\nFrequency\nCumulative\nFrequency\n10 - 19\n9.5 - 19.5\n4\n4\n20 - 29\n19.5 - 29.5\n7\n11\n30 - 39\n29.5 - 39.5\n12\n23\n40 - 49\n39.5 - 49.5\n18\n41\n50 - 59\n49.5 - 59.5\n20\n61\n60 - 69\n59.5 - 69.5\n14\n75\n70 - 79\n69.5 - 79.5\n9\n84\n80 - 89\n79.5 - 89.5\n4\n88\n90 - 99\n89.5 - 99.5\n2\n90\n(b) The cumulative frequency curve\n(c)(i) using the curve, the median was 51.5.\n(ii) Using the curve, the estimate of tbe number of students who scored at least 75% was 90 - 80 = 10\nTherefore, Prob(that a student selected at random obtained distinction) = \\(\\frac{10}{90} = \\frac{1}{9}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "414",
+    "text": "A container, in the form of a cone resting on its vertex, is full when 4.158 litres of water is poured into it.\n(a) If the radius of its base is 21 cm,\n(i) represent the information in a diagram;\n(ii) calculate the height of the container.\n\u00a0\n(b) A certain amount of water is drawn out of the container such that the surface diameter of the water drops to 28 cm. Calculate the volume of the water drawn out. (Take \\(\\pi\\) = \\(\\frac{22}{7}\\))",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56405?exam_type=waec&type=theory&page=83",
+    "correct_answer": "(a) (i) The diagram can be represented as:\n(ii) first they were expected to convert from litres to cm\\(^3 \\) by using the fact that 1000 cm\\(^3\\) = 1 litre, then 4.158 litres = 4158 cm\\(^3\\).\nIf the volume and height of the container were V\\(_1\\) and h\\(_1\\) respectively, then, V\\(_1\\) = \\(\\frac{1}{3}\\) x \\(\\frac{22}{7}\\) x 21 x 21 x h\\(_1\\) = 4,158 which simplified to 462h\\(_1\\) = 4,158. Therefore, h\\(_1\\) = 9cm.\n(b) let h\\(_2\\) be the height of the water remaining in the container.\nThen by similar triangles, \\(\\frac{h_2}{9}\\) = \\(\\frac{14}{21}\\), h\\(_2\\) = 6 cm.\nIf we let V\\(_2\\) be the volume of water remaining in the container, V\\(_2\\) = \\(\\frac{1}{3} \\times \\frac{22}{7}\\) x 14 x 14 x 6 = 1,232 cm\\(^2\\).\nVolume of water drawn out = (4,158 \u2014 1,232) cm\\(^3\\) = 2,926 cm\\(^3\\)",
+    "explanation": "(a) (i) The diagram can be represented as:\n(ii) first they were expected to convert from litres to cm\\(^3 \\) by using the fact that 1000 cm\\(^3\\) = 1 litre, then 4.158 litres = 4158 cm\\(^3\\).\nIf the volume and height of the container were V\\(_1\\) and h\\(_1\\) respectively, then, V\\(_1\\) = \\(\\frac{1}{3}\\) x \\(\\frac{22}{7}\\) x 21 x 21 x h\\(_1\\) = 4,158 which simplified to 462h\\(_1\\) = 4,158. Therefore, h\\(_1\\) = 9cm.\n(b) let h\\(_2\\) be the height of the water remaining in the container.\nThen by similar triangles, \\(\\frac{h_2}{9}\\) = \\(\\frac{14}{21}\\), h\\(_2\\) = 6 cm.\nIf we let V\\(_2\\) be the volume of water remaining in the container, V\\(_2\\) = \\(\\frac{1}{3} \\times \\frac{22}{7}\\) x 14 x 14 x 6 = 1,232 cm\\(^2\\).\nVolume of water drawn out = (4,158 \u2014 1,232) cm\\(^3\\) = 2,926 cm\\(^3\\)",
+    "year": "2018"
+  },
+  {
+    "number": "415",
+    "text": "A man starts from a point X and walk 285 m to Y on a bearing of 078\\(^o\\). He then walks due South to a point Z which is 307 m from X.\n(a) Illustrate the information on a diagram.\n(b) Find, correct to the nearest whole number, the:\n(i) bearing of X from Z;\n(ii) distance between Y and Z.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56410?exam_type=waec&type=theory&page=83",
+    "correct_answer": "(a) They sketched the required diagram as follows:\n(b) (i), using sine rule \\(\\frac{285}{\\sin z} = \\frac{307}{\\sin 307}\\)\nThen sin z \\(\\frac{285 \\times \\sin 78^o}{307} = \\frac{285 \\times 0.9781}{307}\\) = 0.9080\nZ = \\(\\sin^{-1}(0.9080)\\) = 65.23\\(^o\\)\nThe bearing of X from Z = 360\\(^o\\)\u00a0 - 65.23\\(^o\\) = 294.77\\(^o\\) \\(\\approx\\) 295\\(^o\\) or N65\\(^o\\)W correct to the nearest whole number.\n(b)(ii) They obtained < YXZ = 180\\(^o\\) - 143.23\\(^o\\) = 36.77\\(^o\\)\nThen, using sine rule, \\(\\frac{\\text{|YZ|}}{\\sin 36.77^o} = \\frac{307}{\\sin 78^o}\\) and computing for |YZ|,\n|YZ| = \\(\\frac{307 \\times 0.5986}{0.9781}\\) = 187.88m\nand Therefore, the distance between Y and Z \\(\\approx\\) 188 m correct to the nearest whole number",
+    "explanation": "(a) They sketched the required diagram as follows:\n(b) (i), using sine rule \\(\\frac{285}{\\sin z} = \\frac{307}{\\sin 307}\\)\nThen sin z \\(\\frac{285 \\times \\sin 78^o}{307} = \\frac{285 \\times 0.9781}{307}\\) = 0.9080\nZ = \\(\\sin^{-1}(0.9080)\\) = 65.23\\(^o\\)\nThe bearing of X from Z = 360\\(^o\\)\u00a0 - 65.23\\(^o\\) = 294.77\\(^o\\) \\(\\approx\\) 295\\(^o\\) or N65\\(^o\\)W correct to the nearest whole number.\n(b)(ii) They obtained < YXZ = 180\\(^o\\) - 143.23\\(^o\\) = 36.77\\(^o\\)\nThen, using sine rule, \\(\\frac{\\text{|YZ|}}{\\sin 36.77^o} = \\frac{307}{\\sin 78^o}\\) and computing for |YZ|,\n|YZ| = \\(\\frac{307 \\times 0.5986}{0.9781}\\) = 187.88m\nand Therefore, the distance between Y and Z \\(\\approx\\) 188 m correct to the nearest whole number",
+    "year": "2018"
+  },
+  {
+    "number": "416",
+    "text": "(a) Using a scale of 2cm to 2units on both axes, draw on a sheet of graph paper two perpendicular axes 0x and 0y for - 10 \\(\\leq\\) x\u00a0\\(\\leq\\) 10\u00a0 and -10 \\(\\leq\\) y \\(\\leq\\)10\n\u00a0\n(b) Given the points P(3, 2). Q(-1. 5). R(0. 8) and S(3, 7). draw on the same graph, indicating clearly the vertices and their coordinates, the:\n(i) quadrilateral PQRS;\n(ii) image P\\(_1\\)Q\\(_1\\)R\\(_1\\)S\\(_1\\) of PQRS under an anticlockwise rotation of 90\\(^o\\) about the origin where P \\(\\to\\) P\\(_1\\), Q\u00a0\\(\\to\\) Q\\(_{1}\\), R\u00a0\\(\\to\\) R\\(_{1}\\) and S\u00a0\\(\\to\\) S\\(_{1}\\)\n(iii) image P\\(_2\\)Q\\(_2\\)R\\(_2\\)S\\(_2\\) of P\\(_1\\)Q\\(_1\\)R\\(_1\\)S\\(_1\\) under a reflection in the line y - x = 0 where P\\(_1\\) \\(\\to\\) P\\(_2\\), Q\\(_1\\) \\(\\to\\) Q\\(_{2}\\), R\\(_1\\) \\(\\to\\) R\\(_{2}\\) and S\\(_1\\) \\(\\to\\) S\\(_{2}\\)\n\u00a0\n(c) Describe precisely the single transformation T for which T : PQRS \\(\\to\\)\u00a0 P\\(_2\\)Q\\(_2\\)R\\(_2\\)S\\(_2\\)\n(d) The side P\\(_1\\)Q\\(_1\\) of the quadrilateral P\\(_1\\)Q\\(_1\\)R\\(_1\\)S\\(_1\\) cuts the x-axis at the point W. What type of quadrilateral is P\\(_1\\)S\\(_1\\)R\\(_1\\)W?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56419?exam_type=waec&type=theory&page=84",
+    "correct_answer": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please\nclick here",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please\nclick here",
     "year": "2018"
   }
 ]

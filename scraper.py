@@ -30,9 +30,17 @@ async def get_answer_and_explanation(session, answer_url, semaphore):
                 explanation = None
                 explanation_h5 = soup.find('h5', string=lambda t: t and 'Explanation' in t)
                 if explanation_h5:
-                    explanation_text = explanation_h5.next_sibling
-                    if explanation_text:
-                        explanation = str(explanation_text).strip()
+                    explanation_div = explanation_h5.parent
+                    # The explanation is in the same div as the h5, so we get the div's text and remove the title.
+                    explanation_text = explanation_div.get_text(separator='\n', strip=True)
+                    if explanation_text.startswith('Explanation'):
+                        explanation = explanation_text[len('Explanation'):].strip()
+                    else:
+                        explanation = explanation_text
+
+                # For theory questions, the answer is the explanation.
+                if 'type=theory' in answer_url and explanation:
+                    correct_answer = explanation
 
                 year = None
                 breadcrumb_items = soup.find_all('li', class_='breadcrumb-item')
