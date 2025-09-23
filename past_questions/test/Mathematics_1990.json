@@ -1,0 +1,645 @@
+[
+  {
+    "number": "100",
+    "text": "Simplify 125\\(^{\\frac{-1}{3}}\\) x\u00a049\\(^{\\frac{-1}{2}}\\) x 10\\(^0\\)",
+    "options": {
+      "A": "350",
+      "B": "35",
+      "C": "1/35",
+      "D": "1/350"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "101",
+    "text": "If 3\\(^{2x}\\) = 27, what is x?",
+    "options": {
+      "A": "1",
+      "B": "1.5",
+      "C": "4.5",
+      "D": "18",
+      "E": "40.5"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "102",
+    "text": "Express 0.00562 in standard form",
+    "options": {
+      "A": "5.62 x 10-3",
+      "B": "5.62 x 10-2",
+      "C": "562 x 10-2",
+      "D": "5.62 x 102",
+      "E": "5.62 x 103"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "103",
+    "text": "Given that 1/3log10 P = 1, find the value of P",
+    "options": {
+      "A": "1/10",
+      "B": "3",
+      "C": "10",
+      "D": "100",
+      "E": "1000"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "104",
+    "text": "Simplify \\(\\frac{\\log \\sqrt{8}}{\\log 8}\\)",
+    "options": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "1/3log\u221a2",
+      "D": "1/3log\u221a8",
+      "E": "1/2log\u221a2"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "105",
+    "text": "Evaluate using the logarithm table, log(0.65)2",
+    "options": {
+      "A": "1.6258",
+      "B": "0.6272",
+      "C": "0.6258",
+      "D": "\\(\\overline{1}\\).6258",
+      "E": "1.6272"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "106",
+    "text": "If log x = \\(\\bar{2}.3675\\) and log y = 0.9750, what is the value of x + y? Correct to three significant figures",
+    "options": {
+      "A": "1.18",
+      "B": "1.31",
+      "C": "9.03",
+      "D": "9.44",
+      "E": "9.46"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "107",
+    "text": "While doing his physics practical, Idowu recorded a reading as 1.12cm instead of 1.21cm. Calculate his percentage error",
+    "options": {
+      "A": "1.17%",
+      "B": "6.38%",
+      "C": "7.44%",
+      "D": "8.035%",
+      "E": "9.00%"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "108",
+    "text": "Find the 4th term of an A.P, whose first term is 2 and the common difference is 0.5",
+    "options": {
+      "A": "0.5",
+      "B": "2.5",
+      "C": "3.5",
+      "D": "4",
+      "E": "4.5"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "109",
+    "text": "From the graph determine the roots of the equation y = 2x\\(^2\\) + x - 6",
+    "options": {
+      "A": "-3, 4",
+      "B": "-2, -6",
+      "C": "-2, 1.5",
+      "D": "-1, 1",
+      "E": "2, 1.5"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "110",
+    "text": "Find the values of x for which y = 5",
+    "options": {
+      "A": "-2.5, 2.0",
+      "B": "-2.6, 2.1",
+      "C": "-2.0, 1.5",
+      "D": "-2.0, 2.0",
+      "E": "0, 0"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "111",
+    "text": "An arc of length 22cm subtends an angle of \u03b8 at the center of the circle. What is the value of \u03b8 if the radius of the circle is 15cm?[Take \u03c0 = 22/7]",
+    "options": {
+      "A": "70o",
+      "B": "84o",
+      "C": "96o",
+      "D": "156o",
+      "E": "168o"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "112",
+    "text": "Find the sum of the first five terms of the G.P 2,6, 18 ....",
+    "options": {
+      "A": "484",
+      "B": "243",
+      "C": "242",
+      "D": "130",
+      "E": "121"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "113",
+    "text": "Let J be the set of positive integers, If H = {x: x\u2208J, x\\(^2\\) < 3 and x \u2260 0}, then",
+    "options": {
+      "A": "H = {1}",
+      "B": "H is an infinite set",
+      "C": "H = {0, 1, 2}",
+      "D": "H = {}",
+      "E": "J \u2264 H"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "114",
+    "text": "In a class of 80 students, every students had to study economics or geography, or both economics and geography, if 65 students studied economics and 50 studied geography, how many studied both subjects?",
+    "options": {
+      "A": "15",
+      "B": "30",
+      "C": "35",
+      "D": "45",
+      "E": "50"
+    },
+    "correct_answer": "C",
+    "explanation": "\u2229(E\u2229G) = \u2229(E) + \u2229(G) - \u2229(E\u2229G)",
+    "year": "1990"
+  },
+  {
+    "number": "115",
+    "text": "The area shaded with horizontal lines is the solution set of the inequalities;",
+    "options": {
+      "A": "y \u2265 x, y + 3 \u2265 2x, x \u2264 3",
+      "B": "y \u2264 x, y + 2x \u2265 -3, x \u2264 3",
+      "C": "y \u2264 -x, y + 2x \u2264 3, x \u2265 -3",
+      "D": "y \u2265 -x, y + 3 \u2264 2x, x \u2265 -3",
+      "E": "y \u2264 x, y \u2264 2x - 3, x \u2265 3"
+    },
+    "correct_answer": "B",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "1990"
+  },
+  {
+    "number": "116",
+    "text": "the area shaded with vertical lines is the solution set of the inequalities;",
+    "options": {
+      "A": "y \u2264 x, y + 2x \u2264 -3",
+      "B": "y \u2265 x, y + 2x \u2265 - 3",
+      "C": "y \u2264 x, y \u2264 2x - 3, x \u2264 3",
+      "D": "y \u2264 -x, y \u2264 2x - 3, x \u2264 3",
+      "E": "y \u2265 x, y + 2x \u2265 3, x \u2264 3"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "117",
+    "text": "In the diagram above, O is the center of the circle with radius 10cm, and \u2220ABC = 30\u00b0. Calculate, correct to 1 decimal place, the length of arc AC [Take \u03c0 = 22/7]",
+    "options": {
+      "A": "5.2cm",
+      "B": "10.5cm",
+      "C": "13.2cm",
+      "D": "20.6cm",
+      "E": "31.4cm"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "118",
+    "text": "Factorize x\\(^2\\) + 4x - 192",
+    "options": {
+      "A": "(x-4) (x+48)",
+      "B": "(x-48) (x+4)",
+      "C": "(x-12) (x+16)",
+      "D": "(x-12) (x-16)",
+      "E": "(x+12) (x+16)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "119",
+    "text": "Factorize 2e\\(^2\\) - 3e + 1",
+    "options": {
+      "A": "(2e-1) (e-1)",
+      "B": "(e+1) (2e+1)",
+      "C": "(2e+3) (e+2)",
+      "D": "(2e-3) (e-1)",
+      "E": "(e2-3(2e-1)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "120",
+    "text": "Solve the equation 7y\\(^2\\) = 3y",
+    "options": {
+      "A": "y = 3 or 7",
+      "B": "y = 0 or 7",
+      "C": "y = 0 or 3/7",
+      "D": "y = 0 or 9",
+      "E": "y = 0 or 10"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "121",
+    "text": "Find the value of m which makes x\\(^2\\) + 8 + m a perfect square",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "12",
+      "E": "16"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "122",
+    "text": "Solve the equation 2a\\(^2\\) - 3a - 27 = 0",
+    "options": {
+      "A": "3/2, 9",
+      "B": "-2/3, 9",
+      "C": "3, 9/2",
+      "D": "-3, -9/2",
+      "E": "-3, 9/2"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "123",
+    "text": "A sector of a circle of radius 7cm has an area of 44cm2. Calculate the angle of the sector correct to the nearest degree  [Take \u03c0 = 22/7]",
+    "options": {
+      "A": "6o",
+      "B": "26o",
+      "C": "52o",
+      "D": "103o",
+      "E": "206o"
+    },
+    "correct_answer": "D",
+    "explanation": "\u03c0r",
+    "year": "1990"
+  },
+  {
+    "number": "124",
+    "text": "calculate the surface area of a sphere of radius 7cm [Take \u03c0 = 22/7]",
+    "options": {
+      "A": "86cm2",
+      "B": "154cm2",
+      "C": "616cm2",
+      "D": "1434cm2",
+      "E": "4312cm2"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "125",
+    "text": "If the radius of the parallel of latitude 30\u00b0N is equal to the radius of the parallel of latitude \u03b8\u00b0S, what is the value of \u03b8?",
+    "options": {
+      "A": "75o",
+      "B": "60o",
+      "C": "45o",
+      "D": "30o",
+      "E": "0o"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "126",
+    "text": "A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take \u03c0 = 22/7]\r\nFind the total surface area of the container",
+    "options": {
+      "A": "35cm2",
+      "B": "154cm2",
+      "C": "220cm2",
+      "D": "528cm2",
+      "E": "770cm2"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "127",
+    "text": "A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take \u03c0 = 22/7]. What is the volume of the container?",
+    "options": {
+      "A": "35cm3",
+      "B": "154cm3",
+      "C": "220cm3",
+      "D": "528cm3",
+      "E": "770cm3"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "128",
+    "text": "In the diagram above, |PQ| = |PR| = |RS| and \u2220RPS = 32\u00b0. Find the value of \u2220QPR",
+    "options": {
+      "A": "72o",
+      "B": "64o",
+      "C": "52o",
+      "D": "32o",
+      "E": "26o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "129",
+    "text": "In the diagram above, WXYZ is a rhombus and \u2220WYX = 20\u00b0. What is the value of \u2220XZY",
+    "options": {
+      "A": "20o",
+      "B": "30o",
+      "C": "45o",
+      "D": "60o",
+      "E": "70o"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "130",
+    "text": "In the diagram above PS||RQ, |RQ| = 6.4cm and perpendicular PH = 3.2cm. Find the area of SQR",
+    "options": {
+      "A": "5.12cm2",
+      "B": "9.60cm2",
+      "C": "10.24cm2",
+      "D": "20.48cm2",
+      "E": "40.96cm2"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "131",
+    "text": "Which angle is equal to \u2220VWZ?",
+    "options": {
+      "A": "\u2220VXZ",
+      "B": "\u2220VYX",
+      "C": "\u2220XZW",
+      "D": "\u2220YXZ",
+      "E": "\u2220VYW"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "132",
+    "text": "Which triangle is equal in area to \u0394VWZ",
+    "options": {
+      "A": "\u0394VXZ",
+      "B": "\u0394VYZ",
+      "C": "\u0394XYV",
+      "D": "\u0394WYV",
+      "E": "\u0394WYZ"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "133",
+    "text": "In the diagram above, PQRS s a cyclic quadrilateral, \u2220PSR = 86o and \u2220QPR = 38o. Calculate PRQ",
+    "options": {
+      "A": "58o",
+      "B": "53o",
+      "C": "48o",
+      "D": "43o",
+      "E": "38o"
+    },
+    "correct_answer": "C",
+    "explanation": "PQR = 180",
+    "year": "1990"
+  },
+  {
+    "number": "134",
+    "text": "In the diagram below, O is the center of the circle if \u2220QOR = 290o, find the size \u2220QPR",
+    "options": {
+      "A": "110o",
+      "B": "70o",
+      "C": "55o",
+      "D": "35o",
+      "E": "20o"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "135",
+    "text": "In the diagram above, PQ is a tangent at T to the circle ABT. ABC is a straight line and TC bisects \u2220BTO. Find x.",
+    "options": {
+      "A": "20o",
+      "B": "30o",
+      "C": "35o",
+      "D": "40o",
+      "E": "50o"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "136",
+    "text": "Which of the sketches above gives a correct method for constructed an angle of 120o at the point P?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "I, II and III"
+    },
+    "correct_answer": "D",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "1990"
+  },
+  {
+    "number": "137",
+    "text": "Use mathematical table to evaluate (cos40\u00b0 - sin30\u00b0)",
+    "options": {
+      "A": "-0.2660",
+      "B": "-0.0266",
+      "C": "0.0266",
+      "D": "0.2660",
+      "E": "1.5320"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "138",
+    "text": "If the shadow of a pole 7m high is 1/2 its length what is the angle of elevation of the sun, correct to the nearest degree?",
+    "options": {
+      "A": "90o",
+      "B": "63o",
+      "C": "60o",
+      "D": "26o",
+      "E": "0o"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "139",
+    "text": "From the top of a building 10m high, the angle of depression of a stone lying on the horizontal ground is 69o. Calculate ,correct to one decimal place, the distance of the stone from the foot of the building",
+    "options": {
+      "A": "3.6m",
+      "B": "3.8m",
+      "C": "6.0m",
+      "D": "9.3m",
+      "E": "26.1m"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "140",
+    "text": "The bearing of a point X\u00a0from a point Y\u00a0is 074\u00b0. What is the bearing of Y\u00a0from X?",
+    "options": {
+      "A": "106o",
+      "B": "146o",
+      "C": "164o",
+      "D": "254o",
+      "E": "286o"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "141",
+    "text": "The annual salary of Mr. Johnson Mohammed for 1989 was N12,000.00. He spent this on agriculture projects, education of his children, food items, saving , maintenance and miscellaneous items as shown in the pie chart\nHow much money did he invest in agriculture?",
+    "options": {
+      "A": "N1,200.00",
+      "B": "N1,440.00",
+      "C": "N2,000.00",
+      "D": "N2,910.00",
+      "E": "N4,000.00"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "142",
+    "text": "The table shows that the amount of money (in naira)collected through voluntary donations in a secondary school. What is the mode?",
+    "options": {
+      "A": "N3",
+      "B": "N6",
+      "C": "N9",
+      "D": "N12",
+      "E": "N15"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "143",
+    "text": "The table shows that the amount of money (in naira)collected through voluntary donations in a secondary school.What is the median of distribution",
+    "options": {
+      "A": "N3.00",
+      "B": "N9.00",
+      "C": "N12.00",
+      "D": "N15.00",
+      "E": "N18.00"
+    },
+    "correct_answer": "C",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "1990"
+  },
+  {
+    "number": "144",
+    "text": "Two groups of male students cast their votes on a particular proposal. The result are as follows:\n\n\n\n\u00a0\nIn favor\nAgainst\n\n\nGroup A\n128\n32\n\n\nGroup B\n96\n48\n\n\n\nIf a student in favor of the proposal is selected for a post, what is the probability that he is from group A?",
+    "options": {
+      "A": "8/19",
+      "B": "16/35",
+      "C": "10/19",
+      "D": "4/7",
+      "E": "4/5"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1990"
+  },
+  {
+    "number": "145",
+    "text": "Two groups of male students cast their vote on a particular proposal. The results are as follows:\n\n\n\n\u00a0\nIn favor\nAgainst\n\n\nGroup A\n128\n32\n\n\nGroup B\n96\n48\n\n\n\nIf a student is chosen at random, what is probability that he is against the proposal?",
+    "options": {
+      "A": "3/19",
+      "B": "4/19",
+      "C": "5/19",
+      "D": "9/19",
+      "E": "10/19"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1990"
+  }
+]

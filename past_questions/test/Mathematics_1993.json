@@ -1,0 +1,380 @@
+[
+  {
+    "number": "244",
+    "text": "S = {1, 2, 3, 4, 5, 6}, T = {2,4,5,7}\u00a0and R = {1,4, 5}, and (S\u2229T) \u222a R",
+    "options": {
+      "A": "{1, 4, 5}",
+      "B": "{2, 4, 5}",
+      "C": "{1, 2, 4, 5}",
+      "D": "{2, 3, 4, 5}",
+      "E": "{1, 2, 3, 4, 5}"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "245",
+    "text": "Simplify:\u00a0\\(\\frac{3}{4} \\div 1\\frac{1}{4} \\times (1\\frac{1}{2} - \\frac{2}{3})\\)",
+    "options": {
+      "A": "7/30",
+      "B": "7/24",
+      "C": "9/25",
+      "D": "1/2",
+      "E": "18/25"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "246",
+    "text": "Solve the inequality: 3m + 3 > 9",
+    "options": {
+      "A": "m > 2",
+      "B": "m > 3",
+      "C": "m>4",
+      "D": "m>6",
+      "E": "m>12"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "247",
+    "text": "Convert 89\\(_{10}\\)\u00a0to a number in base two.",
+    "options": {
+      "A": "1101001",
+      "B": "1011001",
+      "C": "1001101",
+      "D": "101101",
+      "E": "11001"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "248",
+    "text": "A stick of length 1.75m was measured by a boy as 1.80m. Find the percentage error in his measurement",
+    "options": {
+      "A": "27/9%",
+      "B": "26/7%",
+      "C": "5%",
+      "D": "277/9%",
+      "E": "284/7%."
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "249",
+    "text": "The nth term of a sequence is given by (-1)\\(^{n-2}\\) x 2\\(^{n-1}\\). Find the sum of the second and third terms.",
+    "options": {
+      "A": "-2",
+      "B": "1",
+      "C": "2",
+      "D": "6",
+      "E": "12"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "250",
+    "text": "Simplify: \\(\\frac{4^{-\\frac{1}{2}} \\times 16^{\\frac{3}{4}}}{4^{\\frac{1}{2}}}\\)",
+    "options": {
+      "A": "1/4",
+      "B": "0",
+      "C": "1",
+      "D": "2",
+      "E": "4"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "251",
+    "text": "Simplify: \\(\\frac{\\log \\sqrt{27}}{\\log {81}}\\)",
+    "options": {
+      "A": "1/6",
+      "B": "3/8",
+      "C": "1/2",
+      "D": "3/4",
+      "E": "6"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "252",
+    "text": "Factorize the expression 2s\\(^2\\) - 3st - 2t\\(^2\\).",
+    "options": {
+      "A": "(2s - t)(s + 2t)",
+      "B": "(2s + t)(s - 2t)",
+      "C": "(s + t)(2s - 1)",
+      "D": "(2s + t)(s -t)",
+      "E": "(2s + t)(s + 2t)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "253",
+    "text": "Solve the equation x\\(^2\\) - 2x - 3 = 0",
+    "options": {
+      "A": "(-3, 1)",
+      "B": "(-1, -3)",
+      "C": "(3,1)",
+      "D": "(43, 0)",
+      "E": "(-1, 3)."
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "254",
+    "text": "Write as a single fraction: \\(\\frac{5}{6r} - \\frac{3}{4r}\\)",
+    "options": {
+      "A": "r/12",
+      "B": "12/r",
+      "C": "1/6r",
+      "D": "r/6",
+      "E": "1/12r"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "255",
+    "text": "Factorize 2x\\(^2\\) - 21x + 45",
+    "options": {
+      "A": "(2x - 9)(x - 5)",
+      "B": "(2x-15)(x + 3)",
+      "C": "(2x +15)(x - 3)",
+      "D": "(2x -15(x - 3)",
+      "E": "(2x - 9)(x + 5)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "256",
+    "text": "Solve the simultaneous equations y = 3x; 4y - 5x =14",
+    "options": {
+      "A": ".-2,-6",
+      "B": "2,6",
+      "C": "2,-6",
+      "D": "-2,6",
+      "E": "-1,-3"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "257",
+    "text": "A sector of a circle of radius 9cm subtends angle 120\u00b0 at the centre of the circle. Find the area of the sector to the nearest cm\\(^2\\) [Take \u03c0 = 22/7]",
+    "options": {
+      "A": "75cm2",
+      "B": "84cm2",
+      "C": "85cm2",
+      "D": "86cm2",
+      "E": "95cm2"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "258",
+    "text": "Calculate the total surface area of a cone of height 12cm and base radius 5cm. [Take \u03c0 = 22/7]",
+    "options": {
+      "A": "180\\(\\frac{5}{7}\\)cm\\(^2\\)",
+      "B": "240\\(\\frac{2}{7}\\)cm\\(^2\\)",
+      "C": "235\\(\\frac{5}{7}\\)cm\\(^2\\)",
+      "D": "282\\(\\frac{6}{7}\\)cm\\(^2\\)",
+      "E": "361\\(\\frac{3}{7}\\)cm\\(^2\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "259",
+    "text": "A cone is 14cm deep and the base radius is 4\\(\\frac{1}{2}\\)cm. Calculate the volume of water that is exactly half the volume of the cone.[Take \u03c0 = \\(\\frac{22}{7}\\)]",
+    "options": {
+      "A": "49.5cm3",
+      "B": "99cm3",
+      "C": "148.5cm3",
+      "D": "297cm3",
+      "E": "445.5cm3"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "260",
+    "text": "The area and a diagonal of a rhombus are 60 cm\\(^2\\)\u00a0and 12 cm respectively. Calculate the length of the other diagonal.",
+    "options": {
+      "A": "5cm",
+      "B": "6cm",
+      "C": "10cm",
+      "D": "12cm",
+      "E": "15cm"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "261",
+    "text": "The angle of a sector of a circle radius 10.5cm is 120\u00b0. Find the perimeter of the sector [Take \u03c0 = 22/7]",
+    "options": {
+      "A": "22cm",
+      "B": "33.5cm",
+      "C": "43cm",
+      "D": "66cm",
+      "E": "115.5cm"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "262",
+    "text": "In the diagram, PQR is a tangent to the circle QST at Q. If |QT| = |ST| and \u2220SQR = 68\u00b0, find \u2220PQT.",
+    "options": {
+      "A": "34o",
+      "B": "48o",
+      "C": "56o",
+      "D": "68o",
+      "E": "73o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "263",
+    "text": "The sum of an interior angles of a regular polygon is 30 right angles. How many sides has the polygon?",
+    "options": {
+      "A": "34 sides",
+      "B": "30 sides",
+      "C": "26 sides",
+      "D": "17 sides",
+      "E": "15 sides"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "264",
+    "text": "In the diagram above, |QR| = 12cm and |QS| = 10cm. If \u2220PQR = 90\u00b0, \u2220RSQ = 90\u00b0\u00a0and PSQ is a straight line, find |PS|",
+    "options": {
+      "A": "3.3cm",
+      "B": "4.4cm",
+      "C": "5cm",
+      "D": "5.5cm",
+      "E": "6.6cm"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "265",
+    "text": "In the diagram above, |PQ| = |QR|, |PS| = |RS|, \u2220PSR = 30o and \u2220PQR = 80o. Find \u2220SPQ.",
+    "options": {
+      "A": "15o",
+      "B": "25o",
+      "C": "40o",
+      "D": "50o",
+      "E": "55o"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "266",
+    "text": "Two chords PQ and RS of a circle when produced meet at K. If \u2220KPS = 31o and \u2220PKR = 42o, find \u2220KQR",
+    "options": {
+      "A": "11o",
+      "B": "73o",
+      "C": "107o",
+      "D": "138o",
+      "E": "149o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "267",
+    "text": "In the diagram above, QRS is a straight line, QP//RT, PRQ = 56\u00b0, \u2220QPR =84\u00b0\u00a0and \u2220TRS = x\u00b0. Find x",
+    "options": {
+      "A": "28\u00b0",
+      "B": "40\u00b0",
+      "C": "44\u00b0",
+      "D": "84\u00b0",
+      "E": "124\u00b0"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "268",
+    "text": "Simplify \\(\\frac{2.25}{0.015}\\) leaving your answer in standard form",
+    "options": {
+      "A": "1.5 x 10-4",
+      "B": "1.5 x 10-2",
+      "C": "1.5 x 10-3",
+      "D": "1.5 x 101",
+      "E": "1.5 x 102"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "269",
+    "text": "State the fifth and seventh terms of the sequence \\(-2, -3, -4\\frac{1}{2}, ...\\)",
+    "options": {
+      "A": "\\(-\\frac{81}{8}, -\\frac{729}{32}\\)",
+      "B": "\\(\\frac{8}{81}, \\frac{72}{39}\\)",
+      "C": "\\(\\frac{27}{729}, \\frac{718}{39}\\)",
+      "D": "\\(-\\frac{27}{16}, -\\frac{79}{81}\\)",
+      "E": "\\(-\\frac{21}{8}, \\frac{32}{618}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "1993"
+  },
+  {
+    "number": "270",
+    "text": "A plane tiles 90km on a bearing 030\u00b0 and then flies 150km due east. How far east of the starting point is the plane?",
+    "options": {
+      "A": "120km",
+      "B": "165km",
+      "C": "195km",
+      "D": "(150 + 45\u221a3)km",
+      "E": "240km"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1993"
+  }
+]

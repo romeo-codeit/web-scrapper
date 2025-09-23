@@ -1,0 +1,100 @@
+[
+  {
+    "number": "27",
+    "text": "Find the root of the equation 2x\\(^2\\) - 3x - 2 = 0",
+    "options": {
+      "A": "x = -2 or 1/2",
+      "B": "x = -2 or1",
+      "C": "x = -2 or 2",
+      "D": "x = -1 or 2",
+      "E": "x = -1/2 or 2"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1998"
+  },
+  {
+    "number": "29",
+    "text": "If log\\(_{10}\\) q = 2.7078, what is q?",
+    "options": {
+      "A": "5102",
+      "B": "849.9",
+      "C": "510.2",
+      "D": "84.99",
+      "E": "51.02"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1998"
+  },
+  {
+    "number": "30",
+    "text": "Cos x is negative and sin x is negative.Which of the following is true of x?",
+    "options": {
+      "A": "0o < x < 90o",
+      "B": "90o < x <180o",
+      "C": "180o < x < 270o",
+      "D": "270o < x <360o",
+      "E": "-90o < x <90o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "1998"
+  },
+  {
+    "number": "31",
+    "text": "Simplify 0.63954\u00a0\u00f7 0.003 giving your answer correct to two significant figures",
+    "options": {
+      "A": "213.18",
+      "B": "213.00",
+      "C": "213",
+      "D": "210",
+      "E": "21"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1998"
+  },
+  {
+    "number": "32",
+    "text": "If log\\(_{10}\\) a = 4; what is a?",
+    "options": {
+      "A": "0.4",
+      "B": "40",
+      "C": "400",
+      "D": "1000",
+      "E": "10000"
+    },
+    "correct_answer": "E",
+    "explanation": "",
+    "year": "1998"
+  },
+  {
+    "number": "33",
+    "text": "A student measured the length of a room and obtained the measurement of 3.99m. If the percentage error of is measurement was 5% and his own measurement was smaller than the length , what is the length of the room?",
+    "options": {
+      "A": "3.78m",
+      "B": "3.80m",
+      "C": "4.18m",
+      "D": "4.20m",
+      "E": "4.788m"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1998"
+  },
+  {
+    "number": "34",
+    "text": "When an aeroplane is 800m above the ground, its angle of elevation from a point P on the ground is 30o. How far is the plane from P by line of sight?",
+    "options": {
+      "A": "400m",
+      "B": "800m",
+      "C": "1500m",
+      "D": "1600m",
+      "E": "1700m"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "1998"
+  }
+]

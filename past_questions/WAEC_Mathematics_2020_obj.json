@@ -1,0 +1,639 @@
+[
+  {
+    "number": "1561",
+    "text": "Evaluate and correct to two decimal places, 75.0785 - 34.624 + 9.83",
+    "options": {
+      "A": "30.60",
+      "B": "50.29",
+      "C": "50.28",
+      "D": "30.63"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1562",
+    "text": "If\u00a0 X = {x : x < 7} and Y\u00a0= {y:y is a factor of 24} are subsets of \\(\\mu\\) = {1, 2, 3...10} find X \\(\\cap\\) Y.",
+    "options": {
+      "A": "{2, 3, 4, 6}",
+      "B": "{1, 2, 3, 4, 6}",
+      "C": "{2, 3, 4, 6, 8}",
+      "D": "{1, 2, 3, 4, 6, 8}"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1563",
+    "text": "Simplify; [(\\(\\frac{16}{9}\\))\\(^{\\frac{-3}{2}}\\) x 16\\(^{\\frac{-3}{4}}\\)]\\(^{\\frac{1}{3}}\\)",
+    "options": {
+      "A": "\\(\\frac{3}{4}\\)",
+      "B": "\\(\\frac{9}{16}\\)",
+      "C": "\\(\\frac{3}{8}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1564",
+    "text": "Express 1 + 2 log10\\(^3\\) in the form log10\\(^9\\)",
+    "options": {
+      "A": "log10\\(^{90}\\)",
+      "B": "log10\\(^{19}\\)",
+      "C": "log10\\(^{9}\\)",
+      "D": "log10\\(^{6}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1565",
+    "text": "If 101\\(_{\\text{two}}\\) + 12\\(_y\\) = 23\\(_{\\text{five}}\\). Find the value of y",
+    "options": {
+      "A": "8",
+      "B": "7",
+      "C": "6",
+      "D": "5"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1566",
+    "text": "An amount of N550,000.00 was realized when a principal, x was saved at 2% simple interest for 5 years. Find the value of x",
+    "options": {
+      "A": "N470,000.00",
+      "B": "N480,000.00",
+      "C": "N490,000.00",
+      "D": "N500,000.00"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1567",
+    "text": "Given that \\(\\frac{\\sqrt{3} + \\sqrt{5}}{\\sqrt{5}}\\)\u00a0\n= x + y\\(\\sqrt{15}\\), find the value of (x + y)",
+    "options": {
+      "A": "1\\(\\frac{3}{5}\\)",
+      "B": "1\\(\\frac{2}{5}\\)",
+      "C": "1\\(\\frac{1}{5}\\)",
+      "D": "\\(\\frac{1}{5}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1568",
+    "text": "If x = 3 and y = -1, evaluate 2(x\\(^2\\) - y\\(^3\\))",
+    "options": {
+      "A": "24",
+      "B": "22",
+      "C": "20",
+      "D": "16"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1569",
+    "text": "Solve 3x - 2y = 10 and x + 3y = 7 simultaneously",
+    "options": {
+      "A": "x = -4 and y = 1",
+      "B": "x = -1 and y = -4",
+      "C": "x = 1 and y = 4",
+      "D": "x = 4 and y = 1"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1570",
+    "text": "The implication x \\(\\to\\) y is equivalent to?",
+    "options": {
+      "A": "~ y \\(\\to\\) ~ x",
+      "B": "y \\(\\to\\) ~ x",
+      "C": "~ x \\(\\to\\) ~ y",
+      "D": "y \\(\\to\\) x"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1571",
+    "text": "The first term of a geometric progression (G.P) is 3 and the 5th term is 48. Find the common ratio.",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1572",
+    "text": "Solve \\(\\frac{1}{3}\\)(5 - 3x) < \\(\\frac{2}{5}\\)(3 - 7x)",
+    "options": {
+      "A": "x > \\(\\frac{7}{22}\\)",
+      "B": "x < \\(\\frac{7}{22}\\)",
+      "C": "x > \\(\\frac{-7}{27}\\)",
+      "D": "x < \\(\\frac{-7}{27}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1573",
+    "text": "Make m the subject of the relation k = \\(\\sqrt{\\frac{m - y}{m + 1}}\\)",
+    "options": {
+      "A": "m = \\(\\frac{y + k^2}{k^2 + 1}\\)",
+      "B": "m = \\(\\frac{y + k^2}{1 - k^2}\\)",
+      "C": "m = \\(\\frac{y - k^2}{k^2 + 1}\\)",
+      "D": "m = \\(\\frac{y - k^2}{1 - k^2}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1574",
+    "text": "Find the quadratic equation whose roots are \\(\\frac{1}{2}\\)\u00a0 and -\\(\\frac{1}{3}\\)",
+    "options": {
+      "A": "3x\\(^2\\) + x + 1 = 0",
+      "B": "6x\\(^2\\)  + x - 1 = 0",
+      "C": "3x\\(^2\\)  + x - 1 = 0",
+      "D": "6x\\(^2\\)  - x - 1 = 0"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1575",
+    "text": "Given that x is directly proportional to y and inversely proportional to Z, x = 15 when y = 10 and Z = 4, find the equation connecting x, y and z",
+    "options": {
+      "A": "x = \\(\\frac{6y}{z}\\)",
+      "B": "x = \\(\\frac{12y}{z}\\)",
+      "C": "x = \\(\\frac{3y}{z}\\)",
+      "D": "x = \\(\\frac{3y}{2z}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1576",
+    "text": "Two buses start from the same station at 9.00am and travel in opposite directions along the same straight road. The first bus travel at a speed of 72 km/h and the second at 48 km/h. At what time will they be 240km apart?",
+    "options": {
+      "A": "1:00 pm",
+      "B": "12:00 noon",
+      "C": "11:00 am",
+      "D": "10:00 am"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1577",
+    "text": "A solid cuboid has a length of 7 cm, a width of 5 cm, and a height of 4 cm. Calculate its total surface area.",
+    "options": {
+      "A": "280 cm\\(^2\\)",
+      "B": "166 cm\\(^2\\)",
+      "C": "140 cm\\(^2\\)",
+      "D": "83 cm\\(^2\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1578",
+    "text": "In the diagram, PQ // SR. Find the value of x",
+    "options": {
+      "A": "34",
+      "B": "46",
+      "C": "57",
+      "D": "68"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1579",
+    "text": "Find the equation of the line parallel to 2y = 3(x - 2) and passes through the point (2, 3)",
+    "options": {
+      "A": "y = \\(\\frac{2}{3} x - 3\\)",
+      "B": "y = \\(\\frac{2}{3} x - 2\\)",
+      "C": "y = \\(\\frac{3}{2} x\\)",
+      "D": "y = \\(\\frac{-2}{3} x\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1580",
+    "text": "The expression \\(\\frac{5x + 3}{6x (x + 1)}\\) will be undefined when x equals",
+    "options": {
+      "A": "{0, 1}",
+      "B": "{0, -1}",
+      "C": "{-3, -11}",
+      "D": "{-3, 0}"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1581",
+    "text": "A man is five times as old as his son. In four years' time, the product of their ages would be 340. If the son's age is y, express the product of their ages in terms of y.",
+    "options": {
+      "A": "5y\\(^2 - 16y - 380 = 0\\)",
+      "B": "5y\\(^2 - 24y - 380 = 0\\)",
+      "C": "5y\\(^2 - 16y - 330 = 0\\)",
+      "D": "5y\\(^2 + 24y - 324 = 0\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1582",
+    "text": "Simplify; \\(\\frac{a}{b} - \\frac{b}{a} - \\frac{c}{b}\\)",
+    "options": {
+      "A": "\\(\\frac{a - b + c}{ab}\\)",
+      "B": "\\(\\frac{ab - bc - ac}{ab}\\)",
+      "C": "\\(\\frac{a^2 - b^2 + ac}{ab}\\)",
+      "D": "\\(\\frac{a^2 - b^2 - ac}{ab}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1583",
+    "text": "In the diagram, XYZ is an equilateral\u00a0triangle of side 6cm and Y is the midpoint of \\(\\overline{XY}\\). Find tan (< XZT)",
+    "options": {
+      "A": "\\(\\frac{1}{\\sqrt{3}}\\)",
+      "B": "\\(\\frac{\\sqrt{3}}{2}\\)",
+      "C": "\\(\\sqrt{3}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1584",
+    "text": "A fence 2.4 m tall, is 10m away from a tree of height 16m. Calculate the angle of elevation of the top of the tree from the top of the fence.",
+    "options": {
+      "A": "76.11\\(^o\\)",
+      "B": "53.67\\(^o\\)",
+      "C": "52.40\\(^o\\)",
+      "D": "51.32\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1585",
+    "text": "Fati buys\u00a0milk at \u20a6x per tin sells each at a profit of \u20a6y. If she sells 10 tins of milk, how much does she receives from the sales?",
+    "options": {
+      "A": "\u20a6(xy + 10)",
+      "B": "\u20a6(x + 10y)",
+      "C": "\u20a6(10x + y)",
+      "D": "\u20a610(x + y)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1586",
+    "text": "If tan y is positive and sin y is negative, in which quadrant would y lie?",
+    "options": {
+      "A": "First and third only",
+      "B": "First and second only",
+      "C": "Third only",
+      "D": "Second only"
+    },
+    "correct_answer": "C",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "2020"
+  },
+  {
+    "number": "1587",
+    "text": "The dimension\u00a0of a rectangular base of a right pyramid is 9 cm by 5cm. If the volume of the pyramid is 105 cm\\(^3\\), how high is the pyramid?",
+    "options": {
+      "A": "10cm",
+      "B": "6cm",
+      "C": "8cm",
+      "D": "7cm"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1588",
+    "text": "Each interior angle of a regular polygon is 168\\(^o\\). Find the number of sides of the polygon",
+    "options": {
+      "A": "30",
+      "B": "36",
+      "C": "24",
+      "D": "18"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1589",
+    "text": "In the diagram, \\(\\overline{MN}\\)//\\(\\overline{PQ}\\), < MNP = 2x, and < NPQ = (3x - 50)\u00b0. Find the value of < NPQ",
+    "options": {
+      "A": "200\\(^o\\)",
+      "B": "100\\(^o\\)",
+      "C": "120\\(^o\\)",
+      "D": "90\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1590",
+    "text": "The length of an arc of a circle of radius 3.5 cm is\u00a0 1\\(\\frac{19}{36}\\) cm. Calculate, correct to the nearest degree , the angle substended by the centre of the circle. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "55\\(^o\\)",
+      "B": "36\\(^o\\)",
+      "C": "25\\(^o\\)",
+      "D": "22\\(^o\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1591",
+    "text": "In the diagram, \\(\\overline{PU}\\)/\\(\\overline{SR}\\),\u00a0 \\(\\overline{PS}\\)/\\(\\overline{TR}\\),\u00a0 \\(\\overline{QS}\\)/\\(\\overline{UR}\\),\u00a0 \\(\\overline{UR}\\) = 15cm, \\(\\overline{SR}\\) = 8 cm, \\(\\overline{PS}\\) = 10 cm and area of\u00a0\u25b3SUR = 24 cm\\(^2\\). Calculate the area of PTRS.",
+    "options": {
+      "A": "40 cm\\(^2\\)",
+      "B": "48 cm\\(^2\\)",
+      "C": "80 cm\\(^2\\)",
+      "D": "120 cm\\(^2\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1592",
+    "text": "In the diagram, PQR is a circle with center O. If \u2220OPQ = 48\u00b0, find the value of M.",
+    "options": {
+      "A": "96\\(^o\\)",
+      "B": "90\\(^o\\)",
+      "C": "68\\(^o\\)",
+      "D": "42\\(^o\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1593",
+    "text": "The pie chart shows the population of men, women, and children in a city. If the population of the city is 1,800,000, how many men are in the city?",
+    "options": {
+      "A": "845,000",
+      "B": "600,000",
+      "C": "355,000",
+      "D": "250,000"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1594",
+    "text": "The mean of the numbers 15, 21, 17, 26, 18, and 29 is 21. Calculate the standard deviation",
+    "options": {
+      "A": "9",
+      "B": "6",
+      "C": "5",
+      "D": "0"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1595",
+    "text": "Find the sum of the interior angle of a pentagon.",
+    "options": {
+      "A": "340\\(^o\\)",
+      "B": "350\\(^o\\)",
+      "C": "540\\(^o\\)",
+      "D": "550\\(^o\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1596",
+    "text": "The diameter of a sphere is 12 cm. Calculate, correct of the nearest cm\\(^3\\), the volume of the sphere, [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "903 cm\\(^3\\)",
+      "B": "904 cm\\(^3\\)",
+      "C": "905 cm\\(^3\\)",
+      "D": "906 cm\\(^3\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1597",
+    "text": "A box contains 12 identical balls of which 5 are red, 4 blue, and the rest are green.\u00a0\u00a0If a ball is selected at random from the box, what is the probability that it is green?",
+    "options": {
+      "A": "\\(\\frac{3}{4}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1598",
+    "text": "A box contains 12 identical balls of which 5 are red, 4 blue, and the rest are green. If two balls are selected at random one after the other with replacement, what is the probability that both are red?",
+    "options": {
+      "A": "\\(\\frac{25}{144}\\)",
+      "B": "\\(\\frac{5}{33}\\)",
+      "C": "\\(\\frac{5}{6}\\)",
+      "D": "\\(\\frac{103}{132}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1599",
+    "text": "In the diagram, PQ is a straight line. If m = \\(\\frac{1}{2}\\)\u00a0(x + y + z), find value of m.",
+    "options": {
+      "A": "45\\(^o\\)",
+      "B": "60\\(^o\\)",
+      "C": "90\\(^o\\)",
+      "D": "100\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1600",
+    "text": "x\n6.20\n6.85\n7.50\n\n\ny\n3.90\n5.20\n6.50\n\n\n\nThe points on a linear graph\u00a0are as shown in the table. Find the gradient (slope) of the line.",
+    "options": {
+      "A": "2\\(\\frac{1}{2}\\)",
+      "B": "2",
+      "C": "1",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1601",
+    "text": "In the diagram, O is the center of the circle. \\(\\overline{PQ}\\) and\u00a0\\(\\overline{RS}\\)\u00a0 are tangents to the circle. Find the value of (M + N).",
+    "options": {
+      "A": "120\\(^o\\)",
+      "B": "90\\(^o\\)",
+      "C": "75\\(^o\\)",
+      "D": "60\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1602",
+    "text": "Which of the following is not a sufficient condition for two triangles to be congruent?",
+    "options": {
+      "A": "AAS",
+      "B": "SSS",
+      "C": "SAS",
+      "D": "SSA"
+    },
+    "correct_answer": "D",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "2020"
+  },
+  {
+    "number": "1603",
+    "text": "A woman received a discount of 20% on a piece of cloth she purchased from a shop. If she paid $525.00, what was the original price?",
+    "options": {
+      "A": "$675.25",
+      "B": "$660.25",
+      "C": "$656.25",
+      "D": "$616.25"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1604",
+    "text": "The interquartile range of distribution is 7. If the 25th percentile is 16, find the upper quartile.",
+    "options": {
+      "A": "35",
+      "B": "30",
+      "C": "23",
+      "D": "9"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1605",
+    "text": "The graph of the equations y = 2x + 5 and y = 2x\\(^2\\) + x - 1 are shown. Use the information above to answer this question.\nFind the point of intersection of the two graphs.",
+    "options": {
+      "A": "(2.0, 9.0) and (-1.5, 2.0)",
+      "B": "(2.0, 8.5) and (-1.5, 2.0)",
+      "C": "(2.0, 8.0) and (-1.5, 2.5)",
+      "D": "(2.0, 7.5) and (-1.5, 2.5)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1606",
+    "text": "The graph of the equations y = 2x + 5 and y = 2x\\(^2\\) + x - 1 are shown. Use the information above to answer this question.\u00a0\nIf x = -2.5, what is the value of u on the curve?",
+    "options": {
+      "A": "y = 8.0",
+      "B": "y = 8.5",
+      "C": "y = 9.0",
+      "D": "y = 9.5"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1607",
+    "text": "If (x + 2) is a factor of x\\(^2\\) +px - 10, find the value of P.",
+    "options": {
+      "A": "3",
+      "B": "-3",
+      "C": "7",
+      "D": "-7"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1608",
+    "text": "In the diagram, O is the centre of the circle. If < NLM = 74\\(^o\\), < LMN = 39\\(^o\\) and < LOM = x, find the value of x.",
+    "options": {
+      "A": "134\\(^o\\)",
+      "B": "126\\(^o\\)",
+      "C": "113\\(^o\\)",
+      "D": "106\\(^o\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2020"
+  },
+  {
+    "number": "1609",
+    "text": "Find the least value of x which satisfies the equation 4x = 7(mod 9)",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "5",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2020"
+  }
+]

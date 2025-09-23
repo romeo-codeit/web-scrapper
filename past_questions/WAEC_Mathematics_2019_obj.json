@@ -1,0 +1,652 @@
+[
+  {
+    "number": "1511",
+    "text": "Express, correct to three significant figures, 0.003597.",
+    "options": {
+      "A": "0.359",
+      "B": "0.004",
+      "C": "0.00360",
+      "D": "0.00359"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1512",
+    "text": "Evaluate: (0.064)\\(^{-\\frac{1}{3}}\\)",
+    "options": {
+      "A": "\\(\\frac{5}{2}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "-\\(\\frac{2}{5}\\)",
+      "D": "-\\(\\frac{5}{2}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1513",
+    "text": "Solve: \\(\\frac{y + 1}{2} - \\frac{2y - 1}{3}\\) = 4",
+    "options": {
+      "A": "y = 19",
+      "B": "y = -19",
+      "C": "y = -29",
+      "D": "y = 29"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1514",
+    "text": "Simplify, correct to three significant figures, (27.63)\\(^2\\) - (12.37)\\(^2\\)",
+    "options": {
+      "A": "614",
+      "B": "612",
+      "C": "611",
+      "D": "610"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1515",
+    "text": "If 7 + y = 4 (mod 8), find the least value of y, 10 \\(\\leq y \\leq 30\\)",
+    "options": {
+      "A": "11",
+      "B": "13",
+      "C": "19",
+      "D": "21"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1516",
+    "text": "If T = {prime numbers} and M = {odd numbers} are subsets of \\(\\mu\\)\u00a0 = {x : 0 < x \u2264\u00a010}\u00a0and x is an integer, find (T\\(^{\\prime}\\) n\u00a0M\\(^{\\prime}\\)).",
+    "options": {
+      "A": "{4, 6, 8, 10}",
+      "B": "{1. 4, 6, 8, 10}",
+      "C": "{1, 2, 4, 6, 8, 10}",
+      "D": "{1, 2, 3, 5, 7, 8, 9}"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1517",
+    "text": "Evaluate; \\(\\frac{\\log_3 9 - \\log_2 8}{\\log_3 9}\\)",
+    "options": {
+      "A": "-\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "-\\(\\frac{1}{2}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1518",
+    "text": "If 23\\(_y\\) = 1111\\(_{\\text{two}}\\), find the value of y",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1519",
+    "text": "If 6, P, and 14 are consecutive terms in an Arithmetic Progression (AP), find the value of P.",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "6",
+      "D": "8"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1520",
+    "text": "Evaluate: 2\\(\\sqrt{28} - 3\\sqrt{50} + \\sqrt{72}\\)",
+    "options": {
+      "A": "4\\(\\sqrt{7} - 21 \\sqrt{2}\\)",
+      "B": "4\\(\\sqrt{7} - 11 \\sqrt{2}\\)",
+      "C": "4\\(\\sqrt{7} - 9 \\sqrt{2}\\)",
+      "D": "4\\(\\sqrt{7} + \\sqrt{2}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1521",
+    "text": "If m : n = 2 : 1, evaluate \\(\\frac{3m^2 - 2n^2}{m^2 + mn}\\)",
+    "options": {
+      "A": "\\(\\frac{4}{3}\\)",
+      "B": "\\(\\frac{5}{3}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{3}{5}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1522",
+    "text": "H varies directly as p and inversely as the square of y. If H = 1, p = 8 and y = 2, find H in terms of p and y.",
+    "options": {
+      "A": "H = \\(\\frac{p}{4y^2}\\)",
+      "B": "H = \\(\\frac{2p}{y^2}\\)",
+      "C": "H = \\(\\frac{p}{2y^2}\\)",
+      "D": "H = \\(\\frac{p}{y^2}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1523",
+    "text": "Solve \\(4x^{2}\\) - 16x + 15 = 0.",
+    "options": {
+      "A": "x = 1\\(\\frac{1}{2}\\) or x = -2\\(\\frac{1}{2}\\)",
+      "B": "x = 1\\(\\frac{1}{2}\\) or x = 2\\(\\frac{1}{2}\\)",
+      "C": "x = 1\\(\\frac{1}{2}\\) or x = -1\\(\\frac{1}{2}\\)",
+      "D": "x = -1\\(\\frac{1}{2}\\) or x -2\\(\\frac{1}{2}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1524",
+    "text": "Simplify: \\(\\log_{10}\\) 6 - 3 log\\(_{10}\\)\u00a0 3 + \\(\\frac{2}{3} \\log_{10} 27\\)",
+    "options": {
+      "A": "3 \\(\\log_{10}^2\\)",
+      "B": "\\(\\log_{10}^2\\)",
+      "C": "\\(\\log_{10}^3\\)",
+      "D": "2 \\(\\log_{10}^3\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1525",
+    "text": "Bala sold an article for #6,900.00 and made a profit of 15%.\u00a0Calculate his percentage profit if he had sold it for N6,600.00.",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "12%",
+      "D": "13%"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1526",
+    "text": "If 3p = 4q and 9p = 8q - 12, find the value of pq.",
+    "options": {
+      "A": "12",
+      "B": "7",
+      "C": "-7",
+      "D": "-12"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1527",
+    "text": "If (0.25)\\(^y\\) = 32, find the value of y.",
+    "options": {
+      "A": "y = - \\(\\frac{5}{2}\\)",
+      "B": "y = -\\(\\frac{3}{2}\\)",
+      "C": "y = \\(\\frac{3}{2}\\)",
+      "D": "y = \\(\\frac{5}{2}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1528",
+    "text": "There are 8 boys and 4 girls in a lift. What is the probability that the first person who\u00a0steps out of the lift will be a boy?",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1529",
+    "text": "Simplify: \\(\\frac{x^2 - 5x - 14}{x^2 - 9x + 14}\\)",
+    "options": {
+      "A": "\\(\\frac{x - 7}{x + 7}\\)",
+      "B": "\\(\\frac{x + 7}{x - 7}\\)",
+      "C": "\\(\\frac{x - 2}{x + 4}\\)",
+      "D": "\\(\\frac{x + 2}{x - 2}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1530",
+    "text": "Which of these values would make \\(\\frac{3p - 1}{p^{2} - p}\\) undefined?",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "-\\(\\frac{1}{3}\\)",
+      "D": "-1"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1531",
+    "text": "The total surface area of a solid cylinder 165cm\\(^2\\). Of the base diameter is 7cm, calculate its height. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "7.5 cm",
+      "B": "4.5 cm",
+      "C": "4.0 cm",
+      "D": "2.0 cm"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1532",
+    "text": "If 2\\(^{a}\\) = \\(\\sqrt{64}\\) and \\(\\frac{b}{a}\\) = 3, evaluate a\\(^2\u00a0+ b^{2}\\)",
+    "options": {
+      "A": "250",
+      "B": "160",
+      "C": "90",
+      "D": "48"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1533",
+    "text": "In XYZ, |YZ| = 32cm, < YXZ 53\\(^o\\) and XZY = 90\\(^o\\). Find, correct to the nearest centimetre, |XZ|",
+    "options": {
+      "A": "31 cm",
+      "B": "25 cm",
+      "C": "20 cm",
+      "D": "13 cm"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1534",
+    "text": "If log\\(_x\\) 2 = 0.3, evaluate log\\(_x\\) 8.",
+    "options": {
+      "A": "2.4",
+      "B": "1.2",
+      "C": "0.9",
+      "D": "0.6"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1535",
+    "text": "An arc subtends an angle of 72\\(^o\\) at the centre of a circle. Find the length of the arc if the radius of the circle is 3.5 cm. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "6.6 cm",
+      "B": "8.8 cm",
+      "C": "4.4 cm",
+      "D": "2.2 cm"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1536",
+    "text": "Make b the subject of the relation lb = \\(\\frac{1}{2}\\) (a + b)h",
+    "options": {
+      "A": "\\(\\frac{ah}{2l - h}\\)",
+      "B": "\\(\\frac{2l - h}{al}\\)",
+      "C": "\\(\\frac{al}{2l - h}\\)",
+      "D": "\\(\\frac{al}{2 - h}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1537",
+    "text": "Eric sold his house through an agent who charged 8% commission on the selling price. If Eric received $117,760.00 after the sale, what was the selling price of the house?",
+    "options": {
+      "A": "$130,000.00",
+      "B": "$128,000.00",
+      "C": "$125,000.00",
+      "D": "$120,000.00"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1538",
+    "text": "Find the angle at which an arc of length 22 cm subtends at the centre of a circle of radius 15cm.\u00a0 [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "70\\(^o\\)",
+      "B": "84\\(^o\\)",
+      "C": "96\\(^o\\)",
+      "D": "156\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1539",
+    "text": "A rectangular board has a length of 15cm and width x cm. If its sides are doubled, find its new area.",
+    "options": {
+      "A": "60x cm\\(^2\\)",
+      "B": "45x cm\\(^2\\)",
+      "C": "30x cm\\(^2\\)",
+      "D": "15x cm\\(^2\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1540",
+    "text": "In the diagram, POS and ROT are straight lines. OPQR is a parallelogram, |OS| = |OT| and\u00a0\u2220OST = 50\u00b0. Calculate the value of\u00a0\u2220OPQ.",
+    "options": {
+      "A": "100\\(^o\\)",
+      "B": "120\\(^o\\)",
+      "C": "140\\(^o\\)",
+      "D": "160\\(^o\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1541",
+    "text": "Factorize completely; (2x + 2y)(x - y) + (2x - 2y)(x + y)",
+    "options": {
+      "A": "4(x - y)(x + y)",
+      "B": "(4(x - y)",
+      "C": "2(x - y)(x + y)",
+      "D": "2(x - y)"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1542",
+    "text": "The interior angles of a polygon are 3x\\(^o\\), 2x\\(^o\\), 4x\\(^o\\), 3x\\(^o\\) and 6x\\(^o\\). Find the size of the smallest angle of the polygon.",
+    "options": {
+      "A": "80\\(^o\\)",
+      "B": "60\\(^o\\)",
+      "C": "40\\(^o\\)",
+      "D": "30\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1543",
+    "text": "A box contains 2\u00a0white and 3 blue identical balls. If two balls are picked at random from the box, one after the other with replacement, what is the probability that they are of different colours?",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(\\frac{7}{20}\\)",
+      "D": "\\(\\frac{12}{25}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1544",
+    "text": "Find the equation of a straight line passing through the point (1, -5) and having gradient of \\(\\frac{3}{4}\\)",
+    "options": {
+      "A": "3x + 4y - 23 = 0",
+      "B": "3x + 4y +23 = 0",
+      "C": "3x - 4y +23 = 0",
+      "D": "3x - 4y - 23 = 0"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1545",
+    "text": "The foot of a ladder is 6m from the base of an electric pole. The top of the ladder rest against the pole at a point 8m above the ground. How long is the ladder?",
+    "options": {
+      "A": "14m",
+      "B": "12m",
+      "C": "10m",
+      "D": "7m"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1546",
+    "text": "If tan x = \\(\\frac{3}{4}\\), 0 < x < 90\\(^o\\), evaluate \\(\\frac{\\cos x}{2 sin x}\\)",
+    "options": {
+      "A": "\\(\\frac{8}{3}\\)",
+      "B": "\\(\\frac{3}{2}\\)",
+      "C": "\\(\\frac{4}{3}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1547",
+    "text": "From the top of a vertical\u00a0cliff\u00a020m high, a boat at sea can be sighted 75m away and on the same horizontal position as the cliff. Calculate, correct to the nearest degree, the angle of depression of the boat from the top of the cliff.",
+    "options": {
+      "A": "56\\(^o\\)",
+      "B": "75\\(^o\\)",
+      "C": "16\\(^o\\)",
+      "D": "15\\(^o\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1548",
+    "text": "In the diagram, O is the centre of the circle of radius 18cm. If < zxy = 70\\(^o\\), calculate the length of arc ZY. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "11cm",
+      "B": "22 cm",
+      "C": "44 cm",
+      "D": "80 cm"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1549",
+    "text": "In the diagram, RT is a tangent to the circle at R, < PQR = 70\\(^o\\), < QRT = 52\\(^o\\), < QSR and < PRQ = x. Find the value of y.",
+    "options": {
+      "A": "70\\(^o\\)",
+      "B": "60\\(^o\\)",
+      "C": "52\\(^o\\)",
+      "D": "18\\(^o\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1550",
+    "text": "In the diagram, RT is a tangent to the circle at R, < PQR = 70\\(^o\\), < QRT = 52\\(^o\\), < QSR and < PRQ = x. Calculate the value of x.",
+    "options": {
+      "A": "70\\(^o\\)",
+      "B": "58\\(^o\\)",
+      "C": "55\\(^o\\)",
+      "D": "48\\(^o\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1551",
+    "text": "Calculate the variance of 2, 4, 7, 8 and 9",
+    "options": {
+      "A": "7.2",
+      "B": "6.8",
+      "C": "3.5",
+      "D": "2.6"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1552",
+    "text": "The fourth term of an Arithmetic Progression (A.P) is 37 and the first term is -20. Find the common difference.",
+    "options": {
+      "A": "3",
+      "B": "57",
+      "C": "19",
+      "D": "17"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1553",
+    "text": "In the diagram, PQ is parallel to RS, < QFG = 105\\(^o\\) and < FEG = 50\\(^o\\). Find the value of m.",
+    "options": {
+      "A": "130\\(^o\\)",
+      "B": "105\\(^o\\)",
+      "C": "75\\(^o\\)",
+      "D": "55\\(^o\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1554",
+    "text": "In the diagram, PQ is parallel to RS, < QFG = 105\\(^o\\) and < FEG = 50\\(^o\\). Find the value of n",
+    "options": {
+      "A": "40\\(^o\\)",
+      "B": "55\\(^o\\)",
+      "C": "75\\(^o\\)",
+      "D": "130\\(^o\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1555",
+    "text": "A box contains 5 red, 6 green and 7 yellow pencils of the same size. What is the probability of picking a green pencil at random?",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1556",
+    "text": "The pie chart represents fruits on display in a grocery shop. If there are 60 oranges on display, how many apples are there?",
+    "options": {
+      "A": "90",
+      "B": "80",
+      "C": "70",
+      "D": "40"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1557",
+    "text": "The following are scores obtained by some students in a test,\u00a0Find the mode of the distribution \u00a0\n\n\n\n8\n18\n10\n14\n18\n11\n13\n\n\n14\n13\n17\n15\n8\n16\n13",
+    "options": {
+      "A": "18",
+      "B": "14",
+      "C": "13",
+      "D": "8"
+    },
+    "correct_answer": "C",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "2019"
+  },
+  {
+    "number": "1558",
+    "text": "The following are scores obtained by some students in a test.\u00a0Find the median score\u00a0\r\n\u00a0\n\n\n\n8\n18\n10\n14\n18\n11\n13\n\n\n14\n13\n17\n15\n8\n16\n13",
+    "options": {
+      "A": "14.5",
+      "B": "14.0",
+      "C": "13.5",
+      "D": "13.0"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1559",
+    "text": "8, 18, 10,14, 18, 11, 13, 14, 13, 17, 15, 8, 16, and 13\nThe following are scores obtained by some students in a test. How many students scored above the mean score?",
+    "options": {
+      "A": "10",
+      "B": "9",
+      "C": "8",
+      "D": "7"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "1560",
+    "text": "Evaluate: \\(\\frac{0.42 \\div\u00a02.5}{0.5 \\times 2.05}\\), leaving the answer in the standard form.",
+    "options": {
+      "A": "1.639 x 10\\(^2\\)",
+      "B": "1.639 x 10\\(^1\\)",
+      "C": "1.639 x 10\\(^{-1}\\)",
+      "D": "1.639 x 10\\(^{-2}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2019"
+  }
+]

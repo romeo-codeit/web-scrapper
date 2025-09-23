@@ -1,0 +1,587 @@
+[
+  {
+    "number": "1313",
+    "text": "If {X: 2 d- x d- 19; X integer} and 7 + x = 4 (mod 9), find the highest value of x",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "15",
+      "D": "18"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1314",
+    "text": "The sum 11011\\(_2\\), 11111\\(_2\\) and 10000\\(_2\\) is 10m10n0\\(_2\\). Find the value of m and n.",
+    "options": {
+      "A": "m = 0, n = 0",
+      "B": "m = 1, n = 0",
+      "C": "m = 0, n = 1",
+      "D": "m = 1, n = 1"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1315",
+    "text": "A trader bought an engine for $15,000.00 outside Nigeria. If the exchange rate is $0.075\u00a0to N1.00, how much did the engine cost in Naira?",
+    "options": {
+      "A": "N250,000.00",
+      "B": "N200,000.00",
+      "C": "N150,000.00",
+      "D": "N100,000.00"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1316",
+    "text": "If \\(\\frac{27^x \\times 3^{1 - x}}{9^{2x}} = 1\\), find the value of x.",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "-\\(\\frac{1}{2}\\)",
+      "D": "-1"
+    },
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{27^x \\times 3^{1 - x}}{9^{2x}} = 1\\)",
+    "year": "2015"
+  },
+  {
+    "number": "1317",
+    "text": "Find the 7th term of the sequence: 2, 5, 10, 17, 26,...",
+    "options": {
+      "A": "37",
+      "B": "48",
+      "C": "50",
+      "D": "63"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1318",
+    "text": "Given that logx 64 = 3, evaluate x log\\(_2\\)8",
+    "options": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "24"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1319",
+    "text": "If 2n = y, Find 2\\(^{(2 + \\frac{n}{3})}\\)",
+    "options": {
+      "A": "4y\\(^\\frac{1}{3}\\)",
+      "B": "4y\\(^-3\\)",
+      "C": "2y\\(^\\frac{1}{3}\\)",
+      "D": "2y\\(^-3\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "If 2",
+    "year": "2015"
+  },
+  {
+    "number": "1320",
+    "text": "Factorize completely: 6ax - 12by - 9ay + 8bx",
+    "options": {
+      "A": "(2a - 3b)(4x + 3y)",
+      "B": "(3a + 4b)(2x - 3y)",
+      "C": "(3a - 4b)(2x + 3y)",
+      "D": "(2a + 3b)(4x -3y)"
+    },
+    "correct_answer": "B",
+    "explanation": "6ax - 12by - 9ay + 8bx",
+    "year": "2015"
+  },
+  {
+    "number": "1321",
+    "text": "Find the equation whose roots are \\(\\frac{3}{4}\\) and -4",
+    "options": {
+      "A": "4x2 - 13x + 12 = 0",
+      "B": "4x2 - 13x - 12 = 0",
+      "C": "4x2 + 13x - 12 = 0",
+      "D": "4x2 + 13x + 12 = 0"
+    },
+    "correct_answer": "C",
+    "explanation": "Let x = \\(\\frac{3}{4}\\) or x = -4",
+    "year": "2015"
+  },
+  {
+    "number": "1322",
+    "text": "If m = 4, n = 9 and r = 16., evaluate \\(\\frac{m}{n}\\) - 1\\(\\frac{7}{9}\\) + \\(\\frac{n}{r}\\)",
+    "options": {
+      "A": "1\\(\\frac{5}{16}\\)",
+      "B": "1\\(\\frac{1}{16}\\)",
+      "C": "\\(\\frac{5}{16}\\)",
+      "D": "- \\(\\frac{37}{48}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1323",
+    "text": "Adding 42 to a given positive number gives the same result as squaring the number. Find the number",
+    "options": {
+      "A": "14",
+      "B": "13",
+      "C": "7",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1324",
+    "text": "Ada draws the graph of y = x2 - x - 2 and y = 2x - 1 on the same axes. Which of these equations is she solving?",
+    "options": {
+      "A": "x2  - x - 3 = 0",
+      "B": "x2 - 3x - 1 = 0",
+      "C": "x2 - 3x - 3 = 0",
+      "D": "x2 +  3x - 1 = 0"
+    },
+    "correct_answer": "B",
+    "explanation": "Given; y = x",
+    "year": "2015"
+  },
+  {
+    "number": "1325",
+    "text": "The volume of a cone of height 3cm is 38\\(\\frac{1}{2}\\)cm3. Find the radius of its base. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "3.0cm",
+      "B": "3.5cm",
+      "C": "4.0cm",
+      "D": "4.5cm"
+    },
+    "correct_answer": "B",
+    "explanation": "Using V = \\(\\frac{3}{1} \\pi r^2h\\),",
+    "year": "2015"
+  },
+  {
+    "number": "1326",
+    "text": "The dimension of a rectangular tank are 2m by 7m by 11m. If its volume is equal to that of a cylindrical tank of height 4cm, calculate the base radius of the cylindrical tank. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "14cm",
+      "B": "7m",
+      "C": "3\\(\\frac{1}{2}\\)m",
+      "D": "1\\(\\frac{3}{4}\\)m"
+    },
+    "correct_answer": "C",
+    "explanation": "Volume of rectangular tank = L x B x H",
+    "year": "2015"
+  },
+  {
+    "number": "1327",
+    "text": "In the diagram, O is the centre. If PQ//RS\u00a0and\u00a0\u2220ONS = 140\u00b0, find the size of\u00a0\u2220POM.",
+    "options": {
+      "A": "40o",
+      "B": "50o",
+      "C": "60o",
+      "D": "80o"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1328",
+    "text": "In the diagram, PTR is a tangent to the centre O. If angles TON = 108\u00b0, Calculate the size of angle PTN",
+    "options": {
+      "A": "132o",
+      "B": "126o",
+      "C": "108o",
+      "D": "102o"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1329",
+    "text": "In the diagram, PQ//RT, QR//Su,",
+    "options": {
+      "A": "134o",
+      "B": "132o",
+      "C": "96o",
+      "D": "48o"
+    },
+    "correct_answer": "B",
+    "explanation": "In the diagram; a = b = 48",
+    "year": "2015"
+  },
+  {
+    "number": "1330",
+    "text": "In the diagram, O is the centre, \\(\\bar{RT}\\) is a diameter, < PQT = 33\\(^o\\) and <TOS = 76\\(^o\\). Using the diagram, calculate the value of angle PTR.",
+    "options": {
+      "A": "73o",
+      "B": "67o",
+      "C": "57o",
+      "D": "37o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1331",
+    "text": "In the diagram, O is the centre, \\(\\bar{RT}\\) is a diameter, < PQT = 33\\(^o\\)\u00a0and < TOS =\u00a0 76\\(^o\\). Using the diagram, find the size of angle PRS.",
+    "options": {
+      "A": "76o",
+      "B": "71o",
+      "C": "38o",
+      "D": "33o"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1332",
+    "text": "\\(\\begin{array}{c|c}\r\nx & 0 & 1\\frac{1}{4} & 2 & 4\\\\\r\n\\hline\r\ny & 3\u00a0& 5\\frac{1}{2} & &\r\n\\end{array}\\)\r\nThe table given shows some values for a linear graph. Find the gradient of the line",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1333",
+    "text": "PQRS\u00a0is a square. If x is the midpoint of PQ, calculate correct to the nearest degree, <PXS.",
+    "options": {
+      "A": "53o",
+      "B": "55o",
+      "C": "63o",
+      "D": "65o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1334",
+    "text": "The angle of elevation of an aircraft from a point K on the horizontal ground 30\\(\\alpha\\). If the aircraft is 800m above the ground, how far is it from K?",
+    "options": {
+      "A": "400.00m",
+      "B": "692.82m",
+      "C": "923.76m",
+      "D": "1,600.00m"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1335",
+    "text": "The population of students in a school is 810. If this is represented on a pie chart, calculate the sectoral angle for a class of 72 students",
+    "options": {
+      "A": "32o",
+      "B": "45o",
+      "C": "60o",
+      "D": "75o"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1336",
+    "text": "The scores of twenty students in a test are as follows: 44, 47, 48, 49, 50, 51, 52, 53, 53, 54, 58, 59, 60, 61, 63, 65, 67, 70, 73, 75. Find the third quartile.",
+    "options": {
+      "A": "62",
+      "B": "63",
+      "C": "64",
+      "D": "65"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1337",
+    "text": "Score\n0 - 4\n5 - 9\n10 - 14\n\n\nFrequency\n2\n1\n2\n\n\n\nThe table shows the distribution of the scores of some students in a test. Calculate the mean scores.",
+    "options": {
+      "A": "5.6",
+      "B": "6.2",
+      "C": "6.6",
+      "D": "7.0"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1338",
+    "text": "The probability that kebba, Ebou and Omar will hit a target are \\(\\frac{2}{3}\\), \\(\\frac{3}{4}\\) and \\(\\frac{4}{5}\\) respectively. Find the probability that only Kebba will hit the target.",
+    "options": {
+      "A": "\\(\\frac{2}{5}\\)",
+      "B": "\\(\\frac{7}{60}\\)",
+      "C": "\\(\\frac{1}{30}\\)",
+      "D": "\\(\\frac{1}{60}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1339",
+    "text": "In the diagram, VW//YZ, |WX| = 6cm, |XY| = 16cm, |YZ| = 20cm and |ZX| = 12cm. Calculate |VX|",
+    "options": {
+      "A": "3cm",
+      "B": "4cm",
+      "C": "6cm",
+      "D": "8cm"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1340",
+    "text": "Tom will be 25 years old in n years' time. If he is 5 years younger than Bade, find Bade's present age.",
+    "options": {
+      "A": "(30 - n)years",
+      "B": "(20 - n)years",
+      "C": "(25 - n)years",
+      "D": "(30 + n)years"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1341",
+    "text": "If \\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{3}}\\) is simplified as m + n\\(\\sqrt{6}\\), find the value of (m + n)",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "1\\(\\frac{1}{3}\\)",
+      "D": "1\\(\\frac{2}{3}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1342",
+    "text": "In the given diagram, \\(\\bar{QT}\\) and \\(\\bar{PR}\\) are straight lines, < ROS = (3n - 20), < SOT = n, < POL = m and < QOL is a right angle. Find the value of n.",
+    "options": {
+      "A": "35o",
+      "B": "40o",
+      "C": "55o",
+      "D": "60o"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1343",
+    "text": "Make K the subject of the relation T = \\(\\sqrt{\\frac{TK - H}{K - H}}\\)",
+    "options": {
+      "A": "K = \\(\\frac{H(T^2 - 1)}{T^2 - T}\\)",
+      "B": "K = \\(\\frac{HT}{(T - 1)^2}\\)",
+      "C": "K = \\(\\frac{H(T^2 + 1)}{T}\\)",
+      "D": "K = \\(\\frac{H(T - 1)}{T}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "T = \\(\\sqrt{\\frac{TK - H}{K - H}}\\)",
+    "year": "2015"
+  },
+  {
+    "number": "1344",
+    "text": "Which of the following is used to determine the mode of a grouped data?",
+    "options": {
+      "A": "Bar chart",
+      "B": "Frequency  polygon",
+      "C": "Ogive",
+      "D": "Histogram"
+    },
+    "correct_answer": "D",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "2015"
+  },
+  {
+    "number": "1345",
+    "text": "The area of a rhombus is 110 cm\\(^2\\). If the diagonals are 20 cm and (2x + 1) cm long, find the value of x.",
+    "options": {
+      "A": "5.0",
+      "B": "4.0",
+      "C": "3.0",
+      "D": "2.5"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1346",
+    "text": "Simplify: \\(\\frac{3x - y}{xy} -\u00a0\\frac{2x + 3y}{2xy} + \\frac{1}{2}\\)",
+    "options": {
+      "A": "\\(\\frac{4x + 5y - xy}{2xy}\\)",
+      "B": "\\(\\frac{5y - 4x + xy}{2xy}\\)",
+      "C": "\\(\\frac{5x + 4y - xy}{2xy}\\)",
+      "D": "\\(\\frac{4x - 5y + xy}{2xy}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1347",
+    "text": "A farmer uses \\(\\frac{2}{5}\\) of his land to grow cassava, \\(\\frac{1}{3}\\) of the remaining for yam and the rest for maize. Find the part of the land used for maize",
+    "options": {
+      "A": "\\(\\frac{2}{15}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "\\(\\frac{4}{5}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "Let x represent the entire farmland",
+    "year": "2015"
+  },
+  {
+    "number": "1348",
+    "text": "The rate of consumption of petrol by a vehicle varies directly as the square of the distance covered. If 4 litres of petrol is consumed on a distance of 15km. how far would the vehicle go on 9 litres of petrol?",
+    "options": {
+      "A": "22\\(\\frac{1}{2}\\)km",
+      "B": "30km",
+      "C": "33\\(\\frac{1}{2}\\)km",
+      "D": "45km"
+    },
+    "correct_answer": "A",
+    "explanation": "R \\(\\alpha\\) D",
+    "year": "2015"
+  },
+  {
+    "number": "1349",
+    "text": "A trader bought 100 oranges at 5 for N40.00 and sold them at 20 for N120.00. Find the profit or loss percent",
+    "options": {
+      "A": "20% profit",
+      "B": "20% loss",
+      "C": "25% profit",
+      "D": "25% loss"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1350",
+    "text": "Describe the shaded portion in the diagram",
+    "options": {
+      "A": "P' \\(\\cap\\) Q \\(\\cap\\) R'",
+      "B": "(P' \\(\\cap\\) R)'  \\(\\cap\\) R",
+      "C": "P' \\(\\cap\\) Q \\(\\cap\\) R",
+      "D": "(P \\(\\cap\\) Q)'  \\(\\cap\\) R"
+    },
+    "correct_answer": "A",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "2015"
+  },
+  {
+    "number": "1351",
+    "text": "Find the value of p if \\(\\frac{1}{4}\\)p + 3q = 10 and 2p - \\(\\frac{1}{3}\\)q = 7",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "-3",
+      "D": "-4"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1352",
+    "text": "Calculate the mean deviation of 5, 3, 0, 7, 2, 1",
+    "options": {
+      "A": "0.0",
+      "B": "2.0",
+      "C": "2.5",
+      "D": "3.0"
+    },
+    "correct_answer": "B",
+    "explanation": "mean = \\(\\bar{x}\\) = \\(\\frac{\\sum x}{n}\\)",
+    "year": "2015"
+  },
+  {
+    "number": "1353",
+    "text": "In the diagram, the shaded part is carpet laid in a room with dimensions 3.5m by 2.2m leaving a margin of 0.5m round it. Find area of the margin",
+    "options": {
+      "A": "4.7m2",
+      "B": "4.9m2",
+      "C": "5.7m2",
+      "D": "5.9m2"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1354",
+    "text": "Two angles of a pentagon are in the ratio 2:3. The others are 60o each. Calculate the smaller of the two angles",
+    "options": {
+      "A": "72o",
+      "B": "100o",
+      "C": "120o",
+      "D": "144o"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1355",
+    "text": "A letter is selected from the letters of the English alphabet. What is the probability that the letter selected is from the word MATHEMATICS?",
+    "options": {
+      "A": "\\(\\frac{9}{13}\\)",
+      "B": "\\(\\frac{11}{26}\\)",
+      "C": "\\(\\frac{4}{13}\\)",
+      "D": "\\(\\frac{1}{26}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "Two word mathematics is first rewritten as mathematics, since every letter of mathematics appears once in the english alphabet.",
+    "year": "2015"
+  },
+  {
+    "number": "1356",
+    "text": "In a circle radius rcm, a chord 16\\(\\sqrt{3}cm\\) long is 10cmfrom the centre of the circle. Find, correct to the nearest cm, the value of r",
+    "options": {
+      "A": "22cm",
+      "B": "17cm",
+      "C": "16cm",
+      "D": "15cm"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2015"
+  },
+  {
+    "number": "1357",
+    "text": "In the diagram, \\(\\bar{OX}\\) bisects < YXZ and \\(\\bar{OZ}\\) bisects < YZX. If < XYZ = 68o, calculate the value of < XOZ",
+    "options": {
+      "A": "68o",
+      "B": "72o",
+      "C": "112o",
+      "D": "124o"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2015"
+  }
+]

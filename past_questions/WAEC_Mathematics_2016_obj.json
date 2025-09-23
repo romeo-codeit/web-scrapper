@@ -1,0 +1,639 @@
+[
+  {
+    "number": "1358",
+    "text": "If 23x + 101x = 130x, find the value of x",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "5",
+      "D": "4"
+    },
+    "correct_answer": "D",
+    "explanation": "23",
+    "year": "2016"
+  },
+  {
+    "number": "1359",
+    "text": "Simplify: (\\(\\frac{3}{4} - \\frac{2}{3}\\)) x 1\\(\\frac{1}{5}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{60}\\)",
+      "B": "\\(\\frac{5}{72}\\)",
+      "C": "\\(\\frac{1}{10}\\)",
+      "D": "1\\(\\frac{7}{10}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "(\\(\\frac{3}{4} - \\frac{2}{3}\\)) x 1\\(\\frac{1}{5}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1360",
+    "text": "Simplify:(\\(\\frac{10\\sqrt{3}}{\\sqrt{5}} - \\sqrt{15}\\))2",
+    "options": {
+      "A": "75.00",
+      "B": "15.00",
+      "C": "8.66",
+      "D": "3.87"
+    },
+    "correct_answer": "B",
+    "explanation": "Note that \\(\\frac{10\\sqrt{3}}{\\sqrt{5}} = \\frac{10\\sqrt{3}}{\\sqrt{5}} \\times - \\frac{\\sqrt{5}}{\\sqrt{5}}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1361",
+    "text": "The distance, d, through which a stone falls from rest varies directly as the square of the time, t, taken. If the stone falls 45cm in 3 seconds, how far will it fall in 6 seconds?",
+    "options": {
+      "A": "90cm",
+      "B": "135cm",
+      "C": "180cm",
+      "D": "225cm"
+    },
+    "correct_answer": "C",
+    "explanation": "d \\(\\alpha\\) t",
+    "year": "2016"
+  },
+  {
+    "number": "1362",
+    "text": "Which of following is a valid conclusion from the premise. \"Nigeria footballers are good footballers\"?",
+    "options": {
+      "A": "Joseph plays football in Nigeria therefore he is a good footballer",
+      "B": "Joseph is a good footballer therefore he is a Nigerian footballer",
+      "C": "Joseph is a Nigerian footballer therefore he is a good footballer",
+      "D": "Joseph plays good football therefore he is a Nigerian footballer"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1363",
+    "text": "On a map, 1cm represent 5km. Find the area on the map that represents 100km2.",
+    "options": {
+      "A": "2cm2",
+      "B": "4cm2",
+      "C": "8cm2",
+      "D": "8cm2"
+    },
+    "correct_answer": "B",
+    "explanation": "On a map, 1cm represents 5km. Then it follows that 1cm",
+    "year": "2016"
+  },
+  {
+    "number": "1364",
+    "text": "Simplify; \\(\\frac{3^{n - 1} \\times 27^{n + 1}}{81^{n}}\\)",
+    "options": {
+      "A": "32n",
+      "B": "9",
+      "C": "3n",
+      "D": "3n + 1"
+    },
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{3^{n - 1} \\times 27^{n + 1}}{81^{n}}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1365",
+    "text": "What sum of money will amount to D10,400 in 5 years at 6% simple interest?",
+    "options": {
+      "A": "D8,000.00",
+      "B": "D10,000.00",
+      "C": "D12,000.00",
+      "D": "D16,000.00"
+    },
+    "correct_answer": "A",
+    "explanation": "A = P + 1",
+    "year": "2016"
+  },
+  {
+    "number": "1366",
+    "text": "The roots of a quadratic equation are \\(\\frac{4}{3}\\) and -\\(\\frac{3}{7}\\). Find the equation",
+    "options": {
+      "A": "21x2 - 19x - 12 = 0",
+      "B": "21x2 + 37x - 12 = 0",
+      "C": "21x2 - x + 12 = 0",
+      "D": "21x2 + 7x - 4 = 0"
+    },
+    "correct_answer": "A",
+    "explanation": "Let x = \\(\\frac{4}{3}\\), x =  -\\(\\frac{3}{7}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1367",
+    "text": "Find the values of y for which the expression \\(\\frac{y^2 - 9y + 18}{y^2 + 4y - 21}\\) is undefined",
+    "options": {
+      "A": "6, -7",
+      "B": "3, -6",
+      "C": "3, -7",
+      "D": "-3, -7"
+    },
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{y^2 - 9y + 18}{y^2 + 4y - 21}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1368",
+    "text": "Given that 2x + y = 7 and 3x - 2y = 3, by how much is 7x greater than 10?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "7",
+      "D": "17"
+    },
+    "correct_answer": "C",
+    "explanation": "2x + y = 7...(1)",
+    "year": "2016"
+  },
+  {
+    "number": "1369",
+    "text": "Simplify; \\(\\frac{2}{1 - x} - \\frac{1}{x}\\)",
+    "options": {
+      "A": "\\(\\frac{x + 1}{x(1 - x)}\\)",
+      "B": "\\(\\frac{3x - 1}{ x(1 - x)}\\)",
+      "C": "\\(\\frac{3x + 1}{ x(1 - x)}\\)",
+      "D": "\\(\\frac{x - 1}{ x(1 - x)}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1370",
+    "text": "Make s the subject of the relation: P = S + \\(\\frac{sm^2}{nr}\\)",
+    "options": {
+      "A": "s = \\(\\frac{mrp}{nr + m^2}\\)",
+      "B": "s = \\(\\frac{nr + m^2}{mrp}\\)",
+      "C": "s = \\(\\frac{nrp}{mr + m^2}\\)",
+      "D": "s = \\(\\frac{nrp}{nr + m^2}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "P = S + \\(\\frac{sm^2}{nr}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1371",
+    "text": "Factorize; (2x + 3y)2 - (x - 4y)2",
+    "options": {
+      "A": "(3x - y)(x + 7y)",
+      "B": "(3x + y)(2x - 7y)",
+      "C": "(3x + y)(x - 7y)",
+      "D": "(3x - y)(2x + 7y)"
+    },
+    "correct_answer": "A",
+    "explanation": "(2x + 3y)",
+    "year": "2016"
+  },
+  {
+    "number": "1372",
+    "text": "The curve surface area of a cylinder, 5cm high is 110cm 2. Find the radius of its base. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "2.6cm",
+      "B": "3.5cm",
+      "C": "3.6cm",
+      "D": "7.0cm"
+    },
+    "correct_answer": "B",
+    "explanation": "Curved surface area of cylinder = 2\\(\\pi\\)rh",
+    "year": "2016"
+  },
+  {
+    "number": "1373",
+    "text": "The volume of a pyramid with height 15cm is 90cm3. If its base is a rectangle with dimension xcm by 6cm, find the value of x",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "6",
+      "D": "8"
+    },
+    "correct_answer": "A",
+    "explanation": "Volume of pyramid = \\(\\frac{1}{3}\\)lbh",
+    "year": "2016"
+  },
+  {
+    "number": "1374",
+    "text": "A straight line passes through the points P(1,2) and Q(5,8). Calculate the gradient of the line PQ",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{5}{3}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1375",
+    "text": "A straight line passes through the point P(1,2) and Q\r\n(5,8). Calculate the length PQ",
+    "options": {
+      "A": "\\(4\\sqrt{11}\\)",
+      "B": "\\(4\\sqrt{10}\\)",
+      "C": "\\(2\\sqrt{17}\\)",
+      "D": "\\(2\\sqrt{13}\\)"
+    },
+    "correct_answer": "D",
+    "explanation": "|PQ| = \\(\\sqrt{(x_2 - X- 1) + (y_2 - y_1)^2}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1376",
+    "text": "If cos \\(\\theta\\) = x and sin 60o = x + 0.5 0o < \\(\\theta\\) < 90o, find, correct to the nearest degree, the value of \\(\\theta\\)",
+    "options": {
+      "A": "32o",
+      "B": "40o",
+      "C": "60o",
+      "D": "69o"
+    },
+    "correct_answer": "D",
+    "explanation": "sin 60",
+    "year": "2016"
+  },
+  {
+    "number": "1377",
+    "text": "Age(years)\n13\n14\n15\n16\n17\n\n\nFrequency\n10\n24\n8\n5\n3\n\n\n\nThe table shows the ages of students in a club. How many students are in the club?",
+    "options": {
+      "A": "50",
+      "B": "55",
+      "C": "60",
+      "D": "65"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1378",
+    "text": "\\(\\begin{array}{c|c} \r\nAge(years) & 13 & 14 & 15 & 16 & 17 \\\\ \r\n\\hline \r\nFrequency & 10 & 24 & 8 & 5 & 3\r\n\\end{array}\\)\r\nFind the median age",
+    "options": {
+      "A": "13",
+      "B": "14",
+      "C": "15",
+      "D": "16"
+    },
+    "correct_answer": "B",
+    "explanation": "Median = \\(\\frac{N}{2}\\)th age",
+    "year": "2016"
+  },
+  {
+    "number": "1379",
+    "text": "In the diagram, \\(\\bar{YW}\\) is a tangent to the circle at X, |UV| = |VX| and < VXW = 50\u00ba. Find the value of < UXY.",
+    "options": {
+      "A": "70o",
+      "B": "80o",
+      "C": "105o",
+      "D": "110o"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1380",
+    "text": "In the diagram, \\(\\bar{PF}\\), \\(\\bar{QT}\\), \\(\\bar{RG}\\) intersect at S and PG||RG. If < SPQ = 113o and < RSt = 220, find < PSQ",
+    "options": {
+      "A": "22o",
+      "B": "45o",
+      "C": "67o",
+      "D": "89o"
+    },
+    "correct_answer": "B",
+    "explanation": "In In the diagram given, \\(\\alpha\\) = 22",
+    "year": "2016"
+  },
+  {
+    "number": "1381",
+    "text": "In the diagram, O is the centre of the circle, < XOZ = (10cm)o and < XWZ = mo. Calculate the value of m.",
+    "options": {
+      "A": "30",
+      "B": "36",
+      "C": "40",
+      "D": "72"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1382",
+    "text": "Kweku walked 8m up to slope and was 3m above the ground. If he walks 12m further up the slope, how far above the ground will he be?",
+    "options": {
+      "A": "4.5m",
+      "B": "6.0m",
+      "C": "7.5m",
+      "D": "9.0m"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1383",
+    "text": "In the diagram, TS is a tangent to the circle at S. |PR| and < PQR = 177o. Calculate < PST.",
+    "options": {
+      "A": "54o",
+      "B": "44o",
+      "C": "34o",
+      "D": "27o"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1384",
+    "text": "In the diagram, PR||SV||WY|, TX||QY|, < PQT = 48o and < TXW = 60o.Find < TQU.",
+    "options": {
+      "A": "120o",
+      "B": "108o",
+      "C": "72o",
+      "D": "60o"
+    },
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1385",
+    "text": "In the diagram, TX is perpendicular to UW, |UX| = 1cm and |TX| = |WX| = \\(\\sqrt{3}\\)cm. Find UTW",
+    "options": {
+      "A": "135o",
+      "B": "105o",
+      "C": "75o",
+      "D": "60o"
+    },
+    "correct_answer": "C",
+    "explanation": "In \\(\\Delta\\) UXT, tan\\(\\alpha\\) = \\(\\frac{1}{\\sqrt{3}}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1386",
+    "text": "The figure is a pie chart which represents the expenditure of a family in a year. If the total income of the family was Le 10,800,000.00, how much was spent on food?",
+    "options": {
+      "A": "Le 2,250,000.00",
+      "B": "Le 22,700,000.00",
+      "C": "Le 3,600,000.00",
+      "D": "Le 4,500,000.00"
+    },
+    "correct_answer": "C",
+    "explanation": "sectoral angle representing food",
+    "year": "2016"
+  },
+  {
+    "number": "1387",
+    "text": "A fair die is thrown two times. What is the probability that the sum of the scores is at least 10?",
+    "options": {
+      "A": "\\(\\frac{5}{36}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{5}{18}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1388",
+    "text": "The marks of eight students in a test are: 3, 10, 4, 5, 14, 13, 16 and 7. Find the range",
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "13",
+      "D": "11"
+    },
+    "correct_answer": "C",
+    "explanation": "First, arrange the marks in order of magnitude; 3, 4, 5, 7, 10, 13, 14, 16",
+    "year": "2016"
+  },
+  {
+    "number": "1389",
+    "text": "If log2(3x - 1) = 5, find x.",
+    "options": {
+      "A": "2.00",
+      "B": "3.67",
+      "C": "8.67",
+      "D": "11"
+    },
+    "correct_answer": "D",
+    "explanation": "Log",
+    "year": "2016"
+  },
+  {
+    "number": "1390",
+    "text": "A sphere of radius rcm has the same volume as cylinder of radius 3cm and height 4cm. Find the value of r",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "correct_answer": "C",
+    "explanation": "Volume of sphere = Volume of cylinder",
+    "year": "2016"
+  },
+  {
+    "number": "1391",
+    "text": "Express 1975 correct to 2 significant figures",
+    "options": {
+      "A": "20",
+      "B": "1,900",
+      "C": "1,980",
+      "D": "2,000"
+    },
+    "correct_answer": "D",
+    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "year": "2016"
+  },
+  {
+    "number": "1392",
+    "text": "The diagram, MOPQ is a trapezium with QP||MO, MQ||NP, NQ||OP, |QP| = 9cm and the height of \\(\\Delta\\) QNP = 6cm, calculate the area of the trapezium.",
+    "options": {
+      "A": "96cm2",
+      "B": "90cm2",
+      "C": "81cm2",
+      "D": "27cm2"
+    },
+    "correct_answer": "C",
+    "explanation": "Area of \\(\\Delta\\) QNP = \\(\\frac{1}{2} \\times 9 \\times 6 \\) = 27cm",
+    "year": "2016"
+  },
+  {
+    "number": "1393",
+    "text": "The perimeter of a sector of a circle of radius 21cm is 64cm. Find the angle of the sector [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "70o",
+      "B": "60o",
+      "C": "55o",
+      "D": "42o"
+    },
+    "correct_answer": "B",
+    "explanation": "Perimeter of a sector",
+    "year": "2016"
+  },
+  {
+    "number": "1394",
+    "text": "Examine M' \\(\\cap\\) N from the venn diagram",
+    "options": {
+      "A": "{f, g}",
+      "B": "{e}",
+      "C": "{e, f, g}",
+      "D": "{e, f, g}"
+    },
+    "correct_answer": "A",
+    "explanation": "From the venn diagram given,",
+    "year": "2016"
+  },
+  {
+    "number": "1395",
+    "text": "If 20(mod 9) is equivalent to y(mod 6), find y.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct_answer": "B",
+    "explanation": "First, reduce 20(mod 9) to its simplest form in mod 9; 9 x 2 + 2 = 2(mod 9)",
+    "year": "2016"
+  },
+  {
+    "number": "1396",
+    "text": "Simplify \\(\\frac{(p - r)^2 - r^2}{2p^2 - 4pr}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "p - 2r",
+      "C": "\\(\\frac{1}{p - 2r}\\)",
+      "D": "\\(\\frac{2p}{p - 2r}\\)"
+    },
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{(p - r)^2 - r^2}{2p^2 - 4pr}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "1397",
+    "text": "In the diagram, O is the centre of the circle, < QPS = 100o, < PSQ = 60o and < QSR. Calculate < SQR",
+    "options": {
+      "A": "20o",
+      "B": "40o",
+      "C": "60o",
+      "D": "80o"
+    },
+    "correct_answer": "A",
+    "explanation": "In the diagram, < RPQ = 80",
+    "year": "2016"
+  },
+  {
+    "number": "1398",
+    "text": "A bag contains 5 red and 4 blue identical balls. Id two balls are selected at random from the bag, one after the other, with replacement, find the probability that the first is red and the second is blue",
+    "options": {
+      "A": "\\(\\frac{2}{9}\\)",
+      "B": "\\(\\frac{5}{18}\\)",
+      "C": "\\(\\frac{20}{81}\\)",
+      "D": "\\(\\frac{5}{9}\\)"
+    },
+    "correct_answer": "C",
+    "explanation": "n(red balls) = 5",
+    "year": "2016"
+  },
+  {
+    "number": "1399",
+    "text": "The relation y = x2 + 2x + k passes through the point (2,0). Find the value of k",
+    "options": {
+      "A": "- 8",
+      "B": "- 4",
+      "C": "4",
+      "D": "8"
+    },
+    "correct_answer": "A",
+    "explanation": "Y = x",
+    "year": "2016"
+  },
+  {
+    "number": "1400",
+    "text": "Find the next three terms of the sequence; 0, 1, 1, 2, 3, 5, 8...",
+    "options": {
+      "A": "13, 19, 23",
+      "B": "9, 11, 13",
+      "C": "11, 15, 19",
+      "D": "13, 21, 34"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1401",
+    "text": "Find the lower quartile of the distribution illustrated by the cumulative frequency curve",
+    "options": {
+      "A": "17.5",
+      "B": "19.0",
+      "C": "27.5",
+      "D": "28.0"
+    },
+    "correct_answer": "B",
+    "explanation": "Lower quartile,",
+    "year": "2016"
+  },
+  {
+    "number": "1402",
+    "text": "The ratio of the exterior angle to the interior angle of a regular polygon is 1:11. How many sides has the polygon?",
+    "options": {
+      "A": "30",
+      "B": "24",
+      "C": "18",
+      "D": "12"
+    },
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1403",
+    "text": "Halima is n years old. Her brother's age is 5 years more than half of her age. How old is her brother?",
+    "options": {
+      "A": "\\(\\frac{n}{2} + \\frac{5}{2}\\)",
+      "B": "\\(\\frac{n}{2}\\) - 5",
+      "C": "5 - \\(\\frac{n}{2}\\)",
+      "D": "\\(\\frac{n}{2}\\) + 5"
+    },
+    "correct_answer": "D",
+    "explanation": "Halima's age = n years old",
+    "year": "2016"
+  },
+  {
+    "number": "1404",
+    "text": "In the diagram MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140o, find, correct to the nearest cm, the length of the chord MN.",
+    "options": {
+      "A": "19cm",
+      "B": "18cm",
+      "C": "17cm",
+      "D": "12cm"
+    },
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1405",
+    "text": "An object is 6m away from the base of a mast. If the angle of depression of the object from the top of the mast is 50o, find, correct to 2 decimal places, the height of the mast.",
+    "options": {
+      "A": "8.60m",
+      "B": "7.83m",
+      "C": "7.51m",
+      "D": "7.15m"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2016"
+  },
+  {
+    "number": "1406",
+    "text": "From the diagram, which of the following is true?",
+    "options": {
+      "A": "m + n + p = 180o",
+      "B": "m + n = 180o",
+      "C": "m = p + n",
+      "D": "n = m + p"
+    },
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2016"
+  }
+]
