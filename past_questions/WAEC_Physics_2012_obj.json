@@ -1,0 +1,660 @@
+[
+  {
+    "number": "1218",
+    "text": "The derived unit of pressure can be expressed as",
+    "options": {
+      "A": "kgms-2",
+      "B": "kg m-1s-2",
+      "C": "kg m-2s-2",
+      "D": "kg m-1s2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35515?exam_type=waec&type=obj&page=244",
+    "correct_answer": "B",
+    "explanation": "Pressure = \\(\\frac{Force}{Area}\\)\nForce = mass x acceleration\n\\(\\therefore\\) Pressure = \\(\\frac{mass \\times acceleration}{Area}\\)\n= \\(\\frac{kg \\times m \\times s^{-2}}{m^2}\\)\n= kg m\\(^{-1}\\) s\\(^{-2}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1219",
+    "text": "The diagram above illustrates trapped air in a syringe placed in water that is gradually heated. It is observed that the piston rises as the temperature of the water rises. Which of the following statements explains this observation?",
+    "options": {
+      "A": "frequency of collision of trapped air molecules with walls of the syringe is more",
+      "B": "molecules of trapped air expands more",
+      "C": "speed of the trapped air molecules decreases",
+      "D": "number of molecules of trapped air increases"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35518?exam_type=waec&type=obj&page=244",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1220",
+    "text": "Which of the following devices is used to determine the relative density of an acid?",
+    "options": {
+      "A": "manometer",
+      "B": "hydrometer",
+      "C": "hypsometer",
+      "D": "hygrometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35522?exam_type=waec&type=obj&page=244",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1221",
+    "text": "A block of wood of density 0.6 gcm\\(^{-3}\\), weighing 3.06N in air, floats freely in a liquid of density 0.9 gcm\\(^{-3}\\). Calculate volume of the portion immersed (g = 10ms\\(^{-2}\\))",
+    "options": {
+      "A": "510cm3",
+      "B": "340cm3",
+      "C": "254cm3",
+      "D": "170cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35525?exam_type=waec&type=obj&page=245",
+    "correct_answer": "B",
+    "explanation": "V = \\(\\frac{M}{D}\\)= \\(\\frac{3.06}{10} \\times \\frac{1000}{0.9} = 340\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1222",
+    "text": "A metal ball of weight W falls through a column of glycerine of viscosity V. If the ball experiences an upthrust U and terminal velocity\u00a0is attained, then",
+    "options": {
+      "A": "W > U + V",
+      "B": "W = U + V",
+      "C": "W = U - V",
+      "D": "W < U + V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35526?exam_type=waec&type=obj&page=245",
+    "correct_answer": "B",
+    "explanation": "When terminal velocity is attained, The equation of motion becomes\nmg - V - U = 0\n\\(\\therefore\\) mg = W = U + V",
+    "year": "2012"
+  },
+  {
+    "number": "1223",
+    "text": "The movement of fluid up or down a narrow tube is",
+    "options": {
+      "A": "osmosis",
+      "B": "brownian motion",
+      "C": "capillarity",
+      "D": "diffusion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35527?exam_type=waec&type=obj&page=245",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1224",
+    "text": "Which of the following substances is the most volatile at room temperature?",
+    "options": {
+      "A": "water",
+      "B": "diesel",
+      "C": "petrol",
+      "D": "kerosine"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35528?exam_type=waec&type=obj&page=245",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1225",
+    "text": "A bird flies at 10ms\\(^{-1}\\) for 3s, 15ms\\(^{-1}\\) for 3s and 20 ms\\(^{-1}\\) for 4s. Calculate the bird's average speed",
+    "options": {
+      "A": "4.5 ms-1",
+      "B": "15.0 ms-1",
+      "C": "15.5 ms-1",
+      "D": "51.7 ms-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35529?exam_type=waec&type=obj&page=245",
+    "correct_answer": "C",
+    "explanation": "Av. speed = \\(\\frac{3 \\times 15 + 3 \\times 10 + 4 \\times 20}{3 + 3 + 4}\\)= 15.5 ms\\(^{-1}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1226",
+    "text": "The time of flight for a projectile motion is given by the expression",
+    "options": {
+      "A": "\\(\\frac{U sin \\theta}{g}\\)",
+      "B": "\\(\\frac{U sin \\theta}{2g}\\)",
+      "C": "\\(\\frac{2U sin \\theta}{g}\\)",
+      "D": "\\(\\frac{U sin 2\\theta}{g}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35530?exam_type=waec&type=obj&page=246",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1227",
+    "text": "An object is dropped from the top of a tower. If it takes 4s for it to reach the ground, calculate the height of the tower.(g = 10 ms-2, ignore air resistance)",
+    "options": {
+      "A": "20m",
+      "B": "40m",
+      "C": "80m",
+      "D": "160m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35534?exam_type=waec&type=obj&page=246",
+    "correct_answer": "C",
+    "explanation": "H = \\(\\frac{1}{2} gt^2\\)\\(\\frac{1}{2} \\times 10 \\times 4^2 = 80\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1228",
+    "text": "When a body is slightly tilted, it is found that its centre of gravity is slightly raised. What is the state of equilibrium of the body?",
+    "options": {
+      "A": "unstable",
+      "B": "stable",
+      "C": "neutral",
+      "D": "cannot be determined"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35536?exam_type=waec&type=obj&page=246",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1229",
+    "text": "A simple pendulum makes 50 oscillations in one minute. Determine its period of oscillation",
+    "options": {
+      "A": "0.02s",
+      "B": "0.83s",
+      "C": "1.20s",
+      "D": "50.00s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35555?exam_type=waec&type=obj&page=246",
+    "correct_answer": "C",
+    "explanation": "T = \\(\\frac{t}{n} = \\frac{60}{50} = 1.2\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1230",
+    "text": "The tendency for a stationary body to continue to remain at rest when a force is applied to it is known as",
+    "options": {
+      "A": "friction",
+      "B": "impulse",
+      "C": "inertia",
+      "D": "momentum"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35556?exam_type=waec&type=obj&page=246",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1231",
+    "text": "A resultant force of magnitude 15N acts on a body of mass 250g. Calculate the magnitude of the acceleration",
+    "options": {
+      "A": "0.06 ms-2",
+      "B": "3.75ms-2",
+      "C": "16.67ms-2",
+      "D": "60.00ms-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35557?exam_type=waec&type=obj&page=247",
+    "correct_answer": "D",
+    "explanation": "a = \\(\\frac{F}{M} = \\frac{15}{0.25} = 60\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1232",
+    "text": "A girl stands on a scale in a lift. If the reading on the scale is less than her weight, then the lift is moving",
+    "options": {
+      "A": "upward at uniform speed",
+      "B": "upward with uniform acceleration",
+      "C": "downward with uniform speed",
+      "D": "downward with uniform acceleration"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35559?exam_type=waec&type=obj&page=247",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1233",
+    "text": "The S.I unit of heat is",
+    "options": {
+      "A": "joule",
+      "B": "kelvin",
+      "C": "watt",
+      "D": "ampere"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35560?exam_type=waec&type=obj&page=247",
+    "correct_answer": "A",
+    "explanation": "Heat is a form of energy (heat energy). The S.I unit of energy generally is Joules (J).",
+    "year": "2012"
+  },
+  {
+    "number": "1234",
+    "text": "A body is pulled through a distance of 500m by a force of 20N. If the power developed is 0.4kW, calculate the time for which the force acts",
+    "options": {
+      "A": "250.0s",
+      "B": "25.0s",
+      "C": "2.5s",
+      "D": "0.5s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35562?exam_type=waec&type=obj&page=247",
+    "correct_answer": "B",
+    "explanation": "Force x Distance = Power x Time\nTime = \\(\\frac{Force \\times Distance}{Power}\\)\n= \\(\\frac{20 \\times 500}{0.4 \\times 1000}\\)\n= 25.0s",
+    "year": "2012"
+  },
+  {
+    "number": "1235",
+    "text": "A metal sheet of area 100cm\\(^2\\) was heated through 70\u00b0C. Calculate its new area if the linear expansivity of the metal is 0.000017K\\(^{-1}\\).",
+    "options": {
+      "A": "100.06 cm2",
+      "B": "100.12cm2",
+      "C": "100.24cm2",
+      "D": "100.36cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35565?exam_type=waec&type=obj&page=247",
+    "correct_answer": "C",
+    "explanation": "Formula: A\\(_2\\) = A\\(_1\\)(1 + \\(\\beta \\theta\\))\nwhere \\(\\beta\\) = The area expansivity\n\\(\\theta\\) = Change in temperature.\n\\(\\beta\\) = 2\\(\\alpha\\)\nwhere \\(\\alpha\\) = linear expansivity of the body.\n\u21d2 \\(\\beta\\) = 2 x 0.000017\n= 0.000034 K\\(^{-1}\\)\n\\(\\therefore\\) A\\(_2\\) = 100 (1 + (0.000034 x 70))\n= 100(1 + 0.00238)\n= 100(1.00238)\n= 100.238 cm\\(^2\\)\n= 100.24 cm\\(^2\\) (to 2 d.p)",
+    "year": "2012"
+  },
+  {
+    "number": "1236",
+    "text": "The thermopile is a device for detecting",
+    "options": {
+      "A": "radioactive radiations",
+      "B": "radiant energy",
+      "C": "x-rays",
+      "D": "the presence of electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35567?exam_type=waec&type=obj&page=248",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1237",
+    "text": "In the formation of sea breeze. wind blows from",
+    "options": {
+      "A": "sky to land",
+      "B": "sea to sky",
+      "C": "land to sea",
+      "D": "sea to land"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35568?exam_type=waec&type=obj&page=248",
+    "correct_answer": "D",
+    "explanation": "A sea breeze describes a wind that blows from the ocean (sea) inland towards land.",
+    "year": "2012"
+  },
+  {
+    "number": "1238",
+    "text": "A piece of copper of mass 20g at a temperature of 110\u00b0C was dropped into a mixture of ice and water at 0\u00b0C. If the final steady temperature of the mixture is 0\u00b0C . Calculate the amount of ice that melted [Specific heat capacity of copper = 0.4 Jg\\(^{-1}\\)K\\(^{-1}\\), specific latent heat of fusion of ice = 330Jg\\(^{-1}\\)]",
+    "options": {
+      "A": "0.37g",
+      "B": "0.60g",
+      "C": "2.40g",
+      "D": "2.70g"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35581?exam_type=waec&type=obj&page=248",
+    "correct_answer": "D",
+    "explanation": "Mice = \\(\\frac{MC}{\\theta}\\)= \\(\\frac{20 \\times 0.4 \\times 110}{330}\nHeat lost by copper\u00a0= Heat gained by ice\nm\\(_{copper}\\) c \\(\\theta\\) = m\\(_{ice}\\) L\n20 x 0.4 x (110 - 0) = m\\(_{ice}\\) x 330\nm\\(_{ice}\\) = \\(\\frac{20 \\times 0.4 \\times 110}{330}\\)\n= \\(\\frac{8}{3}\\)\n= 2.67 g\n= 2.70g (to 1 d.p)",
+    "year": "2012"
+  },
+  {
+    "number": "1239",
+    "text": "Which of the following factors decreases the rate of evaporation of a liquid?",
+    "options": {
+      "A": "increase in pressure over the liquid",
+      "B": "lowering the boiling point",
+      "C": "decreasing in humidity",
+      "D": "wind"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35585?exam_type=waec&type=obj&page=248",
+    "correct_answer": "A",
+    "explanation": "higher pressure tends to inhibit the process of evaporation.\u00a0Higher pressure \"pushes\" the vapor molecules back into the liquid, making it harder for them to evaporate.",
+    "year": "2012"
+  },
+  {
+    "number": "1240",
+    "text": "When two waves are superimposed on each other, the following occurrences are possible, except",
+    "options": {
+      "A": "nodal lins",
+      "B": "anti nodal lines",
+      "C": "stationary waves",
+      "D": "dispersion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35587?exam_type=waec&type=obj&page=248",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1241",
+    "text": "Which of the following properties of waves is exclusive to transverse waves?",
+    "options": {
+      "A": "reflection",
+      "B": "interference",
+      "C": "diffraction",
+      "D": "polarization"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35589?exam_type=waec&type=obj&page=249",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1242",
+    "text": "An object of height 2.5cm is places 20cm from a convex mirror of focal length 10cm. Calculate the height of its image.",
+    "options": {
+      "A": "2.5 cm",
+      "B": "3.0cm",
+      "C": "5.0cm",
+      "D": "25.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35592?exam_type=waec&type=obj&page=249",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u}\\)\n= \\(\\frac{1}{10} - \\frac{1}{2} = \\frac{1}{20}\\)\nv = 20but h\\(_i\\)\u00a0= \\(\\frac{v \\times h_o}{u}\\)\n= \\(\\frac{20 \\times 2.5 }{20}\\)\n= 2.5cm",
+    "year": "2012"
+  },
+  {
+    "number": "1243",
+    "text": "A ray of light passes from air to water to glass to air. Given that the refractive index for light passing from air to water is \\(\\frac{4}{3}\\) and air to glass is \\(\\frac{3}{2}\\), calculate the refractive index of glass relative to water",
+    "options": {
+      "A": "0.50",
+      "B": "0.67",
+      "C": "0.75",
+      "D": "1.13"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35594?exam_type=waec&type=obj&page=249",
+    "correct_answer": "D",
+    "explanation": "\\(_{g} \\eta _{w} = \\frac{ _g\u00a0\\eta _a}{ _a \\eta _w}\\)\n= \\(\\frac{3}{2} \\times \\frac{1}{\\frac{4}{3}}\\)\n= \\(\\frac{3}{2} \\times \\frac{3}{4}\\)\n= \\(\\frac{9}{8}\\)\n= 1.125\n= 1.13 (to 2 d.p)",
+    "year": "2012"
+  },
+  {
+    "number": "1244",
+    "text": "An object is placed at a point X between the focal point F and the optical centre C of a diverging lens. If F is the focal point on the other side of the lens, the image of the object is formed between",
+    "options": {
+      "A": "F and X",
+      "B": "X and C",
+      "C": "C and F",
+      "D": "F and 2F"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35596?exam_type=waec&type=obj&page=249",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1245",
+    "text": "An object is placed 10cm from a converging lens of foal length 15cm. Calculate the magnification of the image formed",
+    "options": {
+      "A": "3.0",
+      "B": "1.5",
+      "C": "0.6",
+      "D": "0.3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35598?exam_type=waec&type=obj&page=249",
+    "correct_answer": "A",
+    "explanation": "Concave/converging mirror:\n* produces a virtual image when object distance(u) exceeds its focal length(f).\n\\(\\frac{1}{f} = \\frac{1}{u} +\u00a0\\frac{1}{v}\\)\n\\(\\frac{1}{v} = \\frac{1}{f} -\u00a0\\frac{1}{u}\\)\\(\\frac{1}{15} -\u00a0\\frac{1}{10} = \\frac{2 -\u00a03}{30}\\)\n\\(\\frac{1}{v} = \\frac{-1}{30}\\)v = -30cm( virtual image)but m = \\(\\frac{v}{u} = \\frac{30}{10} = 3\\)\nNote that the negative sign only shows the placement of the image. It does not affect the magnification.",
+    "year": "2012"
+  },
+  {
+    "number": "1246",
+    "text": "A telescope is said to be in normal adjustment when the",
+    "options": {
+      "A": "focal length of he objective is greater than that of the eyepiece",
+      "B": "focal length of the eyepiece is greater than that of the objective",
+      "C": "focal length of the eyepiece is equal to that of the objective",
+      "D": "objective focal point coincides wih that of the eyepiece"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35602?exam_type=waec&type=obj&page=250",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1247",
+    "text": "The sound heard by a person after the reflection of the sound generated by him is called",
+    "options": {
+      "A": "reverberation",
+      "B": "resonance",
+      "C": "echo",
+      "D": "audibility"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35605?exam_type=waec&type=obj&page=250",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1248",
+    "text": "Which of the following sets of coloured light is/are secondary colours i. Red, Blue and green ii. Blue, cyan and magneta iii. Green, Magenta and yellow, IV Yellow, Cyan and Magenta",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "iv only",
+      "D": "i, ii and iv only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35607?exam_type=waec&type=obj&page=250",
+    "correct_answer": "C",
+    "explanation": "IV.\u00a0(Yellow, Cyan, Magenta) is the\u00a0only complete set of secondary colours.",
+    "year": "2012"
+  },
+  {
+    "number": "1249",
+    "text": "When two like charges are brought together, the potential energy of the system formed will",
+    "options": {
+      "A": "increase because work is done against the field",
+      "B": "increase because work is done by the field",
+      "C": "decrease because work is done by the field",
+      "D": "decrease because work is done against the field"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35611?exam_type=waec&type=obj&page=250",
+    "correct_answer": "A",
+    "explanation": "if two like charges are close together, they repel each other. moving them closer together requires working against repulsive force which increases the potential energy of the system.",
+    "year": "2012"
+  },
+  {
+    "number": "1250",
+    "text": "Two capacitors, each of capacitance 2\\(\\mu\\)F\u00a0are connected in parallel. If the p.d across them is 120V, calculate the charge on each capacitor",
+    "options": {
+      "A": "6.0 x 10-5C",
+      "B": "1.2 x 10-4C",
+      "C": "2.4 x 10-4C",
+      "D": "4.8 x 10-4C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35613?exam_type=waec&type=obj&page=250",
+    "correct_answer": "C",
+    "explanation": "C = \\(C_1 + C_2 = 2 + 2 = 4 \\mu F\\)but Q = CV= 4\u00a0x 10\\(^{-6}\\) x 120= 4.8 x 10\\(^{-4}\\)\n\\(\\therefore\\) Each of the capacitor has a charge of \\(\\frac{4.8 \\times 10^{-4}}{2}\\)\n= 2.4 x 10\\(^{-4}\\) C",
+    "year": "2012"
+  },
+  {
+    "number": "1251",
+    "text": "Which of the following properties is an advantage of lead-acid accumulator over an alkaline accumulator?",
+    "options": {
+      "A": "possesses low internal resistance",
+      "B": "can be recharges",
+      "C": "has shorter life span",
+      "D": "possesses high e.m.f"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35614?exam_type=waec&type=obj&page=251",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1252",
+    "text": "Six dry cells each of e.m.f. 2.0 and internal resistance of 1.0\\(\\Omega\\) are connected in parallel across a load of 3.0\\(\\Omega\\). Calculate the effective current in the circuit.",
+    "options": {
+      "A": "0.63A",
+      "B": "0.50A",
+      "C": "0.31A",
+      "D": "0.22A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35616?exam_type=waec&type=obj&page=251",
+    "correct_answer": "A",
+    "explanation": "I = \\(\\frac{f}{n} = \\frac{1}{6 - 2}\\)I = \\(\\frac{v}{R + r} = \\frac{2}{3} + \\frac{1}{6} = 0.63\\)A",
+    "year": "2012"
+  },
+  {
+    "number": "1253",
+    "text": "Two similar cells are used to light two similar lamps as illustrated in the diagrams above. In which of the circuit diagrams are the lamps brightest?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35619?exam_type=waec&type=obj&page=251",
+    "correct_answer": "B",
+    "explanation": "The determinant of the brightness of a bulb is the power (watts) of the circuit.\nRecall that Power (P) = \\(\\frac{V^2}{R}\\).\nSince the resistance is to be used as a divisor, it means the smaller the resistance, the greater the power.",
+    "year": "2012"
+  },
+  {
+    "number": "1254",
+    "text": "A 12\\(\\Omega\\) resistor dissipates 8kJ of heat in 20s. Calculate the current through the resistor",
+    "options": {
+      "A": "5.8A",
+      "B": "6.9A",
+      "C": "30.0A",
+      "D": "33.3A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35622?exam_type=waec&type=obj&page=251",
+    "correct_answer": "A",
+    "explanation": "Q = I2RtI = \\(\\sqrt{\\frac{Q}{Rt}}\\)= \\(\\sqrt{\\frac{8000}{12 \\times 20}}\\)= 5.8",
+    "year": "2012"
+  },
+  {
+    "number": "1255",
+    "text": "The magnetic relay is a device used for",
+    "options": {
+      "A": "timing in sports",
+      "B": "storing magnetic field",
+      "C": "readin the magnitude of magnetic flux",
+      "D": "controlling another circuit carrying larger current"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35624?exam_type=waec&type=obj&page=251",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1256",
+    "text": "the core of a transformer is usually laminated in order to",
+    "options": {
+      "A": "reduce magnetic leakage",
+      "B": "reduce eddy current",
+      "C": "prevent vibration of the transformer",
+      "D": "make magnetic reversal in the core much easier"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35626?exam_type=waec&type=obj&page=252",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1257",
+    "text": "Which of the following modes is the most economical method of transmitting electrical power over long distances?",
+    "options": {
+      "A": "alternating current at low voltage and high current",
+      "B": "alternating current at high voltage and high current",
+      "C": "alternating current at high voltage and low current",
+      "D": "direct current at low voltage and high current"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35629?exam_type=waec&type=obj&page=252",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1258",
+    "text": "An inductor is connected to a 24V, 50Hz mains supply. If the current through the inductor is 1.5A, calculate the inductance of the inductor (\\(\\pi = \\frac{22}{7}\\))",
+    "options": {
+      "A": "8.0 x 102H",
+      "B": "7.5  x 10oH",
+      "C": "1.6  x 10oH",
+      "D": "5.1  x 10-2H"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35635?exam_type=waec&type=obj&page=252",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1259",
+    "text": "In a R-C circuit",
+    "options": {
+      "A": "Irms leads Vrms by 60o",
+      "B": "Irms slags Vrms by 60o",
+      "C": "Vrms lags Irms by 90o",
+      "D": "Vrms leads Irms by 90o"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35638?exam_type=waec&type=obj&page=252",
+    "correct_answer": "C",
+    "explanation": "In an A.C circuit, the voltage(V\\(_{rms}\\) is completely in phase with the current for a resistor and lags the current by 90\u00ba for a capacitor(R - C)",
+    "year": "2012"
+  },
+  {
+    "number": "1260",
+    "text": "An atom in an excited state is one whose",
+    "options": {
+      "A": "potential energy is minimum",
+      "B": "potential energy is maximum",
+      "C": "electron are in the conduction band",
+      "D": "electron have moved to higher energy level"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35641?exam_type=waec&type=obj&page=252",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1261",
+    "text": "A metal with a work function of 3.0ev is irradiated with ultraviolet light of energy 4.0 ev. The kinetic energy of the ejected electron is",
+    "options": {
+      "A": "1.0eV",
+      "B": "3.0eV",
+      "C": "4.0eV",
+      "D": "7.0eV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35643?exam_type=waec&type=obj&page=253",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1262",
+    "text": "Which of the following statements about X-rays is correct? X-rays",
+    "options": {
+      "A": "are produced when a metal surface is irradiated with ultraviolet light",
+      "B": "are produced when a metal target is used to block fast miving electrons",
+      "C": "have long wavelengths and are therefoer very penetrating",
+      "D": "are not part of the electromagnetic spectrum"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35645?exam_type=waec&type=obj&page=253",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1263",
+    "text": "Which of the following arrangements of radiations is in the order of decreasing penetrating power?",
+    "options": {
+      "A": "\\(\\alpha, \\beta, \\gamma\\)",
+      "B": "\\(\\alpha, \\gamma, \\beta\\)",
+      "C": "\\(\\gamma, \\beta, \\alpha\\)",
+      "D": "\\(\\beta, \\gamma,  \\alpha\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35646?exam_type=waec&type=obj&page=253",
+    "correct_answer": "C",
+    "explanation": "The\u00a0alpha rays are the least penetrating, followed by beta rays, and gamma rays are the most penetrating.\nin descending order\u00a0\\(\\gamma, \\beta, \\alpha\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1264",
+    "text": "Which of the following radiations emitted in radioactive decay has momentum, a fairly high penetrating power and is deflected by a magnet?",
+    "options": {
+      "A": "alpha particles",
+      "B": "beta particle",
+      "C": "gamma radiation `",
+      "D": "X-radiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35647?exam_type=waec&type=obj&page=253",
+    "correct_answer": "B",
+    "explanation": "\u03b2 Particlesare equivalent to electrons but arise from radioactive decay of unstable atoms. They are emitted with a continuous range of energies up to a maximum that ischaracteristicof each radionuclide. Electrons have a greater range and penetrating power, but much less ionizing potential compared with \u03b1particles.\nBeta particles\u00a0are deflected by a\u00a0magnetic field\u00a0in an opposite direction to alpha particles confirming they must hold a charge opposite to alpha particles.",
+    "year": "2012"
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "number": "1265",
+    "text": "The rising of a liquid in an open and ended glass tube of narrow bore is",
+    "options": {
+      "A": "osmosis",
+      "B": "adhesion",
+      "C": "capillarity",
+      "D": "surface tension"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35648?exam_type=waec&type=obj&page=253",
+    "correct_answer": "C",
+    "explanation": "Capillarity, or capillary action, occurs when a liquid rises in a narrow space due to the adhesive forces between the liquid and the surface of the tube and the cohesive forces within the liquid itself.",
+    "year": "2013"
+  },
+  {
+    "number": "1266",
+    "text": "Which of the following units is equivalent to the watt?",
+    "options": {
+      "A": "kgms-2",
+      "B": "kgm2s-3",
+      "C": "kgm2s-2",
+      "D": "kgm2s-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35649?exam_type=waec&type=obj&page=254",
+    "correct_answer": "B",
+    "explanation": "\\(Power = \\frac{\\text{Work done}}{time}\\)\n= \\(\\frac{Force \\times distance}{time}\\)\n= \\(\\frac{mass \\times acceleration \\times distance}{time}\\)\n= \\(\\frac{kg \\times m \\times m}{s^{2} \\times s}\\)\n= \\(kgm^{2} s^{-3}\\)",
+    "year": "2013"
+  },
+  {
+    "number": "1267",
+    "text": "Which of the following statements about pressure in a liquid is correct?",
+    "options": {
+      "A": "the pressure in a liquid increases with depth",
+      "B": "the higher the density of a liquid, the lower the pressure it exerts",
+      "C": "pressure in liquid act only in a direction perpendicular to the sides of the containing vessel",
+      "D": "pressure is independent of the acceleration due to gravity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35650?exam_type=waec&type=obj&page=254",
+    "correct_answer": "A",
+    "explanation": "At different depths, the pressure of a liquid differs.",
+    "year": "2013"
+  },
+  {
+    "number": "1268",
+    "text": "Solid friction, like viscosity is",
+    "options": {
+      "A": "independent of the surface area in contact",
+      "B": "independent of the relative motion between layers",
+      "C": "dependent on normal reaction",
+      "D": "in opposition to motion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35651?exam_type=waec&type=obj&page=254",
+    "correct_answer": "D",
+    "explanation": "The force acting on a body due to the viscous resistance of the surrounding fluid is called the drag force and it acts in the direction opposite to the direction of motion. So also does friction.",
+    "year": "2013"
+  },
+  {
+    "number": "1269",
+    "text": "The slope of a linear distance-times graph represents",
+    "options": {
+      "A": "acceleration",
+      "B": "displacement",
+      "C": "speed",
+      "D": "velocity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35652?exam_type=waec&type=obj&page=254",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1270",
+    "text": "A body of mass 2kg is released from rest on a plane inclined at an angle of 60\u00b0\u00a0to the horizontal. Calculate the acceleration of the body down the plane.[g = 10ms\\(^{-2}\\)]",
+    "options": {
+      "A": "3.1ms-2",
+      "B": "5.2ms-2",
+      "C": "6.0ms-2",
+      "D": "8.7ms-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35654?exam_type=waec&type=obj&page=254",
+    "correct_answer": "D",
+    "explanation": "a = g sin \\(\\theta\\)= 10 sin 60= 8.7 ms\\(^{-2}\\)",
+    "year": "2013"
+  },
+  {
+    "number": "1271",
+    "text": "The total area under a force-velocity graph represents",
+    "options": {
+      "A": "energy",
+      "B": "momentum",
+      "C": "power",
+      "D": "pressure"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35656?exam_type=waec&type=obj&page=255",
+    "correct_answer": "C",
+    "explanation": "Power = Force x Velocity.\nTherefore, the area under the force- velocity graph gives Power.",
+    "year": "2013"
+  },
+  {
+    "number": "1272",
+    "text": "A body of mass 20g projected vertically upwards in vacuum returns to the point of projection after 1.2s. [g = 10ms\\(^{-2}\\)]. Calculate the speed of projection",
+    "options": {
+      "A": "1.2ms-1",
+      "B": "6.0ms-1",
+      "C": "12.0ms-1",
+      "D": "0.6ms-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35658?exam_type=waec&type=obj&page=255",
+    "correct_answer": "B",
+    "explanation": "To find the speed of projection, we can use the formula for the time of flight of an object projected vertically upwards:\n\\(t = \\frac{2u}{g}\\)\nwhere:- \\( t \\) is the total time of flight (1.2 s),- \\( u \\) is the initial speed of projection,- \\( g \\) is the acceleration due to gravity (10 m/s\u00b2).\nRearranging the formula to solve for \\( u \\):\n\\(u = \\frac{gt}{2}\\)\nSubstituting the values:\n\\(u = \\frac{10 \\, \\text{m/s}^2 \\times 1.2 \\, \\text{s}}{2} = \\frac{12}{2} = 6 \\, \\text{m/s}\\)\nThus, the speed of projection is \\( 6 \\, \\text{m/s} \\).",
+    "year": "2013"
+  },
+  {
+    "number": "1273",
+    "text": "A body of mass 20g projected vertically upwards in vacuum returns to the point of projection after 1.2s. [g = 10ms-2]. Determine the potential energy of the body at the maximum height of its motion",
+    "options": {
+      "A": "0.36J",
+      "B": "0.72J",
+      "C": "360.00J",
+      "D": "720.00J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35660?exam_type=waec&type=obj&page=255",
+    "correct_answer": "A",
+    "explanation": "2",
+    "year": "2013"
+  },
+  {
+    "number": "1274",
+    "text": "The maximum displacement on either side of the equilibrium position of an object in simple harmonic motion represents",
+    "options": {
+      "A": "period",
+      "B": "amplitude",
+      "C": "wavelength",
+      "D": "frequency"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35661?exam_type=waec&type=obj&page=255",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1275",
+    "text": "From Newton's first law of motion,",
+    "options": {
+      "A": "a body can only undergo translational motion",
+      "B": "once a body remains at rest no force acts on it",
+      "C": "the net force acting in uniform linear motion is zero",
+      "D": "a body's inertia is its weight"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35662?exam_type=waec&type=obj&page=255",
+    "correct_answer": "C",
+    "explanation": "The key point of this law\u00a0is that if there is no net force resulting from unbalanced forces acting on an object. If all the external forces cancel each other out, then the object will maintain a constant velocity.",
+    "year": "2013"
+  },
+  {
+    "number": "1276",
+    "text": "A body of mass 11kg is suspended from a ceiling fan by an aluminum wire of length 2m and diameter 2mm. Calculate the elastic energy stored in the wire [Young's modulus of aluminum is 7.0 x \\(10^10Nm^{-2}\\), g = 10m\\(s^{-2}\\), \\(\\pi\\) = 3.142]`",
+    "options": {
+      "A": "1.1 x 10-1J",
+      "B": "5.5 x 10-2J",
+      "C": "1.1 x 10-4J",
+      "D": "5.5 x 10-8J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35663?exam_type=waec&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "e = \\(\\frac{4FI}{Y \\pi d^2} = \\frac{4 \\times 11 \\times 10 \\times 2}{7 \\times 10^{10} \\times 3.14(2 \\times 10^{-3})^2}\\)= 0.001mE = \\(\\frac{1}{2} Fe = \\frac{1}{2} \\times 110 \\times 0.001\\)= 5.5 x \\(10^{-2}\\)J",
+    "year": "2013"
+  },
+  {
+    "number": "1277",
+    "text": "The velocity ratio of an inclined plane",
+    "options": {
+      "A": "increases with increase in the angle of inclination",
+      "B": "increases with decrease in the angle of inclination",
+      "C": "decreases with decrease in the angle of inclination",
+      "D": "is independent of the angle of inclination"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35664?exam_type=waec&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "In general, the V.R and hence the M. A increases when the inclination angle decreases.",
+    "year": "2013"
+  },
+  {
+    "number": "1278",
+    "text": "Which of the following types of thermometer is used for the calibration of other thermometers?",
+    "options": {
+      "A": "liqud-in-glass thermometer",
+      "B": "constant volume gas thermometer",
+      "C": "optical pyrometer",
+      "D": "thermocouple"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35665?exam_type=waec&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1279",
+    "text": "The magnitude of the expansion or contraction of a substance depends on the   i. temperature change  ii. nature of the substance  iii. size of the substance. Which of the statements above are correct?",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "i, ii and iii"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35666?exam_type=waec&type=obj&page=256",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1280",
+    "text": "Highly polished silvery surfaces are",
+    "options": {
+      "A": "poor absorbers and poor emitters of radiation",
+      "B": "poor absorbers and good emitters of radiation",
+      "C": "good absorbers and poor emitters of radiation",
+      "D": "good absorbers and good emitters of radiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35667?exam_type=waec&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1281",
+    "text": "The volume of a given mass of gas at 27oC and 800 mmHg is 76cm2. Calculate its volume at s.t.p",
+    "options": {
+      "A": "100.0 cm3",
+      "B": "72.8 cm3",
+      "C": "60.0 cm3",
+      "D": "36.4 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35668?exam_type=waec&type=obj&page=257",
+    "correct_answer": "B",
+    "explanation": "3",
+    "year": "2013"
+  },
+  {
+    "number": "1282",
+    "text": "Ice of mass 10g at 5\u00b0C was completely converted to water at 0\u00b0C, calculate the quantity of heat used. [specific heat capacity of ice = 2.1 Jg\\(^{-1}\\)K\\(^{-1}\\), specific latent heat of fusion of ice = 336 Jg\\(^{-1}\\)]",
+    "options": {
+      "A": "105J",
+      "B": "3255J",
+      "C": "3465J",
+      "D": "16821J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35669?exam_type=waec&type=obj&page=257",
+    "correct_answer": "C",
+    "explanation": "Q = ML + MC\\(\\theta\\)= 10 x 335 + 10 x 2.1 x 5= 3465J",
+    "year": "2013"
+  },
+  {
+    "number": "1283",
+    "text": "An electric heater has a resistance of 50\\(\\Omega\\). When it is immersed in water and connected to mains source, it draws a current of 4.0A. Calculate the heat gained by the water if the heater is switched on for 2 minutes, assuming no heat losses to the surroundings",
+    "options": {
+      "A": "4200J",
+      "B": "1600J",
+      "C": "24000J",
+      "D": "96000J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35670?exam_type=waec&type=obj&page=257",
+    "correct_answer": "D",
+    "explanation": "Q = \\(I^2RT\\)= \\(4^2\\) x 50 x 2 x 60= 96000J",
+    "year": "2013"
+  },
+  {
+    "number": "1284",
+    "text": "When salt is dissolved in water, the freezing point of the water",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains the same",
+      "D": "increases and later decrease"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35671?exam_type=waec&type=obj&page=257",
+    "correct_answer": "B",
+    "explanation": "The salt in the water (same for any other impurities)\u00a0lowers the freezing point of the solution so that water freezes\u00a0at a lower temperature.",
+    "year": "2013"
+  },
+  {
+    "number": "1285",
+    "text": "The equation of a certain progressive transverse wave is y = 2 sin 2 \\(\\pi ( \\frac{t}{0.01} - \\frac{x}{30})\\), where x and y are in cm and t in seconds. Calculate the period of the wave.",
+    "options": {
+      "A": "0.001s",
+      "B": "0.010s",
+      "C": "10.000s",
+      "D": "100.000s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35672?exam_type=waec&type=obj&page=257",
+    "correct_answer": "B",
+    "explanation": "Compare: Y = 2 sin 2 \\(\\pi (\\frac{t}{0.01} - \\frac{x}{30})\\)\nwith the wave equation,y = A\u00a0sin 2 \\(\\pi (\\frac{t}{T} - \\frac{x}{\\lambda}\\))\u21d2 \\(\\frac{t}{T} = \\frac{t}{0.01}\\)T = 0.010s",
+    "year": "2013"
+  },
+  {
+    "number": "1286",
+    "text": "At which position should an object be placed in front of a concave mirror in order to obtain an image which is of the same size as the object?",
+    "options": {
+      "A": "at the centre of curvature",
+      "B": "at the principal focus",
+      "C": "between the pole and principal focus",
+      "D": "between the centre of curvature and principal focus"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35673?exam_type=waec&type=obj&page=258",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1287",
+    "text": "Images formed by a convex mirror are always",
+    "options": {
+      "A": "magnified",
+      "B": "behind the mirror",
+      "C": "real",
+      "D": "inverted"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35674?exam_type=waec&type=obj&page=258",
+    "correct_answer": "B",
+    "explanation": "Convex mirrors always form virtual images, which appear behind the mirror.",
+    "year": "2013"
+  },
+  {
+    "number": "1288",
+    "text": "The refractive index of a material is 1.5. Calculate the critical angle at the glass-air interface",
+    "options": {
+      "A": "19o",
+      "B": "21o",
+      "C": "39o",
+      "D": "42o"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35675?exam_type=waec&type=obj&page=258",
+    "correct_answer": "D",
+    "explanation": "Sin C = \\(\\frac{1}{\\eta} = \\frac{1}{1.5} = 0.6667\\)C = sin\\(^{-1}\\) 0.6667= 42\u00b0",
+    "year": "2013"
+  },
+  {
+    "number": "1289",
+    "text": "A diverging lens of focal length 30cm produces an image 20cm from the lens. Determine the object distance",
+    "options": {
+      "A": "10cm",
+      "B": "12cm",
+      "C": "50cm",
+      "D": "60cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35676?exam_type=waec&type=obj&page=258",
+    "correct_answer": "B",
+    "explanation": "Lens formula:\n\\(\\frac{1}{f} = \\frac{1}{d_o} + \\frac{1}{d_i}\\)\nwhere f, d\\(_o\\) and d\\(_i\\) are the focal length, object distance and image distance respectively.\nThe distance from the lens to the focal point is called the focal length. For converging lenses, the focal length is always positive, while diverging lenses always have\u00a0negative focal lengths.\n\u21d2 \\(\\frac{-1}{30} = \\frac{1}{d_o} + \\frac{1}{20}\\)\n\\(\\frac{1}{d_o} = \\frac{-1}{30} - \\frac{1}{20}\\)\n\\(\\frac{1}{d_o} = \\frac{-2\u00a0+ -3}{60}\\)\n\u2192\u00a0\\frac{-5}{60}\\) =\u00a0\\frac{-1}{12}\\)\n\\(d_o = - 12\u00a0cm\\)\nThe object distance -12cm =\u00a012cm on the other side of the lens.",
+    "year": "2013"
+  },
+  {
+    "number": "1290",
+    "text": "Which of the following statements about the Galilean telescope is not correct?",
+    "options": {
+      "A": "the final image is inverted",
+      "B": "it is shorter than terrestial telescope",
+      "C": "the final image is erect",
+      "D": "it has a small field of view"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35679?exam_type=waec&type=obj&page=258",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1291",
+    "text": "Which of the following radiations has it's frequency lower than that of infrared radiation?",
+    "options": {
+      "A": "Utra-violet rays",
+      "B": "gamma rays",
+      "C": "x-rays",
+      "D": "radio waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35680?exam_type=waec&type=obj&page=259",
+    "correct_answer": "D",
+    "explanation": "Radio waves have lower frequencies compared to infrared radiation, while ultraviolet rays, gamma rays, and x-rays have higher frequencies.",
+    "year": "2013"
+  },
+  {
+    "number": "1292",
+    "text": "A string under tension produces a note of frequency 14Hz. Determine the frequency when the tension is quadrupled.",
+    "options": {
+      "A": "14Hz",
+      "B": "18Hz",
+      "C": "28Hz",
+      "D": "56Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35682?exam_type=waec&type=obj&page=259",
+    "correct_answer": "C",
+    "explanation": "The formula for the frequency in a stringed instrument : \\(f = \\frac{1}{2} \\sqrt{\\frac{T}{m}}\\)\nf = frequency; T = tension in the string; m = mass per unit lenth of the string.\nf\\(_1\\) = 14 = \\(\\frac{1}{2} \\sqrt{\\frac{T}{m}}\\).\nWhen T is quadrupled, we have\nf\\(_2\\) = new frequency\u00a0= \\(\\frac{1}{2} \\sqrt{\\frac{4T}{m}}\\)\n= 2(\\(\\frac{1}{2} \\sqrt{\\frac{T}{m}}\\))\n= 2 f\\(_1\\)\n= 2 x 14\n= 28 Hz",
+    "year": "2013"
+  },
+  {
+    "number": "1293",
+    "text": "Which of the following statements about waves in pipes is correct?",
+    "options": {
+      "A": "for open pipes, there is only one end correction to be accounted for",
+      "B": "for closed pipes, there are two end corrections to be accounted for",
+      "C": "only odd harmonics are possible in closed pipes",
+      "D": "all harmonics are possible in closed pipes"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35685?exam_type=waec&type=obj&page=259",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1294",
+    "text": "When a person holds a negatively charges metal rod and stands bare-footed on the ground, how will the charges leak?",
+    "options": {
+      "A": "negative charges flows to the ground through the person's body",
+      "B": "positive charges flow from the ground through his body to neutralize the negative charges",
+      "C": "positive charges in the air neutralizes the negative charges the person is holding",
+      "D": "negative charges will leak through the air"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35686?exam_type=waec&type=obj&page=259",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1295",
+    "text": "A charge of 2.0 x 10\\(^{-5}\\) C experiences a force of 80N in a uniform electric field. Calculate the magnitude of the electric field intensity",
+    "options": {
+      "A": "8.0 x 106 NC-1",
+      "B": "4.0 x 106 NC-1",
+      "C": "4.0 x 104 NC-1",
+      "D": "2.0 x 104 NC-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35691?exam_type=waec&type=obj&page=259",
+    "correct_answer": "B",
+    "explanation": "E = \\(\\frac{F}{Q} = \\frac{80}{2 \\times 10^{-5}}\\)= 4 x 10\\(^6\\) NC\\(^{-1}\\)",
+    "year": "2013"
+  },
+  {
+    "number": "1296",
+    "text": "A potential difference of 12V is applied across the ends of a 6\\(\\Omega\\) resistor for 10 minutes. Determine the quantity of heat generated",
+    "options": {
+      "A": "720J",
+      "B": "1200J",
+      "C": "14400J",
+      "D": "43200J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35694?exam_type=waec&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "Q = \\(\\frac{V^2 t}{R}\n= \\frac{12^2 \\times 10 \\times 60}{6}\\)= 14400J",
+    "year": "2013"
+  },
+  {
+    "number": "1297",
+    "text": "Which of the following instruments is used to determine the accurate value of the electromotive force of a cell?",
+    "options": {
+      "A": "voltmeter",
+      "B": "meterbridge",
+      "C": "voltameter",
+      "D": "potentiometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35696?exam_type=waec&type=obj&page=260",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1298",
+    "text": "The capacitance of parallel plates capacitors varies",
+    "options": {
+      "A": "inversely as the square of the distance between the plates",
+      "B": "directly as the square of the distance between the plates",
+      "C": "inversely as the distance between the plates",
+      "D": "directly as the distance between the plate"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35700?exam_type=waec&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "capacitance C is the ability of the capacitor to store charges. and it depends on the size A, shape, and separation d of the conductors and the material separating them\u00a0\u03b5\nC = \\(\\frac{\u03b5A}{d}\\)\nC is inversely proportional to d.",
+    "year": "2013"
+  },
+  {
+    "number": "1299",
+    "text": "Which of the following devices does not makes use of eddy current for its action? A/An",
+    "options": {
+      "A": "galvanometer",
+      "B": "speedometer",
+      "C": "induction furnace",
+      "D": "induction coil."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35703?exam_type=waec&type=obj&page=260",
+    "correct_answer": "D",
+    "explanation": "an induction coil is used to create high potential differences from sources of low potential differences. it does not make\u00a0of\u00a0Eddy's current for its action.",
+    "year": "2013"
+  },
+  {
+    "number": "1300",
+    "text": "A coil of inductance 0.12 H and resistance 4\\(\\Omega\\), is connected across a 240V, 50Hz supply. Calculate the current through it. [\\(\\pi\\) = 3.142]",
+    "options": {
+      "A": "6.3A",
+      "B": "33.3A",
+      "C": "37.2A",
+      "D": "40.0A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35714?exam_type=waec&type=obj&page=260",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "number": "1301",
+    "text": "The work function of a metal is 2.56 x 10-19J. Calculate the frequency of a photon whose energy is required to eject from the metal an electron with kinetic energy of 3.0ev. [1 eV = 1.6 x 10-19J, h = 6.6 x 10-34Js]",
+    "options": {
+      "A": "5.56 x 1019Hz",
+      "B": "1.66 x 1019Hz",
+      "C": "1.12 x 1015Hz",
+      "D": "8.42 x 1014Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35719?exam_type=waec&type=obj&page=261",
+    "correct_answer": "C",
+    "explanation": "-15",
+    "year": "2013"
+  },
+  {
+    "number": "1302",
+    "text": "The minimum energy required to cause photoelectric emission when the surface of a metal is irradiated with electromagnetic radiation of suitable frequency is called",
+    "options": {
+      "A": "critical energy",
+      "B": "ionization energy",
+      "C": "work function",
+      "D": "planck's constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35722?exam_type=waec&type=obj&page=261",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1303",
+    "text": "Which of the following particles are termed nucleons in a neutral atom?",
+    "options": {
+      "A": "protons and neutrons",
+      "B": "neutrons and electrons",
+      "C": "protons and electrons",
+      "D": "protons, electrons and neutrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35724?exam_type=waec&type=obj&page=261",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1304",
+    "text": "Which of the following statements about the use of radioisotopes is not correct? They are used to",
+    "options": {
+      "A": "induce mutations in plants and animals to obtain new and improved varieties",
+      "B": "trace the paths of metabolic processes in plants and animals",
+      "C": "estmate the age of rocks",
+      "D": "locate broken bones"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35727?exam_type=waec&type=obj&page=261",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1305",
+    "text": "Which of the following phenomena supports the theory that waves have a particle nature?",
+    "options": {
+      "A": "electron diffraction",
+      "B": "photoelectric effect",
+      "C": "diffraction of light",
+      "D": "x-ray interference"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35728?exam_type=waec&type=obj&page=261",
+    "correct_answer": "B",
+    "explanation": "The photoelectric effect is the emission of electrons when electromagnetic radiation, such as light, hits a material. Electrons emitted in this manner are called photoelectrons.",
+    "year": "2013"
+  },
+  {
+    "number": "1306",
+    "text": "A block of wood of mass 5kg is pulled on a platform by a force of 40N as illustrated in the diagram above. If the frictional force, F experienced by the block is 12N, calculate the magnitude of the acceleration of the acceleration of the block",
+    "options": {
+      "A": "2.4ms-2",
+      "B": "5.6ms-2",
+      "C": "8.0ms-2",
+      "D": "2.4ms2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35729?exam_type=waec&type=obj&page=262",
+    "correct_answer": "B",
+    "explanation": "F + Ma = Pa = \\(\\frac{P - F}{m}\\)= \\(\\frac{40 - 12}{5} = 5.6ms^{-2}\\)",
+    "year": "2013"
+  },
+  {
+    "number": "1307",
+    "text": "Four co-planar forces of magnitudes 10N, 17N, 6N and 20N act at point O as shown in the above diagram. Determine the magnitude of the resultant force",
+    "options": {
+      "A": "53.N",
+      "B": "21.0N",
+      "C": "7.0N",
+      "D": "5.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35730?exam_type=waec&type=obj&page=262",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2013"
+  },
+  {
+    "number": "1308",
+    "text": "The outlet of a bicycle pump is used to inflate a football as illustrated in the diagram above. Why does the pressure of the air inside the pump increases as the pump handle is slowly pushed downward at constant temperature?",
+    "options": {
+      "A": "momentum of the air molecules are increased",
+      "B": "volume occupied by the molecules are increased",
+      "C": "frequency of collision of the air molecules with the walls of the pump is increased",
+      "D": "more air molecules are collidin with one another in the system"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35731?exam_type=waec&type=obj&page=262",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1309",
+    "text": "The diagram above illustrates a waveform. Which of the point on the waveform are in phase?",
+    "options": {
+      "A": "P and R",
+      "B": "R and T",
+      "C": "P and T",
+      "D": "Q and S"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35732?exam_type=waec&type=obj&page=262",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1310",
+    "text": "An electric circuit is connected as illustrated above. Determine the equivalent e.m.f and current flowing through the circuit respectively, neglecting the internal resistance of the cells",
+    "options": {
+      "A": "2V, 1.0A",
+      "B": "2V, 4.0A",
+      "C": "6V, 0.3a",
+      "D": "6V, 3.0a"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35733?exam_type=waec&type=obj&page=262",
+    "correct_answer": "A",
+    "explanation": "Net e.m.f\u00a0 = 2.0v ( parallel connection)= 2V, R = 2\u03a9I = \\(\\frac{v}{R} = \\frac{2}{2}\\)= 1A",
+    "year": "2013"
+  }
+]

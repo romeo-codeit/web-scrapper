@@ -1,0 +1,693 @@
+[
+  {
+    "number": "499",
+    "text": "A man standing on a lift that is descending does not feel any weight because",
+    "options": {
+      "A": "the inside of the lift is air tight",
+      "B": "the lift is in vacuum",
+      "C": "the lift's acceleration is same as acceleration due to gravity",
+      "D": "there is no gravitational pull on the man in the lift"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14349?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "C",
+    "explanation": "The resultant force acting on the man is given by w = mg - RMg - mg = 0The man feels weightless because the reaction, R is equal to the weight mg\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "500",
+    "text": "Two balls X and Y weighing 5 g and 50 kg respectively were thrown\u00a0up vertically at the same time with a velocity of 100 ms1 .How will their positions be one second later?",
+    "options": {
+      "A": "X and Y will be 500 m from each other",
+      "B": "Y will be 500 m ahead of X",
+      "C": "X will be 500 m ahead of Y",
+      "D": "X and Y both be 500 m from the point of throw"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14350?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "D",
+    "explanation": "v2 = U2 - 2G s0 = 1002 - 2 x 10 x s = 10000 - 20ss = (10000)/20 = 500mWhich is independent of mass.the two bodies where acted upon by the same retarding force of gravity which is independent of mass of the body; therefore both will be 500 m from the point of throw.\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "501",
+    "text": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
+    "options": {
+      "A": "90 m",
+      "B": "30 m",
+      "C": "45 m",
+      "D": "60 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14351?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "2\n2\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "502",
+    "text": "An object of mass 2 kg moves with a velocity of 10 ms1 round at circle of radius 4 m. Calculate the centripetal force on the object",
+    "options": {
+      "A": "25 N",
+      "B": "100 N",
+      "C": "50 N",
+      "D": "40 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14352?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "503",
+    "text": "A carpenter on top of a roof of 20.0m high dropped a hammer of mass 1.5 kg and it fell directly to the ground. the kinetic energy of the hammer just before hitting the ground is?[g = 10 ms-2]",
+    "options": {
+      "A": "600 J",
+      "B": "150J",
+      "C": "300 J",
+      "D": "450 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14353?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "504",
+    "text": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
+    "options": {
+      "A": "remain at the same level irrespective of whether the liquid wet the glass or not",
+      "B": "fall below the liquid level if the liquid wets the glass",
+      "C": "falls below the liquid level if the liquid does not wet the glass",
+      "D": "rise above the liquid level if the liquid does not wet the glass"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14355?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "505",
+    "text": "An object weighs 22 kg in water and 30kg in air. what is the upthrust exerted by the liquid on the object.\n\n\n[g = 10 ms2]",
+    "options": {
+      "A": "50 N",
+      "B": "520 N",
+      "C": "220 N",
+      "D": "80 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14359?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "506",
+    "text": "A metal of volume 40 cm\\(^3\\) is heated from 30 \u00b0c to 90 \u00b0c, the increase in volume is\n[Linear expansivity of the metal = 2.0 x 10\\(^{-5}\\)K\\(^{-1}\\)]",
+    "options": {
+      "A": "0.12 cm3",
+      "B": "4.00 cm3",
+      "C": "1.20 cm3",
+      "D": "0.40 cm3",
+      "E": "no correct option"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14371?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "E",
+    "explanation": "increase in volume, \\(\\Delta\\)V = V x 3\\(\\alpha\\) x \\(\\Delta \\theta\\)= 3 x 2.0 X 10\\(^{-5}\\) x 40 x (90 - 30)= 6 x 10\\(^{-5}\\)\u00a0x 40 x 600.144 cm\\(^3\\)\u2234 No correct option\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "507",
+    "text": "A copper wire was subjected to a tensile stress of 7.7 x 10\\(^7\\). Calculate the strain of the wire.\n[Young modules = 1.1 x 10\\(^11\\) Nm\\(^{-2}\\)]",
+    "options": {
+      "A": "2. 0  x 10-5",
+      "B": "7.0 x 10-3",
+      "C": "7.0 x 10-4",
+      "D": "2.2 x 10-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14379?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "C",
+    "explanation": "Young modules = \\( \\frac{\\text{Tensile stress}}{\\text{Tensile strain}}\\)= \\( 1.1 \\times 10^11 = \\frac{7.7 \\times 10^7}{\\text{Tensile Strain}} \\)\u2234 Tensile strain = \\( \\frac{7.7 \\times 10^7}{1.1 \\times 10^{11}} \\)= \\( 7.0 \\times 10^{7-11}= 7.0 \\times 10^{-4} \\)\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "508",
+    "text": "I.  High thermal capacity. \nII. High sensitivity.\nIII.Easy readability.\nIV. Accuracy over a wide range of temperature\nFrom the statement above, the qualities of a good thermometer are",
+    "options": {
+      "A": "I and II",
+      "B": "I, II,III and IV",
+      "C": "I, III and IV",
+      "D": "II, III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14380?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "519",
+    "text": "A machine is used to lift a load of 20 N through a height of 10 m. if the efficiency of the machine is 40%, how much work is done?",
+    "options": {
+      "A": "80 J",
+      "B": "500 J",
+      "C": "300 J",
+      "D": "120 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14391?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "520",
+    "text": "I.   Density of the liquid.\nII.  Depth below the surface of the liquid. \nIII. Surface area of the liquid. \nIn which of the statement above will pressure be dependent?",
+    "options": {
+      "A": "I and II only.",
+      "B": "II and III only.",
+      "C": "I, II and III only.",
+      "D": "I and III only."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14392?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "521",
+    "text": "Which of the following could be effectively used to reduce friction?",
+    "options": {
+      "A": "kerosene",
+      "B": "grease",
+      "C": "water",
+      "D": "petrol"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14393?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "522",
+    "text": "Which of the following types of waves needs a medium for propagation?",
+    "options": {
+      "A": "sound waves",
+      "B": "light waves",
+      "C": "radio waves",
+      "D": "x - rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14397?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "523",
+    "text": "Which of the following electromagnetic waves has the highest frequency?",
+    "options": {
+      "A": "utra - violet rays",
+      "B": "radio waves",
+      "C": "x - rays",
+      "D": "infrared - rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14401?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "524",
+    "text": "A perfect emitter or absorber of radiant energy is a",
+    "options": {
+      "A": "conductor",
+      "B": "black body",
+      "C": "white body",
+      "D": "red body"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14403?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "525",
+    "text": "The ground is always cold at night because the",
+    "options": {
+      "A": "atmosphere absorbs the sun's energy at night",
+      "B": "earth radiates heat to the atmosphere at night",
+      "C": "sun no longer shine at night",
+      "D": "atmosphere reflects the sun's energy at night"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14404?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "526",
+    "text": "A cannon is fired from town X,after how long is the sound heard at a town Y 4.95 km away?\n\n\n\n[velocity of sound in the air = 330 ms-1]",
+    "options": {
+      "A": "30 s",
+      "B": "10 s",
+      "C": "10 s",
+      "D": "15 s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14407?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "V = X/t330 = (\u00a04.95 x 10^3)/tt = (4.95\u00a0x 10^3/330 == 15\u00a0secs\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "527",
+    "text": "The  phenomenon that shows that increase in pressure lowers the melting point can be observed in",
+    "options": {
+      "A": "sublimation",
+      "B": "condensation",
+      "C": "coagulation",
+      "D": "regelation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14414?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "528",
+    "text": "A block of aluminum is heated electrically by a 30 w heater if the temperature rises by 10\u00b0c in 5 minutes, the heat capacity of the aluminum is",
+    "options": {
+      "A": "900 JK-1",
+      "B": "90 JK-1",
+      "C": "100 JK-1",
+      "D": "200 JK-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14420?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "A",
+    "explanation": "-1\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "529",
+    "text": "Steam burn is more severe than that of boiling water because",
+    "options": {
+      "A": "steam burn is independent of relative humidity",
+      "B": "steam possesses greater heat energy per unit mass",
+      "C": "water boils at a higher temperature",
+      "D": "steam burn is dependent on relative humidity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14427?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "B",
+    "explanation": "The specific latent heat of vaporization of steam is 2.1 x 106JKg-1while the energy required to raise the temperature of a unit mass of water from 0\u00b0c to 100\u00b0c = C x Dt = 4200 x 100 = 420000 = 4.2 x 105 JKg-1\u2234 steam possesses greater heat energy per unit mass\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "530",
+    "text": "I.  change of state \nII. Diffusion \nIII. Radiation \nIV. Osmosis\nwhich of the processes above can be explained using the kinetic theory?",
+    "options": {
+      "A": "I, II,III and IV",
+      "B": "I, II and III",
+      "C": "I, III and IV",
+      "D": "I, II and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14432?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "531",
+    "text": "Three similar cells each of e.m.f 2 v and internal resistance 2\u03a9  are connected in parallel, the total e.m.f and total internal resistance are respectively",
+    "options": {
+      "A": "6 v, 6.0\u03a9",
+      "B": "2 v, 0.7\u03a9",
+      "C": "2 v, 6.0\u03a9",
+      "D": "6 v, 0.7\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14443?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "B",
+    "explanation": "1\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "532",
+    "text": "When the human eye loses its power of accomodation, the defect is known as",
+    "options": {
+      "A": "short sightedness",
+      "B": "presbyopia",
+      "C": "astigmatism",
+      "D": "long sightedness"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14453?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "B",
+    "explanation": "presbyopia is loss of accommodation\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "533",
+    "text": "When a red rose flower is observed in blue light, what colour does the observer see?",
+    "options": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Magenta",
+      "D": "yellow",
+      "E": "No correct option"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14455?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "E",
+    "explanation": "The colour which an object presents to the eye is the colour of light it reflects. Red rose flower will therefore absorb any other colour and reflect red. Therefore when viewed in blue light, it has no colur to reflect and will therefore appear black. Although mixture of red light and blue light = magenta .\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "534",
+    "text": "The capacitance of a parallel plate capacitor is 20 \u03bcf in air and 60 \u03bcf in the presence of a dielectric. What is the dielectric constant?",
+    "options": {
+      "A": "0.3",
+      "B": "6.0",
+      "C": "3.0",
+      "D": "2.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14458?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "535",
+    "text": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm",
+    "options": {
+      "A": "0.06 D",
+      "B": "0.02 D",
+      "C": "0.03 D",
+      "D": "0.04 D",
+      "E": "no option is correct"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14459?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{\\text{f}}\\) =\u00a0\\(\\frac{1}{\\text{u}}\\) +\u00a0\\(\\frac{1}{\\text{v}}\\)\n\\(\\frac{1}{\\text{f}}\\) =\u00a0\\(\\frac{1}{25}\\) +\u00a0\\(\\frac{1}{-50}\\)\nu = 25cm, v = - 50cm\n\\(\\frac{1}{\\text{f}}\\) =\u00a0\\(\\frac{1}{u}\\) -\u00a0\\(\\frac{1}{50}\\) =\u00a0\\(\\frac{2 - 1}{50}\\)\nf = 50cm\nP =\u00a0\\(\\frac{1}{\\text{f}}\\)\u00a0 =\u00a0\\(\\frac{1}{50}\\)\u00a0 = 0.02cm. ( in dioptres = 2D)\n1D = 1m\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "536",
+    "text": "The eclipse of the sun occurs when the",
+    "options": {
+      "A": "moon is between the sun and the earth",
+      "B": "earth is between the sun and the moon",
+      "C": "moon is not completely hidden in the earth's shadow",
+      "D": "moon's umbra falls on some part of the earth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14460?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "537",
+    "text": "Which of the following is a property of steel?",
+    "options": {
+      "A": "it cannot retain its magnetism longer than iron",
+      "B": "it can be used for making temporary magnets",
+      "C": "it can be used for making permanent magnets",
+      "D": "it can easily be magnetized and demagnetized"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14461?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "538",
+    "text": "In measuring high frequency a.c, the instrument used is the",
+    "options": {
+      "A": "d.c ammeter",
+      "B": "moving coil  ammeter",
+      "C": "moving iron ammeter",
+      "D": "hot wire ammeter"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14462?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "539",
+    "text": "If the charge of electricity is K wh is N4, what is the cost of operating an electrical appliance rated 250 v,2 A for six hours?",
+    "options": {
+      "A": "N28",
+      "B": "N12",
+      "C": "N16",
+      "D": "N24"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14463?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "540",
+    "text": "Under which of the following conditions do gases conduct electricity?",
+    "options": {
+      "A": "Low presssure and low p.d",
+      "B": "low pressure and high p.d",
+      "C": "high pressure an low p.d",
+      "D": "high pressure and high p.d"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14464?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "541",
+    "text": "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?",
+    "options": {
+      "A": "600 J",
+      "B": "50 J",
+      "C": "133 J",
+      "D": "250 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14465?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "Inductance (L) in series: 4 + 8 = 12\nTherefore Energy stored =\nW = \\(\\frac{1}{2} LI^2\\)\n= \\(\\frac{1}{2} \\times 12 \\times 10^2\\)\n= 600J\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "542",
+    "text": "Which of the following materials has an increase in resistance with temperature?",
+    "options": {
+      "A": "water",
+      "B": "metals",
+      "C": "wood",
+      "D": "electrolyte"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14466?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "543",
+    "text": "The bond between silicon and germanium is",
+    "options": {
+      "A": "covalent",
+      "B": "ionic",
+      "C": "dative",
+      "D": "electrovalent"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14467?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "544",
+    "text": "A radioactive isotope has a decay constant of 10-5s4. Calculate half life",
+    "options": {
+      "A": "6.93 x 10-5s",
+      "B": "6.93 x 105s",
+      "C": "6.93 x104s",
+      "D": "6.93 x 10-4s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14469?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "T (1)/2 = (0.693)/\u03bb = (0.693)/10-5= 0.693 x 105= 6.93 x 104 sec\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "545",
+    "text": "The electrical properties of germanium can be altered drastically by the addition of impurity. This process is referred to as",
+    "options": {
+      "A": "saturation",
+      "B": "bonding",
+      "C": "amplification",
+      "D": "dopping"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14470?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "546",
+    "text": "If the threshold frequency for tungsten is 1.3 x 1015Hz, what is its work function?\n\n\n[H = 6.6 x 10-34 Js]",
+    "options": {
+      "A": "8.58 x 10-19 J",
+      "B": "8.50 x 10-15 J",
+      "C": "8.58 x 10-17 J",
+      "D": "8.85 x 10-18"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14471?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "A",
+    "explanation": "-34\n15\n-19\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "547",
+    "text": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
+    "options": {
+      "A": "X is the anode and very high current is used",
+      "B": "X is the anode and Y is the cathode",
+      "C": "Y is the cathode and X is the anode",
+      "D": "Y is the anode and very high current is used"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14472?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "587",
+    "text": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is",
+    "options": {
+      "A": "14.0 N",
+      "B": "10.0 N",
+      "C": "12.0 N",
+      "D": "13.0 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14521?exam_type=jamb&type=obj&page=118",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "588",
+    "text": "The diagram above show the positions of a cone. The position which can be described as neutral equilibrium is represented as",
+    "options": {
+      "A": "Z only",
+      "B": "X only",
+      "C": "Y and Z",
+      "D": "Y and X"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14523?exam_type=jamb&type=obj&page=118",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "589",
+    "text": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
+    "options": {
+      "A": "_q24\u03c0\u03b5or2",
+      "B": "_q24\u03c0\u03b5or",
+      "C": "_q4\u03c0\u03b5or2",
+      "D": "\\(\\frac{q}{4\u03c0\u03b5_or}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14526?exam_type=jamb&type=obj&page=118",
+    "correct_answer": "D",
+    "explanation": "Electric potential is work done in taking a unit mass or charge from infinity to that point\nV =w=Fr=Q1Q2xrQQ4\u03c0\u03b5or2Q1\n=_q4\u03c0\u03b5or\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "590",
+    "text": "An image in a convex lens is upright and magnified 3 times. If the focal length of the lens is 15 cm, what is the object distance?",
+    "options": {
+      "A": "10 cm",
+      "B": "25 cm",
+      "C": "16 cm",
+      "D": "14 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14531?exam_type=jamb&type=obj&page=118",
+    "correct_answer": "A",
+    "explanation": "v\nu\n1\nv\n1\nU\n1\nf\n1\n-3U\n1\nu\n1\n15\n2\n3u\n1\n15\n30\n3\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "591",
+    "text": "A length of wire has a frequency of 225Hz when stretched by a force of 225N. If the force increased to 324N, what is the new frequency of vibration?",
+    "options": {
+      "A": "270 Hz",
+      "B": "512 Hz",
+      "C": "488 Hz",
+      "D": "356 Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14536?exam_type=jamb&type=obj&page=119",
+    "correct_answer": "A",
+    "explanation": "f1 = 225Hz, T1 = 225Nf2 = ? T2 = 324NBut f \u221d \u221aT => f = K\u221aT=> K = f/\u221aT\u2234 f1/\u221aT1 = f2/\u221aT2225/\u221a225 = f2/\u221a324\nf2 =225\u221a324\u221a225\nf2 = 270Hz\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "592",
+    "text": "In the circuit above, three resistors, 2\u03a9, 4\u03a9 and 12\u03a9 are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12\u03a9 resistors is",
+    "options": {
+      "A": "14.4 A",
+      "B": "1.0 A",
+      "C": "3.2 A",
+      "D": "9.6 A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/14552?exam_type=jamb&type=obj&page=119",
+    "correct_answer": "B",
+    "explanation": "I = \\(\\frac{V}{R}\\) from Ohm's law\nI = \\(\\frac{12}{12}\\) = 1A.\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "1599",
+    "text": "If the volume of a gas increases steadily as the temperature decreases at constant pressure, the gas obeys",
+    "options": {
+      "A": "Graham's Law",
+      "B": "Boyle's Law",
+      "C": "Pressure law",
+      "D": "Charles Law",
+      "E": "No Correct Option"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41404?exam_type=jamb&type=obj&page=320",
+    "correct_answer": "E",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "1600",
+    "text": "In Homes, electrical appliances and lamps are connected in parallel because",
+    "options": {
+      "A": "Parallel connections do not heat up the wires",
+      "B": "independence switches can be used",
+      "C": "less current will be used",
+      "D": "less voltage will be used"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41406?exam_type=jamb&type=obj&page=320",
+    "correct_answer": "B",
+    "explanation": "if appliances are connected in series, the effective voltage is the sum of individual voltages which will be high.\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "1601",
+    "text": "In an A.C circuit, the ratio of r.m.s value to peak value of current is",
+    "options": {
+      "A": "2",
+      "B": "\\( \\frac{1}{2} \\)",
+      "C": "\\( \\frac{1}{\\sqrt{2}} \\)",
+      "D": "\\( \\sqrt{2} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41407?exam_type=jamb&type=obj&page=321",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2011"
+  },
+  {
+    "number": "1602",
+    "text": "Two resistors 5\u03a9 and 10\u03a9 are arranged first in series and later in parallel to a 24V source, the ratio of total power dissipated in the series and parallel arrangements respectively is",
+    "options": {
+      "A": "5:3",
+      "B": "1:50",
+      "C": "50:1",
+      "D": "3:5",
+      "E": "No Correct Option"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41409?exam_type=jamb&type=obj&page=321",
+    "correct_answer": "E",
+    "explanation": "Power in Series ArrangementTotal Resistance (R_series): R\\(_{series}\\) \u00a0= R\\(_1\\) + R\\(_2\\)\u00a0\u00a0= 5\u03a9 + 10\u03a9 = 15\u03a9\nTotal Power (P_series): P = \\(\\frac{V^2}{\\text{R}}\\) = \\(\\frac{24^2}{15}\\) = 38.4W\nPower in parallel Arrangement\nTotal Resistance(R\\(_{parallel}\\)): R\\(_{parallel}\\) = \\(\\frac{R_1 \\times R_2}{R_1 + R_2}\\) = \\(\\frac{5 \\times 10}{5 + 10}\\) = 3.33\nTotal Power(P_{parallel}\\): P =\u00a0 \\(\\frac{V^2}{\\text{R}}\\) =\u00a0\\(\\frac{24^2}{3.33}\\) = 172.8W\nRatio of Powers\nPower ratio =\u00a0\u00a0 \\(\\frac{\\text{Pseries}}{\\text{Pparallel}}\\) =\u00a0\\(\\frac{38.4}{172.8}\\) =\u00a0\\(\\frac{1}{4.5}\\) =\u00a0\\(\\frac{2}{9}\\)\nTherefore, there is no correct answer.\nThere is an explanation video availablebelow.",
+    "year": "2011"
+  }
+]

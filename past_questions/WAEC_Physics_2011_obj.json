@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1169",
+    "text": "Which of the following statements is not correct?",
+    "options": {
+      "A": "molecules of ice, water and water vapour have equal intermolecular distances",
+      "B": "molecules of ice, water and water vapour do not differ in the structure of their molecules",
+      "C": "molecules of water vapour attract each other with forces far less than the forces of attraction between water molecules",
+      "D": "water is less compressible than water vapour"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35373?exam_type=waec&type=obj&page=234",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1170",
+    "text": "The density P of a spherical ball of diameter d and mass m is given by",
+    "options": {
+      "A": "P = \\(\\frac{3m}{4 \\pi d^3}\\)",
+      "B": "p = 4\\(\\pi md^3\\)",
+      "C": "p = \\(\\frac{6m}{\\pi d^3}\\)",
+      "D": "p = \\(\\frac{3m}{2 \\pi d^3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35382?exam_type=waec&type=obj&page=234",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1171",
+    "text": "A metal rod of density 7000 kgm-3 and cross-sectional area of 0.001257m2 has a mass of 1.76kg. Calculate its length.",
+    "options": {
+      "A": "0.20m",
+      "B": "0.25m",
+      "C": "0.40m",
+      "D": "0.50m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35409?exam_type=waec&type=obj&page=235",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1172",
+    "text": "The pressure in a liquid",
+    "options": {
+      "A": "is the same at all points in the liquid",
+      "B": "decreases with depth",
+      "C": "is the same in all directions at a given point",
+      "D": "is equal to the atmospheric pressure"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35410?exam_type=waec&type=obj&page=235",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1173",
+    "text": "The property of a fluid that is used to determine its suitability as a lubricant is its",
+    "options": {
+      "A": "capillarity",
+      "B": "viscocity",
+      "C": "surface tension",
+      "D": "relative density"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35411?exam_type=waec&type=obj&page=235",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1174",
+    "text": "The area under a velocity-time graph represents",
+    "options": {
+      "A": "final velocity attained",
+      "B": "distance covered",
+      "C": "acceleration",
+      "D": "workdone"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35412?exam_type=waec&type=obj&page=235",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1175",
+    "text": "In the absence of gravitational force, the weight of the body is",
+    "options": {
+      "A": "its mass",
+      "B": "zero",
+      "C": "its density",
+      "D": "its volume"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35413?exam_type=waec&type=obj&page=235",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1176",
+    "text": "Which of the following propeties is not considered in choosing mercury as a thermomemetric liquid?",
+    "options": {
+      "A": "density",
+      "B": "expansivity",
+      "C": "conductivity",
+      "D": "opacity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35414?exam_type=waec&type=obj&page=236",
+    "correct_answer": "A",
+    "explanation": "Expansion and Contraction: The density of mercury affects how it expands and contracts with temperature changes. A liquid with a consistent and predictable expansion rate is essential for accurate temperature readings.Calibration: The density of the liquid must be known to calibrate the thermometer accurately. This ensures that the scale on the thermometer corresponds correctly to temperature changes.Thermal Conductivity: While conductivity can influence how quickly a liquid reaches thermal equilibrium with its surroundings, it is not as critical as density for the overall accuracy of the thermometer.\nBut in choosing mercury as a thermometric liquid, the density of mercury is not usually considered.",
+    "year": "2011"
+  },
+  {
+    "number": "1177",
+    "text": "A stone of mass 300g is released from rest from the top of a bulding of height 100m. Determine the kinetic energy gained by the stone when it is a quarter way down from the point of release.[g = 10 ms-2]",
+    "options": {
+      "A": "750.0J",
+      "B": "225.0J",
+      "C": "75.0J",
+      "D": "22.5J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35415?exam_type=waec&type=obj&page=236",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1178",
+    "text": "A body of mass 120g placed at the 10cm mark on a uniform metre rule makes the rule settle horizontally on a fulcrum places at 35cm mark. Calculate the mass of the rule",
+    "options": {
+      "A": "60g",
+      "B": "80g",
+      "C": "120g",
+      "D": "200g"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35434?exam_type=waec&type=obj&page=236",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1179",
+    "text": "Two simple pendulum A and B of equal lengths and of masses 5g and 20g respectively are located in the same environment. The periods TA and TB of their respective oscillations are related by the equations",
+    "options": {
+      "A": "TA = 4TB",
+      "B": "TA = \\(\\frac{1}{4} T_B\\)",
+      "C": "TA = TB",
+      "D": "TA = 5TB"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35436?exam_type=waec&type=obj&page=236",
+    "correct_answer": "C",
+    "explanation": "The period of a simple pendulum is dependent on the frequency. It is also dependent on the length of the pendulum but not the mass. Since the two pendulums have equal length, then their periods are equal as well.",
+    "year": "2011"
+  },
+  {
+    "number": "1180",
+    "text": "An object of mass 5.0 kg moves with a velocity of 10ms-1. Calculate its momentum.",
+    "options": {
+      "A": "50.0 kgms-1",
+      "B": "15.0 kgms-1",
+      "C": "2.0 kgms-1",
+      "D": "0.5 kgms-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35438?exam_type=waec&type=obj&page=236",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1181",
+    "text": "A coin is pushed from the edge of a laboratory bench with a horizontal velocity of 15.0 ms-1. If the height of the bench from the floor is 1.5m, calculate the distance from the foot of the bench to the point of impact with the floor [g = 10ms-2]",
+    "options": {
+      "A": "0.75m",
+      "B": "2.25m",
+      "C": "8.22m",
+      "D": "15.00m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35440?exam_type=waec&type=obj&page=237",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1182",
+    "text": "Which of the following statements correctly defines a simple machine? A device",
+    "options": {
+      "A": "that can produce electric current",
+      "B": "which can only carry people from one place to another",
+      "C": "with which work can be done easily",
+      "D": "which changes the state of rest or of uniform motion of an object"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35441?exam_type=waec&type=obj&page=237",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1183",
+    "text": "The radius of a wheel is 30.0 cm and that of its axle is 6.0cm. Calculate the effort required to lift a load of 120.0N using this machine. Assuming 100% efficiency",
+    "options": {
+      "A": "600.0N",
+      "B": "40.0N",
+      "C": "24.0N",
+      "D": "20.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35442?exam_type=waec&type=obj&page=237",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1184",
+    "text": "A hypsometer is used for determining",
+    "options": {
+      "A": "steam point",
+      "B": "relative humidity",
+      "C": "ice point",
+      "D": "relative density"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35443?exam_type=waec&type=obj&page=237",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1185",
+    "text": "Which of the following equations shows how how the linear expansivity (\\(\\alpha\\)) and the cubic expansivity (\\(\\gamma\\)) of a material are related?",
+    "options": {
+      "A": "\\(\\gamma = \\alpha\\)",
+      "B": "\\(\\gamma  = 1 - \\alpha\\)",
+      "C": "\\(\\gamma  = 2 \\alpha\\)",
+      "D": "\\(\\gamma  = 3 \\alpha\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35445?exam_type=waec&type=obj&page=237",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1186",
+    "text": "Which of the following statements about anomalous expansion of water are correct?  i. There is contraction between 0oC and 4oC.  ii. There is expansion between 0oC and 100oC.  iii. The volume is minimum at 4oC.  iv. The volume is maximum at 4oC",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "ii and iv only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35447?exam_type=waec&type=obj&page=238",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1187",
+    "text": "Which of the following assumptions is not valid for an ideal gas ?",
+    "options": {
+      "A": "molecules of a particular gas are identical",
+      "B": "molecules moves freely throughout the volume of the container",
+      "C": "force of attraction between molecules is negligible",
+      "D": "molecules move at constant speed between collisions"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35449?exam_type=waec&type=obj&page=238",
+    "correct_answer": "D",
+    "explanation": "In an ideal gas, molecules do not move at constant speed between collisions. Their speeds vary due to elastic collisions with other molecules and the walls of the container. The other assumptions\u2014identical molecules, free movement throughout the container, and negligible forces of attraction\u2014are valid for an ideal gas.",
+    "year": "2011"
+  },
+  {
+    "number": "1188",
+    "text": "A body is pulled over a distance of 500m by a force of 20N. If the power developed is o.4 kW, calculate the time interval during which the force is applied",
+    "options": {
+      "A": "0.2s",
+      "B": "2.5s",
+      "C": "25.0s",
+      "D": "250.0s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35452?exam_type=waec&type=obj&page=238",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1189",
+    "text": "A metal of mass 200g at a temperature of 100oC is placed in 100g of water at 25oC in a container of negligible heat capacity. If the final steady temperature is 30oC, calculate the specific heat capacity of the metal. [specific heat capacity of the water is 4200 Jkg-1 K-1]",
+    "options": {
+      "A": "150 Jkg-1K-1",
+      "B": "300 Jkg-1K-1",
+      "C": "320 Jkg-1K-1",
+      "D": "1960 Jkg-1K-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35454?exam_type=waec&type=obj&page=238",
+    "correct_answer": "A",
+    "explanation": "metal",
+    "year": "2011"
+  },
+  {
+    "number": "1190",
+    "text": "Ether produces a cooling effect when it is poured on the hand because it has",
+    "options": {
+      "A": "low conductivity",
+      "B": "high conductivity",
+      "C": "high latent heat of vaporization",
+      "D": "low latent heat of vaporization"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35455?exam_type=waec&type=obj&page=238",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1191",
+    "text": "Which of the following statements about the image formed by a plane mirror is not correct?",
+    "options": {
+      "A": "it is laterally inverted",
+      "B": "it has unit magnifiation",
+      "C": "it is formed by actual intersection of rays",
+      "D": "its distance from the mirror is equal to that of the object from the mirror"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35457?exam_type=waec&type=obj&page=239",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1192",
+    "text": "The image formed by a convex mirror is always",
+    "options": {
+      "A": "real, erect and diminished",
+      "B": "real, inverted and diminished",
+      "C": "virtual, inverted and diminished",
+      "D": "virtual, erect and diminshed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35458?exam_type=waec&type=obj&page=239",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1193",
+    "text": "A ray undergoes a minimum deviation at 40o when it is incident on equilateral triangular glass prism. Calculate the refractive index of the prism",
+    "options": {
+      "A": "1.48",
+      "B": "1.50",
+      "C": "1.53",
+      "D": "1.67"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35461?exam_type=waec&type=obj&page=239",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1194",
+    "text": "Total internal reflection occurs in an optical prism when light rays",
+    "options": {
+      "A": "travel from the prism into an optically denser medium",
+      "B": "are incident in the prism at an angle greater than the critical angle",
+      "C": "are incident normally in the prism",
+      "D": "travel from the prism to the air"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35470?exam_type=waec&type=obj&page=239",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1195",
+    "text": "The speed of light in a certain medium is V while its speed in a vacuum is C. The absolute refractive index of the medium is",
+    "options": {
+      "A": "C + V",
+      "B": "\\(\\frac{C}{V}\\)",
+      "C": "\\(\\frac{V}{C}\\)",
+      "D": "C - V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35471?exam_type=waec&type=obj&page=239",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1196",
+    "text": "An object is placed 20.0cm in front of a converging lens of focal length 15.0cm. Calculate its image distance",
+    "options": {
+      "A": "1.3cm",
+      "B": "8.6cm",
+      "C": "35.0cm",
+      "D": "60.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35473?exam_type=waec&type=obj&page=240",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1197",
+    "text": "Presbyopia is a defect of the eye resulting from",
+    "options": {
+      "A": "weak ciliary muscles",
+      "B": "short eyeball",
+      "C": "loss of sphericity of the lens",
+      "D": "long eyeball"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35474?exam_type=waec&type=obj&page=240",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1198",
+    "text": "The focal length of the eye-piece of an astronomical telescope is f1, while the focal length of the object is f2. Fro normal adjustment, the angular magnification is given by",
+    "options": {
+      "A": "\\(\\frac{f_2}{f_1}\\)",
+      "B": "1 - \\(\\frac{f_2}{f_1}\\)",
+      "C": "\\(\\frac{f_2}{f_1}\\) - 1",
+      "D": "\\(\\frac{f_1}{f_2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35476?exam_type=waec&type=obj&page=240",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1199",
+    "text": "two sound waves have frequencies of 12Hz and 10Hz. Calculate their beats period",
+    "options": {
+      "A": "0.5s",
+      "B": "1.0s",
+      "C": "1.2s",
+      "D": "2.0s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35478?exam_type=waec&type=obj&page=240",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1200",
+    "text": "The main difference between echo and reverberation is that",
+    "options": {
+      "A": "reverberation is reflected sound while echo is refracted sound",
+      "B": "the time interval between incident sound and reflecte sound is shorter for reverbration",
+      "C": "the amplitude of an echo is greater",
+      "D": "reverberation is from acoustic speakers while echo comes from clifts"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35479?exam_type=waec&type=obj&page=240",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1201",
+    "text": "Which of the following statements about the electromagnetic waves is correct?",
+    "options": {
+      "A": "radio waves have longer frequencies than x-rays",
+      "B": "x-rays have the longest wavelength",
+      "C": "some of the waves travel at 3.0 x 108ms-1",
+      "D": "white light occupies a region beyond ultraviolet rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35481?exam_type=waec&type=obj&page=241",
+    "correct_answer": "D",
+    "explanation": "All electromagnetic waves:are transverse waves;can travel through a vacuum ;travel at exactly the same speed in a vacuum, the speed of light, 300,000,000 m/s.\nThe common designations are radio waves, microwaves, infrared (IR), visible light, ultraviolet (UV) light, X-rays and gamma-rays.\nultraviolet rays lie beside violet of visible light and has a lesser frequency than visible light.",
+    "year": "2011"
+  },
+  {
+    "number": "1202",
+    "text": "The correct relationship between \"G\" and \"g\" in a gravitational field is given by the equation (Where the symbols have their usual meanings)",
+    "options": {
+      "A": "g = \\(\\frac{GM}{R}\\)",
+      "B": "g = \\(\\frac{GM}{R^2}\\)",
+      "C": "g = \\(\\frac{GM^2}{R}\\)",
+      "D": "g = \\(\\frac{GM^2}{R^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35482?exam_type=waec&type=obj&page=241",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1203",
+    "text": "The capacitance of a parallel-plate capacitor",
+    "options": {
+      "A": "decreases when the seperation between the plate decreases",
+      "B": "increases when the optential difference between the plates is increased",
+      "C": "is greater without a dielectric material between the plates than with a dielectric",
+      "D": "is greater with a dielectric between the plates than without a dielectric."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35483?exam_type=waec&type=obj&page=241",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1204",
+    "text": "When the pointed end of an uncharged optical pin is brought near the cap cf a positively charged electroscope, it is observed that the gold",
+    "options": {
+      "A": "collapse slowly",
+      "B": "vibrate",
+      "C": "are not affected",
+      "D": "diverge rapidly"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35484?exam_type=waec&type=obj&page=241",
+    "correct_answer": "D",
+    "explanation": "This is because the presence of the positively charged electroscope will induce a separation of charges in the uncharged pin, causing it to interact with the charged electroscope.",
+    "year": "2011"
+  },
+  {
+    "number": "1205",
+    "text": "Which of the following substances does not conduct electricity?",
+    "options": {
+      "A": "graphite",
+      "B": "glass",
+      "C": "sulphuric acid",
+      "D": "table salt solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35486?exam_type=waec&type=obj&page=241",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1206",
+    "text": "The unit of capacitance is",
+    "options": {
+      "A": "farad",
+      "B": "coulomb",
+      "C": "henry",
+      "D": "ohms"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35489?exam_type=waec&type=obj&page=242",
+    "correct_answer": "A",
+    "explanation": "The capacitance of any capacitor is its ability to store charge, and\u00a0The SI unit is farad(F).",
+    "year": "2011"
+  },
+  {
+    "number": "1207",
+    "text": "An ammeter with a full scale deflection of 10mA has an internal resistance 0.5\\(\\Omega\\). calculate the resistance of the shunt required to adapt it to read up to 3A",
+    "options": {
+      "A": "0.0167\\(\\Omega\\)",
+      "B": "0.0130\\(\\Omega\\)",
+      "C": "0.0250\\(\\Omega\\)",
+      "D": "0.1000\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35492?exam_type=waec&type=obj&page=242",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1208",
+    "text": "The resistivity, \\(\\mathit{P}\\), of a material of length l, cross-sectional area A, resistance R, is given by the equation",
+    "options": {
+      "A": "\\(\\mathit{P} = \\frac{RA}{l}\\)",
+      "B": "\\(\\mathit{P} = \\frac{l}{RA}\\)",
+      "C": "\\(\\mathit{P} = \\frac{Rl}{A}\\)",
+      "D": "\\(\\mathit{P} = \\frac{R}{Al}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35494?exam_type=waec&type=obj&page=242",
+    "correct_answer": "A",
+    "explanation": "resistivity P\u00a0 is directly proportional to the product of resistance and cross-sectional area and inversely proportional to the length of the wire",
+    "year": "2011"
+  },
+  {
+    "number": "1209",
+    "text": "A wire of length 30cm is moved with a speed of 2ms-1 at right angles to a magnetic field of flux density 0.4T. calculate the emf induced in the wire",
+    "options": {
+      "A": "0.15V",
+      "B": "0.24V",
+      "C": "2.70V",
+      "D": "24.00V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35495?exam_type=waec&type=obj&page=242",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1210",
+    "text": "Which of the following practices will lead to losses in electrical power transmission?",
+    "options": {
+      "A": "using transmission cables of large diameter",
+      "B": "transmitting at high voltage and low current",
+      "C": "transmitting at relatively low voltage and high current",
+      "D": "using a set-up transformer at the production end"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35496?exam_type=waec&type=obj&page=242",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1211",
+    "text": "For photoelectric emission, the threshold frequency is the",
+    "options": {
+      "A": "maximum frequency of incident radiation that will eject elecrons",
+      "B": "minimum fraquency of incident radiation required to eject elecrons",
+      "C": "frequency which results in the emission of the greater number of electrons",
+      "D": "fraquency whch impacts greatest kinetic energy to emitte electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35497?exam_type=waec&type=obj&page=243",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1212",
+    "text": "Which of the following properties is not applicable to X-rays? They",
+    "options": {
+      "A": "travel in straight lines",
+      "B": "travel with the speed of light",
+      "C": "are deflected by magnetic field",
+      "D": "affect photographic films"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35498?exam_type=waec&type=obj&page=243",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1213",
+    "text": "Uranium-234 disintegrated to form Thorium-230 by emitting",
+    "options": {
+      "A": "alpha particles",
+      "B": "gamma rays",
+      "C": "beta negative rays",
+      "D": "beta positive rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35499?exam_type=waec&type=obj&page=243",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1214",
+    "text": "The change in mass of fuel during a nuclear reaction is 2.0 x 10-27 kg. Calculate the amount of energy released. (Speed of light = 2.0 x 108ms-1)",
+    "options": {
+      "A": "1.8 x 10-10J",
+      "B": "9.0 x 10-11J",
+      "C": "6.0 x 10-19J",
+      "D": "1.2 x 10-45J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35500?exam_type=waec&type=obj&page=243",
+    "correct_answer": "A",
+    "explanation": "-27\n)2= 1.8 x 10-10J",
+    "year": "2011"
+  },
+  {
+    "number": "1215",
+    "text": "Nuclear fusion is not used as a source of enegy because",
+    "options": {
+      "A": "very high temperature is needed for the reaction",
+      "B": "the fuel for the reaction is not easy to obtain",
+      "C": "less energy is released",
+      "D": "the reaction is too slow"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35501?exam_type=waec&type=obj&page=243",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1216",
+    "text": "Using the circuit diagram above. Calculate the total charge in the circuit",
+    "options": {
+      "A": "80\\(\\mu C\\)",
+      "B": "35\\(\\mu C\\)",
+      "C": "20\\(\\mu C\\)",
+      "D": "16\\(\\mu C\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35503?exam_type=waec&type=obj&page=244",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1217",
+    "text": "Using the circuit diagram above. Calculate the potential difference across the capacitors in parallel",
+    "options": {
+      "A": "10.0V",
+      "B": "8.0V",
+      "C": "6.7V",
+      "D": "2.0V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35511?exam_type=waec&type=obj&page=244",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "number": "852",
+    "text": "How many isotopes has hydrogen?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37551?exam_type=waec&type=obj&page=171",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "853",
+    "text": "Which of the following electrons configurations correctly represents an inert element?",
+    "options": {
+      "A": "1s22s22p4",
+      "B": "1s22s22p63s2",
+      "C": "1s22s22p63s23p4",
+      "D": "1s22s22p6"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37552?exam_type=waec&type=obj&page=171",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "854",
+    "text": "What type of reaction is represented by the following equation?\\(\\frac{2}{1}\\)D\\(\\frac{3}{1}\\)H \u2192 \\(\\frac{4}{4}\\)He + \\(\\frac{1}{0}\\)n + energy",
+    "options": {
+      "A": "Nuclear fission",
+      "B": "Nuclar fusion",
+      "C": "Radioactive decay",
+      "D": "Spontaneous decay"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37553?exam_type=waec&type=obj&page=171",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "855",
+    "text": "Which of the following ions has the electron configuration 2,8,8?",
+    "options": {
+      "A": "Na+",
+      "B": "Mg2+",
+      "C": "F-",
+      "D": "CI-"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37554?exam_type=waec&type=obj&page=171",
+    "correct_answer": "D",
+    "explanation": "Chlorine(Cl) has configuration 2,8,7 but Chlorine ion (Cl-) has 18 electrons and configuration 2,8,8.\nHere is the reason:\nChlorine has 17 electrons, and these are distributed in shells (or energy levels) as follows: 2 in the first shell, 8 in the second, and 7 in the third.This is represented as 2,8\u00a07.\u00a0Chlorine can gain one electron to achieve a stable electron configuration, resembling that of the noble gas Argon.\nWhen chlorine gains an electron, its electron configuration becomes 2, 8, 8, making it a chloride ion (Cl\u207b).\u00a0The 2,8,8 configuration means the outermost shell is full with 8 electrons, which is the octet rule, making the ion stable.",
+    "year": "2011"
+  },
+  {
+    "number": "856",
+    "text": "An element with the electron configuration of 1s 22s 22p 6 would have a combining power of",
+    "options": {
+      "A": "o",
+      "B": "2",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37555?exam_type=waec&type=obj&page=172",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "857",
+    "text": "Rare gases are stable because they",
+    "options": {
+      "A": "contain equal number of protons and neutrons",
+      "B": "contain more electrons than protons",
+      "C": "are chemically active",
+      "D": "have octet structure"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37557?exam_type=waec&type=obj&page=172",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "858",
+    "text": "Which of the following elements would produce coloured ions in aqueous solution?",
+    "options": {
+      "A": "Calcium",
+      "B": "lron",
+      "C": "Magnesium",
+      "D": "Sodium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37562?exam_type=waec&type=obj&page=172",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "859",
+    "text": "The energy change that accompanies the addition of an electron to an isolated gaseous atom is",
+    "options": {
+      "A": "bond energy",
+      "B": "electronegativity",
+      "C": "electron affinity",
+      "D": "ionization energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37563?exam_type=waec&type=obj&page=172",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "860",
+    "text": "Which of the following hydrohalic acids is the weakest?",
+    "options": {
+      "A": "HBr",
+      "B": "HCI",
+      "C": "HF",
+      "D": "HI"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37564?exam_type=waec&type=obj&page=172",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "861",
+    "text": "Which of the following arrangements is in order of increasing metallic property?",
+    "options": {
+      "A": "Li < Na< k",
+      "B": "Na < Li < K",
+      "C": "K \n\nD.\n            K < Li < Na",
+      "D": "K < Li < Na"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37565?exam_type=waec&type=obj&page=173",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "862",
+    "text": "Chlorine, bromine and iodine belong to the same group and",
+    "options": {
+      "A": "are gaseous at room temperature.",
+      "B": "form white precipitate with AgNO3(aq)",
+      "C": "react violently with hydrogen without heating",
+      "D": "react with alkali"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37566?exam_type=waec&type=obj&page=173",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "863",
+    "text": "Which of the following elements can conveniently be placed in two groups in the periodic table ?",
+    "options": {
+      "A": "Carbon",
+      "B": "Copper",
+      "C": "Hydrogen",
+      "D": "Oxygen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37567?exam_type=waec&type=obj&page=173",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "864",
+    "text": "The bond formed when two electrons that are shared between two atoms are donated by only one of the atoms is",
+    "options": {
+      "A": "covalent",
+      "B": "dative",
+      "C": "ionic",
+      "D": "metalic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37568?exam_type=waec&type=obj&page=173",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "865",
+    "text": "When element 20A combines with element  8Y,",
+    "options": {
+      "A": "a covalent compound, AY is formed",
+      "B": "an ionic compound  AY is formed",
+      "C": "an ionic compound, A2Y is formed",
+      "D": "a covalent compound, AY2 is formed"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37569?exam_type=waec&type=obj&page=173",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "866",
+    "text": "In metallic colids, the forces of attraction are between the mobile valence electrons and",
+    "options": {
+      "A": "atoms",
+      "B": "neutrons",
+      "C": "the negative ions",
+      "D": "positively charged nuclei"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37579?exam_type=waec&type=obj&page=174",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "867",
+    "text": "Which of the following statements about displacement reaction is correct?",
+    "options": {
+      "A": "A more electropositive element displaces a less electroposive one",
+      "B": "A less electropositive element displaces a more electropositive one",
+      "C": "The position of elements in the reactivity series has no effect on the reaction",
+      "D": "it only occurs when the reaction is at equilibrium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37595?exam_type=waec&type=obj&page=174",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "868",
+    "text": "The volume occupied by 17g of H2S at s.t.p. is [H = 1.00, S = 32.0, Molar volume = 22.4 dm3]",
+    "options": {
+      "A": "11.2dm 3",
+      "B": "17.0 dm3",
+      "C": "34.0dm 3",
+      "D": "44.8dm 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37596?exam_type=waec&type=obj&page=174",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "869",
+    "text": "Consider the reaction represented by the following equation: xKMnO 4(aq) + ySO2(g) + zH2O(I) \u2192 K 2SO4(AQ) + 2MnSO4(aq) + 2H2SO x,y and z are respectively",
+    "options": {
+      "A": "2,5 and 2",
+      "B": "2,2 and 5",
+      "C": "5, 1 and 2",
+      "D": "1, 5 and 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37600?exam_type=waec&type=obj&page=174",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "870",
+    "text": "What is the amount of magnesium that would contain 1.20 x 1024 particles? [Mg = 24, Avogadro's constant = 6.02 x 1023]",
+    "options": {
+      "A": "0.5 moles",
+      "B": "2.0 moles",
+      "C": "12.0 moles",
+      "D": "24.0 moles"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37601?exam_type=waec&type=obj&page=174",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "871",
+    "text": "The number of atoms in one mole of a substance is equal to the",
+    "options": {
+      "A": "mass number",
+      "B": "oxidation number",
+      "C": "atomic number",
+      "D": "avogadro number"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37606?exam_type=waec&type=obj&page=175",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "872",
+    "text": "Which of the following statements about a molar solution is correct? it",
+    "options": {
+      "A": "is a supersaturated solution",
+      "B": "cannot dissolve more of the solute at that temperature",
+      "C": "contains any amount of solute in a given volume of solution",
+      "D": "contains one mole of the solute in 1 dm3 of solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37607?exam_type=waec&type=obj&page=175",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "873",
+    "text": "A gas that is collected by upward delivery is likely to be",
+    "options": {
+      "A": "heavier than air",
+      "B": "insoluble in water",
+      "C": "lighter than air",
+      "D": "soluble in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37608?exam_type=waec&type=obj&page=175",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "874",
+    "text": "Bubbling excess carbon (IV) oxide into calcium hydroxide solution results in the formaton of",
+    "options": {
+      "A": "CaO",
+      "B": "Ca(HCO3)2",
+      "C": "H2CO3",
+      "D": "CaCO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37609?exam_type=waec&type=obj&page=175",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "875",
+    "text": "The equation P = \\(\\frac{K}{V}\\) illustrates",
+    "options": {
+      "A": "Boyle's law",
+      "B": "Charles' law",
+      "C": "Dalton's law",
+      "D": "Gay Lussac's law"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37610?exam_type=waec&type=obj&page=175",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "876",
+    "text": "The initial volume of a gas at 300 K was 220 cm 3 Determine  its temperature if the volume became 250 cm  3",
+    "options": {
+      "A": "183 K",
+      "B": "264 K",
+      "C": "300 K",
+      "D": "341 K"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37611?exam_type=waec&type=obj&page=176",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "877",
+    "text": "Which of the following equimolar solutions has the highest conductivity?",
+    "options": {
+      "A": "CH3COOH(aq)",
+      "B": "H2CO3(aq)",
+      "C": "H 2SO 4(aq)",
+      "D": "NaOH (aq)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37612?exam_type=waec&type=obj&page=176",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "878",
+    "text": "The colour of phenolphthalein indicator in alkaline solution at the end-point of an acid-base titration is?",
+    "options": {
+      "A": "colourless",
+      "B": "orange",
+      "C": "pink",
+      "D": "yellow"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37613?exam_type=waec&type=obj&page=176",
+    "correct_answer": "C",
+    "explanation": "Phenolphthalein is one of the most commonly-used indicators in neutralisation titration.\nPhenolphthalein is naturally colorless butturns pink in alkaline solutions.",
+    "year": "2011"
+  },
+  {
+    "number": "879",
+    "text": "Which of the following statements about enthalpy of neutralization is correct? It",
+    "options": {
+      "A": "is constant for a strong acid and a strong base",
+      "B": "cannot be determined using calorimeter",
+      "C": "has a positive value",
+      "D": "is higher for strong acid and a weak base"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37614?exam_type=waec&type=obj&page=176",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "880",
+    "text": "When NH 4CI was dissolved in water, the container was cold to touch. This implies that",
+    "options": {
+      "A": "the process is endothermic",
+      "B": "the process is exothermic",
+      "C": "NH4CI is highly soluble in water",
+      "D": "NH 4CI forms a saturated solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37615?exam_type=waec&type=obj&page=176",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "881",
+    "text": "Which of the following metallic oxides is amphoteric?",
+    "options": {
+      "A": "AI2O3",
+      "B": "Fe2O3",
+      "C": "MgO",
+      "D": "Na2O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37620?exam_type=waec&type=obj&page=177",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "882",
+    "text": "On evaporation to dryness, 250 cm3 of saturated solution of salt X with relative molar mass 101 gave 50.5g of the. What is the soluility of the salt?",
+    "options": {
+      "A": "1.0 mol dm-3",
+      "B": "2.0 mol dm-3",
+      "C": "4.0 moldm-3",
+      "D": "5.0 moldm-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37625?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "50.5g 0f salt X is contained in 250cm3,\nwhat mass of X is contained in 1000cm3\n= (50.5 x 1000) \u00f7 250 = 202g\nno of moles of salt x = mass\u00f7 molar mass\n= 202\u00f7 101 = 2.0mol/dm3",
+    "year": "2011"
+  },
+  {
+    "number": "883",
+    "text": "Consider the following reaction equation:\nX(g) + Y(g) \u21cc XY(g); \u2206H = + 220KJ mol-1 If the temperature of the system is increased, the",
+    "options": {
+      "A": "backward reaction would be favoured",
+      "B": "forward reaction would favoured",
+      "C": "reaction would stop",
+      "D": "reaction would be at equilibrium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37628?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "According to Le Chatelier's principle, in an endothermic reaction (whenever delta H = +), an increase in temperature will cause the equilibrium position to shift to the right, thereby leading to the formation of more of the product i.e The forward reaction will be favoured\u00a0while a decrease in temperature will cause the equilibrium position to shift to the left. Which implies the backward reaction will be favoured. The reverse is the case in an exothermic reaction ( whenever delta H = - ). Therefore, the correct answer is option B.",
+    "year": "2011"
+  },
+  {
+    "number": "884",
+    "text": "What is the value of n in the following equation? Cr2O72- + 14H+ + ne- \u2192 2Cr 3+ + 7H2O",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37629?exam_type=waec&type=obj&page=177",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "885",
+    "text": "What mass of copper would be formed when a current of 10.0 A is passed through a solution of CuSO4 for 1 hour? [Cu = 63.5; 1F = 96500C]",
+    "options": {
+      "A": "5.9 g",
+      "B": "11.8 g",
+      "C": "23.8 g",
+      "D": "47.3 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37630?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "886",
+    "text": "Which of the following metals could be used as sacrifical anode for preventing the corrosion of iron?",
+    "options": {
+      "A": "Copper",
+      "B": "Lead",
+      "C": "Magnesium",
+      "D": "Silver"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37631?exam_type=waec&type=obj&page=178",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "887",
+    "text": "Consider the following electrochemical cell notation: M(s) / M2+ (aq)// H+ (aq)/ H2(g). The value of the electrode potential is positive when?",
+    "options": {
+      "A": "electrons flow from the metal electrode, M(s) to hydrogen electrode, H2(g)",
+      "B": "electrons fow from hydrogen electrode, H2(g) to metal electrode, M(s)",
+      "C": "the flow of current is high",
+      "D": "there is equilibrium between the flow of electrons from the hydrogen electrode, H2(g) to metal electrode, M(s)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37632?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "888",
+    "text": "Which of the following compounds determines the octane rating of petrol?",
+    "options": {
+      "A": "1,2,3 - trimethlpentane",
+      "B": "2,3,5 - trimethyloctane",
+      "C": "2,3,5 - trimethylpentane",
+      "D": "2,2,4 - trimethylpentane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37633?exam_type=waec&type=obj&page=178",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "889",
+    "text": "Which of the following compounds would react with ethanoic acid to give a sweet smelling liquid?",
+    "options": {
+      "A": "Alkane",
+      "B": "Alkanol",
+      "C": "Alkanal",
+      "D": "Alkyne"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37634?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "890",
+    "text": "Which of the following separation techniques would show that black ink is a mixture of chemical compounds?",
+    "options": {
+      "A": "Crystallization",
+      "B": "Chromatography",
+      "C": "Filtration",
+      "D": "Sublimation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37635?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "891",
+    "text": "The following substances are examples of addition polymer except",
+    "options": {
+      "A": "nylon",
+      "B": "perspex",
+      "C": "polyethene",
+      "D": "polychloroethene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37636?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "Every option, except nylon (which is a condensation polymer), is an addition polymer.",
+    "year": "2011"
+  },
+  {
+    "number": "892",
+    "text": "When bromine is added to ethene at room temperature, the compound formed is",
+    "options": {
+      "A": "1,1 - dibromoethane",
+      "B": "1,2 - dibromoethene",
+      "C": "1,1 - dibromoethene",
+      "D": "1,2 - dibromoethane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37637?exam_type=waec&type=obj&page=179",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "893",
+    "text": "The compound that makes palm wine taste sour after exposure to the air for few days is",
+    "options": {
+      "A": "ethanol",
+      "B": "ethanoic acid",
+      "C": "methanol",
+      "D": "methanoic acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37638?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "894",
+    "text": "The reagent that can be used to distinguish ethene from ethyne is",
+    "options": {
+      "A": "ammoniacal silver trioxonitrate (V) solution",
+      "B": "Benedict solution",
+      "C": "bromine water",
+      "D": "Fehling's solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37639?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "To distinguish between ethene and ethyne: i Add a few drops of ammonical\u00a0copper(I)\u00a0chloride to each of ethylene (ethene) and acetylene (ethyne). No change will be observed in the case of ethylene (ethene) but in the case of acetylene (ethyne), a red precipitate of copper acetylide is formed. similar result\nii) When ammoniacal Silver Nitrate\u00a0(AgNO3)\u00a0is added to Ethyne then it gives white precipitates. But when Ammoniacal silver nitrate is added to Ethene then no reaction occurs and no precipitates obtain.",
+    "year": "2011"
+  },
+  {
+    "number": "895",
+    "text": "The following substances are ores of metals except",
+    "options": {
+      "A": "bauxite",
+      "B": "cuprite",
+      "C": "cassiterite",
+      "D": "graphite"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37640?exam_type=waec&type=obj&page=179",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "896",
+    "text": "Which of the following processes does not involve the use of limestone?",
+    "options": {
+      "A": "Extraction of iron in the blast furnance",
+      "B": "Manufacture of tetraoxosulphate (VI) acid by Contact process",
+      "C": "Production of washing  soda by Solvay process",
+      "D": "Production of cement"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37641?exam_type=waec&type=obj&page=180",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "897",
+    "text": "Aluminium is extracted electrolysis from",
+    "options": {
+      "A": "bauxite",
+      "B": "cryolite",
+      "C": "duralumin",
+      "D": "kaolin"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37642?exam_type=waec&type=obj&page=180",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  }
+]
