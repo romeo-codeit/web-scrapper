@@ -1,0 +1,1122 @@
+[
+  {
+    "number": "2120",
+    "text": "How many different 8 letter words are possible using the letters of the word SYLLABUS?",
+    "options": {
+      "A": "(8 - 1)!",
+      "B": "\\(\\frac{8!}{2!}\\)",
+      "C": "\\(\\frac{8!}{2! 2!}\\)",
+      "D": "8!"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67243?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "C",
+    "explanation": "SYLLABUS has 8 letters, 2S's and 2L's\n\\(\\frac{8!}{2! 2!}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2121",
+    "text": "Evaluate: 16\\(^{0.16}\\) \u00d7 16\\(^{0.04}\\) \u00d7 2\\(^{0.2}\\)",
+    "options": {
+      "A": "2",
+      "B": "0",
+      "C": "2\\(^0\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67244?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "A",
+    "explanation": "16\\(^{0.16}\\) \u00d7 16\\(^{0.04}\\) \u00d7 2\\(^{0.2}\\)=2\\(^{4(0.16)}\\) \u00d7 2\\(^{4(0.04)}\\) \u00d7 2\\(^{0.2}\\)=2\\(^{0.64}\\) \u00d7 2\\(^{0.16}\\) \u00d7 2\\(^{0.2}\\)=2\\(^{0.64\\times0.16\\times0.2}\\)=2\\(^1\\)2\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2122",
+    "text": "Let '*' and '^' be two binary operations such that a * b = a\\(^2\\)b and a ^ b = 2a + b. Find (-4 * 2) ^ (7 * -1).",
+    "options": {
+      "A": "-49",
+      "B": "64",
+      "C": "113",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67245?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "D",
+    "explanation": "Given that, a * b = a\\(^2\\)b and a ^ b = 2a + b(-4 * 2) = (-4)\\(^2\\) x 2 = 16 x 2 = 32(7 * -1) = 7\\(^2\\) x (-1) = 49 x (-1) = -49\u2234 (-4 * 2) ^ (7 * -1) = 2(32) + (-49) = 64 - 49 = 15\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2123",
+    "text": "Evaluate \\(\\int_0^1 4x - 6\\sqrt[3]\u00a0{x^2}dx\\)",
+    "options": {
+      "A": "- \\(\\frac{5}{8}\\)",
+      "B": "- \\(\\frac{8}{5}\\)",
+      "C": "\\(\\frac{8}{5}\\)",
+      "D": "\\(\\frac{5}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67248?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "B",
+    "explanation": "\\(\\int_0^1 4x - 6^3\\sqrt\u00a0x^2\\) dx=\\(\\int_0^1 4x - 6x^{2/3}\\) dx=\\((2x^2 - \\frac{8x^{5/3}}{5})_0^1\\)=\\((2(1)^2 - \\frac{18(1)^{5/3}}{5}) - (2(0)^2 - \\frac{18(0)^{5/3}}{5}\\)= - \\(\\frac{8}{5}\\) - 0- \\(\\frac{8}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2124",
+    "text": "The population of a village decreased from 1,230 to 1,040 due to breakout of an epidemic. What is the percentage decrease in the population?",
+    "options": {
+      "A": "15.44%",
+      "B": "15.43%",
+      "C": "15.42%",
+      "D": "15.45%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67251?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "D",
+    "explanation": "Original population = 1,230New population = 1,040Decrease in population = 1,230 \u2013 1,040 = 190Percentage decrease in population =decrease in populationx 100%original population\n= \\(\\frac\u00a0{190}{1,230}\\) x 100 = 15.45%\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2125",
+    "text": "The interior angle of a regular polygon is five times the size of its exterior angle. Identify the polygon.",
+    "options": {
+      "A": "dodecagon",
+      "B": "enneadecagon",
+      "C": "icosagon",
+      "D": "hendecagon"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67253?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "A",
+    "explanation": "An interior angle of a regular polygon\u00a0= \\(\\frac{(2n-4)\\times 90}{n}\\)An exterior angle of a regular polygon\u00a0= \\(\\frac{360}{n}\\)\\(\\frac{(2n-4)\\times 90}{n}\\) =5 \\(\\times\\)\u00a0 \\(\\frac{360}{n}\\) (Given)= (2n-4)\u00a0x 90 = 5 x 360= 180n -\u00a0360 = 1800= 180n = 1800 + 360= 180n = 2160= n = \\(\\frac{2160}{180}\\) = 12The polygon has 12 sides which is dodecagon\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2126",
+    "text": "The area A of a circle is increasing at a constant rate of 1.5 cm\\(^2s^{-1}\\). Find, to 3 significant figures, the rate at which the radius r of the circle is increasing when the area of the circle is 2 cm\\(^2\\).",
+    "options": {
+      "A": "0.200 cms\\(^{-1}\\)",
+      "B": "0.798 cms\\(^{-1}\\)",
+      "C": "0.300 cms\\(^{-1}\\)",
+      "D": "0.299 cms\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67254?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "D",
+    "explanation": "Area of a circle (A) = \\(\\pi\u00a0r^2\\)Given\\(\\frac{dA}{dt} = 1.5cm^2s^{-1}\\)\\(\\frac{dr}{dt}\\) = ?A = 2cm\\(^2\\)Now2 = \\(\\pi r^2\\)= r\\(^2 = \\frac\u00a0{2}{\\pi}\\)r = \\(\\sqrt\u00a0\\frac {2}{\\pi}\\) cm = 0.798cm\\(\\frac\u00a0{dr}{dt} = \\frac {dA}{dt} \\times \\frac {dr}{dt}\\)\\(\\frac\u00a0{dA}{dr} = 2\\pi r\\) (differentiating A = \\(\\pi r^2)\\)\\(\\frac\u00a0{dr}{dA} = \\frac {1}{2\\pi r}\\)\\(\\frac\u00a0{dr}{dt} = 1.5 \\times \\frac\u00a0{1}{2\\times \\pi \\times 0.798} = 1.5 \\times 0.199\\)\\(\\frac\u00a0{dr}{dt} = 0.299cms^{-1}\\) (to 3 s.f)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2127",
+    "text": "Make x the subject of the formula: y = \\(\\frac\u00a0{3x - 9c}{4x + 5d}\\)",
+    "options": {
+      "A": "x = \\(\\frac\u00a0{-(9c - 5dy)}{4y - 3}\\)",
+      "B": "x = \\(\\frac\u00a0{9c + 5dy}{4y - 3}\\)",
+      "C": "x = \\(\\frac\u00a0{9c - 5dy}{4y - 3}\\)",
+      "D": "x = \\(\\frac {-(9c + 5dy)}{4y - 3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67257?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "D",
+    "explanation": "y =\u00a0\\(\\frac {3x - 9c}{4x + 5d}\\)\n\\(\\frac {y}{1} = \\frac {3x - 9c}{4x + 5d}\\)\n= y(4x + 5d) = 3x - 9c\n= 4xy + 5dy = 3x - 9c\n= 4xy - 3x = -9c - 5dy\n= (4y - 3)x = -9c - 5dy\n= x\u00a0= \\(\\frac\u00a0{-9c - 5dy}{4y - 3}\\)\nx = \\(\\frac {-(9c + 5dy)}{4y - 3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2128",
+    "text": "Solve for x: 3(x \u2013 1) \u2264 2 (x \u2013 3)",
+    "options": {
+      "A": "x \u2264 -3",
+      "B": "x \u2265 -3",
+      "C": "x \u2264 3",
+      "D": "x \u2265 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67258?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "A",
+    "explanation": "3(x \u2013 1) \u2264 2 (x \u2013 3)= 3x \u2013 3 \u2264 2x \u2013 6Add 3 to both sides= 3x \u2013 3+ 3 \u2264 2x \u2013 6+ 3= 3x \u2264 2x \u2013 3Subtract 2x from both the sides= 3x \u2013 2x \u2264 2x \u2013 3 \u2013 2x\u2234 x \u2264 -3\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2129",
+    "text": "The diagram above is a circle with centre C. P, Q and S are points on the circumference. PS and SR are tangents to the circle. \u2220PSR = 36\\(^o\\). Find \u2220PQR",
+    "options": {
+      "A": "72\\(^0\\)",
+      "B": "36\\(^0\\)",
+      "C": "144\\(^0\\)",
+      "D": "54\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67259?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "A",
+    "explanation": "From \u2206PSR|PS| = |SR| (If two tangents are drawn from an external point of the circle, then they are of equal lengths)\u2234 \u2206PSR is isosceles\u2220PSR + \u2220SRP + \u2220SPR = 180\\(^o\\)\u00a0(sum of angles in a triangle)Since |PS| = |SR|; \u2220SRP = \u2220SPR\u21d2 \u2220PSR + \u2220SRP + \u2220SRP = 180\\(^o\\)\u2220PSR + 2\u2220SRP = 180\\(^o\\)36\\(^o\\)\u00a0+ 2\u2220SRP = 180\\(^o\\)2\u2220SRP = 180\\(^o\\)\u00a0- 36\\(^o\\)2\u2220SRP = 144\\(^o\\)\n\u2220SRP = \\(\\frac {144^o}{2} = 72^0\\)\n\u2220SRP = \u2220PQR (angle formed by a tangent and chord is equal to the angle in the alternate segment)\u2234 \u2220PQR = 72\\(^0\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2130",
+    "text": "If a car runs at a constant speed and takes 4.5 hrs to run a distance of 225 km, what time will it\u00a0take to run 150 km?",
+    "options": {
+      "A": "2 hrs",
+      "B": "4 hrs",
+      "C": "3 hrs",
+      "D": "1 hr"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67260?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "C",
+    "explanation": "Let T be the time taken and D is the distanceFor the case given in the problem, the distance covered is directly proportional to the time taken i.e D \u03b1 T\u21d2 D = ST where S is the constant speedD = 225 km and T = 4.5 hrs\u2234 225 = S x 4.5\nS = \\(\\frac\u00a0{225}{4.5}\\) = 50km/hr\nWhen D = 150km\nD = ST\n150 = 50 \\(\\times\\) T\nT = \\(\\frac\u00a0{150}{50}\\) = 3 hrs\nSo it will take 3 hrs\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2131",
+    "text": "Divide 1101001\\(_{two}\\) by 101\\(_{two}\\)",
+    "options": {
+      "A": "11101\\(_{two}\\)",
+      "B": "111\\(_{two}\\)",
+      "C": "10111\\(_{two}\\)",
+      "D": "10101\\(_{two}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67261?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "D",
+    "explanation": ".\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2132",
+    "text": "If \\(\\frac\u00a0{3 - \\sqrt\u00a03}{2 + \\sqrt 3} = a + b\\sqrt\u00a03\\), what are the values a and b?",
+    "options": {
+      "A": "a = 9, b = -5",
+      "B": "a = 5, b = 9",
+      "C": "a = 9, b = 5",
+      "D": "a = -5, b = 9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67262?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac\u00a0{3 - \\sqrt\u00a03}{2 + \\sqrt 3} = a + b\\sqrt\u00a03\\)\nRationalize\n= \\(\\frac {3 - \\sqrt\u00a03}{2 + \\sqrt 3} \\times \\frac\u00a0{2 - \\sqrt 3}{2 - \\sqrt 3}\\)\n= \\(\\frac {(3 - \\sqrt\u00a03)}{(2 + \\sqrt 3)}\u00a0\\frac\u00a0{(2 - \\sqrt 3)}{(2 - \\sqrt 3)}\\)\n= \\(\\frac {6 - 3 \\sqrt 3 - 2 \\sqrt\u00a03 + (\\sqrt\u00a03)^2}{4 - 2 \\sqrt 3 + 2 \\sqrt 3 - (\\sqrt\u00a03)^2}\\)\n= \\(\\frac {6 - 5 \\sqrt\u00a03 + 3}{4 - 3}\\)\n= \\(\\frac {9 - 5 \\sqrt 3}{1} = 9 - 5 \\sqrt 3\\)\n= 9 + (-5) \\(\\sqrt 3\\)\n\\(\\therefore a = 9, b = - 5\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2133",
+    "text": "Find the value of t, if the distance between the points P(\u20133, \u201314) and Q(t, \u20135) is 9 units.",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "- 3",
+      "D": "- 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67263?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "C",
+    "explanation": "Let the given points be:P(-3, -14) = (x\\(_1\\), y\\(_1\\))Q(t, -5) = (x\\(_2\\), y\\(_2\\))PQ = 9 units (given)Using the distance formula,\nd = \u221a\u00a0[ \\((x_2 - x_1)^2 + (y_2 - y_1)^2\\)]\nPQ = \u221a\u00a0[ \\((t - (-3))^2 + (-5 + 14)^2\\)]\n\\(\\implies\\)\u221a[ \\((t + 3)^2 + 81\\)] = 9\nSquaring on both sides,\u21d2 (t + 3)\\(^2\\) + 81 = 81\u21d2 (t + 3)\\(^2\\) \u00a0= 0\u21d2 t + 3 = 0\u2234 t = -3\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2134",
+    "text": "At simple interest, a man made a deposit of some money in the bank. The amount in his bank account after 10 years is three times the money deposited. If the interest rate stays the same, after how many years will the amount be five times the money deposited?",
+    "options": {
+      "A": "15 years",
+      "B": "25 years",
+      "C": "20 years",
+      "D": "30 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67264?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "C",
+    "explanation": "Amount (A) = Principal (P) + Interest (I) i.e. A = P + I\n1 = \\(\\frac {PTR}{100}\\)\nA = 3P; T = 10 years (Given)\nSince A = P + I\n\\(\\implies 3P = P + \\frac {P\\times 10 \\times R}{100}\\)\n\\(\\implies 3P = P + \\frac {10PR}{100}\\)\n\\(\\implies 3P = P + \\frac {PR}{10}\\)\n\\(\\implies 3P - P = \\frac {PR}{10}\\)\n\\(\\implies 2P = \\frac {PR}{10}\\)\n\\(\\implies \\frac {2P}{1} = \\frac {PR}{10}\\)\n\\(\\implies\\) PR = 20P\n\\(\\therefore\\) R = 20%\nSince the rate stays the same\nA = 5P; R = 20%;T =?; A\u00a0 =P + I\n\\(\\implies 5P = P + \\frac {p \\times T \\times 20}{100}\\)\n\\(\\implies 5P - P = \\frac {2PT}{10}\\)\n\\(\\implies 4P = \\frac {2PT}{10}\\)\n\\(\\implies 2P = \\frac {PT}{10}\\)\n\\(\\implies\\) PT = 20P\n\\(\\therefore\\) T = 20 years\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2135",
+    "text": "Evaluate the following limit: \\(lim_{x\\to2} \\frac {x^2 + 4x - 12}{x^2 - 2x}\\)",
+    "options": {
+      "A": "4",
+      "B": "8",
+      "C": "0",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67265?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "A",
+    "explanation": "\\(lim_{x\\to2} \\frac {x^2 + 4x - 12}{x^2 - 2x}\\) =\u00a0\\(lim_{x\\to2} \\frac {(x - 2)(x + 6)}{x(x - 2)}\\)\n\\(lim_{x\\to2} \\frac {x + 6}{x}\\)\n\\(\\frac {2 + 6}{2} = \\frac {8}{2}\\) = 4\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2136",
+    "text": "The ages of students in a small primary school were recorded in the table below.\n\n\n\n\u00a0Age\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 5 - 6\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a07 - 8\n\u00a0 \u00a0 \u00a0 \u00a09 -10\n\n\nFrequency\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 29\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 40\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a038\u00a0\n\n\n\n\nEstimate the mean",
+    "options": {
+      "A": "7.7",
+      "B": "7.5",
+      "C": "7.8",
+      "D": "7.6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67266?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "A",
+    "explanation": "Class IntervalClass MarkFrequency (f)fx5 - 65.5295.5 x 29 = 159.57 - 87.5407.5 x 40 = 3009 - 109.5389.5 x 38 = 361\\(\\sum f = 107\\)\\(\\sum fx = 820.5\\)\nMean = \\(\\frac{\\sum fx}{\\sum f} = \\frac {820.5}{107}\\) = 7.7 (1 d.p)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2137",
+    "text": "A committee of 5 people is to be chosen from a group of 6 men and 4 women. How many committees are possible if there is to be a majority of women?",
+    "options": {
+      "A": "60",
+      "B": "15",
+      "C": "66",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67269?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "C",
+    "explanation": "If the majority are women implies that:3 Women and 2 Men Or 4 Women and 1 Man\n= \\(^4C_3 \\times^6C_2+^4C_4\\times^6C_1\\)\n= \\(4 \\times 15 + 1 \\times 6\\)\n= 60 + 6 =\u00a066\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2138",
+    "text": "If D = \\(\\begin{bmatrix}2& -1&3\\\\4&1&2\\\\1&-3&1\\\\\\end{bmatrix}\\)\nFind |D|",
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "-23",
+      "D": "-37"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67270?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{bmatrix}2& -1&3\\\\4&1&2\\\\1&-3&1\\\\\\end{bmatrix}\\)\n= 2[(1 x 1) - (2 x -3)] - (-1)[(4 x 1) - (2 x 1)] + 3[(4 x -3) - (1 x 1)]= 2(1 - (-6)) + 1(4 - 2) + 3(-12 - 1)= 2(1 + 6) + 1(2) + 3(-13)= 2(7) + 1(2) + 3(-13)= 14 + 2 - 39\u2234 |D| = -23\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2139",
+    "text": "A boat sails 8 km north from P to Q and then sails 6 km west from Q to R. Calculate the bearing of R from P. Give your answer to the nearest degree.",
+    "options": {
+      "A": "217\\(^o\\)",
+      "B": "323\\(^o\\)",
+      "C": "037\\(^o\\)",
+      "D": "053\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67271?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "B",
+    "explanation": "tan \u03b8 = \\(\\frac\u00a0{opp}{adj} = \\frac\u00a0{RQ}{QP} = \\frac {6}{8}\\)\ntan \u03b8 = 0.75\u03b8 = tan\\(^{-1} (0.75) = 36.87^o\\)\u2234 The bearing of R from P = 360\\(^o\\) - 36.87\\(^o\\)\u00a0= 323\\(^o\\)\u00a0(to the nearest degree)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2140",
+    "text": "A coin is thrown 3 times. What is the probability that atleast one head is obtained?",
+    "options": {
+      "A": "\\(\\frac {7}{8}\\)",
+      "B": "\\(\\frac {3}{8}\\)",
+      "C": "None the above",
+      "D": "\\(\\frac {1}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67272?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "A",
+    "explanation": "Sample space = {HHH, HHT, HTH, THH, TTH, THT, HTT, TTT}Total number of possible outcomes = 2 x 2 x 2 = 8favourable number of outcomes = 7\n\u2234Pr(at least one head) = \\(\\frac {7}{8}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2141",
+    "text": "Find the equation of straight line passing through (2, 3) and perpendicular to the line \\(3x + 2y + 4 = 0\\)",
+    "options": {
+      "A": "3y = 5x - 2",
+      "B": "y = \\(\\frac {5}{3} \\times - 2\\)",
+      "C": "None of these",
+      "D": "3y = 2x + 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67273?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "D",
+    "explanation": "\\(3x + 2y + 4 = 0\\)\nRearrange:\n\\(2y = -3x - 4\\)\nDivide both sides by 2\ny = \\(\\frac {-3 \\times - 4}{2}\\)\ny = \\(\\frac {-3}{2} \\times - 2\\)\n\u2234 the gradient of the line 3x + 2y + 4 = 0 is \\(\\frac {-3}{2}\\)\nIf two lines are perpendicular to each other \u2234 \\(m_1 x m_2\\) = -1\nLet \\(m_1 = \\frac {-3}{2} \\therefore m_2 = \\frac\u00a0{-1}{m_1} = \\frac\u00a0{-1}{-3/2} = \\frac {2}{3}\\)\nFrom the equation of a line which is given as m\u00a0= \\(\\frac {y - y_1}{x - x_1} where (x_1, y_1) = (2,3)\\)\n\\(\\therefore \\frac\u00a0{2}{3} = \\frac {y - 3}{x - 2}\\)\n=3(y - 3) = 2(x - 2)\n=3y - 9 = 2 x -4\n=3y = 2 x -4 + 9\n\u2234 3y = 2x + 5\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2142",
+    "text": "Differentiate the function y = \\(\\sqrt[3]{x^2}(2x\u00a0- x^2)\\)",
+    "options": {
+      "A": "\\(\\frac {dy}{dx} = \\frac {10x^{5/3}}{3} - \\frac\u00a0{8x^{2/3}}{3}\\)",
+      "B": "\\(\\frac {dy}{dx} = \\frac {10x^{2/3}}{3} - \\frac\u00a0{8x^{5/3}}{3}\\)",
+      "C": "\\(\\frac {dy}{dx} = \\frac {10x^{5/3}}{3} - \\frac {8x^{5/3}}{3}\\)",
+      "D": "\\(\\frac {dy}{dx} = \\frac {10x^{2/3}}{3} - \\frac {8x^{2/3}}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67274?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "B",
+    "explanation": "y = \\(\\sqrt[3]{x^2(2x\u00a0- x^2)} = x^{2/3} (2x - x^2)\\)\n= \\(2x^{5/3} - x^{8/3}\\)\nNow, we can differentiate the function\n\\(\\therefore \\frac {dy}{dx} = \\frac {10x^{2/3}}{3} - \\frac\u00a0{8x^{5/3}}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2143",
+    "text": "Calculate the mean deviation of the first five prime numbers.",
+    "options": {
+      "A": "2.72",
+      "B": "5.6",
+      "C": "5.25",
+      "D": "13.6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67276?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "A",
+    "explanation": "The first five prime numbers are 2, 3, 5, 7 and 11\nM.D = \\(\\frac {\\sum (x\u00a0- x\u0304)}{n}\\)\nn = 5\n\\(x\u0304 = \\frac {\\sum x}{n} = \\frac\u00a0{2 + 3 + 5 + 7 + 11}{5} = \\frac {28}{5} = 5.6\\)\nM.D = \\(\\frac {(2 - 5.6) + (3 - 5.6) + (5 - 5.6) + (7 - 5.6) + (11 - 5.6)}{5}\\)\n= \\(\\frac {(-3.6) + (-2.6) + (-0.6) + (1.4) + (5.4)}{5} = \\frac {13.6}{5}\\)\nTake the absolute value of all numbers in bracket\n= \\(\\frac {3.6 + 2.6 + 0.6 + 1.4 + 5.4}{5} = \\frac {13.6}{5}\\)\n\\(\\therefore M.D = 2.72\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2144",
+    "text": "Determine the area of the region bounded by y = \\(2x^2\\) + 10 and\u00a0Y\u00a0= \\(4x + 16\\).",
+    "options": {
+      "A": "18",
+      "B": "\\(\\frac {-10}{3}\\)",
+      "C": "\\(\\frac {44}{3}\\)",
+      "D": "\\(\\frac {64}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67277?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "D",
+    "explanation": "To find the point of intersection, equate the two equations\u21d2 2x\\(^2\\)\u00a0+ 10 = 4x + 16\u21d2 2x\\(^2\\)\u00a0+ 10 - 4x - 16 = 0\u21d2 2x\\(^2\\)\u00a0- 4x - 6 = 0Factorize\u21d2 2(x + 1)(x - 3) = 0\u2234 x = -1 or 3The curves will intersect at -1 and 3\nArea = \\(\\int^b_a\\)\u00a0[upper function] - [lower function] dx\n= \\(\\int^3_1 4x +\u00a016 - (2x^2 + 10) dx\\)\n= \\(\\int^3_1 -2x^2 + 4x + 6dx\\)\n= \\((\\frac {-2x^3}{3} + 2x^2 + 6x)^3_1\\)\n= \\((\\frac\u00a0{-2(3)^3}{3} + 2(3)^2 + 6(3)) - (\\frac {-2(-1)^3}{3} + 2(-1)^2 + 6(-1))\\)\n= 18 - \\((\\frac {10}{3})\\)\n= 18 + \\(\\frac {10}{3}\\)\n= \\(\\frac {64}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2145",
+    "text": "Find the value of y if \\(402_y = 102_{ten}\\)",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "5",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67278?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "C",
+    "explanation": "\\(402_y = 102_ten\\)\n\u21d2 4 x y\\(^2\\) + 0 x y\\(^1\\) + 2 x y\\(^0\\) = 102\n\u21d2 4y\\(^2\\) + 0 + 2 x 1 = 102\n\u21d2 4y\\(^2\\)\u00a0+ 2 = 102\n\u21d2 4y\\(^2\\)\u00a0= 102 - 2\n\u21d2 4y\\(^2\\)\u00a0= 100\n\u21d2 y\\(^2\u00a0= \\frac {100}{4}\\)\n\u21d2 y\\(^2\\)\u00a0= 25\n\u2234 y = \u221a25 = 5\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2146",
+    "text": "Find the value of y, if log (y + 8) + log (y - 8) = 2log 3 + 2log 5",
+    "options": {
+      "A": "y = \u00b15",
+      "B": "y = \u00b110",
+      "C": "y = \u00b117",
+      "D": "y = \u00b113"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67279?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "C",
+    "explanation": "log (y + 8) + log (y - 8) = 2log 3 + 2log 5\u21d2 log (y + 8)(y - 8) = 2log 3 + 2log 5 (log ab = log a + log b)\u21d2 log (y\\(^2\\)\u00a0-8y + 8y - 64) = log 3\\(^2\\)\u00a0+ log 5\\(^2\\)\u21d2 log (y\\(^2\\)\u00a0- 64) = log 3\\(^2\\)\u00a0+ log 5\\(^2\\)\u21d2 log (y\\(^2\\)\u00a0- 64) = log 9 + log 25\u21d2 log (y\\(^2\\)\u00a0- 64) = log (9 \u00d7 25)\u21d2 log(y\\(^2\\) - 64) = log 225\u21d2 y\\(^2\\)\u00a0- 64 = 225\u21d2 y\\(^2\\)\u00a0= 225 + 64\u21d2 y\\(^2\\)\u00a0= 289\u21d2 y = \u00b1\u221a289\u2234 y = \u00b117\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2147",
+    "text": "In a group of 500 people, 350 people can speak English, and 400 people can speak French. Find how many people can speak both languages.",
+    "options": {
+      "A": "750",
+      "B": "850",
+      "C": "250",
+      "D": "150"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67281?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "C",
+    "explanation": "Let F be the set of people who can speak French and E be the set of people who can speak English. Then,n(F) = 400n(E) = 350n(F \u222a E) = 500We have to find n(F \u2229 E).Now, n(F \u222a E) = n(F) + n(E) \u2013 n(F \u2229 E)\u21d2 500 = 400 + 350 \u2013 n(F \u2229 E)\u21d2 n(F \u2229 E) = 750 \u2013 500 = 250.\u2234 250 people can speak both languages.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2148",
+    "text": "Factorize: \\(16x^4 - y^4\\)",
+    "options": {
+      "A": "\\((2x - y)(2x + y)(4x^2 + y^2)\\)",
+      "B": "\\((2x + y)(2x + y)(4x^2 + y^2)\\)",
+      "C": "\\((2x - y)(2x - y)(4x^2 + y^2)\\)",
+      "D": "\\((2x - y)(2x + y)(4x^2 - y^2)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67282?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "A",
+    "explanation": "16\\(x^4 - y^4\\)= 2\\(^4x^4 - y^4\\)= \\((2x)^4 - y^4\\)= \\(((2x)^2)^2 - (y^2)^2\\)Using a\\(^2 - b^2\\) = (a - b)(a + b) identity= ((2x)\\(^2 - y^2)((2x)^2 + y^2)\\)Using the identity one more time= \\((2x - y)(2x + y)((2x)^2 + y^2)\\)\u2234 \\((2x - y)(2x + y)(4x^2 + y^2)\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2149",
+    "text": "If A = { 1, 2, 3, 4, 5, 6}, B = { 2, 4, 6, 8 }. Find (A \u2013 B) \u22c3 (B \u2013 A).",
+    "options": {
+      "A": "{1, 3, 5, 8}",
+      "B": "{8}",
+      "C": "{1, 2, 3, 4, 5, 6, 8}",
+      "D": "{1, 3, 5}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67283?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "A",
+    "explanation": "A = { 1, 2, 3, 4, 5, 6}B = { 2, 4, 6, 8 }A - B = { 1, 3, 5 }B - A = { 8 }\u2234 (A - B) \u22c3 (B - A) = {1, 3, 5, 8}\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2150",
+    "text": "A bag contains 8 red balls and some white balls. If the probability of drawing a white ball is half of the probability of drawing a red ball then find the probability of drawing a red ball and a white ball if the balls are drawn without replacement.",
+    "options": {
+      "A": "\\(\\frac {1}{3}\\)",
+      "B": "\\(\\frac {2}{9}\\)",
+      "C": "\\(\\frac {2}{3}\\)",
+      "D": "\\(\\frac {8}{33}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67284?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "D",
+    "explanation": "Let the number of white balls\u00a0be n\nThe number of red balls = 8\nNow, the probability of drawing\u00a0a white ball\u00a0= \\(\\frac {n}{n + 8}\\)\nThe probability of drawing\u00a0a red\u00a0ball\u00a0=\u00a0\\(\\frac {8}{n + 8}\\)\nSince Pr(White ball) = \\(\\frac{1}{2}\\) x Pr(Red ball)\n\\(\\therefore \\frac {n}{n + 8} = \\frac\u00a0{1}{2}\\times \\frac\u00a0{8}{n + 8}\\)\n= \\(\\frac {n}{n + 8} = \\frac {4}{n + 8}\\)\n\\(\\therefore n = 4\\)\nNumber of white balls = 4\nThe possible number of outcomes = n + 8 = 4 + 8 = 12\nPr(Red ball and White ball) = Pr(Red ball) x Pr(White ball)\nPr(Red ball) = \\(\\frac {8}{12}\\)\nPr(Red ball) =\u00a0\\(\\frac {4}{11}\\)\nPr(Red ball and white ball) = \\(\\frac {8}{12} \\times \\frac {4}{11}\\)\n\\(\\therefore\\)Pr(Red ball and white ball) = \\(\\frac {8}{33}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2151",
+    "text": "The ages of students in a small primary school were recorded in the table below.\n\n\n\nAge\n\u00a05-6\u00a0\u00a0\n\u00a07-8\n\u00a09-10\n\n\nFrequency\n\u00a0 29\n\u00a0 40\n\u00a0 \u00a038\n\n\n\n\nEstimate the median.",
+    "options": {
+      "A": "7.725",
+      "B": "6.225",
+      "C": "7.5",
+      "D": "6.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67286?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac {N + 1}{2} = \\frac {107 + 1}{2}\\)\u00a0th = 54th value i.e the median age is in the interval \"7 - 8\" (29 + 25 = 54)\nMedian = \\(1_m + (\\frac\u00a0{^{\\sum f} /_2\u00a0- f_b}{f_m})\\)c\n\\(l_m\\)=lower class boundary of the median age = 6.5\n\\(\\sum f\\) = 107\n\\(f_b\\) = sum of all frequencies before the median age = 29\n\\(f_m\\)=frequency of the median age = 40\nc = class width = 8.5 - 6.5 = 2\nMedian = 6.5 + \\((\\frac\u00a0{^{107}/_2 - 29}{40})\\) x 2\n= 6.5 + \\((\\frac {53.5 - 29}{40})\\) x 2\n= 6.5 + \\((\\frac\u00a0{24.5}{40})\\) x 2\n= 6.5 + 1.225\n\\(\\therefore\\) median age = 7.725\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2152",
+    "text": "Find the matrix A\nA \\(\\begin {bmatrix} 0 & 1\\\\2 & -1 \\end {bmatrix}\\) =\u00a0\\(\\begin {bmatrix} 2\u00a0& -1\\\\1\u00a0& 0\u00a0\\end {bmatrix}\\)",
+    "options": {
+      "A": "\\(\\begin {bmatrix} 2 & 1\\\\-^1/_2 & -^1/_2 \\end {bmatrix}\\)",
+      "B": "\\(\\begin {bmatrix} 0 & 1\\\\^1/_2 & ^1/_2 \\end {bmatrix}\\)",
+      "C": "\\(\\begin {bmatrix} 2 & 1\\\\0 & -1 \\end {bmatrix}\\)",
+      "D": "\\(\\begin {bmatrix} 2 & 1\\\\^1/_2 & -2 \\end {bmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67292?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "B",
+    "explanation": "Let A = \\(\\begin {bmatrix} a & b\\\\ c & d \\end {bmatrix}\\)\ni.e \\(\\begin{bmatrix} a & b\\\\c & d \\end{bmatrix}\\)\u00a0\\(\\begin{bmatrix} 0\u00a0& 1\\\\2\u00a0& -1\u00a0\\end{bmatrix}\\) =\u00a0\\(\\begin{bmatrix} 2\u00a0& -1\\\\1\u00a0& 0\u00a0\\end{bmatrix}\\)\n\\(\\implies \\begin {bmatrix} a(0) + b(2) &\u00a0a(1) + b(-1)\\\\ c(0) + d(2)\u00a0& c(1) + d(-1)\\end {bmatrix}\\) =\u00a0\\(\\begin {bmatrix} 2\u00a0& -1\\\\ 1\u00a0& 0\u00a0\\end {bmatrix}\\)\n\\(\\implies \\begin {bmatrix} 2b\u00a0&\u00a0a - b\\\\2d\u00a0& c - d\\end {bmatrix}\\) =\u00a0\\(\\begin {bmatrix} 2\u00a0& -1\\\\ 1\u00a0& 0\u00a0\\end {bmatrix}\\)\nBy comparing2b = 2a - b = -12d = 1 andc - d = 0\u2234 b = \\(^2/_2\\) = 1a - b = -1\u21d2 a - 1 = -1\u2234 a = 0\u2234 d = \\(^1/_2\\)\u21d2 c = d\u2234 c = \\(^1/_2\\)\n\u2234The matrice A =\u00a0\\(\\begin {bmatrix} 0 & 1\\\\^1/_2 & ^1/_2 \\end {bmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2153",
+    "text": "How many students scored at least\u00a025%",
+    "options": {
+      "A": "16",
+      "B": "19",
+      "C": "3",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67298?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "A",
+    "explanation": "Number of students who scored atleast 25% = 5 + 3 + 8 = 16\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2154",
+    "text": "If \\(-2x^3 + 6x^2 + 17x\\) - 21 is divided by \\((x + 1)\\), then the remainder is",
+    "options": {
+      "A": "32",
+      "B": "30",
+      "C": "-30",
+      "D": "-32"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67301?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "C",
+    "explanation": "Let \\(p(x) = -2x^3 + 6x^2 + 17x - 21\\)Using the remainder theoremLet \\(x + 1 = 0\\)\u2234 \\(x = -1\\)Since, \\((x + 1)\\) divides \\(p(x)\\), then, remainder will be p(-1)\u21d2 p(-1) = -2(-1)\\(^3 + 6(-1)^2\\) + 17(-1) - 21\u2234 p(-1) = -30\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2155",
+    "text": "Let a binary operation '*' be defined on a set A. The operation will be commutative if",
+    "options": {
+      "A": "a*b = b*a",
+      "B": "(a*b)*c = a*(b*c)",
+      "C": "(b \u03bf c)*a = (b*a) \u03bf (c*a)",
+      "D": "None of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67302?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "A",
+    "explanation": "A binary operation '*' defined on a set A is said to be commutative only if a*b=b*a, \u2200a, b\u2208A.If (a*b)*c=a*(b*c), then the operation is said to associative \u2200 a, b\u2208 A.If (b \u03bf c)*a=(b*a) \u03bf (c*a), then the operation is said to be distributive \u2200 a, b, c \u2208 A.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2156",
+    "text": "Solve the following quadratic inequality: \\(x^2\u00a0- x\\) - 4 \u2264 2",
+    "options": {
+      "A": "\\(-3 < x < 2\\)",
+      "B": "\\(-2 \u2264 x \u2264 3\\)",
+      "C": "\\(x \u2264 -2, x \u2264 3\\)",
+      "D": "\\(-2 < x < 3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67309?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "B",
+    "explanation": "\\(x^2 - x\u00a0- 4 \u2264 2\\)Subtract two from both sides to rewrite it in the quadratic standard form:= \\(x^2 - x - 4 - 2 \u2264 2 - 2\\)= \\(x^2 - x\u00a0- 6 \u2264 0\\)Now set it = 0 and factor and solve like normal.= \\(x^2 - x\\) - 6=0= \\((x - 3)(x + 2)\\)=0\\(x\\) + 2 = 0 or \\(x\\) - 3 = 0\\(x\\) = -2 or \\(x\\) = 3So the two zeros are -2 and 3, and will mark the boundaries of our answer interval. To find out if the interval is between -2 and 3, or on either side, we simply take a test point between -2 and 3 (for instance, \\(x\\) = 0) and evaluate the original inequality.= \\(x2 - x - 4 \u2264 2\\)= \\((0)^2 - (0)\u00a0- 4 \u2264 2\\)= \\(0 - 0 - 4 \u2264 2\\)\\(\u22124 \u2264 2\\)Since the above is a true statement, we know that the solution interval is between -2 and 3, the same region where we picked our test point. Since the original inequality was less than or equal, we include the endpoints.\u2234 \\(-2 \u2264 x\u00a0\u2264 3.\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2157",
+    "text": "What is the general term of the sequence 3, 8, 13, 18, ...?",
+    "options": {
+      "A": "5n - 2",
+      "B": "5n + 2",
+      "C": "5",
+      "D": "5n"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67329?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "A",
+    "explanation": "Given the sequence 3, 8, 13, 18, ... which is an arithmetic sequencea = 3d = T\\(_2\\) - T\\(_1\\) = 8 - 3 = 5The general term of an A.P is:T\\(_n\\)\u00a0= a + (n - 1)d\u21d2 T\\(_n\\)\u00a0= 3 + (n - 1)5= T\\(_n\\)\u00a0= 3 + 5n - 5\u2234 T\\(_n\\)\u00a0= 5n - 2\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2158",
+    "text": "The locus of a point equidistant from two intersecting lines is",
+    "options": {
+      "A": "where the sum of the distances of two focal points is fixed",
+      "B": "the collection of points that are equally distant from a fixed point and a line",
+      "C": "the perpendicular bisector of the lines",
+      "D": "pair of bisectors of the angles between the two lines"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67332?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "D",
+    "explanation": "The locus of a point equidistant from two intersecting lines is pair of bisectors of the angles between the two lines.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2159",
+    "text": "Two numbers are respectively 35% and 80% more than a third number. The ratio of the two numbers is",
+    "options": {
+      "A": "7 : 16",
+      "B": "3 : 4",
+      "C": "16 : 7",
+      "D": "4 : 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67335?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "B",
+    "explanation": "Let the third number = \\(x\\)\nThen the first number = 100% \\(x + 35%x = 135\\)%\\(x = \\frac\u00a0{135x}{100} = 1.35x\\) (Note: 100% \\(x = x\\))\nThe second number = 180% \\(x = \\frac {180x}{100} = 1.80x\\)\n\u2234 The ratio of the first number to\u00a0the second\u00a0number = \\(1.35x : 1.80x = 3 : 4\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2160",
+    "text": "The angle of elevation and depression of the top and bottom of another building, measured from the top of a 24 m tall building, is 30\u00b0 and 60\u00b0, respectively. Determine the second building's height.",
+    "options": {
+      "A": "24 m",
+      "B": "32\\(\\sqrt3\\) m",
+      "C": "24\\(\\sqrt3\\)",
+      "D": "32 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67336?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "D",
+    "explanation": "The height of the second building H = h\u00a0+ 24\ntan \u03b8 = \\(\\frac {opp}{adj}\\)\ntan 30\\(^o = \\frac {h}{x}\\)\n\\(\\implies\\frac{\\sqrt\u00a03}{3} = \\frac {h}{x}\\)\n\\(\\implies x = \\sqrt\u00a03 = 3h\\)\n\\(\\implies x = \\frac {3h}{\\sqrt\u00a03}\\) ....(i)\ntan 60\\(^o = \\frac {24}{x}\\)\n\\(\\implies\\sqrt 3 = \\frac {24}{x}\\)\n\\(\\implies x\\sqrt 3 = 24\\)\n\\(\\implies x = \\frac\u00a0{24}{\\sqrt 3}\\) ....(ii)\nEquate equation (i) and (ii)\n\\(\\implies \\frac\u00a0{3h}{\\sqrt\u00a03} = \\frac {24}{\\sqrt 3}\\)\n\\(\\implies\\) 3h = 24\n\\(\\implies\u00a0h = \\frac {24}{3}\\) = 8m\n\u2234The height of the second building = 8 + 24 = 32m\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2161",
+    "text": "Calculate, correct to three significant figures, the length AB in the diagram above.",
+    "options": {
+      "A": "36.4 cm",
+      "B": "36.1 cm",
+      "C": "36.2 cm",
+      "D": "36.3 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67348?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac\u00a0{\\sin A}{a} = \\frac {\\sin B}{b} = \\frac {\\sin C}{c}\\)\n\\(\\implies \\frac\u00a0{\\sin 82^0}{43.2} = \\frac {\\sin 56^0}{AB}\\)\n\\(\\implies AB \\times \\sin 82^0 = 43.2 \\times \\sin 56^0\\)\n\\(\\therefore AB = \\frac {43.2 \\times \\sin 56^0}{\\sin 82^0}\\) = 36.2cm (to 3 s.f)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2162",
+    "text": "An article when sold for \u20a6230.00 makes a 15% profit. Find the profit or loss % if it was sold for \u20a6180.00",
+    "options": {
+      "A": "10% gain",
+      "B": "10% loss",
+      "C": "12% loss",
+      "D": "12% gain"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67358?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "B",
+    "explanation": "First S.P = \u20a6230.00\n% profit = 15%\n% profit = \\(\\frac{S.P - C.P}{C.P}\\) x 100%\n\u21d2 15% = \\(\\frac{230 - C.P}{C.P}\\) x 100%\n\u21d2 \\(\\frac{15}{100}= \\frac{230 - C.P}{C.P}\\)\n\u21d215C.P = 100 (230 - C.P)\n\u21d215C.P = 23000 - 100C.P\n\u21d215C.P + 100C.P = 23000\n\u21d2115C.P = 23000\n\u21d2 C.P = \\(\\frac{23000}{115}\\) = \u20a6200.00\nSecond S.P = \u20a6180.00\nSince C.P is greater than S.P, therefore it's a loss\n% loss = \\(\\frac{C.P - S.P}{C.P}\\) x 100%\n\u21d2 \\(\\frac{200 - 180}{200}\\) x 100%\n\u21d2 \\(\\frac{20}{200}\\) x 100%\n\u21d2 \\(\\frac{1}{10}\\) x 100% = 10%\n\u2234 It's a loss of 10%\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2163",
+    "text": "Calculate, correct to three significant figures, the length of the arc AB in the diagram above.\n[Take \\(\\pi\u00a0= ^{22}/_7\\)]",
+    "options": {
+      "A": "32.4 cm",
+      "B": "30.6 cm",
+      "C": "28.8 cm",
+      "D": "30.5 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67359?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "B",
+    "explanation": "Consider \u2206XOB and using Pythagoras theorem\n13\\(^2\\) = 12\\(^2\\) + h\\(^2\\)\n\u21d2 169 = 144 + h\\(^2\\)\n\u21d2 169 - 144\u00a0 =h\\(^2\\)\n\u21d2 25 = h\\(^2\\)\n\u21d2 h = \\(\\sqrt25\\) = 5cm\ntan \u03b8 = \\(\\frac {opp}{adj}\\)\n\u21d2 tan \u03b8 = \\(\\frac{12}{5}\\) = 2.4\n\u21d2 \u03b8 = tan\\(^{-1}\\)(2.4)\n\u21d2 \u03b8 = 67.38\\(^0\\)\n\u2220AOB = 2\u03b8 = 2 x 67.38\\(^o\\) = 134.76\\(^o\\)\nL = \\(\\frac{\u03b8}{360^o} \\times 2\\pi r\\)\n\u21d2 L = \\(\\frac {134.76}{360} \\times 2 \\times \\frac\u00a0{22}{7} \\times 13 = \\frac {77082.72}{2520}\\)\n\u2234 L = 30.6cm (to 3 s.f)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2164",
+    "text": "A rectangular plot of land has sides with lengths of 38 m and 52 m corrected to the nearest m. Find the range of the possible values of the area of the rectangle",
+    "options": {
+      "A": "1931.25 m\\(^2\\) \u2264 A < 2021.25 m\\(^2\\)",
+      "B": "1950 m\\(^2\\) \u2264 A < 2002 m\\(^2\\)",
+      "C": "1957 m\\(^2\\) \u2264 A < 1995 m\\(^2\\)",
+      "D": "1931.25 m\\(^2\\) \u2265 A > 2021.25 m\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67364?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "A",
+    "explanation": "The sides have been given to the nearest meter, so51.5 m \u2264 length < 52.537.5 m \u2264 width < 38.5Minimum area = 37.5 x 51.5 = 1931.25 m\\(^2\\)Maximum area = 38.5 x 52.5 = 2021.25 m\\(^2\\)\u2234 The range of the area = 1931.25 m\\(^2\\)\u00a0\u2264 A < 2021.25 m\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2165",
+    "text": "A man sells different brands of an items. \\(^1/_9\\) of the items he has in his shop are from Brand A, \\(^5/_8\\) of the remainder are from Brand B and the rest are from Brand C. If the total number of Brand C items in the man's shop is 81, how many more Brand B items than Brand C does the shop has?",
+    "options": {
+      "A": "243",
+      "B": "108",
+      "C": "54",
+      "D": "135"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67365?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "C",
+    "explanation": "Let the total number of items in the man's shop = \\(y\\)\nNumber of Brand\u00a0A's items in the man's shop = \\(\\frac {1}{9} y\\)\nRemaining items = 1 -\u00a0\\(\\frac {1}{9}\u00a0y =\u00a0\\frac {8}{9}\u00a0y\\)\nNumber of Brand B's items in\u00a0The man's\u00a0shop = \\(\\frac{5}{8} of \\frac{8}{9}y = \\frac{5}{9}y\\)\nTotal of Brand A and Brand B's items = \\(\\frac{1}{9}y + \\frac{5}{9}y = \\frac{2}{3}y\\)\nNumber of Brand C's items in the man's shop = 1 - \\(\\frac{2}{3}y = \\frac{1}{3}y\\)\n\\(\\implies\\frac{1}{3}y\\) = 81 (Given)\n\\(\\implies y\\) = 81 x 3 = 243\n\u2234 The total number of items in the man's shop = 243\n\u2234 Number of Brand B's items in the man's shop = \\(\\frac{5}{9}\\) x 243 = 135\n\u2234 The number of more Brand B items than Brand C = 135 - 81 =54\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2166",
+    "text": "Find the area, to the nearest cm\\(^2\\), of the triangle whose sides are in the ratio 2 : 3 : 4 and whose perimeter is 180 cm.",
+    "options": {
+      "A": "1162 cm\\(^2\\)",
+      "B": "1163 cm\\(^2\\)",
+      "C": "1160 cm\\(^2\\)",
+      "D": "1161 cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67366?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "A",
+    "explanation": "Let the length of the sides of triangle be 2x, 3x and 4x.\nPerimeter of triangle = 180cm\n\u21d2 \\(2x +3x + 4x = 180\\)\n\u21d2 \\(9x = 180\\)\n\u21d2 \\(x = \\frac{180}{9}\\) = 20cm\nThen the sides of the triangle are:\n\\(2x = 2\\times20 = 40cm; 3x = 3\\times20\\) = 60cm and \\(4x\\) = 4\\(\\times20 \\)= 80cm\nUsing Heron's formula\nArea of triangle = \\(\\sqrt s(s-a)(s-b)(s-c)\\)\nWhere s = \\(\\frac{a + b + c}{2}\\)\nLet a = 40cm, b = 60cm, c = 80cm and s = \\(\\frac{40 + 60 + 80}{2} = \\frac{180}{2}\\) = 90cm\n\u21d2 A = \\(\\sqrt90 (90 - 40) (90 - 60) (90 - 80) = \\sqrt90 \\times\u00a050 \\times\u00a030 \\times\u00a010 = \\sqrt1350000\\)\n\u2234 A =1162cm\\(^2\\) (to the nearest cm\\(^2)\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2167",
+    "text": "Find the compound interest (CI) on \u20a615,700 for 2 years at 8% per annum compounded annually.",
+    "options": {
+      "A": "\u20a66,212.48",
+      "B": "\u20a62,834.48",
+      "C": "\u20a618,312.48",
+      "D": "\u20a62,612.48"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67367?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "D",
+    "explanation": "Principal (P) = \u20a615,700\nRate (R) = 8\nNumber of years (t) = 2\nA = P \\((1+\\frac{R}{100})^t\\)\n\u21d2 A = 15700\u00a0\\((1+\\frac{8}{100})^2\\)\n\u21d2 A = 15700 (1 + 0.08)\\(^2\\)\n\u21d2 A = 15700 (1.08)\\(^2\\)\n\u21d2 A = 15700 x 1.1664\n\u21d2 A = \u20a618,312.48\nTotal amount, A = \u20a618,312.48\nA = P + CI\n\u21d2 CI = A - P\n\u21d2 CI = 18,312.48 - 15,700\n\u2234 CI = \u20a62,612.48\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2168",
+    "text": "Find the volume of the cylinder above\n[Take \\(\\pi= ^{22}/_7\\)]",
+    "options": {
+      "A": "9,856 cm\\(^3\\)",
+      "B": "14,784 cm\\(^3\\)",
+      "C": "4,928 cm\\(^3\\)",
+      "D": "19,712 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67368?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "B",
+    "explanation": "Volume of the cylinder = \\(\\frac{\u03b8}{360} \\times \\pi\u00a0r^2h\\)\n\u03b8 = 360\\(^o\\) - 90\\(^o\\) = 270\\(^o\\)\n\u2234 Volume of the cylinder = \\(\\frac{270}{360} \\times \\frac{22}{7} \\times \\frac{14^2}{1} \\times \\frac{32}{1} = \\frac{37,255,680}{2520} = 14,784cm^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2169",
+    "text": "The third term of an A.P is 6 and the fifth term is 12. Find the sum of its first twelve terms",
+    "options": {
+      "A": "201",
+      "B": "144",
+      "C": "198",
+      "D": "72"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67369?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "C",
+    "explanation": "T\\(_3\\)\u00a0= 6T\\(_5\\)\u00a0= 12S\\(_{12}\\)\u00a0= ?T\\(_n\\) = a + (n - 1)d\u21d2 T\\(_3\\)\u00a0= a + 2d = 6 ----- (i)\u21d2 T\\(_5\\)\u00a0= a + 4d = 12 ----- (ii)Subtract equation (ii) from (i)\u21d2 -2d = -6\n\u21d2 d\\(\\frac{-6}{-2}\\) = 3\nSubstitute 3 for d in equation (i)\u21d2 a + 2(3) = 6\u21d2 a + 6 = 6\u21d2 a = 6 - 6 = 0\nS\\(_n\\) = \\(\\frac{n(2a + (n - 1)d)}{2}\\)\n\u21d2 S\\(_{12}\\) = \\(\\frac{12(2 \\times 0 + (12 - 1)3)}{2}\\)\n\u21d2 S\\(_{12}\\) = 6(0 + 11 x 3)\u21d2 S\\(_{12}\\)\u00a0= 6(33)\u2234 S\\(_{12}\\)\u00a0= 198\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2170",
+    "text": "Express 16.54 x 10\\(^{-5}\\) - 6.76 x 10\\(^{-8}\\)\u00a0+ 0.23 x 10\\(^{-6}\\)\u00a0in standard form",
+    "options": {
+      "A": "1.66 x 10\\(^{-4}\\)",
+      "B": "1.66 x 10\\(^{-5}\\)",
+      "C": "1.65 x 10\\(^{-5}\\)",
+      "D": "1.65 x 10\\(^{-4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67370?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "A",
+    "explanation": "16.54 x 10\\(^{-5}\\) - 6.76 x 10\\(^{-8}\\) + 0.23 x 10\\(^{-6}\\)\u21d2 1.654 x 10\\(^{-4}\\) - 6.76 x 10\\(^{-8}\\) + 2.3 x 10\\(^{-7}\\)\u21d2 1.654 x 10\\(^{-4}\\) - 0.000676 x 10\\(^{-4}\\) + 0.0023 x 10\\(^{-4}\\)\u21d2 (1.654 - 0.000676 + 0.0023) x 10\\(^{-4}\\)\u2234 1.655624 x 10\\(^{-4}\\) \u2243 1.66 x 10\\(^{-4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2171",
+    "text": "The graph above depicts the performance ratings of two sports teams A and B in five different seasons\nIn the last five seasons, what was the difference in the average performance ratings between Team B and Team A?",
+    "options": {
+      "A": "1.2",
+      "B": "6.4",
+      "C": "4.6",
+      "D": "1.8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67371?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "A",
+    "explanation": "Average performance rating of Team B = \\(\\frac{7+9+1+9+6}{5} = \\frac{32}{5}\\) = 6.4\nAverage performance rating of Team A\u00a0= \\(\\frac{5+3+6+10+2}{5} = \\frac{26}{5}\\) = 5.2\n\u2234 The difference in the average performance ratings between Team B and Team A = 6.4 - 5.2 = 1.2\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2172",
+    "text": "A student is using a graduated cylinder to measure the volume of water and reports a reading of 18 mL. The teacher reports the value as 18.4 mL. What is the student's percent error?",
+    "options": {
+      "A": "2.17%",
+      "B": "1.73%",
+      "C": "2.23%",
+      "D": "1.96%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67372?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "A",
+    "explanation": "% error = \\(\\frac{Error}{Actual Value}\\) x 100%\nStudent's Value = 18mL\nActual Value\u00a0= 18.4mL\nError = 18.4 - 18 = 0.4\n\u2234 % error = \\(\\frac{0.4}{18.4}\\) x 100% = 2.17%\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2173",
+    "text": "The difference between an exterior angle of (n - 1) sided regular polygon and an exterior angle of (n + 2) sided regular polygon is 6\\(^o\\), then the value of \"n\" is",
+    "options": {
+      "A": "11",
+      "B": "13",
+      "C": "12",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67377?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "B",
+    "explanation": "An exterior angle of a n-sided regular polygon = \\(\\frac{360}{n}\\)\nFor (n - 1) sided regular polygon = \\(\\frac{360}{n - 1}\\)\nFor (n + 2) sided regular polygon =\u00a0\\(\\frac{360}{n +\u00a01}\\)\n\u21d2 \\(\\frac{360}{n - 1} - \\frac{360}{n + 2}\\) = 6 9Given)\n\u21d2 \\(\\frac{360(n + 2) - 360(n - 1)}{(n - 1)(n + 2)}\\)\n\u21d2 \\(\\frac{360n + 720 - 360n + 360}{(n - 1)(n + 2)}\\)\n\u21d2 \\(\\frac{1080}{(n - 1)(n + 2)} = \\frac{6}{1}\\)\n\u21d2 1080 = 6 (n - 1)(n + 2)\n\u21d2 180 = (n - 1)(n + 2)\n\u21d2 180 = n\\(^2\\)+ 2n - n - 2\n\u21d2 180 = n\\(^2\\) + n - 2\n\u21d2 n\\(^2\\)b+ n - 2 - 180 = 0\n\u21d2 n\\(^2\\) + n - 182 = 0\n\u21d2 n\\(^2\\) + 14n - 13n - 182 = 0\n\u21d2 n (n + 14) - 13 (n + 14) = 0\n\u21d2 (n - 13) (n + 14) = 0\n\u21d2 n - 13 = 0 or n + 14 = 0\n\u21d2 n = 13 or n = -14\n\u2234 n = 13 (We can't have a\u00a0negative number of side)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2174",
+    "text": "Two dice are tossed. What is the probability that the total score is a prime number.",
+    "options": {
+      "A": "\\(\\frac{5}{12}\\)",
+      "B": "\\(\\frac{5}{9}\\)",
+      "C": "\\(\\frac{1}{6}\\)",
+      "D": "\\(\\frac{1}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67378?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "A",
+    "explanation": "Total possible outcome = 6 x 6 = 36Required outcome = 15\n\u2234 Pr(E) = \\(\\frac{15}{36} = \\frac{5}{12}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2175",
+    "text": "Find the volume of the composite solid above.",
+    "options": {
+      "A": "2048 cm\\(^3\\)",
+      "B": "2568 cm\\(^3\\)",
+      "C": "2672 cm\\(^3\\)",
+      "D": "1320 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67379?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "B",
+    "explanation": "Volume of the composite solid = Volume of A + Volume of BVolume of a cuboid = length x breadth x heightVolume of A = 6 x 26 x 8 = 1248 cm\\(^3\\)Volume of B = 6 x 10 x 22 = 1320 cm\\(^3\\)\u2234 Volume of the composite solid = 1248 + 1320 = 2568 cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2176",
+    "text": "Find the area and perimeter of a square whose length of diagonals is 20\\(\\sqrt2\\) cm.",
+    "options": {
+      "A": "800 cm\\(^2\\), 80 cm",
+      "B": "400 cm, 80 cm\\(^2\\)",
+      "C": "80 cm, 800 cm\\(^2\\)",
+      "D": "400 cm\\(^2\\), 80 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67380?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "D",
+    "explanation": "Using Pythagoras theorem\u21d2 \\((20\\sqrt2)2 = x^2 + x^2\\)\u21d2 800 = \\(2x^2\\)\u21d2 400 = \\(x^2\\)\u21d2 x = \\(\\sqrt400\\) = 20 cm\u2234 Area of a square = \\(x^2 = 20^2 = 400 cm^2\\)\u2234 Perimeter of a square = 4x = 4 x 20 = 80 cm\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2177",
+    "text": "Bello buys an old bicycle for \u20a69,200.00 and spends \u20a61,500.00 on its repairs. If he sells the bicycle for \u20a613,400.00, his gain percent is",
+    "options": {
+      "A": "25.23%",
+      "B": "31.34%",
+      "C": "88.81%",
+      "D": "42.54%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67381?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "A",
+    "explanation": "Total cost price = \u20a69,200.00 + \u20a61,500.00 = \u20a610,700.00Selling price = \u20a613,400.00Gain = \u20a613,400.00 - \u20a610,700.00 = \u20a62,700.00\n\u2234 % gain = \\(\\frac{\u20a62,700.00}{\u20a610,700.00}\\times\\) 100% = 25.23%\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2178",
+    "text": "Evaluate \\(\\frac{5}{8} - \\frac{3}{4} \u00f7 \\frac{5}{12} \\times\u00a0\\frac{1}{4}\\)",
+    "options": {
+      "A": "- \\(\\frac{3}{40}\\)",
+      "B": "\\(\\frac{3}{40}\\)",
+      "C": "\\(\\frac{7}{40}\\)",
+      "D": "-\\(\\frac{263}{40}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67382?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{5}{8} - \\frac{3}{4} \u00f7 \\frac{5}{12} x \\frac{1}{4}\\)\n\u21d2\u00a0\\(\\frac{5}{8} - (\\frac{3}{4} \u00f7 \\frac{5}{12}) \\times\u00a0\\frac{1}{4}\\)\n\u21d2\u00a0\\(\\frac{5}{8} - (\\frac{3}{4} \\times\u00a0\\frac{12}{5}) \\times\u00a0\\frac{1}{4}\\)\n\u21d2 \\(\\frac{5}{8} - (\\frac{9}{5} \\times\u00a0\\frac{1}{4})\\)\n\u21d2 \\(\\frac{5}{8} - \\frac{9}{20}\\)\n\u2234 \\(\\frac{7}{40}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2179",
+    "text": "A rectangle has one side that is 6 cm shorter than the other. The area of the rectangle will increase by 68 cm\\(^2\\) if we add 2 cm to each side of the rectangle. Find the length of the shorter side.",
+    "options": {
+      "A": "15 cm",
+      "B": "19 cm",
+      "C": "13 cm",
+      "D": "21 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67383?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "C",
+    "explanation": "Let the length of the longer side = \\(x\\) cm\u2234 The length of the shorter side = (\\(x\\)\u00a0- 6) cmIf we increase each side's length by 2 cm, it becomes(\\(x\\)\u00a0+ 2) cm and (\\(x\\)\u00a0- 4) cm respectivelyArea of a rectangle = L x B\\(A_1 = x(x - 6) = x^2 - 6x\\)\\(A_2 = (x + 2)(x - 4) = x^2 - 4x + 2x - 8 = x^2 - 2x - 8\\)\\(A_1 + 68 = A_2\\)\u00a0(Given)\u21d2 \\(x^2 - 6x + 68 = x^2 - 2x - 8\\)\u21d2 \\(x^2 - x^2 - 6x + 2x\\) = -8 - 68\u21d2 -4\\(x\\) = -76\n\u21d2 \\(x\\) = \\(\\frac{-76}{-4}\\) = 19cm\n\u2234 The length of the shorter side = \\(x\\) - 6 = 19 - 6 = 13 cm\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2180",
+    "text": "The second term of a geometric series is \\(^{-2}/_3\\) and its sum to infinity is \\(^3/_2\\). Find its common ratio.",
+    "options": {
+      "A": "\\(^{-1}/_3\\)",
+      "B": "2",
+      "C": "\\(^{4}/_3\\)",
+      "D": "\\(^{2}/_9\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67384?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "A",
+    "explanation": "\\(T_2 = \\frac{-2}{3};S_\\infty\u00a0\\frac {3}{2}\\)\n\\(T_n = ar^n - 1\\)\n\u2234 \\(T_2 = ar = \\frac{-2}{3}\\)---eqn.(i)\n\\(S_\\infty = \\frac{a}{1 - r} = \\frac{3}{2}\\)---eqn.(ii)\n= 2a = 3(1 - r)\n= 2a = 3 - 3r\n\u2234 a = \\(\\frac{3 - 3r}{2}\\)\nSubstitute \\(\\frac{3 - 3r}{2}\\) for a in eqn.(i)\n=\u00a0\\(\\frac{3 - 3r}{2} \\times r = \\frac{-2}{3}\\)\n= \\(\\frac{3r - 3r^2}{2} = \\frac{-2}{3}\\)\n= 3(3r - 3r\\(^2\\)) = -4\n= 9r - 9r\\(^2\\)\u00a0= -4= 9r\\(^2\\)\u00a0- 9r - 4 = 0= 9r\\(^2\\)\u00a0- 12r + 3r - 4 = 0= 3r(3r - 4) + 1(3r - 4) = 0= (3r - 4)(3r + 1) = 0\n\u2234 r = \\(\\frac{4}{3} or - \\frac{1}{3}\\)\nFor a geometric series to go to infinity, the absolute value of its common ratio must be less than 1 i.e. |r| < 1.\n\u2234 r = -\\(^1/_3\\) (since |-\\(^1/_3\\)| < 1)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2181",
+    "text": "Find the value of the angle marked x in the diagram above",
+    "options": {
+      "A": "60\\(^0\\)",
+      "B": "45\\(^0\\)",
+      "C": "90\\(^0\\)",
+      "D": "30\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67385?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "A",
+    "explanation": "\\(PR^2 = PQ^2 + RQ^2 - 2(PQ)(RQ)cos Q\\)\n\\(\\implies cos Q = \\frac{PQ^2 + RQ^2 - PR^2}{2(PQ)(RQ)}\\)\n\\(\\implies cos Q = \\frac{8^2 + 5^2 - 7^2}{2\\times8\\times5}\\)\n\\(\\implies cos Q = \\frac{64 + 25 - 49}{80}\\)\n\\(\\implies cos Q = \\frac{40}{80} = 0.5\\)\n\\(\\implies Q = cos^{-1} (0.5) = 60^0\\)\n\\(\\therefore x = 60^0\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2182",
+    "text": "The line \\(3y + 6x\\) = 48 passes through the points A(-2, k) and B(4, 8). Find the value of k.",
+    "options": {
+      "A": "16",
+      "B": "20",
+      "C": "8",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67386?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "B",
+    "explanation": "The line: \\(3y + 6x\\) = 48\nDivide through by 3\n\u21d2 y + 2\\(x\\) = 16\n\u21d2 y =\u00a0-2\\(x\\) +\u00a016\n\u2234 The gradient of the line = -2\nThe points: A(-2, k) and B (4, 8)\nm =\\(\\frac{y2 - y1}{x2 - x1} = \\frac{8 - k}{4 - (-2)}\\)\n\u21d2 m =\\(\\frac[8 - k}{4 + 2} = {8 - k}{6}\\)\nSince the line passes through the points\n\u2234 -2 = \\(\\frac{8 - k}{6}\\)\n\u21d2 \\(\\frac{-2}[1} = \\frac{8 - k]{6}\\)\n\u21d2 8\u00a0- k = -12\n\u21d2 k = 8 + 12\n\u2234 k = 20\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2183",
+    "text": "Tickets for the school play were priced at \u20a6520.00 each for adults and \u20a6250.00 each for kids. How many kids' tickets were sold if the total sales were \u20a6171,000.00 and there were 5 times as many adult tickets sold as children's tickets?",
+    "options": {
+      "A": "20",
+      "B": "300",
+      "C": "50",
+      "D": "60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67387?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "D",
+    "explanation": "Let number of children's ticket at \u20a6250.00 each = \\(x\\)\u2234 Number of adult tickets at \u20a6520.00 each = 5\\(x\\)Then,Total amount of money received from children's tickets = 250\\(x\\)Total amount of money received from adult tickets = 520(5\\(x\\))\u21d2 250\\(x\\)\u00a0+ 520(5\\(x\\)) = 171,000\u21d2 250\\(x\\)\u00a0+ 2600\\(x\\)\u00a0= 171,000\u21d2 2850\\(x\\)\u00a0= 171,000\n\u21d2 \\(x = \\frac{171,000}{2850} = 60\\)\u2234 60 tickets were sold at \u20a6250.00 and 300 tickets were sold at \u20a6520.00\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2184",
+    "text": "Solve the logarithmic equation: \\(log_2 (6 - x) = 3 - log_2 x\\)",
+    "options": {
+      "A": "\\(x\\) = 4 or 2",
+      "B": "\\(x\\) = -4 or -2",
+      "C": "\\(x\\) = -4 or 2",
+      "D": "\\(x\\) = 4 or -2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67388?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "A",
+    "explanation": "\\(log_2 (6 - x) = 3 - log_2 x\\)\n\u21d2 \\(log_2 (6 - x) = 3 log_2 2 - log_2 x\\) (since \\(log_2\\) 2 = 1)\n\u21d2 \\(log_2 (6 - x) = log_2 2^3 - log_2 x\\) \\((a\u00a0log\\) c = \\(log\\) c\\(^a)\\)\n\u21d2 \\(log_2 (6 - x) = log_2 8 - log_2 x\\)\n\u21d2\\(log_2 (6 - x) = log_2 \\frac{8}{x}\\) (\\(log\\) a - \\(log\\) b = \\(log \\frac{a}{b})\\)\n\u21d2 \\(6 - x = \\frac{8}{x}\\)\n\u21d2 \\(x (6 - x) = 8\\)\n\u21d2 \\(6x - x^2 = 8\\)\n\u21d2 \\(x^2 - 6x + 8 = 0\\)\n\u21d2 \\(x^2 - 4x - 2x + 8 = 0\\)\n\u21d2 \\(x (x - 4) - 2(x - 4) = 0\\)\n\u21d2 \\((x - 4)(x - 2) = 0\\)\n\u21d2 \\(x - 4 = 0 or x - 2 = 0\\)\n\u2234 x = 4 or 2\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2185",
+    "text": "Calculate the area of the composite figure above.",
+    "options": {
+      "A": "6048 m\\(^2\\)",
+      "B": "3969 m\\(^2\\)",
+      "C": "4628 m\\(^2\\)",
+      "D": "5834 m\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67389?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "B",
+    "explanation": "Area of the composite figure = Area of semi circle + Area of rectangle + Area of triangle\nArea of semi circle = \\(\\frac{1}{2}\\pi r^2 = \\frac{1}{2}\\times\\pi\\times\\frac{d^2}{4} = \\frac{1}{2}\\times\\frac{22}{7}\\times\\frac{42^2}{4} = 693 m^2\\)\nArea of rectangle = l x b = 42 x 60\u00a0 =2520 m\\(^2\\)\nArea of triangle = \\(\\frac{1}{2}\\times b \\times h = \\frac{1}{2}\\times 36 \\times 42 = 756 m^2\\)\n\u2234 Area of the composite figure = 693 + 2520 + 756 = 3969 m\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2186",
+    "text": "Find the value of x in the diagram above",
+    "options": {
+      "A": "10 units",
+      "B": "15 units",
+      "C": "5 units",
+      "D": "20 units"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67390?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "A",
+    "explanation": "Intersecting Chords Theorem states that If two chords intersect in a circle, then the products of the measures of the segments of the chords are equal.\u21d2 AE * EB = CE * ED\u21d2 6 * \\(x\\) = 4 * (\\(x\\)\u00a0+ 5)\u21d2 6\\(x\\)\u00a0= 4\\(x\\)\u00a0+ 20\u21d2 6\\(x\\)\u00a0- 4\\(x\\)\u00a0= 20\u21d2 2\\(x\\)\u00a0= 20\n\u2234 \\(x = \\frac{20}{2}\\) = 10 units\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2187",
+    "text": "Which inequality describes the graph above?",
+    "options": {
+      "A": "\\(4y + 5x \u2265 20\\)",
+      "B": "\\(5y + 4x \u2264 20\\)",
+      "C": "\\(4y + 5x \u2264 20\\)",
+      "D": "\\(5y + 4x \u2265 20\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67391?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "B",
+    "explanation": "First, we find the equation of the boundary line using the two intercepts.The slope is\nm = \\(\\frac{4 - 0}{0 - 5} = {4}{5}\\)\nThe y-intercept is 4\nThe slope-intercept form of the equation is therefore\ny = -\\(\\frac{4}{5} x + 4\\)\n\\(\\implies y + \\frac{4}{5} x = 4\\)\nMultiply both sides by \\(\\frac{5}{4}\\)\n\\(\\implies\\frac{5}{4}(y +\\frac{4}{5} x) = 4\\times\\frac{5}{4}\\)\n\\(\\implies\\frac{5}{4} y + x = 5\\)\nMultiply both sides by 4\n\u21d2 \\(5y + 4x = 20\\)\nThe inequality is therefore either \\(5y +\u00a04x \u2264 20\\) or \\(5y + 4x \u2265 20.\\)\nUsing the test point (0, 0) -The origin\n\u21d2 5(0) + 4(0) \u2264 20\n\u21d2 0 \u2264 20 (True)\n\u2234 The inequality is \\(5y + 4x \u2264 20\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2188",
+    "text": "Find the volume of a cone which has a base radius of 5 cm and slant height of 13 cm.",
+    "options": {
+      "A": "\\(300\\pi\\) cm\\(^3\\)",
+      "B": "\\(325\\pi\\) cm\\(^3\\)",
+      "C": "\\(\\frac{325}{3}\\pi\\) cm\\(^3\\)",
+      "D": "\\(100\\pi\\) cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67392?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "D",
+    "explanation": "Volume of a cone = \\(\\frac{1}{3}\\pi r^2 h\\)r = 5 cml = 13 cmUsing Pythagoras theorem\u21d2 \\(13^2 = 5^2 + h^2\\)\u21d2 \\(169 = 25 + h^2\\)\u21d2 \\(169 - 25 = h^2\\)\u21d2 \\(h^2 = 144\\)\u21d2 \\(h = \\sqrt144 = 12 cm\\)\n\u2234 Volume of the cone = \\(\\frac{1}{3} \\times\\pi\\times 5^2 x 12 = 100\\pi\\) cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2189",
+    "text": "Study the given histogram above and answer the question that follows.\nWhat is the total number of students that scored at most 50 marks?",
+    "options": {
+      "A": "380",
+      "B": "340",
+      "C": "360",
+      "D": "240"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67393?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "C",
+    "explanation": "Total number of students that scored at most 50 marks = 100 + 80 + 60 + 40 + 80 = 360\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2190",
+    "text": "The area of a trapezium is 200 cm\\(^2\\). Its parallel sides are in the ratio 2 : 3 and the perpendicular distance between them is 16 cm. Find the length of each of the parallel sides.",
+    "options": {
+      "A": "10 cm and 15 cm",
+      "B": "8 cm and 12 cm",
+      "C": "6 cm and 9 cm",
+      "D": "12 cm and 18 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67394?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "A",
+    "explanation": "Area of trapezium = \\(\\frac{1}{2}(a + b) h\\)\n\u21d2 \\(\\frac{1}{2} (a + b)\\times 16 = 200\\)\n\u21d2 8(a + b) = 200\n\u21d2 a + b = \\(\\frac{200}{8}\\) = 25 -----(i)\n\u21d2 a : b = 2 : 3\n\u21d2 \\(\\frac{a}{b} = \\frac{2}{3}\\)\n\u21d2 3a = 2b\n\u21d2 a = \\(\\frac{2b}{3}\\) -------(ii)\nSubstitute \\(\\frac{2b}{3}\\) for a in equation (i)\n\u21d2 \\(\\frac{2b}{3}\\) + b = 25\n\\(\\frac{5b}{3}\\) = 25\n\u21d2 b = 25 \u00f7 \\(\\frac{5}{3} = 25\\times\\frac{3}{5} = 15cm\\)\nFrom equation (ii)\n\u21d2 a = \\(\\frac{2 \\times\u00a015}{3} = 2\\times5 = 10cm\\)\n\u2234 Lengths of each parallel sides are 10cm and 15cm\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2191",
+    "text": "PQRS is a cyclic quadrilateral. Find \\(x\\)\u00a0+\u00a0\\(y\\)",
+    "options": {
+      "A": "50",
+      "B": "60",
+      "C": "15",
+      "D": "0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67395?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "D",
+    "explanation": "\u2220PQR + \u2220PSR = 180o (opp. angles of cyclic quad. are supplementary)\u21d2 5\\(x\\)\u00a0- \\(y\\)\u00a0+ 10 + (-2\\(x\\)\u00a0+ 3\\(y\\)\u00a0+ 145) = 180\u21d2 5\\(x\\)\u00a0- \\(y\\)\u00a0+ 10 - 2\\(x\\)\u00a0+ 3\\(y\\)\u00a0+ 145 = 180\u21d2 3\\(x\\)\u00a0+ 2\\(y\\)\u00a0+ 155 = 180\u21d2 3\\(x\\)\u00a0+ 2\\(y\\)\u00a0= 180 - 155\u21d2 3\\(x\\)\u00a0+ 2\\(y\\)\u00a0= 25 ----- (i)\u2220QPS + \u2220QRS = 180o (opp. angles of cyclic quad. are supplementary)\u21d2 -4\\(x\\)\u00a0- 7\\(y\\)\u00a0+ 150 + (2\\(x\\)\u00a0+ 8\\(y\\)\u00a0+ 105) = 180\u21d2 -4\\(x\\)\u00a0- 7\\(y\\)\u00a0+ 75 + 2\\(x\\)\u00a0+ 8\\(y\\)\u00a0+ 180 = 180\u21d2 -2\\(x\\)\u00a0+ \\(y\\)\u00a0+ 255 = 180\u21d2 -2\\(x\\)\u00a0+ y = 180 - 255\u21d2 -2\\(x\\)\u00a0+ \\(y\\)\u00a0= -75 ------- (ii)\u21d2 \\(y\\)\u00a0= -75 + 2\\(x\\)\u00a0-------- (iii)Substitute (-75 + 2\\(x\\)) for \\(y\\)\u00a0in equation (i)\n\u21d2 3\\(x\\)\u00a0+ 2(-75 + 2\\(x\\)) = 25\u21d2 3\\(x\\)\u00a0- 150 + 4\\(x\\)\u00a0= 25\u21d2 7\\(x\\)\u00a0= 25 + 150\u21d2 7\\(x\\)\u00a0= 175\n\u21d2 \\(x = \\frac{175}{7} = 25\\)\nFrom equation (iii)\u21d2 \\(y\\)\u00a0= -75 + 2(25) = -75 + 50\u21d2 \\(y\\)\u00a0= -25\u2234 \\(x\\) + \\(y\\)\u00a0= 25 + (-25) = 0\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2192",
+    "text": "A student pilot was required to fly to an airport and then return as part of his flight training. The average speed to the airport was 120 km/h, and the average speed returning was 150 km/h. If the total flight time was 3 hours, calculate the distance between the two airports.",
+    "options": {
+      "A": "270 km",
+      "B": "200 km",
+      "C": "360 km",
+      "D": "450 km"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67396?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "B",
+    "explanation": "Speed = \\(\\frac{Distance}{Time}\\)\n\u21d2 Time =\u00a0\\(\\frac{Distance}{Time}\\)\nLet D = distance between the two airports\n\u2234 Time taken to get to\u00a0the airport\u00a0= \\(\\frac{D}{120}\\) and Time taken to return =\\( \\frac{D}{150}\\)\nSince total time of flight= 3hours,\n\u21d2 \\(\\frac{D}{120} + \\frac{D}{150}\\) = 3\n\u21d2 \\(\\frac{15D + 12D}{1800}\\) = 3\n\u21d2 \\(\\frac{27D}{1800}\\) = 3\n\u21d2 \\(\\frac{3D}{200} = \\frac{3}{1}\\)\n\u21d2 3D = 200 x 3\n\u2234 D =\\(\\frac{ 200\\times3}{3}\\)= 200km\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2193",
+    "text": "The perimeter of an isosceles right-angled\u00a0triangle is 2 meters. Find the length of its longer side.",
+    "options": {
+      "A": "2 - \\(\\sqrt2\\)",
+      "B": "-4 + 3\\(\\sqrt2\\)",
+      "C": "It cannot be determined",
+      "D": "-2 + 2\\(\\sqrt2\\) m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67397?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "D",
+    "explanation": "Perimeter of a triangle = sum of all sides\n\u21d2 \\(P = y + x + x = 2\\)\n\u21d2 \\(y + 2x = 2\\)\n\u21d2 \\(y= 2 - 2x\\)-----(i)\nUsing Pythagoras theorem\n\\(y^2 = x^2 + x^2\\)\n\u21d2 \\(y^2\u00a0= 2x^2\\)\n\u21d2 \\(y = \\sqrt2x^2\\)\n\u21d2 \\(y = x\\sqrt2\\)-----(ii)\nEquate \\(y\\)\n\u21d2 \\(2 - 2x = x\\sqrt2\\)\nSquare both sides\n\u21d2 \\((2 -2x) ^2\u00a0= (x\\sqrt2)^2\\)\n\u21d2 \\(4 - 8x + 4x^2 = 2x^2\\)\n\u21d2 \\(4 - 8x + 4x^2 - 2x^2 = 0\\)\n\u21d2 \\(2x^2 - 8x + 4 = 0\\)\n\u21d2 \\(x = \\frac{-(-8)\\pm\\sqrt(-8)^2 - 4\\times2\\times4}{2\\times2}\\)\n\u21d2 \\(x = \\frac{8\\pm\\sqrt32}{4}\\)\n\u21d2 \\(x = \\frac{8\\pm4\\sqrt2}{4}\\)\n\u21d2 \\(x = 2\\pm\\sqrt2\\)\n\u21d2 \\(x = 2 + \\sqrt2\\) or \\(2 - \\sqrt2\\)\n\u2234 \\(x = 2 - \\sqrt2\\) (for \\(x\\) has to be less than\u00a0its perimeter)\n\u2234 \\(y = 2 - 2x =\u00a02 - 2(2 - \\sqrt2) = -2 + 2 \\sqrt2\\)\n\u2234 The length of the longer side = -2 + 2\\(\\sqrt2\\)m\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2194",
+    "text": "A ship sets sail from port A (86\\(^o\\)N, 56\\(^o\\)W) for port B (86\\(^o\\)N, 64\\(^o\\)W), which is close by. Find the distance the ship covered from port A to port B, correct to the nearest km.\n\n[Take \\(\\pi\\)\u00a0= 3.142 and R = 6370 km]",
+    "options": {
+      "A": "62 km",
+      "B": "97 km",
+      "C": "389 km",
+      "D": "931 km"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67398?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "A",
+    "explanation": "AB = \\(\\frac{\u03b8}{360}\\times 2\\pi Rcos\\propto\\) (distance on small circle)\n= 64 - 56 = 8\\(^o\\)\n\\(\\propto = 86^o\\)\n\u21d2 AB = \\(\\frac{8}{360}\\) x 2 x 3.142 x 6370 x cos 86\n\u21d2 AB = \\(\\frac{22,338.29974}{360}\\)\n\u2234 AB = 62km (to the nearest km)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2195",
+    "text": "Use the graph of sin (\u03b8) above to estimate the value of \u03b8 when sin (\u03b8) = -0.6 for \\(0^o \u2264 \u03b8 \u2264 360^o\\)",
+    "options": {
+      "A": "\u03b8 = 223\\(^o\\), 305\\(^o\\)",
+      "B": "\u03b8 = 210\\(^o\\), 330\\(^o\\)",
+      "C": "\u03b8 = 185\\(^o\\), 345\\(^o\\)",
+      "D": "\u03b8 = 218\\(^o\\), 323\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67399?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "D",
+    "explanation": "On the \\(y\\)-axis, each box is \\(\\frac{1 - 0}{5} = \\frac{1}{5}\\) = 0.2unit\nOn the\u00a0\\(x\\)-axis, each box is \\(\\frac{90 - 0}{6}\u00a0= \\frac{90}{6}\u00a0= 15^o\\)\n\u21d2 \\(\u03b8_1 = 180^o + (2.5\\times15^o) = 180^o + 37.5^o = 217.5^o \u2243 218^o \\)(2 and half boxes were counted to the right of 180\\(^o\\))\n\u21d2 \\(\u03b8_2 = 270^o + (3.5\\times15^o) = 270^o + 52.5^o = 322.5^o \u2243 323^o \\)(3 and half boxes were counted to the right of 270\\(^o\\))\n\u2234 \\(\u03b8 = 218^o, 323^o\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2196",
+    "text": "A circle has a radius of 13 cm with a chord 12 cm away from the centre of the circle. Calculate the length of the chord.",
+    "options": {
+      "A": "16 cm",
+      "B": "8 cm",
+      "C": "5 cm",
+      "D": "10 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67400?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "D",
+    "explanation": "|AP| = |PB| = \\(x\\) (The perpendicular to a chord bisects the chord if drawn from the center of the circle.)From \u2206OPBUsing Pythagoras theorem\u21d2 \\(13^2 = 12^2 + x^2\\)\u21d2 \\(169 = 144 + x^2\\)\u21d2 \\(169 - 144 = x^2\\)\u21d2 \\(x^2 = 25\\)\u21d2 \\(x = \\sqrt25\u00a0= 5 cm\\)\u2234 Length of the chord |AB| = \\(x\u00a0 + x\u00a0 = 5 + 5 = 10 cm\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2197",
+    "text": "Give the number of significant figures of the population of a town which has approximately 5,020,700 people",
+    "options": {
+      "A": "7 significant figures",
+      "B": "3 significant figures",
+      "C": "4 significant figures",
+      "D": "5 significant figures"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67401?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "D",
+    "explanation": "The two trailing zeros in the number are not significant, but the other five are, making it a five-figure number.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2198",
+    "text": "200 tickets were sold for a show. VIP tickets costs \u20a61,200 and \u20a6700 for regular. Total amount realised from the sale of the tickets was \u20a6180,000. Find the number of VIP tickets sold and the the number of regular ticket sold.",
+    "options": {
+      "A": "VIP = 80, Regular = 100",
+      "B": "VIP = 60, Regular = 120",
+      "C": "VIP = 60, Regular = 100",
+      "D": "VIP = 80, Regular = 120"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67402?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "D",
+    "explanation": "Let \\(x\\)\u00a0= number of VIP tickets sold and\\(y\\)\u00a0= number of regular tickets soldTotal number of tickets sold = 200\u21d2 \\(x\\)\u00a0+ \\(y\\)\u00a0= 200 ---- (i)If it costs \u20a61,200 for a VIP ticket, then it costs \u20a61200x for \\(x\\)\u00a0number of VIP tickets sold andIf it costs \u20a6700 for a regular ticket, then it costs \u20a6700\\(y\\)\u00a0for \\(y\\)\u00a0number of VIP tickets soldThe total amount realised from the sale of tickets = \u20a6180,000\u21d2 1200\\(x\\)\u00a0+ 700\\(y\\)\u00a0= 180000 ----- (ii)From equation (i)\\(x\\)\u00a0= 200 - \\(y\\)\u00a0----- (iii)Substitute (200 - \\(y\\)) for \\(x\\)\u00a0in equation (ii)\u21d2 1200(200 - \\(y\\)) + 700\\(y\\)\u00a0= 180000\u21d2 240000 - 1200\\(y\\)\u00a0+ 700\\(y\\)\u00a0= 180000\u21d2 240000 - 500\\(y\\)\u00a0= 180000\nCollect like terms\u21d2 240000 - 180000 = 500\\(y\\)\u21d2 60000 = 500\\(y\\)\n\u21d2 \\(y = \\frac{60000}{500} = 120\\)\nSubstitute 120 for \\(y\\) in equation (iii)\u21d2 \\(x = 200 - 120\\)\u21d2 \\(x = 80\\)\u2234 The total number of VIP tickets sold is 80 and regular is 120\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2199",
+    "text": "It takes 12 men 8 hours a day to finish a piece of work in 4 days. In how many days will it take 4 men working 16 hours a day to complete the same piece of work?",
+    "options": {
+      "A": "6 days",
+      "B": "8 days",
+      "C": "10 days",
+      "D": "12 days"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/67405?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "A",
+    "explanation": "12 men working 8 hours a day can complete the work in 4 days12 men working1 houra day will complete the same work in (8 x 4) days [working less hours a day means they have to work for more days]1 manworking 1 hour a day will complete same work in (8 x 4 x 12) days [fewer number of men working means the remaining ones will have to work for more days]So, it will take1 manworking1 houra day to complete a piece of work in(8 x 4 x 12) days = 384 daysNow,1 man working16 hoursa day will complete the piece of work in (384/16) days = 24 days [working more hours a day means less days to complete the work]\u22344 menworking 16 hours a day will complete the piece of work in (24/4) days = 6 days [more men working means fewer days to complete the work]ALTERNATIVELY\n12 x 8 x 4 = 4 x 16 x d\n\u21d2 d = \\(\\frac{12 \\times\u00a08 \\times\u00a04}{4 \\times\u00a016}\\)\n\u21d2 d = \\(\\frac{384}{64}\\)\n\u21d2 d = 6\n\u2234 4 men working 16 hours a day will complete the piece of work in 6 days\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  }
+]

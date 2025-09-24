@@ -1,0 +1,534 @@
+[
+  {
+    "number": "2050",
+    "text": "A few grains of table salt were put in a cup of cold water, kept at constant temperature and left undistributed. Eventually all the water tested salty. This action is\u00a0due to?",
+    "options": {
+      "A": "convection",
+      "B": "osmosis",
+      "C": "capillarity",
+      "D": "diffusion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56890?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "D",
+    "explanation": "Diffusion is the tendency of molecules to migrate and fill an empty space due to their random thermal motions.\nin diffusion, the diffusing molecules move from the places where their concentration high to places where their concentration is low.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2051",
+    "text": "The force required to make an object of mass m, travelling with velocity v, turn in a circle of radius r is",
+    "options": {
+      "A": "\\(\\frac{mv^2}{r}\\)",
+      "B": "\\(\\frac{mr^2}{x}\\)",
+      "C": "\\(\\frac{mr}{v}\\)",
+      "D": "\\(\\frac{mv}{r^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56891?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "A",
+    "explanation": "The force required to make an object of mass \\( m \\), traveling with velocity \\( v \\), turn in a circle of radius \\( r \\) is known as the \\textbf{centripetal force}. The formula for centripetal force \\( F_c \\) is given by: \\(F_c = \\frac{mv^2}{r}\\)\nwhere:\\( m \\) = mass of the object, \\( v \\) = velocity of the object, \\( r \\) = radius of the circular path.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2052",
+    "text": "A machine gun with a mass of 5kg fires a 50g bullet at a speed of 100 ms\\(^{-1}\\). The recoil speed of the machine gun is",
+    "options": {
+      "A": "0.5 ms\\(^{-1}\\)",
+      "B": "1.5 ms\\(^{-1}\\)",
+      "C": "1 ms\\(^{-1}\\)",
+      "D": "2ms\\(^-1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56892?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "C",
+    "explanation": "Gun Momentum = bullet momentum\nM\\(_a\\)V\\(_a\\) = M\\(_b\\)V\\(_b\\)\n5 x V\\(_a\\) = 0.05 x 100\nV\\(_a\\) = 1m\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2053",
+    "text": "If in a simple pendulum experiment the length of the inextensible string is increased by a factor of\u00a0four, its period is increased by a factor of?",
+    "options": {
+      "A": "4",
+      "B": "\\(\\frac{\\pi}{2}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56893?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "D",
+    "explanation": "In a simple pendulum, T = 2\\(\\pi\\)\\(\\sqrt{\\frac{L}{g}}\\)\n\\(\\frac{T_1}{T_2} = \\sqrt{\\frac{L_1}{L_2}}\\)\u00a0 but L\\(_2\\) = 4L\\(_1\\)\n\\(\\frac{T_1}{T_2} = \\sqrt{\\frac{L_1}{4L_1}}\\)\nT\\(_2\\) = 2T\\(_1\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2054",
+    "text": "In what range of\u00a0temperature is the expansion of water anomalous?",
+    "options": {
+      "A": "+208\\(^o\\)C to +212\\(^o\\)C",
+      "B": "-80\\(^o\\)C + -76\\(^o\\)C",
+      "C": "0\\(^o\\)C to +4\\(^o\\)C",
+      "D": "-4\\(^o\\)C to +0\\(^o\\)C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56894?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2055",
+    "text": "Which of the following statements about radioactivity is true?\n(i) Alpha particle is positively charged\n(ii)\u00a0Beta particle is negatively\u00a0charged\n(iii) Gamma ray is neutral\n(iv) Beta particle has the\u00a0\u00a0same mass\u00a0as helium atom\n(v) Gamma ray is charged.",
+    "options": {
+      "A": "i, ii, iii, iv only",
+      "B": "i, ii, iii only",
+      "C": "iv and v only",
+      "D": "i, ii and v only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56895?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2056",
+    "text": "In the study of Physics, temperature and heat are often confused with\u00a0each other. Which of the following statements correctly defines these two elements?",
+    "options": {
+      "A": "Temperature is a measure of the average kinetic energy of the molecules of a substance",
+      "B": "Heat is a measure of the total kinetic energy of the molecules in a system",
+      "C": "Different materials require different amounts of heat to cause a given change in temperature",
+      "D": "All of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56896?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "D",
+    "explanation": "Option D is correct.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2057",
+    "text": "The effect of closing the key K in the circuit shown in the figure above would be to?",
+    "options": {
+      "A": "increase the current by 0.4A",
+      "B": "reduce the current by 0.4A",
+      "C": "increase the current by 0.6A",
+      "D": "reduce the current by 0.6A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56897?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "A",
+    "explanation": "When K is open. Total Resistance = 8 + 2 = 10\\(\\Omega\\)\n1 = \\(\\frac{V}{\\Omega}\\) =\u00a0 \\(\\frac{6v}{\\Omega}\\) = 0.6A\nWhere K is closed, \\(\\frac{1}{8} + \\frac{1}{8} = \\frac{1}{\\Omega}\\)\n\\(\\frac{2}{8} = \\frac{1}{\\Omega}\\)\n\\(\\Omega\\)\u00a0= \\(\\frac{8}{2}\\) = 4\\(\\Omega\\)\n\\(\\Omega\\)\u00a0= \\(\\frac{8}{2}\\) = 4\\(\\Omega\\)\n4\\(\\Omega\\)\u00a0 in series with 2\\(\\Omega\\)= 6\\(\\Omega\\)\n1 = \\(\\frac{V}{\\Omega}\\)\u00a0 = \\(\\frac{6}{6}\\) = 1A\n1 - 0.6A = 0.4A increase\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2058",
+    "text": "Which of the following statements on the use of X-rays is incorrect? X-rays are used",
+    "options": {
+      "A": "In a hospital to obtain photographs of tissues and bones in the body",
+      "B": "For the treatment of malignant growths like cancer cells",
+      "C": "In detecting fingerprints",
+      "D": "To reveal hidden flaws in metal castings and welded joints work of art"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56898?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2059",
+    "text": "Natural radioactivity consists of emission?",
+    "options": {
+      "A": "\\(\\alpha\\)-particles and \\(\\beta\\)-rays",
+      "B": "\\(\\alpha\\)-particles and X-rays",
+      "C": "\\(\\gamma\\)-ray and X-rays",
+      "D": "\\(\\alpha\\)-particles and \\(\\beta\\)-rays and \\(\\gamma\\)-rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56900?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2060",
+    "text": "If a source of solid is moving, a stationary listener will hear a sound of different frequency. This is called?",
+    "options": {
+      "A": "doppler effect",
+      "B": "resonance",
+      "C": "ultra sound",
+      "D": "rarefaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56901?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "A",
+    "explanation": "The Doppler effect or Doppler shift is\u00a0the change in frequency of a wave in relation to an observer who is moving relative to the wave source.\nThe drop in pitch of ambulance sirens as they pass by and the shift in red light\u00a0are common examples of the Doppler Effect.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2061",
+    "text": "Which of the following can be described as high tension transmission?",
+    "options": {
+      "A": "High resistance and low voltage",
+      "B": "Low current and high voltage",
+      "C": "High current and low voltage",
+      "D": "High current and low resistance"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56902?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2062",
+    "text": "What is the cost of running five 50W lamps and four 100W lamps for 10 hours if electrical energy costs 2 Kobo per KWh?",
+    "options": {
+      "A": "N0.65",
+      "B": "N0.39",
+      "C": "N3.90",
+      "D": "N0.13"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56903?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "D",
+    "explanation": "POWER = energy consumed/time\nEnergy consumed = power x time\nenergy consumed = \\(\\frac{(5 \\times\u00a050) + (4 \\times\u00a0100) \\times10}{1000}\\)\n= 6.5KWh.\nbut 1KWh = 2kobo\nthen 6.5KWh = 6.5 x 2 = 13kobo\u00a0\u2192#0.13\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2063",
+    "text": "Tha mass of a proton is approximately equal to that of",
+    "options": {
+      "A": "an \\(\\alpha\\)-particle",
+      "B": "a \\(\\beta\\)-Particle",
+      "C": "a neutron",
+      "D": "an electron"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56904?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2064",
+    "text": "A transformer has 300 turns of wire in the primary coil and 30 turns in the secondary coil. If the input voltage is 100 volts, the output voltage is",
+    "options": {
+      "A": "5 volts",
+      "B": "10 volts",
+      "C": "15 volts",
+      "D": "20 volts"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56905?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "B",
+    "explanation": "For transformation, Es = e.m.f. of secondary coil\nEp = Np\nNp = e.m.f. of secondary coil\nNs = number of turns in secondary coil\nNs = number of turns in primary coil\n\\(\\frac{30}{300}\\) = \\(\\frac{x}{100}\\) = 300\nX = 3000\nX = 10 volts\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2065",
+    "text": "A solid weighs 4.8g in air, 2.8g in water and 3.2g in Kerosine. The ratio of density of the solid to that of the kerosine is",
+    "options": {
+      "A": "2",
+      "B": "\\(\\frac{3}{2}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56906?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "D",
+    "explanation": "Relative density of solid\n\\(\\frac{\\text{weight of solid}}{\\text{weight of an equal volume of water}}\\)\n= \\(\\frac{4.8}{4.8 - 2.8}\\)\n= \\(\\frac{4.8}{2}\\) = 2.4\nRelative density of liquid\n=\u00a0\u00a0 \\(\\frac{\\text{Weight\u00a0 of\u00a0liquid kerosine}}{\\text{Weight of an equal volume of water}}\\)\n= \\(\\frac{4.8 - 3.2}{4.8 - 2.8}\\)\u00a0 =\u00a0\\(\\frac{1.6}{2}\\) = 0.8\n= \\(\\frac{\\text{Ratio of relative density of solid}}{\\text{Relative density of Kerosine}}\\)\n= \\(\\frac{\\text{density of solid}}{\\text{density of Kerosine}}\\)\n= \\(\\frac{2.4}{0.8}\\)\n= 3\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2066",
+    "text": "One of the following readings represents the measurement of the\u00a0length of a metal rod using vernier callipers. Taking the reading accuracy into consideration, the most likely one is",
+    "options": {
+      "A": "5.16cm",
+      "B": "5.165cm",
+      "C": "5.0cm",
+      "D": "5.160cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56907?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "A",
+    "explanation": "Vernier Calipers Accuracy:Vernier calipers usually measure with an accuracy of 0.01 cm (0.1 mm), allowing for readings with two decimal places to ensure precision.\nHence, 5.16cm\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2067",
+    "text": "When a sound wave passes from air into water its",
+    "options": {
+      "A": "speed and frequency increases but its wavelength remains the same",
+      "B": "speed and wavelength increases but its frequency remains the same",
+      "C": "speed decreases",
+      "D": "speed increases but its frequency and wavelength decreases"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56908?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2068",
+    "text": "A convex mirror is used as a driving mirror because\u00a0\nI. its image is erect\u00a0 \u00a0 \u00a0\nII. It has a large field of view\nIII. It has a long focal length\u00a0\nIdentify the CORRECT statement(s)",
+    "options": {
+      "A": "I and III only",
+      "B": "I and II only",
+      "C": "II and IIII only",
+      "D": "I, II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56909?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2069",
+    "text": "Two mirrors of the same length\u00a0are arranges as show in the diagram. A ray of light NO\u00a0strikes the system at O and emerges along PQ. The emergent ray has been deviated through",
+    "options": {
+      "A": "220\\(^o\\)",
+      "B": "200\\(^o\\)",
+      "C": "210\\(^o\\)",
+      "D": "180\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56910?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "D",
+    "explanation": "Deviation angle\n= \\(\\theta_1 + \\theta_2\\) = 50 + 50 + 40 + 40\n= 180\\(^o\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2070",
+    "text": "A magnetic needle is suspended first at the earth's north magnetic pole and then at a point on the magnetic equator. The respective angles between the needle and the horizontal are",
+    "options": {
+      "A": "0\\(^o\\) and 0\\(^o\\)",
+      "B": "60\\(^o\\) and 60\\(^o\\)",
+      "C": "90\\(^o\\) and 90\\(^o\\)",
+      "D": "90\\(^o\\) and 0\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56911?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2071",
+    "text": "A hydrometer is an instrument for\u00a0measuring the",
+    "options": {
+      "A": "a depth of water of water in a vessel",
+      "B": "relative density of a liquid by the method of flotation",
+      "C": "relative density of a liquid by finding the apparent loss in weight",
+      "D": "relative humidity of the air"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56912?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2072",
+    "text": "Consider the three forces acting at O and in equilibrium as shown in the figure. Which of the following equations is/are CORRECT?\nI.\u00a0P\\(_1\\) cos\u00a0\\(\\theta_1\\) = p\\(_1\\) cos \\(\\theta_2\\)\nII. P\\(_3\\) = P\\(_1\\) cos \\(\\theta_4\\)\u00a0 + P\\(_2 cos_2\\)\nIII. P\\(_1 \\sin \\theta_1 = P_2 \\sin \\theta_2\\)",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I, II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56913?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "resolving \\(P_1\\), \\(P_2\\) and \\(P_3\\)\u00a0into x and y component\n\\(P_x\\) = \\(P_1 Cos\\theta_1\\)\n\\(P_y\\) = \\(P_1Sin\\theta_1\\)\n\\(P_x\\) = \\(P_2Cos\\theta_2\\)\n\\(P_y\\) = \\(-P_2Sin\u00a0\\theta_2\\)\n\\(P_x\\) = \\(- P_3Cos \\theta0\\)\ntherefore\ntotal \\(P_x\\) = \\(P_1 Cos\\theta_1\\) +\u00a0\\(P_2Cos \\theta_2\\) +\u00a0 \\(- P_3Cos \\theta0\\) = 0\ntotal\u00a0\\(P_y\\) = \\(P_1Sin\\theta_1\\) +\u00a0 \\(-P_2Sin\u00a0\\theta_2\\) = 0\nso that\u00a0\u00a0 \\(P_1Sin\\theta_1\\) =\u00a0\u00a0 \\(P_2Sin\u00a0\\theta_2\\)\n\\(\u00a0P_3Cos \\theta0\\) =\u00a0 \\(P_1 Cos\\theta_1\\) +\u00a0\\(P_2Cos \\theta_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2073",
+    "text": "The refractive index of a liquid is 1.5. If the velocity of light in vacuum is 3.0 x 10\\(^8ms^{-1}\\), the velocity of light in the liquid is",
+    "options": {
+      "A": "1.5 x 10\\(^8ms^{-1}\\)",
+      "B": "2.0 x 10\\(^8ms^{-1}\\)",
+      "C": "3.0 x 10\\(^8ms^{-1}\\)",
+      "D": "4.5 x 10\\(^8ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56914?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "B",
+    "explanation": "n = \\(\\frac{\\text{speed in air}}{\\text{speed in glass}}\\)\n1.5 = \\(\\frac{3 \\times 10^4}{\\text{speed in glass}}\\)\nSpeed in glass = 3 x 10\\(^8\\)m/s / 1.5\n= 2 x 10\\(^8\\)m/s\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2074",
+    "text": "A ship travelling towards a cliff receives the echo of its whistle after 3.5 seconds. A short while later, it receives the echo after 2.5 seconds. If the speed of sound in air under the prevalling condition is 250ms\u00a0-1, how much closer is the ship to the cliff?",
+    "options": {
+      "A": "10m",
+      "B": "350m",
+      "C": "175m",
+      "D": "125m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56915?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "D",
+    "explanation": "Difference in time = 1 sec\necho time = 1 \\(\\div\\) 2 = 0.5 sec\nDifference of cliff from ship = 0.5 x 250\n= 125m\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2075",
+    "text": "Which of the following statements about defects of vision is/are CORRECT?\u00a0\nI. For\u00a0a long sighted person, close objects appear blurred\nII. For a short sighted person, distant objects appear blurred\u00a0\nIII. Short sight is corrected by using a pair of converging lenses",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56916?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "Statements I & II are correct\nStatement III is incorrect because short sightedness is corrected by using suitable concave or diverging lens\nHence; option C is the correct option\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2076",
+    "text": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?\nI. Light is passing from optical denser medium to optically less dense medium\nII. Light is passing from optically less dense medium to optically denser medium\nIII. Angle of incidence is greater than a certain critical value\nIV. Angle of incidence is lesser\u00a0 than a certain critical value",
+    "options": {
+      "A": "I and II only",
+      "B": "II only III only",
+      "C": "III and IV only",
+      "D": "I and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56917?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "D",
+    "explanation": "The conditions for total internal reflection includelighttraveling from an optically denser medium (higher refractive index) to an optically less dense medium (lower refractive index) and that theangleof incidence is greater than the criticalangle.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2077",
+    "text": "The linear expansivity\u00a0of brass is 2 x 10\\(^{-5}\\)\u00a0 \\(^oC^{-1}\\). If the volume of piece of brass is 10cm\\(^3\\) at 0\\(^o\\)C. What will be its volume at 100\\(^o\\)C?",
+    "options": {
+      "A": "10.06cm\\(^3\\)",
+      "B": "10.04 cm\\(^3\\)",
+      "C": "10.02 cm\\(^3\\)",
+      "D": "10.20 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56918?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "A",
+    "explanation": "3 x \\(\\alpha\\) = \\(\\frac{V_2 - V_1}{V_1 \\times \\Delta \\theta}\\)\n3 x 2 x 10\\(^{-5}\\) = \\(\\frac{V_2 - 10}{100 \\times 10}\\)\nV\\(_2\\) = (100 x 10 x 3 x 2 10\\(^{-2}\\)) + 10\n= 10.06 cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2078",
+    "text": "The lower and upper fixed points marked on a Mercury-in-glass thermometer are 210mm apart. The end of the mercury column in the tube is 49mm\u00a0above the lower fixed point in a room. What is the temperature of the room in degrees Celsius?",
+    "options": {
+      "A": "55.3\\(^o\\)C",
+      "B": "23.3\\(^o\\)C",
+      "C": "49.0\\(^o\\)C",
+      "D": "16.43\\(^o\\)C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56919?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{49 - 0}{210 - 0}\\) = \\(\\frac{\\theta - 0}{100 - \\theta}\\)\n\\(\\frac{49}{210} = \\frac{\\theta}{100}\\)\n49 x 100 = 210 x \\(\\theta\\)\n\\(\\theta = \\frac{4900}{210}\\) = 23.3\\(^o\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2079",
+    "text": "Heat is supplied uniformly at the rate of 100W to 1.0 x 10\\(^{-2}\\)kg of a liquid for 20 seconds. If the temperature of the liquid rises by 5\\(^o\\)C, then the specific heat capacity of the liquid is",
+    "options": {
+      "A": "2.0 x 10\\(^2\\)Jkg\\(^-1\\)K\\(^-1\\)",
+      "B": "2.0 x 10\\(^2\\)Jkg\\(^-1\\)",
+      "C": "4.0 x 10\\(^4\\)Jkg\\(^-1\\)K\\(^-1\\)",
+      "D": "4.0 x 10\\(^4\\)Jkg\\(^-1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56920?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "C",
+    "explanation": "Heat energy = Electrical Energy\nMC\\(\\theta\\) = power x time\n5 x 1 x 10\\(^{-2}\\) x C = 100 x 20\nC = \\(\\frac{200}{5 \\times 10^2}\\)\n= 4 x 10\\(^4\\) J/kg/\\(^oC\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2080",
+    "text": "Two divers G and H are at depths 20m and 40m, respectively below the water surface in a lake. The pressure on G is p\\(_1\\) while the pressure on H is P\\(_2\\), If the atmospheric pressure is equivalent to 10m\u00a0of water, then the value of P\\(_2\\)/P\\(_1\\) is?",
+    "options": {
+      "A": "0.50",
+      "B": "0.60",
+      "C": "1.67",
+      "D": "2.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56921?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "C",
+    "explanation": "Atmospheric pressure equivalence of\u00a010m of water: \\(\\frac{p_2+10}{p_1+10}\\)= \\(\\frac{40+10}{20+10\\)\n= \\(\\frac{50}{30}\\)\u00a0= 1.67\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2081",
+    "text": "The fiqure above represents a block-and-tackle pulley system on which an effort of W Newtons supports a load of 120.0N. If the efficiency of the machine is 40\\(^o\\), then the value of W is",
+    "options": {
+      "A": "28.0N",
+      "B": "48.0N",
+      "C": "288.0N",
+      "D": "50.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56922?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "D",
+    "explanation": "V.E = 6, load = 120N\nEfficiency = M.A x \\(\\frac{1}{V.R}\\) x 100%\n40 = \\(\\frac{120}{effort}\\) x \\(\\frac{1}{6}\\) x \\(\\frac{100}{1}\\)\nEffort = 50N\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2082",
+    "text": "In an experiment in which molten naphthalene\u00a0is allowed to cool, the cooling curve i n the figure was obtained. The temperature 80\\(^o\\)C is known as the",
+    "options": {
+      "A": "cooling temperature",
+      "B": "boiling point",
+      "C": "melting point",
+      "D": "vaporization point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56923?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2083",
+    "text": "In the figure, the value of R is",
+    "options": {
+      "A": "3\\(\\Omega\\)",
+      "B": "6\\(\\Omega\\)",
+      "C": "4\\(\\Omega\\)",
+      "D": "5\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56924?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "B",
+    "explanation": "R\\(_T\\) = \\(\\frac{V}{1} = \\frac{12}{2}\\) = 6\\(\\Omega\\)\nR\\(_T\\) = 3 + \\(\\frac{R \\times 6}{R + 6}\\)\nR = 6\\(\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2084",
+    "text": "Which of the following instruments consumes the highest current?\n\n\n\n\nI. Electric iron\nII. Television set\nIII. Torchlight\nIV. Immersion heater\n\n\n250v\n220v\n6v\n110v\n\n\n1kW\n110W\n30W\n500W",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56925?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "C",
+    "explanation": "(I)\u00a0 I = \\(\\frac{P}{V} = \\frac{1000}{25}\\) = 4A\n(II) I = \\(\\frac{110}{220}\\) = 0.5A\n(III) I = \\(\\frac{30}{6}\\) = 5A\n(IV) I = \\(\\frac{500}{110}\\) = 4.55A\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2085",
+    "text": "In which of the following diagrams is the length of the tube equal to one wavelength?",
+    "options": {
+      "A": "a",
+      "B": "b",
+      "C": "c",
+      "D": "d"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56926?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2086",
+    "text": "Which of the following pairs is\u00a0part of the electromagnetic spectrum?\u00a0\nI. Radio waves\nII. sound waves\nIII. Gamma rays\nIV. water waves",
+    "options": {
+      "A": "I and II",
+      "B": "III and IV",
+      "C": "I and III",
+      "D": "II and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56927?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "C",
+    "explanation": "Examples of electromagnetic waves are radio waves, X-rays, gamma rays, light rays, etc\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2087",
+    "text": "A substance has half of 3 min. After 6 min, the count rate was observed to be 400. What was its count rate at zero time?",
+    "options": {
+      "A": "1600",
+      "B": "1200",
+      "C": "200",
+      "D": "2400"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/56928?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "A",
+    "explanation": "Let the count rate at zero time be N\nN \\(\\frac{3 min}{\\to}\\)\u00a0 \\(\\frac{N}{2}\\) \\(\\frac{3 min}{\\to}\\) \\(\\frac{N}{4}\\)\n\\(\\frac{N}{4}\\)\n= 400\nN = \\(\\frac{400}{N/4}\\) x N\n= 1600\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  }
+]

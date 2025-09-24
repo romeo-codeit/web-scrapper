@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1742",
+    "text": "Integrate \\(\\frac{2x^3 + 2x}{x}\\) with respect to x",
+    "options": {
+      "A": "\\(\\frac{2x^3}{3}\\) - 2x + k",
+      "B": "x3 + 2x + k",
+      "C": "\\(\\frac{2x^3}{3}\\) + 2x + k",
+      "D": "x3 - 2x + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44744?exam_type=jamb&type=obj&page=349",
+    "correct_answer": "C",
+    "explanation": "2\ndx\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1743",
+    "text": "If the mean of 4, y, 8 and 10 is 7. Find Y?",
+    "options": {
+      "A": "6",
+      "B": "10",
+      "C": "7",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44745?exam_type=jamb&type=obj&page=349",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1744",
+    "text": "Find the derivative of y = ( \\(\\frac{1}{3}\\)X + 6)\\(^2\\)",
+    "options": {
+      "A": "2( \\(\\frac{1}{3}\\)X + 6",
+      "B": "\\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)",
+      "C": "\\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)2",
+      "D": "\\(\\frac{1}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44746?exam_type=jamb&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "Y = ( \\(\\frac{1}{3}\\)X + 6)\\(^2\\)\\(\\frac{dy}{dx}\\) = 2( \\(\\frac{1}{3}\\)X + 6) \\(\\frac{1}{3}\\)= \\(\\frac{2}{3}\\) ( \\(\\frac{1}{3}\\)X + 6)\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1745",
+    "text": "In a school of 150 students, 80 offer French while 60 offer Arabic and 20 offer neither. How many students offer both subjects?",
+    "options": {
+      "A": "45",
+      "B": "10",
+      "C": "35",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44747?exam_type=jamb&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1746",
+    "text": "If the 2nd term of a G.P is \\(\\frac{8}{9}\\) and the 6th term is 4\\(\\frac{1}{2}\\). Find the common ratio.",
+    "options": {
+      "A": "2",
+      "B": "\\(\\frac{3}{2}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44748?exam_type=jamb&type=obj&page=350",
+    "correct_answer": "B",
+    "explanation": "T2 = \\(\\frac{8}{9}\\), T6 = 4\\(\\frac{1}{2}\\)ar = \\(\\frac{8}{9}\\)ar5 = \\(\\frac{9}{2}\\)\\(\\frac{ar}{ar^5}\\) = \\(\\frac{8}{9}\\) x \\(\\frac{2}{9}\\)\\(\\frac{1}{r^4}\\) = \\(\\frac{16}{81}\\)r = \\(\\sqrt[4]{\\frac{18}{16}}\\) = \\(\\frac{3}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1747",
+    "text": "From the diagram above, find the value of < OTQ",
+    "options": {
+      "A": "230o",
+      "B": "55o",
+      "C": "115o",
+      "D": "65o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44749?exam_type=jamb&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1748",
+    "text": "The sum of the interior angles of a polygon is a given as 1080o. Find the number of the sides of the polygon.",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44750?exam_type=jamb&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1749",
+    "text": "In the diagram above, l1 is parallel to l2, Find the value of < PMT",
+    "options": {
+      "A": "82o",
+      "B": "36o",
+      "C": "72o",
+      "D": "118o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44751?exam_type=jamb&type=obj&page=350",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1750",
+    "text": "From the diagram above, Find the value of < ROP",
+    "options": {
+      "A": "110o",
+      "B": "70o",
+      "C": "95o",
+      "D": "85o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44755?exam_type=jamb&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1751",
+    "text": "The venn diagram shows a class of 50 students with the games they play. How many students play only two games?",
+    "options": {
+      "A": "15",
+      "B": "16",
+      "C": "20",
+      "D": "18"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44756?exam_type=jamb&type=obj&page=351",
+    "correct_answer": "A",
+    "explanation": "Number of students that plays only two games = 4 + 8 + 3 = 15\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1752",
+    "text": "If line p = 5x + 3 is parallel to line p = wx + 5. Find the value of w.",
+    "options": {
+      "A": "7",
+      "B": "3",
+      "C": "6",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44768?exam_type=jamb&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "1\n2\n1\n2\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1753",
+    "text": "Evaluate \\(\\int\\)(cos4x + sin3x)dx",
+    "options": {
+      "A": "sin4x - cos3x + k",
+      "B": "sin4x + cos3x + k",
+      "C": "\\(\\frac{1}{4}\\)sin4x - \\(\\frac{1}{3}\\)cos3x + k",
+      "D": "\\(\\frac{1}{4}\\)sin4x + \\(\\frac{1}{3}\\)cos3x + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44769?exam_type=jamb&type=obj&page=351",
+    "correct_answer": "C",
+    "explanation": "\\(\\int (\\cos 4x + \\sin 3x) \\mathrm d x\\)\n= \\(\\frac{1}{4} \\sin 4x - \\frac{1}{3} \\cos 3x + k\\)\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1754",
+    "text": "If x10 = 235. Find x",
+    "options": {
+      "A": "15",
+      "B": "12",
+      "C": "14",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44770?exam_type=jamb&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "10\n5\n10\n1\n0\n10\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1755",
+    "text": "The pie chart above shows the distribution of subjects offered by students in SSS III level. If 80 students enrolled in the class. What is the size of the angle of the sector in economics?",
+    "options": {
+      "A": "24o",
+      "B": "39o",
+      "C": "32o",
+      "D": "36o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44771?exam_type=jamb&type=obj&page=351",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1756",
+    "text": "Calculate the range of 20, -6, 25, 30, 21, 28, 32, 33, 34, 5, 3, 2, and 1.",
+    "options": {
+      "A": "32",
+      "B": "36",
+      "C": "33",
+      "D": "40"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44772?exam_type=jamb&type=obj&page=352",
+    "correct_answer": "D",
+    "explanation": "Range = 34 - (-6) = 34 + 6 = 40\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1757",
+    "text": "The bar chart above shows the number of visitors received in a week. How many visitors were received on Friday, Tuesday and Sunday?",
+    "options": {
+      "A": "17",
+      "B": "22",
+      "C": "20",
+      "D": "16"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44773?exam_type=jamb&type=obj&page=352",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1758",
+    "text": "Factorize k2 - 2kp + p2.",
+    "options": {
+      "A": "(k +p)2",
+      "B": "(k - p)2",
+      "C": "k2 + p2",
+      "D": "k2 - p2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44774?exam_type=jamb&type=obj&page=352",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1759",
+    "text": "Calculate the perimeter of a sector of a circle of raduis 12cm and angle 60o.",
+    "options": {
+      "A": "(12 + 4\\(\\pi\\))cm",
+      "B": "(24 + 4\\(\\pi\\))cm",
+      "C": "(12 + 6\\(\\pi\\))cm",
+      "D": "(24 + 6\\(\\pi\\))cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44775?exam_type=jamb&type=obj&page=352",
+    "correct_answer": "B",
+    "explanation": "Perimeter = 2r + \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r= 2(12) + \\(\\frac{60}{360}\\) x 2 x \\(\\pi\\) x 12= (24 + 4\\(\\pi\\))cm\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1760",
+    "text": "\\(\\begin{array}{c|c} \nMarks & 2 & 3 & 4 \\\\ \n\\hline \nFrequency & 4 & 4 & y\n\\end{array}\\)\n\nThe table above shows the frequency distribution of marks obtained by a group of students. If the total mark is 48, find the value of y.",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "7",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44776?exam_type=jamb&type=obj&page=352",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1761",
+    "text": "Given U = {x: x is a positive integer less than 15} and P = {x: x is even number from 1 to 14}. Find the compliment of P.",
+    "options": {
+      "A": "{1, 3, 5, 7, 9, 11, 13, 15}",
+      "B": "{2, 3, 5, 7, 9, 11, 13}",
+      "C": "{1, 3, 5, 7, 9, 11, 13}",
+      "D": "{2, 3, 5, 7, 11, 15}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44777?exam_type=jamb&type=obj&page=353",
+    "correct_answer": "C",
+    "explanation": "U = {1, 2, 3, 4, 5......14}P = {2, 4, 6, 8, 10, 12, 14}P'\u00a0= {1, 3, 5, 7, 9, 11,13}\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1762",
+    "text": "Simplify \\(\\frac{0.026 \\times 0.36}{0.69}\\). Leave your answer in standard form",
+    "options": {
+      "A": "1.36 x 10-4",
+      "B": "1.36 x 10-3",
+      "C": "1.36 x 10-1",
+      "D": "1.36 x 10-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44827?exam_type=jamb&type=obj&page=353",
+    "correct_answer": "D",
+    "explanation": "-2\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1763",
+    "text": "A number of pencils were shared out among Bisi, Sola and Tunde in the ratio of 2:3:5 respectively. If Bisi got 5, how many were shared out?",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "30",
+      "D": "50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44828?exam_type=jamb&type=obj&page=353",
+    "correct_answer": "B",
+    "explanation": "x\nx\nx\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1764",
+    "text": "Calculate the perimeter of a sector of a circle of raduis 9cm and angle 36o.",
+    "options": {
+      "A": "18cm",
+      "B": "(18 + \\(\\frac{9\\pi}{5}\\))cm",
+      "C": "(9 + \\(\\frac{9\\pi}{5}\\))cm",
+      "D": "\\(\\frac{9\\pi}{5}\\)cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44829?exam_type=jamb&type=obj&page=353",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1765",
+    "text": "Evaluate \\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\)",
+    "options": {
+      "A": "\\(\\frac{23}{5}\\)",
+      "B": "-\\(\\frac{23}{5}\\)",
+      "C": "-\\(\\frac{1}{8}\\)",
+      "D": "\\(\\frac{21}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44830?exam_type=jamb&type=obj&page=353",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\)\\(\\frac{27^\\frac{1}{3} - 8^\\frac{2}{3}}{16^\\frac{2}{4} \\times 2}\\) = \\(\\frac{3\\sqrt{27} - 3\\sqrt{8}^2}{\\sqrt{16} \\times 2}\\)\\(\\frac{3 - 4}{4 \\times 2}\\)= \\(\\frac{-1}{8}\\)\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1766",
+    "text": "\\(\\begin{array}{c|c}\nScores & 3 & 6 & 5 & 2 \\\\\n\\hline\nFrequency & 2 & 3 & 4 & 6\n\\end{array}\\)\n\nFrom the table above, find the median",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44831?exam_type=jamb&type=obj&page=354",
+    "correct_answer": "A",
+    "explanation": "Listing the scores according to the number of times they occur in ascending order\n2, 2, 2, 2, 2, 2,3, 3, 5, 5, 5, 5, 6, 6, 6,\nMedian = 3\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1767",
+    "text": "Find \\(\\frac{dy}{dx}\\), if y = \\(\\frac{2}{3}\\) x\\(^3\\) - \\(\\frac{4}{x}\\)",
+    "options": {
+      "A": "3x2 - \\(\\frac{4}{x}\\)",
+      "B": "2x2 +\\(\\frac{4}{x^2}\\)",
+      "C": "3x2 + \\(\\frac{4}{x^2}\\)",
+      "D": "2x2 - \\(\\frac{4}{x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44832?exam_type=jamb&type=obj&page=354",
+    "correct_answer": "B",
+    "explanation": "y = \\(\\frac{2}{3}\\)x\\(^3\\) - \\(\\frac{4}{x}\\)\\(\\frac{dy}{dx}\\) = 2x\\(^2\\) - (-4)x\\(^{-2}\\) = 2x\\(^2\\) + \\(\\frac{4}{x^2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1768",
+    "text": "Evaluate \\(\\frac{0.8 \\times 0.43 \\times 0.031}{0.05 \\times 0.72 \\times 0.021}\\). Correct to four significant figures.",
+    "options": {
+      "A": "14.09",
+      "B": "14.1",
+      "C": "14.12",
+      "D": "14.11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44833?exam_type=jamb&type=obj&page=354",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1769",
+    "text": "An arc subtends an angle of 30\u00ba\u00a0at the centre of a circle radius 12cm. Calculate the length of the arc.",
+    "options": {
+      "A": "6\\(\\pi\\)cm",
+      "B": "2\\(\\pi\\)cm",
+      "C": "3\\(\\pi\\)cm",
+      "D": "9\\(\\pi\\)cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44834?exam_type=jamb&type=obj&page=354",
+    "correct_answer": "B",
+    "explanation": "Length or arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r= \\(\\frac{30}{360}\\) x 2 x \\(\\frac{22}{7}\\) x 12= \\(\\frac{1}{12}\\) x 2 x \\(\\pi\\) x 12\u00a0= 2\\(\\pi\\)cm\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1770",
+    "text": "Evaluate \\(\\int\\limits_0^\\frac{\\pi}{2}\\) sin xdx",
+    "options": {
+      "A": "2",
+      "B": "-1",
+      "C": "1",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44835?exam_type=jamb&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "xdx\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1771",
+    "text": "An arc of the length 16\\(\\pi\\)cm subtends an angle of 80o at the centre of the circle. Find the radius of the circle.",
+    "options": {
+      "A": "24cm",
+      "B": "28cm",
+      "C": "36cm",
+      "D": "32cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44836?exam_type=jamb&type=obj&page=355",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1772",
+    "text": "The mean of 2-t, 4+t, 3-2t, 2+t and t-1 is",
+    "options": {
+      "A": "2",
+      "B": "t",
+      "C": "-t",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44838?exam_type=jamb&type=obj&page=355",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1773",
+    "text": "Evaluate \\(\\frac{12.02 \\times 20.06}{26.04 \\times 60.06}\\), correct to three significant figures.",
+    "options": {
+      "A": "0.157",
+      "B": "0.154",
+      "C": "0.155",
+      "D": "0.158"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44848?exam_type=jamb&type=obj&page=355",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1774",
+    "text": "If y = 2x3 + 6x2 + 6x + 1, Find \\(\\frac{dy}{dx}\\)",
+    "options": {
+      "A": "6x2 + 12x + 1",
+      "B": "6x2 + 6x + 1",
+      "C": "6x2 + 6x + 6",
+      "D": "6x2 + 12x + 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44851?exam_type=jamb&type=obj&page=355",
+    "correct_answer": "D",
+    "explanation": "3\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1775",
+    "text": "The nth term of the sequence 3, 9, 27, 81.....is",
+    "options": {
+      "A": "3 x 3n-2",
+      "B": "3 x 3n-1",
+      "C": "3 x 3n+2",
+      "D": "3 x 3n+1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44853?exam_type=jamb&type=obj&page=355",
+    "correct_answer": "B",
+    "explanation": "n\nn-1\nn\nn-1\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1776",
+    "text": "Simplify 1 - (\\(\\frac{1}{7}\\) x 3 \\(\\frac{1}{2}\\)) \\(\\div\\) \\(\\frac{3}{4}\\)",
+    "options": {
+      "A": "2",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "1",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44856?exam_type=jamb&type=obj&page=356",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1777",
+    "text": "If a car travels 120km on 45 litres of petrol, how much petrol is needed for a journey of 600km?",
+    "options": {
+      "A": "720 litres",
+      "B": "160 litres",
+      "C": "225 litres",
+      "D": "960 litres"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44857?exam_type=jamb&type=obj&page=356",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1778",
+    "text": "Find \\(\\frac{dy}{dx}\\). If y = 3x3 + 2x2 + 3x + 1",
+    "options": {
+      "A": "9x2 + 4x + 3",
+      "B": "9x2 -  4x - 3",
+      "C": "9x2 + 4x - 3",
+      "D": "9x2 -  4x + 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44860?exam_type=jamb&type=obj&page=356",
+    "correct_answer": "A",
+    "explanation": "3\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1779",
+    "text": "Evaluate \\(\\int\\)(sinx - 5x2)dx",
+    "options": {
+      "A": "-cosx - 10x + k",
+      "B": "cosx - \\(\\frac{5x^3}{3}\\) + k",
+      "C": "-cosx - \\(\\frac{5x^3}{3}\\) + k",
+      "D": "cosx - 10x + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44861?exam_type=jamb&type=obj&page=356",
+    "correct_answer": "C",
+    "explanation": "(sin x - 5x^2)\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1780",
+    "text": "If N = \\(\\frac{p}{2}\\)(\\(\\frac{T_1 - T_2}{T_1}\\)). Find P when N = 12, T1 = 27 and T2 = 24.",
+    "options": {
+      "A": "48",
+      "B": "108",
+      "C": "54",
+      "D": "216"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44862?exam_type=jamb&type=obj&page=356",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1781",
+    "text": "Solve for x and y respectively \n3x - 5y = 9 \n6x - 4y = 12",
+    "options": {
+      "A": "\\(\\frac{3}{4}\\), 1",
+      "B": "\\(\\frac{4}{3}\\), 1",
+      "C": "\\(\\frac{3}{4}\\), -1",
+      "D": "\\(\\frac{4}{3}\\), -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44863?exam_type=jamb&type=obj&page=357",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1782",
+    "text": "If Q is a factor of 18 and T is prime numbers between 2 and 18. What is Q\\(\\cap\\)T?",
+    "options": {
+      "A": "(2,3)",
+      "B": "(2,3,18)",
+      "C": "(2,3,9)",
+      "D": "(2,3,6)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44865?exam_type=jamb&type=obj&page=357",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1783",
+    "text": "From the cyclic quadrilateral above, find < TSV",
+    "options": {
+      "A": "60o",
+      "B": "80o",
+      "C": "70o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44870?exam_type=jamb&type=obj&page=357",
+    "correct_answer": "B",
+    "explanation": "< TVS = 180o - (80 + 20)= 180 - 100 = 80o\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1784",
+    "text": "Find the mean of 10, 8, 5, 11, 12, 9, 6, 3, 15, and 23.",
+    "options": {
+      "A": "11.2",
+      "B": "10",
+      "C": "10.2",
+      "D": "11.3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44871?exam_type=jamb&type=obj&page=357",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1785",
+    "text": "In the cyclic quadrilateral above . Find < PRO",
+    "options": {
+      "A": "70o",
+      "B": "20o",
+      "C": "50o",
+      "D": "30o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44872?exam_type=jamb&type=obj&page=357",
+    "correct_answer": "B",
+    "explanation": "< PRO = 180\u00b0 - (110 + 50)\u00b0= 180 - 160 = 20\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1786",
+    "text": "OGIVE is constructed using",
+    "options": {
+      "A": "Third quartile range",
+      "B": "Semi-quartile range",
+      "C": "Cummulative frequency table",
+      "D": "Inter-quartile table"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44873?exam_type=jamb&type=obj&page=358",
+    "correct_answer": "C",
+    "explanation": "An ogive is constructed using the cumulative frequencies from a frequency distribution table.\nCollect Data: Organize your data into a frequency distribution table.\nCalculate Cumulative Frequency: Add frequencies cumulatively for each class interval.\nDetermine Class Boundaries: Identify the upper boundaries of the class intervals.\nPlot Points: Plot cumulative frequencies against the upper class boundaries.\nDraw the Ogive: Connect the points with a smooth curve, starting from (0, 0).\nLabel the Axes: Clearly label the x-axis (upper boundaries) and y-axis (cumulative frequency).\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1787",
+    "text": "Rationalize \\(\\frac{\\sqrt{6} - \\sqrt{4}}{\\sqrt{6} + \\sqrt{4}}\\)",
+    "options": {
+      "A": "5 + 2 \\(\\sqrt{6}\\)",
+      "B": "5 - 4 \\(\\sqrt{6}\\)",
+      "C": "5 + 4 \\(\\sqrt{6}\\)",
+      "D": "5 - 2 \\(\\sqrt{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44874?exam_type=jamb&type=obj&page=358",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1788",
+    "text": "The bar chart above shows the marks obtained by students in a mathematics test.\nHow many students in all took the test?",
+    "options": {
+      "A": "40",
+      "B": "30",
+      "C": "10",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44875?exam_type=jamb&type=obj&page=358",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1789",
+    "text": "Determine the mean score of the student that took the mathematics test?",
+    "options": {
+      "A": "4.5",
+      "B": "4.3",
+      "C": "4.2",
+      "D": "4.6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44878?exam_type=jamb&type=obj&page=358",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1790",
+    "text": "From the diagram above. Find the fraction of the shaded position?",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{1}{5}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{1}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44980?exam_type=jamb&type=obj&page=358",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  },
+  {
+    "number": "1791",
+    "text": "From the diagram above, find the required roots/region of x.",
+    "options": {
+      "A": "x\\(\\leq\\)-1, x \\(\\geq\\)4",
+      "B": "x\\(\\leq\\)4",
+      "C": "-1\\(\\leq\\)x\\(\\leq\\)4",
+      "D": "x\\(\\leq\\)-1, o\\(\\leq\\)x\\(\\leq\\)4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/44981?exam_type=jamb&type=obj&page=359",
+    "correct_answer": "C",
+    "explanation": "The required roots/region of x is -1\\(\\leq\\)x\\(\\leq\\)4\nThere is an explanation video availablebelow.",
+    "year": "2016"
+  }
+]

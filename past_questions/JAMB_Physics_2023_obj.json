@@ -1,0 +1,898 @@
+[
+  {
+    "number": "2169",
+    "text": "The property of wave shown in the diagram above is?",
+    "options": {
+      "A": "Diffraction",
+      "B": "Refraction",
+      "C": "Polarisation",
+      "D": "Interference"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67249?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "A",
+    "explanation": "Diffraction is the bending of waves around the corners of an obstacle or through an aperture.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2170",
+    "text": "Which of the following statements regarding the application of electrical conduction via gases is/are correct?\nElectrical conduction in gas is applied in:\n(i) The identification of gases\n(ii) Lighting/fluorescent tubes\n(iii) Photocells\n(iv) Cathode ray oscilloscope/T.V. tubes",
+    "options": {
+      "A": "(i), (iii) and (iv) only",
+      "B": "(i), (ii) and (iv) only",
+      "C": "(ii), (iii) and (iv) only",
+      "D": "(i), (ii) and (iii) only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67250?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "B",
+    "explanation": "Electrical conduction of gas is applied in:(i) The identification of gases(ii) Lighting/fluorescent tubes(iii) Advertising industry/Neon signs(iv) Cathode ray oscilloscope/T.V. tubes\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2171",
+    "text": "Find the tension in the two cords shown in the figure above. Neglect the mass of the cords, and assume that the angle is 38\u00b0 and the mass m is 220 kg\n\u00a0\n[Take g = 9.8 ms-2]",
+    "options": {
+      "A": "\\(T_1\\) = 2864 N,  \\(T_2\\)= 3612 N",
+      "B": "\\(T_1\\)= 3612 N,  \\(T_2\\) = 2864 N",
+      "C": "\\(T_1\\)= 3502 N,  \\(T_2\\)= 2760 N",
+      "D": "\\(T_1\\) = 2760 N,  \\(T_2\\) = 3502 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67267?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "C",
+    "explanation": "W =\u00a0 mg\u00a0 = 220 x 9.8 = 2156 N\n\u21d2Sin 38\u00ba = \\(\\frac{2156}{T_1}\\)\n\u21d2 \\(T_1\\) =\u00a0 \u00a0 \\(\\frac{2156}{Sin 38}\\)\n\u21d2 \\(T_1\\) =\u00a0 \u00a0 \u00a03502 N\nCos 38\u00ba\u00a0=\u00a0 \\(\\frac{T_2}{T_1}\\)\n\u21d2 \\(T_2\\)\u00a0 =\u00a0 \u00a03502 x Cos 38\u00ba\n\u21d2 \\(T_2\\)\u00a0=\u00a0 \u00a02760 N\n;\u00a0 \u00a0 \\(T_1\\)\u00a0=\u00a0 \u00a03502\u00a0N,\u00a0 \\(T_2\\) = 2760 N.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2172",
+    "text": "A missile is launched with a speed of 75 ms-1 at an angle of 22\u00b0 above the surface of a warship. Find the horizontal range achieved by the missile. Ignore the effects of air resistance.\n\n[Take g = 10 ms-2]",
+    "options": {
+      "A": "195",
+      "B": "271 m",
+      "C": "391 m",
+      "D": "136 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67268?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "C",
+    "explanation": "U= 75 \\(ms^-1\\) =22\u00ba,\u00a0 \u00a0g= 10 \\(ms^-2\\) ,\u00a0 \u00a0R=?\nR=\u00a0 \u00a0 \u00a0\\(\\frac{U^2sin2\\theta}{g}\\)\n\u21d2R=\u00a0 \u00a0 \u00a0\\(\\frac{75^2\u00d7sin2(22)}{10}\\)\u21d2R=\u00a0 \u00a0 \u00a0 \\(\\frac{5625\u00d7Sin44}{10}\\)\n\u21d2R=\u00a0 \u00a0 \u00a0 \\(\\frac{5625\u00d70.6947}{10}\\)\u21d2R=\u00a0 \u00a0 \u00a0 \\(\\frac{3907.69}{10}\\)\n\u21d2\u00a0 \u00a0 391m\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2173",
+    "text": "On a particular hot day, the temperature is 40\u00b0C and the partial pressure of water vapor in the air is 38.8 mmHg. What is the relative humidity?",
+    "options": {
+      "A": "70",
+      "B": "62",
+      "C": "80",
+      "D": "42"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67275?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "A",
+    "explanation": "Relative Humidity=\u00a0 \\(\\frac {partial\u00a0 pressure\u00a0 of\u00a0 H2O}{saturated\u00a0 vapor\u00a0 pressure\u00a0 of\u00a0\u00a0H2O}\\)\u00d7100%S.v.p. of water at 40\u00b0c = 55.3\u21d2 Relative Humidity=\u00a0 \\(\\frac{38.8}{55.3}\\)\u00d7100%Relative Humidity= 70%\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2174",
+    "text": "Calculate the absolute pressure at the bottom of a lake at a depth of 32.8 m. Assume the density of the water is 1 x 10^3 kgm-3 and the air above is at a pressure of 101.3 kPa.\n\n[Take g = 9.8 ms-2]",
+    "options": {
+      "A": "422.7",
+      "B": "220.14",
+      "C": "464.53",
+      "D": "321.74"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67280?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "A",
+    "explanation": "h=32\u00b78m,\u00a0 \u00a0 \u00a0 p=\u00a0 \\(1\u00d710^3kgm^-3\\)g=9\u00b78 \\(ms^-2\\) ,\u00a0 \u00a0\\(P_a\\)=101\u00b73KPa\\(P_T\\)= ?\nP=hpg\u21d2\\(32\u00b78\u00d71\u00d710^3 \u00d7 9\u00b78\\)=321440 \\(P_a\\)\u21d2321\u00b744KPa\u21d2 \\(P_T\\) =321.44+101.3;\\(P_T\\)=422\u00b77KPa\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2175",
+    "text": "The terminals of a battery of emf 24.0 V and internal resistance of 1.0 \u03a9 is connected to an external resistor 5.0 \u03a9. Find the terminal p.d.",
+    "options": {
+      "A": "18.0V",
+      "B": "12.0V",
+      "C": "16.0V",
+      "D": "20.0V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67374?exam_type=jamb&type=obj&page=435",
+    "correct_answer": "D",
+    "explanation": "\u03b5\u00a0=24.0 V,\u00a0 r=1\u03a9,R=5.0\u03a9\nterminal p\u00b7d = ?\u03b5= IR+Ir = I(R+r)\u21d2 IR+Ir\u00a0= I(R+r)\u21d2 I = \\(\\frac{24}{5+1}\\)\u21d2 I =\\(\\frac{24}{6}\\)\u21d2 I\u00a0= 4 Aterminal p\u00b7d = 4\u00a0\u00d7 5terminal p\u00b7d\u00a0\u00a0=\u00a0 20.0 V\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2176",
+    "text": "A lorry accelerates uniformly in a straight line with acceleration of\u00a0 \\(4ms^-2\\) and covers a distance of 250 m in a time interval of 10 s. How far will it travel in the next 10 s?",
+    "options": {
+      "A": "650",
+      "B": "900",
+      "C": "800",
+      "D": "250"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67375?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "A",
+    "explanation": "We first find the lorry's initial velocity\na\u00a0= \\(4ms^-2\\), s= 250m,\u00a0 t= 10,\u00a0 u=?\u21d2 ut\u00a0+\u00a0 \\(\\frac{1}{2}\u00d74\u00d7(10^2)\u21d2250= 10u\u00a0+ 200\u21d2 250-200\u00a0= 10u\u21d2 50\u00a0= 10u\u21d2U\u00a0=\\frac{50}{10}\\)\u00a0= \\(5ms^-1\\)For the next 10s, we set t=20s= s = (5\u00a0\u00d7 20)\u00a0+ \\(\\frac{1}{2}\u00d74\u00d7{20^2}\\)= s\u00a0\u00a0= 100\u00a0+ 800\n\u21d2 900 m\n;Distance covered:900-250\u00a0=650m\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2177",
+    "text": "The half life of a radioactive material is 12 days. Calculate the decay constant.",
+    "options": {
+      "A": "0.8663 \\(day^{-1}\\)",
+      "B": "0.04331 \\(day^{-1}\\)",
+      "C": "0.17325  \\(day^{-1}\\)",
+      "D": "0.05775  \\(day^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67376?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "D",
+    "explanation": "\\(T_ {^1/_2}\\)\u00a0= 12 days ;V=?\n\\(T_ {^1/_2}\\)\u00a0=\u00a0\\(\\frac{0.693}{\u03b3}\\)\u21d2\u03b3\u00a0\u21d2\\(\\frac{0.693}{t_{^1/_2}}\\)\n\u21d2\u03b3\u00a0=\\(\\frac{0.693}{12}\\)\u21d2\u03b3= 0.05775 \\(day^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2178",
+    "text": "The number of holes in an intrinsic semiconductor",
+    "options": {
+      "A": "is not equal to the number of free electrons",
+      "B": "is greater than the number of free electrons",
+      "C": "is equal to the number of free electrons",
+      "D": "is less than the number of free electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67423?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "C",
+    "explanation": "An intrinsic semiconductor, also called an undoped semiconductor, is a pure semiconductor. In intrinsic semiconductors the number of excited electrons and the number of holes are equal: n = p\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2179",
+    "text": "Name the type of equilibrium for each position of the ball",
+    "options": {
+      "A": "A - unstable, B - neutral, C - stable",
+      "B": "A - stable, B - neutral, C - unstable",
+      "C": "A - stable, B - unstable, C - neutral",
+      "D": "A - unstable, B - stable, C - neutral"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67430?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "D",
+    "explanation": "Object A will undergo unstable equilibrium as it can move farther from its original positionObject B will undergo stable equilibrium as it can return to its original positionObject C will undergo neutral equilibrium as it can remain in a new position\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2180",
+    "text": "Rainbow formation is as a result of the combination of which of the following phenomena?\n(i) Reflection\n(ii) Dispersion\n(iii) Total internal reflection\n(iv) Refraction",
+    "options": {
+      "A": "(ii) and (iv) only",
+      "B": "(i), (iii) and (iv) only",
+      "C": "(ii), (iii) and (iv) only",
+      "D": "(i), (ii) and (iv) only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67437?exam_type=jamb&type=obj&page=436",
+    "correct_answer": "C",
+    "explanation": "As light ray enters a drop of water the light isrefractedat the surface and at the end of the drop, it istotally internally reflectedin which the reflected light returns to the front surface, where it again undergoesrefractionas it moves from water to air. The result of this is adispersedlight of colours of different wavelengths.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2181",
+    "text": "The surface temperature of a swimming pool on a warm day is 25\u00baC and the temperature at the bottom is 15\u00baC. If the swimming pool has a surface area of 620 \\(m^2\\) and a depth of 1.5m. Find the rate at which energy is transferred by conduction from the surface to the bottom of the swimming pool.\n[Thermal conductivity of water (k) = 0.6071 Wm-1K-1]",
+    "options": {
+      "A": "2.5kw",
+      "B": "250kw",
+      "C": "300kw",
+      "D": "3.0kw"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67441?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "A",
+    "explanation": "L=1.5m,\u00a0 A=\\(620m^2\\),\u00a0 \u00f8=25-15=10\u00b0c\nK=0.6071 , \\(Wm^{-1}k^{-1}\\) ,\u00a0 \\(\\frac{q}{t}\\)\u00a0=?\\(\\frac{q}{t}\\)\u00a0=KA,\u00a0 \u00a0 \u00a0\\(\\frac{\u25bat}{L}\\)where k is the thermal conductivity constant and\u00a0\\(\\frac{q}{t}\\)\u00a0 is the rate of heat transfer\n=\\(\\frac{q}{t}\\)=0.6071\u00d7620\u00d7\\(\\frac{10}{1.5}\\)\\(\\frac{q}{t}\\)\u00a0= 2509.35w\u00a0\u2248 2.5kw\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2182",
+    "text": "Which process is responsible for production of energy in stars?",
+    "options": {
+      "A": "Nuclear reaction",
+      "B": "Nuclear fission",
+      "C": "Nuclear fusion",
+      "D": "Radioactive decay"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67593?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "C",
+    "explanation": "Nuclear fusion is the process in which lighter nuclei are combined to form heavier ones. Matter lost in this process is converted into energy. The energy produced inside the stars is due to the process of nuclear fusion.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2183",
+    "text": "How much net work is required to accelerate a 1200 kg car from 10\\(ms^{-1}\\) to 15\\(ms^{-1}\\)",
+    "options": {
+      "A": "1.95\u00d7\\(10^5 j\\)",
+      "B": "1.35\u00d7\\(10^4 j\\)",
+      "C": "7.5\u00d7\\(10^4 j\\)",
+      "D": "6.0\u00d7\\(10^4 j\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67686?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "C",
+    "explanation": "m=1200kg,\u00a0 \\(V_1\\)= \\(10ms^{-1}\\)\u00a0 \u00a0\\(V_2\\) = \\(15ms^{-1}\\),\u00a0 w=\u00a0?\nwork=\u25baK.E = \\( K.E_2\\) =\u00a0 \\(K.E_2\\) - \\(K.E_1\\)\u21d2work= \\(\\frac{1}{2}{mv^2_2}-\\frac{1}{2}{mv^2_1}\\)\u21d2work= \\(\\frac{1}{2}m({v^2_2}-{v^2_1}\\))\u21d2work= \\(\\frac{1}{2}\u00d7 1200\u00d7 (15^2-10^2)\\)\u21d2work = 600\u00a0\u00d7\u00a0 (225 -100)\u21d2work= 600\u00a0\u00d7 125\u21d2work= 7.5\u00d7\\(10^4 j\\)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2184",
+    "text": "A wire of radius 0.2 mm is extended by 0.5% of its length when supported by a load of 1.5 kg. Determine the Young's modulus for the material of the wire.\n[Take g = 10 ms\\(^{-2}\\)]",
+    "options": {
+      "A": "\\(2.4\u00d710^{10}(Nm^{-2})\\)",
+      "B": "\\(1.5\u00d710^{10}(Nm^{-2})\\)",
+      "C": "\\(2.4\u00d710^9(Nm^{-2})\\)",
+      "D": "\\(1.3\u00d710^{10}(Nm^{-2})\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67743?exam_type=jamb&type=obj&page=437",
+    "correct_answer": "A",
+    "explanation": "r=0.2mm\u00a0= \\(2\u00a0\u00d7 {10^{-4}}\\) e= 0.05% of L,=0.005L, m=1.5kgg=\\(10 ms^{-2}\\) ,\u00a0 y=?,\n(1000 mm = 1m)Y = \\(\\frac{FL}{Ae}\\)\nw = mg = 1.5 \u00d7 10\u00a0= 15A = \\(\\pi r^2\\)\u00a0= \\(\\frac{22}{7}\u00d7(2\u00d710^{-4})^2\\) = \\(1.26\u00d710^{-7}(m^2)\\)\u21d2 Y = \\(\\frac{15L}{1.26\u00d710^{-7}\u00d70.005L}\\)\n\u21d2 Y = \\(\\frac{15}{1.26\u00d710^{-7}\u00d70.005}\\)\u21d2 Y = \\(\\frac{15}{6.29\u00d710^{-10}}\\)Y = \\(2.4\u00d710^{10}(Nm^{-2})\\)",
+    "year": "2023"
+  },
+  {
+    "number": "2186",
+    "text": "A 200 kg load is raised using a 110 m long lever as shown in the diagram above. The load is 10m from the pivot P. If the efficiency of the the lever is 80%, find the effort E required to lift the load.\n\n[Take g = 10ms-2]",
+    "options": {
+      "A": "250",
+      "B": "300",
+      "C": "450",
+      "D": "200"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67830?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "A",
+    "explanation": "\u03b5=80%, L=200\u00d7 10\u00a0= 2000N, \\(d_L\\)=10m\n\\(d_E\\)= 110-10\u00a0= 100m, E=?\u03b5\u00a0=\\(\\frac{work done on\u00a0the load}{work done by the effort}\\)\u00a0 \u00d7 100%\u21d2\u00a0 work done on load\u00a0= 2000 \u00d710\u00a0=20,000 j\u21d2 work done by effort\u00a0= E\u00a0\u00d7 100\u00a0\u00a0= 100E\u21d2 80\u00a0=\u00a0 \u00a0\\(\\frac{20,000}{100E}\\)\u00a0\u00d7 100%\u21d2 80\u00a0=\u00a0\u00a0\u00a0\\(\\frac{20,000}{E}\\)\u21d2 E\u00a0= \\(\\frac{20,000}{80}\\)\u21d2\u00a0 E\u00a0= 250N\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2187",
+    "text": "An air bubble of radius 4.5 cm initially at a depth of 12 m below the water surface rises to the surface. If the atmospheric pressure is equal to 10.34 m of water, the radius of the bubble just before it reaches the water surface is",
+    "options": {
+      "A": "6.43 cm",
+      "B": "8.24 cm",
+      "C": "4.26 cm",
+      "D": "5.82 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67831?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "D",
+    "explanation": "\\(r_1\\) = 4.5cm , \\( P_1\\)\u00a0=is the total pressure on the\u00a0bubble at a depth of 12m from the surface.\\(P_1\\) = 12\u00a0+ 10.34\u00a0=22.34m\\(V_1\\)\u00a0= \\(\\frac{4}{3}\\)\u03c0\u00d7 \\(r^3_1\\)= \\(\\frac{4}{3}\u00d7 \u03c0\u00d7{4.5^3cm^3}\\)\\(P_2\\)\u00a0= 10.34m\n\\(V_2\\)\u00a0\u00a0= \\(\\frac{4}{3} {\u03c0}{r^3_2}\\)\nfrom\u00a0boyles law:\n\\(P_1V_1\\)\u00a0\u00a0=\u00a0\\(P_2V_2\\)\u21d2 22.34\u00d7 \\(\\frac{4}{3}\u00d7 \u03c0\u00d7{4.5^3}\\)\u00a0= 10.34\u00a0\u00d7 \\(\\frac{4}{3}\u00d7\u03c0\u00d7{r^3_2}\\)\u21d2 22.34\u00a0\u00d7 \\(4.5^3\\) = 10.34\u00a0\u00d7 \\(r^3_2\\)\u21d2\\(r^3_2 = \\sqrt[3]{196.88}\\)\u21d2\u00a0\\(r_2\\)\u00a0= 5.82cm\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2188",
+    "text": "A parallel plate capacitor separated by an air gap is made of \\(0.8m^2\\)\u00a0tin plates and 20 mm apart. It is connected to 120 V battery. What is the charge on each plate?\n\nTake \\(\u03b5_o\\) = \\(8.85\u00d710^-12 Fm^-1\\)",
+    "options": {
+      "A": "3.54nC",
+      "B": "42.5nC",
+      "C": "35.4nC",
+      "D": "4.25nC"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67863?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "B",
+    "explanation": "A= \\(0.8m^2\\)\u00a0 \u00a0 d= 20mm\u00a0=\\(\\frac{20}{1000}\\) = 0.02mv\u00a0=120v;\u00a0 \\(\u03b5_oA\\)=\\(8.85\u00a0\u00d7 10^-12 fm^-1\\)C\u00a0= \\(\\frac{\u03b5_oA}{d}\\)C =\\(\\frac{8.85\u00a0\u00d7 10^-12\u00d70.8}{0.02}\\)C= \\(3.54\u00a0\u00d7 10^-10 F\\)Q= CV\u21d2\u00a0 \\(3.54\u00a0\u00d7 10^-10\\)\u00a0\u00d7 120\u00a0= \\(4.25\u00d710^-8c\\)Q=\\(42.5\u00a0\u00d7 10^-9c\\)\u00a0 = 42.5nC\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2189",
+    "text": "What is the amount of heat required to raise the temperature of a 0.02 kg of ice cube from \\(-10^oC\\) to \\(10^oC\\) ?\n\n[specific latent heat of fusion of ice = 3.34 x \\(10^5\\)\u00a0 \\(Jkg^-1\\), Specific heat capacity of water = 4200 \\(Jkg^-1\\) \\(k^-1\\)\u00a0\u00a0\nSpecific heat capacity of ice = 2100 \\(Jkg^-1\\) \\(k^-1\\)",
+    "options": {
+      "A": "6680 J",
+      "B": "1680 J",
+      "C": "7520 J",
+      "D": "7940 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67877?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "D",
+    "explanation": "Quantity of heat required to raise the temperature of the ice cube from \\(-10^oC\\)\u00a0to \\(0^oC\\)\u21d2H=mc\u25ba\u00f8\u00a0= 0.02\u00a0\u00d7 2100\u00a0\u00d7 0\u00a0-(-10)\u21d2 H = 0.02\u00a0\u00d7 2100\u00a0\u00d7 (0\u00a0+ 10)\u00a0= 0.02\u00a0\u00d7 2100\u00a0\u00d7 10\u21d2 H = 420 Jquantity of heat required to melt ice at\u00a0\\(0^oC\\)\u21d2 H = mL = 0.02\u00a0\u00d7 3.34\u00a0\u00d7 \\(10^5\\)\u21d2H=6680 j\nQuantity of heat required to raise the temperature of the melted ice cube (water) from\u00a0\\(0^oC\\)\u00a0to \\(-10^oC\\)\n\u21d2H=mc\u25ba\u00f8\u00a0= 0.02\u00a0\u00d7 4200\u00a0\u00d7 (10-0)\u21d2H = 0.02\u00a0\u00d7 4200\u00a0\u00d7 10\u21d2H = 840j;420\u00a0+ 6680\u00a0+ 840 = 7940 j\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2190",
+    "text": "Which of the following thermometers measures temperature from the thermal radiation emitted by objects?",
+    "options": {
+      "A": "Pyrometer thermometer",
+      "B": "Platinum resistance thermometer",
+      "C": "Thermocouple thermometer",
+      "D": "Constant pressure gas thermometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67883?exam_type=jamb&type=obj&page=438",
+    "correct_answer": "A",
+    "explanation": "A pyrometer is a type of remote-sensing thermometer used to measure the temperature of a surface. It does this by measuring the thermal radiation or infrared energy being emitted from the object. Therefore, a pyrometer thermometer measures temperature from the thermal radiation emitted by objects.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2191",
+    "text": "A 400 N box is being pushed across a level floor at a constant speed by a force P of 100 N at an angle of 30.0\u00b0 to the horizontal, as shown in the the diagram below. What is the coefficient of kinetic friction between the box and the floor?",
+    "options": {
+      "A": "0.19",
+      "B": "0.24",
+      "C": "0.40",
+      "D": "0.22"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67893?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "A",
+    "explanation": "W = 400 N; P = 100 N; \u03b8 = 30o; \u03bc = ?Frictional force (Fr) = \u03bcR (where R is the normal reaction)The forces acting along the horizontal direction are Fr and Px\u2234 Pcos 30\u00b0\u00a0- Fr = ma (Pcos 30\u00b0\u00a0is acting in the +ve x-axis while Fr in the -ve x-axis)\u21d2 100cos 30\u00b0\u00a0- \u03bcR = maSince the box is moving at constant speed, its acceleration is zero\u21d2 100cos 30\u00b0\u00a0- \u03bcR = 0\u21d2 100cos 30o = \u03bcR ----- (i)The forces acting in the vertical direction are W, Py and R\u2234 R - Psin 30\u00b0\u00a0- W = 0 (R is acting upward (+ve) while Py and W are acting downward (-ve) and they are at equilibrium)\u21d2 R - 100sin 30\u00b0\u00a0- 400 = 0\u21d2 R = 100sin 30\u00b0\u00a0+ 400\n\u21d2 R = 50 + 400 = 450 NFrom equation (i)\u21d2 100cos 30\u00b0\u00a0= 450\u03bc\u21d2\u03bc=100cos30\u00b0N\u00a0= \\(\\frac{100cos30\u00b0}{450}\\)\n=\u00a0\u03bc = 0.19\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2192",
+    "text": "Light of wavelength 589 nm in vacuum passes through a piece of fused quartz of index of refraction n = 1.458. What is the frequency of the light in fused quartz?\n\n[Speed of light c = \\(3.00\u00d710^8 ms^{-1}\\)]",
+    "options": {
+      "A": "\\(5.09\u00d710^{15}\\)Hz",
+      "B": "\\(5.09\u00d710^{14}\\) Hz",
+      "C": "\\(1.77\u00d710^{15}\\) Hz",
+      "D": "\\(1.77\u00d710^{14}\\) Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67912?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "B",
+    "explanation": "n=1.458,\u00a0c=\\(3.00 \u00d710^8 ms^-1\\) ,\u03bbo = 589nm;\u00a0 f=?Speed of light in a medium (v)=\\(\\frac{c}{n}\\)\u00a0 where n is the refractive index of\u00a0the medium\u21d2\u03bbn=\\(\\frac{589}{1.458}\\)\u00a0= 404nmv=f\u03bb\u21d2f=\\(\\frac{v}{\u03bb}\\)=\\(\\frac{2.06\u00d710^8}{404\u00d710^-9}\\) \\(1nano=10^{-9}\\)\u2234f=\\(5.09\u00d710^{14}\\) Hz\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2193",
+    "text": "A simple pendulum, has a period of 5.77 seconds. When the pendulum is shortened by 3 m, the period is 4.60 seconds. Calculate the new length of the pendulum",
+    "options": {
+      "A": "5.23 m",
+      "B": "6.42 m",
+      "C": "4.87 m",
+      "D": "7.26 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67913?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "A",
+    "explanation": "Let the original length L=xm;New length\u00a0=( x -3 ) m\\(T_1\\)\u00a0=\u00a05.77s; \\(T_2\\) = 4.60s,\n\\(T^2\\) \u03b1\u00a0 L\n\u21d2\\(T^2\\) = kL\u00a0 where K is constant\u21d2 K\u00a0=\u00a0 \\(\\frac{T^2_1}{L_1}\u00a0=\u00a0 \\frac{T^2_2}{L_2}\\)\u21d2\\(\\frac{5.77^2}{x}\\)\u00a0 =\u00a0\\(\\frac{4.60^2}{x-3}\\)\u21d2 \\(\\frac{33.29}{x}\\)\u00a0 =\u00a0\\(\\frac{4.60^2}{x-3}\\)\u21d2 33.29(x-3)\u00a0\u00a0= 21.16x\u21d2 33.29x - 99.87 =21.16x\n\u21d212.13x\u00a0= 99.87;x\u00a0=\\(\\frac{99.87}{12.13}\\)\u00a0\u00a0= 8.23mThe new length of the pendulum=x-3\u00a0= 8.23-3=5.23m\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2194",
+    "text": "Three forces with magnitudes 16 N, 12 N and 21 N are shown in the diagram below. Determine the magnitude of their resultant force and angle with the x-axis",
+    "options": {
+      "A": "7.63N,61\u00b0",
+      "B": "8.71N,61\u00b0",
+      "C": "7.63N,29\u00b0",
+      "D": "8.71N,29\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67919?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "B",
+    "explanation": "Fx= 12cos32\u00b0-16cos26\u00b0\u00a0 \u00a0 =\u00a0 \u00a0 -4.20N\u00a0 \u00a0 (right is taken +ve and left is taken -ve)Fy=12sin32\u00b0+16sin26\u00b0-21 = -7.63N\u00a0 (up is taken +ve and down is taken -ve)\\(R^2\\)= 4.202+7.632\u21d2\\(R^2\\) = 75.86\u21d2\u00a0R=\u221a75.86\u2234R = 8.71 Ntan \u03b8=\\(\\frac{opp}{adj}\\)\n\u21d2tan \u03b8=\\(\\frac{7.63}{4.20}\\)\u21d2tan \u03b8 =1.8095\u21d2 \u03b8 = \\(tan^-1\\) (1.8095)\u03b8\u00a0= 61\u00b0\n\u2234The angle of the resultant force with the x-axis is 61\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2195",
+    "text": "A travelling wave of amplitude 0.80 m has a frequency of 16 Hz and a wave speed of 20 \\(ms-1\\)\nCalculate the wave number of the wave.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67940?exam_type=jamb&type=obj&page=439",
+    "correct_answer": "C",
+    "explanation": "A=0.8m; f=16Hz; v=20 \\(ms^-1\\); k=?\nv = f\u03bb\n\u03bb\u00a0=1.25m\n= k= \\(\\frac{2\u03c0}{\u03bb}\\)\u00a0=\\(\\frac{2\u00a0\u00d7\u00a03.142}{1.25}\\)k=\u00a0 5m ( to 1 s.f)\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2196",
+    "text": "The near point of a patient's eye is 50.0 cm. What power (in diopters) must a corrective lens have to enable the eye to see clearly an object 25.0 cm away?",
+    "options": {
+      "A": "2 diopters",
+      "B": "2.5 diopters",
+      "C": "0.5 diopters",
+      "D": "3 diopters"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67977?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "A",
+    "explanation": "The patient cannot see clearly an object closer than 50 cmTherefore, the patient needs a lens that would enable him see clearly, objects placed 25 cm from the lensSo, we take the object to a distance of 25 cm from the lens so that the image forms at 50 cm in front of the lensu=25cm ;v=-50cm (virtual image); p=\\(\\frac{1}{f}\\)=\\(\\frac{1}{u}\\) + \\(\\frac{1}{v}\\)\u21d2\\(\\frac{1}{f}\\) =\\(\\frac{1}{50}\\)\u21d2\\(\\frac{1}{f}\\) =\u00a0\\(\\frac{1}{25}\\)-\\(\\frac{1}{50}\\)\u21d2\\(\\frac{1}{f}\\) =\u00a0f = 50cm =0.5m\u21d2\\(\\frac{1}{f}\\) = \\(\\frac{2-1}{50}\\)p = \\(\\frac{1}{f}\\)p =\u00a0 \\(\\frac{1}{0.5}\\)p =\u00a0 \u00a02 diopters; The patient needs a converging lens with a power of 2 diopters\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2197",
+    "text": "Which of the following is/are not true about the heat capacity of a substance?\n(i) It is an intensive property\n(ii) Its S.I unit is \\(jK-1\\)\n(iii) It is an extensive property\n(iv) Its S.I unit is \\(jkg-1\\)",
+    "options": {
+      "A": "(i) and (iii) only",
+      "B": "(i), (ii) and (iv) only",
+      "C": "(i) and (iv) only",
+      "D": "(ii) and (iii) only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67984?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "C",
+    "explanation": "The S.I unit of heat capacity is JK-1 and it is an extensive property as it depends on the amount of substance present.Therefore, (i) and (iv) only arenottrue\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2198",
+    "text": "The pinhole camera works on",
+    "options": {
+      "A": "the principle of the reversibility of light",
+      "B": "the principle of the rectilinear propagation of light",
+      "C": "Huygen\u2019s principle",
+      "D": "the principle of total internal reflection of light"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/67986?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "B",
+    "explanation": "The pinhole camera works on the principle of the rectilinear propagation of light. This principle states that light travels in straight lines. When light passes through the tiny hole in a pinhole camera, it forms an inverted image on the opposite side of the camera. The size of the image depends on the distance between the object and the pinhole.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2199",
+    "text": "A step-down transformer is used on a 2.2 kV line to deliver 110 V. How many turns are on the primary windings if the secondary has 25 turns?",
+    "options": {
+      "A": "20",
+      "B": "250",
+      "C": "200",
+      "D": "500"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68000?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "D",
+    "explanation": "Ep = 2.2kV = 2200V; Es=110V; Ns=25; Np=?=\\(\\frac{E_p}{E_s}\\) =\u00a0\\(\\frac{N_p}{N_s}\\)\n= \\(\\frac{2200}{110}\\) = \\(\\frac{N_p}{25}\\)=110\u00a0\u00d7 Np = 2200\u00a0\u00d7 25=\\(N_p\\)\u00a0= \\(\\frac{55,000}{110}\\)\u2234\\(N_p\\)\u00a0= 500 turns\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2200",
+    "text": "A block of mass 0.5 kg is suspended at the 40 cm mark of a light metre rule AB that is pivoted at point E, the 90 cm mark, and is kept at equilibrium by a string attached at point D, the 60 cm mark, as shown in the figure above. Find the tension T in the string.\n\n[Take g = \\(10 ms-2\\) ]",
+    "options": {
+      "A": "16.67N",
+      "B": "15.67N",
+      "C": "14.67N",
+      "D": "18.67N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68009?exam_type=jamb&type=obj&page=440",
+    "correct_answer": "A",
+    "explanation": "W = mg = 0.5 x 10 = 5 NSince it's light, neglect the weight of the metre rule.The effective tension T acting in the vertical direction = T sin 30\u00b0From the second condition of equilibrium, sum of clockwise moments equal sum of anticlockwise momentsTaking moment at E\n\u21d2 T sin 30\u00b0\u00a0x 30 = 5 x 50\u21d2 \u2234T=250\nT\u00a0= \\(\\frac{250}{15}\\) = 16.67N\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2201",
+    "text": "A 35 k\u03a9 is connected in series with a resistance of 40 k\u03a9. What resistance R must be connected in parallel with the combination so that the equivalent resistance is equal to 25 k\u03a9?",
+    "options": {
+      "A": "40 k\u03a9",
+      "B": "37.5 k\u03a9",
+      "C": "45.5 k\u03a9",
+      "D": "30 k\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68011?exam_type=jamb&type=obj&page=441",
+    "correct_answer": "B",
+    "explanation": "For the combination in series;\n\u21d2R1 = 35k\u03a9 + 40k\u03a9 = 75k\u03a9R is combined with 75k\u03a9 in parallel to give 25k\u03a9=\u00a0 \\(\\frac{1}{R_eq}\\)\u00a0= \\(\\frac{1}{R}\\) +\u00a0\\(\\frac{1}{R}\\)=\u00a0 \u00a0\\(\\frac{1}{25}\\)\u00a0 \u00a0 \u00a0= \\(\\frac{1}{R}\\)\u00a0+\u00a0\\(\\frac{1}{75}\\)=\u00a0 \\(\\frac{1}{25}\\)\u00a0 \u00a0 \u00a0-\u00a0\\(\\frac{1}{75}\\)\u00a0+\u00a0\\(\\frac{1}{R}\\)\n=\u00a0\u00a0 \\(\\frac{3-1}{75}\\)\u00a0=\u00a0\\(\\frac{1}{R}\\)=\u00a0 \u00a0\\(\\frac{2}{75}\\)\u00a0 \u00a0=\u00a0\\(\\frac{1}{R}\\)=\u00a0 \u00a0\\(\\frac{75}{2}\\)\u00a0 = R\n;\u00a0 \u00a0 \u00a0 R = 37.5k \u03a9\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2202",
+    "text": "A piano wire 50 cm long has a total mass of 10 g and its stretched with a tension of 800 N. Find the frequency of the wire when it sounds its third overtone note.",
+    "options": {
+      "A": "800 Hz",
+      "B": "600 Hz",
+      "C": "400 Hz",
+      "D": "200 Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68048?exam_type=jamb&type=obj&page=441",
+    "correct_answer": "A",
+    "explanation": "T=800N; I=50cm=0.5m,m=10g=0.01kgfundamental freq:\u00a0\\(f_o\\)\u00a0=?\\(f_o\\)\u00a0= \\(\\frac{1}{21}\u221a{T}{\u03bc}\\)\u03bc\u00a0=\\(\\frac{m}{1}\\)=\\(\\frac{0.01}{0.5}\\)\u21d2\u00a0\\(f_o\\) =\\(\\frac{1}{2\u00d70.5}\\)\u221a\\(\\frac{800}{0.02}\\)\\(f_o\\) \u00a0\u21d2\u221a 40,000\n\u21d21st overtone = 2\\(f_o\\) =2\u00d7200 = 400Hz\u21d22nd overtone =3\\(f_o\\) =3\u00d7200=600Hz\u22343rd over tone= 4\\(f_o\\)\u00a0 =4\u00d7200=800Hz\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2203",
+    "text": "An object is placed 35 cm away from a convex mirror with a focal length of magnitude 15 cm. What is the location of the image?",
+    "options": {
+      "A": "26.25 cm behind the mirror",
+      "B": "10.5 cm behind the mirror",
+      "C": "26.25 cm in front of the mirror",
+      "D": "10.5 cm in front of the mirror"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68053?exam_type=jamb&type=obj&page=441",
+    "correct_answer": "B",
+    "explanation": "f = 15cm (diverging mirror);\u00a0\u00a0u = -35cm(because object is in front of the mirror)\u00a0v=?\u21d2\\(\\frac{1}{f}\\)\u00a0=\u00a0\\(\\frac{1}{v}\\) +\u00a0\\(\\frac{1}{u}\\)\u21d2\u00a0\\(\\frac{1}{15}\\)\u00a0=\u00a0\\(\\frac{1}{v}\\) -\u00a0\\(\\frac{1}{35}\\)\u21d2\u00a0\\(\\frac{1}{15}\\) + \\(\\frac{1}{35}\\) =\u00a0\\(\\frac{1}{v}\\)\u21d2\u00a0\\(\\frac{105}{10}\\)\u00a0=\u00a0\\(\\frac{1}{v}\\)v =\u00a0\\(\\frac{105}{10}\\)\u00a0= 10.5cm\u2234The image is 10.5cm behind the mirror, since v is positive.",
+    "year": "2023"
+  },
+  {
+    "number": "2204",
+    "text": "A relative density bottle has a mass of 19 g when empty. When it is completely filled with water, its mass is 66 g. What will be its mass if completely filled with alcohol of relative density 0.8?",
+    "options": {
+      "A": "47 g",
+      "B": "52.8 g",
+      "C": "37.6 g",
+      "D": "56.6 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68070?exam_type=jamb&type=obj&page=441",
+    "correct_answer": "D",
+    "explanation": "Let mb=mass of empty bottle,\\(m_w\\)=mass of water only and\n\\(m_a\\)= mass of alcohol only\ngiven; \\(m_b\\)=19g\\(m_b\\)\u00a0+\u00a0\\(m_w\\)\u00a0= 66g\\(m_b\\)\u00a0+\u00a0\\(m_a\\)\u00a0= ?R.d=0.8R.d=mass of alcohol\n\u21d2\\(\\frac{mass of alcohol}{mass of equal volume of water}\\)\n\u21d2 mass of equal volume of water\u00a0= \\(m_w\\)=66-19=47g\u21d20.8 =\u00a0\\(\\frac{m_a}{47}\\)\u21d2\\(m_a\\)=0.8\u00d747 =37.6g;\u00a0\\(m_b\\)\u00a0+\u00a0\\(m_a\\) = 19+37.6=56.6g\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2205",
+    "text": "How much work is done against the gravitational force on a 3.0 kg object when it is carried from the ground floor to the roof of a building, a vertical climb of 240 m?",
+    "options": {
+      "A": "7.2 kJ",
+      "B": "4.6 kJ",
+      "C": "6.8 kJ",
+      "D": "8.4 kJ"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68116?exam_type=jamb&type=obj&page=441",
+    "correct_answer": "A",
+    "explanation": "The work done against the gravitational force is calculated using the formula W = mgh, where m is the mass of the object, g is the acceleration due to gravity (approximately \\(9.8 ms^2\\) on Earth), and h is the height. Substituting the given values, we get W = 3.0 kg * \\(9.8 m/s^2\\) * 240 m = 7.2 kJ. Therefore, the correct answer is '7.2 kJ'.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2206",
+    "text": "A beam of light travelling in water is incident on a glass which is immersed in the water. The incident beam makes an angle of \\(40^o\\) with the normal. Calculate the angle of refraction in the glass.\n\n[Refractive index of water = 1.33, Refractive index of glass = 1.5]",
+    "options": {
+      "A": "\\(29.36^o\\)",
+      "B": "\\(25.37^o\\)",
+      "C": "\\(37.21^o\\)",
+      "D": "\\(34.75^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68117?exam_type=jamb&type=obj&page=442",
+    "correct_answer": "D",
+    "explanation": "\\(n_1\\)=1.33; \\(n_2\\)=1.5;\u00a0 i=40\u00b0; r= ?from snell's law:\\(n_1\\) x sin i=\\(n_2\\)x sin r\u21d21.33 x sin 40\u00b0=1.5 x sin r\u21d2sin r = 0.5700\u21d2r = \\(sin^{-1}\\) (0.5700)\u21d2 r = 34.75\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2207",
+    "text": "An open-tube mercury manometer is used to measure the pressure in a gas tank. When the atmospheric pressure is 101,325 \\(P_a\\), what is the absolute pressure in \\(P_a\\) in the tank if the height of the mercury in the open tube is 25 cm higher. density of mercury = \\(13600kg/m^3, g = 9.8m/s^2\\)",
+    "options": {
+      "A": "108,986 Pa",
+      "B": "165,238 Pa",
+      "C": "122,364 Pa",
+      "D": "134,645 Pa"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68118?exam_type=jamb&type=obj&page=442",
+    "correct_answer": "D",
+    "explanation": "density\u00a0(\u03c1) = 13600 \\(kgm^{-3}\\); g =\\(9.8 ms^{-2}\\)\\(P_{atm}\\) =101,325 Pa;\u00a0 \u03c1=13600 \\(kgm^{-3}\\)Pabs=\\(P_{atm}\\)+\u03c1gh\n\u21d2Pabs=101,325+13600 x 9.8 x 0.25\n\u21d2Pabs=101,325+33320\u21d2\u00a0Pabs=134,645Pa\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2208",
+    "text": "The sensitivity of a thermometer is",
+    "options": {
+      "A": "All of the above",
+      "B": "how quickly a temperature change can be detected",
+      "C": "the difference between the maximum and the minimum temperature",
+      "D": "the smallest temperature change that can be detected or measured"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68119?exam_type=jamb&type=obj&page=442",
+    "correct_answer": "D",
+    "explanation": "The sensitivity of a thermometer is defined as the smallest temperature change that can be detected or measured, NOT how quickly that temperature change can be detected.In contrast, the difference between the maximum and the minimum temperature is the range of a thermometer\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2209",
+    "text": "The diagram above illustrates the penetrating power of some types of radiation. X, Y and Z are likely",
+    "options": {
+      "A": "X = \u03b1-particle; Y = \u03b3-ray; Z = \u03b2-particle",
+      "B": "X = \u03b1-particle; Y = \u03b2-particle; Z = \u03b3-ray",
+      "C": "X = \u03b3-ray; Y = \u03b1-particle; Z = \u03b2-particle",
+      "D": "X = \u03b2-particle; Y = \u03b3-ray; Z = \u03b1-particle"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68121?exam_type=jamb&type=obj&page=442",
+    "correct_answer": "C",
+    "explanation": "The penetrating power of alpha rays, beta rays, and gamma rays varies greatly. Alpha particles can be blocked by a few pieces of paper. Beta particles pass through paper but are stopped by aluminum foil. Gamma rays are the most difficult to stop and require concrete, lead, or other heavy shielding to block them.Therefore, X = \u03b3-ray; Y = \u03b1-particle; Z = \u03b2-particle\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2210",
+    "text": "An explosion occurs at an altitude of 312 m above the ground. If the air temperature is -10.00\u00b0C, how long does it take the sound to reach the ground?\n\n[velocity of sound at \\(0^oC\\) = 331 ms-1]",
+    "options": {
+      "A": "0.94s",
+      "B": "0.96s",
+      "C": "0.93s",
+      "D": "0.95s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68564?exam_type=jamb&type=obj&page=442",
+    "correct_answer": "B",
+    "explanation": "d=312m.,T\u00a0=263\\(-10^\u00b0c\\)\u00a0= -10+273K\u00a0= 263K, t=?v= 331\u221a \\(\\frac{T}{273}\\)\u21d2 v\u00a0= 331\u00d7\u221a\u00a0\\(\\frac{263}{273}\\)\u21d2 v\u00a0= 324.88\u00a0\\(ms^-1\\)\u21d2 v\u00a0= \\(\\frac{d}{t}\\)t\u00a0= \\(\\frac{d}{t}\\) = \\(\\frac {312}{324.88}\\)t\u00a0= 0.96s\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2211",
+    "text": "A charge of \\(4.6 \u00d7 10^{-5}\\)C is placed in an electric field of intensity \\(3.2 \u00d7 10^4\\) \\(Vm^{-1}\\). What is the force acting on the electron?",
+    "options": {
+      "A": "1.5 N",
+      "B": "3.7 N",
+      "C": "4.2 N",
+      "D": "2.5 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68565?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "A",
+    "explanation": "q=\\(4.6 \u00d7 10^{-5}\\), C=\u00a0\u00a0 \\(3.2 \u00d7 10^4\\) \\(Vm^{-1}\\) F= ?F=qE\u21d2\u00a0\\(4.6 \u00d7 10^{-5}\\)C\u00a0\u00d7 \\(3.2 \u00d7 10^4\\); F= 1.5\u00a0N\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2212",
+    "text": "The branch of physics that deals with the motion of objects and the forces acting on them is called:",
+    "options": {
+      "A": "Electromagnetism",
+      "B": "Thermodynamics",
+      "C": "Mechanics",
+      "D": "Quantum mechanics"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68566?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "C",
+    "explanation": "Mechanics is the branch of physics that deals with the motion of objects and the forces acting on them. It is the foundation of all other branches of physics, and it is used to study everything from the motion of planets to the motion of electrons.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2213",
+    "text": "The working of the beam balance is based on the principle of",
+    "options": {
+      "A": "moments",
+      "B": "conservation of energy",
+      "C": "equivalence",
+      "D": "floatation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68567?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "A",
+    "explanation": "The working of the beam balance is based on the principle of moments. The principle of moments states that the sum of the clockwise moments on a beam must be equal to the sum of the counterclockwise moments on the beam. This means that the weight of the object on the left side of the beam must be multiplied by the distance from the fulcrum to the left side of the beam, and the weight of the object on the right side of the beam must be multiplied by the distance from the fulcrum to the right side of the beam. If these two products are equal, then the beam will be in equilibrium.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2214",
+    "text": "Which of the following is a type of incandescent light source?",
+    "options": {
+      "A": "Fluorescent lamp",
+      "B": "LED lamp",
+      "C": "Tungsten filament lamp",
+      "D": "Neon lamp"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68569?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "C",
+    "explanation": "An incandescent light source is a type of light source that produces light by heating a material until it glows. The material that is heated is usually a metal, such as tungsten. Fluorescent lamps, LED lamps, and neon lamps are all examples of non-incandescent light sources.Fluorescent lamps produce light by passing an electric current through a gas, which causes the gas to emit ultraviolet light. The ultraviolet light then causes a coating on the inside of the lamp to fluoresce, which produces visible light.LED lamps produce light by passing an electric current through a semiconductor material, which causes the material to emit photons. The photons then produce visible light.Neon lamps produce light by passing an electric current through a gas, which causes the gas to emit visible light.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2215",
+    "text": "From the diagram above, if the potential differences across the resistor, capacitor, and inductor are 30V, 120V, and 60V, respectively, the effective potential difference is",
+    "options": {
+      "A": "81",
+      "B": "67",
+      "C": "59",
+      "D": "73"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68570?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "B",
+    "explanation": "\\(V_L\\)=60 V ,\\(V_C\\) = 120\u00a0V ,\u00a0 \\(V_R\\) =30V\n;V\u00a0= ?; \\(V^2\\) = \\(V_R^2\\) +\u00a0 \\(V_L\\) -\u00a0 \\(V_C^2\\)= \\(V^2\\)\u00a0= \\(30^2\\)\u00a0\u00a0+ \\(60 - 120^2\\)=\u00a0\\(V^2\\)\u00a0\u00a0= 900\u00a0+ 3600=\u00a0\\(V^2\\)\u00a0\u00a0= 4500=\u00a0 V\u00a0=\u221a4500\u00a0= 67V\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2216",
+    "text": "When light of a certain frequency is incident on a metal surface, no photoelectrons are emitted. If the frequency of the light is increased, what happens to the stopping potential?",
+    "options": {
+      "A": "The stopping potential does not change.",
+      "B": "The stopping potential decreases.",
+      "C": "The stopping potential can either increase or decrease, depending on the intensity of the light.",
+      "D": "The stopping potential increases."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68571?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "D",
+    "explanation": "The stopping potential is the voltage that is required to stop the emitted photoelectrons from reaching the anode. When the frequency of the light is increased, the kinetic energy of the emitted photoelectrons also increases. This means that a higher stopping potential will be required to stop the photoelectrons from reaching the anode.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2217",
+    "text": "Which of the following is NOT a limitation of experimental measurements?",
+    "options": {
+      "A": "Systematic error",
+      "B": "Instrument resolution",
+      "C": "Random errors",
+      "D": "Human error"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68572?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "B",
+    "explanation": "Instrument resolution is not a limitation of experimental measurements. It is the smallest change in a measured quantity that can be detected by an instrument. While instrument resolution limits the accuracy of a measurement, it is not a limitation of experimental measurements itself.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2218",
+    "text": "Which of the following liquids has the highest surface tension?",
+    "options": {
+      "A": "Soapy water",
+      "B": "Water",
+      "C": "Mercury",
+      "D": "Oil"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68573?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "C",
+    "explanation": "Surface tension is the force that acts on the surface of a liquid, tending to minimize the surface area. It is caused by the cohesive forces between the molecules of the liquid. The stronger the cohesive forces, the higher the surface tension.Mercury has the highest surface tension of all the liquids listed. This is because the atoms of mercury are very close together, and they have a strong attraction for each other. This strong cohesive force results in a high surface tension.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2219",
+    "text": "What is the name of the model of the atom that describes electrons as orbiting the nucleus in specific energy levels?",
+    "options": {
+      "A": "Bohr model",
+      "B": "Dalton model",
+      "C": "Rutherford model",
+      "D": "Thomson model"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68574?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "A",
+    "explanation": "The Bohr model is a model of the atom that describes electrons as orbiting the nucleus in specific energy levels. This model was developed by Niels Bohr in 1913 and it is based on the work of Max Planck and Albert Einstein. The Rutherford model, the Thomson model, and the Dalton model are all older models of the atom that are not as accurate as the Bohr model.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2220",
+    "text": "The electrolyte used in the Nickel-Iron (NiFe) accumulator is",
+    "options": {
+      "A": "dilute tetraoxosulphate(VI) acid",
+      "B": "barium chloride solution",
+      "C": "potassium hydroxide solution",
+      "D": "sodium hydroxide solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68575?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "C",
+    "explanation": "The electrolyte used in the Nickel-Iron (NiFe) accumulator is potassium hydroxide solution. It is a non-flammable, non-toxic, and relatively stable electrolyte. It is also a good conductor of electricity, which is important for the operation of the battery.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2221",
+    "text": "Which of the following materials is a good insulator?",
+    "options": {
+      "A": "Silver",
+      "B": "Water",
+      "C": "Rubber",
+      "D": "Copper"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68576?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "C",
+    "explanation": "Rubber is a good insulator because it does not allow electrons to flow through it easily. Copper, silver, and water are all good conductors of electricity.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2222",
+    "text": "A generator manufacturing company accidentally made an AC generator instead of a DC generator. To fix this error,",
+    "options": {
+      "A": "the magnetic field needs to be made stronger",
+      "B": "the split rings should be replaced with slip rings",
+      "C": "the number of turns of the armature coil needs to be decreased",
+      "D": "the slip rings should be replaced with split rings"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68577?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "D",
+    "explanation": "An AC generator uses slip rings to transfer the induced current smoothly to the circuit. A DC generator uses split rings to transfer the induced current to the circuit and also convert the induced AC into pulsating DC. So, to convert an AC generator into a DC generator, the slip rings needs to be replaced with split rings.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2223",
+    "text": "Which of the following is NOT an example of elementary modern physics?",
+    "options": {
+      "A": "Classical mechanics",
+      "B": "Quantum mechanics",
+      "C": "Special relativity",
+      "D": "Nuclear physics"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68578?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "A",
+    "explanation": "Classical mechanics is a branch of physics that deals with the motion of macroscopic objects. It is based on the principles of Newton's laws of motion and is not considered to be part of elementary modern physics.The other three options, quantum mechanics, special relativity, and nuclear physics, are all considered to be part of elementary modern physics because they deal with the behavior of matter and energy at the atomic and subatomic levels.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2224",
+    "text": "Which of the following is an example of a couple?",
+    "options": {
+      "A": "All of the above.",
+      "B": "The forces that are applied to the handle of a screwdriver when you twist it.",
+      "C": "The forces that are applied to a cross wench to loosen or tighten the lug nuts on a wheel of a car.",
+      "D": "The forces that are applied to the steering wheel of a car when you turn it."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68579?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "A",
+    "explanation": "A couple is a pair of forces that are equal in magnitude but opposite in direction, and that are applied to a body at different points. The forces of a couple do not produce any translation, but they do produce a rotation.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2225",
+    "text": "A positively charged particle is placed near a negatively charged particle. What is the direction of the electric force between the two particles?",
+    "options": {
+      "A": "The electric force is directed from the negative particle to the positive particle.",
+      "B": "The electric force is zero.",
+      "C": "The direction of the electric force cannot be determined.",
+      "D": "The electric force is directed from the positive particle to the negative particle."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68580?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "D",
+    "explanation": "The electric force between two charged particles is always directed from the positive particle to the negative particle. This is because opposite charges attract each other, while like charges repel each other.",
+    "year": "2023"
+  },
+  {
+    "number": "2226",
+    "text": "When a water droplet is placed on a freshly cut piece of wood, it spreads out to form a thin layer because the wood is",
+    "options": {
+      "A": "not at equilibrium with the water",
+      "B": "cohesive to water",
+      "C": "at equilibrium with the water",
+      "D": "adhesive to water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68581?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "D",
+    "explanation": "Adhesive surfaces are surfaces that are wetted by water. This means that the water molecules are attracted to the wood surface, and they spread out to form a thin layer in order to maximize their contact with the surface. The adhesive forces between the water molecules and the wood surface are stronger than the cohesive forces between the water molecules, resulting in a thin layer.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2227",
+    "text": "Which of the following statements is correct about the angle of dip at various points on Earth?",
+    "options": {
+      "A": "The angle of dip is zero at the equator and 90 degrees at the magnetic poles.",
+      "B": "The angle of dip is greater at higher altitudes than at lower altitudes",
+      "C": "The angle of dip is positive in the northern hemisphere and negative in the southern hemisphere.",
+      "D": "The angle of dip is constant at all points on Earth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68582?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "A",
+    "explanation": "The angle of dip is the angle between the direction of the intensity of the total magnetic field of Earth and a horizontal line in the magnetic meridian. It is also known as the magnetic inclination. The angle of dip ranges from 0 degrees at the magnetic equator to 90 degrees at the magnetic poles.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2228",
+    "text": "In the diagram above, if the south poles of two magnets stroke a steel bar, the polarities at X and Y will respectively be",
+    "options": {
+      "A": "south and north",
+      "B": "north and south",
+      "C": "north and north",
+      "D": "south and south"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68583?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "C",
+    "explanation": "The polarities at X and Y would be north and north.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2229",
+    "text": "Which of the following types of electromagnetic waves is used in night vision goggles?",
+    "options": {
+      "A": "Microwaves",
+      "B": "Ultraviolet waves",
+      "C": "Infrared waves",
+      "D": "Radio waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68584?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "C",
+    "explanation": "Infrared waves are used in night vision goggles because they can penetrate the darkness and allow people to see objects that are not visible to the naked eye\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2230",
+    "text": "Which of the following is a type of wave that is both mechanical and longitudinal?",
+    "options": {
+      "A": "Water waves",
+      "B": "Seismic waves",
+      "C": "Sound waves",
+      "D": "Light waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68585?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "C",
+    "explanation": "Sound waves are mechanical waves that are longitudinal. This means that the particles of the medium through which sound waves travel, such as air or water, move back and forth in the same direction as the wave travels.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2231",
+    "text": "In an AC circuit, resonance occurs when the impedance of the circuit is:",
+    "options": {
+      "A": "Zero",
+      "B": "Maximum",
+      "C": "Equal to the capacitive reactance of the circuit",
+      "D": "Minimum"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68586?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "D",
+    "explanation": "Resonance in an AC circuit occurs when the inductive reactance (XL) is equal to the capacitive reactance (XC). This is because at this point, the two reactances cancel each other out, leaving only the resistance of the circuit. As a result, the impedance of the circuit is minimized.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2232",
+    "text": "The pitch of a musical note is determined by the frequency of the sound wave that it produces. If two instruments have the same frequency, which of the following factors will most affect the difference in their pitches?",
+    "options": {
+      "A": "The shape of the instrument",
+      "B": "The tension of the string",
+      "C": "The size of the instrument",
+      "D": "The material of the instrument"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/68587?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "B",
+    "explanation": "The frequency of a sound wave is proportional to the tension of the string. If two instruments have the same frequency, but one has a tighter string, then the instrument with the tighter string will have a higher pitch.The other factors listed, such as the size of the instrument, the material of the instrument, and the shape of the instrument, will also affect the pitch of the instrument, but they will have a smaller effect than the tension of the string.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  },
+  {
+    "number": "2233",
+    "text": "A metal sphere is placed on an insulating stand. A negatively charged rod is brought close to it. If the sphere is earthed and the rod is taken away, what will be the charge on the sphere?",
+    "options": {
+      "A": "The sphere will remain neutral.",
+      "B": "The sphere will have a net negative charge.",
+      "C": "The sphere will have a net positive charge.",
+      "D": "The sphere will become polarized"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69768?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "C",
+    "explanation": "When a negatively charged rod is brought close to a metal sphere, the free electrons in the sphere are repelled from the rod and move to the other end of the sphere. This creates a region of positive charge on the side of the sphere closest to the rod, and a region of negative charge on the opposite side. The process of charge distribution stops when the net force on the free electrons inside the metal is equal to zero.If the sphere is then earthed, the free electrons will flow from the sphere to the ground, leaving the sphere with a net positive charge.\nThere is an explanation video availablebelow.",
+    "year": "2023"
+  }
+]

@@ -1,0 +1,1751 @@
+[
+  {
+    "number": "2234",
+    "text": "The stress experienced by a wire of diameter \\(\\frac{\\text{y}}{\\pi}\\)m loaded by a weight y\\(^2\\)N is",
+    "options": {
+      "A": "\\(\\pi\\)Nm\\(^{-2}\\)",
+      "B": "2\\(\\pi\\)Nm\\(^{-2}\\)",
+      "C": "4\\(\\pi\\)Nm\\(^{-2}\\)",
+      "D": "8\\(\\pi\\)Nm\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70351?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "C",
+    "explanation": "Stress = \\(\\frac{force}{area}\\)\nForce = weight = y\\(^2\\), Area = \\(\\pi\\)r\\(^2\\), Diameter =\u00a0\\(\\frac{\\text{y}}{\\pi}\\)m\u00a0\u21d2 r =\u00a0\\(\\frac{\\text{y}}{2\\pi}\\)m\nStress = \\(\\frac{y^2}{\\pi \\times\\frac{y^2}{(2\\pi)^2}}\\)\n= \\(\\frac{y^2}{\\pi y^2} \\times 4(\\pi)^2\\) = 4\\(\\pi\\)Nm\\(^{-2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2235",
+    "text": "Under which conditions is work done",
+    "options": {
+      "A": "A man supports a heavy load on his head with hands.",
+      "B": "A woman holds a pot of water",
+      "C": "A boy climbs onto a table",
+      "D": "A man pushes against a stationary petrol tanker"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70352?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "C",
+    "explanation": "Work is done when a force causes an object to move in the direction of that force. OPTION C. A boy climbs onto a table.\nWork done (force is applied to lift himself).\nwhen a boy climbs onto a table, he exerts a force to lift his body against gravity. As he moves upward, he is doing work because there is a displacement in the direction of the applied force. Thus, work is done in this case.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2236",
+    "text": "The mechanical advantage of the machine shown above",
+    "options": {
+      "A": "7.5",
+      "B": "15.5",
+      "C": "30.0",
+      "D": "60.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70353?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "C",
+    "explanation": "Mechanical advantage of a machine = \\(\\frac{\\text{LOAD}}{\\text{EFFORT}}\\)\nIn this case of a wedge, we can consider the dimensions given:\nLoad distance (height of the machine):\u00a015 cmEffort distance (movement of the effort):\u00a00.5 cm\nM.A = \\(\\frac{15}{0.5}\\) = 30.0\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2237",
+    "text": "Rainbow is formed when sunlight undergoes",
+    "options": {
+      "A": "reflection",
+      "B": "refraction",
+      "C": "dispersion",
+      "D": "diffraction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70355?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "C",
+    "explanation": "A rainbow is formed by theDISPERSIONof sunlight by spherical raindrops floating in the air.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2238",
+    "text": "Find the value of a\u00a0capacitor with voltage 5V and 30C.",
+    "options": {
+      "A": "7f",
+      "B": "6f",
+      "C": "15f",
+      "D": "0.17f"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70356?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "B",
+    "explanation": "The capacitance of a capacitor is given by: C = \\(\\frac{Q}{V}\\)\nwhere Q = quantity of charges, and V = voltage\nQ = 30c and V = 5v\nC = \\(\\frac{Q}{V}\\) =\u00a0C = \\(\\frac{30}{5}\\) = 6\u00a0farad\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2239",
+    "text": "When a bus is accelerating, it must be",
+    "options": {
+      "A": "changing its speed",
+      "B": "changing its velocity",
+      "C": "changing its position",
+      "D": "changing its direction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70357?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "B",
+    "explanation": "Acceleration is defined as the rate of change of velocity. This means a bus can accelerate by changing its speed, direction, or both. However, the most general definition of acceleration involves a change in velocity.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2240",
+    "text": "The friction due to air mass can be reduced by",
+    "options": {
+      "A": "streaming",
+      "B": "lubricating",
+      "C": "propeller",
+      "D": "polishing"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70358?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "A",
+    "explanation": "Streaming refers to the streamlined shape of an object, which helps minimize air resistance (drag) as it moves through the air. This is often applied in aerodynamics to improve the efficiency of vehicles and objects moving through air.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2241",
+    "text": "Which of the following operates based on magnetic effect of electric current?",
+    "options": {
+      "A": "electric heater",
+      "B": "photocell",
+      "C": "Dynamo",
+      "D": "Cold cathode"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70359?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "C",
+    "explanation": "A dynamo converts mechanical energy into electrical energy using the principle of electromagnetic induction, which is a magnetic effect of electric current.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2242",
+    "text": "When a charged ebonite rod is brought near a charged glass rod, there will be",
+    "options": {
+      "A": "attraction",
+      "B": "repulsion",
+      "C": "spark",
+      "D": "no force experienced"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70360?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "A",
+    "explanation": "Ebonite rods are negatively charged, while glass rods are positively charged when rubbed. Opposite charges attract each other, leading to an attractive force between the rods.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2243",
+    "text": "Pilots uses aneroid barometer to know the height above sea level because",
+    "options": {
+      "A": "Very accurate",
+      "B": "Small and convenient",
+      "C": "Heavy and huge",
+      "D": "Costly"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70361?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "B",
+    "explanation": "Aneroid barometers are compact and lightweight, making them suitable for use in aircraft where space and weight are critical considerations. They provide a reliable measurement of altitude based on changes in atmospheric pressure.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2244",
+    "text": "A light ray passing from air into water at an angle of 30\u00ba from the normal in air would",
+    "options": {
+      "A": "make an angle greater than 30\\(^0\\) in water surface",
+      "B": "be completely absorbed by the water surface",
+      "C": "be completely reflected by the water surface",
+      "D": "make an angle less than 30\\(^0\\) from the normal in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70362?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "D",
+    "explanation": "Observations show that when the light travels from a medium A(air) to a more dense medium B(water), the refracted ray bends towards the normal and the angle of refraction (r) is, therefore, less than the angle of incidence. vice versa.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2245",
+    "text": "A solid cube of aluminum is 1.5cm on each edge. The density of aluminum is 2700kgm\\(^{-1}\\). Find the mass of the cube.",
+    "options": {
+      "A": "7.5g",
+      "B": "9.1g",
+      "C": "12.0g",
+      "D": "15.0g"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70363?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "B",
+    "explanation": "Density = \\(\\frac{\\text{mass}}{\\text{volume}}\\)\nVolume of solid cube = s\\(^3\\) = 1.5\\(^3\\) = 3.375cm\\(^3\\)\nDensity = 2700kgm\\(^{-3}\\) \u21d2\u00a02.7gcm\\(^{-3}\\)\n2.7 = \\(\\frac{\\text{m}}{3.375}\\)\nmass of the cube = 2.7 x 3.375 = 9.1125g \\(\\approxeq\\)\u00a09.1g\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2246",
+    "text": "The value of R required to make the galvanometer measure voltage up to 40V in the diagram above",
+    "options": {
+      "A": "1885\\(\\Omega\\)",
+      "B": "1990\\(\\Omega\\)",
+      "C": "1995\\(\\Omega\\)",
+      "D": "1100\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70364?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "To find the value of\u00a0R required to make the galvanometer measure up to 40 V, we can use the following formula for a series circuit involving a galvanometer\nV = I ( R + r )\nR = \\(\\frac{\\text{V}}{\\text{I}}\\) - r\nwhere R = resistance in series = ?, V = total voltage = 40V, I = current through galvanometer = 20Am = 0.02A and r = internal resistance = 10\\(\\Omega\\)\nR = \\(\\frac{40}{0.02}\\) - 10\nR = 2000 - 10 = 1990\\(\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2247",
+    "text": "5 X 10\\(^{-3}\\)kg of liquid at its boiling point is evaporated in 20s by the heat generated by a resistor of 2\\(\\Omega\\) when a current of 10A is used. The specific latent heat of vaporization\u00a0of the liquid is",
+    "options": {
+      "A": "8.0 x 10\\(^4\\)Jkg\\(^{-1}\\)",
+      "B": "8.0 x 10\\(^5\\)Jkg\\(^{-1}\\)",
+      "C": "8.0 x 10\\(^6\\)Jkg\\(^{-1}\\)",
+      "D": "8.0 x 10\\(^7\\)Jkg\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70365?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "Electrical heat generated = quantity of heat required to change water from liquid to vapour\nI\\(^2\\) R t = mL\nI = current = 10A, R = resistance =\u00a02\u03a9, t = time = 20s, m = mass of water =\u00a05 X 10\\(^{-3}\\)kg and L = specific latent heat of vaporization.\n10\\(^2\\) x 2 x 20\u00a0= 5 X 10\\(^{-3}\\)L\n4000 =\u00a0 5 X 10\\(^{-3}\\)L\nL = \\(\\frac{4000}{5\\times10^{-3}}\\) = 800000\u00a0\u21d4 8.0 x 10\\(^5\\)Jkg\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2248",
+    "text": "If the S.V.P of water vapour was 13.5mmHg at 33\u00baC and 7.3mmHg at 7\u00baC. Find the percentage relative of the air on a day when average air temperature was 33\u00baC and dew point was 7\u00baC.",
+    "options": {
+      "A": "55%",
+      "B": "60%",
+      "C": "54%",
+      "D": "51%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70366?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "C",
+    "explanation": "Relative humidity = \\(\\frac{\\text{S.V.P at dew point}}{\\text{S.V.P at air temperature}}\\)\nS.V.P at dew point =\u00a0\u00a07.3mmHg\nS.V.P at air temperature =\u00a013.5mmHg\nR.H = \\(\\frac{7.3}{13.5}\\) x 100 \\(\\approxeq\\) 54%\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2249",
+    "text": "Electrolysis can be investigated using",
+    "options": {
+      "A": "Voltmeter",
+      "B": "Ammeter",
+      "C": "Galvanometer",
+      "D": "Voltameter"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70367?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "D",
+    "explanation": "A voltameter measures the amount of substance that is deposited during electrolysis, allowing for the study of the electrochemical process. It provides information about the quantity of electric charge passed through the electrolyte and the resulting chemical changes. Voltameter is also called an Electrolytic cell.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2250",
+    "text": "A wheelbarrow inclined at 60\u00ba to the horizontal is pushed with a force of 150N. What is the horizontal component of the applied force",
+    "options": {
+      "A": "130N",
+      "B": "75N",
+      "C": "60N",
+      "D": "50N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70368?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "The horizontal component F\\(_x\\) can be calculated using the formula: F\\(_x\\)\u00a0 = F\u22c5 cos (\\(\\theta\\))\nF = 150N and \\(\\theta\\) = 60\u00ba\nF\\(_x\\) = 150 x 0.5 = 75N (cos 60\u00ba = 0.5)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2251",
+    "text": "In a solar panel, solar beam is concentrated by using",
+    "options": {
+      "A": "Concave mirror",
+      "B": "Convex mirror",
+      "C": "Plane mirror",
+      "D": "Triangular mirror"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70369?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "A",
+    "explanation": "Concave mirrors are designed to focus sunlight onto a specific area, enhancing the intensity of the solar energy. This concentrated energy can then be utilized for heating or converted into electricity in solar thermal and photovoltaic systems.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2252",
+    "text": "A rectifier is a device that changes",
+    "options": {
+      "A": "D.C to D.C",
+      "B": "D.C to A.C",
+      "C": "A.C to A.C",
+      "D": "A.C to C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70370?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "D",
+    "explanation": "A rectifier is a device that converts alternating current (AC) into direct current (DC). It enables the flow of current in one direction while blocking it in the opposite direction, thus transforming AC voltage into a form of DC voltage suitable for different applications.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2253",
+    "text": "The dimension of young's modulus,E is given by",
+    "options": {
+      "A": "MLT\\(^{-1}\\)",
+      "B": "MT\\(^{-2}\\)",
+      "C": "ML\\(^{-1}\\)T\\(^{-2}\\)",
+      "D": "M\\(^{-1}\\)T"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70371?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "C",
+    "explanation": "Young's modulus\u00a0E is given by the formula: E = \\(\\frac{\\text{STRESS}}{\\text{STRAIN}}\\)\nStress = \\(\\frac{Force}{Area}\\)\nDimension of force = MLT\\(^{-2}\\)\nDimension of Area = L\\(^2\\)\nDimension of strain = 1(dimensionless)\nE = \\(\\frac{MLT^{-1}}{L^2}\\) = ML\\(^{-1}\\)T\\(^{-2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2254",
+    "text": "The moon's acceleration due to gravity is \\(\\frac{1}{6}\\) of the earth's value. The weight of a bowling ball on the moon would be",
+    "options": {
+      "A": "6 times its weight on the earth",
+      "B": "\\(\\frac{1}{6}\\) of its weight on the earth",
+      "C": "36 times its weight on the earth",
+      "D": "equal to its weight on the earth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70372?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "B",
+    "explanation": "W\\(_{moon}\\) = mass x g = mass x \\(\\frac{10}{6}\\) = \\(\\frac{10m}{6}\\)N\nW\\(_{earth}\\) = mass x g = mass x 10 = 10m\nmass = constant\ng on earth = 10m/s\\(^2\\) and g on moon = \\(\\frac{1}{6}\\) x that on earth\nTherefore,\u00a0The weight of a bowling ball on the moon would be\u00a0\\(\\frac{1}{6}\\), the weight on earth.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2255",
+    "text": "If a sheet of an insulating material is inserted between the plates of an air capacitor, the capacitance will",
+    "options": {
+      "A": "become zero",
+      "B": "decrease",
+      "C": "increase",
+      "D": "remain unchanged"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70373?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "C",
+    "explanation": "If a sheet of an insulating material (dielectric) is inserted between the plates of an air capacitor, the capacitance will increase.\nWhen a dielectric material is inserted: The permittivity \\(\\epsilon\\)\u00a0increases (since the permittivity of the dielectric is greater than that of air),This results in an increase in capacitance.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2256",
+    "text": "288KJ is conducted across two opposite faces of a 3m cube of temperature gradient 90\u00baCm\\(^{-1}\\) in 7200s. Calculate the thermal conductivity.",
+    "options": {
+      "A": "5.0 x 10\\(^{-2}\\)Wm\\(^{-1}\\)k\\(^{-1}\\)",
+      "C": "5.2 x 10\\(^{-2}\\)Wm\\(^{-1}\\)k\\(^{-1}\\)",
+      "D": "5.1 x 10\\(^{-2}\\)Wm\\(^{-1}\\)k\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70374?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "A",
+    "explanation": "k = \\(\\frac{Q.d}{A.\u00a0\u0394T .t}\\)\nd = thickness = 3m\nA = 9m\\(^2\\)\nQ = 288kJ = 288000J, t = 7200s,\u00a0\u0394T = 90\u00baC/m\u00a0\u2192 90K/m x 3 = 270K\nk = \\(\\frac{288000 \\times 3}{9 \\times 270\u00a0\\times 7200}\\)\nk =\u00a04.93 x 10\\(^{-2}\\)Wm\\(^{-1}\\)k\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2257",
+    "text": "A sonometer's fundamental note is 50Hz, what is the new frequency when the tension is four times the original?",
+    "options": {
+      "A": "25Hz",
+      "B": "100Hz",
+      "C": "200Hz",
+      "D": "250Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70404?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "B",
+    "explanation": "For a sonometer, F \\(\\propto\\) \\(\\sqrt{T}\\)\nF = k \\(\\sqrt{T}\\)\nF\\(_1\\) = 50Hz, F\\(_2\\) = ?\nT\\(_1\\) = T,\u00a0 T\\(_2\\) = 4T\n\\(\\frac{F_1}{\\sqrt{T_1}} =\u00a0\\frac{F_2}{\\sqrt{T_2}}\\)\n\\(\\frac{50}{\\sqrt{T}} =\u00a0\\frac{F_2}{\\sqrt{4T}}\\)\nF\\(_2\\) = \\(\\frac{50 \\times 2 \\times\\sqrt{T}}{\\sqrt{T}}\\)\nF\\(_2\\)\u00a0 = 100Hz\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2258",
+    "text": "Which of the following is not a part of model rocket?",
+    "options": {
+      "A": "The body tube",
+      "B": "The nose cones",
+      "C": "The fin",
+      "D": "Not recovery devices"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70405?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "D",
+    "explanation": "D. Not recovery devices.\nIn contrast, the other options\u2014A. The body tube, B. The nose cone, and C. The fin\u2014are all essential components of a model rocket. Recovery devices (like parachutes or streamers) are also important for ensuring a safe landing, but \"not recovery devices\" are not a specific part of the rocket itself.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2259",
+    "text": "A thick glass tumbler cracks when boiling water is poured into it because",
+    "options": {
+      "A": "The inside expands more rapidly than the outside",
+      "B": "The inside expands less rapidly than the outside",
+      "C": "The expansion is even",
+      "D": "It does not expand"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70406?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "A",
+    "explanation": "When boiling water is poured into the tumbler, the inner surface heats up and expands quickly, while the outer surface remains cooler and expands more slowly. This difference in expansion rates creates stress in the glass, leading to cracks.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2260",
+    "text": "How much joules of heat are given out when a piece of iron, of mass 60g and specific heat capacity 460JKg\\(^{-1}\\)K\\(^{-1}\\), cools from 75\u00baC to 35\u00baC",
+    "options": {
+      "A": "1000J",
+      "B": "1050J",
+      "C": "1067J",
+      "D": "1104J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70407?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "D",
+    "explanation": "Quantity of heat Q = mass of iron x specific heat capacity of iron x change in temperature.\nQ = mc\\(\\delta\\)\\(\\theta\\)\nm = 60g \u21d2 0.060, c = 460Jkg\\(^{-1}\\)k\\(^{-1}\\) and\u00a0\\(\\delta\\)\\(\\theta\\) = 75 - 35 = 40\u00baC\nQ = 0.060\u00a0x 460 x 40 = 1104J.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2261",
+    "text": "The energy of light of frequency 2.0 x 10\\(^{15}\\)Hz is\u00a0 (h = 6.63 x 10\\(^{-34}\\)Js)",
+    "options": {
+      "A": "3.33 x 10\\(^{-18}\\)J",
+      "B": "1.33 x 10\\(^{-18}\\)J",
+      "C": "1.33 x 10\\(^{-19}\\)J",
+      "D": "3.33 x 10\\(^{-19}\\)J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70408?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "B",
+    "explanation": "To calculate the energy of light, we can use the formula:\nE = h x f\nh =\u00a06.63 x 10\\(^{-34}\\)Js\nf =\u00a0 2.0 x 10\\(^{15}\\)Hz\nE =\u00a0\u00a06.63 x 10\\(^{-34}\\) x\u00a0 2.0 x 10\\(^{15}\\) = 1.326\u00a0x 10\\(^{-18}\\)J\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2262",
+    "text": "A mass of gas at 40mmHg is heated from 298k to 348k at constant volume. Cal the pressure exerted by the gas.",
+    "options": {
+      "A": "50.21mmHg",
+      "B": "46.71mmHg",
+      "C": "42.35mmHg",
+      "D": "35.12mmHg"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70409?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "B",
+    "explanation": "From pressure law\n\\(\\frac{P_1}{T_1} = \\frac{P_2}{T_2}\\)\nP\\(_2\\) = \\(\\frac{P_1 \\times T_2}{T_1}\\)\nP\\(_1\\) =\u00a040mmHg,\u00a0P\\(_2\\) = ?\nT\\(_1\\) =\u00a0298k,\u00a0T\\(_2\\) =\u00a0348k\n\\(\\frac{40}{298} = \\frac{P_2}{348}\\)\nP\\(_2\\) = \\(\\frac{40\\times348}{298}\\) = 46.71mmHg\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2263",
+    "text": "The distance between two successive crests of a water wave is 0.25m. If a particle on the surface of the water makes four complete vertical oscillations in one second. Calculate the speed of the wave.",
+    "options": {
+      "A": "4ms\\(^{-1}\\)",
+      "B": "3ms\\(^{-1}\\)",
+      "C": "2ms\\(^{-1}\\)",
+      "D": "1ms\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70410?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "D",
+    "explanation": "distance between two successive crests of a water wave = \\(\\lambda\\) = 0.25m\nFrequency (f) is defined as the number of cycles or oscillations that occur in one second =\u00a0four complete vertical oscillations in one second = 4Hz\nSpeed of wave (v) = f x\u00a0\\(\\lambda\\) = 0.25 x 4 = 1m/s\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2264",
+    "text": "The thermometer whose thermometric property is change in volume with temperature is",
+    "options": {
+      "A": "Resistance thermometer",
+      "B": "Thermocouple",
+      "C": "Bimetallic thermometer",
+      "D": "Liquid-in-glass thermometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70411?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "D",
+    "explanation": "D. Liquid-in-glass thermometer.\nIn a liquid-in-glass thermometer, the liquid (usually mercury or colored alcohol) expands and contracts with temperature changes, allowing for the measurement of temperature based on the volume change of the liquid.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2265",
+    "text": "In a series resonant circuit, the current flowing in the circuit is",
+    "options": {
+      "A": "maximum",
+      "B": "minimum",
+      "C": "zero",
+      "D": "unaffected"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70413?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "A",
+    "explanation": "At resonance, the circuit's impedance is at its lowest (equal to the resistance), which results in the highest current flow. This condition is achieved when the inductive reactance and capacitive reactance are equal, causing them to cancel each other out.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2266",
+    "text": "If a body in linear motion changes from point P to Q, the motion is",
+    "options": {
+      "A": "Translational",
+      "B": "Rotational",
+      "C": "Simple harmonic",
+      "D": "Circular"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70414?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "A",
+    "explanation": "If a body in linear motion changes from point P to Q, the motion is Translational.\nTranslational motion refers to the movement of an object from one location to another in a straight line, without any rotation involved.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2267",
+    "text": "Which of these gas laws is equivalent to workdone",
+    "options": {
+      "A": "Charle's law",
+      "B": "Pressure law",
+      "C": "Boyle's law",
+      "D": "Gay Lussac's law"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70415?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "C",
+    "explanation": "Boyle's law states that at a constant temperature, the pressure of a gas is inversely proportional to its volume (P\u00a0\u221d\\(\\frac{1}{V}\\) This relationship is fundamental when calculating the work done during the isothermal expansion or compression of a gas, as it directly involves changes in volume and pressure\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2268",
+    "text": "The process of adding\u00a0impurities to a semiconductor material to increase its conductivity is",
+    "options": {
+      "A": "Rectification",
+      "B": "Emission",
+      "C": "Doping",
+      "D": "Stabilization"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70422?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "C",
+    "explanation": "Doping involves introducing specific impurities into a semiconductor to modify its electrical properties, enhancing its conductivity by creating either n-type or p-type semiconductors.\nRectification is the process of converting alternating current (AC) into direct current (DC) using diodes, which allow current to flow in one direction.Emission refers to the release of charge carriers (electrons or holes) from a semiconductor, often resulting in the production of light in devices like LEDsStabilization involves techniques to maintain the consistent performance of semiconductor devices under varying conditions.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2269",
+    "text": "A load of 300N is to be lifted by a machine with a velocity ratio of 2 and an efficiency of 60%. What effort will be applied to lift the load?",
+    "options": {
+      "A": "100N",
+      "B": "150N",
+      "C": "250N",
+      "D": "400N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70423?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "C",
+    "explanation": "Efficiency = \\(\\frac{\\text{ M.A}}{\\text{V.R}}\\) x 100\nM.A = \\(\\frac{\\text{LOAD}}{\\text{EFFORT}}\\)\nV.R = 2, Eff. = 60% = 0.6, Load = 300N\n0.6 = \\(\\frac{\\text{M.A}}{2}\\)\nM.A = 1.2\n1.2 = \\(\\frac{300}{\\text{E}}\\)\nEffort = \\(\\frac{300}{1.2}\\) = 250N\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2270",
+    "text": "The average translational kinetic energy of gas molecules depends on",
+    "options": {
+      "A": "Temperature only",
+      "B": "Number of moles and temperature",
+      "C": "Pressure and temperature",
+      "D": "Pressure only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70424?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "A",
+    "explanation": "Temperature only.\nThis means that\u00a0the average kinetic energy is directly related to the gas's absolute temperature. The relationship can be defined by the equation:\nK.E = \\(\\frac{3}{2}\\)kT\nwhere K.E = average kinetic energy, k\u00a0 = Boltzmann's constant, and T = absolute temperature.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2271",
+    "text": "The fourth overtone of a closed pipes is 900Hz, its fundamental frequency is",
+    "options": {
+      "A": "50Hz",
+      "B": "100Hz",
+      "C": "200Hz",
+      "D": "400Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70425?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "B",
+    "explanation": "For a closed pipe,\u00a0only odd harmonics are present.\u00a0first overtone frequency is 3f\\(_o\\), 2\\(^{nd}\\) overtone frequency is 5f\\(_o\\) etc.\n4\\(^{th}\\) overtone frequency = 9f\\(_o\\)\n900 =\u00a0 9f\\(_o\\)\nf\\(_o\\) = \\(\\frac{900}{9}\\) = 100Hz\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2272",
+    "text": "A cell of internal resistance of 2\\(\\Omega\\) supplies current through a resistor, X if the efficiency of the cell is 75%, find the value of X.",
+    "options": {
+      "A": "2\\(\\Omega\\)",
+      "B": "4\\(\\Omega\\)",
+      "C": "6\\(\\Omega\\)",
+      "D": "8\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70426?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "C",
+    "explanation": "The efficiency of a cell = \\(\\frac{\\text{Ext. R}}{\\text{Ext.R + int. r}}\\) x 100\nExt. R = X\nint. r = 2\\(\\Omega\\)\nEfficiency = 75% = 0.75\n0.75 = \\(\\frac{\\text{X}}{\\text{X} + 2}\\)\n0.75( X + 2 ) = X\n0.75x + 1.5 = X\n0.25X = 1.5\nX = \\(\\frac{1.5}{0.25}\\) = 6\\(\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2273",
+    "text": "In voltage measurement, the potentiometer is preferred to voltmeter because it",
+    "options": {
+      "A": "has a wider range",
+      "B": "consumes negligible current",
+      "C": "is bulky",
+      "D": "responds faster than voltmeter"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70428?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "B",
+    "explanation": "A potentiometer is preferred over a voltmeter for voltage measurements because it does not draw significant current from the circuit being measured.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2274",
+    "text": "Which of the following is the best as shaving mirror?",
+    "options": {
+      "A": "Concave mirror",
+      "B": "Convex mirror",
+      "C": "plane mirror",
+      "D": "parabolic mirror"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70430?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "A",
+    "explanation": "Concave Mirror: A concave mirror can focus\u00a0light rays, allowing for a magnified image of the face. This magnification helps in seeing details more clearly, which is particularly useful for shaving.Convex Mirror: A convex mirror creates a smaller, wider image, which is not suitable for precise tasks like shaving.Plane Mirror: A plane mirror shows a true reflection but does not magnify, making it less effective for grooming.Parabolic Mirror: Parabolic mirrors are used for specific applications, like telescopes, but not for shaving.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2275",
+    "text": "A refrigerator uses 150W. If it is kept on for 336 hours non-stop, what is the energy consumed in KWh?",
+    "options": {
+      "A": "60.20KWh",
+      "B": "50.40KWh",
+      "C": "25.01KWh",
+      "D": "30.20KWh"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70431?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "B",
+    "explanation": "Power = \\(\\frac{\\text{Energy consumed}}{\\text{time}}\\)\n150W\u00a0\u2192 0.150KW, time = 336hrs.\nEnergy consumed in KWh = 0.150 x 336 = 50.40KWh\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2276",
+    "text": "What is the inductance reactance of a coil of 7H when connected to a 50Hz a.c circuit?",
+    "options": {
+      "A": "2200\\(\\Omega\\)",
+      "B": "2000\\(\\Omega\\)",
+      "C": "1200\\(\\Omega\\)",
+      "D": "1100\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70433?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "A",
+    "explanation": "X\\(_L\\) = 2\\(\\pi\\)fL\nL = 7H, f = 50Hz\nX\\(_L\\) = 2 x 3.142 x 7 x 50 = 2199.40 \\(\\approxeq\\) 2200\\(\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2277",
+    "text": "If a charge ion goes through a combined electric field E and magnetic field B, the resultant emergent velocity of the ion is",
+    "options": {
+      "A": "\\(\\frac{E}{B}\\)",
+      "B": "EB",
+      "C": "\\(\\frac{B}{E}\\)",
+      "D": "E-B"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70435?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "A",
+    "explanation": "The resultant emergent velocity of a charged ion moving through combined electric and magnetic fields can be derived from the condition where the electric force equals the magnetic force. This gives us the formula for the velocity v:\nq E = qvB\nv = \\(\\frac{E}{B}\\)\u00a0(q will cancel out)\nNOTE:\u00a0\u00a0When both fields are present, for the ion to move without deflection, the electric force must equal the magnetic force.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2278",
+    "text": "In electrolysis, when same quantity of electricity is passed through different electrolytes, mass of substances deposited is proportional to",
+    "options": {
+      "A": "Molecular weight",
+      "B": "Chemical equivalent",
+      "C": "Atomic number",
+      "D": "Chemical equivalent per valency"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70436?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "B",
+    "explanation": "Faraday's second law states that the masses of different substances deposited or liberated by the same quantity of electricity are directly proportional to the chemical equivalents of the substances.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2279",
+    "text": "If the rate of evaporation is y, and the rate of condensation is x, then, a vapour is saturated when",
+    "options": {
+      "A": "x > y",
+      "B": "x",
+      "C": "x = y",
+      "D": "x \\(\\leq\\) y"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70437?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "C",
+    "explanation": "In a saturated vapour, the rate of evaporation (y) equals the rate of condensation (x). This means that the amount of vapor entering the gaseous phase is equal to the amount of vapour returning to the liquid phase, resulting in a stable concentration of vapour in the air.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2280",
+    "text": "The degree of precision of a vernier caliper is",
+    "options": {
+      "A": "0.005cm",
+      "B": "0.01cm",
+      "C": "0.1cm",
+      "D": "1.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70438?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "B",
+    "explanation": "A standard vernier caliper usually has the least count (its degree of accuracy) of 0.01 cm, meaning it can make measurements to the nearest hundredth of a centimeter. This level of precision allows for accurate readings in various applications.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2281",
+    "text": "According to kinetic theory of gases, the pressure exerted by the gas on the wall is equal",
+    "options": {
+      "A": "change in momentum per unit volume",
+      "B": "rate of change of momentum imparted by the walls per second per unit area",
+      "C": "momentum imparted to the walls per unit area",
+      "D": "change in momentum imparted to the walls per unit area"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70467?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "B",
+    "explanation": "Pressure is defined as force per unit area. In the context of gas molecules colliding with the walls of a container, the force exerted by the gas can be understood as the rate at which momentum is transferred to the walls.As gas molecules collide with the walls, they change momentum, and this change occurs over time. Thus, the pressure can be described as the rate of change of momentum (change in momentum per collision multiplied by the number of collisions per second) divided by the area over which the collisions occur.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2282",
+    "text": "The property by which a material returns to its\u00a0original shape after the removal of force is called",
+    "options": {
+      "A": "Elasticity",
+      "B": "Ductility",
+      "C": "Malleability",
+      "D": "Plasticity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70468?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "A",
+    "explanation": "The property described in this question is called Elasticity which is the ability of a substance to regain its original shape and size after the removal of the distorting force.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2283",
+    "text": "The energy in a\u00a0moving car is an example of",
+    "options": {
+      "A": "Mechanical energy",
+      "B": "Electrical energy",
+      "C": "Potential energy",
+      "D": "Kinetic energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70469?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "D",
+    "explanation": "The energy in a\u00a0moving car is an example of kinetic energy which is the energy possessed by a body in\u00a0motion.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2284",
+    "text": "A hydrometer of mass y kg and volume 2y x 10\\(^{-5}\\)m\\(^3\\)\u00a0floats in a fluid with 20% of its volume above the fluid, what is the density of the fluid?",
+    "options": {
+      "A": "6.22 x 10\\(^4\\)kgm\\(^{-3}\\)",
+      "B": "6.23 x 10\\(^4\\)kgm\\(^{-3}\\)",
+      "C": "6.24 x 10\\(^4\\)kgm\\(^{-3}\\)",
+      "D": "6.25 x 10\\(^4\\)kgm\\(^{-3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70470?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "D",
+    "explanation": "Density = \\(\\frac{\\text{mass}}{\\text{volume}}\\)\nmass of hydrometer = y kg\n80% hydrometer's volume submerge(20% above the fluid) = \\(\\frac{4}{5}\\) x 2y x 10\\(^{-5}\\) = \\(\\frac{8y \\times\u00a010^{-5}}{5}\\)\nDensity = y x \\(\\frac{5}{8y\\times 10^{-5}}\\) = 6.25 x 10\\(^4\\)kgm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2285",
+    "text": "Convert 60\u00baC to degree Fahrenheit",
+    "options": {
+      "A": "111.15\\(^0\\)F",
+      "B": "115.56\\(^0\\)F",
+      "C": "132.23\\(^0\\)F",
+      "D": "140.00\\(^0\\)F"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70471?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "D",
+    "explanation": "Using \\(^0\\)F = ( \\(^0\\) C x \\(\\frac{9}{5}\\)) + 32\u00a0\u2192 (\u00a0\u00bac x 1.8 ) + 32.\n\\(^0\\) C = 60\u00ba\nThen,\u00a0Using \\(^0\\)F = ( 60\u00a0x \\(\\frac{9}{5}\\)) + 32\n= 108 + 32 = 140\u00baF\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2286",
+    "text": "What is the least possible error encountered when taking measurement with a metre rule?",
+    "options": {
+      "A": "1.1mm",
+      "B": "0.5mm",
+      "C": "0.2mm",
+      "D": "0.1mm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70472?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "B",
+    "explanation": "A standard meter rule has markings that are usually every millimeter (1 mm). The least count, which is the smallest measurement that can be accurately read, is often 1 mm.The least possible error is generally considered to be half of the smallest division, so it is \u00b10.05cm (or \u00b10.5mm).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2287",
+    "text": "At absolute zero temperature, the average velocity of the molecules",
+    "options": {
+      "A": "Decreases",
+      "B": "Increases",
+      "C": "Is zero",
+      "D": "Is uncertain"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70473?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "C",
+    "explanation": "Absolute zero is the lowest possible temperature where molecular motion is minimal. At this temperature, the kinetic energy of the molecules is effectively zero, meaning they do not have enough energy to move.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2288",
+    "text": "Calculate the quantity of heat for copper rod whose thermal capacity is 400Jk\\(^{-1}\\) for a temperature change of 60\u00baC to\u00a0 80\u00baC",
+    "options": {
+      "A": "2KJ",
+      "B": "4KJ",
+      "C": "6KJ",
+      "D": "8KJ"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70474?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "D",
+    "explanation": "Quantity of Heat = heat capacity x change in temperature\nQ = C\\(_p\\) x \\(\\Delta\\)\\(\\theta\\)\nQ = 400 x 20 = 8000J\u00a0= 8kJ\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2289",
+    "text": "When a cell of e.m.f 3.06V\u00a0is connected, the balance of a potentiometer\u00a0is 75cm, Calculate the new balance of a cell of e.m.f\u00a0 2.295V",
+    "options": {
+      "A": "56.26cm",
+      "B": "73.20cm",
+      "C": "77.80cm",
+      "D": "78.70cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70475?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "A",
+    "explanation": "The balance length of a potentiometer is directly proportional to the e.m.f\nThus, \\(\\frac{L_1}{L_2} = \\frac{E_1}{E_2}\\)\n\\(L_2 = L_1\\times \\frac{E_2}{E_1}\\)\n\\(L_2 =\u00a0\u00a075 \\times \\frac{2.295}{3.06}\\)\n= 75 x 0.750 = 56.25cm\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2290",
+    "text": "A body is whirled in a horizontal circle at the rate of 800 revolutions per minute. Determine the angular velocity",
+    "options": {
+      "A": "100\\(\\pi\\)rads\\(^{-1}\\)",
+      "B": "33.3\\(\\pi\\)rads\\(^{-1}\\)",
+      "C": "29.5\\(\\pi\\)rads\\(^{-1}\\)",
+      "D": "26.7\\(\\pi\\)rads\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70476?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "D",
+    "explanation": "Angular velocity(\\(\\omega\\)) = 2\\(\\pi\\) x rev per sec\nRev. per sec = \\(\\frac{800}{60}\\) \\(\\approxeq\\) 13.33 rev/s\nAngular velocity(\\(\\omega\\)) = 2\\(\\pi\\) x 13.33\u00a0 \\(\\approxeq\\) 26.7\\(\\pi\\)rad/s\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2291",
+    "text": "If the velocity ratio of a machine is 4, what does it mean?",
+    "options": {
+      "A": "Load and the effort are equal.",
+      "B": "Distance moved by effort is 4 times greater than the distance moved by load.",
+      "C": "The efficiency is low",
+      "D": "The load is greater than the effort"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70477?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "B",
+    "explanation": "The velocity ratio of a machine is 4 simply means that the distance moved by effort is 4 times the distance moved by the load.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2292",
+    "text": "Which of the following materials has a very large energy gap band?",
+    "options": {
+      "A": "Conductor",
+      "B": "Insulator",
+      "C": "Semiconductor",
+      "D": "Intrinsic semiconductor"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70478?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "B",
+    "explanation": "Conductor: Has a very small or negligible band gap, allowing electrons to move freely.Insulator:Has a large energy gap (typically greater than 3 eV), which prevents electrons from jumping from the valence band to the conduction band, resulting in very low electrical conductivity.Semiconductor: A moderate energy gap (about 1 eV) allows some conductivity under certain conditions (like temperature or doping).Intrinsic Semiconductor: A type of semiconductor with a pure form, that also has a moderate energy gap similar to other semiconductors.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2293",
+    "text": "A red shirt under a red light appears pale because red",
+    "options": {
+      "A": "reflects nearly all light falling on it",
+      "B": "Unable to reflect lights falling on it",
+      "C": "absorbs all lights falling on it",
+      "D": "absorbs other colours and reflects red"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70479?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "D",
+    "explanation": "Underred light, the shirt reflects the red light but does not reflect other colors, which makes it look less vibrant or pale, compared to being illuminated by white light that contains all colors.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2294",
+    "text": "An electron falls from an energy level of -5.44eV to another energy level, E. If the emitted photon is of wavelength 5.68 x 10\\(^{-6}\\)m, calculate the energy change. [ Plank's constant = 6.63 x 10\\(^{-34}\\)Js, emitted radiation speed = 3.0 x 10\\(^8\\)ms\\(^{-1}\\)]",
+    "options": {
+      "A": "1.49 x 10\\(^{-20}\\)J",
+      "B": "1.49 x 10\\(^{-19}\\)J",
+      "C": "3.49 x 10\\(^{-20}\\)J",
+      "D": "3.49 x 10\\(^{-19}\\)J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70480?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "C",
+    "explanation": "Energy of the emitted photon(E) = \\(\\frac{\\text{hc}}{\\lambda}\\)\n\\(\\lambda\\) =\u00a05.68 x 10\\(^{-6}\\)m\nh =\u00a0 6.63 x 10\\(^{-34}\\)Js\nc =\u00a03.0 x 10\\(^8\\)ms\\(^{-1}\\)\nE =\\(\\frac{(6.63\\times\u00a010^{-34}) \\times (3.0 x 10^8)}{5.68\\times\u00a010^{-6}}\\) = \\(\\frac{1.989\\times 10^{-25}}{5.68\\times\u00a010^{-6}}\\)\nE = 3.50\u00a0x 10\\(^{-20}\\)J\nTherefore,\u00a0the energy change =\u00a03.50\u00a0x 10\\(^{-20}\\)J\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2295",
+    "text": "Using the diagram above, the effective force pushing it forward at an angle 60\u00ba is",
+    "options": {
+      "A": "25.00N",
+      "B": "28.87N",
+      "C": "38.50N",
+      "D": "43.30N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70481?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "A",
+    "explanation": "The effective force pushing it forward is the horizontal component of the force = F\\(_x\\) = F Cos\\(\\theta\\)\nF\\(_x\\) = F Cos\\(\\theta\\) = 50 x Cos 60\u00ba = 50 x 0.5 = 25N\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2296",
+    "text": "The gravitational force between two objects is 10N, what is the new value of the force if the distance between them is halved?",
+    "options": {
+      "A": "10N",
+      "B": "20N",
+      "C": "40N",
+      "D": "80N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70482?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "C",
+    "explanation": "Gravitational force Fg = \\(\\frac{Gm_1m_2}{r^2}\\)\nFg = 10N\ndistance = \\(\\frac{r}{2}\\)\nF'g\u00a0=\u00a0 \\(\\frac{Gm_1m_2}{(\\frac{r}{2})^2}\\) = 4\u00a0(\\(\\frac{Gm_1m_2}{r^2}\\)) = 4Fg = 4 x 10 = 40N\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2297",
+    "text": "An ideal transformer has",
+    "options": {
+      "A": "Maximum primary resistance",
+      "B": "No flux leakage",
+      "C": "Hysteresis",
+      "D": "Eddy current"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70483?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "B",
+    "explanation": "Maximum primary resistance: An ideal transformer is assumed to have zero resistance in its windings.No flux leakage: This is the key feature of an ideal transformer; all the magnetic flux produced by the primary winding links with the secondary winding.Hysteresis:While hysteresis losses can occur in real transformers due to the magnetic properties of the core material, an ideal transformer assumes no losses.Eddy current:Similar to hysteresis, eddy currents are not present in an ideal transformer, which assumes a perfect core with no energy losses\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2298",
+    "text": "Calculate the depth of a swimming pool if the apparent depth is 10cm. ( Refractive index of water = 1.33 )",
+    "options": {
+      "A": "7.5cm",
+      "B": "10.0cm",
+      "C": "13.3cm",
+      "D": "6.87cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70484?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "C",
+    "explanation": "Refractive index = \\(\\frac{\\text{real depth}}{\\text{apparent depth}}\\)\nReal depth = refractive index x apparent depth\nApparent depth = 10cm\nRefractive index = 1.33\nReal depth = 1.33 x 10 = 13.3cm.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2299",
+    "text": "What will be the weight of a man of mass 60kg standing in a lift\u00a0if the lift is descending vertically at 3ms\\(^2\\)?",
+    "options": {
+      "A": "780N",
+      "B": "546N",
+      "C": "660N",
+      "D": "420N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70485?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "D",
+    "explanation": "The man's weight = T - ma\nmass = 60kg, a =\u00a03ms\\(^2\\)\nThe man's weight = m(g - a) = 60(10 - 3) = 60 x 7 = 420N\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2300",
+    "text": "The gravitational force between two objects\u00a0 masses 10\\(^{24}\\)kg and 10\\(^{27}\\)kg is 6.67N.\u00a0Calculate the distance between them [ G = 6.6 x 10\\(^{-11}\\)Nm\\(^2\\)kg\\(^{-2}\\) ]",
+    "options": {
+      "A": "1.0 x 10\\(^{20}\\)m",
+      "B": "2.0 x 10\\(^{-20}\\)m",
+      "C": "1.0 x 10\\(^{-20}\\)m",
+      "D": "2.0 x 10\\(^{20}\\)m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70486?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "A",
+    "explanation": "Gravitational force Fg = \\(\\frac{Gm_1m_2}{r^2}\\) = 6.67N\n\\(m_1\\) =\u00a010\\(^{24}\\)kg, \u00a0\u00a0\\(m_2\\) =\u00a010\\(^{27}\\)kg, G =\u00a0 6.6 x 10\\(^{-11}\\)Nm\\(^2\\)kg\\(^{-2}\\) and r = ?\n6.67 = \\(\\frac{ 6.6\\times\u00a010^{-11}\\times10^{24}\\times10^{27}}{r^2}\\)\n6.67r\\(^2\\) =\u00a0 6.6 x\u00a010\\(^{40}\\)\nr\\(^2\\) = \\(\\frac{6.6\\times10^{40}}{6.67}\\) \\(\\approx\\)\u00a09.89 \u00d7 10\\(^{39}\\)\nr = \\(\\sqrt{\u00a09.89\\times10^{39}}\\)\u00a0 \\(\\approxeq\\) 9.94\u00a0\u00d7 10\\(^{19}\\)m\u00a0 \u2192\u00a0\u00a01.0 x 10\\(^{20}\\)m\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2301",
+    "text": "The tangential force acting on an object that opposes it from sliding freely on the adjacent surface is called",
+    "options": {
+      "A": "Normal force",
+      "B": "Friction force",
+      "C": "Weight",
+      "D": "Upthrust"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70488?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "B",
+    "explanation": "The tangential force acting on an object that prevents it from sliding freely on the adjacent surface is called friction.\u00a0Friction plays a crucial role in preventing or resisting motion between surfaces in contact.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2302",
+    "text": "Two tuning forks of frequencies 6Hz and 4Hz respectively are sounded together. The beat frequency is",
+    "options": {
+      "A": "2Hz",
+      "B": "5Hz",
+      "C": "8Hz",
+      "D": "10Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70490?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "A",
+    "explanation": "Beat frequency = f\\(_1\\) -\u00a0 f\\(_2\\)\nf\\(_1\\) = 6Hz\nf\\(_2\\) = 4Hz\nBeat frequency = f\\(_1\\) -\u00a0 f\\(_2\\) = 6 - 4 = 2Hz\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2303",
+    "text": "The capacitance of a capacitor, C, is inversely proportional to",
+    "options": {
+      "A": "area of the plate",
+      "B": "dielectric substance",
+      "C": "distance between plate",
+      "D": "direction of the plate"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70492?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "C",
+    "explanation": "The capacitance of a capacitor, C, is inversely proportional to:\nDistance between plates: Capacitance decreases as the distance increases.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2304",
+    "text": "The value of R in the above circuit to make the galvanometer measure 2A is",
+    "options": {
+      "A": "0.128\\(\\Omega\\)",
+      "B": "0.256\\(\\Omega\\)",
+      "C": "0.612\\(\\Omega\\)",
+      "D": "1.00\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70495?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "B",
+    "explanation": "Given: I\\(_g\\) = 50mA = 0.05A, I to be measured = 2A, r = 2\\(\\Omega\\),\u00a0I\\(_s\\) = I -\u00a0I\\(_g\\) = 2 - 0.05 = 1.95A\nShunt(R) = \\(\\frac{I_g}{I_s}\\) x r\nR =\u00a0 \\(\\frac{0.05}{1.95}\\) x 10 = 0.2564\\(\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2305",
+    "text": "An object is placed 25cm in front of a convex mirror has its image formed 5cm behind the mirror. what is the focal length of the convex mirror",
+    "options": {
+      "A": "8.20cm",
+      "B": "6.25cm",
+      "C": "5.60cm",
+      "D": "4.50cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70497?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "B",
+    "explanation": "Object distance (u) = -25 cm (negative because the object is in front of the mirror)Image distance (v) = +5 cm (positive because the image is behind the convex mirror)\nUsing\u00a0 \\(\\frac{1}{f}\\) =\u00a0\\(\\frac{1}{u}\\) +\u00a0\\(\\frac{1}{v}\\)\n\\(\\frac{1}{f}\\) =\u00a0\\(\\frac{1}{-25}\\) +\u00a0\\(\\frac{1}{5}\\)\nf =\u00a0\\(\\frac{25}{4}\\) = 6.250cm.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2306",
+    "text": "In a Hare's apparatus, the height of water and a liquid X are 0.3m and 0.5m respectively. The relative density of x is?",
+    "options": {
+      "A": "0.4",
+      "B": "0.6",
+      "C": "1.7",
+      "D": "2.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70499?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "B",
+    "explanation": "For Hare's apparatus\nRelative density = \\(\\frac{h_w}{h_l}\\)\nGiven: height of liquid = 0.5cm, height of water = 0.3cm\nRelative density = \\(\\frac{0.3}{0.5}\\) = 0.6\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2307",
+    "text": "The quantity of heat required to melt ice of 0.2 kg whose specific latent heat is 3.4 x 10\\(^5\\)J/Kg is",
+    "options": {
+      "A": "6.8 x 10\\(^4\\)J",
+      "B": "8.6 x 10\\(^4\\)J",
+      "C": "1.7 x 10\\(^5\\)J",
+      "D": "1.7 x 10\\(^6\\)J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70501?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "A",
+    "explanation": "The quantity of heat required to melt ice = mass of ice x\u00a0specific latent heat\nQ = m L = 0.2 x\u00a0 3.4 x 10\\(^5\\) = 6.8 x\u00a010\\(^4\\)J\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2308",
+    "text": "I\u00a0 It wets glass\nII It needs to be coloured\nIII It has a low density\nWater is not suitable for use as a thermometric liquid because",
+    "options": {
+      "A": "I only",
+      "B": "I and II only",
+      "C": "I, II, and III only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70504?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "C",
+    "explanation": "Water is not suitable for use as a thermometric liquid because:\na) It wets glass: This can cause issues with reading the level of the liquid.b) It needs to be coloured: Water is typically clear, making it difficult to see the level without coloring.c) It has a low density: This can affect the sensitivity and accuracy of the thermometer.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2309",
+    "text": "The power of a convex lens of focal length 20cm is",
+    "options": {
+      "A": "0.05D",
+      "B": "0.50D",
+      "C": "5.00D",
+      "D": "50.00D"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70506?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "C",
+    "explanation": "The Power is given by: P = \\(\\frac{1}{f}\\)\nf =\u00a020cm\u00a0\u2192 0.2m\nP =\u00a0 \\(\\frac{1}{0.2}\\) = 5 dioptres\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2310",
+    "text": "The charge of magnitude 1.6 x 10 \\(^{-19}\\)C is placed in a uniform electric field of intensity 1200Vm\\(^{-1}\\). Calculate its acceleration, if the mass of the charge is 9.1 x 10\\(^{-31}\\)kg",
+    "options": {
+      "A": "2.11 x 10\\(^{14}\\)ms\\(^{-2}\\)",
+      "B": "2.11 x 10\\(^{13}\\)ms\\(^{-2}\\)",
+      "C": "1.20 x 10\\(^{14}\\)ms\\(^{-2}\\)",
+      "D": "1.20 x 10\\(^{13}\\)ms\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70510?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "A",
+    "explanation": "Electric field intensity (E) = \\(\\frac{\\text{force}}{\\text{charge}}\\) = \\(\\frac{\\text{F}}{\\text{q}}\\)\nGiven: E =\u00a01200Vm\\(^{-1}\\), q =\u00a01.6 x 10 \\(^{-19}\\)C, m =\u00a09.1 x 10\\(^{-31}\\)kg\nF = E x\u00a0q\nF =\u00a01.6 x 10\\(^{-19}\\) x\u00a01200 = 1.92 x\u00a010\\(^{-16}\\)N\nF = ma\na = \\(\\frac{F}{m}\\) =\u00a0\\(\\frac{1.92\\times\u00a010^{-16}}{9.1\\times\u00a010^{-31}}\\) \\(\\approxeq\\) 2.11 x\u00a0\u00a010\\(^{14}\\)ms\\(^{-2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2311",
+    "text": "Calculate the power of an object which moves through a distance of 500cm in 1s on a frictionless surface by a horizontal force of 50N",
+    "options": {
+      "A": "200W",
+      "B": "300W",
+      "C": "350W",
+      "D": "250W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70512?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "D",
+    "explanation": "Power = \\(\\frac{w}{t}\\)\nGiven: F = 50N, s = 500cm\u00a0\u2192 5m and t = 1s\nW = f x s = 250 x 5 = 250J\nPower = \\(\\frac{250}{1}\\) = 250W\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2312",
+    "text": "The defect of the eye lens which occurs when the ciliary muscles are\u00a0weak is",
+    "options": {
+      "A": "Spherical aberration",
+      "B": "Astigmatism",
+      "C": "Presbyopia",
+      "D": "Myopia"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70517?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "C",
+    "explanation": "Presbyopia: Caused by aging and weakened ciliary muscles, making it hard to focus on nearby objects.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2313",
+    "text": "The energy stored in the above capacitor is",
+    "options": {
+      "A": "2.25J",
+      "B": "6.25J",
+      "C": "18.25J",
+      "D": "24.25J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70518?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "A",
+    "explanation": "The energy stored in the capacitor = \\(\\frac{1}{2}\\)\\(\\frac{q^2}{C}\\)\nWhere C = 2F, q = 3C\n=\u00a0 \\(\\frac{1}{2}\\)\\(\\frac{3^2}{2}\\) = \\(\\frac{9}{4}\\) = 2.25J\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2314",
+    "text": "An effort of 40N is applied on a machine to lift a mass of 60kg. Determine the mechanical advantage of the machine [ g = 10ms\\(^2\\) ]",
+    "options": {
+      "A": "2400",
+      "B": "240",
+      "C": "150",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70520?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "D",
+    "explanation": "Mechanical Advantage = \\(\\frac{\\text{load}}{\\text{effort}}\\)\nGiven:\u00a0mass(m) =\u00a060kg, acceleration due to gravity(g) = 10ms\\(^2\\) and effort = 40N\nLoad = m x g = 60 x 10 = 600N\nM.A = \\(\\frac{600}{40}\\) = 15\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2315",
+    "text": "The land and sea breeze is attributed to",
+    "options": {
+      "A": "conduction and radiation",
+      "B": "conduction",
+      "C": "radiation",
+      "D": "convection"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70522?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "D",
+    "explanation": "Convection: The movement of air due to temperature differences between land and water, leading to the formation of breezes.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2316",
+    "text": "A practical application of total internal reflection is found in",
+    "options": {
+      "A": "rainbow",
+      "B": "diverging lens",
+      "C": "converging lens",
+      "D": "fiber optics"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70524?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "D",
+    "explanation": "Fiber optics:\nFiber optics:Utilizes total internal reflection to transmit light through optical fibers, allowing for efficient data transfer.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2317",
+    "text": "Calculate the magnetic force on an electron in a magnetic field of flux density 10T, with a velocity of 3 x 10\\(^7\\)m/s at 60\u00ba to the magnetic field (e = 1.6 x 10\\(^{-19}\\)C)",
+    "options": {
+      "A": "4.8 x 10\\(^{-11}\\)N",
+      "B": "4.6 x 10\\(^{-12}\\)N",
+      "C": "4.16 x 10\\(^{-11}\\)N",
+      "D": "4.3 x 10\\(^{-11}\\)N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70527?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "C",
+    "explanation": "The magnetic force on an electron in a magnetic field (F) = q v Bsin\\(\\theta\\)\nB =\u00a010T, q =\u00a0 3 x 10\\(^7\\)m/,\u00a0\\(\\theta\\)\u00a0= 60\u00ba\u00a0and q =\u00a0 1.6 x 10\\(^{-19}\\)C\nF =\u00a0 1.6 x 10\\(^{-19}\\) x\u00a03 x 10\\(^7\\) x 10 x sin 60\u00ba \\(\\approxeq\\)\u00a04.162 \u00d7 10\\(^{-11}\\)N\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2318",
+    "text": "Calculate the upthrust on a spherical ball of volume 4.2 x 10\\(^{-4}\\)m\\(^{3}\\) when totally immersed in a liquid of density 1028kgm\\(^{-3}\\)",
+    "options": {
+      "A": "5.2N",
+      "B": "4.3N",
+      "C": "3.0N",
+      "D": "2.4N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70529?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "B",
+    "explanation": "Upthrust(Force) = volume of object x density of liquid x g = V x \\(\\rho\\) x g\nU =\u00a04.2 x 10\\(^{-4}\\) x\u00a0 1028 x 10 \\(\\approxeq\\) 4.3N\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2319",
+    "text": "At a pressure of 10\\(^5\\)Nm\\(^{-2}\\), a gas has a volume of 20m\\(^3\\). Calculate the volume at 4\u00a0x 10\\(^5\\)Nm\\(^{-2}\\) at constant temperature.",
+    "options": {
+      "A": "2m\\(^3\\)",
+      "B": "3m\\(^3\\)",
+      "C": "4m\\(^3\\)",
+      "D": "5m\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70530?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "D",
+    "explanation": "Using \\(P_1\\) \\(V_1\\) =\u00a0 \\(P_2\\) \\(V_2\\)\n\\(V_2\\) = \\(\\frac{P_1\\times V_2}{P_2}\\)\n\\(V_2\\) = \\(\\frac{10^5\\times 20}{4 \\times\u00a010^5}\\)\n\\(V_2\\) = 5m\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2320",
+    "text": "A particular household utilizes three electrical appliances for six hours daily if the appliances are rated 80W, 100W, and 120W respectively. Calculate the electrical bills paid monthly if an average month is 31 days. [1kwh = #24.08k]",
+    "options": {
+      "A": "\u20a6 2843.22k",
+      "B": "\u20a6 1950.22k",
+      "C": "\u20a6 1343.66k",
+      "D": "\u20a6 46.23k"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70531?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "C",
+    "explanation": "Total power consumption = 80 + 100 + 120 = 300W\nP in KW\u00a0= 0.3KW\nEnergy consumed = 0.3 x 6 = 1.8KWh\nMonthly energy consumption = 1.8 x 31 = 55.8KWh\nCost of Monthly energy usage = 55.8 x 24.08 = #1343.664k ( since 1kwh = #24.08k)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2321",
+    "text": "A body is pulled on a horizontal surface with a rope inclined at 30\u00ba to the vertical. If the effective force pulling the body along the horizontal surface is 15N, calculate the tension on the rope.",
+    "options": {
+      "A": "30N",
+      "B": "60N",
+      "C": "22.5N",
+      "D": "75N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70536?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "Effective horizontal force = 15N\nT = tension on the rope\nF\\(_x\\) = T sin\\(\\theta\\)\n15 = T x sin 30\u00ba\nT = \\(\\frac{15}{0.5}\\) = 15 x 2 = 30N.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2322",
+    "text": "Newton's law of cooling is valid only for a",
+    "options": {
+      "A": "small temperature range",
+      "B": "large temperature range",
+      "C": "free flow range",
+      "D": "presence of heat source"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70539?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "Newton's Law of Cooling states that the rate of heat loss of an object is directly proportional to the difference in temperature between the object and its surroundings, provided that this temperature difference is small.\nTherefore, this law is only valid within a small temperature range.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2323",
+    "text": "When thermal energy\u00a0in a solid\u00a0is increased, the change in state is called",
+    "options": {
+      "A": "melting",
+      "B": "evaporation",
+      "C": "freezing",
+      "D": "condensation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70541?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "When thermal energy is increased, the change in state is called melting (solid to liquid) or vaporization (liquid to gas), depending on the initial and final states of the substance.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2324",
+    "text": "I clear\u00a0 II sharp\u00a0 III poor IV dark\nWhich of the above happens when the hole of a pinhole camera is diminished?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "III and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70543?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "B",
+    "explanation": "When the hole of a pinhole camera is diminished, the image becomesII sharp.A smaller aperture reduces the amount of light entering, leading to a sharper image, but it also requires more light for proper exposure.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2325",
+    "text": "A blacksmith heated a metal whose cubic expansivity\u00a0 is 3.9 x 10\\(^{-6}\\)K\\(^{-1}\\). Calculate the area expansivity.",
+    "options": {
+      "A": "3.9 x 10\\(^{-6}\\)K\\(^{-1}\\)",
+      "B": "2.6 x 10\\(^{-6}\\)K\\(^{-1}\\).",
+      "C": "1.3 x 10\\(^{-6}\\)K\\(^{-1}\\).",
+      "D": "1.6 x 10\\(^{-6}\\)K\\(^{-1}\\)."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70661?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "B",
+    "explanation": "3\\(\\alpha\\) = \\(\\gamma\\)\n\\(\\alpha\\) = \\(\\frac{3.9\\times\u00a010^{-6}}{3}\\) = 1.3\u00a0x 10\\(^{-6}\\)\nBUT \\(\\beta\\) = 2\\(\\alpha\\)\n\\(\\beta\\) = 2 x\u00a01.3\u00a0x 10\\(^{-6}\\) = 2.6\u00a0x 10\\(^{-6}\\)K\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2326",
+    "text": "The unit of impedance is",
+    "options": {
+      "A": "\\(\\Omega\\)",
+      "B": "T",
+      "C": "H",
+      "D": "W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70662?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "A",
+    "explanation": "Impedance is a measure of how much a circuit opposes the flow of alternating current (AC). It combines both resistance (the real part) and reactance (the imaginary part) of a circuit component or network. Impedance is denoted by the symbol\u00a0and is measured in ohms (\u03a9).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2327",
+    "text": "If the displacement of a car is proportional to the square of time, then the car is moving with",
+    "options": {
+      "A": "Uniform acceleration",
+      "B": "Uniform velocity",
+      "C": "Increasing acceleration",
+      "D": "Decreasing acceleration"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70663?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "A",
+    "explanation": "the car is moving with uniform acceleration.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2328",
+    "text": "The equivalent capacitance of the capacitors in the circuit above",
+    "options": {
+      "A": "\\(\\frac{5}{2}\\)C",
+      "B": "4C",
+      "C": "\\(\\frac{3}{2}\\)C",
+      "D": "2C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70664?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "A",
+    "explanation": "Capacitance in parallel = one at the top + one under = 2C\nThe two in the middle are in series = \\(\\frac{C}{2}\\)\nThe equivalent capacitance of the capacitors in the circuit above =\u00a0\\(\\frac{C}{2}\\) + 2C =\u00a0\\(\\frac{5}{2}\\)C\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2329",
+    "text": "Using the diagram above, calculate the relative density of x, if the density of methanol is 800kgm\\(^{-3}\\)",
+    "options": {
+      "A": "0.8",
+      "B": "0.5",
+      "C": "1.5",
+      "D": "2.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70665?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "B",
+    "explanation": "density of methanol =\u00a0 800kgm\\(^{-3}\\)\u00a0\u2192 0.8gcm\\(^{-3}\\)\nAt equilibrium, the density of methanol = the density of liquid x\n\\(\\rho\\) x h x g = \\(\\rho\\)\\(_x\\)\u00a0x\u00a0h\\(_x\\) x g\n0.8 x 7.1 =\u00a0\u00a0\\(\\rho\\)\\(_x\\) x\u00a0\u00a014.2\n\\(\\rho\\)\\(_x\\) = \\(\\frac{0.8\\times7.1}{14.2}\\) = 0.4gcm\\(^{-3}\\)\n\\(\\therefore\\), the relative density of liquid x = 0.4\nRelative density of X = \\(\\frac{\\text{density of liquid x}}{\\text{density of methanol}}\\) = \\(\\frac{0.4}{0.8}\\) = 0.5\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2330",
+    "text": "The force of attraction between molecules of the same substance is",
+    "options": {
+      "A": "cohesion",
+      "B": "capillarity",
+      "C": "adhesion",
+      "D": "surface tension"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70666?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "A",
+    "explanation": "The attraction between molecules of the same substance is referred to as cohesive force. These forces enable molecules to adhere to one another, which affects properties such as surface tension in liquids and the structural integrity of materials.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2331",
+    "text": "If the pressure on an enclosed gas is doubled and its temperature rises from 27\u00baC to 127\u00baC, then its volume will",
+    "options": {
+      "A": "increase by \\(\\frac{2}{3^{rd}}\\)",
+      "B": "increase by \\(\\frac{1}{3^{rd}}\\)",
+      "C": "decrease by \\(\\frac{2}{3^{rd}}\\)",
+      "D": "decrease by \\(\\frac{1}{3^{rd}}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70667?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "D",
+    "explanation": "Using the general gas equation;\n\\(\\frac{P_1 \\times V_1}{T_1}\\) =\u00a0\\(\\frac{P_2 \\times V_2}{T_2}\\)\nP\\(_1\\) = P,\u00a0P\\(_2\\) = 2P, T\\(_1\\) = 27\u00baC\u00a0\u2192 300K, T\\(_2\\) = 127\u00baC\u00a0\u2192 400k,\nV\\(_2\\) = \\(\\frac{P_1 \\times V_1\u00a0\\times T_2}{T_1 \\times P_2}\\)\nV\\(_2\\) =\u00a0 \\(\\frac{P\u00a0\\times V_1\u00a0\\times 400}{300 \\times 2P}\\) = \\(\\frac{2V_1}{3}\\)\n\u0394V = V\\(_1\\) - \\(\\frac{2V_1}{3}\\) = \\(\\frac{V_1}{3}\\)\nTherefore,\u00a0The volume decreases by \\(\\frac{1}{3}\\) of the original volume.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2332",
+    "text": "The simple form of the lead acid accumulator often has a negative pole of",
+    "options": {
+      "A": "Zinc perioxide",
+      "B": "Lead peroxide",
+      "C": "Sulphuric acid",
+      "D": "lead plate"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70668?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "D",
+    "explanation": "The simple form of the lead-acid accumulator typically has a negative pole made of lead (Pb). In this type of battery, the negative electrode is composed of spongy lead, while the positive electrode is made of lead dioxide (PbO\\(_2\\))\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2333",
+    "text": "A monochromatic light is one that",
+    "options": {
+      "A": "can undergo dispersion",
+      "B": "cannot be refracted",
+      "C": "has one wavelength",
+      "D": "has many wavelength"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70669?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "C",
+    "explanation": "A monochromatic light is one that has a single wavelength or color. This means that it consists of light waves that all have the same frequency, resulting in a uniform appearance without any variation.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2334",
+    "text": "Bifocal lens is used to correct the eye defect of",
+    "options": {
+      "A": "astigmatism",
+      "B": "hypermatropia",
+      "C": "myopia",
+      "D": "presbyopia"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70670?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "D",
+    "explanation": "Presbyopia is the condition where the eye's ability to focus on close objects decreases with age, and bifocal lenses provide two different optical powers for distance and near vision.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2335",
+    "text": "A force of 10N extends a spring of natural length 1m by 0.02m, calculate the length of the spring when the applied force is 40N.",
+    "options": {
+      "A": "0.08m",
+      "B": "0.09m",
+      "C": "1.08m",
+      "D": "1.80m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70671?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "C",
+    "explanation": "F = ke\nk = \\(\\frac{F_1}{e_1}\\)\nF\\(_1\\) = 10N, e\\(_1\\)\u00a0= 0.02m\nF\\(_2\\) = 40N,\u00a0e\\(_2\\) = ?\n\\(\\frac{F_1}{e_1}\\) =\u00a0 \\(\\frac{F_2}{e_2}\\)\n\\(\\frac{10}{0.02}\\) =\u00a0 \\(\\frac{40}{e_2}\\)\ne\\(_2\\) = \\(\\frac{40 \\times 0.02}{10}\\) = 0.08m\nThe new length = 1 + 0.08 = 1.08m\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2336",
+    "text": "Infra-red thermometers work by detecting the",
+    "options": {
+      "A": "radiation from the body and converting it to temperature",
+      "B": "conduction of heat from the body",
+      "C": "convective air pulse from the body",
+      "D": "absorption of heat by the body"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70672?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "A",
+    "explanation": "Infrared thermometers work by detecting the infrared radiation emitted by objects. They measure this radiation to determine the object's temperature without direct contact.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2337",
+    "text": "The efficiency of a cell with internal resistance of 2\\(\\Omega\\) supply current to a 6\\(\\Omega\\) resistor is",
+    "options": {
+      "A": "25%",
+      "B": "50%",
+      "C": "65%",
+      "D": "75%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70673?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "D",
+    "explanation": "Efficiency of a cell = \\(\\frac{R}{R + r }\\) x 100\n=\u00a0\\(\\frac{6}{6+ 2\u00a0}\\) x 100\n=\u00a0\\(\\frac{6}{8}\\) x 100 = 75%\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2338",
+    "text": "Which of the following measuring instruments operates\u00a0based on the heating effect of electric current?",
+    "options": {
+      "A": "moving iron ammeter",
+      "B": "hot wire ammeter",
+      "C": "galvanometer",
+      "D": "electric heater"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70674?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "B",
+    "explanation": "Hot wire ammeters measure current by detecting the heat produced in a wire due to the electric current flowing through it.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2339",
+    "text": "What is the colour of\u00a0red rose under a blue light?",
+    "options": {
+      "A": "Green",
+      "B": "Blue",
+      "C": "Yellow",
+      "D": "Black"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70679?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "D",
+    "explanation": "Under blue light, a red rose will appear black or very dark. This is because the red pigments in the rose reflect red light and absorb other colors. Since blue light does not contain red wavelengths, no light is reflected back to the observer, causing the rose to appear dark.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2340",
+    "text": "Calculate the value of electric field intensity due to a charge of 4\u03bcC if the force due to the charge is 8N",
+    "options": {
+      "A": "2.0 x 10\\(^6\\)NC\\(^{-1}\\)",
+      "B": "3.0 x 10\\(^6\\)NC\\(^{-1}\\)",
+      "C": "4.0 x 10\\(^6\\)NC\\(^{-1}\\)",
+      "D": "8.0 x 10\\(^6\\)NC\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70680?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "A",
+    "explanation": "Electric field intensity(E) = \\(\\frac{\\text{Force}}{\\text{charge}}\\) = \\(\\frac{F}{q}\\)\nq = 4\u03bcC = 4.0 x 10\\(^{-6}\\)C\nF = 8N\nE =\u00a0\\(\\frac{8}{4.0 \\times\u00a010^{-6}}\\) = 2.0 x 10\\(^6\\)NC\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2341",
+    "text": "An accumulator is 90% efficient. If it gives out 2700J of energy while discharging, how much energy does it take in?",
+    "options": {
+      "A": "3600J",
+      "B": "3000J",
+      "C": "3200J",
+      "D": "2430J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70681?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "B",
+    "explanation": "Efficiency = \\(\\frac{\\text{ Output energy}}{\\text{input energy}}\\) x 100\nEfficiency = 90% = 0.9, Output energy = 2700J\nInput energy = \\(\\frac{2700}{0.9}\\) = 3000J\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2342",
+    "text": "Two capacitors of 0.0003\u03bcF and 0.0006\u03bcF are connected in series, find their combined capacitance.",
+    "options": {
+      "A": "0.0009\u03bcF",
+      "B": "0.0002\u03bcF",
+      "C": "0.0005\u03bcF",
+      "D": "0.0001\u03bcF"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70682?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "B",
+    "explanation": "Combined capacitance in series = \\(\\frac{1}{C_T}\\) = \\(\\frac{1}{C_1}\\) +\u00a0 \\(\\frac{1}{C_2}\\)\nThe two capacitors have\u00a0capacitance of\u00a00.0003\u03bcF and 0.0006\u03bcF respectively\n\\(\\frac{1}{C_T}\\) = \\(\\frac{1}{0.0003}\\) +\u00a0 \\(\\frac{1}{0.0006}\\)\u00a0 =\u00a0\\(\\frac{0.0002 + 0.0001}{0.0006}\\)\n\\(\\frac{1}{C_T}\\)\u00a0=\u00a0\\(\\frac{0.0003}{0.0006}\\)\nC\\(_T\\) = 0.0002\u03bcF.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2343",
+    "text": "Two points on a velocity-time graph have coordinates (2s, 5m/s) and (4s, 15m/s). Calculate the mean acceleration",
+    "options": {
+      "A": "5.0ms\\(^2\\)",
+      "B": "0.83ms\\(^2\\)",
+      "C": "1.5ms\\(^2\\)",
+      "D": "2.0ms\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70683?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "A",
+    "explanation": "Mean acceleration = \\(\\frac{\\Delta V}{\\Delta t}\\)\nPoint 1:\u00a0(2s, 5m/s)Point 2: (4s,15m/s)\nMean acceleration = \\(\\frac{ 15 - 5 }{4 - 2}\\) =\u00a0\u00a05.0ms\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2344",
+    "text": "An air force jet flying with a speed of 335m/s went past an anti-aircraft gun. How far is the aircraft 5s later when the gun was fired?",
+    "options": {
+      "A": "838m",
+      "B": "1675m",
+      "C": "670m",
+      "D": "3350m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70684?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "B",
+    "explanation": "Distance = Speed \u00d7Time\nDistance = 335 x 5 = 1675m\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2345",
+    "text": "In the diagram above, the galvanometer is converted to",
+    "options": {
+      "A": "Voltmeter",
+      "B": "Ammeter",
+      "C": "Voltameter",
+      "D": "Hypsometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70685?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "B",
+    "explanation": "When a galvanometer is connected to a shunt resistor, it is converted into an ammeter.\nBy connecting a shunt in parallel with a galvanometer, it can measure larger currents without getting damaged, turning it into an ammeter\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2346",
+    "text": "The diaphragm in the camera is similar to what part of the eyes?",
+    "options": {
+      "A": "Cornea",
+      "B": "Lens",
+      "C": "Ciliary muscle",
+      "D": "Iris"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70686?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "D",
+    "explanation": "The diaphragm in a camera is similar to the D. Iris of the eyes.The diaphragm controls the amount of light entering the camera, just as the iris controls the amount of light entering the eye by adjusting the pupil's size.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2347",
+    "text": "The device for measuring the angle of dip is",
+    "options": {
+      "A": "Dip circle",
+      "B": "Dip inclination",
+      "C": "Dip variation",
+      "D": "Dip meter"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70687?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "A",
+    "explanation": "The device for measuring the angle of dip is called a dip circle or declinometer.\nA dip circle contains\u00a0a magnetic needle that can move freely, enabling it to align with the Earth's magnetic field. The angle formed between the needle and the horizontal plane represents the angle of dip.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2348",
+    "text": "The velocity ratio of an inclined plane at 60\u00ba to the horizontal is",
+    "options": {
+      "A": "1.055",
+      "B": "1.155",
+      "C": "1.255",
+      "D": "2.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70688?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "B",
+    "explanation": "Velocity ratio of an inclined plane = \\(\\frac{1}{Sin\\theta}\\)\n=\u00a0 \\(\\frac{1}{Sin 60}\\) \u00a0\u2248 1.155\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2349",
+    "text": "The bursting of water pipes during very cold weather, when the water in the pipes form ice could be attributed to",
+    "options": {
+      "A": "contraction of pipes when cooled",
+      "B": "expansion of water on freezing",
+      "C": "contraction of water on freezing",
+      "D": "expansion of ice on melting"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70689?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "B",
+    "explanation": "The bursting of water pipes in very cold weather occursbecause water expands as it freezes.This expansion increases pressure inside the pipes, which can lead to bursting.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2350",
+    "text": "One of these is not the use of an electroscope",
+    "options": {
+      "A": "testing the type of charge on a charge body",
+      "B": "measuring ionization current in air",
+      "C": "detecting the pressure of charge on a charged body",
+      "D": "producing electric charge in a body"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70690?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "D",
+    "explanation": "An electroscope is a passive device used to detect and measure charges, not to produce or generate electric charge in a body.",
+    "year": "2024"
+  },
+  {
+    "number": "2351",
+    "text": "As per Faraday's laws of electromagnetic induction, an e.m.f is induced in a conductor whenever",
+    "options": {
+      "A": "lies parallel to the magnetic flux",
+      "B": "lies in a magnetic field",
+      "C": "lies out side  but close to a magnetic field",
+      "D": "cuts magnetic flux"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70692?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "D",
+    "explanation": "Cuts magnetic flux: \u00a0According to Faraday's law, when a conductor cuts through magnetic field lines (flux), an e.m.f is induced.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2352",
+    "text": "Photometer is used to measure",
+    "options": {
+      "A": "Kinetic energy of liberated electrons",
+      "B": "Intensity of light",
+      "C": "frequency of light",
+      "D": "wavelength of light"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70693?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "B",
+    "explanation": "A photometer is used to measure the intensity of light.\nPhotometers can determine the brightness of light sources, compare light intensity from different sources, or measure the amount of light reaching a specific point. They are commonly used in photography, astronomy, and various scientific applications to ensure proper lighting conditions\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2353",
+    "text": "Using the circuit above, at resonance",
+    "options": {
+      "A": "V\\(_L\\) = V\\(_R\\)",
+      "B": "V\\(_R\\) = V\\(_R\\)",
+      "C": "V\\(_L\\) = V\\(_L\\)",
+      "D": "V\\(_L\\) = V\\(_C\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70694?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "D",
+    "explanation": "At resonance, the inductive reactance (V\\(_L\\)\u00a0) equals the capacitive reactance (V\\(_C\\)), causing the voltages across the inductor and capacitor to be equal in magnitude but opposite in phase.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2354",
+    "text": "Find the amount of current required to deposit 0.02kg of metal in a given electrolysis for 120 seconds. [electro chemical\u00a0equivalent of the metal = 1.3 x 10\\(^{-7}\\)kgC\\(^{-1}\\)]",
+    "options": {
+      "A": "7.8 x 10\\(^{-4}\\)A",
+      "B": "7.8 x 10\\(^{-2}\\)A",
+      "C": "1.3 x 10\\(^3\\)A",
+      "D": "1.3 x 10\\(^5\\)A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70695?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "C",
+    "explanation": "mass of metal deposited during electrolysis = Zit\nGiven: mass = 0.02kg, i, t = 120s and Z =\u00a0 1.3 x 10\\(^{-7}\\)kgC\\(^{-1}\\)]\ni = \\(\\frac{\\text{m}}{\\text{Zt}}\\)\ni =\u00a0\\(\\frac{0.02}{1.3 \\times\u00a010^{-7} \\times 120}\\) =\u00a01282.05\u00a0\u2248\u00a01.3 x 10\\(^3\\)A\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2355",
+    "text": "The acceleration of a free fall due to gravity is not a constant everywhere on the Earth's surface because",
+    "options": {
+      "A": "mass of the earth",
+      "B": "elliptical shape of the earth",
+      "C": "variation in the density of the earth",
+      "D": "rotation of the earth about its axis"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70696?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "B",
+    "explanation": "The elliptical shape of the Earth: The Earth is not a perfect sphere; it is slightly flattened at the poles and bulging at the equator. This shape causes variations in gravitational acceleration.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2356",
+    "text": "An example of a non-rechargeable cell is",
+    "options": {
+      "A": "nickel iron",
+      "B": "mercury cadmium",
+      "C": "dry leclanche",
+      "D": "lead-acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/70697?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "C",
+    "explanation": "Dry Leclanch\u00e9: This is a common non-rechargeable cell.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2358",
+    "text": "The dimension of power is",
+    "options": {
+      "A": "ML\\(^2\\)T\\(^{-3}\\)",
+      "B": "ML\\(^1\\)T\\(^2\\)",
+      "C": "ML\\(^2\\)T\\(^{-2}\\)",
+      "D": "MLT\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/71619?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "A",
+    "explanation": "POWER = \\(\\frac{\\text{workdone}}{\\text{time}}\\)\nDimension of work done (\u00a0F x S\u00a0= M x A x S ) = MLT\\(^{-2}\\) L = ML\\(^2\\)T\\(^{-2}\\)\nDimension of time = T\nTherefore, the dimension of power = \\(\\frac{ML^2T^{-2}}{T}\\) = ML\\(^2\\)T\\(^{-3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2359",
+    "text": "A boy standing 408m from a wall blew a trumpet and heard the echo 2.4s later. Calculate the speed of the sound",
+    "options": {
+      "A": "310m/s",
+      "B": "320m/s",
+      "C": "330m/s",
+      "D": "340m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/71633?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "D",
+    "explanation": "The distance to the wall is\u00a0408m, so the total distance (D) traveled by the sound is: D = 2 \u00d7 408m = 816m\nBut v = \\(\\frac{d}{t}\\) = \\(\\frac{816}{2.4}\\) = 340m/s\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "number": "1793",
+    "text": "Given T = { even numbers from 1 to 12 }\nN = {common factors of 6, 8 and 12}\nFind T \u2229 N",
+    "options": {
+      "A": "{2, 3}",
+      "B": "{2, 3, 4}",
+      "C": "{3, 4, 6}",
+      "D": "{2}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46321?exam_type=jamb&type=obj&page=359",
+    "correct_answer": "D",
+    "explanation": "T = {evenn numbers from 1 to 12}N = {common factors of 6,8 and 12}Find T \u2229 NT = {2, 4, 6, 8, 10, 12}N = {2}T \u2229 N = {2} i.e value common to T & N\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1794",
+    "text": "What is the next number in the series 2, 1, \\(\\frac{1}{2}\\), \\(\\frac{1}{4}\\)...",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{2}{8}\\)",
+      "C": "\\(\\frac{3}{7}\\)",
+      "D": "\\(\\frac{1}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46322?exam_type=jamb&type=obj&page=359",
+    "correct_answer": "D",
+    "explanation": "n\n5\n5\n4\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1795",
+    "text": "If U = {x : x is an integer and 1 \u2264 x \u2264 20 }\nE1 = {x: x is a multiple of 3}\nE2 = {x: x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E2",
+    "options": {
+      "A": "\\(\\frac{3}{4}\\)",
+      "B": "\\(\\frac{3}{10}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{1}{20}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46323?exam_type=jamb&type=obj&page=359",
+    "correct_answer": "A",
+    "explanation": "U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}E1 = {3, 6, 9, 12, 15, 18}E2 = {4, 8, 12, 16, 20}Probability of E2 = \\(\\frac{5}{20}\\) i.e \\(\\frac{\\text{Total number in}E_2}{\\text{Entire number in set}}\\)Probability of set E2 = 1 \u2212 \\(\\frac{5}{20}\\)= \\(\\frac{15}{20}\\)= \\(\\frac{3}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1796",
+    "text": "The curved surface area of a cylinder 5cm high is 110cm2. Find the radius of its base\n\u03c0 = \\(\\frac{22}{7}\\)",
+    "options": {
+      "A": "2.6cm",
+      "B": "3.5cm",
+      "C": "3.6cm",
+      "D": "7.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46324?exam_type=jamb&type=obj&page=360",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1797",
+    "text": "If two graphs Y = px2  + q and y = 2x2  \u2212 1 intersect at x =2, find the value of p in terms of q",
+    "options": {
+      "A": "q \u2212 \\(\\frac{8}{7}\\)",
+      "B": "7 \u2212 \\(\\frac{q}{4}\\)",
+      "C": "8 \u2212 \\(\\frac{q}{2}\\)",
+      "D": "7 + \\(\\frac{q}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46325?exam_type=jamb&type=obj&page=360",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1798",
+    "text": "Evaluate (\\(\\sin\\)45\u00ba\u00a0+ \\(\\sin\\)30\u00ba\u00a0) in surd form",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{3}}{2\\sqrt{2}}\\)",
+      "B": "\u221a3 \u2212 \\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)\u221a2",
+      "D": "\\(\\frac{1 +\\sqrt{2}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46326?exam_type=jamb&type=obj&page=360",
+    "correct_answer": "D",
+    "explanation": "hypotenusesin = \\(\\frac{1}{2}\\)\\(\\sin45 = \\frac{1}{\\sqrt{2}}\\)= \\(\\frac{2}{2}\\)\u2234 (sin45 + sin30)= \\(\\frac{1}{\\sqrt{2}} + \\frac{1}{2}\\)= \\(\\frac{\\sqrt{2}}{2}\\) + \\(\\frac{1}{2}\\)= \\(\\frac{\\sqrt{2} + 1}{2}\\)= \\(\\frac{1 + \\sqrt{2}}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1799",
+    "text": "If y = x Sin x, find \\(\\frac{dy}{dx}\\) when x = \\(\\frac{\\pi}{2}\\)",
+    "options": {
+      "A": "\\(\\frac{- \\pi}{2}\\)",
+      "B": "-1",
+      "C": "1",
+      "D": "\\(\\frac{ \\pi}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46327?exam_type=jamb&type=obj&page=360",
+    "correct_answer": "C",
+    "explanation": "y = xsinx\\(\\frac{dy}{dx}\\) = \\(1 \\sin x + x \\cos x\\)= \\(\\sin x + x \\cos x\\)At x = \\(\\frac{\\pi}{2}\\)= sin\\(\\frac{\\pi}{2}\\) + \\(\\frac{\\pi}{2} \\cos {\\frac{\\pi}{2}}\\)= 1 + \\(\\frac{\\pi}{2}\\) \u00d7 0= 1\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1800",
+    "text": "If temperature t is directly proportional to heat h, and when t = 20oC, h = 50 J, find t when h = 60J",
+    "options": {
+      "A": "24oC",
+      "B": "20oC",
+      "C": "34oC",
+      "D": "30oC"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46328?exam_type=jamb&type=obj&page=360",
+    "correct_answer": "A",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1801",
+    "text": "Evaluate 1 - (\\(\\frac{1}{5}\\) x \\(\\frac{2}{3}\\)) + ( 5 + \\(\\frac{2}{3}\\))",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2\\(\\frac{2}{3}\\)",
+      "D": "\\(\\frac{98}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46329?exam_type=jamb&type=obj&page=361",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1802",
+    "text": "Given m = N\\(\\sqrt{\\frac{SL}{T}}\\) make T the subject of the formula",
+    "options": {
+      "A": "\\(\\frac{\\text{NSL}}{M}\\)",
+      "B": "\\(\\frac{N^2SL}{M^2}\\)",
+      "C": "\\(\\frac{N^2SL}{M}\\)",
+      "D": "\\(\\frac{NSL}{M^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46330?exam_type=jamb&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "M = N \\(\\sqrt{\\frac{SL}{T}}\\),make T subject of formula square both sidesM\\(^{2}\\) = \\(\\frac{N^2SL}{T}\\)TM\\(^{2}\\) = N\\(^{2}\\)SLT = \\(\\frac{N^2SL}{M^2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1803",
+    "text": "Simplify 3 \\(^{n \u2212 1}\\) \u00d7\u00a0 \\(\\frac{27^{n + 1}}{81^n}\\)",
+    "options": {
+      "A": "3\\(^{2n}\\)",
+      "B": "9",
+      "C": "3n",
+      "D": "3 \\(^{n + 1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46331?exam_type=jamb&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "3\\(^{n - 1}\\) \u00d7 \\(\\frac{27^{n + 1}}{81^n}\\)= 3\\(^{n - 1}\\) \u00d7\u00a0 \\(\\frac{3^{3(n + 1)}}{3^{4n}}\\)= 3\\(^{n - 1 + 3n + 3 \u2212 4n}\\)= 3\\(^{4n \u2212 4n \u2212 1 + 3}\\)= \\(3^{2}\\)= 9\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1804",
+    "text": "The locus of a point which is equidistant from the line PQ forms a",
+    "options": {
+      "A": "circle centre P",
+      "B": "pair of parallel lines each opposite to PQ",
+      "C": "circle centre Q",
+      "D": "perpendicular line to PQ"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46332?exam_type=jamb&type=obj&page=361",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1805",
+    "text": "Given the quadrilateral RSTO inscribed in the circle with O as centre. Find the size angle x and given RST = 60o",
+    "options": {
+      "A": "100o",
+      "B": "140o",
+      "C": "120o",
+      "D": "10o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46334?exam_type=jamb&type=obj&page=361",
+    "correct_answer": "C",
+    "explanation": "o\no\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1806",
+    "text": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 7, 10, 6, 5",
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "12",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46335?exam_type=jamb&type=obj&page=362",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1807",
+    "text": "Find the sum to infinity of the series \n\\(\\frac{1}{4}\\), \\(\\frac{1}{8}\\), \\(\\frac{1}{16}\\),..........",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(\\frac{-1}{5}\\)",
+      "D": "\\(\\frac{73}{12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46336?exam_type=jamb&type=obj&page=362",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1808",
+    "text": "The base in which the operation was performed was",
+    "options": {
+      "A": "6",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46337?exam_type=jamb&type=obj&page=362",
+    "correct_answer": "B",
+    "explanation": "The operation was performed in base 2 because when counting in base 2, there are only two possible digits: 0 and 1.\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1809",
+    "text": "The value of x + x ( xx) when x = 2 is",
+    "options": {
+      "A": "16",
+      "B": "10",
+      "C": "18",
+      "D": "24"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46338?exam_type=jamb&type=obj&page=362",
+    "correct_answer": "B",
+    "explanation": "when x=2, we have\n\\(2 + 2(2^{2})\\) = \\(2 + 8 = 10\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1810",
+    "text": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "4",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46339?exam_type=jamb&type=obj&page=362",
+    "correct_answer": "B",
+    "explanation": "o\no\no\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1811",
+    "text": "A cylindrical tank has a capacity of 3080m3. What is the depth of the tank if the diameter of its base is 14m? Take pi = 22/7.",
+    "options": {
+      "A": "23m",
+      "B": "25m",
+      "C": "20m",
+      "D": "22m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46340?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "C",
+    "explanation": "3\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1812",
+    "text": "Simplify 4\\(\\sqrt{27}\\) + 5\\(\\sqrt{12}\\) \u2212 3\\(\\sqrt{75}\\)",
+    "options": {
+      "A": "7",
+      "B": "\u2212 7",
+      "C": "\u2212 7\\(\\sqrt{3}\\)",
+      "D": "7\\(\\sqrt{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46341?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1813",
+    "text": "A man covered a distance of 50 miles on his first trip, on a later trip he traveled 300 miles while going 3 times as fast. His new time compared with the old distance was?",
+    "options": {
+      "A": "three times as much",
+      "B": "the same",
+      "C": "twice as much",
+      "D": "half as much"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46342?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1814",
+    "text": "In the figure, find x",
+    "options": {
+      "A": "40o",
+      "B": "55o",
+      "C": "50o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46343?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "Sum of angle at a point = 360o2x + 3x + 4x = 3609x = 360x = \\(\\frac{360}{9}\\)x = 40o\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1815",
+    "text": "Divide 4x3 - 3x + 1 by 2x - 1",
+    "options": {
+      "A": "2x2 -x + 1",
+      "B": "2x2 - x -1",
+      "C": "2x2 + x + 1",
+      "D": "2x2 + x -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46344?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "D",
+    "explanation": "by method of long division, we get the answer.\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1816",
+    "text": "A car dealer bought a second-hand car for\u00a0250,000 and spent N 70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+    "options": {
+      "A": "60%",
+      "B": "32%",
+      "C": "25%",
+      "D": "20%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46345?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "C",
+    "explanation": "Total Cost Price = N(250,000 + 70,000)= N 320,000Selling Price = N 400,000(Given)Gain = Selling Price - Cost Price= 400,000 - 320,000= 80,000% gain = \\(\\frac{\\text{Gain}}{\\text{Cost Price}}\\) \u00d7 100= \\(\\frac{80,000}{320,000}\\) \u00d7 100Gain % = 25%\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1817",
+    "text": "Find the number of ways that the letters of the word EXCELLENCE be arranged",
+    "options": {
+      "A": "\\(\\frac{10!}{2!2!2!}\\)",
+      "B": "\\(\\frac{10!}{4!2!}\\)",
+      "C": "\\(\\frac{10!}{4!2!2!}\\)",
+      "D": "\\(\\frac{10!}{2!2!}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46346?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "C",
+    "explanation": "EXCELLENCEIt is a ten letter word = 10!Since we have repeating letters, we have to divide to remove the duplicates accordingly. There are 4 Es, 2 Cs, 2 Ls\u2234 there are\\(\\frac{10!}{4!2!2!}\\) ways to arrange\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1818",
+    "text": "Evaluate \\(\\frac{0.00000231}{0.007}\\) and leave the answer in standard form",
+    "options": {
+      "A": "3.3 x 10-4",
+      "B": "3.3 x 10-3",
+      "C": "3.3 x 10-5",
+      "D": "3.3 x 10-8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46347?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{0.00000231}{0.007}\\) to standard form= \\(\\frac{231 \\times 10^{-8}}{7 \\times 10^{-3}}\\)= 33 \u00d7 10\\(^{-8 \u2212 (\u22123)}\\)= 33 \u00d7 10\\(^{\u2212 8 + 3}\\)= 33 \u00d7 10-5\n= 3.3 x 10^-4\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1819",
+    "text": "If a rod 10cm in length was measured as 10.5cm, calculate the percentage error",
+    "options": {
+      "A": "5%",
+      "B": "10%",
+      "C": "8%",
+      "D": "7%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46348?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1820",
+    "text": "Find the principal which amounts to \u20a6 5,500 at a simple interest in 5 years at 2% per annum",
+    "options": {
+      "A": "\u20a6 4,900",
+      "B": "\u20a6 5,000",
+      "C": "\u20a6 4,700",
+      "D": "\u20a6 4,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46349?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1821",
+    "text": "The pie chart shows the allocation of money to each sector in a farm. The total amount allocated to the farm is \u20a6 80 000. Find the amount allocated to fertilizer",
+    "options": {
+      "A": "\u20a6 35, 000",
+      "B": "\u20a6 40,000",
+      "C": "\u20a6 25,000",
+      "D": "\u20a6 20,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46350?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "D",
+    "explanation": "Total angle at a point = 3600\u2234 To get the angle occupied by fertilizer we have,40 + 50 + 80 + 70 + 30 + fertilizer(x) = 360270 + x = 360x = 360 - 270x = 90Total amount allocated to the farm= \u20a6 80,000\u2234Amount allocated to the fertilizer= \\(\\frac{\\text{fertilizer (angle) \u00d7 Total amount}}{\\text{total angle}}\\)= \\(\\frac{90}{360}\\) \u00d7 80,000= \u20a620,000\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1822",
+    "text": "In how many ways can the word MATHEMATICS be arranged?",
+    "options": {
+      "A": "\\(\\frac{11!}{9!2!}\\)",
+      "B": "\\(\\frac{11!}{9!2!2!}\\)",
+      "C": "\\(\\frac{11!}{2!2!2!}\\)",
+      "D": "\\(\\frac{11!}{2!2!}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46351?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "C",
+    "explanation": "MATHEMATICS is an eleven-letter word = 11!There are 2Ms and 2As and 2TsDivide the number of repeating letters= \\(\\frac{11!}{2!2!2!}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1823",
+    "text": "In how many ways can the word MACICITA be arranged?",
+    "options": {
+      "A": "\\(\\frac{8!}{2!}\\)",
+      "B": "\\(\\frac{8!}{3! 2!}\\)",
+      "C": "\\(\\frac{8!}{2! 2! 2!}\\)",
+      "D": "8!"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46352?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1824",
+    "text": "y is inversely proportional to x and y is\u00a06 when x = 7. Find the constant of the variation",
+    "options": {
+      "A": "47",
+      "B": "42",
+      "C": "54",
+      "D": "46"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46353?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "B",
+    "explanation": "Y \u221d \\(\\frac{1}{2}\\)Y = 6, X = 7Y = \\(\\frac{k}{x}\\) where k is constant6 = \\(\\frac{k}{7}\\)k = 42\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1825",
+    "text": "Find the equation of the locus of a point p (x, y) such that pv = pw, where v= (1, 1) and w = (3, 5)",
+    "options": {
+      "A": "2x + 2y = 9",
+      "B": "2x + 3y = 8",
+      "C": "2x + y = 9",
+      "D": "x + 2y = 8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46355?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1826",
+    "text": "Find \u222b(x2  + 3x \u2212 5)dx",
+    "options": {
+      "A": "\\(\\frac{x_3}{3}\\) - \\(\\frac{3x_2}{2}\\) - 5x + k",
+      "B": "\\(\\frac{x_3}{3}\\) - \\(\\frac{3x_2}{2}\\) + 5x + k",
+      "C": "\\(\\frac{x_3}{3}\\) + \\(\\frac{3x_2}{2}\\) - 5x + k",
+      "D": "\\(\\frac{x_3}{3}\\) + \\(\\frac{3x_2}{2}\\) + 5x + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46356?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "C",
+    "explanation": "n\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1827",
+    "text": "In the diagram above\u00a0MN is a chord of a circle KMN centre O and radius 10cm. If < MON = 140\u00b0, find, to the nearest cm, the length of the chord MN.",
+    "options": {
+      "A": "10cm",
+      "B": "19cm",
+      "C": "17cm",
+      "D": "12cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46357?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "B",
+    "explanation": "Find the diagramSin 70\u00b0x = 10 Sin 70\u00b0= 9.3969Hence, length of chord MN = 2x= 2 \u00d7 9.3969= 18.79= 19cm (nearest cm)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1828",
+    "text": "Factorize completely\u00a0X2+2XY+Y2+3X+3Y-18",
+    "options": {
+      "A": "(x + y + 6)(x + y -3)",
+      "B": "(x - y - 6)(x - y + 3)",
+      "C": "(x - y + 6)(x - y - 3)",
+      "D": "(x +  y - 6)(x + y + 3)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46359?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "A",
+    "explanation": "\\(x^{2} + 2xy + y^{2} + 3x + 3y - 18\\)\\(x^{2} + 2xy + 3x + y^{2} + 3y -18\\)\\(x^{2} + 2xy - 3x + 6x + y^{2} -3y + 6y -18\\)\\(x^{2} + 2xy -3x + y^{2} -3y + 6x + 6y -18\\)\\(x^{2} + xy -3x + xy + y^{2} - 3y + 6x + 6y -18\\)x(x + y - 3) + y(x + y - 3) + 6(x + y - 3)= (x + y - 3)(x + y + 6)= (x + y + 6)(x + y -3)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1829",
+    "text": "Make S the subject of the relation\np = s + \\(\\frac{sm^2}{nr}\\)",
+    "options": {
+      "A": "s = \\(\\frac{nrp}{nr + m^2}\\)",
+      "B": "s = nr + \\(\\frac{m^2}{mrp}\\)",
+      "C": "s = \\(\\frac{nrp}{mr}\\) + m2",
+      "D": "s = \\(\\frac{nrp}{nr}\\) + m2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46360?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "A",
+    "explanation": "p = s + \\(\\frac{sm^2}{nr}\\)p = s + ( 1 + \\(\\frac{m^2}{nr}\\))p = s (1 + \\(\\frac{nr + m^2}{nr}\\))nr \u00d7 p = s (nr + m2)s = \\(\\frac{nrp}{nr + m^2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1830",
+    "text": "The operation * on the set R of real number is defined by x * y = 3x + 2y \u2212 1, find 3* \u2212 1",
+    "options": {
+      "A": "9",
+      "B": "- 9",
+      "C": "6",
+      "D": "- 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46361?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1831",
+    "text": "Find the gradient of the line joining the points (3, 2) and (1, 4)",
+    "options": {
+      "A": "3/2",
+      "B": "2/1",
+      "C": "-1",
+      "D": "3/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46362?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1832",
+    "text": "Simplify\u00a0(\\(\\sqrt[3]{64a^3})^{-1}\\)",
+    "options": {
+      "A": "4a",
+      "B": "\\(\\frac{1}{8a}\\)",
+      "C": "8a",
+      "D": "\\(\\frac{1}{4a}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46363?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "(\\(\\sqrt[3]{64a^3})^{-1}\\)\\(\\frac{1}{(\\sqrt[3]{64a^3})}\\)= \\(\\frac{1}{4a}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1833",
+    "text": "If \\(\\frac{2 \\sqrt{3} - \\sqrt{2}}{\\sqrt{3} + 2 \\sqrt{2}}\\) = m + n \u221a 6,\n\nfind the values of m and n respectively",
+    "options": {
+      "A": "1, \u2212 2",
+      "B": "\u2212 2, n = 1",
+      "C": "\\(\\frac{-2}{5}\\), 1",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46364?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1834",
+    "text": "If \u03b1 and \u03b2 are the roots of the equation 3x2\u00a0+ 5x - 2 = 0, find the value of 1/\u03b1 + 1/\u03b2",
+    "options": {
+      "A": "\\(\\frac{-5}{3}\\)",
+      "B": "\\(\\frac{-2}{3}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{5}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46365?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "1/\u03b1 + 1/\u03b2 = \u03b2+\u03b1/\u03b1\u03b23x2\u00a0+ 5x - 2 = 0x2\u00a0+ 5x/3 - 2/3 = 0\u03b1\u03b2 = -2/3\u03b2+\u03b1 = -5/3Thus; \u03b2+\u03b1/\u03b1\u03b2 = -2/3\u00a0-2/3 = -5/2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1835",
+    "text": "Find the range of the following set of numbers 0.4, \u22120.4, 0.3, 0.47, \u22120.53, 0.2 and \u22120.2",
+    "options": {
+      "A": "1.03",
+      "B": "0.07",
+      "C": "0.03",
+      "D": "1.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46366?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1836",
+    "text": "Evaluate 1 \u2212 (\\(\\frac{1}{5}\\) x\u00a01\\(\\frac{2}{3}\\)) + (5 + 1\\(\\frac{2}{3}\\))",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "\\(\\frac{22}{3}\\)",
+      "D": "3\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46367?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "C",
+    "explanation": "1 \u2212 (\\(\\frac{1}{5}\\) x\u00a01\\(\\frac{2}{3}\\)) + (5 + 1\\(\\frac{2}{3}\\))1 \u2212 (\\(\\frac{1}{5}\\) x\u00a0\\(\\frac{5}{3}\\)) + (5 + \\(\\frac{5}{3}\\))1 \u2212 \\(\\frac{1}{3}\\) + \\(\\frac{20}{3}\\)= \\(\\frac{22}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1837",
+    "text": "What is the product of 2x2 \u2212 x + 1 and 3 \u2212 2x",
+    "options": {
+      "A": "4x3 \u2212 8x2 + 5x + 3",
+      "B": "\u22124x3 + 8x2 \u2212 5x + 3",
+      "C": "\u22124x3 \u2212 8x2 + 5x + 3",
+      "D": "4x3 + 8x2 \u2212 5x + 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46368?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\n3\n2\n3\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  }
+]

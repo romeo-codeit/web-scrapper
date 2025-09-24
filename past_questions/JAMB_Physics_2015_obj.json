@@ -1,0 +1,926 @@
+[
+  {
+    "number": "1517",
+    "text": "If the volume of a gas is recorded as 76cm3 at a temperature of 27\u00b0C with a pressure of 800mmHg. What will be the volume of the gas at S.T.P?",
+    "options": {
+      "A": "36.2cm3",
+      "B": "25.7cm3",
+      "C": "72.8cm3",
+      "D": "24.3cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40761?exam_type=jamb&type=obj&page=304",
+    "correct_answer": "C",
+    "explanation": "Using the general gas\u00a0laws:\\(\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}\\)P\\(_1\\) = 800mmHg, V\\(_1\\) \u00a0= 76cm\\(^3\\), T\\(_1\\) \u00a0= 273 + 27 = 300kP\\(_2\\) = 760mmHg, V\\(_2\\) \u00a0= ? T\\(_2\\) = 273 + 0 = 273\u00a0 (@ STP)\\(\\frac{800 \\times 76}{300} = \\frac{760 \\times V_2}{273}\\)V\\(_2 = \\frac{800 \\times 76 \\times 273}{300 \\times 760}\\) = 72.8cm\\(^3\\)Therefore, the\u00a0 volume of gas at\u00a0S.T.P = 72.8\u00a0cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1518",
+    "text": "Boyle\u2019s law may be Written as",
+    "options": {
+      "A": "P1V1= P2V2",
+      "B": "V1 = V2 \u00f7 T1T2",
+      "C": "P1T1 = P2T2",
+      "D": "P1V1 \u00f7 T1 = P1V1 \u00f7 T2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40762?exam_type=jamb&type=obj&page=304",
+    "correct_answer": "A",
+    "explanation": "Boyle\u2018s law stats that the volume of a given mass of a gas, at a constant temperature is inversely proportional to us pressure.MathematicallyV \u221d l/p, v = k/p (where k is constant)K = VPLet k = k1Then, if k = k, V and P = V1P1V1P1 = V2P2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1519",
+    "text": "The direction of the path taken by light is called",
+    "options": {
+      "A": "Locus",
+      "B": "Lines",
+      "C": "Ray",
+      "D": "Beam"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40764?exam_type=jamb&type=obj&page=304",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1520",
+    "text": "What is the inductance (L) of an inductor whose reactance is 1\u03a9 at 50/ \u03c0 hertz (H)?",
+    "options": {
+      "A": "100 H",
+      "B": "0.01H",
+      "C": "10H",
+      "D": "1H"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40766?exam_type=jamb&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1521",
+    "text": "A stroboscope can be used to make the wave appear \u2026\u2026\u2026\u2026..",
+    "options": {
+      "A": "Stationary",
+      "B": "In motion",
+      "C": "Dipper",
+      "D": "Ripple"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40768?exam_type=jamb&type=obj&page=305",
+    "correct_answer": "A",
+    "explanation": "Stroboscope is a scientific instrument used to make a wave appears stationary when used\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1522",
+    "text": "In an elastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
+    "options": {
+      "A": "I only",
+      "B": "I and IV only",
+      "C": "II only",
+      "D": "III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40769?exam_type=jamb&type=obj&page=305",
+    "correct_answer": "B",
+    "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1523",
+    "text": "Body floats in fluid when its \u2026\u2026\u2026\u2026\u2026\u2026\u2026",
+    "options": {
+      "A": "Displaces its own volume of the liquid (fluid)",
+      "B": "Displaces its own weight of the fluid",
+      "C": "Displace its own density of the fluid",
+      "D": "Is no longer subjected to gravity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40771?exam_type=jamb&type=obj&page=305",
+    "correct_answer": "B",
+    "explanation": "Note:The principle of floatation states that a floating body displaces its own weight of the fluid or which its float.For object to sink weight of the object (W) > upthrust of the fluid (v) i.e. w > u(i.e. weight of the body (or object) mass of the fluid)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1524",
+    "text": "The general gas law can be written as",
+    "options": {
+      "A": "PV \u00f7 T = a constant",
+      "B": "PV = a constant",
+      "C": "v/t = a constant",
+      "D": "p/T = a constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40773?exam_type=jamb&type=obj&page=305",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1525",
+    "text": "A motor boy of a driver saw what seems to appear to be a pool of water a head of him, while his driver\u00a0drives a new truck on a sunny day. Which of the following explains his observation?",
+    "options": {
+      "A": "He saw a flying objects",
+      "B": "He must be thinking of water and food",
+      "C": "He was seeing the shadow of the car",
+      "D": "The sun ray from the sky were passing from a hot air (layer) to cold layer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40784?exam_type=jamb&type=obj&page=305",
+    "correct_answer": "D",
+    "explanation": "The appearance of pool of water on road surfaces is called MIRAGEHis observation show that light from the sun ray refracted through a layer of hot air(layer) which is closed to the ground, passes from a hot air layer to the cold layer\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1526",
+    "text": "Which of the following is not luminous object?",
+    "options": {
+      "A": "The sun",
+      "B": "The moon",
+      "C": "light candle",
+      "D": "Star"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40786?exam_type=jamb&type=obj&page=306",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1527",
+    "text": "The resultant force of a couple is \u2026\u2026\u2026?",
+    "options": {
+      "A": "Infinity",
+      "B": "Zero",
+      "C": "One",
+      "D": "Half"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40787?exam_type=jamb&type=obj&page=306",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1528",
+    "text": "A vector quantity can only be completely described when \u2026\u2026\u2026 and \u2026\u2026\u2026\u2026are mentioned.",
+    "options": {
+      "A": "Magnitude and motion",
+      "B": "Magnitude and direction",
+      "C": "Distance and specified displacement",
+      "D": "Moment and momentum"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40788?exam_type=jamb&type=obj&page=306",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1529",
+    "text": "In which of the following device is\u00a0the expansion of solid not required?\n\nI. Simple pendulum\nII. Fire alarms\nIII. Thermostat\nIV. Bimetallic thermometer",
+    "options": {
+      "A": "III only",
+      "B": "II & III only",
+      "C": "I only",
+      "D": "II, III & IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40789?exam_type=jamb&type=obj&page=306",
+    "correct_answer": "C",
+    "explanation": "Simple pendulum does not depend on thermal expansionFive alarms, Thermostat and Bimetallic thermometer are application of thermal expansion of solid\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1530",
+    "text": "If an object is placed at a height of tem above the ground at a stationary point. It posses what types of energy?",
+    "options": {
+      "A": "Mechanical energy",
+      "B": "Stationary energy",
+      "C": "Potential energy",
+      "D": "Vibrational energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40791?exam_type=jamb&type=obj&page=306",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1531",
+    "text": "Calculate the gravitation force of attraction between two planets of \\(10^{24}\\)kg and \\(10^{27}\\)kg separated by a distance of \\(10^{20}\\)meters",
+    "options": {
+      "A": "6.67N",
+      "B": "6.56N",
+      "C": "7.5N",
+      "D": "8.6N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40800?exam_type=jamb&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "F =\u00a0\\(\\frac{Gm_1 m_2}{r^2}\\)\\(M_1 = 10^{24}\\)Kg, \\(M_2 = 10^{27}\\)Kg , r = \\(10^{20}\\)meters(Note: the gravitational constant of G =\u00a0\\(6.67408\u00d710^{-11}Nm^2/kg^2\\))\nF = \\(\\frac{(6.67 \\times 10^{\u2013 11 + 24 + 27})}{ 10^{40}}\u00a0= 6.67 \\times \\frac{10^{40}}{10^{40}}\\)= 6.67Nf = 6.67N\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1532",
+    "text": "Mr. F. Abioye observed his image through a plane mirror, kept at a distance\u00a04.7m away from him\u00a0in his room. At what distance is the image found from Abioye's eye?",
+    "options": {
+      "A": "9.4m",
+      "B": "7.5m",
+      "C": "5.7m",
+      "D": "6.9m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40802?exam_type=jamb&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "As object and image are usually at equal distance apart from the mirror /p>Distance between Abioye (a) and hip image (I) = AIi.e. AI = 4.7 + 47= 9.4m\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1533",
+    "text": "Primary colours of light are",
+    "options": {
+      "A": "Red, blue and green",
+      "B": "Cyan, magneta and yellow",
+      "C": "Black, blue and green",
+      "D": "None of these colours"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40804?exam_type=jamb&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1534",
+    "text": "Electrons were discovered by",
+    "options": {
+      "A": "James Chadwick B.",
+      "B": "J.J Thompson",
+      "C": "Sir Isaac Newton",
+      "D": "Charles Newton"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40805?exam_type=jamb&type=obj&page=307",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1535",
+    "text": "What is the relationship mechanical advantage (MA) velocity Ratio (V.R) and efficiency with percentage?",
+    "options": {
+      "A": "e = M.A/V.R \u00d7 100 %",
+      "B": "M.A = E.V.R",
+      "C": "V.R = 1 \u00f7 sin \u03b8 M.A",
+      "D": "M.A = 1/E \u00d7 100%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40818?exam_type=jamb&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1536",
+    "text": "The external parts of an object can be measure accurately through the use of which scientific instrument?",
+    "options": {
+      "A": "Micrometer screw gauge",
+      "B": "Vernier Caliper",
+      "C": "Meter rule",
+      "D": "None of the instrument"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40821?exam_type=jamb&type=obj&page=308",
+    "correct_answer": "B",
+    "explanation": "Vernier calliper is used\u00a0to measure the internal and external diameter of an object\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1537",
+    "text": "Convert 45\u00b0C to kelvin",
+    "options": {
+      "A": "318K",
+      "B": "250K",
+      "C": "184K",
+      "D": "120K"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40823?exam_type=jamb&type=obj&page=308",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1538",
+    "text": "A member of the crew of a SPACESHIP experiences weightlessness in a space when they",
+    "options": {
+      "A": "Fall freely from the earth\u2019s gravitational field",
+      "B": "Is walking on the planet",
+      "C": "In between the sun and the earth",
+      "D": "Holding anything in space is negative"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40824?exam_type=jamb&type=obj&page=308",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1539",
+    "text": "Radio waves belong to the class of wave whose velocity is about",
+    "options": {
+      "A": "34m/s",
+      "B": "3 \u00d7106m/s",
+      "C": "3 \u00d7108m/s",
+      "D": "3 \u00d7 10-8m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40830?exam_type=jamb&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "8\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1540",
+    "text": "The compressed regions and the space-out regions in longitude wave are refers to as",
+    "options": {
+      "A": "Compression and Rarefaction",
+      "B": "Comparison and Explosion",
+      "C": "Reflection only",
+      "D": "Refraction only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40836?exam_type=jamb&type=obj&page=308",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1541",
+    "text": "At what respective value of a, b, and c would the unit of work, the joule, be dimensionally similar to Ma  Lb  Tc?",
+    "options": {
+      "A": "1, \u2013 2, 1",
+      "B": "1, 2, \u2013 2",
+      "C": "1, 1, \u20132",
+      "D": "2, 2, 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40839?exam_type=jamb&type=obj&page=309",
+    "correct_answer": "B",
+    "explanation": "\u20132\n\u20132\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1542",
+    "text": "The device in which one circuit controls another, especially if the current in the second circuit is large or dangerous is known as",
+    "options": {
+      "A": "Electromagnetic devices",
+      "B": "Magnetic relay device",
+      "C": "None at all",
+      "D": "Sextant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40840?exam_type=jamb&type=obj&page=309",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1543",
+    "text": "Heat transfer in\u00a0the surrounding without a material medium is\u00a0possible through?",
+    "options": {
+      "A": "Conduction",
+      "B": "Convection",
+      "C": "Radiation",
+      "D": "Expansion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40842?exam_type=jamb&type=obj&page=309",
+    "correct_answer": "C",
+    "explanation": "Conduction, convection\u00a0of heat or electricity through a material medium is required but radiation requires no material medium for heat transfer\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1544",
+    "text": "Quantities of heat Q can be measured using a container called",
+    "options": {
+      "A": "Thermometer",
+      "B": "Measuring cylinder",
+      "C": "Calorimeter",
+      "D": "Meter rule"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40850?exam_type=jamb&type=obj&page=309",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1545",
+    "text": "Lodestone is a natural magnet, it points at",
+    "options": {
+      "A": "N \u2013 W when suspended freely",
+      "B": "N\u2013S when suspended freely",
+      "C": "S \u2013 E when suspended freely",
+      "D": "S\u2013W when suspended freely"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40851?exam_type=jamb&type=obj&page=309",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1546",
+    "text": "What type of electromagnetic radiation can be used to take photographs in the haze?",
+    "options": {
+      "A": "Radio waves",
+      "B": "infrared rays",
+      "C": "Visible light",
+      "D": "Gamma rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40852?exam_type=jamb&type=obj&page=310",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1547",
+    "text": "If a mango fruit dropped at a height of 50 meters. How long does it reach the ground? (take g = 10m/s2)",
+    "options": {
+      "A": "2 sec",
+      "B": "3 sec",
+      "C": "4sec",
+      "D": "3.2sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40854?exam_type=jamb&type=obj&page=310",
+    "correct_answer": "D",
+    "explanation": "2\n-1\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1548",
+    "text": "A zinc has a heat capacity of 40 J/K, what is the mass of the zinc, given that the specific heat of zinc is 380 J/kg k",
+    "options": {
+      "A": "0.11kg",
+      "B": "0.12kg",
+      "C": "0.13kg",
+      "D": "0.14kg"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40855?exam_type=jamb&type=obj&page=310",
+    "correct_answer": "A",
+    "explanation": "2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1549",
+    "text": "If a ball released from a height of 20m, How long would it take the ball to reach the ground? (assures g = 10m/s)",
+    "options": {
+      "A": "2sec",
+      "B": "3sec",
+      "C": "35sec",
+      "D": "2.4sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40857?exam_type=jamb&type=obj&page=310",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1550",
+    "text": "If the velocity ratio of a machine is 5. What is its ratio of x and y?",
+    "options": {
+      "A": "2 : 5",
+      "B": "1 : 5",
+      "C": "5 : 1",
+      "D": "3 : 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40859?exam_type=jamb&type=obj&page=310",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1551",
+    "text": "If the mechanical advantage of a machine is 4. What is its ratio for LOAD to EFFORT?",
+    "options": {
+      "A": "4:01",
+      "B": "1:04",
+      "C": "5:01",
+      "D": "2:01"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40860?exam_type=jamb&type=obj&page=311",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1552",
+    "text": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "options": {
+      "A": "Mercury thermometer",
+      "B": "gas thermometer",
+      "C": "clinical thermometer",
+      "D": "alcohol thermometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40862?exam_type=jamb&type=obj&page=311",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1553",
+    "text": "A structural engineer stood on a top of a building releasing a light and heavy object to the ground which of the following statement is true?(Neglect Air Resistance)",
+    "options": {
+      "A": "Both the light and heavy subject reach the ground at the same time",
+      "B": "The light object get to the ground first before the heavy object",
+      "C": "The heavy object to the ground first before the light object",
+      "D": "None get to the ground first"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40864?exam_type=jamb&type=obj&page=311",
+    "correct_answer": "A",
+    "explanation": "(Neglect of Air resistance)Note: Both objects reach the ground at the same time\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1554",
+    "text": "If an object whose\u00a0mass is 3kg moves in a circular path of a radius 0.7m, records a speed at 2m/s. What is the result of the angular velocity?",
+    "options": {
+      "A": "4 rads\u20131",
+      "B": "1rads\u20131\u20131",
+      "C": "3\u20131rads\u20131",
+      "D": "4rads\u20131\u20131"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40867?exam_type=jamb&type=obj&page=311",
+    "correct_answer": "C",
+    "explanation": "M= 3kg, r = 0.7m, v = 2m/sv = wrw = angular velocityr = radius in an tangential circularv = speed of an objectW = V/\u03b4 = 2/ 0.7 = 2.85W = 2.853rads\u20131 (total interest whole number)W = &approx.; 3rads\u20131Angular velocity (w) = 3rads\u20131\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1555",
+    "text": "The optical instrument which is suitable for viewing a nearby objects is \u2026\u2026\u2026..?",
+    "options": {
+      "A": "Telescope",
+      "B": "sextant",
+      "C": "microscope",
+      "D": "periscope"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40869?exam_type=jamb&type=obj&page=311",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1556",
+    "text": "The symbol \u221210X used to represent which of the particles?",
+    "options": {
+      "A": "Proton",
+      "B": "Neutron",
+      "C": "Electrons",
+      "D": "Atoms"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40871?exam_type=jamb&type=obj&page=312",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1557",
+    "text": "A radioactive source emits X\u2013rays of very short wavelength (10\\(^{-13}\\)m ). What is the frequency\u00a0of these rays?",
+    "options": {
+      "A": "2 \u00d7 1018HZ",
+      "B": "3 \u00d7 10 19HZ",
+      "C": "3 \u00d7 1021HZ",
+      "D": "3 \u00d7 10-19HZ"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40873?exam_type=jamb&type=obj&page=312",
+    "correct_answer": "C",
+    "explanation": "\\(Wavelength (\\lambda) = 10^{-13}m\\)Speed of X-ray = speed of light \\(C = 3\u00d710^{8}m/s\\)Frequently (f) = ?\\(Using V = f\\lambda (or (\u2013 f \u03c0 for electromagnetic wave)\\)\\(f = \\frac{c}{\\lambda} = 3 \\times 10^{8} \u00f7 10^{-13} = 3 \\times 10^{8} \\times 10^{13}\\)= \\(3 \\times 10^{8} \\times 10^{13}\\)= \\(3 \\times 10^{21}Hz\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1558",
+    "text": "The strength of an electromagnet increases with",
+    "options": {
+      "A": "Increases in the number of turn of the coil",
+      "B": "Decreases in current with the coil",
+      "C": "Increases in the distance between the pole",
+      "D": "Increases in current without the coil"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40884?exam_type=jamb&type=obj&page=312",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1559",
+    "text": "Which of the following will increase\u00a0the boiling point of water?\n\nI. Taking it to a high altitude\nII. Dissolving a salt into it\nIII. Heating it in a sealed flask\nIV. Increasing the rate of heat supply\n\n.",
+    "options": {
+      "A": "I only",
+      "B": "III & IV only",
+      "C": "II & III only",
+      "D": "II only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40886?exam_type=jamb&type=obj&page=312",
+    "correct_answer": "C",
+    "explanation": "The simplest way to change the boiling point of a liquid is to change the surrounding pressure. (a) Using a closed system to artificially increase that pressure will raise the boiling point of a liquid. (b)\u00a0 Boiling point is dependent upon the strength of the bonds between its molecules. For this reason, adding a solute to the liquid will create stronger bonds between molecules, raising the solution\u2019s boiling point without increasing pressure.\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1560",
+    "text": "Transformers are designed so that energy losses are reduced to a minimum. This is achieved through which of these process?\n\nI. Using a soft iron ore\nII. Laminating the iron core to reduce energy loses due to eddy current\nIII. Designing an efficient iron core",
+    "options": {
+      "A": "I & II only",
+      "B": "II only",
+      "C": "I, II, & III only",
+      "D": "III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40889?exam_type=jamb&type=obj&page=312",
+    "correct_answer": "C",
+    "explanation": "Fig (I) (II) (III) are they in which a transformer was designed to reduce an energy loses by reducing through this collective designed or efforts\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1561",
+    "text": "The two liquids which are often used in thermometer on experiment basic is known as",
+    "options": {
+      "A": "Mercury only",
+      "B": "Alcohol and Water",
+      "C": "Mercury and Alcohol",
+      "D": "Alcohol only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40891?exam_type=jamb&type=obj&page=313",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1562",
+    "text": "Neutron were discovered by",
+    "options": {
+      "A": "J.J. Thompson",
+      "B": "James Chadwick",
+      "C": "Michael faraday",
+      "D": "Dalton"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40892?exam_type=jamb&type=obj&page=313",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1563",
+    "text": "If a projectile has maximum range of 36m, find the speed of projection (Take g = 9.8m/s2)",
+    "options": {
+      "A": "19m/s",
+      "B": "2m/s",
+      "C": "4m/s2",
+      "D": "7m/s2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/40894?exam_type=jamb&type=obj&page=313",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1564",
+    "text": "What is the S.I unit of relative density?",
+    "options": {
+      "A": "kg m-2",
+      "B": "kg m2",
+      "C": "kg cm3",
+      "D": "has no S.I unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41306?exam_type=jamb&type=obj&page=313",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1565",
+    "text": "For a best result using temperature to achieve an accurate measurement, it is best to use",
+    "options": {
+      "A": "Mercury thermometer",
+      "B": "gas thermometer",
+      "C": "clinical thermometer",
+      "D": "alcohol thermometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41307?exam_type=jamb&type=obj&page=313",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1566",
+    "text": "The dimension of universal gravitational constant is\u2026\u2026\u2026.?",
+    "options": {
+      "A": "\\( M\u00ad^{\u20131}L^3 T^{\u20132} \\)",
+      "B": "ML3T2",
+      "C": "ML3",
+      "D": "MLT-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41308?exam_type=jamb&type=obj&page=314",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n-2\n2\n2\n2\n3\n2\n-1\n2\n2\n-1\n3\n-2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1567",
+    "text": "A good electric cell should have the following except",
+    "options": {
+      "A": "A minimum of polarization effect",
+      "B": "A long life",
+      "C": "A cheap and safe electrolytes",
+      "D": "Cost and dangerous of the cell"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41310?exam_type=jamb&type=obj&page=314",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1568",
+    "text": "The r.m.s value of a supply voltage is quoted at 200v. What is the approximate peak value of the voltage?",
+    "options": {
+      "A": "200volts",
+      "B": "300volts",
+      "C": "283volts",
+      "D": "250volts"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41311?exam_type=jamb&type=obj&page=314",
+    "correct_answer": "C",
+    "explanation": "r.m.s\n0\n2\nr.m.s\nr.m.s\n0\n2\n0\nv2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1569",
+    "text": "Heat transfer by convection will take place in\u00a0one the following substance.",
+    "options": {
+      "A": "Stone",
+      "B": "Wood",
+      "C": "Mercury",
+      "D": "Water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41312?exam_type=jamb&type=obj&page=314",
+    "correct_answer": "D",
+    "explanation": "Convection take place commonly in liquids (water) and slightly in gasses\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1570",
+    "text": "A regular spacing or arrangement of atoms in a crystalline material is called",
+    "options": {
+      "A": "Orbit",
+      "B": "Lattice",
+      "C": "Atomic structure",
+      "D": "Energy level"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41314?exam_type=jamb&type=obj&page=314",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1571",
+    "text": "The net movement of solvent molecules from a region of high solvent potential to a region of lower solvent potential through a partially or semi permeable membrane is refer to as",
+    "options": {
+      "A": "Diffusion",
+      "B": "Osmosis",
+      "C": "Surface tension",
+      "D": "Cohesion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41316?exam_type=jamb&type=obj&page=315",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1572",
+    "text": "The eyeball consists of a round tough white skin called",
+    "options": {
+      "A": "Sclerotic",
+      "B": "Choroid coal",
+      "C": "Optical fiber",
+      "D": "Accommodation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41319?exam_type=jamb&type=obj&page=315",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1573",
+    "text": "Which one of the following is a vector quantity?",
+    "options": {
+      "A": "Temperature gradient",
+      "B": "Mass",
+      "C": "Work",
+      "D": "Time"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41322?exam_type=jamb&type=obj&page=315",
+    "correct_answer": "A",
+    "explanation": "Temperature gradient(Tg) = DT \u00f7 L = T2 \u2013 T1 \u00f7 Li.e\u2013 it is the ratio of an increment in temperature to the lengthHence, Temperature gradient (Tg) has defined direction alongside with magnitudeAnd it is a vector quantityMass, work & Time are scalar quantity\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1574",
+    "text": "Efficiency of a transformer is equal to",
+    "options": {
+      "A": "Efficiency of transformer = (secondary coil \u00f7 primary coil) \u00d7 100%",
+      "B": "Efficiency of transformer = (mechanical advantage \u00f7 velocity ratio) \u00d7 100%",
+      "C": "Efficiency of a transformer = (Number of turns in the secondary coil \u00f7 Number of turns in the primary coil) \u00d7 100%",
+      "D": "Efficiency of a transformer = (power developed in the secondary coil \u00f7 power supplied to the primary coil) \u00d7 100%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41324?exam_type=jamb&type=obj&page=315",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1575",
+    "text": "Volatile liquids usually",
+    "options": {
+      "A": "Have high boiling points",
+      "B": "have low boiling points",
+      "C": "have high densities",
+      "D": "have high melting points"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41326?exam_type=jamb&type=obj&page=315",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1576",
+    "text": "When a man moves toward a plane mirror at a speed of 6m/s, the distance the man and his image increased at a speed of?",
+    "options": {
+      "A": "2 m/s",
+      "B": "4 m/s",
+      "C": "12 m/s",
+      "D": "14 m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41329?exam_type=jamb&type=obj&page=316",
+    "correct_answer": "C",
+    "explanation": "Given: Speed of the man (v) = 6 m/s\nDistance Calculation:\nDistance to the Mirror: As the man moves toward the mirror, the distance between him and the mirror decreases by 6 m/s.\nDistance to the Image: The image moves toward the man at the same speed (6 m/s).\nTotal Change in Distance:\nThe total distance between the man and his image decreases at the rate of:\nRate\u00a0of\u00a0distance\u00a0change = v + v = 6\u2009m/s + 6\u2009m/s = 12\u2009m/s\nConclusion: The distance between the man and his image increases at a speed of12 meters per second.\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1577",
+    "text": "Which of the following instrument is most accurately for comparing electromotive force (e.m.f) of two cells?",
+    "options": {
+      "A": "Voltmeter",
+      "B": "Meter rule",
+      "C": "Galvanometer",
+      "D": "Potentiometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41330?exam_type=jamb&type=obj&page=316",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1578",
+    "text": "In an inelastic collision\n\nI. Energy is conserved\nII. Energy is decreased\nIII. Energy is increased\nIV. Linear momentum conserved",
+    "options": {
+      "A": "I only",
+      "B": "II and IV only",
+      "C": "II only",
+      "D": "III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41332?exam_type=jamb&type=obj&page=316",
+    "correct_answer": "B",
+    "explanation": "In an inelastic collision, linear momentum is conserved and energy is decreasedMomentum and kinetic energy are conserved in elastic collision\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1579",
+    "text": "The normal temperature of human body is record at what ranges?",
+    "options": {
+      "A": "27\u00b0C to 43\u00b0C",
+      "B": "30\u00b0C to 40\u00b0",
+      "C": "98.4\u00b0C only",
+      "D": "Between 35\u00b0C to 37\u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41335?exam_type=jamb&type=obj&page=316",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1580",
+    "text": "The property of a body to remain at rest or to continue to move in a straight line is known as",
+    "options": {
+      "A": "force",
+      "B": "Impulse",
+      "C": "Energy",
+      "D": "Inertia"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41337?exam_type=jamb&type=obj&page=316",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1581",
+    "text": "Momentum and Kinetic energy are conserved in",
+    "options": {
+      "A": "Inelastic collision",
+      "B": "Elastic collision",
+      "C": "Explosion",
+      "D": "Spacecraft"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41339?exam_type=jamb&type=obj&page=317",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1582",
+    "text": "An alternating current with a frequency of 100HZ has a period of",
+    "options": {
+      "A": "0.03sec",
+      "B": "0.01sec",
+      "C": "0.04sec",
+      "D": "0.15sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/41340?exam_type=jamb&type=obj&page=317",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  }
+]

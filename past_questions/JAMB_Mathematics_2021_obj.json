@@ -1,0 +1,562 @@
+[
+  {
+    "number": "2040",
+    "text": "Solve the following equation: \\(\\frac{2}{(2r - 1)}\\) -\u00a0\\(\\frac{5}{3}\\) = \u00a0\\(\\frac{1}{(r + 2)}\\)",
+    "options": {
+      "A": "( -1,\\(\\frac{5}{2}\\) )",
+      "B": "( 1, - \\(\\frac{5}{2}\\) )",
+      "C": "( \\(\\frac{5}{2}\\), 1 )",
+      "D": "(2,1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60536?exam_type=jamb&type=obj&page=408",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{2}{(2r - 1)}\\) -\u00a0\\(\\frac{5}{3}\\) = \u00a0\\(\\frac{1}{(r + 2)}\\)\n\\(\\frac{2}{(2r - 1)}\\) -\u00a0\\(\\frac{1}{(r + 2)}\\)\u00a0 = \\(\\frac{5}{3}\\)\nThe L.C.M.: (2r - 1) (r + 2)\n\\(\\frac{2(r + 2) - 1(2r - 1)}{(2r - 1) (r + 2)}\\) =\u00a0\\(\\frac{5}{3}\\)\n\\(\\frac{2r + 4 - 2r + 1}{ (2r - 1) (r + 2)}\\) =\u00a0\\(\\frac{5}{3}\\)\ncross multiply the solution\n3 * 5 =\u00a0(2r - 1) (r + 2) * 5\ndivide both sides 5\n3 =\u00a0 2r\\(^2\\) + 3r - 2 (when expanded)\ncollect like terms\n2r\\(^2\\) + 3r - 2 - 3 = 0\n2r\\(^2\\) + 3r - 5 = 0\nFactors are -2r and +5r\n2r\\(^2\\) -2r + 5r - 5 = 0\n[2r\\(^2\\) -2r] [+ 5r - 5] = 0\n2r(r-1) + 5(r-1) = 0\n(2r+5) (r-1) = 0\nr\u00a0= 1 or -\u00a0\\(\\frac{5}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2041",
+    "text": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "options": {
+      "A": "25 ways",
+      "B": "10 ways",
+      "C": "15 ways",
+      "D": "20 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60619?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "B",
+    "explanation": "\\(In\\hspace{1mm} ^{5}C_{2}\\hspace{1mm}ways\\hspace{1mm}=\\frac{5!}{(5-2)!2!}\\\\=\\frac{5!}{3!2!}\\\\=\\frac{5\\times4\\times3!}{3!\\times2\\times1}\\\\=10\\hspace{1mm}ways\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2042",
+    "text": "What is the rate of change of the volume V\u00a0of a hemisphere with respect to its radius r when r = 2?",
+    "options": {
+      "A": "8\u03c0",
+      "B": "16\u03c0",
+      "C": "2\u03c0",
+      "D": "4\u03c0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60623?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "A",
+    "explanation": "\\(V = \\frac{2}{3} \\pi r^{3}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} = 2\\pi r^{2}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} (r = 2) = 2\\pi (2)^{2}\\)\n= \\(8\\pi\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2043",
+    "text": "determine the maximum value of y=3x\\(^2\\) + 5x - 3",
+    "options": {
+      "A": "6",
+      "B": "0",
+      "C": "2",
+      "D": "No correct option"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60628?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "D",
+    "explanation": "y=3x\\(^2\\) + 5x - 3\ndy/dx = 6x +\u00a05\nas dy/dx = 0\n6x + 5 = 0\nx = \\(\\frac{-5}{6}\\)\nMaximum value: 3\u00a0\\( ^2{\\frac{-5}{6}}\\)\u00a0 + 5\u00a0\\(\\frac{-5}{6}\\) - 3\n3 \\(\\frac{75}{36}\\) -\u00a0\\(\\frac{25}{6}\\) - 3\nUsing the L.C.M. 36\n= \\(\\frac{25 - 50 - 36}{36}\\)\n=\u00a0\\(\\frac{-61}{36}\\)\nNo correct option\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2044",
+    "text": "A trapezium has two parallel sides of lengths 5cm and 9cm. If the area is 91cm\\(^2\\), find the distance between the parallel sides",
+    "options": {
+      "A": "13 cm",
+      "B": "4 cm",
+      "C": "6 cm",
+      "D": "7 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60629?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "A",
+    "explanation": "Area of Trapezium = 1/2(sum of parallel sides) * h91 = \\(\\frac{1}{2}\\) (5 + 9)h\ncross multiply91 = 7hh = \\(\\frac{91}{7}\\)h = 13cm\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2045",
+    "text": "find the value of p if the line which passes through (-1, -p) and (-2,2) is parallel to the line 2y+8x-17=0?",
+    "options": {
+      "A": "\\(\\frac{-2}{7}\\)",
+      "B": "\\(\\frac{7}{6}\\)",
+      "C": "\\(\\frac{-6}{7}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60630?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "D",
+    "explanation": "Line:\u00a0 2y+8x-17=0\nrecall y = mx + c\n2y = -8x + 17\ny = -4x\u00a0 +\u00a0\\(\\frac{17}{2}\\)\nSlope m\\(_1\\) = 4\nparallel lines: m\\(_1\\). m\\(_2\\) = -4\nwhere Slope ( -4) =\u00a0\\(\\frac{y_2 - y_1}{x_2 - x_1}\\) at points\u00a0(-1, -p) and (-2,2)\n-4( \\(x_2 - x_1\\) ) =\u00a0\\(y_2 - y_1\\)\n-4 ( -2 - -1) = 2 - -p\np = 4 - 2 = 2\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2046",
+    "text": "The ratio of the length of two similar rectangular blocks is 2 : 3. If the volume of the larger block is 351cm\\(^3\\), then the volume of the other block is?",
+    "options": {
+      "A": "234.00 cm3",
+      "B": "526.50 cm3",
+      "C": "166.00 cm3",
+      "D": "687cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60664?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "A",
+    "explanation": "Let x represent total vol. 2 : 3 = 2 + 3 = 5\\(\\frac{3}{5}\\)x = 351x = \\(\\frac{351 \\times 5}{3}\\)= 585Volume of smaller block = \\(\\frac{2}{5}\\) x 585= 234.00cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2047",
+    "text": "Find the derivative\u00a0of the function y = 2x\\(^2\\)(2x - 1) at the point x = -1?",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "-4",
+      "D": "-6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60666?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "B",
+    "explanation": "y = 2x\\(^2\\)(2x - 1)y = 4x\\(^3\\)\u00a0- 2x\\(^2\\)dy/dx = 12x\\(^2\\)\u00a0- 4xat x = -1dy/dx = 12(-1)\\(^2\\)\u00a0- 4(-1)= 12 + 4= 16\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2048",
+    "text": "Correct 241.34(3 x 10\\(^{-3}\\))\\(^2\\)\u00a0to 4 significant figures",
+    "options": {
+      "A": "0.0014",
+      "B": "0.001448",
+      "C": "0.0022",
+      "D": "0.002172"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60670?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "D",
+    "explanation": "first work out the expression and then correct the answer to 4 s.f = 241.34..............(A)(3 x 10-\\(^3\\))\\(^2\\)............(B)= 3\\(^2\\)x\\(^2\\)= \\(\\frac{1}{10^3}\\) x \\(\\frac{1}{10^3}\\)(Note that x\\(^2\\)\u00a0= \\(\\frac{1}{x^3}\\))= 24.34 x 3\\(^2\\)\u00a0x \\(\\frac{1}{10^6}\\)= \\(\\frac{2172.06}{10^6}\\)= 0.00217206= 0.002172(4 s.f)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2049",
+    "text": "Find the mean deviation of 1, 2, 3 and 4",
+    "options": {
+      "A": "1.0",
+      "B": "1.5",
+      "C": "2.0",
+      "D": "2.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60671?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "A",
+    "explanation": "_Mean deviation =\u03a3|x - x|n_x = 2.5=|1 - 2.5| + |2 - 2.5| + |3 - 2.5| + |4 - 2.5|4= 4/4 = 1\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2050",
+    "text": "At what rate would a sum of N100.00 deposited for 5 years raise an interest of N7.50?",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)%",
+      "B": "2\\(\\frac{1}{2}\\)%",
+      "C": "1.5%",
+      "D": "25%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60672?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "C",
+    "explanation": "Interest I = \\(\\frac{PRT}{100}\\)\u2234 R = \\(\\frac{100 \\times 1}{100 \\times 5}\\)= \\(\\frac{100 \\times 7.50}{500 \\times 5}\\)= \\(\\frac{750}{500}\\)= \\(\\frac{3}{2}\\)= 1.5%\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2051",
+    "text": "Three children shared a basket of mangoes in such a way that the first child took \\(\\frac{1}{4}\\) of the mangoes and the second \\(\\frac{3}{4}\\) of the remainder. What fraction of the mangoes did the third child take?",
+    "options": {
+      "A": "\\(\\frac{3}{16}\\)",
+      "B": "\\(\\frac{7}{16}\\)",
+      "C": "\\(\\frac{9}{16}\\)",
+      "D": "\\(\\frac{13}{16}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60674?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "A",
+    "explanation": "You can use any whole numbers (eg. 1. 2. 3) to represent all the mangoes in the basket.If the first child takes \\(\\frac{1}{4}\\) it will remain 1 - \\(\\frac{1}{4}\\) = \\(\\frac{3}{4}\\)Next, the second child takes \\(\\frac{3}{4}\\) of the remainderwhich is \\(\\frac{3}{4}\\) i.e. find \\(\\frac{3}{4}\\) of \\(\\frac{3}{4}\\)= \\(\\frac{3}{4}\\) x \\(\\frac{3}{4}\\)= \\(\\frac{9}{16}\\)the fraction remaining now = \\(\\frac{3}{4}\\) - \\(\\frac{9}{16}\\)= \\(\\frac{12 - 9}{16}\\)= \\(\\frac{3}{16}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2052",
+    "text": "Simplify and express in standard form \\(\\frac{0.00275 \\times 0.00640}{0.025 \\times 0.08}\\)",
+    "options": {
+      "A": "8.8 x 10-1",
+      "B": "8.8 x 10-2",
+      "C": "8.8 x 10-3",
+      "D": "8.8 x 103"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60677?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{0.00275 \\times 0.0064}{0.025 \\times 0.08}\\)Removing the decimals = \\(\\frac{275 \\times 64}{2500 \\times 800}\\)= \\(\\frac{88}{10^4}\\)88 x 10-4 = 88 x 10-1 x 10-4= 8.8 x 10-3\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2053",
+    "text": "Simplify \\(\\sqrt{27}\\) + \\(\\frac{3}{\\sqrt{3}}\\)",
+    "options": {
+      "A": "4\\(\\sqrt{3}\\)",
+      "B": "\\(\\frac{4}{\\sqrt{3}}\\)",
+      "C": "3\\(\\sqrt{3}\\)",
+      "D": "\\(\\frac{\\sqrt{3}}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60679?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "A",
+    "explanation": "\\(\\sqrt{27}\\) + \\(\\frac{3}{\\sqrt{3}}\\)\n= \\(\\sqrt{9 \\times 3}\\) + \\(\\frac{3 \\times {\\sqrt{3}}}{{\\sqrt{3}} \\times {\\sqrt{3}}}\\)\n= 3\\(\\sqrt{3}\\) + \\(\\sqrt{3}\\)\n= 4\\(\\sqrt{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2054",
+    "text": "Three brothers in a business deal share the profit at the end of a contract. The first received \\(\\frac{1}{3}\\) of the profit and the second \\(\\frac{2}{3}\\) of the remainder. If the third received the remaining N12000.00 how much profit did they share?",
+    "options": {
+      "A": "N60 000.00",
+      "B": "N54 000.00",
+      "C": "N48 000.00",
+      "D": "N42 000.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60680?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "B",
+    "explanation": "use \"T\" to represent the total profit. The first receives \\(\\frac{1}{3}\\) Tremaining, 1 - \\(\\frac{1}{3}\\)= \\(\\frac{2}{3}\\)TThe seconds receives the remaining, which is \\(\\frac{2}{3}\\) also\\(\\frac{2}{3}\\) x \\(\\frac{2}{3}\\) x \\(\\frac{4}{9}\\)The third receives the left over, which is \\(\\frac{2}{3}\\)T - \\(\\frac{4}{9}\\)T = (\\(\\frac{6 - 4}{9}\\))T= \\(\\frac{2}{9}\\)TThe third receives \\(\\frac{2}{9}\\)T which is equivalent to N12000If \\(\\frac{2}{9}\\)T = N12, 000T = \\(\\frac{12 000}{\\frac{2}{9}}\\)= N54, 000\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2055",
+    "text": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
+    "options": {
+      "A": "6.5 units",
+      "B": "13.0 units",
+      "C": "3.5 units",
+      "D": "7.0 units"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60681?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "A",
+    "explanation": "PQ\\(^2\\)\u00a0= (x2 - x1)\\(^2\\)\u00a0\u00a0+ (y2 - y1)\\(^2\\)= 12\\(^2\\)\u00a0 + 5\\(^2\\)= 144 + 25= 169PQ = \u221a169 = 13But PQ = diameter = 2r, r = PQ/2 = 6.5 units\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2056",
+    "text": "The angle of a sector of a\u00a0circle, radius 10.5cm, is 48\u00b0,\u00a0Calculate the perimeter of the sector",
+    "options": {
+      "A": "8.8cm",
+      "B": "25.4cm",
+      "C": "25.6cm",
+      "D": "29.8cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60682?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "D",
+    "explanation": "Length of Arc AB = \\(\\frac{\\theta}{360}\\) 2\\(\\pi\\)r= \\(\\frac{48}{360}\\) x 2\\(\\frac{22}{7}\\) x \\(\\frac{21}{2}\\)= \\(\\frac{4 \\times 22 \\times \\times 3}{30}\\) \\(\\frac{88}{10}\\) = 8.8cmPerimeter = 8.8 + 2r= 8.8 + 2(10.5)= 8.8 + 21= 29.8cm\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2057",
+    "text": "Find the length of a side of a rhombus whose diagonals are 6cm and 8cm",
+    "options": {
+      "A": "8cm",
+      "B": "5cm",
+      "C": "4cm",
+      "D": "3cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60690?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "B",
+    "explanation": "The\u00a0diagonal\u00a0of a\u00a0rhombus\u00a0is a line segment that joins any two non-adjacent vertices.\nA\u00a0rhombus\u00a0has two\u00a0diagonals\u00a0that bisect each other at right angles.\ni.e this splits 6cm into 3cm each AND 8cm to 4cm\nUsing Hyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\nHyp\\(^2\\) = 3\\(^2\\) + 4\\(^2\\)\nHyp\\(^2\\) = 25\nHyp = 5\n\u2234 Length (L) is 5cm because a rhombus is a quadrilateral\u00a0with 4 equal lengths\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2058",
+    "text": "Each of the interior angles of a regular polygon is 140\u00b0. How many sides has the polygon?",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "7",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60692?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "A",
+    "explanation": "Each interior angle = \\(\\frac{(n - 2)180}{n}\\)\n140 =\u00a0\\(\\frac{(n - 2)180}{n}\\)\nCross multiply:\n140n = 180n - 360\n40n = 360\nn = 9 sides ( A Nonagon)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2059",
+    "text": "A cylinder pipe, made of metal is 3cm thick.If the internal radius of the pipe is 10cm.Find the volume of metal used in making 3m of the pipe.",
+    "options": {
+      "A": "153\\(\\pi\\)cm3",
+      "B": "207\\(\\pi\\)cm3",
+      "C": "15 300\\(\\pi\\)cm3",
+      "D": "20 700\\(\\pi\\)cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60696?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "D",
+    "explanation": "Volume of a cylinder =\u00a0\u03c0r\\(^2\\)h\nFirst convert 3m to cm by multiplying by 100\nVolume of External cylinder = \\(\u03c0 \\times 13^2\u00a0\\times 300\\)\nVolume of Internal cylinder = \\(\u03c0 \\times 10^2\u00a0\\times 300\\)\nHence; Volume of External cylinder -\u00a0Volume of Internal cylinder\nTotal volume (v) = \\(\u03c0 (169 - 100) \\times 300\\)\nV = \\(\u03c0 \\times 69 \\times 300\\)\nV = 20700\u03c0cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2060",
+    "text": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the?",
+    "options": {
+      "A": "perpendicular bisector of the two lines",
+      "B": "angle bisector of the two lines",
+      "C": "bisector of the two lines",
+      "D": "line parallel to the two lines"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60698?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "B",
+    "explanation": "The required\u00a0locus is angle bisector of the two lines\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2061",
+    "text": "4, 16, 30, 20, 10, 14 and 26 are represented on a pie chart. Find the sum of the angles of the bisectors representing all numbers equals to or greater than 16",
+    "options": {
+      "A": "48o",
+      "B": "84o",
+      "C": "92o",
+      "D": "276o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60699?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "D",
+    "explanation": "Given that 4, 16, 30, 20, 10, 14 and 26Adding up = 120nos \\(\\geq\\) 16 are 16 + 30 + 20 + 26 = 92The requires sum of angles = \\(\\frac{92}{120}\\) x \\(\\frac{360^o}{1}\\)= 276o\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2062",
+    "text": "The mean of ten positive numbers is 16. When another number is added, the mean becomes 18. Find the eleventh number",
+    "options": {
+      "A": "3",
+      "B": "16",
+      "C": "38",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60701?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "C",
+    "explanation": "Mean of 10 numbers = 16The total sum of numbers = 16 x 10 = 160Mean of 11 numbers = 18Total sum of numbers = 11 x 18= 198The 11th no. = 198 - 160= 38\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2063",
+    "text": "Two numbers are removed at random from the numbers 1, 2, 3 and 4. What is the probability that the sum of the numbers removed is even?",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60702?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{array}{c|c} 1 & 2 & 3 & 4\\\\\\hline 1(1, 1) & (1, 2) & (1, 3) & (1, 4)\\\\ \\hline 2(2, 1) & (2 , 2) & (2, 3) & (2, 4) \\\\ \\hline 3(3, 1) & (3, 2) & (3, 3) & (3, 4)\\\\ \\hline 4(4, 1) & (4, 2) & (4, 3) & (4, 4)\\end{array}\\)sample space = 16sum of nos. removed are (2), 3, (4), 53, (4), 5, (6)(4), 5, (6), 7(5), 6, 7, (8)Even nos. = 8 of themPr(even sum) = \\(\\frac{8}{16}\\)= \\(\\frac{1}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2064",
+    "text": "Find the probability that a number selected at random from 41 to 56 is a multiple\u00a0of 9",
+    "options": {
+      "A": "\\(\\frac{1}{8}\\)",
+      "B": "\\(\\frac{2}{15}\\)",
+      "C": "\\(\\frac{3}{16}\\)",
+      "D": "\\(\\frac{7}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60704?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "A",
+    "explanation": "Given from 41 to 5641, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56The nos multiple of 9 are: 45, 54P(multiple of 9) = \\(\\frac{2}{16}\\)= \\(\\frac{1}{8}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2065",
+    "text": "Musa borrows N10.00 at 2% per month simple interest and repays N8.00 after 4 months. How much does he still owe?",
+    "options": {
+      "A": "N10.80",
+      "B": "N10.67",
+      "C": "N2.80",
+      "D": "N2.67"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60707?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "C",
+    "explanation": "I = \\(\\frac{PRT}{100}\\)= \\(\\frac{10 \\times 2 \\times 4}{100}\\)= \\(\\frac{4}{5}\\)= 0.8Total amount = N10.80He pays N8.00Remainder = 10.80 - 8.00= N2.80\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2066",
+    "text": "Simplify 2log \\(\\frac{2}{5}\\) - log\\(\\frac{72}{125}\\) + log 9",
+    "options": {
+      "A": "1 - 4 log3",
+      "B": "-1 + 2 log 3",
+      "C": "-1 + 5 log2",
+      "D": "1 - 2log 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60710?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "D",
+    "explanation": "2log \\(\\frac{2}{5}\\) - log\\(\\frac{72}{125}\\) + log 9[\\(\\frac{2}{5}\\))2 x 9] = log \\(\\frac{4}{25}\\) x \\(\\frac{9}{1}\\) x \\(\\frac{125}{72}\\)= log \\(\\frac{72}{125}\\)= log \\(\\frac{5}{2}\\)\n= log \\(\\frac{10}{4}\\)= log 10 - log 4= log10 \u00a0- log2\\(^2\\)= 1 - 2 log2\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2067",
+    "text": "A car travels from calabar to Enugu, a distance of P km with an average speed of U km per hour and continues to benin, a distance of Q km, with an average speed of Wkm per hour. Find its average speed from Calabar to Benin",
+    "options": {
+      "A": "\\(\\frac{(p + q)}{pw + qu}\\)",
+      "B": "\\(\\frac{uw(p + q)}{pw + qu}\\)",
+      "C": "\\(\\frac{uw(p + q)}{pw}\\)",
+      "D": "\\(\\frac{uw}{pw + qu}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60711?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "B",
+    "explanation": "Average speed = \\(\\frac{total Distance}{Total Time}\\)from Calabar to Enugu in time t1, hencet1 = \\(\\frac{P}{U}\\)\nAlso from Enugu to Benint2 \\(\\frac{q}{w}\\)Av. speed = \\(\\frac{p + q}{t_1 + t_2}\\)= \\(\\frac{p + q}{p/u\u00a0+ q/w}\\)= p + q x \\(\\frac{uw}{pw + qu}\\)= \\(\\frac{uw(p + q)}{pw + qu}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2068",
+    "text": "If w varies inversely as \\(\\frac{uv}{u + v}\\) and w =\u00a08 when\n\nu = 2 and v\u00a0= 6, find a relationship between u, v, w.",
+    "options": {
+      "A": "uvw = 16(u + v)",
+      "B": "16uv = 3w(u + v)",
+      "C": "uvw = 12(u + v)",
+      "D": "12uvw = u + v"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60713?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "C",
+    "explanation": "W \\(\\alpha\\) \\(\\frac{\\frac{1}{uv}}{u + v}\\)\u2234 w = \\(\\frac{\\frac{k}{uv}}{u + v}\\)= \\(\\frac{k(u + v)}{uv}\\)w = \\(\\frac{k(u + v)}{uv}\\)w = 8, u = 2 and v = 68 = \\(\\frac{k(2 + 6)}{2(6)}\\)= \\(\\frac{k(8)}{12}\\)k = 12\ni.e 12 ( u + v) = uwv\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2069",
+    "text": "If g(x) = x\\(^2\\) + 3x \u00a0find g(x + 1) - g(x)",
+    "options": {
+      "A": "(x + 2)",
+      "B": "2(x + 2)",
+      "C": "(2x + 1)",
+      "D": "(x2 + 4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60715?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "B",
+    "explanation": "g(x) = x2 + 3xWhen g(x + 1) = (x + 1)^2 + 3(x + 1)= x\\(^2\\) + 1 + 2x + 3x + 3= x\\(^2\\) + 5x + 4g(x + 1) - g(x) = x2 + 5x + 8 - (x\\(^2\\) + 3x)= x\\(^2\\) + 5x + 4\u00a0- x2 -3x= 2x + 4 or 2(x + 4)= 2(x + 2)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2070",
+    "text": "factorize m\\(^3\\) - m\\(^2\\) + 2m - 2",
+    "options": {
+      "A": "(m2  + 1)(m - 2)",
+      "B": "(m - 1)(m + 1)(m + 2)",
+      "C": "(m - 2)(m + 1)(m - 1)",
+      "D": "(m2 + 2)(m - 1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60716?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "D",
+    "explanation": "Using the trial expansion of each option\n(m\\(^2\\) + 2) (m - 1)\nOR\nGroup the terms\n(\\(m^3 - m^2\\)) + ( 2m - 2)\n\\(m^2\\)(m - 1) + 2(m - 1)\n(m-1)(\\(m^2\\) + 2)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2071",
+    "text": "The angles of a quadrilateral are 5x-30, 4x+60, 60-x and 3x+61.find the smallest of these angles\u200b",
+    "options": {
+      "A": "5x - 30",
+      "B": "4x + 60",
+      "C": "60 - x",
+      "D": "3x + 61"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60721?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "Sum of all 4 angles of a quadrilateral = 360\u00b0\n(5x-30) + (3x + 61) + (60-x) + (4x+ 60) = 360\u00b0\n11x + 151\u00a0= 360\u00b0\n11x = 360 - 151\u00a0= 209\nx = 209/11 = 19\u00b0\nEach angles is :\n5x - 30 =\u00a0 65\u00b0\n4x+ 60 =\u00a0136\u00b0\n60 - x =41\u00b0\n3x + 61\u00a0= 118\u00b0\nSmallest of these angles is 41\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2072",
+    "text": "What is the n-th term of the sequence 2, 6, 12, 20...?",
+    "options": {
+      "A": "4n - 2",
+      "B": "2(3n - 1)",
+      "C": "n2 + n",
+      "D": "n2 + 3n + 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60723?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "Given that 2, 6, 12, 20...? the nth term = n\\(^2\\) + ncheck: n = 1, u1 = 2n = 2, u2 = 4 + 2 = 6n = 3, u3 = 9 + 3 = 12\u2234 n = 4, u4 = 16 + 4 = 20\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2073",
+    "text": "If the binary operation \\(\\ast\\) is defined by m \\(\\ast\\) n = mn + m + n for any real number m and n, find the identity of the elements under this operation",
+    "options": {
+      "A": "e = 1",
+      "B": "e = -1",
+      "C": "e = -2",
+      "D": "e = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60728?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "D",
+    "explanation": "Identity(e) : a\u00a0\\(\\ast\\) e = a\nm\u00a0\\(\\ast\\) e = m...(i)\nm\u00a0\\(\\ast\\) e = me + m + e\nBecause m \\(\\ast\\) e = m\n: m = me + m + e\nm - m = e(m + 1)\ne = \\(\\frac{0}{m + 1}\\)\ne = 0\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2074",
+    "text": "Factorize completely 81a\\(^4\\) - 16b\\(^4\\)",
+    "options": {
+      "A": "(3a + 2b)(2a - 3b)(9a2 + 4b2)",
+      "B": "(3a - 2b)(2a - 3b)(4a2 - 9b2)",
+      "C": "(3a - 2b)(3a + 2b)(9a2 + 4b2)",
+      "D": "(6a - 2b)(8a - 3b)(4a3 - 9b2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60729?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "81a\\(^4\\)\u00a0- 16b\\(^4\\)\u00a0= (9a\\(^2\\))\\(^2\\)\u00a0- (4b\\(^2\\))\\(^2\\)= (9a\\(^2\\)\u00a0+ 4b\\(^2\\))(9a\\(^2\\)\u00a0- 4b\\(^2\\))N:B 9a\\(^2\\)\u00a0-\u00a04b\\(^2\\)\u00a0= (3a - 2b)(3a +\u00a02b)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2075",
+    "text": "Find x if log\\(_9\\)x = 1.5",
+    "options": {
+      "A": "27",
+      "B": "15",
+      "C": "3.5",
+      "D": "32"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60730?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "A",
+    "explanation": "If log\\(_9\\)x = 1.5,\n9\\(^{1.5}\\) = x\n9^\\(\\frac{3}{2}\\) = x\n(\u221a9)\\(^3\\) = 3\u2234 x = 27\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2076",
+    "text": "List all integers satisfying the inequality in -2 < 2x-6 < 4",
+    "options": {
+      "A": "2,3,4 and 5",
+      "B": "2,3",
+      "C": "2,5",
+      "D": "3,4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60732?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "D",
+    "explanation": "-2 < 2x - 6\u00a0 \u00a0AND\u00a0 2x - 6 < 4\n-2 + 6 <2x\u00a0 AND\u00a0 2x < 4 + 6\n4 <2x\u00a0 AND\u00a0 2x < 10\n: 2 <x\u00a0 AND x <5\n2 < x < 5\nAs 3 and 4\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2077",
+    "text": "X is due east point of y on a coast. Z\u00a0is another point on the coast but 6.0km due south of Y. If the distance ZX is 12km, calculate the bearing of Z from X",
+    "options": {
+      "A": "240\u00b0",
+      "B": "150\u00b0",
+      "C": "60\u00b0",
+      "D": "270\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60735?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "A",
+    "explanation": "Sin\u03b8= \\(\\frac{6}{12}\\)\nSin\u03b8 =\u00a0\\(\\frac{1}{2}\\)\n\u03b8 =\u00a0\u00a0Sin\\(^0.5\\)\u03b8 = 30\u00b0\nBearing of Z from X, (270 - 30)\u00b0 = 240\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2078",
+    "text": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+    "options": {
+      "A": "25",
+      "B": "19",
+      "C": "18",
+      "D": "17"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60736?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "A",
+    "explanation": "Let the three items be M, Y and P.n{M \u2229 Y} only = 4-3 = 1n{M \u2229 P) only = 5-3 = 2n{ Y \u2229 P} only = 2n{M} only = 12-(1+3+2) = 6n{Y} only = 10-(1+2+3) = 4n{P} only = 14-(2+3+2) = 7n{M\u2229P\u2229Y} = 3Number of women in the group = 6+4+7+(1+2+2+3) as above =25 women.\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2079",
+    "text": "If (x + 2) and (x - 1) are factors of the expression \\(Lx\u00a0+ 2kx^{2} + 24\\), find the values of L\u00a0and k.",
+    "options": {
+      "A": "l = -12, k = -6",
+      "B": "l = -2 , k = 1",
+      "C": "l = -2 , k = -1",
+      "D": "l = 0, k = 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/60739?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "A",
+    "explanation": "Given (x + 2) and (x - 1), i.e. x = -2 or +1\nwhen x = -2\nL(-2) + 2k(-2)\\(^2\\) + 24 = 0\nf(-2) = -2L + 8k = -24...(i)\nAnd x = 1L(1) + 2k(1) + 24 = 0\nf(1):L + 2k = -24...(ii)\nSubst, L = -24 - 2k in eqn (i)\n-2(-24 - 2k) + 8k = -24\n+48 + 4k + 8k = -24\n12k = -24 - 48 = -72\nk = \\(frac{-72}{12}\\)\nk = -6\nwhere L = -24 - 2k\nL = -24 - 2(-6)\nL = -24 + 12\nL = -12\nThat is; K = -6 and L = -12\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "number": "2129",
+    "text": "Which of these is a derived unit?",
+    "options": {
+      "A": "Kilogram",
+      "B": "Metre",
+      "C": "Newton",
+      "D": "Second"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64908?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "C",
+    "explanation": "Examples of Fundamental Quantities\u00a0; Mass, kilogram, kg ; Electric Current, ampere, A ; Temperature, kelvin, K ; Amount of Substance, mole, Mol.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2130",
+    "text": "A bar magnet is divided into two pieces, which of the following statement is correct?",
+    "options": {
+      "A": "two new magnets are created",
+      "B": "the magnetic field of each separate piece becomes stronger",
+      "C": "the electric field is created",
+      "D": "the bar magnet is demagnetized"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64911?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "A",
+    "explanation": "When it is cut\u00a0into two, the\u00a0two\u00a0cut\u00a0pieces\u00a0will have their own north and south poles.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2131",
+    "text": "Consider the wave equation y = 5mm sin [1cm\\(^{-1}\\)x - 60s\\(^{-1}\\)t]. The wave number is?",
+    "options": {
+      "A": "0.1 cm\\(^{-1}\\)",
+      "B": "10cm\\(^{-1}\\)",
+      "C": "1.0cm\\(^{-1}\\)",
+      "D": "2cm\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64912?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "C",
+    "explanation": "The angular wave number\u00a0k = \\(\\frac{2\u03c0}{\u03bb}\\)\u00a0expresses the number of radians in a unit of distance.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2132",
+    "text": "An object 40 cm high is 30cm from the pin hole camera. If the height of the image formed is 20 cm. What is the distance of the image from the pin height?",
+    "options": {
+      "A": "15 cm",
+      "B": "70 cm",
+      "C": "40 cm",
+      "D": "40 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64913?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "A",
+    "explanation": "M \u2192\u00a0\\(\\frac{Hi}{Ho}\\) =\u00a0\\(\\frac{Di}{Do}\\)\nwhere M is the magnification, Hi is the height of the image, Ho is the height of the object, Di is the distance from the lens to the in-focus projected image, and Do is the distance from the object to the lens.\nBut Di =\u00a0\\(\\frac{Hi * Do}{Ho}\\)\u00a0\u2192\u00a0\\(\\frac{20 * 30}{40}\\)\nImage distance(Di) = 15cm\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2133",
+    "text": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when?",
+    "options": {
+      "A": "the magnet is moved towards the stationary solenoid",
+      "B": "there is no relative motion",
+      "C": "the magnet is moved away from the stationary solenoid",
+      "D": "the solenoid is moved away from the stationary magnet"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64915?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "B",
+    "explanation": "If both the coil and the magnet are stationary, then there is no change in the magnetic flux and hence\u00a0no current is induced in the coil.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2134",
+    "text": "Tyres are treaded to?",
+    "options": {
+      "A": "increase weight of tyres",
+      "B": "increase friction",
+      "C": "increase its longevity",
+      "D": "look good"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64916?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "B",
+    "explanation": "Tire treads\u00a0provide your tires the ability to grip the road safely enhancing proper traction.\nHelps your vehicle to be able to accelerate smoothly and as well to be able to brake more quickly.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2135",
+    "text": "A car\u00a0starts from rest and covers a distance of 40 m in 10 s. Calculate\u00a0the magnitude of its acceleration",
+    "options": {
+      "A": "3.20 ms\\(^{-2}\\)",
+      "B": "0.25 ms\\(^{-2}\\)",
+      "C": "0.80 ms\\(^{-2}\\)",
+      "D": "4.00 ms\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64918?exam_type=jamb&type=obj&page=427",
+    "correct_answer": "C",
+    "explanation": "S = ut + \\(\\frac{1}{2}\\)at\\(^2\\)40 = 0 x 10 + \\(\\frac{1}{2}\\)a x 10\\(^2\\)50a = 40a =\u00a0\\(\\frac{40}{50}\\)= 0.8m/s\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2136",
+    "text": "The relationship between the coefficient of linear expansion \\(\\alpha\\) and volumetric expansion (\\(\\gamma\\)) is-----------------",
+    "options": {
+      "A": "\\(\\gamma\\) = \\(\\alpha ^{-3}\\)",
+      "B": "\\(\\gamma\\) = \\(\\alpha\\)",
+      "C": "3\\(\\alpha\\)",
+      "D": "\\(\\gamma\\) = \\(\\alpha ^{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64919?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "C",
+    "explanation": "volumetric expansion (\u03b3) = 3x Linear expansion\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2137",
+    "text": "Which of the following is not a consequence of hydrogen bubbles covering the copper plate of a primary cell?",
+    "options": {
+      "A": "formation of hydrogen bubbles on the electrode",
+      "B": "increase in the resistance of the cell",
+      "C": "local action",
+      "D": "polarization"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64920?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "C",
+    "explanation": "If the zinc used in the simple cell is of\u00a0the impure commercial variety bubbles of hydrogen will be seen coming off the zinc. This is called local action.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2138",
+    "text": "A cell whose internal resistance is 0.55\\(\\Omega\\) delivers a current of 4 A to an external resistor. The lost voltage of the cell is?",
+    "options": {
+      "A": "4.00 V",
+      "B": "2.20 V",
+      "C": "0.15 V",
+      "D": "8.00 V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64923?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "B",
+    "explanation": "Lost voltage = I x R\n= 4 x 0.55\n= 2.2V\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2139",
+    "text": "Which of the following liquid is a poor conductor of electricity?",
+    "options": {
+      "A": "Distilled water",
+      "B": "Tap water",
+      "C": "Sea water",
+      "D": "Drinking water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64924?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "A",
+    "explanation": "Distilled water\u00a0is free of salts and is a poor conductor of electricity.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2140",
+    "text": "An isotope has an initial activity of 120 Bq. 6 days later its activity is 15 Bq. The half-life is?",
+    "options": {
+      "A": "3 days",
+      "B": "2 days",
+      "C": "1 day",
+      "D": "4 days"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64925?exam_type=jamb&type=obj&page=428",
+    "correct_answer": "B",
+    "explanation": "The equation that establishes a relationship between the amountleft undecayed,\nA, the initial amount,\u00a0A0, and thenumber of half-livesthat pass in a period of time\u00a0t\u00a0looks like this:\n\\(\\frac{1}{2^n} * A_0\u00a0 =\u00a0A\\)\n\\(\\frac{1}{2^n} * 120 = 15\\)\n\\(\\frac{1}{2^n}\\) =\u00a0\\(\\frac{15}{120}\\)\n\\(\\frac{1}{2^n}\\) =\u00a0\\(\\frac{1}{8}\\)\n\\(\\frac{1}{2^n}\\) =\u00a0\\(\\frac{1}{2^3}\\)\n\\(2^n = 2^3\\)\nn = 3:6days\u00a0\u00f7 3 = 2days\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2141",
+    "text": "The secondary pigments consist of?",
+    "options": {
+      "A": "blue, green, and violet",
+      "B": "yellow, green, and magenta",
+      "C": "magenta, yellow, and cyan",
+      "D": "red, green, and blue"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64927?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "C",
+    "explanation": "The primary colors of pigment are red, blue, and green.\nMixing these primary colors of pigment gives us the three secondary colors:\nred+blue=magenta, red+ green = yellow, and blue + green = cyan\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2142",
+    "text": "A person standing waist-deep in a swimming pool appears to have short legs because of light?",
+    "options": {
+      "A": "diffraction",
+      "B": "refraction",
+      "C": "reflection",
+      "D": "interference"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64929?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "B",
+    "explanation": "The refractive index of water is greater than that of air.\nSo, A person legs appear to be short while standing in the tank due to refraction.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2143",
+    "text": "A tuning fork having a frequency of 312 Hz emits a wave which has a wavelength of 1.10 m. Calculate the velocity of sound",
+    "options": {
+      "A": "312.0 ms\\(^{-1}\\)",
+      "B": "110.0 ms\\(^{-1}\\)",
+      "C": "343.2 ms\\(^{-1}\\)",
+      "D": "686.4 ms\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64930?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "C",
+    "explanation": "v = f \u03bb to calculate the wave's velocity.\nv = 312 x 1.10\n=\u00a0343.2m/s\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2144",
+    "text": "When the plate area of a capacitor increases?",
+    "options": {
+      "A": "the voltage can withstand increase",
+      "B": "the capacitance decreases",
+      "C": "the capacitance is unaffected",
+      "D": "the capacitance increases"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64932?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "D",
+    "explanation": "Therefore, as the area of the plates increase,\u00a0capacitance increases.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2145",
+    "text": "A magnet relay is a device used for?",
+    "options": {
+      "A": "reading the magnitude of magnetic flux",
+      "B": "controlling another circuit carrying larger current",
+      "C": "turning in sports",
+      "D": "storing magnetic field"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64933?exam_type=jamb&type=obj&page=429",
+    "correct_answer": "B",
+    "explanation": "Relays are electrically operated switches that\u00a0open and close the circuits by receiving electrical signals from outside sources.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2146",
+    "text": "According to kinetic molecular model in gases,",
+    "options": {
+      "A": "the particles are closely packed together; they occupy minimum space are usually arranged in a regular pattern",
+      "B": "the particles vibrate about fixed positions and are held together by the strong intermolecular bonds between them",
+      "C": "the molecules are very far apart and occupy all the spaces made available to them",
+      "D": "the particles occur in clusters with molecules slightly further apart"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64935?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "C",
+    "explanation": "The model, called the kinetic theory of gases,\u00a0assumes that the molecules are very small relative to the distance between molecules.\nThe molecules are in constant, random motion and frequently collide with each other and with the walls of any container.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2147",
+    "text": "A current of 0.5 A flows through a resistor when connected to a 40 V battery. How much energy is dispatched in 2 minutes?",
+    "options": {
+      "A": "2400 J",
+      "B": "9600 J",
+      "C": "1500 J",
+      "D": "1200 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64937?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "A",
+    "explanation": "Energy = power x time\nPower = voltage x current.\nEnergy =\u00a0voltage x current\u00a0x time\nEnergy = 40 x 0.5 x 60 x 2\n\u2192\u00a02,400j\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2148",
+    "text": "For a pear-shaped conductor shown above, the concentration of charge on the outside is highest at?",
+    "options": {
+      "A": "X",
+      "B": "Z",
+      "C": "Y",
+      "D": "K"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64939?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "A",
+    "explanation": "The electric field at the surface of the conductor is perpendicular to the surface.\nCharge accumulates, and the field is strongest, on\u00a0pointy parts of the conductor.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2149",
+    "text": "The vapour pressure?",
+    "options": {
+      "A": "increases non-linearly with measuring temperature",
+      "B": "increases linearly with increasing temperature",
+      "C": "decreases linearly with increasing temperature",
+      "D": "decreases non-linearly ith measuring temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64940?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "A",
+    "explanation": "The vapor pressure of any substance increases non-linearly with temperature, often described by the Clausius\u2013Clapeyron relation.\nAs the temperature of a liquid or solid increases its vapor pressure also increases.\nConversely, vapor pressure decreases as the temperature decreases.\ni.e. vapor pressure is directly proportional to temperature\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2150",
+    "text": "The potential energy in an elastic string of force constant k, which has an extension X is?",
+    "options": {
+      "A": "kX",
+      "B": "KX\\(^{2}\\)",
+      "C": "\u00bdKX\\(^{2}\\)",
+      "D": "\u00bdK"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64942?exam_type=jamb&type=obj&page=430",
+    "correct_answer": "C",
+    "explanation": "elastic potential energy[Ee] = \\(\\frac{1}{2} ke^2\\).\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2151",
+    "text": "A reservoir is filled with liquid of density 2000 kgm\\(^{-1}\\). Calculate the depth at which the pressure in the liquid will be equal to 9100 Nm\\(^{-2}\\) (g = 10 ms\\(^{-2}\\))",
+    "options": {
+      "A": "0.262 m",
+      "B": "0.664 m",
+      "C": "0.819 m",
+      "D": "0.455 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64943?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "D",
+    "explanation": "pressure = p, depth/height\u00a0= h, density\u00a0= d, gravity = g\np = hdg\n\\(\\frac{p}{dg}\u00a0= h\\)\n\\(\\frac{9100}{10 * 2000} = h\\)\n0.455m\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2152",
+    "text": "Water is not a good thermometric liquid because it?",
+    "options": {
+      "A": "expands unevenly between 0 \u00baC and 4 \u00baC",
+      "B": "maintains fixed density",
+      "C": "has low freezing point",
+      "D": "wets glass"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64945?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "D",
+    "explanation": "Water is\u00a0most anomalous at low temperatures, with a remarkable density maximum at 4\u00b0C.\nwater is not used as a thermometric liquid\u00a0because it has low thermal expansivity, high specific\u00a0capacity, high vapor pressure and wets glass.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2153",
+    "text": "Which of these is\u00a0a second-class lever?",
+    "options": {
+      "A": "sugar tongs",
+      "B": "claw hammer",
+      "C": "plier",
+      "D": "wheelbarrow"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64946?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "D",
+    "explanation": "Examples of first class levers are\u00a0pliers, scissors, a crow bar, a claw hammer, a see-saw and a weighing balance.\nA wheelbarrow, a bottle opener, and an oar\u00a0are examples of second class levers\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2154",
+    "text": "In the formation of sea breeze, wind blows from?",
+    "options": {
+      "A": "sky to land",
+      "B": "sea to sky",
+      "C": "land to sea",
+      "D": "sea to land"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64947?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "D",
+    "explanation": "A sea breeze describes a wind that blows\u00a0from the ocean inland towards land.\nThis breeze occurs most often in the spring and summer months because of the greater temperature differences between the ocean and nearby land, particularly in the afternoon when the land is at maximum heating from the sun.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2155",
+    "text": "Which component of fiber-optic connector has a provision of entry for the fibre along with the fixation\u00a0to connector housing?",
+    "options": {
+      "A": "coupling device",
+      "B": "cable",
+      "C": "ferrule",
+      "D": "connector housing"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64948?exam_type=jamb&type=obj&page=431",
+    "correct_answer": "A",
+    "explanation": "Fiber optic couplers are used\u00a0to split the input signals into two or more outputs, they are called splitters in this case.\nOn the other hand, some types of couplers can be used to combine two or more inputs into one single output, they are called combiners in this case.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2156",
+    "text": "In order to view the sun, the most suitable instrument to use is?",
+    "options": {
+      "A": "helioscope",
+      "B": "telescope",
+      "C": "stroboscope",
+      "D": "sun meter"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64949?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "A",
+    "explanation": "A helioscope is an instrument used for\u00a0observing the sun and sunspots.\nThe helioscope was first used by Benedetto Castelli and refined by Galileo Galilei.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2157",
+    "text": "The eclipse of the moon occurs when?",
+    "options": {
+      "A": "the moon reflects the rays from the sun to the earth",
+      "B": "the moon comes exactly between the earth and the sun",
+      "C": "the earth comes exactly between the moon and the sun",
+      "D": "the sun comes exactly between the earth and the moon"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64951?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "C",
+    "explanation": "Eclipse of the moon occurs when the earth comes between the sun and the moon.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2158",
+    "text": "The gravitational pull on the moon is \\(\\frac{1}{6}\\) that of the earth. If a body weighs 6.0 N on the moon,\u00a0what will be the weight on the earth?",
+    "options": {
+      "A": "6.0 N",
+      "B": "5.0 N",
+      "C": "12.0 N",
+      "D": "36.0 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64953?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "D",
+    "explanation": "A person would weigh\u00a0six times less on the moon than they do on Earth.\nOR\nA person would weigh\u00a0six times more on the earth\u00a0than they do on moon.\n\\(\\frac{1}{6} of x\\) =\u00a06.0N on the moon\nx = 6 * 6 = 36\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2159",
+    "text": "The amount of energy required to change a kilogram of ice block into water without a change in temperature is?",
+    "options": {
+      "A": "specific latent heat of fusion of ice",
+      "B": "specific heat capacity of ice",
+      "C": "heat capacity of ice",
+      "D": "specific heat of vaporization of ice"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64955?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "A",
+    "explanation": "Specific latent heat of fusion of a substance is\u00a0the quantity of heat required to convert the unit mass of the substance from the solid to the liquid state without change in temperature.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2160",
+    "text": "Which expression gives magnetic flux?",
+    "options": {
+      "A": "qVB sin\\(\\theta\\)",
+      "B": "\\(\\frac{\\mu \\phi I}{2 \\pi r}\\)",
+      "C": "BA cos \\(\\theta\\)",
+      "D": "-N \\(\\frac{d \\phi}{dt}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/64956?exam_type=jamb&type=obj&page=432",
+    "correct_answer": "C",
+    "explanation": "the magnetic flux through a surface is the surface integral of the normal component of the magnetic field B over that surface.\nIt is usually denoted \u03a6 or \u03a6B. The SI unit of magnetic flux is the weber\nMathematically it is represented asB = \u03a6/A\nwhere B is magnetic flux density in teslas (T),\n\u03a6 is magnetic flux in webers (Wb), and\nA is area in square meters (m2).\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2161",
+    "text": "The graph of pressure (P) against the reciprocal of the volume (I/V) in Boyles's law is a?",
+    "options": {
+      "A": "hyperbola",
+      "B": "parabola",
+      "C": "curve",
+      "D": "straight line"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65085?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "D",
+    "explanation": "The graph of pressure (P) against the reciprocal of the volume (I/V) is a straight line passing through the origin.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2162",
+    "text": "What quantity of heat is required to convert 20 g of ice at 0 \u00baC to water at the same temperature? (Specific latent heat of ice = 336 Jg\\(^{-1}\\))",
+    "options": {
+      "A": "7.06 x 10\\(^{3}\\)J",
+      "B": "5.38 x 10\\(^{3}\\)J",
+      "C": "6.72 x 10\\(^{3}\\)J",
+      "D": "1.35 x 10\\(^{3}\\)J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65087?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "C",
+    "explanation": "quantity of heat = mass *\u00a0Specific latent heat\u00a0\u2192 20 * 336\nquantity of heat = 6720j or\u00a0\u00a06.72 x 10\\(^{3}\\)J\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2163",
+    "text": "A train of mass 1600 kg attains a speed of 25 ms\\(^{-1}\\) in 20 seconds. The power developed in the engine is?",
+    "options": {
+      "A": "2.5 KW",
+      "B": "80 KW",
+      "C": "25 KW",
+      "D": "50 KW"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65088?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "D",
+    "explanation": "where force = f, mass = m, acceleration = a, velocity = v, time = t\nForce = m * a\u00a0\u2192 m\u00a0* \\(\\frac{\u0394v}{t}\\)\nPower = f\u00a0* v\nP =\u00a0m\u00a0* \\(\\frac{v}{t}\\)\u00a0 * v\u00a0=\u00a0m\u00a0* \\(\\frac{v^2}{t}\\)\np =\u00a0 \\(\\frac{1600 * 25^2}{20}\\)\np = 50,000 or\u00a050 KW\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2164",
+    "text": "The main factor which affects the speed of sound wave is the?",
+    "options": {
+      "A": "properties of the medium",
+      "B": "amplitude of the sound wave",
+      "C": "intensity of the sound wave",
+      "D": "loudness of the sound wave"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65089?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "A",
+    "explanation": "Factors Affecting The Speed of Sound\nThe Density of Medium: Sound requires a medium to travel. The density of the medium is among the factors which affect the speed of sound. ...The Temperature of The Medium: Higher the temperature, the higher is the speed of sound in the medium.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2165",
+    "text": "A semiconductor is formed by?",
+    "options": {
+      "A": "co-ordinate bonds",
+      "B": "electrovalent bonds",
+      "C": "a substance free of bonds",
+      "D": "covalent bonds"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65090?exam_type=jamb&type=obj&page=433",
+    "correct_answer": "D",
+    "explanation": "It's generally created using silicon, germanium, or other pure elements.\nSemiconductors are created\u00a0by adding impurities to the element.\nThe conductance or inductance of the element depends on the type and intensity of the added impurities.\nThe electrons surrounding each atom in a semiconductor are part of a covalent bond\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2166",
+    "text": "One of the following is a scalar quantity?",
+    "options": {
+      "A": "weight",
+      "B": "momentum",
+      "C": "potential energy",
+      "D": "displacement"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65091?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "C",
+    "explanation": "Examples of scalar quantities are mass, energy, distance, charge, volume, time, speed, and the magnitude of physical vectors in general.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2167",
+    "text": "The mercury column in the barometer at notational\u00a0 atmospheric pressure has a height of?",
+    "options": {
+      "A": "0.76 cm at see level",
+      "B": "760 cm at sea level",
+      "C": "7.6 cm at sea level",
+      "D": "76 cm at sea level"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65092?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "D",
+    "explanation": "The height of the mercury column serves as an indicator of atmospheric pressure. At sea level and at a temperature of 0\u00b0 Celsius (C), the height of the mercury column is approximately 30 inches, or 76 centimeters. This represents a pressure of approximately14.7 psia. The 30-inch column is used as a reference standard.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2168",
+    "text": "If an object just begins to slide on a surface inclined at 30\u00ba\u00a0to the horizontal,the coefficient of friction is?",
+    "options": {
+      "A": "\u221a3",
+      "B": "\\(\\frac{\u221a3}{2}\\)",
+      "C": "\\(\\frac{1}{\u221a2}\\)",
+      "D": "\\(\\frac{1}{\u221a3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/65735?exam_type=jamb&type=obj&page=434",
+    "correct_answer": "D",
+    "explanation": "A body sliding down a plane inclined at 30o\u00a0to the horizontal,\nHas coefficient of friction = tan 30\u00ba\u00a0\u00a0or\u00a0\\(\\frac{1}{\u221a3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  }
+]

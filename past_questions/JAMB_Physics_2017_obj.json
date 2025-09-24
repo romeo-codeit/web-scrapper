@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1811",
+    "text": "Which is the incorrect formula for a body accelerating uniformly?",
+    "options": {
+      "A": "a = v2 \u2212 \\(\\frac{u^2}{2}\\)",
+      "B": "v2 = u2 + 2as",
+      "C": "s = ut + \\(\\frac{1}{2}\\) at2",
+      "D": "v2 \u2212 u2= 2as"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46372?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "Look through the equations of motion\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1812",
+    "text": "Which of the following is not an electromagnetic radiation?",
+    "options": {
+      "A": "x - ray",
+      "B": "Radio waves",
+      "C": "sunlight",
+      "D": "sound waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46373?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1813",
+    "text": "Calculate the electric field intensity between two plates of potential difference 6.5V when separated by a distance of 35cm.",
+    "options": {
+      "A": "18.57NC\\(^{-1}\\)",
+      "B": "53.06N C\\(^{-1}\\)",
+      "C": "2.28NC\\(^{-1}\\)",
+      "D": "0.80NC\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46376?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1814",
+    "text": "Why do soldiers march disorderly while crossing a bridge?",
+    "options": {
+      "A": "To prevent resonance on the bridge",
+      "B": "To set the bridge into resonance",
+      "C": "To make the b ridge collapse",
+      "D": "To spread their weight evenly on the bridge"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46377?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "Soldiers march disorderly while crossing a bridge to prevent resonance because when soldiers march in orderly manner across a bridge, they generate a rhythmic oscillation of wave on the bridge and at a certain point, would start oscillation to the same rhythm as that of the marching steps. This oscillation would reach a maximum peak when the bridge can no longer sustain its own strength and hence collapses. So for this reasons, soldier are ordered to march disorderly while crossing a bridge.\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1815",
+    "text": "Calculate the upthrust on an object of volume 50cm3 which is immersed in liquid of density \\(10^{3}\\)\u00a0kgm-3 [g = 10ms-2]",
+    "options": {
+      "A": "0.8N",
+      "B": "2.5N",
+      "C": "0.5N",
+      "D": "1.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46378?exam_type=jamb&type=obj&page=363",
+    "correct_answer": "C",
+    "explanation": "Upthrust = change in weightdensity = \\(\\frac{\\text{mass}}{\\text{volume}}\\)Mass of liquid displaced = Density of Liquid \u00d7 Volume;= \\(10^{3} \\times 50 \\times 10^{\u22126}m^{3}\\)= 0.05kg(Note that the volume of \\(50cm^{3}\\) was converted to \\(m^{3}\\) by multiplying by \\(10^{6}\\)) i.e \\(50cm^{3} = 50 \\times 10^{\u22126}m^{3}\\)Since mass displaced = 0.05kgUpthrust = mg = 0.05 \u00d7 10= 0.5N\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1816",
+    "text": "Under what conditions are cathode rays produced in a discharge tube?",
+    "options": {
+      "A": "High pressure and low voltage",
+      "B": "High pressure and high voltage",
+      "C": "Low pressure and low voltage",
+      "D": "Low pressure and high volatge"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46379?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1817",
+    "text": "Under which of the following conditions is workdone",
+    "options": {
+      "A": "A man supports a heavy food above his head with his hands",
+      "B": "A boy climbs onto a table",
+      "C": "A man pushes unto a table",
+      "D": "A woman holds a pot of water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46380?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1818",
+    "text": "Calculate the specific latent heat of vaporization of steam of 1.13 x 106J of heat energy is required to convert 15kg of steam to water.",
+    "options": {
+      "A": "7.53 x 105 Jkg\\(^{-1}\\)",
+      "B": "7.53 x 10-2Jkg\\(^{-1}\\)",
+      "C": "\\(7.53 \\times 10^{4}\\)Jkg\\(^{-1}\\)",
+      "D": "7.53 x 10-3Jkg\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46383?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "C",
+    "explanation": "Quantity of heat = mass(m) \u00d7 specific latent heat (L)Q = mLL = \\(\\frac{Q}{m}\\)= \\(\\frac{1.13 \\times 10^{6}}{15}\\)= \\(7.53 \\times 10^{4}\\)Jkg\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1819",
+    "text": "A cell of internal resistance 2\u03a9 supplies current to a 6\u03a9\u00a0resistor. The efficiency of the cell is",
+    "options": {
+      "A": "12.0%",
+      "B": "25.0%",
+      "C": "33.3%",
+      "D": "75.0%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46384?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "D",
+    "explanation": "Internal resistance determine the maximum current that can be suppliedEfficiency = \\(\\frac{R}{R+ r}\\) \u00d7 100= \\(\\frac{6}{8}\\) \u00d7 100= 75%\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1820",
+    "text": "Which of the following statements is NOT correct?",
+    "options": {
+      "A": "Molecules of a liquid are stationary",
+      "B": "Brownian motion is an evidence of particle nature of matter",
+      "C": "Matter is made up of molecules",
+      "D": "The molecules of matter are in constant motion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46386?exam_type=jamb&type=obj&page=364",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1821",
+    "text": "A block and tackle pulley arrangement has 6 pulleys in which an effort of 50N supports a load of 200N, calculate the efficiency of the machine",
+    "options": {
+      "A": "80.0%",
+      "B": "76.6%",
+      "C": "66.7%",
+      "D": "60.7%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46389?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1822",
+    "text": "Three 3\u03c9 resistance are connected in parallel what is the equivalent resistance?",
+    "options": {
+      "A": "1\u03c9",
+      "B": "9\u03c9",
+      "C": "3\u03c9",
+      "D": "0.33\u03c9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46390?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1823",
+    "text": "Which of the following instruments helps to maintain the correct humidity and temperature of a building?",
+    "options": {
+      "A": "A compressor",
+      "B": "A refrigerator",
+      "C": "Air blower",
+      "D": "Air conditioner"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46391?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1824",
+    "text": "An element and its isotope only differ in the number of",
+    "options": {
+      "A": "protons",
+      "B": "electrons",
+      "C": "ions",
+      "D": "neutrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46392?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1825",
+    "text": "The S.I unit of moment of a force is",
+    "options": {
+      "A": "kgm",
+      "B": "Nm",
+      "C": "Jm",
+      "D": "\u00b5m\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46394?exam_type=jamb&type=obj&page=365",
+    "correct_answer": "B",
+    "explanation": "Moment of a force is the product of a force and the perpendicular distance from the line of action of the forceMoment = force \u00d7 distance= N \u00d7 m= Nm\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1826",
+    "text": "Calculate the height of the image formed by a pinhole camera of length 12cm used to photograph an object 60cm away from the hole and 70cm high",
+    "options": {
+      "A": "10 cm",
+      "B": "16 cm",
+      "C": "5 cm",
+      "D": "14 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46396?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "D",
+    "explanation": "Magnification = \\(\\frac{\\text{Length of camera}}{\\text{distance of object from pin hole}}\\)m = \\(\\frac{12}{60}\\)= 0.2Also magnification m = \\(\\frac{\\text{Height of image}}{\\text{Height of object}}\\)\u2234 Height of image = m \u00d7 height of object= 0.2 \u00d7 70= 14cm\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1827",
+    "text": "When two objects P and Q are supplied with the same quantity of heat, the temperature change in P is observed to be twice that of Q. The mass of P is half that of Q. The ratio of the specific heat capacity pf P to Q is",
+    "options": {
+      "A": "1:4",
+      "B": "4:1",
+      "C": "1:1",
+      "D": "2:1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46397?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "C",
+    "explanation": "P\nQ\nP\nP\nQ\nP\nQ\nP\nP\nQ\nQ\nQ\nP\nQ\nP\nP\nP\nQ\nP\nq\nQ\nP\nQ\nQ\nQ\nQ\nP\nQ\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1828",
+    "text": "When the r.m.s value of a source of electricity supply is given as 240v, it means that the peak value of the supply is",
+    "options": {
+      "A": "240v",
+      "B": "340v",
+      "C": "480v",
+      "D": "57600v"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46398?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "B",
+    "explanation": "o\no\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1829",
+    "text": "Which of the following operations can be used to convert an alternative current dynamo into a direct current dynamo",
+    "options": {
+      "A": "number of turns in the coil is increased",
+      "B": "strength of the field magnet is increased",
+      "C": "slip rings are replaced with split ring commutator",
+      "D": "coil is wound on a soft iron armature"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46399?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "C",
+    "explanation": "A d.c generator is one in which its current is allowed to flow in one direction even through it may vary in value an a.c generator can only be made to produce a d.c by replacing the two slip rings with a single split ring or commutator.\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1830",
+    "text": "The net capacitance in the circuit above is",
+    "options": {
+      "A": "80\u00b5F",
+      "B": "6.0\u00b5F",
+      "C": "4.0\u00b5F",
+      "D": "2.0\u00b5F"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46400?exam_type=jamb&type=obj&page=366",
+    "correct_answer": "D",
+    "explanation": "For capacitance i n parallel, 2\u00b5F and 2\u00b5F are in parallel,their equivalence is 2\u00b5F and 2\u00b5F = 4\u00b5FThe 4\u00b5F generated is now in series with the remaining 4\u00b5F.The net capacitance for series connection is\\(\\frac{1}{C}\\) = \\(\\frac{1}{4}\\) + \\(\\frac{1}{4}\\) = 1 + \\(\\frac{1}{4}\\) = \\(\\frac{2}{4}\\)C = \\(\\frac{4}{2}\\)= 2\u00b5F\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1831",
+    "text": "The instrument used to measure the pressure of a gas is",
+    "options": {
+      "A": "barometer",
+      "B": "thermometer",
+      "C": "hydrometer",
+      "D": "manometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46401?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "Barometer is used to measure atmosphere pressureThermometer is used to measure temperatureHydrometer is used to measure relative density of a liquidManometer is used to measure the pressure of a gas\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1832",
+    "text": "A man of mass 50kg ascends a flight of stains 5m high in 5 seconds. If acceleration due to gravity is 10ms\\(^{-2}\\) the power expended is",
+    "options": {
+      "A": "100w",
+      "B": "200w",
+      "C": "400w",
+      "D": "500w"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46402?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1833",
+    "text": "A radio station broadcast at a frequency of 600KHZ. If the speed of light in air is 3 \u00d7 108ms\\(^{\u22121}\\). Calculate the wavelength of the radio wave",
+    "options": {
+      "A": "2.20 \u00d7 10\\(^3\\)m",
+      "B": "5.0 \u00d7 10\\(^2\\)m",
+      "C": "5.0 \u00d7 10\\(^5\\)m",
+      "D": "11.8 \u00d7 10\\(^{11}\\)m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46403?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "B",
+    "explanation": "2\n3\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1834",
+    "text": "Which of the following is a scalar quantity?",
+    "options": {
+      "A": "Tension",
+      "B": "Weight",
+      "C": "Impulse",
+      "D": "Mass"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46404?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1835",
+    "text": "Determine the focal length of a thin converging lens if the power is 5.0 dioptres",
+    "options": {
+      "A": "0.1 m",
+      "B": "0.2 m",
+      "C": "2.0 m",
+      "D": "2.5 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46405?exam_type=jamb&type=obj&page=367",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1836",
+    "text": "A string of length 5cm is extended by 0.04m when a load of 0.8kg is suspended at the end. How far will it extend if a force of 16N is applied? [g = 10ms\\(^{-2}\\)]",
+    "options": {
+      "A": "0.04m",
+      "B": "0.12m",
+      "C": "0.01m",
+      "D": "0.08m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46406?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1837",
+    "text": "How can energy loss be minimized through Eddy-current?",
+    "options": {
+      "A": "By using high resistance wire",
+      "B": "By using insulated soft iron wires",
+      "C": "By using low resistance wires",
+      "D": "Bu using turns of wires"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46407?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1838",
+    "text": "From the diagram above, calculate the energy stored in the capacitor",
+    "options": {
+      "A": "4.0 x 10\\(^{-2}\\)J",
+      "B": "4.0 x 10\\(^{-4}\\)J",
+      "C": "8.0 x 10\\(^{-4}\\)J",
+      "D": "8.0 x 10\\(^{-2}\\)J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46408?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "B",
+    "explanation": "2\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1839",
+    "text": "A constant force of 5N acts for\u00a05 seconds on a mass of 5kg initially at rest. Calculate the final momentum",
+    "options": {
+      "A": "125kgms\u22121",
+      "B": "25kgms\u22121",
+      "C": "15kgms\u22121",
+      "D": "0kgms\u22121"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46409?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "B",
+    "explanation": "Impulse = momentumImpulse = Force (f) \u00d7 time (t)Momentum = mass (m) \u00d7 velocity (v)\u2234 Ft = Final momentum - initial momentumFT = mv - muSince it is initially at rest u = 0\u2234 5 \u00d7 5 = mv \u2212 m(0)25 = mv\u2234 Final momentum = 25kgms\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1840",
+    "text": "I. Refraction II. Interference III. Diffraction Which of the above properties are common to all waves?",
+    "options": {
+      "A": "II and III only",
+      "B": "I, II and III",
+      "C": "I and II only",
+      "D": "I and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46430?exam_type=jamb&type=obj&page=368",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1841",
+    "text": "Which of the following is correct about an electric cell?",
+    "options": {
+      "A": "Primary cell produces a large current for a long time",
+      "B": "Secondary cell has a very high internal resistance",
+      "C": "Primary cell has a very low internal resistance",
+      "D": "Secondary cell has a very low internal resistance"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46432?exam_type=jamb&type=obj&page=369",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1842",
+    "text": "Which of the following is a semiconductor",
+    "options": {
+      "A": "copper",
+      "B": "silicon",
+      "C": "plastic",
+      "D": "Iron"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46433?exam_type=jamb&type=obj&page=369",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1843",
+    "text": "Which of the following surfaces will absorb\u00a0radiant heat energy?",
+    "options": {
+      "A": "white",
+      "B": "red",
+      "C": "black",
+      "D": "blue"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46434?exam_type=jamb&type=obj&page=369",
+    "correct_answer": "C",
+    "explanation": "A black solution is a better radiator of heat and allow a better absorber of heat.\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1844",
+    "text": "It is known that a neutron exists in a light atomic nucleus\nWhich of the following also exists in the nucleus?",
+    "options": {
+      "A": "An electron",
+      "B": "A \u03b2 - particle",
+      "C": "\u03b2 - particle",
+      "D": "proton"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46435?exam_type=jamb&type=obj&page=369",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1845",
+    "text": "The instrument to measure the relative density of liquid is",
+    "options": {
+      "A": "thermometer",
+      "B": "hydrometer",
+      "C": "spring balance",
+      "D": "beaker"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46436?exam_type=jamb&type=obj&page=369",
+    "correct_answer": "B",
+    "explanation": "Thermometer is used to measure temperatureHydrometer is used to measure relative density of liquid.Spring balance is used to measure the weight of an objectBeaker is used to measure or take volume of a liquid\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1846",
+    "text": "What is the speed of a body vibrating at 50 cyclic per second",
+    "options": {
+      "A": "100 \u03c0rads\\(_{\u22121}\\)",
+      "B": "200 \u03c0rads\\(_{\u22121}\\)",
+      "C": "50 \u03c0rads\\(_{\u22121}\\)",
+      "D": "400 \u03c0rads\\(_{\u22121}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46437?exam_type=jamb&type=obj&page=370",
+    "correct_answer": "A",
+    "explanation": "1 cycle = 360\u00b0\u00a0= 2\u03c0 rad\u2234 50 cycle = 2 \u03c0 rad \u00d7 50 = 100 \u03c0rad\u2234 = angular speed = 50 cycles per seconds = 100 \u03c0 rads\\(_{\u22121}\\)\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1847",
+    "text": "The action of blotting paper on ink is due to",
+    "options": {
+      "A": "diffusion",
+      "B": "osmosis",
+      "C": "capillarity",
+      "D": "surface tension"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46438?exam_type=jamb&type=obj&page=370",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1848",
+    "text": "When two mirrors are placed at an angle of 90\u00ba\u00a0to each other, how many images will be formed when an object is placed in front of the mirrors",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46439?exam_type=jamb&type=obj&page=370",
+    "correct_answer": "C",
+    "explanation": "When two mirror are inclined at an angle \u03b8, the number of images formed, n = \\(\\frac{360}{\\theta}\\) \u2212 1\u2234 since \\(\\theta\\) = 90o\u2234 \\(\\frac{360}{\\theta}\\) \u2212 1= 4 \u2212 1= 3\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1849",
+    "text": "If silicon is doped with phosphorus, what type of semiconductor material will be formed?",
+    "options": {
+      "A": "Zener material",
+      "B": "P-n junction",
+      "C": "n-type",
+      "D": "p-type"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46440?exam_type=jamb&type=obj&page=370",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1850",
+    "text": "Calculate the angle of minimum deviation of a 60\u00ba\u00a0prism of a refractive index 1.5[ \\(sin^{-1}\\) (0.75) = 49\u00ba]",
+    "options": {
+      "A": "38o",
+      "B": "19.47o",
+      "C": "16.25o",
+      "D": "49o"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46441?exam_type=jamb&type=obj&page=370",
+    "correct_answer": "A",
+    "explanation": "For a refractive index () = \\(\\frac{\\sin\\frac{1}{2} (A + D)}{\\sin\\frac{1}{2}A}\\)D = angle of minimum deviationA = refractive angle of the prism1.5 = \\(\\frac{\\sin\\frac{1}{2} (60 + D)}{\\sin\\frac{1}{2} \\times 60}\\)1.5 = \\(\\frac{\\sin\\frac{1}{2} (60 + D)}{\\sin 30}\\)Sin \\(\\frac{1}{2}\\) (60 + D) = 1.5 * Sin 30Sin \\(\\frac{1}{2}\\) (60 + D) = 0.75\\(\\frac{1}{2}\\) (60 + D) = Sin-1 (0.75)but Sin-1 (0.75) = 49o\\(\\frac{1}{2}\\) (60 + D) = 4960 + D = 2 * 49 = 98oD = 98o - 60oD = 38o\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1851",
+    "text": "What is the cost of running seven 40 W lamps and five 80 W lamps for 12 hours of the electrical energy cost N7.00kWh?",
+    "options": {
+      "A": "N80.00",
+      "B": "N45.36",
+      "C": "N65.00",
+      "D": "N57.12"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46442?exam_type=jamb&type=obj&page=371",
+    "correct_answer": "D",
+    "explanation": "Seven 40W lamps = 7 \u00d7 40 = 280WFive 80W lamps = 5 \u00d7 80 = 400WTotal power = 280W + 400W= 680W= \\(\\frac{680KW}{1000}\\) = 0.68KWThe kilowatt hour = 0.68 KW \u00d7 12 hrs= 8.16 KWhCost is N 7 per KWhSo the cost of running them = 8.16KWh \u00d7 N 7/KWh= 57.12\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1852",
+    "text": "From the diagram above, calculate the total current in the circuit",
+    "options": {
+      "A": "5.0A",
+      "B": "3.7A",
+      "C": "4.5A",
+      "D": "4.0A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46451?exam_type=jamb&type=obj&page=371",
+    "correct_answer": "B",
+    "explanation": "1\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1853",
+    "text": "Calculate the time taken for a mango fruit that fall from the tree 20 m to the ground [g = 10 ms-2]",
+    "options": {
+      "A": "10s",
+      "B": "5s",
+      "C": "4s",
+      "D": "2s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46464?exam_type=jamb&type=obj&page=371",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1854",
+    "text": "Which of the following is not a mechanical wave?",
+    "options": {
+      "A": "wave in closed pipe",
+      "B": "radio waves",
+      "C": "water waves",
+      "D": "sound waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46465?exam_type=jamb&type=obj&page=371",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1855",
+    "text": "The velocity ratio of an inclined plane where angle of inclination in \u03b8 is",
+    "options": {
+      "A": "Sin\u03b8",
+      "B": "Cos\u03b8",
+      "C": "Tan\u03b8",
+      "D": "\\(\\frac{1}{\\sin \\theta}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46466?exam_type=jamb&type=obj&page=371",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1856",
+    "text": "The volume of a fixed mass of gas is 10cm3 when its pressure is 400cmHg. Determine the volume of the gas when its pressure is 200cmHg.",
+    "options": {
+      "A": "30cm3",
+      "B": "40cm3",
+      "C": "50cm3",
+      "D": "20cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46467?exam_type=jamb&type=obj&page=372",
+    "correct_answer": "D",
+    "explanation": "1\n1\n2\n2\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1857",
+    "text": "Which of the following representations is correct for an atom X with 28 electrons and 30 neutrons?",
+    "options": {
+      "A": "\\(^{58}_{28}X\\)",
+      "B": "\\(^{30}_{28}X\\)",
+      "C": "\\(^{28}_{30}X\\)",
+      "D": "\\(^{58}_{30}X\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/46471?exam_type=jamb&type=obj&page=372",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1860",
+    "text": "Which of the following is true of an electrical charge?",
+    "options": {
+      "A": "Positive charge means deficit electrons",
+      "B": "Negative charge means excess of electrons",
+      "C": "electric current means movement of electrons",
+      "D": "All of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/47377?exam_type=jamb&type=obj&page=372",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  },
+  {
+    "number": "1862",
+    "text": "Which of the following is not true of an electrical charge?",
+    "options": {
+      "A": "Negative charge means deficit electrons",
+      "B": "Negative charge means excess of electrons",
+      "C": "electric current means movement of electrons",
+      "D": "All of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/47379?exam_type=jamb&type=obj&page=373",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2017"
+  }
+]
