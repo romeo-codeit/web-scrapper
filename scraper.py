@@ -23,24 +23,35 @@ async def get_answer_and_explanation(session, answer_url, semaphore):
                 soup = BeautifulSoup(await response.text(), 'lxml')
 
                 correct_answer = None
-                answer_h5 = soup.find('h5', class_='text-success')
-                if answer_h5 and 'Correct Answer:' in answer_h5.text:
-                    correct_answer = answer_h5.text.replace('Correct Answer:', '').replace('Option', '').strip()
-
                 explanation = None
+
+                # Try to find the explanation first
                 explanation_h5 = soup.find('h5', string=lambda t: t and 'Explanation' in t)
                 if explanation_h5:
-                    explanation_div = explanation_h5.parent
-                    # The explanation is in the same div as the h5, so we get the div's text and remove the title.
-                    explanation_text = explanation_div.get_text(separator='\n', strip=True)
-                    if explanation_text.startswith('Explanation'):
-                        explanation = explanation_text[len('Explanation'):].strip()
-                    else:
-                        explanation = explanation_text
+                    explanation_parts = []
+                    for sibling in explanation_h5.find_next_siblings():
+                        if sibling.name == 'h5':  # Stop at the next heading
+                            break
+                        # We get the text of the sibling, handling NavigableStrings and Tags
+                        text = ''
+                        if isinstance(sibling, str):
+                            text = sibling.strip()
+                        else:
+                            text = sibling.get_text(strip=True)
+
+                        if text:
+                            explanation_parts.append(text)
+
+                    explanation = '\n'.join(explanation_parts).strip()
 
                 # For theory questions, the answer is the explanation.
-                if 'type=theory' in answer_url and explanation:
+                if 'type=theory' in answer_url:
                     correct_answer = explanation
+                else:
+                    # For obj questions, find the specific answer format
+                    answer_h5 = soup.find('h5', class_='text-success')
+                    if answer_h5 and 'Correct Answer:' in answer_h5.text:
+                        correct_answer = answer_h5.text.replace('Correct Answer:', '').replace('Option', '').strip()
 
                 year = None
                 breadcrumb_items = soup.find_all('li', class_='breadcrumb-item')
@@ -130,16 +141,22 @@ async def scrape_page(session, url, semaphore, all_questions):
             f.write(f"questions:{url}\n")
         return None
 
-async def scrape_all_pages(session, start_url):
+async def scrape_all_pages(session, start_url, page_limit=0):
     """
     Scrapes all pages for a subject, following pagination.
     """
     all_questions = []
-    semaphore = asyncio.Semaphore(10)
+    semaphore = asyncio.Semaphore(50)
     next_page_url = start_url
+    pages_scraped = 0
 
     while next_page_url:
+        if page_limit > 0 and pages_scraped >= page_limit:
+            print(f"Page limit of {page_limit} reached. Stopping.")
+            break
         next_page_url = await scrape_page(session, next_page_url, semaphore, all_questions)
+        pages_scraped += 1
+
 
     return all_questions
 
@@ -157,6 +174,8 @@ async def main():
     parser.add_argument("--end_year", type=int, default=2024, help="The ending year for scraping.")
     parser.add_argument("--strict", action='store_true', help="If set, only save questions that have both options and a correct answer.")
     parser.add_argument("--retry-failed", action='store_true', help="If set, retry scraping from a list of failed URLs.")
+    parser.add_argument("--page_limit", type=int, default=0, help="Limit the number of pages to scrape.")
+    parser.add_argument("--start_page", type=int, default=1, help="The page number to start scraping from.")
 
     args = parser.parse_args()
 
@@ -165,11 +184,11 @@ async def main():
             parser.error("--retry-failed cannot be used with subject_name or --exam_type.")
         await retry_failed_urls(args.start_year, args.end_year, args.strict)
     elif args.subject_name and args.exam_type:
-        await scrape_subject(args.subject_name, args.exam_type, args.start_year, args.end_year, args.strict)
+        await scrape_subject(args.subject_name, args.exam_type, args.start_year, args.end_year, args.strict, args.page_limit, args.start_page)
     else:
         parser.error("subject_name and --exam_type are required unless --retry-failed is used.")
 
-async def scrape_subject(subject_name, exam_type, start_year, end_year, strict_mode=False):
+async def scrape_subject(subject_name, exam_type, start_year, end_year, strict_mode=False, page_limit=0, start_page=1):
     """
     Scrapes past questions for a specific subject and exam type within a given year range.
     """
@@ -219,7 +238,10 @@ async def scrape_subject(subject_name, exam_type, start_year, end_year, strict_m
             else:
                 scrape_url = f"{subject_url}&exam_type={exam_type}&type={paper_type}"
 
-            questions = await scrape_all_pages(session, scrape_url)
+            if start_page > 1:
+                scrape_url = f"{scrape_url}&page={start_page}"
+
+            questions = await scrape_all_pages(session, scrape_url, page_limit)
             print(f"Found {len(questions)} {paper_type} questions for {subject_name}")
 
             questions_by_year_for_type = {}
@@ -242,9 +264,27 @@ async def scrape_subject(subject_name, exam_type, start_year, end_year, strict_m
                 sanitized_subject_name = sanitize_filename(subject_name)
                 filename = f"{exam_type.upper()}_{sanitized_subject_name}_{year}_{paper_type}.json"
                 filepath = os.path.join(output_dir, filename)
+
+                # Load existing data if the file exists, otherwise start with an empty list
+                existing_questions = []
+                if os.path.exists(filepath):
+                    with open(filepath, 'r') as f:
+                        try:
+                            existing_questions = json.load(f)
+                        except json.JSONDecodeError:
+                            pass # File is empty or corrupt, start fresh
+
+                # Create a set of existing question numbers for quick lookup
+                existing_question_numbers = {q['number'] for q in existing_questions}
+
+                # Add only new questions
+                for q in year_questions:
+                    if q['number'] not in existing_question_numbers:
+                        existing_questions.append(q)
+
                 with open(filepath, 'w') as f:
-                    json.dump(year_questions, f, indent=2)
-                print(f"Saved {len(year_questions)} questions to {filepath}")
+                    json.dump(existing_questions, f, indent=2)
+                print(f"Saved {len(existing_questions)} total questions to {filepath}")
 
     print("\nScraping complete for this subject.")
 
