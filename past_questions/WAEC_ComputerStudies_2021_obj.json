@@ -1,0 +1,701 @@
+[
+  {
+    "number": "51",
+    "text": "Quantitative data can exist in",
+    "options": {
+      "A": "continuous form only",
+      "B": "continuous and discrete forms",
+      "C": "nominal and ordinal forms",
+      "D": "ordinal form only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61380?exam_type=waec&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "52",
+    "text": "Data created by the user is called",
+    "options": {
+      "A": "primary data",
+      "B": "qualitative data",
+      "C": "quantitative data",
+      "D": "secondary data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61381?exam_type=waec&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "53",
+    "text": "The sequence of operation of a computer is",
+    "options": {
+      "A": "accept data, process date and produce output",
+      "B": "accept data, produce data and produce information",
+      "C": "produce data, supply data and produce output",
+      "D": "process data, produce data and display information"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61382?exam_type=waec&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "54",
+    "text": "Which of the following descriptions is not true about data?",
+    "options": {
+      "A": "is a collection of raw facts and figures",
+      "C": "is unorganized",
+      "D": "is used for decision making"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61383?exam_type=waec&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "55",
+    "text": "Which of the following statements is true about super computers? They",
+    "options": {
+      "A": "can fit on a single small chip",
+      "B": "are easily affordable",
+      "C": "can process billions of operations in a second",
+      "D": "are found across various homes and offices"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61384?exam_type=waec&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "56",
+    "text": "The\u00a0Slide Rule\u00a0is accurate to",
+    "options": {
+      "A": "1-2 decimal places",
+      "B": "3-4 decimal places",
+      "C": "5 decimal places",
+      "D": "6 decimal places"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61385?exam_type=waec&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "57",
+    "text": "What factors will motivate a field engineer into choosing a notebook computer over a desktop computer?",
+    "options": {
+      "A": "Cost, convenience and battery life",
+      "B": "Cost, size and convenience",
+      "C": "Size, convenience and battery life",
+      "D": "Size, cost and battery life"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61386?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "58",
+    "text": "A collection of wires through which data are transmitted from one part of the computer to another is known as",
+    "options": {
+      "A": "address",
+      "B": "bus",
+      "C": "driver",
+      "D": "register"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61387?exam_type=waec&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "59",
+    "text": "The total possible combinations of the input variables for a logic gate containing\u00a0three input variables is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "8",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61388?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "The total possible combinations of the input variables for a logic gate containing\u00a0three input variables\u00a0would have 8 possible input combinations or \\(2^3\\)",
+    "year": "2021"
+  },
+  {
+    "number": "60",
+    "text": "What is the least number of 750 MB capacity CD-ROM discs needed to transfer 10 GB size file?",
+    "options": {
+      "A": "75",
+      "B": "31",
+      "C": "14",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61389?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "1GB = 1000MB\n10GB = 10,000MB\n\\(\\therefore\\), the numbers of 750MB in 10000MB = \\(\\frac{10000}{750}\\) = 13.33\u00a0\\(\\approx\\) \u00a014",
+    "year": "2021"
+  },
+  {
+    "number": "61",
+    "text": "The logic gates represented in Figure 1 is called",
+    "options": {
+      "A": "AND gate",
+      "B": "NAND gate",
+      "C": "NOR gate",
+      "D": "OR gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61390?exam_type=waec&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "62",
+    "text": "Use the logic gate in Fig 2 to answer question 12.\nWhich of the logic gates will give an output opposite to the input state?",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "X and Y"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61391?exam_type=waec&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "63",
+    "text": "Use the logic gate in Fig 2 to answer question 13.\nWhich of the following statements is true about logic gates X and Y?",
+    "options": {
+      "A": "They both have multiple output variables",
+      "B": "The output state of each depends on the input state",
+      "C": "The output is true only if all inputs are true",
+      "D": "They are both equivalent gates."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61392?exam_type=waec&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "Computers use Logic gates to transform the 1s and 0s from input wires. A logic gate accepts inputs and then outputs a result on their state.",
+    "year": "2021"
+  },
+  {
+    "number": "64",
+    "text": "The logical equation for the logic circuit in Figure 3 is",
+    "options": {
+      "A": "\\(\\overline{A+B}\\) \\(\\overline{C}\\)",
+      "B": "Z=A.B+C",
+      "C": "Z=A+B.C",
+      "D": "Z=\\(\\overline{A.B}\\) + \\(\\overline{C}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61393?exam_type=waec&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "65",
+    "text": "The operation of a computer and peripherals attached to it is controlled by",
+    "options": {
+      "A": "application",
+      "B": "hardware",
+      "C": "live ware",
+      "D": "system software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61394?exam_type=waec&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "66",
+    "text": "COBOL was developed for",
+    "options": {
+      "A": "business operations",
+      "B": "game developers",
+      "C": "mobile application developers",
+      "D": "search engines optimization"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61395?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "67",
+    "text": "The operating system performs the following operations except",
+    "options": {
+      "A": "organization of data",
+      "B": "resource allocation",
+      "C": "creation of data",
+      "D": "arrangement of files"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61396?exam_type=waec&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "68",
+    "text": "The fundamental purpose of the BIOS is",
+    "options": {
+      "A": "initializing and testing hardware components",
+      "B": "testing the system performance",
+      "C": "updating the system performance",
+      "D": "saving the operating system's file"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61397?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "69",
+    "text": "The IF... THEN statement in BASIC is called",
+    "options": {
+      "A": "an assignment statement",
+      "B": "an object",
+      "C": "a class",
+      "D": "a control structure"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61398?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "70",
+    "text": "The use of natural language and symbols to write instructions for the computer is called",
+    "options": {
+      "A": "machine language programming",
+      "B": "assembly language programming",
+      "C": "algorithm language programming",
+      "D": "high level language programming"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61399?exam_type=waec&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "71",
+    "text": "Which of the following stages of the SDLC is post-operational stage?",
+    "options": {
+      "A": "Analysis",
+      "B": "Design",
+      "C": "Investigation",
+      "D": "Maintenance"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61400?exam_type=waec&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "The software development lifecycle (SDLC):The Post-operational Phase aims\u00a0to maintain and enhance the system to meet the ongoing needs of the user community. The operations and maintenance phase is the last phase when end users can fine-tune the system, if they wish, to boost performance, add new capabilities, or meet additional user requirements",
+    "year": "2021"
+  },
+  {
+    "number": "72",
+    "text": "The expression 5 + 3*4/2 - 3^2 in QBASIC evaluate to",
+    "options": {
+      "A": "7",
+      "B": "4",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61401?exam_type=waec&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "5 + 3* 4/2 - \\(3^2\\)= 5 + 3* \\(\\frac{4}{2}\\) - 9= 5 + 3* 2 - 9= 5 + 6 - 9= 11 - 9= 2",
+    "year": "2021"
+  },
+  {
+    "number": "73",
+    "text": "Use figure 4 to answer question 23\nThe basic problem with the flow chart is that it has",
+    "options": {
+      "A": "no direction",
+      "B": "no algorithm",
+      "C": "END is a process",
+      "D": "improper branch out"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61404?exam_type=waec&type=obj&page=15",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "74",
+    "text": "Use Figure 4 to answer question 24\nWhat activity is the flowchart made to represent?",
+    "options": {
+      "A": "How to pick an orange",
+      "B": "Instruction to pick an orange",
+      "C": "Evaluation on how to pick an orange",
+      "D": "Number of times to pick an orange"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61405?exam_type=waec&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "75",
+    "text": "Use Figure 4 to answer question 25\nIf N in the flowchart is represented by 10, which of the following conditions is not true?",
+    "options": {
+      "A": "If C > 10, do not pick orange.",
+      "B": "If C = 10, stop picking orange",
+      "C": "If C < 10, keep picking orange",
+      "D": "If C = 10, continue picking orange"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61406?exam_type=waec&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "76",
+    "text": "A computer system on the network that stores pages, takes request from clients as well as send out information is called a",
+    "options": {
+      "A": "client",
+      "B": "web page",
+      "C": "web server",
+      "D": "website"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61407?exam_type=waec&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "A web server is a software and hardware that uses HTTP and other protocols to respond to client requests made over the World Wide Web.",
+    "year": "2021"
+  },
+  {
+    "number": "77",
+    "text": "The device is Figure 5 uses a transmission method called",
+    "options": {
+      "A": "broadcast",
+      "B": "podcast",
+      "C": "multicast",
+      "D": "unicast"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61408?exam_type=waec&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "78",
+    "text": "In Figure 6 the signals from modem X to modem Y is",
+    "options": {
+      "A": "analogue",
+      "B": "digital",
+      "C": "imaginary",
+      "D": "aperiodic"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61409?exam_type=waec&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "79",
+    "text": "The \"/exams\"in the web address; https;//www.waec.org.ng/exams is called",
+    "options": {
+      "A": "domain name",
+      "B": "path",
+      "C": "port",
+      "D": "subdomain"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61410?exam_type=waec&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "The path specifies the location of the file or resource that the user wants to access. In the question, the specified path would be \u00a0\u201c\\exam.\u201d\nhttps;//www.waec.org.ng/exams",
+    "year": "2021"
+  },
+  {
+    "number": "80",
+    "text": "Which of the following statements about URL is true? It is",
+    "options": {
+      "A": "a computer software program",
+      "B": "a type of web server",
+      "C": "an acronym for unlimited resources for learning",
+      "D": "the address of document or 'page' on the world wide web"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61411?exam_type=waec&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "81",
+    "text": "The type of network represented in Figure 7 is called",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "PAN",
+      "D": "WAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61412?exam_type=waec&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "LAN means Local Area Network and is a computer that interconnects computers within a limited area such as residence, school, laboratory, university campus or office building.",
+    "year": "2021"
+  },
+  {
+    "number": "82",
+    "text": "In MS Excel, the cell that contains the pointer or cursor is called",
+    "options": {
+      "A": "active cell",
+      "B": "current cell",
+      "C": "default cell",
+      "D": "passive cell"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61413?exam_type=waec&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "83",
+    "text": "The part of the graphic interface in Figure 8 labelled V is called",
+    "options": {
+      "A": "pan",
+      "B": "zoom in",
+      "C": "zoom out",
+      "D": "fit to window"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61414?exam_type=waec&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "The part of the graphic interface labelled\u00a0V is fit to window.",
+    "year": "2021"
+  },
+  {
+    "number": "84",
+    "text": "The figure 2 in the number 1101\\(_2\\)\u00a0is indicated in MS Word using a feature called",
+    "options": {
+      "A": "superscript",
+      "B": "subscript",
+      "C": "root",
+      "D": "exponentiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61415?exam_type=waec&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "A superscript appears above another piece of text, while a subscript appears underneath another\u00a0text. Therefore, the correct option is B.",
+    "year": "2021"
+  },
+  {
+    "number": "85",
+    "text": "The part of the MS Access interface labelled X in Figure 9 is called",
+    "options": {
+      "A": "Report view",
+      "B": "Report wizard",
+      "C": "Query design",
+      "D": "Query view"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61416?exam_type=waec&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "86",
+    "text": "Which of the following formulas will display\u00a0the current seconds past the minute os the clock in MS Excel?",
+    "options": {
+      "A": "=MINUTES()",
+      "B": "=MINUTES(NOW())",
+      "C": "=MINUTE(YEAR())",
+      "D": "=MINUTES(HOUR(NOW()))"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61417?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "87",
+    "text": "The part of the MS Word interface labelled II in Figure 10 is called",
+    "options": {
+      "A": "Read mode",
+      "B": "Print Layout",
+      "C": "Proofing error",
+      "D": "Web layout"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61418?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "The print view is located at the bottom-right corner of your document window. Click the view tab and then click the view you want to use, such as print layout or draft view.",
+    "year": "2021"
+  },
+  {
+    "number": "88",
+    "text": "What type of relationship can you deduce from the statement\u00a0a department has many employees?",
+    "options": {
+      "A": "One-to-one",
+      "B": "One-to-many",
+      "C": "Many-to-many",
+      "D": "Many-to-one"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61419?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "89",
+    "text": "The screen background where icons and windows are displayed\u00a0is GUI is called",
+    "options": {
+      "A": "explorer",
+      "B": "desktop",
+      "C": "opening screen",
+      "D": "homepage"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61420?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "A desktop is a computer screen where you can see symbols (icons) showing the programs, etc. that are available for use.",
+    "year": "2021"
+  },
+  {
+    "number": "90",
+    "text": "The windows shortcut key for closing an active application is",
+    "options": {
+      "A": "Alt+F4",
+      "B": "Ctrl+Alt+Del",
+      "C": "Ctrl+Esc.",
+      "D": "Ctrl+Shift+Del"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61421?exam_type=waec&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "91",
+    "text": "Changing the default settings or appearance of the Taskbar in windows by a user is known as",
+    "options": {
+      "A": "customization",
+      "B": "designing",
+      "C": "generalization",
+      "D": "globalization"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61490?exam_type=waec&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "92",
+    "text": "The part of the computer system shown in Figure 11 is used to",
+    "options": {
+      "A": "perform memory test",
+      "B": "power on or off the computer",
+      "C": "print a document from the computer",
+      "D": "reset the computer to factory setting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61491?exam_type=waec&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "93",
+    "text": "A single character in an EBCDIC encoding system can be represented using",
+    "options": {
+      "A": "4 bits",
+      "B": "6 bits",
+      "C": "8 bits",
+      "D": "16 bits"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61492?exam_type=waec&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "94",
+    "text": "Evaluate 10011\\(_2\\) - 1111\\(_2\\)",
+    "options": {
+      "A": "00010\\(_2\\)",
+      "B": "00100\\(_2\\)",
+      "C": "01000\\(_2\\)",
+      "D": "10000\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61494?exam_type=waec&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "95",
+    "text": "The binary number 0.1101 in decimal is",
+    "options": {
+      "A": "0.8125",
+      "B": "0.8215",
+      "C": "0.8225",
+      "D": "0.8512"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61496?exam_type=waec&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "0.1101 in base two to base 10\n0.1101 = \\(0+ 1 \\times2^{-1} + 1 \\times2^{-2} + 0 \\times 2^{-3} + 1 \\times2^{-4}\\)\n= 0 + \\(\\frac{1}{2} + \\frac{1}{4} + 0\u00a0+ \\frac{1}{16}\\)\n= 0 + \\(\\frac{13}{16}\\) = \\(0.8125_{10}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "96",
+    "text": "To prevent unforeseen data loss, a user must",
+    "options": {
+      "A": "edit the data",
+      "B": "create the data",
+      "C": "backup the data",
+      "D": "defragment  the data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61497?exam_type=waec&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "Data backup is the process of creating a copy of your data in case the original is lost or corrupted.\u00a0\u00a0The main reason for data backup is to save important files if a system crash or hard drive failure occurs.",
+    "year": "2021"
+  },
+  {
+    "number": "97",
+    "text": "The file access method shown in Figure 12 is called",
+    "options": {
+      "A": "hashed access",
+      "B": "indexed access",
+      "C": "random access",
+      "D": "sequential access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61498?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "Sequential file access:This method accesses data as one record at a time by starting from the beginning of the file to its end.\u00a0Moreover, the records are read or written in the order they appear in the file.\u00a0 Therefore, the figure depicts the sequential\u00a0file access method.",
+    "year": "2021"
+  },
+  {
+    "number": "98",
+    "text": "Which of the following options is not a similarity between\u00a0computer file\u00a0and manual file? Both can",
+    "options": {
+      "A": "be accessed",
+      "B": "be retrieved",
+      "C": "store multimedia",
+      "D": "contain information"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61499?exam_type=waec&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "99",
+    "text": "A computer program that gathers information about a person or organization without their knowledge or consent\u00a0 is known known as",
+    "options": {
+      "A": "adware",
+      "B": "time bomb",
+      "C": "trojan horse",
+      "D": "spyware"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61500?exam_type=waec&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "Spyware is a malicious software designed to enter your computer device, gather data about you, and forward it to a third party without your knowledge.",
+    "year": "2021"
+  },
+  {
+    "number": "100",
+    "text": "The following actions are the effects of virus infection in a system except",
+    "options": {
+      "A": "deletion of files",
+      "B": "slow operation",
+      "C": "hard disk failure",
+      "D": "display of unwanted messages"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61501?exam_type=waec&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "Computer viruses infect personal computers (PCs) and servers. Some viruses create mere annoyance, but others can do serious damage: delete or change files, steal important information, load and run unwanted applications, send documents via electronic mail, or even cripple a machine's operating system.",
+    "year": "2021"
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "number": "453",
+    "text": "An advantage of bus topology over star topology is that",
+    "options": {
+      "A": "it is stronger than star topology.",
+      "B": "it is more expensive than star topology.",
+      "C": "its component are easily removed compared to star topology.",
+      "D": "it requires less cable length than star topology"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69813?exam_type=waec&type=obj&page=91",
+    "correct_answer": "D",
+    "explanation": "An advantage of bus topology over star topology is that \"it requires less cable length than star topology.\"In a bus topology, all devices are connected to a single central cable (the bus), which means that less cabling is required compared to a star topology where each device has its own cable running to a central hub or switch. This can result in cost savings in terms of both cable material and installation.It's important to note that while bus topology has its advantages, it also has drawbacks, such as potential issues with signal degradation and difficulty in identifying and isolating faults. Each topology has its own set of strengths and weaknesses, and the choice between them depends on factors like the network's size, layout, and specific requirements.",
+    "year": "2023"
+  },
+  {
+    "number": "454",
+    "text": "The transmission method that allows data transmission to multiple computers on a network without addressing all the computers is called",
+    "options": {
+      "A": "unicast",
+      "B": "broadcast",
+      "C": "multicast",
+      "D": "switch"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69815?exam_type=waec&type=obj&page=91",
+    "correct_answer": "B",
+    "explanation": "The transmission method that allows data transmission to multiple computers on a network without addressing all the computers is called \"broadcast.\"In a broadcast transmission, data is sent from one source to all devices within the network, and the devices that are not intended to receive the data will still process it. This approach can be efficient for sending the same data to multiple recipients simultaneously but may lead to unnecessary network traffic and can impact network performance.On the other hand:\"Multicast\" involves sending data to a specific group of devices that have joined a multicast group. It's more efficient than broadcast because it targets only the interested devices.\"Switch\" is a network device that forwards data to specific devices based on their MAC addresses, which is more efficient than using broadcast transmissions.\"Unicast\" refers to the transmission of data from one sender to one receiver, specifically addressing the intended recipient.",
+    "year": "2023"
+  },
+  {
+    "number": "455",
+    "text": "The main distinguishing feature of fifth generation computers is",
+    "options": {
+      "A": "artificial intelligence.",
+      "B": "versatility.",
+      "C": "extremely low cost.",
+      "D": "liberal use of microprocessors."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69816?exam_type=waec&type=obj&page=91",
+    "correct_answer": "A",
+    "explanation": "The main distinguishing feature of fifth generation computers is artificial intelligence.Fifth generation computers are still in the development stage, but they are expected to be able to understand and respond to human language, learn from experience, and reason like humans. They are also expected to be able to work in parallel, which will make them much faster than previous generations of computers.The other options are not as distinguishing features of fifth generation computers. Liberal use of microprocessors is a feature of fourth generation computers, extremely low cost is not a feature of any generation of computers, and versatility is a feature of all generations of computers.",
+    "year": "2023"
+  },
+  {
+    "number": "456",
+    "text": "Machine language instruction codes are expressed in",
+    "options": {
+      "A": "hexadecimal",
+      "B": "EBCDIC",
+      "C": "ASCII",
+      "D": "binary"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69817?exam_type=waec&type=obj&page=92",
+    "correct_answer": "D",
+    "explanation": "Machine language instruction codes are expressed in \"binary.\"Machine language is the lowest level of programming language that a computer can understand. It is a series of binary digits (bits) that tell the computer what to do. Each instruction in machine language is a sequence of 8 bits, called a byte.The bits in a machine language instruction code represent different things. For example, some bits might represent the operation that the computer should perform, while others might represent the operands of the operation.Binary is the only language that the computer can understand directly. Therefore, machine language instruction codes are always expressed in binary.",
+    "year": "2023"
+  },
+  {
+    "number": "457",
+    "text": "A wait state of zero in hardware means the",
+    "options": {
+      "A": "memory is faster than the processor in terms of speed.",
+      "B": "processor speed is higher than that of the memory.",
+      "C": "processor speed is lower than that of the memory.",
+      "D": "processor and the memory are equally matched in speed."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69818?exam_type=waec&type=obj&page=92",
+    "correct_answer": "D",
+    "explanation": "A wait state of zero in hardware means that the processor and the memory are equally matched in speed. In computing, a wait state refers to the delay experienced by a computer processor when accessing memory. A wait state of zero means that there is no delay, implying that the processor and memory are operating at the same speed.",
+    "year": "2023"
+  },
+  {
+    "number": "458",
+    "text": "The following are effects of file insecurities except",
+    "options": {
+      "A": "file corruption.",
+      "B": "data use.",
+      "C": "data loss.",
+      "D": "data overwriting."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69819?exam_type=waec&type=obj&page=92",
+    "correct_answer": "B",
+    "explanation": "The effect of \"data use\" is not considered an effect of file insecurities.The other options are all possible effects of file insecurities. Data overwriting can occur when a file is overwritten with new data, which can result in the loss of the original data. Data loss can occur when a file is deleted or corrupted, which can make it impossible to access the data. File corruption can occur when a file is damaged, which can make it unreadable or unusable.However, data use is not an effect of file insecurity. Data use is simply the act of accessing and using data. It can occur even if a file is secure. For example, a user can access and use a file even if it is password protected",
+    "year": "2023"
+  },
+  {
+    "number": "459",
+    "text": "The commands used for adding comments in QBASIC programming is",
+    "options": {
+      "A": "PRINT",
+      "B": "REM",
+      "C": "CLS.",
+      "D": "INPUT"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69820?exam_type=waec&type=obj&page=92",
+    "correct_answer": "B",
+    "explanation": "The command used for adding comments in QBASIC programming is \"REM.\"In QBASIC, the \"REM\" statement is used to insert comments within your code. Comments are lines of text that are ignored by the computer when the program is executed. They are used to provide explanations, notes, or documentation about the code for the programmer's or reader's understanding. Any text following the \"REM\" keyword on the same line is treated as a comment and is not executed by the program. For example:REM This is a comment explaining the purpose of the following code.PRINT \"Hello, World!\"In the example above, the text following \"REM\" is ignored by the program, and only the \"PRINT\" statement is executed.The other options are incorrect. CLS is a statement that clears the screen. INPUT is a statement that gets input from the user. PRINT is a statement that prints text to the screen.",
+    "year": "2023"
+  },
+  {
+    "number": "460",
+    "text": "Which of the following IP addresses can be used to access a locally running website on a user's computer?",
+    "options": {
+      "A": "127.1.0.1",
+      "B": "127.0.0.1",
+      "C": "1.172.0.0",
+      "D": "172.0.0.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69821?exam_type=waec&type=obj&page=92",
+    "correct_answer": "B",
+    "explanation": "The IP address that can be used to access a locally running website on a user's computer is \"127.0.0.1.\"The IP address \"127.0.0.1\" is known as the loopback address or localhost. It is used to refer to the user's own computer. When you enter \"127.0.0.1\" in a web browser's address bar, it directs the browser to connect to the local machine itself. This is commonly used for testing and development purposes when you want to access a website or application running on your own computer without going through the internet.The other IP addresses provided (\"172.0.0.0,\" \"1.172.0.0,\" and \"127.1.0.1\") are not typically used for this purpose and do not have the same loopback behavior as \"127.0.0.1.\"172.0.0.0 is a private IP address range that is used for local networks.1.172.0.0 is not a valid IP address.127.1.0.1 is a loopback address, but it is not the loopback address for the local comp",
+    "year": "2023"
+  },
+  {
+    "number": "461",
+    "text": "The BCD equivalent of 135 is",
+    "options": {
+      "A": "100110101",
+      "B": "001011101",
+      "C": "000100110101",
+      "D": "111101"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69822?exam_type=waec&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "The BCD equivalent of 135 is 0001 0011 0101.BCD stands for Binary-Coded Decimal. It is a way of representing decimal numbers in binary form. In BCD, each decimal digit is represented by a 4-bit binary number. The BCD equivalent of 135 is 0001 0011 0101, which is the binary representation of the decimal digits 1, 3, and 5.1 = 00013 = 00115 = 0101\u2234 135 = 000100110101",
+    "year": "2023"
+  },
+  {
+    "number": "462",
+    "text": "A good algorithm must be",
+    "options": {
+      "A": "detailed and verbose.",
+      "B": "sequential and lengthy.",
+      "C": "consistent and continuous.",
+      "D": "concise and finite."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69823?exam_type=waec&type=obj&page=93",
+    "correct_answer": "D",
+    "explanation": "A good algorithm must be \"concise and finite.\"Here's the breakdown of each term:Concise: An algorithm should be clear and easy to understand without unnecessary complexity. A concise algorithm focuses on the essential steps needed to achieve the desired outcome.Finite: An algorithm must have a well-defined endpoint. It should eventually stop executing and provide a result after a finite number of steps. This is important to ensure that the algorithm doesn't run indefinitely, which could lead to inefficiency or errors.",
+    "year": "2023"
+  },
+  {
+    "number": "463",
+    "text": "The central processing unit consists of",
+    "options": {
+      "A": "control unit, primary storage and secondary storage.",
+      "B": "input, output and processing.",
+      "C": "control unit, arithmetic logic unit and primary storage.",
+      "D": "control unit, processing and primary storage."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69824?exam_type=waec&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "The central processing unit (CPU) consists of:control unit, arithmetic logic unit, and primary storage.Control Unit: The control unit is responsible for managing the execution of instructions and coordinating the activities of the other components in the CPU. It fetches instructions from memory, decodes them, and directs the flow of data and control signals to ensure that instructions are executed in the correct sequence.Arithmetic Logic Unit (ALU): The ALU performs arithmetic operations (addition, subtraction, multiplication, division) and logical operations (AND, OR, NOT) on data. It carries out the actual computation and manipulations of data as directed by the instructions.Primary Storage: Primary storage refers to the main memory of the computer, typically made up of random-access memory (RAM). It is used to temporarily store data and instructions that the CPU is currently working on. Data and instructions are fetched from secondary storage (like hard drives or solid-state drives) into primary storage before being processed by the CPU.The CPU is often considered the \"brain\" of the computer, as it performs the actual processing of data and instructions, making decisions, and controlling the overall operation of the computer system",
+    "year": "2023"
+  },
+  {
+    "number": "464",
+    "text": "The technology used for first generation computers was",
+    "options": {
+      "A": "integrated circuit.",
+      "B": "microprocessors",
+      "C": "transistors.",
+      "D": "vacuum tubes."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69825?exam_type=waec&type=obj&page=93",
+    "correct_answer": "D",
+    "explanation": "The technology used for first-generation computers was vacuum tubes.First-generation computers were developed during the late 1940s and 1950s. These computers used vacuum tubes as their primary electronic component for processing and memory. Vacuum tubes were large, fragile, and consumed a lot of power, which made early computers bulky, unreliable, and generated significant amounts of heat. As technology progressed, vacuum tubes were eventually replaced by transistors in the second-generation computers, which were smaller, more reliable, and consumed less power. Integrated circuits and microprocessors came into existence in subsequent generations, leading to more compact and powerful computers",
+    "year": "2023"
+  },
+  {
+    "number": "465",
+    "text": "The LET statement in QBASIC",
+    "options": {
+      "A": "allows users to assign a value to a variable.",
+      "B": "allows the users to enter data into the computer during program execution.",
+      "C": "checks the errors within the code.",
+      "D": "allows the users to enter data into the computer from"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69826?exam_type=waec&type=obj&page=93",
+    "correct_answer": "A",
+    "explanation": "The LET statement in QBASIC allows users to assign a value to a variable.In QBASIC and other programming languages, the LET statement is used to assign a value to a variable. It is an optional keyword, and in most cases, you can simply use the variable name followed by the assignment operator (=) and the value you want to assign to the variable. For example:LET x = 10This statement assigns the value 10 to the variable x.",
+    "year": "2023"
+  },
+  {
+    "number": "466",
+    "text": "The first attempt at using the punch card principle to do mathematical calculations led to the invention of",
+    "options": {
+      "A": "Napier\u2019s bone",
+      "B": "Charles Babbage Analytical Engine",
+      "C": "Charles Babbage Difference Engine",
+      "D": "Abacus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69827?exam_type=waec&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "The Difference Engine was designed by Charles Babbage in the 19th century. It was a mechanical calculator intended to compute polynomial functions by the method of finite differences. Babbage's design included the use of punch cards as a means of input, similar to the concept later employed in early computers.",
+    "year": "2023"
+  },
+  {
+    "number": "467",
+    "text": "The radix of hexadecimal number system is",
+    "options": {
+      "A": "10",
+      "B": "2",
+      "C": "16",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69828?exam_type=waec&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "The radix of the hexadecimal number system is \"16.\"In a number system, the radix (also known as the base) indicates the number of unique symbols used to represent values in that system. The hexadecimal number system uses 16 distinct symbols (0-9 and A-F) to represent values. Each digit in a hexadecimal number corresponds to a power of 16, similar to how each digit in a decimal number corresponds to a power of 10.The hexadecimal number system is often used in computer science because it is a convenient way to represent binary numbers. A hexadecimal number can be used to represent 4 binary digits (bits) at a time. This makes it easier to read and write binary numbers.For example, the binary number 10100001 can be represented as the hexadecimal number A1. This is because 10100001 in binary is equal to A1 in hexadecimal.",
+    "year": "2023"
+  },
+  {
+    "number": "468",
+    "text": "A file organization in which the records are stored in the order in which they occur is called",
+    "options": {
+      "A": "indexed file.",
+      "B": "serial file.",
+      "C": "sequential file.",
+      "D": "random file."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69829?exam_type=waec&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "A file organization in which the records are stored in the order in which they occur is called \"sequential file\"In a sequential file, records are stored in the order in which they occur. This means that the first record is stored at the beginning of the file, the second record is stored after the first record, and so on. To access a record in a sequential file, the computer must start at the beginning of the file and read each record until it finds the one that it is looking for.",
+    "year": "2023"
+  },
+  {
+    "number": "469",
+    "text": "The process of converting data into information is known as data",
+    "options": {
+      "A": "collation",
+      "B": "processing",
+      "C": "analysis",
+      "D": "collection"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69830?exam_type=waec&type=obj&page=94",
+    "correct_answer": "B",
+    "explanation": "The process of converting data into information is known as data processing. Data processing involves collecting, manipulating, and storing data to produce information that is meaningful. Data analysis is a part of data processing where data is inspected, cleaned, and modeled to discover useful information. Data collection is the process of gathering and measuring data, information or any variables of interest in a standardized and established manner that enables the collector to answer or test hypothesis and evaluate outcomes of the particular collection. Collation is the assembly of written information into a standard order. None of these options fully encapsulate the process of converting data into information like data processing does",
+    "year": "2023"
+  },
+  {
+    "number": "470",
+    "text": "A BIOS configuration program that allows a windows user to configure attributes such as password, time and date is called",
+    "options": {
+      "A": "GRUB",
+      "B": "Bootstrap",
+      "C": "CMOS setup.",
+      "D": "BIOS drivers."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69831?exam_type=waec&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "A BIOS configuration program that allows a Windows user to configure attributes such as password, time, and date is called \"CMOS setup.\"CMOS (Complementary Metal-Oxide-Semiconductor) setup is a utility that lets users access and modify various settings stored in the CMOS chip on the computer's motherboard. These settings include system configuration options such as the system clock, date, passwords, boot order, and hardware settings. CMOS setup provides a way to customize system settings at a low level and is typically accessed during the computer's boot process by pressing a specific key (often Del, F2, or another designated key) as indicated on the screen.",
+    "year": "2023"
+  },
+  {
+    "number": "471",
+    "text": "The software responsible for allocating and managing system resources is called",
+    "options": {
+      "A": "utility software.",
+      "B": "driver",
+      "C": "translator.",
+      "D": "operating system."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69832?exam_type=waec&type=obj&page=95",
+    "correct_answer": "D",
+    "explanation": "The software responsible for allocating and managing system resources is called the \"operating system (OS)\".The OS is a software program that controls the computer's hardware and software resources. It is responsible for tasks such as:Managing memory: The OS allocates memory to different programs and processes, and it ensures that no program uses more memory than it needs.Managing processing power: The OS schedules the execution of programs and processes, and it ensures that no program hogs the CPU.Managing input and output: The OS controls the flow of data between the computer and its peripherals, such as the keyboard, mouse, and printer.Managing files and directories: The OS creates and manages files and directories on the computer's hard drive.Providing a user interface: The OS provides a user interface that allows users to interact with the computer.The OS is a complex piece of software that is essential for the smooth operation of a computer. It is responsible for managing all of the computer's resources, and it provides a platform for running application software",
+    "year": "2023"
+  },
+  {
+    "number": "472",
+    "text": "Which of the following commands can be used to switch between open window?",
+    "options": {
+      "A": "Alt + F4",
+      "B": "Alt + Tab",
+      "C": "Ctrl + F",
+      "D": "Ctrl + D"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69833?exam_type=waec&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "The command that can be used to switch between open windows is \"Alt + Tab.\"When you press the \"Alt + Tab\" keys simultaneously, it will bring up a visual display showing thumbnail previews of all open windows on your computer. While holding the \"Alt\" key, you can continue pressing the \"Tab\" key to cycle through the open windows. Releasing the \"Alt\" key will switch to the selected window.This feature is commonly used in operating systems like Windows to quickly switch between different applications or open windows without using the mouse. It allows users to efficiently manage and navigate among multiple open applications or tasks on their computer.",
+    "year": "2023"
+  },
+  {
+    "number": "473",
+    "text": "During the booting process in Windows, the Master Boot Record is loaded by the",
+    "options": {
+      "A": "BIOS .",
+      "B": "Init.",
+      "C": "Kernel",
+      "D": "GRUB"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69834?exam_type=waec&type=obj&page=95",
+    "correct_answer": "A",
+    "explanation": "During the booting process in Windows, the Master Boot Record (MBR) is loaded by the \"BIOS\" (Basic Input/Output System).The MBR is a small piece of code that is stored at the beginning of a hard drive. It is responsible for loading the operating system into memory. When the computer boots up, the BIOS first checks the MBR to see if it is bootable. If it is, the BIOS will load the operating system into memory.",
+    "year": "2023"
+  },
+  {
+    "number": "474",
+    "text": "The set of instructions used to solve specific user tasks is called",
+    "options": {
+      "A": "editor",
+      "B": "utility software.",
+      "C": "system software",
+      "D": "application software."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69835?exam_type=waec&type=obj&page=95",
+    "correct_answer": "D",
+    "explanation": "The set of instructions used to solve specific user tasks is called \"application software.\"Application software, also known as applications or apps, is a type of computer software designed to perform specific tasks or applications for end-users. These programs are created to address the needs and requirements of users, allowing them to accomplish various tasks such as word processing, spreadsheet calculations, graphic design, video editing, web browsing, and more. Application software is distinct from system software and utility software, as it is developed to serve the users directly and provide functionality tailored to specific tasks and activities. Examples of application software include Microsoft Word, Adobe Photoshop, Google Chrome, and video gam",
+    "year": "2023"
+  },
+  {
+    "number": "475",
+    "text": "Personalized form of letters which can be sent to many people can be achieved using",
+    "options": {
+      "A": "template.",
+      "B": "mail merge.",
+      "C": "query",
+      "D": "macros"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69836?exam_type=waec&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "Personalized form of letters which can be sent to many people can be achieved using \"mail merge\".Mail merge is a feature in word processing software that allows you to create a single document that contains personalized information for multiple recipients. For example, you can use mail merge to create a form letter that includes the recipient's name and address.To use mail merge, you first need to create a template document that contains the static content of the letter. This might include the letterhead, the body of the letter, and the signature block. You then need to create a data source that contains the recipient information. This might be a spreadsheet or a database.Once you have created the template document and the data source, you can use mail merge to create the personalized letters. To do this, you simply select the mail merge options in your word processing software and then follow the prompts.Mail merge is a very efficient way to create personalized letters. It can save you a lot of time and effort, and it ensures that your letters are accurate and consistent",
+    "year": "2023"
+  },
+  {
+    "number": "476",
+    "text": "An input device that converts an image into a text is known as",
+    "options": {
+      "A": "scanner.",
+      "B": "optical mark reader.",
+      "C": "barcode reader.",
+      "D": "optical character reader."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69837?exam_type=waec&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "An input device that converts an image into text is known as an \"optical character reader\" (OCR).OCR technology is used to recognize printed or handwritten characters in an image and convert them into editable and searchable text. It is commonly used to digitize printed documents, such as books, articles, invoices, and receipts, making it easier to store, search, and process the text electronically. OCR technology is widely used in various applications, including document scanning, data entry, text recognition, and document management systems.Scanners and barcode readers are also input devices, but they do not convert images into text. Scanners convert images into digital images, while barcode readers convert barcodes into numbers. Optical mark readers (OMRs) are used to read marks made on a document, such as those made by a pencil or pen.",
+    "year": "2023"
+  },
+  {
+    "number": "477",
+    "text": "Which of the following QBASIC arithmetic operations is the last in order of precedence?",
+    "options": {
+      "A": "Subtraction",
+      "B": "Addition",
+      "C": "Division",
+      "D": "Exponentiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69838?exam_type=waec&type=obj&page=96",
+    "correct_answer": "A",
+    "explanation": "In QBASIC arithmetic operations, the order of precedence determines the sequence in which operations are performed. The operation with the highest precedence is performed first, followed by those with lower precedence. Among the options provided, the arithmetic operation that is last in order of precedence is \"Subtraction.\"The order of precedence, from highest to lowest, typically follows this sequence:Exponentiation (^)Multiplication (*), Division (/), and Integer Division ()Addition (+), Subtraction (-)For example, the expression 2 * 3 - 4 is evaluated as follows:The multiplication is performed first, so 2 * 3 = 6.The subtraction is performed next, so 6 - 4 = 2.The final value of the expression is 2.",
+    "year": "2023"
+  },
+  {
+    "number": "478",
+    "text": "The command used to seek for assistance in Microsoft disk operating system is",
+    "options": {
+      "A": "Attrib",
+      "B": "/S",
+      "C": "/?",
+      "D": "Helper."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69839?exam_type=waec&type=obj&page=96",
+    "correct_answer": "C",
+    "explanation": "The command used to seek for assistance in Microsoft Disk Operating System (DOS) is \"/?\".The /? switch is a universal switch that can be used with most MS-DOS commands to get help about the command. To use the /? switch, simply type the command followed by the /? switch and press Enter. For example, to get help about the attrib command, you would type:attrib /?This will display a help screen that describes the attrib command and its options.The other options are incorrect. Helper is not a valid MS-DOS command. Attrib is a command that is used to change the attributes of files. /S is a switch that is used to specify that the command should be applied to all files in a directory and its subdirectories.",
+    "year": "2023"
+  },
+  {
+    "number": "479",
+    "text": "Which of the following is an example of information?",
+    "options": {
+      "A": "Recorded observation",
+      "B": "Average score of students in a test",
+      "C": "List of items",
+      "D": "Student\u2019s score in a test"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69840?exam_type=waec&type=obj&page=96",
+    "correct_answer": "B",
+    "explanation": "Average score of students in a test is an example of informationInformation is data that has been processed and organized so that it has meaning. It can be used to make decisions, solve problems, or understand the world around us.The other options are not examples of information. Student's score in a test is data, recorded observation is data, and list of items is data. They do not have meaning until they are processed and organized.For example, the student's score in a test is just a number. It does not have meaning until it is compared to the scores of other students. The average score of students in a test is information because it has meaning. It tells us how well the students did on the test.",
+    "year": "2023"
+  },
+  {
+    "number": "480",
+    "text": "The usage of the keys CTRL + W in Ms Word",
+    "options": {
+      "A": "closes the current window.",
+      "B": "updates the current web page.",
+      "C": "opens the print dialogue box.",
+      "D": "saves the current file."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69841?exam_type=waec&type=obj&page=96",
+    "correct_answer": "A",
+    "explanation": "The usage of the keys \"CTRL + W\" in Microsoft Word is to \"close the current window.\"When you press \"CTRL + W\" in Microsoft Word, it closes the currently active document window. This action doesn't save the document if changes have been made; it simply closes the window. If there are unsaved changes, Word will prompt you to save before closing. This keyboard shortcut is used to quickly close documents and is commonly found in many applications to close active windows or tabs.To close the current window using Ctrl + W, simply press and hold the Ctrl key and then press the W key. The current window will be closed immediately.",
+    "year": "2023"
+  },
+  {
+    "number": "481",
+    "text": "The speed of data transfer can be affected by the following factors except",
+    "options": {
+      "A": "address bus width.",
+      "B": "broadband status.",
+      "C": "data bus width.",
+      "D": "clock speed."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69843?exam_type=waec&type=obj&page=97",
+    "correct_answer": "B",
+    "explanation": "The speed of data transfer can be affected by the following factors except \"broadband status.\"The factors listed in the options can indeed affect the speed of data transfer in a computer system:Address Bus Width: The width of the address bus determines the maximum memory capacity that the system can access. It indirectly affects data transfer speed by allowing more efficient access to memory locations.Clock Speed: The clock speed of the CPU determines how many instructions the CPU can execute per second. A higher clock speed generally leads to faster data processing.Data Bus Width: The width of the data bus affects the amount of data that can be transferred between the CPU and memory in a single bus cycle. A wider data bus can transfer more data at once.However, \"broadband status\" is not typically a factor that directly affects the speed of data transfer within a computer system. Broadband status is more related to network connectivity and internet speed, not internal data transfer within a computer's components.",
+    "year": "2023"
+  },
+  {
+    "number": "482",
+    "text": "Which of the following data is alpha-numeric?",
+    "options": {
+      "A": "568",
+      "B": "10.00",
+      "C": "SS3",
+      "D": "Twenty-five"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69844?exam_type=waec&type=obj&page=97",
+    "correct_answer": "C",
+    "explanation": "The alpha-numeric data is a combination of alphabetic and numeric characters. Let's check each option:568 - This is numeric data because it contains only numbers.SS3 - This is alpha-numeric data because it contains both alphabetic characters (\"SS\") and a numeric character (\"3\").10.00 - This is numeric data because it contains numbers and a decimal point, which is still considered numeric.Twenty-five - This is alphabetic data because it contains only letters and represents a textual representation of the number 25.So, the alpha-numeric data among the options is \"SS3\".",
+    "year": "2023"
+  },
+  {
+    "number": "483",
+    "text": "The unit of the computer system that directs and supervises other units is called the",
+    "options": {
+      "A": "memory unit.",
+      "B": "control unit.",
+      "C": "arithmetic logic unit.",
+      "D": "accumulator"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69845?exam_type=waec&type=obj&page=97",
+    "correct_answer": "B",
+    "explanation": "The unit of the computer system that directs and supervises other units is called the \"control unit.\"The control unit is a critical component of a computer's central processing unit (CPU). It is responsible for fetching program instructions from memory, interpreting them, and coordinating the execution of these instructions by sending control signals to other units within the CPU and other parts of the computer system. The control unit ensures that data is processed in the correct sequence and that the various components of the CPU work together harmoniously to carry out the instructions of a program. It is like the \"brain\" of the CPU, managing the flow of data and instructions and ensuring that the computer performs its tasks correctly and efficiently",
+    "year": "2023"
+  },
+  {
+    "number": "484",
+    "text": "An opening on the motherboard of a system unit where expansion cards can be inserted is known as",
+    "options": {
+      "A": "expansion port.",
+      "B": "extension box.",
+      "C": "extension board.",
+      "D": "expansion slot."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69846?exam_type=waec&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "An opening on the motherboard of a system unit where expansion cards can be inserted is known as an expansion slot.Expansion slots are used to add additional functionality to a computer, such as a graphics card, sound card, or network card. They are also used to add more memory to a computer.",
+    "year": "2023"
+  },
+  {
+    "number": "485",
+    "text": "Headers and footers are used in Microsoft Word documents to",
+    "options": {
+      "A": "enhance the overall appearance of the document.",
+      "B": "allow text to appear at the top and bottom of every page.",
+      "C": "make large document more readable.",
+      "D": "allow test to appear at the top of the first page."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69847?exam_type=waec&type=obj&page=97",
+    "correct_answer": "B",
+    "explanation": "Headers and footers are used in Microsoft Word documents to \"allow text to appear at the top and bottom of every page.\"Headers are sections of the document that appear at the top of each page, and footers appear at the bottom of each page. They provide a way to include consistent information such as page numbers, document titles, author names, dates, and other important details that you want to appear on every page of the document. Headers and footers enhance the professional appearance and consistency of a document, especially for larger documents or reports.",
+    "year": "2023"
+  },
+  {
+    "number": "486",
+    "text": "If today's date is 02/02/2008, what will be the result of typing \"=today() - 1\" in a cell of a spreadsheet?",
+    "options": {
+      "A": "02/01/2008",
+      "B": "01/02/2009",
+      "C": "01/02/2008",
+      "D": "02/02/2007"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69848?exam_type=waec&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "If today's date is 02/02/2008, the result of typing \"=today() - 1\" in a cell of a spreadsheet will be \"02/01/2008\".The today() function in Excel returns the current date. The - 1 operator subtracts one from the result of the today() function. Therefore, the expression =today() - 1 will return the date that is one day before the current date.In this case, the current date is 02/02/2008. Subtracting one from this date gives us 02/01/2008.NB:By default, Excel uses the mm/dd/yyyy format for dates. This means that the month is represented by the first two digits, the day is represented by the third digit, and the year is represented by the last four digits. The date format in Excel can be customized to suit your needs.However, you can change the date format to something else if you prefer. For example, you could change the date format to dd/mm/yyyy, which would represent the day, month, and year in that order.",
+    "year": "2023"
+  },
+  {
+    "number": "487",
+    "text": "The act of translating data into a secret code is known as",
+    "options": {
+      "A": "piracy.",
+      "B": "encryption.",
+      "C": "authentication.",
+      "D": "authorization."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69849?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "The act of translating data into a secret code is known as \"encryption\".Authentication is the process of verifying the identity of a user or device. Authorization is the process of granting permissions to a user or device to access certain resources. Piracy is the unauthorized use or reproduction of copyrighted material.Encryption is a security technique that converts data into a secret code so that it cannot be read by unauthorized users. The code is only readable by someone who has the decryption key. Encryption is used to protect data from unauthorized access, disclosure, modification, or destruction",
+    "year": "2023"
+  },
+  {
+    "number": "488",
+    "text": "The https in the web address, https://waec.org.ng, is called a",
+    "options": {
+      "A": "web page.",
+      "B": "protocol.",
+      "C": "hostname.",
+      "D": "file path."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69850?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "The \"https\" in the web address \"https://waec.org.ng\" is called a \"protocol.\"In web addresses (URLs), \"https\" stands for \"Hypertext Transfer Protocol Secure.\" It's a communication protocol used to transmit data securely over the internet. When you access a website with an \"https\" URL, the data exchanged between your browser and the web server is encrypted to ensure privacy and security. This is especially important for transmitting sensitive information like login credentials, payment details, and personal data",
+    "year": "2023"
+  },
+  {
+    "number": "489",
+    "text": "The process of transferring a file from a server to a computer is called",
+    "options": {
+      "A": "pinging",
+      "B": "browsing.",
+      "C": "downloading.",
+      "D": "uploading."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69851?exam_type=waec&type=obj&page=98",
+    "correct_answer": "C",
+    "explanation": "The process of transferring a file from a server to a computer is called \"downloading.\"Downloading involves retrieving data from a remote server and saving it to your local computer or device. It's a common action when you want to obtain files, documents, software, media, or other content from the internet. This content is copied from the server's storage to your computer's storage, enabling you to access and use it locally.The opposite of downloading is uploading. When you upload a file, you are sending a file from your computer to a server. The server stores the file on its hard drive until it is needed.",
+    "year": "2023"
+  },
+  {
+    "number": "490",
+    "text": "The following are functions of database management system except",
+    "options": {
+      "A": "format operation.",
+      "B": "rule enforcement.",
+      "C": "security of data.",
+      "D": "backup and replication."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69852?exam_type=waec&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "The following are functions of a database management system (DBMS).Backup and replication: A DBMS can be used to backup and replicate databases. This means that the database can be copied to a different location or to multiple locations. This is important for disaster recovery purposes.Rule enforcement: A DBMS can be used to enforce rules on data. This means that the DBMS can be used to prevent users from entering invalid data or from making changes to data that they are not authorized to change.Security of data: A DBMS can be used to secure data. This means that the DBMS can be used to encrypt data, to restrict access to data, and to audit access to data.Format operation is not a function of a DBMS. A format operation is the process of converting data from one format to another. This is not something that a DBMS typically does",
+    "year": "2023"
+  },
+  {
+    "number": "491",
+    "text": "Input devices are computer devices that can",
+    "options": {
+      "A": "send data and instructions into the computer memory.",
+      "B": "be used to get data from the computer.",
+      "C": "send results to the memory of the computer.",
+      "D": "receive data and instructions from the computer memory."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69853?exam_type=waec&type=obj&page=99",
+    "correct_answer": "A",
+    "explanation": "Input devices are computer devices that can:send data and instructions into the computer memory.Input devices are used to provide data and instructions to the computer. They allow users to interact with the computer by inputting various types of data, such as text, numbers, images, and commands. Examples of input devices include keyboards, mice, touchscreens, scanners, microphones, and digital cameras. These devices enable users to send data and commands to the computer's memory, where the data is processed and stored for further use",
+    "year": "2023"
+  },
+  {
+    "number": "492",
+    "text": "Viruses, worms and Trojan horses are regarded as",
+    "options": {
+      "A": "system software.",
+      "B": "malicious software.",
+      "C": "application software.",
+      "D": "utility software."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69854?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "Viruses, worms, and Trojan horses are regarded as \"malicious software\" or \"malware.\"These terms refer to different types of software that are designed to disrupt, damage, or gain unauthorized access to computer systems, networks, or data. Here's a brief explanation of each:Viruses: Viruses are programs that attach themselves to legitimate files or software and spread when those files are executed. They can cause a range of issues, from annoying pop-ups to data corruption.Worms: Worms are self-replicating programs that can spread over computer networks without the need for user intervention. They exploit vulnerabilities to spread and can consume network resources.Trojan Horses (Trojans): Trojans are programs that appear harmless but have malicious intent. They often trick users into running them, leading to unauthorized access, data theft, or other harmful actions.These forms of malware can cause significant harm to computer systems and data, which is why it's important to have effective antivirus and security measures in place to protect against them",
+    "year": "2023"
+  },
+  {
+    "number": "493",
+    "text": "Which of the following actions is not an animation in Microsoft PowerPoint?",
+    "options": {
+      "A": "Entrance",
+      "B": "Emphasis",
+      "C": "Motion paths",
+      "D": "Dancing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69855?exam_type=waec&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "The action \"Dancing\" is not an animation in Microsoft PowerPoint.In Microsoft PowerPoint, animations are used to add movement and visual effects to slides and their content during a presentation. The other actions you mentioned, namely \"Emphasis,\" \"Entrance,\" and \"Motion paths,\" are types of animations that you can apply to elements on your slides to enhance your presentation.\"Dancing\" is not a predefined animation effect in PowerPoint. However, you can use various animation effects like \"Emphasis,\" \"Entrance,\" and \"Motion paths\" to create dynamic and engaging presentations by making text, images, and other elements appear, move, or change in ways that capture your audience's attention.",
+    "year": "2023"
+  },
+  {
+    "number": "494",
+    "text": "The database model that uses tables with columns and rows is called",
+    "options": {
+      "A": "hierarchical database.",
+      "B": "relational database.",
+      "C": "network database.",
+      "D": "linear database."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69856?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "The database model that uses tables with columns and rows is called a \"relational database.\"In a relational database, data is organized into tables, where each table represents a specific entity or concept. The columns of the table represent attributes or properties of the entity, and each row contains a set of values corresponding to those attributes. The relationships between tables are established through keys, primarily primary keys and foreign keys.For example, a table that stores customer data might have columns for customer name, address, phone number, and email address. Each row in the table would represent a single customer.Relational databases are widely used for managing structured data, and they provide a flexible and efficient way to store, retrieve, and manipulate data. The relational model has become one of the most dominant and popular approaches for organizing and managing data in various applications and industries.",
+    "year": "2023"
+  },
+  {
+    "number": "495",
+    "text": "Datatypes in QBASIC programming language include the following except",
+    "options": {
+      "A": "double",
+      "B": "short",
+      "C": "float.",
+      "D": "long."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69857?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "Datatypes in QBASIC programming language include the following except \"short.\"In QBASIC, the datatypes that are commonly used include \"double,\" \"float,\" and \"long.\" However, \"short\" is not a standard datatype in QBASIC.Here's a brief explanation of the other datatypes:INTEGER: A 16-bit signed integer variable.LONG: A 32-bit signed integer variable.SINGLE: A single-precision 32-bit floating-point variable.DOUBLE: A double-precision 64-bit floating-point variable.STRING * n%: A fixed-length string variable n% bytes long.STRING: A variable-length string variable.",
+    "year": "2023"
+  },
+  {
+    "number": "496",
+    "text": "A program that converts source code instructions in high-level programming language to object codes line by line is known as",
+    "options": {
+      "A": "interpreter.",
+      "B": "compiler.",
+      "C": "editor",
+      "D": "assembler."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69858?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "A program that converts source code instructions in high-level programming language to object codes line by line is known as an interpreter.An interpreter is a program that executes source code line by line. It does not convert the source code into machine code first. This makes interpreters slower than compilers, but it also makes them more flexible. Interpreters can be used to execute programs that are written in languages that are not supported by compilers.Compilers, on the other hand, convert source code into machine code before executing it. This makes compilers faster than interpreters, but it also makes them less flexible. Compilers can only be used to execute programs that are written in languages that are supported by the compiler.",
+    "year": "2023"
+  },
+  {
+    "number": "497",
+    "text": "Stored instructions and data in digital computer consist of",
+    "options": {
+      "A": "bits.",
+      "B": "numerals.",
+      "C": "alphabets",
+      "D": "characters."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69859?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "Stored instructions and data in a digital computer consist of \"bits.\"A bit is the smallest unit of information in a digital computer. It can be either a 0 or a 1. Bits are combined to form bytes, which are used to represent characters, numbers, and instructions.Alphabets, numerals, and characters are all represented by bits in a digital computer. For example, the letter \"A\" can be represented by the bits 01000001, the number \"1\" can be represented by the bits 00000001, and the character \"@\" can be represented by the bits 01001000.The instructions that a computer follows are also stored as bits. These instructions tell the computer what to do, such as add two numbers, print a message, or open a file.Bits are the foundation of all data and instructions in a digital computer. Without bits, computers would not be able to function.",
+    "year": "2023"
+  },
+  {
+    "number": "498",
+    "text": "The process of making copies of files which can be used to restore the original copy in the event of data loss is called file",
+    "options": {
+      "A": "restoration.",
+      "B": "retrieval.",
+      "C": "organization",
+      "D": "backup"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/69860?exam_type=waec&type=obj&page=100",
+    "correct_answer": "D",
+    "explanation": "The process of making copies of files which can be used to restore the original copy in the event of data loss is called \"backup.\"File backup is the process of making copies of files which can be used to restore the original copy in the event of data loss. This is an important process for protecting your data from accidental deletion, corruption, or hardware failure.",
+    "year": "2023"
+  }
+]

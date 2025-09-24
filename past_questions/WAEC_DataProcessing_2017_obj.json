@@ -1,0 +1,562 @@
+[
+  {
+    "number": "81",
+    "text": "One of the characteristic feature of the second generation computer is the presence of",
+    "options": {
+      "A": "vacuum tube",
+      "B": "transistors",
+      "C": "micro-chips",
+      "D": "integrated circuit"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58074?exam_type=waec&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "A transistor computer, now often called a second generation computer, is a computer which uses discrete transistors instead of vacuum tubes.",
+    "year": "2017"
+  },
+  {
+    "number": "82",
+    "text": "Convert 4\\(_{10}\\) to a number in base two",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "100",
+      "D": "110"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58079?exam_type=waec&type=obj&page=17",
+    "correct_answer": "C",
+    "explanation": "2422 R 021 R 020 R 1\n\\(4_{10}\\) = \\(100_{2}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "83",
+    "text": "Data processed into its useful form is referred to as",
+    "options": {
+      "A": "unique data",
+      "B": "raw data",
+      "C": "knowledge",
+      "D": "information"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58082?exam_type=waec&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "84",
+    "text": "Which of the following is an example of qualitative data?",
+    "options": {
+      "A": "Colour",
+      "B": "Height",
+      "C": "Length",
+      "D": "Show size"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58086?exam_type=waec&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "Qualitative data can be observed and recorded. This data type is non-numerical in nature.",
+    "year": "2017"
+  },
+  {
+    "number": "85",
+    "text": "Which of the following is not a characteristics of a personal computer",
+    "options": {
+      "A": "Automation",
+      "B": "Complex",
+      "C": "Digital",
+      "D": "High speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58090?exam_type=waec&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "86",
+    "text": "The gap between ownership, access, and benefits from computer and it's application is termed degital",
+    "options": {
+      "A": "separation",
+      "B": "divide",
+      "C": "deprivation",
+      "D": "annihilation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58114?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "The\u00a0digital divide\u00a0refers to the gap who are to benefit from theDigital Ageand those who are not.",
+    "year": "2017"
+  },
+  {
+    "number": "87",
+    "text": "Magnetic Ink Character Recognition (MICR) are used to read codes on",
+    "options": {
+      "A": "postal order",
+      "B": "multiple choice examination answer sheets",
+      "C": "bank teller",
+      "D": "bank cheques"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58116?exam_type=waec&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "88",
+    "text": "the device that sends information to the CPU is the",
+    "options": {
+      "A": "bus",
+      "B": "input device",
+      "C": "output devices",
+      "D": "processor"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58118?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "89",
+    "text": "Which of the following is not a procedure for information processing?",
+    "options": {
+      "A": "segregation",
+      "B": "organization",
+      "C": "interpretation",
+      "D": "collation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58119?exam_type=waec&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "90",
+    "text": "The assembling of data according to a predetermined order is known as",
+    "options": {
+      "A": "collation",
+      "B": "interpretation",
+      "C": "organization",
+      "D": "summarization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58120?exam_type=waec&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "91",
+    "text": "Information transmission medium from location P to location Q in space is called",
+    "options": {
+      "A": "wireless transmission",
+      "B": "wired transmission",
+      "C": "cabled transmission",
+      "D": "asynchronous transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58124?exam_type=waec&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "92",
+    "text": "Which of the following is not a type of wireless transmission",
+    "options": {
+      "A": "Bluetooth",
+      "B": "Fiire optics",
+      "C": "Infrared",
+      "D": "WiFi"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58127?exam_type=waec&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "93",
+    "text": "The basic criterion for classifying a network is",
+    "options": {
+      "A": "psychological consideration",
+      "B": "geographical scope",
+      "C": "equipment availability",
+      "D": "economic reason"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58129?exam_type=waec&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "94",
+    "text": "Which of the following measures are used to secure data on-line? I. Password II. Encryption III.\u00a0Personal Identification Number (PIN)",
+    "options": {
+      "A": "II only",
+      "B": "III only",
+      "C": "II and III",
+      "D": "I, II, and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58133?exam_type=waec&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "95",
+    "text": "In e-mail context, bcc stands for",
+    "options": {
+      "A": "backup carbon copy",
+      "B": "blank carbon copy",
+      "C": "blind carbon copy",
+      "D": "bulk carbon copy"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58136?exam_type=waec&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "96",
+    "text": "An internet-based system that allows people different geographical locations to have in-personmeeting is known as",
+    "options": {
+      "A": "voice messaging",
+      "B": "voice conferencing system",
+      "C": "on-line mailing",
+      "D": "fax system"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58140?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "97",
+    "text": "The following software programs coordinates and control all other computer progra, programs, hardware and users' action except",
+    "options": {
+      "A": "ZENITH",
+      "B": "UNIX",
+      "C": "DOS",
+      "D": "DBSM"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58144?exam_type=waec&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "98",
+    "text": "In word processing applications, the symbol B, I and U are commonly used buttons found on the",
+    "options": {
+      "A": "standard toolbar",
+      "B": "menu bar",
+      "C": "formatting bar",
+      "D": "drawing toolbar"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58148?exam_type=waec&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "99",
+    "text": "Bola intends to evoke the synonyms of a certain word during Word processing. What is the most appropriate tool to use?",
+    "options": {
+      "A": "Assistant",
+      "B": "Change case",
+      "C": "Grammar check",
+      "D": "Thesaurus"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58150?exam_type=waec&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "100",
+    "text": "In a worksheet, which of the following actions would\u00a0select non-contiguous cells?",
+    "options": {
+      "A": "holding down the Shift key",
+      "B": "Holding down the Ctrl key",
+      "C": "holding than the Alt key",
+      "D": "holding down the Ctrl+Shift key"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58182?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "Holding down the Ctrl key would select non-contiguous cells in a worksheet.",
+    "year": "2017"
+  },
+  {
+    "number": "101",
+    "text": "Which of these formulas will not be executed in MS Excel?",
+    "options": {
+      "A": "=SUM(examscore)",
+      "B": "=SUM(examscore)-12",
+      "C": "=SUM(exam_score)*8",
+      "D": "=SUM(exam score)/8"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58183?exam_type=waec&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "D. =SUM(exam score)/8: This is invalid because spaces are not allowed in named ranges or formulas",
+    "year": "2017"
+  },
+  {
+    "number": "102",
+    "text": "MS Access is an example of a",
+    "options": {
+      "A": "relational model",
+      "B": "network model",
+      "C": "hierarchical model",
+      "D": "file model"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58184?exam_type=waec&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "103",
+    "text": "When a database recovery manager is invoked after a crash, restart proceeds in the following three phases; I. Undo II. Redo III. Analysis. Arrange these phases in the right order.",
+    "options": {
+      "A": "I, II, III",
+      "B": "II, I, III",
+      "C": "III, II, I",
+      "D": "I, III, II"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58185?exam_type=waec&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "104",
+    "text": "During presentation, slide transition can be activated by",
+    "options": {
+      "A": "right-click",
+      "B": "mouse drag",
+      "C": "mouse click",
+      "D": "double-click"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58187?exam_type=waec&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "105",
+    "text": "Planning and creating of website is called web",
+    "options": {
+      "A": "analysis",
+      "B": "design",
+      "C": "maintenance",
+      "D": "publishing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58188?exam_type=waec&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "106",
+    "text": "Magazines and brochures can be produced using a",
+    "options": {
+      "A": "data processing software",
+      "B": "graphics software",
+      "C": "presentation software",
+      "D": "web authoring software"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58193?exam_type=waec&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "107",
+    "text": "Which of the following is one of the tools used to maintain the computer",
+    "options": {
+      "A": "Blower",
+      "B": "Calipper",
+      "C": "Cotton wool",
+      "D": "Kerosine"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58197?exam_type=waec&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "108",
+    "text": "Which of the following is not a good computer maintenance practice?",
+    "options": {
+      "A": "Blowing the system unit with a blower",
+      "B": "Blowing the keyboard with a blower",
+      "C": "Cleaning the screen with a wet cloth",
+      "D": "Cleaning the CD-ROM drive with lens cleaner"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58201?exam_type=waec&type=obj&page=22",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "109",
+    "text": "Commonly accepted practices, rules or methods in computing are called",
+    "options": {
+      "A": "Conventions",
+      "B": "Habits",
+      "C": "Laws",
+      "D": "Standards"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58202?exam_type=waec&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "110",
+    "text": "Which of the following is safety measure in the computer laboratory?",
+    "options": {
+      "A": "Eating in the computer laboratory",
+      "B": "Illumination in the computer laboratory",
+      "C": "Opening the monitor by unauthorized persons",
+      "D": "Poor ventilation in the computer laboratory"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58203?exam_type=waec&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "111",
+    "text": "Safety measures to be observed when using the computer include all of the following except",
+    "options": {
+      "A": "use of anti-glare protector",
+      "B": "sitting posture",
+      "C": "maintaining a dust-free environment",
+      "D": "dropping liquids in the computer rooms"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58205?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "112",
+    "text": "A computer professional who studies an existing system with a view to evolving a computer-based system from it is called?",
+    "options": {
+      "A": "computer engineer",
+      "B": "computer programmer",
+      "C": "data-base administrator",
+      "D": "system analyst"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58206?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "113",
+    "text": "Which of the following is not an anti-virus?",
+    "options": {
+      "A": "Avast",
+      "B": "AVG",
+      "C": "Compaq",
+      "D": "Norton"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58251?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "114",
+    "text": "Which of the following is used to retrieve specific information from database tables?",
+    "options": {
+      "A": "Index",
+      "B": "Query",
+      "C": "Report",
+      "D": "Table"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58252?exam_type=waec&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "115",
+    "text": "Which of these methods would delete a relationship defined\u00a0between two tables in MS Access?",
+    "options": {
+      "A": "Selecting delete relationship from the edit menu dialog box",
+      "B": "Selecting the relationship line and pressing Delete key",
+      "C": "Selecting Delete from the relationship menu",
+      "D": "Selecting Delete relationship from the file drop menu"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58256?exam_type=waec&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "The Relationships window shows the lines connecting related tables. You can quickly remove a relationship by clicking on the line representing it and pressing theDeletekey on your keyboard.",
+    "year": "2017"
+  },
+  {
+    "number": "116",
+    "text": "Which of the following is not an effect of computer virus?",
+    "options": {
+      "A": "It distorts the computer screen",
+      "B": "interferes with computer operation",
+      "C": "damages the computer",
+      "D": "corrupts the computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58258?exam_type=waec&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "117",
+    "text": "What file organization would require that all the five (5) records be read before the 6th record is written?",
+    "options": {
+      "A": "Direct-access file",
+      "B": "Index sequential file",
+      "C": "Random access file",
+      "D": "Sequential access file"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58262?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "118",
+    "text": "Which of the following is not an advantage of file organization?",
+    "options": {
+      "A": "Faster processing of data input",
+      "B": "Postal data retrieval",
+      "C": "Prevention of data failure and data loss",
+      "D": "Safety of data and information in a storage medium"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58274?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "119",
+    "text": "Maintaining the value nd content of data is part of data",
+    "options": {
+      "A": "coding",
+      "B": "integrity",
+      "C": "secrecy",
+      "D": "security"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58275?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "120",
+    "text": "Which of these operations would not improve the performance of a parallel database system?",
+    "options": {
+      "A": "Building indexes",
+      "B": "Deleting unwanted data",
+      "C": "Evaluating queries",
+      "D": "Storing data across several sites."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58276?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  }
+]

@@ -1,0 +1,1934 @@
+[
+  {
+    "number": "2244",
+    "text": "At a given temperature and pressure, a gas X diffuses twice as fast as gas Y. It follows that",
+    "options": {
+      "A": "Gas Y is two times as heavy as Gas X",
+      "B": "Gas Y is four times as heavy as Gas X",
+      "C": "Gas Y is monoatomic",
+      "D": "Gas X is diatomic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70194?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "B",
+    "explanation": "The question can be explained by Graham's law of diffusion. According to this law, under the same conditions of temperature and pressure, the rate of diffusion of a gas is inversely proportional to the square root of its molar mass.\n\\(\\frac{R_x}{R_y}\\) = \\(\\sqrt{\\frac{M_y}{M_x}}\\)\nFrom the question, Gas X diffuses twice as fast as gas Y\u00a0 \u00a0 \u00a0 i.e\u00a0 x = 2y\nThis implies x =2 while y = 1\nFrom\u00a0\\(\\frac{R_x}{R_y}\\) = \\(\\sqrt{\\frac{M_y}{M_x}}\\)\n\\(\\frac{2}{1}\\) = \\(\\sqrt{\\frac{M_y}{M_x}}\\)\n\\(\\frac{4}{1}\\) = \\(\\frac{M_y}{M_x}\\)\nM\\(_y\\) = 4 M\\(_x\\)\n\u21d2 Gas Y is 4 times as heavy as Gas X. - OptionB\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2245",
+    "text": "The number of molecules of helium gas contained in 11.5g of the gas is",
+    "options": {
+      "A": "1.73 x 10\\(^{23}\\)",
+      "B": "1.73 x 10\\(^{22}\\)",
+      "C": "1.73 x 10\\(^{24}\\)",
+      "D": "1.73 x 10\\(^{21}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70203?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "C",
+    "explanation": "To find the number of molecules, we'll use the formula:\nNumber of moles = \\(\\frac{Number of molecules}{Avogadro number}\\)\nBut We were only given the mass of Helium = 11.5g , knowing the atomic mass or\u00a0molar\u00a0mass of He = 4 g/mol\nNumber of moles =\u00a0\\(\\frac{mass}{molar mass}\\) =\u00a0\\(\\frac{11.5}{4}\\) = 2.875 moles\nNumber of molecules = Number of moles x Avogadro number\n= 2.875 x 6.02 x 10\\(^{23}\\)\n= 17.3075 x\u00a010\\(^{23}\\)\n= 1.73 x\u00a010\\(^{24}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2246",
+    "text": "The constituents of Alnico\u00a0are Aluminium, Nickel and",
+    "options": {
+      "A": "Mg",
+      "B": "Co",
+      "C": "Mn",
+      "D": "Cu"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70217?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "Alnico is ferromagnetic, meaning it can be used to make permanent magnets.\u00a0Alnico is an iron alloy with the acronym \"al-ni-co\" that's made up of aluminum (Al), nickel (Ni), and cobalt (Co). Option B\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2247",
+    "text": "Silver and Gold are metals found as free uncombined elements in the earth's crust, which makes them to be referred to as",
+    "options": {
+      "A": "corrosive metals",
+      "B": "reactive metals",
+      "C": "natural metals",
+      "D": "noble metals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70220?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "D",
+    "explanation": "Gold and silver arenoble metals, because\u00a0they are resistant to corrosion and oxidation, even at high temperatures.\nNoble metals are a group of metals that are less reactive than other metals and are not easily corroded or oxidized.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2248",
+    "text": "In the extraction of Aluminium, the silica impurity is removed by",
+    "options": {
+      "A": "electrolysis",
+      "B": "filtration",
+      "C": "reaction with H\\(_2\\)SO\\(_4\\)",
+      "D": "precipitation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70221?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "Aluminum is extracted from bauxite by electrolysis. The extraction proceeds in two stages;\n1.Purification of the Bauxite:\u00a0The impure bauxite is heated with sodium hydroxide solution to form soluble sodium tetrahydroxy aluminate (iii).The impurities in the ore which are iron (iii) oxide and trioxosilicate (iv) compoundsare not soluble in the alkali. They are thereforefiltered offas a sludge.\nAluminum hydroxide crystals is then added to filtrate, NaAl(OH)\\(_4\\) solution to induce the precipitation of Aluminum hydroxide.\n2.The electrolysis of the pure alumina\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2249",
+    "text": "When Calcium ethynide is decomposed by water, the gas produced is",
+    "options": {
+      "A": "CO",
+      "B": "H\\(_2\\)",
+      "C": "C\\(_2\\)H\\(_2\\)",
+      "D": "CH\\(_4\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70224?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "C",
+    "explanation": "In contact with water, calcium carbide instantly decomposes hydrolytically, yieldingacetylene gasand calcium hydroxide.\nCalcium ethynide is also known as calcium carbide.\nCaC\\(_2\\)\u00a0 +\u00a0 2H\\(_2\\)O\u00a0\u2192 Ca(OH)\\(_2\\) +\u00a0 C\\(_2\\)H\\(_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2250",
+    "text": "The constituent of petroleum fraction used in surfacing road is",
+    "options": {
+      "A": "petrol",
+      "B": "diesel",
+      "C": "lubricating oil",
+      "D": "bitumen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70225?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "D",
+    "explanation": "Bitumen is the petroleum product which is used for surfacing roads. It is also known as asphalt. It is used as an alternative for coal-tar.\u200b\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2251",
+    "text": "During the fractional distillation of crude oil, the fraction that distills at 200 - 250\\(^0\\) C is",
+    "options": {
+      "A": "bitumen",
+      "B": "diesel",
+      "C": "kerosene",
+      "D": "petrol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70227?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "C",
+    "explanation": "The petroleum fractions that distill at 200\u2013250\u00b0C are\u00a0naphtha andkerosene,\nBitumen: has a boiling point value of 525\\(^0\\)CGasoline:\u00a0Has a boiling range of 40\u2013200\u00b0CDiesel:\u00a0Has a boiling range of 250\u2013350\u00b0CFuel oil, paraffin, lubricants:\u00a0Have a boiling range of 300\u2013370\u00b0CResidue, crude oil:\u00a0Has a boiling point of more than 370\u00b0C\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2252",
+    "text": "A liquid hydrocarbon obtained from fractional distillation of coal tar that is used in the pharmaceutical industry is",
+    "options": {
+      "A": "xylene",
+      "B": "benzene",
+      "C": "hexane",
+      "D": "Toluene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70229?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "B",
+    "explanation": "Coal tar is a known human carcinogen.\u00a0It contains potent carcinogens like benzo(a)pyrene, benz(a)anthracene, and dibenz(a,h)anthracene.\nFractional distillation of coal tar is a\u00a0process that produces aromatic hydrocarbons like benzene, creosotes, naphthalene, anthracene, carbolic and cresylic acids, pyridine, and pitch. Benzene is used in the pharmaceutical industry as a solvent and in the synthesis of drugs such as cyclohexane, phenol etc.Thus the correct answer is option B- Benzene\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2253",
+    "text": "An organic compound contains 53.1% Carbon, 6.2% Hydrogen, 12.4% Nitrogen, and 28.3% Oxygen by mass. What is the molecular formula of the compound if its\u00a0vapour density is 56.5?\u00a0 \u00a0[ C =12, H = 1, N = 14, O = 16].",
+    "options": {
+      "A": "C\\(_5\\)H\\(_7\\)NO\\(_2\\)",
+      "B": "C\\(_5\\)H\\(_6\\)NO\\(_2\\)",
+      "C": "C\\(_3\\)H\\(_6\\)NO\\(_2\\)",
+      "D": "C\\(_3\\)H\\(_7\\)NO\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70233?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "A",
+    "explanation": "C\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0H\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0N\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0O\n\\(\\frac{53.1}{12}\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\\(\\frac{6.2}{1}\\)\u00a0 \u00a0 \u00a0\u00a0 \\(\\frac{12.4}{14}\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\\(\\frac{28.3}{16}\\)\n\\(\\frac{4.425}{0.886}\\)\u00a0 \u00a0 \u00a0 \u00a0\\(\\frac{6.2}{0.886}\\)\u00a0 \u00a0 \u00a0 \\(\\frac{0.886}{0.886}\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0\\(\\frac{1.769}{0.886}\\)\n5\u00a0 \u00a0 \u00a0 \u00a0:\u00a0 \u00a0 \u00a0 \u00a0 7\u00a0 \u00a0 \u00a0:\u00a0 \u00a0 \u00a0 \u00a0 \u00a01\u00a0 \u00a0 \u00a0 :\u00a0 \u00a0 \u00a0\u00a0 \u00a02\nC\\(_5\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0H\\(_7\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0N\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 O\\(_2\\) -\u00a0 Empirical formula\n(Empirical formula) n = Molecular formula\n(C\\(_5\\)H\\(_7\\)NO\\(_2\\))n = 2 x vapour density\n([12x5] + [1x7] + 14 + [16x2] ) n = 2 x 56.5\n113n = 113\nn = \\(\\frac{113}{113}\\)\nn = 1\nTherefore, the molecular formula is\u00a0C\\(_5\\)H\\(_7\\)NO\\(_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2254",
+    "text": "The empirical formula of an organic liquid hydrocarbon is XY. If the relative molar masses of X and Y are 72 and 6 respectively, it's vapour\u00a0density is likely to be",
+    "options": {
+      "A": "33",
+      "B": "66",
+      "C": "39",
+      "D": "78"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70234?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "C",
+    "explanation": "Empirical formula of organic liquid is XY\n(Empirical formula) x n =\u00a0 2 x Vapour density\n(XY)\u00a0= 2 V.D\n(72 + 6) \u00a0= 2 V.D\n78\u00a0= 2 V.D\nV.D = \\(\\frac{78}{2}\\)\nV.D = 39\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2255",
+    "text": "Biuret test is a chemical test used for detecting the presence of",
+    "options": {
+      "A": "carbohydrates",
+      "B": "proteins",
+      "C": "amines",
+      "D": "alkanoates"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70235?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "B",
+    "explanation": "The biuret test uses copper sulphate in a basic solution to create a purple complex with substances that contain two or more peptide bonds.\u00a0Ifproteinis present, the biuret reagent will turn purple, and if no protein is present, it will remain blue.\nThe biuret test is a chemical test that detects the presence of\u00a0proteins\u00a0in a sample.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2256",
+    "text": "A gas when mixed with oxygen, it produces a very hot and early controllable flame. What is the name of the flame and where\u00a0is it used?",
+    "options": {
+      "A": "Acetylene flame; miners' lamb",
+      "B": "Oxy-ethylene ; hunters' torch",
+      "C": "Oxy-ethylene flame; miners' lamb",
+      "D": "Oxy-ethylene flame ; cutting and welding metals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70236?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "D",
+    "explanation": "When Oxygen reacts with acetylene, an oxy-acetylene\u00a0or oxy-ethylene flame is obtained. This flame produces a very high temperature flame which is able to weld or join two or more metals together.\nThe combustion of acetylene and oxygen produces a flame that can reach temperatures over 3,000\u00b0C, making it hot enough to melt steel.\u00a0Oxy-acetylene equipment can be used for welding, cutting, brazing, heating, and more.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2257",
+    "text": "The number of geometrical isomers of butene are",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70237?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "A",
+    "explanation": "Geometric isomers aretwo or more compounds with the same number and types of atoms, and bonds, but which have different geometries for the atoms.\nGeometric isomers have the same connectivity but different geometries.\u00a0They occur when substituents are locked in position next to or opposite each other.\nButene hasfourisomers:\nBut-1-ene:\u00a0CH\\(_3\\)CH\\(_2\\)CH=CH\\(_2\\)But-2-ene:\u00a0CH\\(_3\\)CH=CHCH\\(_3\\)Cis but-2-ene:\u00a0A geometrical isomerTrans but-2-ene:\u00a0A geometrical isomer.Out of the four isomers, there are only two geometric isomers which are cis but-2-ene and trans but-2-ene. Consequently, butene has two geometrical isomers; which are the cis but-2-ene and the trans but-2-ene.",
+    "year": "2024"
+  },
+  {
+    "number": "2258",
+    "text": "How many isomers has the organic compound represented by the formula C\\(_3\\)H\\(_8\\)O ?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70238?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "B",
+    "explanation": "The molecular formula C3H8O hasthreestable isomers:\n1-propanol:\u00a0A primary alcohol with the structure CH3\u2212CH2\u2212CH2\u2212OH2-propanol:\u00a0A secondary alcohol with the structure CH3\u2212CH(OH)\u2212CH3Ethyl methyl ether:\u00a0An ether with the structure CH3\u2212CH2\u2212O\u2212CH3\nTwo of the isomers are alcohols, while the third is an ether.\u00a0Ethers cannot be oxidized, so they do not react with potassium permanganate (KMnO4).\u00a0However, alcohols can oxidize, and when they react with KMnO4, they produce carboxylic acid.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2259",
+    "text": "When a few drops of Millon reagents is added to egg-white solution in a test tube, the white precipitate changes to",
+    "options": {
+      "A": "orange",
+      "B": "brick red",
+      "C": "reddish brown",
+      "D": "blue"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70239?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "B",
+    "explanation": "When a few drops of Millon's reagent is\u00a0added to an egg-white solution in a test tube and the solution is boiled, thewhite precipitateturnsbrick red.This indicates thepresence of proteins.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2260",
+    "text": "If the solubility of KNO\\(_3\\) at 30\\(^0\\)C is 3.10 mol/dm\\(^3\\) a solution containing 303g/dm\\(^3\\)\u00a0KNO\\(_3\\) is likely to be",
+    "options": {
+      "A": "saturated",
+      "B": "unsaturated",
+      "C": "supersaturated",
+      "D": "at saturation point"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70240?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "B",
+    "explanation": "To determine whether the solution is saturated or unsaturated, we need to compare the actual concentration of the solution (g/dm\u00b3) with the solubility of KNO\u2083 at the same temperature (mol/dm\u00b3).First, let\u2019s convert the given mass concentration to mol/dm\u00b3 using the molar mass of KNO\u2083.Molar mass of KNO\u2083 = (39\u00a0g/mol) + (14\u00a0g/mol) + (3 x 16\u00a0g/mol) = 101g/mol\nMolar Concentration (mol/dm\u00b3)\\} = \\(\\frac{mass concentration}{Molar mass}\\)\n= \\(\\frac{303}{101}\\)\n= 3.00moldm\\(^3\\)\nComparing,\u00a0the concentration (3.00 mol/dm\u00b3) with the solubility of KNO\u2083 at 30\u00b0C (3.10 mol/dm\u00b3).If the concentration is less than the solubility, the solution is unsaturated because more solute can dissolve. If the concentration is equal to the solubility, the solution is saturated because no more solute can dissolve. If the concentration is greater than the solubility, the solution is supersaturated, but this case is not relevant to our comparison.In this case, the concentration (3.00mol/dm\u00b3) is less than the solubility (3.10\u00a0mol/dm\u00b3). Therefore, the solution is unsaturated at 30\u00b0C because more KNO\u2083 can dissolve in the solution.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2261",
+    "text": "127g of sodium chloride was dissolved in 1.0dm\\(^3\\) of distilled water at 25\\(^0\\)C . Determine the solubility in moldm\\(^{-3}\\) of sodium chloride at that temperature. [Na = 23, Cl = 35.5]",
+    "options": {
+      "A": "1.0",
+      "B": "2.0",
+      "C": "2.2",
+      "D": "4.1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70241?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "C",
+    "explanation": "Solubility = Amount of solute dissolved in 1dm\\(^3\\) of solvent divided by the volume of solvent\nSolubility = \\(\\frac{mass}{molar mass}\\) x 1\u00a0dm\\(^3\\)\nMolar mass of NaCl = 23 + 35.5 = 58.5 g/mol\nSolubility =\u00a0 \\(\\frac{127}{58.5}\\) x 1\u00a0dm\\(^3\\)\n= 2.17\n= 2.2 moldm\\(^{-3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2262",
+    "text": "The quantity of electricity required to deposit 180g of Ag from a molten silver trioxonitrate(V) is\n[Ag = 108]",
+    "options": {
+      "A": "1.08F",
+      "B": "3.30F",
+      "C": "1.67F",
+      "D": "1.80F"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70242?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "C",
+    "explanation": "Ag\\(^+\\)\u00a0 + e\\(^-\\)\u00a0\u2192 Ag\n1mole = 1F\nIf 1F\u00a0produced 108g of Ag\nx F will produce 180g of Ag\nx = \\(\\frac{180 x 1}{108}\\)\nx = 1.666\u00a0F\nx = 1.67 F\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2263",
+    "text": "What would be the order of the electrolytic cell in an industry intending the production of silver plated spoons?",
+    "options": {
+      "A": "Cathode is the spoon; anode is a silver rod; electrolyte is a soluble silver salt",
+      "B": "Cathode is a silver rod; anode is the spoon; electrolyte is a soluble silver salt",
+      "C": "Cathode is the spoon; anode is any rod; electrolyte is a soluble silver salt",
+      "D": "Cathode is any rod; anode is the spoon; electrolyte is a soluble salt"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70243?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "A",
+    "explanation": "In anelectrolytic refining\u00a0process, theanode is made of impure metal, and thecathode is made of a strip of pure metal.When an electric current is passed through the electrolyte,metal ions from the electrolyte are deposited as a pure metal on the cathode.A soluble silver salt is used as an electrolyte in the electrolysis of silver metal because\u00a0it allows for the deposition of a pure metal on the cathode.\nIn the electrolysis of silver metal,\u00a0you cannot use any rod at the anode;\u00a0it is crucial to use a silver rod as the anode because the process relies on the oxidation of silver ions from the silver anode into the solution to deposit pure silver at the cathode;\u00a0using a different metal would not produce the desired result.\u00a0\u00a0The net result is that silver metal has been transferred from the anode to the cathode.\nIn summary, a silver rod is used at the anode, the spoon has to be cathode since we must obtain a pure silver spoon while the electrolyte must be a soluble silver salt\u00a0because it allows easy deposition of metal ions as a pure metal on the cathode.",
+    "year": "2024"
+  },
+  {
+    "number": "2264",
+    "text": "The table above shows the formulae of some ions. In which of these compounds is the formula not correct?",
+    "options": {
+      "A": "Aluminiumtetraoxosulphate(VI), Al\\(_2\\)(SO\\(_4\\))\\(_3\\)",
+      "B": "Calciumtrioxonitrate(V), Ca(NO\\(_3\\))\\(_2\\)",
+      "C": "Iron(III)bromide, Fe\\(_3\\)Br",
+      "D": "Potassiumsulphide, K\\(_2\\)S"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70244?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "C",
+    "explanation": "Iron(III)bromide is the correct answer because Fe has a valency of +3 while Br has a valency of -1,\nIn the bid to form compounds, they bond together and exchange their valency.\n\u21d2 Fe takes the valency of Br which is 1 while Br takes the valency of Fe which is 3.\nTherefore, the formula for the compound formed should be FeBr\\(_3\\) and not\u00a0 Fe\\(_3\\)Br\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2265",
+    "text": "The pH of a 0.001 mol dm\\(^{-3}\\) of\u00a0\u00a0H\\(_2\\)SO\\(_4\\)\u00a0is\u00a0\n[Log\\(_{10}\\)2 = 0.3]",
+    "options": {
+      "A": "2.7",
+      "B": "3.0",
+      "C": "3.3",
+      "D": "2.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70245?exam_type=jamb&type=obj&page=453",
+    "correct_answer": "A",
+    "explanation": "H\\(_2\\)SO\\(_4\\) is a strong acid, so it will\u00a0completely dissociate into corresponding ions.\nOn dissociation, H\\(_2\\)SO\\(_4\\)\u00a0\u00a0\u2192\u00a02H\\(^+\\)\u00a0 +\u00a0\u00a0SO\\(_4\\)\\(^{2-}\\)\nIf the concentration of H\\(_2\\)SO\\(_4\\) is 0.001 M so, the concentration of 2H\\(^+\\)\u00a0will be 0.002 M (0.001 x 2). This is because 1 molecule of H\\(_2\\)SO\\(_4\\) gives 2H\\(^+\\)\u00a0 ions.\nRecall that\u00a0 pH = - Log\\(_{10}\\)[H\\(^+\\)]\npH =\u00a0 - Log\\(_{10}\\)[2H\\(^+\\)]\u00a0 (basicity is 2)\n= -\u00a0Log\\(_{10}\\)[2 x 0.001]\n= - (Log\\(_{10}\\)2 +\u00a0 Log\\(_{10}\\)\u00a00.001)\n= -\u00a0(Log\\(_{10}\\)2 +\u00a0 Log\\(_{10}\\) 10\\(^{-3}\\))\nAlso recall that\u00a0Log\\(_{10}\\)2 = 0.3\u00a0 and\u00a0Log\\(_{10}\\)10 = 1\nTherefore,\u00a0 pH = - (0.3 - 3)\n= - ( - 2.7)\n= 2.7\u00a0 \u00a0 \u00a0 \u00a0 - Option A\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2266",
+    "text": "Strong acids can be distinguished from weak acids by any of the following methods, EXCEPT",
+    "options": {
+      "A": "Conductivity measurement",
+      "B": "The use of litmus paper",
+      "C": "Measurement of pH",
+      "D": "Measurement of heat of reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70246?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "B",
+    "explanation": "Strong and weak acids can be distinguished by their\u00a0pH value, electrical conductivity, and reactivity.\nA conductivity measurement can distinguish between strong and weak acids as strong acids have a higher concentration of H+ and ionize completely in water, resulting in a higher concentration of ions and greater electrical conductivity.\u00a0Weak acids only partially ionize, resulting in fewer ions and lower electrical conductivity.\nGenerally, all acids turn blue litmus red.\nStrong\u00a0acids have lower pH values than weak acids.\u00a0The pH scale measures the concentration of H+ in a solution, and the more H+ present, the closer the pH is to 0. Thus, measurement of pH can be used to distinguish between strong and weak acids.\nThe measurement of heat of reaction can distinguish between strong and weak acids.Strong acids\u00a0have a higher enthalpy of neutralization than weak acids.\u00a0This is because strong acids completely ionize in water, releasing all of their protons (H+ ions),\u00a0while weak acids have a lower enthalpy of neutralization than strong acids.\u00a0This is because weak acids only partially ionize, releasing a small fraction of their protons.\nConsequently, since the use of litmus paper can't tell us how strong a solution is, option B is the correct answer.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2267",
+    "text": "The chemical formula for potassiumhexacyanoferrate(II) is",
+    "options": {
+      "A": "[Fe(CN)\\(_6\\)]\\(^{4-}\\)",
+      "B": "K\\(_3\\)Fe(CN)\\(_6\\)",
+      "C": "Fe(CN)\\(_6\\)",
+      "D": "K\\(_4\\)Fe(CN)\\(_6\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70247?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "D",
+    "explanation": "Potassium hexacyanoferrate(II) has a complex polymeric structure made up of octahedral [Fe(CN)6]4 centers bonded together by K+ ions. It is a complex salt as well as a\npotassium hexacyanoferrate(II) is a\u00a0bridging ligand\u00a0(a ligand that bonds to two different metals, forming a bridge between them).\nHexacyano\u00a0\u21d2 6 molecules of CN. Hence, because CN is negatively charged, it wil also need 6 positively charged ions(metals) to bond with it. However, since ferrate is already said to be ferrate(II), it implies, 4 positive ions will be needed more, and that should be from potassium.\nThus the correct formula for potassium hexacyanoferrate(II) is K\\(_4\\)Fe(CN)\\(_6\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2268",
+    "text": "For chemical reaction to be spontaneous,\u00a0\u2206G must be",
+    "options": {
+      "A": "positive",
+      "B": "negative",
+      "C": "zero",
+      "D": "equal to the enthalpy change"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70248?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "B",
+    "explanation": "A spontaneous reaction isa reaction that proceeds on its own in a given set of conditions, without the external addition of energy.\nGibbs Free Energy (\u2206G), isthermodynamic quantity which represents the amount of usable energy available in a system at constant temperature and pressure.\u00a0A negative value\u00a0for \u0394G indicates a spontaneous process; a positive \u0394G indicates a nonspontaneous process; and a \u0394G of zero indicates that the system is at equilibrium.This is because\u00a0it means the system is releasing free energy, moving towards a lower energy state, and thus the reaction can occur without external energy input;\u00a0essentially, the products have less free energy than the reactants, making the process naturally favourable.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2269",
+    "text": "How many moles of CO\\(_2\\) are produced when ethanol is burnt with 6g of oxygen",
+    "options": {
+      "A": "0.125",
+      "B": "0.250",
+      "C": "0.375",
+      "D": "0.750"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70252?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "A",
+    "explanation": "First, write a balanced chemical equation of the reaction:\nC\\(_2\\)H\\(_5\\)OH\u00a0 +\u00a0 3 O\\(_2\\)\u00a0\u00a0\u2192 2 CO\\(_2\\) + 3H\\(_2\\)O\n3moles\u00a0 \u00a0 \u00a0:\u00a0 \u00a0 \u00a02 moles\nUsing\u00a0 n = \\(\\frac{mass}{Molar mass}\\),\u00a0\\(\\frac{6}{32}\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :\u00a0 x mole\n0.1875 mole :\u00a0 x mole\nBy simple proportion, X =\u00a0\\(\\frac{0.1875\u00a0 X\u00a0 \u00a02}{3}\\)\nX = 0.125 mole\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2270",
+    "text": "Which of these is the most preferred separation technique for the isolation of solutes where the purity of the constituent is of utmost importance?",
+    "options": {
+      "A": "sieving",
+      "B": "Distillation",
+      "C": "recrystallization",
+      "D": "Precipitation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70257?exam_type=jamb&type=obj&page=454",
+    "correct_answer": "C",
+    "explanation": "Distillationseparates components of a liquid mixture by heating and cooling, which vaporizes and condenses the components based on their boiling points.\u00a0This technique is often used in industries like pharmaceuticals and fine chemicals. This is better suited for separation mixtures based on differences in boiling points.\nRecrystallizationseparates a dissolved solid from a solution by heating the solution until the solvent evaporates, leaving a saturated solution.\u00a0This technique is often used to purify solids.\nHowever, recrystallization is generally considered a better\u00a0method of achieving high purity of solutes because of higher purity of 99.9% while distillation 99%, less contamination, better separation etc.\nNonetheless, the choice between recrystallization and distillation ultimately depends on the specific properties of the solutes. Thus option C is the correct answer\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2271",
+    "text": "In the graph above, y represents",
+    "options": {
+      "A": "endothermic reaction",
+      "B": "activation energy",
+      "C": "exothermic reaction",
+      "D": "ionization energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70260?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "B",
+    "explanation": "The activation energy is the energy required to get the reaction going.\u00a0It's the difference between the energy of the reactants and the peak of the hump.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2272",
+    "text": "The ions responsible for permanent hardness in water are sulphates of",
+    "options": {
+      "A": "Fe\\(^{3+}\\) and Mg\\(^{2+}\\)",
+      "B": "Ca\\(^{2+}\\) and Mg\\(^{2+}\\)",
+      "C": "Fe\\(^{2+}\\) and Fe\\(^{3+}\\)",
+      "D": "Na\\(^{+}\\) and Ca\\(^{2+}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70261?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "B",
+    "explanation": "Water is considered permanently hard when it contains soluble chlorides and sulphates of calcium and magnesium.\u00a0These salts do not precipitate out when the temperature increases, so boiling the water will not remove them.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2273",
+    "text": "One of the following is not a water pollutant?",
+    "options": {
+      "A": "Inorganic fertilizers",
+      "B": "Warm water affluent",
+      "C": "Oxygen gas",
+      "D": "Biodegradable waste"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70262?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "C",
+    "explanation": "Oxygen is not a water pollutant.\u00a0In fact, oxygen is essential for the survival of life in water.\nSome examples of water pollutants include:\nChemical pollutants:\u00a0Pesticides, fertilizers, and waste from landfills and septic systemsOrganic wastes,\u00a0Microbial contaminants\u00a0,Nutrients\u00a0,Plastics\u00a0,Faecal waste\u00a0,Radioactive substances\u00a0,Phosphorus and nitrogen.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2274",
+    "text": "CuO\\(_s\\)\u00a0 \u00a0+\u00a0 H\\(_2\\)(\\(_g\\))\u00a0 \u21cc\u00a0Cu\\(_s\\)\u00a0 \u00a0+\u00a0 H\\(_2\\)O(\\(_g\\))\nIn the equation above, the effect of increased pressure on the equilibrium position is that",
+    "options": {
+      "A": "the equilibrium is shifted to the left",
+      "B": "the equilibrium is shifted to the right",
+      "C": "there is no effect",
+      "D": "more H\\(_2\\)\\((g\\)) is produced"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70263?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "C",
+    "explanation": "The effect of pressure on a chemical system at equilibrium is only on gaseous substances.\nWe'll need to consider the number of moles of the gaseous substances on the LHS as well as the total number of moles of the gaseous substances on the RHS.\nThe side with the lower total number of\u00a0 moles will be favoured by an increase in pressure and vice versa. However, since the number of moles of the gaseous substances on both sides are 1, i.e they are equal, an increase in pressure has no effect on the chemical system in equilibrium.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2275",
+    "text": "What method is suitable for the separation of gases present in air?",
+    "options": {
+      "A": "Catalytic cracking of liquid air",
+      "B": "Fractional distillation of liquid air",
+      "C": "Thermal decomposition of air",
+      "D": "Catalytic decomposition of air"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70265?exam_type=jamb&type=obj&page=455",
+    "correct_answer": "B",
+    "explanation": "Fractional distillation\u00a0is the most common method for separating the gases in air.\u00a0This method is used because the gases in air have a difference in boiling points of less than 25 K, making them suitable for fractional distillation.\nHere's how fractional distillation works:\n1.Liquefy the gases: Air is converted into liquid air by increasing the pressure and decreasing the temperature.\n2.Separate carbon dioxide and water vapour:As the temperature drops below 0\u00b0C, carbon dioxide separates as dry ice and water vapor separates as ice.\n3.Pass the liquid air through a column: The liquid air is then passed through a fractional distillation column, where the gases are separated based on their boiling points.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2276",
+    "text": "The principle which states that no two electrons in the same orbitals of an atom have\u00a0same value for all four quantum numbers is the",
+    "options": {
+      "A": "Aufbau principle",
+      "B": "Hund's rule",
+      "C": "Pauli Exclusion principle",
+      "D": "Dilution principle"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70267?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "C",
+    "explanation": "The Aufbau Principle\u00a0states that,in the ground state of an atom or ion, electrons fill atomic orbitals of the lowest available energy level before occupying higher-energy levels.i.e 1S2S2P..\nHund's rule\u00a0states thatelectrons fill orbitals singly before pairing up, and that electrons in singly occupied orbitals have the same spin.\nThe Pauli Exclusion Principle states that,in an atom or molecule,no two electrons can have the same four electronic quantum numbers.\nThe dilution principle is\u00a0amethod for measuring the concentration of a solute in a solution, or the volume of a fluid compartment.\nOption Cis the correct answer.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2277",
+    "text": "How much of 5g of radioactive element whose half life is\u00a050days remains after 200days?",
+    "options": {
+      "A": "2.50 g",
+      "B": "1.25 g",
+      "C": "0.63 g",
+      "D": "0.31 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70268?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "D",
+    "explanation": "There are several methods of solving this radioactivity problem. One of the easiest is:\n\\(\\frac{Original mass}{2^n}\\)\u00a0 =\u00a0 \u00a0Residual mass\nWhere n = number of activity =\u00a0 \\(\\frac{exposure\u00a0 time}{half\u00a0 life}\\)\nGiven:\nOriginal mass = 5g, exposure time = 200 days , half life = 50 days, Residual mass = ?\nSubstituting all the given parameters appropriately, we have\nn =\u00a0\\(\\frac{200}{50}\\)\nn = 4\n\\(\\frac{Original\u00a0 mass}{2^n}\\)\u00a0=\u00a0 \u00a0Residual mass\n\\(\\frac{5}{2^4}\\)\u00a0 =\u00a0 \u00a0Residual mass\n\\(\\frac{5}{16}\\)\u00a0 \u00a0 \u00a0=\u00a0 \u00a0Residual mass\nResidual mass = 0.3125g = 0.31g\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2278",
+    "text": "The group VIII elements are the inert gases because they",
+    "options": {
+      "A": "have lone pair of electrons on their valence shells",
+      "B": "all have completely filled valence shells",
+      "C": "are all solids",
+      "D": "are all polyatomic molecules"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70270?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "B",
+    "explanation": "Group VIII also known as inert gases all have their valence shell\u00a0completely filled with electrons, hence they are referred to as Group O.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2279",
+    "text": "Na\\(_2\\)X\u00a0\u00a0\u21cc\u00a0 2Na\\(^+\\)\u00a0 +\u00a0 X\\(^{2-}\\)\nThe bond between Na and X is likely to be",
+    "options": {
+      "A": "covalent",
+      "B": "dative",
+      "C": "ionic",
+      "D": "metallic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70275?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "C",
+    "explanation": "Sodium is a metal and X is a non-metal, so the bond between them is ionic.\u00a0Ionic bonds form when a metal bonds with a non-metal.\nElement X receives 2 electrons from Na metal and became negatively charged.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2280",
+    "text": "The highest isotope of hydrogen is",
+    "options": {
+      "A": "Deuterium",
+      "B": "protium",
+      "C": "tritium",
+      "D": "positron"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70276?exam_type=jamb&type=obj&page=456",
+    "correct_answer": "C",
+    "explanation": "The most common isotope of hydrogen, making up more than 99.98% of all hydrogen in the universe.\u00a0Protium is the lightest isotope of hydrogen and is also known as ordinary hydrogen.\u00a0Its symbol is 1H.\u00a0However,thehighest isotope of Hydrogen is Tritium\\(^3\\)T\u00a0with 1 proton and 2 neutrons.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2281",
+    "text": "When Sulphur(IV)oxide is passed into solution of acidified tetraoxomanganate(VII), the colour changes from",
+    "options": {
+      "A": "blue to green",
+      "B": "pink to yellow",
+      "C": "purple to colourless",
+      "D": "Orange to green"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70277?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "C",
+    "explanation": "When sulphur dioxide (SO\\(_2\\) gas is passed through an acidified potassium permanganate (KMnO\\(_4\\)) solution, the solution changes from purple to colourless.\u00a0This is because of a redox reaction, where KMnO\\(_4\\) acts as an oxidizing agent and SO\\(_2\\) acts as a reducing agent.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2282",
+    "text": "Water gas obtained from the gasification of coke is made up of",
+    "options": {
+      "A": "Nitrogen and Carbon(II) oxide",
+      "B": "Nitrogen and Hydrogen",
+      "C": "Hydrogen and Carbon(II) oxide",
+      "D": "Carbon(II)oxide and Carbon(IV)oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70278?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "C",
+    "explanation": "Water gas also known as synthesis gas is obtained from the gasification of coke. It\u00a0is\u00a0a flammable, poisonous gas mixture that's made up of carbon monoxide (CO) and hydrogen (H\\(_2\\)).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2283",
+    "text": "Sulphur(IV)oxide can be used as a",
+    "options": {
+      "A": "coating agent",
+      "B": "dehydrating agent",
+      "C": "refrigerant",
+      "D": "drying agent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70279?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "C",
+    "explanation": "Sulphur(IV) oxide has many uses including food preservation, refrigeration, laboratory reagent and solvent, sulphuric acid production, fumigant etc.Sulphur(IV) oxide\u00a0\u00a0is a good refrigerant because it has a high heat of evaporation and can be easily condensed.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2284",
+    "text": "The molecular formular of a hydrocarbon with an empirical formula of CH\\(_3\\) \u00a0and a molar mass of 30 is",
+    "options": {
+      "A": "C\\(_2\\)H\\(_4\\)",
+      "B": "C\\(_3\\)H\\(_3\\)",
+      "C": "C\\(_2\\)H\\(_6\\)",
+      "D": "C\\(_6\\)H\\(_6\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70284?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "C",
+    "explanation": "Empirical formula x n = Molecular\u00a0mass\n(CH\\(_3\\) ) X n\u00a0 =\u00a0 30 ;\u00a0 Given that C = 12, H = 1\n[\u00a012 + (1x3) ] n = 30\n15n = 30\nn = \\(\\frac{30}{15}\\)\nn = 2.\nMolecular formula =\u00a0(CH\\(_3\\) ) X n =\u00a0(CH\\(_3\\) ) X 2 = C\\(_2\\)H\\(_6\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2285",
+    "text": "The difference in molecular mass between an alkene and alkyne with six carbon per mole is",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "2",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70285?exam_type=jamb&type=obj&page=457",
+    "correct_answer": "C",
+    "explanation": "Alkene family has the general formular C\\(_n\\)H\\(_{2n}\\), thus Alkene with 6 Carbon atoms is\u00a0C\\(_6\\)H\\(_{12}\\), while the alkyne family has the general formula\u00a0C\\(_n\\)H\\(_{2n-2}\\), thus alkyne with 6 carbon atoms is\u00a0C\\(_6\\)H\\(_{10}\\).\nThe difference between them is the\u00a0H\\(_2\\).\nIf H = 1, then\u00a0H\\(_2\\) = 1 x 2 = 2.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2286",
+    "text": "COMPOUND\nS\nT\nU\nV\nW\n\n\nFORMULA\nROR'\nRCOOH'\nRCOR'\nROH'\nRCOOR'\n\n\n\nFrom the table above, which of these two compounds can form functional group isomers?",
+    "options": {
+      "A": "S and T",
+      "B": "T and U",
+      "C": "S and V",
+      "D": "T and V"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70286?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "C",
+    "explanation": "ROH'\u00a0and ROR'\u00a0can form functional group isomers\u00a0because they are the functional groups of alcohols and ethers, respectively.\nEthers\u00a0have a pair of alkyl or aromatic groups attached to a linking oxygen atom. ROH is the functional group of alcohols, which are derivatives of water with one hydrogen atom replaced by an alkyl group.\nAlcohols (ROH) and ethers (ROR') can form functional group isomers\u00a0because they havethe same chemical formulabutdifferent functional groups. E.g CH\\(_3\\)CH\\(_2\\)OH and CH\\(_3\\)OCH\\(_3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2287",
+    "text": "Fats and oils are esters of fatty organic acids combined with a trihydric alkanol\u00a0commonly referred to as",
+    "options": {
+      "A": "ethanol",
+      "B": "methanol",
+      "C": "glycol",
+      "D": "glycerol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70287?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "D",
+    "explanation": "Fats and oils are esters of fatty acids and a trihydric alkanol called\u00a0glycerol or triacylglycerol.\nAn ester isany of a class of organic compounds that react with water to produce alcohols and organic or inorganic acids.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2288",
+    "text": "Determine the half-life of a first order reaction with constant 4.5 x 10\\(^{-3}\\) sec\\(^{-1}\\).",
+    "options": {
+      "A": "154 s",
+      "B": "15.4 s",
+      "C": "1540 s",
+      "D": "1.54 s"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70288?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "A",
+    "explanation": "The half-life of a first-order reaction can be calculated using the formula t\\(\\frac{1}{2}\\) = \\(\\frac{0.693}{k}\\)\nWhere\u00a0t\\(\\frac{1}{2}\\)\u00a0=\u00a0the half-life and k\u00a0=\u00a0the rate constant\nFrom the question, we were given the value for k, which is the constant to be\u00a0\u00a04.5 x 10\\(^{-3}\\) sec\\(^{-1}\\)\nt\\(\\frac{1}{2}\\) = \\(\\frac{0.693}{k}\\)\u00a0 =\u00a0\\(\\frac{0.693}{4.5 x 10\\(^{-3}\\)}\\)\nt\\(\\frac{1}{2}\\)\u00a0 \u00a0 \u00a0 = 154 s\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2289",
+    "text": "Alkanoates are naturally found in",
+    "options": {
+      "A": "lipids",
+      "B": "vitamins",
+      "C": "proteins",
+      "D": "rubbers"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70293?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "A",
+    "explanation": "Alkanoates, also known as esters, are naturally found\u00a0asfats and oils in plants and animals. However, lipids are the building blocks of fats and oils.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2290",
+    "text": "CH\\(_3\\)-CH\\(_2\\)-OH and CH\\(_3\\)-O-CH\\(_3\\)\nThe relationship between the two compounds above, is that they are",
+    "options": {
+      "A": "allotropes",
+      "B": "isotopes",
+      "C": "isomers",
+      "D": "isobars"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70295?exam_type=jamb&type=obj&page=458",
+    "correct_answer": "C",
+    "explanation": "CH3-CH2-OH and CH3-O-CH3 are\u00a0functional isomers, meaning they have the same molecular formula but different functional groups:\nCH3-CH2-OH: This is the chemical formula for ethanol, an alcohol.\u00a0The structure of ethanol is an ethyl group linked to a hydroxyl group.CH3-O-CH3:This is the chemical formula for dimethyl ether, an ether.\u00a0The structure of dimethyl ether is R \u2013 O \u2013 R, where R is alkyl groups.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2291",
+    "text": "The composition of alloy permalloy\u00a0is iron and",
+    "options": {
+      "A": "copper",
+      "B": "nickel",
+      "C": "lead",
+      "D": "magnesium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70296?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "B",
+    "explanation": "The composition of permalloy is about\u00a080% nickel and 20% iron.\u00a0Permalloy is a magnetic alloy that's also known as an iron-nickel alloy or ferronickel alloy.\u00a0It's used in electrical and electronic equipment as a magnetic core material and in magnetic shielding.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2292",
+    "text": "Aqueous solution of sodium hydroxide can be used to test for the presence of : I. Ca\\(^{2+}\\)\u00a0,\u00a0 \u00a0II. Zn\\(^{2+}\\)\u00a0,\u00a0 III. Cu\\(^{2+}\\)",
+    "options": {
+      "A": "I only",
+      "B": "I and III",
+      "C": "I, II and III",
+      "D": "I and II only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70298?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "C",
+    "explanation": "An aqueous solution of sodium hydroxide (NaOH) can be used to test for metal cations, such as: Aluminum (Al), Calcium (Ca), Copper (II) (Cu),Iron (II) (Fe), Iron (III) (Fe), Magnesium (Mg), Zinc (Zn) etc.\nSodium hydroxide solution is a useful base for identifying ionic metal compounds because it reacts with metallic ions.\u00a0The color of the precipitates formed and their solubility in excess of the reagent can help identify cations in aqueous solutions.\nCalcium ions: A few drops of dilute sodium hydroxide solution will form a white precipitate with calcium ions.\u00a0Adding excess sodium hydroxide solution will not change the precipitate.Zinc ions: A few drops of dilute sodium hydroxide solution will form a white precipitate with zinc ions.\u00a0Adding excess sodium hydroxide solution will dissolve the zinc hydroxide precipitate to form a colorless solution.Copper ions: Sodium hydroxide solution will form a blue precipitate with copper(II) ions.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2293",
+    "text": "The IUPAC nomenclature of the compound above is",
+    "options": {
+      "A": "propan-1-ol",
+      "B": "butan-1-ol",
+      "C": "2-methyl propan-1-ol",
+      "D": "2-methyl propan-2-ol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70299?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "D",
+    "explanation": "The IUPAC nomenclature of the compound above is 2-methylpropan-2-ol.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2294",
+    "text": "What is formed when metal reacts with\u00a0acid to liberate gas?",
+    "options": {
+      "A": "Salt",
+      "B": "Base",
+      "C": "Acid",
+      "D": "Liquid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70301?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "A",
+    "explanation": "When a metal reacts with an acid,\u00a0hydrogen gas and a metal salt\u00a0are formed.\nMetal + acid \u2192salt + hydrogen\n2Na\u00a0 +\u00a0 \u00a02HCl\u00a0\u00a0\u2192\u00a0 2NaCl\u00a0 +\u00a0 H\\(_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2295",
+    "text": "Concentrated sodium chloride solution is electrolyzed using mercury cathode and graphite anode. The products at the anode and the cathode respectively are",
+    "options": {
+      "A": "hydrogen and chlorine",
+      "B": "chlorine and hydrogen",
+      "C": "chlorine and sodium",
+      "D": "sodium and chlorine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70304?exam_type=jamb&type=obj&page=459",
+    "correct_answer": "B",
+    "explanation": "When a concentrated sodium chloride solution is electrolyzed using a mercury cathode and graphite anode, the products arehydrogen gas at the cathode and chlorine gas at the anode\nAt the anode, 2Cl\\(^-\\)\u2192\u00a0 Cl\\(_2\\) +\u00a0 2e\\(^-\\)\nAt the cathode, 2H\\(^+\\)\u00a0+\u00a0 2e\\(^-\\)\u00a0\u2192\u00a0 H\\(_2\\)\nDuring the electrolysis, hydrogen and chloride ions are removed from solution whereas sodium and hydroxide ions are left behind in solution. This means that sodium hydroxide is also formed during the electrolysis of sodium chloride solution.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2296",
+    "text": "A factor that does not affect the rate of a chemical reaction is",
+    "options": {
+      "A": "surface area",
+      "B": "temperature",
+      "C": "volume",
+      "D": "catalyst"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70305?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "C",
+    "explanation": "When thesurface areaof a reactant increases, more particles are exposed to the other reactant, which increases the chance of collisions.\u00a0This leads to more successful collisions per second, which increases the rate of reaction.\nWhen thetemperatureof a chemical reaction increases, the average kinetic energy of the reactant molecules increases.\u00a0This causes the molecules to move faster and collide with each other more often and with more energy.\nVolumeitself doesn't directly affect the rate of reaction, changes in volume can affect pressure and, in cases involving gaseous reactants, the equilibrium position, which can indirectly influence the rate of reaction.\nAcatalystis a substance that speeds up a chemical reaction without being used up in the process.\u00a0It does this by providing an alternative reaction pathway with a lower activation energy.\u00a0This means that more reactant molecules can collide effectively, increasing the reaction rate.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2297",
+    "text": "In contact process, the catalyst used in the conversion of sulphur(IV)oxide to sulphur(VI) oxide is",
+    "options": {
+      "A": "nickel",
+      "B": "platinum",
+      "C": "vanadium(V)oxide",
+      "D": "magnesium(IV)oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70306?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "C",
+    "explanation": "The contact process is an industrial method for producing sulphuric acid.\u00a0Vanadium(V) oxide (V\\(_2\\)O\\(_5\\))\u00a0is the catalyst used in the contact process to convert sulphur(IV)oxide to sulphur(VI) oxide\nThe process involves:\nBurning sulphur:\u00a0Molten sulfur is burned in the presence of air to produce sulphur dioxide.Conversion to sulphur trioxide:\u00a0Sulphur dioxide is converted to sulphur trioxide using the catalyst vanadium pentoxide.\u00a0This reaction is exothermic, meaning it releases heat.Formation of oleum:\u00a0Sulphur trioxide is dissolved in a 94% H\\(_2\\)SO\\(_4\\)solution to create oleum, also known as fuming sulphuric acid. Platinum was originally used as the catalyst in the contact process, but vanadium pentoxide is now preferred because it's less likely to react with arsenic impurities in the sulphur feedstock.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2298",
+    "text": "The element which can combine with oxygen to form an acid anhydride of the form XO\\(_2\\) is",
+    "options": {
+      "A": "phosphorus",
+      "B": "Chlorine",
+      "C": "fluorine",
+      "D": "sulphur"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70307?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "D",
+    "explanation": "An Acid anhydride can be defined as\u00a0a non-metal oxide which forms an acidic solution when reacted with water.\nSulphur\u00a0is the element that can combine with oxygen to form an acid anhydride of the form XO\\(_2\\).\nAn acid oxide is a compound that forms an acid when it reacts with water.\u00a0Non-metals in groups 4\u20137 form acidic oxides.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2299",
+    "text": "Rust on the surface of a metal sheet contains",
+    "options": {
+      "A": "hydrated iron(II)oxide",
+      "B": "hydrated iron(III)oxide",
+      "C": "iron(III)hydroxide",
+      "D": "iron(III) trioxocarbonate(IV)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70308?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "B",
+    "explanation": "Rust on a metal sheet contains\u00a0iron oxide, which is a compound made of iron, oxygen, and hydrogen:\nChemical formula:\u00a0The chemical formula for rust isFe\\(_2\\)O\\(_3\\).x H\\(_2\\)Oalso known as hydrated Iron(III) oxide.The chemical equation for the rusting of iron is4Fe + 3O\\(_2\\) + xH\\(_2\\)O \u2192 2Fe\\(_2\\)O\\(_3\\)\u22c5xH\\(_2\\)O\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2300",
+    "text": "A gas that turns lime water milky is likely to be from",
+    "options": {
+      "A": "Trioxocarbonate(IV)",
+      "B": "Chloride",
+      "C": "Trioxonitrate(V)",
+      "D": "Tetraoxosulphate(VI)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70309?exam_type=jamb&type=obj&page=460",
+    "correct_answer": "A",
+    "explanation": "When carbon dioxide gas passes through lime water (Ca(OH)\\(_2\\)), it reacts to form calcium carbonate (CaCO\\(_3\\)), which is a milky substance.CO\\(_2\\) is obtained from Trioxocarbonates(IV).\u00a0Thus, calcium carbonate is a trioxocarbonate(IV).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2301",
+    "text": "When n = 3, the quantum number of an element is",
+    "options": {
+      "A": "3",
+      "B": "9",
+      "C": "18",
+      "D": "21"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70310?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "A",
+    "explanation": "Quantum numbers are a set of numbers that describe the position and energy of an electron in an atom.\nWhen the quantum number is equal to 3, the possible values for the azimuthal quantum number \u00a0are 0, 1, and 2:\nl=0, The resulting subshell is an \"s\" subshell.l =1, The resulting subshell is a \"p\" subshell.l =2: The resulting subshell is a \"d\" subshell.\nThe three possible sub-shells when n=3 are 3s, 3p, and 3d.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2302",
+    "text": "The salt formed when strong acid reacts with strong base is",
+    "options": {
+      "A": "normal",
+      "B": "double",
+      "C": "complex",
+      "D": "basic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70311?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "A",
+    "explanation": "The type of salt that is formed when\u00a0a strong acid reacts\u00a0a strong base is a\u00a0neutral salt which is also a normal salt.\u00a0This is because the strong acid is completely neutralized by the base that is strong in nature. E.g sodium chloride, NaCl.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2303",
+    "text": "The shape of the molecule of Carbon(IV) oxide is",
+    "options": {
+      "A": "tetrahedral",
+      "B": "pyramidal",
+      "C": "plannar",
+      "D": "linear"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70312?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "D",
+    "explanation": "CO\\(_2\\)\u00a0is made up of one carbon atom and two oxygen atoms.\u00a0The molecule's linear shape is due to the arrangement of its atoms and the absence of lone pairs on the central carbon atom.\nThe molecule's linear shape is also due to the cancellation of the charges of the dipole when the molecule is arranged symmetrically.\u00a0The two C=O bonds are polar, but the rest of the molecule is nonpolar.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2304",
+    "text": "\\(^{238}_{92}\\)U\u00a0 + \\(^1_0\\)n\u00a0\u2192\u00a0\\(^{239}_{92}\\)U\u00a0\nThe process above produces",
+    "options": {
+      "A": "atomic mutation",
+      "B": "a radioactive isotope",
+      "C": "other neutrons",
+      "D": "radiations"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70317?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "B",
+    "explanation": "Atomic mutations, or radiation-induced mutations, are\u00a0changes in DNA that occur when ionizing radiation damages DNA in cells.\nRadioactive isotope, any of the species of the same chemical element that have different masses and unstable nuclei that emit radiation.\nRadiation is\u00a0the release of energy from a source in the form of particles or electromagnetic waves that travel through a medium and are absorbed by matter\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2305",
+    "text": "Calculate the mass of Magnesium that will be liberated from its salt by the same quantity of electricity that liberated 16.0 g of Silver.\n[Mg = 24.0, Ag = 108 ]",
+    "options": {
+      "A": "3.65 g",
+      "B": "3.56 g",
+      "C": "1.87 g",
+      "D": "1.78 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70375?exam_type=jamb&type=obj&page=461",
+    "correct_answer": "D",
+    "explanation": "Firstly,\u00a0 \u00a0 Ag\\(^+\\)\u00a0 +\u00a0 \u00a0e\\(^-\\)\u00a0\u00a0\u2192\u00a0 Ag\n1 mole = 1 F = 96,500C x 1\u00a0e\\(^-\\)\n\u21d2\u00a0 \u00a0If\u00a0 96,500C liberates\u00a0 108g of Ag\nx\u00a0 \u00a0 \u00a0 \u00a0will\u00a0 liberate\u00a0 16g of Ag\nx = \\(\\frac{96,500 x 16}{108}\\)\u00a0 =\u00a0 14,296.30 C\ni.e The quantity of electricity that would liberate 16g of Ag which is also the same quantity that will liberate X\u00a0of Mg = 14,296.30 C\nThus,\u00a0 \u00a0 \u00a0Mg\\(^{2+}\\)\u00a0 +\u00a0 \u00a02e\\(^-\\)\u00a0\u00a0\u2192\u00a0 Mg\nIf\u00a0 \u00a0 \u00a02e\\(^-\\)\u00a0 X\u00a0 96,500C\u00a0 liberates 24g of Mg\n14,296.30C\u00a0 will\u00a0 liberate\u00a0\u00a0\u00a0 Xg of Mg\nBy simple proportion, X =\u00a0\\(\\frac{14,296.30\u00a0x 24}{193,000}\\)\n= 1.78g\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2306",
+    "text": "Which of the following is an air pollutant?",
+    "options": {
+      "A": "O\\(_2\\)",
+      "B": "CO",
+      "C": "H\\(_2\\)O\\((_g\\))",
+      "D": "O\\(_3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70376?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "B",
+    "explanation": "Carbon monoxide (CO) is an air pollutant.\u00a0It's a common air pollutant that's also known as a deadly household gas.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2307",
+    "text": "The volume in cm\\(^3\\) of a 0.12 moldm\\(^{-3}\\) HCl required to completely neutralize a 20cm\\(^3\\) of 0.20\u00a0moldm\\(^{-3}\\) of NaOH is",
+    "options": {
+      "A": "12.00",
+      "B": "0.0012",
+      "C": "33.33",
+      "D": "2.40"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70377?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "C",
+    "explanation": "First, write a balanced equation and ensure the stoichiometry is in order:\nHCl\u00a0 \u00a0+\u00a0 NaOH\u00a0\u00a0\u2192\u00a0 NaCl\u00a0 +\u00a0 H\\(_2\\)O\nFollowing the reaction above, the mole ratio is 1 : 1\nGiven:\nConcentration of Acid, C\\(_A\\) = 0.12moldm\\(^{-3}\\),\u00a0 Volume of Acid, V\\(_A\\) = ?\nConcentration of Base, C\\(_B\\) = 0.20\u00a0moldm\\(^{-3}\\)\u00a0 Volume of Base, V\\(_B\\) =\u00a020cm\\(^3\\)\nUsing the relation,\u00a0\u00a0C\\(_A\\)V\\(_A\\) =\u00a0C\\(_B\\)V\\(_B\\)\nV\\(_A\\) = \\(\\frac{C_BV_B}{C_A}\\)\n=\u00a0\\(\\frac{0.20 \\times\u00a020}{0.12}\\)\n= 33.33cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2308",
+    "text": "Fog is a colloid in which",
+    "options": {
+      "A": "liquid particles is dispersed in a gas medium",
+      "B": "gas particles dispersed in a liquid medium",
+      "C": "solid particles dispersed in a gas medium",
+      "D": "gas particles dispersed in a solid medium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70378?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "A",
+    "explanation": "Fog is\u00a0a thick cloud of tiny water droplets or ice crystals that forms near the ground, making it difficult to see.\u00a0Fog is a colloidal solution, which is a mixture where one substance is evenly dispersed in another.\u00a0In fog, the dispersed phase is liquid, and the dispersion medium is gas.\u00a0Fog is also known as a liquid aerosol.\n- Liquid particle dispersed in gas medium isFog\n- Gas particles dispersed in liquid isFoam or lather\n- Solid particles dispersed in gas issmoke\n- gas\u00a0particles dispersed in solid\u00a0issolid sols\n- Liquid dispersed in liquid isemulsion\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2309",
+    "text": "Determine the empirical formula of an oxide of sulphur\u00a0containing 60% of oxygen\u00a0\n[S = 32, O = 16 ]",
+    "options": {
+      "A": "SO\\(_3\\)",
+      "B": "SO\\(_2\\)",
+      "C": "SO\\(_4\\)",
+      "D": "SO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70379?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "A",
+    "explanation": "Oxide of Sulphur means the compound formed is bonding between Sulphur and Oxygen.\nAlso, if the compound contains 60% Oxygen, then it must contain 40% Sulphur\nElements\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 S\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 O\n%by mass of atoms\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 40\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 60\nDivide\u00a0by their masses\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0\\(\\frac{40}{32}\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\\(\\frac{60}{16}\\)\n1.25\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3.75\nDivide through\u00a0by smaller value\u00a0 \u00a0 \u00a0 \\(\\frac{1.25}{1.25}\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0\\(\\frac{3.75}{1.25}\\)\n1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 :\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3\nEmpirical formula\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0SO\\(_3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2310",
+    "text": "The scientist that performed the experiment on discharged tubes that led to the discovery of the cathode rays as a sub-atomic particle is",
+    "options": {
+      "A": "J.J Thomson",
+      "B": "Robert Millikan",
+      "C": "Ernest Rutherford",
+      "D": "Niels Bohr"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70380?exam_type=jamb&type=obj&page=462",
+    "correct_answer": "A",
+    "explanation": "J.J.\u00a0Thomson\u00a0performed the cathode ray tube (CRT) experiment that led to the discovery of the electron and cathode rays as subatomic particles.\nRobert Millikan succeeded inprecisely determining the magnitude of the electron's charge.Millikan's discovery that electron charge can be quantified led to an accepted value for e\\(^-\\), which is now a fundamental scientific constant.\nErnest Rutherford discovered\u00a0alpha and beta rays, set forth the laws of radioactive decay, and identified alpha particles as helium nuclei.\nBohr's model of the atom describes how electrons orbit a nucleus in defined energy levels.\u00a0Electrons can move between orbits by absorbing or emitting energy.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2311",
+    "text": "In the treatment of water for municipal supply, chlorine is used to",
+    "options": {
+      "A": "prevent tooth decay",
+      "B": "prevent goitre",
+      "C": "kill germs",
+      "D": "remove colour or odour"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70381?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "C",
+    "explanation": "Chlorine kills or inactivates harmful microorganisms that can cause illnesses like cholera, hepatitis, typhoid, and giardiasis. It helps in disinfecting the potable water.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2312",
+    "text": "The combustion of candle under\u00a0limited supply of air forms",
+    "options": {
+      "A": "water and CO\\(_2\\)",
+      "B": "water and CO",
+      "C": "soot and CO",
+      "D": "soot and CO\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70382?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "C",
+    "explanation": "When a candle burns in a limited supply of air,\u00a0it undergoes incomplete combustion, producingcarbon (soot)andcarbon monoxide (CO)instead of carbon dioxide and water.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2313",
+    "text": "A major effect of oil pollution in coastal water is",
+    "options": {
+      "A": "destruction of aquatic life",
+      "B": "nitrification of the water body",
+      "C": "detoxification of water",
+      "D": "disinfection of the water body"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70383?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "A",
+    "explanation": "Aquatic animals need oxygen to survive.\u00a0Oil spills can have a severe impact on aquatic life, causing a drastic reduction in the number of aquatic animals. The oil spills tend to hinder dissolved oxygen transfer in the water.Even small amounts of hydrocarbons can prevent oxygen from transferring in the water column.The oil layer directly can also cause the dissolved oxygen level in the water to become low due to theobstruction of the diffusion process from the air.\nNitrification in water bodies is caused by\u00a0nitrifying bacteria converting ammonia and other nitrogen compounds into nitrite and nitrate.\u00a0This process is affected by several environmental factors, including temperature, oxygen, pH, and light.\nDetoxification of water is the process of\u00a0removing harmful components from wastewater.\u00a0This process is necessary to treat water and wastewater that contain toxic compounds that can harm human health and the environment.\nWater disinfection occurs when\u00a0physical or chemical processes disrupt the cell walls or membranes of microorganisms.\u00a0This prevents the microorganisms from multiplying and causes them to die.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2314",
+    "text": "The substance that reacts with sodium to form alkali and changes white anhydrous copper(II) tetraoxosulphate (VI) to blue is",
+    "options": {
+      "A": "base",
+      "B": "acid",
+      "C": "water",
+      "D": "solvent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70384?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "C",
+    "explanation": "When water reacts with alkali metals such as sodium, alkali are formed. The reason they are called alkali metals. Also,\u00a0\u00a0the colour change from white anhydrous copper(II) tetraoxosulphate(VI) to blue hydrated copper(II) tetraoxosulphate(VI) is a way\u00a0of testing for the presence of\u00a0water. This colour change is a simple and effective way to detect the presence of water in a substance or environment.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2315",
+    "text": "\\(^{14}_7\\)N\u00a0 + X \u2192\u00a0\\(^{14}_6\\)C\u00a0 +\u00a0\u00a0\\(^1_1\\)P\nIn the reaction above, X is",
+    "options": {
+      "A": "a proton",
+      "B": "an alpha particle",
+      "C": "a beta particle",
+      "D": "a neutron"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70385?exam_type=jamb&type=obj&page=463",
+    "correct_answer": "D",
+    "explanation": "A nuclear reaction that occurs when an atom is bombarded with a neutron is called a\u00a0neutron bombardment reaction.\u00a0When a nucleus is hit by a neutron, it can split into two or more smaller nuclei, releasing energy in a process called nuclear fission.Neutron has a mass number of 1 and no atomic number.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2316",
+    "text": "An example of a substance that does not change directly from solid to gas when heated is",
+    "options": {
+      "A": "NH\\(_4\\)Cl\\((_s\\))",
+      "B": "I\\(_2\\)\\((_s\\))",
+      "C": "CaCO\\(_3\\) \\((_s\\))",
+      "D": "S\\(_8\\) \\((_s\\))"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70386?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "C",
+    "explanation": "NH\\(_4\\)Cl,\u00a0I\\(_2\\),\u00a0S\\(_8\\) all undergo sublimation. i.e changes from solid to gaseous substances without first changing to liquid, when heated but\u00a0CaCO\\(_3\\) does not.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2317",
+    "text": "When a specie undergoes oxidation, its",
+    "options": {
+      "A": "oxidation number increases",
+      "B": "oxidation number decreases",
+      "C": "oxidation number remains constant",
+      "D": "acts as oxidizing agent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70387?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "A",
+    "explanation": "Oxidation is\u00a0a chemical reaction that occurs when the oxidation number of an atom increases.\u00a0This means that the atom loses electrons and has a greater positive charge or a lesser negative charge.\u00a0The oxidation number of an atom is a number that represents the degree of oxidation of the atom in a chemical compound.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2318",
+    "text": "Hydrochloric acid is regarded as a strong acid because it",
+    "options": {
+      "A": "ionizes partially",
+      "B": "ionizes completely",
+      "C": "is a mineral acid",
+      "D": "reacts with a base"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70388?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "B",
+    "explanation": "An acid is considered strong if it dissociates completely into ions when mixed with water.\u00a0When hydrochloric acid (HCl) dissolves in water, it dissociates into H\\(^+\\) \u00a0and Cl\\(^-\\) .\u00a0This is different from weak acids, like acetic acid, which only partially dissociate in water.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2319",
+    "text": "The IUPAC nomenclature of the complex K\\(_4\\)Fe(CN)\\(_6\\) is",
+    "options": {
+      "A": "potassium hexacyanoferrate(II)",
+      "B": "potassium hexacyanoferrate(III)",
+      "C": "potassium hexacyanoferrate(IV)",
+      "D": "potassium hexacyanoferrate(VI)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70389?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "A",
+    "explanation": "The naming starts with the first metal which is potassium, followed by the hexacyano (6 moles of Cyanide) and then ferrate (II).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2320",
+    "text": "An example of an amphoteric oxide is",
+    "options": {
+      "A": "P\\(_4\\)O\\(_{10}\\)",
+      "B": "Al\\(_2\\)O\\(_3\\)",
+      "C": "CuO",
+      "D": "K\\(_2\\)O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70390?exam_type=jamb&type=obj&page=464",
+    "correct_answer": "B",
+    "explanation": "Amphoteric oxides are\u00a0metal oxides that can behave as both acidic and basic oxides.\u00a0They react with acids and bases to produce water and salts.\u00a0When dissolved in water, amphoteric oxides form alkaline solutions that contain hydroxide ions. E.g ZnO,\u00a0Al\\(_2\\)O\\(_3\\),PbO etc\nThe chemical reactions\nAl\\(_2\\)O\\(_3\\) + 6HCl \u2192 2AlCl\\(_3\\) + 3H\\(_2\\)O\u00a0 \u00a0andAl\\(_2\\)O\\(_3\\)\u00a0+ 2NaOH \u2192 2NaAlO\\(_2\\) + H\\(_2\\)O\u00a0 show thatAl\\(_2\\)O\\(_3\\) is amphoteric.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2321",
+    "text": "The term that is not associated with petroleum industry is ?",
+    "options": {
+      "A": "Cracking",
+      "B": "Saponification",
+      "C": "Polymerization",
+      "D": "Fermentation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70391?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "D",
+    "explanation": "Cracking, saponification and polymerization are all terminologies associated with the petroleum industry but fermentation is associated with the brewery industry.\nCracking is\u00a0a chemical process that breaks down heavy hydrocarbon molecules into lighter, more useful ones.\nSaponification is\u00a0a chemical reaction that converts fats and oils into soap.\u00a0It's not directly involved in petroleum, but it can be used to analyze petroleum products.\nPolymerization is\u00a0a process in the petroleum industry that converts light olefin gases into higher molecular weight hydrocarbons.\nFermentation is\u00a0the process in which a substance breaks down into a simpler substance. Microorganisms like yeast and bacteria usually play a role in the fermentation process, creating beer, wine, bread,yogurt and other foods.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2322",
+    "text": "Kerosene is used as solvent for",
+    "options": {
+      "A": "Paints",
+      "B": "Sulphur",
+      "C": "Gums",
+      "D": "Fats"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70392?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "Kerosene can thin synthetic and synthetic oil paints to make them spread more easily and shine more.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2323",
+    "text": "A typical chemical reaction will be spontaneous if",
+    "options": {
+      "A": "enthalpy change is negative",
+      "B": "free energy change is greater than one",
+      "C": "entropy change is zero",
+      "D": "enthalpy and free energy change are equal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70393?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "A reaction which is exothermic (\u0394H negative) and results in an increase in the entropy of the system (\u0394S positive)will always be spontaneous. Also, if\u0394G is negative,the reaction will be spontaneous because the reaction can take place on it's own without any external source.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2324",
+    "text": "The indicator used in a\u00a0titration\u00a0between strong acid\u00a0and weak base is",
+    "options": {
+      "A": "methyl orange",
+      "B": "phenolphthalein",
+      "C": "bromothymol blue",
+      "D": "methyl red"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70394?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "The indicator used in a\u00a0titration\u00a0betweenstrong acidandweak baseismethylorangewhilephenolphthaleinis used in a titration betweenstrong baseandweak acid.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2325",
+    "text": "Nitrogen obtained from air is not absolutely pure because it contains the following except",
+    "options": {
+      "A": "oxygen",
+      "B": "carbon (IV)oxide",
+      "C": "inert gases",
+      "D": "water vapour"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70395?exam_type=jamb&type=obj&page=465",
+    "correct_answer": "A",
+    "explanation": "Nitrogen obtained from air is not absolutely pure because it contains other gases, including:\nCarbon dioxide:\u00a0Makes up less than 0.04% of the atmosphere, but is important environmentallyArgon:\u00a0A component of air - one of the inert gases (0.93%)Water vapour.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2326",
+    "text": "Solubility curve is a plot of solubility against",
+    "options": {
+      "A": "temperature",
+      "B": "pressure",
+      "C": "volume",
+      "D": "concentrate"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70396?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "A",
+    "explanation": "A solubility curve is a graph that plots the relationship between the\u00a0solubility of a substance and temperature:\nTemperature:\u00a0Plotted on the X-axisSolubility:\u00a0Plotted on the Y-axis, measured in grams of solute per 100 grams of water\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2327",
+    "text": "If 11.0g of a gas occupies 5.6 dm\\(^3\\) at s.t.p., calculate its vapour density (1 mole of a gas occupies 22.4 dm\\(^3\\)).",
+    "options": {
+      "A": "22",
+      "B": "44",
+      "C": "66",
+      "D": "88"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70397?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "A",
+    "explanation": "If\u00a0 11.0g\u00a0 occupies\u00a0 5.6 dm\\(^3\\)\nx\u00a0 \u00a0will\u00a0occupy 22.4\u00a0dm\\(^3\\)\nx = \\(\\frac{11\\times 22.4}{5.6}\\)\nx = 44g\nBut Molecular mass = 2 x\u00a0 Vapour density\n44\u00a0 = 2 x Vapour density\nVapour density =\u00a0\u00a0 \\(\\frac{44}{2}\\) = 22\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2328",
+    "text": "The Van der waals\u00a0forces of attraction operates between",
+    "options": {
+      "A": "atoms",
+      "B": "cations",
+      "C": "molecules",
+      "D": "anions"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70398?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "C",
+    "explanation": "Van der Waals forces of attraction operate betweenmoleculesthat are very close together.\u00a0They can occur between polar molecules with permanent dipoles and non-polar molecules, or between molecules with permanent dipoles and molecules without permanent dipoles.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2329",
+    "text": "The electronic configuration of an atom of Nitrogen is 1s\\(^2\\) 2s\\(^2\\) 2p\\(^1_x\\)\u00a02p\\(^1_y\\)\u00a02p\\(^1_z\\) because the atom is",
+    "options": {
+      "A": "in an excited state",
+      "B": "undergoing energy changes",
+      "C": "unstable and ready to combine with another",
+      "D": "simply obeying rules governing electron configuration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70399?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "D",
+    "explanation": "The rules governing electron configuration are the\u00a0Aufbau principle, Pauli's exclusion principle, and Hund's rule:\nAufbau principle:\u00a0Electrons fill the lowest energy orbitals first.Pauli's exclusion principle:\u00a0No two electrons can have the same spin in one orbital.\u00a0Each orbital can hold a maximum of two electrons with opposite spins.Hund's rule:\u00a0Electrons fill empty orbitals singly before pairing up in the same sub-levels.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2330",
+    "text": "The reaction of hydrogen and chlorine to produce hydrogen chloride gas is explosive in",
+    "options": {
+      "A": "diffused light",
+      "B": "sunlight",
+      "C": "infrared light",
+      "D": "Raman light"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70400?exam_type=jamb&type=obj&page=466",
+    "correct_answer": "B",
+    "explanation": "In direct sunlight, the formed product hydrogen chloride gets protonated which results in an explosion. This reaction is a free radical substitution reaction.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2331",
+    "text": "The term strong and weak acids is used to indicate the",
+    "options": {
+      "A": "number of H\\(^+\\) released by an acid",
+      "B": "number of OH\\(^-\\) released by an acid",
+      "C": "extent of ionization of an acid",
+      "D": "strength of its action on substance"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70401?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "C",
+    "explanation": "The terms \"strong\" and \"weak\" are used to describe\u00a0the extent to which an acid dissociates into ions in an aqueous solution.\nStrong acid: An acid that completely dissociates into ions in water.\u00a0For example, hydrogen chloride (HCl) is a strong acid because it ionizes completely into hydrogen ions and chloride ions in water.Weak acid: An acid that only slightly dissociates into ions in water.\u00a0For example, acetic acid is a weak acid because it only dissociates about 5% into ions in water\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2332",
+    "text": "The main constituent of water-glass is",
+    "options": {
+      "A": "calcium trioxosilicate(IV)",
+      "B": "calcium trioxosulphate(IV)",
+      "C": "sodium trioxosulphate(IV)",
+      "D": "sodium trioxosilicate(IV)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70402?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "D",
+    "explanation": "Water glass, also known as sodium silicate or alkali silicate glass, is a glassy solid made up of sodium oxide (Na\\(_2\\)O) and silica (silicon dioxide, SiO\\(_2\\)).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2333",
+    "text": "Which of the following represents an order of increasing reactivity?",
+    "options": {
+      "A": "Au < Cu < Sn < Fe < Ca",
+      "B": "Ca < Fe < Sn < Cu < Au",
+      "C": "Au < Cu < Fe < Sn < Ca",
+      "D": "Ca < Sn < Fe < Cu < Au"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70403?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "A",
+    "explanation": "The order of reactivity of metals, from most to least reactive, is:\nPotassium:\u00a0Most reactive and easily forms positive ionsSodium:\u00a0Second most reactiveLithium:\u00a0Third most reactiveCalcium:\u00a0Fourth most reactiveMagnesium:\u00a0Fifth most reactiveAluminum:\u00a0Sixth most reactiveZinc:\u00a0Seventh most reactiveIron:\u00a0Eighth most reactiveTin: Ninth most reactiveLead: Tenth most reactiveHydrogen: Eleventh most reactiveCopper:\u00a0\u00a0Twelfth most\u00a0reactiveSilver: Thirteenth\u00a0most reactiveGold: fourteenth\u00a0most reactivePlatinum: Fifteenth\u00a0most reactive\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2334",
+    "text": "An oxide of nitrogen that can rekindle a glowing splint is",
+    "options": {
+      "A": "nitrogen(I)oxide",
+      "B": "nitrogen(II)oxide",
+      "C": "nitrogen(IV)oxide",
+      "D": "dinitrogen tetraoxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70412?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "A",
+    "explanation": "Nitrogen(I)oxide (nitric oxide)rekindles a brightly glowing splint just like oxygen does. This similarity is because both nitric oxide and oxygen support combustion.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2335",
+    "text": "In a chemical reaction, surface area of reactants can affect",
+    "options": {
+      "A": "CaCO\\(_3\\) + 2HCl \u2192  CaCl\\(_2\\) + H\\(_2\\)O +  CO\\(_2\\)",
+      "B": "MgCl\\(_2\\) + H\\(_2\\)SO\\(_4\\) \u2192 MgSO\\(_4\\) + 2HCl",
+      "C": "H\\(_2\\) + Cl\\(_2\\) \u2192  2HCl",
+      "D": "NaOH  + HCl  \u2192  NaCl  +  H\\(_2\\)O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70416?exam_type=jamb&type=obj&page=467",
+    "correct_answer": "A",
+    "explanation": "The surface area of reactants affects the rate of a reaction between limestone and hydrochloric acid because\u00a0it increases the number of collisions between the particles of the reactants.\u00a0For example, if you have a large marble chip of calcium carbonate and hydrochloric acid, the acid can't reach all the calcium carbonate in the middle of the chip.\u00a0If you break the marble chip into smaller pieces, you'll have a larger surface area for the acid to react with, and the reaction will happen faster.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2336",
+    "text": "C\\(_2\\)H\\(_{4(g)}\\)\u00a0 +\u00a0 3O\\(_{2(g)}\\)\u00a0\u2192 2CO\\(_{2(g)}\\)\u00a0 +\u00a0 2H\\(_2\\)O\\(_{(g)}\\)\nThe above equation represents the combustion of ethene.If 10cm\\(^3\\)\u00a0of ethene is burnt in 50cm\\(^3\\)\u00a0of oxygen, what would be the volume of oxygen that would remain at the end of the reaction?",
+    "options": {
+      "A": "20cm\\(^3\\)",
+      "B": "40cm\\(^3\\)",
+      "C": "60cm\\(^3\\)",
+      "D": "50cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70417?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "A",
+    "explanation": "Gay Lussac\u2019s Law of Combining Volumes states that when gases react, they do so in volumes which bear a simple ratio to one another, and to the volume of the product(s) formed if gaseous, provided the temperature and pressure remain constant.\nC\\(_2\\)H\\(_{4(g)}\\)\u00a0 +\u00a0 3O\\(_{2(g)}\\)\u00a0\u2192 2CO\\(_{2(g)}\\)\u00a0 +\u00a0 2H\\(_2\\)O\\(_{(g)}\\)\n1 mole\u00a0 \u00a0 \u00a0 :\u00a0 \u00a0 \u00a0 \u00a03 moles\nTotal volume required:\u00a0 \u00a0 \u00a010 cm\\(^3\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 50 cm\\(^3\\)\nReacted Volume:\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10 cm\\(^3\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 30\u00a0cm\\(^3\\)\nResidual volume:\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a00\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 (50 - 30) = 20\u00a0cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2337",
+    "text": "The hybridization scheme in ethyne is",
+    "options": {
+      "A": "sp",
+      "B": "sp\\(^3\\)",
+      "C": "sp\\(^2\\)d",
+      "D": "sp\\(^2\\)s"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70418?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "A",
+    "explanation": "The hybridization scheme in ethyne is sp.\u00a0In ethyne, each carbon atom's 2s orbital combines with one of its 2p orbitals to form two sp hybrid orbitals.\u00a0The frontal lobes of these orbitals face away from each other, resulting in a straight line.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2338",
+    "text": "An organic compound with general formula RCOR' is an",
+    "options": {
+      "A": "alkanone",
+      "B": "alkanal",
+      "C": "alkanoate",
+      "D": "alkanoic acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70419?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "A",
+    "explanation": "An organic compound with the general formula RCOR' is an alkanone, which is a type of ketone.\nKetones:\u00a0Have the general formula RCOR' and contain a carbonyl group, which is a carbon atom double-bonded to an oxygen atom.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2339",
+    "text": "The amount of Faraday required to discharge 4.5 moles of Al\\(^{3+}\\) is",
+    "options": {
+      "A": "13.5",
+      "B": "4.5",
+      "C": "7.5",
+      "D": "1.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70420?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "A",
+    "explanation": "Firstly, Al\\(^{3+}\\) +\u00a03e\\(^-\\)\u00a0\u00a0\u2192\u00a0 Al\n1 mole of Al =\u00a0 1F X\u00a0 3e\\(^-\\)\n1mole\u00a0 \u00a0=\u00a0 \u00a03F\n4.5moles =\u00a0 X\nX = 4.5 X 3 = 13.5 F\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2340",
+    "text": "The reaction between alkanoic acids and alkanols in the presence of an acid catalyst is known as",
+    "options": {
+      "A": "saponification",
+      "B": "dehydration",
+      "C": "esterification",
+      "D": "hydrolysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70421?exam_type=jamb&type=obj&page=468",
+    "correct_answer": "C",
+    "explanation": "The reaction between alkanoic acids and alkanols in the presence of an acid catalyst is called\u00a0esterification:\nEsterification is a chemical reaction that combines an alcohol (ROH) and an organic acid (RCOOH) to form an ester (RCOOR) and water.\u00a0The reaction can be catalyzed by an acid or a base.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2341",
+    "text": "C\\(_x\\)H\\(_y\\)O + 5O\\(_2\\)\u00a0\u00a0\u2192\u00a0 4CO\\(_2\\)\u00a0 +\u00a0 4H\\(_2\\)O\nC\\(_x\\)H\\(_y\\)O in the equation is",
+    "options": {
+      "A": "CH\\(_2\\)O",
+      "B": "C\\(_2\\)H\\(_6\\)O",
+      "C": "CH\\(_4\\)O",
+      "D": "C\\(_2\\)H\\(_4\\)O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70429?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "D",
+    "explanation": "C\\(_x\\)H\\(_y\\)O + 5O\\(_2\\)\u00a0\u00a0\u2192\u00a0 4CO\\(_2\\)\u00a0 +\u00a0 4H\\(_2\\)O\nOn balancing the equation, we should have\nX = 4 , y = 8\u00a0 and O = 2\u00a0\u00a0\u21d2\u00a0 \u00a0C\\(_4\\)H\\(_8\\)O\\(_2\\)\nSince 2 is a common factor to the three atoms, we can divide through by 2, considering the fact that that formula is not in the option.\nWe finally have\u00a0\u00a0C\\(_2\\)H\\(_4\\)O\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2342",
+    "text": "Alkylation of benzene is catalyzed by",
+    "options": {
+      "A": "palladium",
+      "B": "nickel",
+      "C": "sunlight",
+      "D": "aluminium chloride"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70432?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "D",
+    "explanation": "Alkylation is the process of substituting an alkyl group into a benzene ring, replacing a hydrogen on the ring with a group like methyl or ethyl.\nAlkylation of benzene can be catalyzed by a number of substances, including:\nAluminum chloride:\u00a0A common catalyst for the Friedel-Crafts alkylation of benzene.\u00a0Aluminum chloride acts as a Lewis acid, coordinating with halogens to generate an electrophile.Fluorinated alumina:\u00a0Catalyzes the alkylation of benzene with propylene.Methyl- and ethylsilanes:\u00a0Catalyze the alkylation of benzene with ethylene and propylene.Acidic zeolite catalysts:\u00a0Such as mordenite, which can be used to alkylate benzene with 1-dodecene.Boron trifluoride:\u00a0Catalyzes the alkylation of benzene with 2-propanol, forming a carbocation intermediate that attaches to the benzene ring\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2343",
+    "text": "Benzene formed nitrobenzene\u00a0at temperature of 60\\(^0\\)C\u00a0when it reacts with mixture of concentrated trioxonitrate(V) acid and concentrated",
+    "options": {
+      "A": "phosphoric acid",
+      "B": "hydrochloric acid",
+      "C": "tetraoxosulphate(VI) acid",
+      "D": "hydrogen iodide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70434?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "C",
+    "explanation": "Benzene reacts with a mixture of concentrated nitric acid and concentrated sulphuric acid to form nitrobenzene at a temperature\u00a0not exceeding 60\u00b0C.\u00a0The reaction is known as the nitration of benzene.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2344",
+    "text": "The general molecular formula\u00a0C\\(_n\\)H\\(_{2n-2}\\) represents that of an",
+    "options": {
+      "A": "alkyne",
+      "B": "alkene",
+      "C": "alkane",
+      "D": "alkanal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70439?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "A",
+    "explanation": "The general molecular formula\u00a0C\\(_n\\)H\\(_{2n-2}\\) represents that of an alkyne with its first member as ethyne\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2345",
+    "text": "What accounts for the low\u00a0melting and boiling points of covalent molecules?",
+    "options": {
+      "A": "They have weak intermolecular forces.",
+      "B": "They are three-dimensional structures.",
+      "C": "They have definite shapes.",
+      "D": "They possess shared electron pairs"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70440?exam_type=jamb&type=obj&page=469",
+    "correct_answer": "A",
+    "explanation": "Covalent molecules have low melting and boiling pointsbecause of their\u00a0weak intermolecular forces.The force of attraction between the molecules in a covalent compound is weak, so it takes little energy to break the bonds.\nYes, all covalent compounds have a three-dimensional structure\u00a0due to the directional nature of covalent bonds, which means the atoms within a molecule are arranged in a specific spatial orientation, giving the molecule a definite shape in three dimensions;\u00a0this is explained by the Valence Shell Electron Pair Repulsion (VSEPR) theory.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2346",
+    "text": "After breathing in a test tube that contains acidified K\\(_2\\)Cr\\(_2\\)O\\(_7\\), a man noticed the change in the colour of\u00a0K\\(_2\\)Cr\\(_2\\)O\\(_7\\) from orange to green. This suggests the presence of",
+    "options": {
+      "A": "alkanone",
+      "B": "alkanal",
+      "C": "alkanol",
+      "D": "alkanoic acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70441?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "C",
+    "explanation": "When an alcohol is oxidized in a warm solution of potassium dichromate (VI) and dilute sulphuric acid, the solution changes colour from orange to green.\u00a0This is because the Cr\\(_2\\)O\\(_7\\)\\(^{2-}\\)\u00a0ions in the solution are reduced to Cr\\(^{3+}\\)\u00a0ions.\u00a0This colour change can be used to identify alcohols.\u00a0Only alcohols will cause the solution to change colour from orange to green.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2347",
+    "text": "Hydrochloric acid is not suitable in the preparation of ethanoic acid because it",
+    "options": {
+      "A": "is too acidic",
+      "B": "is too volatile",
+      "C": "can attack cork and rubber used as containers",
+      "D": "turns blue litmus red"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70442?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "B",
+    "explanation": "Hydrochloric acid is not suitable for preparing ethanoic acid because it is\u00a0too volatile.Being too volatile, means\u00a0it has a low boiling point and is easily evaporated. Thus, HCl is not suitable because it cannot carry out the oxidation process required to convert alcohols into acids like ethanoic acid.\nEthanoic acid, also known as acetic acid, is a weak acid that doesn't fully dissociate in water, while hydrochloric acid is a strong acid that dissociates almost completely.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2348",
+    "text": "A radioactive element of mass 1g has half-life of 2 minutes, what fraction of the substance would have disintegrated after 10 minutes?",
+    "options": {
+      "A": "1/4",
+      "B": "1/8",
+      "C": "1/16",
+      "D": "1/32"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70443?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{Original mass}{2^n}\\)\u00a0 =\u00a0 \u00a0Residual mass\nWhere n = number of activity =\u00a0 \\(\\frac{exposure\u00a0 time}{half\u00a0 life}\\)\nGiven:\nOriginal mass = 1g, exposure time = 10 minutes\u00a0, half life = 2\u00a0minutes, Residual mass = ?\nSubstituting all the given parameters appropriately, we have\nn =\u00a0\\(\\frac{10}{2}\\)\nn = 5\n\\(\\frac{Original\u00a0 mass}{2^n}\\)\u00a0=\u00a0 \u00a0Residual mass\n\\(\\frac{1}{2^5}\\)\u00a0 =\u00a0 \u00a0Residual mass\n\\(\\frac{1}{32}\\)\u00a0 \u00a0 \u00a0=\u00a0 \u00a0Residual mass\nResidual mass =\u00a0 \\(\\frac{1}{32}\\) or\u00a00.03125g\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2349",
+    "text": "Hydrogen chloride gas and ammonia can be used to demonstrate the fountain experiment because they are",
+    "options": {
+      "A": "light",
+      "B": "volatile",
+      "C": "very soluble in water",
+      "D": "heavy gases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70444?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "C",
+    "explanation": "The fountain experiment demonstrates the solubility of gases in water. Hydrogen chloride gas and ammonia gas are used in the fountain experiment because they are\u00a0both highly soluble in water.\nHydrogen chloride:\u00a0A liquid gas that is highly soluble in water and has an acidic nature.\u00a0The acidic nature of hydrogen chloride is demonstrated in the fountain experiment when the blue litmus solution turns red.\u00a0Also,Ammonia:\u00a0A colourless gas with a pungent smell that is lighter than air\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2350",
+    "text": "In the conductance of aqueous CuSO\\(_4\\) solution, the current carriers are the",
+    "options": {
+      "A": "mobile electrons",
+      "B": "metallic ions",
+      "C": "hydrated ions",
+      "D": "hydrated electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70445?exam_type=jamb&type=obj&page=470",
+    "correct_answer": "C",
+    "explanation": "The current carriers in an aqueous copper sulphate (CuSO\\(_4\\)) solution are\u00a0ions.\u00a0When copper sulphate is dissolved in water, it dissociates into ions that can carry an electric charge.\u00a0These ions are the current carriers in the solution.\nWhen dissolved in water as part of CuSO\\(_4\\), \"Cu\\(^{2+}\\)\" is considered a\u00a0hydrated ion\u00a0because it is surrounded by water molecules in solution, forming a complex ion like [Cu(H\\(_2\\)O)\\(_6\\)]\\(^{2+}\\).\n\"Cu\\(^{2+}\\)\" itself represents the copper metal ion, which is considered a metallic ion, but when in aqueous solution, it readily forms bonds with water molecules, becoming a hydrated ion.\u00a0This means the copper ion is not simply \"Cu2+\" but is surrounded by water molecules, forming a complex ion like [Cu(H\\(_2\\)O)\\(_6\\)]\\(^{2+}\\)..",
+    "year": "2024"
+  },
+  {
+    "number": "2351",
+    "text": "A type of isomerism that ClCH=CHCl\u00a0can exhibit is",
+    "options": {
+      "A": "chain",
+      "B": "positional",
+      "C": "functional group",
+      "D": "optical"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70446?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "B",
+    "explanation": "ClCH=CHCl can exhibit geometrical isomerism and\u00a0positional isomerism.\u00a0ClCH=CHCl can exhibit positional isomerism because the positions of the functional groups or substituent atoms are different.\u00a0Positional isomerism occurs when compounds with the same molecular formula have different properties due to the difference in the position of a functional group, multiple bond, or branched chain.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2352",
+    "text": "The basicity of tetraoxophosphate(V) acid is",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70447?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "D",
+    "explanation": "The basicity of tetraoxophosphate(V) acid, or H\\(_3\\)PO\\(_4\\), is\u00a03, making it a tribasic acid.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2353",
+    "text": "Which of the following is used in forming slag in the blast furnace for the extraction of iron?",
+    "options": {
+      "A": "Ca(CO\\(_3\\) )\\(_2\\)",
+      "B": "Ca(OH)\\(_2\\)",
+      "C": "CaCO\\(_3\\)",
+      "D": "CaO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70448?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "C",
+    "explanation": "In the extraction of iron, \"slag\" refers to\u00a0a molten, glassy by-product that forms on the surface of the molten iron during the smelting process, primarily composed of impurities like silicon dioxide (from the ore) that react with a flux (like limestone) added to the furnace, effectively separating these impurities from the pure iron and allowing them to be removed as a separate layer;\u00a0essentially, it's a waste product created to remove unwanted materials from the iron ore during extraction.\u00a0Slag is mainlya mixture of metal oxides and silicon dioxide.\nLimestone, CaCO\\(_3\\) is used to form slag in the blast furnace process during the\u00a0extraction of\u00a0iron.\nThe limestone decomposes in the furnace to form calcium oxide (CaO), which then reacts with impurities like silicon dioxide, SiO\\(_2\\) to form calcium silicate, Ca\\(_2\\)SiO\\(_4\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2354",
+    "text": "Calculate the number of moles of Copper that will be deposited, if 2 Faraday\u00a0of electricity is passed through the copper during the electrolysis of copper(II)tetraoxosulphate(VI)\u00a0\n[1F = 96500C ]",
+    "options": {
+      "A": "0.5 mole",
+      "B": "1.0 mole",
+      "C": "2.0 moles",
+      "D": "3.0 moles"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70449?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "B",
+    "explanation": "NB:\u00a0 \u00a0 \u00a0 1F = 1 mole of electrons of the atom of an elementIn the case of copper (Cu), the valency is\u00a02+.\n\u21d2\u00a0 \u00a0 \u00a0 Cu\\(^{2+}\\)\u00a0 + 2e\\(^-\\)\u00a0\u2192\u00a0 CuSo,\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2F = 1 mole of Cu\nthen,\u00a0 \u00a0 \u00a0 \u00a02F = x mole\nx = \\(\\frac{2\\times1}{2}\\)\nx =\u00a0 1 mole\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2355",
+    "text": "The volume occupied by 1 mole of an ideal gas at a temperature of 13\\(^0\\)C and a pressure of 1.58 atm is\u00a0\n[ R = 0.082 atm dm\\(^3\\) K\\(^{-1}\\)mol\\(^{-1}\\) ]",
+    "options": {
+      "A": "14.84 dm\\(^3\\)",
+      "B": "14.84 cm\\(^3\\)",
+      "C": "0.64 dm\\(^3\\)",
+      "D": "0.64 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70450?exam_type=jamb&type=obj&page=471",
+    "correct_answer": "A",
+    "explanation": "According to the Ideal gas equation, PV = nRT\nGiven: P = 1.58 atm, V = ?,\u00a0 n = 1 mole, R = 0.082,\u00a0 T= 13 + 273K = 286K\nSubstituting all the given parameters,\nV\u00a0 = \\(\\frac{nRT}{P}\\)\nV =\u00a0\u00a0\\(\\frac{1\\times0.082\\times286}{1.58}\\)\nV = 14.84 dm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2356",
+    "text": "If a salt weighs 2g and upon exposure to the atmosphere weighs 1.5g, this is as a result of",
+    "options": {
+      "A": "hygroscopy",
+      "B": "effervescence",
+      "C": "efflorescence",
+      "D": "deliquescence"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70451?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "C",
+    "explanation": "If a salt weighs 2g and upon exposure to the atmosphere weighs 1.5g, it simply means it has lost some moisture content from it.\u00a0 This process is called efflorescence.\nEfflorescence is the process by which a hydrated salt loses water spontaneouslywhen the aqueous vapour pressure of the hydrate is greater than the partial pressure of water vapour in the air.This causes the salt to lose all or part of its water of hydration, resulting in a powdery appearance on its surface.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2357",
+    "text": "The compound of Copper used as a fungicide is",
+    "options": {
+      "A": "CuCO\\(_3\\)",
+      "B": "Cu(NO\\(_3\\))\\(_2\\)",
+      "C": "CuSO\\(_4\\)",
+      "D": "CuCl\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70452?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "C",
+    "explanation": "CuCO\\(_3\\), is\u00a0primarily used as a pigment in paints, ceramics, and fireworks\u00a0due to its distinctive green colour, and is also utilized in agriculture as a fungicide and pesticide, as well as in some industrial applications like wood preservation and catalyst production;\u00a0essentially,its main uses are as a colourant and in various chemical reactions as a precursor to other copper compounds.\nCu({NO\\(_3\\)})2, also known as copper(II) nitrate, is\u00a0primarily used as a source of copper ions in various applications, including: catalysis in organic chemistry, electroplating,textile dyeing, ceramic glazes, pyrotechnics, analytical chemistry, and as a component in some metal patinas;\nCuSO\\(_4\\), also known as copper sulphate, is\u00a0primarily used as a fungicide and algaecide in agriculture, controlling unwanted fungi and algae on crops,as well as in water systems like ponds and aquariums;\u00a0it can also be used as a pesticide to kill snails and slugs, and in some cases as a soil additive to correct copper deficiencies in the soil.\nCuCl\\(_2\\), also known as Copper(II) chloride, is\u00a0primarily used as a catalyst in chemical reactions, including applications in the textile industry as a mordant, in the petroleum industry as a deodorizer and purifying agent, as a wood preservative, and in photography as a fixer;\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2358",
+    "text": "The percentage of hydrogen in the sixth member of the class of the aliphatic alkanes is\u00a0 [H =1, C =12 ]",
+    "options": {
+      "A": "41.34",
+      "B": "59.54",
+      "C": "16.28",
+      "D": "83.72"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70453?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "C",
+    "explanation": "The sixth member of the class of the aliphatic alkanes is Hexane with the molecular formular C\\(_6\\)H\\(_{14}\\)\nPercentage by mass of Hydrogen =\u00a0 \\(\\frac{mass of Hydrogen in compound}{Total mass of compound}\\)\\(\\times 100\\)\nTotal mass of compound,\u00a0C\\(_6\\)H\\(_{14}\\) = (12 x 6)\u00a0+ (1 x14) = 72 + 14 = 86\nMass of Hydrogen in compound = 14(H) = 14\\(\\times 1\\) = 14\n% mass of H =\u00a0\u00a0\\(\\frac{14}{86}\\)\\(\\times 100\\)\n= 16.28%\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2359",
+    "text": "The law which states that a pure chemical compound, no matter how it is made, will be made up of the same elements contained in the same proportion by mass is",
+    "options": {
+      "A": "law of conservation of masses",
+      "B": "law of definite proportion",
+      "C": "law of multiple proportion",
+      "D": "law of reciprocal proportion"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70454?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "B",
+    "explanation": "The law of definite proportions, also known as the law of constant composition, states that a pure chemical compound will always contain the same elements in the same proportion by mass, regardless of how it is made.\nThis law is true for any sample of a compound, regardless of its amount or phase (solid, liquid, or gas).\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2360",
+    "text": "The stability of atomic nucleus is determined by ratio of",
+    "options": {
+      "A": "Neutron/electron",
+      "B": "Neutron/proton",
+      "C": "positron/neutron",
+      "D": "electron/proton"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70455?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "B",
+    "explanation": "Stability of an isotope can be determined by calculating the ratio ofneutrons to protonspresent in a nucleus. Elements having atomic number less than 20, mostly have proton and neutron ratio 1:1.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2361",
+    "text": "25.0g of potassium chloride were dissolved in 80g of distilled water at 30\\(^0\\)C. Calculate the solubility of the solute in mol dm\\(^3\\). [K =39, Cl = 35.5]",
+    "options": {
+      "A": "3.9 moldm\\(^3\\)",
+      "B": "4.6 moldm\\(^3\\)",
+      "C": "4.0 moldm\\(^3\\)",
+      "D": "4.2 moldm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70456?exam_type=jamb&type=obj&page=473",
+    "correct_answer": "D",
+    "explanation": "Solubilty = \\(\\frac{number of moles}{Volume of solvent}\\)\\(\\times 1000\\)\nNumber of moles of KCl =\u00a0\\(\\frac{mass}{Molar mass}\\)\nMolar mass of KCl = 39 + 35.5 = 74.5 g/mol, mass = 25.0g\nNumber of moles of KCl =\u00a0\\(\\frac{25}{74.5}\\) = 0.336 mole\nSolubilty = \\(\\frac{0.336}{80}\\)\\(\\times 1000\\)\n= 4.2\u00a0\u00a0moldm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2362",
+    "text": "An example of a physical change is",
+    "options": {
+      "A": "slaking of lime",
+      "B": "liquefaction of liquids",
+      "C": "dissolution of limestone in acid",
+      "D": "rusting of iron"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70457?exam_type=jamb&type=obj&page=473",
+    "correct_answer": "B",
+    "explanation": "A physical change is a change in the state of matter without changing the composition of the substance.\u00a0During liquefaction, a gas turns into a liquid, but the chemical composition of the gas remains the same. Liquefaction of liquid\u00a0occurs when water-saturated sediments temporarily lose strength and act like a fluid.\nLiquefaction occurs when the physical conditions of a gas change, such as temperature, pressure, or volume.\u00a0For example, increasing the pressure on a gas forces its molecules closer together until they form a liquid.\u00a0Decreasing the temperature of a gas causes its molecules to lose kinetic energy and move more slowly, allowing them to clump together into a liquid.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2363",
+    "text": "The product formed when ethyne is passed through a hot tube containing finely divided iron is",
+    "options": {
+      "A": "polymeric",
+      "B": "saturated",
+      "C": "hydrated",
+      "D": "aromatic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70458?exam_type=jamb&type=obj&page=473",
+    "correct_answer": "D",
+    "explanation": "When ethyne, also known as acetylene (C\u2082H\u2082), is passed through a red-hot iron tube at 873 K, the product formed is benzene.\u00a0This process is called cyclic polymerization. Benzene is an aromatic compound since aromatic compounds aresubstances that consist of one or more rings that contain alternating single and double bondsin its chemical structure.\nThe chemical equation for this reaction is:\u00a03C\\(_2\\)H\\(_2\\) (g) \u2192 C\\(_6\\)H\\(_6\\) (g), where three molecules of ethyne combine to produce one molecule of benzene.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2364",
+    "text": "H\\(_2\\)S\\(_{(g)}\\)\u00a0 +\u00a0 Cl\\(_2\\)\\(_{(g)}\\)\u00a0\u2192 2HCl\\(_{(g)}\\) + S\\(_{(s)}\\)\nWhat is the change in oxidation state of sulphur from reactant to product?",
+    "options": {
+      "A": "-3 to -1",
+      "B": "-3 to 1",
+      "C": "-2 to 0",
+      "D": "-1 to 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70459?exam_type=jamb&type=obj&page=473",
+    "correct_answer": "C",
+    "explanation": "Oxidation state of S in\u00a0 H\\(_2\\)S = 0\nH = +1,\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(+1 X 2) + S = 0\n+ 2 + S = 0\nS = - 2 ( from the reactant)\nAlready, from the equation, S is in solid form,as an element, therefore the oxidation state of elements in their free state is 0\nThe change in oxidation state of sulphur is from - 2 to 0\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2365",
+    "text": "If a stable neutral atom has a mass number of 31, the number of electrons and neutrons respectively are",
+    "options": {
+      "A": "15 and 16",
+      "B": "16 and 31",
+      "C": "15 and 31",
+      "D": "16 and 15"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70460?exam_type=jamb&type=obj&page=473",
+    "correct_answer": "A",
+    "explanation": "The only information we are given is the mass number, so we have to work our answer from the options.\nUsing the elimination method, options B and C are incorrect because when you add the numbers together, they give 47 and 46 respectively which is more than 31.\nWe are left with options A and D. However, the correct answer will be option A, since there are 15 electrons which invariably means, we also have 15 number of protons.\n\u21d2 The element has atomic number of 15 (Phosphorus)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2366",
+    "text": "Scandium is not regarded as a transition metal because its ion has",
+    "options": {
+      "A": "no electron in the d-orbital",
+      "B": "a partially filled d-orbitals",
+      "C": "a completely filled 4S orbital",
+      "D": "a partially filled 4S orbital"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70461?exam_type=jamb&type=obj&page=474",
+    "correct_answer": "A",
+    "explanation": "Scandium is not considered a transition metalbecause its most stable ion has\u00a0no d-electrons.A transition metal is an element that forms an ion with an incomplete d subshell.\u00a0Scandium's most stable ion is Sc\\(^{3+}\\), which has no electrons in its d orbitals.\nExplanation\nScandium's electronic configuration isAr 3d\\(^1\\) 4s\\(^2\\)To form theSc\\(^{3+}\\) ion, scandium loses the two electrons in its 4s shell and one electron in its 3d shell.TheSc\\(^{3+}\\) ion is colourless because it has an empty 3d\u00a0sub-shell, which prevents electronic transitions that produce colour.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2367",
+    "text": "An example of highly unsaturated hydrocarbon is",
+    "options": {
+      "A": "C\\(_2\\)H\\(_2\\)",
+      "B": "CH\\(_4\\)",
+      "C": "C\\(_2\\)H\\(_4\\)",
+      "D": "C\\(_4\\)H\\(_{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70462?exam_type=jamb&type=obj&page=474",
+    "correct_answer": "A",
+    "explanation": "The unsaturated hydrocarbons are the alkenes and the alkynes. However, the alkynes are more highly unsaturated than the alkenes due to their Carbon-Carbon triple bond. Hence,\u00a0C\\(_2\\)H\\(_2\\) is an alkyne\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2368",
+    "text": "Biodegradable pollutants are not safe in water systems because they can cause",
+    "options": {
+      "A": "air pollution",
+      "B": "soil degradation",
+      "C": "ill health",
+      "D": "greenhouse effect"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70463?exam_type=jamb&type=obj&page=474",
+    "correct_answer": "C",
+    "explanation": "Biodegradable pollutants are\u00a0natural organic substances that can be broken down by biological processes into simple, non-toxic products.\u00a0These processes are carried out by microorganisms, such as bacteria and fungi, which are known as decomposers.\u00a0While biodegradable pollutants can break down naturally, they are still not considered safe in water systems because\u00a0their decomposition process can rapidly deplete oxygen levels in the water, leading to issues like fish kills, disrupt the ecosystem balance, and potentially harbour harmful pathogens if not managed properly;\u00a0essentially, the rapid breakdown can create a high demand for oxygen by decomposing microbes, leaving less available for other aquatic life.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2369",
+    "text": "An example of a compound that is acidic in solution is",
+    "options": {
+      "A": "H\\(_3\\)PO\\(_4\\)",
+      "B": "NH\\(_4\\)Cl",
+      "C": "Na\\(_2\\)CO\\(_3\\)",
+      "D": "MgCl\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70464?exam_type=jamb&type=obj&page=474",
+    "correct_answer": "B",
+    "explanation": "H\\(_3\\)PO\\(_4\\) (phosphoric acid) is acidic in solution.\u00a0It's a weak acid, meaning it doesn't fully dissociate into ions when dissolved in water.\u00a0Phosphoric acid can donate three hydrogen ions (H\\(^+\\)) to water, making it a triprotic acid. Also,\u00a0ammonium chloride (NH\\(_4\\)Cl) is acidic in solution.\u00a0This is because NH\\(_4\\)Cl is formed from a strong acid (HCl) and a weak base (NH\\(_3\\)), and the ammonium ion (NH\\(_4\\)\\(^+\\)) acts as a weak acid when dissolved in water, causing the solution to have a lower pH than 7.\nBoth H\\(_3\\)PO\\(_4\\) (phosphoric acid) and NH\\(_4\\)Cl(ammonium chloride) are acidic in solution, but we can say NH\\(_4\\)Cl is more acidic due to the hydrolysis of the ammonium ion.\u00a0H\\(_3\\)PO\\(_4\\) (phosphoric acid) is acidic in solution as well. It's a weak acid, meaning it doesn't fully dissociate into ions when dissolved in water.\nConsequently, we can go for option B.",
+    "year": "2024"
+  },
+  {
+    "number": "2370",
+    "text": "The amount of water a\u00a0substance chemically combined\u00a0with is called water of",
+    "options": {
+      "A": "dehydration",
+      "B": "solution",
+      "C": "hydration",
+      "D": "crystallization"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70465?exam_type=jamb&type=obj&page=474",
+    "correct_answer": "D",
+    "explanation": "The amount of water that is chemically combined with a substance is called\u00a0water of crystallization.\u00a0The substance that contains water chemically combined with it is called a hydrate.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2371",
+    "text": "Heat of solution involves two steps that is accompanied by heat change. The energies involved in this steps are",
+    "options": {
+      "A": "lattice energy and hydration energy",
+      "B": "lattice energy and ionic energy",
+      "C": "Heat energy and lattice energy",
+      "D": "hydration energy and heat energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/70466?exam_type=jamb&type=obj&page=475",
+    "correct_answer": "A",
+    "explanation": "Both lattice energy and hydration energy are involved in heat of solution.\nLattice energy:\u00a0The energy required to break an ionic solid into gaseous ions.Hydration energy:The energy released when ions are separated from a lattice and dissolved in water.\u00a0Hydration enthalpies are always negative.Heat of solution:The heat released when a compound is dissolved. The heat of solution can be calculated by adding the lattice energy and hydration energy:Heat of solution = Lattice energy + Hydration energy\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2372",
+    "text": "The IUPAC name of the compound above is",
+    "options": {
+      "A": "3-methyl, 3-bromo butane",
+      "B": "2-methyl, 2-bromo butane",
+      "C": "2-bromo, 2-methyl butane",
+      "D": "3-bromo, 3-methyl butane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71024?exam_type=jamb&type=obj&page=475",
+    "correct_answer": "C",
+    "explanation": "The longest Carbon chain is 4C atoms which implies the parent name is butane.\nThere are two substituents on C-2. i.e Bromo and Methyl. However, alphabetically, Bromo comes first and we'll have to make reference to it while naming before methyl.\nConsequently, the IUPAC Nomenclature of the compound is2- bromo, 2- methyl butane.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2373",
+    "text": "The shape of ammonia molecule is",
+    "options": {
+      "A": "V-Shaped or bent",
+      "B": "Tetrahedral",
+      "C": "co-plannar",
+      "D": "trigonal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71028?exam_type=jamb&type=obj&page=475",
+    "correct_answer": "D",
+    "explanation": "The ammonia molecule is predicted to have a trigonal pyramidal or distorted tetrahedral shape by the valence shell electron pair repulsion (VSEPR) theory.\u00a0The nitrogen atom at the center of the molecule has five electrons in its valence shell, three of which it shares with the three hydrogen atoms to form bonds.\u00a0The remaining two electrons form a lone pair.\u00a0The lone pair repels the bonding orbitals, which causes the molecule to have a distorted tetrahedral shape.\nConsequently,\u00a0The ammonia molecule (NH\\(_3\\)) has atrigonal pyramidalshape.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2374",
+    "text": "The percentage of carbon(IV) oxide in air is",
+    "options": {
+      "A": "0.01",
+      "B": "0.02",
+      "C": "0.05",
+      "D": "0.03"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71029?exam_type=jamb&type=obj&page=475",
+    "correct_answer": "D",
+    "explanation": "Air is a mixture of gases in the proportion of Nitrogen - 78%, Oxygen - 21%, Carbon(IV) oxide -0.03%, Argon - 1% etc\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2375",
+    "text": "An example of a physical change is",
+    "options": {
+      "A": "exposing sodium metal to air",
+      "B": "boiling of water",
+      "C": "dissolving calcium metal in water",
+      "D": "burning of kerosene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71034?exam_type=jamb&type=obj&page=475",
+    "correct_answer": "B",
+    "explanation": "Boiling water is a physical change. The chemical composition of water remains the same when it boils.\u00a0The chemical formula for water is H\\(_2\\)O, and it remains the same whether the water is a liquid, gas, or solid.\nWhen sodium reacts with oxygen in the air, it breaks bonds in the sodium and oxygen molecules and forms new bonds in sodium oxide and sodium peroxide.\u00a0This process is called oxidation, which is a chemical reaction. This reaction is similar to calcium metal dissolved in water.\nAlso, when kerosene is burnt, you can't recover it anymore, hence it is not easily reversible. It is a chemical change.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2376",
+    "text": "Boyle's law can be expressed mathematically as",
+    "options": {
+      "A": "PV = K",
+      "B": "PV = RT",
+      "C": "V =KT",
+      "D": "\\(\\frac{V}{T}\\) = K"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71047?exam_type=jamb&type=obj&page=476",
+    "correct_answer": "A",
+    "explanation": "Boyle's law states that\u00a0the pressure and volume of a gas have an inverse relationship when the temperature is kept constant.\n\u21d2 P\u221d \\(\\frac{1}{V}\\)\nP = K\\(\\frac{K}{V}\\)\nPV = K\nBoyle's law can be represented mathematically asPV = K, where P = Pressure, V = Volume and K is a constant.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2377",
+    "text": "What is the vapour density of 560cm\\(^3\\) of a gas that weighs 0.4g at s.t.p?\n[Molar Volume of gas at s.t.p = 22.4 dm\\(^3\\) ]",
+    "options": {
+      "A": "6.0",
+      "B": "8.0",
+      "C": "16.0",
+      "D": "32.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71052?exam_type=jamb&type=obj&page=476",
+    "correct_answer": "B",
+    "explanation": "Firstly, Relative Molecular mass = 2 x Vapour Density\nThe challenge is to find the relative molecular mass = Molar mass of the gas\nBut we were given V = 560cm\\(^3\\) , Molar Volume = 22.4 dm\\(^3\\) = 22400cm\\(^3\\) and Mass = 0.4g\nHowever, we can obtain the value for Number of moles, then easily obtain the value for our Molar mass, using mass given.\n\u21d2\u00a0 n = \\(\\frac{V}{M.V}\\) =\u00a0\\(\\frac{560}{22400}\\) = 0.025 mole\nAlso, n\u00a0 =\u00a0\u00a0\\(\\frac{m}{M}\\)\nM =\u00a0\\(\\frac{m}{n}\\) =\u00a0\\(\\frac{0.4}{0.025}\\) = 16.0\nRecall that Molar mass of gas = 2 x V.D\nTherefore, V.D =\u00a0\\(\\frac{16.0}{2}\\) =8.0\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2378",
+    "text": "When the subsidiary quantum numbers (l) equals 1, the shape of the orbital is",
+    "options": {
+      "A": "spherical",
+      "B": "dumb-bell",
+      "C": "flat",
+      "D": "round"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71055?exam_type=jamb&type=obj&page=476",
+    "correct_answer": "B",
+    "explanation": "l = 1 corresponds to p-subshell, P\\(_x\\), P\\(_y\\), P\\(_z\\) and\u00a0the shape of p-orbital is dumb-bell.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2379",
+    "text": "Esterification reaction is analogous to",
+    "options": {
+      "A": "oxidation reaction",
+      "B": "neutralization reaction",
+      "C": "condensation reaction",
+      "D": "hydrolysis reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71056?exam_type=jamb&type=obj&page=476",
+    "correct_answer": "C",
+    "explanation": "Esterification involves an acid and an alcohol, while neutralization involves an acid and a base.It is a condensation reaction, where two molecules combine to form a larger molecule while eliminating a smaller molecule.\u00a0In esterification, an alcohol and a carboxylic acid combine to form an ester and water.\nEsterification is primarily analogous to a condensation reaction, not a neutralization reaction. In a condensation reaction, two molecules combine to form a larger molecule and a small molecule, such as water, is released. Esterification, the reaction between an alcohol and a carboxylic acid to form an ester, fits this definition as it produces water as a byproduct.Neutralization reactions, on the other hand, involve the reaction between an acid and a base, producing salt and water, and are not a direct analogy for esterification. However, if condensation is not in the option, and we have only neutralization present among the options, then Neutralization will be\u00a0the best option.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2380",
+    "text": "The IUPAC Nomenclature of CH\\(_3\\)CH\\(_2\\)C(CH\\(_3\\))=C(CH\\(_3\\))\\(_2\\) for the compound is",
+    "options": {
+      "A": "2,3-dimethylpentene",
+      "B": "2,3-dimethylpent-2-ene",
+      "C": "3,4-dimethylpent-3-ene",
+      "D": "3,4-dimethylpentene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71057?exam_type=jamb&type=obj&page=476",
+    "correct_answer": "B",
+    "explanation": "The parent name isPent-2-enebecause the double bond is on C-2.\nAlso, there are two methyl group on C-2 and C-3, hence we have2,3-dimethyl\nFinally, join together the two, we have2,3-dimethyl pent-2-ene\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2381",
+    "text": "H\\(_2\\)SO\\(_4\\)\nC\\(_2\\)H\\(_5\\)OH\u00a0 \u00a0 \u00a0 \u2192\u00a0 \u00a0 \u00a0 \u00a0 \u00a0C\\(_2\\)H\\(_4\\)\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 170\\(^0\\)C\nThe reaction above illustrates",
+    "options": {
+      "A": "oxidation",
+      "B": "esterification",
+      "C": "dehydration",
+      "D": "polymerization"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/71058?exam_type=jamb&type=obj&page=477",
+    "correct_answer": "C",
+    "explanation": "The dehydration of ethanol is a chemical reaction that produces ethene and water from ethanol:\nThe chemical equation for the dehydration of ethanol is:\nCH\\(_3\\)CH\\(_2\\)OH\u00a0 +\u00a0 H\\(_2\\)SO\\(_4\\) \u2192\u00a0 CH\\(_2\\)=CH\\(_2\\) + H\\(_2\\)O\nThe reaction is performed by heating ethanol with concentrated sulfuric acid at around 170\u00b0C. Sulfuric acid is a dehydrating agent, meaning it absorbs water.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  }
+]

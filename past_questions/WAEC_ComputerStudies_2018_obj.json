@@ -1,0 +1,715 @@
+[
+  {
+    "number": "249",
+    "text": "Data can be defined as?",
+    "options": {
+      "A": "raw facts",
+      "B": "mixed facts",
+      "C": "facts on prints",
+      "D": "processed facts"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62523?exam_type=waec&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "250",
+    "text": "Which of the following output devices was common among the computing devices of the 19th century?",
+    "options": {
+      "A": "Monitor",
+      "B": "Plotter",
+      "C": "Printer",
+      "D": "Speaker"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62525?exam_type=waec&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "251",
+    "text": "The pre-computing age device which made use of beads and frames is?",
+    "options": {
+      "A": "Abacus",
+      "B": "Napier's bone",
+      "C": "Liebnitz multiplier",
+      "D": "Burrough's counting device"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62526?exam_type=waec&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "252",
+    "text": "The system unit houses the following components except?",
+    "options": {
+      "A": "plotter",
+      "B": "motherboard",
+      "C": "floppy disk",
+      "D": "central processing unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62527?exam_type=waec&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "253",
+    "text": "The system unit houses the following components except?",
+    "options": {
+      "A": "plotter",
+      "B": "motherboard",
+      "C": "floppy disk",
+      "D": "central processing unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62528?exam_type=waec&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "254",
+    "text": "During program execution in the central processing unit, the instruction is interpreted by the?",
+    "options": {
+      "A": "arithmetic logic",
+      "B": "control unit",
+      "C": "memory unit",
+      "D": "registers unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62529?exam_type=waec&type=obj&page=51",
+    "correct_answer": "B",
+    "explanation": "Control Unit: The control unit is the section of the CPU that selects, interprets, and sees the execution of program instructions. It controls the input as well as the output.",
+    "year": "2018"
+  },
+  {
+    "number": "255",
+    "text": "The most important system software in a computer system is the?",
+    "options": {
+      "A": "control program",
+      "B": "language translator",
+      "C": "operating system",
+      "D": "utility programs"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62530?exam_type=waec&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "256",
+    "text": "QBASIC keywords do not include?",
+    "options": {
+      "A": "FIND B.",
+      "B": "LET\u00a0C.",
+      "C": "REM\u00a0 D.",
+      "D": "STOP."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62531?exam_type=waec&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "257",
+    "text": "An icon, a graphic or a text in a document or a webpage that connects to another file or object is called a?",
+    "options": {
+      "A": "hyperlink",
+      "B": "domain name",
+      "C": "web browser",
+      "D": "web server"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62532?exam_type=waec&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "258",
+    "text": "The largest component in a spreadsheet is?",
+    "options": {
+      "A": "cell",
+      "B": "range",
+      "C": "workbook",
+      "D": "worksheet"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62533?exam_type=waec&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "The largest component in a spreadsheet is a workbook. A workbook can contain multiple worksheets, each worksheet can contain multiple ranges, and each range can contain multiple cells.",
+    "year": "2018"
+  },
+  {
+    "number": "259",
+    "text": "Warm boot in computing is the same as?",
+    "options": {
+      "A": "debugging",
+      "B": "handshake",
+      "C": "hard boot",
+      "D": "soft boot"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62534?exam_type=waec&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "260",
+    "text": "The basic computer operation involves the following except?",
+    "options": {
+      "A": "Access",
+      "B": "Input",
+      "C": "Output",
+      "D": "Process"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62535?exam_type=waec&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "261",
+    "text": "The file that contains historical record is called a?",
+    "options": {
+      "A": "data file",
+      "B": "master file",
+      "C": "reference file",
+      "D": "transaction file"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62536?exam_type=waec&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "Master Files:Master files are permanent files kept up-to-date by applying the transactions that have occurred during the operation of the business. E.g. customer ledgers, and student databases.",
+    "year": "2018"
+  },
+  {
+    "number": "262",
+    "text": "Random file organisation is also known as?",
+    "options": {
+      "A": "direct file organisation",
+      "B": "indexed file organisation",
+      "C": "serial file organisation",
+      "D": "sequential file organisation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62537?exam_type=waec&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "Random file organization: it is a situation where files are stored at random and unlike the others, a random file can be accessed directly regardless of whether or not the previous records have been accessed therefore a record key is used to make selection easier. It is\u00a0also called a (direct file or a direct access file)",
+    "year": "2018"
+  },
+  {
+    "number": "263",
+    "text": "Which of the following options is not a data type?",
+    "options": {
+      "A": "Alphabetic data",
+      "B": "Alphanumeric data",
+      "C": "Numeric data",
+      "D": "Valid data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62538?exam_type=waec&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "Data types include Alphabetic data, Alphanumeric data, and numeric data. Valid data is not a data type it only indicates the accuracy and reliability of data(s).",
+    "year": "2018"
+  },
+  {
+    "number": "264",
+    "text": "The major components of a computer system are?",
+    "options": {
+      "A": "fimware and humanware",
+      "B": "hardware and firmware",
+      "C": "hardware and software",
+      "D": "software and firmware"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62539?exam_type=waec&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "265",
+    "text": "The largest computer system in terms of processing power is A?",
+    "options": {
+      "A": "laptop computer",
+      "B": "mainframe computer",
+      "C": "minicomputer",
+      "D": "super computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62540?exam_type=waec&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "266",
+    "text": "Figure 1 is a logic gate. Use it to answer the question below.\nThe logic gate represented in Figure 1 is called",
+    "options": {
+      "A": "NAND gate",
+      "C": "NOR gate",
+      "D": "OR gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62541?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "The figure above is an OR gate.",
+    "year": "2018"
+  },
+  {
+    "number": "267",
+    "text": "Identify the logic gate in figure 2",
+    "options": {
+      "A": "AND gate",
+      "B": "NAND gate",
+      "C": "NOR gate",
+      "D": "OR gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62542?exam_type=waec&type=obj&page=54",
+    "correct_answer": "B",
+    "explanation": "The figure above is\u00a0 the NAND gate.",
+    "year": "2018"
+  },
+  {
+    "number": "268",
+    "text": "Which of the following programs is an application specific?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Microsoft Access\u00a0 \u00a0.",
+      "C": "Word",
+      "D": "Payroll system"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62543?exam_type=waec&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "269",
+    "text": "The following programs are general-purpose\u00a0application software except?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Editor",
+      "C": "Ms\u00a0Access",
+      "D": "MS Word"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62544?exam_type=waec&type=obj&page=54",
+    "correct_answer": "B",
+    "explanation": "General-purpose application software is software that can be used for a variety of tasks. In this case, CorelDraw, MS Access, and MS Word are all general-purpose software. An editor, however, is not a general-purpose application software. It is a type of software that is used for editing code or text.",
+    "year": "2018"
+  },
+  {
+    "number": "270",
+    "text": "The following are relational operators in QBASIC?",
+    "options": {
+      "A": "<",
+      "B": ">",
+      "C": "#",
+      "D": "="
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62545?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "271",
+    "text": "The three levels of programming language?",
+    "options": {
+      "A": "assembly language, low\u00a0level language and high level language,",
+      "B": "java, C language and pascal",
+      "C": "machine language low level language and high level language",
+      "D": "machine language, machine code and assembly\u00a0language"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62546?exam_type=waec&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "There are three levels\u00a0of programming languages:machine language(this\u00a0is lowest level of programming language. It handles binary data i.e.0\u2019sand1\u2019s. It directly interacts with system. Machine language is difficult for human beings to understand as it comprises combination of 0\u2019s and 1\u2019s.),assembly language(this\u00a0is a low-level language. It consists of a set of instructions in a specific format calledcommands. It uses symbols to represent field of instructions.), andhigh-level language(this\u00a0\u00a0uses format or language that is most familiar to users. The instructions in this language are calledcodesorscripts. The computer needs a compiler and interpreter to convert high-level language program to machine level language. Examples include C++, Python, Java, etc).",
+    "year": "2018"
+  },
+  {
+    "number": "272",
+    "text": "which of the following network cables offers highest data transmission?",
+    "options": {
+      "A": "Coaxial",
+      "B": "Fibre\u00a0optic",
+      "C": "Telephone line",
+      "D": "Twisted pair"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62547?exam_type=waec&type=obj&page=55",
+    "correct_answer": "B",
+    "explanation": "Fiber optics (optical fibers) are long, thin strands of very pure glass about the size of a human hair. It\u00a0can transmit signals over much longer distances than coaxial and twisted pairs. It also can carry information at vastly greater speeds.",
+    "year": "2018"
+  },
+  {
+    "number": "273",
+    "text": "The following components are network interconnecting devices EXCEPT?",
+    "options": {
+      "A": "hub",
+      "B": "modem",
+      "C": "router",
+      "D": "webcam"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62548?exam_type=waec&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "274",
+    "text": "Which of the following options is\u00a0not an advantage of\u00a0\u00a0linear bus topology?",
+    "options": {
+      "A": "It requires less cable length",
+      "B": "It ensures easy casting",
+      "C": "Additional nodes can be connected\u00a0 easily",
+      "D": "Terminators are required at both ends of the"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62549?exam_type=waec&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "Terminators are required at both ends of the backbone cable is not an advantage of linear bus topology.",
+    "year": "2018"
+  },
+  {
+    "number": "275",
+    "text": "Which of the following components are data communication equipment?\nI. Scanner ll. Hub lIl. Modem",
+    "options": {
+      "A": "I\u00a0and Il only",
+      "B": "I and lll only",
+      "C": "II and IIl only",
+      "D": "I, Il and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62550?exam_type=waec&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "Data communications equipment (DCE) are devices that send and receive digital data in communication systems. They serve as intermediaries that ensure a smooth and reliable flow of digital information between networks. Examples of Data communication equipment are: modems, routers, hubs, bridges, switches, and digital signal processors(DSP)",
+    "year": "2018"
+  },
+  {
+    "number": "276",
+    "text": "The speed of data transfer in the computer can be determined in terms of?",
+    "options": {
+      "A": "protocols and\u00a0\u00a0bus speed",
+      "B": "bus speed and bus width",
+      "C": "bus width and storage media",
+      "D": "bus speed and storage media"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62551?exam_type=waec&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "277",
+    "text": "The process of restarting the computer system is known as?",
+    "options": {
+      "A": "cold booting",
+      "B": "hard booting",
+      "C": "hot bathing",
+      "D": "warm booting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62552?exam_type=waec&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "278",
+    "text": "The ASCII chart control characters using numeric codes ranging from?",
+    "options": {
+      "A": "0 to 124",
+      "B": "0 to 125",
+      "C": "0 to 127",
+      "D": "0 to 128"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62553?exam_type=waec&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "279",
+    "text": "A row in a database table is referred to as?",
+    "options": {
+      "A": "attribute",
+      "B": "data item",
+      "C": "field",
+      "D": "record"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62554?exam_type=waec&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "280",
+    "text": "The conversion of readable data to unreadable codes in order to prevent unauthorised access is known as?",
+    "options": {
+      "A": "authentication",
+      "B": "encryption",
+      "C": "encoding",
+      "D": "decryption"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62555?exam_type=waec&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "281",
+    "text": "The algebraic equation for the AND gate with input variables A and B is?",
+    "options": {
+      "A": "X = B",
+      "B": "X =A/B",
+      "C": "X= A-B",
+      "D": "X = A+B"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62556?exam_type=waec&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "282",
+    "text": "The command line prompt of MS-DOS operating system is represented as?",
+    "options": {
+      "A": "C:>",
+      "B": "C:\\",
+      "C": "C:\\>",
+      "D": "C\\:>"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62557?exam_type=waec&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "283",
+    "text": "The process of testing the logic of programs to ensure they give correct result is known as?",
+    "options": {
+      "A": "algorithm",
+      "B": "desk checking",
+      "C": "flowcharting",
+      "D": "table checking"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62558?exam_type=waec&type=obj&page=57",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "284",
+    "text": "The MS-Windows shortcut keys to initiate warm booting is?",
+    "options": {
+      "A": "Alt+ f4",
+      "B": "Ctrl+ Alt + Del",
+      "C": "Ctrl+Esc",
+      "D": "Ctn +Shift + Del"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62559?exam_type=waec&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "285",
+    "text": "The number 28 in binary is?",
+    "options": {
+      "A": "1001",
+      "B": "11001",
+      "C": "110011",
+      "D": "11100"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62560?exam_type=waec&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "286",
+    "text": "Which of the following options is a biometric data?",
+    "options": {
+      "A": "Gender",
+      "B": "Password",
+      "C": "Date of birth",
+      "D": "Pattern of eye iris"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62561?exam_type=waec&type=obj&page=58",
+    "correct_answer": "D",
+    "explanation": "Biometric\u00a0data are\u00a0biological measurements \u00a0or physical characteristics\u00a0that can be used to identify individuals. For example, fingerprint mapping, facial recognition, and retina scans are all forms of biometric technology.",
+    "year": "2018"
+  },
+  {
+    "number": "287",
+    "text": "A\u00a0 site engineer intends to acquire a computer system. What factors\u00a0Will he consider if he must choose a notebook computer over a desktop computer?",
+    "options": {
+      "A": "Size, cost and battery life",
+      "B": "Cost, size and convenience",
+      "C": "Size, convenience and battery life",
+      "D": "Cost, convenience and battery life"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62562?exam_type=waec&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "288",
+    "text": "Use the logic\u00a0truth table in figure 3 to answer question\n\u00a0\n\n\n\nX\nY\nZ\n\n\n0\n0\n1\n\n\n0\n1\n1\n\n\n1\n0\n1\n\n\n1\n1\n0\n\n\n\nGiven that X and Y are input variables while Z is the output. The truth table in figure 3 represents?",
+    "options": {
+      "A": "XOR gate",
+      "B": "EX OR gate",
+      "C": "NOR gate",
+      "D": "NAND gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62563?exam_type=waec&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "289",
+    "text": "A logic gate contains three input variables. The total possible combination of the input variables is?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "8",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62564?exam_type=waec&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "There will be\u00a0\u00a02 \u22c5 2\u00a0\u22c52 = \\(2^3\\)\u00a0 = 8\u00a0combinations of the three input values,",
+    "year": "2018"
+  },
+  {
+    "number": "290",
+    "text": "The following are the guidelines for drawing flowcharts except that it?",
+    "options": {
+      "A": "must have a logical start and finish",
+      "B": "should be clear, neat and easy to follow",
+      "C": "should follow a direction of right to left or bottom to top",
+      "D": "should follow a direction of left to right or top to bottom"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62565?exam_type=waec&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "The usual direction of a flowchart is from top to bottom or from left to right and should not \"follow a direction of right to left or bottom to top\"",
+    "year": "2018"
+  },
+  {
+    "number": "291",
+    "text": "Use the infomation belowto answer questions 42 and 43.\nAs a computer professional, you have just been con- tracted by a school to help them solve the problem they are facing in computing students' results.\nThe school currently runs a manual system. Time and accuracy of the result are the major concerns.\nWhat would you advise the school to do?",
+    "options": {
+      "A": "Automate the system",
+      "B": "Close down the school",
+      "C": "Increase the number of staff",
+      "D": "Buy more calculators for the staff"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62566?exam_type=waec&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "292",
+    "text": "If you are given the contract, what would be your first step of action?",
+    "options": {
+      "A": "Analyse the result",
+      "B": "Design a software",
+      "C": "Investigate the problem",
+      "D": "Maintain the staff"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62567?exam_type=waec&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "293",
+    "text": "Which of the following charts does not display the X\u00a0and Y axes?",
+    "options": {
+      "A": "Bar chart",
+      "B": "Bubble chart",
+      "C": "Doughnut chart",
+      "D": "X, Y graph"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62568?exam_type=waec&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "294",
+    "text": "The uses of spreadsheet packages include:\n1. -Preparing organisation's logo;\u00a0 \u00a0II. - Performing sensitivity analysis; III, - Preparing reports for senior manage- ment; IV. - Preparation of profit forecasts.\nWhich of the following options is true?",
+    "options": {
+      "A": "Il and IV only",
+      "B": "Ill and IV only",
+      "C": "I, Il and Ill only",
+      "D": "II, Il and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62569?exam_type=waec&type=obj&page=59",
+    "correct_answer": "D",
+    "explanation": "Spreadsheet packages are typically used for performing sensitivity analysis, preparing reports for senior management, and preparing profit forecasts, but not for preparing an organization's logo. Therefore, the correct answer is D. II, III, and IV only.",
+    "year": "2018"
+  },
+  {
+    "number": "295",
+    "text": "The common features of formula and function in spread- sheet are:\n-Entry is preceded by = or + symbol I.\n- They have fixed\u00a0formats\n- They operate with cell addresses\n- Their results are displayed.\nWhich of the following options is/are true?",
+    "options": {
+      "A": "I, II, III",
+      "B": "I, III, IV",
+      "C": "II, III, IV",
+      "D": "I, II, III,\u00a0IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62570?exam_type=waec&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "296",
+    "text": "One megabyte is equivalent to?",
+    "options": {
+      "A": "1000 X 1024 bytes",
+      "B": "1024 X 1024 bytes",
+      "C": "1024 X 1048 bytes",
+      "D": "1000 X 1000 bytes"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62571?exam_type=waec&type=obj&page=60",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "297",
+    "text": "Arrange the following spreadsheet window parts in a hierarchical order by size:\nI. worksheet\nII. cell\nIII. workbook\nIV. Range",
+    "options": {
+      "A": "III, I, IV, II",
+      "B": "III, IV, II, I",
+      "C": "II, III, IV, I",
+      "D": "II, IV, I and II"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62572?exam_type=waec&type=obj&page=60",
+    "correct_answer": "D",
+    "explanation": "Cell, Range, Worksheet, and Workbook.",
+    "year": "2018"
+  },
+  {
+    "number": "298",
+    "text": "The statement in QBASIC\u00a0that is used to add data at the end of existing sequential file is?",
+    "options": {
+      "A": "APPPEND",
+      "B": "CLOSE",
+      "C": "INPUT",
+      "D": "OUTPUT"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62573?exam_type=waec&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "299",
+    "text": "Which of the following computer files can be used for updating the master file?",
+    "options": {
+      "A": "date",
+      "B": "program",
+      "C": "reference",
+      "D": "transaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62574?exam_type=waec&type=obj&page=60",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  }
+]

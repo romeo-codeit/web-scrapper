@@ -1,0 +1,632 @@
+[
+  {
+    "number": "1268",
+    "text": "Which of the following methods can be used to obtain pure water from a mixture of sand, water and methanoic acid?",
+    "options": {
+      "A": "netralization with NaOHfoolowed by filtration",
+      "B": "neutralization with NaOH followed by distillation",
+      "C": "fractional distillation",
+      "D": "filtration followed by distillation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27464?exam_type=jamb&type=obj&page=254",
+    "correct_answer": "D",
+    "explanation": "To obtain pure water from a mixture of sand, water, and methanoic acid, we need to consider the properties of each component:\n- Sand is insoluble in water and can be removed by filtration.\n- Methanoic acid (formic acid) is a volatile liquid that can be separated from water by distillation.\n- Water is the desired product.\nConsidering these properties, the correct answer is: Option D. (Filtration followed by distillation)\nHere's the step-by-step process:\n1. Filtration: Remove the sand from the mixture by passing it through a filter paper.\n2. Distillation: Distill the resulting liquid mixture to separate the methanoic acid from the water. Since water\u00a0has a lower boiling point than methanoic acid, it will vapourize and condense first, allowing you to collect the pure water.\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1269",
+    "text": "How many atoms are present in 6.0g of magnesium?\n[Mg = 24, NA = 6.02 x 1023 mol-1]",
+    "options": {
+      "A": "1.20 x 1022",
+      "B": "2.41 x 1022",
+      "C": "1.51 x 1023",
+      "D": "3.02 x 1023"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27465?exam_type=jamb&type=obj&page=254",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1270",
+    "text": "50 cm\\(_3\\) of gas was collected over water at 10\u00baC and 765 mm Hg. Calculate the volume of the gas at s.t.p. if the saturated vapour pressure of water at 10\u00baC is 5mm Hg",
+    "options": {
+      "A": "49.19 cm 3",
+      "B": "48.87 cm 3",
+      "C": "48.55 cm 3",
+      "D": "48.23 cm 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27466?exam_type=jamb&type=obj&page=254",
+    "correct_answer": "D",
+    "explanation": "General Gas Equation:\n\\(\\frac{P_1 V_1}{T_1}\\) =\u00a0\\(\\frac{P_2 V_2}{T_2}\\)\nwhere\u00a0P\\(_1\\) = 765 - 5 = 760mmhg\n\\(V_2 = \\frac{P_1 V_1 T_2}{P_2 T_1}\\)\n\\(V_2 = \\frac{760 * 50 * 273}{ 760 * 283}\\)\u00a0\u2192 48.23cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1271",
+    "text": "An increase in the pressure exerted on gas at a constant temperature results in",
+    "options": {
+      "A": "a decrease in the number of effective collisions",
+      "B": "a decrease in volume",
+      "C": "an increase in the average intermolecular distance",
+      "D": "an increase in volume"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27467?exam_type=jamb&type=obj&page=255",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1272",
+    "text": "2H2(g) + O2(g) \u2192 2H2 O(g)\nIn the reaction above, what volume of hydrogen would be left over when 300 cm3 of oxygen and 1000 cm3 of hydrogen are exploded in a sealed tube?",
+    "options": {
+      "A": "200 cm3",
+      "B": "400 cm3",
+      "C": "600 cm3",
+      "D": "700 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27468?exam_type=jamb&type=obj&page=255",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1273",
+    "text": "l . Evaporation. ll. Sublimation. lll. Diffusion. IV. Brownian motion.\nWhich of the above can correctly be listed as evidences for the particulate nature of matter?",
+    "options": {
+      "A": "I and lll only",
+      "B": "ll and lV only",
+      "C": "l, ll and lll only",
+      "D": "l, ll, lll and lV"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27469?exam_type=jamb&type=obj&page=255",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1274",
+    "text": "If the elements X and Y have atomic numbers 11 and 17 respectively, what type of bond can they form?",
+    "options": {
+      "A": "Dative",
+      "B": "Covalent",
+      "C": "Ionic",
+      "D": "Metallic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27470?exam_type=jamb&type=obj&page=255",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1275",
+    "text": "A hydrogen atom which has lost an electron contains",
+    "options": {
+      "A": "one proton only",
+      "B": "one neutron only",
+      "C": "one proton and one neutron",
+      "D": "one proton, one electron and one neutron"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27471?exam_type=jamb&type=obj&page=255",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1276",
+    "text": "The electronic configuration of Mg 2+ is",
+    "options": {
+      "A": "ls 22s 22P 63s23P2",
+      "B": "Is22s22P6",
+      "C": "ls22s22p63s2",
+      "D": "ls22s22P4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27472?exam_type=jamb&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1277",
+    "text": "Group VII elements are",
+    "options": {
+      "A": "monoatmic",
+      "B": "good oxidizing agents",
+      "C": "highly electropositive",
+      "D": "electron donors"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27473?exam_type=jamb&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1278",
+    "text": "Which of the following is used to study the arrangement of particles in crystal lattices?",
+    "options": {
+      "A": "Alpha-particles",
+      "B": "Beta-particles",
+      "C": "Gamma-rays",
+      "D": "X-rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27474?exam_type=jamb&type=obj&page=256",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1279",
+    "text": "I. It has a varied composition from one place to another. ll. it constituents can be separated by physical means\nlll. It contains unreactive noble gases\nwhich of the above shows that air is a mixture?",
+    "options": {
+      "A": "I and ll only",
+      "B": "ll and lll only",
+      "C": "l and lll only",
+      "D": "l,ll and lll"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27475?exam_type=jamb&type=obj&page=256",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1280",
+    "text": "The chemicals used to soften hard water involves the addition of",
+    "options": {
+      "A": "insoluble sodium compounds which from soluble solutions of calcium and magesium",
+      "B": "solube soudium compounds which from soluble solutions of calcium and magnesium ions",
+      "C": "solube sodium compounds which from insoluble precipitates of calcium and magnesium ions",
+      "D": "insoluble precipitates of calcium and magnesium ions"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27476?exam_type=jamb&type=obj&page=256",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1281",
+    "text": "Chlorination of water for town supply is carried out to",
+    "options": {
+      "A": "make the water colourless",
+      "B": "remove germs from the water",
+      "C": "make the water tastedful",
+      "D": "remove odour from the water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27477?exam_type=jamb&type=obj&page=257",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1282",
+    "text": "The solubilites  of different solutes in a given solvent can be compared by",
+    "options": {
+      "A": "plotting their solubility curves on separete axes",
+      "B": "plotting their solubility curves on the same axes",
+      "C": "plotting some of the solubility curves on the x-axis and others on the y-axis",
+      "D": "plotting their solubility curves on the x-axis only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27478?exam_type=jamb&type=obj&page=257",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1283",
+    "text": "Potassium trioxochlorate (V)has a solubility of 1.5 mol dm -3 at 45 oC.On cooling this solution to a temperature of 20 oC, the solubility was found to be 0.5 mol dm -3. What mass of KCIO 3 was crystalized out?\n[K = 39, Cl = 35.5 O =16]",
+    "options": {
+      "A": "1.00g",
+      "B": "10.00g",
+      "C": "12.25g",
+      "D": "122.50g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27479?exam_type=jamb&type=obj&page=257",
+    "correct_answer": "D",
+    "explanation": "Given:\nSolubility of KClO\\(_3\\) @ 45\\(^0\\)C = 1.5 moldm\\(^{-3}\\)\nSolubility of KClO\\(_3\\) @ 20\\(^0\\)C = 0.5 moldm\\(^{-3}\\)\nDifference in Solubility =\u00a0 1.5 moldm\\(^{-3}\\) -\u00a00.5 moldm\\(^{-3}\\) = 1.0\u00a0moldm\\(^{-3}\\)\nRecall that Solubility = \\(\\frac{mass}{Molar mass}\\times 1 dm^3\\)\nAlso, Molar mass of\u00a0KClO\\(_3\\) = 39 + 35.5 + (16 x 3) = 122.5g\nSolubility = \\(\\frac{mass}{Molar mass}\\times 1 dm^3\\)\n1.0\u00a0 = \\(\\frac{mass}{122.5}\\times 1 dm^3\\)\nMass = 1.0 x 122.5 = 122.5g\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1284",
+    "text": "Which of the following pollutants is associated with brain damage?",
+    "options": {
+      "A": "Carbon (ll) oxide",
+      "B": "Radioactive fallout",
+      "C": "Biodegradable waste",
+      "D": "Sulphus (lV) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27480?exam_type=jamb&type=obj&page=257",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1285",
+    "text": "Which of the following will produce a solution with pH less than 7 at equivalent point?",
+    "options": {
+      "A": "HNO 3 +NaOH",
+      "B": "H 2SO  4 + KOH",
+      "C": "HCL +Mg (OH) 2",
+      "D": "HNO 3 + KOH"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27481?exam_type=jamb&type=obj&page=257",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1286",
+    "text": "The number of hydroxonium ions produced by one molecule of an acid in aqueous solution is its",
+    "options": {
+      "A": "basicity",
+      "B": "acid strength",
+      "C": "pH",
+      "D": "concentration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27482?exam_type=jamb&type=obj&page=258",
+    "correct_answer": "A",
+    "explanation": "The basicity of an acid is the number of replaceable Hydrogen ions, \\(H^+\\), or Hydroxonium ion, \\(H_{3}O^{+}\\) in one molecule of the acid.\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1287",
+    "text": "During a titration experiment, 0.05 moles of carbon (lV) oxide is liberated. What is the volume of gas liberated?",
+    "options": {
+      "A": "22.40 dm 3",
+      "B": "11.20 dm 3",
+      "C": "2.24 dm 3",
+      "D": "1.12 dm 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27483?exam_type=jamb&type=obj&page=258",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1288",
+    "text": "A major factor considered in selecting a suitable method for preparing a simple salt is its",
+    "options": {
+      "A": "Crystalline from",
+      "B": "melting point",
+      "C": "reactivity with dilute acids",
+      "D": "solubility in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27484?exam_type=jamb&type=obj&page=258",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1289",
+    "text": "The oxidation number of boron in NaBH 4 is",
+    "options": {
+      "A": "-3",
+      "B": "-1",
+      "C": "+1",
+      "D": "+3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27485?exam_type=jamb&type=obj&page=258",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1290",
+    "text": "\\(Na_2O_{2(s)} +\u00a0H_2O_{(1)}\\)\u2192 \\(NaOH_{(s)} +O_{2(g)}\\)\nThe substance that is oxidized in the reaction above is",
+    "options": {
+      "A": "\\(Na_2O_{2(s)}\\)",
+      "B": "NaOH(aq)",
+      "C": "H2O(1)",
+      "D": "O2(g)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27486?exam_type=jamb&type=obj&page=258",
+    "correct_answer": "C",
+    "explanation": "\\(Na_2O_2\\) removes hydrogen from water and oxidizes it to free non-metallic oxygen.\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1291",
+    "text": "What number of moles of Cu 2+ will be deposited by 360 coulombs of electricity?\n[f = 96500 C mol -1]",
+    "options": {
+      "A": "5.36 x 10 -4 mole",
+      "B": "1. 87 x 10 10 -3  mole",
+      "C": "9. 35 x 10  -4 mole",
+      "D": "3. 73 x 10 -3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27487?exam_type=jamb&type=obj&page=259",
+    "correct_answer": "B",
+    "explanation": "Cu\\(^{2+}\\) + 2e\\(^{-}\\)\\(_{(aq)}\\) \\(\\rightarrow\\) Cu\\(_{(s)}\\)\nLiberating 1 mole of Cu\n2 x 1F = 2 x 96,500C = 193,000C of electricity is needed\nHence, 193,000C = 1 mole\n360C of electricity = \\(\\frac{360C \\times 1 mol}{193,000C}\\)\n= 0.001865 mol\n= 1.87 x 10\\(^{-3}\\) moles\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1292",
+    "text": "A metal M displaces zinc from ZnCl\u00a0solution\nThis shows that",
+    "options": {
+      "A": "electrons flow from zinc to M",
+      "B": "M is more electropositive than zinc",
+      "C": "M is more electonegative than zinc",
+      "D": "zinc is more electropositive than M"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27488?exam_type=jamb&type=obj&page=259",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1293",
+    "text": "CO(g) + H\\(_2\\) O\\(_{(g)}\\) \u2192 CO\\(_{2(g)}\\) + H\\(_{2(g)}\\)\nCalculate the standard heat change of the reaction above, if the standard enthalpies of formation of CO\\(_{2(g)}\\), H\\(_2\\)O\\(_{(g)}\\) and CO\\(_{(g)}\\)\u00a0in kJmol\\(^{-1}\\) are - 394, -242\u00a0and - 110 respectively.",
+    "options": {
+      "A": "+ 262 KJ mol -1",
+      "B": "- 262 KJ mol -1",
+      "C": "+ 42 KJ mol -1",
+      "D": "- 42 KJ mol -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27489?exam_type=jamb&type=obj&page=259",
+    "correct_answer": "D",
+    "explanation": "\\(\\Delta H (formation) (CO_2) = -394\\)\n\\(\\Delta H (formation) (H_2 O) = -242\\)\n\\(\\Delta H (formation) (CO) = -110\\)\n\\(X = \\sum H_{P} ^{F} - \\sum H_{R} ^{F}\\)\n= (-394+ 0) - (-110 - 242 )\n= -394 +352\n= -\u00a042 kJmol\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1294",
+    "text": "An increase in entropy can best be illustrated by",
+    "options": {
+      "A": "mixing of gases",
+      "B": "freezing of water",
+      "C": "the condensation of vapour",
+      "D": "solidifying candle wax"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27490?exam_type=jamb&type=obj&page=259",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1295",
+    "text": "The highest rate of production of carbon (lV) oxide can be achieved using",
+    "options": {
+      "A": "0.05 mol  -3HCI and 5g powdered CaCO3",
+      "B": "0.05 mol  -3HCI and 5g lump CaCO3",
+      "C": "0.10 mol  -3HCI and 5g powdered CaCO3",
+      "D": "0.025 mol  -3HCI and 5g powdered CaCO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27491?exam_type=jamb&type=obj&page=259",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1296",
+    "text": "A piece of filter paper moistened with lead (ll) ethanoate solution turns black when the paper is dropped into a gas likely to be",
+    "options": {
+      "A": "sulphur (VI) oxide",
+      "B": "hydrogen chloride",
+      "C": "sulphur (VI) oxide",
+      "D": "hydrogen sulphide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27492?exam_type=jamb&type=obj&page=260",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1297",
+    "text": "Which of the following gases has a characteristic pungent smell, turns red litmus paper blue and forms dense white fumes with hydrogen chloride gas?",
+    "options": {
+      "A": "N2",
+      "B": "N2O",
+      "C": "CI2",
+      "D": "NH3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27493?exam_type=jamb&type=obj&page=260",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1298",
+    "text": "Commercial bleaching can be carried out using",
+    "options": {
+      "A": "sulphur (IV) oxide and ammonia",
+      "B": "hydrogen sulphide and chlorine",
+      "C": "chlorine and sulphur (IV) oxide",
+      "D": "ammonia and chlorine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27494?exam_type=jamb&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1299",
+    "text": "Mineral acids are usually added to commercial hydrogen peroxide to",
+    "options": {
+      "A": "oxidize it",
+      "B": "decompose it",
+      "C": "minimize its decomposition",
+      "D": "reduce it to water and oxygen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27495?exam_type=jamb&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1300",
+    "text": "Which of the following compounds will burn with a brick-red colour in a non-luminous Bunsen flame?",
+    "options": {
+      "A": "LiCI",
+      "B": "NaCl",
+      "C": "CaCl2",
+      "D": "MgCl2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27496?exam_type=jamb&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1301",
+    "text": "The purest form of iron which contains only about 0.1% carbon is",
+    "options": {
+      "A": "pig iron",
+      "B": "wrought iron",
+      "C": "cast iron",
+      "D": "iron pyrite"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27497?exam_type=jamb&type=obj&page=261",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1302",
+    "text": "A common characteristic between zinc and the other transition elements is the ability to",
+    "options": {
+      "A": "have variable oxidation states",
+      "B": "from complex ions",
+      "C": "act as a catalyst",
+      "D": "from coloured ions"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27498?exam_type=jamb&type=obj&page=261",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1303",
+    "text": "Which of the following metals is the least reactive?",
+    "options": {
+      "A": "Pb",
+      "B": "Sn",
+      "C": "Hg",
+      "D": "Au"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27499?exam_type=jamb&type=obj&page=261",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1304",
+    "text": "Geometric isomerism can exist in",
+    "options": {
+      "A": "hex-3-ene",
+      "B": "hexane",
+      "C": "prop-l-ene",
+      "D": "3-methyl but -l-ene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27500?exam_type=jamb&type=obj&page=261",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1305",
+    "text": "Alkanals can be distinguished from alkanones by the reaction with",
+    "options": {
+      "A": "sudan lll stain",
+      "B": "starch iodide paper",
+      "C": "lithium tetrahydrido aluminate (lll)",
+      "D": "fehling's solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27501?exam_type=jamb&type=obj&page=261",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1306",
+    "text": "The isomers of C3H8O ARE",
+    "options": {
+      "A": "1 - propanol and 2 - propanol",
+      "B": "1 - propanol and 1 - propanol",
+      "C": "2 - propanol and 2 - propanone",
+      "D": "2 - propanol and 1 - propanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27502?exam_type=jamb&type=obj&page=262",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1307",
+    "text": "Carbohydrates are large molecules with the molecular formula C\\(_x\\)(H\\(_2\\)O)\\(_y\\). In which of the following pairs is x not equal to y?",
+    "options": {
+      "A": "glucose and starch",
+      "B": "maltose and starch",
+      "C": "sucrose and fructose",
+      "D": "galactose and starch"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27503?exam_type=jamb&type=obj&page=262",
+    "correct_answer": "B",
+    "explanation": "Glucose = C\\(_6\\)(H\\(_2\\)O)\\(_6\\)\n= C\\(_6\\)H\\(_{12}\\)O\\(_6\\)\nMaltose = C\\(_{12}\\) (H\\(_2\\)O)\\(_{11}\\)\n= C\\(_{12}\\)H\\(_{22}\\)O\\(_{11}\\)\nStarch = C\\(_6\\) (H\\(_2\\)O)\\(_5\\)\n= C\\(_6\\)H\\(_{10}\\)O\\(_5\\)\nSucrose =\u00a0C\\(_{12}\\) (H\\(_2\\)O)\\(_{11}\\)\n= C\\(_{12}\\)H\\(_{22}\\)O\\(_{11}\\)\nFructose =\u00a0C\\(_6\\)(H\\(_2\\)O)\\(_6\\)\n= C\\(_6\\)H\\(_{12}\\)O\\(_6\\)\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1308",
+    "text": "A compound contains 40.0% C, 6.7% H 53.3% O. If the molecular mass of the compound is 180, its molecular formula is [C =12, H =1,O]",
+    "options": {
+      "A": "CH2O",
+      "B": "C3H6O3",
+      "C": "C6H6O3",
+      "D": "C6H12O6"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27504?exam_type=jamb&type=obj&page=262",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1309",
+    "text": "The saponification of an alkanoate to produce soap and alkanol involves",
+    "options": {
+      "A": "dehydration",
+      "B": "esterification",
+      "C": "hydrolysis",
+      "D": "oxidation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27505?exam_type=jamb&type=obj&page=262",
+    "correct_answer": "C",
+    "explanation": "Saponification is a specific type of ester hydrolysis\u00a0that occurs under basic conditions, typically using a base like sodium hydroxide (NaOH) or potassium hydroxide (KOH), resulting in the formation of a carboxylate salt (soap) and an alcohol.\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1310",
+    "text": "2 - methyl propan -2- ol is an example of a",
+    "options": {
+      "A": "primary alkanol",
+      "B": "secondary alkanol",
+      "C": "tertiary alkanol",
+      "D": "quartenary alkanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27506?exam_type=jamb&type=obj&page=262",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1311",
+    "text": "Ethanol reacts with concentrated tetraoxosulphate (VI) acid at a temperature above 170\\(^0\\)C to form",
+    "options": {
+      "A": "ethanone",
+      "B": "ethene",
+      "C": "ethyne",
+      "D": "ethanal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27507?exam_type=jamb&type=obj&page=263",
+    "correct_answer": "B",
+    "explanation": "When ethanol reacts with concentrated sulfuric acid (H\u2082SO\u2084) at high temperatures (around 170\u00b0C), the major product is\u00a0ethene (C\u2082H\u2084), along with water (H\u2082O).\nC\u2082H\u2085OH \u2192 C\u2082H\u2084 + H\u2082O\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  },
+  {
+    "number": "1312",
+    "text": "An example of oxidation - reduction enzyme is",
+    "options": {
+      "A": "amylase",
+      "B": "protease",
+      "C": "lipase",
+      "D": "dehydrogenase"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/27508?exam_type=jamb&type=obj&page=263",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2012"
+  }
+]

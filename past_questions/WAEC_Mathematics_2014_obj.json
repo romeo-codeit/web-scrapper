@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1264",
+    "text": "Simplify 10\\(\\frac{2}{5} - 6 \\frac{2}{3} + 3\\)",
+    "options": {
+      "A": "6\\(\\frac{4}{15}\\)",
+      "B": "6\\(\\frac{11}{15}\\)",
+      "C": "7\\(\\frac{4}{15}\\)",
+      "D": "7\\(\\frac{11}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36931?exam_type=waec&type=obj&page=253",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1265",
+    "text": "If 23x = 325, find the value of x",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "5",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36932?exam_type=waec&type=obj&page=253",
+    "correct_answer": "A",
+    "explanation": "x\n5",
+    "year": "2014"
+  },
+  {
+    "number": "1266",
+    "text": "The volume of a cube is 512cm3. Find the length of its side",
+    "options": {
+      "A": "6cm",
+      "B": "7cm",
+      "C": "8cm",
+      "D": "9cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36933?exam_type=waec&type=obj&page=254",
+    "correct_answer": "C",
+    "explanation": "3\n3\n3\n3\n\\(\\frac{1}{3}\\)\n9\n\\(\\frac{1}{3}\\)\n3",
+    "year": "2014"
+  },
+  {
+    "number": "1267",
+    "text": "The bar chart above\u00a0shows the scores of some students in a test. Use it to answer this question\nIf one student is selected at random, find the probability that he/she scored at most 2 marks",
+    "options": {
+      "A": "\\(\\frac{11}{18}\\)",
+      "B": "\\(\\frac{11}{20}\\)",
+      "C": "\\(\\frac{7}{22}\\)",
+      "D": "\\(\\frac{5}{19}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36934?exam_type=waec&type=obj&page=254",
+    "correct_answer": "B",
+    "explanation": "at most 2 marks = 5 + 2 + 4 students = 11 studentsprobability(at most 2 marks) = \\(\\frac{11}{20}\\)",
+    "year": "2014"
+  },
+  {
+    "number": "1268",
+    "text": "Simplify: \\(\\sqrt{12} ( \\sqrt{48} - \\sqrt{3}\\))",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "14",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36935?exam_type=waec&type=obj&page=254",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1269",
+    "text": "Given that x > y and 3 < y, which of the following is/are true?  i. y > 3  ii. x < 3 iii. x > y > 3",
+    "options": {
+      "A": "i",
+      "B": "i and ii",
+      "C": "i and iii",
+      "D": "i, ii and iii"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36936?exam_type=waec&type=obj&page=254",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1270",
+    "text": "Three quarters of a number added to two and a half of the number gives 13. Find the number",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36937?exam_type=waec&type=obj&page=254",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1271",
+    "text": "If x = {0, 2, 4, 6}, y = {1, 2, 3, 4} and z = {1, 3} are subsets of u = {x:0 \\(\\geq\\) x \\(\\geq\\) 6}, find x \\(\\cap\\) (Y' \\(\\cup\\) Z)",
+    "options": {
+      "A": "{0, 2, 6}",
+      "B": "{1, 3}",
+      "C": "{0, 6)",
+      "D": "{9}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36938?exam_type=waec&type=obj&page=255",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1272",
+    "text": "Find the truth set of the equation x2 = 3(2x + 9)",
+    "options": {
+      "A": "{x : x = 3, x = 9}",
+      "B": "{x : x = -3, x = -9}",
+      "C": "{x : x = 3, x = -9}",
+      "D": "{x : x = -3, x = 9}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36939?exam_type=waec&type=obj&page=255",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2",
+    "year": "2014"
+  },
+  {
+    "number": "1273",
+    "text": "The coordinates of points P and Q are (4, 3) and (2, -1) respectively. Find the shortest distance between P and Q.",
+    "options": {
+      "A": "10\\(sqrt{2}\\)",
+      "B": "4\\(sqrt{5}\\)",
+      "C": "5\\(sqrt{2}\\)",
+      "D": "2\\(sqrt{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36943?exam_type=waec&type=obj&page=255",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1274",
+    "text": "Make u the subject of formula, E = \\(\\frac{m}{2g}\\)(v2 - u2)",
+    "options": {
+      "A": "u = \\(\\sqrt{v^2 - \\frac{2Eg}{m}}\\)",
+      "B": "u = \\(\\sqrt{\\frac{v^2}{m} - \\frac{2Eg}{4}}\\)",
+      "C": "u = \\(\\sqrt{v- \\frac{2Eg}{m}}\\)",
+      "D": "u = \\(\\sqrt{\\frac{2v^2Eg}{m}}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36944?exam_type=waec&type=obj&page=255",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2",
+    "year": "2014"
+  },
+  {
+    "number": "1275",
+    "text": "F x varies inversely as y and y varies directly as Z, what is the relationship between x and z?",
+    "options": {
+      "A": "x \\(\\alpha\\) z",
+      "B": "x \\(\\alpha \\frac{1}{z}\\)",
+      "C": "x \\(\\alpha z^2\\)",
+      "D": "x \\(\\alpha \\frac{1}{z^2}\\0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36946?exam_type=waec&type=obj&page=255",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1276",
+    "text": "Find the gradient of the line joining the points (2, -3) and 2, 5)",
+    "options": {
+      "A": "9",
+      "B": "1",
+      "C": "2",
+      "D": "undefined"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36950?exam_type=waec&type=obj&page=256",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1277",
+    "text": "If (x - a) is a factor pf bx - ax + x2, find the other factor.",
+    "options": {
+      "A": "(x + b)",
+      "B": "(x - b)",
+      "C": "(a + b)",
+      "D": "(a - b)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36951?exam_type=waec&type=obj&page=256",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1278",
+    "text": "\\(\\begin{array}{c|c}height & 2 & 3 & 4 & 5 & 6 \\\\ \\hline frequency & 2 & 4 & 5 & 3 & 1\n\\end{array}\\)\nThe table shows the distribution of the height of plants in a nursery. Calculate the mean height of the plants.",
+    "options": {
+      "A": "3.8",
+      "B": "3.0",
+      "C": "2.8",
+      "D": "2.3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36953?exam_type=waec&type=obj&page=256",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1279",
+    "text": "The area of a sector a circle with diameter 12cm is 66cm2. If the sector is folded to form a cone, calculate the radius of the base of the cone [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "3.0cm",
+      "B": "3.5cm",
+      "C": "7.0cm",
+      "D": "7.5cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36959?exam_type=waec&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "2",
+    "year": "2014"
+  },
+  {
+    "number": "1280",
+    "text": "A chord, 7cm long, is drawn in a circle with radius 3.7cm. Calculate the distance of the chord from the centre of the circle",
+    "options": {
+      "A": "0.7cm",
+      "B": "1.2cm",
+      "C": "2.0cm",
+      "D": "2.5cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36960?exam_type=waec&type=obj&page=256",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2",
+    "year": "2014"
+  },
+  {
+    "number": "1281",
+    "text": "Which of the following is a measure of dispersion?",
+    "options": {
+      "A": "range",
+      "B": "percentile",
+      "C": "median",
+      "D": "quartile"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36961?exam_type=waec&type=obj&page=257",
+    "correct_answer": "A",
+    "explanation": "The range is a measure of dispersion that indicates the difference between the highest and lowest values in a dataset.",
+    "year": "2014"
+  },
+  {
+    "number": "1282",
+    "text": "A ship sails x km due east to a point E and continues x km due north to F. Find the bearing the bearing of f from the starting point.",
+    "options": {
+      "A": "045o",
+      "B": "090o",
+      "C": "135o",
+      "D": "225o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36962?exam_type=waec&type=obj&page=257",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1283",
+    "text": "A box contains 13 currency notes, all of which are either N50 or N20 notes. The total value of the currency notes is N530. How many N50 notes are in the box?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36963?exam_type=waec&type=obj&page=257",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1284",
+    "text": "If x : y = 3 : 2 and y : z = 5 : 4, find the value of x in the ratio x : y : z",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36964?exam_type=waec&type=obj&page=257",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1285",
+    "text": "Given that cos x = \\(\\frac{12}{13}\\), evaluate \\(\\frac{1 - \\tan x}{\\tan x}\\)",
+    "options": {
+      "A": "\\(\\frac{5}{13}\\)",
+      "B": "\\(\\frac{5}{7}\\)",
+      "C": "\\(\\frac{7}{5}\\)",
+      "D": "\\(\\frac{13}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36974?exam_type=waec&type=obj&page=257",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\n2\n2\n2",
+    "year": "2014"
+  },
+  {
+    "number": "1286",
+    "text": "approximate 0.0033780 to 3 significant figures",
+    "options": {
+      "A": "338",
+      "B": "0.338",
+      "C": "0.00338",
+      "D": "0.003"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36976?exam_type=waec&type=obj&page=258",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1287",
+    "text": "Simplify\u00a0\\(\\sqrt{\\frac{8^2 \\times 4^{n + 1}}{2^{2n} \\times 16}}\\)",
+    "options": {
+      "A": "16",
+      "B": "8",
+      "C": "4",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36978?exam_type=waec&type=obj&page=258",
+    "correct_answer": "C",
+    "explanation": "\\(\\sqrt{\\frac{8^2 \\times 4^{n + 1}}{2^{2n} \\times 16}}\\)= \\(\\sqrt{\\frac{2^{3(2)} \\times 2^{2(n + 1)}}{2^{2n} \\times 2^4}}\\)= \\(\\sqrt{\\frac{2^6 \\times 2^{2n + 2)}}{2^{2n} + 4}}\\)= \\(\\sqrt{\\frac{2^6 + 2^{2n + 2)}}{2^{2n} + 4}}\\)= \\(\\sqrt{\\frac{2^{2n + 8}}{2^{2n} + 4}}\\)= \\(\\sqrt{2^{2n + 8} \\div 2^{2n} + 4}\\)= \\(\\sqrt{2^{2n - 2n} + 8 - 4}\\)= \\(\\sqrt{2^4}\\)= \\(\\sqrt{16}\\)= 4",
+    "year": "2014"
+  },
+  {
+    "number": "1288",
+    "text": "If \\(\\frac{2}{x - 3} - \\frac{3}{x - 2}\\) is equal to \\(\\frac{p}{(x - 3)(x - 2)}\\), find p",
+    "options": {
+      "A": "-x - 5",
+      "B": "-(x + 3)",
+      "C": "5x - 13",
+      "D": "5 - x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36979?exam_type=waec&type=obj&page=258",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1289",
+    "text": "Subtract \\(\\frac{1}{2}\\)(a - b - c) from the sum of \\(\\frac{1}{2}\\)(a - b + c) and \\(\\frac{1}{2}\\) \n(a + b - c)",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)  (a + b + c)",
+      "B": "\\(\\frac{1}{2}\\)  (a - b - c)",
+      "C": "\\(\\frac{1}{2}\\)  (a - b + c)",
+      "D": "\\(\\frac{1}{2}\\)  (a + b - c)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36980?exam_type=waec&type=obj&page=258",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1290",
+    "text": "A man's eye level is 1.7m above the horizontal ground and 13m from a vertical pole. If the pole is 8.3m high, calculate, correct to the nearest degree, the angle of elevation of the top of the pole from his eyes.",
+    "options": {
+      "A": "33o",
+      "B": "32o",
+      "C": "27o",
+      "D": "26o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36982?exam_type=waec&type=obj&page=258",
+    "correct_answer": "C",
+    "explanation": "-1",
+    "year": "2014"
+  },
+  {
+    "number": "1291",
+    "text": "A chord subtends an angle of 120o at the centre of a circle of radius 3.5cm. Find the perimeter of the minor sector containing the chord, [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "14\\(\\frac{1}{3}\\)cm",
+      "B": "12\\(\\frac{5}{6}\\)cm",
+      "C": "8\\(\\frac{1}{7}\\)cm",
+      "D": "7\\(\\frac{1}{3}\\)cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36984?exam_type=waec&type=obj&page=259",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1292",
+    "text": "In parallelogram PQRS, QR is produced to M such that |QR| = |RM|. What fraction of the area of PQMS is the area of PRMS?",
+    "options": {
+      "A": "\\(\\frac{1}{4}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "\\(\\frac{3}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36986?exam_type=waec&type=obj&page=259",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1293",
+    "text": "In a cumulative frequency graph, the lower quartile is 18 years while the 60th percentile is 48 years. What percentage of the distribution is at most 18 years or greater than 48 years?",
+    "options": {
+      "A": "15%",
+      "B": "35%",
+      "C": "65%",
+      "D": "85%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36988?exam_type=waec&type=obj&page=259",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1294",
+    "text": "If a number is selected at random from each of the sets p = {1, 2, 3} and Q = {2, 3, 5}, find the probability that the sum of the numbers is prime",
+    "options": {
+      "A": "\\(\\frac{5}{9}\\)",
+      "B": "\\(\\frac{4}{9}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{2}{9}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36989?exam_type=waec&type=obj&page=259",
+    "correct_answer": "B",
+    "explanation": "To find the probability that the sum of a randomly selected number from \\( P = \\{1, 2, 3\\} \\) and \\( Q = \\{2, 3, 5\\} \\) is prime:\nPossible sums:1 + 2 = 3 \\(\\text{prime})\\)1 + 3 = 4 \\(\\text{not prime})\\)1 + 5 = 6 \\(\\text{not prime})\\)2 + 2 = 4\\(\\text{not prime})\\)2 + 3 = 5 \\(\\text{prime})\\)2 + 5 = 7 \\(\\text{prime})\\)3 + 2 = 5 \\(\\text{prime})\\)3 + 3 = 6 \\(\\text{not prime})\\)3 + 5 = 8\\(\\text{not prime})\\)\nPrime sums: \\( 3, 5, 5, 7 \\) (total: 4 favorable outcomes).\nTotal outcomes: \\( 3 \\times 3 = 9 \\).\nProbability:\\(P = \\frac{4}{9}\\)\nThus, the probability that the sum is prime is \\(\\frac{4}{9}\\)",
+    "year": "2014"
+  },
+  {
+    "number": "1295",
+    "text": "If log 5.957 = 0.7750, find log \\(3 \\sqrt{0.0005957}\\)",
+    "options": {
+      "A": "\\(\\overline{4}\\).1986",
+      "B": "\\(\\overline{2}\\).9250",
+      "C": "\\(\\overline{1}\\).5917",
+      "D": "\\(\\overline{1}\\).075"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36991?exam_type=waec&type=obj&page=259",
+    "correct_answer": "D",
+    "explanation": "Log(0.0005957)\\(^{\\frac{1}{3}}\\)\n= Log(\\(\\frac{5.957}{10000})^{\\frac{1}{3}}\\)\n= \\(\\frac{1}{3}\\)Log(5.957) -\u00a0\\(\\frac{1}{3}\\)Log10\\(^4\\)\n= \\(\\frac{0.7750}{3}\\) - \\(\\frac{4}{3}\\) =\\(\\frac{\\overline3.225}{3}\\) = \\(\\overline{1}\\).075",
+    "year": "2014"
+  },
+  {
+    "number": "1296",
+    "text": "The probability of an event P happening is \\(\\frac{1}{5}\\) and that of event Q is \\(\\frac{1}{4}\\). If the events are independent, what is the probability that neither of them happens?",
+    "options": {
+      "A": "\\(\\frac{4}{5}\\)",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{3}{5}\\)",
+      "D": "\\(\\frac{1}{20}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36992?exam_type=waec&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1297",
+    "text": "Each exterior angle of a polygon is 30o. Calculate the sum of the interior angles",
+    "options": {
+      "A": "540o",
+      "B": "720o",
+      "C": "1080o",
+      "D": "1800o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36994?exam_type=waec&type=obj&page=260",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no",
+    "year": "2014"
+  },
+  {
+    "number": "1298",
+    "text": "Find the number of term in the Arithmetic Progression(A.P) 2, -9, -20,...-141.",
+    "options": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36995?exam_type=waec&type=obj&page=260",
+    "correct_answer": "D",
+    "explanation": "1\n2\n3\n3\n2\n2\n1",
+    "year": "2014"
+  },
+  {
+    "number": "1299",
+    "text": "In what modulus is it true that 9 + 8 = 5?",
+    "options": {
+      "A": "mod 10",
+      "B": "mod 11",
+      "C": "mod 12",
+      "D": "mod 13"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36996?exam_type=waec&type=obj&page=260",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1300",
+    "text": "The radii of the base of two cylindrical tins, P and Q are r and 2r respectively. If the water level in p is 10cm high, what would be the height of the same quantity of water in Q?",
+    "options": {
+      "A": "2.5cm",
+      "B": "5.0cm",
+      "C": "7.5cm",
+      "D": "20.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36998?exam_type=waec&type=obj&page=260",
+    "correct_answer": "A",
+    "explanation": "volume of cylinder = \\(\\pi r^2h\\)volume of cylinder p = \\(\\pi r^2 \\times 10\\)= 10\\(\\pi r^2\\)volume of cylinder Q = \\(\\pi (2r)^2 h\\)= 4\\(\\pi r^2\\)h4\\(\\pi r^2h = 10 \\pi r^2\\)h = \\(\\frac{10}{4} = 2.5cm\\)",
+    "year": "2014"
+  },
+  {
+    "number": "1301",
+    "text": "The bar chart shows the scores of some students in a test. How many students took the test?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "22"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36999?exam_type=waec&type=obj&page=261",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1302",
+    "text": "The bar chart shows the scores of some students in a test. If one students is selected at random, find the probability that he/she scored at most 2 marks",
+    "options": {
+      "A": "\\(\\frac{11}{18}\\)",
+      "B": "\\(\\frac{11}{20}\\)",
+      "C": "\\(\\frac{7}{22}\\)",
+      "D": "\\(\\frac{5}{19}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37000?exam_type=waec&type=obj&page=261",
+    "correct_answer": "B",
+    "explanation": "at most 2 marks = 5 + 2 + 4 students = 11 studentsprobability(at most 2 marks) = \\(\\frac{11}{20}\\)",
+    "year": "2014"
+  },
+  {
+    "number": "1303",
+    "text": "In the diagram, the value of x + y = 220o. Find the value of n",
+    "options": {
+      "A": "20o",
+      "B": "40o",
+      "C": "60o",
+      "D": "80o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37002?exam_type=waec&type=obj&page=261",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2014"
+  },
+  {
+    "number": "1304",
+    "text": "In the diagram, PQR is straight line, ( m\u00a0+ n) = 120o and ( n + r) = 100o. Find (m + r).",
+    "options": {
+      "A": "110o",
+      "B": "120o",
+      "C": "140o",
+      "D": "160o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37003?exam_type=waec&type=obj&page=261",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1305",
+    "text": "In the diagram, PQR is a straight line, (m + n) = 120o and (n + r) = 100o. Find (m + r)",
+    "options": {
+      "A": "110o",
+      "B": "120o",
+      "C": "140o",
+      "D": "160o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37004?exam_type=waec&type=obj&page=261",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2014"
+  },
+  {
+    "number": "1306",
+    "text": "In the diagram, ST is parallel to UW, < WVT = xo, < VUT = yo, < RSV = 45o and < VTU = 20o. Find the value of x",
+    "options": {
+      "A": "20",
+      "B": "45",
+      "C": "65",
+      "D": "135"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37005?exam_type=waec&type=obj&page=262",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no",
+    "year": "2014"
+  },
+  {
+    "number": "1307",
+    "text": "In the diagram, ST is parallel to UW, < WVT = xo, < VUT = yo, < RSV = 45o and < VTU = 20o. Calculate the value of y",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "45",
+      "D": "65"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37006?exam_type=waec&type=obj&page=262",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2014"
+  },
+  {
+    "number": "1308",
+    "text": "The graph given is for the relation y = 2x\\(^2\\) + x - 1. What are the coordinates of the point S?",
+    "options": {
+      "A": "(1, 0.2)",
+      "B": "(1, 0.4)",
+      "C": "(1, 2.0)",
+      "D": "(1, 40)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37007?exam_type=waec&type=obj&page=262",
+    "correct_answer": "C",
+    "explanation": "Draw a straight line from point S to meet the y-axis, which cuts it at 2, and do the same for the x-axis which cuts it at 1. Therefore the coordinate\u00a0of the point S is (1, 2)\nNOTE: for this graph,\u00a0each box(square) = 2.5cm on both axes.",
+    "year": "2014"
+  },
+  {
+    "number": "1309",
+    "text": "The graph given is for the relation y = 2x2 + x - 1. Find the minimum value of y",
+    "options": {
+      "A": "0.00",
+      "B": "-0.65",
+      "C": "-1.25",
+      "D": "-2.10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37008?exam_type=waec&type=obj&page=262",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1310",
+    "text": "In the figures, PQ is a tangent to the circle at R and UT is parallel to PQ. if < TRQ = xo, find < URT in terms of x",
+    "options": {
+      "A": "2xo",
+      "B": "(90 - x)o",
+      "C": "(90 + x)o",
+      "D": "(180 - 2x)o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37009?exam_type=waec&type=obj&page=262",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no",
+    "year": "2014"
+  },
+  {
+    "number": "1311",
+    "text": "Determine the value of m in the diagram",
+    "options": {
+      "A": "80o",
+      "B": "90o",
+      "C": "110o",
+      "D": "150o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37010?exam_type=waec&type=obj&page=263",
+    "correct_answer": "B",
+    "explanation": "In the figure above, a + 80\u00ba = 180\u00ba ( opp <s of cyclic quad.)\na = 100\u00ba\nb1 = b2 (base <s of Isos. triangle)\nb1 + b2 = 2b1\n2b1 + a = 180\n2b1 + 100\u00ba = 180\u00ba\nb1 = 40\u00ba\nIn the same vain, 2c1 = 180\u00ba - 80\u00ba = 100\u00ba\nc1 = 50\u00ba\nThus, m = b1 + c1 = 40\u00ba + 50\u00ba = 90\u00ba",
+    "year": "2014"
+  },
+  {
+    "number": "1312",
+    "text": "In the diagram, O is the centre of the circle of the circle, PR is a tangent to the circle at Q < SOQ = 86o. Calculate the value of < SQR.",
+    "options": {
+      "A": "43o",
+      "B": "47o",
+      "C": "54o",
+      "D": "86o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/37011?exam_type=waec&type=obj&page=263",
+    "correct_answer": "A",
+    "explanation": "o",
+    "year": "2014"
+  }
+]

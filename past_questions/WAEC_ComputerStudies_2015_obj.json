@@ -1,0 +1,688 @@
+[
+  {
+    "number": "101",
+    "text": "Charles Babbage was the first to?",
+    "options": {
+      "A": "invent slide rule",
+      "B": "invent analytical engine",
+      "C": "make census machine",
+      "D": "make use of the punched card"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62245?exam_type=waec&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "102",
+    "text": "Which of the following devices is not a micro computer?",
+    "options": {
+      "A": "Desktop",
+      "B": "EDVAC",
+      "C": "Laptop",
+      "D": "Notebook"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62246?exam_type=waec&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "103",
+    "text": "The main difference between a laptop and a desktop is that, a laptop?",
+    "options": {
+      "A": "does not have mouse while a desktop has",
+      "B": "uses USB port while desktop uses parallel port",
+      "C": "can be connected to the internet while desktop cannot",
+      "D": "contains high capacity battery that powers for extensive period while desktop has not."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62247?exam_type=waec&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "The main difference between a laptop and a desktop is that a laptop contains a high-capacity battery that powers it for an extensive period while a desktop does not. Both laptops and desktops can use a mouse, have USB and parallel ports, and can be connected to the internet.",
+    "year": "2015"
+  },
+  {
+    "number": "104",
+    "text": "Abacus is used for?",
+    "options": {
+      "A": "addition",
+      "B": "subtraction",
+      "C": "addition and subtraction",
+      "D": "multiplication and division"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62248?exam_type=waec&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "Abacus is a tool that can be used to calculate \u2014Add,Subtract,Multiply & divide, apart from being able to do other arithmetic functions and Brain activation. However, the basic use of Abacus is for addition and subtraction.",
+    "year": "2015"
+  },
+  {
+    "number": "105",
+    "text": "The computer hardware is made up of system unit and?",
+    "options": {
+      "A": "motherboard",
+      "B": "peripheral",
+      "C": "control unit",
+      "D": "central processing unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62249?exam_type=waec&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "106",
+    "text": "The computer memory is, measured in?",
+    "options": {
+      "A": "bit",
+      "B": "byt\u0119",
+      "C": "hertz",
+      "D": "nibble"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62250?exam_type=waec&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "107",
+    "text": "If the output signal of any logic gate is fed into an inverter, the results is?\u00a0 \u00a0 .",
+    "options": {
+      "A": "NOT gate",
+      "B": "Nor gate",
+      "C": "the inverse of the output signal",
+      "D": "the same as the output signal"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62251?exam_type=waec&type=obj&page=22",
+    "correct_answer": "C",
+    "explanation": "Logic Inverters\u00a0are also known as NOT gates. It mainly inverts the bit. If input is logic 1 output will belogic 0and vice versa.",
+    "year": "2015"
+  },
+  {
+    "number": "108",
+    "text": "The device through which the main components of the computer communicate with each other is called?",
+    "options": {
+      "A": "keyboard",
+      "B": "memory",
+      "C": "light pen",
+      "D": "system bus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62252?exam_type=waec&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "The main components of the computer communicate with each other, through theSystem bus. The keyboard, Monitor, and Memory are the only things that USE the system bus to communicate with the CPU, etc.",
+    "year": "2015"
+  },
+  {
+    "number": "109",
+    "text": "The hardware of a computer does not consist of?",
+    "options": {
+      "A": "casing",
+      "B": "mouse",
+      "C": "peripherals",
+      "D": "windows"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62253?exam_type=waec&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "110",
+    "text": "Output devices in a computer are those devices that send?",
+    "options": {
+      "A": "results to the memory of the computer",
+      "B": "processed data and instructions into the computer",
+      "C": "in data and instructions into the computer",
+      "D": "data and instructions into the memory of the computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62254?exam_type=waec&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "Output devices in a computer are those devices that send results to the memory of the computer. They take information that the computer has processed and present it in a form that humans can understand.",
+    "year": "2015"
+  },
+  {
+    "number": "111",
+    "text": "Which of the following is not a mobile input device?",
+    "options": {
+      "A": "Joystick",
+      "B": "Light pen",
+      "C": "Mouse",
+      "D": "Scanner"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62255?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "112",
+    "text": "Figure 1 above is a logic gate. Use it to answer questions 12 to 14.\nFigure 1 represents?",
+    "options": {
+      "A": "a NOT gate.",
+      "B": "a NAND gate",
+      "C": "an AND gate",
+      "D": "an OR gate."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62256?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "Figure 1 above is an AND gate.",
+    "year": "2015"
+  },
+  {
+    "number": "113",
+    "text": "X, Y and Z respectively, represents?",
+    "options": {
+      "A": "input, output and input signals.",
+      "B": "output, output and input signals",
+      "C": "output, input and output signals.",
+      "D": "input, input and output signals."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62257?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "X, Y, and Z represent input, input, and output respectively.",
+    "year": "2015"
+  },
+  {
+    "number": "114",
+    "text": "Use the Logic gate above to answer this question.\nWhen signals X= 0 and Y= 1, signal Z is?",
+    "options": {
+      "A": "0.1",
+      "B": "0",
+      "C": "1",
+      "D": "0+1"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62258?exam_type=waec&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "For an AND gate, When X = 0 and Y = 1 for an AND gate output Z = 0.",
+    "year": "2015"
+  },
+  {
+    "number": "115",
+    "text": "The memory unit of the computer belongs to the?",
+    "options": {
+      "A": "control unit",
+      "B": "input device",
+      "C": "output device",
+      "D": "system unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62259?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "The memory unit of the computer belongs to the system unit. The system unit, also known as the system chassis, is a box-like case housing the electronic components of a computer. These components include the central processing unit (CPU), memory, and other parts essential to the computer's operation.",
+    "year": "2015"
+  },
+  {
+    "number": "116",
+    "text": "Which of the following is not a function of the operating system?",
+    "options": {
+      "A": "Analysis of the computer components.",
+      "B": "Ensuring the proper functioning of hardware.\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 .",
+      "C": "Maintenance of directories in external storage.",
+      "D": "Opening and closing files."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62260?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "117",
+    "text": "An example of a specific purpose application package is\u00a0the?",
+    "options": {
+      "A": "payroll program.",
+      "B": "database program.",
+      "C": "spreadsheet program.",
+      "D": "word processing program"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62261?exam_type=waec&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "A specific purpose application package is software that is designed to carry out a particular task. A payroll program is an example of this, designed specifically to manage and process payroll. e.g.\u00a0Justworks,\u00a0Paycor. etc.",
+    "year": "2015"
+  },
+  {
+    "number": "118",
+    "text": "The operating system, translators and utility programs are examples of?",
+    "options": {
+      "A": "application software.",
+      "B": "customized Software.",
+      "C": "network software.",
+      "D": "system software."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62262?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "119",
+    "text": "The first stage in program development is problem?",
+    "options": {
+      "A": "analysis.",
+      "B": "definition.",
+      "C": "solving.",
+      "D": "testing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62263?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "The first stage in program development is problem definition, where the problem to be solved is clearly identified and articulated.",
+    "year": "2015"
+  },
+  {
+    "number": "120",
+    "text": "A pictorial representation of program flow is referred to as?",
+    "options": {
+      "A": "algorithm",
+      "B": "flow chart.",
+      "C": "process mapping.",
+      "D": "pseudo code"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62264?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "121",
+    "text": "An example of a programming language that uses mnemonic codes is?",
+    "options": {
+      "A": "Assembly program.",
+      "B": "BASIC program.",
+      "C": "COBOL program.",
+      "D": "FORTRAN program."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62265?exam_type=waec&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "Assembly language\u00a0uses mnemonics to represent instructions. Writing in mnemonics is easier for programmers because they are usually brief representations of the commands. They are quicker to write than binary and it is easier to spot mistakes.\u00a0In COBOL, mnemonics are not used in the traditional sense like in assembly language programming.",
+    "year": "2015"
+  },
+  {
+    "number": "122",
+    "text": "The use of satellite to transmit signal information to the earth is enabled with the use of?",
+    "options": {
+      "A": "GSM.",
+      "B": "GPS.",
+      "C": "POS.",
+      "D": "WAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62266?exam_type=waec&type=obj&page=25",
+    "correct_answer": "B",
+    "explanation": "GPS (Global Positioning System) is a satellite-based radio navigation\u00a0system owned by the United States government and operated by the United States Space Force. It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.",
+    "year": "2015"
+  },
+  {
+    "number": "123",
+    "text": ".The line segment that describes the contents of the message when sending an e-mail is?",
+    "options": {
+      "A": "Cc.",
+      "B": "Contents.",
+      "C": "Subject.",
+      "D": "To."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62267?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "124",
+    "text": "Which of the following networks covers the widest range?",
+    "options": {
+      "A": "LAN.",
+      "B": "MAN.",
+      "C": "PAN.",
+      "D": "WAN."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62268?exam_type=waec&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "A wide area network (WAN) is a large computer network\u00a0that connects groups of computers over a large geographical area, such as a country, a continent, or even the entire world.\u00a0WANs are often used by large businesses to connect their office networks; each office typically has its local area network or LAN, and these LANs connect via a WAN.",
+    "year": "2015"
+  },
+  {
+    "number": "125",
+    "text": "The keyboard command used to copy text in Ms-Word document is?",
+    "options": {
+      "A": "Shift+G.",
+      "B": "Ctrl+N.",
+      "C": "Ctrl +",
+      "D": "Ctrl+ Alt + C."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62269?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "126",
+    "text": "The colour palette in CorelDraw allows the user to?",
+    "options": {
+      "A": "arrange colour.",
+      "B": "draw in colour.",
+      "C": "pick colour tool.",
+      "D": "choose different pre-set colour palettes."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62270?exam_type=waec&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "127",
+    "text": "In order to get to the symbol dialog box in MS-Word click on the?",
+    "options": {
+      "A": "Home tab.",
+      "B": "Insert tab.",
+      "C": "Page Lay- out tab.",
+      "D": "View tab."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62271?exam_type=waec&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "To get to the 'Symbol' dialog box,click on the insert menu and choose 'Symbol'.",
+    "year": "2015"
+  },
+  {
+    "number": "128",
+    "text": "In a network, the workstation is usually.connected to the?",
+    "options": {
+      "A": "Hub.",
+      "B": "Modem.",
+      "C": "Router.",
+      "D": "Switch."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62272?exam_type=waec&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "129",
+    "text": "When browsing on the internet, a possible reason for. the message \"page not found\" is that?",
+    "options": {
+      "A": "the weather is hot.",
+      "B": "the web browser is fast.",
+      "C": "multiple web pages are loading at the same time.",
+      "D": "a connection between the client and server has been lost."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62273?exam_type=waec&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "130",
+    "text": "Which of the following is not a network device?",
+    "options": {
+      "A": "Hub",
+      "B": "Modem",
+      "C": "Port",
+      "D": "Router"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62274?exam_type=waec&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "131",
+    "text": "Which of the following is a valid e-mail address?",
+    "options": {
+      "A": "www.itbeginswithu.org",
+      "B": "waeconline@yahoo.co.uk",
+      "C": "www.waeconline.org",
+      "D": "www.fine.gov.ng"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62275?exam_type=waec&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "An\u00a0Email address must consist of 4 components:the username, @, the domain name, and the domain name identifier. If an email address is missing any of these components, it will be invalid, and there will be no inbox for messages. An example is\u00a0waeconline@yahoo.co.uk",
+    "year": "2015"
+  },
+  {
+    "number": "132",
+    "text": "In word processing, an efficient way to move the second paragraph and place it after the fourth paragraph is?",
+    "options": {
+      "A": "copy and paste.",
+      "B": "copy, cut and paste.",
+      "C": "cut and paste.",
+      "D": "cut, copy and paste."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62276?exam_type=waec&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "133",
+    "text": "Which of the following items changes shape depending on the task being performed?",
+    "options": {
+      "A": "Ribbon",
+      "B": "Active tab",
+      "C": "Insertion point",
+      "D": "Mouse pointer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62277?exam_type=waec&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "134",
+    "text": "The computer keyboard key(s) that a user presses to move to the beginning of a current line of text is/are the?",
+    "options": {
+      "A": "Enter key.",
+      "B": "Home key.",
+      "C": "Ctrl +B keys.",
+      "D": "Ctrl+ Home keys."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62278?exam_type=waec&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "135",
+    "text": "Data loss in a computer cannot be prevented by the use of?",
+    "options": {
+      "A": "antivirus.",
+      "B": "backup.",
+      "C": "flash drive.",
+      "D": "password."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62279?exam_type=waec&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "Data loss is an incident where data is destroyed, deleted, corrupted, or made unreadable by users and software applications. this can be prevented through the following means:\u00a0\u00a0\u00a0antivirus and firewalls, system backup, etc. The use of a password cannot prevent data loss in a computer.",
+    "year": "2015"
+  },
+  {
+    "number": "136",
+    "text": "The shortcut command used in restarting a computer is?",
+    "options": {
+      "A": "Ctrl+ S.",
+      "B": "Ctrl+0.",
+      "C": "Del+Alt+S.",
+      "D": "Alt+Ctrl+Del."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62280?exam_type=waec&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "137",
+    "text": "The term bus' width in data transfer refers to the?",
+    "options": {
+      "A": "number of wires in the bus.",
+      "B": "size of the data movement.",
+      "C": "number of bits of information the RAM can send to the CPU at the same time.",
+      "D": "number of wires in the bus that carry information to the processor at a time"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62281?exam_type=waec&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "The term 'bus width' in data transfer refers to the number of bits of information that can be sent to the CPU from the RAM simultaneously. This is because the bus is the main communication system that transfers data between computer components, such as the CPU and the RAM. The width of the bus determines how much data can be transferred at a time. The wider the bus, the more bits can be transferred simultaneously.",
+    "year": "2015"
+  },
+  {
+    "number": "138",
+    "text": "The part of the computer that holds the data and pro- grams for CPU processing is the?",
+    "options": {
+      "A": "Address.",
+      "B": "Register:",
+      "C": "Random Access Memory.",
+      "D": "Read Only Memory"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62282?exam_type=waec&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "139",
+    "text": "A high level language can be converted to a machine language using?",
+    "options": {
+      "A": "a compiler.",
+      "B": "an editor.",
+      "C": "a utility\u00a0program.",
+      "D": "an operating system"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62283?exam_type=waec&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "140",
+    "text": "Which of the following statements is true of encryption? It",
+    "options": {
+      "A": "provides complete privacy.",
+      "B": "provides security of varying reliability.",
+      "C": "makes messages un- readable by the recipient.",
+      "D": "permits an individual to have access to another person's message."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62284?exam_type=waec&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "141",
+    "text": "Computer ethics are important because they?",
+    "options": {
+      "A": "ensure identity theft.",
+      "B": "regulate the privacy of messages only.",
+      "C": "address piracy and comportment issues.",
+      "D": "prevent copyright infringement on discretional basis."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62285?exam_type=waec&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "Computer ethics are important because they address piracy and comportment issues. They guide how individuals should behave when using computers and the internet.",
+    "year": "2015"
+  },
+  {
+    "number": "142",
+    "text": "Which of the following is the main advantage of intellectual property right?",
+    "options": {
+      "A": "Discouragement of sharing.",
+      "B": "Discovery of brilliant persons.",
+      "C": "Encouragement of innovations.",
+      "D": "maximization of profit."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62286?exam_type=waec&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "143",
+    "text": "Which of the following statements is true of free software? It",
+    "options": {
+      "A": "can be borrowed freely.",
+      "B": "is a low-cost software:",
+      "C": "is a free unlicensed software.",
+      "D": "is a licensed software with permission to copy freely."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62287?exam_type=waec&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "144",
+    "text": "In hexadecimal number system, B, D and F represent which of the following decimal numbers?",
+    "options": {
+      "A": "11, 13 and 15 respectively.",
+      "B": "12, 14 and 15 respectively.",
+      "C": "13, 14 and 15 respectively.",
+      "D": "14, 16 and 17 respectively"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62288?exam_type=waec&type=obj&page=29",
+    "correct_answer": "A",
+    "explanation": "In the hexadecimal number system, B, D, and F represent\u00a011, 13, and 15, in base 10 respectively.",
+    "year": "2015"
+  },
+  {
+    "number": "145",
+    "text": "The conversion of 11001\\(_2\\), to base ten equals?",
+    "options": {
+      "A": "20.",
+      "B": "25.",
+      "C": "28.",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62289?exam_type=waec&type=obj&page=29",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "146",
+    "text": "9\\(_{10}\\) is equivalent to X\\(_8\\), where X is?",
+    "options": {
+      "A": "7.",
+      "B": "10.",
+      "C": "11.",
+      "D": "12."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62290?exam_type=waec&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "147",
+    "text": "Use the MS-Excel table below to answer questions 48 to 50.\n\n\n\n\u00a0\nA\nB\nC\nD\n\n\n1\nBOOKS SUPPLIED TO SENIOR HIGH SCHOOL\n\u00a0\n\u00a0\n\u00a0\n\n\n2\nFORM\nMATHS\nICT\nENGLISH LANG\n\n\n3\nSHS I\n2456\n6580\n5678\n\n\n4\nSHS II\n3450\n4009\n4400\n\n\n5\nSHS III\n8765\n4500\n9000\n\n\n\nThe content of cell D3 is?",
+    "options": {
+      "A": "3450.",
+      "B": "4400.",
+      "C": "4500.",
+      "D": "5678."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62291?exam_type=waec&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "148",
+    "text": "Use the MS-Excel below to answer this question.\n\n\n\n\u00a0\nA\nB\nC\nD\n\n\n1\nBOOKS\nSUPPLIED\nTO SENIOR\nHIGH SCHOOL\n\n\n2\nFORMS\nMATHS\nICT\nENGLISH LANGUAGE\n\n\n3\nSHSI\n2456\n6580\n5678\n\n\n4\nSHSII\n3450\n4009\n4400\n\n\n5\nSHSIII\n8765\n4500\n9000\n\n\n\nThe number of cells that contain data in row 1 is?",
+    "options": {
+      "A": "1.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62292?exam_type=waec&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "The number of cells that contain data in row is A B C D which is 4.",
+    "year": "2015"
+  },
+  {
+    "number": "149",
+    "text": "The number of cells that contain numeric data in the\u00a0table above is?",
+    "options": {
+      "A": "4",
+      "B": "8.",
+      "C": "9.",
+      "D": "12."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62293?exam_type=waec&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "Nine cells contain numeric data only.",
+    "year": "2015"
+  }
+]

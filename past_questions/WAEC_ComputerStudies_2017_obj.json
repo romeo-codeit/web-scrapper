@@ -1,0 +1,702 @@
+[
+  {
+    "number": "199",
+    "text": "The \"collection of the unorganized facts and figures\" is called?",
+    "options": {
+      "A": "data",
+      "B": "file",
+      "C": "information",
+      "D": "variable"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62445?exam_type=waec&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "200",
+    "text": "The census machine was invented by?",
+    "options": {
+      "A": "Blaise Pascal",
+      "B": "Gottfried Von Leibnitz",
+      "C": "Herman Hollerith",
+      "D": "Joseph Marie Jacquad"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62446?exam_type=waec&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "201",
+    "text": "A graph plotter is most suited for use in a/an?",
+    "options": {
+      "A": "tax office",
+      "B": "immigration office",
+      "C": "population census office",
+      "D": "geographical information system."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62447?exam_type=waec&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "202",
+    "text": "A set of programs, routines and procedures that are used to operate the computer hardware is called?",
+    "options": {
+      "A": "fimware",
+      "B": "shareware",
+      "C": "software",
+      "D": "utility"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62448?exam_type=waec&type=obj&page=41",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "203",
+    "text": "Which of the following can be used to write a high level program source code?",
+    "options": {
+      "A": "Lotus 1-2-3",
+      "B": "MS Access",
+      "C": "Opera",
+      "D": "Text Editor"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62449?exam_type=waec&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "204",
+    "text": "A computer that requests the services of another computer on a network is called a?",
+    "options": {
+      "A": "client",
+      "B": "host",
+      "C": "master",
+      "D": "server"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62450?exam_type=waec&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "205",
+    "text": "The available page orientation in Microsoft Word are?",
+    "options": {
+      "A": "portrait and justify",
+      "B": "justify and right align",
+      "C": "left align and landscape",
+      "D": "portrait and landscape."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62451?exam_type=waec&type=obj&page=41",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "206",
+    "text": "The copyright law is used to protect?",
+    "options": {
+      "A": "right of men",
+      "B": "right of minors",
+      "C": "intellectual property",
+      "D": "right of Women only."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62452?exam_type=waec&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "207",
+    "text": "Which of the following components is directly located\u00a0inside the computer processor?",
+    "options": {
+      "A": "ALU",
+      "B": "BIOS",
+      "C": "RAM",
+      "D": "ROM"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62453?exam_type=waec&type=obj&page=42",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "208",
+    "text": "Napier's Bone was designed purposely for calculation of?",
+    "options": {
+      "A": "sum and quotient",
+      "B": "sum and difference",
+      "C": "product and quotient",
+      "D": "difference and quotient"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62454?exam_type=waec&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "209",
+    "text": "The hardware component that is responsible for fetching, decoding and execution of program instruction is?",
+    "options": {
+      "A": "accumulator",
+      "B": "read only memory",
+      "C": "random access memory",
+      "D": "central processing unit."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62455?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "The Central Processing Unit (CPU) is the primary component of a computer that performs most of the processing inside the computer. It's responsible for fetching, decoding, and executing program instructions.",
+    "year": "2017"
+  },
+  {
+    "number": "210",
+    "text": "Which of the following is found on the taskbar?",
+    "options": {
+      "A": "scrollbars",
+      "B": "wall paper",
+      "C": "screen saver",
+      "D": "quick\u00a0lunch toolbar"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62456?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "Quick launch toolbaris a taskbar feature that allows fast access to applications.",
+    "year": "2017"
+  },
+  {
+    "number": "211",
+    "text": "A high level language program translator which converts a source code to machine readable\u00a0format\u00a0and\u00a0compile executes it one line at a time is?",
+    "options": {
+      "A": "complier",
+      "B": "debugger",
+      "C": "editor",
+      "D": "interpreter"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62458?exam_type=waec&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "An interpreter translates high-level language source code to machine-readable format and executes it line by line. This process allows developers to test and debug their code more interactively, as changes can be made and executed immediately without the need to recompile the entire program.",
+    "year": "2017"
+  },
+  {
+    "number": "212",
+    "text": "Use the following QBASIC statement to answer questions 14 and 15.\nDIM DEPOSIT (1, 10) 14.\nThe keyword DIM in the statement stands for?",
+    "options": {
+      "A": "diagram",
+      "B": "diameter",
+      "C": "diamond",
+      "D": "dimension"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62459?exam_type=waec&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "213",
+    "text": "The expression DEPOSIT (1, 10) stands for an array\u00a0with?",
+    "options": {
+      "A": "1 element",
+      "B": "11 elements",
+      "C": "10 elements",
+      "D": "no element."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62460?exam_type=waec&type=obj&page=43",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "214",
+    "text": "In a star network, each node must?",
+    "options": {
+      "A": "be connected directly to adjacent node",
+      "B": "be connected directly to a central network hub",
+      "C": "be connected directly to a common backbone cable",
+      "D": "possess a token before it can transmit signal to adjacent node"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62461?exam_type=waec&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "In a star network, each node (computer, printer, or other device) is connected directly to a central network hub. The central hub manages and controls all functions of the network.",
+    "year": "2017"
+  },
+  {
+    "number": "215",
+    "text": "Which of the following views is used to create data base objects in Microsoft Access?",
+    "options": {
+      "A": "Design view",
+      "B": "Datasheet view",
+      "C": "Layout view",
+      "D": "Normal view"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62462?exam_type=waec&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "216",
+    "text": "A field chosen to uniquely identify every record in a database\u00a0is?",
+    "options": {
+      "A": "foreign key",
+      "B": "local key",
+      "C": "primary key",
+      "D": "secondary key"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62477?exam_type=waec&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "217",
+    "text": "Use the table below to answer questions 19 to 21\n\n\nCharacter\nDecimal code\nASCII CODE\n\n\nN\n78\n1001110\n\n\nO\n1\n1001111\n\n\nT\n84\n11\n\n\n\nThe cell labelled I in the table represents?",
+    "options": {
+      "A": "72",
+      "B": "74",
+      "C": "75",
+      "D": "79"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62479?exam_type=waec&type=obj&page=44",
+    "correct_answer": "D",
+    "explanation": "The cell labeled I in the table represents 79 according to ASCII the conversion code for 79 is 01001111.",
+    "year": "2017"
+  },
+  {
+    "number": "218",
+    "text": "Us the table below to answer this question\n\n\n\nCharacter\nDecimal Code\nASCII Code\n\n\n\u00a0 \u00a0 \u00a0N\n\u00a0 \u00a0 \u00a078\n\u00a0 \u00a01001110\n\n\n\u00a0 \u00a0 \u00a0O\n\u00a0 \u00a0 \u00a0 1\n\u00a0 \u00a01001111\n\n\n\u00a0 \u00a0 \u00a0T\n\u00a0 \u00a0 \u00a084\n\u00a0 \u00a0II\n\n\n\nThe cell labeled ll in the table represents?",
+    "options": {
+      "A": "1001101",
+      "B": "1010100",
+      "C": "1010101",
+      "D": "1010110"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62480?exam_type=waec&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "The cell labeled II represents the ACS II code for the letter T. The ASCII Code for the character \" T \" is 01010100",
+    "year": "2017"
+  },
+  {
+    "number": "219",
+    "text": "The ASCII code for the word NOT can be written as?",
+    "options": {
+      "A": "101010010011111001110.",
+      "B": "100111010011111010100",
+      "C": "100111110101001001110",
+      "D": "100111010101001111"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62481?exam_type=waec&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "220",
+    "text": "Which of the following is not a method of accessing file?",
+    "options": {
+      "A": "Circular",
+      "B": "Random",
+      "C": "Serial",
+      "D": "Sequential"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62482?exam_type=waec&type=obj&page=44",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "221",
+    "text": "The advantages of a computer include that they?\nI. operate at high speeds; II. think for the user; Ill. are accurate; IV. are credible.",
+    "options": {
+      "A": "I, Il and lll only",
+      "B": "I, III\u00a0and IV only",
+      "C": "II, l and IV only",
+      "D": "I, II, l and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62483?exam_type=waec&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "Computers operate at high speeds, are accurate, and are credible. However, computers do not think for the user. They only execute commands given to them by the user. Therefore, the correct answer is 'I, III and IV only'.",
+    "year": "2017"
+  },
+  {
+    "number": "222",
+    "text": "In MS Excel, comments used in cells are called?",
+    "options": {
+      "A": "cell tip",
+      "B": "smart tip",
+      "C": "soft tip",
+      "D": "web tip"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62484?exam_type=waec&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "In MS Excel, comments used in cells are calledcell tips.",
+    "year": "2017"
+  },
+  {
+    "number": "223",
+    "text": "Which of the following statements is not true about secondary storage media? They",
+    "options": {
+      "A": "are volatile",
+      "B": "are non-volatile",
+      "C": "are relatively cheap",
+      "D": "have storage capacity"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62485?exam_type=waec&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "The properties of\u00a0secondary storage media includes : It is non-volatile in nature,\u00a0It is less costly in comparison to primary memory,the storage capacity is quite high and scalable, and\u00a0It can be removable or fixed as per the requirement. Therefore OPTION A is not true.",
+    "year": "2017"
+  },
+  {
+    "number": "224",
+    "text": "Which of the file formats is supported in all windows operating systems?",
+    "options": {
+      "A": "BSDB.",
+      "B": "EXT",
+      "C": "FAT",
+      "D": "NTFS"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62486?exam_type=waec&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "225",
+    "text": "Which of the following symbols is not a relational operator in BASIC programming language?",
+    "options": {
+      "A": "<",
+      "B": ">",
+      "C": "^",
+      "D": "\u2264"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62487?exam_type=waec&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "In computer science, a relational operator is\u00a0a programming language construct or operator that tests or defines some kind of relation between two entities.\u00a0These include '! =' (not equal to), '>=' (greater than or equal to),\u00a0\u2264 ( less than or equal to) '<' (less than), > ( greater than) and '=' (equal to). The '^' operator, however, is not a relational operator.",
+    "year": "2017"
+  },
+  {
+    "number": "226",
+    "text": "The following are features of web browsers except?",
+    "options": {
+      "A": "address bar",
+      "B": "formula bar",
+      "C": "menu bar",
+      "D": "title bar"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62488?exam_type=waec&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "227",
+    "text": "The act of translating data into a secret code is known as?",
+    "options": {
+      "A": "authentication",
+      "B": "authorisation",
+      "C": "encryption",
+      "D": "piracy"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62489?exam_type=waec&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "Encryption\u2013 Process of converting electronic data into another form, called ciphertext, which cannot be easily understood by anyone except the authorized parties. This assures data security. While\u00a0Authentication is the process of determining whether someone or something is who or what they say they are. So OPTION C\u00a0is correct.",
+    "year": "2017"
+  },
+  {
+    "number": "228",
+    "text": "The absolute address of cell G5 in a spreadsheet application is represented by?",
+    "options": {
+      "A": "$G5",
+      "B": "G$5",
+      "C": "$G$5",
+      "D": "$G5$"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62490?exam_type=waec&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "In spreadsheet applications, the absolute address of a cell is represented by prefixing both the column letter and row number with a dollar sign ($). So, the absolute address of cell G5 is represented as $G$5. This means that if the formula is copied to another cell, the cell reference will not change.",
+    "year": "2017"
+  },
+  {
+    "number": "229",
+    "text": "Soft boot is initiated by pressing?",
+    "options": {
+      "A": "Ctrl + Alt + Del.",
+      "B": "function key F10.",
+      "C": "main switch.",
+      "D": "bootstrap buttons."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62491?exam_type=waec&type=obj&page=46",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "230",
+    "text": "Which of the following factors limits access to computerized file system? it",
+    "options": {
+      "A": "occupies less space",
+      "B": "requires regular supply of power",
+      "C": "is highly efficient in processing information",
+      "D": "provides easy and fast access to information"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62493?exam_type=waec&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "A computerized file system requires a regular supply of power to function. Without power, the system cannot operate, thus limiting access to the files. The other options are advantages of a computerized file system, not limitations.",
+    "year": "2017"
+  },
+  {
+    "number": "231",
+    "text": "Which of the following is not a good ICT security policy?",
+    "options": {
+      "A": "Re-use of old password",
+      "B": "Frequent change of password",
+      "C": "Backing up files and documents",
+      "D": "Scanning e-mail attachment for virus before opening it"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62494?exam_type=waec&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "232",
+    "text": "INPUT\nOUTPUT\n\n\nP\nO\nR\n\n\n0\n0\n1\n\n\n0\n1\n0\n\n\n1\n0\n0\n\n\n1\n1\n0\n\n\n\nThe table above represents the Truth Table for?",
+    "options": {
+      "A": "NOT logic gate",
+      "B": "NOR logic gate",
+      "C": "AND logic gate",
+      "D": "NAND logic gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62496?exam_type=waec&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": ".",
+    "year": "2017"
+  },
+  {
+    "number": "233",
+    "text": "Use the information below to answer questions 35 and 36\nI-Mouse Il. -Keyboard III-Scanner IV. -Joystick.\nThe input devices used to capture date of birth\u00a0on an Online form are?",
+    "options": {
+      "A": "I, Il and IV only",
+      "B": "I, II\u00a0and lll only",
+      "C": "I and ll only",
+      "D": "lI\u00a0and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62498?exam_type=waec&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "I-Mouse Il. -Keyboard IV. -Joystick\u00a0can be used to capture date of birth in an online form.",
+    "year": "2017"
+  },
+  {
+    "number": "234",
+    "text": "Use the information below to answer this question\nI. - Mouse II. - Keyboard III. - Scanner IV. - Joystick.\nThe input devices used to capture finger print is?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62499?exam_type=waec&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "A scanner is typically used to capture fingerprints.This is because a scanner can create a digital image of the fingerprint, which can then be stored and analyzed. \\(\\therefore\\) III is correct.",
+    "year": "2017"
+  },
+  {
+    "number": "235",
+    "text": "To hibernate windows operating system means?",
+    "options": {
+      "A": "re-start the computer in safe mode",
+      "B": "restart the computer in hibernate mode",
+      "C": "shut down the computer and terminate all the running applications",
+      "D": "shut down the computer without closing all the running applications"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62500?exam_type=waec&type=obj&page=47",
+    "correct_answer": "D",
+    "explanation": "A power-off mode that preserves the last state of the computer. Turning the computer on after hibernating eliminates booting the operating system and reloading all the applications and data.\u00a0When hibernate is activated, the contents of memory (RAM) are written to storage and the computer is turned off. When turned back on again, the previous memory state is read from storage, and all applications appear exactly as they did the moment hibernate was triggered.",
+    "year": "2017"
+  },
+  {
+    "number": "236",
+    "text": "Which of the following statements can be used for looping in BASIC?",
+    "options": {
+      "A": "FOR ... NEXT",
+      "B": "IF ... THEN",
+      "C": "GO TO",
+      "D": "Go\u00a0SUB"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62501?exam_type=waec&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "237",
+    "text": "The flowchart \u2666 symbol represents?",
+    "options": {
+      "A": "comment",
+      "B": "connector",
+      "C": "decision",
+      "D": "input/output"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62502?exam_type=waec&type=obj&page=48",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "238",
+    "text": "Which of the following tasks is accomplished by using bookmarks? To",
+    "options": {
+      "A": "add anchors in webpage",
+      "B": "add hyperlinks in webpage",
+      "C": "quickly jump to specific location in document",
+      "D": "mark the ending of a paragraph of a document"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62503?exam_type=waec&type=obj&page=48",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "239",
+    "text": "Which of the following function keys can be used to run slide show in a PowerPoint presentation?",
+    "options": {
+      "A": "F2",
+      "B": "F5",
+      "C": "F7",
+      "D": "F12"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62504?exam_type=waec&type=obj&page=48",
+    "correct_answer": "B",
+    "explanation": "The F\\(_5\\) function key is used to start a slide show in MS PowerPoint.\u00a0Function F5\u00a0Start a slide presentation from the beginning with the push of a button.",
+    "year": "2017"
+  },
+  {
+    "number": "240",
+    "text": "Use the MS Excel table below to answer questions 42 and43\nThe formula used to compute the TOTAL VALUE in cell D7 is?\u00a0 \u00a0\u00a0\n\n\n\nS/N\nA\nB\nC\nD\n\n\n1\nSTOCK LIST OF TAYO OKEKE AS AT MAY 2014\n\n\n2\nQUOTED STOCK\nSHARE UNIT IN THOUSAND\nCURRENT UNIT(#)\nVALUE\n\n\n3\nTANZEL PLC\n44\n50\n2,200.000\n\n\n4\nKAPTOL\n125\n80\n####\n\n\n5\nBANK KLM\n75\n140\n####\n\n\n6\nARIX OIL\n10\n250\n2,500.00\n\n\n7\n\u00a0\nTOTAL VALUE",
+    "options": {
+      "A": "= sum (D2:D7).",
+      "B": "= sum (D3:D7).",
+      "C": "= sum (D2:D6).",
+      "D": "= sum (D3:D6)."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62505?exam_type=waec&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "=\u00a0\u00a0sum (D3:D6).",
+    "year": "2017"
+  },
+  {
+    "number": "241",
+    "text": ".",
+    "options": {
+      "A": "Column A",
+      "B": "Column B",
+      "C": "Column C",
+      "D": "Column D"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62506?exam_type=waec&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "Column D needs to be adjusted to accommodate the cells contents. This is because the contents of the cells in column D are larger than the column width.",
+    "year": "2017"
+  },
+  {
+    "number": "242",
+    "text": "Which of the following statements is true for a circuit Switching communication system?",
+    "options": {
+      "A": "It is not ideal for a real-time communication",
+      "B": "Messages must be divided into packets before they are sent",
+      "C": "It does not require any dedicated channel to be established between two parties",
+      "D": "A dedicated channel must be established between two parties through the period of Communication"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62507?exam_type=waec&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "243",
+    "text": "The first three steps to open an email account include:\nI. - Click on create my account; II. - Go to home page; llI\u00a0- Click create new account.",
+    "options": {
+      "A": "I, ll and lll",
+      "B": "II, I and ll",
+      "C": "ll, lll and I",
+      "D": "I, lll and lI"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62508?exam_type=waec&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "The first three steps to open an e-mail account include:\nII - Go to the home pageIII - Click Create New Account\nI - Click on create my account",
+    "year": "2017"
+  },
+  {
+    "number": "244",
+    "text": "Converting 4B7\\(_{hexadecimal}\\) to binary is?",
+    "options": {
+      "A": "010010100111",
+      "B": "010010110111",
+      "C": "010010000111",
+      "D": "010011000111"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62509?exam_type=waec&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "Converting the hexadecimal number 4B7 to binary involves converting each hexadecimal digit to its 4-digit binary equivalent.\n4 (hexadecimal) = 0100 (binary) B (hexadecimal) = 1011 (binary) 7 (hexadecimal) = 0111 (binary)\nTherefore, 4B7 (hexadecimal) = 010010110111 (binary).",
+    "year": "2017"
+  },
+  {
+    "number": "245",
+    "text": "The modifier keys on the computer keyboard comprises of?",
+    "options": {
+      "A": "DEL, ESC and ALT keys.",
+      "B": "CTRL, CAPS LOCK and DEL keys.",
+      "C": "SHIFT, CTRL and ALT keys.",
+      "D": "CTRL, ALT and DEL keys."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62510?exam_type=waec&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "Amodifier keyis a key on a computer's keyboard\u00a0that's only used with another key. Modifier keys are used with other keys to perform computer keyboard shortcuts\u00a0and other commands. e.g. QWERTY\u00a0modifier keys include Alt, Ctrl, Shift, and the Window key. On the Apple Macintosh computer, the Control, Option, Command, and Shift\u00a0keys are modifier keys.",
+    "year": "2017"
+  },
+  {
+    "number": "246",
+    "text": "Arrange in hierarchical order by date the following inventions:\nI. - Census machine; Il. - Abacus; lll. - Slide rule; IV.- Difference engine.",
+    "options": {
+      "A": "I, lI, IlI\u00a0and IV",
+      "B": "I, Il, III\u00a0and IV",
+      "C": "I, II, IV and llI",
+      "D": "II,\u00a0III, IV, and l"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62511?exam_type=waec&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "1 II. Abacus(circa 500 BC)\n2 III. Slide rule(17th century, around 1620)\n3 IV. Difference engine(early 19th century, 1822)\n4 I. Census machine(1890)\nSo the proper sequence isII, III, IV, I.",
+    "year": "2017"
+  },
+  {
+    "number": "247",
+    "text": "A student mistakenly pressed the F5 key on keyboard while browsing on the internet. This will lead to?",
+    "options": {
+      "A": "opening of a new tab",
+      "B": "closing of the active window",
+      "C": "Closing of all windows",
+      "D": "reloading of the active window"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62512?exam_type=waec&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "Pressing the F5 key on a keyboard while browsing the internet will lead to the reloading of the active window. This is a common keyboard shortcut in many web browsers.",
+    "year": "2017"
+  },
+  {
+    "number": "248",
+    "text": "Opening an already existing sequential file in output (O) mode will lead to?",
+    "options": {
+      "A": "buffer overflow",
+      "B": "deletion of the current content of the file",
+      "C": "duplication of the current content of the file",
+      "D": "addition of new data to the content of the file"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62513?exam_type=waec&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  }
+]

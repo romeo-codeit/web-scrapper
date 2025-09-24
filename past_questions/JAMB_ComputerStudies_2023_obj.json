@@ -1,0 +1,1136 @@
+[
+  {
+    "number": "160",
+    "text": "Which of the following is used for modulation and demodulation ?",
+    "options": {
+      "A": "Gateway",
+      "B": "Protocol",
+      "C": "Modem",
+      "D": "Multiplex"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67757?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "A modem(modulator-demodulator) is a hardware device that connects a computer or router to a broadband network.",
+    "year": "2023"
+  },
+  {
+    "number": "161",
+    "text": "When records are given a new value, it is called",
+    "options": {
+      "A": "updation",
+      "B": "insertion",
+      "C": "deletion",
+      "D": "retrieval"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67758?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "When records are given a new value, it is called 'updation'. This is a process in database management where an existing record is modified with new data. 'Insertion' is adding a new record, 'deletion' is removing a record, and 'retrieval' is fetching data from the database.",
+    "year": "2023"
+  },
+  {
+    "number": "162",
+    "text": "The type of computers that are designed to perform complex calculations extremely rapidly are called ?",
+    "options": {
+      "A": "supercomputer",
+      "B": "micro computers",
+      "C": "laptops",
+      "D": "mainframe computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67759?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "Supercomputers are designed to perform complex calculations extremely rapidly. They are the fastest and most powerful type of computer, often used for large-scale simulations, such as weather forecasting, climate research, molecular modeling, and physical simulations.",
+    "year": "2023"
+  },
+  {
+    "number": "163",
+    "text": "A set of moral principles that regulate the use of computers is called",
+    "options": {
+      "A": "cyber security guidelines",
+      "B": "computer ethics",
+      "C": "computer safety laws",
+      "D": "computer rules"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67761?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "Computer ethics is the term used to describe a set of moral principles that regulate the use of computers. It involves questions related to privacy, accuracy, property, and access.",
+    "year": "2023"
+  },
+  {
+    "number": "164",
+    "text": "The logic gate in the figure above is",
+    "options": {
+      "A": "XNOR gate",
+      "B": "NOT gate",
+      "C": "XOR gate",
+      "D": "OR gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67763?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "C",
+    "explanation": "The figure above is the \"XOR (exclusive-OR) gate\" acts in the same way as the logical \"either/or.\" The output is true if either, but not both, of the inputs are true. The output is false if both inputs are \"false\" or if both inputs are true. Similarly, the output is 1 if the inputs are different but 0 if the inputs are the same. OR\u00a0\u00a0It's an XOR gatedenoted by Z = A \u2295 B.",
+    "year": "2023"
+  },
+  {
+    "number": "165",
+    "text": "A computer code that spreads without the user interaction and can cause network performance problem is",
+    "options": {
+      "A": "a trojan",
+      "B": "a computer worm",
+      "C": "a spyware",
+      "D": "a computer virus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67767?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "A computer worm is a computer code that spreads without user interaction, they are not always destructive but can cause network performance and stability problems.",
+    "year": "2023"
+  },
+  {
+    "number": "166",
+    "text": "The following are input devices except.",
+    "options": {
+      "A": "mouse",
+      "B": "monitor",
+      "C": "Keyboard",
+      "D": "joystick"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67768?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "The monitor is an output device, not an input device. Input devices are used to input data into a computer system for processing. Examples include a keyboard, mouse, joystick, etc. On the other hand, output devices are used to display or output the processed data. Examples include a monitor, printer, etc.",
+    "year": "2023"
+  },
+  {
+    "number": "167",
+    "text": "What category of application package does microsoft excel belong to ?",
+    "options": {
+      "A": "Word processing package",
+      "B": "Graphics packages",
+      "C": "Database management packages",
+      "D": "Spreadsheet packages"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67769?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "D",
+    "explanation": "Microsoft Excel is a spreadsheet package. It is used for storing, organizing, and manipulating data. It provides tools for data visualization such as charts and graphs. Word processing packages like Microsoft Word are used for creating, editing, and formatting text documents. Database management packages are used for storing, retrieving, and managing data in a database. Graphics packages are used for creating and editing images, drawings, and illustrations.",
+    "year": "2023"
+  },
+  {
+    "number": "168",
+    "text": "A type of application software that combines the abilities of several general purpose applications in one program is ?",
+    "options": {
+      "A": "Graphics Packages",
+      "B": "Integrated Packages",
+      "C": "Multipurpose application",
+      "D": "Database management packages"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67770?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "Integrated Packages is an all-in-one application package that includes word processing, spreadsheet, database manager, graphics and communications.",
+    "year": "2023"
+  },
+  {
+    "number": "169",
+    "text": "What is the function of the escape key ?",
+    "options": {
+      "A": "to shutdown the computer",
+      "B": "to start an application",
+      "C": "to interrupt or cancel the current process or running program",
+      "D": "to delete a file/folder"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67771?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "C",
+    "explanation": "Escape key can perform various functions like interrupting or cancelling the current process or running program or close a pop-up window.",
+    "year": "2023"
+  },
+  {
+    "number": "170",
+    "text": "A set of programs that direct computers to perform specific information processing activities for end users is",
+    "options": {
+      "A": "System software",
+      "B": "Operating System",
+      "C": "Application software",
+      "D": "Translators"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67772?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "C",
+    "explanation": "Application software is the set of programs necessary to carry out operations for a specified application.",
+    "year": "2023"
+  },
+  {
+    "number": "171",
+    "text": "What protocol is used between Email servers?",
+    "options": {
+      "A": "SMTP",
+      "B": "SNMP",
+      "C": "FTP",
+      "D": "POP"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67773?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "A",
+    "explanation": "The Simple Mail Transfer Protocol is an internet standard communication protocol for electronic mail transmission.",
+    "year": "2023"
+  },
+  {
+    "number": "172",
+    "text": "The following are the methods of file security except",
+    "options": {
+      "A": "hacking",
+      "B": "use of password",
+      "C": "Use of back up",
+      "D": "Use of Anti-virus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67774?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "A",
+    "explanation": "The methods of file security are- Use of back-ups- Use of anti-virus- Password- Proper label of storage devices.",
+    "year": "2023"
+  },
+  {
+    "number": "173",
+    "text": "The first step in a CPU instruction cycle is",
+    "options": {
+      "A": "Decode",
+      "B": "Get",
+      "C": "Fetch",
+      "D": "Execute"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67775?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "Fetch is the first step of CPU instruction cycle also called fetch-and-execute cycle, fetch-decode-execute cycle, or FDX.",
+    "year": "2023"
+  },
+  {
+    "number": "174",
+    "text": "Which of the following is not an example of graphics packages",
+    "options": {
+      "A": "Freelance",
+      "B": "Quattro pro",
+      "C": "Corel draw",
+      "D": "Havard graphics"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67776?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "B",
+    "explanation": "Quattro Pro is not a graphics package. It is a spreadsheet program developed by Borland and now managed by Corel. It provides tools for data management and analysis. Havard Graphics, Freelance, and Corel Draw are examples of graphics packages. They provide tools for creating and editing images, drawings, and illustrations.",
+    "year": "2023"
+  },
+  {
+    "number": "175",
+    "text": "The process of finding and correcting errors in the program code is called ?",
+    "options": {
+      "A": "testing",
+      "B": "Debugging",
+      "C": "Editing",
+      "D": "coding"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67777?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "B",
+    "explanation": "Debugging is the process of finding and correcting errors in the program code. It involves identifying, isolating, and fixing the problems or bugs in computer program code. The other options do not accurately describe this process. Editing is the process of making changes to the code, but it does not necessarily involve finding and correcting errors. Coding is the process of writing the code, and testing is the process of checking the code to see if it works as expected.",
+    "year": "2023"
+  },
+  {
+    "number": "176",
+    "text": "Which of the following components of the computer is referred to as the administrative section ?",
+    "options": {
+      "A": "CPU",
+      "B": "Output unit",
+      "C": "Input unit",
+      "D": "Memory Unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67778?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "A",
+    "explanation": "CPU is referred to as the administrative section of the computer, it is also called the brain of the computer.",
+    "year": "2023"
+  },
+  {
+    "number": "177",
+    "text": "Which of the following is not a third generation language?",
+    "options": {
+      "A": "FORTRAN",
+      "B": "COBOL",
+      "C": "Assembly language",
+      "D": "Basic"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67779?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "Assembly language is a low-level programming language that is specific to a particular computer architecture. It is more difficult to learn and use than higher-level programming languages, but it offers more control over the hardware.",
+    "year": "2023"
+  },
+  {
+    "number": "178",
+    "text": "Which of these commands will reboot the computer ?",
+    "options": {
+      "A": "Ctrl + Alt + Del",
+      "B": "Ctrl + Del",
+      "C": "Ctrl + Alt + C",
+      "D": "Ctrl + Alt"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67780?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "A",
+    "explanation": "The command 'Ctrl + Alt + Del' is a common PC shortcut that restarts the computer. It is also known as 'Three-finger salute'. This command is used to bring up the Task Manager or the Windows Security options (including the option to restart or shut down) in Windows operating systems.",
+    "year": "2023"
+  },
+  {
+    "number": "179",
+    "text": "The type of database in which the data are connected in different files by using common data elements or a key field is ?",
+    "options": {
+      "A": "Relational database",
+      "B": "Network database",
+      "C": "Hierarchical database",
+      "D": "Object-oriented database"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67781?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "A",
+    "explanation": "Relational database connects data in different files by using a common data elements or a key field.",
+    "year": "2023"
+  },
+  {
+    "number": "180",
+    "text": "Anti-virus software is an example of ?",
+    "options": {
+      "A": "Utility programs",
+      "B": "Operating systems",
+      "C": "Application software",
+      "D": "Translators"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67782?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "A",
+    "explanation": "software utilities is a type of computer system software also referred to as service program, tool, service routine, or utility routine, they help to analyze, configure, optimize or maintain a computer.",
+    "year": "2023"
+  },
+  {
+    "number": "181",
+    "text": "What is the shortcut for creating a new document ?",
+    "options": {
+      "A": "Ctrl + N",
+      "B": "Ctrl + O",
+      "C": "Ctrl + Q",
+      "D": "Ctrl + M"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67783?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "The shortcut for creating a new document is Ctrl + N. This is a standard shortcut across many applications and operating systems.",
+    "year": "2023"
+  },
+  {
+    "number": "182",
+    "text": "Which of these criteria is not important while classifying files ?",
+    "options": {
+      "A": "Organization method",
+      "B": "Nature of content in the file",
+      "C": "Size of the file",
+      "D": "Storage medium"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67784?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "D",
+    "explanation": "While classifying files, the storage medium is not a criterion. The classification of files is based on the nature of the content in the file, the organization method, and the size of the file. The storage medium is where the file is stored, which does not affect the classification of the file.",
+    "year": "2023"
+  },
+  {
+    "number": "183",
+    "text": "Which of the following is a valid variable name in Python?",
+    "options": {
+      "A": "my_variable$",
+      "B": "my_variable",
+      "C": "my-variable",
+      "D": "1my_variable"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67785?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "Variable names in Python must start with a letter or underscore, and can only contain letters, numbers, and underscores. The other options are invalid because they either start with a number (option C) or contain a special character (option D).",
+    "year": "2023"
+  },
+  {
+    "number": "184",
+    "text": "How many bits are in one nibble ?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67786?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "A nibble is a four-bit aggregation, or half an octet. It is also known as half-byte or tetrade. In a networking or telecommunication context, the nibble is often called a semi-octet, quadbit, or quartet. A nibble has sixteen (2^4) possible values.",
+    "year": "2023"
+  },
+  {
+    "number": "185",
+    "text": "The only possible number base for 235\\(_x\\) among the following is ?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67787?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "D",
+    "explanation": "A number cannot contain digits that are greater than its base.therefore 235 can possible be in base 6.",
+    "year": "2023"
+  },
+  {
+    "number": "186",
+    "text": "At what stage in system development life cycle are all data documented in the form of detailed data flow diagrams(DFDs)",
+    "options": {
+      "A": "System design",
+      "B": "Feasibility study",
+      "C": "System analysis",
+      "D": "Investigative study"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67788?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "C",
+    "explanation": "During the System Analysis stage of the System Development Life Cycle (SDLC), all data are documented in the form of detailed Data Flow Diagrams (DFDs). The System Analysis stage involves understanding and documenting the business processes and requirements of the new system.",
+    "year": "2023"
+  },
+  {
+    "number": "187",
+    "text": "Translators are type of ?",
+    "options": {
+      "A": "System software",
+      "B": "Operating system",
+      "C": "Utility programs",
+      "D": "Application software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67789?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "Translators are a type of system software. They are used to convert source code written in one programming language (the source language) into another programming language (the target language). Examples of translators include compilers, interpreters, and assemblers. System software is a type of computer software designed to run a computer's hardware and application programs. It includes the operating system, device drivers, diagnostic tools, servers, windowing systems, utilities, and more.",
+    "year": "2023"
+  },
+  {
+    "number": "188",
+    "text": "What is the difference between an assembler and a compiler ?",
+    "options": {
+      "A": "an assembler converts a machine language code into assembly level language code while a compiler converts high level programming language to a machine language code.",
+      "B": "an assembler converts assembly level language code into machine language code while a compiler converts high level programming language code to a machine language code.",
+      "C": "a compiler converts assembly level language code into machine lange while an assembler converts high level programming language to a machine language code.",
+      "D": "they both convert assembly level language code into machine lange"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67790?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "An assembler converts assembly level language code into machine language code while a compiler converts high level programming language code to a machine language code.",
+    "year": "2023"
+  },
+  {
+    "number": "189",
+    "text": "Which of these storage devices can act as a buffer between the CPU and the main memory ?",
+    "options": {
+      "A": "Hard disk",
+      "B": "Floppy disk",
+      "C": "Cache Memory",
+      "D": "Flash drive"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67791?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "C",
+    "explanation": "Cache memory is a very high speed semiconductor memory which can speed up CPU, it acts as a buffer between the CPU and main memory.",
+    "year": "2023"
+  },
+  {
+    "number": "190",
+    "text": "Evaluate \\(1011_2 + 122_4\\), leaving your answer in base 10.",
+    "options": {
+      "A": "37",
+      "B": "51",
+      "C": "47",
+      "D": "73"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67792?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "1011\\(_2\\) = 1 \u00d7 2\\(^3\\) + 0 \u00d7 2\\(^2\\) + 1 \u00d7 2\\(^1\\) + 1 \u00d7 2\\(^0\\)1 \u00d7 8 + 0 \u00d7 4 + 1 \u00d7 2 + 1 \u00d7 1 = 8 + 0 + 2 + 1 = 11122\\(_4\\) = 1 \u00d7 4\\(^2\\) + 2 \u00d7 4\\(^1\\) + 2 \u00d7 4\\(^0\\)1 \u00d7 16 + 2 \u00d7 4 + 2 \u00d7 1 = 16 + 8 + 2 = 2611 + 26 = 37",
+    "year": "2023"
+  },
+  {
+    "number": "191",
+    "text": "What part of the central processing unit coordinates other units and manages the computer resources ?",
+    "options": {
+      "A": "coordinating unit",
+      "B": "Memory unit",
+      "C": "Arithmetic Logic unit",
+      "D": "Control unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67793?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "D",
+    "explanation": "The Control Unit of the Central Processing Unit (CPU) coordinates other units and manages the computer resources. It directs the operation of the processor, and interacts with the other hardware components in the system to carry out the instructions of a program. It is responsible for fetching, decoding, and executing instructions from the memory unit and performing arithmetic and logical operations.",
+    "year": "2023"
+  },
+  {
+    "number": "192",
+    "text": "What does R stands for in the CRUD acronym ?",
+    "options": {
+      "A": "Retrieve",
+      "B": "Redirect",
+      "C": "Read",
+      "D": "Relate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67794?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "C",
+    "explanation": "In the CRUD acronym, R stands for 'Read'. CRUD stands for Create, Read, Update, and Delete. These are the four basic functions of persistent storage in databases.",
+    "year": "2023"
+  },
+  {
+    "number": "193",
+    "text": "Which of these is not true about peer-to-peer network ?",
+    "options": {
+      "A": "there is no dedicated servers",
+      "B": "it has a strong security system",
+      "C": "all computers in this network are known as peers",
+      "D": "there is no hierarchy among the computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67796?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "A peer-to-peer (P2P) network is a decentralized network where each computer (peer) acts as both a client and a server. This means that there are no dedicated servers and no hierarchy among the computers. However, P2P networks are generally not known for having a strong security system. This is because each peer has equal access to the resources, which can lead to potential security risks.",
+    "year": "2023"
+  },
+  {
+    "number": "194",
+    "text": "The Output will be a HIGH for any case when one or more inputs are one for a(an)",
+    "options": {
+      "A": "OR gate",
+      "B": "AND gate",
+      "C": "NOR gate",
+      "D": "NOT gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67799?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "An OR gate is a digital logic gate that implements logical disjunction - it behaves according to the truth table to the right. A HIGH output (1) results if one or more of the inputs to the gate is HIGH (1). If neither input is high, a LOW output (0) results. In another sense, the function of OR effectively finds the maximum between two binary digits, just as the complementary AND function finds the minimum.",
+    "year": "2023"
+  },
+  {
+    "number": "195",
+    "text": "What type of booting does the computer go through when starting up from a powered down ?",
+    "options": {
+      "A": "Cold booting",
+      "B": "Soft booting",
+      "C": "Warm booting",
+      "D": "Rebooting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67801?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "Cold booting is when you start a computer from a powered-down, or off, state. This is often referred to as a system restart or a system reset. Warm booting, on the other hand, is restarting the computer while it's powered on. Rebooting and soft booting are general terms for restarting a computer and can refer to either cold or warm booting.",
+    "year": "2023"
+  },
+  {
+    "number": "196",
+    "text": "What type of booting does the computer go through when starting up from a powered down ?",
+    "options": {
+      "A": "Cold booting",
+      "B": "Soft booting",
+      "C": "Warm booting",
+      "D": "Rebooting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67802?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "Cold booting is when you start a computer from a powered-down, or off, state. This is often referred to as a system restart or a system reset. Warm booting, on the other hand, is restarting the computer while it's powered on. Rebooting and soft booting are general terms for restarting a computer and can refer to either cold or warm booting.",
+    "year": "2023"
+  },
+  {
+    "number": "197",
+    "text": "The connection between two or more computers to share resources or allow electronic communication is called ?",
+    "options": {
+      "A": "Connection",
+      "B": "Communication",
+      "C": "Transfer",
+      "D": "Network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67803?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "A network consists of two or more computers that are linked together in order to share resources, exchange files or allow electronic communication",
+    "year": "2023"
+  },
+  {
+    "number": "198",
+    "text": "Which of the following is the standard keyboard layout ?",
+    "options": {
+      "A": "Dvorak",
+      "B": "QWERTY",
+      "C": "AZERTY",
+      "D": "ABCD"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67804?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "B",
+    "explanation": "The standard keyboard layout is QWERTY. This layout was patented by Christopher Sholes who invented the typewriter and later adapted to the world's first computers.",
+    "year": "2023"
+  },
+  {
+    "number": "199",
+    "text": "Analog, digital and hybrid computers are classification of computers based on",
+    "options": {
+      "A": "the type of data-handling techniques",
+      "B": "the purpose",
+      "C": "the size",
+      "D": "the functionality"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67805?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "Computers are classified into analog, digital, and hybrid based on the type of data-handling techniques they use. Analog computers work with continuous data and are used for tasks such as measuring and controlling voltages. Digital computers work with discrete data and are used for tasks such as word processing and spreadsheet calculations. Hybrid computers combine the features of both analog and digital computers.",
+    "year": "2023"
+  },
+  {
+    "number": "200",
+    "text": "Which of the following is not an application software",
+    "options": {
+      "A": "MS - Word",
+      "B": "Corel Draw",
+      "C": "Linux",
+      "D": "MacWrite"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67807?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "Linux is not an application software. It is an example of system software.",
+    "year": "2023"
+  },
+  {
+    "number": "201",
+    "text": "Which of the following is NOT a high-level programming language?",
+    "options": {
+      "A": "Assembly language",
+      "B": "C++",
+      "C": "Python",
+      "D": "Java"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67826?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "Assembly language is a low-level programming language that is specific to a particular computer architecture. It is more difficult to learn and use than high-level programming languages, but it offers more control over the hardware.",
+    "year": "2023"
+  },
+  {
+    "number": "202",
+    "text": "what is the first computing machine invented ?",
+    "options": {
+      "A": "slide rule",
+      "B": "Pascal calculator",
+      "C": "Napier bones",
+      "D": "Abacus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67827?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "D",
+    "explanation": "The Abacus was invented between 2700 and 2300 BC, it is the first computing machine known to mankind.",
+    "year": "2023"
+  },
+  {
+    "number": "203",
+    "text": "The default file extension for PowerPoint version 2007 and newer is ?",
+    "options": {
+      "A": ".ppxt",
+      "B": ".pps",
+      "C": ".ppt",
+      "D": ".pptx"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67828?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "D",
+    "explanation": "The default file extension for PowerPoint version 2007 and newer is .pptx. This extension stands for PowerPoint Open XML, which is a file format used by PowerPoint 2007 and newer for saving presentations.",
+    "year": "2023"
+  },
+  {
+    "number": "204",
+    "text": "Which of the following can be used to select the entire document ?",
+    "options": {
+      "A": "Ctrl + K",
+      "B": "Ctrl + A",
+      "C": "Shift + A",
+      "D": "Alt + F5"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67829?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "The keyboard shortcut 'Ctrl + A' is used to select the entire document in most word processing software. This command selects all text or other content in the document.",
+    "year": "2023"
+  },
+  {
+    "number": "205",
+    "text": "Which of the following does not replicate itself in an infected computer?",
+    "options": {
+      "A": "spyware",
+      "B": "worm",
+      "C": "trojan horse",
+      "D": "virus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67832?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "C",
+    "explanation": "trojan horse is a malicious software program that hides inside other programs, trojan horse does not usually spread by themselves.",
+    "year": "2023"
+  },
+  {
+    "number": "206",
+    "text": "The last cycle of data processing where data and information are preserved for future is called",
+    "options": {
+      "A": "processing",
+      "B": "recording",
+      "C": "storage",
+      "D": "output"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67833?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "The last cycle of data processing where data and information are preserved for future use is called 'storage'. This is the phase where data or information is saved either temporarily or permanently for future use. The 'output' is the result of data processing but not necessarily preserved for future use. 'Processing' is the action of manipulating data. 'Record' is a piece of stored information.",
+    "year": "2023"
+  },
+  {
+    "number": "207",
+    "text": "A device that sends and receives printed pages or images over telephone lines by digitizing the material with an internal optical scanner and transmitting the information as electronic signals is a",
+    "options": {
+      "A": "ATM",
+      "B": "scanner",
+      "C": "GSM",
+      "D": "fax machine"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67834?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "Fax machine is a device that sends and receives printed pages or images over telephone lines by digitizing the material with an internal optical scanner and transmitting the information as electronic signals.",
+    "year": "2023"
+  },
+  {
+    "number": "208",
+    "text": "The first computer made available for commercial use was",
+    "options": {
+      "A": "UNIVAC",
+      "B": "EDSAC",
+      "C": "Mark-1",
+      "D": "ENIAC"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67835?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "A",
+    "explanation": "On June 14, 1951, the U.S. Census bureau dedicates UNIVAC(Universal Automatic Computer), the first commercially produced electronic digital computer the US.",
+    "year": "2023"
+  },
+  {
+    "number": "209",
+    "text": "An action performed in the GUI operating systems to hide a window but keep the program running in the background is ?",
+    "options": {
+      "A": "hide",
+      "B": "multitasking",
+      "C": "minimize",
+      "D": "maximize"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67836?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "Minimize is an action performed in the GUI operating systems to hide a window but keep the program running in the background",
+    "year": "2023"
+  },
+  {
+    "number": "210",
+    "text": "What is the shortcut for performing warm booting ?",
+    "options": {
+      "A": "y pressing the Ctrl + Alt keys simultaneously",
+      "B": "y pressing the Ctrl + Alt + F1 keys simultaneously",
+      "C": "y pressing the Ctrl + Del keys simultaneously",
+      "D": "by pressing the Ctrl + Alt + Del keys simultaneously"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67837?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "Warm booting refers to the process of restarting a computer system which is already on. This can be done by pressing the Ctrl + Alt + Del keys simultaneously. This is a common shortcut for warm booting in many operating systems.",
+    "year": "2023"
+  },
+  {
+    "number": "211",
+    "text": "EDVAC was produced using which of these concepts ?",
+    "options": {
+      "A": "packet routing",
+      "B": "stored program",
+      "C": "circuit switching",
+      "D": "packet switching"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67838?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "EDVAC (Electronic Discrete Variable Automatic Computer) was produced using the 'stored program' concept. This concept is a design architecture for computers where the instructions to be executed by the computer are stored in the same memory that holds the data. 'Circuit switching', 'packet routing', and 'packet switching' are concepts related to network communication, not computer design.",
+    "year": "2023"
+  },
+  {
+    "number": "212",
+    "text": "When the computer reboots itself without triggering the hardware based reset, it is called ?",
+    "options": {
+      "A": "cold booting",
+      "B": "hard reboot",
+      "C": "cold reboot",
+      "D": "soft reboot"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67839?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "soft or warm reboot involves restarting a computer under software control without triggering the hardware based reset.",
+    "year": "2023"
+  },
+  {
+    "number": "213",
+    "text": "Who invented the Napier Bones",
+    "options": {
+      "A": "John Napier",
+      "B": "Samuel Napier",
+      "C": "Joseph Jacquard",
+      "D": "Charles Babbage"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67840?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "Napier's bones is a manually-operated calculating device created by John Napier of Merchiston for calculation of products and quotients of numbers. The method was based on the ancient mathematical principle known as the Arabic lattice, or gelosia multiplication.",
+    "year": "2023"
+  },
+  {
+    "number": "214",
+    "text": "What is the difference between internal and external modem",
+    "options": {
+      "A": "external modems are PCI or ISA expansion cards while internal modems are traditionally plug into a serial port on the computer.",
+      "B": "internal modems are PCI or ISA expansion cards while external modems are traditionally plug into a serial port on the computer.",
+      "C": "external modems are PCI or ISA expansion cards while internal modems are USB modems",
+      "D": "they are PCI or ISA expansion cards"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67841?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "Internal modems are PCI or ISA expansion cards, they tend to be simple to install while external modems are traditionally plug into a serial port on the computer.",
+    "year": "2023"
+  },
+  {
+    "number": "215",
+    "text": "The two types of operating system are",
+    "options": {
+      "A": "command line and graphical user interface",
+      "B": "translators and assemblers",
+      "C": "system software and application software",
+      "D": "UNIX and LINUX"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67842?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "Operating systems can be categorized into two types based on their user interface: Command Line Interface (CLI) and Graphical User Interface (GUI). CLI requires users to type commands to interact with the system, while GUI uses visual elements like icons, windows, and buttons for interaction.",
+    "year": "2023"
+  },
+  {
+    "number": "216",
+    "text": "Which of these application packages can be used to create a spreadsheet ?",
+    "options": {
+      "A": "Microsoft powerpoint",
+      "B": "Microsoft excel",
+      "C": "Macwrite",
+      "D": "Microsoft word"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67843?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "Microsoft Excel is an application package that is specifically designed for creating spreadsheets. It provides features for creating, editing, and managing data in a tabular format.",
+    "year": "2023"
+  },
+  {
+    "number": "217",
+    "text": "In technical feasibility, the priority is ?",
+    "options": {
+      "A": "whether the probolem can be solved in the user's environment",
+      "B": "if the likely benefits outweight the cost of solving the problem",
+      "C": "whether the problem can be solved using existing technology and resources available",
+      "D": "whether the problem can be solved without causing any social issues"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67844?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "In technical feasibility, the priority is to check whether the problem can be solved using existing technology and resources available.",
+    "year": "2023"
+  },
+  {
+    "number": "218",
+    "text": "What generation of computer is characterized by the use of vacuum tubes for circuitry and magnetic drums for main memory?",
+    "options": {
+      "A": "second generation",
+      "B": "fourth generation",
+      "C": "first generation",
+      "D": "third generation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67845?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "The first generation computer systems used vacuum tubes for circuitry and magnetic drums for main memory, and they were often enormous, taking up entire rooms.",
+    "year": "2023"
+  },
+  {
+    "number": "219",
+    "text": "Large computers are classified as",
+    "options": {
+      "A": "desktops",
+      "B": "micro computers",
+      "C": "mini computers",
+      "D": "mainframe computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67846?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "D",
+    "explanation": "mainframe computers are large and powerful computers that handle the processing for many users simultaneously",
+    "year": "2023"
+  },
+  {
+    "number": "220",
+    "text": "Which of the following allows devices on one network to communicate with devices on another network ?",
+    "options": {
+      "A": "T-switch",
+      "B": "gateway",
+      "C": "modem",
+      "D": "multiplexer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67847?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "A computer that sits between different networks or applications. The gateway converts information, data or other communications from one protocol or format to another.",
+    "year": "2023"
+  },
+  {
+    "number": "221",
+    "text": "The diagrammatic representation of an algorithm is",
+    "options": {
+      "A": "pseudocodes",
+      "B": "codes",
+      "C": "graphics",
+      "D": "flowchart"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67848?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "The diagrammatic representation of an algorithm is a flowchart. A flowchart is a type of diagram that represents an algorithm, workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows.",
+    "year": "2023"
+  },
+  {
+    "number": "222",
+    "text": "The process where a programmer converts a program specifications into computer instructions is called ?",
+    "options": {
+      "A": "Debugging",
+      "B": "Coding",
+      "C": "Testing",
+      "D": "System design"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67849?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "The process where a programmer converts a program specifications into computer instructions is called Coding. Testing is the process of checking the functionality of the program, System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements, and Debugging is the process of finding and resolving defects or problems within a computer program.",
+    "year": "2023"
+  },
+  {
+    "number": "223",
+    "text": "Which of these programming languages is the most suitable for a business data processing?",
+    "options": {
+      "A": "BASIC",
+      "B": "ALGOL",
+      "C": "COBOL",
+      "D": "FORTRAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67850?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "COBOL (Common Business-Oriented Language) is the most suitable for business data processing. It was specifically designed for business data processing needs such as arithmetic operations, file handling, and record management. BASIC and FORTRAN are more suited for educational and scientific computations respectively, while ALGOL is more for algorithmic representation.",
+    "year": "2023"
+  },
+  {
+    "number": "224",
+    "text": "The term used to describe when new information replaces old information or data is",
+    "options": {
+      "A": "file loss",
+      "B": "delete",
+      "C": "re-write",
+      "D": "overwrite"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67851?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "In computing, when new information replaces old information or data, it is referred to as 'overwrite'. This is because the new data is written over the old data, effectively replacing it. Therefore, the correct answer is 'overwrite'.",
+    "year": "2023"
+  },
+  {
+    "number": "225",
+    "text": "___ is the type of computer that is designed to operate on two states, 0 and 1.",
+    "options": {
+      "A": "Analog computer",
+      "B": "Hybrid computer",
+      "C": "Digital computer",
+      "D": "micro computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67852?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "A digital computer is a type of computer that operates on digital data, which is represented in binary form (0 and 1). These computers perform calculations using binary digits and can process both numerical and non-numerical data.",
+    "year": "2023"
+  },
+  {
+    "number": "226",
+    "text": "Which of the following is an example of graphics software ?",
+    "options": {
+      "A": "Microsoft word",
+      "B": "Adobe Illustrator",
+      "C": "Microsoft powerpoint",
+      "D": "MS Access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67853?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. It is an example of graphics software, which is used to create, edit, and manipulate visual images.",
+    "year": "2023"
+  },
+  {
+    "number": "227",
+    "text": "which communication channel allows the sending of information in one direction only?",
+    "options": {
+      "A": "simplex mode",
+      "B": "half duplex mode",
+      "C": "duplex mode",
+      "D": "full duplex mode"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67854?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "A",
+    "explanation": "simplex mode allows the sending of information in one direction only, which is similar to a one-way street.",
+    "year": "2023"
+  },
+  {
+    "number": "228",
+    "text": "Which of the following monitors has only two colours",
+    "options": {
+      "A": "colour monitor",
+      "B": "colour graphic adapter (CGA)",
+      "C": "dichrome monitor",
+      "D": "monochrome monitor"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67855?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "A monochrome monitor is a type of CRT computer monitor which was very common in the early days of computing, from the 1960s through the 1980s, before color monitors became popular. They are designed to display one color of information (usually green, amber, or white) along with a different color background (usually black). Therefore, the correct answer is 'monochrome monitor'.",
+    "year": "2023"
+  },
+  {
+    "number": "229",
+    "text": "Computers manipulate data in many ways, and this manipulation is called ?",
+    "options": {
+      "A": "batching",
+      "B": "utilizing",
+      "C": "processing",
+      "D": "upgrading"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67856?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "Computers manipulate data in many ways, and this manipulation is called processing. Data processing refers to the conversion of raw data into meaningful output by performing computations, logical comparisons, and other operations.",
+    "year": "2023"
+  },
+  {
+    "number": "230",
+    "text": "The computer that combines the functions of both analog and digital computers is called ?",
+    "options": {
+      "A": "Digital computer",
+      "B": "Analog computer",
+      "C": "Hybrid computer",
+      "D": "multipurpose computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67857?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "A hybrid computer is a type of computer that combines the characteristics of both digital and analog computers. It is designed to offer the speed of analog equipment and the accuracy and memory of digital equipment.",
+    "year": "2023"
+  },
+  {
+    "number": "231",
+    "text": "In BASIC, REM shows a statement to be",
+    "options": {
+      "A": "executable statement",
+      "B": "un-executable statement",
+      "C": "comment",
+      "D": "output"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67858?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "REM is an abbreviation for remark and it's the way you add comments to your code in BASIC.",
+    "year": "2023"
+  },
+  {
+    "number": "232",
+    "text": "Computers that are small and low cost are referred to as ?",
+    "options": {
+      "A": "mini computers",
+      "B": "small computers",
+      "C": "tablet computers",
+      "D": "micro computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67859?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "D",
+    "explanation": "Micro computers are small and low cost digital computers, which usually consists of a micro-processor, a storage unit, an input channel and an output channel.",
+    "year": "2023"
+  },
+  {
+    "number": "233",
+    "text": "If the control unit controls other units of the CPU, which unit stores instructions,data and intermediate results.",
+    "options": {
+      "A": "Memory unit",
+      "B": "Arithmetic section",
+      "C": "Control unit",
+      "D": "Logic section"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67860?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "The memory unit of the CPU stores instructions, data, and intermediate results. The control unit controls the operation of the CPU and hence the computer. The arithmetic section performs arithmetic operations like addition, subtraction, multiplication, and division. The logic section performs logical operations like comparison of values.",
+    "year": "2023"
+  },
+  {
+    "number": "234",
+    "text": "The closest computer language to human is ?",
+    "options": {
+      "A": "High level language",
+      "B": "Low level language",
+      "C": "Machine language",
+      "D": "Assembly language"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67861?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "High level languages give formats close to English language and the purpose of developing high level language is to enable people to write programs easily and in their own native language environment.",
+    "year": "2023"
+  },
+  {
+    "number": "235",
+    "text": "Translating the problem statement into a series of sequential steps describing what the program must do is known as",
+    "options": {
+      "A": "coding",
+      "B": "creating the algorithm",
+      "C": "debugging",
+      "D": "writing documentation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67862?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "Algorithm design is the process of listing all the instructions which are to be performed by the computer at different stages.",
+    "year": "2023"
+  },
+  {
+    "number": "236",
+    "text": "One of the following is not a good way to prevent virus.",
+    "options": {
+      "A": "encryption",
+      "B": "use of firewall",
+      "C": "carelessly exposing your vital and personal information",
+      "D": "use of antivirus software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67864?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "C",
+    "explanation": "Ways of preventing virus- use of antivirus software- use of firewall- exercising care in giving out personal and vital information- encryptions",
+    "year": "2023"
+  },
+  {
+    "number": "237",
+    "text": "The first stage of data processing activities is ?",
+    "options": {
+      "A": "Manipulation",
+      "B": "Collection",
+      "C": "Conversion",
+      "D": "Sorting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67865?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "B",
+    "explanation": "The first stage of data processing is the collection or gathering of data and recording it in a usable form.",
+    "year": "2023"
+  },
+  {
+    "number": "238",
+    "text": "Using Boolean identities, reduce the given Boolean expression:\nA(A+1) + A(B+0) + C.1",
+    "options": {
+      "A": "A + B + C",
+      "B": "A.C",
+      "C": "A.B + C",
+      "D": "A + C"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67866?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "Using Boolean identities, the given Boolean expression A(A+1) + A(B+0) + C.1 can be reduced as follows: A.1 + A.B + C = A + A.B + C = A + C. The Boolean identity A + A.B = A is used here, which states that if A is true, the whole expression is true regardless of the value of B.",
+    "year": "2023"
+  },
+  {
+    "number": "239",
+    "text": "In computer architecture, the type of bus that connects the major components of a computer system is",
+    "options": {
+      "A": "address",
+      "B": "data bus",
+      "C": "control bus",
+      "D": "system bus"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67867?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "In computer architecture, the system bus is the main communication route that connects the major components of a computer system, such as the CPU, memory, and input/output devices. It is composed of the data bus, address bus, and control bus. Therefore, the correct answer is 'system bus'.",
+    "year": "2023"
+  },
+  {
+    "number": "240",
+    "text": "Which of the following controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+    "options": {
+      "A": "CPU",
+      "B": "application software",
+      "C": "operating system",
+      "D": "ALU"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/67868?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "C",
+    "explanation": "Operating system controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+    "year": "2023"
+  }
+]

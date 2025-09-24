@@ -1,0 +1,548 @@
+[
+  {
+    "number": "320",
+    "text": "The Difference Engine and the Analytical Engine were invented by",
+    "options": {
+      "A": "Ada Lovelace and Charles Babbage",
+      "B": "Blaise Pascal",
+      "C": "Blaise Pascal and Ada Lovelace",
+      "D": "Charles Babbage"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69769?exam_type=waec&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "The Difference Engine and the Analytical Engine were invented by Charles Babbage.Blaise Pascal invented the first mechanical calculator, the Pascaline, in the 17th century. However, the Difference Engine and the Analytical Engine were much more sophisticated machines that could perform a wider range of calculations.Babbage began work on the Difference Engine in the early 1820s. It was a mechanical calculator that could be used to tabulate polynomial functions. The Difference Engine was never completed, but Babbage did build a small prototype.In the 1830s, Babbage began work on the Analytical Engine. The Analytical Engine was a much more ambitious project than the Difference Engine. It was a general-purpose computer that could be programmed to perform any calculation. The Analytical Engine was never built, but Babbage's design is considered to be the first blueprint for a modern computer.Ada Lovelace, the daughter of poet Lord Byron, was a collaborator of Babbage's. She is credited with writing the first computer program, which was for the Analytical Engine.The Difference Engine and the Analytical Engine were revolutionary machines that laid the foundation for the development of modern computers.",
+    "year": "2023"
+  },
+  {
+    "number": "321",
+    "text": "A type of file organization that stores data in the order of their arrival is called",
+    "options": {
+      "A": "indexed-sequential file organization",
+      "B": "hashed file organization",
+      "C": "random file organization",
+      "D": "sequential file organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69770?exam_type=waec&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "A type of file organization that stores data in the order of their arrival is called sequential file organization.In sequential file organization, records are stored in the order in which they are added to the file. This means that the first record in the file is the oldest record, and the last record in the file is the newest record.Sequential file organization is a simple and efficient way to store data that is accessed in a sequential order. For example, sequential file organization is often used to store data that is logged in chronological order.However, sequential file organization can be inefficient for accessing data in a random order. For example, if you want to access the 10th record in a sequential file, you have to read the first 9 records before you can access the 10th record.",
+    "year": "2023"
+  },
+  {
+    "number": "322",
+    "text": "Which of the following computer types represents data as variable and continuous values?",
+    "options": {
+      "A": "Analogue computer",
+      "B": "Mainframe computer",
+      "C": "Microcomputer",
+      "D": "Digital computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69771?exam_type=waec&type=obj&page=65",
+    "correct_answer": "A",
+    "explanation": "Analogue computer represents data as variable and continuous values.Analogue computers use physical quantities, such as voltage, current, or resistance, to represent data. This means that they can represent data that is continuously varying, such as the position of a moving object or the temperature of a substance.Digital computers, on the other hand, represent data as discrete values. This means that they can only represent data that is in a finite number of states, such as the numbers 0 and 1.Mainframe computers and microcomputers are both digital computers.",
+    "year": "2023"
+  },
+  {
+    "number": "323",
+    "text": "The following feature are found in the toolbox of CorelDraw application except",
+    "options": {
+      "A": "elipse tool",
+      "B": "text tool",
+      "C": "marque tool",
+      "D": "rectangle tool"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69772?exam_type=waec&type=obj&page=65",
+    "correct_answer": "C",
+    "explanation": "The feature that is not found in the toolbox of CorelDraw application is the marque tool. While CorelDraw does offer tools for creating and manipulating shapes like ellipses, rectangles, and text, it does not typically include a specific \"marque tool.\"",
+    "year": "2023"
+  },
+  {
+    "number": "324",
+    "text": "The ruler feature in MS Word that is used to indent the second and subsequent lines of a paragraph is",
+    "options": {
+      "A": "right indent",
+      "B": "hanging indent",
+      "C": "left margin",
+      "D": "left indent"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69773?exam_type=waec&type=obj&page=65",
+    "correct_answer": "B",
+    "explanation": "The ruler feature in MS Word that is used to indent the second and subsequent lines of a paragraph is hanging indent. A hanging indent is when the first line of a paragraph starts at the left margin, but the following lines are indented, creating a visually staggered appearance. This is often used in bibliographies, reference lists, and other situations where the first line needs to be flush with the left margin, while subsequent lines are indented.To create a hanging indent in MS Word, you can follow these steps:Click on the Paragraph tab.In the Indentation section, click on the Special drop-down menu and select Hanging.Enter the amount of indent that you want for the second and subsequent lines in the By box.Click on the OK button.The second and subsequent lines of the paragraph will now be indented.",
+    "year": "2023"
+  },
+  {
+    "number": "325",
+    "text": "Advantages of parallel database include the following except",
+    "options": {
+      "A": "high availability",
+      "B": "greater flexibility",
+      "C": "high performance",
+      "D": "huge resources"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69774?exam_type=waec&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "The advantages of parallel database include the following excepthuge resources.Advantages of parallel databases typically include:Greater Flexibility: Parallel databases can distribute and process data across multiple nodes, providing flexibility in handling various types of queries and workloads.High Availability: Parallel databases can offer improved fault tolerance and availability through redundancy and distribution of data.High Performance: Parallel processing allows for faster query execution and data processing, especially for complex analytical queries.However, \"huge resources\" is not typically considered an advantage of parallel databases. While parallel databases can efficiently utilize resources across multiple nodes, the emphasis is on utilizing resources effectively rather than simply having a large quantity of resources.",
+    "year": "2023"
+  },
+  {
+    "number": "326",
+    "text": "The volume of data that can be sent from one point to another in a given time period is called",
+    "options": {
+      "A": "broadband",
+      "B": "byte",
+      "C": "baud",
+      "D": "bandwidth"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69775?exam_type=waec&type=obj&page=66",
+    "correct_answer": "D",
+    "explanation": "The volume of data that can be sent from one point to another in a given time period is called bandwidth. Bandwidth refers to the capacity of a communication channel to transmit data, typically measured in bits per second (bps) or its multiples like kilobits per second (Kbps), megabits per second (Mbps), and so on. It represents how much data can be transmitted over a network connection within a specific time frame.Baud is a unit of data signaling rate, or the number of times per second that a signal changes state.Byte is a unit of digital information, equal to 8 bits.Broadband is a high-speed data transmission medium that can carry multiple signals simultaneously.",
+    "year": "2023"
+  },
+  {
+    "number": "327",
+    "text": "One application of ICT in medicine is",
+    "options": {
+      "A": "seismic software",
+      "B": "computerized axial tomography",
+      "C": "optical character recognition",
+      "D": "global positioning system"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69776?exam_type=waec&type=obj&page=66",
+    "correct_answer": "B",
+    "explanation": "One application of ICT (Information and Communication Technology) in medicine is computerized axial tomography (CAT or CT scan). Computerized axial tomography is a medical imaging technique that uses X-rays and computer processing to create detailed cross-sectional images of the body's internal structures. It is used for diagnosing and monitoring various medical conditions by providing detailed images of organs, tissues, and bones.",
+    "year": "2023"
+  },
+  {
+    "number": "328",
+    "text": "Figure 2 is an email application interface. Use it to answer questions 15 and 16.\nNew messages received are save in the part labelled",
+    "options": {
+      "A": "II",
+      "B": "IV",
+      "C": "III",
+      "D": "I"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69777?exam_type=waec&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "New messages that are received are typically saved in the inbox of an email application interface. The inbox is where incoming emails are displayed, allowing the user to see and manage new messages that have been received. The other options provided\u2014New, sent items, and drafts\u2014refer to different folders or sections within an email application, each serving a specific purpose:New: This might refer to a \"New Message\" button or option, allowing you to compose and send new emails.Sent Items: This folder contains copies of emails you have sent.Drafts: This folder holds emails that you have started composing but have not yet sent.",
+    "year": "2023"
+  },
+  {
+    "number": "329",
+    "text": "Figure 2 is an email application interface. Use it to answer questions 15 and 16.\n\nTo send an e-mail, the user must click on the part labelled",
+    "options": {
+      "A": "IV",
+      "B": "I",
+      "C": "II",
+      "D": "III"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69778?exam_type=waec&type=obj&page=66",
+    "correct_answer": "B",
+    "explanation": "To send an e-mail, the user typically clicks on the \"New\" part of the email application interface. This option allows the user to compose a new email message and enter the recipient's email address, subject, and content before sending it. The \"New\" button or option is used to initiate the process of creating a new email to be sent.",
+    "year": "2023"
+  },
+  {
+    "number": "330",
+    "text": "Computer malware is detected by",
+    "options": {
+      "A": "adware",
+      "B": "logic bomb",
+      "C": "antivirus",
+      "D": "antiglare"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69779?exam_type=waec&type=obj&page=66",
+    "correct_answer": "C",
+    "explanation": "Computer malware is detected byantivirussoftware. Antivirus software is designed to identify, prevent, and remove various types of malicious software, commonly referred to as malware. This includes viruses, worms, trojans, spyware, adware, and other malicious programs that can harm or compromise a computer system. Antivirus software scans files, programs, and incoming data for patterns and behaviors associated with known malware, and it takes actions to quarantine or remove the detected threats. The other options mentioned\u2014adware, antiglare, and logic bomb\u2014are not directly related to detecting malware. Adware is a type of potentially unwanted software, antiglare refers to a screen feature, and a logic bomb is a type of malicious code that triggers when specific conditions are met.",
+    "year": "2023"
+  },
+  {
+    "number": "331",
+    "text": "When performing computer recovery operations after a system crash, the startup disk is used to",
+    "options": {
+      "A": "restore the system to an earlier time",
+      "B": "update the application packages",
+      "C": "backup deleted users file",
+      "D": "recover the system disk from an image file"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69780?exam_type=waec&type=obj&page=67",
+    "correct_answer": "D",
+    "explanation": "When performing computer recovery operations after a system crash, the startup disk is used to recover the system disk from an image file.A startup disk typically contains essential system files and tools that are required to boot the computer and initiate recovery procedures. One common approach to recovery after a system crash is to use an image of the system disk taken at a stable and functional state. This image is often referred to as a \"system image\" or \"backup image.\" By using the startup disk and this image, you can restore the entire system to a previous state, which can include the operating system, applications, and data. This process helps in recovering from crashes and issues that render the system inoperable.",
+    "year": "2023"
+  },
+  {
+    "number": "332",
+    "text": "The speed of access to files in a random access file compared to other file organization methods is",
+    "options": {
+      "A": "very slow.",
+      "B": "the same.",
+      "C": "relatively fast.",
+      "D": "slow."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69781?exam_type=waec&type=obj&page=67",
+    "correct_answer": "C",
+    "explanation": "The speed of access to files in a random access file compared to other file organization methods isrelatively fast.Random access files allow direct and immediate access to any part of the file without having to sequentially read through the entire file. This is particularly advantageous when you need to retrieve or modify specific records or data within the file. In contrast, other file organization methods like sequential access require reading through the file from the beginning to reach the desired location, which can be slower for large files.So, random access files are known for their efficiency in accessing data, especially when compared to methods that involve sequential searching or scanning.",
+    "year": "2023"
+  },
+  {
+    "number": "333",
+    "text": "Which of the following devices is needed by a technician for protection against electrostatic discharge?",
+    "options": {
+      "A": "Magnet",
+      "B": "Wrist strap",
+      "C": "Screw driver",
+      "D": "Surge protector"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69782?exam_type=waec&type=obj&page=67",
+    "correct_answer": "B",
+    "explanation": "A wrist strap is needed by a technician for protection against electrostatic discharge (ESD).ESD is a sudden discharge of electricity that can damage electronic components. It can occur when two objects with different electrical charges come into contact. When working on electronic components, it is important to prevent ESD from damaging them.A wrist strap is a device that helps to prevent ESD by dissipating the electrical charge from the body to the ground. It is worn around the wrist and connected to a grounding point, such as a metal pipe or a ground rod.",
+    "year": "2023"
+  },
+  {
+    "number": "334",
+    "text": "Figure 3 is a Microsoft Excel Worksheet. Use it to answer questions 20 and 21.\n\u00a0\n\n\n\n\u00a0\n\u00a0A\n\u00a0B\n\u00a0C\n\u00a0D\n\u00a0E\n\n\n\u00a01\n\u00a0IDENTICATION NUMBER\n\u00a0BASIC SALARY (N)\n\u00a0TOTAL ALLOWANCE (N)\n\u00a0TOTAL DEDUCTION (N)\n\n\u00a0NET SALARY (N)\n\n\n\n\u00a02\n\u00a0WASC/LPT/001\n\u00a0800000\n\u00a060000\n\u00a040000\n\u00a0820000\n\n\n\u00a03\n\u00a0WASC/LPT/002\n\u00a0700000\n\u00a040000\n\u00a020000\n\u00a0720000\n\n\n\u00a04\n\u00a0WASC/LPT/003\n\u00a0300000\n\u00a010000\n\u00a05000\n\u00a0305000\n\n\n\u00a05\n\u00a0WASC/LPT/004\n\u00a0400000\n\u00a020000\n\u00a010000\n\u00a0410000\n\n\n\nFigure 3\n\nWhat formula will correctly display the total number of individuals involved in the computation as shown in Figure 3?",
+    "options": {
+      "A": "=COUNT(A2:A5)",
+      "B": "=COUNTIF(A2:A5)",
+      "C": "=COUNTA(A2:A5)",
+      "D": "=SUM(A2:A5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69784?exam_type=waec&type=obj&page=67",
+    "correct_answer": "C",
+    "explanation": "The formula that will correctly display the total number of individuals involved in the computation as shown in Figure 3 is COUNTA(A2:A5).The COUNTA function counts the number of cells that are not empty in a range. In this case, we want to count the number of cells in the A column that are not empty. The A column contains the identification numbers of the individuals involved in the computation. Therefore, the COUNTA function will return the total number of individuals involved in the computation.The other formulas mentioned are:COUNT: This function counts the number of cells that contain numbers in a range.COUNTIF: This function counts the number of cells that contain a specific value in a range.SUM: This function sums the values in a range.In this case, we do not want to count the number of cells that contain numbers or the number of cells that contain a specific value. We want to count the number of cells that are not empty. Therefore, the COUNTA function is the most appropriate function to use.",
+    "year": "2023"
+  },
+  {
+    "number": "335",
+    "text": "Figure 3 is a Microsoft Excel Worksheet. Use it to answer questions 20 and 21.\n\u00a0\n\n\n\n\u00a0\n\u00a0A\n\u00a0B\n\u00a0C\n\u00a0D\n\u00a0E\n\n\n\u00a01\n\u00a0IDENTICATION NUMBER\n\u00a0BASIC SALARY (N)\n\u00a0TOTAL ALLOWANCE (N)\n\u00a0TOTAL DEDUCTION (N)\n\n\u00a0NET SALARY (N)\n\n\n\n\u00a02\n\u00a0WASC/LPT/001\n\u00a0800000\n\u00a060000\n\u00a040000\n\u00a0820000\n\n\n\u00a03\n\u00a0WASC/LPT/002\n\u00a0700000\n\u00a040000\n\u00a020000\n\u00a0720000\n\n\n\u00a04\n\u00a0WASC/LPT/003\n\u00a0300000\n\u00a010000\n\u00a05000\n\u00a0305000\n\n\n\u00a05\n\u00a0WASC/LPT/004\n\u00a0400000\n\u00a020000\n\u00a010000\n\u00a0410000\n\n\n\n\u00a0\nFigure 3\nWhat formula will calculate the total number of individuals who earn less than \u20a6500,000 from the table as shown in Figure 3?",
+    "options": {
+      "A": "=COUNT(E2:E5,",
+      "B": "=COUNT(E2:E5)",
+      "C": "=COUNTA(E2:E5)",
+      "D": "=COUNTIF(E2:E5,"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69785?exam_type=waec&type=obj&page=67",
+    "correct_answer": "D",
+    "explanation": "The formula that will calculate the total number of individuals who earn less than \u20a6500,000 from the table as shown in Figure 3 is COUNTIF(E2:E5, \"< 500,000\").The COUNTIF function counts the number of cells that contain a specific value in a range. In this case, we want to count the number of cells in the E column that contain a value less than \u20a6500,000. The E column contains the net salaries of the individuals. Therefore, the COUNTIF function will return the total number of individuals who earn less than \u20a6500,000.",
+    "year": "2023"
+  },
+  {
+    "number": "336",
+    "text": "Figure 4 is an entity relationship diagram in MS Access. Use it to answer questions 22 and 23.\nHow many entity are listed in Figure 4?",
+    "options": {
+      "A": "30",
+      "B": "25",
+      "C": "3",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69786?exam_type=waec&type=obj&page=68",
+    "correct_answer": "D",
+    "explanation": "In an Entity-Relationship (ER) diagram, an entity represents a distinct and identifiable concept, object, or thing about which data is being stored. Entities are typically nouns that have attributes describing their properties. They serve as the building blocks of an ER diagram and are used to model the real-world entities or concepts that are relevant to the database being designed.For example, in a university database, entities could include \"Student,\" \"Course,\" \"Professor,\" and \"Department,\" each with their own set of attributes that describe their characteristics. Relationships between entities, indicated by lines connecting them, show how these entities are related to one another and how data flows between them.But in the Entity-Relationship (ER) diagram given above, the entities are \"Users\", \"Products\", \"Sale\", \"Sale detail\", and \"Sale detail TMP\" which are five (5) in numbers",
+    "year": "2023"
+  },
+  {
+    "number": "337",
+    "text": "Figure 4 is an entity relationship diagram in MS Access. Use it to answer questions 22 and 23.\nWhat kind of relationship exists between users and products as shown in Figure 4?",
+    "options": {
+      "A": "One-to-many",
+      "B": "Many-to-many",
+      "C": "One-to-one",
+      "D": "Many-to-one"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69787?exam_type=waec&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "Looking at the arrow (relation) that connects Products table to the Users table. The infinity sign beside the products table represents the \"Many\" part of the relationship which is not present at the Users table (i.e it is \"One\" part of the relationship) . This means that a user can buy \"any\" number of products but a product can only be bought by \"a\" user. Therefore, the relationship between the \"users\" and \"products\" is one-to-many.NB:Users are assumed to be buying products for illustration purposes.Many-to-one relationship is if it's between the \"Products\" and the \"Users\".",
+    "year": "2023"
+  },
+  {
+    "number": "338",
+    "text": "Database Administrator is a professional who",
+    "options": {
+      "A": "handles packet sniffing in a network",
+      "B": "designs, implements and maintains a database",
+      "C": "performs data entry in a database",
+      "D": "tests and detects vulnerabilities on hardware devices and software"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69788?exam_type=waec&type=obj&page=68",
+    "correct_answer": "B",
+    "explanation": "A Database Administrator is a professional who designs, implements, and maintains a database. Database administrators are responsible for managing and overseeing the organization's databases to ensure they are efficient, secure, and reliable. Their tasks include designing the database structure, implementing data models, optimizing database performance, ensuring data security, creating backup and recovery plans, and more. They play a crucial role in ensuring that data is organized, accessible, and properly managed within an organization's database systems.The other options mentioned\u2014testing and detecting vulnerabilities, handling packet sniffing, and performing data entry\u2014are tasks related to network security, network analysis, and data input, respectively, but they are not the primary responsibilities of a Database Administrator.",
+    "year": "2023"
+  },
+  {
+    "number": "339",
+    "text": "The aim of administering questionaire is to collect",
+    "options": {
+      "A": "data",
+      "B": "information",
+      "C": "specimen",
+      "D": "statistics"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69789?exam_type=waec&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "The aim of administering a questionnaire is to collect data.A questionnaire is a survey that is used to collect information from a group of people. The data collected from a questionnaire can be used for a variety of purposes, such as:Research: Questionnaires are often used by researchers to collect data for their studies. For example, a researcher might use a questionnaire to collect data about people's attitudes towards a certain issue.Marketing: Questionnaires can also be used by businesses to collect data about their customers. For example, a business might use a questionnaire to collect data about customer satisfaction with their products or services.Evaluation: Questionnaires can also be used to evaluate the effectiveness of a program or intervention. For example, a school might use a questionnaire to collect data about the effectiveness of a new curriculum.The data collected from a questionnaire can be used to answer questions, make decisions, and improve programs and services.",
+    "year": "2023"
+  },
+  {
+    "number": "340",
+    "text": "A pointing device that controls cursor movement on the screen is",
+    "options": {
+      "A": "trackball",
+      "B": "plotter",
+      "C": "keyboard",
+      "D": "monitor"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69790?exam_type=waec&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "A pointing device that controls cursor movement on the screen is a trackball.A trackball is a small, ball-shaped device that is used to control the movement of the cursor on a computer screen. The trackball is held in place by a socket and is rotated by the user's fingers. The rotation of the trackball causes the cursor to move in the corresponding direction on the screen.Trackballs are often used in laptops and other portable devices where there is limited space for a mouse. They are also used by people with disabilities who have difficulty using a mouse.",
+    "year": "2023"
+  },
+  {
+    "number": "341",
+    "text": "The information processing stage that produces detailed evaluation of data is",
+    "options": {
+      "A": "interpretation",
+      "B": "collection",
+      "C": "analysis",
+      "D": "organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69791?exam_type=waec&type=obj&page=69",
+    "correct_answer": "C",
+    "explanation": "The information processing stage that produces detailed evaluation of data is analysis.Analysis is the process of breaking down information into its component parts and examining those parts. It is a detailed evaluation of data to identify patterns, trends, and relationships. Analysis can be used to answer questions, make decisions, and solve problems.In the context of information processing, analysis is the stage where the data is examined in detail to identify its meaning. This may involve identifying patterns, trends, and relationships in the data. It may also involve comparing the data to other data sets or to known standards.The analysis stage is an important part of the information processing cycle. It is the stage where the data is transformed from raw data into information that can be used to make decisions and solve problems.",
+    "year": "2023"
+  },
+  {
+    "number": "342",
+    "text": "A digital platform for the delivery of public sector information and seminar to citizens is called",
+    "options": {
+      "A": "e-library",
+      "B": "e-commerce",
+      "C": "e-learning",
+      "D": "e-government"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69792?exam_type=waec&type=obj&page=69",
+    "correct_answer": "D",
+    "explanation": "A digital platform for the delivery of public sector information and seminars to citizens is called e-government. E-government refers to the use of digital technology to provide government services, information, and communication to the public. It encompasses various online services, information dissemination, and interactions between the government and citizens through digital means. E-library, e-commerce, and e-learning are related terms but refer to different concepts: online libraries, online commerce, and online learning, respectively.",
+    "year": "2023"
+  },
+  {
+    "number": "343",
+    "text": "The following precautionary measures are taken against virus infection except",
+    "options": {
+      "A": "downloading e-mail and attachment before scanning it",
+      "B": "avoiding booting the computer with disks in it",
+      "C": "regular updating of antivirus.",
+      "D": "avoiding the installation of piratted software"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69793?exam_type=waec&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "The precautionary measure downloading e-mail and attachment before scanning it is not taken against virus infection.Here are some precautionary measures that can be taken against virus infection:Regularly updating your antivirus software: This ensures that your antivirus software has the latest virus definitions to protect your computer from new viruses.Avoiding opening suspicious e-mails and attachments: Many viruses are spread through e-mails and attachments. If you receive an e-mail from someone you don't know, or if the e-mail looks suspicious, don't open it.Avoiding installing pirated software: Pirated software often contains viruses. If you don't want to get a virus, only install software from trusted sources.Avoiding booting your computer with disks in it: If you boot your computer with a disk in it, the virus on the disk could infect your computer. Only boot your computer with disks from trusted sources.It is important to note that no single precautionary measure can guarantee that your computer will not be infected with a virus. However, by taking all of these precautions, you can significantly reduce your risk of infection.The precautionary measure of downloading e-mail and attachment before scanning it is not effective because viruses can be embedded in the e-mail or attachment itself. By downloading the e-mail or attachment, you are essentially giving the virus access to your computer.It is better to scan the e-mail or attachment first before downloading it. If the scan finds a virus, you can delete the e-mail or attachment without putting your computer at risk.",
+    "year": "2023"
+  },
+  {
+    "number": "344",
+    "text": "Artificial intelligence is a feature of",
+    "options": {
+      "A": "fifth generation computers",
+      "B": "third generation computers",
+      "C": "second generation computers",
+      "D": "fourth generation computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69794?exam_type=waec&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "Artificial intelligence (AI) is a feature of fifth generation computers.The first generation of computers were mainframe computers that used vacuum tubes. The second generation of computers used transistors, which were smaller and more efficient than vacuum tubes. The third generation of computers used integrated circuits (ICs), which allowed for even more compact and powerful computers. The fourth generation of computers used microprocessors, which are even smaller and more powerful than ICs.Fifth generation computers are still in development, but they are expected to use artificial intelligence (AI) to perform tasks that are currently beyond the capabilities of human computers. For example, fifth generation computers could be used to translate languages, diagnose diseases, and write creative content.",
+    "year": "2023"
+  },
+  {
+    "number": "345",
+    "text": "Macromedia Dreamweaver application is used for",
+    "options": {
+      "A": "surfing the internet",
+      "B": "graphic design",
+      "C": "intranet communication",
+      "D": "web design"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69795?exam_type=waec&type=obj&page=69",
+    "correct_answer": "D",
+    "explanation": "Macromedia Dreamweaver (now part of Adobe Creative Cloud) is an application primarily used for web design. It's a professional web development tool that allows designers and developers to create, edit, and manage websites and web applications. Dreamweaver provides a visual interface for designing web pages and also offers coding capabilities for those who want to work with HTML, CSS, JavaScript, and other web technologies.The application is not used for graphic design, intranet communication, or general internet browsing, as its main focus is on web development and design.",
+    "year": "2023"
+  },
+  {
+    "number": "346",
+    "text": "People who use cathode ray tube monitor without antiglare screen are susceptible to",
+    "options": {
+      "A": "blurred vision",
+      "B": "back ache",
+      "C": "repetitive strain injury",
+      "D": "stiffness of the wrist"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69796?exam_type=waec&type=obj&page=70",
+    "correct_answer": "A",
+    "explanation": "People who use cathode ray tube (CRT) monitors without antiglare screens are susceptible toblurred vision. CRT monitors emit a significant amount of glare and can cause reflections on the screen due to ambient light sources. This glare and reflection can lead to visual discomfort, including blurred vision and eyestrain, when using the monitor for extended periods.Antiglare screens or filters are used to reduce glare and reflections, making the screen easier to view and reducing the strain on the eyes. While CRT monitors are less common today, the issue of glare and visual discomfort is relevant to any type of screen, including modern LCD and LED displays.",
+    "year": "2023"
+  },
+  {
+    "number": "347",
+    "text": "Figure 5 is an MS PowerPoint application interface. The part used to apply motion effect to different objects of a slide is labelled",
+    "options": {
+      "A": "III",
+      "B": "I",
+      "C": "II",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69797?exam_type=waec&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "The part used to apply motion effects to different objects of a slide in PowerPoint is \"Animation\". Animation effects in MS PowerPoint allow users to add movement, entrance, exit, and emphasis to individual objects on a slide. These effects help make presentation more dynamic and engaging.",
+    "year": "2023"
+  },
+  {
+    "number": "348",
+    "text": "Use Table 1 to answer questions 35 and 36.\n\nTable 1: TableStudent\n\n\n\n\u00a0Reg No\n\u00a0House\n\n\u00a0Age\n\n\n\n\u00a018/001\n\u00a0Yellow\n\u00a014\n\n\n\u00a018/002\n\u00a0Blue\n\u00a015\n\n\n\u00a018/003\n\u00a0Yellow\n\u00a015\n\n\n\n\n\nColumns 2 and 3 in Table 1 cannot be used as primary key because both fields contain",
+    "options": {
+      "A": "different datatypes",
+      "B": "duplicate values",
+      "C": "the same datatype",
+      "D": "only strings and numbers respectively"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69798?exam_type=waec&type=obj&page=70",
+    "correct_answer": "B",
+    "explanation": "Columns 2 and 3 in Table 1 cannot be used as a primary key because both fields containduplicate values.A primary key is a unique identifier for each record in a database table. It ensures that each record has a distinct value, allowing for efficient data retrieval and maintaining data integrity. In the given TableStudent, the \"House\" column (Column 2) and the \"Age\" column (Column 3) both contain duplicate values. For example, the House column has two records with the value \"Yellow\" and the Age column has two records with the value \"15\". Since a primary key must have unique values, neither of these columns can be used as the primary key.",
+    "year": "2023"
+  },
+  {
+    "number": "349",
+    "text": "Use Table 1 to answer questions 35 and 36.\n\nTable 1: TableStudent\n\u00a0\n\n\n\n\u00a0Reg No\n\u00a0House\n\n\u00a0Age\n\n\n\n\u00a018/001\n\u00a0Yellow\n\u00a014\n\n\n\u00a018/002\n\u00a0Blue\n\u00a015\n\n\n\u00a018/003\n\u00a0Yellow\n\u00a015\n\n\n\nThe attributes in Table 1 are",
+    "options": {
+      "A": "Yellow, Blue, Yellow",
+      "B": "14, 15, 15",
+      "C": "Reg. No, House, Age",
+      "D": "18/001, 18/002, 18/003"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69799?exam_type=waec&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "The attributes in Table 1 are Reg. No, House, and Age.An attribute is a single piece of data about an entity. In Table 1, each row represents a student entity. The Reg. No, House, and Age columns represent the attributes of the student entity.The values in the Reg. No column are unique, so the Reg. No column is the primary key of the table. The House and Age columns are not unique, so they cannot be used as primary keys.The other values in the table are the data for the attributes. For example, the value \"18/001\" in the Reg. No column is the data for the Reg. No attribute of the first student entity.",
+    "year": "2023"
+  },
+  {
+    "number": "350",
+    "text": "Computer ethical practises include the following except",
+    "options": {
+      "A": "respect for intellectual property",
+      "B": "exposure of vulnerability in websites",
+      "C": "use of polite words on other users",
+      "D": "use of other people\u2019s computer without due permission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69800?exam_type=waec&type=obj&page=70",
+    "correct_answer": "D",
+    "explanation": "Computer ethical practices include the following, but they do not include:Use of other people's computer without due permission.The other options listed are generally considered ethical practices in the realm of computer use and technology. However, using someone else's computer without permission is a violation of privacy and unauthorized access, which goes against ethical guidelines. It's important to respect the rights and ownership of others' devices and data.",
+    "year": "2023"
+  },
+  {
+    "number": "351",
+    "text": "The process of drawing inference from a piece of information is called",
+    "options": {
+      "A": "interpretation",
+      "B": "analysis",
+      "C": "collation",
+      "D": "organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69801?exam_type=waec&type=obj&page=71",
+    "correct_answer": "A",
+    "explanation": "The process of drawing inference from a piece of information is called interpretation.Analysis is the process of breaking down a whole into its parts and examining those parts. Collation is the process of bringing together information from different sources. Organization is the process of arranging information in a logical order.Interpretation is the process of making meaning from information. It involves using our knowledge and experience to make sense of what we see, hear, and read. When we interpret information, we are drawing inferences about what it means. We are making connections between the information and our own knowledge and experience.For example, if we read a news article about a car accident, we might interpret the information to mean that the driver was speeding. We might make this inference because we know that speeding is a common cause of car accidents. We might also make this inference because the article mentions that the driver was not wearing a seatbelt. We know that not wearing a seatbelt is also a common cause of car accidents.Interpretation is an important skill for critical thinking. It allows us to make sense of the world around us and to make informed decisions.",
+    "year": "2023"
+  },
+  {
+    "number": "352",
+    "text": "A computer system under use was found to be unusually slow, freezes often and very dusty. What is needed to correct this problem?",
+    "options": {
+      "A": "Hit the system unit with a blower",
+      "B": "Delete some files",
+      "C": "Change the location of the computer",
+      "D": "Perform maintenance procedure"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69802?exam_type=waec&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "To correct the described problems of a slow, freezing computer system that is also very dusty, the appropriate action is to perform maintenance procedures.Performing maintenance procedures could involve the following steps:Cleaning: Dust accumulation can lead to overheating and hinder proper airflow, causing the system to slow down or freeze. Open the computer's case and carefully clean the components using compressed air or an electronics-friendly blower.Checking for Malware: Slow performance and freezing can be caused by malware infections. Run a thorough malware scan to ensure the system is not compromised.Checking for Software Issues: Excessive background processes or malfunctioning software can also slow down a computer. Review and uninstall unnecessary or problematic applications.Updating Software: Ensure that the operating system, drivers, and applications are up to date. Sometimes, updates can address performance issues.Checking Hardware: Inspect hardware components for any visible damage or loose connections. Reseat RAM, check the hard drive's health, and make sure all components are properly seated.Removing Unnecessary Files: While deleting unnecessary files might help free up storage space, it might not directly address the issues mentioned.Note: Hitting the system unit with a blower is not recommended as it could potentially cause further damage to the hardware components. It's important to handle the hardware gently and follow appropriate cleaning methods.",
+    "year": "2023"
+  },
+  {
+    "number": "353",
+    "text": "The equipment shown in Figure 1 is used for",
+    "options": {
+      "A": "infrared transmission",
+      "B": "ethernet connection",
+      "C": "audio transmission",
+      "D": "radio transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69803?exam_type=waec&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "Radio transmission refers to the process of sending and receiving information using radio waves, which are a type of electromagnetic radiation. Radio waves are used for various forms of communication, including broadcasting, wireless communication, and remote control systems",
+    "year": "2023"
+  },
+  {
+    "number": "354",
+    "text": "Use the information below to answer questions 13 and 14.\nA student in the school hostel was able to upload some personal details on the school portal via the school's WiFi .\nThe ISP and the hostel are both domiciled in the school premises.\n\nWhat type of network is illustrated above?",
+    "options": {
+      "A": "MAN",
+      "B": "WAN",
+      "C": "LAN",
+      "D": "PAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69804?exam_type=waec&type=obj&page=71",
+    "correct_answer": "C",
+    "explanation": "The type of network illustrated above is a LAN or Local Area Network.A LAN is a network that connects devices in a limited area, such as a school, office, or home. LANs are typically used to connect computers, printers, and other devices together.In the given scenario, the student is using the school's WiFi to upload personal details on the school portal. The WiFi is a wireless LAN that connects the student's device to the school's network. The ISP and the hostel are both domiciled in the school premises, which means that they are all part of the same LAN.MAN or Metropolitan Area Network is a network that covers a larger area than a LAN, such as a city or a campus. WAN or Wide Area Network is a network that covers a large geographic area, such as a country or the world. PAN or Personal Area Network is a network that connects devices close to a person, such as a laptop, smartphone, and printer.In this case, the network is limited to the school premises, so it is a LAN.",
+    "year": "2023"
+  },
+  {
+    "number": "355",
+    "text": "Use the information below to answer questions 13 and 14.\nA student in the school hostel was able to upload some personal details on the school portal via the school's WiFi .\nThe ISP and the hostel are both domiciled in the school premises.\nThe physical infrastructure through which internet traffic are exchanged between the ISP in the school illustrated above and other ISP s is called",
+    "options": {
+      "A": "switch racks",
+      "B": "subscriber end points",
+      "C": "internet exchange point",
+      "D": "server farms"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69805?exam_type=waec&type=obj&page=71",
+    "correct_answer": "C",
+    "explanation": "The physical infrastructure through which internet traffic are exchanged between the ISP in the school illustrated above and other ISP s is called an internet exchange point or IXP.An IXP is a facility where multiple networks can connect to each other and exchange traffic. This allows ISPs to exchange traffic directly with each other, without having to go through a third party. This can improve performance and reduce costs.In the given scenario, the ISP in the school will connect to an IXP to exchange traffic with other ISPs. This will allow the student to upload personal details on the school portal, even if the student's ISP is different from the ISP that hosts the school portal.Server farms, subscriber end points, and switch racks are all part of the physical infrastructure of the internet, but they are not used to exchange traffic between ISPs.Server farms are facilities that house large numbers of servers. These servers are used to host websites, applications, and other services.Subscriber end points are the devices that connect users to the internet. This can include computers, smartphones, and tablets.Switch racks are cabinets that house switches. Switches are devices that connect devices on a network together.",
+    "year": "2023"
+  },
+  {
+    "number": "356",
+    "text": "The allocation and de-allocation of computing resources in a computer is the function of",
+    "options": {
+      "A": "browsers",
+      "B": "operating system",
+      "C": "application software",
+      "D": "memory unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69806?exam_type=waec&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "The allocation and de-allocation of computing resources in a computer is the function of the operating system. The operating system is responsible for managing various hardware and software resources, including memory, processing power, storage, and input/output devices. It ensures that different applications and processes run smoothly by allocating resources as needed and de-allocating them when they are no longer required. Application software, browsers, and memory units may interact with the operating system, but the primary responsibility for resource management lies with the operating system.",
+    "year": "2023"
+  },
+  {
+    "number": "357",
+    "text": "The following terms describe the importance of data security except data",
+    "options": {
+      "A": "availability",
+      "B": "integrity",
+      "C": "normalization",
+      "D": "consistency"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69807?exam_type=waec&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "The term that does not describe the importance of data security is normalization.Data security focuses on ensuring the confidentiality, integrity, and availability of data. The terms provided\u2014availability, consistency, and integrity\u2014are all related to aspects of data security:Availability: Ensures that data is accessible and available when needed, without unauthorized disruptions.Consistency: Ensures that data remains consistent and accurate across different parts of the system.Integrity: Ensures that data remains accurate and unaltered throughout its lifecycle, preventing unauthorized or unintended modifications.Normalization, on the other hand, is a database design technique used to structure data in a way that reduces redundancy and ensures efficient data storage and retrieval. While normalization is important for database design, it is not directly related to data security in the same way that availability, consistency, and integrity are.",
+    "year": "2023"
+  },
+  {
+    "number": "358",
+    "text": "Which of the following data elements ranks highest in size?",
+    "options": {
+      "A": "Field",
+      "B": "Byte",
+      "C": "Record",
+      "D": "Bit"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/69808?exam_type=waec&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "The hierarchy of data size is as follows:BitByteFieldRecordA bit is the smallest unit of data and can represent a binary value of 0 or 1. A byte consists of 8 bits. A field is a collection of related data elements, and a record is a collection of fields. So, in terms of size, a byte is larger than a bit, and a field and a record are composed of multiple bytes and potentially multiple fields, respectively.",
+    "year": "2023"
+  }
+]

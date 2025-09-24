@@ -1,0 +1,548 @@
+[
+  {
+    "number": "201",
+    "text": "The modern definition of a computing machine is based on a concept known as",
+    "options": {
+      "A": "circuit switching",
+      "B": "digital circuit",
+      "C": "packet switching",
+      "D": "stored program"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58864?exam_type=waec&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "202",
+    "text": "Arrange the following ICT tools in the order of invention from the earliest to the latest; cell phone, internet, satellite and radio",
+    "options": {
+      "A": "cell phone, satellite, radio, internet",
+      "B": "internet, satellite, cell phone, radio",
+      "C": "Radio, satellite, internet, cell phone",
+      "D": "Radio, cell phone, satellite, internet"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58867?exam_type=waec&type=obj&page=41",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "203",
+    "text": "The pocess of gathering facts and statistics from different sources is known as data",
+    "options": {
+      "A": "analysis",
+      "B": "collection",
+      "C": "collation",
+      "D": "retrieval"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58870?exam_type=waec&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "The process of gathering facts and figures from various sources is called data collection. It's all about collecting information so you can analyze it and make sense of things!",
+    "year": "2019"
+  },
+  {
+    "number": "204",
+    "text": "A chart is a graphical representation of",
+    "options": {
+      "A": "data",
+      "B": "map",
+      "C": "process",
+      "D": "transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58872?exam_type=waec&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "205",
+    "text": "The use of transistors in circuit was a major advancement in the",
+    "options": {
+      "A": "first generation computers",
+      "B": "second generation computers",
+      "C": "third generation computers",
+      "D": "fourth generation computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58875?exam_type=waec&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "206",
+    "text": "An ICT-based service that uses telecommunication\u00a0devices to hold meeting among many participants in two or more location known as",
+    "options": {
+      "A": "broadcasting",
+      "B": "multimedia",
+      "C": "podcasting",
+      "D": "teleconferencing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58879?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "207",
+    "text": "Which of these devices does not support wireless communication",
+    "options": {
+      "A": "GSM Phone",
+      "B": "mouse",
+      "C": "router",
+      "D": "telephone"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58882?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "Telephone: Traditional landline telephones typically do not support wireless communication, as they rely on wired connections.",
+    "year": "2019"
+  },
+  {
+    "number": "208",
+    "text": "The manipulation of digitised information by computer or other digital electronic\u00a0equipment is known as",
+    "options": {
+      "A": "data collation",
+      "B": "data manipulation",
+      "C": "information manipulation",
+      "D": "information processing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58883?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "209",
+    "text": "Which of the following statements explains information processing",
+    "options": {
+      "A": "Saving documents in a device",
+      "B": "Changing information detectable by an observer",
+      "C": "Data upload to server",
+      "D": "Transfer of information between devices"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58886?exam_type=waec&type=obj&page=42",
+    "correct_answer": "B",
+    "explanation": "Information processing is the manipulation of data to produce useful information.\u00a0\u00a0Processing information involves taking raw information and making it more useful by putting it into context. Hence OPTION B is correct.",
+    "year": "2019"
+  },
+  {
+    "number": "210",
+    "text": "The information transmission medium from location A to location B in space is called",
+    "options": {
+      "A": "asynchronous transmission",
+      "B": "guided transmission",
+      "C": "synchronous transmission",
+      "D": "wireless transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58887?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "211",
+    "text": "What is the role of the part labeled II in Figure 1 above?",
+    "options": {
+      "A": "Interpreter",
+      "B": "Medium",
+      "C": "Receiver",
+      "D": "Source"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58927?exam_type=waec&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "The role of the part labeled II in the diagram above is medium.",
+    "year": "2019"
+  },
+  {
+    "number": "212",
+    "text": "Which of these technologies allows wireless connectivity in a Personal Area Network",
+    "options": {
+      "A": "Bandwidth",
+      "B": "Bluetooth",
+      "C": "Broadband",
+      "D": "Satellite"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58935?exam_type=waec&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "213",
+    "text": "The main function of the device in the part labeled II in Figure 2 above is",
+    "options": {
+      "A": "speeding up the rate of data transfer to the part labeled",
+      "B": "providing services to the other devices in the setup",
+      "C": "forwarding data packets between computers",
+      "D": "controlling the access to the part labeled I"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58943?exam_type=waec&type=obj&page=43",
+    "correct_answer": "C",
+    "explanation": "The main function of the part labelled II in the diagram above is to forward data packets between computers",
+    "year": "2019"
+  },
+  {
+    "number": "214",
+    "text": "Use Figure 3 above to answer question below\nThe title of the web page being accessed on the interface in Figure 3 is displayed on the part labeled",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58949?exam_type=waec&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "The title of the web page being accessed on the interface in the diagram displayed on the part labelled II",
+    "year": "2019"
+  },
+  {
+    "number": "215",
+    "text": "Use Figure 3 above\u00a0\u00a0to answer\u00a0 this question\nThe shortcut key combination for adding a new tab in Figure 3 is",
+    "options": {
+      "A": "Alt + N",
+      "B": "Alt + T",
+      "C": "Ctrl + N",
+      "D": "Ctrl + T"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58952?exam_type=waec&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "Adding/ opening a new tab short cut is Ctrl + T.",
+    "year": "2019"
+  },
+  {
+    "number": "216",
+    "text": "A program that enables the computer hardware to communicate and function effectively is",
+    "options": {
+      "A": "translator",
+      "B": "liveware",
+      "C": "operating system",
+      "D": "application software"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58954?exam_type=waec&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "217",
+    "text": "A Word document can have any of these file extension except",
+    "options": {
+      "A": ".doc",
+      "B": ".docx",
+      "C": ".jpg",
+      "D": ".rtf"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58956?exam_type=waec&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "218",
+    "text": "Which of the command shortcuts can be used to display the dialog box in Figure 4 when the application is running",
+    "options": {
+      "A": "Ctrl + O",
+      "B": "Ctrl + S",
+      "C": "Ctrl + Y",
+      "D": "Ctrl + Z"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58969?exam_type=waec&type=obj&page=44",
+    "correct_answer": "A",
+    "explanation": "The command shortcuts that can be used to display the dialog box in the diagram above when the application is running is Ctrl + O.",
+    "year": "2019"
+  },
+  {
+    "number": "219",
+    "text": "The first step taken in editing a chart in MS Excel is",
+    "options": {
+      "A": "click and drag the chart object",
+      "B": "click the chart object",
+      "C": "copy the chart object",
+      "D": "drag the chart object"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58975?exam_type=waec&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "220",
+    "text": "By default numeric values in a worksheet are",
+    "options": {
+      "A": "centred",
+      "B": "left-aligned",
+      "C": "right-aligned",
+      "D": "unaligned"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58979?exam_type=waec&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "221",
+    "text": "The diagram in Figure 5 depicts a",
+    "options": {
+      "A": "flat file database",
+      "B": "hierarchical database",
+      "C": "network database",
+      "D": "parallel database"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58982?exam_type=waec&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "The figure above depicts a network database model.\nA network database is a model wherein multiple member records or files can be linked to multiple owner files and vice versa. The model can be viewed as an upside-down tree where each member's information is the branch linked to the owner, which is the bottom of the tree.",
+    "year": "2019"
+  },
+  {
+    "number": "222",
+    "text": "Which of the following sets are available when creating a table in \"Design view\" in Microsoft Access?",
+    "options": {
+      "A": "Data type, Description and Field Name",
+      "B": "Description, Criteria and Field Property",
+      "C": "Field Name, Data Type and Field Property",
+      "D": "Criteria, Field Name and Description"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58989?exam_type=waec&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "field name, data type, and description\u00a0are available when creating a table in \"Design view\" in Microsoft Access",
+    "year": "2019"
+  },
+  {
+    "number": "223",
+    "text": "The MS PowerPoint feature which can be used to change the appearance of the entire presentation is the",
+    "options": {
+      "A": "Add slide option",
+      "B": "Design template",
+      "C": "Online view",
+      "D": "Slide Layout option"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58990?exam_type=waec&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "The Design template option is the MS PowerPoint feature that can be used to change the appearance of the entire presentation. This feature allows you to select a pre-designed template or create your custom template that can\u00a0be applied to all slides in your presentation.",
+    "year": "2019"
+  },
+  {
+    "number": "224",
+    "text": "One example of web design package is",
+    "options": {
+      "A": "MS FrontPage",
+      "B": "MS Outlook",
+      "C": "Peachtree",
+      "D": "SPSS"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58991?exam_type=waec&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "Microsoft FrontPage: It is a web tool that allows users to create custom websites without knowing HTML code. It helps you manage the pages on your web and create and edit web pages in a What-You-See-Is-What-You-Get (WYSIWYG) fashion while MS Outlook, Peachtree(an accounting software),\u00a0and SPSS (It is a suite of software programs that analyze scientific data related to the social sciences)\u00a0are not.",
+    "year": "2019"
+  },
+  {
+    "number": "225",
+    "text": "The part labeled II in Figure 6 ABOVE is used to",
+    "options": {
+      "A": "shape object",
+      "B": "select and transform objects",
+      "C": "draw lines and curves",
+      "D": "create texts"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58992?exam_type=waec&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "The part labeled II in the diagram is used to shape object",
+    "year": "2019"
+  },
+  {
+    "number": "226",
+    "text": "In computer maintenance the dampen material can be used on the following devices except",
+    "options": {
+      "A": "DVD lens",
+      "B": "keyboard",
+      "C": "mouse",
+      "D": "screen"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58993?exam_type=waec&type=obj&page=46",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "227",
+    "text": "Dust from the system unit casing can be removed using",
+    "options": {
+      "A": "antistatic wipes",
+      "B": "cotton wool",
+      "C": "static wipes",
+      "D": "wet cloth"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58994?exam_type=waec&type=obj&page=46",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "228",
+    "text": "Indiscriminate sending of unsolicited e-mails to many addresses\u00a0is known as",
+    "options": {
+      "A": "plagiarism",
+      "B": "phishing",
+      "C": "pharming",
+      "D": "spamming"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58995?exam_type=waec&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "229",
+    "text": "In computing, ergonomics is a term associated with computer",
+    "options": {
+      "A": "ethics",
+      "B": "maintenance",
+      "C": "malware detection",
+      "D": "safety measures"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58996?exam_type=waec&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "230",
+    "text": "A novice is discouraged from opening the CRT monitor for maintenance because",
+    "options": {
+      "A": "it cannot be appropriately reassembled after opening",
+      "B": "it may harbour pests carrying infectious diseases",
+      "C": "it may contain high static",
+      "D": "the tube is fragile"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58997?exam_type=waec&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "CRT stands for Cathode Ray Tube. CRT is a technology used in traditional computer monitors and televisions.\u00a0CRTs are glass vessels that have the air pumped out of them. They have very thick glass in the screen area and thinner glass in the narrow neck area. This makes a CRT fairly fragile when it is not encased in a computer.\u00a0The neck area is particularly easy to break or crack.",
+    "year": "2019"
+  },
+  {
+    "number": "231",
+    "text": "Computer professional bodies in Nigeria include the following except",
+    "options": {
+      "A": "Internet Service Providers Association",
+      "B": "Nigeria Computer Society",
+      "C": "Nigeria Information Technology Development Agency",
+      "D": "Nigeria Internet Group"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58998?exam_type=waec&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "COMPUTER PROFESSIONAL BODIES IN NIGERIA: There are regulatory measures that are important in any field of endeavor to maintain\u00a0professional and ethical standards these bodies oversee the compliance to set rules and regulations. They are: 1. Nigeria Computer Society (NCS) was established in 1978 2. Computer Professional Registration Council of Nigeria (CPRN) was established1993. Institute of Management Information (IMI) 4. Information Technology Association of Nigeria (ITAN) was established1991. 5. Nigeria Internet Group (NIG) 6. Nigeria Software Group (NSG) 7. Internet service providers association of Nigeria, etc.",
+    "year": "2019"
+  },
+  {
+    "number": "232",
+    "text": "The malware which appears as a harmless object but attack it's victims at the slightest opportunity is called",
+    "options": {
+      "A": "worm",
+      "B": "trojan horse",
+      "C": "macro virus",
+      "D": "logic bomb"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58999?exam_type=waec&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "ATrojan Horse (malware)\u00a0is a type of malware\u00a0that disguises itself as legitimate code or software. Once inside the network, attackers can carry out any action that a legitimate user could perform, such as exporting files, modifying data, deleting files or otherwise altering the contents of the device.",
+    "year": "2019"
+  },
+  {
+    "number": "233",
+    "text": "Virus effect can be prevented by",
+    "options": {
+      "A": "installing and updating antivirus",
+      "B": "installing new operating system",
+      "C": "purchasing new computer",
+      "D": "using external disk on public computer system"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59004?exam_type=waec&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "234",
+    "text": "The parts of the\u00a0object in Figure 7above labeled II are called",
+    "options": {
+      "A": "attribute",
+      "B": "entities",
+      "C": "models",
+      "D": "relations"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59008?exam_type=waec&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "The part labeled in the diagram above is called Attribute.\nAttribute:An attribute is a characteristic of an entity type. Some attributes of common entity types include the following:\nSTUDENT = {Student ID, Name, Address, Phone, Email, DOB}\nACCOUNT = {Account Number, Account Type, Date Opened, Balance} etc.",
+    "year": "2019"
+  },
+  {
+    "number": "235",
+    "text": "The arrangement that gives the correct order of magnitude of the database elements is",
+    "options": {
+      "A": "character, field, record, table, database, file",
+      "B": "character, field, record, table, file, database",
+      "C": "database, table, file, record, field, character",
+      "D": "database, record, file, field, table, character"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59009?exam_type=waec&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "236",
+    "text": "One unique feature of index file is that it contains",
+    "options": {
+      "A": "reference number",
+      "B": "relative number",
+      "C": "sequential number",
+      "D": "static number"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59010?exam_type=waec&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "237",
+    "text": "Which of the following file organization requires a primary key",
+    "options": {
+      "A": "Indexed file organization",
+      "B": "Random file organization",
+      "C": "Serial file organization",
+      "D": "Sequential file organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59011?exam_type=waec&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "An indexed file is a file in which each record includes a primary key. To distinguish one record from another, the primary key's value must be unique for each record. Records can then be accessed randomly by specifying the value of the record's primary key.",
+    "year": "2019"
+  },
+  {
+    "number": "238",
+    "text": "Ensuring the correctness and consistency of data is referred to as data",
+    "options": {
+      "A": "security",
+      "B": "reliability",
+      "C": "productivity",
+      "D": "integrity"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59013?exam_type=waec&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "Data integrity refers to the accuracy, consistency, and completeness of data throughout its lifecycle.\u00a0By following the process, organizations not only ensure the integrity of the data but also guarantee they have accurate and correct data in their database. The\u00a0importance of data integrity\u00a0increases as data volumes continue to increase exponentially.",
+    "year": "2019"
+  },
+  {
+    "number": "239",
+    "text": "In distributed database management system, breaking a relation into smaller relations is known as",
+    "options": {
+      "A": "replication",
+      "B": "fragmentation",
+      "C": "indexing",
+      "D": "normalisation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/59021?exam_type=waec&type=obj&page=48",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  }
+]

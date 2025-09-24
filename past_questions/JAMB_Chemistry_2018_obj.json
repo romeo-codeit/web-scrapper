@@ -1,0 +1,1220 @@
+[
+  {
+    "number": "1875",
+    "text": "A given amount of gas occupies 10.0dm\\(^3\\)\u00a0at 4 atm and 273\u00b0C. The number of moles of the gas present is?\n[Molar volume of gas at s.t.p = 22.4 dm\\(^3\\)]",
+    "options": {
+      "A": "0.89 mol",
+      "B": "1.90 mol",
+      "C": "3.80 mol",
+      "D": "5.70 mol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47284?exam_type=jamb&type=obj&page=375",
+    "correct_answer": "A",
+    "explanation": "Given:\nP = 4 atm ,\u00a0 V = 10 dm\\(^3\\) ,\u00a0 n = ?\u00a0 \u00a0R = 0.082 (constant)\u00a0 T = 273 + 273 = 546K\nUsing the ideal gas law, PV = nRT\nn = \\(\\frac{PV}{RT}\\)\nn =\u00a0\u00a0\\(\\frac{{4}\\times{10}}{{0.082}\\times{546}}\\)\nn =\u00a0\\(\\frac{40}{44.772}\\)\nn = 0.893 mole\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1876",
+    "text": "According to Charles' law, the volume of a gas becomes zero at",
+    "options": {
+      "A": "0\u00b0C",
+      "B": "-100\u00b0C",
+      "C": "-273\u00b0C",
+      "D": "-373\u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47285?exam_type=jamb&type=obj&page=376",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1877",
+    "text": "A substance that is used as a ripening agent for fruits is",
+    "options": {
+      "A": "ethene",
+      "B": "propane",
+      "C": "methane",
+      "D": "butane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47286?exam_type=jamb&type=obj&page=376",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1878",
+    "text": "The Sulphide which is insoluble in dilute hydrochloric acid is",
+    "options": {
+      "A": "FeS",
+      "B": "CuS",
+      "C": "ZnS",
+      "D": "Na2S"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47287?exam_type=jamb&type=obj&page=376",
+    "correct_answer": "B",
+    "explanation": "Sulphides like PbS (lead (II) sulphide) and CuS (copper (II) sulphide) are insoluble in acidified solutions.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1879",
+    "text": "What is the PH of 0.00 1 moldm\\(^3\\)\u00a0solution of the sodium hydroxide",
+    "options": {
+      "A": "14",
+      "B": "13",
+      "C": "12",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47288?exam_type=jamb&type=obj&page=376",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1880",
+    "text": "The type of bonding in [Cu(NH\\(_3\\))\\(^4\\)]\\(^{2+}\\)\u00a0is",
+    "options": {
+      "A": "coordinate",
+      "B": "electrovalent",
+      "C": "metallic",
+      "D": "covalent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47289?exam_type=jamb&type=obj&page=376",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1881",
+    "text": "Which of the following is an example of a chemical change?",
+    "options": {
+      "A": "dissolution of salt in water",
+      "B": "rusting of iron",
+      "C": "melting of ice",
+      "D": "separating a mixture by distillation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47290?exam_type=jamb&type=obj&page=377",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1882",
+    "text": "To what temperature must a gas at 273k be heated in order to double both its volume and pressure?",
+    "options": {
+      "A": "298K",
+      "B": "546K",
+      "C": "819K",
+      "D": "1092K"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47291?exam_type=jamb&type=obj&page=377",
+    "correct_answer": "D",
+    "explanation": "Given:\nT\\(_1\\) = 273K ; V\\(_1\\) =\u00a0 X \u00a0; P\\(_1\\) = Y\nT\\(_2\\) = ?\u00a0; V\\(_2\\) =\u00a0 2X \u00a0 \u00a0 P\\(_2\\) = 2Y\u00a0 ( Remember we were told the volume and pressure were doubled )\nWe also represented\u00a0V\\(_1\\) and\u00a0 \u00a0P\\(_1\\) to be X and Y respective,y since we were not given.\nUsing the formula:\u00a0 \\(\\frac{{P_1}{V_1}}{T_1}\\) =\u00a0\\(\\frac{{P_2}{V_2}}{T_2}\\)\nT\\(_2\\) =\u00a0 \u00a0\\(\\frac{{P_2}{V_2}{T_1}}{{P_1}{V_1}}\\)\n=\u00a0 \u00a0\\(\\frac{{2Y}\\times{2X}\\times{273}}{{Y}\\times{X}}\\)\n= 2 x 2 x 273\n= 1092 K\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1883",
+    "text": "According to the Kinetic Theory an increase in temperature causes the kinetic energy of particles to",
+    "options": {
+      "A": "decrease",
+      "B": "increase",
+      "C": "be zero",
+      "D": "remain constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47292?exam_type=jamb&type=obj&page=377",
+    "correct_answer": "B",
+    "explanation": "According to the kinetic theory of gases, when a substance is heated, the average kinetic energy of its molecules increases and this leads to a rise in temperature.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1884",
+    "text": "An element used in the production of matches is",
+    "options": {
+      "A": "nitrogen",
+      "B": "aluminium",
+      "C": "copper",
+      "D": "sulphur"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47294?exam_type=jamb&type=obj&page=377",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1885",
+    "text": "Which of the following gases may not be dried with concentrated sulphuric acid?",
+    "options": {
+      "A": "HCl\\(_{(g)}\\)",
+      "B": "NH\\(_3\\)",
+      "C": "Cl\\(_2\\)",
+      "D": "SO\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47296?exam_type=jamb&type=obj&page=377",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1886",
+    "text": "The Consecutive members of an alkane homologous series differ by",
+    "options": {
+      "A": "CH",
+      "B": "CH\\(_2\\)",
+      "C": "CH\\(_3\\)",
+      "D": "C\\(_n\\)H\\(_n\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47314?exam_type=jamb&type=obj&page=378",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1887",
+    "text": "A correct electrochemical series can be obtained from Na, Ca, Al, Mg, Zn, Fe, Pb, H, Cu, Hg, Ag, Au by interchanging",
+    "options": {
+      "A": "Al and Mg",
+      "B": "Zn and Fe",
+      "C": "Zn and Pb",
+      "D": "Pb and H"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47316?exam_type=jamb&type=obj&page=378",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1888",
+    "text": "A basic postulate of the kinetic theory of gases is that the molecules of a gas move in straight lines between collisions. This implies that",
+    "options": {
+      "A": "collisions are perfectly elastic",
+      "B": "forces of repulsion exist",
+      "C": "forces of repulsion and attraction are in equilibrium",
+      "D": "collisions are inelastic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47317?exam_type=jamb&type=obj&page=378",
+    "correct_answer": "A",
+    "explanation": "According to one of the kinetic theories of gases,\u00a0When collisions occur, the molecules lose no kinetic energy; that is, the collisions are said to beperfectly elastic.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1889",
+    "text": "On which of the following is the solubility of a gaseous substance dependent?\u00a0\nI. Nature of solvent\u00a0\nII. Nature of solute\u00a0\nIII. Temperature\u00a0\nIV. Pressure",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I and II only",
+      "C": "II only",
+      "D": "III and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47318?exam_type=jamb&type=obj&page=378",
+    "correct_answer": "D",
+    "explanation": "Thesolubilityof a gas decreases with an increase intemperatureand a decrease inpressure.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1890",
+    "text": "Which of the following statements is correct about the periodic table?",
+    "options": {
+      "A": "Elements in the same period have the same number of valence electrons",
+      "B": "The valence electrons of the elements in the same period increase progressively across the period",
+      "C": "Elements in the same group have the same number of electron shells",
+      "D": "The non-metallic Properties of the elements tend to decrease across each period"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47319?exam_type=jamb&type=obj&page=378",
+    "correct_answer": "B",
+    "explanation": "The valence electrons refer to the number of electrons in the outer shell. Across a period (horizontal row), the valence electron increases.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1891",
+    "text": "The periodic classification is an arrangement of the elements",
+    "options": {
+      "A": "atomic weights",
+      "B": "isotopic weights",
+      "C": "molecular weights",
+      "D": "atomic numbers"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47320?exam_type=jamb&type=obj&page=379",
+    "correct_answer": "D",
+    "explanation": "Elements in the periodic table are arranged according to their atomic number (proton number). Electronegativity increase from left to right while atomic radius increases down the group\nElements in the periodic table are arranged according to their atomic number (proton number). Electronegativity increase from left to right while atomic radius increases down the group\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1892",
+    "text": "If 1 litre of 2.2M sulphuric acid is poured into a bucket containing 10 litres of water and the resulting solution mixed thoroughly, the resulting sulphuric acid concentration will be",
+    "options": {
+      "A": "2.2M",
+      "B": "1.1M",
+      "C": "0.2M",
+      "D": "0.11M"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47321?exam_type=jamb&type=obj&page=379",
+    "correct_answer": "C",
+    "explanation": "Given:\nC1\u00a0= 2.2 M , V1\u00a0= 1 Litre , C2\u00a0= ?\u00a0 V2\u00a0= 1 + 10 Litres ( because the volume of water has increased) = 11 Litres\nUsing the relationship\u00a0C1V1\u00a0=\u00a0C2V2\n2.2 X 1\u00a0= C2\u00a0X 11\nC2\u00a0=\u00a02.2 /11\n= 0.20 M - OptionC\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1893",
+    "text": "In the shown experiment (Fig. 1) the litmus paper will initially",
+    "options": {
+      "A": "be bleached",
+      "B": "turn green",
+      "C": "turn red",
+      "D": "turn blue"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47322?exam_type=jamb&type=obj&page=379",
+    "correct_answer": "D",
+    "explanation": "\\(NH_4Cl\u00a0\u00a0\u2192 NH_3 + HCl\\). rate of diffusion of substances depends too on their molar mass, the smaller the molar mass of a substance the faster the rate of diffusion of that substance. so the litmus paper\u00a0initially turns blue because ammonia will get to it first since it diffuses faster than HCl.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1894",
+    "text": "The boiling of fat and aqueous caustic soda is referred to as",
+    "options": {
+      "A": "hydrolysis",
+      "B": "esterification",
+      "C": "acidification",
+      "D": "saponification"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47323?exam_type=jamb&type=obj&page=379",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1895",
+    "text": "Which of the following pairs of substances will react further with oxygen to form a higher oxide?",
+    "options": {
+      "A": "CO\\(_2\\) and H\\(_2\\)O",
+      "B": "NO and H\\(_2\\)O",
+      "C": "CO and CO\\(_2\\)",
+      "D": "SO\\(_2\\) and NO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47324?exam_type=jamb&type=obj&page=379",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1896",
+    "text": "In the preparation of oxygen by heating KCIO\\(_3\\) , in the presence of MnO\\(_2\\) only moderate heat is needed because the catalyst acts by \\(_2\\)",
+    "options": {
+      "A": "lowering the pressure of the reaction",
+      "B": "increasing the surface area of the reaction",
+      "C": "increasing the rate of the reaction",
+      "D": "increasing the energy barrier of the reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47325?exam_type=jamb&type=obj&page=380",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1897",
+    "text": "Methanoic acid mixes with water in all proportions and has about the same boiling point as water. Which of the following methods would you adopt to obtain pure water from a mixture of Sand, water and methanoic acid?",
+    "options": {
+      "A": "Extractive distillation",
+      "B": "Filtration followed by distillation",
+      "C": "Neutralization with sodium hydroxide followed by distillation",
+      "D": "Neutralization with sodium hydroxide followed by filtration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47326?exam_type=jamb&type=obj&page=380",
+    "correct_answer": "A",
+    "explanation": "Due to the presence of maximum Azeotrope,we use extractive distilination (with extractive distilation\u00a0agents like sulfone) used for mixtures with low relative volatility,nearing unity.\nAzeotrope is a mixture of liquids that has a constant boiling point because the vapour has thesame composition as the mixture.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1898",
+    "text": "A quantity of electricity liberates 3.6g of Silver from its salt. What mass of aluminium Will be liberated from its salt by the same quantity of electricity? [Al = 27, Ag = 108].",
+    "options": {
+      "A": "2.7g",
+      "B": "1.2g",
+      "C": "0.9g",
+      "D": "0.3g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47327?exam_type=jamb&type=obj&page=380",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1899",
+    "text": "Suitable reagents for the laboratory preparation of nitrogen are",
+    "options": {
+      "A": "sodium dioxonitrate(III) and ammonium chloride",
+      "B": "sodium trioxonitrate(V) and ammonium chloride",
+      "C": "sodium chloride and ammonium trioxonitrate(V)",
+      "D": "sodium chloride and ammonium di-ozonitrate(III)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47328?exam_type=jamb&type=obj&page=380",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1900",
+    "text": "The number of electrons in the valence shell of an element of atomic number 14 is?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47329?exam_type=jamb&type=obj&page=380",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1901",
+    "text": "What volume of oxygen will remain after reacting 8cm\\(^3\\)\u00a0of hydrogen gas with 20cm\\(^3\\) of oxygen gas?",
+    "options": {
+      "A": "10cm\\(^3\\)",
+      "B": "12cm\\(^3\\)",
+      "C": "14cm\\(^3\\)",
+      "D": "16cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47330?exam_type=jamb&type=obj&page=381",
+    "correct_answer": "D",
+    "explanation": "First we need to write the balanced chemical equation:\n2H\\(_2\\)\u00a0 \u00a0+\u00a0 \u00a0 O\\(_2\\)\u00a0 \u00a0\u2192\u00a0 2H\\(_2\\)O\nReacting moles:\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 2 moles\u00a0 \u00a0:\u00a0 \u00a0 1 moles\u00a0 \u00a0 \u00a0 \u00a0 2 moles\nExpected reacting Volume:\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08 cm\\(^3\\):\u00a0 20\u00a0cm\\(^3\\)\nActual reacted Volume:\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a08\u00a0cm\\(^3\\):\u00a0 \u00a04cm\\(^3\\)\u00a0 (Based on the balanced equation)\nResidual Volume(Expected - Actual):\u00a0 0cm\\(^3\\)\u00a0:\u00a0 16cm\\(^3\\)\nTherefore, 16cm\\(^3\\) of Oxygen will remain after reacting 8cm\\(^3\\)\u00a0of hydrogen gas with 20cm\\(^3\\) of oxygen gas.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1902",
+    "text": "If one of the following oxides is heated with hydrogen or carbon using a bunsen burner. it is not reduced to the metal, Which one is it?",
+    "options": {
+      "A": "lead oxide",
+      "B": "Magnesium oxide",
+      "C": "Copper oxide",
+      "D": "Tin oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47331?exam_type=jamb&type=obj&page=381",
+    "correct_answer": "B",
+    "explanation": "The oxides of Potassium, Sodium, Calcium, and Magnesium are not reduced when they react with carbon and hydrogen.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1903",
+    "text": "The lUPAC name for",
+    "options": {
+      "A": "1-methyl pentane",
+      "B": "3-methylbutane",
+      "C": "2-methylbutane",
+      "D": "1-dimethyl propane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47332?exam_type=jamb&type=obj&page=381",
+    "correct_answer": "C",
+    "explanation": "The longest carbon chain is butane, with one substituent attached at carbon number 2\ntherefore the compound is named \u00a02-methyl butane\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1904",
+    "text": "An aqueous solution of a metal salt, M. gives a white precipitate with NaOH which dissolves in excess NaOH. With aqueous ammonia, the solution of M also gives a white precipitate which dissolves in excess ammonia Therefore the cation in M is",
+    "options": {
+      "A": "Zn",
+      "B": "Ca",
+      "C": "Al",
+      "D": "Pb"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47333?exam_type=jamb&type=obj&page=381",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1905",
+    "text": "What is the concentration of a solution containing 2g of NaOH in 100cm3\u00a0of solution? [Na = 23, O =16, H = 1]",
+    "options": {
+      "A": "0.40 moldm\\(^{-3}\\)",
+      "B": "0.50 moldm\\(^{-3}\\)",
+      "C": "0.05 moldm\\(^{-3}\\)",
+      "D": "0.30 moldm\\(^{-3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47335?exam_type=jamb&type=obj&page=381",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1906",
+    "text": "How many atoms are present in 6.0g of magnesium? [Mg = 24, N.A = 6.02 x 10 \\(^{23}\\)mol]",
+    "options": {
+      "A": "1.20 x 10\\(^{22}\\)",
+      "B": "2.4 x 10\\(^{22}\\)",
+      "C": "1.51 x 10\\(^{23}\\)",
+      "D": "3.02 x 10\\(^{22}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47336?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "C",
+    "explanation": "Using the formula, Number of moles = \\(\\frac{Number of atoms or molecules}{Avogadro number}\\)\nGiven: Mass of Magnessium = 6g\nMass number of Mg = 24g/mol\nNumber of moles = \\(\\frac{mass}{Molar mass}\\)\n=\u00a0\\(\\frac{6}{24}\\) =\u00a0\\(\\frac{1}{4}\\) = 0.25 mole\nThus,\u00a0\u00a0Number of moles = \\(\\frac{Number of atoms or molecules}{Avogadro number}\\)\nn\u00a0 =\u00a0 \\(\\frac{N}{L}\\)\n0.25 =\u00a0\\(\\frac{N}{(6.02\\times 10\\(^{23}}\\)\nN = \\(0.25 \\times 6.02\\times 10\\(^{23}\\))\nN = 1.505 X\u00a010\\(^{23}\\)\nN = 1.51 X\u00a010\\(^{23}\\)\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1907",
+    "text": "The radio isotope used in industrial radiography for the rapid checking of faults in welds and casting is?",
+    "options": {
+      "A": "carbon-14",
+      "B": "phosphorus-32",
+      "C": "cobalt-60",
+      "D": "iodine-131"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47337?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1908",
+    "text": "Beryllium and Aluminium have similar properties because they",
+    "options": {
+      "A": "are both metals",
+      "B": "belong to the same group",
+      "C": "belong to the same period",
+      "D": "are positioned diagonally to each other"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47338?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "D",
+    "explanation": "Beryllium and Aluminium exhibit similar propertiesbecause of their diagonal relationship on the periodic table, meaning they are positioned diagonally to each other, resulting in comparable atomic sizes, electronegativity, and a tendency to form covalent compounds, despite being in different periods and groups.",
+    "year": "2018"
+  },
+  {
+    "number": "1909",
+    "text": "mE + nF -----> pG + qH\u00a0\nIn the equation shown, the equilibrium constant is given by?",
+    "options": {
+      "A": "\\(\\frac{[E]^m[F]}{[G]^p[H]^q}\\)",
+      "B": "\\(\\frac{[E][F]}{[G][H]}\\)",
+      "C": "\\(\\frac{[G]^p[H]^q}{[E]^m[F]^n}\\)",
+      "D": "\\(\\frac{[G][H]}{[E][F]}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47339?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1910",
+    "text": "(I). 3CuO(s)\u00a0+ 2NH3(g)\u00a0-----> 3Cu(s)\u00a0+ 3H2O(l)\u00a0+ N2(g)\u00a0\n(II). 2NH3(g)\u00a0+ 3Cl2(g)\u00a0-----> 6HCl(g)\u00a0+ N2(g)\u00a0\n(III). 4NH3(g)\u00a0+ 3O2(g)\u00a0-----> 6H2O(l)\u00a0+ N2(g)\u00a0\nThe reactions represented by the equations above demonstrate the",
+    "options": {
+      "A": "basic properties of ammonia",
+      "B": "acidic properties of ammonia",
+      "C": "reducing properties of ammonia",
+      "D": "oxidizing properties of ammonia"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47340?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1911",
+    "text": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
+    "options": {
+      "A": "Na\\(_2\\)SO\\(_4\\)",
+      "B": "Na\\(_2\\)SO\\(_3\\)",
+      "C": "Na\\(_2\\)S",
+      "D": "Na\\(_2\\)CO\\(_3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47341?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "B",
+    "explanation": "When sodium sulphite (Na\u2082SO\u2083) reacts with hydrochloric acid (HCl), it produces sulphur dioxide gas (SO\u2082), which readily decolourises acidified potassium permanganate (KMnO\u2084) solution.\nReaction:Na\u2082SO\u2083(aq) + 2HCl(aq) \u2192 2NaCl(aq) + H\u2082O(l) + SO\u2082(g)\nThe reaction produces sodium chloride (NaCl), water (H\u2082O), and sulphur dioxide gas (SO\u2082).\u00a0Sulphur dioxide gas (SO\u2082) is a reducing agent, and when it reacts with acidified potassium permanganate (KMnO\u2084), it decolourises the purple solution.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1912",
+    "text": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of",
+    "options": {
+      "A": "carbon(IV)oxide",
+      "B": "carbon(ll)oxide",
+      "C": "soda",
+      "D": "glucose"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47342?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1913",
+    "text": "Which of the following are mixtures?\u00a0\nI. Petroleum\u00a0\nII. Rubber latex\u00a0\nIII. Vulcanizer's solution\u00a0\nIV. Carbon sulphide",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II and IV",
+      "C": "I and II only",
+      "D": "I and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47343?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1914",
+    "text": "A balanced chemical equation obeys the law of",
+    "options": {
+      "A": "conservation of mass",
+      "B": "definite proportions",
+      "C": "multiple proportions",
+      "D": "conservation of energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47344?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1915",
+    "text": "When air which contains the gases Oxygen, nitrogen, carbondioxide, water vapour and the rare gases, is passed through alkaline pyrogallol and then over quicklime, the only gases left are;",
+    "options": {
+      "A": "nitrogen and carbondioxide",
+      "B": "the rare gases",
+      "C": "nitrogen and oxygen",
+      "D": "nitrogen and the rare gases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47628?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "D",
+    "explanation": "The quick-lime is a drying agent that can dry most gases except ammonia. Hence it removes the water vapour. Quick-lime which is calcium oxide reacts with the carbon dioxide forming calcium carbonate. Hence carbon dioxide and monoxide is eliminated leaving nitrogen, and the rare gases\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1916",
+    "text": "In the laboratory preparation of oxygen, the gas cannot be collected by downward displacement of air because",
+    "options": {
+      "A": "the density of oxygen is greater than that of air",
+      "B": "the density of air is nearly the same as that of oxygen",
+      "C": "oxygen is a component of air",
+      "D": "air is an impure substance"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47629?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "B",
+    "explanation": "Oxygen is collected in downward displacement of water because:-\nOxygen is only slightly soluble in water. Therefore, it can be collected over water without the fear of excessive dilution.Oxygen is slightly heavier than air, so it cannot be collected over air.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1917",
+    "text": "2KClO\\(_3\\)(s)\u00a0\u2192 2KCl(s) + 3O\\(_2\\)(g)\nThe importance of the catalyst in the reaction above is that",
+    "options": {
+      "A": "heating may not be required before the reaction takes place",
+      "B": "the reaction is controllable even at a high temperature",
+      "C": "the reaction produces large quantity of oxygen",
+      "D": "the reaction takes place more rapidly at a lower temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47630?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "D",
+    "explanation": "A catalyst is a substance that enables a chemical reaction to proceed at a usually faster rate or under different conditions (as at a lower temperature) than otherwise possible.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1918",
+    "text": "Which of the following is used to power steam engines?",
+    "options": {
+      "A": "lubricating oil",
+      "B": "coal",
+      "C": "bitumen",
+      "D": "diesel oil"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47631?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "B",
+    "explanation": "When we burn coal on a fire, the bonds break apart and the energy is released in the form of heat. Coal contains about half as much energy per kilogram as cleaner fossil fuels such as gasoline, diesel, and kerosene\u2014and that's one reason why steam engines have to burn so much of it.\nCoal is the fuel used to power steam engines.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1919",
+    "text": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5 molar sodium hydroxide would exactly neutralise 10cm3 of 1.25 molar sulphuric acid?",
+    "options": {
+      "A": "5cm\\(^3\\)",
+      "B": "10cm\\(^3\\)",
+      "C": "20cm\\(^3\\)",
+      "D": "50cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47633?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "D",
+    "explanation": "2NaOH + H\\(_2\\) SO\\(_4\\)\u2194Na\\(_2\\)SO\\(_4\\) + 2H\\(_2\\)O\nV x 0.5M = 2(10 x 1.25)\n0.5V = 2 x 12.5\n0.5V = 25\nV = 250.5 = 50cm\\(^2\\)\nCorrect computation as it follows the equation specified.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1920",
+    "text": "To what volume must 300cm\\(^3\\) of 0.60M sodium hydroxide solution be diluted to give a 0.40M solution?",
+    "options": {
+      "A": "450cm\\(^3\\)",
+      "B": "300cm\\(^3\\)",
+      "C": "200cm\\(^3\\)",
+      "D": "150cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47634?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "A",
+    "explanation": "From the dilution law\nC\\(_1\\)V\\(_1\\) = C\\(_2\\)V\\(_2\\)\nC\\(_1\\) = Initial Concentration of NaOH = 0.6M\nV\\(_1\\) = Initial Volume of NaOH = 300cm3\nC\\(_2\\) = Final Concentration of NaOH = 0.4M\nV\\(_2\\) = Final Volume of NaOH = ?\nV\\(_2\\) = \\(\\frac{C_1V_1}{C_2}\\)\nV\\(_2\\) = \\(\\frac{0.6 \\times 300}{0.4}\\)\nV\\(_2\\) = 450 cm\\(^3\\)\nCorrect Computation as it follows the equation specified\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1921",
+    "text": "Diamond is a bad conductor of electricity because its bonding electrons are used in",
+    "options": {
+      "A": "crystal lattice formation",
+      "B": "covalent bond formation",
+      "C": "metallic bond formation",
+      "D": "coordinate bond formation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47635?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "B",
+    "explanation": "Diamond is a covalent macromolecule, and typical of a covalent substance is an insulator. All valence electrons are localized in well-defined covalent bonds and hence are not free to move through the structure\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1922",
+    "text": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as;",
+    "options": {
+      "A": "saponification",
+      "B": "dehydration",
+      "C": "esterification",
+      "D": "hydrolysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47636?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "C",
+    "explanation": "Esterification is a chemical reaction that forms at least one ester (= a type of compound produced by reaction between acids and alcohols). Esters are produced when acids are heated with alcohols in a process called esterification. An ester can be made by an esterification reaction of a carboxylic acid and an alcohol.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1923",
+    "text": "The constituent common to duralumin and alnico is",
+    "options": {
+      "A": "Co",
+      "B": "Mn",
+      "C": "Al",
+      "D": "Mg"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47637?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "C",
+    "explanation": "Constituents of duralumin are: Al, Cu, Mg, Mn.\nConstituents of Alnico are: Al, Ni and Co\nIn 1909, the alloy of duralumin was discovered by Alfred Wilon consisting of 94% Al, 4% Cu, 1% Mg and 1% Mn(Manganese)\nAlnico is an acronym referring to a family of iron alloys which in addition to iron are composed primarily of Al, Ni and Co.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1924",
+    "text": "The solubility of the solids that dissolves in a given solvent with the liberation of heat will",
+    "options": {
+      "A": "increase with an increase in temperature",
+      "B": "decrease with an increase in temperature",
+      "C": "decrease with a decrease in temperature",
+      "D": "not be affected by changes in temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47638?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "B",
+    "explanation": "increasing temperature\u00a0in exothermic reaction favors the left/reactant side and decreasing temperature will\u00a0favor the right/product\u00a0side.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1925",
+    "text": "What mass of Cu would be produced by the cathodic reduction of Cu\\(^{2+}\\)\u00a0 when 1.60A of current passes through a solution of CuSO\\(_4\\) for 1 hour. (F=96500Cmol\\(^{-1}\\)\u00a0, Cu=64)",
+    "options": {
+      "A": "7.64g",
+      "B": "3.82g",
+      "C": "1.91g",
+      "D": "0.96g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47639?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "C",
+    "explanation": "M = \\(\\frac{MmIT}{96500n}\\)\nWhere\nM=mass\nMm = Molar mass = 64g/mol\nI = current = 1.6A\nT= Time\u00a0 =1h r=3600s\nN= No of Charge = +2\nM = \\(\\frac{64x \\times 1.6 \\times 3600}{96500 \\times 2}\\)\nM=1.91g\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1926",
+    "text": "Calculate the pH of 0.05 moldm\\(^{-3}\\) H\\(_2\\)SO\\(_4\\)",
+    "options": {
+      "A": "1.30",
+      "B": "1.12",
+      "C": "1.00",
+      "D": "0.30"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47640?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "C",
+    "explanation": "Recall from pH formula pH = -Log [H+]\nH2SO4 \u2192 2H+ + SO42-\n2H+ \u2192 2 X0.05 = 0.1\npH= -Log [0.1] = 1\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1927",
+    "text": "The choice of method for extracting a metal from its ores depends on the",
+    "options": {
+      "A": "strength of the core",
+      "B": "position of the metal in the electrochemical series",
+      "C": "source of the core",
+      "D": "position of the metal in the periodic table"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47641?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "B",
+    "explanation": "The method used to extract a metal from its ore depends upon the stability of its compound in the ore, which in turn depends upon the reactivity of the metal:\n\u2022 The oxides of very reactive metals, such as aluminum, form stable oxides and other compounds. A lot of energy is needed to reduce them to extract the metal.\n\u2022 The oxides of lesser reactive metals, such as iron, form less stable oxides and other compounds. Relatively little energy is needed to reduce them to extract the metal.\nSo, the method of extraction of a metal from its ore depends on the metal's position in the reactivity series.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1928",
+    "text": "Which of the following produces relatively few ions in solution?",
+    "options": {
+      "A": "NaOH",
+      "B": "Ca(OH)\\(_2\\)",
+      "C": "KOH",
+      "D": "AI(OH)\\(_3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47643?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "D",
+    "explanation": "Aluminium hydroxide is not soluble in water because it is polymeric and it also has high lattice energy and therefore it is hard to break bonds in this compound. So, water cannot dissolve such types of compounds.\nAl(OH)\\(_3\\) is not soluble in water\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1929",
+    "text": "The figure above shows the electrolysis of molten sodium chloride. Z is the",
+    "options": {
+      "A": "anode where the Cl\\(^-\\) ions are oxidized",
+      "B": "cathode where the Cl\\(^-\\) ions are reduced",
+      "C": "anode where the Na\\(^+\\) ions are reduced",
+      "D": "cathode where the Na\\(^+\\) ions are oxidized"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47644?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "A",
+    "explanation": "During the electrolysis of brine, the chlorine ions are discharged at the anode and are oxidized. While at the cathode Hydrogen ion is discharged.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1930",
+    "text": "The knowledge of half-life can be used to",
+    "options": {
+      "A": "Create an element",
+      "B": "Detect an element",
+      "C": "to combine elements",
+      "D": "Irradiate an element"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47645?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "B",
+    "explanation": "Half-life, in radioactivity, the interval of time required for one-half of the atomic nuclei of a radioactive sample to decay (change spontaneously into other nuclear species by emitting particles and energy), or, equivalently, the time interval required for the number of disintegrations per second of a radioactive material to decrease by one-half\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1931",
+    "text": "An element X forms the following compounds with chlorine; XCl\\(_4\\), XCl\\(_3\\), XCl\\(_2\\). This illustrates the",
+    "options": {
+      "A": "law of multiple proportions",
+      "B": "law of chemical proportions",
+      "C": "law of simple proportions",
+      "D": "law of conservation of mass"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47646?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "A",
+    "explanation": "The law of multiple proportion states that when element A and B combine to form more than one chemical compound then the various masses of sample A react with a fixed mass of sample B are in a simple multiple ratio.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1932",
+    "text": "The hydrogen ion concentration of a sample of orange juice is 2.0 X 10\\(^{-11}\\)moldm\\(^{-3}\\). What is its p\\(^{OH}\\)? [log102 = 0.3010]",
+    "options": {
+      "A": "3.30",
+      "B": "13.00",
+      "C": "10.70",
+      "D": "11.30"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47647?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "A",
+    "explanation": "PH+POH=14p\\(^{H}\\) = Log [H\\(^+\\)]\np[H\\(^+\\) ] = 2.0 X 10\\(^{-11}\\)moldm\\(^{-3}\\)\np\\(^{H}\\) = Log [2.0 X 10\\(^{-11}\\)]\np\\(^{H}\\) = 10.70\n10.70+\u00a0p\\(^{OH}\\) =14p\\(^{OH}\\) = 14 -10.70\n= 3.30\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1933",
+    "text": "2SO\\(_2\\) \\(_{(g) }\\)+ O\\(_2\\) \\(_{(g) }\\) \u2194 2SO\\(_3\\)\\(_{(g) }\\) \u0394H = -395.7kJmol\\(^{-1}\\)\nIn the equation, an increase in temperature will shift the equilibrium position to the",
+    "options": {
+      "A": "left and equilibrium constant decreases",
+      "B": "left and equilibrium constant increases",
+      "C": "right and equilibrium constant increases",
+      "D": "right and equilibrium constant decreases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47649?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "A",
+    "explanation": "This is typical of what happens with any equilibrium where the forward reaction is exothermic. Increasing the temperature decreases the value of the equilibrium constant. Where the forward reaction is endothermic, increasing the temperature increases the value of the equilibrium constant. Endothermic reaction has a Positive Enthalpy change. Exothermic reaction has a negative enthalpy change.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1934",
+    "text": "The end products of burning a candle in the atmosphere are water and",
+    "options": {
+      "A": "carbon (II) oxide",
+      "B": "sulphur (IV) oxide",
+      "C": "carbon (IV) oxide",
+      "D": "sulphur (VI) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47650?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "C",
+    "explanation": "When we ignite a candle, the hydrocarbon reacts with oxygen (in excess) to produce carbon dioxide and water. The burning sets an air current which gives dome shape to candle flame and it helps to get complete combustion at the bottom and the outer surface of the flame.\nCO\\(_2\\) is produced\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1935",
+    "text": "The collision theory explains reaction rates in terms of",
+    "options": {
+      "A": "size of the product",
+      "B": "frequency of collision of the reactants",
+      "C": "size of reactant",
+      "D": "frequency of collision of the products"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47651?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "B",
+    "explanation": "Collision theory is the theory used to predict the rates of chemical reactions, particularly for gases. The collision theory is based on the assumption that for a reaction to occur it is necessary for the reacting species (atoms or molecules) to come together or collide with one another.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1936",
+    "text": "The presence of ammonia gas in a desiccator can exclusively be removed by",
+    "options": {
+      "A": "phosphorus (V) oxide",
+      "B": "fused calcium chloride",
+      "C": "calcium oxide",
+      "D": "concentrated tetraoxosulphate (VI) acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47652?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "D",
+    "explanation": "Ammonia gas can be removed from a dessicator by adding a conc. H2SO4 so as to neutralize it since ammonia gas is basic.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1937",
+    "text": "Aluminium does not react with either dilute or concentrated trioxonitrate (V) acid because",
+    "options": {
+      "A": "it is insoluble in either dilute or concentrated trioxonitrate (V) acid",
+      "B": "it is lower than hydrogen in the electrochemical series",
+      "C": "the reaction with trioxonitrate (V) acid has a light activation energy",
+      "D": "an insoluble oxide is formed on its surface which renders it passive"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47653?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "D",
+    "explanation": "Aluminium doesn\u2019t react with either dilute or concentrated trioxonitrate (V) acid because an insoluble oxide is formed on its surface which renders it passive. It will depend on the concentration of the nitric acid used\u2026. Although aluminium reacts with dilute nitric acid to produce aluminium nitrate and hydrogen gas, concentrated (>60%) nitric acid is such a powerful oxidising agent that it instantly causes a thin layer of aluminium oxide to coat the surface of the aluminium\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1938",
+    "text": "Which of these sources of water may likely contain the least concentration of Ca\\(^{2+}\\) and Mg\\(^{2+}\\)?",
+    "options": {
+      "A": "Spring water",
+      "B": "River water",
+      "C": "Tap water",
+      "D": "Sea water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47654?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "C",
+    "explanation": "Tap water is likely to contain\u00a0less Ca\\(^{2+}\\) and Mg\\(^{2+}\\). The reason is because looking through\u00a0all the given options, spring water, river water and sea water are natural water that has not undergone any treatment. Conversely, it is believed that before tap water is distributed for consumption, it must have been treated, thereby reducing the Ca\\(^{2+}\\) and Mg\\(^{2+}\\) content in the water.",
+    "year": "2018"
+  },
+  {
+    "number": "1939",
+    "text": "The conductivity of an acid solution depends on the",
+    "options": {
+      "A": "amount of ions present and their mobilities",
+      "B": "mobilities of the ions present",
+      "C": "amount of ions present",
+      "D": "temperature of the solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47655?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "A",
+    "explanation": "The conductivity of a solution depends on the number of charge carriers (the concentrations of the ions), the mobility of the charge carriers and their charge. Theoretically, conductivity should increase in direct proportion to concentration.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1940",
+    "text": "Which of the following metals cannot replace hydrogen from water or steam?",
+    "options": {
+      "A": "Sodium",
+      "B": "Magnesium",
+      "C": "Iron",
+      "D": "Copper"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47656?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "D",
+    "explanation": "Metals above hydrogen in the activity series can displace or replace hydrogen present in water (H\\(_2\\)O) example of such metals are Ca, K, Na etc. But the metals below hydrogen in the activity series cannot replace hydrogen in the activity series example of such metals are Cu, Hg.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1941",
+    "text": "Elements P, Q, R, S have 6, 11, 15, 17 electrons respectively, therefore,",
+    "options": {
+      "A": "P will form an electrovalent bond with R",
+      "B": "Q will form a covalent bond with S",
+      "C": "R will form an electrovalent bond with S",
+      "D": "Q will form an electrovalent bond with S"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47657?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "D",
+    "explanation": "P 6 = 2, 4\nQ 11 = 2, 8, 1\nR 15 = 2, 8, 5\nS 17 = 2, 8, 7\nGiven the above is the electronic arrangement of PQRS elements, Q will form an electrovalent bond with S. Without argument, D is the answer because electrovalency involves the transfer of electron. Already, Q is 11 with electronic configuration of 2, 8, 1, i.e. having 1 valence electron which is ready to be lost by the atom of element Q, also, S is 17, with electronic configuration of 2, 8, 7. There the 7 valence electron of S attracts that only 1 electron to attain a stable octet structure.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1942",
+    "text": "During the electrolysis of copper II sulphate between platinum electrodes, if litmus solution is added to the anode compartment",
+    "options": {
+      "A": "the litmus turns blue but no gas is evolved",
+      "B": "the litmus turns blue and oxygen is evolved",
+      "C": "the litmus turns blue and hydrogen is evolved",
+      "D": "the litmus turns red and oxygen is evolved"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47658?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "D",
+    "explanation": "During the electrolysis of copper using platinum electrode, Cu and H migrate to the cathode while,SO\\(_4\\) and OH migrate to the anode.CU is then discharged preferentially at the cathode, acquiring two electrons and is deposited as metallic copper, while OH is discharged preferentially at the anode and deposited as gaseous oxygen, then the SO\\(_4\\) and H still in the solution react, thereby making d solution acidic and then changing the litmus paper red which is the test for acids.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1943",
+    "text": "The derivative of benzene that can be used in making explosives is",
+    "options": {
+      "A": "aniline",
+      "B": "xylene",
+      "C": "phenol",
+      "D": "toluene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47659?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "D",
+    "explanation": "Yes, Toluene is used in making explosives, based on information from the textbook \"New School Chemistry\", pg 541.\nPhenol is used as a starting material to makes\u00a0explosive materials\u00a0such as picric acid. Picric acid is one of the most acidic phenol. Like other strongly nitrated\u00a0organic compounds, picric acid is an explosive. Toluene, however, is used to produce a stronger explosive material called TriNitroToluene\u00a0(TNT).\nTherefore Toluene is the most appropriate answer for this question but in situations where you don't find Toluene in the options provided, then Phenol makes a viable answer.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1944",
+    "text": "In electrovalency, the oxidation number of the participating metal is always",
+    "options": {
+      "A": "decreasing",
+      "B": "increasing",
+      "C": "constant",
+      "D": "neutral"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47660?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "B",
+    "explanation": "In electro-valency the oxidation number of the participating metal increases.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1945",
+    "text": "The ionic radii of metals are usually",
+    "options": {
+      "A": "greater than their atomic radii",
+      "B": "unaffected by the charge on the ion",
+      "C": "the same as their atomic radii",
+      "D": "less than their atomic radii"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47661?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "D",
+    "explanation": "In a neutral atom, the atomic and ionic radius is the same, but many elements exist as anions or cations. If the atom loses its outermost electron (positively charged or cation), the ionic radius is smaller than the atomic radius because the atom loses an electron energy shell.\nYes ionic radius is only less than atomic radius for a metal.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1946",
+    "text": "Calculate the percentage composition of oxygen in calcium trioxocarbonate(IV) [Ca=40, C=12, O=16]",
+    "options": {
+      "A": "16",
+      "B": "48",
+      "C": "40",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47662?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "B",
+    "explanation": "Calcium trioxocarbonate (IV) = CaCO\\(_3\\)\nPercentage of Oxygen = \\(\\frac{\\text{Molar mass of 3O}}{\\text{Molar mass of} CaCO_3}\\) \u00d7 100%\nPercentage of Oxygen = \\(\\frac{(3 \\times 16)}{(40 + 12 + 48)}\\)\u00a0 x 100%\nPercentage of Oxygen = \\(\\frac{48}{100}\\) x 100%\nPercentage of Oxygen = 48%\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1947",
+    "text": "Which of these alloys contains copper?",
+    "options": {
+      "A": "solder",
+      "B": "steel",
+      "C": "permallory",
+      "D": "bronze"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47663?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "D",
+    "explanation": "Bronze is an alloy consisting primarily of copper, commonly with about 12% tin and often with the addition of other metals (such as aluminium, manganese, nickel or zinc) and sometimes non-metals or metalloids such as arsenic, phosphorus or silicon.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1948",
+    "text": "If the molecular mass of tetraoxosulphate (VI) acid is 98, calculate its vapour density.",
+    "options": {
+      "A": "196",
+      "B": "49",
+      "C": "106",
+      "D": "82"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47664?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "B",
+    "explanation": "Molecular mass = Vapour Density x 2\nVapour Density = \\(\\frac{\\text{Molecular Mass}}{2}\\)\nWhere Molecular mass = 98g/mol\nVapour Density = \\(\\frac{98}{2}\\)\nVapour Density = 49g/mol\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1949",
+    "text": "Sieving is a technique used to separate mixtures containing solid particles of",
+    "options": {
+      "A": "small sizes",
+      "B": "large sizes",
+      "C": "different sizes",
+      "D": "the same size"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47665?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "C",
+    "explanation": "Sieving is a simple and convenient technique of separating particles of different sizes.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1950",
+    "text": "3H\\(_{2(g)}\\)+ N\\(_{2(g)}\\)\u21d4 2NH\\(_{3(g)}\\) ; H= -ve\nIn the reaction above, lowering of temperature will",
+    "options": {
+      "A": "have no effect on the equilibrium position",
+      "B": "increase the rate of both the forward and reverse reactions equally",
+      "C": "favour the forward reaction",
+      "D": "favour the reverse reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47666?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "C",
+    "explanation": "N\\(_{2(g)}\\) + 3H\\(_{2(g)}\\) \u21d4 2NH\\(_{3(g)}\\) In the Haber process, the forward reaction is exothermic and the backward reaction is endothermic. If the temperature is decreased, the yield from the exothermic direction is increased i.e. the forward reaction is increased.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1951",
+    "text": "The situation obtained when a perfect gas expands into a vacuum is",
+    "options": {
+      "A": "\u0394H is positive and T\u0394 S is zero",
+      "B": "\u0394H is positive and T \u0394 S is negative",
+      "C": "\u0394H is negative and T\u0394 S is zero",
+      "D": "\u0394H is zero and T \u0394 S is positive"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47667?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "D",
+    "explanation": "The definition of enthalpy change is\n\u0394H = \u0394U + Pex(\u0394V)\nThe enthalpy change is zero because both terms on the right are zero in free expansion of an ideal gas.\nThere is no external pressure in a free expansion, so P (ex) = 0. And the internal energy change, \u0394U of free expansion in a closed system is zero since no inter molecular forces have to be overcome. The temperature remains constant and no heat is absorbed or released.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1952",
+    "text": "The general formula of alkanones is",
+    "options": {
+      "A": "RCHO",
+      "B": "R\\(_2\\)CO",
+      "C": "RCOOH",
+      "D": "RCOOR"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47668?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "B",
+    "explanation": "Alkanones also known as ketones have the general formula R\\(_2\\)CO\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1953",
+    "text": "The alkanoic acid found in human sweat is",
+    "options": {
+      "A": "CH\\(_3\\)-COOH",
+      "B": "CH\\(_3\\)\u2014CH\\(_2\\)\u2014COOH",
+      "C": "H-COOH",
+      "D": "CH\\(_3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47669?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "B",
+    "explanation": "Bacteria of the genus Propionibacterium produce propionic acid (Propanoic Acid) as the end-product of their anaerobic metabolism. This class of bacteria is commonly found in the stomach of ruminants and the sweat glands of humans, and their activity is partially responsible for the odour of both Swiss cheese and sweat.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1954",
+    "text": "The elements in the periodic table are listed in order of increasing",
+    "options": {
+      "A": "relative atomic number",
+      "B": "atomic mass",
+      "C": "relative isotopic mass",
+      "D": "nuclear charge"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47670?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "A",
+    "explanation": "The periodic number table is arranged in order of atoms increasing atomic number\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1955",
+    "text": "H\\(_2\\) S\\(_{(g)}\\) + Cl\\(_{2(g)}\\) \u2192 2HCl\\(_{(g)}\\) + S\\(_{(g)}\\) In the reaction above, the substance that is reduced is",
+    "options": {
+      "A": "H\\(_2\\)S",
+      "B": "S",
+      "C": "HCl",
+      "D": "Cl\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47671?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "D",
+    "explanation": "H \\(_2\\) S + Cl \\(_2\\) \u2192 2HCl + S\nPlease note: substance oxidized or reduced are always the reactants. So, one can easily cross out the two products.\nReduction is\n1. Addition of hydrogen\n2. Removal of Oxygen\n3. Addition of Electron\nOxidation is\n1. Removal of hydrogen\n2. Addition of hydrogen\n3. Removal of Electron\nFrom the question we can see that H was added to Cl in the product, thereby making hydrogen to be removed from S in the reactant hence S is oxidized as a result of the removal of hydrogen and Cl \\(_2\\) has been reduced due to addition of hydrogen.\nCl \\(_2\\) is reduced\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1956",
+    "text": "Which of the compounds is composed of Al, Si, O and H?",
+    "options": {
+      "A": "Epson salt",
+      "B": "Limestone",
+      "C": "Clay",
+      "D": "Urea"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47672?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "C",
+    "explanation": "Between the five main minerals found in clay, kaolinite is the most common. Kaolinite holds the chemical composition Al\\(_{2}\\) Si\\(_{2}\\)O\\(_{5}\\)(OH)\\(_{4}\\) and is an aluminum silicate material with a low \u201cshrink-swell\u201d capacity. It is a soft, white mineral but is often colored orange or red by iron oxide found in the soil.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1957",
+    "text": "When large hydrocarbon molecules are heated at high temperature in the presence of a catalyst to give smaller molecules, the process is known as",
+    "options": {
+      "A": "disintegration",
+      "B": "polymerization",
+      "C": "cracking",
+      "D": "degradation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47673?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "C",
+    "explanation": "Cracking is the breakdown of a large alkane into smaller, more useful alkenes. Simply put, hydrocarbon cracking is the process of breaking a long-chain of hydrocarbons into short ones. This process might require high temperatures and high pressure.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1958",
+    "text": "In the removal of water hardness, permutit is regenerated with a strong solution of",
+    "options": {
+      "A": "NaOH",
+      "B": "Na\\(_3\\)SO\\(_4\\)",
+      "C": "Na\\(_3\\)CO\\(_3\\)",
+      "D": "NaCl"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47674?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "D",
+    "explanation": "permutit water softener can be regenerated by washing the spent resin with brine( saturated sodium\u00a0chloride solution). The solution ions replace the calcium or magnesium ions present in it.\n\\(CaR_{2(s)}\\) + 2\\(NaCl_{aq}\\)\u00a0 \u2192 \\(CaCl_{2(aq)}\\) + 2\\(NaR_{2(s)}\\)\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1959",
+    "text": "A sample of hard water contains some calcium sulphate and calcium hydrogen carbonate. The total hardness may therefore be removed by",
+    "options": {
+      "A": "boiling the water",
+      "B": "adding excess calcium hydroxide",
+      "C": "adding a calculated amount of calcium hydroxide",
+      "D": "adding sodium carbonate"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47675?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "D",
+    "explanation": "its D because when sodium carbonate reacts with calcium hydrogentrioxocarbonate it gives sodium hydrogentrioxocarbonate and calcium trioxocarbonate. However, when it react with calcium sulphate, calcium carbonate and sodium tetraoxosulphate is formed\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1960",
+    "text": "Which of the following separation techniques can be employed in obtaining solvent from its solution?",
+    "options": {
+      "A": "Evaporation",
+      "B": "Distillation",
+      "C": "Filtration",
+      "D": "Precipitation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47676?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "B",
+    "explanation": "Distillation is the process of separating the components or substances from a liquid mixture by using selective boiling and condensation.\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  },
+  {
+    "number": "1961",
+    "text": "In the upper atmosphere, the ultra-violet light breaks off a free chlorine atom from chlorofluorocarbon molecule. The effect of this is that the free chlorine atom will",
+    "options": {
+      "A": "be very reactive and will attack ozone",
+      "B": "be non-reactive and will not attack ozone",
+      "C": "not change the level of ozone in the atmosphere",
+      "D": "increase the level of ozone in the atmosphere"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/47677?exam_type=jamb&type=obj&page=393",
+    "correct_answer": "A",
+    "explanation": "CFCs (Chlorofluorocarbons) have a lifetime in the atmosphere of about 20 to 100 years, and consequently one free chlorine atom from a CFC molecule can do a lot of damage, destroying ozone molecules for a long time\nThere is an explanation video availablebelow.",
+    "year": "2018"
+  }
+]

@@ -1,0 +1,729 @@
+[
+  {
+    "number": "350",
+    "text": "Which of the following is not a step involved in data conversion?",
+    "options": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Process",
+      "D": "Transfer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62724?exam_type=waec&type=obj&page=70",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "351",
+    "text": "The communication of knowledge, concepts and ideas is referred to as?",
+    "options": {
+      "A": "information processing.",
+      "B": "information transmission.",
+      "C": "telecasting.",
+      "D": "webcasting."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62725?exam_type=waec&type=obj&page=71",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "352",
+    "text": "The equivalent of the decimal number 89 in base 4 is?",
+    "options": {
+      "A": "1021.",
+      "B": "1201.",
+      "C": "1211.",
+      "D": "1121."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62726?exam_type=waec&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "353",
+    "text": "Choose the incorrect statement about microcomputers?",
+    "options": {
+      "A": "A microcomputer can be placed on a single silicon chip.",
+      "B": "A microcomputer can have more processing capability than a mainframe model.",
+      "C": "ROM chips may be used in micros to permanently store program instruction.",
+      "D": "Most micros use rigid disk storage devices rather than floppy disk drives."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62727?exam_type=waec&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "354",
+    "text": "Under classification by data representation. computers can be?",
+    "options": {
+      "A": "analogue, digital and hybrid.",
+      "B": "hybrid, mainframes and analogue.",
+      "C": "mini- computers, digital and supercomputers.",
+      "D": "supercomputers and mini-computers."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62728?exam_type=waec&type=obj&page=71",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "355",
+    "text": "Pascal's calculating machine was useful in?",
+    "options": {
+      "A": "addition and subtraction only.",
+      "B": "division only.",
+      "C": "multiplication and division only.",
+      "D": "multiplication only."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62729?exam_type=waec&type=obj&page=71",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "356",
+    "text": "Arrange the following inventions in chronological order.\nI. Slide Rule ll. Pascaline llI. Analytical Engine IV. Difference Engine",
+    "options": {
+      "A": "I, II, IV and IIl",
+      "B": "I, IV, III and Il",
+      "C": "III, IV, II and I",
+      "D": "I, II, III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62730?exam_type=waec&type=obj&page=72",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "357",
+    "text": "Handwritten letters, typeset documents or printout Characters can be read into the computer by?",
+    "options": {
+      "A": "Barcode Reader.",
+      "B": "Magnetic Ink Character Recognition.",
+      "C": "Optical Character Recognition.",
+      "D": "Optical Mark Reader."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62731?exam_type=waec&type=obj&page=72",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "358",
+    "text": "which of the following logic operations would select a record when at least one condition is satisfied?",
+    "options": {
+      "A": "AND",
+      "B": "NOR",
+      "C": "NOT",
+      "D": "OR"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62732?exam_type=waec&type=obj&page=72",
+    "correct_answer": "D",
+    "explanation": "The NOR operation is a combination of OR and NOT operations. It only gives an output of true or 1 when none of the conditions are satisfied. Therefore, the OR operation would select a record when at least one condition is satisfied",
+    "year": "2020"
+  },
+  {
+    "number": "359",
+    "text": "In Figure 1, the value of Z when X = 1 and Y=0 is?",
+    "options": {
+      "A": "0.",
+      "B": "1.",
+      "C": "10.",
+      "D": "11."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62733?exam_type=waec&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "The diagram and the table above serve as guards in answering the above question.\nX= 1 , Y= 0XY = 0NAND output = 1\nTherefore Z = 1",
+    "year": "2020"
+  },
+  {
+    "number": "360",
+    "text": "In Figure 1, the value of Z when X = 1 and Y=0 is?",
+    "options": {
+      "A": "0.",
+      "B": "1.",
+      "C": "10.",
+      "D": "11."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62734?exam_type=waec&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "X = 1, Y =0\u00a0 and XY = 0 then NAND = 1",
+    "year": "2020"
+  },
+  {
+    "number": "361",
+    "text": "A data bus that is capable of transferring 8 bytes of data at once can be rated as?",
+    "options": {
+      "A": "a 16-bit data bus.",
+      "B": "a 32-bit data bus.",
+      "C": "a 64-bit data bus.",
+      "D": "an 8- bit data bus."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62735?exam_type=waec&type=obj&page=73",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "362",
+    "text": "Which of the following memory types are nonvolatile?\nI. PROM II. SRAM II. EEPROM IV. DRAM",
+    "options": {
+      "A": "I and lll only",
+      "B": "I and IV only",
+      "C": "Il and ll only",
+      "D": "IIl and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62736?exam_type=waec&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "363",
+    "text": "A company known as CIBITO has the following memory modules in four of its computers as shown in Table 1.\nWhich memory module will be appropriate for graphic design?\n\u00a0 \u00a0\nTable 1\n\n\n\n\nMemory Module\n\nMemory Type\n\nNumber of Pins\n\n\n\nP\nSIMM\n30\n\n\nQ\nSIMM\n72\n\n\nR\nSO DIMM\n72\n\n\nS\nDIMM\n168",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62737?exam_type=waec&type=obj&page=73",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "364",
+    "text": "One attribute of the Read Only Memory is that it?",
+    "options": {
+      "A": "can be modified.",
+      "C": "stores the BIOS.",
+      "D": "stores the POST."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62738?exam_type=waec&type=obj&page=73",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "365",
+    "text": "The operation of a computer and peripherals attached to it is controlled by?",
+    "options": {
+      "A": "application software.",
+      "B": "hardware",
+      "C": "liveware.",
+      "D": "system software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62739?exam_type=waec&type=obj&page=73",
+    "correct_answer": "D",
+    "explanation": "The system software controls the operation of a computer and its peripherals. System software, also known as the operating system, is the software that manages and controls the computer hardware and other software programs.",
+    "year": "2020"
+  },
+  {
+    "number": "366",
+    "text": "Antivirus software is an example of?",
+    "options": {
+      "A": "application software.",
+      "B": "operating system",
+      "C": "system software.",
+      "D": "utility software."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62740?exam_type=waec&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "367",
+    "text": "Which of the following devices will not require the use of system software to operate?",
+    "options": {
+      "A": "Analogue camera",
+      "B": "MICR",
+      "C": "Mobile phones",
+      "D": "OCR"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62741?exam_type=waec&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "Devices like desktops and laptops, enterprise-class server computers, optical character recognition mobile phone requires system software to operate.\u00a0Ananalogue camerais the only device from the options that will not require the use of system software to operate.",
+    "year": "2020"
+  },
+  {
+    "number": "368",
+    "text": "Which of the following application packages is most suitable for database management?",
+    "options": {
+      "A": "Photoshop",
+      "B": "MS Publisher",
+      "C": "Macromedia Flash",
+      "D": "Fox Pro"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62742?exam_type=waec&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "369",
+    "text": "Files that contain machine language instructions are called?",
+    "options": {
+      "A": "interpreter files.",
+      "B": "executable files",
+      "C": "batch files",
+      "D": "source files."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62743?exam_type=waec&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "370",
+    "text": "The following are types of errors in programming except?",
+    "options": {
+      "A": "grammar error.",
+      "B": "syntax error.",
+      "C": "logic error.",
+      "D": "arithmetic error."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62744?exam_type=waec&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "371",
+    "text": "The stages of software development do not include?",
+    "options": {
+      "A": "analysis.",
+      "B": "conversion.",
+      "C": "design.",
+      "D": "maintenance."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62745?exam_type=waec&type=obj&page=75",
+    "correct_answer": "B",
+    "explanation": "The software development process consists of several key stages: requirements gathering, analysis, design, coding, testing, and maintenance. It's important to note that conversion is not considered a stage in software development; instead, it refers to the process of transforming data from one format to another.",
+    "year": "2020"
+  },
+  {
+    "number": "372",
+    "text": "Express P(1 + \\(\\frac{R}{100}\\))\\(^N\\) as a BASIC programming notation.",
+    "options": {
+      "A": "P x (1 + R \u00f7 100)\\(^N\\)",
+      "B": "P * (1 + \\(\\frac{R}{100}\\))\\(^N\\)",
+      "C": "P x\u00a0(1 + R\u00a0\u00f7 100)^N",
+      "D": "P *(1 + R /100) ^N"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62746?exam_type=waec&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "The BASIC programming notation for the expression \\(P( 1 + R \\div100)^N\\) is P * (1 + R/100)^N. This is because in BASIC programming, the multiplication operator is represented by *, division by /, and exponentiation by ^.",
+    "year": "2020"
+  },
+  {
+    "number": "373",
+    "text": "An algorithm can be described as?",
+    "options": {
+      "A": "the output of the instruction to computer.",
+      "B": "the required to be processed.",
+      "C": "problem definition.",
+      "D": "a sequence of instructions for solving a problem."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62747?exam_type=waec&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "374",
+    "text": "The major difference between low level programming language and high level programming language Is that?",
+    "options": {
+      "A": "low level languages need an interpreter while a high level languages need a compiler.",
+      "B": "high level languages will not need a translator but low level languages do.",
+      "C": "low level languages need a compiler while high level languages need an interpreter.",
+      "D": "low level languages do not need translators while high level languages do."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62748?exam_type=waec&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "The major difference between low-level programming language and high-level programming language is that\u00a0High-level languages require the use of a compiler or an interpreter for their translation into the machine code. while\u00a0Low-level language requires an assembler to directly translate the instructions of the machine language.",
+    "year": "2020"
+  },
+  {
+    "number": "375",
+    "text": "What will the following BASIC statement produce? PRINT \"Afrikom Computer School\" A\u00a0.",
+    "options": {
+      "A": "blank on Screen message.",
+      "B": "An error indicating on the screen.",
+      "C": "Afrikon Computer School displayed on the screen.",
+      "D": "Afrikom Computer School printed on paper."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62749?exam_type=waec&type=obj&page=75",
+    "correct_answer": "C",
+    "explanation": "The BASIC statement 'PRINT \"Afrikom Computer School\"' will output the text 'Afrikom Computer School' to the screen. The PRINT command in BASIC is used to output or display text or variables on the screen.",
+    "year": "2020"
+  },
+  {
+    "number": "376",
+    "text": "A rectangular image consisting of black lines and white spaces representing data which can be optically read is called?",
+    "options": {
+      "A": "barcode.",
+      "B": "decoder.",
+      "C": "mnemonics.",
+      "D": "pseudocode."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62750?exam_type=waec&type=obj&page=76",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "377",
+    "text": "A rectangular image consisting of black lines and white spaces representing data which can be optically read is called?",
+    "options": {
+      "A": "barcode.",
+      "B": "decoder.",
+      "C": "mnemonics.",
+      "D": "pseudocode."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62751?exam_type=waec&type=obj&page=76",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "378",
+    "text": "The following are types of data network except?",
+    "options": {
+      "A": "MAC.",
+      "B": "MAN.",
+      "C": "PAN.",
+      "D": "WAN."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62752?exam_type=waec&type=obj&page=76",
+    "correct_answer": "A",
+    "explanation": "MAC stands for Media Access Control, which is a unique identifier assigned to a network interface for communications at the data link layer of a network segment.\nMAC is not a type of data network but the rest options are.",
+    "year": "2020"
+  },
+  {
+    "number": "379",
+    "text": "The minimum number of computers that can constitute a network is?",
+    "options": {
+      "A": "thirty.",
+      "B": "twenty.",
+      "C": "ten.",
+      "D": "two."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62753?exam_type=waec&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "A computer network is an interconnection amongtwo or more computers or computing devices.\u00a0Therefore,The minimum number of computers that can constitute a network should be at least 2.",
+    "year": "2020"
+  },
+  {
+    "number": "380",
+    "text": "If a computer user wants to access the national database from a remote location, the user will require a?",
+    "options": {
+      "A": "modem, telephone line and decoder.",
+      "B": "teleprinter, telephone line and facsimile.",
+      "C": "communication software, telephone line and decoder.",
+      "D": "modem, communication software and telephone"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62754?exam_type=waec&type=obj&page=76",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "381",
+    "text": "Which type of network topology is represented in Figure 2 above?",
+    "options": {
+      "A": "Hybrid topology",
+      "B": "Mesh topology",
+      "C": "Ring topology",
+      "D": "Star topology"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62755?exam_type=waec&type=obj&page=77",
+    "correct_answer": "A",
+    "explanation": "A hybrid topology is defined as a network topology that combines two or more different network topologies. A hybrid topology can be a combination of bus topology, ring topology, and mesh topology.",
+    "year": "2020"
+  },
+  {
+    "number": "382",
+    "text": "In networking, bandwidth means?",
+    "options": {
+      "A": "class of IP address used in the network",
+      "B": "number of interconnected computers in the network",
+      "C": "transmission capacity of a communication channel.",
+      "D": "types of nodes in a communication channel"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62756?exam_type=waec&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "383",
+    "text": "A pre-designed document coordinating fonts, a layout and a background is also known as?",
+    "options": {
+      "A": "guide.",
+      "B": "model.",
+      "C": "ruler.",
+      "D": "template"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62757?exam_type=waec&type=obj&page=77",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "384",
+    "text": "The following are functions of database management system except?",
+    "options": {
+      "A": "backup and replication.",
+      "B": "operation.",
+      "C": "rule enforcement.",
+      "D": "security"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62758?exam_type=waec&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "385",
+    "text": "To make the entire slides in a presentation to have the same \"look\" in MS PowerPoint, a user \u00a0should?",
+    "options": {
+      "A": "use the slide layout option.",
+      "B": "use outline\u00a0 view",
+      "C": "use a presentation design template.",
+      "D": "add a slide option."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62759?exam_type=waec&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "Use a presentation design template: A presentation design template ensures that all slides have a consistent theme, including colors, fonts, and layouts, providing a uniform appearance throughout the presentation.",
+    "year": "2020"
+  },
+  {
+    "number": "386",
+    "text": "In MS Excel, the average of 10 numbers give B1, B2,...,B10 is?",
+    "options": {
+      "A": "= B1 + B2 ... B10)/10",
+      "B": "@SUM(B1:B10).",
+      "C": "#SUM(B1:B10)/10,",
+      "D": "= B1 +B2 +... + B10/10."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62760?exam_type=waec&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "387",
+    "text": "To centre worksheet titles across\u00a0a range of cells MS Excel, the user must?",
+    "options": {
+      "A": "widen the rows to centres the titles across the range of cells.",
+      "B": "widen the columns to centre the titles across range of cell",
+      "C": "select the cells containing the title text and use\u00a0the fill handle to centre the text across the range of cells.",
+      "D": "select any cell containing the title text and use the fill handle to centre the text across a range of cells."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62761?exam_type=waec&type=obj&page=78",
+    "correct_answer": "C",
+    "explanation": "To center worksheet titles across a range of cells in MS Excel, the user must select the cells containing the title text and use the fill handle to center the text across the range of cells. The fill handle is a small black square that appears in the bottom right corner of a selected cell or range of cells. To use the fill handle to center the text across a range of cells, simply select the cells containing the title text and then drag the fill handle down the range of cells. The text in the selected cells will be centered across the range of cells.",
+    "year": "2020"
+  },
+  {
+    "number": "388",
+    "text": "In graphics, a subscript text refers to a text that is positioned?",
+    "options": {
+      "A": "a little bit above a normal line of text",
+      "B": "a little bit below a normal line of text.",
+      "C": "at the end of a line of text.",
+      "D": "at the front of a line of text"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62762?exam_type=waec&type=obj&page=78",
+    "correct_answer": "B",
+    "explanation": "A\u00a0subscript is a text that is positioned\u00a0a little bit below a normal line of text.",
+    "year": "2020"
+  },
+  {
+    "number": "389",
+    "text": "In database application, the field length determines the?",
+    "options": {
+      "A": "maximum number of characters the field can accommodate.",
+      "B": "maximum number of operations that can be performed on the field.",
+      "C": "level of security of the database.",
+      "D": "maximum number of datatype the field can contain."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62763?exam_type=waec&type=obj&page=78",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "390",
+    "text": "Removing a program on a computer properly requires?",
+    "options": {
+      "A": "deleting.",
+      "B": "archiving.",
+      "C": "disabling.",
+      "D": "uninstalling."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62764?exam_type=waec&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "391",
+    "text": "A feature on the computer desktop that indicates the current active applications is called?",
+    "options": {
+      "A": "icon.",
+      "B": "menu bar.",
+      "C": "ribbon.",
+      "D": "task bar."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62765?exam_type=waec&type=obj&page=79",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "392",
+    "text": "In a Windows operation involving dragging and dropping an item on the desktop, the item will be?",
+    "options": {
+      "A": "deleted from the screen.",
+      "B": "duplicated.",
+      "C": "moved to a new location.",
+      "D": "renamed."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62766?exam_type=waec&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "393",
+    "text": "Digital signals can be represented by:\u00a0 \u00a0\nI. Binary Codes\nIl.0 and 1\nIII. High and Low Which of the following options is correct?",
+    "options": {
+      "A": "l and\u00a0Il only",
+      "B": "I and lIl only",
+      "C": "II and lIl only",
+      "D": "I, Il and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62767?exam_type=waec&type=obj&page=79",
+    "correct_answer": "D",
+    "explanation": "Digital signals can be represented by binary codes (I), the digits 0 and 1 (II), and high and low states (III).",
+    "year": "2020"
+  },
+  {
+    "number": "394",
+    "text": "A single hexadecimal digit is represented by?",
+    "options": {
+      "A": "one bit.",
+      "B": "two bits.",
+      "C": "four bits",
+      "D": "eight bits."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62768?exam_type=waec&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "A single hexadecimal digit\u00a0can be\u00a0represented by\u00a04 binary\u00a0digits (also known as a nibble (or nybble).)",
+    "year": "2020"
+  },
+  {
+    "number": "395",
+    "text": "The decimal fraction 0.9375 converts to binary?",
+    "options": {
+      "A": "0.0111.",
+      "B": "0.1011.",
+      "C": "0.1111.",
+      "D": "O.1001."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62769?exam_type=waec&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "396",
+    "text": "The EBCDIC coding system was developed on?",
+    "options": {
+      "A": "IBM mainframe computers.",
+      "B": "HP mainframe\u00a0and minicomputers.",
+      "C": "Dell mainframe computer",
+      "D": "Apple mainframe computers."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62770?exam_type=waec&type=obj&page=80",
+    "correct_answer": "A",
+    "explanation": "EBCDIC stands for Extended Binary Coded Decimal Interchange Code. It\u2019s an encoding system that is used to encode 8 bits, because of 8 bit we can assign numeric values from 0 to 255 to different alphabetic, numeric, punctuation, control, and other special characters that are used in computing, communications, and text.\u00a0EBCDIC was used in IBM mainframe systems in 1964. This allows machines to store and transmit textual information efficiently using the 8-bit format.",
+    "year": "2020"
+  },
+  {
+    "number": "397",
+    "text": "Which of the following is not a criterion files?",
+    "options": {
+      "A": "Nature of content",
+      "B": "Organizational method",
+      "C": "Storage medium",
+      "D": "Type of data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62771?exam_type=waec&type=obj&page=80",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "398",
+    "text": "Which of the following options best shows the arrangement of file structure?\u00a0 \u00a0\nI File\nll. Field\nIII. Character\nIV, Record",
+    "options": {
+      "A": "III, II, I\u00a0and IV",
+      "B": "II, III, I\u00a0\u00a0and IV",
+      "C": "IlI, II, IV and I",
+      "D": "II, III, IV and I"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62772?exam_type=waec&type=obj&page=80",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "399",
+    "text": "Which of the following statements best describes sequential\u00a0file organization?",
+    "options": {
+      "A": "Records are arranged in no particular order.",
+      "B": "Records are directly addressed to the key value.",
+      "C": "Records are sorted according to a key field.",
+      "D": "Records are used\u00a0as index to access the database."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62773?exam_type=waec&type=obj&page=80",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "400",
+    "text": "Viruses, worms and trojan horses are all?",
+    "options": {
+      "A": "application software",
+      "B": "malicious software.",
+      "C": "robust software.",
+      "D": "system software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62774?exam_type=waec&type=obj&page=80",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "401",
+    "text": "In order to avoid damages caused by security breaches, the user must?",
+    "options": {
+      "A": "configure firewall.",
+      "B": "encourage piracy.",
+      "C": "install cracked software",
+      "D": "promote cyber crime"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62775?exam_type=waec&type=obj&page=81",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  }
+]

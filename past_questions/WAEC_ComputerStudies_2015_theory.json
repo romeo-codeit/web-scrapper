@@ -1,0 +1,47 @@
+[
+  {
+    "number": "11",
+    "text": "(a) Define the term operating system. (b) State two functions of an operating system. (c) List two types of: (i) application software (ii) translators\n(d) You were asked as a school prefect to compile the personal data of final year students in your school. State two software that could be used to perform the task.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62294?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) An operating system is a software program that manages the hardware and software resources of a computer.\n(b) Controlling input and output controlling program execution.\n(C) (i) Standard application software e.g Word processing,\u00a0Spreadsheet,\u00a0Customized application software e g\u00a0\u00a0payroll system, billing system. (ii) Compilers and Interpreters (d (1) Microsoft word (2) Microsoft Access",
+    "explanation": "(a) An operating system is a software program that manages the hardware and software resources of a computer.\n(b) Controlling input and output controlling program execution.\n(C) (i) Standard application software e.g Word processing,\u00a0Spreadsheet,\u00a0Customized application software e g\u00a0\u00a0payroll system, billing system. (ii) Compilers and Interpreters (d (1) Microsoft word (2) Microsoft Access",
+    "year": "2015"
+  },
+  {
+    "number": "12",
+    "text": "(a) What is a computer file?\n(b) State two features each of: (i) transaction file (ii) reference file.\n(c) List two: (i) effects of file insecurity (ii) methods of securing files.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62295?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) Is a block of arbitrary information or resource tor Storing information which is available to a computer program and is usually base on some kind of durable storage.\n(b)(i) (1) contains details of all transactions that may occur in the last period (2) once the data has been processed, it can be discarded\n(3) contains temporary collection of data (4) the records may not be in any order at all. (ii)\u00a0Stores data needed for reference purposes. It's fairly permanent in nature.\n(c) (i) Data loss and Overwriting (ii) Data backup and Anti-virus.",
+    "explanation": "(a) Is a block of arbitrary information or resource tor Storing information which is available to a computer program and is usually base on some kind of durable storage.\n(b)(i) (1) contains details of all transactions that may occur in the last period (2) once the data has been processed, it can be discarded\n(3) contains temporary collection of data (4) the records may not be in any order at all. (ii)\u00a0Stores data needed for reference purposes. It's fairly permanent in nature.\n(c) (i) Data loss and Overwriting (ii) Data backup and Anti-virus.",
+    "year": "2015"
+  },
+  {
+    "number": "13",
+    "text": "(a) Define the term system development cycle. (b) List four stages involved in system development cycle (c) State four qualities of a good program.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62296?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) Is an organizational process of developing and maintaining systems.\n(b) (i) Preliminary study (ii) Feasibility study (ii) Detailed system study (iv) System analysis\n(c) (i) Accuracy (ii) Simplicity (ii) Testability (iv) Efficiency.",
+    "explanation": "(a) Is an organizational process of developing and maintaining systems.\n(b) (i) Preliminary study (ii) Feasibility study (ii) Detailed system study (iv) System analysis\n(c) (i) Accuracy (ii) Simplicity (ii) Testability (iv) Efficiency.",
+    "year": "2015"
+  },
+  {
+    "number": "14",
+    "text": "(a) List the two main constituents of a computer (b) State four characteristics of a computer.\n(c) In a tabular form, categorize each of the following statements into either data or information: (i) It is no significant alone by itself; (ii) It is significant by itself\n(iii) It is obtained through observations and recordings (iv) It is obtained through analysis.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62297?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) Hardware and Software (b) (i) Speed (ii) Accuracy (ii) Storage (iv) Versatility\n(C)\nDataInformation1) It is not significant alone by itselfIt is significant by itself2) It is obtained through observations and recordingsIt is obtained through analysis",
+    "explanation": "(a) Hardware and Software (b) (i) Speed (ii) Accuracy (ii) Storage (iv) Versatility\n(C)\nDataInformation1) It is not significant alone by itselfIt is significant by itself2) It is obtained through observations and recordingsIt is obtained through analysis",
+    "year": "2015"
+  },
+  {
+    "number": "15",
+    "text": "(a) Define algorithm. (b) State three characteristics of an algorithm. (c) Write an algorithm for finding the average of\u00a0numbers, when the sum of the numbers is given.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62298?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) Is a set of rules and sequential steps that define how a particular problem can be solved in a finite and ordered sequence\n(b) (i) Input (ii) Output (ii) Effectiveness\nBEGIN\n(c) Step i: Let the sum of the six be X\nStep ii: Input the sum of the six numbers X\nStep iii: Average =X/6\nStep iv: Print Average. END\nOR BEGIN\nStep 1: Let the sum of the six numbers = X\nStep 2: Input the sum of the six numbers X\nStep 3: Average X/6\nStep 4: Print Average. END.",
+    "explanation": "(a) Is a set of rules and sequential steps that define how a particular problem can be solved in a finite and ordered sequence\n(b) (i) Input (ii) Output (ii) Effectiveness\nBEGIN\n(c) Step i: Let the sum of the six be X\nStep ii: Input the sum of the six numbers X\nStep iii: Average =X/6\nStep iv: Print Average. END\nOR BEGIN\nStep 1: Let the sum of the six numbers = X\nStep 2: Input the sum of the six numbers X\nStep 3: Average X/6\nStep 4: Print Average. END.",
+    "year": "2015"
+  }
+]

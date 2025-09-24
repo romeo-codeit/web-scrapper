@@ -1,0 +1,716 @@
+[
+  {
+    "number": "402",
+    "text": "One-millionth of a second is also referred to as",
+    "options": {
+      "A": "nanosecond",
+      "B": "microsecond",
+      "C": "millisecond",
+      "D": "picosecond"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64784?exam_type=waec&type=obj&page=81",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "403",
+    "text": "Examples of quantitative data type are?",
+    "options": {
+      "A": "continuous and discrete",
+      "B": "local and foreign",
+      "C": "nominal and ordinal",
+      "D": "primary and secondary"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64785?exam_type=waec&type=obj&page=81",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "404",
+    "text": "One difference between data and information is that ?",
+    "options": {
+      "A": "data is meaningful while information is not meaningful",
+      "B": "data are raw facts and figures while information is computed",
+      "C": "information is independent of data while\ndata is dependent on information",
+      "D": "information is the raw material while data is the\nend product of information"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64786?exam_type=waec&type=obj&page=81",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "405",
+    "text": "The following options are examples of information except?",
+    "options": {
+      "A": "area of a circle",
+      "B": "circumference of a circle",
+      "C": "perimeter of a rectangle",
+      "D": "plain shape of a rectangle"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64788?exam_type=waec&type=obj&page=81",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "406",
+    "text": "Modem computers Compared to earlier computers are ?",
+    "options": {
+      "A": "less reliable",
+      "B": "faster and larger",
+      "C": "larger and stronger",
+      "D": "faster and smaller"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64789?exam_type=waec&type=obj&page=82",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "407",
+    "text": "What type of computer would be most suitable for a student who lives in a remote village without constant electricity",
+    "options": {
+      "A": "Desktop computer",
+      "B": "Laptop computer",
+      "C": "Mainframe computer",
+      "D": "Minicomputer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64791?exam_type=waec&type=obj&page=82",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "408",
+    "text": "EDSAC was produced using a concept known as",
+    "options": {
+      "A": "Circuit switching",
+      "B": "Packet routing",
+      "C": "Packet switching",
+      "D": "Stored program"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64795?exam_type=waec&type=obj&page=82",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "409",
+    "text": "The process of running more than one program concurrently is known as",
+    "options": {
+      "A": "multithreading",
+      "B": "multitasking",
+      "C": "multiprogramming",
+      "D": "multipurpose"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64797?exam_type=waec&type=obj&page=82",
+    "correct_answer": "B",
+    "explanation": "Multitasking allows users to run multiple programs at the same time, even if the computer only has one CPU. This is done by switching between the programs very quickly, so that it appears to the user that all of the programs are running at the same time.",
+    "year": "2022"
+  },
+  {
+    "number": "410",
+    "text": "How many binary digits are contained in 10MB of a memory stick?",
+    "options": {
+      "A": "10x 1024",
+      "B": "10x 1024 x8",
+      "C": "10 x 1024 x 1024",
+      "D": "10 x 1024 x 1024 x 8"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64798?exam_type=waec&type=obj&page=82",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "411",
+    "text": "A student would require the following devices to online application form except?",
+    "options": {
+      "A": "keyboard",
+      "B": "mouse",
+      "C": "printer",
+      "D": "webcam"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64799?exam_type=waec&type=obj&page=83",
+    "correct_answer": "C",
+    "explanation": "A printer is not needed to fill an online application form, since you may not necessarily need to print, the form is submitted online.You need mouse and keyboard to input your data and webcam to take passport photograph.",
+    "year": "2022"
+  },
+  {
+    "number": "412",
+    "text": "use the diagram above\u00a0to answer questions below\nThe logic gate\u00a0in the diagram above\u00a0is called a",
+    "options": {
+      "A": "AND gate",
+      "B": "NAND gate",
+      "C": "NOR gate",
+      "D": "OR gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64801?exam_type=waec&type=obj&page=83",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "413",
+    "text": "The logic equation for the logic gate in the figure above\u00a0is?",
+    "options": {
+      "A": "Z=A+B",
+      "B": "Z=A.B",
+      "C": "Z= A+B",
+      "D": "Z=A.B.C"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64802?exam_type=waec&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "414",
+    "text": "The part labelled X in the figure\u00a0above\u00a0is called?",
+    "options": {
+      "A": "auxiliary memory",
+      "B": "output unit",
+      "C": "secondary memory",
+      "D": "storage unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64809?exam_type=waec&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "415",
+    "text": "The logic equation for the logic-circuit in the diagram above is?",
+    "options": {
+      "A": "Z=A+B+C",
+      "B": "Z=A.B+C",
+      "C": "Z=A+B+C",
+      "D": "Z=A.B.C"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64811?exam_type=waec&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "416",
+    "text": "The program that is loaded into a special area on a microprocessor or ROM on a one-time basis and becomes part of the hardware is called?",
+    "options": {
+      "A": "firmware",
+      "B": "liveware",
+      "C": "software",
+      "D": "utility"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64824?exam_type=waec&type=obj&page=84",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "417",
+    "text": "Thy following programs are general purpose application software except",
+    "options": {
+      "A": "corel draw",
+      "B": "payroll system",
+      "C": "Ms software",
+      "D": "MS word"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64831?exam_type=waec&type=obj&page=84",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "418",
+    "text": "One similarity between be spoke software and application packages is that they are?",
+    "options": {
+      "A": "both available off the shelf",
+      "B": "highly standardized",
+      "C": "both written by computer users",
+      "D": "meant to be used by computer end users"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64832?exam_type=waec&type=obj&page=84",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "419",
+    "text": "The process of testing the logic of algorithm to ensure they give correct result is known as ?",
+    "options": {
+      "A": "debbuging",
+      "B": "desk checking",
+      "C": "flow charting",
+      "D": "pseudo coding"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64840?exam_type=waec&type=obj&page=84",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "420",
+    "text": "The following instructions are guidelines for drawing flowcharts except that?",
+    "options": {
+      "A": "flowcharts must have a logical start and finish",
+      "B": "it should follow a direction of left to right or top to bottom",
+      "C": "it should follow a direction of right to left or bottom to top",
+      "D": "it should be clear, neat and easy to follow"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64848?exam_type=waec&type=obj&page=84",
+    "correct_answer": "C",
+    "explanation": "It should follow the direction of right to left or bottom to top.",
+    "year": "2022"
+  },
+  {
+    "number": "421",
+    "text": "Key skills of a system analyst include the following except",
+    "options": {
+      "A": "ability to troubleshoot",
+      "B": "interest in learning new skills",
+      "C": "motivational skills",
+      "D": "proficiency in programming languages"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64849?exam_type=waec&type=obj&page=85",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "422",
+    "text": "The result of the expression 2 * 6 + 2/4 * 2 * 4^2",
+    "options": {
+      "A": "21",
+      "B": "27",
+      "C": "28",
+      "D": "29"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64850?exam_type=waec&type=obj&page=85",
+    "correct_answer": "C",
+    "explanation": "The result of the expression 2 * 6 + 2/4 * 2 * 4^2\n= 2 x 6 + 1/2 x 2 x 16\n= 12 + 0.5 x 2 x 16\n= 12 + 1 x 16\n= 12 + 16 = 28",
+    "year": "2022"
+  },
+  {
+    "number": "423",
+    "text": "Use the QBASIC program below to answer question below\n10 REM Program to calculate product of numbers\n20 CLS\n30 INPUT A\n40 INPUT B\n50 LET PRODUCT=A*B\n60 PRINT PRODUCT\n70 END\n\u00a0\nThe number 10, 20,30, 40, 50, 60 and 70 as stated in the program indicate",
+    "options": {
+      "A": "bullet numbering",
+      "B": "codes",
+      "C": "bullet numbering",
+      "D": "line number"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64852?exam_type=waec&type=obj&page=85",
+    "correct_answer": "D",
+    "explanation": "The numbers 10, 20, 30, 40, 50, 60, and 70 in the Q BASIC program represent line numbers. In Q BASIC, each line of code is identified by a line number. The line numbers help navigate the program, jump to specific lines, and edit the code.",
+    "year": "2022"
+  },
+  {
+    "number": "424",
+    "text": "he QBASIC statement LETX=Y-3 means",
+    "options": {
+      "A": "the variables X and Y both receive the value 3",
+      "B": "the variable X receives the value3.",
+      "C": "the variable X receives the value of Y less 3",
+      "D": "an error message has occured due to type mismatch"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64854?exam_type=waec&type=obj&page=85",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "425",
+    "text": "The part labelled Y in the compiler interface in the diagram\u00a0represents",
+    "options": {
+      "A": "intermediate code",
+      "B": "binary code",
+      "C": "object code",
+      "D": "pseudocode"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64875?exam_type=waec&type=obj&page=85",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "426",
+    "text": "The virtual communication platform where many people keep in contact with family and friends is known as",
+    "options": {
+      "A": "microsoft visio",
+      "B": "social engineering",
+      "C": "cyberspace",
+      "D": "virtual reality"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64878?exam_type=waec&type=obj&page=86",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "427",
+    "text": "The protocol used for email transmission is known as ?",
+    "options": {
+      "A": "HTTP",
+      "B": "DHCP",
+      "C": "IP",
+      "D": "SMTP"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64881?exam_type=waec&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "\"SMTP\" \u00a0Protocol\u00a0is\u00a0used for Email.A simple Mail Transfer Protocol is known as SMTP. An internet-standard protocol for transmitting electronic mail is called Simple Mail Transfer Protocol (SMTP).",
+    "year": "2022"
+  },
+  {
+    "number": "428",
+    "text": "The signals from Ato modem X in the diagram above are",
+    "options": {
+      "A": "analogue",
+      "B": "digital",
+      "C": "electrons",
+      "D": "protons"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64885?exam_type=waec&type=obj&page=86",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "429",
+    "text": "what type of network is represented in the diagram above?",
+    "options": {
+      "A": "local area network",
+      "B": "metropolitan area network",
+      "C": "personal area network",
+      "D": "wide area network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64886?exam_type=waec&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "430",
+    "text": "In the URL https://waec.org.ng, the domain name is?",
+    "options": {
+      "A": "waec.org.ng",
+      "B": "http://www.",
+      "C": "//www/.waec.",
+      "D": "org.ng."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64888?exam_type=waec&type=obj&page=86",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "431",
+    "text": "The type of transmission in the part labelled q in the diagram above is called",
+    "options": {
+      "A": "broadcast",
+      "B": "full duplex",
+      "C": "half duplex",
+      "D": "simplex"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64889?exam_type=waec&type=obj&page=87",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "432",
+    "text": "The number of entries in the diagram above\u00a0is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64891?exam_type=waec&type=obj&page=87",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "433",
+    "text": "The maximum length of a text field in MS Access\u00a0is?",
+    "options": {
+      "A": "75",
+      "B": "120",
+      "C": "255",
+      "D": "265"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64897?exam_type=waec&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "434",
+    "text": "One function of operating system is ?",
+    "options": {
+      "A": "power supply allocation",
+      "B": "file corruption and deletion",
+      "C": "flowcharting",
+      "D": "resource allocation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64898?exam_type=waec&type=obj&page=87",
+    "correct_answer": "D",
+    "explanation": "Resource allocation: the operating system ensures the proper use of all the resources available by deciding which resource to be used by whom for how much time. All the decisions are taken by the operating system.",
+    "year": "2022"
+  },
+  {
+    "number": "435",
+    "text": "The shortcut key for the open dialog box in MS Word is ?",
+    "options": {
+      "A": "Alt + F12",
+      "B": "Ctrl + F12",
+      "C": "F12",
+      "D": "shift + f12"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64899?exam_type=waec&type=obj&page=87",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "436",
+    "text": "The part of the Corel\u00a0Draw window labelled II in the diagram above is called?",
+    "options": {
+      "A": "zoom in",
+      "B": "pan",
+      "C": "zoom out",
+      "D": "zoom to fit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64921?exam_type=waec&type=obj&page=88",
+    "correct_answer": "C",
+    "explanation": "The part of the Corel\u00a0Draw window labeled II\u00a0is the ZOOM OUT(command).",
+    "year": "2022"
+  },
+  {
+    "number": "437",
+    "text": "Which of the following operations will not run\u00a0a slide show in MS PowerPoint?",
+    "options": {
+      "A": "pressing F5",
+      "B": "pressing shift +f5",
+      "C": "choosing the slide show tab",
+      "D": "clicking on the slide show icon bar"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64928?exam_type=waec&type=obj&page=88",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "438",
+    "text": "What will be the result of writing the formula=year[now[][\u00a0 + 3 in a worksheet,of a spread sheet,if the current calendar is 14 august ,1960?",
+    "options": {
+      "A": "17 august 196003",
+      "B": "14 aug,1963",
+      "C": "11 august,1963",
+      "D": "1963"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64934?exam_type=waec&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "439",
+    "text": "If A is in cell A1 and B is in Cell B1 of a worksheet in a spreadsheet application,write a formula to calculate\nx= \\(\\frac{A^2 = B{^1/2}}{100}\\)",
+    "options": {
+      "A": "((A1^2)+(B1^(1/2)))/100",
+      "B": "((A1^2)+(B1^(1/2)))/100",
+      "C": "((A1^2+(B1^(1/2))/100",
+      "D": "((A1^2)+(B1^(1/2)))/100"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64954?exam_type=waec&type=obj&page=88",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "440",
+    "text": "The pictorial representation of\u00a0an object or application in the computer is called?",
+    "options": {
+      "A": "diagram",
+      "B": "graphic",
+      "C": "Icon",
+      "D": "image"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64966?exam_type=waec&type=obj&page=88",
+    "correct_answer": "C",
+    "explanation": "An icon is an image on the computer screen that represents an application, a capability, or some other concept or specific entity with meaning for the user.",
+    "year": "2022"
+  },
+  {
+    "number": "441",
+    "text": "Deleted items in the computers are temporarily stored in the?",
+    "options": {
+      "A": "memory unit",
+      "B": "processor",
+      "C": "recycle bin",
+      "D": "task manager"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64974?exam_type=waec&type=obj&page=89",
+    "correct_answer": "C",
+    "explanation": "TheRecycle Binis a default folder found in computers running the Windows operating system. It acts as a temporary storage location for files and folders that have been deleted from the computer by mistake or purposefully.",
+    "year": "2022"
+  },
+  {
+    "number": "442",
+    "text": "The keyboard key combination ALT + F4 in microsoft windows will",
+    "options": {
+      "A": "close active programmes",
+      "B": "open a file",
+      "C": "restart the computer",
+      "D": "Select two stages of booting from the following list"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64976?exam_type=waec&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "443",
+    "text": "Select two stages of booting from the following list:\ni. Power on Self Test;\nii.\u00a0\u00a0Loading of Operating System;\u00a0\niii.\u00a0\u00a0Loading of e-mails;\niv.\u00a0 Start in safe mode.\niv.\u00a0Save all active files",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and IV only",
+      "D": "III and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64979?exam_type=waec&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "444",
+    "text": "In number system ,base 16 is called ?",
+    "options": {
+      "A": "hexadecimal",
+      "B": "decimal",
+      "C": "duodecimal",
+      "D": "octal"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64980?exam_type=waec&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "445",
+    "text": "Add 127\\(_{16}\\) to\u00a0 50A\\(_{16}\\)",
+    "options": {
+      "A": "629\\(_{16}\\)",
+      "B": "630\\(_{16}\\)",
+      "C": "631\\(_{16}\\)",
+      "D": "632\\(_{16}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64981?exam_type=waec&type=obj&page=89",
+    "correct_answer": "C",
+    "explanation": "\\(1 2 7_{16}\\)\n+\u00a0 \u00a0 \\(5 0 10_{16}\\)\n=\u00a0 \u00a0 \\(6 3 1_{16}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "446",
+    "text": "The octal fraction 0.65 converts to binary as",
+    "options": {
+      "A": "0.110011",
+      "B": "0.110101",
+      "C": "101101",
+      "D": "101101"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64983?exam_type=waec&type=obj&page=90",
+    "correct_answer": "B",
+    "explanation": "\\(0.65_8\u00a0= 0 + 6 \\times 8^{-1} + 5 \\times 8^{-2}\\)\n= 0 + \\(\\frac{6}{8} + \\frac{5}{64}\\) = 0.828125 base 10\n0.828125 base 10 to base 2\n0.828125 X 2 = 1.6562510.65625 X 2 = 1.312510.3125 X 2 = 0.62500.625 X 2 = 1.2510.25 X 2 = 0.500.5 X 2 = 1.01\nread answer from up to down\n0.828125 in base 10 = 0.110101 in base 2.\nTherefore, 0.65 in base 8 = 0.110101 in base 2.",
+    "year": "2022"
+  },
+  {
+    "number": "447",
+    "text": "Sequential files are?",
+    "options": {
+      "A": "sorted using index",
+      "B": "sorted in a particular order",
+      "C": "stored as they come",
+      "D": "stored in any storage media"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64984?exam_type=waec&type=obj&page=90",
+    "correct_answer": "B",
+    "explanation": "A sequential file is a type of data storage file where records are arranged and accessed in a specific order, usually based on the data value.",
+    "year": "2022"
+  },
+  {
+    "number": "448",
+    "text": "The file access method illustrated in the diagram above is called?",
+    "options": {
+      "A": "hashed access",
+      "B": "indexed access",
+      "C": "random access",
+      "D": "sequential access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64986?exam_type=waec&type=obj&page=90",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "449",
+    "text": "Serial files are",
+    "options": {
+      "A": "stored using a key",
+      "B": "sorted in a particular order",
+      "C": "stored as they come",
+      "D": "stored in any storage media"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64990?exam_type=waec&type=obj&page=90",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "450",
+    "text": "Duplicating copyrighted electronic or digital content without the authors approval is considered?",
+    "options": {
+      "A": "felonious",
+      "B": "ethical",
+      "C": "treasonable",
+      "D": "unethical"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64995?exam_type=waec&type=obj&page=90",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "451",
+    "text": "Ethical practice requires a computer user to",
+    "options": {
+      "A": "shutdown properly",
+      "B": "hack into other peoples computer",
+      "C": "intrude into peoples privacy",
+      "D": "copy software without the license"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64998?exam_type=waec&type=obj&page=91",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "452",
+    "text": "The number of entries in the figure above is?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/65970?exam_type=waec&type=obj&page=91",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2022"
+  }
+]

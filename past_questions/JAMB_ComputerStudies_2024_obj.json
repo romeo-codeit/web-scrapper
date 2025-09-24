@@ -1,0 +1,744 @@
+[
+  {
+    "number": "241",
+    "text": "Which type of computer functions as a central repository, providing hardware, software, and other resources to multiple clients connected over a network?",
+    "options": {
+      "A": "Workstation",
+      "B": "Mainframe",
+      "C": "Supercomputer",
+      "D": "Server"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70750?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "Servers are specifically designed to act as central repositories on a network. They provide hardware resources (like storage space and processing power), software resources (like applications and databases), and other resources (like network access) to multiple clients (other computers or devices) connected to the network.\nMainframes are used for large-scale data processing workstations are intended for individual use, and supercomputers are designed for highly complex computations.",
+    "year": "2024"
+  },
+  {
+    "number": "242",
+    "text": "What does the 'Thesaurus' feature in word processing packages help users with?",
+    "options": {
+      "A": "Find synonyms and antonyms of words",
+      "B": "Check document statistics",
+      "C": "Insert citations",
+      "D": "Create a table of contents"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70755?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "The Thesaurus feature in word processing packages helps users find synonyms (similar words) and antonyms (opposite words) for words in their document",
+    "year": "2024"
+  },
+  {
+    "number": "243",
+    "text": "Which access method is least efficient for data retrieval?",
+    "options": {
+      "A": "Direct access",
+      "B": "Sequential access",
+      "C": "Indexed access",
+      "D": "Random Access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70756?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "Sequential access requires data to be accessed in a sequential order from the beginning of the file until the desired data is found. This method is inefficient when the required data is not near the beginning of the file, as it necessitates reading through all preceding data.\nIn contrast, direct access and indexed enable faster retrieval by allowing immediate access to specific data locations without the need for sequential scanning,Random access also provides efficient access to any data location in the file directly. Therefore, sequential access is the least efficient method for data retrieval among the choice",
+    "year": "2024"
+  },
+  {
+    "number": "244",
+    "text": "Which application package is used for developing websites?",
+    "options": {
+      "A": "Microsoft PowerPoint",
+      "B": "Microsoft Excel",
+      "C": "Figma",
+      "D": "Adobe Dreamwaver"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70757?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "Adobe Dreamweaver is a web development application that provides features for coding websites using HTML, CSS, and JavaScript. It offers tools for editing code, managing website files, and previewing the website during development.",
+    "year": "2024"
+  },
+  {
+    "number": "245",
+    "text": "Which of the following best describes software?",
+    "options": {
+      "A": "Elements used for data transmission",
+      "B": "Logical sequences of coded instructions",
+      "C": "Systems that control data flow",
+      "D": "Tangible components of a computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70758?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "Software refers to logical sequences of coded instructions (programs and applications) that tell the computer what task to perform.",
+    "year": "2024"
+  },
+  {
+    "number": "246",
+    "text": "Which of the following best describes the SDLC?",
+    "options": {
+      "A": "A programming language for system development",
+      "B": "A framework for developing information system",
+      "C": "A methodoloy for software debugging",
+      "D": "A hardware configuration protocol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70759?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "The SDLC (System Development Life Cycle) is a structured process for planning designing creating deploying and maintaining information systems. It's a framework that ensures a systematic approach to developing high-quality and efficient systems.",
+    "year": "2024"
+  },
+  {
+    "number": "247",
+    "text": "Which key on a keyboard is used to access special functions like volume control or brightness?",
+    "options": {
+      "A": "Alphabetic key",
+      "B": "Numeric key",
+      "C": "Function key",
+      "D": "Cursor key"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70760?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "Function keys are often marked \"Fl \" to \"F12\" and perform specific actions depending on the software or computer.",
+    "year": "2024"
+  },
+  {
+    "number": "248",
+    "text": "Which stage of the SDLC involves evaluating the system to ensure it meets user needs and making necessary adjustments?",
+    "options": {
+      "A": "Review",
+      "B": "Implementation",
+      "C": "Analysis",
+      "D": "Design"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70763?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "The review stage, also sometimes called testing involves evaluating the developed system against the initial requirements and user needs. This stage identifies any gaps, errors, or usability issues.\nBased on the review findings,adjustments and bug fixes are made to ensure the system meets the intended purpose and provides a satisfactory userexperience.",
+    "year": "2024"
+  },
+  {
+    "number": "249",
+    "text": "What is the relationship between a 'record' and a 'file'?",
+    "options": {
+      "A": "A record contains multiple files",
+      "B": "A file is a type of record",
+      "C": "o\nA record and a file are the same",
+      "D": "A file contains multiple records"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70792?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "A file is a collection of multiple records, each containing related fields",
+    "year": "2024"
+  },
+  {
+    "number": "250",
+    "text": "What was the primary advancement of the EDVAC over the ENIAC?",
+    "options": {
+      "A": "Use of Vacuum tubes",
+      "B": "Smaller size",
+      "C": "Stored-Program architecture",
+      "D": "Faster computation speeds"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70793?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "The key difference between ENIAC and EDVAC lies in how they stored and executed instructions. ENIAC had a fixed program design, meaning the instructions were wired into the machine and could not be changed easily. EDVAC, on the other hand, introduced the concept of a stored-program architecture. Instructions were stored in memory alongside allowing for greater flexibility and easier modification of programs.\nThis innovation paved the way for modern computers with stored programs on hard drives or other storage devices.",
+    "year": "2024"
+  },
+  {
+    "number": "251",
+    "text": "What is the term for the unauthorized modification of data within a database by exploiting vulnerabilities in an application's software?",
+    "options": {
+      "A": "Ransomware",
+      "B": "SQL injection",
+      "C": "Spoofing",
+      "D": "Phishing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70801?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "B",
+    "explanation": "SQL injection involves inserting malicious SQL statements into an application's input fields to manipulate the database and gain unauthorized access to data.",
+    "year": "2024"
+  },
+  {
+    "number": "252",
+    "text": "Why is it important to be stable, steady, and patient during program development?",
+    "options": {
+      "A": "To avoid using debugging tools",
+      "B": "To reduce the likelihood of making errors",
+      "C": "To ensure the program is written quickly",
+      "D": "To make the program more complex"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70802?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "B",
+    "explanation": "Being stable, steady, and patient helps in reducing errors and ensuring the quality of the program.",
+    "year": "2024"
+  },
+  {
+    "number": "253",
+    "text": "What\u00a0is the purpose of the design phase in program development?",
+    "options": {
+      "A": "To provide program documentation",
+      "B": "To test the program",
+      "C": "To create a flow chart and algorithm",
+      "D": "To write the source code"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70803?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "The purpose of the design phase is to create a flowchart and algorithm that outline the logical steps the program will take to solve the problem. This helps in planning the program's structure before coding begins.",
+    "year": "2024"
+  },
+  {
+    "number": "254",
+    "text": "What type of printer uses toner to print documents?",
+    "options": {
+      "A": "Inkjet printer",
+      "B": "Laser jet printer",
+      "C": "Thermal Printer",
+      "D": "Dot Matrix Printer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70804?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "B",
+    "explanation": "Laser printers use toner to produce high-quality text and graphics.",
+    "year": "2024"
+  },
+  {
+    "number": "255",
+    "text": "What is the output expression for the circuit shown above?",
+    "options": {
+      "A": "ABC+BC",
+      "B": "( A+B )+( B+C )",
+      "C": "AB+AC",
+      "D": "A B+BC"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70805?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "The output of the expression for the circuit is shown above:\n___A\u00a0 B+BC",
+    "year": "2024"
+  },
+  {
+    "number": "256",
+    "text": "Microprocessors became widely used in which generation of computers?",
+    "options": {
+      "A": "Fourth generation",
+      "B": "Second generation",
+      "C": "Fifth generation",
+      "D": "Third generation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70957?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "The invention and widespread use of microprocessors marked the fourth generation of computers. Microprocessors, essentially complete CPUs on a single chip, led to a dramatic increase in processing power, miniaturization, and affordability of computers.\nMicroprocessors became the cornerstone of modern computing paving the way for personal computers (PCs) and the continued evolution of computing power we see today.",
+    "year": "2024"
+  },
+  {
+    "number": "257",
+    "text": "What is a flowchart?",
+    "options": {
+      "A": "A visual representation of an algorithm, using geometric shapes and symbols to depict the flow of logic.",
+      "B": "A collection of data tables used to organize and analyze information.",
+      "C": "A written explanation of the thought process behind solving a problem, without a visual representation.",
+      "D": "A complex code snippet written in a specific programming language."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70960?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "A flowchart is a visual tool that translates the steps of an algorithm into an easy-to-understand diagram. It uses shapes like rectangles, diamonds, and arrows to represent processes, decision points, and the flow of logic within the algorithm.",
+    "year": "2024"
+  },
+  {
+    "number": "258",
+    "text": "Which network device provides a central point for connecting devices within a network and manages data traffic between them?",
+    "options": {
+      "A": "Router",
+      "B": "Modem",
+      "C": "Switch",
+      "D": "Hub"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70963?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "A switch provides a central point for connecting devices within a network and manages data traffic between them at Layer 2 of the OSI model.",
+    "year": "2024"
+  },
+  {
+    "number": "259",
+    "text": "Which of the following is a cloud storage service?",
+    "options": {
+      "A": "Yandex",
+      "B": "Drop Box",
+      "C": "DuckDuckGo",
+      "D": "Adobe XD"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70966?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "Dropbox is a popular cloud storage service that allows users to store and share files online. OneDrive, Google Drive, and iCloud\u00a0are other examples of cloud storage services commonly used for this purpose.",
+    "year": "2024"
+  },
+  {
+    "number": "260",
+    "text": "In graphic design, what does the term DPI stand for?",
+    "options": {
+      "A": "Digital Processing Interface",
+      "B": "Data Process Indicator",
+      "C": "Digital Picture Index",
+      "D": "Dots Per Inch"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70969?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "DPI stands for Dots Per Inch and is a measure of the resolution of an image, indicating the number of dots of ink or pixels in one inch.",
+    "year": "2024"
+  },
+  {
+    "number": "261",
+    "text": "What is a common security threat that can compromise your computer files?",
+    "options": {
+      "A": "Incompatibility with different operating systems.",
+      "B": "Weak passwords are used for user accounts and file access.",
+      "C": "Outdated software versions.",
+      "D": "Physical damage to your computer hardvvare"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70970?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "Weak passwords are a major security threat. Hackers can use brute-force attacks or password-cracking techniques to guess weak passwords and gain access to your files.",
+    "year": "2024"
+  },
+  {
+    "number": "262",
+    "text": "Which characteristic of a computer refers to its ability to minimize energy, consumption and resource usage?",
+    "options": {
+      "A": "Versatility",
+      "B": "Speed",
+      "C": "Efficiency",
+      "D": "Reliability"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70971?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "Efficiency in computing pertains to the optimal use of resources such as energy, processing power, and memory.",
+    "year": "2024"
+  },
+  {
+    "number": "263",
+    "text": "Which operation combines multiple files into a single archive file?",
+    "options": {
+      "A": "Copy",
+      "B": "Move",
+      "C": "Delete",
+      "D": "Compress"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70972?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "Compressing files combines them into a single archive file, such as a ZIP file, reducing storage space and simplifying file management.",
+    "year": "2024"
+  },
+  {
+    "number": "264",
+    "text": "What does the term \"formula\" refer to in a spreadsheet?",
+    "options": {
+      "A": "A graph representation",
+      "B": "A predefined layout",
+      "C": "A predefined calculation",
+      "D": "A text formatting rule"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70973?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "A formula in a spreadsheet refers to a predefined calculation or operation that performs specific calculations based on cell references and operators.",
+    "year": "2024"
+  },
+  {
+    "number": "265",
+    "text": "What are some key components of an ICT system?",
+    "options": {
+      "A": "Printers, paper, and pens",
+      "B": "Books, libraries, and classrooms",
+      "C": "Televisions, radios, and telephones",
+      "D": "Hardware, software, and networks"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70975?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "ICT systems encompass hardware (physical devices like computers), software (programs and applications), and network (communication channels) that together enable information processing storage and communication.",
+    "year": "2024"
+  },
+  {
+    "number": "266",
+    "text": "Which toolbar in word processing packages provides options for adjusting paragraph alignment, indentation,and spacing.",
+    "options": {
+      "A": "Review Toolbar",
+      "B": "Insert Toolbar",
+      "C": "View Toolbar",
+      "D": "Formatting Toolbar"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70976?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "The formatting toolbar is specifically designed for controlling the appearance of your paragraphs. This includes options for setting alignment (left, right, center, justified), adjusting indentation (left and right), and modifying spacing settings (before and after paragraphs, line spacing).",
+    "year": "2024"
+  },
+  {
+    "number": "267",
+    "text": "How can you add speaker notes to a PowerPoint slide?\n\n\nYou can add speaker notes by clicking on \"View\" and then selecting \"Notes Page\" to open the notes pane where you can\ne your notes.",
+    "options": {
+      "A": "Click on",
+      "B": "Click on",
+      "C": "Click on",
+      "D": "Click on"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70977?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2024"
+  },
+  {
+    "number": "268",
+    "text": "What is a potential drawback of using high-level programming languages?",
+    "options": {
+      "A": "High-level languages provide a wider range of built-in functionalities.",
+      "B": "High-level languages are often more efficient than low-level languages.",
+      "C": "High-level languages can sometimes have slower execution speeds due to the abstraction layer.",
+      "D": "High-level languages require a deeper understanding of computer architecture."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70978?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "High-level programming languages provide abstraction from the hardware, which simplifies development but can introduce overhead. This abstraction layer can lead to slower execution speeds compared to low-level programming languages that interact more directly with the hardware.",
+    "year": "2024"
+  },
+  {
+    "number": "269",
+    "text": "What type\u00a0of ICT is used for immersive gaming solutions?",
+    "options": {
+      "A": "Portable Entertainment Device (PED)",
+      "B": "Virtual Reality (VR) Headset",
+      "C": "360 degree Panoramic Viewer",
+      "D": "Augmented Reality (AR) Visor"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70989?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "B",
+    "explanation": "Virtual Reality (VR) headsets are specifically designed for immersive gaming and simulations, providing users with a virtual environment that they can interact with in a realistic and engaging manner. Augmented Reality (AR) visors overlay digital information onto the real world, while PEDs and 3600 panoramic viewers typically do not offer the same level of immersive experience as VR headsets.",
+    "year": "2024"
+  },
+  {
+    "number": "270",
+    "text": "What does the acronym ISP stand for?",
+    "options": {
+      "A": "Internet Search Protocol",
+      "B": "Internet Service Provider",
+      "C": "International Service Provider",
+      "D": "Internet Security Protocol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70990?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "B",
+    "explanation": "The acronym ISP stands for Internet Service Provider. An Internet Service Provider (ISP) is a company that provides individuals and organizations access to the Internet and related services such as website building and virtual hosting. ISPs provide the technology and infrastructure needed for users to connect to the Internet, whether through\u00a0dial-up, DSL, cable, fiber-optic, or wireless connections.",
+    "year": "2024"
+  },
+  {
+    "number": "271",
+    "text": "What is the primary purpose of using a query in MS Access?",
+    "options": {
+      "A": "To create a user-friendly interface for entering editing and displaying data in the database.",
+      "B": "To define the overall structure of the tables and their relationships within the database.",
+      "C": "To retrieve specific data from one or more tables based on defined criteria, allowing for filtering and sorting of\ninformation.",
+      "D": "To visually represent data trends and relationships through charts and graphs."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70991?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "Queries are a powerful tool in MS Access for retrieving specific data from your tables. You can define criteria to filter the data based on specific conditions, allowing you to focus on relevant information for analysis or reporting.",
+    "year": "2024"
+  },
+  {
+    "number": "272",
+    "text": "Which operation combines multiple files into a single archive file?",
+    "options": {
+      "A": "Delete",
+      "B": "Copy",
+      "C": "Compress",
+      "D": "Move"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70993?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "Compressing files combines them into a single archive file, such as a ZIP file, reducing storage space and simplifying file management.",
+    "year": "2024"
+  },
+  {
+    "number": "273",
+    "text": "What is the advantage of using cell references in formulas compared to entering constant values?",
+    "options": {
+      "A": "Cell references make formulas more complex and difficult to understand.",
+      "B": "Cell references are only necessary for complex formulas with multiple functions.",
+      "C": "Cell references are only necessary for complex formulas with multiple functions.",
+      "D": "Cell references improve formula accuracy by reducing manual data entry."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70994?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "Cell references are crucial for maintaining dynamic formulas. When a value in a referenced cell changes, the formula automatically recalculates the result based on the updated data. This saves time and reduces errors compared to manually entering constant values within the formula itself.",
+    "year": "2024"
+  },
+  {
+    "number": "274",
+    "text": "Which type of software acts as an intermediary between hardware and applications?",
+    "options": {
+      "A": "System software",
+      "B": "Application software",
+      "C": "Firmware",
+      "D": "Middleware"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70996?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "A",
+    "explanation": "System software, such as operating systems, acts as an intermediary between hardvvare and application software.",
+    "year": "2024"
+  },
+  {
+    "number": "275",
+    "text": "What is the main advantage of using hexadecimal over binary?",
+    "options": {
+      "A": "Compatible with octal",
+      "B": "Easier to read and write",
+      "C": "Provides higher precision",
+      "D": "Requires more digits"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70997?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "B",
+    "explanation": "Hexadecimal is easier to lead and write compared to binary because it uses fewer digits to represent the same value.",
+    "year": "2024"
+  },
+  {
+    "number": "276",
+    "text": "Which type of attack floods a network or server with excessive traffic to make it unavailable to legitimate users?",
+    "options": {
+      "A": "Man-in-the-middle attack",
+      "B": "Phishing attack",
+      "C": "SQL injection attack",
+      "D": "Denial-of-service attack"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/70998?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "A DoS attack floods a network or server with excessive traffic or requests, disrupting its normal operation and making Iunavailable to legitimate users.",
+    "year": "2024"
+  },
+  {
+    "number": "277",
+    "text": "What is the term for an email scam that tries to trick people into giving out personal information?",
+    "options": {
+      "A": "Cracking",
+      "B": "Spoofing",
+      "C": "Hacking",
+      "D": "Phishing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71002?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "Phishing is a type of email scam where attackers attempt to trick recipients into providing personal information such as passwords and credit card numbers by pretending to be a legitimate entity.",
+    "year": "2024"
+  },
+  {
+    "number": "278",
+    "text": "Which type of computer would a small business most likely use for everyday tasks?",
+    "options": {
+      "A": "Minicomputers",
+      "B": "Mainframe computers",
+      "C": "Microcomputers",
+      "D": "Supercomputers"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71004?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "Small businesses typically use microcomputers for everyday tasks such as word processing accounting and internet access.",
+    "year": "2024"
+  },
+  {
+    "number": "279",
+    "text": "Which of the following is NOT a characteristic of interpreters?",
+    "options": {
+      "A": "They are generally slower than compilers.",
+      "B": "They provide immediate error detection.",
+      "C": "They execute code line by line.",
+      "D": "They translate code into machine code at once"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71007?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "Interpreters translate code line by line, not all at once.",
+    "year": "2024"
+  },
+  {
+    "number": "280",
+    "text": "Which database organization uses parent-child relationships to organize data in a tree-like structure?",
+    "options": {
+      "A": "Relational",
+      "B": "Network",
+      "C": "Hierarchical",
+      "D": "Object oriented"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71010?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "Hierarchical databases organize data in a tree-like structure where each \"parent\" record can have multiple \"child\" records. This structure is suitable for situations where data has a clear superior-subordinate relationship, like a file system on a computer where folders can contain subfolders.",
+    "year": "2024"
+  },
+  {
+    "number": "281",
+    "text": "What is the main purpose of device drivers?",
+    "options": {
+      "A": "Manage hardware devices",
+      "B": "Run applications",
+      "C": "Provide internet security",
+      "D": "Run applications"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71012?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "Device drivers are specialized system software that allows the operating system to communicate with hardware devices.",
+    "year": "2024"
+  },
+  {
+    "number": "282",
+    "text": "What distinguishes open-source software from proprietary software?",
+    "options": {
+      "A": "Open source software is free, while proprietary software requires purchase.",
+      "B": "Open-source software is more secure than proprietary software.",
+      "C": "Open-source software is more secure than proprietary software.",
+      "D": "Open source software allows modification and redistribution, while proprietary software does not."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71013?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "Open source software allows users to view, modify, and distribute the source code, while proprietary software restricts access to its source code and distribution.",
+    "year": "2024"
+  },
+  {
+    "number": "283",
+    "text": "Which of the following data types is used to represent textual data in computers?",
+    "options": {
+      "A": "Float",
+      "B": "Integer",
+      "C": "String",
+      "D": "Boolean"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71027?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "C",
+    "explanation": "The string data type is used to represent textual data in computers.",
+    "year": "2024"
+  },
+  {
+    "number": "284",
+    "text": "What is the function of the motherboard in a computer system?",
+    "options": {
+      "A": "Store data",
+      "B": "Connect all hardware components",
+      "C": "Perform calculations",
+      "D": "Provide internet access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71053?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "The motherboard is the main circuit board that connects all hardware components of a computer.",
+    "year": "2024"
+  },
+  {
+    "number": "285",
+    "text": "What does SSD stand for, and what is its primary advantage?",
+    "options": {
+      "A": "Super Speed Disk, larger capacity",
+      "B": "Secure Storage Device, better security",
+      "C": "Simple Storage Disk, ease of use",
+      "D": "Solid State Drive, faster speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71054?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "Solid State Drive, faster speed.\nSSD stands for Solid-State Drive.The primary advantage of SSDs over traditional hard disk drives (HDDs) is their significantly faster speed. This is due to their lack of moving parts, which eliminates the time it takes for the drive head to seek data on a spinning disk. While SSDs can be more expensive than HDDs, their performance benefits, especially in tasks like booting up, loading applications, and transferring files, make them a popular choice for many users.",
+    "year": "2024"
+  },
+  {
+    "number": "286",
+    "text": "Which statement is used to skip the execution of the current iteration and start the next iteration in a loop?",
+    "options": {
+      "A": "Jump statement",
+      "B": "Skip statement",
+      "C": "Continue statement",
+      "D": "Next statement"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71372?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "The continue statement skips the rest of the current loop iteration and continues with the next iteration. It is often used to skip certain values in a loop based on a specific condition.",
+    "year": "2024"
+  },
+  {
+    "number": "287",
+    "text": "What is the key innovation of the Analytical Engine?",
+    "options": {
+      "A": "It utilized a steam-powered mechanism for calculations.",
+      "B": "It introduced the concept of a central pmcessing unit (CPU) for calculations.",
+      "C": "It incorporated the idea of a memory unit to store data and programs.",
+      "D": "It employed punch cards for inputting instructions and data."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71373?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "The Analytical Engine, designed by Charles Babbage, though never fully built, proposed a more general-purpose computing\u00a0machine with an integrated memory unit to store data and programs, separate from the processing unit. This concept became fundamental in later computers.",
+    "year": "2024"
+  },
+  {
+    "number": "288",
+    "text": "What is the benefit of using a bulleted or numbered list in your document?",
+    "options": {
+      "A": "To automatically insert page breaks after each list item, forcing them onto separate pages.",
+      "B": "To automatically change the font style and size of the text within the list.",
+      "C": "To add decorative borders and background colors to specific sections of your document.",
+      "D": "To highlight important points and improve readability by visually separating items."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71374?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "D",
+    "explanation": "Bulleted and numbered lists are valuable tools for presenting information clearly and organized. They visually separate items, making them easier to read and understand, especially for points within a series or sequence.",
+    "year": "2024"
+  },
+  {
+    "number": "289",
+    "text": "What are some common criteria used to classify computer files?",
+    "options": {
+      "A": "File type and content.",
+      "B": "Operating system compatibility and hardware requirements.",
+      "C": "File size and creation date only.",
+      "D": "Font style and color used within the document itself."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71375?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "Common criteria for classifying files include:*File type (document, image, audio, video, etc.)*Content (project name, subject matter, date, etc.)*Project or task association*User (personal, work, client-specific)",
+    "year": "2024"
+  },
+  {
+    "number": "290",
+    "text": "What is the advantage of using cell references in formulas compared to entering constant values?",
+    "options": {
+      "A": "Cell references improve formula accuracy by reducing manual data entry.",
+      "B": "Cell references make formulas less flexible and adaptable to changes.",
+      "C": "Cell references make formulas more complex and difficult to understand.",
+      "D": "Cell references are only necessary for complex formulas with multiple functions."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71376?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "Cell references are crucial for maintaining dynamic formulas. When a value in a referenced cell changes, the formula automatically recalculates the result based on the updated data. This saves time and reduces errors compared to manually entering constant values within the formula itself.",
+    "year": "2024"
+  },
+  {
+    "number": "291",
+    "text": "When data is organized, processed, and presented in a meaningful context, it becomes:",
+    "options": {
+      "A": "Information",
+      "B": "Structured Query Language",
+      "C": "Metadata",
+      "D": "Fact"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71377?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "Information is the result of organizing and processing raw data to provide context, relevance, and meaning. It is essential for decision-making and communication. Metadata refers to data that describes other data, while a fact is a piece of information that is considered to be true. Structured Query Language (SQL) is a programming language used for managing data in relational database management systems, not the transformation of raw.' data into meaningful context.",
+    "year": "2024"
+  },
+  {
+    "number": "292",
+    "text": "What is the primary purpose of using a query in MS Access?",
+    "options": {
+      "A": "To visually represent data trends and relationships through charts and graphs.",
+      "B": "To define the overall structure of the tables and their relationships within the database.",
+      "C": "To retrieve specific data from one or more tables based on defined criteria, allowing for filtering and sorting of\ninformation.",
+      "D": "To create a user-friendly interface for entering editing and displaying data in the database."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71378?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "Queries are a powerful tool in MS Access for retrieving specific data from your tables. You can define criteria to filter the data based on specific conditions, allowing you to focus on relevant information for analysis or reporting.",
+    "year": "2024"
+  },
+  {
+    "number": "293",
+    "text": "What does the '%' operator represent in programming languages?",
+    "options": {
+      "A": "Assignment",
+      "B": "Modulus",
+      "C": "Concatenation",
+      "D": "Exponentiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/71379?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "The '%' operator calculates the modulus or remainder of a division operation in programming.",
+    "year": "2024"
+  }
+]

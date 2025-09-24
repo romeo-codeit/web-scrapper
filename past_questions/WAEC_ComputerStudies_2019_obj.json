@@ -1,0 +1,702 @@
+[
+  {
+    "number": "300",
+    "text": "The personnel who deals with the computer and its management is called?",
+    "options": {
+      "A": "software",
+      "B": "liveware",
+      "C": "hardware",
+      "D": "firmware"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62664?exam_type=waec&type=obj&page=60",
+    "correct_answer": "B",
+    "explanation": "The term \"liveware\" is used to represent the human components, such as users, programmers, administrators, etc. of the computer system. In other words, the people who communicate and interact with the computer system to operate it are referred to as liveware.",
+    "year": "2019"
+  },
+  {
+    "number": "301",
+    "text": "The map\u00a0of Nigeria is an example of ?",
+    "options": {
+      "A": "alphabetic",
+      "B": "audio data",
+      "C": "biometric data",
+      "D": "graphic data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62665?exam_type=waec&type=obj&page=61",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "302",
+    "text": "The hexadecimal number 13, expressed as a binary here is?",
+    "options": {
+      "A": "00010011.",
+      "B": "00101100.",
+      "C": "0010110.",
+      "D": "00100100."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62666?exam_type=waec&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "first, convert 13 in hex to decimal\n\\(13_{16}\\) =\u00a0 \\( 1 \\times 16^1 + 3 \\times 16^0\\) = \\(19_{10}\\)\nnext, change 19 in decimal to binary\n21929 R 124 R 122 R 021 R 020 R 1\n19 in decimal = 10011 in base 2\n\\(\\therefore\\) 13 in hex = 10011 in base 2",
+    "year": "2019"
+  },
+  {
+    "number": "303",
+    "text": "Which of the following statements are true about computer?\u00a0\nI.Constructed from electronic components. II. It has self regeneration capability.\nIII. It has facility for storage of data and programs.\u00a0 \u00a0 \u00a0 \u00a0IV.It has provision tor input and output of data.",
+    "options": {
+      "A": "I, II and lll only",
+      "B": "I, Il and IV only",
+      "C": "I, lII and IV",
+      "D": "II, III and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62667?exam_type=waec&type=obj&page=61",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "304",
+    "text": "Computers are classified using the following criteria except?",
+    "options": {
+      "A": "cost and portability.",
+      "B": "data representation and purpose.",
+      "C": "size and speed.",
+      "D": "speed and storage."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62668?exam_type=waec&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "305",
+    "text": "The Slide Rule is accurate to?",
+    "options": {
+      "A": "1-2 decimal places.",
+      "B": "3-4 decimal places.",
+      "C": "5 decimal places.",
+      "D": "6 decimal places."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62669?exam_type=waec&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "This is because the Slide Rule uses logarithms to perform calculations, and logarithms are accurate to a few decimal places. The accuracy of the Slide Rule also depends on the quality of the Slide Rule and the skill of the user.",
+    "year": "2019"
+  },
+  {
+    "number": "306",
+    "text": "Modern computers compared to earlier computers are?",
+    "options": {
+      "A": "faster and larger.",
+      "B": "faster and smaller.",
+      "C": "larger and stronger.",
+      "D": "Iess\u00a0reliable"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62670?exam_type=waec&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "307",
+    "text": "An input device that converts an image into text is known as?",
+    "options": {
+      "A": "Optical Character Reader.",
+      "B": "Optical Code Reader.",
+      "C": "Optical Display Reader.",
+      "D": "Optical Mark Reader."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62671?exam_type=waec&type=obj&page=62",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "308",
+    "text": "The type of printer which works on the same principle as a photocopier is?",
+    "options": {
+      "A": "Dot Matrix Printer.",
+      "B": "Ink. Jet Printer.",
+      "C": "Laser jet Printer.",
+      "D": "Thermal Printer."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62672?exam_type=waec&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "309",
+    "text": "The output of a NAND gate is 1 when?",
+    "options": {
+      "A": "all inputs are 0.",
+      "B": "all inputs are 1.",
+      "C": "any of the input is 0.",
+      "D": "any of the input is 1."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62673?exam_type=waec&type=obj&page=62",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "310",
+    "text": "A company known as CIBITO has the following memory modules in four of its computers as shown in Table 1 Use the information in Table 1 to answer questions 11 to 13.\n\n\n\n\nMEMORY MODULE\n\nMEMORY TYPE\n\nNUMBER OF PINS\n\n\n\nP\nSIMM\n\n30\n\n\n\nQ\nSIMM\n\n72\n\n\n\nR\nSO DIMM\n\n72\n\n\n\nS\nDIMM\n\n\u00a0168\n\n\n\n\n\u00a0Table 1\n\u00a0Which of the memory modules is appropriate for a notebook computer?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62674?exam_type=waec&type=obj&page=62",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "311",
+    "text": "use the table above to answer this question\nThe memory module with the smallest physical size is?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62675?exam_type=waec&type=obj&page=63",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "312",
+    "text": "A company known as CIBITO\u00a0has the following modules in four of its computers as shown in Table 1. Use the information in Table 1 to answer this question.\n\n\n\nMemory module\nmemory type\nNo of pins\n\n\nP\nSIMM\n30\n\n\nQ\nSIMM\n72\n\n\nR\nSODIMM\n72\n\n\nS\nDIMM\n168\n\n\n\nidentify the memory module with the largest physical Size?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62676?exam_type=waec&type=obj&page=63",
+    "correct_answer": "D",
+    "explanation": "DIMM stands for Dual In-line Memory Module and is the standard form factor used in desktop computers and servers. It is larger and has more pins compared to SODIMM. SODIMM, on the other hand, stands for Small Outline Dual In-line Memory Module and is used in laptops, small form factor computers, and other compact devices.",
+    "year": "2019"
+  },
+  {
+    "number": "313",
+    "text": "The scanner and the floppy disk are?",
+    "options": {
+      "A": "both input devices.",
+      "B": "both output devices.",
+      "C": "input and output devices respectively.",
+      "D": "input and storage devices respectively."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62677?exam_type=waec&type=obj&page=63",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "314",
+    "text": "The set of instructions written by computer experts to solve specific task of the user is called?",
+    "options": {
+      "A": "operating system.",
+      "B": "application software.",
+      "C": "system software.",
+      "D": "utility software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62678?exam_type=waec&type=obj&page=63",
+    "correct_answer": "B",
+    "explanation": "Application software is a type of software that enables users to accomplish particular tasks, such as word processing, spreadsheet calculations, database management, graphic design, and more. Unlike system software, which manages the hardware and allows other software to run, application software directly serves the user's needs.",
+    "year": "2019"
+  },
+  {
+    "number": "315",
+    "text": "A Collection of software that allows the computer to operate is called?",
+    "options": {
+      "A": "general-purpose software.",
+      "B": "utility software.",
+      "C": "operating system.",
+      "D": "specific software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62679?exam_type=waec&type=obj&page=63",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "316",
+    "text": "A suite of software that controls and manages the basic operation of a computer is?",
+    "options": {
+      "A": "application Software.",
+      "B": "management system.",
+      "C": "software package.",
+      "D": "system software."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62680?exam_type=waec&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "317",
+    "text": "The Windows PC and the Apple Macintosh are examples of two different?",
+    "options": {
+      "A": "input devices.",
+      "B": "platforms.",
+      "C": "programs.",
+      "D": "storage devices."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62681?exam_type=waec&type=obj&page=64",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "318",
+    "text": "Machine Language instructions are expressed\u00a0in?",
+    "options": {
+      "A": "binary.",
+      "B": "decimal.",
+      "C": "hexadecimal.",
+      "D": "octal."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62682?exam_type=waec&type=obj&page=64",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "319",
+    "text": "The following symbols are used in flowcharting except the?",
+    "options": {
+      "A": "terminal symbol.",
+      "B": "process symbol.",
+      "C": "input/output symbol.",
+      "D": "close symbol."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62683?exam_type=waec&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "320",
+    "text": "Three major types of language translators are?",
+    "options": {
+      "A": "assembler, compiler and editor.",
+      "B": "assembler, Compiler and interpreter.",
+      "C": "compiler, debugger and editor.",
+      "D": "debugger, assembler and interpreter."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62684?exam_type=waec&type=obj&page=64",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "321",
+    "text": ". Translate 2m\\(^2\\) + 3n- 9 as a BASIC arithmetic expression.",
+    "options": {
+      "A": "2 * m * 2 + 3 * n - 9",
+      "B": "2 * m ^2 +3 * n - 9",
+      "C": "2 * 2 * m + 3 * n - 9",
+      "D": "2 * m * m * n + 3 - 9"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62685?exam_type=waec&type=obj&page=65",
+    "correct_answer": "B",
+    "explanation": "2m\\(^2\\)\u00a0+ 3n - 9 is translate as basic arithmetic expression as 2 * m \u22272 + 3 * n - 9* \u2192 multiplication\u2227\u2192 power, division \u2192 \\",
+    "year": "2019"
+  },
+  {
+    "number": "322",
+    "text": "The term compiler in computer programming refers to a?",
+    "options": {
+      "A": "key punch operator of the computer.",
+      "B": "person who compiles source programs.",
+      "C": "person who writes the computer programming codes.",
+      "D": "program which translates source program into object program."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62686?exam_type=waec&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "323",
+    "text": "The IF...THEN statement in BASIC programming is?",
+    "options": {
+      "A": "a transfer of control.",
+      "B": "used to redirect a statement.",
+      "C": "used to eliminate the need for prompting each INPUT statement.",
+      "D": "a conditional branch statement."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62687?exam_type=waec&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "The IF...THEN statement in BASIC programming is a conditional branch statement. It allows the program to execute a certain section of code only if a particular test condition is true. If the condition is false, the program skips the section of code.",
+    "year": "2019"
+  },
+  {
+    "number": "324",
+    "text": "Flexibility of a good program means?",
+    "options": {
+      "A": "handling of any change(s) without having to rewrite the entire program.",
+      "B": "the length of processing time and memory to process the instruction.",
+      "C": "the program has to be broken down into a number of sub-tasks.",
+      "D": "the program should work for two similar tasks in the same domain."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62688?exam_type=waec&type=obj&page=65",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "325",
+    "text": "Fibre Optic cable transmits signal in the fom of?",
+    "options": {
+      "A": "sound.",
+      "B": "electricity.",
+      "C": "Light.",
+      "D": "microwave"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62689?exam_type=waec&type=obj&page=65",
+    "correct_answer": "C",
+    "explanation": "Fiber optics transmits data in the form of light particles, or photons, that pulse through a fiber optic cable.",
+    "year": "2019"
+  },
+  {
+    "number": "326",
+    "text": "Data transfer can be initiated through the following media except?",
+    "options": {
+      "A": "coaxial cable.",
+      "B": "fibre cable.",
+      "C": "trunking pipe.",
+      "D": "twisted pair cable."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62690?exam_type=waec&type=obj&page=66",
+    "correct_answer": "C",
+    "explanation": "Coaxial cable, Fiber Optic cable, and Twisted Pair are the three main types of data cable While\u00a0Trunking pipe refers to an enclosure that protects cables.",
+    "year": "2019"
+  },
+  {
+    "number": "327",
+    "text": "The topology represented in figure 1 is?",
+    "options": {
+      "A": "bus topology.",
+      "B": "mesh topology.",
+      "C": "ring topology.",
+      "D": "star topology."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62691?exam_type=waec&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "The Topology represented in figure1\u00a0above is Bus topology.",
+    "year": "2019"
+  },
+  {
+    "number": "328",
+    "text": "To send a created MS PowerPoint document using email to a user, the document can be added as?",
+    "options": {
+      "A": "Attachment.",
+      "B": "Draft.",
+      "C": "Reply.",
+      "D": "Chat."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62692?exam_type=waec&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "To send a created MS PowerPoint document using email to a user, the document can be added as an Attachment.",
+    "year": "2019"
+  },
+  {
+    "number": "329",
+    "text": "What type of network is represented in Figure 2?",
+    "options": {
+      "A": "Local Area Network",
+      "B": "Metropolitan Area Network",
+      "C": "Personal Area Network",
+      "D": "Wide Area Network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62693?exam_type=waec&type=obj&page=66",
+    "correct_answer": "B",
+    "explanation": "The type of network that is represented in the diagram above is a Metropolitan Area Network,\u00a0a MAN is made up of interconnected LANs",
+    "year": "2019"
+  },
+  {
+    "number": "330",
+    "text": "The major advantage of free software is that it is?",
+    "options": {
+      "A": "free and contains unlimited components.",
+      "B": "licensed and available always.",
+      "C": "licensed and can be copied by anyone.",
+      "D": "superior in quality but not robust."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62694?exam_type=waec&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "331",
+    "text": "In MS Excel, the cell that contains the pointer or cursor is called?",
+    "options": {
+      "A": "active cell.",
+      "B": "current cell.",
+      "C": "default cell.",
+      "D": "passive cell."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62695?exam_type=waec&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "The\u00a0active cell\u00a0is the cell that receives the data or command you give it. A darkened border identifies the active cell\u00a0called the\u00a0cell pointer.",
+    "year": "2019"
+  },
+  {
+    "number": "332",
+    "text": "One major difference between paper spreadsheet and electronic spreadsheet is?",
+    "options": {
+      "A": "a management of columns.",
+      "B": "headings from formatting.",
+      "C": "arrangement of rows.\u00a0 \u00a0.",
+      "D": "speed of processing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62696?exam_type=waec&type=obj&page=67",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "333",
+    "text": "To hold row and column titles in places so that they do not scroll when the user scrolls a worksheet, click the?",
+    "options": {
+      "A": "freeze panes command on the windows menu.",
+      "B": "hold titles command on the edit menu.",
+      "C": "split command on the windows menu.",
+      "D": "show grid command on the windows menu."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62697?exam_type=waec&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "334",
+    "text": "In Microsoft PowerPoint, two kinds of sound effect files that can be added to a presentation are?",
+    "options": {
+      "A": ".wav files and .mid files.",
+      "B": ".wav files and .gif files.",
+      "C": ".wav files and jpg files.",
+      "D": "jpg files and.gif files."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62698?exam_type=waec&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "335",
+    "text": "A cell with a red triangle in the top-right comer in a spreadsheet application signifies?",
+    "options": {
+      "A": "an error in the cell.",
+      "B": "a comment associated with the cell.",
+      "C": "that the font colour for the text in the cell is red.",
+      "D": "that a formula cannot be entered into the cell."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62699?exam_type=waec&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "336",
+    "text": "Spreadsheet packages can be used for?\u00a0 \u00a0 \u00a0 .",
+    "options": {
+      "A": "database and painting.",
+      "B": "drawing and painting.",
+      "C": "budgeting and inventory.",
+      "D": "word processing and drawing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62700?exam_type=waec&type=obj&page=68",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "337",
+    "text": "Which of the following is true when data maintained in MS Excel workbook is linked to a word document? The word document",
+    "options": {
+      "A": "cannot be edited.",
+      "B": "must contain a hyperlink.",
+      "C": "contains a copy of the actual data.",
+      "D": "contains a reference to the original source application."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62703?exam_type=waec&type=obj&page=68",
+    "correct_answer": "D",
+    "explanation": "When data from an MS Excel workbook is linked to a Word document, the Word document contains a reference to the source application, not a copy of the actual data. This means that if the data in the Excel workbook is updated, the changes will also be reflected in the Word document. The Word document can still be edited and does not necessarily need to contain a hyperlink.",
+    "year": "2019"
+  },
+  {
+    "number": "338",
+    "text": "Data that is copied from an application is stored in the?",
+    "options": {
+      "A": "clipboard.",
+      "B": "driver.",
+      "C": "prompt.",
+      "D": "terminal."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62704?exam_type=waec&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "Data that is copied from an application is stored in the clipboard. The clipboard\u00a0is a temporary storage area in the computer's memory that holds the copied data until it is pasted into another location.",
+    "year": "2019"
+  },
+  {
+    "number": "339",
+    "text": "After several 'save' and 'delete' operations, there remain many scattered areas of data too small to be used productively. This describes?",
+    "options": {
+      "A": "utilization.",
+      "B": "protection.",
+      "C": "fragmentation.",
+      "D": "backing up."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62705?exam_type=waec&type=obj&page=68",
+    "correct_answer": "C",
+    "explanation": "Fragmentation is a condition in which there are many scattered areas of storage in a database that are too small to be used productively.",
+    "year": "2019"
+  },
+  {
+    "number": "340",
+    "text": "The disk operating system will label three hard drives\u00a0as?",
+    "options": {
+      "A": "A, B and C.",
+      "B": "C, D and E.",
+      "C": "B, C and D",
+      "D": "F, G and H."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62706?exam_type=waec&type=obj&page=68",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "341",
+    "text": "Which of the options labeled I to IV give two stages involved in booting?\nI. Power On self test II. Loading of Operating System IIl. Loading of\u00a0email IV. Power On Safe Mode",
+    "options": {
+      "A": "I and Il only",
+      "B": "I and III only",
+      "C": "Il and IV only",
+      "D": "Ill and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62707?exam_type=waec&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "The two stages involved in booting are the Power On Self Test (POST) and the loading of the operating system. Hence I and II are correct\n* Power On Self Test (POST): This is the initial check of hardware components when the computer is powered on to ensure everything is functioning correctly.\n* Loading of Operating System: After POST, the computer loads the operating system from storage into memory, allowing the user to interact with the system.",
+    "year": "2019"
+  },
+  {
+    "number": "342",
+    "text": "A bit as used in computing in digital communication is?",
+    "options": {
+      "A": "a decimal digit.",
+      "B": "an octal digit.",
+      "C": "a bin digit.",
+      "D": ".a hexadecimal digit."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62708?exam_type=waec&type=obj&page=69",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "343",
+    "text": "Multiply 101\\(_2\\) by 11\\(_2\\)",
+    "options": {
+      "A": "1001\\(_2\\)",
+      "B": "1011\\(_2\\)",
+      "C": "1110\\(_2\\)",
+      "D": "1111\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62709?exam_type=waec&type=obj&page=69",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "344",
+    "text": "In BCD encoding system, 25, will be represented as?",
+    "options": {
+      "A": "01100101",
+      "B": "01010110.",
+      "C": "00100101.",
+      "D": "0101001."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62710?exam_type=waec&type=obj&page=69",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "345",
+    "text": "The following actions are sources of breaches in computing except?",
+    "options": {
+      "A": "carelessness",
+      "B": "hackers' threat.",
+      "C": "piracy.",
+      "D": "viruses."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62711?exam_type=waec&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "346",
+    "text": "Effects of file insecurity include the following except?",
+    "options": {
+      "A": "virus infection.",
+      "B": "file corruption.",
+      "C": "encrypted data",
+      "D": "data loss."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62712?exam_type=waec&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "347",
+    "text": "Which of the file organization methods can be accessed both randomly and sequentially?",
+    "options": {
+      "A": "Direct\u00a0files",
+      "B": "Indexed sequential files",
+      "C": "Random files",
+      "D": "Sequential files"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62713?exam_type=waec&type=obj&page=70",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "348",
+    "text": "A computer program that gathers information about a person or organization without their knowledge or consent is known as?",
+    "options": {
+      "A": "Adware.",
+      "B": "Time Bomb.",
+      "C": "Malware.",
+      "D": "Spyware."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62714?exam_type=waec&type=obj&page=70",
+    "correct_answer": "D",
+    "explanation": "Spyware is software that gathers information about a person or organization without their knowledge or consent.",
+    "year": "2019"
+  },
+  {
+    "number": "349",
+    "text": "Password reset disk should be created?",
+    "options": {
+      "A": "every time the user changes password.",
+      "B": "once only.",
+      "C": "only when the user forgets the password.",
+      "D": "twice only"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62715?exam_type=waec&type=obj&page=70",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  }
+]

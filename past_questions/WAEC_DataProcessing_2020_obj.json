@@ -1,0 +1,562 @@
+[
+  {
+    "number": "121",
+    "text": "The use of Visual Display Unit was a major breakthrough in the",
+    "options": {
+      "A": "first generation computers",
+      "B": "second generation computers",
+      "C": "third generation computers",
+      "D": "fifth generation computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58387?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "122",
+    "text": "In hexadecimal system, D is equivalent to",
+    "options": {
+      "A": "15",
+      "B": "14",
+      "C": "13",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58389?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "123",
+    "text": "A teacher computed the average score of students in a given test. The result of the computation describes",
+    "options": {
+      "A": "record",
+      "B": "information",
+      "C": "data",
+      "D": "file"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58393?exam_type=waec&type=obj&page=25",
+    "correct_answer": "B",
+    "explanation": "Data refers to raw facts or figures that have not been processed in data processing. When these facts or figures are processed, they become information, which has more meaning than the raw data. Therefore, the result of the computation, which is the average score, is information because it has been processed from the raw test scores.",
+    "year": "2020"
+  },
+  {
+    "number": "124",
+    "text": "The sum of 110\\(_2\\) and 101\\(_2\\) is",
+    "options": {
+      "A": "1101\\(_2\\)",
+      "B": "1110\\(_2\\)",
+      "C": "1100\\(_2\\)",
+      "D": "1011\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58400?exam_type=waec&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "The sum of \\( 110_2 \\) and \\( 101_2 \\) is:\n\\(110_2 + 101_2 = 1011_2\\)",
+    "year": "2020"
+  },
+  {
+    "number": "125",
+    "text": "One advantage of the first generation computers is",
+    "options": {
+      "A": "Processing speed",
+      "B": "Portability",
+      "C": "heating effect",
+      "D": "burglar-proof"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58403?exam_type=waec&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "The first generation\u00a0computer was very fast(Processing speed) to calculate.\u00a0First-generation computers, while not portable and often bulky, did offer significant advances in processing speed compared to earlier mechanical devices.",
+    "year": "2020"
+  },
+  {
+    "number": "126",
+    "text": "Magnetic Ink Charcter Recognition is applied on",
+    "options": {
+      "A": "voice recognition devices",
+      "B": "mobile devices",
+      "C": "large data capturing machines",
+      "D": "bank cheques"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58405?exam_type=waec&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "Magnetic ink character recognition (MICR) is\u00a0a technology used primarily to identify and process checks.",
+    "year": "2020"
+  },
+  {
+    "number": "127",
+    "text": "Internet banking entails",
+    "options": {
+      "A": "applying computer networks in banking operation",
+      "B": "applying computers to automate banking operations",
+      "C": "generating tokens and One-Time-Passwords for online payments",
+      "D": "Using ATM for banking operations"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58408?exam_type=waec&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "128",
+    "text": "Which of the following parts of the computer ensures the smooth operation of its hardware?",
+    "options": {
+      "A": "Main memory",
+      "B": "Control unit",
+      "C": "Auxiliary age",
+      "D": "Arithmetic and Logic Unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58410?exam_type=waec&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "The control unit is a component of a computer's central processing unit that directs the operation of the processor.",
+    "year": "2020"
+  },
+  {
+    "number": "129",
+    "text": "Basic computer operations include the following except",
+    "options": {
+      "A": "control",
+      "B": "input",
+      "C": "output",
+      "D": "process"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58416?exam_type=waec&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "130",
+    "text": "One disadvantage of electronic data processing is",
+    "options": {
+      "A": "handling complex computation",
+      "B": "medium for effective storage",
+      "C": "processing data at a phenomenal speed",
+      "D": "vulnerability to attack"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58418?exam_type=waec&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "131",
+    "text": "Which of the following sources of information is received by the user in visual mode only?",
+    "options": {
+      "A": "Television",
+      "B": "Radio",
+      "C": "Photograph",
+      "D": "Computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58419?exam_type=waec&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "132",
+    "text": "Which of the options A to D is not a medium of information transmission?",
+    "options": {
+      "A": "Cable",
+      "B": "Satellite",
+      "C": "Television set",
+      "D": "Wireless transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58422?exam_type=waec&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "The transmission medium can be defined as\u00a0a pathway that can transmit information from a sender to a receiver.",
+    "year": "2020"
+  },
+  {
+    "number": "133",
+    "text": "A company has four computer system, one printer and one scanner for its daily operations. One factor that can motivate the company to connect all the devices in a network is the need to",
+    "options": {
+      "A": "provide efficient services",
+      "B": "save running cost",
+      "C": "share software only",
+      "D": "use a wireless connection"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58423?exam_type=waec&type=obj&page=27",
+    "correct_answer": "A",
+    "explanation": "In an ideal world, efficient work means achieving maximum productivity with minimum wasted effort. When it comes to maximizing customer service productivity, streamlined customer interactions and cost-effective software are your best friends.",
+    "year": "2020"
+  },
+  {
+    "number": "134",
+    "text": "One similarity\u00a0 between the internet and intranet is that they both",
+    "options": {
+      "A": "were invented by the same company",
+      "B": "use the same technology",
+      "C": "have the same coverage",
+      "D": "are open to the public"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58426?exam_type=waec&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "135",
+    "text": "The process of copying data or information form the internet to a personal computer is termed",
+    "options": {
+      "A": "browsing",
+      "B": "downloading",
+      "C": "retrieving",
+      "D": "surfing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58428?exam_type=waec&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "136",
+    "text": "An entrepreneur who wishes to send digital data over a telephone line would need a",
+    "options": {
+      "A": "hub",
+      "B": "modem",
+      "C": "router",
+      "D": "switch"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58430?exam_type=waec&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "Modem:It\u00a0standsfor\u00a0Modulator-Demodulator.\nIt is a device that\u00a0helps computers send data over the telephone or cable\u00a0and\u00a0also\u00a0allows a computer or another device, such as a router or switch, to connect to the Internet.\nIt can also convert digital data from a computer or other device into an analog signal that can be sent over standard telephone lines.",
+    "year": "2020"
+  },
+  {
+    "number": "137",
+    "text": "Graphical User Interface is considered user friendly because of the following reasons except that it",
+    "options": {
+      "A": "compels the user to learn all the command before operating the system",
+      "B": "displays all the actions available to the user for easy access.",
+      "C": "is easier for user to operate and understand",
+      "D": "makes the icons and menu familiar to the user"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58431?exam_type=waec&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "A graphical user interface is a visual way of interacting with a computer using items such as windows, icons, and menus, used by most modern operating systems. It allows users to interact with electronic devices through graphical icons and audio indicators such as primary notation, instead of text-based user interface, typed commands and labels, or text navigation.",
+    "year": "2020"
+  },
+  {
+    "number": "138",
+    "text": "The symbols dialog box of MS Word application is located on the",
+    "options": {
+      "A": "format menu",
+      "B": "help menu",
+      "C": "insert menu",
+      "D": "view menu"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58433?exam_type=waec&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "139",
+    "text": "Pressing the key combination Ctrl + J on a selected text in a Microsoft Word document would",
+    "options": {
+      "A": "align the text",
+      "B": "deselect the text",
+      "C": "justify the paragraph",
+      "D": "juxtapose the text"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58434?exam_type=waec&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "140",
+    "text": "The merge button in spreadsheet application is used to",
+    "options": {
+      "A": "combine adjacent cell",
+      "B": "convert selected cell into single cell",
+      "C": "merge two tables",
+      "D": "split a cell into two or more cells"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58437?exam_type=waec&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "141",
+    "text": "If cell A20 in MS Excel contains the value 5, then the formula \"A=A20^3\" will return a value equal to",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "65",
+      "D": "125"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58438?exam_type=waec&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "^ in MS excel means exponential so \"A = A20^3\" = 5^3 = 125 ( since A20 = 5)",
+    "year": "2020"
+  },
+  {
+    "number": "142",
+    "text": "A database contains list of customers and their phone numbers. What typ of relationship desribes a customer having multiple phone numbers?",
+    "options": {
+      "A": "Many-to-many",
+      "B": "Many-to-one",
+      "C": "One-to-many",
+      "D": "One-to-one"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58440?exam_type=waec&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "143",
+    "text": "The DBSM statement select* from Marksheet in table Marksheet will display all records in the fields;\n\n\n\nID\nNAME\nSCORE\nGRADE\n\n\n001\nAbdul\n55\nC\n\n\n002\nEmeka\n52\nC\n\n\n003\nKola\n49\nP",
+    "options": {
+      "A": "ID and Name only",
+      "B": "ID, Score and Grade only",
+      "C": "Score and Grade only",
+      "D": "ID, Name, Score and Grade"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58442?exam_type=waec&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "144",
+    "text": "Which of the following objects is not located on the slide layout",
+    "options": {
+      "A": "Animations",
+      "B": "Charts",
+      "C": "Lists",
+      "D": "Titles"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58445?exam_type=waec&type=obj&page=29",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "145",
+    "text": "The following programming tools are employed by a web developer except",
+    "options": {
+      "A": "COBOL",
+      "B": "CSS",
+      "C": "HTML",
+      "D": "PHP"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58446?exam_type=waec&type=obj&page=29",
+    "correct_answer": "A",
+    "explanation": "Some of the most popular programming languages for web development includeHTML/CSS, PHP, Python, JavaScript, Java, Ruby, and Swift. But not COBOL, COBOL\u00a0\u00a0is primarily used in\u00a0business, finance, and administrative systems\u00a0for companies and governments.",
+    "year": "2020"
+  },
+  {
+    "number": "146",
+    "text": "Graphics can be captured using the following devices except",
+    "options": {
+      "A": "webcam",
+      "B": "scanners",
+      "C": "joystick",
+      "D": "digital camera"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58447?exam_type=waec&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "A joystick is an input device commonly used for video games, and not a device for capturing\u00a0graphics. A webcam, scanner, and digital camera are all devices that can be used to create or capture graphics.",
+    "year": "2020"
+  },
+  {
+    "number": "147",
+    "text": "Which of the following substances is used for cleaning the mouse ball",
+    "options": {
+      "A": "Distilled water",
+      "B": "Engine oil",
+      "C": "Isopropyl alcohol",
+      "D": "Kerosene"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58448?exam_type=waec&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "148",
+    "text": "One characteristics of a dirty mouse is that the mouse",
+    "options": {
+      "A": "is not recognized by the system",
+      "B": "unmounts itself from the system",
+      "C": "pointer changes appearance",
+      "D": "pointer moves erratically"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58449?exam_type=waec&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "149",
+    "text": "One responsible way of using the computer is",
+    "options": {
+      "A": "software piracy",
+      "B": "phishing",
+      "C": "pharming",
+      "D": "ethical hacking"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58450?exam_type=waec&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "Ethical hacking: this practice focuses on identifying and fixing security vulnerabilities in systems while ensuring compliance and safety, making it a responsible use of computer skills.",
+    "year": "2020"
+  },
+  {
+    "number": "150",
+    "text": "Any activity carried out to protect the user from hazards while using the computer is called",
+    "options": {
+      "A": "computer ethics",
+      "B": "computer maintenance",
+      "C": "laboratory rules",
+      "D": "safety measures"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58451?exam_type=waec&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "151",
+    "text": "In order to protect a computer on the World Wide Web from throats, the user should",
+    "options": {
+      "A": "Install the latest operating system version",
+      "B": "Install a single user antivirus software",
+      "C": "implement an internet security software",
+      "D": "deploy online transaction application"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58452?exam_type=waec&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "152",
+    "text": "Responsibilities of a database administrator includes the following except performing",
+    "options": {
+      "A": "database backup",
+      "B": "data recovery",
+      "C": "network maintenance",
+      "D": "user authentication"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58453?exam_type=waec&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "153",
+    "text": "The following tools are used for protecting the computer against virus attack except",
+    "options": {
+      "A": "Avast anti malware",
+      "B": "Kaspersky",
+      "C": "Norton",
+      "D": "Trojan horse"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58454?exam_type=waec&type=obj&page=31",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "154",
+    "text": "Which of the following software replicates itself without being executed by the user",
+    "options": {
+      "A": "worm",
+      "B": "Trojan",
+      "C": "Plug-ins",
+      "D": "Driver"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58455?exam_type=waec&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "155",
+    "text": "In the model; Furniture (Table, Chair, Wardrobe) Furniture is...",
+    "options": {
+      "A": "a relation",
+      "B": "a schema",
+      "C": "a tuple",
+      "D": "an attribute"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58456?exam_type=waec&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "156",
+    "text": "Which of the following database operations does not require a Data Manipulation\u00a0Language?",
+    "options": {
+      "A": "Modification of information",
+      "B": "Insertion of new information",
+      "C": "Deletion of information",
+      "D": "Creating of information"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58458?exam_type=waec&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "Data manipulation language(DML) statements or commands are used for managing data within tables. A data manipulation language is a computer programming language used for adding(inserting), deleting, and modifying(updating) data in a database.",
+    "year": "2020"
+  },
+  {
+    "number": "157",
+    "text": "The file organisation method which allows records to be accessed in any sequence is",
+    "options": {
+      "A": "Index",
+      "B": "random",
+      "C": "sequential",
+      "D": "serial"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58459?exam_type=waec&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "158",
+    "text": "A file organization that has reference which identifies a record in relation to other records is called...",
+    "options": {
+      "A": "indexed file organization",
+      "B": "random file organization",
+      "C": "sequential file organization",
+      "D": "serial file organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58461?exam_type=waec&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "159",
+    "text": "Providing access control to a school is the responsibility of a",
+    "options": {
+      "A": "database administrator",
+      "B": "programmer",
+      "C": "system administrator",
+      "D": "system analyst"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58462?exam_type=waec&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "160",
+    "text": "Figure 1\u00a0 ABOVE depicts.",
+    "options": {
+      "A": "a distributed database",
+      "B": "a parallel database",
+      "C": "an extranet",
+      "D": "an internet"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/58463?exam_type=waec&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "A distributed database is basically a type of database which consists of multiple databases that are connected with each other and are spread across different physical locations. The data that is stored in various physical locations can thus be managed independently of other physical locations.",
+    "year": "2020"
+  }
+]

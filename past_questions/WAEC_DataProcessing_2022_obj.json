@@ -1,0 +1,562 @@
+[
+  {
+    "number": "280",
+    "text": "The database tool that allows the user to select and filter data from multiple tables is referred to as",
+    "options": {
+      "A": "Form",
+      "B": "Table",
+      "C": "Query",
+      "D": "Report"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67117?exam_type=waec&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "A query in a database is a request for information from a database management system (DBMS), which is the software program that maintains data. Users can make a query to retrieve data or change information in a database, such as adding or removing data.",
+    "year": "2022"
+  },
+  {
+    "number": "281",
+    "text": "The following statements are steps used in creating a new workbook in a Microsoft Excel application.\nI. Click on New\nII. Click on the Microsoft Office button\nIII. Choose blank document Which of the following arrangements shows the correct order of operation from the steps above?",
+    "options": {
+      "A": "I, II and III",
+      "B": "II, I and III",
+      "C": "II, III and I",
+      "D": "III, II and I"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67118?exam_type=waec&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "The steps used in creating a new workbook in a Microsoft Excel application- Click on the Microsoft Office button- Click on New- Choose blank document",
+    "year": "2022"
+  },
+  {
+    "number": "282",
+    "text": "Shared-memory is an architecture in",
+    "options": {
+      "A": "Parallel database",
+      "B": "Trusted distributed database",
+      "C": "Relational database",
+      "D": "Distributed database"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67119?exam_type=waec&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "Shared-memory is the architectural model adopted by recent servers based on symmetric multiprocessors (SMP). It has been used by several parallel database system prototypes and products as it makes DBMS porting easy, using both inter-query and intra-query parallelism.",
+    "year": "2022"
+  },
+  {
+    "number": "283",
+    "text": "One example of web design package is",
+    "options": {
+      "A": "MS frontpage",
+      "B": "MS outlook",
+      "C": "SPSS",
+      "D": "Peachtree"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67120?exam_type=waec&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "Other examples of web design package- Adobe Dreamweaver.- Google web designers.- Microsoft SharePoint designer.- Net Objects fusion.",
+    "year": "2022"
+  },
+  {
+    "number": "284",
+    "text": "Preventive maintenance measures in computer room do not include",
+    "options": {
+      "A": "The use of tiles",
+      "B": "The use of rugs",
+      "C": "Good ventilation",
+      "D": "Proper illumination"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67121?exam_type=waec&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "Use of rugs is not a preventive maintenance measures",
+    "year": "2022"
+  },
+  {
+    "number": "285",
+    "text": "Corrective maintenance of software refers to",
+    "options": {
+      "A": "Enhancement aimed at making the product faster",
+      "B": "Deploying the software to a different hardware platform",
+      "C": "Modifications initiated due to defects in software",
+      "D": "Making the software easier to understand"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67122?exam_type=waec&type=obj&page=57",
+    "correct_answer": "C",
+    "explanation": "Corrective maintenance is concerned with fixing errors that are observed when the software is in use",
+    "year": "2022"
+  },
+  {
+    "number": "286",
+    "text": "To search for information using the interface in Figure above, the keywords of the search subject is typed into part labelled",
+    "options": {
+      "A": "I",
+      "B": "IV",
+      "C": "II",
+      "D": "V"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67123?exam_type=waec&type=obj&page=58",
+    "correct_answer": "B",
+    "explanation": "IV is the search box",
+    "year": "2022"
+  },
+  {
+    "number": "287",
+    "text": "To access a website, the URL of the website is typed into the part labelled",
+    "options": {
+      "A": "III",
+      "B": "II",
+      "C": "I",
+      "D": "V"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67124?exam_type=waec&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "III is the URL space",
+    "year": "2022"
+  },
+  {
+    "number": "288",
+    "text": "One of the major differences between WAN and MAN is that",
+    "options": {
+      "A": "WAN used routers while MAN uses switches",
+      "B": "WAN connects countries while MAN connects continents",
+      "C": "WAN has no limited coverage while MAN has limited coverage",
+      "D": "WAN incorporate servers while MAN does not incorporate servers"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67125?exam_type=waec&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "WAN has no limited coverage while MAN has limited coverageThe transmission speed of MAN is faster than WAN.",
+    "year": "2022"
+  },
+  {
+    "number": "289",
+    "text": "Which of the following malware does not replicate itself?",
+    "options": {
+      "A": "Trojan horse",
+      "B": "Memory resident virus",
+      "C": "Boot sector virus",
+      "D": "Worm"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67126?exam_type=waec&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "A Trojan Horse Virus is a type of malware that downloads onto a computer disguised as a legitimate program, and does not replicate itself.",
+    "year": "2022"
+  },
+  {
+    "number": "290",
+    "text": "One disadvantage of using computer for information processing is",
+    "options": {
+      "A": "Reduced running cost in the long term",
+      "B": "Low productivity",
+      "C": "The need for staff retraining",
+      "D": "The increase in processing speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67127?exam_type=waec&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "There is always a need to retrain staff on new technologies or update.",
+    "year": "2022"
+  },
+  {
+    "number": "291",
+    "text": "The part labelled III in the figure above\u00a0is used to",
+    "options": {
+      "A": "Shape objects",
+      "B": "Change the viewing windows",
+      "C": "Search for objects",
+      "D": "Select and transform objects"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67128?exam_type=waec&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "III is a search icon",
+    "year": "2022"
+  },
+  {
+    "number": "292",
+    "text": "Table 1 is a portion of a Microsoft Excel Worksheet which shows the marks obtained by some students in an examination.\n\n\n\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0A\u00a0 \u00a0 \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0B\u00a0 \u00a0\n\u00a0 \u00a0 \u00a0C\u00a0 \u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0D\u00a0 \u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0E\u00a0 \u00a0 \u00a0 \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 F\u00a0 \u00a0 \u00a0\u00a0\n\n\n1.NAME OF\u00a0 \u00a0 \u00a0 \u00a0 \u00a0STUDENT\u00a0\u00a0\nENGLISH\u00a0LANG\nMATHEMATICS\nDATA PROCESSING\nCOMP.\u00a0 \u00a0 \u00a0STUDIES\nCIVIC EDUCATION\n\n\n2.ANENE LORRETA\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 65\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 90\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a070\n\u00a0 \u00a0 \u00a085\n\u00a0 \u00a0 \u00a0 65\n\n\n3.BAKARE IMAM\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 60\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 65\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a075\n\u00a0 \u00a0 \u00a080\n\u00a0 \u00a0 \u00a0 75\n\n\n4.ENEM GRACE\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 75\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 65\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a065\n\u00a0 \u00a0 \u00a075\n\u00a0 \u00a0 \u00a0 \u00a060\n\n\n5.MOHAMMED DEJI\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 65\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 60\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a065\n\u00a0 \u00a0 \u00a0 60\n\u00a0 \u00a0 \u00a0 \u00a0 60\n\n\n6.ONYEBUEKE DEBORAH\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 89\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 65\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a060\n\u00a0 \u00a0 \u00a0 65\n\u00a0 \u00a0 \u00a0 \u00a0 65\n\n\n\nWhich of the following formulas can be used to find the average score for ENEH GRACE?",
+    "options": {
+      "A": "=AVERAGE(B4:F4)",
+      "B": "=AVERAGE(B4:B6)",
+      "C": "=AVERAGE(A4:F4)",
+      "D": "=AVERAGE(B5:F5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67129?exam_type=waec&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "=AVERAGE(B4:F4)",
+    "year": "2022"
+  },
+  {
+    "number": "293",
+    "text": "An application of ICT which allows a person to participate in a meeting from a remote location is called",
+    "options": {
+      "A": "Telepresence",
+      "B": "Podcasting",
+      "C": "Broadcasting",
+      "D": "Blogging"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67130?exam_type=waec&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "Telepresence refers to technologies that allow a user appear to be present, feel like they are present or have some effect in a space the person does not physically inhabit.",
+    "year": "2022"
+  },
+  {
+    "number": "294",
+    "text": "The category of computers used for weather forecasting is known as",
+    "options": {
+      "A": "Special purpose computers",
+      "B": "Microcomputers",
+      "C": "Super computers",
+      "D": "General purpose computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67131?exam_type=waec&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "A supercomputer is a computer with a high level of performance as compared to a general-purpose computer, they are used for a speciffic purpose",
+    "year": "2022"
+  },
+  {
+    "number": "295",
+    "text": "When choosing a file organization method a system administrator will not consider",
+    "options": {
+      "A": "Frequency of update",
+      "B": "File activity",
+      "C": "File medium",
+      "D": "File access method"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67132?exam_type=waec&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "When choosing a file organization method, a system administrator will consider the file access method, file activity, and frequency of updates. These factors are important in determining how the files will be organized for efficient access and update. However, the file medium, which refers to the physical material on which data is stored, is not a primary consideration in file organization. Therefore, the correct answer is 'File medium'.",
+    "year": "2022"
+  },
+  {
+    "number": "296",
+    "text": "A suitable application software for creating Tables 1 and 2 is",
+    "options": {
+      "A": "Notepad",
+      "B": "MS Powerpoint",
+      "C": "MS access",
+      "D": "CorelDraw"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67133?exam_type=waec&type=obj&page=60",
+    "correct_answer": "C",
+    "explanation": "MS Access",
+    "year": "2022"
+  },
+  {
+    "number": "297",
+    "text": "Table 2 can be derived from table 1 by",
+    "options": {
+      "A": "Segmentation",
+      "B": "Replication",
+      "C": "Redundancy",
+      "D": "Fragmentation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67134?exam_type=waec&type=obj&page=60",
+    "correct_answer": "C",
+    "explanation": "Data redundancy is a data organization issue that allows the unnecessary duplication of data within your Microsoft Access database. A change or modification, to redundant data, requires that you make changes to multiple fields of a database.",
+    "year": "2022"
+  },
+  {
+    "number": "298",
+    "text": "The part labelled I in this figure is used in Microsoft Word to",
+    "options": {
+      "A": "Enlarge current document",
+      "B": "Minimize current document",
+      "C": "Highlight current document",
+      "D": "Close current document"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67135?exam_type=waec&type=obj&page=60",
+    "correct_answer": "B",
+    "explanation": "I minimizes current document",
+    "year": "2022"
+  },
+  {
+    "number": "299",
+    "text": "In Microsoft PowerPoint, the command: ctrl + m is used to create",
+    "options": {
+      "A": "An animation",
+      "B": "New slide",
+      "C": "New presentation",
+      "D": "New PowerPoint document"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67136?exam_type=waec&type=obj&page=60",
+    "correct_answer": "B",
+    "explanation": "ctrl + m creates a new slide in Microsoft PowerPoint.",
+    "year": "2022"
+  },
+  {
+    "number": "300",
+    "text": "The capacity of a communication channel is referred to as",
+    "options": {
+      "A": "Bandwidth",
+      "B": "Baud rate",
+      "C": "Bit flow",
+      "D": "Data flow"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67137?exam_type=waec&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "Bandwidth is the volume of information that can be sent over a connection in a measured amount of time \u2013 calculated in megabits per second (Mbps).",
+    "year": "2022"
+  },
+  {
+    "number": "301",
+    "text": "A desktop computer is switched on and the monitor displays an error message which reads: No input signal. The likely cause of this error is",
+    "options": {
+      "A": "Disconnected VGA",
+      "B": "Power failure",
+      "C": "Low memory",
+      "D": "Defective monitor"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67138?exam_type=waec&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "VGA having no signal means that your monitor is powered on but not connected",
+    "year": "2022"
+  },
+  {
+    "number": "302",
+    "text": "The concept of stored program for electronic devices was introduced by",
+    "options": {
+      "A": "Tim Berners Lee",
+      "B": "Ada Augusta Lovelace",
+      "C": "Charles Babbage Lee",
+      "D": "John Von Neumann"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67139?exam_type=waec&type=obj&page=61",
+    "correct_answer": "D",
+    "explanation": "The idea was introduced in the late 1940s by John von Neumann, who proposed that a program be electronically stored in binary-number format in a memory device so that instructions could be modified by the computer as determined by intermediate computational results.",
+    "year": "2022"
+  },
+  {
+    "number": "303",
+    "text": "At what stage in data processing does data manipulation take place?",
+    "options": {
+      "A": "Organization",
+      "B": "Collation",
+      "C": "Analysis",
+      "D": "Interpretation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67140?exam_type=waec&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "Data are manipulated at Organization stage.",
+    "year": "2022"
+  },
+  {
+    "number": "304",
+    "text": "One quality of a computer programmer",
+    "options": {
+      "A": "Ability to teach",
+      "B": "Friendliness",
+      "C": "Punctuality to work",
+      "D": "Excellent analytical thinking"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67141?exam_type=waec&type=obj&page=61",
+    "correct_answer": "D",
+    "explanation": "Qualities of a computer programmer- has passion for computers- has desire for efficiency- love to learn new technologies- is a problem solver- has excellent analytical thinking",
+    "year": "2022"
+  },
+  {
+    "number": "305",
+    "text": "A file organization method that has reference which identifies a record in relation to other records is called",
+    "options": {
+      "A": "Sequential file organization",
+      "B": "Serial file organization",
+      "C": "Indexed file organization",
+      "D": "Random file organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67142?exam_type=waec&type=obj&page=61",
+    "correct_answer": "C",
+    "explanation": "An indexed file organization contains reference numbers, like employee numbers, that identify a record in relation to other records. These references are called the primary keys that are unique to a particular record.",
+    "year": "2022"
+  },
+  {
+    "number": "306",
+    "text": "One application of ICT in education is",
+    "options": {
+      "A": "Optical Mark Reader",
+      "B": "Electronic Fund Transfer",
+      "C": "Automated Teller Machine",
+      "D": "Magnetic Ink Character Recognition"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67143?exam_type=waec&type=obj&page=62",
+    "correct_answer": "A",
+    "explanation": "Optical Mark reading (OMR) is a method of entering data into a computer system. Optical Mark Readers reads pencil or pen marks made in pre-defined positions on paper forms as responses to questions or tick list prompts.",
+    "year": "2022"
+  },
+  {
+    "number": "307",
+    "text": "The process of sending and receiving information from one place to another is called information",
+    "options": {
+      "A": "Synchronization",
+      "B": "Transfer",
+      "C": "Transmission",
+      "D": "Technology"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67144?exam_type=waec&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "Information transmission refers to the process of transferring information between two or more digital devices.",
+    "year": "2022"
+  },
+  {
+    "number": "308",
+    "text": "Computer virus replicates itself into",
+    "options": {
+      "A": "Execution phase",
+      "B": "Trigger phase",
+      "C": "Propagation phase",
+      "D": "Dormant phase"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67145?exam_type=waec&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "In the propagation phase, the virus is fruitful and multiplies. The virus will start to insert copies of itself into other programs or areas on the disk. These copies are often altered in some way to make detection more difficult.",
+    "year": "2022"
+  },
+  {
+    "number": "309",
+    "text": "High level programming languages such as COBOL and FORTRAN were first used in the",
+    "options": {
+      "A": "First generation computers",
+      "B": "Third generation computers",
+      "C": "Fourth generation computers",
+      "D": "Second generation computers"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67146?exam_type=waec&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "Third generation computers were computers that emerged due to the development of the integrated circuit (IC). They were the first steps toward computers as we know them today.",
+    "year": "2022"
+  },
+  {
+    "number": "310",
+    "text": "The subdivision of tracks in a hard disk is called",
+    "options": {
+      "A": "Record",
+      "B": "Row",
+      "C": "Sector",
+      "D": "Cluster"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67147?exam_type=waec&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "In computer disk storage, a sector is a subdivision of a track on a magnetic disk or optical disc. Each sector stores a fixed amount of user-accessible data, traditionally 512 bytes for hard disk drives (HDDs) and 2048 bytes for CD-ROMs and DVD-ROMs.",
+    "year": "2022"
+  },
+  {
+    "number": "311",
+    "text": "The standard way of arranging information is known as",
+    "options": {
+      "A": "Organization of information",
+      "B": "Validation of information",
+      "C": "Collection of information",
+      "D": "Classification of information"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67148?exam_type=waec&type=obj&page=63",
+    "correct_answer": "A",
+    "explanation": "Organization of information is the standard way of arranging information.",
+    "year": "2022"
+  },
+  {
+    "number": "312",
+    "text": "Any meaningful fact and knowledge item that can be expressed in words and numbers is called",
+    "options": {
+      "A": "Knowledge base",
+      "B": "Information",
+      "C": "Database",
+      "D": "Data"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67149?exam_type=waec&type=obj&page=63",
+    "correct_answer": "B",
+    "explanation": "Information is organized or classified data, which has some meaningful values for the receiver.",
+    "year": "2022"
+  },
+  {
+    "number": "313",
+    "text": "The type of network which has a restricted coverage within an enterprise is called",
+    "options": {
+      "A": "Intranet",
+      "B": "Internet",
+      "C": "Ethernet",
+      "D": "Extranet"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67150?exam_type=waec&type=obj&page=63",
+    "correct_answer": "A",
+    "explanation": "Intranet is a local or restricted communications network, especially a private network created using World Wide Web software.",
+    "year": "2022"
+  },
+  {
+    "number": "314",
+    "text": "Arrange the following steps in the correct order for editing data type in data sheet view of a Microsoft Access database\nI. Click the type of data that that will be entered into the fields\nII. Click the data sheet tab on the ribbon\nIII. Click the field you wish to define\nIV. Click the 'down' arrow next to the data type",
+    "options": {
+      "A": "IV, III, II and I",
+      "B": "III, II, IV and I",
+      "C": "I, III, IV and II",
+      "D": "II, III, I and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67151?exam_type=waec&type=obj&page=63",
+    "correct_answer": "B",
+    "explanation": "- Click the field you wish to define- Click the data sheet tab on the ribbon- Click the 'down' arrow next to the data type- Click the type of data that that will be entered into the fields",
+    "year": "2022"
+  },
+  {
+    "number": "315",
+    "text": "Frequent backup of computer files helps to",
+    "options": {
+      "A": "Archive files",
+      "B": "Protect files",
+      "C": "Modify records in files",
+      "D": "Prevent virus attacks"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67152?exam_type=waec&type=obj&page=63",
+    "correct_answer": "B",
+    "explanation": "Frequent backup of computer files helps to Protect the files.",
+    "year": "2022"
+  },
+  {
+    "number": "316",
+    "text": "A user working on a computer that is running on Windows 7 issued the command: Ctrl +Alt +Del while typing a document. What interface is expected to be displayed on the screen?",
+    "options": {
+      "A": "Windows hibernate",
+      "B": "Shutdown windows",
+      "C": "Windows task manager",
+      "D": "Restart windows"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67153?exam_type=waec&type=obj&page=64",
+    "correct_answer": "C",
+    "explanation": "In\u00a0Windows 7,\u00a0Control+Alt+Delete\u00a0startsWindowsSecurity or Task Manager.",
+    "year": "2022"
+  },
+  {
+    "number": "317",
+    "text": "The following computer files will open on a computer that has only Microsoft office 1997 - 2003 installed except",
+    "options": {
+      "A": "exam.rft.",
+      "B": "exam.doc",
+      "C": "exam.ppt",
+      "D": "exam.docx"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67154?exam_type=waec&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "Microsoft Office 1997 - 2003 does not support the .docx file format. The .docx format was introduced in Microsoft Office 2007. Therefore, a .docx file ('exam.docx') will not open on a computer that has only Microsoft Office 1997 - 2003 installed",
+    "year": "2022"
+  },
+  {
+    "number": "318",
+    "text": "The legal right given to the owner of an intellectual property to prevent others from duplicating or using the work freely is known as",
+    "options": {
+      "A": "Legal right",
+      "B": "Ownership right",
+      "C": "Trademark",
+      "D": "Copyright"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67155?exam_type=waec&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "A copyright is a type of intellectual property that gives its owner the exclusive right to copy, distribute, adapt, display, and perform a creative work, usually for a limited time. The creative work may be in a literary, artistic, educational, or musical form.",
+    "year": "2022"
+  },
+  {
+    "number": "319",
+    "text": "Which of the following practices is a safety measure?",
+    "options": {
+      "A": "Maintaining a dust-free environment",
+      "B": "Eating and typing at the same time",
+      "C": "Opening up the computer while still connected to the power supply",
+      "D": "Wearing hand gloves while typing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/67156?exam_type=waec&type=obj&page=64",
+    "correct_answer": "A",
+    "explanation": "Maintaining a dust-free environment is the only safety measure practice among the options",
+    "year": "2022"
+  }
+]

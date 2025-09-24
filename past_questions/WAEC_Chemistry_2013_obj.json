@@ -1,0 +1,660 @@
+[
+  {
+    "number": "898",
+    "text": "Which of the following instruments is used in detecting the presence of radiation?",
+    "options": {
+      "A": "Cathode ray tube",
+      "B": "Geiger-Muller counter",
+      "C": "Mass spectrometer",
+      "D": "X-ray tube"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37643?exam_type=waec&type=obj&page=180",
+    "correct_answer": "B",
+    "explanation": "The Geiger- Muller counter is a\u00a0device for measuring radioactivity by detecting and counting ionizing particles.",
+    "year": "2013"
+  },
+  {
+    "number": "899",
+    "text": "The molecule which has a linear shape is",
+    "options": {
+      "A": "CH4",
+      "B": "NH3",
+      "C": "H2S",
+      "D": "CO2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37648?exam_type=waec&type=obj&page=180",
+    "correct_answer": "D",
+    "explanation": "The shapes of the molecules are:\nCH\\(_4\\) - Tetrahedral; NH\\(_3\\) - Trigonal pyramidal; H\\(_2\\)S - Bent; C)\\(_2\\) - Linear.",
+    "year": "2013"
+  },
+  {
+    "number": "900",
+    "text": "The formula of the compound formed between a trivalent metal, M and a divalent non-metal, Y is",
+    "options": {
+      "A": "M2Y3",
+      "B": "M3Y2",
+      "C": "MY",
+      "D": "M3Y"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37649?exam_type=waec&type=obj&page=180",
+    "correct_answer": "A",
+    "explanation": "M is a trivalent metal i.e M = 3+ ; Y is a divalent non-metal i.e Y = 2-\nA reaction between M and Y will yield M\\(_2\\)Y\\(_3\\).",
+    "year": "2013"
+  },
+  {
+    "number": "901",
+    "text": "An atom of an element X gains two electrons. The symbol of the ion formed is",
+    "options": {
+      "A": "X +",
+      "B": "X 2+",
+      "C": "X 2-",
+      "D": "X -"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37654?exam_type=waec&type=obj&page=181",
+    "correct_answer": "C",
+    "explanation": "X gained two electrons. X = 2-.\nThe ion formed is X\\(^{2-}\\).",
+    "year": "2013"
+  },
+  {
+    "number": "902",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "Atomic size decreases down the group",
+      "B": "Atomic size increases across the period",
+      "C": "Anions are smaller than the parent atom",
+      "D": "Cations are smaller than the parent atom"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37655?exam_type=waec&type=obj&page=181",
+    "correct_answer": "D",
+    "explanation": "A cation is a positively charged ion. This means electron is given out by a cation, hence the cation is smaller than the parent atom.",
+    "year": "2013"
+  },
+  {
+    "number": "903",
+    "text": "Which of the following arrangements represents the correct order of electronic energy level?",
+    "options": {
+      "A": "1s 2p 2s 3p 3s 3d 4s",
+      "B": "1s 2s 2p 3s 3p 3d 4s",
+      "C": "1s 2s 2p 3s 3p 4s 3d",
+      "D": "1s 2s 3s 2p 3p 4s 3d"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37656?exam_type=waec&type=obj&page=181",
+    "correct_answer": "C",
+    "explanation": "the correct order of electronic energy level is OPTION C according to the\u00a0Aufbau principle.",
+    "year": "2013"
+  },
+  {
+    "number": "904",
+    "text": "The element with electron configuration 1s\\(^2\\) 2s\\(^2\\) 2p\\(^6\\) 3s\\(^2\\) 3p\\(^1\\) belongs to",
+    "options": {
+      "A": "s-block period 3, group 1",
+      "B": "p-block, period 3, group 2",
+      "C": "s-block, period 3, group 3",
+      "D": "p-block, period 3, group 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37661?exam_type=waec&type=obj&page=181",
+    "correct_answer": "D",
+    "explanation": "1s\\(^2\\) 2s\\(^2\\) 2p\\(^6\\) 3s\\(^2\\) 3p\\(^1\\) = 2, 8, 3.\nThe element is in\u00a0period\u00a03 and group 3.",
+    "year": "2013"
+  },
+  {
+    "number": "905",
+    "text": "In the periodic table all elements within the same group have the same",
+    "options": {
+      "A": "number of neutrons",
+      "B": "number of valence electrons",
+      "C": "number of isotopes",
+      "D": "atomic number"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37662?exam_type=waec&type=obj&page=181",
+    "correct_answer": "B",
+    "explanation": "The elements in the same group in the periodic table has the same number of electrons in the outer shell. That means, they have the same number of valence electrons.",
+    "year": "2013"
+  },
+  {
+    "number": "906",
+    "text": "Which of the following halogens is liquid at room temperature?",
+    "options": {
+      "A": "lodine",
+      "B": "Chlorine",
+      "C": "Bromine",
+      "D": "Fluorine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37663?exam_type=waec&type=obj&page=182",
+    "correct_answer": "C",
+    "explanation": "Bromine is a reddish-brown liquid at room temperature.",
+    "year": "2013"
+  },
+  {
+    "number": "907",
+    "text": "Rare gases are stable because they",
+    "options": {
+      "A": "are chemically active",
+      "B": "contain equal number of protons and neutrons",
+      "C": "contain more electrons than protons",
+      "D": "have octet structures"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37664?exam_type=waec&type=obj&page=182",
+    "correct_answer": "D",
+    "explanation": "They are the most stable due to having the maximum number of valence electrons their outer shell can hold. That means rare gases have the octet configuration.",
+    "year": "2013"
+  },
+  {
+    "number": "908",
+    "text": "In the periodic table, alkaline earth metals can be found in group",
+    "options": {
+      "A": "l",
+      "B": "ll",
+      "C": "VI",
+      "D": "VII"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37665?exam_type=waec&type=obj&page=182",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "909",
+    "text": "In which of the following series are the atoms arranged in order of increasing ionization energy?",
+    "options": {
+      "A": "Li, Na K",
+      "B": "B, Be, Li",
+      "C": "O, F, Ne",
+      "D": "Be, mG, Ca"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37669?exam_type=waec&type=obj&page=182",
+    "correct_answer": "C",
+    "explanation": "The ionization energy increases across\u00a0the period. It increases up the group.",
+    "year": "2013"
+  },
+  {
+    "number": "910",
+    "text": "Which of the following bond types is responsible for the high boiling point of water?",
+    "options": {
+      "A": "Metallic bond",
+      "B": "Covalent bond",
+      "C": "lonic bond",
+      "D": "Hydrogen bond"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37670?exam_type=waec&type=obj&page=182",
+    "correct_answer": "D",
+    "explanation": "The high boiling point is due to the breaking of the intermolecular force called Hydrogen bond.",
+    "year": "2013"
+  },
+  {
+    "number": "911",
+    "text": "In metallic solid, the forces of attraction is between the mobile valence electrons and the",
+    "options": {
+      "A": "atoms",
+      "B": "neutrons",
+      "C": "negative ions",
+      "D": "positively charged nuclei"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37671?exam_type=waec&type=obj&page=183",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "912",
+    "text": "The bonds in crystalline ammonium chloride are",
+    "options": {
+      "A": "covalent and dative",
+      "B": "ionic and covalent",
+      "C": "ionic, covalent and dative",
+      "D": "ionic, covalent and hydrogen bond"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37672?exam_type=waec&type=obj&page=183",
+    "correct_answer": "C",
+    "explanation": "N makes three covalent bonds with three Hydrogen and a coordinate (dative covalent)\u00a0bond with with hydrogen ion, forming ammonium ion (NH\\(_4 ^+\\). The ammonium ion forms an ionic bond with chloride ion to form NH\\(_4\\)Cl.",
+    "year": "2013"
+  },
+  {
+    "number": "913",
+    "text": "Which of the following elements is diatomic?",
+    "options": {
+      "A": "Sodium",
+      "B": "Oxygen",
+      "C": "Iron",
+      "D": "Neon"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37673?exam_type=waec&type=obj&page=183",
+    "correct_answer": "B",
+    "explanation": "The seven diatomic elements are Hydrogen, Nitrogen, Oxygen, Fluorine, Chlorine, Iodine, Bromine.",
+    "year": "2013"
+  },
+  {
+    "number": "914",
+    "text": "Noble gas molecules are held together by",
+    "options": {
+      "A": "van der Waals forces",
+      "B": "hydrogen bonds",
+      "C": "dative bonds",
+      "D": "covalent bonds"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37674?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "915",
+    "text": "Which of the following statements about nuclear reaction is correct? The reaction",
+    "options": {
+      "A": "involves neutrons only",
+      "B": "takes place inside the nucleus",
+      "C": "is governed by temperature and pressure",
+      "D": "involves protons  and electrons only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37675?exam_type=waec&type=obj&page=183",
+    "correct_answer": "B",
+    "explanation": "A nuclear reaction is semantically considered to be the process in which two nuclei, or a nucleus and an external subatomic particle, collide to produce one or more new nuclides.",
+    "year": "2013"
+  },
+  {
+    "number": "916",
+    "text": "Consider the reaction represented by the following equation: C\\(_2\\)H\\(_2\\) + yH\\(_2\\) \u2192 C\\(_2\\)H\\(_6\\). The value of y in the reaction is",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37676?exam_type=waec&type=obj&page=184",
+    "correct_answer": "C",
+    "explanation": "C\\(_2\\)H\\(_2\\) + yH\\(_2\\) \u2192 C\\(_2\\)H\\(_6\\)\nTo balance the equation, we must have 2 carbon atoms on both sides and 6 hydrogen atoms.\nOn the LHS and RHS, carbon = 2 atoms.\nOn the LHS, Hydrogen = 2 + 2y.\nOn the RHS, Hydrogen = 6.\n\u21d2 2 + 2y = 6\n2y = 4\ny = 2.",
+    "year": "2013"
+  },
+  {
+    "number": "917",
+    "text": "The volume of 0.25 moldm-3 solution of KOH that would yield 6.5g of of solid KOH on evaporation is (K = 39.0; o = 16.0; H = 1.00)",
+    "options": {
+      "A": "464.30 cm3",
+      "B": "625.00 cm3",
+      "C": "1000.00 cm3",
+      "D": "2153.80 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37681?exam_type=waec&type=obj&page=184",
+    "correct_answer": "A",
+    "explanation": "number of moles = molar concentration x volume(\\(dm^3\\))\nmolar concentration(C) = 0.25mol/dm3, volume = ? and number of mole(n) = \\(\\frac{mass}{molar mass}\\) =\u00a0\\(\\frac{6.5}{56}\\) ( where 56g/mol = molar mass of KOH)\n\\(\\frac{6.5}{56}\\) = 0.25 x V\nV =\u00a0\\(\\frac{0.11607}{0.25}\\) = 0.46428dm^3\u00a0\u2192 464.3cm^3",
+    "year": "2013"
+  },
+  {
+    "number": "918",
+    "text": "The percentage by mass of calcium in Ca(OCI)2 is [Ca = 40.0; CI = 35.5; O = 16.0]",
+    "options": {
+      "A": "28.0%",
+      "B": "31.6%",
+      "C": "43.8%",
+      "D": "44.5%"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37682?exam_type=waec&type=obj&page=184",
+    "correct_answer": "A",
+    "explanation": "Molar mass of \\(Ca(OCl)_2\\) = 40 + (16 + 35.5)x2 = 143\n% by mass of calcium in the compound =\\(\\frac{mass\u00a0 of\u00a0 calcuim}{molar\u00a0 mass\u00a0 of\u00a0 compound}\\) x 100%\n% calcium = \\(\\frac{40}{143} \\times100\\)\n= 27.98% = 28%",
+    "year": "2013"
+  },
+  {
+    "number": "919",
+    "text": "The gas law which describes the relationship between volume and  temperature is",
+    "options": {
+      "A": "Boyle's law",
+      "B": "Charles' law",
+      "C": "Dalton's law",
+      "D": "Graham's law"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37683?exam_type=waec&type=obj&page=184",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "920",
+    "text": "Which of the following  phenomenna lead to decrease in volume of a liquid in an open container?",
+    "options": {
+      "A": "Brownian motion",
+      "B": "Diffusion",
+      "C": "Evaporation",
+      "D": "Sublimation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37684?exam_type=waec&type=obj&page=184",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "921",
+    "text": "The pressure exerted by a gas is a function of the",
+    "options": {
+      "A": "total volume of the gas",
+      "B": "speed of the gaseous molecules",
+      "C": "mass of each gaseous molecule",
+      "D": "frequency of collision between gaseous molecules"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37685?exam_type=waec&type=obj&page=185",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "922",
+    "text": "Which of the following gases are arranged in increasing order of diffusion rate? [H = 1 .0; C = 12; N = 14; O = 16; S = 32]",
+    "options": {
+      "A": "SO 2 O2, NH3 H2",
+      "B": "H2S,NH2,O2,SO2",
+      "C": "CO2,N2O,O2,SO2",
+      "D": "NH3,NO2,N2,CO2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37686?exam_type=waec&type=obj&page=185",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "923",
+    "text": "Which of the following variables is a measure of the average kinetic energy of the molecule of a gas?",
+    "options": {
+      "A": "Density",
+      "B": "Pressure",
+      "C": "Temperature",
+      "D": "Volume"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37687?exam_type=waec&type=obj&page=185",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "924",
+    "text": "When heat is absorbed during a chemical reaction, the reaction is said to be",
+    "options": {
+      "A": "adiabatic",
+      "B": "endothermic",
+      "C": "exothermic",
+      "D": "isothermal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37688?exam_type=waec&type=obj&page=185",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "925",
+    "text": "The aqueous solution which has pH > 7 is",
+    "options": {
+      "A": "FeCI3(aq)",
+      "B": "CuSO4(aq)",
+      "C": "KNO3(aq)",
+      "D": "Na2CO3(aq)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37689?exam_type=waec&type=obj&page=185",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "926",
+    "text": "Which of the following acids would readily react with CaCO3 to liberate CO2?",
+    "options": {
+      "A": "CH3COOH",
+      "B": "H2SO4",
+      "C": "H2SO3",
+      "D": "HNO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37690?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "H2SO4(aq)+CaCO3(aq)\u2192CaSO4(aq)+CO2(g)+H2O(l)",
+    "year": "2013"
+  },
+  {
+    "number": "927",
+    "text": "Which of the following compounds crystallizes without water of crystallization?",
+    "options": {
+      "A": "MgSO4",
+      "B": "Na2CO3",
+      "C": "NaCI",
+      "D": "FeSO4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37691?exam_type=waec&type=obj&page=186",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "928",
+    "text": "A substance is said to be impure if",
+    "options": {
+      "A": "its melting point range is wide",
+      "B": "it dissolves in water with difficult",
+      "C": "it has a low melting point",
+      "D": "it is coloured"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37692?exam_type=waec&type=obj&page=186",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "929",
+    "text": "The following factors affect the solubility of a solid in a given solvent except",
+    "options": {
+      "A": "nature of solute",
+      "B": "nature of solvent",
+      "C": "pressure",
+      "D": "temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37693?exam_type=waec&type=obj&page=186",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "930",
+    "text": "Consider the reaction represented by the equation: N\\(_2\\)O\\(_4\\)(g) \u21cc 2NO\\(_2\\)(g) ; \u2206H = + x kJmol-1\nWhat happens when the temperature is reduced at equilibrium?",
+    "options": {
+      "A": "Concentration of N 2O4(g) decreases",
+      "B": "Concentration of N 2O4(g) increases.",
+      "C": "Pressure exerted by the gases increases",
+      "D": "Pressure exerted by the gases remains constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37694?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "According to Le Chatelier's principle, in an endothermic reaction(\u0394H = +ve), an increase in temperature will cause the equilibrium to shift to the right, thereby favouring the forward reaction, and more product will be formed. Conversely, in an endothermic reaction, a\u00a0decrease in temperature will cause the equilibrium position to shift to the left, thereby favouring the backward reaction, and more reactants(N\\(_2\\)O\\(_4\\)) will be produced.i.e Concentration of\u00a0N\\(_2\\)O\\(_4\\) will increase.",
+    "year": "2013"
+  },
+  {
+    "number": "931",
+    "text": "Which of the following cells produce electrical energy from chemical reactions?\nl. Lead-acid battery ll. Dry cell III. Deniell cell IV Electrolytic cell",
+    "options": {
+      "A": "l and ll only",
+      "B": "l, ll, and III only",
+      "C": "lll and IV only",
+      "D": "I and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37695?exam_type=waec&type=obj&page=187",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "932",
+    "text": "Consider the redox reaction as represented by the following equation: 12(aq) + 2S2O32-(aq) \u2192 21-(aq) + S4O62-(aq). Which of the species in the equation is reduced?",
+    "options": {
+      "A": "S4O62-(aq)",
+      "B": "S4O32-(aq)",
+      "C": "12(aq)",
+      "D": "1-(aq)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37700?exam_type=waec&type=obj&page=187",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "933",
+    "text": "The separation of petroleum fractions depends on the differences in their",
+    "options": {
+      "A": "melting points",
+      "B": "molar masses",
+      "C": "solubilities",
+      "D": "boiling points"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37701?exam_type=waec&type=obj&page=187",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "934",
+    "text": "The major product formed by the reaction between ethanoic acid and aqueous sodium hydroxide is",
+    "options": {
+      "A": "soap",
+      "B": "sodium ethanoate",
+      "C": "sodium methoxide",
+      "D": "water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37702?exam_type=waec&type=obj&page=187",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "935",
+    "text": "Which of the following organic compounds would decolourize bromie water?",
+    "options": {
+      "A": "Benzene",
+      "B": "Cyclobutane",
+      "C": "Hexane",
+      "D": "Pentane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37703?exam_type=waec&type=obj&page=187",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "936",
+    "text": "How many isomers has C\\(_3\\)H\\(_6\\)CI\\(_2\\)?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37704?exam_type=waec&type=obj&page=188",
+    "correct_answer": "C",
+    "explanation": "Isomers are two or more compounds having the same molecular formula but different structural formula or spatial representations.\nThe\u00a0\u00a0compound C\\(_3\\)H\\(_6\\)CI\\(_2\\) has four isomers. They include:\n(a) 1,1 - dichloropropane\n(b) 1,2 - dichloropropane\n(c) 1,3 - dichloropropane\n(d) 2, 2 - dichloropropane\nSee diagram above for better understanding.",
+    "year": "2013"
+  },
+  {
+    "number": "937",
+    "text": "Which of the following reactions is common to all hydrocarbones?",
+    "options": {
+      "A": "Combustion",
+      "B": "Addition",
+      "C": "Polymerization",
+      "D": "Condensation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37705?exam_type=waec&type=obj&page=188",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "938",
+    "text": "A hydrocarbon compound contains 92.3% carbon Determine its empirical formula [H = 1.00; C = 12.0]",
+    "options": {
+      "A": "CH",
+      "B": "CH2-",
+      "C": "CH3",
+      "D": "C3H2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37709?exam_type=waec&type=obj&page=188",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "939",
+    "text": "The main function of limestone in the blast furnace is to",
+    "options": {
+      "A": "act as catalyst",
+      "B": "act as reducing agent",
+      "C": "remove impurity",
+      "D": "supply carbon (IV) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37710?exam_type=waec&type=obj&page=188",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "940",
+    "text": "Which of the following raw materials is used in a plastic industry?",
+    "options": {
+      "A": "Ethene",
+      "B": "Methane",
+      "C": "Calcium",
+      "D": "Hydrogen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37711?exam_type=waec&type=obj&page=188",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "941",
+    "text": "Which of the following statements about fine chemical is correct? It",
+    "options": {
+      "A": "is injurious to health",
+      "B": "has low degree of purity",
+      "C": "is produced in relatively small amount",
+      "D": "can be stored for a long time"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37712?exam_type=waec&type=obj&page=189",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "942",
+    "text": "Which of the following materials is classified as a non-biodegradable pollutant?",
+    "options": {
+      "A": "Animal hide",
+      "B": "Paper",
+      "C": "Plastic",
+      "D": "Wood"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37716?exam_type=waec&type=obj&page=189",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "943",
+    "text": "Bronze is a mixture of",
+    "options": {
+      "A": "Cu and Mg",
+      "B": "Cu and Sn",
+      "C": "Cu and Zn",
+      "D": "Cu and Pb"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37718?exam_type=waec&type=obj&page=189",
+    "correct_answer": "B",
+    "explanation": "Bronze is an alloy consisting primarily of copper, tin and often with the addition of other metals (such as aluminium, manganese, nickel or zinc) and sometimes non-metals or metalloids such as arsenic, phosphorus or silicon.",
+    "year": "2013"
+  },
+  {
+    "number": "944",
+    "text": "Which of the following statements about thermoplastic material is correct? They",
+    "options": {
+      "A": "do not melt on heating",
+      "B": "harden on heating",
+      "C": "decompose on heating",
+      "D": "soften and melt on heating"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37719?exam_type=waec&type=obj&page=189",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  }
+]

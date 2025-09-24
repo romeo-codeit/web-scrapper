@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1071",
+    "text": "Simplify 0.000215 x 0.000028 and express your answer in standard form",
+    "options": {
+      "A": "6.03 x 109",
+      "B": "6.02 x 109",
+      "C": "6.03 x 10-9",
+      "D": "6.02 x 10-9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36515?exam_type=waec&type=obj&page=215",
+    "correct_answer": "D",
+    "explanation": "-4\n-4\n-6-6\n-12\n3\n-12\n3 - 12\n-9",
+    "year": "2010"
+  },
+  {
+    "number": "1072",
+    "text": "Factorize: x + y - ax = ay",
+    "options": {
+      "A": "(x - y)(1 - a)",
+      "B": "(x + y)(1 + a)",
+      "C": "(x + y)(1 - a)",
+      "D": "(x - y)(1 + a)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36516?exam_type=waec&type=obj&page=215",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1073",
+    "text": "A car uses one litre of petrol for every 14km. If one of petrol cost N63.00, how far can the car go with N900.00 worth of petrol?",
+    "options": {
+      "A": "420km",
+      "B": "405km",
+      "C": "210km",
+      "D": "200km"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36517?exam_type=waec&type=obj&page=215",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1074",
+    "text": "Correct 0.002473 to 3 significant figure",
+    "options": {
+      "A": "0.002",
+      "B": "0.0024",
+      "C": "0.00247",
+      "D": "0.0025"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36518?exam_type=waec&type=obj&page=215",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "1075",
+    "text": "Simplify 1\\(\\frac{1}{2} + 2\\frac{1}{3} \\times \\frac{3}{4} - \\frac{1}{2}\\)",
+    "options": {
+      "A": "-2\\(\\frac{1}{3}\\)",
+      "B": "-2\\(\\frac{1}{4}\\)",
+      "C": "2\\(\\frac{1}{8}\\)",
+      "D": "2\\(\\frac{3}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36519?exam_type=waec&type=obj&page=215",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1076",
+    "text": "The sum of 2 consecutive whole numbers is \\(\\frac{5}{6}\\) of their product, find the numbers",
+    "options": {
+      "A": "3, 4",
+      "B": "1, 2",
+      "C": "2, 3",
+      "D": "0, 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36520?exam_type=waec&type=obj&page=216",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\n2\n2",
+    "year": "2010"
+  },
+  {
+    "number": "1077",
+    "text": "A casting is made up of Copper and Zinc. If 65% of the casting is Zinc and there are 147g of Copper. What is the mass of the casting?",
+    "options": {
+      "A": "320g",
+      "B": "420g",
+      "C": "520g",
+      "D": "620g"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36521?exam_type=waec&type=obj&page=216",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1078",
+    "text": "Given that P = {x : 1 \\(\\leq x \\leq 6\\)}, and Q = {x : 2 \\(\\leq x \\leq 10\\)} where x is an integer. Find n(P \\(\\cap\\) Q)",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36522?exam_type=waec&type=obj&page=216",
+    "correct_answer": "A",
+    "explanation": "P = {1, 2, 3, 4, 5, 6}; Q = {3, 4, 5, 6, 7, 8, 9}P \\(\\cap\\) Q) = {2, 3, 4,\u00a05, 6}n(P \\(\\cap\\) Q) = 5",
+    "year": "2010"
+  },
+  {
+    "number": "1079",
+    "text": "The sum of 6 and one-third of x is one more than twice x, find x",
+    "options": {
+      "A": "x = 7",
+      "B": "x = 5",
+      "C": "x = 3",
+      "D": "x = 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36523?exam_type=waec&type=obj&page=216",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1080",
+    "text": "Given that  = {x: -2 < x \\(\\leq\\) 9}, where x is an integer what is n(T)?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36524?exam_type=waec&type=obj&page=216",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1081",
+    "text": "Solve the inequality: 3(x + 1) \\(\\leq\\) 5(x + 2) + 15",
+    "options": {
+      "A": "x \\(\\geq\\) -14",
+      "B": "x \\(\\leq\\) - 14",
+      "C": "x \\(\\geq\\) -11",
+      "D": "x \\(\\leq\\) - 11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36526?exam_type=waec&type=obj&page=217",
+    "correct_answer": "C",
+    "explanation": "3(x + 1) \\(\\leq\\) 5(x + 2) + 153x + 3 \\(\\leq\\) 5x + 10 + 153x - 5x \\(\\leq\\) 10 + 15 - 3-2x \\(\\leq\\) 22x \\(\\geq\\) \\(\\frac{-22}{2}\\)x \\(\\geq\\) -11",
+    "year": "2010"
+  },
+  {
+    "number": "1082",
+    "text": "An empty rectangular tank is 250cm long and 120cm wide. If 180 litres of water is poured into the tank. Calculate the height of the water",
+    "options": {
+      "A": "6.0cm",
+      "B": "5.5cm",
+      "C": "5.0cm",
+      "D": "4.5cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36528?exam_type=waec&type=obj&page=217",
+    "correct_answer": "A",
+    "explanation": "2",
+    "year": "2010"
+  },
+  {
+    "number": "1083",
+    "text": "Given that \\(\\frac{5^{n +3}}{25^{2n -3}}\\) = 5\u00ba, find n",
+    "options": {
+      "A": "n = 1",
+      "B": "n = 2",
+      "C": "n = 3",
+      "D": "n = 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36529?exam_type=waec&type=obj&page=217",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{5^{n +3}}{25^{2n -3}}\u00a0= 5^0\\)\\(\\frac{5^{n + 3}}{5^{2(2n - 3)}} = 5^0\\)n + 3 - 4n + 6 = 0-3n + 9 = 0-3n = -9n = \\(\\frac{-9}{-3}\\)n = 3",
+    "year": "2010"
+  },
+  {
+    "number": "1084",
+    "text": "\\(\\begin{array}{c|c} \\text{No. of pets} & 0 & 1 & 2 & 3 & 4 \\\\ \\hline \\text{No. of students} & 8 & 4 & 5 & 10 & 3\\end{array}\\) The table shows the number of pets kept by 30 students in a class. If a student is picked at random ftom the class. What is the probability that he/she kept more than one pet?",
+    "options": {
+      "A": "\\(\\frac{1}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{3}{5}\\)",
+      "D": "\\(\\frac{4}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36530?exam_type=waec&type=obj&page=217",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1085",
+    "text": "Simplify 2\\(\\sqrt{3}\\) - \\(\\frac{6}{\\sqrt{3}} + \\frac{3}{\\sqrt{27}}\\)",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{3}\\sqrt{3}\\)",
+      "C": "2\\(\\sqrt{3} - 5\\frac{2}{3}\\)",
+      "D": "6\\(\\sqrt{3}\\) - 17"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36531?exam_type=waec&type=obj&page=217",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1086",
+    "text": "If sin 3y = cos 2y and 0o \\(\\leq\\) 90o, find the value of y",
+    "options": {
+      "A": "18o",
+      "B": "36o",
+      "C": "54o",
+      "D": "90o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36541?exam_type=waec&type=obj&page=218",
+    "correct_answer": "A",
+    "explanation": "o",
+    "year": "2010"
+  },
+  {
+    "number": "1087",
+    "text": "A rectangle has length xcm and width (x - 1)cm. If the perimeter is 16cm. Find the value of x",
+    "options": {
+      "A": "3\\(\\frac{1}{2}\\)cm",
+      "B": "4cm",
+      "C": "4\\(\\frac{1}{2}\\)cm",
+      "D": "5cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36545?exam_type=waec&type=obj&page=218",
+    "correct_answer": "C",
+    "explanation": "l = x; b = x - 1perimeter = 2(l + b) = 16l + b = \\(\\frac{16}{2}\\) = 8l + b = 8x + x - 1 = 82x = 8 + 12x = 9x = \\(\\frac{9}{2}\\)cmx = 4\\(\\frac{1}{2}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "1088",
+    "text": "Given that tan x = 1, where 0o \\(\\geq\\) x 90o, evaluate \\(\\frac{1 - \\sin^2 x}{\\cos x}\\)",
+    "options": {
+      "A": "2\\(\\sqrt{2}\\)",
+      "B": "\\(\\sqrt{2}\\)",
+      "C": "\\(\\frac{\\sqrt{2}}{2}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36548?exam_type=waec&type=obj&page=218",
+    "correct_answer": "C",
+    "explanation": "-1\no",
+    "year": "2010"
+  },
+  {
+    "number": "1089",
+    "text": "What is the length of a rectangular garden whose perimeter is 32cm and area 39cm2?",
+    "options": {
+      "A": "25cm",
+      "B": "18cm",
+      "C": "13cm",
+      "D": "9cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36551?exam_type=waec&type=obj&page=218",
+    "correct_answer": "C",
+    "explanation": "2\n2",
+    "year": "2010"
+  },
+  {
+    "number": "1090",
+    "text": "Simplify \\(\\frac{2}{2 + x} + \\frac{2}{2 - x}\\)",
+    "options": {
+      "A": "\\(\\frac{4}{4 - x^3}\\)",
+      "B": "\\(\\frac{8}{4 - x^2}\\)",
+      "C": "\\(\\frac{4x}{4 - x^2}\\)",
+      "D": "\\(\\frac{8 - 4x}{4 - x^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36553?exam_type=waec&type=obj&page=218",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1091",
+    "text": "The sum of the exterior of an n-sided convex polygon is half the sum of its interior angle. find n",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36554?exam_type=waec&type=obj&page=219",
+    "correct_answer": "A",
+    "explanation": "o\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1092",
+    "text": "If y = \\(\\frac{(2\\sqrt{x^2 + m})}{3N}\\), make x the subject of the formular",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{9y^2 N^2 - 2m}}{3}\\)",
+      "B": "\\(\\frac{\\sqrt{9y^2 N^2 - 4m}}{2}\\)",
+      "C": "\\(\\frac{\\sqrt{9y^2 N^2 - 3m}}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{9y^2 N - 3m}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36558?exam_type=waec&type=obj&page=219",
+    "correct_answer": "B",
+    "explanation": "y = \\(\\frac{(2\\sqrt{x^2 + m})}{3N}\\)3yN = 2(\\(\\sqrt{x^2 + m})\\)\\(\\frac{3yN}{2} = \\sqrt{x^2 + m}\\)(\\(\\frac{3yN}{2})^2 = ( \\sqrt{x^2 + m})\\)\\(\\sqrt{\\frac{9y^2N^2}{4} - \\frac{m}{1}}\\)x = \\(\\frac{\\sqrt{9Y^2N^2 - 4m}}{4}\\)x = \\(\\frac{\\sqrt{9y^2N^2 - 4m}}{2}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "1093",
+    "text": "The nth term of the sequence -2, 4, -8, 16.... is given by",
+    "options": {
+      "A": "Tn = 2n",
+      "B": "Tn = (-2)n",
+      "C": "Tn = (-2n)",
+      "D": "Tn = n"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36559?exam_type=waec&type=obj&page=219",
+    "correct_answer": "B",
+    "explanation": "n\nn-1\nn\nn-1\nn\n1 + n - 1\nn\nn",
+    "year": "2010"
+  },
+  {
+    "number": "1094",
+    "text": "How many times, correct to the nearest whole number, will a man run round  circular track of diameter 100m to cover a distance of 1000m?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36561?exam_type=waec&type=obj&page=219",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1095",
+    "text": "Bola sold an article for N6,900.00 and made a profit of 15%. If he sold it for N6,600.00 he would make a",
+    "options": {
+      "A": "profit of 13%",
+      "B": "loss of 12%",
+      "C": "Profit of 10%",
+      "D": "loss of 5%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36563?exam_type=waec&type=obj&page=219",
+    "correct_answer": "C",
+    "explanation": "s.p = N6900%profit = 15%%profit = \\(\\frac{s.p - c.p}{c.p}\\) x 100%15% = \\(\\frac{6900 - c.p}{c.p}\\) x 100%\\(\\frac{15}{100}\\)c.p = N6900 - c.p0.15 c.p = N6900 - c.p1.15c.p + c.p = N6900c.p = \\(\\frac{6900}{1.15}\\)= 6000.00Now new S.P = N6600profit = s.p - c.p = 6000 - 6600= 600%profit = \\(\\frac{600}{6600}\\) x 100%= 10%",
+    "year": "2010"
+  },
+  {
+    "number": "1096",
+    "text": "The mean age of R men in a club is 50 years, Two men aged 55 and 63, left the club and the mean age reduced by 1 year. Find the value of R",
+    "options": {
+      "A": "18",
+      "B": "20",
+      "C": "22",
+      "D": "28"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36564?exam_type=waec&type=obj&page=220",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1097",
+    "text": "\\(\\begin{array}{c|c} x & 0 & 2 & 4 & 6\\\\ \\hline y & 1 & 2 & 3 & 4\\end{array}\\). \nThe table is for the relation y = mx + c where m and c are constants. What is the equation of the line described in the tablet?",
+    "options": {
+      "A": "y = 2x",
+      "B": "y = x + 1",
+      "C": "y = x",
+      "D": "y = \\(\\frac{1}{2}x + 1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36565?exam_type=waec&type=obj&page=220",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1098",
+    "text": "What is the value of x when y = 5?\ny = \\(\\frac{1}{2}\\)\u00a0\u00a0x + 1",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36584?exam_type=waec&type=obj&page=220",
+    "correct_answer": "A",
+    "explanation": "when y = 5; x = ?; y = \\(\\frac{1}{2}\\)x + 15 = \\(\\frac{1}{2}\\)x + 15 - 1 = \\(\\frac{1}{2}\\)x4 = \\(\\frac{1}{2}\\)xx = 4 x 2x = 8",
+    "year": "2010"
+  },
+  {
+    "number": "1099",
+    "text": "The subtraction below is in base seven. Find the missing number.\n 5 1 6 2seven\n-2 6 4 4seven\n--------\n 2 * 1 5\n--------",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36585?exam_type=waec&type=obj&page=220",
+    "correct_answer": "A",
+    "explanation": "seven\nseven",
+    "year": "2010"
+  },
+  {
+    "number": "1100",
+    "text": "If the sum of the roots of the equation (x - p)(2x +\u00a01) =\u00a00 is 1, find the value of x",
+    "options": {
+      "A": "1\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "-\\(\\frac{3}{2}\\)",
+      "D": "-1\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36587?exam_type=waec&type=obj&page=220",
+    "correct_answer": "A",
+    "explanation": "(x - p)(2x + 1) = 02x2 + x - 2px - p = 02x2 + x (1 - 2p) - p = 02x2 - (2p - 1)x - p = 0divide through by 2x2 - \\(\\frac{(2p - 1)}{2}\\)x - \\(\\frac{p}{2}\\) = 0compare to x2 - (sum of roots)x + product of roots = 0sum of roots = \\(\\frac{2p - 1}{2}\\)But sum of roots = 1Given; \\(\\frac{2p - 1}{2}\\) = 12p - 1 = 2 x 12p - 1 = 22p = 2 + 1 = 3p = \\(\\frac{3}{2}\\)p = 1\\(\\frac{1}{2}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "1101",
+    "text": "If x2 + kx + \\(\\frac{16}{9}\\) is a perfect square, find the value of k",
+    "options": {
+      "A": "\\(\\frac{8}{3}\\)",
+      "B": "\\(\\frac{7}{3}\\)",
+      "C": "\\(\\frac{5}{3}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36591?exam_type=waec&type=obj&page=221",
+    "correct_answer": "A",
+    "explanation": "x2 + kx + \\(\\frac{16}{9}\\); Perfect squareBut, b2 - 4ac = 0, for a perfect squarewhere a - 1; b = k; c = \\(\\frac{16}{9}\\)k2 - 4(1) x \\(\\frac{16}{9}\\) = 0k2 - \\(\\frac{64}{9}\\) = 0k2 = \\(\\frac{64}{9}\\)k = \\(\\sqrt{\\frac{64}{9}}\\)k = \\(\\frac{8}{3}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "1102",
+    "text": "If x km/h = y m/s, then y =",
+    "options": {
+      "A": "\\(\\frac{7}{18}\\)x",
+      "B": "\\(\\frac{11}{20}\\)x",
+      "C": "\\(\\frac{4}{15}\\)x",
+      "D": "\\(\\frac{5}{18}\\)x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36592?exam_type=waec&type=obj&page=221",
+    "correct_answer": "D",
+    "explanation": "-1\n-1\n-1\n-1\n-1\n-1\n-1",
+    "year": "2010"
+  },
+  {
+    "number": "1103",
+    "text": "The mean of the numbers 2, 5, 2x and 7 is less than or equal to 5. Find the range of the values of x",
+    "options": {
+      "A": "x \\(\\leq\\) 3",
+      "B": "x \\(\\geq\\) 3",
+      "C": "x < 3",
+      "D": "x > 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36594?exam_type=waec&type=obj&page=221",
+    "correct_answer": "A",
+    "explanation": "mean \\(\\leq\\) 5; \\(\\frac{2 + 5 + 2x + 7}{4}\\) \\(\\leq\\) 5= \\(\\frac{14 + 2x}{4} \\leq 5\\)= 14 + 2x \\(\\leq\\) 5 x 414 + 2x \\(\\leq\\) 20 ; 2x \\(\\leq\\) 20 - 142x \\(\\leq\\) 20 - 142x \\(\\leq\\) 6x \\(\\leq\\) \\(\\frac{6}{2}\\)x \\(\\leq\\) 3",
+    "year": "2010"
+  },
+  {
+    "number": "1104",
+    "text": "In an athletic composition, the probability that an athlete wins a 100m race is \\(\\frac{1}{8}\\) and the probability that he wins in high jump is \\(\\frac{1}{4}\\). What is the probability that he wins only one of the events?",
+    "options": {
+      "A": "\\(\\frac{3}{32}\\)",
+      "B": "\\(\\frac{7}{3}\\)",
+      "C": "\\(\\frac{5}{3}\\)",
+      "D": "\\(\\frac{5}{16}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36595?exam_type=waec&type=obj&page=221",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1105",
+    "text": "In the diagram, < PSR = 220o, < SPQ = 58o and < PQR = 41o. Calculate the obtuse angle QRS.",
+    "options": {
+      "A": "90o",
+      "B": "100o",
+      "C": "121o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36598?exam_type=waec&type=obj&page=221",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1106",
+    "text": "The bar chart shows the marks distribution in am English test. If 50% is the pass mark, how many students passed the test?",
+    "options": {
+      "A": "100",
+      "B": "85",
+      "C": "80",
+      "D": "70"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36599?exam_type=waec&type=obj&page=222",
+    "correct_answer": "B",
+    "explanation": "Pass mark = 50%No. of students that passed = f50 + f65 + f80= 45 + 25 + 15= 85",
+    "year": "2010"
+  },
+  {
+    "number": "1107",
+    "text": "The bar chart shows the marks distribution in am English test. What percentage of the students had marks ranging from 35 to 50?",
+    "options": {
+      "A": "55\\(\\frac{1}{3}\\)%",
+      "B": "60%",
+      "C": "65%",
+      "D": "66\\(\\frac{2}{3}\\)%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36600?exam_type=waec&type=obj&page=222",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1108",
+    "text": "What is the value of m in the diagram?",
+    "options": {
+      "A": "20o",
+      "B": "30o",
+      "C": "40o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36601?exam_type=waec&type=obj&page=222",
+    "correct_answer": "B",
+    "explanation": "o\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1109",
+    "text": "In the diagram, QR//ST, /PQ/ = /PR/ and < PST = 75o. Find the value of y",
+    "options": {
+      "A": "105o",
+      "B": "110o",
+      "C": "130o",
+      "D": "150o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36602?exam_type=waec&type=obj&page=222",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1110",
+    "text": "In the diagram, triangles HKL and HIJ are similar. Which of the following ratios is equal to \\(\\frac{LH}{JH}\\)",
+    "options": {
+      "A": "\\(\\frac{KL}{JI}\\)",
+      "B": "\\(\\frac{HK}{JK}\\)",
+      "C": "\\(\\frac{JI}{KL}\\)",
+      "D": "\\(\\frac{HK}{LK}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36603?exam_type=waec&type=obj&page=222",
+    "correct_answer": "A",
+    "explanation": "o",
+    "year": "2010"
+  },
+  {
+    "number": "1111",
+    "text": "In the diagram, < ROS = 66o and < POQ = 3x. some construction lines are shown. Calculate the value of x.",
+    "options": {
+      "A": "10o",
+      "B": "11o",
+      "C": "22o",
+      "D": "35o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36605?exam_type=waec&type=obj&page=223",
+    "correct_answer": "B",
+    "explanation": "o\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1112",
+    "text": "In the diagram, the tangent MN makes an angle of 55o with the chord PS. IF O is the centre of the circle, find < RPS",
+    "options": {
+      "A": "55o",
+      "B": "45o",
+      "C": "35o",
+      "D": "25o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36606?exam_type=waec&type=obj&page=223",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1113",
+    "text": "In the diagram, O is the centre of the circle, < SQR = 60o, < SPR = y and < SOR = 3x. Find the value of (x + y)",
+    "options": {
+      "A": "110o",
+      "B": "100o",
+      "C": "80o",
+      "D": "70o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36607?exam_type=waec&type=obj&page=223",
+    "correct_answer": "B",
+    "explanation": "o\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1114",
+    "text": "The shaded portion in the diagram is the solution of",
+    "options": {
+      "A": "x + y \\(\\leq\\) 3",
+      "B": "x + y < 3",
+      "C": "x + y > 3",
+      "D": "x + y \\(\\geq\\) 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36608?exam_type=waec&type=obj&page=223",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "1115",
+    "text": "In the diagram, GI is a tangent to the circle at H. If EF//GI, calculate the size of < EHF",
+    "options": {
+      "A": "126o",
+      "B": "72o",
+      "C": "64cmo",
+      "D": "32cmo"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36610?exam_type=waec&type=obj&page=223",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1116",
+    "text": "The diagram is a net right rectangular pyramid. Calculate the total surface area",
+    "options": {
+      "A": "208cm2",
+      "B": "112cm2",
+      "C": "92cm2",
+      "D": "76cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36619?exam_type=waec&type=obj&page=224",
+    "correct_answer": "C",
+    "explanation": "2",
+    "year": "2010"
+  },
+  {
+    "number": "1117",
+    "text": "The diagram shows a rectangular cardboard from which a semi-circle is cut off. Calculate the area of the remaining part",
+    "options": {
+      "A": "44cm2",
+      "B": "99cm2",
+      "C": "154cm2",
+      "D": "165cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36620?exam_type=waec&type=obj&page=224",
+    "correct_answer": "B",
+    "explanation": "Area of remaining = Area of the rectangle -\u00a0Area of the\u00a0semi-circle22 x 8 - \\(\\frac{1}{2}\\)x \u03c0r\\(^2\\)Here r =\u00a0\\(\\frac{14}{2}\\)cm = 7cmArea of remaining = 176 - \\(\\frac{1}{2}\\) x \\(\\frac{22}{7}\\) x 7 x 7= 176 - 77= 99cm\\(^2\\)",
+    "year": "2010"
+  },
+  {
+    "number": "1118",
+    "text": "In the diagram, 0 is the centre of the circle. Find the value x",
+    "options": {
+      "A": "34",
+      "B": "29",
+      "C": "17",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36621?exam_type=waec&type=obj&page=224",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\no\no\no\no",
+    "year": "2010"
+  },
+  {
+    "number": "1119",
+    "text": "In the diagram, < WOX = 60o, < YOE = 50o and < OXY = 30o. What is the bearing of x from y?",
+    "options": {
+      "A": "300o",
+      "B": "240o",
+      "C": "190o",
+      "D": "150o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36623?exam_type=waec&type=obj&page=224",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2010"
+  }
+]

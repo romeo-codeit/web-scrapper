@@ -1,0 +1,560 @@
+[
+  {
+    "number": "2042",
+    "text": "The electronic configuration of an element is 1S\\(^2\\)\u00a02S\\(^2\\)\u00a02P\\(^6\\)\u00a03S\\(^2\\)\u00a03P\\(^3\\). How many unpaired electrons are there in the element?",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56633?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "C",
+    "explanation": "Once you figure out the electron configuration, you fill up the corresponding orbitals with electrons, any left with one is considered unpaired. Since 1s can only hold 2 electrons, and P has 15, that's obviously filled and has no unpaired electrons. The same is for 2s which holds 2, 2p which holds 6, 3s which holds 2.However 3p can hold 6 electrons and in order for that to be filled up you would need to have an element of 18 electrons. So you fill up as much as you can in 3p by first adding 1 electron to each energy level. 3p has 3 energy levels and there are only 3 electrons left to distribute, so each of those energy levels only gets 1, because you have to fill them all with one before you can start adding a second.So since you are only able to fill one electron in each of the three energy levels of the 3p orbital, that leaves the orbital open for 1 more electron in each of its energy levels. So there are 3 unpaired electrons in P.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2043",
+    "text": "Which of the following can be obtained by fractional distillation?",
+    "options": {
+      "A": "Nitrogen from liquid air",
+      "B": "Sodium Chloride from sea water",
+      "C": "Iodine from solution of Iodine in carbon tetrachloride",
+      "D": "Sulphur from the solution of sulphur in carbon disulphide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56634?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "A",
+    "explanation": "Fractional distillation\u00a0is used to separate mixtures into its component parts or fractions with the difference in boiling points between successive fractions must be more than 10\u00b0C. An example is theliquidnitrogen and oxygen are then separated byfractional distillation.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2044",
+    "text": "Duralumin consists of aluminum, copper?",
+    "options": {
+      "A": "Zinc and Gold",
+      "B": "Lead and Manganese",
+      "C": "Nickel and Silver",
+      "D": "Manganese and Magnesium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56642?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "D",
+    "explanation": "Duraluminis an alloy made up of 90% aluminum, 4% copper, 0.51% magnesium, and less than 1% manganese.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2045",
+    "text": "An example of a polysaccharide is?",
+    "options": {
+      "A": "Dextrose",
+      "B": "Mannose",
+      "C": "Glucose",
+      "D": "Starch"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56648?exam_type=jamb&type=obj&page=409",
+    "correct_answer": "D",
+    "explanation": "Polysaccharides are long chains of monosaccharides linked by glycosidic bonds. Three important polysaccharides,starch,glycogen, andcellulose, are composed ofglucose.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2046",
+    "text": "8g of CH\\(_4\\) occupies 11.2 at S.T.P. What volume would 22g of CH\\(_3\\)CH\\(_2\\)CH\\(_3\\)\u00a0occupy under the same condition?",
+    "options": {
+      "A": "3.7dm\\(^3\\)",
+      "B": "11.2dm\\(^3\\)",
+      "C": "22.4dm\\(^3\\)",
+      "D": "33dm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56699?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "B",
+    "explanation": "Molar mass of methane = 16g/mol\nAt S.T.P.\u00a0 \u00a0 \u00a0 \u00a0its 8g occupies 11.2\nso 16g occupies 22.4 dm\\(^3\\)\nMolar mass of propane = 44g/mol\\(^-1\\) occupies 22.4dm\\(^3\\) at S.T.P\nso 22g will occupy 11.2dm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2047",
+    "text": "The best treatment for a student who accidentally poured conc tetraoxosulphate(vi) on his skin in the laboratory is to wash his skin with?",
+    "options": {
+      "A": "with cool running water",
+      "B": "sodium hydroxide solution",
+      "C": "iodine solution",
+      "D": "sodium trioxonitrate(v) solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56715?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "A",
+    "explanation": "Sulfuric acidis flushed with a mild, soapy solution if the burns are not severe. Sulfuric acid feels hot when water is added to the acid, but it is better to flush the area and not leave the acid on the skin.Don't try to neutralize the burn with acid or alkali. This could cause a chemical reaction that worsens the burn.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2048",
+    "text": "Which of the gas laws does this graph illustrate?",
+    "options": {
+      "A": "Boyle",
+      "B": "Charles",
+      "C": "Gay-Lussac",
+      "D": "Graham"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56725?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "B",
+    "explanation": "Charles' law describes the effect of\u00a0temperature changes on the volume of a given mass of gas at a constant pressure.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2049",
+    "text": "What are the possible oxidation numbers of an element if its atomic number is 17?",
+    "options": {
+      "A": "-1 and 7",
+      "B": "-1 and 6",
+      "C": "-3 and 5",
+      "D": "-2 and 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56729?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "A",
+    "explanation": "The element with atomic number 17 is Chlorine with a valency of -1, that is it needs to receive an electron or possibly lose seven electrons to obey the octet rule.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2050",
+    "text": "What process would coal undergo to give coal gas, coal tar, ammoniacal liquor and coke?",
+    "options": {
+      "A": "Steam distillation",
+      "B": "Destructive distillation",
+      "C": "Liquefication",
+      "D": "Hydrolysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56733?exam_type=jamb&type=obj&page=410",
+    "correct_answer": "B",
+    "explanation": "Destructive distillationof a tonne ofcoalcan produce 700 kg of coke, 100 liters of liquor ammonia, 50 liters ofcoaltar and 400 M\\(^3\\) ofcoalgas\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2051",
+    "text": "Liquid black soap is made by boiling palm oil with liquid extract of ash. The function of the ash is to provide the ?",
+    "options": {
+      "A": "Acid",
+      "B": "Ester of alkanoic acid",
+      "C": "Alkanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56736?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "C",
+    "explanation": "Alyeis a metal hydroxide traditionally obtained by leaching wood ashes, or a strong alkali which is highly soluble in water producing caustic basic solutions / an alkaline solution that isusedto make soaps. \"Lye\" most commonly refers to sodium hydroxide (NaOH), but historically has been used for potassium hydroxide (KOH).\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2052",
+    "text": "When water drops are added to calcium carbide in a container and the gas produced is passed through a jet and lighted, the resultant flame is called an?",
+    "options": {
+      "A": "Oxyethene",
+      "B": "Oxyhydrocarbon flame",
+      "C": "Oxyacetylene flame",
+      "D": "Oxymethane flame"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56738?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "C",
+    "explanation": "Thereactionofcalcium carbidewithwater, producingacetyleneandcalcium hydroxide, was discovered by Friedrich W\u00f6hler in 1862. Thisreactionwas the basis of the industrial manufacture ofacetylene, and is the major industrial use ofcalcium carbide.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2053",
+    "text": "Which of the following substances is a mixture?",
+    "options": {
+      "A": "Granulated sugar",
+      "B": "Seawater",
+      "C": "Sodium chloride",
+      "D": "Iron filling"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56744?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "B",
+    "explanation": "A Mixture contains two or more constituents which can be easily separated by physical methods. Examples include Air, Soil, Palm oil, Sea water, Blood, Crude oil, etc\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2054",
+    "text": "If the quantity of oxygen occupying 2.76L container at a pressure of 0.825 atm and 300k is reduced by one-half, what is the pressure exerted by the remaining gas?",
+    "options": {
+      "A": "1.650atm",
+      "B": "0.825atm",
+      "C": "0.413atm",
+      "D": "0.275atm"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56752?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "A",
+    "explanation": "Using the combined gas law formula,\nGiven that P\\(_1\\) = 0.825,\u00a0 \u00a0V\\(_1\\) = 2.76 L, V\\(_2\\) = 1.38 L, P\\(_2\\) = ?\nAnd T1 = T2; we would have P\\(_2\\) = [ P\\(_1\\) X V\\(_1\\) ]\u00a0\u00f7 V\\(_2\\)\n: [0.825 X 2.76]\u00a0\u00a0\u00f7 1.38\n= 1.650atm\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2055",
+    "text": "Four elements P, Q, R and S have atomic numbers of 4, 10, 12 and 14 respectively. Which of these elements is noble gas?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56753?exam_type=jamb&type=obj&page=411",
+    "correct_answer": "B",
+    "explanation": "They are the most stable due to having the maximum number of valence electrons their outer shell can hold. Therefore, they rarely react with other elements since they are already stable.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2056",
+    "text": "The products of the thermal decomposition of ammonium trioxonitrate(v) are?",
+    "options": {
+      "A": "Nitrogen (I) Oxide and Water",
+      "B": "Ammonia and Oxide",
+      "C": "Nitrogen and Water",
+      "D": "Nitrogen (IV) Oxide and Water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56754?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "A",
+    "explanation": "NH\\(_4\\)NO\\(_3\\)\u00a0Ammonium Trioxonitrate(V) , unlike all other metallic trioxonitrates(v), decomposes on heating to give nitrogen(i)oxide\u00a0N\\(_2\\)O and water.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2057",
+    "text": "How many valence electrons are contained in the element \\(^{31}_{15}P\\)?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "15",
+      "D": "31"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56759?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "A",
+    "explanation": "The element is Phosphorus in group 5 with valencies of 3 and 5.\nThe electronic configuration of phosphorus is 2,8,5. Hence it has two valencies of +5 and -3. Since we do not have 5 in the options provided, the valency is 3.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2058",
+    "text": "The number of molecules of Carbon(iv)Oxide produced when 10.0g of CaCO\\(_3\\) is treated with 0.2dm\\(^3\\) of 1 Mole of HCL in the equation\nCaCO\\(_3\\) + 2HCL\u00a0\u21d2\u00a0\u00a0CaCl\\(_2\\) \u00a0+ H\\(_2\\) O + CO\\(_2\\) \u00a0, is?",
+    "options": {
+      "A": "1.00 X 10\\(^{23}\\)",
+      "B": "6.02 X 10\\(^{23}\\)",
+      "C": "6.02 X 10\\(^{22}\\)",
+      "D": "6.02 X 10\\(^{24}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56769?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "C",
+    "explanation": "1 mole of CaCO\\(_3\\) = 100g or\u00a0\u00a06.02 X 10\\(^{23}\\)\nliberated 1 mole of\u00a0CO\\(_2\\) or 44g or\u00a06.02 X 10\\(^{23}\\)\n:100g =\u00a0 6.02 X 10\\(^{23}\\)\n10g of\u00a0CaCO\\(_3\\) = x\ncross multiply\n[10g X\u00a06.02 X 10\\(^{23}\\)] / 100g = x\n\u21d2 x =\u00a06.02 X 10\\(^{22}\\)\nSince\n6.02 X 10\\(^{23}\\) of CaCO\\(_3\\)\u00a0liberated\u00a06.02 X 10\\(^{23}\\) of\u00a0CO\\(_2\\)\n\u21d2\u00a06.02 X 10\\(^{22}\\) of CaCO\\(_3\\) will liberate 6.02 X 10\\(^{22}\\) of\u00a0CO\\(_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2059",
+    "text": "The volume occupied by 1.58g of a gas at S.T.P is 500cm\\(^3\\). What is\u00a0the relative molecular mass of the gas?\u00a0 [ G.M.V at S.T.P = 22.4dm\\(^{3}\\) ]",
+    "options": {
+      "A": "28",
+      "B": "32",
+      "C": "44",
+      "D": "71"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56771?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "D",
+    "explanation": "500cm\\(^3\\) of the gas weighed 1.58\n: 22400cm\\(^3\\) of the gas weight\n[22400 X 1.58g]\u00a0\u00f7 [ 500 ]\n= 71\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2060",
+    "text": "Which of the following gases will rekindle a brightly splint?",
+    "options": {
+      "B": "NO",
+      "C": "N\\(_2\\)O",
+      "D": "CL\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56772?exam_type=jamb&type=obj&page=412",
+    "correct_answer": "C",
+    "explanation": "Nitrogen(I)Oxide rekindles a brightly glowing splinter but extinguishes a feebly glowing one which is not hot enough to decompose the gas to liberate oxygen\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2061",
+    "text": "The shape of ammonia molecule is?",
+    "options": {
+      "A": "Trigonal planar",
+      "B": "Octahedral",
+      "C": "Square planar",
+      "D": "Tetrahedral"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56774?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "A",
+    "explanation": "The ammonia molecule has atrigonal pyramidalshape with the three hydrogen atoms and an unsharedpair of electronsattached to the nitrogen atom.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2062",
+    "text": "A few drop of conc HCL are added to about 10cm\\(^3\\) of a solution of PH 3.4. The PH of the resulting mixture is?",
+    "options": {
+      "A": "less than 3.4",
+      "B": "greater than 3.4",
+      "C": "unaltered",
+      "D": "the same as that of the pure water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56781?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "A",
+    "explanation": "The addition of conc HCL makes the solution more acidic and the solution falls below the original value\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2063",
+    "text": "Chromatography is used to separate components of mixture which differ in their rates of ?",
+    "options": {
+      "A": "diffusion",
+      "B": "migration",
+      "C": "reaction",
+      "D": "sedimentation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56784?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "B",
+    "explanation": "Chromatographyis a method of separating mixtures by using a moving solvent on filterpaper.\nThe rate at which each solute moves up the paper depends on how strongly it is absorbed by the paper, and how soluble it is in the solvent.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2064",
+    "text": "Deliquescent substances are also?",
+    "options": {
+      "A": "efflorescent",
+      "B": "anhydrous",
+      "C": "hygroscopic",
+      "D": "insoluble"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56787?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "C",
+    "explanation": "Deliquescence, the process by which a substance absorbs moisture from the atmosphere until it dissolves in the absorbed water and forms a solution. Deliquescence occurs when the vapour pressure of the solution that is formed is less than the partial pressure of water vapour in the air.\u00a0A particular example ofhygroscopic behavioris deliquescence which is exhibited by many water-soluble solids, including inorganic salts (e.g., calcium chloride).\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2065",
+    "text": "Helium is used in observation of ballons because it is?",
+    "options": {
+      "A": "Light and combustible",
+      "B": "light and non-combustible",
+      "C": "heavy and combustible",
+      "D": "heavy and non-combustible"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56791?exam_type=jamb&type=obj&page=413",
+    "correct_answer": "B",
+    "explanation": "Heliumfloats because it is buoyant; its molecules are lighter than the nitrogen and oxygen molecules of ouratmosphereand so they rise above it\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2066",
+    "text": "32g of anhydrous copper(ii)tetraoxosulphate(vi) dissolved in 1dm\\(^3\\) of water generated 13.0kj of heat. The heat solution is?",
+    "options": {
+      "A": "26.0kj/mol",
+      "B": "65.0kj/mol",
+      "C": "130.0kj/mol",
+      "D": "260.0kj/mol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56798?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "B",
+    "explanation": "32g of CUSO\\(_4\\) liberate 13.0kj of heat\nMolar mass of CUSO\\(_4\\) = 160g\nNo. of moles of\u00a0CUSO\\(_4\\) \u00a0= 32g\nNo. of moles = 32(mass) / 160(molar mass)\n= 0.2 moles\ni.e 0.2 = 13kj\n1 moles = xkj\n: 65KJ\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2067",
+    "text": "A gaseous metallic chloride MCl consists of 20.22% of M by mass. The formula of the chloride is?\n[ M = 27, Cl = 35.5]",
+    "options": {
+      "A": "MCl",
+      "B": "MCl\\(_2\\)",
+      "C": "MCl\\(_3\\)",
+      "D": "M\\(_2\\)Cl\\(_6\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56803?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "C",
+    "explanation": "MCl% composition20.2279.78Atomic mass2735.5Mole ratio20.2279.782735.50.752.25Divided0.750.7513\nThe formula of the Chloride = MCl\\(_3\\)\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2068",
+    "text": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?",
+    "options": {
+      "A": "24,125 C",
+      "B": "48,250 C",
+      "C": "72,375 C",
+      "D": "96,500 C"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56811?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "B",
+    "explanation": "4OH \u21d2 2H\\(_2\\)O + O\\(_2\\) + 4e-\nFrom the equation:\n1 mole of Oxygen requires 4e\ni.e\u00a01 mole of Oxygen requires 4F,\nwhere 1F = 96,500 C\n[ 4 X 96,500 X 0.125 ]\u00a0\u00f7 1\n= 48,250 C\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2069",
+    "text": "Which of the following types of bonding does not involve the formation of new substances?",
+    "options": {
+      "A": "Metallic",
+      "B": "Covalent",
+      "C": "Co-ordinate",
+      "D": "Electrovalent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56812?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "A",
+    "explanation": "metallic bond does not involve the formation of a new substance. It\u00a0is responsible for several characteristic properties of metals such as their shiny lustre, their malleability, and their conductivities for heat and electricity\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2070",
+    "text": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be?",
+    "options": {
+      "A": "Alkene",
+      "B": "Alkanal",
+      "C": "Alkanone",
+      "D": "Alkanoic Acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56813?exam_type=jamb&type=obj&page=414",
+    "correct_answer": "A",
+    "explanation": "alkanone & alkanal react with HCN to form compounds known as cyanohyderins. They also react with hydroxylamine to form oximes.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2071",
+    "text": "The substance often used for vulcanization of rubber is?",
+    "options": {
+      "A": "Chlorine",
+      "B": "Hydrogen peroxide",
+      "C": "Sulphur",
+      "D": "Tetraoxosulphate(vi) acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56814?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "One of the several\u00a0uses of sulfur\u00a0is for the vulcanization of rubber.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2072",
+    "text": "The chlorinated alkane often used industrially to remove grease is?",
+    "options": {
+      "A": "Tetrachloromethane",
+      "B": "Chloromethane",
+      "C": "Trichloromethane",
+      "D": "Dichloromethane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56815?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "A",
+    "explanation": "Tetrachloromethane\u00a0( carbon tetrachloride)is an effective solvent within the chemical industry and isusedto clean machinery and electrical equipment.\nI.e as a solvent for oils, fats, lacquers, varnishes,rubberwaxes, and resins, and as a grain fumigant.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2073",
+    "text": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen?",
+    "options": {
+      "A": "8.0g",
+      "B": "16.0g",
+      "C": "36.0g",
+      "D": "72.0g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56816?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "D",
+    "explanation": "2H\\(_2\\) + O\\(_2\\)\u00a0\u00a0\u21d2 2H\\(_2\\)O\nFrom the equation:\n4g of Hydrogen produces 36g of water\n: 8g of Hydrogen will produce 72g of water\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2074",
+    "text": "Proteins in acid solution undergo?",
+    "options": {
+      "A": "Substitution",
+      "B": "Fermentation",
+      "C": "Hydrolysis",
+      "D": "Polymerisation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56817?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "C",
+    "explanation": "Acidhydrolysis refers to a hydrolysisreactionoccurring underacidicconditions.Acidhydrolysis of aproteinbreaks the polymer down into its constituent aminoacids.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2075",
+    "text": "The general formula for the\u00a0Alkanals is?",
+    "options": {
+      "A": "R\\(_2\\)CO",
+      "B": "RCHO",
+      "C": "ROH",
+      "D": "RCOOR"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56818?exam_type=jamb&type=obj&page=415",
+    "correct_answer": "B",
+    "explanation": "Alkanals or Aldehydes have the general formula RCHO while Alkanones or Ketones have the general formula RCOR'.\nWhere R and R' may be alkyl or aryl groups.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2076",
+    "text": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes?",
+    "options": {
+      "A": "Bipolar",
+      "B": "Negatively charged",
+      "C": "Positively charged",
+      "D": "Neutral"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56819?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "B",
+    "explanation": "When these cathode rays are deflected onto an electrode of an electrometer, the instrument measured a negative charge. The rays tested also were deflected by application of an electric field.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2077",
+    "text": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone?",
+    "options": {
+      "A": "Sublimation",
+      "B": "Crystallization",
+      "C": "Distillation",
+      "D": "Evaporation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56820?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "A",
+    "explanation": "Sublimationis the transition of a substance directly from thesolidto the gas state, without passing through the liquid state.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2078",
+    "text": "An electron can be added to a halogen atom to form a halide ion with?",
+    "options": {
+      "A": "8 valence electrons",
+      "B": "7 valence electrons",
+      "C": "2 valence electrons",
+      "D": "3 valence electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56821?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "A",
+    "explanation": "Ahalide ionis a halogen atom bearing a negative charge (which is an anion with achargeof -1). Thehalideanions are fluoride (F\u2212), chloride (Cl\u2212), bromide (Br\u2212), iodide (I\u2212) and astatide (At\u2212).\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2079",
+    "text": "Aluminum hydroxide is used in the dyeing industry as a?",
+    "options": {
+      "A": "Dye",
+      "B": "Dispersant",
+      "C": "Salt",
+      "D": "Mordant"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56822?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "D",
+    "explanation": "Aluminum hydroxideis alsousedas a mordant in dyeing.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2080",
+    "text": "The most important element on the earth's crust is?",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Hydrogen",
+      "C": "Oxygen",
+      "D": "Fluorine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56823?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "C",
+    "explanation": "Oxygen,O2, is by far the most abundant element in earth's crust at 46.6 percent, nearly half of the mass of the crust.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  },
+  {
+    "number": "2081",
+    "text": "To obtain pure carbon(ii)oxide from its mixture with carbon(iv)oxide, the mixture should be?",
+    "options": {
+      "A": "Passed over heated copper(ii)oxide",
+      "B": "Bubbled through water",
+      "C": "Bubbled through conc H\\(_2\\)SO\\(_4\\)",
+      "D": "Bubbled through conc NAOH"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/56824?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "D",
+    "explanation": "Carbon(ii)oxide is prepared from carbon(iv)oxide by passing the latter through red-hot carbon and the unchanged CO\\(_2\\) is removed when the mixture of the gases through conc NaOH.\nThere is an explanation video availablebelow.",
+    "year": "2020"
+  }
+]

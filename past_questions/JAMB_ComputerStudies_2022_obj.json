@@ -1,0 +1,2228 @@
+[
+  {
+    "number": "1",
+    "text": "A word processor can be used to",
+    "options": {
+      "A": "write text",
+      "B": "edit text",
+      "C": "print text",
+      "D": "all of these"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64088?exam_type=jamb&type=obj",
+    "correct_answer": "D",
+    "explanation": "word processor (WP) is a device or computer program that provides for input, editing, formatting, and output of text, often with some additional features. ... The functions of a word processor program fall somewhere between those of a simple text editor and a fully functioned desktop publishing program.",
+    "year": "2022"
+  },
+  {
+    "number": "2",
+    "text": "Which of these application packages is mostly used by computer users?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Ms Access",
+      "C": "Ms Excel",
+      "D": "Ms Word"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64089?exam_type=jamb&type=obj",
+    "correct_answer": "D",
+    "explanation": "Ms Word is an application package mostly used by computer users.",
+    "year": "2022"
+  },
+  {
+    "number": "3",
+    "text": "The function of an assembler is to _________",
+    "options": {
+      "A": "convert basic language to machine language",
+      "B": "convert high level language to machine language",
+      "C": "convert assembly language to machine language",
+      "D": "convert assembly language into high level language"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64090?exam_type=jamb&type=obj",
+    "correct_answer": "C",
+    "explanation": "Assembler convert assembly language to machine language for the computer to operate with",
+    "year": "2022"
+  },
+  {
+    "number": "4",
+    "text": "A computer can't boot if it does not have ____________",
+    "options": {
+      "A": "compiler",
+      "B": "Loader",
+      "C": "OS",
+      "D": "Assembler"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64091?exam_type=jamb&type=obj",
+    "correct_answer": "C",
+    "explanation": "The Operating system is responsible for the running of the computer. Hence, in its absence, its impossible for the computer to boot.",
+    "year": "2022"
+  },
+  {
+    "number": "5",
+    "text": "Fire fox is an example of __________",
+    "options": {
+      "A": "System software",
+      "B": "Application package",
+      "C": "Application software",
+      "D": "Computer tools."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64092?exam_type=jamb&type=obj",
+    "correct_answer": "C",
+    "explanation": "Fire fox is an application software, because it is not an operating system, hence it can't be classified as a system software because it doesn't contribute to the running of the computer system.",
+    "year": "2022"
+  },
+  {
+    "number": "6",
+    "text": "The Caps key on a keyboard is used to___________",
+    "options": {
+      "A": "move to previous page",
+      "B": "Delete files",
+      "C": "Switch between upper and lower case letters",
+      "D": "Space texts"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64093?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "Caps Lock is a key on a computer keyboard that allows users to generate letters in uppercase once activated, as in \"SAMPLE,\" without holding down the Shift key. It is a toggle key and can be found on the left side of a computer keyboard below the Tab key.",
+    "year": "2022"
+  },
+  {
+    "number": "7",
+    "text": "Which key deletes text?",
+    "options": {
+      "A": "Arrow keys",
+      "B": "enter key",
+      "C": "backspace key",
+      "D": "esc key"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64094?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "The backspace key is used to delete text, alphabets, etc.",
+    "year": "2022"
+  },
+  {
+    "number": "8",
+    "text": "From where can the name of a user account be changed?",
+    "options": {
+      "A": "Setting",
+      "B": "Computer name",
+      "C": "Code panel",
+      "D": "Control panel"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64095?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "Control panel. It is a component of microsoft Windows that provides the ability to view and change system settings. It consists of a set of applets that include adding or removing hardware and software, controlling user accounts, changing accessibility options and accessing networking settings.",
+    "year": "2022"
+  },
+  {
+    "number": "9",
+    "text": "For what does WAN stand?",
+    "options": {
+      "A": "World application network",
+      "B": "Wide area network",
+      "C": "Wide acreage network",
+      "D": "Work arrangement network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64096?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "In its simplest form, a wide-area network (WAN) is a collection of local-area networks (LANs) or other networks that communicate with one another. A WAN is essentially a network of networks, with the Internet the world's largest WAN",
+    "year": "2022"
+  },
+  {
+    "number": "10",
+    "text": "The acronym IP address has its full meaning to be _________",
+    "options": {
+      "A": "Internet protocol",
+      "B": "Internet password",
+      "C": "International processing",
+      "D": "Internet processing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64097?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "Internet protocol is the full meaning of the acronym IP.",
+    "year": "2022"
+  },
+  {
+    "number": "11",
+    "text": "Which doesn't belong to the group?",
+    "options": {
+      "A": "Primary memory",
+      "B": "Main memory",
+      "C": "External memory",
+      "D": "Internal memory"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64098?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "External memory doesn't belong to the group because it is a type of memory that can be detached from the computer,\u00a0unlike the other three options that can't be detached from the computer system because they are inbuilt.",
+    "year": "2022"
+  },
+  {
+    "number": "12",
+    "text": "Storage which retains data after power cut off is called.",
+    "options": {
+      "A": "Volatile storage",
+      "B": "Non-volatile storage",
+      "C": "Sequential storage",
+      "D": "Direct storage"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64099?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "B",
+    "explanation": "Non volatile storage retains data after power is off because, Non volatile storage is a broad collection of technologies and devices that do not require a continuous power supply to retain data or program code persistently on a short or long term basis.",
+    "year": "2022"
+  },
+  {
+    "number": "13",
+    "text": "An inventory management program can assist with ________",
+    "options": {
+      "A": "distribution",
+      "B": "purchasing",
+      "C": "planning",
+      "D": "all of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64100?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "All of the above.",
+    "year": "2022"
+  },
+  {
+    "number": "14",
+    "text": "In any software package, which of the following versions represents a major improvement on the previous version?",
+    "options": {
+      "A": "1.0",
+      "B": "1.5",
+      "C": "2.0",
+      "D": "2.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64101?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "Windows 2.0 allowed application windows to overlap each other, unlike its predecessor Windows 1.0, which could display only tiled windows. Windows 2.0 also introduced more sophisticated keyboard-shortcuts and the terminology of \"Minimize\" and \"Maximize\", as opposed to \"Iconize\" and \"Zoom\" in Windows 1.0. It was also the last version of Windows that did not require a hard disk.With the improved speed, reliability and usability, computers now started becoming a part of daily life for some workers. Desktop icons and use of keyboard shortcuts helped to speed up work",
+    "year": "2022"
+  },
+  {
+    "number": "15",
+    "text": "Encryption helps with what?",
+    "options": {
+      "A": "Spam messages",
+      "B": "identify source of message",
+      "C": "Safe delivery of messages to destination without being accessed by a third party",
+      "D": "interpretation of message and digital data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64102?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "Encryption deals with the safe transfer of data of information from its source to its destinations, without a third party having access to the information or data being transferred.",
+    "year": "2022"
+  },
+  {
+    "number": "16",
+    "text": "CRACKING comes under ___________",
+    "options": {
+      "A": "website service",
+      "B": "transcription",
+      "C": "computer crime",
+      "D": "data security"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64103?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "Computer crime. It is the use of a computer as an instrument to further illegal ends. Such as committing fraud, trafficking in child pornography, cracking etc.",
+    "year": "2022"
+  },
+  {
+    "number": "17",
+    "text": "In the files, if order of operation on two or more files are similar, then operation will be",
+    "options": {
+      "A": "complex",
+      "B": "simple",
+      "C": "sequential",
+      "D": "combinational"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64104?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "If the order of operation on two or more files is similar, then the operation will be sequential. Sequential operation means that the files will be processed one after the other in the same order as specified.",
+    "year": "2022"
+  },
+  {
+    "number": "18",
+    "text": "What is a computer file.",
+    "options": {
+      "A": "A computer program",
+      "B": "A document like bunch of text",
+      "C": "A place on a computer where information is stored in a package",
+      "D": "A physical paper document that entails how a computer works"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64105?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "A computer file is a computer resource for recording data in a computer storage device, primarily identified by its file name",
+    "year": "2022"
+  },
+  {
+    "number": "19",
+    "text": "When does the output of a NAND gate =1?",
+    "options": {
+      "A": "whenever a 0 is present at an input",
+      "B": "only when all input =0",
+      "C": "whenever 1 is present at an input",
+      "D": "only when all input =1"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64106?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "A",
+    "explanation": "Whenever a 0 is present at an input, NAND gate = 1.",
+    "year": "2022"
+  },
+  {
+    "number": "20",
+    "text": "A 2-input gate that can be used to pass a digital waveform unchanged at certain times and inverted at other times is ___________",
+    "options": {
+      "A": "AND gate",
+      "B": "OR gate",
+      "C": "NAND gate",
+      "D": "XOR gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64107?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "This is what a XOR gate can do.",
+    "year": "2022"
+  },
+  {
+    "number": "21",
+    "text": "The end users are able to operate at the _______ tier.",
+    "options": {
+      "A": "model",
+      "B": "application",
+      "C": "data",
+      "D": "presentation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64108?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "The presentation tier is the user interface and communication layer of the application where the end user interacts with the application.",
+    "year": "2022"
+  },
+  {
+    "number": "22",
+    "text": "A tier in which the database resides along with the query processing language is called",
+    "options": {
+      "A": "application tier",
+      "B": "data tier",
+      "C": "presentation tier",
+      "D": "model tier"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64109?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "Database (Data) Tier \u2212 The database resides along with its query processing languages at this tier. We also have the relations that define the data and their constraints at this level.",
+    "year": "2022"
+  },
+  {
+    "number": "23",
+    "text": "Java is a ______ language",
+    "options": {
+      "A": "High level",
+      "B": "Low level",
+      "C": "Machine",
+      "D": "Algorithm"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64110?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "Java is a high level language because, the program is designed to interact with humans, and not the computer.",
+    "year": "2022"
+  },
+  {
+    "number": "24",
+    "text": "How many different values can a bit have?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "10",
+      "D": "256"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64111?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "A bit can have 2 different values.",
+    "year": "2022"
+  },
+  {
+    "number": "25",
+    "text": "The binary system has the radix of ________",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "\u00bd"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64112?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "Binary consists of two digits, hence its radix being 2.",
+    "year": "2022"
+  },
+  {
+    "number": "26",
+    "text": "Which of the following is termed as the minimum error code?",
+    "options": {
+      "A": "binary code",
+      "B": "gray code",
+      "C": "excess 3 code",
+      "D": "octal code"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64113?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "Gray code is considered minimum error code because they are less error prone for mechanical devices that involve making and breaking electrical circuits because they only change in one bit position at a time.",
+    "year": "2022"
+  },
+  {
+    "number": "27",
+    "text": "The set of rules that defines the combination of symbols that are considered to be correctly structured statements or expressions in that language is called _________",
+    "options": {
+      "A": "Syntax",
+      "B": "Instruction",
+      "C": "Program",
+      "D": "Domain"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64114?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "In computer science, the syntax of a computer language is the set of rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in that language.",
+    "year": "2022"
+  },
+  {
+    "number": "28",
+    "text": "What controls the way in which the computer system function and provides a means by which users can interact with the computer.",
+    "options": {
+      "A": "Application software",
+      "B": "Internet",
+      "C": "Operating system",
+      "D": "Control unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64115?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "An Operating System (OS) is a software that acts as an interface between computer hardware components and the user.",
+    "year": "2022"
+  },
+  {
+    "number": "29",
+    "text": "A light sensitive device that converts drawing, printed text or other images into digital form is",
+    "options": {
+      "A": "keyboard",
+      "B": "Plotter",
+      "C": "Scanner",
+      "D": "OMR"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64116?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "A scanner converts hard copy of data and other information to soft copy, by serving as an input device that supplies the computer the information or data contained in the hard copy.",
+    "year": "2022"
+  },
+  {
+    "number": "30",
+    "text": "The device primarily used to provide hardcopy is the?",
+    "options": {
+      "A": "printer",
+      "B": "card reader",
+      "C": "computer console",
+      "D": "CRT"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64117?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "Printer is an output device that is primarily used to provide hardcopy in the form of paper.",
+    "year": "2022"
+  },
+  {
+    "number": "31",
+    "text": "The joystick typically have a button on _________ used to select the option pointed by the cursor.",
+    "options": {
+      "A": "bottom",
+      "B": "left",
+      "C": "right",
+      "D": "top"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64118?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "The bottom is placed on top of the joystick.",
+    "year": "2022"
+  },
+  {
+    "number": "32",
+    "text": "Which of the following is a computer not used for?",
+    "options": {
+      "A": "entertainment",
+      "B": "information",
+      "C": "social media",
+      "D": "none of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64119?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "Computer is used in almost every aspect. Hence, it is almost impossible to say there is an aspect where computer isn't used.",
+    "year": "2022"
+  },
+  {
+    "number": "33",
+    "text": "The combination of the arithmetic and logic units, as well as the ______________ unit makes up the central processing unit.",
+    "options": {
+      "A": "input",
+      "B": "memory",
+      "C": "control",
+      "D": "1/0"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64120?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "The control unit manages and coordinates the operation of a computer system. The ALU is responsible for performing all the arithmetic and bitwise operations. Therefore, both these units combine to form the brain of the computer, ie CPU.",
+    "year": "2022"
+  },
+  {
+    "number": "34",
+    "text": "How are the stages of SDLC implemented?",
+    "options": {
+      "A": "Randomly, without overlapping",
+      "B": "sequentially, without overlapping",
+      "C": "sequentially with overlapping",
+      "D": "randomly with overlapping."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64121?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "the stages of SDLC are executed sequentially in order to ensure it goes accordingly. Also, they must be done sequential to gets results from previous stages to know what to improve in later stages. Also it does not overlap because, a stage must be concluded before another proceeds.",
+    "year": "2022"
+  },
+  {
+    "number": "35",
+    "text": "__________________ is the conversion of computer data from one format to another.",
+    "options": {
+      "A": "data conversion",
+      "B": "data implementation",
+      "C": "data transmission",
+      "D": "data transfer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64122?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "Data conversion is the process of translating data from one format to another",
+    "year": "2022"
+  },
+  {
+    "number": "36",
+    "text": "The delete permission allows one to ____________",
+    "options": {
+      "A": "share music",
+      "B": "delete or remove files and directories",
+      "C": "read files and directories",
+      "D": "modify files and directories"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64123?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "Delete or remove files.You can delete a permission that is associated with a user account. When you delete a permission, you remove it from use for all user accounts.",
+    "year": "2022"
+  },
+  {
+    "number": "37",
+    "text": "Which of the following is not a model used in problem solving?",
+    "options": {
+      "A": "critical thinking",
+      "B": "SDCL",
+      "C": "waterfall",
+      "D": "prototype"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64124?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "Waterfall is not a model used in solving problems.",
+    "year": "2022"
+  },
+  {
+    "number": "38",
+    "text": "The explorer bar is divided into _________ categories.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64125?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "The explore bar is divided into three categories.",
+    "year": "2022"
+  },
+  {
+    "number": "39",
+    "text": "System software has which major function?",
+    "options": {
+      "A": "Giving utility",
+      "B": "making navigation easier for user",
+      "C": "controlling the computer system",
+      "D": "maintain the system"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64126?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "The system software controls the computer system.System software controls a computer's internal functioning, chiefly through an operating system, and also controls such peripherals as monitors, printers, and storage devices.",
+    "year": "2022"
+  },
+  {
+    "number": "40",
+    "text": "Which among the following generation computers had expensive operation cost?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64127?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "The first generation computers had extensive operation cost because of many reasons such as the excess consumption of electricity, high generation of heat, as well as the cost of maintaining it.",
+    "year": "2022"
+  },
+  {
+    "number": "41",
+    "text": "What tells the computer how to use its components?",
+    "options": {
+      "A": "utility",
+      "B": "application",
+      "C": "operating system",
+      "D": "network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64128?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "Operating system being responsible for the running of the computer system, tells the computer how to use its component, and the most suitable component to use.",
+    "year": "2022"
+  },
+  {
+    "number": "42",
+    "text": "What does CO stand for in COBOL?",
+    "options": {
+      "A": "common object",
+      "B": "common",
+      "C": "computer oriented",
+      "D": "common operating"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64129?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "COBOL stands for common business-oriented language. Therefore, CO stands for common",
+    "year": "2022"
+  },
+  {
+    "number": "43",
+    "text": "What does a linker program do?",
+    "options": {
+      "A": "it places the program in the memory for execution",
+      "B": "relocates the program to execute from the specific memory area allocated to it",
+      "C": "Links the program with other programs needed for its execution",
+      "D": "interface the program with the entities generating its input data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64130?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "from the name linker program, a linker program links a program with other programs needed for its execution. It does this by taking one or more objects files and combining them into a single executable file, library file, or another object file.",
+    "year": "2022"
+  },
+  {
+    "number": "44",
+    "text": "In which situation does running application remain active?",
+    "options": {
+      "A": "when log off",
+      "B": "when user is switched",
+      "C": "when shut down",
+      "D": "when reboot"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64131?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "Running applications remain active when user is switched because, when user is switched, cache memory is not cleared and the computer system does not go off. Therefore, running apps remain active when user is switched.",
+    "year": "2022"
+  },
+  {
+    "number": "45",
+    "text": "Internet explorer is used for",
+    "options": {
+      "A": "viewing movies",
+      "B": "Listening to music",
+      "C": "Drawing",
+      "D": "viewing Web pages"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64132?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "The Internet explorer is used view Web pages. Internet Explorer is a free web browser, commonly called IE or MSIE, that allows users to view web pages on the internet. It is also used to access online banking, online marketing over the internet, listen to and watch streaming videos, and many more. It was introduced by Microsoft in 1995.",
+    "year": "2022"
+  },
+  {
+    "number": "46",
+    "text": "What does LAN stand for?",
+    "options": {
+      "A": "Land area network",
+      "B": "Local arrangement network",
+      "C": "Legal alternative network",
+      "D": "Local area network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64133?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "A local area network (LAN) is a collection of devices connected together in one physical location, such as a building, office, or home. A LAN can be small or large, ranging from a home network with one user to an enterprise network with thousands of users and devices in an office or school.Regardless of size, a LAN's single defining characteristic is that it connects devices that are in a single, limited area.",
+    "year": "2022"
+  },
+  {
+    "number": "47",
+    "text": "The Internet is an example of which computer network?",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "CAN",
+      "D": "WAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64134?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "Mesh network topologies are typical of the internet, and certain wide area networks (WANs)",
+    "year": "2022"
+  },
+  {
+    "number": "48",
+    "text": "A permanent memory, which has data and instruction to start up the computer and does not erase data after power off.",
+    "options": {
+      "A": "network interface card",
+      "B": "CPU",
+      "C": "RAM",
+      "D": "ROM"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64135?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "The read only memory does not erase data after power off because, it is a non volatile memory.",
+    "year": "2022"
+  },
+  {
+    "number": "49",
+    "text": "A display listing of program options which users can select is called?",
+    "options": {
+      "A": "icons",
+      "B": "options",
+      "C": "selection",
+      "D": "menu"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64136?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "The menu consists of various programs users use.",
+    "year": "2022"
+  },
+  {
+    "number": "50",
+    "text": "The illegal access to a network or computer system is___________",
+    "options": {
+      "A": "security",
+      "B": "cracking",
+      "C": "virus",
+      "D": "piracy"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64137?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "Cracking is trying to get into computer systems in order to steal, corrupt or illegitimately view data.",
+    "year": "2022"
+  },
+  {
+    "number": "51",
+    "text": "Which term describes accessing files from a computer other than the one where the files are stored.",
+    "options": {
+      "A": "local access",
+      "B": "remote access",
+      "C": "cloud access",
+      "D": "special access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64138?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "The cloud access enables one access files from a cloud database than where the files are stored because, anything uploaded to a cloud can be accessed from another computer.",
+    "year": "2022"
+  },
+  {
+    "number": "52",
+    "text": "The windows explorer is divided into _________ categories.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64139?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "The windows explorer window is separated into two parts, the left and the right-hand sides. The left-hand side pane shows the system folders (i.e. desktop) and sub-folders, whilst to the right-hand window, we can see/view the contents of the selected folders.",
+    "year": "2022"
+  },
+  {
+    "number": "53",
+    "text": "What is the primary purpose of Microsoft Excel?",
+    "options": {
+      "A": "To write essays",
+      "B": "To show a slide presentation",
+      "C": "To solve problems involving numbers",
+      "D": "To keep students updated in the latest Microsoft Office product"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64306?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "Microsoft Excel is a spreadsheet application designed to perform basic and complex mathematical computations and functions",
+    "year": "2022"
+  },
+  {
+    "number": "54",
+    "text": "In Microsoft Excel, sheet tabs can be renamed by ______",
+    "options": {
+      "A": "Double-clicking any column",
+      "B": "Double-clicking any row",
+      "C": "Double-clicking on the sheet tab; entering the new name",
+      "D": "Going to File, and clicking Save As"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64308?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "This is the quickest way to rename a sheet. Double left click on the sheet tab which you would like to rename.",
+    "year": "2022"
+  },
+  {
+    "number": "55",
+    "text": "What is the shortcut key to \"undo\" last action on a Microsoft word page?",
+    "options": {
+      "A": "Ctrl + A",
+      "B": "Ctrl + U",
+      "C": "Ctrl + X",
+      "D": "Ctrl + Z"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64309?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "To undo an action press Ctrl+Z. If you prefer your mouse, click Undo on the Quick Access Toolbar. You can press Undo (or CTRL+Z) repeatedly if you want to undo multiple steps",
+    "year": "2022"
+  },
+  {
+    "number": "56",
+    "text": "________ is the process of dividing the disk into tracks and sectors",
+    "options": {
+      "A": "Tracking",
+      "B": "Formatting",
+      "C": "Crashinng",
+      "D": "Allotting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64310?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Formatting. The process of dividing the disk into tracks and sectors is called formatting. In computer disk storage, a sector is a subdivision of a track on a magnetic disk or optical disc. When a disk undergoes a low-level format, it is divided into tracks and sectors.",
+    "year": "2022"
+  },
+  {
+    "number": "57",
+    "text": "The process of feeding instructions into the computer system is called",
+    "options": {
+      "A": "Processing",
+      "B": "Accessing",
+      "C": "Inputting",
+      "D": "Outputting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64311?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "In computer science, the general meaning of input is to provide or give something to the computer, in other words, when a computer or device is receiving a command or signal from outer sources, the event is referred to as input to the device",
+    "year": "2022"
+  },
+  {
+    "number": "58",
+    "text": "To determine if a computer has the ability to think, a test was conducted named as",
+    "options": {
+      "A": "Turing test",
+      "B": "Computation test",
+      "C": "Teletype test",
+      "D": "Interrogator test"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64312?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "The Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human. ... If the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test.",
+    "year": "2022"
+  },
+  {
+    "number": "59",
+    "text": "Which is not a network for distribution of information?",
+    "options": {
+      "A": "cloud storage",
+      "B": "Several computers to one printer",
+      "C": "Microsoft Word",
+      "D": "E-mail"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64313?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "Ms-word is not a network for distribution of information.",
+    "year": "2022"
+  },
+  {
+    "number": "60",
+    "text": "What is the full form of TCP?",
+    "options": {
+      "A": "Transmission Control Protocol",
+      "B": "Transmission Communication Protocol",
+      "C": "Transformation Control Protocol",
+      "D": "Transmission Central Pass"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64314?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "TCP means Transmission Control Protocol.",
+    "year": "2022"
+  },
+  {
+    "number": "61",
+    "text": "What is the full form of UDP?",
+    "options": {
+      "A": "User Datagram Packet",
+      "B": "User Data Packet",
+      "C": "User Datagram Protocol",
+      "D": "Unique Data Protocol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64315?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "User datagram protocol (UDP) operates on top of the Internet Protocol (IP) to transmit datagrams over a network.",
+    "year": "2022"
+  },
+  {
+    "number": "62",
+    "text": "What does RAM and ROM have in common?",
+    "options": {
+      "A": "They both deal with memory",
+      "B": "They were both invented by Bill Gates",
+      "C": "They do not have anything in common",
+      "D": "Their initials are similar"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64316?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "RAM and ROM are types of computer memory.",
+    "year": "2022"
+  },
+  {
+    "number": "63",
+    "text": "What is the permanent memory built into your computer called?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "CPU",
+      "D": "CD-ROM"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64317?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "ROM is an acronym for Read-Only Memory. It refers to computer memory chips containing permanent or semi-permanent data. Unlike RAM, ROM is non-volatile; even after you turn off your computer, the contents of ROM will remain. Almost every computer comes with a small amount of ROM containing the boot firmware.",
+    "year": "2022"
+  },
+  {
+    "number": "64",
+    "text": "What does an Operating System do?",
+    "options": {
+      "A": "Memory Management",
+      "B": "File Management",
+      "C": "Application Management",
+      "D": "All of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64318?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "Operating System (OS) is a program that manages a computer's resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections.",
+    "year": "2022"
+  },
+  {
+    "number": "65",
+    "text": "An Operating System is a type of?",
+    "options": {
+      "A": "Application Software",
+      "B": "System software",
+      "C": "Utility Program",
+      "D": "None of these"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64319?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "An operating system (OS) is a system software that manages computer hardware, software resources, and provides common services for computer programs",
+    "year": "2022"
+  },
+  {
+    "number": "66",
+    "text": "What is the etiquette one should follow while working online?",
+    "options": {
+      "A": "Anything goes . . . providing he/she remains anonymous",
+      "B": "Netflix",
+      "C": "Netiquette",
+      "D": "Piracy"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64320?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "Netiquette, which is a portmanteau of \"net\" and \"etiquette,\" refers to using courtesy and politeness when communicating with others online.",
+    "year": "2022"
+  },
+  {
+    "number": "67",
+    "text": "___________ is when someone steals another persons identity.",
+    "options": {
+      "A": "Cyber bullying",
+      "B": "Identity Theft",
+      "C": "Identity Phase",
+      "D": "Cyber Know How"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64321?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "B",
+    "explanation": "Identity theft occurs when someone uses another person's personal identifying information, like their name, identifying number, or credit card number, without their permission, to commit fraud or other crimes. The term identity theft was coined in 1964",
+    "year": "2022"
+  },
+  {
+    "number": "68",
+    "text": "Destruction of files for malicious reasons such as access by fraudulent people is classified as being",
+    "options": {
+      "A": "modified",
+      "B": "accessed",
+      "C": "destroyed",
+      "D": "unauthorized access"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64322?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "Access to an information system or network that violates the owner or operator's stated security policy is considered unauthorized access.",
+    "year": "2022"
+  },
+  {
+    "number": "69",
+    "text": "When an input signal 1 is applied to a NOT gate, the output is ..................",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "Either 0 & 1",
+      "D": "None of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64323?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "In a NOT gate, no output (0) is there when an input (1) is there.",
+    "year": "2022"
+  },
+  {
+    "number": "70",
+    "text": "In Boolean algebra, the bar sign (-) indicates ....................",
+    "options": {
+      "A": "OR operation",
+      "B": "AND operation",
+      "C": "NOT operation",
+      "D": "None of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64324?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "In modern Boolean algebra, we use the plus (+) symbol to mean OR, the dot (\u2022) symbol to mean AND, and a bar above a variable to mean NOT.",
+    "year": "2022"
+  },
+  {
+    "number": "71",
+    "text": "In SQL, which command is used to remove a stored function from the database?",
+    "options": {
+      "A": "REMOVE Function",
+      "B": "DELETE function",
+      "C": "DROP function",
+      "D": "ERASE Function"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64325?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "DROP FUNCTION removes the definition of an existing function. To execute this command the user must be the owner of the function. The argument types to the function must be specified, since several different functions can exist with the same name and different argument lists.",
+    "year": "2022"
+  },
+  {
+    "number": "72",
+    "text": ".......... provides total solutions to reduce data redundancy, inconsistency, dependence and unauthorized access of data",
+    "options": {
+      "A": "Tables",
+      "B": "DBMS",
+      "C": "Production passwords",
+      "D": "Database"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64326?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "The Database Management System or DBMS helps to tackle issues as these.",
+    "year": "2022"
+  },
+  {
+    "number": "73",
+    "text": "Programming language COBOL works best for use in",
+    "options": {
+      "A": "Siemens applications",
+      "B": "student applications",
+      "C": "social applications",
+      "D": "commercial application"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64327?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "COBOL, in full Common Business-Oriented Language, high-level computer programming language, one of the first widely used languages and for many years the most popular language in the business community.",
+    "year": "2022"
+  },
+  {
+    "number": "74",
+    "text": "Hexadecimal numbers are a mixture of",
+    "options": {
+      "A": "Octal and decimal numbers",
+      "B": "Binary and octal numbers",
+      "C": "Letters and decimal digits",
+      "D": "Binary and decimal numbers"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64328?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "The hexadecimal number system is described as a 16 digit number representation of numbers from 0 - 9 (decimal digits) and digits from A - F (letters).",
+    "year": "2022"
+  },
+  {
+    "number": "75",
+    "text": "What is considered the brain of the computer?",
+    "options": {
+      "A": "Central Processing Unit",
+      "B": "Monitor/Display Screen",
+      "C": "Mouse",
+      "D": "Printer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64329?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "A",
+    "explanation": "The CPU is the brain of a computer, containing all the circuitry needed to process input, store data, and output results.The CPU is constantly following instructions of computer programs that tell it which data to process and how to process it. Without a CPU, we could not run programs on a computer.",
+    "year": "2022"
+  },
+  {
+    "number": "76",
+    "text": "The actual physical network of wires, cables and satellite that connects computers and resources throughout the world is the _______________",
+    "options": {
+      "A": "Web",
+      "B": "Internet",
+      "C": "e-commerce",
+      "D": "social media"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64330?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "The Internet (or internet)is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.",
+    "year": "2022"
+  },
+  {
+    "number": "77",
+    "text": "CPU stands for ________________.",
+    "options": {
+      "A": "Control Processing Unit",
+      "B": "Computer Process Unit",
+      "C": "Central Personal Unit",
+      "D": "Central Processing Unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64331?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "CPU stands for Central Processing Unit.",
+    "year": "2022"
+  },
+  {
+    "number": "78",
+    "text": "Which can be the input and output devices both?",
+    "options": {
+      "A": "Scanner",
+      "B": "Touch screen monitor",
+      "C": "Speaker",
+      "D": "Digitizer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64332?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "A touch screen monitor can be used to input data into the computer system and can also be used to receive output information.",
+    "year": "2022"
+  },
+  {
+    "number": "79",
+    "text": "Computer Monitor is also known as",
+    "options": {
+      "A": "DVU",
+      "B": "UVD",
+      "C": "VDU",
+      "D": "CCTV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64333?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "The computer monitor is a visual display Unit (VDU).A VDU displays images generated by a computer or other electronic device",
+    "year": "2022"
+  },
+  {
+    "number": "80",
+    "text": "Types of software programs are",
+    "options": {
+      "A": "Application programs",
+      "B": "replicate programs",
+      "C": "Logical programs",
+      "D": "both A and B"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64334?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "both A and B",
+    "year": "2022"
+  },
+  {
+    "number": "81",
+    "text": "Typically, an ATM is used for",
+    "options": {
+      "A": "record keeping",
+      "B": "budget making",
+      "C": "watching movies",
+      "D": "withdrawing cash"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64335?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "An Automated Teller Machine, better known as an ATM, is a specialized computer that makes it convenient for bank account holders to manage their money. It allows them to check their account balances, withdraw or deposit money, transfer money from one account to another, print a statement of account transactions, and even purchase stamp",
+    "year": "2022"
+  },
+  {
+    "number": "82",
+    "text": "What is the full form of CU?",
+    "options": {
+      "A": "Compound Unit",
+      "B": "Communication Unit",
+      "C": "Computer unit",
+      "D": "Control unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64336?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "CU stands for control unit.The control unit (CU) is a component of a computer's central processing unit (CPU) that directs the operation of the processor. A CU typically uses a binary decoder to convert coded instructions into timing and control signals that direct the operation of the other units (memory, arithmetic logic unit and input and output devices, etc.).",
+    "year": "2022"
+  },
+  {
+    "number": "83",
+    "text": "The rules that govern the structure of a command or programming language is called",
+    "options": {
+      "A": "Syntax",
+      "B": "Algorithm",
+      "C": "Logic",
+      "D": "Password"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64337?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "Syntax refers to the rules that define the structure of a language. Syntax in computer programming means the rules that control the structure of the symbols, punctuation, and words of a programming language.",
+    "year": "2022"
+  },
+  {
+    "number": "84",
+    "text": "In general, a file is basically a collection of all related______.",
+    "options": {
+      "A": "Rows & Columns",
+      "B": "Fields",
+      "C": "Database",
+      "D": "Records"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64338?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "A file is a collection of related data or program records stored on some input/output or auxiliary storage medium.",
+    "year": "2022"
+  },
+  {
+    "number": "85",
+    "text": "Files that maintain the hierarchical structure of the file system.",
+    "options": {
+      "A": "Descriptors",
+      "B": "Directories",
+      "C": "Modifiers",
+      "D": "Relative files"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64339?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "Directories are the files that maintain the hierarchical structure of the file system. The users are allowed to read information in directories",
+    "year": "2022"
+  },
+  {
+    "number": "86",
+    "text": "Another word for booting is",
+    "options": {
+      "A": "starting",
+      "B": "restarting",
+      "C": "loading",
+      "D": "running"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64340?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "In computing, booting is the process of starting a computer",
+    "year": "2022"
+  },
+  {
+    "number": "87",
+    "text": "Which of the below-mentioned reasons do not satisfy the reason why people create a computer virus?",
+    "options": {
+      "A": "protection",
+      "B": "Identity theft",
+      "C": "pranks",
+      "D": "research purpose"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64341?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "Computer virus are not created for protection purpose.",
+    "year": "2022"
+  },
+  {
+    "number": "88",
+    "text": "Total types of data that can be read by document reader are",
+    "options": {
+      "A": "marks",
+      "B": "handwritten and printed characters",
+      "C": "printed lines",
+      "D": "all of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64342?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "All of the above listed data types can be read by a document reader",
+    "year": "2022"
+  },
+  {
+    "number": "89",
+    "text": "The super computers are mainly used for",
+    "options": {
+      "A": "Data retrieval operations",
+      "B": "Input-output intensive processing",
+      "C": "Manipulation of records",
+      "D": "Mathematical intensive scientific applications"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64343?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "Supercomputer is a computer with a high level of performance compared to a general-purpose computer. Performance of a supercomputer is measured in floating-point operations per second (FLOPS) instead of million instructions per second (MIPS).",
+    "year": "2022"
+  },
+  {
+    "number": "90",
+    "text": "Which of the listed is not a type of computer application?",
+    "options": {
+      "A": "Microsoft word",
+      "B": "Firefox",
+      "C": "Joy stick",
+      "D": "VLC media player"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64344?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "This because a joystick is a hard ware and not a software",
+    "year": "2022"
+  },
+  {
+    "number": "91",
+    "text": "Firefox is an example of __________",
+    "options": {
+      "A": "System software",
+      "B": "Application package",
+      "C": "Application software",
+      "D": "Computer tools"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64345?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "Fire fox is an application software, because it is not an operating system, hence it can't be classified as a system software because it doesn't contribute to the running of the computer system.",
+    "year": "2022"
+  },
+  {
+    "number": "92",
+    "text": "Microsoft word serves the purpose of ________",
+    "options": {
+      "A": "Developing other applications",
+      "B": "Creating documents",
+      "C": "Storing Documents",
+      "D": "Browsing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64346?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "Microsoft word serves the main purpose of creating documents.",
+    "year": "2022"
+  },
+  {
+    "number": "93",
+    "text": "Computer applications are example of ___________",
+    "options": {
+      "A": "Hardware",
+      "B": "Computer utilities",
+      "C": "Program packages",
+      "D": "Software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64347?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "Every computer application is a software, because they are things that exist only in the computer, hence they aren't hardware.",
+    "year": "2022"
+  },
+  {
+    "number": "94",
+    "text": "Computer softwares like ios, Ubuntu, Chrome OS, are classified as ___________",
+    "options": {
+      "A": "Computer utilities",
+      "B": "System software",
+      "C": "Computer application",
+      "D": "Application package"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64348?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "All applications listed are examples of system software, because they are all operating system.",
+    "year": "2022"
+  },
+  {
+    "number": "95",
+    "text": "Which part of a laptop serves the same function as a mouse?",
+    "options": {
+      "A": "Arrow keys",
+      "B": "Navigation bar",
+      "C": "Touchpad",
+      "D": "Keyboard"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64349?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "Touch pad is the part of a laptop that acts as a mouse.",
+    "year": "2022"
+  },
+  {
+    "number": "96",
+    "text": "The arrow displayed on the screen of a computer is called",
+    "options": {
+      "A": "Pointer",
+      "B": "Arrow",
+      "C": "Cursor",
+      "D": "Indicator"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64352?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "The cursor is displayed on the monitor screen to help with navigation.",
+    "year": "2022"
+  },
+  {
+    "number": "97",
+    "text": "The most basic network is _________",
+    "options": {
+      "A": "WAN",
+      "B": "SAN",
+      "C": "PAN",
+      "D": "MAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64353?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "Personal area network is the most basic network, because it is usually made up of one wireless modem, a computer or two mini computers and other computer accessories, and it revokes around one person in one building.",
+    "year": "2022"
+  },
+  {
+    "number": "98",
+    "text": "The Domain name of a website is also its__________",
+    "options": {
+      "A": "IP address",
+      "B": "TCP address",
+      "C": "Database system",
+      "D": "Network server"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64355?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "IP address. Usually, a domain name is used instead of an IP address, because the domain name is easier to work with, and is more human friendly that the IP address. Also, every domain is unique and has its IP address. Therefore, Domain names are used by computer uses, because the IP address is more complex to work with.",
+    "year": "2022"
+  },
+  {
+    "number": "99",
+    "text": "The memory unit receives data and information from which unit?",
+    "options": {
+      "A": "input unit",
+      "B": "output unit",
+      "C": "control unit",
+      "D": "arithmetic and logic unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64356?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "From the chart or table of data flow, the data moves from the input unit to the control unit where it is determined if it needs a logical or arithmetic function. From the control unit, it is passed on to the arithmetic and logical unit, where it is then processed before being transferred to the memory unit, to be stored till when needed.",
+    "year": "2022"
+  },
+  {
+    "number": "100",
+    "text": "Computer software can be classified into how many parts?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "2",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64358?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "Computer software can be classified into two parts. These are : the system softwares and the application softwares",
+    "year": "2022"
+  },
+  {
+    "number": "101",
+    "text": "Which of the following is an example of software",
+    "options": {
+      "A": "Joy stick",
+      "B": "Keyboard",
+      "C": "Operating systems",
+      "D": "Mouse"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64360?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "Operating system is the only example of software from the options",
+    "year": "2022"
+  },
+  {
+    "number": "102",
+    "text": "What is the function of firewall?",
+    "options": {
+      "A": "Service provider",
+      "B": "Cyber security",
+      "C": "Internet browser",
+      "D": "Storage device"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64361?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "Fire Wall could be either a software or hardware, but its major function is to help secure a computer system or website from hackers.",
+    "year": "2022"
+  },
+  {
+    "number": "103",
+    "text": "Numerous files are referred to as _____________",
+    "options": {
+      "A": "Files",
+      "B": "Folder",
+      "C": "Memo",
+      "D": "Drafts"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64362?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "Folders are created to help collate similar files before storing them. This helps to find files from folder because of its orderly arrangements.",
+    "year": "2022"
+  },
+  {
+    "number": "104",
+    "text": "Computer files can be characterised by all but,",
+    "options": {
+      "A": "A title",
+      "B": "It's accessibility",
+      "C": "The ability to be modified",
+      "D": "Where it is stored"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64363?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "The storage position of a file isn't one of its numerous characters because, it can be stored either in a primary or secondary memory.",
+    "year": "2022"
+  },
+  {
+    "number": "105",
+    "text": "A logic circuit performs ________ functions",
+    "options": {
+      "A": "Interpretation",
+      "B": "Processing and Controlling",
+      "C": "Storage",
+      "D": "Security"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64364?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "The logic circuit performs the function of processing and controlling in a computer. They perform logical operations.",
+    "year": "2022"
+  },
+  {
+    "number": "106",
+    "text": "Which of the following is not a type of logic gate",
+    "options": {
+      "A": "XOR",
+      "B": "OR",
+      "C": "AND",
+      "D": "DOR"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64365?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "Dor is not a type of logic gate.",
+    "year": "2022"
+  },
+  {
+    "number": "107",
+    "text": "The acronym from DATABASE MANAGEMENT SYSTEM is ________________",
+    "options": {
+      "A": "DMS",
+      "B": "DBMS",
+      "C": "DMGS",
+      "D": "DMSM"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64367?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "DBMS.A Database Management System (DBMS) is software designed to store, retrieve, define, and manage data in a database.",
+    "year": "2022"
+  },
+  {
+    "number": "108",
+    "text": "The major function of a Database management system is _______________",
+    "options": {
+      "A": "Virus detection",
+      "B": "Cyber security",
+      "C": "Manipulation of data in a data base",
+      "D": "Store large data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64369?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "C",
+    "explanation": "The DBMS performs the function of manipulating the data in a data base, as well as managing the database structure.",
+    "year": "2022"
+  },
+  {
+    "number": "109",
+    "text": "What is debugging?",
+    "options": {
+      "A": "Preventing bugs from getting to the computer",
+      "B": "inserting errors into the program",
+      "C": "finding and removing errors from a computer",
+      "D": "finding and removing errors from a program"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64370?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "Debugging is the process of finding and removing errors from a program.",
+    "year": "2022"
+  },
+  {
+    "number": "110",
+    "text": "What type of errors occurs when the program is asked to implement an impossible task such as dividing a number by zero?",
+    "options": {
+      "A": "Syntax error",
+      "B": "Runtime error",
+      "C": "Logical error",
+      "D": "Arithmetic error"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64371?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "Runtime error. This type of error occurs when the program is asked to perform an impossible task or a task that has not been included in the program written.",
+    "year": "2022"
+  },
+  {
+    "number": "111",
+    "text": "Which number base system is used by low level languages",
+    "options": {
+      "A": "Duodecimal",
+      "B": "Binary",
+      "C": "Hexadecimal",
+      "D": "Decimal"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64372?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "binary base system is used by low level languages to interact with the computer.",
+    "year": "2022"
+  },
+  {
+    "number": "112",
+    "text": "Why is the base 10 system unique?",
+    "options": {
+      "A": "There are only 10 fingers to every human",
+      "B": "There are only 10 one digit numbers",
+      "C": "The number 10 has just 2 factors",
+      "D": "no specific reason."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64374?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "The base 10 system of counting has been passed from generations to generations. This because, we learn to count with our fingers at young age.",
+    "year": "2022"
+  },
+  {
+    "number": "113",
+    "text": "Which program translates programs to a simpler language that the computer can execute.",
+    "options": {
+      "A": "Compiler",
+      "B": "Interpreter",
+      "C": "Processor",
+      "D": "algorithm"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64375?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "A compiler is the program that translates the programs written in low level languages to high level languages that can be understood by the computer.",
+    "year": "2022"
+  },
+  {
+    "number": "114",
+    "text": "What is a website main page called?",
+    "options": {
+      "A": "Home page",
+      "B": "Bookmark",
+      "C": "Search page",
+      "D": "Task page"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64376?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "The Homepage is the main Web page of a website.",
+    "year": "2022"
+  },
+  {
+    "number": "115",
+    "text": "The first commuters were programed using _________",
+    "options": {
+      "A": "Assembly language",
+      "B": "Machine language",
+      "C": "Source code",
+      "D": "Object code"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64377?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "Machine languages or Machine code. Functionality, this language is a system which comprises of binary digits.",
+    "year": "2022"
+  },
+  {
+    "number": "116",
+    "text": "Which computer accessory is both an input and output device?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "Network cards",
+      "D": "Scanner"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64378?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "C",
+    "explanation": "Devices for communication between computers, such as modems and network cards, typically perform both input and output operations.",
+    "year": "2022"
+  },
+  {
+    "number": "117",
+    "text": "Which doesn't belong to the group?",
+    "options": {
+      "A": "Flash drive",
+      "B": "Floppy disk",
+      "C": "Compact disk",
+      "D": "Memory unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64379?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "Memory unit doesn't belong to the group because, it is a software and not a hard ware.",
+    "year": "2022"
+  },
+  {
+    "number": "118",
+    "text": "Computers are used majorly at offices for ____________",
+    "options": {
+      "A": "Recreational purposes",
+      "B": "Research purposes",
+      "C": "Storage purpose",
+      "D": "Security purposes"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64381?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "C",
+    "explanation": "In offices, computers are majorly used to store files and other confidential.",
+    "year": "2022"
+  },
+  {
+    "number": "119",
+    "text": "Which part of a processor contains the hard ware necessary to perform all the operations required by a computer?",
+    "options": {
+      "A": "Data path",
+      "B": "Controller",
+      "C": "Registers",
+      "D": "Cache"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64382?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "The data path contains all hardware necessary to perform every operation. A controller tells the data path what needs to be done.",
+    "year": "2022"
+  },
+  {
+    "number": "120",
+    "text": "Which of the following is not a stage of system development cycle?",
+    "options": {
+      "A": "Design",
+      "B": "Test running",
+      "C": "Implementation",
+      "D": "Observation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64383?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "Observation isn't a stage of system development cycle.",
+    "year": "2022"
+  },
+  {
+    "number": "121",
+    "text": "Which process is used by large retailers to study trends?",
+    "options": {
+      "A": "Data mining",
+      "B": "Data selection",
+      "C": "Data conversion",
+      "D": "Pos"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64384?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "Data mining is used to study trends by large retailers.",
+    "year": "2022"
+  },
+  {
+    "number": "122",
+    "text": "Which of the following is not a method of filing",
+    "options": {
+      "A": "Random",
+      "B": "Sequential",
+      "C": "Serial",
+      "D": "Geographical"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64385?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "Geographical method of computer filing doesn't exist.",
+    "year": "2022"
+  },
+  {
+    "number": "123",
+    "text": "Which of the following isn't used to navigate in a computer?",
+    "options": {
+      "A": "Cursor",
+      "B": "Keyboard",
+      "C": "mouse",
+      "D": "Scanner"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64386?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "A scanner is not used to navigate the computer.",
+    "year": "2022"
+  },
+  {
+    "number": "124",
+    "text": "How many types of booting are there?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64387?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "There are 2 types of booting cold and warm booting",
+    "year": "2022"
+  },
+  {
+    "number": "125",
+    "text": "System software can further be classified into two. Operating software and ______________ software",
+    "options": {
+      "A": "Utility",
+      "B": "Storage",
+      "C": "Anti virus",
+      "D": "File management system"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64388?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "The types of system software include: 1.Operating systems or system control program.2. Utility software or system support programs",
+    "year": "2022"
+  },
+  {
+    "number": "126",
+    "text": "Which of the following system software resides in the main memory always?",
+    "options": {
+      "A": "Text editor",
+      "B": "Assembler",
+      "C": "Linker",
+      "D": "Loader"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64389?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "The loader is always in the main memory because it must not be separated from the computer else, the system will not function.",
+    "year": "2022"
+  },
+  {
+    "number": "127",
+    "text": "Applications on a screen are displayed by __________",
+    "options": {
+      "A": "Cursor",
+      "B": "icon",
+      "C": "Home screen",
+      "D": "App drawer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64396?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "A launcher icon displays applications on the screen.",
+    "year": "2022"
+  },
+  {
+    "number": "128",
+    "text": "Word processor, spreadsheets, database, graphics and presentation software are all examples of?",
+    "options": {
+      "A": "application packages",
+      "B": "utility packages",
+      "C": "operating system software",
+      "D": "None of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64397?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "All the listed above are examples of application packages.",
+    "year": "2022"
+  },
+  {
+    "number": "129",
+    "text": "Microsoft PowerPoint is a ________________ application",
+    "options": {
+      "A": "presentation software",
+      "B": "graphing",
+      "C": "productivity software",
+      "D": "gaming"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64398?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "Microsoft PowerPoint is a powerful slide show presentation program. It is a standard component of the company's Microsoft Office suite software, and is bundled together with Word, Excel, and other office productivity tools. The program uses slides to convey information rich in multimedia.(Basic computer operations)",
+    "year": "2022"
+  },
+  {
+    "number": "130",
+    "text": "Which of the following is an example of output device",
+    "options": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "speaker",
+      "D": "microphone"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64399?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "A speaker is an output device because, it projects sounds from the system to the user.",
+    "year": "2022"
+  },
+  {
+    "number": "131",
+    "text": "At least how many keys is a keyboard made up of?",
+    "options": {
+      "A": "105",
+      "B": "107",
+      "C": "101",
+      "D": "103"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64400?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "A standard computer has at least 101 keys.",
+    "year": "2022"
+  },
+  {
+    "number": "132",
+    "text": "Which type of network is usually contained inside one office building?",
+    "options": {
+      "A": "CAN",
+      "B": "LAN",
+      "C": "MAN",
+      "D": "WAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64401?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "A local area network is the most suitable network for an office building because, it gives network to computer at a single site.",
+    "year": "2022"
+  },
+  {
+    "number": "133",
+    "text": "Which type of network can span several building, but is usually less than 30 square miles big?",
+    "options": {
+      "A": "CAN",
+      "B": "LAN",
+      "C": "MAN",
+      "D": "WAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64403?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "CAN usually provides network for places which are less than 30 square miles.",
+    "year": "2022"
+  },
+  {
+    "number": "134",
+    "text": "Which of the following is not a type of computer network?",
+    "options": {
+      "A": "VPN",
+      "B": "CAN",
+      "C": "WLAN",
+      "D": "DAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64405?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "Dan is not a type of computer network.",
+    "year": "2022"
+  },
+  {
+    "number": "135",
+    "text": "Which of the memories must be refreshed many times per second?",
+    "options": {
+      "A": "EPROM",
+      "B": "ROM",
+      "C": "Static RAM",
+      "D": "Dynamic RAM"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64406?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "Dynamic RAM memory must be refreshed many times a second because without it being refreshed often, it will lose the data contents it holds.",
+    "year": "2022"
+  },
+  {
+    "number": "136",
+    "text": "A half byte is known as ________.",
+    "options": {
+      "A": "data",
+      "B": "bit",
+      "C": "half byte",
+      "D": "nibble"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64407?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "A nibble is a 4 bit aggression, or half an octet. It has 16 possible values, and can be represented by a single hexadecimal digit which are called hex digit",
+    "year": "2022"
+  },
+  {
+    "number": "137",
+    "text": "Which of the following software can't be categorized as an application software?",
+    "options": {
+      "A": "DBM",
+      "B": "MS-DOS",
+      "C": "Spreadsheet",
+      "D": "word processor"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64408?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "MS-DOS can't be classified as an application software because, it is an operating system software. And OS are classified as system software not application software.",
+    "year": "2022"
+  },
+  {
+    "number": "138",
+    "text": "Running other software on idle computer without the knowledge of the organisation is called theft of ___________",
+    "options": {
+      "A": "Software",
+      "B": "computer",
+      "C": "computer time",
+      "D": "use"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64411?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "Computer time theft is hacking into a large computer system and utilising its computing resources for a purpose not authorised by the owner of the system.",
+    "year": "2022"
+  },
+  {
+    "number": "139",
+    "text": "Sensitive data can be protected from prying eyes using _________",
+    "options": {
+      "A": "File permissions",
+      "B": "File locks",
+      "C": "passwords",
+      "D": "encryption"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64413?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "A File permission specifies who and what can read, write, modify and access them. It therefore important as the codex explains, because without it in place, anyone or anything can access confidential files.",
+    "year": "2022"
+  },
+  {
+    "number": "140",
+    "text": "The number of input combination for a 4 input gate is ______",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "15",
+      "D": "16"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64414?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "16 possible combinationsSo, a 4-input AND gate has 16 possible combinations, 5 inputs would be 32 outputs, and so on.",
+    "year": "2022"
+  },
+  {
+    "number": "141",
+    "text": "When does the output of a NOR gate =0?",
+    "options": {
+      "A": "whenever 0 is present at input",
+      "B": "only when all input =0",
+      "C": "whenever 1 is present at input",
+      "D": "only when all input =1."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64415?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "The NOR gate is a digital logic gate that implements logical NOR - it behaves according to the truth table to the right. A HIGH output (1) results if both the inputs to the gate are LOW (0); if one or both input is HIGH (1), a LOW output (0) results.",
+    "year": "2022"
+  },
+  {
+    "number": "142",
+    "text": "A collection of facts and figures is known to be _________",
+    "options": {
+      "A": "Data",
+      "B": "Database",
+      "C": "sequenced data",
+      "D": "structural data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64416?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "A",
+    "explanation": "Data are a set of values of qualitative or quantitative variables about one or more persons or objects, while a datum (singular of data) is a single value of a single variable. They are individual facts, statistics, or items of information, often numeric.",
+    "year": "2022"
+  },
+  {
+    "number": "143",
+    "text": "The logical structure of the database can be depicted through its ______",
+    "options": {
+      "A": "Domain",
+      "B": "Data model",
+      "C": "Architecture",
+      "D": "Schemas"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64417?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "B",
+    "explanation": "Data model. It is the logical inter relationships and data flow between different data elements involved in the information word. Through the flow chart, the logical structure of a database can be depicted.",
+    "year": "2022"
+  },
+  {
+    "number": "144",
+    "text": "The java interpreter translates a java program from ____________ to machine language.",
+    "options": {
+      "A": "nibble",
+      "B": "bit",
+      "C": "byte code",
+      "D": "high level language"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64418?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "The java interpreter translates a java program from ____________Byte code. This is a program code that has been compiled from source code into low level code designed for a software interpreter. to machine language.",
+    "year": "2022"
+  },
+  {
+    "number": "145",
+    "text": "___________________ is a program meant to be sent from one computer to another across the world wide Web.",
+    "options": {
+      "A": "Applet",
+      "B": "Mail",
+      "C": "algorithm",
+      "D": "data packages"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64419?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "A",
+    "explanation": "applet Is a \"small Java\" program that can be used in an internetworking environment. These programs can be transferred over the internet from one computer to another and can be displayed on various web browsers.",
+    "year": "2022"
+  },
+  {
+    "number": "146",
+    "text": "The hexadecimal digits are 0-9 and A-_____",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "G",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64422?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "Hexadecimal has 16 digits ranging from 0 to 9, and A to F.",
+    "year": "2022"
+  },
+  {
+    "number": "147",
+    "text": "Binary coded decimals (BCD) numbers express each digit as a ___________",
+    "options": {
+      "A": "byte",
+      "B": "nibble",
+      "C": "bit",
+      "D": "All of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64423?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "Nibbles are used to express binary coded number's digit",
+    "year": "2022"
+  },
+  {
+    "number": "148",
+    "text": "Which of these is not a programming language",
+    "options": {
+      "A": "HTML",
+      "B": "Java",
+      "C": "C++",
+      "D": "ios"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64424?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "Ios is an operating system not a programming language.",
+    "year": "2022"
+  },
+  {
+    "number": "149",
+    "text": "___________ booting is done by turning on the computer at first instance.",
+    "options": {
+      "A": "hot",
+      "B": "spicy",
+      "C": "cold",
+      "D": "cool"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64426?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "Cold booting is the process where a computer is turned on from a totally powerless state.",
+    "year": "2022"
+  },
+  {
+    "number": "150",
+    "text": "What differs a system software from application software?",
+    "options": {
+      "A": "ability to multi task",
+      "B": "being minimal in terms of space",
+      "C": "presence of cache memory",
+      "D": "unique programs installed by the creators to help run the computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64427?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "A system software differs from an application software in so many ways. Of which one is the ability of system software to control and run the computer, while applications software are installed by users to perform certain functions.",
+    "year": "2022"
+  },
+  {
+    "number": "151",
+    "text": "___________ is the combination of already processed _____________",
+    "options": {
+      "A": "information /data",
+      "B": "data /information",
+      "C": "information /instructions",
+      "D": "instructions /Data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64428?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "Information is the combination of already processed data.",
+    "year": "2022"
+  },
+  {
+    "number": "152",
+    "text": "What is the major purpose of application software?",
+    "options": {
+      "A": "oversee the running of the computer",
+      "B": "utilities",
+      "C": "database management",
+      "D": "recreation"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64429?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "The major function performed by all application software is to allow the user utilize it in a particular area. Be it security, research, gaming, etc.",
+    "year": "2022"
+  },
+  {
+    "number": "153",
+    "text": "What kind of data is processed by an analog computer?",
+    "options": {
+      "A": "Discrete data",
+      "B": "Intermittent",
+      "C": "Discretely varying",
+      "D": "Continuously varying data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64430?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "D",
+    "explanation": "An analog computer is the one which is used to process continuously varying data. This changeable yet continuous data is generally referred to as the analog data",
+    "year": "2022"
+  },
+  {
+    "number": "154",
+    "text": "Computers that are portable and convenient for users who travel are known as _________________",
+    "options": {
+      "A": "Super computers",
+      "B": "Laptops",
+      "C": "Mini computers",
+      "D": "File servers"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64432?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "A laptop computer is a personal computer for mobile use. It has most of the same components as a desktop computer, including a display, a keyboard, a pointing device such as a touchpad (also known as a trackpad) and/or a pointing stick, and speakers into a single unit. A laptop is powered by mains electricity via an AC adapter, and can be used away from an outlet using a rechargeable battery. Laptops are also sometimes called notebook computers, notebooks, ultrabooks or netbooks. This could also be referred to as portable computers as they are easy to carry around.",
+    "year": "2022"
+  },
+  {
+    "number": "155",
+    "text": "What does ICT stand for?",
+    "options": {
+      "A": "information and community technology",
+      "B": "Internet and communication technology",
+      "C": "information and communication technology",
+      "D": "Internet access communication technologies"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64433?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "ICT means Information and Communications Technology",
+    "year": "2022"
+  },
+  {
+    "number": "156",
+    "text": "_________ are programmes that affect the effectiveness of a computer system.",
+    "options": {
+      "A": "bugs",
+      "B": "virus",
+      "C": "anti virus",
+      "D": "none of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64434?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "Virus is a piece of code which is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.",
+    "year": "2022"
+  },
+  {
+    "number": "157",
+    "text": "Which of these is not a job of the operating system",
+    "options": {
+      "A": "Stopping unauthorised users accessing files that do not belong to them",
+      "B": "Handling HTTP requests for Web pages",
+      "C": "Allocating memory to programs that are running on the computer",
+      "D": "none of the above"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64435?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "The operating system doesn't handle HTTP requests for Web pages but a web server does.",
+    "year": "2022"
+  },
+  {
+    "number": "158",
+    "text": "_______ is the process of finding errors and fixing them within a program.",
+    "options": {
+      "A": "Compiling",
+      "B": "Executing",
+      "C": "Debugging",
+      "D": "Scanning"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64436?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "Debugging is the process of detecting and removing of existing and potential errors (also called as 'bugs') in a software code that can cause it to behave unexpectedly or crash. To prevent incorrect operation of a software or system, debugging is used to find and resolve bugs or defects",
+    "year": "2022"
+  },
+  {
+    "number": "159",
+    "text": "Which of the following is not a type of computer on the basis of operation?",
+    "options": {
+      "A": "Remote",
+      "B": "Hybrid",
+      "C": "Analog",
+      "D": "Digital"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/64437?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "Every other option but option A, is a type of computer based on the basis of operation",
+    "year": "2022"
+  }
+]

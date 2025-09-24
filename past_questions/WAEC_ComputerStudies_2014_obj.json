@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1",
+    "text": "The first calculator was built by?",
+    "options": {
+      "A": "Marie Jacquad",
+      "B": "Balise Pascal",
+      "C": "Charles Babbage",
+      "D": "John Napier"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/57672?exam_type=waec&type=obj",
+    "correct_answer": "B",
+    "explanation": "Pascaline, also called Arithmetic Machine, the first calculator or adding machine to be produced in any quantity and actually used. The Pascaline was designed and built by theFrench mathematician-philosopher Blaise Pascalbetween 1642 and 1644.",
+    "year": "2014"
+  },
+  {
+    "number": "2",
+    "text": "A similarity between data and information is that both?",
+    "options": {
+      "A": "can be displayed on the monitor",
+      "B": "are computer inputs",
+      "C": "are processed facts",
+      "D": "are computer results"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/57683?exam_type=waec&type=obj",
+    "correct_answer": "A",
+    "explanation": "Both data and information can be represented in various formats, such as numbers, text, images, and audio. Hence, OPTION A is Correct.",
+    "year": "2014"
+  },
+  {
+    "number": "3",
+    "text": "The computer hardware can be classified into",
+    "options": {
+      "A": "ALU and Control Unit",
+      "B": "System Unit and Peripheral",
+      "C": "Central Processing Unit and Control Unit",
+      "D": "Input and Output Units"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59429?exam_type=waec&type=obj",
+    "correct_answer": "B",
+    "explanation": "The computer hardware is classified into System Units and Peripherals, they are attached to the computer to add or enhance functionality.\nSystem Unit: This includes the main components of a computer, such as the motherboard, CPU, RAM, and storage devices.Peripheral: These are devices that are connected to the system unit but are not part of the core computer architecture, such as printers, scanners, and external drives.",
+    "year": "2014"
+  },
+  {
+    "number": "4",
+    "text": "The outcome of a processed data in a computer is known as",
+    "options": {
+      "A": "raw fact",
+      "B": "Information",
+      "C": "database",
+      "D": "computer result"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59431?exam_type=waec&type=obj",
+    "correct_answer": "B",
+    "explanation": "The outcome of processed data in a computer is known as 'information'. Raw data is processed by a computer and turned into a meaningful output,\u00a0which is referred to as information. This is the fundamental concept of data processing",
+    "year": "2014"
+  },
+  {
+    "number": "5",
+    "text": "Which of the following devices is not a micro computer?",
+    "options": {
+      "A": "Note book",
+      "B": "Laptop",
+      "C": "EDVAC",
+      "D": "Desktop"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59436?exam_type=waec&type=obj",
+    "correct_answer": "C",
+    "explanation": "- EDVAC(Electronic Discrete Variable AutomaticComputer) was one of the earliest electroniccomputers\n-The EDVAC was a binary serial computer withautomatic addition, subtraction, multiplication, programmed division and automatic checkingwith an ultrasonic serial memory capacity of 1,000 44-bit words (later 1,024 words, thus giving a memory, in modern terms, of 5.5 kilobytes).",
+    "year": "2014"
+  },
+  {
+    "number": "6",
+    "text": "Which of the following computing devices did not exist in the pre-computing age to the 19th century?",
+    "options": {
+      "A": "Napier's bone",
+      "B": "Abacus",
+      "C": "ENIAC",
+      "D": "Slide Rule"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59438?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "7",
+    "text": "The computing devices invented by Charles Babbage are?",
+    "options": {
+      "A": "Difference Engine and Abacus",
+      "B": "Analytical Engine and Slide Rule",
+      "C": "Abacus and Slide Rule",
+      "D": "Analytical and Difference Engines"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59440?exam_type=waec&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "8",
+    "text": "In a computer, the sets of instruction that direct it in performing a particular task is called?",
+    "options": {
+      "A": "information",
+      "B": "program",
+      "C": "data",
+      "D": "file"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59441?exam_type=waec&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "9",
+    "text": "The property of a disk that determines the amount of data it may contain is?",
+    "options": {
+      "A": "size",
+      "B": "volume",
+      "C": "storage capacity",
+      "D": "storage power"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/59443?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "The property of a disk that determines the amount of data it may contain is its storage capacity.",
+    "year": "2014"
+  },
+  {
+    "number": "10",
+    "text": "Which of the following items best describes the term hardcopy?",
+    "options": {
+      "A": "Print out",
+      "B": "Written on a hardboard",
+      "C": "Information stored on a hard disk",
+      "D": "Amount of data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60213?exam_type=waec&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "The item that best describes the term \"HARDCOPY\" is PRINTOUT.",
+    "year": "2014"
+  },
+  {
+    "number": "11",
+    "text": "Which of the following is not an output device?",
+    "options": {
+      "A": "Plotters",
+      "B": "Speakers",
+      "C": "Projectors",
+      "D": "Webcams"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60214?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "An output device is any piece of computer hardware that converts information into human-readable form. e.g. monitor, plotters, speaker, etc\u00a0\u00a0A webcam\u00a0is aninput devicethat captures images (and sometimes video) digitally.",
+    "year": "2014"
+  },
+  {
+    "number": "12",
+    "text": "Which of the following signifies the correct association between a hardware component and its functions?",
+    "options": {
+      "A": "Mouse to input",
+      "B": "Monitor to print",
+      "C": "CPU to storage",
+      "D": "Hard disk to processing"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60215?exam_type=waec&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "13",
+    "text": "Fig 1above is a logic gate. Use it to answer the question below\nFig 1 represents_________?",
+    "options": {
+      "A": "an AND gate",
+      "B": "an OR gate",
+      "C": "a NOT gate",
+      "D": "a NAND gate"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60216?exam_type=waec&type=obj&page=3",
+    "correct_answer": "B",
+    "explanation": "OR gate.",
+    "year": "2014"
+  },
+  {
+    "number": "14",
+    "text": ".",
+    "options": {
+      "A": "Input, Output and Input signals",
+      "B": "Output, Output and Input signals",
+      "C": "Output, Input and Output Signals",
+      "D": "Input, Input and Output signals"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60217?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "X = input, Y = input, and Z = output.",
+    "year": "2014"
+  },
+  {
+    "number": "15",
+    "text": "Which of the following software is best suitable for keeping records during national population census?",
+    "options": {
+      "A": "Word Processing",
+      "B": "Spreadsheet",
+      "C": "Graphic",
+      "D": "Database"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60218?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "16",
+    "text": "A major function of system software is_________?",
+    "options": {
+      "A": "Collection of Files",
+      "B": "Translation of machine language into machine code",
+      "C": "File management",
+      "D": "Arrangement of files in ascending order"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60219?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "17",
+    "text": "An advantage of Graphical User Interface (GUI) over Disk Operating System (DOS) is that it allows the use of __________?",
+    "options": {
+      "A": "Diskette",
+      "B": "Keyboard",
+      "C": "Mouse",
+      "D": "Monitor"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60220?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "18",
+    "text": "Which of the following methods is not suitable for securing files?",
+    "options": {
+      "A": "Use of backup",
+      "B": "Use of antivirus",
+      "C": "Saving documents without a password",
+      "D": "Proper labelling of storage devices"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60221?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "19",
+    "text": "Which of the following programming languages needs no translator for it to run?",
+    "options": {
+      "A": "High-Level Language",
+      "B": "Low Level Language",
+      "C": "Machine Language",
+      "D": "Assembly Language"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60222?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "20",
+    "text": "Fig.2 is a system development cycle. Use it to answer the question below\nThe path labelled I is the __________?",
+    "options": {
+      "A": "System design",
+      "B": "System implementation",
+      "C": "Study review",
+      "D": "Feasibility study"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60223?exam_type=waec&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "The part labeled I\u00a0 is the feasibility study.",
+    "year": "2014"
+  },
+  {
+    "number": "21",
+    "text": "Fig.2 is a system development cycle. Use it to answer the question below\nThe path labelled II is the __________?",
+    "options": {
+      "A": "System design",
+      "B": "System implementation",
+      "C": "Study review",
+      "D": "Feasibility study"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60224?exam_type=waec&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "The part labeled II is the system design.",
+    "year": "2014"
+  },
+  {
+    "number": "22",
+    "text": "Fig.2 is a system development cycle. Use it to answer the question Above\nThe path labelled III is the _________?",
+    "options": {
+      "A": "System design",
+      "B": "System implementation",
+      "C": "Study review",
+      "D": "Feasibility study"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60225?exam_type=waec&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "The part labeled III is system implementation.",
+    "year": "2014"
+  },
+  {
+    "number": "23",
+    "text": "Fig.3 is a flowchart. Use it to answer the question below\nThe part labelled I represents_________",
+    "options": {
+      "A": "Begin/Start Symbol",
+      "B": "Process/Action Symbol",
+      "C": "Read/Write Symbol",
+      "D": "Stop/End Symbol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60226?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "The part labeled I represents the READ/WRITE SYMBOL.",
+    "year": "2014"
+  },
+  {
+    "number": "24",
+    "text": "Fig.3 is a flowchart. Use it to answer the question below\nThe part labelled II represents______",
+    "options": {
+      "A": "Decision Symbol",
+      "B": "Read/Write Symbol",
+      "C": "Process Symbol",
+      "D": "Stop/End Symbol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60227?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "II represents the\u00a0process symbol.",
+    "year": "2014"
+  },
+  {
+    "number": "25",
+    "text": "Fig.3 is a flowchart above. Use it to answer the question below\nThe part labeled III represents________",
+    "options": {
+      "A": "Process?Action Symbol",
+      "B": "Decision Symbol",
+      "C": "Read/Write Symbol",
+      "D": "Stop Symbol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60228?exam_type=waec&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "The part labeled III represents\u00a0the decision symbol.",
+    "year": "2014"
+  },
+  {
+    "number": "26",
+    "text": "The acronym HTTP stands for________",
+    "options": {
+      "A": "Hyper Text Transfer Protocol",
+      "B": "Higher Transfer Text Protocol",
+      "C": "Hard Text Transfer Protocol",
+      "D": "Higher Text Transfer Protocol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60229?exam_type=waec&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "The acronym HTTP\u00a0stands for \"HyperText Transfer Protocol,\" and it's the computer communication protocol used for most communication on the World Wide Web.",
+    "year": "2014"
+  },
+  {
+    "number": "27",
+    "text": "In ring topology, the computer that is allowed to transmit data possesses the ________",
+    "options": {
+      "A": "Packet",
+      "B": "Data",
+      "C": "Access method",
+      "D": "Token"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60230?exam_type=waec&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "In a ring topology, the computer that is allowed to transmit data possesses the token.\u00a0A token is a small data packet that circulates the network in a specific order.",
+    "year": "2014"
+  },
+  {
+    "number": "28",
+    "text": "The most cost-effective and secure way of transmitting confidential messages among the employees of an organization is the ___________",
+    "options": {
+      "A": "Electronic notice boards",
+      "B": "Teleconferencing",
+      "C": "E-mail",
+      "D": "Social networks"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60231?exam_type=waec&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "29",
+    "text": "The application software which allows information available on the internet to be obtained is called _________",
+    "options": {
+      "A": "Browser",
+      "B": "World Wide Web",
+      "C": "Spreadsheet",
+      "D": "Internet Protocol"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60232?exam_type=waec&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "30",
+    "text": "A modern and a telephone connection are provided. Other things needed to be able to connect\u00a0a computer to the internet are _______",
+    "options": {
+      "A": "ISP account and Utility software",
+      "B": "Browser and ISP account",
+      "C": "ISP account and Network",
+      "D": "Browser and Printer"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60233?exam_type=waec&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "31",
+    "text": "Which of the following is employed in the transfer of data between computers and a network?",
+    "options": {
+      "A": "Fiber optics",
+      "B": "Male connector",
+      "C": "Female Connector",
+      "D": "USB Port"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60234?exam_type=waec&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "Fiber optics is a technology that uses thin strands of glass or plastic to transmit data as light signals over long distances, making it highly effective for data transfer between computers and networks.",
+    "year": "2014"
+  },
+  {
+    "number": "32",
+    "text": "Which of the following software can be used for graphic production?",
+    "options": {
+      "A": "DOS Editor",
+      "B": "PC Writer",
+      "C": "Coreldraw",
+      "D": "Acrobat Reader"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60235?exam_type=waec&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "33",
+    "text": "In word processing, the icon in Fig.4 is used for __________",
+    "options": {
+      "A": "Paging",
+      "B": "Line Spacing",
+      "C": "Numbering",
+      "D": "Bulleting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60236?exam_type=waec&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "The icon is used for numbering.",
+    "year": "2014"
+  },
+  {
+    "number": "34",
+    "text": "Which of the following items is not located on the MS Word menu bar?",
+    "options": {
+      "A": "Home",
+      "B": "Open",
+      "C": "View",
+      "D": "Mailings"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60237?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "Open is not part of MS Word menu bar.",
+    "year": "2014"
+  },
+  {
+    "number": "35",
+    "text": "Use Table 3 to answer the questions below\n\n\n\n\u00a0\nA\nB\nC\nD\nE\n\n\n1\u00a0\n\u00a0 BOOK SUPPLIED TO SENIOR HIGH SCHOOLS\n\n\n2\n\u00a0\nMATHS\nICT\nENGLISH\n\u00a0\n\n\n3\nSHS1\n3450\n4500\n5678\n\u00a0\n\n\n4\nSHS11\n8765\n6580\n9000\n\u00a0\n\n\n5\nSHS111\n2456\n4009\n4400\n\u00a0\n\n\n\n\u00a0\nIn table 3, the content of cell C5________",
+    "options": {
+      "A": "2456",
+      "B": "4009",
+      "C": "4400",
+      "D": "3450"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60238?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "In spreadsheet terminology, cell references are given as a combination of the column letter and the row number. So, cell C5 refers to the cell in the third column (C) and the fifth row (5). Looking at the table, the content of cell C5 is '4009'",
+    "year": "2014"
+  },
+  {
+    "number": "36",
+    "text": "Use Table 3 to answer the questions below\n\n\n\n\u00a0\nA\nB\nC\nD\nE\n\n\n1\nBOOK\nSUPPLIED\nTO SENIOR\nHIGH\nSCHOOL\n\n\n2\n\u00a0\nMATHS\nICT\nENGLISH\n\u00a0\n\n\n3\nSHS1\n3450\n4500\n5678\n\u00a0\n\n\n4\nSHS11\n8765\n6580\n9000\n\u00a0\n\n\n5\nSHS111\n2456\n4009\n4400\n\u00a0\n\n\n\nThe number of cells that contain data in row 1 is_________",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60239?exam_type=waec&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "The question asks for the number of cells that contain data in row 1 of the given table. In spreadsheet terminology, a row is a horizontal line, and a cell is a box where a row and column intersect. Looking at the table, row 1 contains the following data: 'BOOKS', 'SUPPLIED', 'TO SENIOR', 'HIGH', and 'SCHOOLS'. Therefore, 5 cells in row 1 contain data.",
+    "year": "2014"
+  },
+  {
+    "number": "37",
+    "text": "Use Table 3 to answer the questions below\n\n\n\n\u00a0\nA\nB\nC\nD\nE\n\n\n1\u00a0\n\u00a0 BOOK SUPPLIED TO SENIOR HIGH SCHOOLS\n\n\n2\n\u00a0\nMATHS\nICT\nENGLISH\n\u00a0\n\n\n3\nSHS1\n3450\n4500\n5678\n\u00a0\n\n\n4\nSHS11\n8765\n6580\n9000\n\u00a0\n\n\n5\nSHS111\n2456\n4009\n4400\n\u00a0\n\n\n\n\u00a0\nWhich cells in table 3 contain numeric data with the least value?",
+    "options": {
+      "A": "A5",
+      "B": "B5",
+      "C": "C5",
+      "D": "D5"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60240?exam_type=waec&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "38",
+    "text": "In changing the storage location of a file, the command to use is_______",
+    "options": {
+      "A": "ctrl + S keys",
+      "B": "'save' command",
+      "C": "'save as' command",
+      "D": "alt + F, then save"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60241?exam_type=waec&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "39",
+    "text": "Which of the following statements is true about registers?",
+    "options": {
+      "A": "It is storage area around CPU",
+      "B": "It is situated beside the CPU",
+      "C": "It is situated beside the memory",
+      "D": "It is a special high speed storage area within the CPU"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60243?exam_type=waec&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "40",
+    "text": "The Instruction fetched into the CPU is decoded by the___________",
+    "options": {
+      "A": "Primary memory",
+      "B": "Program counter",
+      "C": "ALU",
+      "D": "Control unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60244?exam_type=waec&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "The Control Unit of the CPU is responsible for decoding instructions. It interprets the instructions and initiates the necessary actions to execute them. The primary memory holds the instructions and data, the program counter keeps track of the address of the next instruction to be executed, and the ALU (Arithmetic Logic Unit) performs arithmetic and logical operations.",
+    "year": "2014"
+  },
+  {
+    "number": "41",
+    "text": "The process of restarting a computer is known as ________",
+    "options": {
+      "A": "Cold booting",
+      "B": "Warm booting",
+      "C": "Resume booting",
+      "D": "Restart booting"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60245?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "42",
+    "text": "Evaluate the BASIC statement:\nLET Z = 4*W^2\u00a0 + 2*Y\nGiven that W = 5 and Y = 10",
+    "options": {
+      "A": "50",
+      "B": "80",
+      "C": "100",
+      "D": "120"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60246?exam_type=waec&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "4*W^2 + 2*YGiven that W = 5 and Y = 10\n4(5) \\(\\^2\\) + 2(10)4(25) + 2(10)100 + 20 = 120",
+    "year": "2014"
+  },
+  {
+    "number": "43",
+    "text": "Given that 26 \\(_10\\) =\u00a0X \\(_2\\), X is _________",
+    "options": {
+      "A": "11011",
+      "B": "11010",
+      "C": "11110",
+      "D": "10111"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60247?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "2\u00a0 \u00a0 \u00a0262\u00a0 \u00a0 \u00a013\u00a0 \u00a0 \u00a0r\u00a0 \u00a0 02\u00a0 \u00a0 \u00a0 6\u00a0 \u00a0 \u00a0 r\u00a0 \u00a0 12\u00a0 \u00a0 \u00a0 3\u00a0 \u00a0 \u00a0 r\u00a0 \u00a0 02\u00a0 \u00a0 \u00a0 1\u00a0 \u00a0 \u00a0 r\u00a0 \u00a0 10\u00a0 \u00a0 \u00a0 r\u00a0 \u00a0 111010x = 11010",
+    "year": "2014"
+  },
+  {
+    "number": "44",
+    "text": "In hexadecimal number system, B, D, E represent_________",
+    "options": {
+      "A": "11, 12, 13 respectively",
+      "B": "11, 13, 14 respectively",
+      "C": "13, 14, 15 respectively",
+      "D": "14, 16, 17 respectively"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60248?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "A = 10B = 11C = 12D = 13E = 14F = 15B = 11, D = 13, E = 14",
+    "year": "2014"
+  },
+  {
+    "number": "45",
+    "text": "The conversion of 11001 \\(_2\\) to base 10 equals_______",
+    "options": {
+      "A": "30",
+      "B": "28",
+      "C": "25",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60249?exam_type=waec&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "To convert the binary number 11001 to base 10, you would use the following conversion formula:\n(1 * 2^4) + (1 * 2^3) + (0 * 2^2) + (0 * 2^1) + (1 * 2^0) = 16 + 8 + 0 + 0 + 1 = 25\nTherefore, the binary number 11001 is equal to 25 in base 10.",
+    "year": "2014"
+  },
+  {
+    "number": "46",
+    "text": "The transaction file can also be described as _______",
+    "options": {
+      "A": "Master File",
+      "B": "Movement file",
+      "C": "Reference file",
+      "D": "Historical file"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60250?exam_type=waec&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "47",
+    "text": "Which of the following statements is not true about a computer file?",
+    "options": {
+      "A": "It is very fast to access any record within a file",
+      "B": "It is created electronically",
+      "C": "Initial setup is inexpensive",
+      "D": "File creation and access are less laborious"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60251?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "48",
+    "text": "An advantage of sequential access over serial access is that_______",
+    "options": {
+      "A": "Sequential file is slow",
+      "B": "Sequential file is detailed",
+      "C": "Sequential file does not use key",
+      "D": "Individual records can be located more quickly"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60252?exam_type=waec&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "49",
+    "text": "The Use of electronic systems to send an unsolicited e-mail to someone's address is known as ______",
+    "options": {
+      "A": "Hacking",
+      "B": "Spamming",
+      "C": "Internet fraud",
+      "D": "Piracy"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60253?exam_type=waec&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "Spamming is the use of electronic messaging systems like e-mails and other digital delivery systems and broadcast media to send unwanted bulk messages indiscriminately.",
+    "year": "2014"
+  },
+  {
+    "number": "50",
+    "text": "Which of the following ideals is protected by copyright?",
+    "options": {
+      "A": "Ideas",
+      "B": "Profit",
+      "C": "Expression of ideas",
+      "D": "Inexperience"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/60254?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  }
+]

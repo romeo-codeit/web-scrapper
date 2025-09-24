@@ -1,0 +1,674 @@
+[
+  {
+    "number": "1311",
+    "text": "A ball falling through a viscous liquid is acted upon by",
+    "options": {
+      "A": "upthrust only",
+      "B": "upthrust and the ball's weight",
+      "C": "the ball's weight and viscous force",
+      "D": "upthrust, the ball's weight and viscous force"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35737?exam_type=waec&type=obj&page=263",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1312",
+    "text": "An object of mass m moves with a uniform speed v round a circular path of radius r. If its angular speed is \\(\\omega\\), the magnitude of the centripetal force acting on it is",
+    "options": {
+      "A": "\\(m \\omega^2 r\\)",
+      "B": "\\(\\frac{mv^2}{r}\\)",
+      "C": "\\(m \\omega r\\)",
+      "D": "\\(\\frac{mv^2}{r^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35738?exam_type=waec&type=obj&page=263",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1313",
+    "text": "When an elastic material is stretched by a force, the energy stored in it is",
+    "options": {
+      "A": "kinetic",
+      "B": "potential",
+      "C": "thermal",
+      "D": "electrical"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35739?exam_type=waec&type=obj&page=263",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1314",
+    "text": "When the linear momentum of a body is constant, the net force acting on it",
+    "options": {
+      "A": "is zero",
+      "B": "increases",
+      "C": "decreases",
+      "D": "remains constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35740?exam_type=waec&type=obj&page=263",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1315",
+    "text": "If no net force acts on an object, the object maintains a state of rest or constant speed in a straight line. The above is a statement of Newton's",
+    "options": {
+      "A": "first law of motion",
+      "B": "second law of motion",
+      "C": "third law of motion",
+      "D": "law of universal gravitation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35741?exam_type=waec&type=obj&page=263",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1316",
+    "text": "Which of the following pairs of physical quantities is made up of vectors?",
+    "options": {
+      "A": "speed and displacement",
+      "B": "mass and force",
+      "C": "dislacement and acceleration",
+      "D": "momentum and length"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35742?exam_type=waec&type=obj&page=264",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1317",
+    "text": "The knowledge of surface tension is applied in the following areas except in",
+    "options": {
+      "A": "manufacturing of rain coats",
+      "B": "production of palm oil",
+      "C": "floating of a needle on water",
+      "D": "washing of plates with soapy water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35743?exam_type=waec&type=obj&page=264",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1318",
+    "text": "A body is projected vertically upwards with a speed of 10 ms-1 from a point 2m above the ground. Calculate the total time taken for the body to reach the ground. [g = 10ms-2]",
+    "options": {
+      "A": "1.00s",
+      "B": "2.00s",
+      "C": "2.18s",
+      "D": "3.00s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35744?exam_type=waec&type=obj&page=264",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1319",
+    "text": "A car starts from rest and covers a distance of 40m in 10s. Calculate the magnitude of its acceleration",
+    "options": {
+      "A": "0.25ms-2",
+      "B": "0.80ms-2",
+      "C": "3.20ms-2",
+      "D": "4.00ms-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35745?exam_type=waec&type=obj&page=264",
+    "correct_answer": "B",
+    "explanation": "2\n-2",
+    "year": "2014"
+  },
+  {
+    "number": "1320",
+    "text": "The diagram above illustrates a uniform metre rule which is balanced on a pivot by some masses. Calculate the value of M",
+    "options": {
+      "A": "500.0g",
+      "B": "400.0g",
+      "C": "44.4g",
+      "D": "25.0g"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35746?exam_type=waec&type=obj&page=264",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1321",
+    "text": "The period of a simple pendulum X is 5s. What is the period of a simple pendulum Y which makes 50 vibrations in the same time it takes X to make 20 vibrations?",
+    "options": {
+      "A": "12.5s",
+      "B": "2.5s",
+      "C": "2.0s",
+      "D": "1.2s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35747?exam_type=waec&type=obj&page=265",
+    "correct_answer": "C",
+    "explanation": "It takes X 5s for 1 complete vibration.\n\u21d2 It takes X (5 x 20)s for 20 vibrations.\n= 100s.\nIt takes Y 100s for 50 vibrations.\n\u21d2 The period of Y = \\(\\frac{100}{50}\\)s\n= 2s.",
+    "year": "2014"
+  },
+  {
+    "number": "1322",
+    "text": "Alcohol of mass 21g and density 0.7g cm-3 is mixed with 10g of water. Determine the density of the mixture [density of water = 1.0gcm-3]",
+    "options": {
+      "A": "0.775gcm-3",
+      "B": "0.875gcm-3",
+      "C": "0.780gcm-3",
+      "D": "0.880gcm-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35748?exam_type=waec&type=obj&page=265",
+    "correct_answer": "A",
+    "explanation": "mixture\n3\nmixture\nmixture",
+    "year": "2014"
+  },
+  {
+    "number": "1323",
+    "text": "A device that converts mechanical energy into electrical energy is",
+    "options": {
+      "A": "a dynamo",
+      "B": "an electric motor",
+      "C": "an induction coil",
+      "D": "a transformer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35749?exam_type=waec&type=obj&page=265",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1324",
+    "text": "The S.I unit of power is",
+    "options": {
+      "A": "N",
+      "B": "Pa",
+      "C": "W",
+      "D": "J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35750?exam_type=waec&type=obj&page=265",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1325",
+    "text": "A screw-jack has the distance between its successive threads as P and the length of its tommy bar as r. Its velocity ratio is given by the expression",
+    "options": {
+      "A": "\\(\\frac{2 \\pi r^2}{P}\\)",
+      "B": "\\(\\frac{2 \\pi r}{P}\\)",
+      "C": "\\(\\frac{2 \\pi}{rp}\\)",
+      "D": "\\(\\frac{P}{2 \\pi r}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35751?exam_type=waec&type=obj&page=265",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1326",
+    "text": "Heat transfer by conduction is similar to wave motion because",
+    "options": {
+      "A": "there is increase in temperature",
+      "B": "transfer of materials is involved",
+      "C": "charged particles vibrates at right angles",
+      "D": "no transfer of materials is involved"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35752?exam_type=waec&type=obj&page=266",
+    "correct_answer": "D",
+    "explanation": "Heat transfer by conduction is similar to wave motion because no transfer of materials is involved. In conduction, heat is transferred from molecule to molecule within a substance without moving the substance as a whole. This is similar to wave motion where energy is transferred from particle to particle within the medium without any net movement of the medium itself.",
+    "year": "2014"
+  },
+  {
+    "number": "1327",
+    "text": "The temperature at which the water vapor in the air saturates the air and begins to condense is known as",
+    "options": {
+      "A": "dew point",
+      "B": "critical point",
+      "C": "boiling point",
+      "D": "triple point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35753?exam_type=waec&type=obj&page=266",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1328",
+    "text": "The change of state from solid to liquid occurs",
+    "options": {
+      "A": "at constant temperature",
+      "B": "when temperature is lower than the boiling point",
+      "C": "when temperature is just near freezing point",
+      "D": "when temperature is equal to the boiling point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35754?exam_type=waec&type=obj&page=266",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1329",
+    "text": "Which of the following types of thermometers can be used to measure a range of temperature from -50\u00b0C to 50\u00b0? i. Clinical ii. Mercury iii. Alcohol-in-glass",
+    "options": {
+      "A": "i only",
+      "B": "ii only",
+      "C": "iii only",
+      "D": "i and ii only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35755?exam_type=waec&type=obj&page=266",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1330",
+    "text": "A body of mass M kg rests on a plane inclined at an angle \\(\\theta\\) to the horizontal. The component of the weight of the body parallel to the plane is",
+    "options": {
+      "A": "Mg sin \\(\\theta\\)",
+      "B": "Mg cos \\(\\theta\\)",
+      "C": "Mg tan \\(\\theta\\)",
+      "D": "Mg sec \\(\\theta\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35756?exam_type=waec&type=obj&page=266",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1331",
+    "text": "A quantity of water at 20oC is mixed with another quantity of water at 70oC. The final steady temperature of the mixture is 40oC. Determine the ratio of the mass of the cold water to that of the hot water",
+    "options": {
+      "A": "7:2",
+      "B": "3:2",
+      "C": "2:5",
+      "D": "1:2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35757?exam_type=waec&type=obj&page=267",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1332",
+    "text": "The mass of an empty density bottle is 30g. When filled with a liquid, the mass of the bottle and the liquid is 40g. On heating the filled bottle through 40\u00bac, the mass reduces to 38g. Calculate the apparent cubic expansivity of the liquid",
+    "options": {
+      "A": "6.25 x 10K-1",
+      "B": "6.25 x 10-3K-1",
+      "C": "2.50 x 10-3K-1",
+      "D": "2.50 x 10-4K-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35758?exam_type=waec&type=obj&page=267",
+    "correct_answer": "B",
+    "explanation": "Apparent cubic expansivity = \\(\\frac{\\text{mass of hot liquid expelled}}{\\text{mass of hot liquid left x temp. rise}}\\)= \\(\\frac{2}{8 \\times 40} = 0.00625\\)",
+    "year": "2014"
+  },
+  {
+    "number": "1333",
+    "text": "A car\u00a0traveling at 30ms\\(^{-1}\\) overcomes a frictional resistance of 100N while moving. Calculate the power developed by the engine. [1 hp = 0.75 kW]",
+    "options": {
+      "A": "0.23hp",
+      "B": "0.40hp",
+      "C": "4.00hp",
+      "D": "4.40hp"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35759?exam_type=waec&type=obj&page=267",
+    "correct_answer": "C",
+    "explanation": "P = FV = \\(\\frac{100 \\times 30}{1000} = 3 kW\\)\\(\\frac{3}{0.75} = 4hp\\)",
+    "year": "2014"
+  },
+  {
+    "number": "1334",
+    "text": "The quality of a note depends on its",
+    "options": {
+      "A": "frequency",
+      "B": "pitch",
+      "C": "overtones",
+      "D": "amplitude"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35760?exam_type=waec&type=obj&page=267",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1335",
+    "text": "A transverse wave can be distinguished from a longitudinal wave by",
+    "options": {
+      "A": "diffraction",
+      "B": "relection",
+      "C": "refraction",
+      "D": "polarization"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35761?exam_type=waec&type=obj&page=267",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1336",
+    "text": "Refraction of lights differs from reflection in that, in refraction i. at least two media are involved ii. there is a change in the direction of the ray iii. the speed of the ray changes. Which of the statements above is/are correct?",
+    "options": {
+      "A": "i only",
+      "B": "i ad ii only",
+      "C": "ii and iii only",
+      "D": "i and iii only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35762?exam_type=waec&type=obj&page=268",
+    "correct_answer": "D",
+    "explanation": "At least two media are involved: True for refraction.\nThere is a change in the direction of the ray: True for both refraction and reflection.\nThe speed of the ray changes: True only for refraction.",
+    "year": "2014"
+  },
+  {
+    "number": "1337",
+    "text": "Which of the following relations about the focal length fo of the objective and focal length fe of the eye piece of a compound is correct?",
+    "options": {
+      "A": "fo = fe",
+      "B": "fo < fe",
+      "C": "fo > fe",
+      "D": "fe = 2fo"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35763?exam_type=waec&type=obj&page=268",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1338",
+    "text": "The functional difference between a lens and a mirror is that a lens",
+    "options": {
+      "A": "reflects a beam of light while a mirror refracts it",
+      "B": "refracts a beam of light while a mirror reflects it",
+      "C": "absorbs incident rays while a mirror transmit them",
+      "D": "transmits incidents ray whle a mirror absorbs them"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35764?exam_type=waec&type=obj&page=268",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1339",
+    "text": "The diagram above illustrates an electromagnetic wave travelling with speed 3.0 x 108ms-1. Calculate the wave length of the wave",
+    "options": {
+      "A": "0.05m",
+      "B": "0.15m",
+      "C": "0.16m",
+      "D": "0.40m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35765?exam_type=waec&type=obj&page=268",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1340",
+    "text": "A fish inside a pond appears to be at a depth of 1.5m when viewed vertically from above. The refractive index of the water in the pound is 1.3. Calculate the apparent displacement of the fish",
+    "options": {
+      "A": "2.50m",
+      "B": "1.95m",
+      "C": "1.50m",
+      "D": "0.45m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35766?exam_type=waec&type=obj&page=268",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1341",
+    "text": "an observer hears an echo 1.26 seconds after blowing a whistle near a cliff. calculate the distance of the observer from the cliff. [speed of sound in air = 330ms-1]",
+    "options": {
+      "A": "104.4m",
+      "B": "207.9m",
+      "C": "415.8m",
+      "D": "523.8m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35767?exam_type=waec&type=obj&page=269",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1342",
+    "text": "An object is placed in front of two plane mirrors inclined at 60o to each other. Determine the number of the images formed",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35768?exam_type=waec&type=obj&page=269",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1343",
+    "text": "An ammeter can be adapted to measure potential difference by using a",
+    "options": {
+      "A": "shunt",
+      "B": "multiplier",
+      "C": "rheostat",
+      "D": "resistance box"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35769?exam_type=waec&type=obj&page=269",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1344",
+    "text": "The region around a magnet in which magnetic force can be expressed is known as",
+    "options": {
+      "A": "declination",
+      "B": "flux density",
+      "C": "field",
+      "D": "flux"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35770?exam_type=waec&type=obj&page=269",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1345",
+    "text": "In an ac circuit when the supply voltage frequency is equal to the resonant frequency, the current",
+    "options": {
+      "A": "leads the supply voltge by 90o",
+      "B": "lags behind the supply voltage by 90o",
+      "C": "leads the supply voltage by 45o",
+      "D": "is in phase with the supply voltage"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35771?exam_type=waec&type=obj&page=269",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1346",
+    "text": "The energy stored in a simple cell is",
+    "options": {
+      "A": "electrical",
+      "B": "nuclear",
+      "C": "thermal",
+      "D": "chemical"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35772?exam_type=waec&type=obj&page=270",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1347",
+    "text": "Which of the following conditions occur at resonance in a series RLC circuit? i. Impedance equals resistance ii. Current is maximum iii. Reactance is maximum iv. Current and voltage are 90\u00b0\u00a0out of phase",
+    "options": {
+      "A": "i and ii only",
+      "B": "i and iii only",
+      "C": "i, ii and iii only",
+      "D": "i, ii, iii and iv"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35773?exam_type=waec&type=obj&page=270",
+    "correct_answer": "A",
+    "explanation": "conditions for the occurrence of resonance in a series RLC circuit are i) impedance is at minimum ie when inductive and capacitive reactances are equal ii) when current is maximum",
+    "year": "2014"
+  },
+  {
+    "number": "1348",
+    "text": "An electric motor converts",
+    "options": {
+      "A": "electrical energy to mechanical energy",
+      "B": "mechanical energy to electrical energy",
+      "C": "mechanical energy to chemical energy",
+      "D": "electrical energy to thermal energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35774?exam_type=waec&type=obj&page=270",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1349",
+    "text": "A 15 \\(\\mu F\\) capacitor is connected to a 240V, 50Hz ac. source. Calculate the reactance of the capacitance [\\(\\pi = 3.142\\)]",
+    "options": {
+      "A": "16\\(\\Omega\\)",
+      "B": "68\\(\\Omega\\)",
+      "C": "106\\(\\Omega\\)",
+      "D": "212\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35775?exam_type=waec&type=obj&page=270",
+    "correct_answer": "D",
+    "explanation": "-6",
+    "year": "2014"
+  },
+  {
+    "number": "1350",
+    "text": "Two identical charges situated 20cm apart in vacuum repel each other with a force of 1.0N.Calculate the value of each other with a force of 1.0N. Calculate the value of each charge. [(14 \\(\\pi \\varepsilon_o)^{-1}\\) = 9 x 109Nm2C-2]",
+    "options": {
+      "A": "21\\(\\mu C\\)",
+      "B": "3.6\\(\\mu C\\)",
+      "C": "4.0\\(\\mu C\\)",
+      "D": "4.4\\(\\mu C\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35776?exam_type=waec&type=obj&page=270",
+    "correct_answer": "A",
+    "explanation": "9\n-6",
+    "year": "2014"
+  },
+  {
+    "number": "1351",
+    "text": "In the circuit diagram above, E is a battery of negligible internal resistance. If its emf is 9.0V. Calculate the current in the circuit ``",
+    "options": {
+      "A": "1.8A",
+      "B": "1.0A",
+      "C": "0.8A",
+      "D": "0.3A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35777?exam_type=waec&type=obj&page=271",
+    "correct_answer": "B",
+    "explanation": "1\n2",
+    "year": "2014"
+  },
+  {
+    "number": "1352",
+    "text": "A wire of length 100 cm has a resistance of 10\\(\\Omega\\). If its cross-sectional area is 0.005cm2, determine its resistivity",
+    "options": {
+      "A": "0.0005\\(\\Omega\\)cm",
+      "B": "0.0015\\(\\Omega\\)cm",
+      "C": "0.0016\\(\\Omega\\)cm",
+      "D": "0.0700\\(\\Omega\\)cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35778?exam_type=waec&type=obj&page=271",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1353",
+    "text": "A transformer has 400 turns of wire in the primary coil and 40 turns in the secondary col. If the input voltage is 150 volts. Calculate the magnitude of the output voltage",
+    "options": {
+      "A": "150V",
+      "B": "55V",
+      "C": "36V",
+      "D": "15V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35779?exam_type=waec&type=obj&page=271",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "1354",
+    "text": "The circuit above illustrates a standard resistor R, voltage source E and a lamp L connected in series. If the temperature of R is increased, the brightness of the lamp will",
+    "options": {
+      "A": "increase sharply",
+      "B": "decrease slightly",
+      "C": "remains the same",
+      "D": "increase gradually"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35780?exam_type=waec&type=obj&page=271",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1355",
+    "text": "The energy required to separate the nucleus in an atom completely is known as",
+    "options": {
+      "A": "mass defect of the atom",
+      "B": "electron binding energy",
+      "C": "excitation energy",
+      "D": "nuclear binding energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35781?exam_type=waec&type=obj&page=271",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1356",
+    "text": "Which of the following statements is the major advantage of nuclear fusion over nuclear fission?",
+    "options": {
+      "A": "nuclear fusion releases more energy",
+      "B": "more neutrons are released in fusion than in fission",
+      "C": "fussion does not release as much dangerous radiation as fission",
+      "D": "fusion reactions occur more readily than fission"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35782?exam_type=waec&type=obj&page=272",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1357",
+    "text": "An aluminum foil is placed across a beam of radiation from a radioactive source. Which of the following types of radiation will be stopped by it?",
+    "options": {
+      "A": "alpha and beta particles",
+      "B": "alpha and gamma particles",
+      "C": "beta and gamma particles",
+      "D": "gamma particles only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35783?exam_type=waec&type=obj&page=272",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "1358",
+    "text": "An element of nucleon number P and atomic number Q emits an alpha particle from its nucleus. The resultant numbers of the new element formed are respectively",
+    "options": {
+      "A": "P - 4 and Q + 2",
+      "B": "P - 4 and Q - 2",
+      "C": "P + 2 and Q + 2",
+      "D": "P + 2 and Q - 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/35784?exam_type=waec&type=obj&page=272",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  }
+]

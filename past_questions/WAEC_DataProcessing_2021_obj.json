@@ -1,0 +1,562 @@
+[
+  {
+    "number": "240",
+    "text": "The main component of the first generation computer was",
+    "options": {
+      "A": "microchip",
+      "B": "transistor",
+      "C": "integrated circuit",
+      "D": "electronic valve"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62582?exam_type=waec&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "Vacuum tubes(also known as electronic valves) were used in the first\u00a0generations of computers. These computer systems made use of vacuum tubes as storage circuits and electromagnetic drums.",
+    "year": "2021"
+  },
+  {
+    "number": "241",
+    "text": "The term Garbage-In-Garbage-Out is used to explain the characteristics of the computer in terms of",
+    "options": {
+      "A": "storage",
+      "B": "speed",
+      "C": "power",
+      "D": "accuracy"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62584?exam_type=waec&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "242",
+    "text": "The number 101100101\\(2\\) in denary is",
+    "options": {
+      "A": "753",
+      "B": "653",
+      "C": "357",
+      "D": "356"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62585?exam_type=waec&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "243",
+    "text": "Which of the following statements is true?",
+    "options": {
+      "A": "Data leads to information and information leads to knowledge",
+      "B": "Data leads to knowledge and knowledge leads to information",
+      "C": "Information leads to data and data leads to knowledge",
+      "D": "Knowledge leads to information and information leads to data"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62587?exam_type=waec&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "The correct statement is that data leads to information and information leads to knowledge.",
+    "year": "2021"
+  },
+  {
+    "number": "244",
+    "text": "The type of computer that counts in discrete form only is referred to as",
+    "options": {
+      "A": "analog computer",
+      "B": "digital computer",
+      "C": "hybrid computer",
+      "D": "mainframe computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62588?exam_type=waec&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "Digital computers represent data as discrete signals, which means that data is represented using binary digits or bits, which have a value of either 0 or 1.",
+    "year": "2021"
+  },
+  {
+    "number": "245",
+    "text": "Which of the following media involves point-to-point communication?",
+    "options": {
+      "A": "Radio",
+      "B": "Satellite",
+      "C": "Telephone",
+      "D": "Television"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62589?exam_type=waec&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "The term point-to-point telecommunications means a wireless data link between two fixed points. The telecommunications signal is typically bi-directional and either time division multiple access or channelized e.g. telephone call.",
+    "year": "2021"
+  },
+  {
+    "number": "246",
+    "text": "Fourth generation computer application can execute the following operations except",
+    "options": {
+      "A": "digging of drainages",
+      "B": "drainage channel design",
+      "C": "management of recreational facilities",
+      "D": "payroll management"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62591?exam_type=waec&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "Fourth-generation computer applications cannot execute the operation of \"digging of drainages\". This is because fourth-generation computers are software-based and designed for specific applications that focus on data manipulation,\u00a0report generation, and analysis.",
+    "year": "2021"
+  },
+  {
+    "number": "247",
+    "text": "The joystick is mainly used for",
+    "options": {
+      "A": "clicking the links on web pages",
+      "B": "drawing and playing computer games",
+      "C": "erasing of unwanted graphics",
+      "D": "typing of document in a word processor"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62592?exam_type=waec&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "A joystick is also known as the control column. The joystick is an input device\u00a0mostly used for gaming applications and, sometimes, in graphics applications.",
+    "year": "2021"
+  },
+  {
+    "number": "248",
+    "text": "The manipulation of digitalized information by computer or other electronic equipment is known as",
+    "options": {
+      "A": "data collation",
+      "B": "data manipulation",
+      "C": "information manipulation",
+      "D": "information processing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62593?exam_type=waec&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "Information processing refers to the manipulation of digitized information by computers and other digital electronic equipment, known collectively as information technology(IT)",
+    "year": "2021"
+  },
+  {
+    "number": "249",
+    "text": "Which of the following actions is not a source of computer virus?",
+    "options": {
+      "A": "Checking of e-mail",
+      "B": "Downloading programs",
+      "C": "Reading from CD/DVD",
+      "D": "Uploading data"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62594?exam_type=waec&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "The sources of computer viruses are:\nDownloading Programs. ...Pirated or Cracked Software.Email Attachments. ...Internet.Booting Data from Unknown CDs. ...Bluetooth. ...Unpatched Software.Infected disk of a flash drive.",
+    "year": "2021"
+  },
+  {
+    "number": "250",
+    "text": "When information is conveyed from one space to another, it is referred to as information",
+    "options": {
+      "A": "retrieval",
+      "B": "translation",
+      "C": "transmission",
+      "D": "transportation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62596?exam_type=waec&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "251",
+    "text": "Which of the following file organizations requires primary Key?",
+    "options": {
+      "A": "Indexed file organization",
+      "B": "Random file organization",
+      "C": "Serial file organization",
+      "D": "Sequential file organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62597?exam_type=waec&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "An indexed file is a file in which each record includes a primary key. To distinguish one record from another, the value of the primary key must be unique for each record. Records can then be accessed randomly by specifying the value of the record's primary key.",
+    "year": "2021"
+  },
+  {
+    "number": "252",
+    "text": "The protocol for transferring file(s)\u00a0from one machine to another is",
+    "options": {
+      "A": "SNMP",
+      "B": "SMTP",
+      "C": "FTP",
+      "D": "FAT"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62598?exam_type=waec&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "FTP (File Transfer Protocol) is a protocol used to transfer files between clients and servers on a network.",
+    "year": "2021"
+  },
+  {
+    "number": "253",
+    "text": "Mr Francis has an office complex with 20 rooms. What type of network is suitable for connecting all the computers in their various rooms into a single network?",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "PAN",
+      "D": "WAN"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62600?exam_type=waec&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "ALAN( local area network)\u00a0would be suitable for connecting all the computers in these rooms into a single network.",
+    "year": "2021"
+  },
+  {
+    "number": "254",
+    "text": "The following software are web browsers except",
+    "options": {
+      "A": "Firefox",
+      "B": "Google Chrome",
+      "C": "Linux",
+      "D": "Opera"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62601?exam_type=waec&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "255",
+    "text": "Use Figure 1 to answer question 16\nTo visit the previous page using the interface in\u00a0Figure 1,\u00a0the user will click on the part labeled",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62602?exam_type=waec&type=obj&page=51",
+    "correct_answer": "B",
+    "explanation": "To visit the previous page using the interface inFigure 1,the user will click on the part labeled II.\nThe back button is a user interface feature that takes a user back to their previous location. For instance, clicking the back button in an internet browser takes you back to the last web page you visited. The back button only works if there is a previous page in your browser history.",
+    "year": "2021"
+  },
+  {
+    "number": "256",
+    "text": "An operating systemthat enables more than one user to access the same data is called",
+    "options": {
+      "A": "multi-tasking OS",
+      "B": "multi-user OS",
+      "C": "single user OS",
+      "D": "virtual memory OS"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62603?exam_type=waec&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "257",
+    "text": "The feature of a word document that shows the page, number of words and errors found in a document is the",
+    "options": {
+      "A": "menu bar",
+      "B": "scroll bar",
+      "C": "status bar",
+      "D": "title bar"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62604?exam_type=waec&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "258",
+    "text": "Figure 2 shows a dialog box from Microsoft Word application. Use it to answer question 19\nWhich of the following command shortcuts can be used to display the dialog bax in Figure when the application is running?",
+    "options": {
+      "A": "Ctrl + O",
+      "B": "Ctrl + S",
+      "C": "Ctrl + Y",
+      "D": "Ctrl + Z"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62605?exam_type=waec&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "259",
+    "text": "S/N\nA\nB\nC\nD\nE\nF\nG\nH\n\n\n1\nSTAFF\nDAYS\nITEMS SALES (N)\nITEMS SALES (N)\nITEMS SALES (N)\nITEMS SALES (N)\nITEMS SALES (N)\n\nITEMS SALES (N)\n\n\n\n2\nJOY\nMON\n208\n300\n500\n400\n300\n158\n\n\n3\nAKIN\nTUE\n300\n200\n500\n400\n200\n200\n\n\n4\nKEN\nWED\n400\n300\n400\n500\n100\n300\n\n\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\n\n\nFigure 3\nThe highest sale by Joy is recorded in cell",
+    "options": {
+      "A": "F1",
+      "B": "B4",
+      "C": "B4",
+      "D": "E2"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62606?exam_type=waec&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "260",
+    "text": "The formula to calculate the average of a given range of data from cell B2 to cell D4 in a Microsoft Excel worksheet is",
+    "options": {
+      "A": "= AVERAGE (B2+D4)",
+      "B": "=AVERAGE (B2:D4)",
+      "C": "=AVERAGE(B2, D4)",
+      "D": "=AVERAGE(B2;D4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62607?exam_type=waec&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "261",
+    "text": "The field in a database which uniquely identifies each record is called a",
+    "options": {
+      "A": "composite key",
+      "B": "foreign key",
+      "C": "local key",
+      "D": "primary key"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62608?exam_type=waec&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "262",
+    "text": "The correct order of the steps taken in creating a database from the database template in MS Access 2007 is",
+    "options": {
+      "A": "click on the Office button --> click New --> choose a database of your choice",
+      "B": "click New --> click on Office button --> choose a database of your choice",
+      "C": "click on database of your choice --> click New --> click on Office button",
+      "D": "click New --> choose database of your choice --> click on Office button"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62609?exam_type=waec&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "To Create a database in MS Access 2007\nclick on the Office buttonIf Access is already open, select\u00a0File\u00a0>\u00a0New.Select\u00a0Blank database, or select a template.Enter a name for the database, select a location, and then select\u00a0Create.\nTherefore,\u00a0\u00a0the correct order is:Office button --> New --> Choose a database template --> Create",
+    "year": "2021"
+  },
+  {
+    "number": "263",
+    "text": "To show the whole presentation in Microsoft PowerPoint 2007, select slide show from the",
+    "options": {
+      "A": "design tab",
+      "B": "home tab",
+      "C": "title bar",
+      "D": "menu bar"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62610?exam_type=waec&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "To show the whole presentation in Microsoft PowerPoint 2007, select slide show from the menu bar.",
+    "year": "2021"
+  },
+  {
+    "number": "264",
+    "text": "Web design packages includes the following except",
+    "options": {
+      "A": "Macromedia Dreamweaver",
+      "B": "iWeb",
+      "C": "Front Page",
+      "D": "Adobe PageMaker"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62611?exam_type=waec&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "265",
+    "text": "Figure 4\u00a0shows CorelDraw tool bar. The part labeled\u00a0I\u00a0is used to",
+    "options": {
+      "A": "shape objects",
+      "B": "select objects",
+      "C": "draw lines and curves",
+      "D": "create texts"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62612?exam_type=waec&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "266",
+    "text": "One precautionary measure taken when cleaning a monitor is",
+    "options": {
+      "A": "plugging of power supply cable",
+      "B": "spraying a windows cleaner on the monitor",
+      "C": "unplugging the power supply cable",
+      "D": "using a vacuum cleaner to clean the monitor casing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62613?exam_type=waec&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "267",
+    "text": "The erratic movement of the mouse pointer is usually\u00a0caused by",
+    "options": {
+      "A": "damaged driver",
+      "B": "dirty mouse ball",
+      "C": "improper connection of mouse cable",
+      "D": "outdated driver"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62614?exam_type=waec&type=obj&page=54",
+    "correct_answer": "B",
+    "explanation": "The erratic movement of the mouse pointer is usually caused by issues such as dirty mouse sensors, interference from other devices, a malfunctioning mouse, or problems with the surface on which the mouse is used.",
+    "year": "2021"
+  },
+  {
+    "number": "268",
+    "text": "The use of the internet to perform illegal activities is generally called",
+    "options": {
+      "A": "cyber crime",
+      "B": "packet sniffing",
+      "C": "phishing",
+      "D": "spamming"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62615?exam_type=waec&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "Cybercrime can be defined as \u201cThe illegal usage of any communication device to commit or facilitate in committing any illegal act\u201d. Examples are Phishing and Scam,\u00a0Identity Theft,\u00a0Hacking/Misusing Computer Networks, and Internet Fraud.",
+    "year": "2021"
+  },
+  {
+    "number": "269",
+    "text": "One safety measure to consider in a computer room is",
+    "options": {
+      "A": "arranging the chairs in the room together",
+      "B": "keeping liquid within the room",
+      "C": "closing the door always",
+      "D": "maintaining a dust-free environment"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62616?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "270",
+    "text": "Security breaches in computing cannot be prevented through the use of",
+    "options": {
+      "A": "antivirus",
+      "B": "encryption",
+      "C": "firewall",
+      "D": "firmware"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62617?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "A. Antivirus: Protects against malware and viruses.\nB. Encryption: Secures data by making it unreadable to unauthorized users.\nC. Firewall: Monitors and controls incoming and outgoing network traffic based on security rules.\nD. Firmware: While it can have security features, it is primarily the software that controls hardware. It does not directly prevent security breaches by itself.\nTherefore, Option D is correct.",
+    "year": "2021"
+  },
+  {
+    "number": "271",
+    "text": "A system analyst is a person who",
+    "options": {
+      "A": "designs flowchart",
+      "B": "designs and implements new solutions",
+      "C": "trains computer users",
+      "D": "writes complex computer programs"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62618?exam_type=waec&type=obj&page=55",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "272",
+    "text": "The malware which is programmed to initiate at a specific date or when a specific event occurs is called",
+    "options": {
+      "A": "directory virus",
+      "B": "logic bomb",
+      "C": "polymorphic virus",
+      "D": "root kit virus"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62619?exam_type=waec&type=obj&page=55",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "273",
+    "text": "One advantage of information processing is that",
+    "options": {
+      "A": "face-to-face interaction among staff may be reduced",
+      "B": "initial investment cost can be high",
+      "C": "running cost becomes lower in the long term",
+      "D": "It encourages the training/retraining of staff"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62620?exam_type=waec&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "Some advantages of information processing include :\nefficiency/high speed and reliabilitylower overall costeasy retrievalservice improvementeconomical etc.\nsome disadvantages include:\nHigh initial investment costface-to-face interaction among staff may be reducedExtra cost of retraining staffprone to unauthorized access etc.",
+    "year": "2021"
+  },
+  {
+    "number": "274",
+    "text": "The function of the SQL statement SELECT Student ID, Surname, House Name FROM Student, is that it",
+    "options": {
+      "A": "retrieves the listed fields from student table",
+      "B": "highlight the listed fields from student table",
+      "C": "hides the selected fields from student table",
+      "D": "deletes the listed fields from students table"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62621?exam_type=waec&type=obj&page=55",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "275",
+    "text": "The best arrangement that gives the correct order of magnitude of the database element is",
+    "options": {
+      "A": "character, field, record, table, database, file",
+      "B": "character, field, record, table, file, database",
+      "C": "record, file, field, table, character, database",
+      "D": "table, file, record, field, character, database"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62622?exam_type=waec&type=obj&page=55",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "276",
+    "text": "A file organization that contains a reference number is called",
+    "options": {
+      "A": "direct access",
+      "B": "indexed access",
+      "C": "random access",
+      "D": "sequential access"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62623?exam_type=waec&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "277",
+    "text": "The following media are used for information transmission except",
+    "options": {
+      "A": "diary",
+      "B": "magazine",
+      "C": "radio",
+      "D": "television"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62624?exam_type=waec&type=obj&page=56",
+    "correct_answer": "A",
+    "explanation": "Although a diary can also be used to transmit information\u00a0it is more personal than public hence it is the odd one in the options provided as radio, magazine, and television are used for public information transmission.",
+    "year": "2021"
+  },
+  {
+    "number": "278",
+    "text": "To prevent the loss of data in the computer, it is better to implement file",
+    "options": {
+      "A": "access",
+      "B": "maintenance",
+      "C": "checks",
+      "D": "backup"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62625?exam_type=waec&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "279",
+    "text": "Which of the following terms is not a feature of distributed database?",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Multiple storage",
+      "C": "Replication",
+      "D": "Single server"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/62626?exam_type=waec&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2021"
+  }
+]

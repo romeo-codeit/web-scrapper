@@ -1,0 +1,702 @@
+[
+  {
+    "number": "2211",
+    "text": "Evaluate the determinant of the matrix M = \\(\\begin{bmatrix}3 & 4 & 6\\\\2 & 1 & -1\\\\-1 & 3 & 5\\end{bmatrix}\\)",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "30",
+      "D": "35"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70170?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "C",
+    "explanation": "M = \\(\\begin{bmatrix}3 & 4 & 6\\\\2 & 1 & -1\\\\-1 & 3 & 5\\end{bmatrix}\\)\n|M| = 3\\(\\begin{bmatrix}1 & -1\\\\3 & 5\\end{bmatrix}\\) - 4\\(\\begin{bmatrix}2\u00a0& -1\\\\-1\u00a0& 5\\end{bmatrix}\\)\u00a0+ 6\\(\\begin{bmatrix}2 & 1\\\\-1 & 3\\end{bmatrix}\\)\n3(5 + 3) - 4(10 - 1) + 6(6 + 1) = 24 - 36 + 42 = 30\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2212",
+    "text": "Find the amount if simple interest is paid yearly at 5% per annum for 3 years, on a principal of # 200,000.00",
+    "options": {
+      "A": "# 23, 000.00",
+      "B": "# 30,000.00",
+      "C": "# 300,000.00",
+      "D": "# 230,000.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70171?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "D",
+    "explanation": "Amount = principal + Interest\nI = \\(\\frac{ P\\times R \\times T}{100}\\)\nP = #200,000, R = 5%, T = 3 yrs\nI =\u00a0 = \\(\\frac{ 200,000\\times 5\u00a0\\times 3}{100}\\)\n= 2000 x 15 = #30,000\nA = 200,000 + 30,000 = #230,000.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2213",
+    "text": "y is inversely proportional to x and y = 4, when x = \\(\\frac{1}{2}\\), find x when y = 10",
+    "options": {
+      "A": "2",
+      "B": "10",
+      "C": "\\(\\frac{1}{5}\\)",
+      "D": "\\(\\frac{1}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70174?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "C",
+    "explanation": "y\u00a0\u221d \\(\\frac{1}{x}\\)\ny = \\(\\frac{k}{x}\\)\ny = 4, x = \\(\\frac{1}{2}\\), find x when y = 10\n4 = \\(\\frac{k}{\\frac{1}{2}}\\)\nk = 2\nTherefore, x = \\(\\frac{2}{10}\u00a0= \\frac{1}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2214",
+    "text": "Find the angle subtended by an arc 33cm long of a circle of diameter 28cm.",
+    "options": {
+      "A": "105\\(^0\\)",
+      "B": "115\\(^0\\)",
+      "C": "120\\(^0\\)",
+      "D": "135\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70176?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "D",
+    "explanation": "Length of Arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r\nLength of arc = 33cm, diameter = 28cm\u00a0\u2192 r = 14cm\n33 = \\(\\frac{\\theta}{360} \\times 2 \\times \\frac{22}{7}\\times14\\)\n\\(\\theta\\) = \\(\\frac{33 \\times 180}{22 \\times 2}\\)\n\\(\\theta\\) = 135\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2215",
+    "text": "Solve 16\\(^x\\) = 0.25",
+    "options": {
+      "A": "-\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "-\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70177?exam_type=jamb&type=obj&page=443",
+    "correct_answer": "A",
+    "explanation": "16\\(^x\\) = 0.25\n16\\(^x\\) = \\(\\frac{25}{100} = \\frac{1}{4}\\)\n4(\\(^2)^x\\) = 4\\(^{-1}\\)\n2x = -1\nx = \\(\\frac{-1}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2216",
+    "text": "The ratio of men to women in a 20-member\u00a0committee is 3:1. How many women must be added to the committee to make the ratio of men to women 3:2?",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "7",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70179?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "B",
+    "explanation": "The ratio of men to women = 3:1\nNumber of committee members = 20\nnumber of men in the committee = \\(\\frac{3}{4} \\times 20 = 15\\)\nNumber of women in the committee = \\(\\frac{1}{4} \\times 20 = 5\\)\nNew ratio = 3:2, and let the number\u00a0of women to be added to make the ratio 3:2 be x\n3:2 = 15:5+x\n\\(\\frac{3}{2} = \\frac{15}{5 + x }\\)\n15 + 3x = 30\n3x = 30 - 15 = 15\nx = \\(\\frac{15}{3}\\) = 5\nTherefore, the number of women to be added to make the ratio of men to women 3:2 = 5.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2217",
+    "text": "If p * q = 2p + pq + q, find p\u00a0 when ( p * 2) - (p * 1) = 40",
+    "options": {
+      "A": "39",
+      "B": "40",
+      "C": "41",
+      "D": "42"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70180?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "A",
+    "explanation": "p * q = 2p + pq + q\n(p*2) - (p*1) = 40\nfirstly, p = p and q = 2, secondly p = p and q = 1\nthen, 2p + 2p + 2 - (2p + p + 1) = 40\n4p + 2 - 3p - 1 = 40\np + 1 = 40\np = 40 - 1 = 39\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2218",
+    "text": "Which of the following is a measure of central tendency?",
+    "options": {
+      "A": "Standard deviation",
+      "B": "Range",
+      "C": "Variance",
+      "D": "Mean"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70181?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "D",
+    "explanation": "The measures of central tendency are: Mean, Median, and Mode while the measures of dispersion/spread are: Range, Variance, Standard Deviation, Interquartile Range (IQR), and Coefficient of Variation.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2219",
+    "text": "From the figure above, find the length of Chord PQ",
+    "options": {
+      "A": "17cm",
+      "B": "18cm",
+      "C": "7cm",
+      "D": "9cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70182?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "D",
+    "explanation": "Length of a chord = 2rSin\\(\\frac{\\theta}{2}\\)\n\\(\\theta\\) = 60\u00ba not 30\u00ba and radius = 9cm\nTherefore, Length of the chord = 2 x 9 Sin\\(\\frac{60\u00ba}{2}\\) = 2 x 9 x Sin 30\u00ba =\u00a0 2 x 9 x \\(\\frac{1}{2}\\) = 9cm.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2220",
+    "text": "Identify the equation of the shaded region in the given graph",
+    "options": {
+      "A": "y > 1",
+      "B": "x < 1",
+      "C": "X > 1",
+      "D": "y < 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70185?exam_type=jamb&type=obj&page=444",
+    "correct_answer": "C",
+    "explanation": "The shaded part is after 1, and on the x-axis, showing that x is greater than 1\ni.e x > 1\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2221",
+    "text": "In how many ways can 6 people sit around a\u00a0table",
+    "options": {
+      "A": "120",
+      "B": "240",
+      "C": "60",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70186?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "A",
+    "explanation": "The number of ways is given by\u00a0(n\u22121)!\nFor six people =\u00a0(6\u22121)! = 5! = 120\nThus, the number of ways to seat 6 people around the table is: 120\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2222",
+    "text": "The graph above represents inequalities",
+    "options": {
+      "A": "3x +4y \u226512, x >0, y > 0",
+      "B": "3x + 4y\\(\\leq\\) 12, x \u2265 0, y \u2265 0",
+      "C": "3x + 4y <12, x \\(\\leq\\) 0, y \u2265 0",
+      "D": "3x + 4y < 12, x \u2265 0, y \u2265 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70188?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "D",
+    "explanation": "3x + 4y < 12, x \u2265 0, y \u2265 0 represent the graph above.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2223",
+    "text": "Let A = \\(\\begin{pmatrix}2 & -4 & 3\\\\5 & 1 & 0\\end{pmatrix}\\) and B =\u00a0 \\(\\begin{pmatrix}1\u00a0& 4 & -2\\\\-3\u00a0& 3\u00a0& -1\\end{pmatrix}\\). Find A + 2B",
+    "options": {
+      "A": "\\(\\begin{pmatrix}4\u00a0& 4\u00a0& -1\\\\-1\u00a0& 7\u00a0& -2\\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix}-1\u00a0& 4\u00a0& -1\\\\4\u00a0& 7\u00a0& -2\\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix}4\u00a0& 4\u00a0& -1\\\\7\u00a0& 7\u00a0& -2\\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix}-1\u00a0& 7\u00a0& -2\\\\4\u00a0& 4\u00a0& -2\\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70189?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "A",
+    "explanation": "A = \\(\\begin{pmatrix}2 & -4 & 3\\\\5 & 1 & 0\\end{pmatrix}\\), B =\u00a0 \\(\\begin{pmatrix}1\u00a0& 4 & -2\\\\-3\u00a0& 3\u00a0& -1\\end{pmatrix}\\)\n2B = 2 x\u00a0 \\(\\begin{pmatrix}1\u00a0& 4 & -2\\\\-3\u00a0& 3\u00a0& -1\\end{pmatrix}\\) =\u00a0 \\(\\begin{pmatrix}2\u00a0& 8\u00a0& -4\\\\-6\u00a0& 6\u00a0& -2\\end{pmatrix}\\)\nA + 2B =\u00a0 \\(\\begin{pmatrix}2 & -4 & 3\\\\5 & 1 & 0\\end{pmatrix}\\) +\u00a0 \\(\\begin{pmatrix}2\u00a0& 8\u00a0& -4\\\\-6\u00a0& 6\u00a0& -2\\end{pmatrix}\\) =\u00a0 \\(\\begin{pmatrix}4\u00a0& 4\u00a0& -1\\\\-1\u00a0& 7\u00a0& -2\\end{pmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2224",
+    "text": "The sum to infinity of a GP is 100, find its first term if the common ratio is -\\(\\frac{1}{2}\\)",
+    "options": {
+      "A": "150",
+      "B": "155",
+      "C": "160",
+      "D": "165"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70192?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "A",
+    "explanation": "S\\(_\u221e\\) = \\(\\frac{a}{1- r}\\) since 1 > r\nS\\(_\u221e\\) = 100, r = \\(\\frac{-1}{2}\\), a = ?\n100 =\u00a0\\(\\frac{a}{1- \\frac{-1}{2}}\\) = \\(\\frac{a}{\\frac{3}{2}}\\) ( - - = +)\na = 100 x \\(\\frac{3}{2}\\) = 150\nTherefore, the first term (a) = 150\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2225",
+    "text": "PQR is a triangle such that |PQ| = |QR| = 8cm and QPR = 60\u00ba. Find the area of \\(\\angle\\) PQR",
+    "options": {
+      "A": "16\\(\\sqrt{3}cm^2\\)",
+      "B": "16\\(\\sqrt{2}cm^2\\)",
+      "C": "8\\(\\sqrt{3}cm^2\\)",
+      "D": "16\\(\\sqrt{2}cm^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70195?exam_type=jamb&type=obj&page=445",
+    "correct_answer": "A",
+    "explanation": "The area of a triangle given two sides and the included angle = \\(\\frac{1}{2}\\) x a x b x Sin\\(\\theta\\)\na = b = 8cm\n\\(\\theta\\) = 60\u00ba\nArea =\u00a0 \\(\\frac{1}{2}\\) x 8 x 8 x Sin 60\u00ba =\u00a0 \\(\\frac{1}{2}\\) x 64 x\u00a0 \\(\\frac{\\sqrt{3}}{2}\\) ( Sin 60\u00ba =\u00a0 \\(\\frac{\\sqrt{3}}{2}\\) )\n=\u00a0 \\(\\frac{64\\sqrt{3}}{4}\\) =\u00a016\\(\\sqrt{3}cm^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2226",
+    "text": "The Venn diagram above shows the number of students offering physics and chemistry in a class of 65. What is the probability that a student selected from the class offers physics and chemistry if every students offers at least one subject?",
+    "options": {
+      "A": "\\(\\frac{2}{13}\\)",
+      "B": "\\(\\frac{5}{13}\\)",
+      "C": "\\(\\frac{2}{5}\\)",
+      "D": "\\(\\frac{3}{13}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70200?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "A",
+    "explanation": "65 = 30 -x + x + 45 - x\n65 - 75 = 10 = x\u00a0 ( number of students offering both subjects)\nPr( \\(\\text{students offering both subjects}\\)) = \\(\\frac{10}{65}\\) =\u00a0\\(\\frac{2}{13}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2227",
+    "text": "From the top of a building 10m high, the angle of elevation of a fruit on top of a tree 25m is 30\u00ba. Calculate the horizontal distance between the building and the tree.",
+    "options": {
+      "A": "15\\(\\sqrt{3}\\)m",
+      "B": "5\\(\\sqrt{3}\\)m",
+      "C": "25\\(\\sqrt{3}\\)m",
+      "D": "30\\(\\sqrt{3}\\)m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70205?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "A",
+    "explanation": "From the diagram above:\nTan 30\u00ba = \\(\\frac{15}{x}\\)\n\\(\\frac{\\sqrt{3}}{3}\\) =\u00a0 \\(\\frac{15}{x}\\)\nx\\(\\sqrt{3}\\) = 3 x 15 = 45\nx =\u00a0 \\(\\frac{45\\sqrt{3}}{3}\\) = 15\\(\\sqrt{3}\\)m ( this is after rationalizing the denominator)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2228",
+    "text": "A boy bought Oranges at the rate of #24.00 for 5 and sold it at the rate of # 30.00 for 4 Oranges. Find the profit made of the ones sold",
+    "options": {
+      "A": "# 24.00",
+      "B": "#30.00",
+      "C": "# 10.80",
+      "D": "#20.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70249?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "C",
+    "explanation": "The boy bought 5 oranges for #24.00. Therefore, the cost price per orange is: c.p = \\(\\frac{24}{5}\\) = #4.800\nThe boy sold 4 oranges for #30.00. Therefore, the selling price per orange is: s.p = \\(\\frac{30}{4}\\) = # 7.50\nProfit per orange is calculated as:\nProfit per orange = SP per orange \u2212 CP per orange =\u00a0=7.50 \u2212 4.80 = 2.70\nIf the boy sold 4 oranges, the total profit from selling 4 oranges is:\u00a0Total Profit = 4 \u00d7 2.70 = #10.80\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2229",
+    "text": "Differentiate y = (5x + 1)\\(^4\\)",
+    "options": {
+      "A": "20 (5x + 1)\\(^3\\)",
+      "B": "4(5x + 1)\\(^3\\)",
+      "C": "5(5x + 1)\\(^3\\)",
+      "D": "(5x)\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70250?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{\\text{dy}}{dx}\\) =\u00a0 (5x + 1)\\(^4\\) = 20(5x + 1)\\(^3\\)\nlet u = (5x + 1) = \\(\\frac{du}{dx}\\)\u00a0= 5\ny = u\\(^4\\)\u00a0 then \\(\\frac{dy}{du}\\) = 4u\\(^3\\)\nTherefore, \\(\\frac{dy}{dx} = \\frac{dy}{du}\\times\\frac{du}{dx}\\) = 5 x\u00a0 4u\\(^3\\) =\u00a0 20(5x + 1)\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2230",
+    "text": "Simplify \\(\\frac{ 5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)",
+    "options": {
+      "A": "17 - \\(\\sqrt{7}\\)",
+      "B": "4 - \\(\\sqrt{7}\\)",
+      "C": "7 - \\(\\sqrt{7}\\)",
+      "D": "15 - \\(\\sqrt{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70251?exam_type=jamb&type=obj&page=446",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{ 5 + \\sqrt{7}}{3 + \\sqrt{7}}\\)\nmultiply the denominator and the numerator by the conjugate of 3 + \\(\\sqrt{7}\\) \u2192\u00a03 -\u00a0\\(\\sqrt{7}\\)\n\\(\\frac{ 5 + \\sqrt{7}}{3 + \\sqrt{7}}\\) x \\(\\frac{3 -\u00a0\\sqrt{7}}{3 -\u00a0\\sqrt{7}}\\)\n\\(\\frac{15 - 5\\sqrt{7} + 3\\sqrt{7} - 7}{3^2 - (\\sqrt{7})^2}\\)\n\\(\\frac{8 - 2\\sqrt{7}}{9 - 7}\\) = \\(\\frac{ 8 - 2\\sqrt{7}}{2}\\)\n= 4 - \\(\\sqrt{7}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2231",
+    "text": "Find the perimeter of a triangle whose vertices pass through ( 3, 2), (4, 5) and (6, 2) in surd form.",
+    "options": {
+      "A": "3 + \\(\\sqrt{12} + \\sqrt{13}\\)",
+      "B": "3 - \\(\\sqrt{10} + \\sqrt{13}\\)",
+      "C": "3 + \\(\\sqrt{10} + \\sqrt{13}\\)",
+      "D": "3 - \\(\\sqrt{12} + \\sqrt{13}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70253?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "C",
+    "explanation": "From the diagram above, Calculate the distance between any two vertices as follows.\nPQ = \\(\\sqrt{(6 - 3)^2 + (2-2)^2}\\) = \\(\\sqrt{9}\\) = 3\nQR = \\(\\sqrt{(6 - 4)^2 + (2-5)^2}\\) = \\(\\sqrt{13}\\)\nPR = \\(\\sqrt{(4 - 3)^2 + (5 - 1)^2}\\) = \\(\\sqrt{10}\\)\n\\(\\therefore\\), perimeter = 3 +\u00a0 \\(\\sqrt{13}\\) +\u00a0\\(\\sqrt{10}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2232",
+    "text": "Find the 7\\(^{th}\\) term of the sequence -10, 50, -250 ...........",
+    "options": {
+      "A": "165250",
+      "B": "156250",
+      "C": "-156250",
+      "D": "-165,250"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70254?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "C",
+    "explanation": "T\\(_7\\) = ar\\(^{n-1}\\) = ar\\(^{6}\\)\na = - 10, r = - 5\nT\\(_7\\) = -10(-5)\\(^{6}\\)\nT\\(_7\\) = - 10 x 15625 = - 156250\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2233",
+    "text": "The scores of students in a test are recorded as follows: 4, 3, 3, 2, 1, 2, 5, 7, 8, 3, and 5. Find the mode of the mark.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70255?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "B",
+    "explanation": "MODE\u00a0 = 3, the most frequent number.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2234",
+    "text": "P(x, 4) and Q( 10, 8) are two points joined by a straight line in a plane. If the midpoint of the line is (9, 6), find the value of x.",
+    "options": {
+      "A": "12",
+      "B": "9",
+      "C": "8",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70256?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "C",
+    "explanation": "midpoint(x) = \\(\\frac{x_1 + x_2}{2}\\)\nmidpoint(y) =\u00a0\\(\\frac{y_1 + y_2}{2}\\)\nGiven (9, 6)\nmidpoint(x) = \\(\\frac{x\u00a0+ 10}{2}\\) = 9\nx + 10 = 2 x 9 = 18\nx = 18 - 10 = 8.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2235",
+    "text": "Find x if \\(\\frac{16^{2 + x}}{4} = 64^x\\)",
+    "options": {
+      "A": "3",
+      "B": "- 3",
+      "C": "5",
+      "D": "- 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70259?exam_type=jamb&type=obj&page=447",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{16^{2 + x}}{4} = 64^x\\)\n16\\(^{2 + x} = 4 \\times 64^x\\)\n4\\(^{2(2 + x)} = 4^1 \\times 4^{3(x)}\\)\n(Equate coefficients since the bases are the same)\n2(2 + x) = 1 + 3x\n4 + 2x = 1 + 3x\n2x - 3x = 1 - 4\n-x = -3\nx = 3.",
+    "year": "2024"
+  },
+  {
+    "number": "2236",
+    "text": "Given that P is the set of all prime numbers between 0 and 10, and Q is the set of all odd numbers between 0 and 10. Find the union of elements in P that are not in Q and the elements in Q that are not in P.",
+    "options": {
+      "A": "{2, 9}",
+      "B": "{ 9}",
+      "C": "{1, 9}",
+      "D": "{1, 2, 9}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70264?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "D",
+    "explanation": "P = {Primes numbers b/w 0 and 10} = { 2, 3, 5, 7}\nQ = { Odd numbers b/w 0 and 10} = {1, 3, 5, 7, 9}\nLet W = { Union of elements in P not in Q and elements in Q not in P} = {1, 2, 9}\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2237",
+    "text": "In the diagram above, T represents the construction of angle .....",
+    "options": {
+      "A": "15\\(^0\\)",
+      "B": "30\\(^0\\)",
+      "C": "45\\(^0\\)",
+      "D": "60\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70266?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "B",
+    "explanation": "The construction of angle 30\u00ba\n(If you take a 60\u00ba\u00a0angle and bisect it, you would divide it into two angles of 30\u00ba\u00a0each.)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2238",
+    "text": "Convert the number 10111.11\\(_{two}\\) to a mixed number.",
+    "options": {
+      "A": "23\\(\\frac{1}{4}\\)",
+      "B": "23\\(\\frac{3}{4}\\)",
+      "C": "22\\(\\frac{1}{4}\\)",
+      "D": "24\\(\\frac{3}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70269?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "B",
+    "explanation": "10111.11\\(_{two}\\)\nconvert the number to base 10.\n10111.11\\(_{two}\\) = 1 x 2\\(^4\\) + 0\u00a0x 2\\(^3\\) + 1 x \\(^2\\) + 1 x 2\\(^1\\) + 1 x 2\\(^0\\) + 1 x 2\\(^{-1}\\) + 1 x 2\\(^{-2}\\)\n= 16 + 0 + 4 + 2 + 1 + \\(\\frac{1}{2}\\) +\u00a0\\(\\frac{1}{4}\\)\n= 23 +\u00a0\\(\\frac{3}{4}\\) = 23\\(\\frac{3}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2239",
+    "text": "Subtract 14256\\(_{seven}\\) from 20045\\(_{seven}\\)",
+    "options": {
+      "A": "1256\\(_{seven}\\)",
+      "B": "2456\\(_{seven}\\)",
+      "C": "1356\\(_{seven}\\)",
+      "D": "2465\\(_{seven}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70271?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "B",
+    "explanation": "Subtract 14256\\(_{seven}\\) from 20045\\(_{seven}\\) = 2456\\(_{seven}\\)\n200451425602456\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2240",
+    "text": "The average age of the four female teachers in a school is 40 and the average age of eight male teachers in the school is 25. Calculate the average age of the teachers in the school.",
+    "options": {
+      "A": "20",
+      "B": "31",
+      "C": "32",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70272?exam_type=jamb&type=obj&page=448",
+    "correct_answer": "D",
+    "explanation": "Total ages of four female teachers = 4 x 40 = 160\nTotal ages of eight male teachers = 8 x 25 = 200\nTotal ages of all the teachers in the school = 160 + 200 = 360\nAverage ages of all the teachers = \\(\\frac{\\text{ total ages of all teachers}}{\\text{total number\u00a0of teachers}}\\)\n= \\(\\frac{360}{12}\\) = 30.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2241",
+    "text": "How many proper and improper subsets are there in the set K = { a, b, c, d, e}?",
+    "options": {
+      "A": "10",
+      "B": "25",
+      "C": "32",
+      "D": "50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70274?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "C",
+    "explanation": "For a set with\u00a0n elements, the total number of subsets is given by:\n2\\(^n\\)\nwhere n = the number of members of the set = 5\nso, 2\\(^5\\) = 32\n(every set is an improper subset of itself)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2242",
+    "text": "Differentiate Cos25\u00ba - Sin 25\u00ba",
+    "options": {
+      "A": "- ( Sin25\u00ba + Cos25\u00ba)",
+      "B": "- ( Sec25 + Cot25)",
+      "C": "- ( Cot25 + Sec25)",
+      "D": "- ( Sin25 + Sec25)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70280?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "A",
+    "explanation": "Cos25\u00ba - Sin 25\u00ba\nThe differentiation of a constant = 0, But based on the Options provided\nCos 25\u00ba when differentiated = -Sin 25\u00ba and Sin25\u00ba = + Cos25\u00ba\nPutting these together, we have - Sin25\u00ba - Cos25\u00ba = - ( Sin25\u00ba + Cos25\u00ba)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2243",
+    "text": "The mean of the numbers 13, 16, x, 18, 21, 2x, 35, is 22. Find the value of x",
+    "options": {
+      "A": "16",
+      "B": "17",
+      "C": "23",
+      "D": "25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70281?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "B",
+    "explanation": "Mean = \\(\\frac{ 13 + 16 + x + 18 + 21 + 2x + 35}{7}\\) = 22\n103 + 3x = 154\n3x = 154 - 103 = 51\nx = \\(\\frac{51}{3}\\) = 17\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2244",
+    "text": "Find the variance of a group of data whose standard deviation is 12.34 to the nearest whole number.",
+    "options": {
+      "A": "150",
+      "B": "151",
+      "C": "152",
+      "D": "153"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70283?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "C",
+    "explanation": "To find the variance from the standard deviation:\nGiven:\nStandard deviation = 12.34\nVariance = (12.34)\\(^2\\)\u00a0= 152.2756\nRounding to the nearest whole number:\u00a0Variance \u2248\u00a0152.\u200b\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2245",
+    "text": "Calculate the standard deviation of the following scores 5, 4, 6, 7, and 8",
+    "options": {
+      "A": "\\(\\sqrt{2}\\)",
+      "B": "\\(\\sqrt{3}\\)",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70289?exam_type=jamb&type=obj&page=449",
+    "correct_answer": "A",
+    "explanation": "mean = \\(\\frac{ 4 + 5 + 6 + 7 + 8}{5}\\) = 6\nxx - mean(x - mean)\\(^2\\)44 - 6 = -2455 - 6 = -1166 - 6 = 0077 - 6 = 1188 - 6 = 24\nVariance = \\(\\frac{10}{5}\\)\nS.D = \\(\\sqrt{variance}\\) = \\(\\sqrt{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2246",
+    "text": "From a class of 5 girls and 7 boys, a committee consisting of 2 girls and 3 boys is to be formed. How many ways can this be done?",
+    "options": {
+      "A": "350 ways",
+      "B": "420 ways",
+      "C": "550 ways",
+      "D": "720 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70290?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "A",
+    "explanation": "To form a committee of 2 girls and 3 boys from 5 girls and 7 boys:\nStep 1: Combinations for Girls = \\(^5C_2\\) = \\(\\frac{5!}{(5-2)!2!}\\) = 10\nStep 2: Calculate the Combinations for Boys = \\(^7C_3\\) =\u00a0 \\(\\frac{7!}{(7-3)!3!}\\) = 35\nthe total number of ways to form the committee, multiply the combinations of girls and boys:\u00a0 10 x 35 = 350ways\nThe total number of ways to form the committee is: 350.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2247",
+    "text": "In how many ways can a committee of 5 be selected from a group of 7 males and 3 females, if the committee must have one female?",
+    "options": {
+      "A": "105ways",
+      "B": "135 ways",
+      "C": "210 ways",
+      "D": "231 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70291?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "A",
+    "explanation": "To form a committee of 5 from 7 males and 3 females with at least one female:\nChoose 1 female from 3: \\(^3C_1\\) = 3\nChoose 4 males from 7: \\(^7C_4\\) = 35\nTotal ways = 3 \u00d7 35 = 105\nThe total number of ways to select the committee is: 105ways.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2248",
+    "text": "A bag contains 7 red and 4 black identical balls. Two balls were picked at random from the bag and replaced each time. Find the probability the two balls were of same colour.",
+    "options": {
+      "A": "\\(\\frac{54}{121}\\)",
+      "B": "\\(\\frac{65}{121}\\)",
+      "C": "\\(\\frac{29}{55}\\)",
+      "D": "\\(\\frac{27}{55}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70292?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "Total Balls 7 + 4 = 11Probability of Picking Two Balls of the Same Colour\u00a0= RR or BB = \\(\\frac{7}{11} \\times \\frac{7}{11}\\) +\u00a0\\(\\frac{4}{11} \\times \\frac{4}{11}\\)\n= \\(\\frac{49}{121}\\) + \\(\\frac{16}{121}\\) = \\(\\frac{65}{121}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2249",
+    "text": "U varies directly as the square root of V when U = 24, V = 9, find the value of V when U = 16.",
+    "options": {
+      "A": "0.32",
+      "B": "4",
+      "C": "6",
+      "D": "0.25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70294?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "U = K\\(\\sqrt{V}\\)\n24 =\u00a0 K\\(\\sqrt{9}\\)\nK = 8\nU = 8\\(\\sqrt{V}\\)\n16 = 8\\(\\sqrt{V}\\)\n2 = \\(\\sqrt{V}\\)\nV = 4\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2250",
+    "text": "If B varies inversely as c\\(^{\\frac{1}{3}}\\) and C = 27 when B = 2, find the value of the constant of proportionality K.",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70297?exam_type=jamb&type=obj&page=450",
+    "correct_answer": "B",
+    "explanation": "B = \\(\\frac{K}{C^{\\frac{1}{3}}}\\)\n2 =\u00a0 \\(\\frac{K}{27^{\\frac{1}{3}}}\\)\nK = 2 x 3 = 6\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2251",
+    "text": "Find the roots of x\\(^3\\) - 19x - 30=0",
+    "options": {
+      "A": "-5, 3, and 2",
+      "B": "5, 3, and -2",
+      "C": "5, -3 and -2",
+      "D": "-5, -3 and 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70300?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "C",
+    "explanation": "x\\(^3\\) - 19x - 30\ntest x\u00a0= 55\\(^3\\)\u00a0\u00a0\u221219(5) \u2212 30 = 125 \u2212 95 \u2212 30 = 0\n(x - 5) is a factor.\nx\\(^3\\) - 19x - 30 divided by (x - 5) = x\\(^2\\) + 5x + 6\nfactorizing\u00a0x\\(^2\\) + 5x + 6, we have\u00a0(x+2)(x+3)\n(x+2)(x+3)(x - 5) = 0\nx = -2, -3, and 5.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2252",
+    "text": "If x is inversely proportional to y and x = 9 when y = 4, find the law containing x and y",
+    "options": {
+      "A": "x = \\(\\frac{16}{y}\\)",
+      "B": "x =  \\(\\frac{36}{y}\\)",
+      "C": "x =  \\(\\frac{y}{36}\\)",
+      "D": "x =  \\(\\frac{13}{y}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70321?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "B",
+    "explanation": "x = \\(\\frac{K}{y}\\)\n9 =\u00a0 \\(\\frac{K}{4}\\)\nK = 9 x 4 = 36\nTherefore, the law connecting x and y is: x =\u00a0 \\(\\frac{36}{y}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2253",
+    "text": "Given P = \\(\\begin{bmatrix}1 & 2\\\\2 & 3\\end{bmatrix}\\), find P\\(^2\\) - 4P - I where I is the identity matrix",
+    "options": {
+      "A": "\\(\\begin{bmatrix}1 & 0\\\\0 & 1\\end{bmatrix}\\)",
+      "B": "\\(\\begin{bmatrix}0 & 0\\\\0 & 0\\end{bmatrix}\\)",
+      "C": "\\(\\begin{bmatrix}-1 & 0\\\\0 & -1\\end{bmatrix}\\)",
+      "D": "\\(\\begin{bmatrix}0 & 1\\\\1 & 0\\end{bmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70327?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "B",
+    "explanation": "Given the matrix\n\\(P = \\begin{bmatrix} 1 & 2 \\\\ 2 & 3 \\end{bmatrix},\\)\nwe want to find \\( P^2 - 4P - I \\), where \\( I \\) is the identity matrix:\n\\(I = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}.\\)\nCalculate {\\( P^2 \\)}\n\\(P^2 = P \\times P = \\begin{bmatrix} 1 & 2 \\\\ 2 & 3 \\end{bmatrix} \\times \\begin{bmatrix} 1 & 2 \\\\ 2 & 3 \\end{bmatrix} = \\begin{bmatrix} 5 & 8 \\\\ 8 & 13 \\end{bmatrix}.\\)\nCalculate {\\( 4P \\)}\n\\(4P = 4 \\times \\begin{bmatrix} 1 & 2 \\\\ 2 & 3 \\end{bmatrix} = \\begin{bmatrix} 4 & 8 \\\\ 8 & 12 \\end{bmatrix}\\)\nCalculate {\\( P^2 - 4P \\)}\n\\(P^2 - 4P = \\begin{bmatrix} 5 & 8 \\\\ 8 & 13 \\end{bmatrix} - \\begin{bmatrix} 4 & 8 \\\\ 8 & 12 \\end{bmatrix} = \\begin{bmatrix} 5 - 4 & 8 - 8 \\\\ 8 - 8 & 13 - 12 \\end{bmatrix} = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix}\\)\nCalculate {\\( P^2 - 4P - I \\)}\n\\(P^2 - 4P - I = \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix} - \\begin{bmatrix} 1 & 0 \\\\ 0 & 1 \\end{bmatrix} = \\begin{bmatrix} 0 & 0 \\\\ 0 & 0 \\end{bmatrix}\\)\nThus, the result of \\( P^2 - 4P - I \\) is\n\\(\\begin{bmatrix} 0 & 0 \\\\ 0 & 0 \\end{bmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2254",
+    "text": "If A = \\(\\begin{pmatrix}3 & 2 & 1\\\\4 & 2 & -1\\end{pmatrix}\\) and B = \\(\\begin{pmatrix}1 & 4\\\\0 & 1\\\\3 & 2\\end{pmatrix}\\). Find A\\(^T\\) + B, ( where T means transpose)",
+    "options": {
+      "A": "\\(\\begin{pmatrix}4\u00a0& 8\\\\3\u00a0& 2\\\\4\u00a0& 1\\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix}4\u00a0& -8\\\\3\u00a0& 2\\\\4\u00a0& 1\\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix}4\u00a0& 8\\\\4\u00a0& -2\\\\3\u00a0& 1\\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix}4\u00a0& 8\\\\2\u00a0& 3\\\\4\u00a0& 1\\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70344?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "D",
+    "explanation": "Given that\u00a0A = \\(\\begin{pmatrix}3 & 2 & 1\\\\4 & 2 & -1\\end{pmatrix}\\) and\u00a0 B = \\(\\begin{pmatrix}1 & 4\\\\0 & 1\\\\3 & 2\\end{pmatrix}\\)\nA\\(^T\\) =\u00a0\\(\\begin{pmatrix}3\u00a0& 4\\\\2\u00a0& 2\\\\1\u00a0& -1\\end{pmatrix}\\)\nFind A\\(^T\\) + B =\u00a0\\(\\begin{pmatrix}3\u00a0& 4\\\\2\u00a0& 2\\\\1\u00a0& -1\\end{pmatrix}\\) +\u00a0 \\(\\begin{pmatrix}1 & 4\\\\0 & 1\\\\3 & 2\\end{pmatrix}\\) =\u00a0 \\(\\begin{pmatrix}4\u00a0& 8\\\\2\u00a0& 3\\\\4\u00a0& 1\\end{pmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2255",
+    "text": "If tan\\(\\theta\\) = \\(\\frac{8}{15}\\), simplify \\(\\frac{ Sin\\theta - Cos\\theta}{Sin^2\\theta - Sin\\theta}\\)",
+    "options": {
+      "A": "\\(\\frac{-119}{72}\\)",
+      "B": "\\(\\frac{119}{72}\\)",
+      "C": "\\(\\frac{-7}{17}\\)",
+      "D": "\\(\\frac{8}{17}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70347?exam_type=jamb&type=obj&page=451",
+    "correct_answer": "B",
+    "explanation": "Given \\(\\tan \\theta = \\frac{8}{15}\\)\n\\[\\sin \\theta = \\frac{8}{17}, \\quad \\cos \\theta = \\frac{15}{17}\\] from pythagora's theorem.\nTo find\u00a0 \\[\\frac{\\sin \\theta - \\cos \\theta}{\\sin^2 \\theta - \\sin \\theta}\\]\nNumerator\u00a0 \u2192 \\[\\sin \\theta - \\cos \\theta = \\frac{8}{17} - \\frac{15}{17} = \\frac{-7}{17}\\]\nDenominator \u2192 \\[\\sin^2 \\theta = \\left(\\frac{8}{17}\\right)^2 = \\frac{64}{289}, \\quad \\sin^2 \\theta - \\sin \\theta = \\frac{64}{289} - \\frac{136}{289} = \\frac{-72}{289}\\]\n\\[\\frac{\\frac{-7}{17}}{\\frac{-72}{289}} = \\frac{7 \\times 289}{17 \\times 72} = \\frac{119}{72}\\]\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2256",
+    "text": "A binary operation * is defined on a set of real numbers by x*y = x\\(^y\\) for all values of x and y, if x * 2 = x, find the possible values of x.",
+    "options": {
+      "A": "0, 2",
+      "B": "1, 2",
+      "C": "0, 1",
+      "D": "2, 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70348?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "C",
+    "explanation": "Given the operation defined by \\( x * y = x^y \\),\n\\[x * 2 = x \\implies x^2 = x\\]\nRearranging gives:\u00a0\\[x^2 - x = 0 \\implies x(x - 1) = 0\\]\nThus,\u00a0 the possible values of \\( x \\) are:\u00a0\\[\\boxed{0 \\text{ and } 1}\\]\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2257",
+    "text": "The weights of 15 students in a class are given as 25, 30, 32, 30, 42, 45, 48, 50, 52, 51, 42, 38, 40, and 42. What is the mode of the given data?",
+    "options": {
+      "A": "51",
+      "B": "45",
+      "C": "42",
+      "D": "25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70349?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "C",
+    "explanation": "Mode = 42\n42 occurred thrice.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2258",
+    "text": "The number of 144 students who registered for mathematics, physics, and chemistry in an examination are shown in the Venn\u00a0diagram. How many registered for physics and mathematics?",
+    "options": {
+      "A": "16",
+      "B": "24",
+      "C": "62",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/70350?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "B",
+    "explanation": "144 = 42 - x + 30 - x + 34 + 4x + 3x + 6 + x + 2x\n144 = 112 + 8x\n8x = 144 - 112 = 32\nx = 4.\nThe number of students that registered for physics and mathematics = 4x + 2x = 4 x 4 + 2 x 4 = 24.",
+    "year": "2024"
+  },
+  {
+    "number": "2259",
+    "text": "Make q the subject of the relation t = \\(\\sqrt{(\\frac{pq}{r} - r^2q)}\\)",
+    "options": {
+      "A": "q = \\(\\frac{rt^2}{p - r^3}\\)",
+      "B": "q = \\(\\frac{p - r^3}{rt^2}\\)",
+      "C": "q = \\(\\frac{t^2}{p - r^3}\\)",
+      "D": "q = \\(\\frac{rt}{p - r^3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71529?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "A",
+    "explanation": "t = \\(\\sqrt{(\\frac{pq}{r} - r^2q)}\\)\nTake the square of both sides\nt\\(^2\\) = \\(\\frac{pq}{r}\\) - r\\(^2\\)q\nt\\(^2\\) = \\(\\frac{pq - r^3q}{r}\\)\ncross multiply\nrt\\(^2\\) = pq - r\\(^3\\)q = q(p - r\\(^3\\))\nq = \\(\\frac{rt^2}{p - r^3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  },
+  {
+    "number": "2260",
+    "text": "(\\(\\sqrt{a} +\\sqrt{8a})^2\\) = 54 + b\\(\\sqrt{2}\\), a and b are positive integers. Find the value of a and the value of b.",
+    "options": {
+      "A": "a = 24, b = 6",
+      "B": "a = 6, b = 2",
+      "C": "a = 6, b = 24",
+      "D": "a = 2, b = 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71530?exam_type=jamb&type=obj&page=452",
+    "correct_answer": "C",
+    "explanation": "(\\(\\sqrt{a} +\\sqrt{8a})^2\\) =\u00a0 54 + b\\(\\sqrt{2}\\)\n(\\(\\sqrt{a} + \\sqrt{8a}\\))(\\(\\sqrt{a} + \\sqrt{8a}\\))\na + 4a\\(\\sqrt{2} + 8a =\u00a054 + b\\sqrt{2}\\)\n9a + 4a\\(\\sqrt{2}\\) =\u00a054 + b\\(\\sqrt{2}\\)\ncomparing both sides\n9a = 54, so that a = 6\n4a = b\nb = 4 x 6 = 24.\nThere is an explanation video availablebelow.",
+    "year": "2024"
+  }
+]

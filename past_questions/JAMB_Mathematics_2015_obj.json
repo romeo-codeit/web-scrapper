@@ -1,0 +1,871 @@
+[
+  {
+    "number": "1681",
+    "text": "In a town of 6250 inhabitants, there were 62 births during 1984. Find the percentage birth rate",
+    "options": {
+      "A": "3%",
+      "B": "1.0%",
+      "C": "2.5%",
+      "D": "5.40%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40493?exam_type=jamb&type=obj&page=337",
+    "correct_answer": "B",
+    "explanation": "Percentage birthrate = \\(\\frac{62}{6250} \\times 100%\\)\n= \\(\\frac{6200}{6250}\\)\n= 0.992% \\(\\approx\\) 1.0%.\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1682",
+    "text": "Simplify 1\u00bc \u00f7 (2 \u00f7 \u00bc of 28)",
+    "options": {
+      "A": "1 \\( \\frac{3}{8}\\)",
+      "B": "2 \\( \\frac{3}{4}\\)",
+      "C": "4 \\( \\frac{3}{8}\\)",
+      "D": "3 \\( \\frac{1}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40505?exam_type=jamb&type=obj&page=337",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1683",
+    "text": "Factorize x2 + 9x + 20",
+    "options": {
+      "A": "(x \u2212 5) 2",
+      "B": "(x + 5)(x + 4)",
+      "C": "(x \u2013 5)(x + 3)",
+      "D": "(x + 3) 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40546?exam_type=jamb&type=obj&page=337",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1684",
+    "text": "If three staff of Myschool Limited agreed to share their salary arrears in the ration of their ages, which are 18 years, 20 years, 22 years respectively. If the sum of the money collected is N120,000.00K, How much does the second staff received?",
+    "options": {
+      "A": "N36,000",
+      "B": "N44,000",
+      "C": "N40,000",
+      "D": "N15,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40615?exam_type=jamb&type=obj&page=337",
+    "correct_answer": "C",
+    "explanation": "Total of their ages: 18 + 20 + 22 = 60\nThe second staff will get \\(\\frac{20}{60} \\times 120,000\\)\n= N40,000.00K\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1685",
+    "text": "X and Y are two sets such that n(X) = 15, n(Y) = 12 and n{X \u2229 Y} = 7. Find \u2229{X \u222a Y}",
+    "options": {
+      "A": "21",
+      "B": "225",
+      "C": "15",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40616?exam_type=jamb&type=obj&page=337",
+    "correct_answer": "D",
+    "explanation": "n(X \u222a\u00a0Y) = n(X)\u00a0+ n(Y)\u00a0\u2212 n(X \u2229 Y)= 15 + 12 \u2212 7\u2234 n(X \u222a\u00a0Y) = 20\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1686",
+    "text": "Find the x and z\u00a0intercepts of the graph of 3x - z \\(\\leq\\) 9",
+    "options": {
+      "A": "(3, -9)",
+      "B": "(-3, 9)",
+      "C": "(-3, -9)",
+      "D": "(-3, 0)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40617?exam_type=jamb&type=obj&page=338",
+    "correct_answer": "A",
+    "explanation": "Starting from 3x \u2212 z \\(\\leq\\) 9x = 0, substitute the value of x (i.e. x = 0) into the equation 3x \u2212 z \\(\\leq\\) 93(0) \u2212 z \\(\\leq\\) 9z \\(\\leq\\) \u2212 9If z = 0Then, 3x \u2212 0 \\(\\leq\\) 93x \\(\\leq\\) 9x \\(\\leq\\) 3Intercept of x and z i.e (x,z)= (3, -9)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1687",
+    "text": "Simplify log101.5 + 3 log102 \u2212 log100.3",
+    "options": {
+      "A": "log104",
+      "B": "log1040",
+      "C": "log10-40",
+      "D": "log104-"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40621?exam_type=jamb&type=obj&page=338",
+    "correct_answer": "B",
+    "explanation": "10\n10\n10\n10\n10\n10\n10\n10\n10\n10\n10\n10\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1688",
+    "text": "Find the total surface area of a cylinder of base radius 5cm and length 7cm ( \u03c0 = 3.14)",
+    "options": {
+      "A": "17.8cm2",
+      "B": "15.8cm2",
+      "C": "75.4cm2",
+      "D": "54.7cm2",
+      "E": "\\(377.0cm^{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40622?exam_type=jamb&type=obj&page=338",
+    "correct_answer": "E",
+    "explanation": "The total surface area of a cylinder = 2\u03c0rl + 2\u03c0r2= 2\u03c0r(l + r)= 2 \u00d7 3.14 x 5(7+5)2 \u00d7 3.14 \u00d7 12 x 5= 377.1cm (1DP)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1689",
+    "text": "If x + y = 90 simplify \\((sinx + siny)^2\\)\u22122sinxsiny",
+    "options": {
+      "A": "1",
+      "B": "0",
+      "C": "2",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40626?exam_type=jamb&type=obj&page=338",
+    "correct_answer": "A",
+    "explanation": "Given: \\(x + y = 90\u00b0 ... (1)\\)\n\\((\\sin x + \\sin y)^{2} - 2\\sin x \\sin y = \\sin^{2} x + \\sin^{2} y + 2\\sin x \\sin y - 2\\sin x \\sin y\\)\n= \\(\\sin^{2} x + \\sin^{2} y ... (2)\\)\nRecall: \\(\\sin x = \\cos (90 - x) ... (a)\\)\nFrom (1), \\(y = 90 - x ... (b)\\)\nPutting (a) and (b) in (2), we have\n\\(\\sin^{2} x + \\sin^{2} y \\equiv \\cos^{2} (90 - x) + \\sin^{2} (90 - x)\\)\n= 1\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1690",
+    "text": "A man with an annual salary of N2000, has allowances of N600. If Income Tax is 5%. How much income tax expenses does he pay each year?",
+    "options": {
+      "A": "15",
+      "B": "50",
+      "C": "70",
+      "D": "25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40628?exam_type=jamb&type=obj&page=338",
+    "correct_answer": "C",
+    "explanation": "His annual salary = N2000His allowances = N600So his taxable income = Annual salary \u2212 allowance= N2000 \u2212 N600= N1400He pay at 5%Then, his allowance income tax 5/100 \u00d7 1400 = N70\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1691",
+    "text": "Solve the equation \\( 3x^2 \u2212 4x \u2212 5 = 0 \\)",
+    "options": {
+      "A": "x = 1.75 or \u2212 0.15",
+      "B": "x = 2.12 or \u2212 0.79",
+      "C": "x = 1.5 or \u2212 0.34",
+      "D": "x = 2.35 or \u22121.23"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40630?exam_type=jamb&type=obj&page=339",
+    "correct_answer": "B",
+    "explanation": "Using the quadratic formula, we have\n\\(x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}\\)\nFrom the equation \\(3x^{2} - 4x - 5 = 0\\), a = 3, b = -4 and c = -5.\n\\(\\therefore x = \\frac{-(-4) \\pm \\sqrt{(-4)^{2} - 4(3)(-5)}}{2(3)}\\)\n= \\(\\frac{4 \\pm \\sqrt{16 + 60}}{6}\\)\n= \\(\\frac{4 \\pm \\sqrt{76}}{6}\\)\n= \\(\\frac{4 \\pm 8.72}{6}\\)\n= \\(\\frac{4 + 8.72}{6} \\text{ or } \\frac{4 - 8.72}{6}\\)\n= \\(\\frac{12.72}{6} \\text{ or } \\frac{-4.72}{6}\\)\n\\(x = \\text{2.12 or -0.79}\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1692",
+    "text": "The first and last term of a linear sequence (AP) are 6 and 10 respectively. If the sum of the sequence is 40. Find the number of terms",
+    "options": {
+      "A": "nth = 3",
+      "B": "nth = 4",
+      "C": "nth = 5",
+      "D": "nth = 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40633?exam_type=jamb&type=obj&page=339",
+    "correct_answer": "C",
+    "explanation": "nth term of a linear sequence (AP) = a+(n \u2212 1)dfirst term = 6, last term = 10 sum \u2212 40i.e. a = 6, l = 10, S = 40S\\(_{n}\\)= n/2(2a + (n \u2212 1)d or Sn = \u00f72 (a + l)S\\(_{n}\\)\u00a0= n/2(a + l)40 = n/2(6 + 10)40 = 8n8n = 408n = 40n = 40/8= 5The number of terms\u00a0= 5\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1693",
+    "text": "Find the equation of a line which is form origin and passes through the point (\u22123, \u22124)",
+    "options": {
+      "A": "y = \\( \\frac{3x}{4} \\)",
+      "B": "y = \\( \\frac{4x}{3} \\)",
+      "C": "y = \\( \\frac{2x}{3} \\)",
+      "D": "y = \\( \\frac{x}{2} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40636?exam_type=jamb&type=obj&page=339",
+    "correct_answer": "B",
+    "explanation": "The slope of the line from (0, 0) passing through (-3, -4) = \\(\\frac{-4 - 0}{-3 - 0}\\)\n= \\(\\frac{4}{3}\\)\nEquation of a line is given as \\(y = mx + b\\), where m = slope and b = intercept.\nTo get the value of b, we use a point on the line, say (0, 0).\n\\(y = \\frac{4}{3} x + b\\)\n\\(0 = \\frac{4}{3}(0) + b\\)\n\\(b = 0\\)\nThe equation of the line is \\(y = \\frac{4}{3} x\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1694",
+    "text": "The amount A to which a principal P amounts at r% compound interest for n years is given by the formula A = P(1 + (r \u00f7 100)\\(^n\\). Find A, if P = 126, r = 4 and n = 2.",
+    "options": {
+      "A": "N132.50K",
+      "B": "N136.30K",
+      "C": "N125.40K",
+      "D": "N257.42K"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40642?exam_type=jamb&type=obj&page=339",
+    "correct_answer": "B",
+    "explanation": "\\( A = P \\left(1 + \\frac{r}{100}\\right)^n \\)Where P = 126, r = 4,n = 2A=126 \\( \\left(1 + \\frac{4}{100}\\right)^2 \\text{Using LCM} \\)=126 \\( \\left(\\frac{100+4}{100}\\right)^2 = 126 \\left(\\frac{104}{100}\\right)^2 \\)=126 \\( \\left(1.04^2 \\right) \\)= 126 * 1.04 * 1.04=136.28A = 136.30 (approx.)The Amount A, = N136.30k\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1695",
+    "text": "Make x the subject of the equation\ns = 2 + \\(\\frac{t}{5} \\)(x + \u2157y)",
+    "options": {
+      "A": "x = 5[(s \u2212 2) \u00f7 t] - 3/5y",
+      "B": "x = 25[(s \u2212 2) \u00f7 t] \u2212 3ty",
+      "C": "x = [1 \u00f7 (s \u2212 2)3ty]",
+      "D": "x = [5(s \u2212 2) 2 \u00f7 3ty] \u00d7 t"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40645?exam_type=jamb&type=obj&page=339",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1696",
+    "text": "If log520 = x, find x",
+    "options": {
+      "A": "1.761",
+      "B": "1.354",
+      "C": "1.861",
+      "D": "2.549"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40647?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "C",
+    "explanation": "5\n10\n5x\n20\n5\n20\n20\n5\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1697",
+    "text": "Find at which rate per annum simple interest N525 will amount to N588 in 3 years.",
+    "options": {
+      "A": "3%",
+      "B": "2%",
+      "C": "5%",
+      "D": "4%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40649?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1698",
+    "text": "Given that A = {1, 5, 7}\n\nB = {3, 9, 12, 15}\n\nC = {2, 4, 6, 8}\n\nFind (A \u222a B) \u222a C",
+    "options": {
+      "A": "{1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 15}",
+      "B": "{1, 2, 3, 5, 6, 8, 12, 15}",
+      "C": "{2, 4, 5, 9, 12, 15}",
+      "D": "{1, 5, 6, 7, 8, 9, 12, 15}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40654?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1699",
+    "text": "The extension of a stretched string is directly proportional to its tension. If the extension produced by a tension of 8 Newton\u2019s is 2cm, find the extension produced by a tension of 12 newton\u2019s.",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "0",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40657?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "D",
+    "explanation": "Let the extension be E and the tension be T.\nThen \\(E \\propto T\\)\n\\(E = kT\\)\nwhen T = 8N, E = 2cm\n\\(2 = k \\times 8\\)\n\\(k = \\frac{2}{8} = 0.25\\)\n\\(\\therefore E = 0.25T\\)\nwhen T = 12N, \\(E = 0.25 \\times 12 = 3cm\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1700",
+    "text": "Factorize \\( x^2 \u2212 2x \u2212 15 \\)",
+    "options": {
+      "A": "(x + 3)2",
+      "B": "(x + 5)(x \u2212 3)",
+      "C": "(x \u2212 5)2",
+      "D": "(x \u2212 5)(x + 3)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40664?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "D",
+    "explanation": "2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1701",
+    "text": "If A = (\u22123,5) and B = (4,\u22121) find the co-ordinate of the mid point",
+    "options": {
+      "A": "2, \u00bd",
+      "B": "\u00bd , 2",
+      "C": "1,  \u00bd",
+      "D": "0, 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40667?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "B",
+    "explanation": "The coordinate of the midpoint is \\((\\frac{-3 + 4}{2}, \\frac{5 + (-1)}{2})\\)\n= \\((\\frac{1}{2}, 2)\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1702",
+    "text": "Find the simple interest on N325 in 5years at 3% per annum.",
+    "options": {
+      "A": "N48.75K",
+      "B": "N50.10K",
+      "C": "N75.50K",
+      "D": "N15.75K"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40669?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1703",
+    "text": "Simplify (0.09)2 and give your answer correct to 4 significant figures",
+    "options": {
+      "A": "0.81",
+      "B": "0.081",
+      "C": "0.0081",
+      "D": "8.0001"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40676?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "C",
+    "explanation": "2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1704",
+    "text": "Simplify \\( [1 \u00f7 (x^2 + 3x + 2)] + [1 \u00f7 (x^2 + 5x + 6)] \\)",
+    "options": {
+      "A": "\\( \\frac{2}{(x + 1)^2} \\)",
+      "B": "\\( \\frac{2}{(x + 1)(x + 2} \\)",
+      "C": "\\( \\frac{2}{(x + 1)(x + 2} \\)",
+      "D": "\\( \\frac{2}{(x + 1)(x + 3} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40682?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1705",
+    "text": "One bag contain 3 blue and 5 red balls, another bag contain 2 blue and 4 red balls respectively. One ball is drawn for each bag. What is the probability both balls are blue",
+    "options": {
+      "A": "\\( \\frac{2}{15} \\)",
+      "B": "\\( \\frac{3}{24} \\)",
+      "C": "\\( \\frac{3}{21} \\)",
+      "D": "\\( \\frac{3}{28} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40685?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "B",
+    "explanation": "The probability of drawing a blue ball from the first bag is \\( \\frac{3}{8} \\), since there are 3 blue balls out of 8 total balls.\nThe probability of drawing a blue ball from the second bag is \\( \\frac{2}{6} = \\frac{1}{3} \\), since there are 2 blue balls out of 6 total balls.\nSince the draws from each bag are independent, the probability that both balls are blue is the product of the individual probabilities:\\(\u00a0\\frac{3}{8} \\times \\frac{2}{6} = \\frac{3 \\times 2}{8 \\times 6} = \\frac{6}{48} = \\frac{1}{8}. \\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1706",
+    "text": "Given that A = {3, 4, 1, 10, \u2153 }\n\nB = {4, 3,\u2153, \u2153, 7}.\n\nFind A\u2229B",
+    "options": {
+      "A": "{}",
+      "B": "{\u2153, 1, 2}",
+      "C": "{3, 4, \u2153}",
+      "D": "{1, 3, \u2153}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40686?exam_type=jamb&type=obj&page=342",
+    "correct_answer": "C",
+    "explanation": "A \u2229 B = {3, 4, \u2153}\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1707",
+    "text": "Find x if 132x = 70 eight.",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "6",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40687?exam_type=jamb&type=obj&page=342",
+    "correct_answer": "C",
+    "explanation": "x\n8\nx\n6\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1708",
+    "text": "A man sells his new brand car for N420,000 at a gain of 15%. What did it cost him?",
+    "options": {
+      "A": "N410,000",
+      "B": "N365, 217",
+      "C": "N157, 250",
+      "D": "N257,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40688?exam_type=jamb&type=obj&page=342",
+    "correct_answer": "B",
+    "explanation": "Cost Price:Selling price = 100 : (100 + 15)= 100 : 115Cost Price= 100 \u00f7 115 of selling price (i.e N420,000)= 100 \u00f7 115 \u00d7 N420,000= N365,217.4\u2234 Cost Price = N365, 217\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1709",
+    "text": "Find the value of x if \\( [ 1 \u00f7 64^{(x + 2)}]= [4^{(x \u2212 3)} \u00f7 16^x ] \\)",
+    "options": {
+      "A": "\\( \\frac{3}{2} \\)",
+      "B": "\\( \\frac{2}{3} \\)",
+      "C": "\\( \\frac{1}{3} \\)",
+      "D": "\\( -\\frac{3}{2} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40694?exam_type=jamb&type=obj&page=342",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1710",
+    "text": "Solve x2 \u2212 2x \u2212 3 = 0",
+    "options": {
+      "A": "x = 2 or 1",
+      "B": "x = 3 or -1",
+      "C": "x = 1 or 0",
+      "D": "x = 1 or 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40702?exam_type=jamb&type=obj&page=342",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1711",
+    "text": "The volume of a cylinder whose height is 4cm and whose radius 5cm is equal to (\u03c0 = 3.14)",
+    "options": {
+      "A": "3.13cm2",
+      "B": "145cm2",
+      "C": "314cm2",
+      "D": "214cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40706?exam_type=jamb&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1712",
+    "text": "The probability of an event A is 1/5. The probability of B is 1/3 . The probability both A and B is 1/15. What is the probability of either event A or B or both",
+    "options": {
+      "A": "\\( \\frac{2}{15} \\)",
+      "B": "\\( \\frac{3}{4} \\)",
+      "C": "\\( \\frac{9}{15} \\)",
+      "D": "\\( \\frac{1}{15} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40716?exam_type=jamb&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "In probability, or = +\nProb( A or B or Both ) = \\(\\frac{1}{3} + \\frac{1}{5} + \\frac{1}{15}\\) = \\(\\frac{5+ 3 + 1}{15}\\) = \\(\\frac{9}{15}\\) = \\(\\frac{3}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1713",
+    "text": "If (159.75)10 = (x)6. Find x",
+    "options": {
+      "A": "x6 = 123.346",
+      "B": "x6 = 424.56",
+      "C": "x6 = 122.436",
+      "D": "x6 = 124.456"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40725?exam_type=jamb&type=obj&page=343",
+    "correct_answer": "B",
+    "explanation": "(159.75)10 = (y)6\\( \\begin{array}{c|c}6 & 159 \\\\\\hline6 & 26 \\text{ rem 3} \\\\6 & 4 \\text{ rem 2} \\\\& 0 \\text{ rem 4} \\\\\\end{array}\\uparrow \\)15910 = 4236Then Convert 0.75 to base 60.75 x 6 =4.5 i.e 4.5 - 3.00 = 1.50.5 x 6 = 3.00 423 + 1.5 =424.5159.75 = (424.5)6(159)10 = (424.5)6\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1714",
+    "text": "A man bought a car for N800 and sold it for N520. Find his loss per cent",
+    "options": {
+      "A": "15%",
+      "B": "25%",
+      "C": "35%",
+      "D": "10%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40726?exam_type=jamb&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1715",
+    "text": "Simplify \\(6\\frac{1}{12} \u2212 2 \u00be + 1 \u00bd \\)",
+    "options": {
+      "A": "\\( 3 \\frac{5}{6}\\)",
+      "B": "\\( 4 \\frac{5}{6}\\)",
+      "C": "\\( 2 \\frac{1}{6}\\)",
+      "D": "\\( \\frac{1}{3} \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40728?exam_type=jamb&type=obj&page=343",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1716",
+    "text": "Find the distance between the points (-2,-3) and (-2,4)",
+    "options": {
+      "A": "3m",
+      "B": "2.4m",
+      "C": "3.2m",
+      "D": "7.0m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40729?exam_type=jamb&type=obj&page=344",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1717",
+    "text": "Determine the third term of a geometrical progression whose first and second term are 2 and 54 respectively",
+    "options": {
+      "A": "1458",
+      "B": "1485",
+      "C": "1345",
+      "D": "1258"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40730?exam_type=jamb&type=obj&page=344",
+    "correct_answer": "A",
+    "explanation": "1st G.P. = a =22nd G.P. = ar\\(^{2 \u22121}\\) = 542(r) = 54r = 54/2 = 27r = 273rd term = ar\\(^2\\) = (2) (27)\\(^2\\)2 \u00d7 27 \u00d7 27= 1458\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1718",
+    "text": "Given that S and T are sets of real numbers such that S = {x : 0 \\(\\leq\\) x \\(\\leq\\) 5} and T = {x : \u2212 2 < x < 3} Find S \\(\\cup\\) T",
+    "options": {
+      "A": "\u22123 < x < \\(\\leq\\)3",
+      "B": "\u22122< x < \\(\\leq\\)5",
+      "C": "2< x < \\(\\geq\\) \u22125",
+      "D": "\u22121< x \\(\\geq\\) \\(\\leq\\)2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40732?exam_type=jamb&type=obj&page=344",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1719",
+    "text": "If an investor invest N450,000 in a certain organization in order to yield X as a return of N25,000. Find the return on an investment of N700,000 by Y in the same organization.",
+    "options": {
+      "A": "N14,950.50K",
+      "B": "N25,150.30K",
+      "C": "N15,000.00K",
+      "D": "N38,888.90K"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40735?exam_type=jamb&type=obj&page=344",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1720",
+    "text": "Evaluate log717",
+    "options": {
+      "A": "1.35",
+      "B": "1.353",
+      "C": "1.455",
+      "D": "0.455"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40738?exam_type=jamb&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "7\n0.0899\n1.9270\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1721",
+    "text": "100112 + *****2 + 111002 + 1012 = 10011112",
+    "options": {
+      "A": "11112",
+      "B": "110112",
+      "C": "101112",
+      "D": "110012"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40740?exam_type=jamb&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\n2\n4\n3\n2\n1\n0\n2\n4\n3\n2\n1\n0\n2\n1\n0\n2\n2\n2\n2\n2\n10\n10\n2\n2\n10\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1722",
+    "text": "Evaluate log5(\\( y^2x^5 \u00f7 125b\u00bd) \\)",
+    "options": {
+      "A": "2 log5y + 5log5 y2 \u2212 3",
+      "B": "log5 y2 + 5log5 x + 3",
+      "C": "25logy 5 + 3",
+      "D": "2log5y + 5log5x \u2212 \u00bd log5b \u22123"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40741?exam_type=jamb&type=obj&page=345",
+    "correct_answer": "D",
+    "explanation": "\\(\\log_{5}(y^{2} x^{5} \\div 125b^{\\frac{1}{2}})\\)\n= \\(\\log_{5} y^{2} + \\log_{5} x^{5} - [\\log_{5} 125 + \\log_{5} b^{\\frac{1}{2}}\\)\n= \\(2\\log_{5} y + 5\\log_{5} x - \\log_{5} 5^{3} - \\frac{1}{2} \\log_{5} b\\)\n= \\(2\\log_{5} y + 5\\log_{5} x - 3 - \\frac{1}{2}\\log_{5} b\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1723",
+    "text": "Integral \u222b\\( (5x^3 + 7x^2 \u2212 2x + 5)\\)dx",
+    "options": {
+      "A": "\\( \\frac{5x^4}{4} + \\frac{7x^3}{3} + 2x + C  \\)",
+      "B": "\\( \\frac{5x^4}{4} + \\frac{7x^3}{3} - x^2 + 5x + C  \\)",
+      "C": "\\( \\frac{5x^3}{3} + \\frac{7x^2}{x} - x + C  \\)",
+      "D": "\\( \\frac{2x^2}{3} + \\frac{x}{5} - C  \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/40744?exam_type=jamb&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "\\(\\int (5x^{3} + 7x^{2} - 2x + 5) \\mathrm d x\\)\n= \\(\\frac{5x^{4}}{4} + \\frac{7x^{3}}{3} - \\frac{2x^{2}}{2} + 5x + c\\)\n= \\(\\frac{5x^{4}}{4} + \\frac{7x^{3}}{3} - x^{2} + 5x + c\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1724",
+    "text": "Find the area of the curved surface of a cone whose base radius is 3cm and whose height is 4cm (\u03c0 = 3.14)",
+    "options": {
+      "A": "17.1cm2",
+      "B": "27.2cm2",
+      "C": "47.1cm2",
+      "D": "37.3cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41283?exam_type=jamb&type=obj&page=345",
+    "correct_answer": "C",
+    "explanation": "2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1725",
+    "text": "Simplify \\( \\frac{1}{(x + 1)} + \\frac{1}{(x \u2212 1)} \\)",
+    "options": {
+      "A": "2x/(x + 1)(x\u22123)",
+      "B": "2x/(x + 1)(x\u22121)",
+      "C": "2x/(x + 1)2",
+      "D": "2x(x+1)2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41284?exam_type=jamb&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "[1 \u00f7 (x+1)] + [1 \u00f7 (x \u2212 1)]= ((x \u2212 1) + [(x + 1)) \u00f7 (x+1)(x \u2212 1)]Using the L.C.M.= (x \u2212 1 + x + 1) \u00f7 (x + 1)(x \u2212 1)= (x + 2 \u2212 1 + 1) \u00f7 (x + 1)(x \u2212 1)= 2x \u00f7 (x + 1)(x \u2212 1) =2x \u00f7 (x + 1)(x \u2212 1)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1726",
+    "text": "The area of a circle of radius 4cm is equal to (Take \u03c0 = 3.142 )",
+    "options": {
+      "A": "10.3cm2",
+      "B": "15.7cm2",
+      "C": "50.3cm2",
+      "D": "17.4cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41285?exam_type=jamb&type=obj&page=346",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1727",
+    "text": "The area of an ellipse is 132cm\\(^2\\).The length of its major axis is 14cm.Find the length of its minor axis",
+    "options": {
+      "A": "10.5cm",
+      "B": "5cm",
+      "C": "10cm",
+      "D": "12cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41286?exam_type=jamb&type=obj&page=346",
+    "correct_answer": "D",
+    "explanation": "To find the minor axis of an ellipse:\nGiven:- Area \\(A = 132 \\, \\text{cm}^2\\)- Major axis = \\(14 \\, \\text{cm}\\)Semi-major axis:\\(a = \\frac{14}{2} = 7 \\, \\text{cm}\\)\nArea formula:\\(A = \\pi \\times a \\times b \\implies 132 = \\pi \\times 7 \\times b\\)\nSolving for \\(b\\):\\(b = \\frac{132}{\\pi \\times 7} \\approx \\frac{132}{21.98} \\approx 6 \\, \\text{cm}\\)\nLength of minor axis:\\(\\text{Minor axis} = 2b \\approx 2 \\times 6 = 12 \\, \\text{cm}\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1728",
+    "text": "The volume of a cone (s) of height 6cm and base radius 5cm is",
+    "options": {
+      "A": "157cm3",
+      "B": "155cm3",
+      "C": "175cm3",
+      "D": "145cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41287?exam_type=jamb&type=obj&page=346",
+    "correct_answer": "A",
+    "explanation": "2\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1729",
+    "text": "The probability of an outcome A is 1/6 . The probability of the B outcome is 1/4 . If the probability of A or B or both is 1/12 . What is the probability of both outcomes A and B?",
+    "options": {
+      "A": "1/2",
+      "B": "1/3",
+      "C": "2/5",
+      "D": "3/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41288?exam_type=jamb&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1730",
+    "text": "Given that Z = {1,2,4,5} what is the power of set Z?",
+    "options": {
+      "A": "16",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41289?exam_type=jamb&type=obj&page=346",
+    "correct_answer": "A",
+    "explanation": "n\n4\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1731",
+    "text": "Calculate the value of x and y if (27x \u00f7 81x+2y = 9 ,x + 4y = 0",
+    "options": {
+      "A": "x = 1, y = 1/2",
+      "B": "x = 2, y = \u2013 1/2",
+      "C": "x \u2212 0, y = 1",
+      "D": "x = 2, y = \u20131"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41290?exam_type=jamb&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1732",
+    "text": "Simplify \\(\\sqrt{30}\\) \u00d7 \\(\\sqrt{40}\\)",
+    "options": {
+      "A": "10 \u221a3",
+      "B": "5 \u221a3",
+      "C": "20 \u221a3",
+      "D": "15 \u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41291?exam_type=jamb&type=obj&page=347",
+    "correct_answer": "C",
+    "explanation": "\\(\\sqrt{30}\\) \u00d7 \\(\\sqrt{40}\\)= \\(\\sqrt{(30 \u00d7 40)}\\)\\(\\sqrt{(3 \u00d7 10 \u00d7 4 \u00d7 10)}\\)\\(\\sqrt{(400 \u00d7 3)}\\)\\(\\sqrt{400}\\) \u00d7 \\(\\sqrt{3}\\)20 \u00d7 \\(\\sqrt{3}\\)20\\(\\sqrt{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1733",
+    "text": "If \u221a (2x + 2) \u2212 \u221ax =1 ,find x.",
+    "options": {
+      "A": "x = 1 twice",
+      "B": "x = 0 or 1",
+      "C": "x = 3 or 1",
+      "D": "x = 2 twice"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41292?exam_type=jamb&type=obj&page=347",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n\u00bd\n2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1734",
+    "text": "The sum of two numbers is 5; their product is -14. Find the numbers.",
+    "options": {
+      "A": "x = 5 or 1",
+      "B": "x = 7 or 1",
+      "C": "x = 7 or 0",
+      "D": "x = 7 or \u2212 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41293?exam_type=jamb&type=obj&page=347",
+    "correct_answer": "D",
+    "explanation": "Let x represent the first number;Then, the other is (5 \u2212 x) , since their sum is 5 and their product is 14x(5 \u2212 x) = 145x \u2212 x2 = 14x2 \u2212 5x \u2212 14 = 0(x2 \u2212 7x) + (2x \u2212 14) = 0x(x \u2212 7) + 2(x \u2212 7) = 0(x \u2212 7)(x + 2) = 0Either (x \u2212 7) = 0 or (x + 2) = 0x = 7 or x = \u2212 2The two numbers are 7 and \u2212 2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1735",
+    "text": "Solve the equation\n\\( 5^{(x \u2212 2)} = (1 \u00f7 125)^{(x +3)}\\)",
+    "options": {
+      "A": "3/2",
+      "B": "\u2212 7/4",
+      "C": "4/7",
+      "D": "7/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41294?exam_type=jamb&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1736",
+    "text": "How many sides has a regular polygon whose interior angles are 120\u00b0each",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41295?exam_type=jamb&type=obj&page=348",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1737",
+    "text": "If duty is levied at 25%, find the duty to be added to a bill of N80.",
+    "options": {
+      "A": "N100",
+      "B": "N20",
+      "C": "N80",
+      "D": "N150"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41296?exam_type=jamb&type=obj&page=348",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1738",
+    "text": "Simplify 2.04 \u00d7 3.7 (Leave your answer in 2 decimal place)",
+    "options": {
+      "A": "7.51",
+      "B": "7.71",
+      "C": "5.5",
+      "D": "7.55"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41297?exam_type=jamb&type=obj&page=348",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1739",
+    "text": "A public car dealer marked up the cost of a car at 30% in an attempt to make 20% gross profit. Due to the value of dollar, he now placed 20% discount on the car. What profit or loss will he make?",
+    "options": {
+      "A": "3%",
+      "B": "2%",
+      "C": "4%",
+      "D": "1%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41298?exam_type=jamb&type=obj&page=348",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1740",
+    "text": "Rationalize 5 \u00f7 (2 \u2212 \u221a3)",
+    "options": {
+      "A": "3(2 + \u221a5)",
+      "B": "2(3 + \u221a5)",
+      "C": "5(2 + \u221a3)",
+      "D": "3 \u221a2 + 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41299?exam_type=jamb&type=obj&page=348",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1741",
+    "text": "Factorize \\( a^2 \u2212 b^2 \u2212 4a + 4 \\)",
+    "options": {
+      "A": "(a + b)(a \u2212 b)",
+      "B": "(a \u2212 2 + b)(a - 2- b)",
+      "C": "(a + 1)(a \u2212 2 + b)",
+      "D": "(a + b) 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/41300?exam_type=jamb&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "The trinomial = \\( a^2 \u2212 4a + 4 \\\\a^2 \u2212 b^2\u2212 4a + 4 = (a^2 \u2212 4a + 4) \u2212 b^2 \\\\(a^2 \u2212 2a \u2212 2a + 4) \u2212 b^2 \\\\a(a \u2212 2)\u2212 2(a \u2212 2)] \u2212 b^2 \\\\(a \u2212 2)2 \u2212 b^2 \\\\(a \u2212 2 + b)(a \u2212 2 \u2212 b )\\)\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  },
+  {
+    "number": "1792",
+    "text": "Given that tan x = \\(\\frac{2}{3}\\), where 0o d\" x d\" 90o, Find the value of 2sinx.",
+    "options": {
+      "A": "\\(\\frac{2\\sqrt{13}}{13}\\)",
+      "B": "\\(\\frac{3\\sqrt{13}}{13}\\)",
+      "C": "\\(\\frac{4\\sqrt{13}}{13}\\)",
+      "D": "\\(\\frac{6\\sqrt{13}}{13}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45797?exam_type=jamb&type=obj&page=359",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2015"
+  }
+]

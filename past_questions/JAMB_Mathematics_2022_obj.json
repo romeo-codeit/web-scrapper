@@ -1,0 +1,562 @@
+[
+  {
+    "number": "2080",
+    "text": "Solve for k in the equation \\(\\frac{1}{8}^{k+2}\\) = 1",
+    "options": {
+      "A": "2",
+      "B": "-4",
+      "C": "-2",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64147?exam_type=jamb&type=obj&page=416",
+    "correct_answer": "C",
+    "explanation": "\\((8^{-1})^{k+2}\\) =\u00a0\\((8^{0})\\)\nbase 8 cancel out on both sides\n-1(k+2) = 0\n-k -2 = 0\n: k = -2\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2081",
+    "text": "Evaluate\u00a0\\((101_{two})^3\\)",
+    "options": {
+      "A": "\\(111101_{two}\\)",
+      "B": "\\(11111101_{two}\\)",
+      "C": "\\(1111101_{two}\\)",
+      "D": "\\(11001_{two}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64148?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "C",
+    "explanation": "\\((101_{two})^3\\) = \\((5_{ten})^3\\)\n5\\(^3\\) = 125\nAnd 125 =\u00a0\u00a0\\(1111101_{two}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2082",
+    "text": "The shaded portion in the venn diagram above represents?",
+    "options": {
+      "A": "F - (E n F) - (G n F)",
+      "B": "E' n F n G'",
+      "C": "E u F u G",
+      "D": "F"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64153?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "B",
+    "explanation": "-The shaded/stripped portion in the diagram is set F only.-This implies that sets E and G though present in the Universal set, are not included in the expression.\n-Mathematically; we have\u00a0E' n F n G'\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2083",
+    "text": "If a fair coin is tossed twice, what is the probability of obtaining at least one head?",
+    "options": {
+      "A": "0.25",
+      "B": "0.75",
+      "C": "0.5",
+      "D": "0.33"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64156?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "B",
+    "explanation": "OR\nWhen a coin is tossed twice, the sample space is given by S ={HH HT TH TT} and the event of obtaining at least a head is provided by A ={HH HT TH}.Therefore the probability of getting at least a head is given by:P = n(A) \u00f7 n(S)P = 3 \u00f7 4P = 0.75\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2084",
+    "text": "If the mean of 2, 5, (x+1), (x+2), 7 and 9 is 6. Find the median",
+    "options": {
+      "A": "5.5",
+      "B": "5",
+      "C": "6.5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64161?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "C",
+    "explanation": "Firstly; solving for x\n6 = \\(\\frac{2 + 5 + x+1 + x+2 + 7 + 9}{6}\\)\ncross multiply to have:\n6 * 6 =\u00a02 + 5 + x+1 + x+2 + 7 + 9\n36 = 2x + 26\n36 - 26 = 2x\n10 = 2x\nx = 5\nMedian =\u00a0\\(\\frac{7+6}{2}\\)\n\u2192 6.5\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2085",
+    "text": "If sin\u00a0\u03b8 = -\u00a0 \\(\\frac{3}{5}\\) and\u00a0\u03b8 lies in the third quadrant, find cos\u00a0\u03b8",
+    "options": {
+      "A": "\\(\\frac{4}{5}\\)",
+      "B": "- \\(\\frac{5}{4}\\)",
+      "C": "\\(\\frac{5}{4}\\)",
+      "D": "- \\(\\frac{4}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64173?exam_type=jamb&type=obj&page=417",
+    "correct_answer": "D",
+    "explanation": "Where sin\u03b8 = \\(\\frac{opp}{hyp}\\)\u00a0\u2192\u00a0\\(\\frac{-3}{5}\\)\nopp = -3, hyp = 5\nusing pythagoras formula\nhyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\nadj\\(^2\\) = hyp\\(^2\\) - opp\\(^2\\)\nadj\\(^2\\) = 5\\(^2\\) - 3\\(^2\\)\u00a0\u2192 25 - 9\nadj\\(^2\\) = 16\nadj = 4\ncos\u03b8 =\u00a0\\(\\frac{adj}{hyp}\\)\u00a0\u2192\u00a0\\(\\frac{4}{5}\\)\nIn third quadrant:\u00a0cos\u03b8 is negative\u00a0\u2192 - \\(\\frac{4}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2086",
+    "text": "Simplify \\(\\frac{1}{3-\u221a2}\\) in the form of p + q\u221a2",
+    "options": {
+      "A": "\\(\\frac{7}{3}\\) - \\(\\frac{1}{7\u221a2}\\)",
+      "B": "\\(\\frac{7}{3}\\) + \\(\\frac{1}{7\u221a2}\\)",
+      "C": "\\(\\frac{3}{7}\\) - \\(\\frac{1}{7\u221a2}\\)",
+      "D": "\\(\\frac{3}{7}\\) + \\(\\frac{\u221a2}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64209?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "D",
+    "explanation": "Rationalization with\u00a0conjugate \\({3+\u221a2}\\)\n\\(\\frac{1}{3-\u221a2}\\)\n\u2192\u00a0\\(\\frac{1 * [3+\u221a2]}{[3-\u221a2][3+\u221a2]}\\)\n=\u00a0\u00a0\\(\\frac{3+\u221a2}{9 -3\u221a2 +\u00a03\u221a2 -\u00a0\u221a4}\\)\n=\u00a0\u00a0\\(\\frac{3+\u221a2}{9 -\u00a02}\\)\u00a0\u2192\u00a0\u00a0\\(\\frac{3+\u221a2}{7}\\)\n=\u00a0\\(\\frac{3}{7}\\) +\u00a0\u00a0\\(\\frac{\u221a2}{7}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2087",
+    "text": "Find the length of a chord 3cm from the centre of a circle of radius 5cm",
+    "options": {
+      "A": "8cm",
+      "B": "5.6cm",
+      "C": "7cm",
+      "D": "6.5cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64218?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "A",
+    "explanation": "Using pythagoras formula:\nHyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\n5\\(^2\\) = opp\\(^2\\) + 3\\(^2\\)\n5\\(^2\\) - 3\\(^2\\) = adj\\(^2\\)\n4 = adj\nlength of the\u00a0chord = 2 * 4 = 8cm\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2088",
+    "text": "Mr Adu spends his annual salary on food(f), rent(r), car maintenance, gifts(g), savings(s) and some miscellaneous (m) as indicate in the table below:\n\n\n\nF\nR\nC\nG\nS\nM\n\n\n28%\n15%\n20%\n14%\n10%\n13%\n\n\n\nIf the above information is represented on a pie chart. What angle represents his spending on food?",
+    "options": {
+      "A": "108.5",
+      "B": "100.8",
+      "C": "98.8",
+      "D": "120.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64229?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{28 * 360}{100}\\)\n= 100.8\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2089",
+    "text": "A rectangular pyramid has an area 24cm\\(^2\\) and height 7.5cm. Find its volume?",
+    "options": {
+      "A": "65.0cm\\(^3\\)",
+      "B": "70.5cm\\(^3\\)",
+      "C": "56.5cm\\(^3\\)",
+      "D": "60.0cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64239?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "D",
+    "explanation": "Volume of a\u00a0rectangular pyramid = \\(\\frac{length * width * height}{3}\\) or\u00a0\\(\\frac{area * height}{3}\\)\n=\u00a0\\(\\frac{24 * 7.5}{3}\\)\u00a0\u2192\u00a0\\(\\frac{180}{3}\\)\nVolume of the\u00a0rectangular pyramid = 60cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2090",
+    "text": "The 10th term of an AP is 32. If the first term is 3/2, what is the 4th term?",
+    "options": {
+      "A": "35/3",
+      "B": "64",
+      "C": "16",
+      "D": "35/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64250?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "A",
+    "explanation": "Tn = a + (n-1)d\n10th term = 32\n32 = 3/2 + 9d\n9d = 32 - 3/2\n9d = 61/2\nd = 61/18\n: T4 = 3/2 + 3(61/18)\nT4 = 3/2 + 61/6\u00a0\u2192 35/3\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2091",
+    "text": "In the diagram above angle LNM and angle YNZ are represented by g and h respectively. Find\u00a0\u2220MNY",
+    "options": {
+      "A": "180\u00ba - g\u00ba - h\u00ba",
+      "B": "360\u00ba - (g-h)\u00ba",
+      "C": "180\u00ba - (g-h)\u00ba",
+      "D": "360\u00ba - g\u00ba - h\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64266?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "A",
+    "explanation": "Using line LZ with angles sum = 180\u00ba\n: \u2220MNY = 180\u00ba - (g + h)\u00ba or 180\u00ba - g\u00ba - h\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2092",
+    "text": "In how many ways can the letter of ZOOLOGY be arranged?",
+    "options": {
+      "A": "720",
+      "B": "360",
+      "C": "840",
+      "D": "120"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64271?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "C",
+    "explanation": "Zoology has 7 letters in total, with O repeated thrice\n\\(\\frac{7!}{3!}\\)\u00a0\u2192\u00a0\\(\\frac{7*6*5*4*3*2*1}{3*2*1}\\)\n= 840ways\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2093",
+    "text": "Integrate (2x+1)\\(^3\\)",
+    "options": {
+      "A": "\\(\\frac{{2x+1}^3}{8}\\) + C",
+      "B": "\\(\\frac{{2x+1}^4}{8}\\) + C",
+      "C": "\\(\\frac{{2x+1}^4}{4}\\) + C",
+      "D": "\\(\\frac{{2x+1}^2}{6}\\) + C"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64272?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "B",
+    "explanation": "Recall chain rule:\nu = 2x +1; du = 2dx\u00a0\u2192 dx =\u00a0\\(\\frac{du}{2}\\)u\\(^3\\) =\u222bu\\(^3\\)\u00a0\\(\\frac{du}{2}\\)\u00a0\u2192\u00a0\\(\\frac{1}{2}\\)\u222bu\\(^3\\)\n=\u00a0\u00a0\\(\\frac{1*u^4}{2*4}\\)\n=\u00a0\u00a0\\(\\frac{u^4}{8}\\)\u00a0\u2192\u00a0\u00a0\\(\\frac{{2x+1}^4}{8}\\) + C\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2094",
+    "text": "If A =\u00a0\\(\\begin{pmatrix} 2\u00a0& 1\u00a0\\\\ 2\u00a0& 3 \\\\ 1 & 2\u00a0\\end{pmatrix}\\) and B =\u00a0\\(\\begin{pmatrix} 3\u00a0& 2\u00a0\\\\ 4\u00a0& 2\u00a0\\end{pmatrix}\\). Find AB",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 18\u00a0& 6\u00a0\\\\ 12\u00a0& 10 \\\\ 10 & 6\u00a0\\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 13\u00a0& 10 \\\\ 12 & 6\u00a0\\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 12\u00a0& 10 \\\\ 11 & 6\u00a0\\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 18\u00a0& 10 \\\\ 11 & 6\u00a0\\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64273?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "D",
+    "explanation": "Given A =\u00a0\\(\\begin{pmatrix} 2\u00a0& 1\u00a0\\\\ 2\u00a0& 3 \\\\ 1 & 2\u00a0\\end{pmatrix}\\) and B =\u00a0\\(\\begin{pmatrix} 3\u00a0& 2\u00a0\\\\ 4\u00a0& 2\u00a0\\end{pmatrix}\\).\nWe can multiply these matrices since the number of colums in A = number of rows in B\nAB =\u00a0\\(\\begin{pmatrix} (2*3)+(1*4)\u00a0&\u00a0(2*2)+(1*2) \\\\ (2*3)+(3*4) & (2*2)+(3*2) \\\\ (1*3)+(2*4) &\u00a0(1*2)+(2*2)\u00a0\\end{pmatrix}\\)\nAB =\u00a0\\(\\begin{pmatrix} (6+4)\u00a0& (4+2)\u00a0\\\\ (6+12)\u00a0& (4+6)\u00a0\\\\ (3+8)\u00a0& (2+4)\u00a0\\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 10\u00a0& 6\u00a0\\\\ 18\u00a0& 10\u00a0\\\\ 11\u00a0& 6\u00a0\\end{pmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2095",
+    "text": "Given that r =\u00a0\\( \\sqrt\u00a0\\frac{3v}{\\pi\u00a0h} \\), make v the subject of the formula",
+    "options": {
+      "A": "v = 3\u00a0\\(\u03c0r^2\\) h",
+      "B": "v = \\(\\frac{\u03c0rh}{3}\\)",
+      "C": "v = \u00a0\\(\\frac{\u03c0r^2h}{3}\\)",
+      "D": "v = 3\u03c0rh"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64274?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "C",
+    "explanation": "square both sides to remove the big square root\n\u2192 r\\(^2\\) = \\(\\frac{3v}{\u03c0h}\\)\ncross multiply\n3v = r\\(^2\\)\u00a0*\u00a0\u03c0h\nv = \\(\\frac{\u03c0r^2h}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2096",
+    "text": "Find the determinant of the matrix A =\u00a0\\(\\begin{pmatrix} 2\u00a0& 3\u00a0\\\\ 1\u00a0& 3\u00a0\\end{pmatrix}\\)",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "5",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64275?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "D",
+    "explanation": "|A| = (2*3) - (1*3)\n\u2192 6 - 3\n= 3\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2097",
+    "text": "Evaluate Log\\(_2\\) 8\u221a2",
+    "options": {
+      "A": "3.0",
+      "B": "4.5",
+      "C": "3.5",
+      "D": "2.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64276?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "C",
+    "explanation": "where\u00a0Log\\(_2\\) 8\u221a2\u00a0\u2192\u00a0Log\\(_2\\) \u221a128\n\u2192\u00a0Log\\(_2\\) 128\\(^\\frac{1}{2}\\)\n=\u00a0\\(\\frac{1}{2}\\) * (Log\\(_2\\) 128)\u00a0\u2192\u00a0\\(\\frac{1}{2}\\) * (Log\\(_2\\) 2\\(^7\\))\n=\u00a0\u00a07 *\u00a0\\(\\frac{1}{2}\\) * (Log\\(_2\\) 2)\nwhere\u00a0(Log\\(_2\\) 2) = 1\n\u2192\u00a0\u00a07 *\u00a0\\(\\frac{1}{2}\\) * 1\n=\u00a0\\(\\frac{7}{2}\\) or 3.5\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2098",
+    "text": "The locus of points\u00a0equidistant from a fixed point.",
+    "options": {
+      "A": "circle",
+      "B": "perpendicular lines",
+      "C": "straight line",
+      "D": "bisector"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64277?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "A",
+    "explanation": "Definition of a circle\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2099",
+    "text": "What will be the result obtained when the numerator of \\(\\frac{96}{50}\\) is decreased by 37.5% and its denominator decreased by 20%.",
+    "options": {
+      "A": "1.5",
+      "B": "\\(\\frac{5}{2}\\)",
+      "C": "\\(\\frac{96}{48}\\)",
+      "D": "0.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64278?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "A",
+    "explanation": "Numerator: 96 \u2192\u00a037.5% of 96 = 36\nDecreased by 36\u00a0\u2192 96 - 36\nNew numerator = 60\nDenominator: 50\u00a0\u2192 20% of 50 = 10\nDecreased by 10\u00a0\u2192 50 - 10 = 40\nNew\u00a0Denominator = 40\nNew fraction = \\(\\frac{60}{40}\\) or 1.5\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2100",
+    "text": "A poultry farmer realized 200 eggs from his birds and sold 5 \\(\\frac{1}{2}\\) crates of eggs. What percentages of eggs are left?",
+    "options": {
+      "A": "82.5%",
+      "B": "15%",
+      "C": "17.5%",
+      "D": "85%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64279?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "C",
+    "explanation": "5 crates = 30 eggs * 5 = 150eggs\n1/2 crate = 15 eggs\nTotal sold = 165\nremainder = 200 - 165 = 35\nAnd 35 is equivalent 17.5% of the realized eggs\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2101",
+    "text": "If sec\\(^2\\)\u03b8 + tan\\(^2\\)\u03b8 = 3, then the angle\u00a0\u03b8 is equal to?",
+    "options": {
+      "A": "90\u00ba",
+      "B": "30\u00ba",
+      "C": "45\u00ba",
+      "D": "60\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64282?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "C",
+    "explanation": "Given that sec\\(^2\\)\u03b8 + tan\\(^2\\)\u03b8 = 3\nWhere sec\\(^2\\)\u03b8\u00a0= 1\u00a0 + tan\\(^2\\)\u03b8\n: 1 + tan\\(^2\\)\u03b8 + tan\\(^2\\)\u03b8 = 3\n2tan\\(^2\\)\u03b8 = 3 - 1\n2tan\\(^2\\)\u03b8 = 2\ndivide both sides by 2\ntan\\(^2\\)\u03b8 = 1\ntan\u03b8\u00a0=\u00a0\u00a0\u221a1\ntan\u03b8\u00a0= 1\n\u03b8 = tan\\(^{-1}\\) (1)\n\u03b8 = 45\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2102",
+    "text": "find the limit of y = \\(\\frac{x^3 + 6x - 7}{x-1}\\) as x tends to 1",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "0",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64350?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{x^3 + 6x - 7}{x-1}\\):\nWhen numerator is differentiated \u2192 3x\\(^2\\) + 6\nWhen denominator is differentiated \u2192 1\n:\u00a0\\(\\frac{3x^2 + 6}{1}\\)\nsubstitute x for 1\n\\(\\frac{3 * 1^2 + 6}{1}\\) =\u00a0\u00a0\\(\\frac{3\u00a0+ 6}{1}\\)\n=\u00a0\u00a0\\(\\frac{9}{1}\\)\n= 9\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2103",
+    "text": "Find the equation of a straight line parallel to the line 2x - y = 5 and having intercept of 5",
+    "options": {
+      "A": "2x + y = 5",
+      "B": "2x + y = -5",
+      "C": "2x - y = -5",
+      "D": "2x - y = 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64351?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "C",
+    "explanation": "Condition for Parallelism means that their gradient value is same\nline 2x - y = 5 is rearranged\nAs y = 2x - 5 from y = mx + c\n: line 2x - y = 5 has the gradient of 2\nA parallel line with gradient of 2 and intercept of 5\n\u2192\u00a02x - y = -5\nRearranged as y = 2x + 5\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2104",
+    "text": "Calculate the median of 14, 17, 10, 13, 18 and 10.",
+    "options": {
+      "A": "12.5",
+      "B": "13.5",
+      "C": "13.2",
+      "D": "14.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64354?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "B",
+    "explanation": "When rearranged: 10, 10, 13, 14, 17, 18\nmedian = \\(\\frac{13+14}{2}\\)\n= \\(\\frac{27}{2}\\) or 13.5\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2105",
+    "text": "The equivalent of (10110.011)\\(_2\\) in base 10 is?",
+    "options": {
+      "A": "26.325",
+      "B": "24.372",
+      "C": "42.443",
+      "D": "22.375"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64359?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "D",
+    "explanation": "Using the expansion method on\u00a0(10110.011)\\(_2\\)\n(1 * 2\\(^4\\)) +\u00a0(0\u00a0* 2\\(^3\\)) +\u00a0(1 * 2\\(^2\\)) +\u00a0(1 * 2\\(^1\\))\u00a0(0\u00a0* 2\\(^0\\)) +\u00a0(0\u00a0* 2\\(^{-1}\\)) +\u00a0(1\u00a0* 2\\(^{-2}\\))\u00a0 +\u00a0(1\u00a0* 2\\(^{-3}\\))\n(1*16) + 0 (1*4) +\u00a0(1*2) + 0 +\u00a00 +\u00a0(1*\\(\\frac{1}{4}\\)) +\u00a0(1*\\(\\frac{1}{8}\\))\n16 + 4 + 2 +\u00a0(0.25 + 0.125)\n22 + 0.375\n(10110.011)\\(_2\\) = 22.375\\(_{10}\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2106",
+    "text": "The cost C of running a school is directly proportional to the number of students N, if 20 students cost #10,000, How many students can #1,000,000 cover?",
+    "options": {
+      "A": "3000",
+      "B": "1000",
+      "C": "2000",
+      "D": "4000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64366?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "C",
+    "explanation": "if 20 students = 10000\n: #500 per student\n#1,000,000\u00a0\u00f7 500\n= 2,000 cover students\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2107",
+    "text": "The coordinates of the mid-point of the line joining the points (-3,5) and (2,10) is given by?",
+    "options": {
+      "A": "( \\(\\frac{1}{2}\\), \\(\\frac{15}{2}\\) )",
+      "B": "( \\(\\frac{1}{2}\\), \\(\\frac{-15}{2}\\) )",
+      "C": "( \\(\\frac{-1}{2}\\), \\(\\frac{-15}{2}\\) )",
+      "D": "( \\(\\frac{-1}{2}\\), \\(\\frac{15}{2}\\) )"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64368?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "D",
+    "explanation": "Given Data: x\\(_1\\) = -3,\u00a0 x\\(_2\\) = 2,\u00a0 y\\(_1\\) = 5,\u00a0 y\\(_2\\) = 10\ncoordinates of the mid-point of the line = (\\(\\frac{x_1 + x_2}{2}\\) ,\u00a0\\(\\frac{y_1 + y_2}{2}\\))\n(\\(\\frac{-3\u00a0+2}{2}\\) ,\u00a0\\(\\frac{5\u00a0+ 10}{2}\\))\n=\u00a0 \\(\\frac{-1}{2}\\)) ,\u00a0\\(\\frac{15}{2}\\))\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2108",
+    "text": "Evaluate \\(^{n^2 + 1}\\)C\\(_{n+5}\\) if n = 3",
+    "options": {
+      "A": "55",
+      "B": "45",
+      "C": "35",
+      "D": "25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64373?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "B",
+    "explanation": "\\(^{3^2 + 1}\\)C\\(_{3+5}\\)\n\\(^{9\u00a0+ 1}\\)C\\(_{3+5}\\)\n\\(^{10}\\)C\\(_{8}\\) =\u00a0\\(\\frac{10!}{8! 2!}\\)\n\\(\\frac{10 * 9 * 8!}{8! 2!}\\) =\u00a0\\(\\frac{10 * 9}{2}\\)\n= 45\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2109",
+    "text": "Given that S =\u00a0\\(3t^{2}\\) + 5t - 10 is displacement of a particle in metres, calculate it initial velocity.",
+    "options": {
+      "A": "10m/s",
+      "B": "2m/s",
+      "C": "5m/s",
+      "D": "6m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64380?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "C",
+    "explanation": "The initial velocity\u00a0(v) is obtained by differentiating the displacement (S) with respect to time, which gives:\nv = \\(\\frac{dS}{dt}\\) = \\(\\frac{d}{dt}\\)(\\(3t^2\\) + 5t - 10) = 6t + 5\nThe initial velocity is the velocity of the particle at time t = 0. Substituting t = 0 into the velocity equation:\nv(0) = 6(0) + 5 = 5\nTherefore, the initial velocity of the particle is 5 m/s.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2110",
+    "text": "In the diagram above, XY = 8cm and OX = 5cm. Find Oz",
+    "options": {
+      "A": "9cm",
+      "B": "3.4cm",
+      "C": "9.1cm",
+      "D": "3cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64390?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "D",
+    "explanation": "hyp = 5cm, adj =\u00a0 \\(\\frac{8cm}{2}\\) 4cm, opp = xcm\nPythagoras theorem:\nhyp\\(^2\\) = opp\\(^2\\) + adj\\(^2\\)\n5\\(^2\\) = x\\(^2\\) + 4\\(^2\\)\nx\\(^2\\) = 25 - 16\nx =\u221a9\nx = 3cm\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2111",
+    "text": "Let (*) be a binary operation on a natural number defined by a * b = a - b + (ab)\\(^2\\), then find 3 * 5",
+    "options": {
+      "A": "223",
+      "B": "232",
+      "C": "32",
+      "D": "-232"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64391?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "A",
+    "explanation": "3 * 5 = 3 - 5 + (3 x 5)\\(^2\\)\n-2 + (15)\\(^2\\)\n-2 + 225\n= 223\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2112",
+    "text": "If y varies inversely as x and x = 3 when y =4. Find the value of x when y = 12",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64392?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "B",
+    "explanation": "y = 1/x; y = \\(\\frac{k}{x}\\)\nk =xy\u00a0\u2192 3 * 4 = 12\nx =\u00a0\\(\\frac{k}{y}\\)\nx =\u00a0\\(\\frac{12}{12}\\) = 1\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2113",
+    "text": "If 8, p, q and 26 is an A.P. Find the values of p and q",
+    "options": {
+      "A": "p = 14 and q = 14",
+      "B": "p = 20 and q = 14",
+      "C": "p = 20 and q = 20",
+      "D": "p = 14 and q = 20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64393?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "D",
+    "explanation": "The common difference is 6.\nJust add 6 to get the next term\n8, 14, 20 and 26\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2114",
+    "text": "Find x if the mean of 2x, 4x, 2x -\u00a013 and 6x is 4.",
+    "options": {
+      "A": "1.5",
+      "B": "2.0",
+      "C": "1.0",
+      "D": "0.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64394?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "B",
+    "explanation": "mean (4) =\u00a0\u00a0\\(\\frac{2x + 4x +\u00a02x -\u00a013 +\u00a06x}{4}\\)\n16 = 14x -\u00a013\n16 + 13 = 14x\nx = 29/14 or 2.07\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2115",
+    "text": "Factorize 4a\\(^2\\) - 9b\\(^2\\)",
+    "options": {
+      "A": "(2a-3b) (2a+3b)",
+      "B": "(2a-b) (2a+3b)",
+      "C": "(2a-3b) (a+3b)",
+      "D": "(a-3b) (a+3b)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64395?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "A",
+    "explanation": "Check:(2a-3b) (2a+3b)\n4a\\(^2\\) + 6ab - 6ab - 9b\\(^2\\)\n4a\\(^2\\) - 9b\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2116",
+    "text": "If n(P) = 20 and n(Q) = 30 and n(PuQ) = 40, find the value n(PnQ)",
+    "options": {
+      "A": "10",
+      "B": "30",
+      "C": "15",
+      "D": "40"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64402?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "A",
+    "explanation": "n(PuQ) = n(p) + n(q) -\u00a0 n(PnQ)\n40 = 20 + 30 -\u00a0 n(PnQ)\nn(PnQ) = 50 - 40 = 10\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2117",
+    "text": "Three times a certain number (x), minus 2 is less than the number minus 6.Find the possible values of x.",
+    "options": {
+      "A": "x <-2",
+      "B": "x>2",
+      "C": "x>-2",
+      "D": "x<2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64404?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "A",
+    "explanation": "Three times a certain number (x) = 3x\nminus 2 = -2\nis less than = <\nthe number minus 6 = x -6\nMathematically; 3x - 2 < x - 6\ncollect like terms\n3x - x < -6 + 2\n2x < -4\nx < -2 is\u00a0 the possible values of x\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2118",
+    "text": "The number line represented by the inequality",
+    "options": {
+      "A": "x\u22642",
+      "B": "x<2",
+      "C": "x\u22652",
+      "D": "x>2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64410?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "C",
+    "explanation": "x \u2265 2\u00a0is represented by an arrow with an filled-in dot above the 2.\nThe arrow points in the direction of all the numbers that are greater than 2.\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  },
+  {
+    "number": "2119",
+    "text": "If a dress is sold for #3800.00 at 20% discount. what is its original price?",
+    "options": {
+      "A": "#3,000.00",
+      "B": "#4,000.00",
+      "C": "#5,000.00",
+      "D": "#4,750.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64412?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "D",
+    "explanation": "It is given that the cost of the item reduces to #3800.00\u00a0after the discount on the item.\nLet original price = x\nx \u2013 (20% of x) = 100\n\u21d2 x \u2013 0.2x = 100\n\u21d2 0.8x = #3800\n\u21d2 x = \\(\\frac{3800}{0.8}\\)\n\u21d2\u00a0x =\u00a04,750\nThere is an explanation video availablebelow.",
+    "year": "2022"
+  }
+]

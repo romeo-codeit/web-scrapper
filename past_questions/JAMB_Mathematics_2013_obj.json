@@ -1,0 +1,674 @@
+[
+  {
+    "number": "535",
+    "text": "Convert 2710 to another number in base three",
+    "options": {
+      "A": "10013",
+      "B": "10103",
+      "C": "11003",
+      "D": "10003"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27038?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "D",
+    "explanation": "3\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "536",
+    "text": "3 girls share a number of apples in the ration 5:3:2. If the highest share is 40 apples, find the smallest share",
+    "options": {
+      "A": "36",
+      "B": "24",
+      "C": "16",
+      "D": "38"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27039?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "537",
+    "text": "Evaluate \\(\\frac{1.25 \\times 0.025}{0.05}\\), correct to 1 decimal place",
+    "options": {
+      "A": "0.6",
+      "B": "6.2",
+      "C": "6.3",
+      "D": "0.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27040?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "A",
+    "explanation": "-3\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "538",
+    "text": "Calculate the time taken for N3000 to earn N600 if invested at 8% simple interest",
+    "options": {
+      "A": "2\\(\\frac{1}{2}\\) years",
+      "B": "3 years",
+      "C": "3\\(\\frac{1}{2}\\) years",
+      "D": "1\\(\\frac{1}{2}\\) years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27041?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "539",
+    "text": "Simplify \\(\\frac{3^{-5n}}{9^{1-n}} \\times 27^{n + 1}\\)",
+    "options": {
+      "A": "32",
+      "B": "33",
+      "C": "35",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27042?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "540",
+    "text": "If log104 = 0.6021, evaluate log1041/3",
+    "options": {
+      "A": "0.3011",
+      "B": "0.9021",
+      "C": "1.8063",
+      "D": "0.2007"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27043?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "D",
+    "explanation": "10\n1/3\n10\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "541",
+    "text": "Simplify \\(\\frac{\\sqrt{5}(\\sqrt{147} - \\sqrt{12}}{\\sqrt{15}}\\)",
+    "options": {
+      "A": "5",
+      "B": "\\(\\frac{1}{5}\\)",
+      "C": "\\(\\frac{1}{9}\\)",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27044?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "542",
+    "text": "if P = {x:x is odd, \\(-1 < x \\leq 20\\)} and Q is {y:y is prime, \\(-2 < y \\leq 25\\), find P \\(\\cap\\) Q",
+    "options": {
+      "A": "{3,5,7,11,17,19}",
+      "B": "{3,5,11,13,17,19}",
+      "C": "{3,5,7,11,13,17,19}",
+      "D": "{2,3,5,7,11,13,17,19}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27045?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "P = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19}\nQ = {-1,\u00a03, 5, 7, 11, 13, 17, 19, 23}\nP \\(\\cap\\) Q = {3, 5, 7, 11, 13, 17, 19}\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "543",
+    "text": "If S = \\(\\sqrt{t^2 - 4t + 4}\\), find t in terms of S",
+    "options": {
+      "A": "S2 - 2",
+      "B": "S + 2",
+      "C": "S - 2",
+      "D": "S2 + 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27046?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "544",
+    "text": "If x - 4 is a factor of x2 - x - k, then k is",
+    "options": {
+      "A": "4",
+      "B": "12",
+      "C": "20",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27047?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "2\n2\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "545",
+    "text": "The remainder when 6p3 - p2 - 47p + 30 is divided by p - 3 is",
+    "options": {
+      "A": "21",
+      "B": "42",
+      "C": "63",
+      "D": "18"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27048?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "3\n2\n3\n2\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "546",
+    "text": "P varies jointly as m and u, and varies inversely as q. Given that p = 4, m = 3 and u = 2 and q = 1, find the value of p when m = 6, u = 4 and q =\\(\\frac{8}{5}\\)",
+    "options": {
+      "A": "12\\(\\frac{8}{5}\\)",
+      "B": "15",
+      "C": "10",
+      "D": "28\\(\\frac{8}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27049?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "547",
+    "text": "If r varies inversely as the square root of s and t, how does s vary with r and t?",
+    "options": {
+      "A": "s varies inversely as r and t2",
+      "B": "s varies inverely as r2 and t",
+      "C": "s varies directly as r2 and t2",
+      "D": "s varies directly as r and t"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27050?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "548",
+    "text": "Evaluate 3(x + 2) > 6(x + 3)",
+    "options": {
+      "A": "x < 4",
+      "B": "x > -4",
+      "C": "x < -4",
+      "D": "x > 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27051?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "549",
+    "text": "Solve for x: |x - 2| < 3",
+    "options": {
+      "A": "x < 5",
+      "B": "-2 < x < 3",
+      "C": "-1 < x < 5",
+      "D": "x < 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27052?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "|x - 2| < 3 implies-(x - 2) < 3 .... or .... +(x - 2) < 3-x + 2 < 3 .... or .... x - 2 < 3-x < 3 - 2 .... or .... x < 3 + 2x > -1 .... or .... x < 5combining the two inequalities results, we get;-1 < x < 5\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "550",
+    "text": "The nth term of the progression \\(\\frac{4}{2}\\), \\(\\frac{7}{3}\\), \\(\\frac{10}{4}\\), \\(\\frac{13}{5}\\) is ...",
+    "options": {
+      "A": "\\(\\frac{1 - 3n}{n + 1}\\)",
+      "B": "\\(\\frac{3n + 1}{n + 1}\\)",
+      "C": "\\(\\frac{3n + 1}{n - 1}\\)",
+      "D": "\\(\\frac{3n - 1}{n + 1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27054?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "B",
+    "explanation": "n\n1\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "551",
+    "text": "If a binary operation * is defined by x * y = x + 2y, find 2 * (3 * 4)",
+    "options": {
+      "A": "24",
+      "B": "16",
+      "C": "14",
+      "D": "26"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27055?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "552",
+    "text": "If P = \\(\\begin{pmatrix} 5 & 3 \\\\ 2 & 1 \\end{pmatrix}\\) and Q = \\(\\begin{pmatrix} 4 & 2 \\\\ 3 & 5 \\end{pmatrix}\\), find 2P + Q",
+    "options": {
+      "A": "\\(\\begin{vmatrix} 7 & 7 \\\\ 14 & 8 \\end{vmatrix}\\)",
+      "B": "\\(\\begin{vmatrix} 14 & 8 \\\\ 7 & 7 \\end{vmatrix}\\)",
+      "C": "\\(\\begin{vmatrix} 7 & 7 \\\\ 8 & 14 \\end{vmatrix}\\)",
+      "D": "\\(\\begin{vmatrix} 8 & 14 \\\\ 7 & 7 \\end{vmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27056?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "B",
+    "explanation": "2P + Q = 2\\(\\begin{pmatrix} 5 & 3 \\\\ 2 & 1 \\end{pmatrix}\\) + \\(\\begin{pmatrix} 4 & 2 \\\\ 3 & 5 \\end{pmatrix}\\)= \\(\\begin{pmatrix} 10 & 6 \\\\ 4 & 2 \\end{pmatrix}\\) + \\(\\begin{pmatrix} 4 & 2 \\\\ 3 & 5 \\end{pmatrix}\\)= \\(\\begin{pmatrix} 14 & 8 \\\\ 7 & 7 \\end{pmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "553",
+    "text": "Find the inverse \\(\\begin{pmatrix} 5 & 3 \\\\ 6 & 4 \\end{pmatrix}\\)",
+    "options": {
+      "A": "\\(\\begin{vmatrix} 2 & -\\frac{3}{2} \\\\ -3 & -\\frac{5}{2}  \\end{vmatrix}\\)",
+      "B": "\\(\\begin{vmatrix} 2 & -\\frac{3}{2} \\\\ -3 & \\frac{5}{2}  \\end{vmatrix}\\)",
+      "C": "\\(\\begin{vmatrix} 2 & \\frac{3}{2} \\\\ -3 & \\frac{5}{2}  \\end{vmatrix}\\)",
+      "D": "\\(\\begin{vmatrix} 2 & \\frac{3}{2} \\\\ -3 & \\frac{5}{2}  \\end{vmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27057?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "B",
+    "explanation": "Let A = \\(\\begin{pmatrix} 5 & 3 \\\\ 6 & 4 \\end{pmatrix}\\)Then |A| = \\(\\begin{pmatrix} 5 & 3 \\\\ 6 & 4 \\end{pmatrix}\\) = 20 - 18 = 2Hence A-1 = \\(\\frac{1}{|A|}\\begin{pmatrix} 4 & -3 \\\\ -6 & 5 \\end{pmatrix}\\)= \\(\\frac{1}{2}\\begin{pmatrix} 4 & -3 \\\\ -6 & 5 \\end{pmatrix}\\)= \\(\\begin{pmatrix} 4 \\times 1/2 & -3 \\times 1/2 \\\\ -6 \\times 1/2 & 5 \\times 1/2 \\end{pmatrix}\\)= \\(\\begin{pmatrix} 2 & -\\frac{3}{2} \\\\ -3 & \\frac{5}{2} \\end{pmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "554",
+    "text": "If y = x sin x, find \\(\\frac{\\delta y}{\\delta x}\\)",
+    "options": {
+      "A": "sin x - cos x",
+      "B": "cos x - x sin x",
+      "C": "cos x + x sin x",
+      "D": "sin x + x cos x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27058?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "555",
+    "text": "If y = (2x + 2)\\(^3\\), find \\(\\frac{\\delta y}{\\delta x}\\)",
+    "options": {
+      "A": "3(2x +2)2",
+      "B": "6(2x +2)",
+      "C": "3(2x +2)",
+      "D": "6(2x +2)2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27059?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "D",
+    "explanation": "\\(y = (2x + 2)^{3}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3(2x + 2)^{3 - 1} . 2\\)\n= \\(6(2x + 2)^{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "556",
+    "text": "The radius of a circle is increasing at the rate of 0.02cms-1. Find the rate at which the area is increasing when the radius of the circle is 7cm.",
+    "options": {
+      "A": "0.75cm2S-1",
+      "B": "0.53cm2S-1",
+      "C": "0.35cm2S-1",
+      "D": "0.88cm2S-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27084?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "D",
+    "explanation": "2\n2\n-1\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "557",
+    "text": "Find the mean of t + 2, 2t - 4, 3t + 2 and 2t.",
+    "options": {
+      "A": "t + 1",
+      "B": "2t",
+      "C": "2t + 1",
+      "D": "t"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27102?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "558",
+    "text": "The mean of seven numbers is 10. If six of the numbers are 2, 4, 8, 14, 16 and 18, find the mode.",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "14",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27108?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "559",
+    "text": "Age\n20\n25\n30\n35\n40\n45\n\n\nNo of people\n3\n5\n1\n1\n2\n3\n\n\n\nCalculate the median age of the frequency distribution in the table above",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27111?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "A",
+    "explanation": "N = \\(\\sum f\\) = 15Hence the median age is the \\(\\frac{N + 1}{2}\\)th age, i.e.\\(\\frac{15 + 1}{2}\\)th = 8thFrom the table, the age that falls on the 8th position when arranged in ascending order is 25years\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "560",
+    "text": "If the variance of 3+x, 6, 4, x and 7-x is 4 and the mean is 5, find the standard deviation",
+    "options": {
+      "A": "\\(\\sqrt{3}\\)",
+      "B": "2",
+      "C": "3",
+      "D": "\\(\\sqrt{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27116?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "561",
+    "text": "\\(\\begin{array}{c|c} Score & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ \\hline Frequency & 1 & 0 & 7 & 5 & 2 & 3 & 1 & 1 \\end{array}\\)\nThe table above shows the scores of 20 students in further mathematics test. What is the range of the distribution?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "3",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27125?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "562",
+    "text": "In how many ways can a student select 2 subjects from 5 subjects?",
+    "options": {
+      "A": "\\(\\frac{5!}{3!}\\)",
+      "B": "\\(\\frac{5!}{2!2!}\\)",
+      "C": "\\(\\frac{5!}{2!3!}\\)",
+      "D": "\\(\\frac{5!}{2!}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27127?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "C",
+    "explanation": "5\n3\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "563",
+    "text": "In how many ways can 3 seats be occupied if 5 people are willing to sit?",
+    "options": {
+      "A": "60",
+      "B": "20",
+      "C": "5",
+      "D": "120"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27129?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "A",
+    "explanation": "5\n3\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "564",
+    "text": "What is the probability that an integer x \\((1 \\leq x \\leq 25)\\) chosen at random is divisible by both 2 and 3?",
+    "options": {
+      "A": "\\(\\frac{1}{25}\\)",
+      "B": "\\(\\frac{1}{5}\\)",
+      "C": "\\(\\frac{4}{25}\\)",
+      "D": "\\(\\frac{3}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27130?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "565",
+    "text": "A basket contains 9 apples, 8 bananas and 7 oranges. A fruit is picked from the basket, find the probability that it is neither an apple nor an orange.",
+    "options": {
+      "A": "\\(\\frac{3}{8}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{7}{24}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/27131?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "B",
+    "explanation": "n(apples) = 9n(bananas) = 8n(oranges) = 7n(\\(\\varepsilon\\)) = 24Hence Prob(not apple, nor orange) = Prob(banana) = \\(\\frac{8}{24}\\) = \\(\\frac{1}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1664",
+    "text": "The graph above\u00a0is correctly represented by",
+    "options": {
+      "A": "y = x2 - x - 2",
+      "B": "y = x2 - 3x + 2",
+      "C": "y = x2 - x - 1",
+      "D": "y = x2 + x - 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/33151?exam_type=jamb&type=obj&page=333",
+    "correct_answer": "A",
+    "explanation": "The graph crosses the x-axis at x = -1 and x = 2Thus, x + 1 = 0 and x - 2 = 0x\\(^2\\) - 2x + x - 2 = 0x\\(^2\\) - x - 2 = 0giving y = x\\(^2\\) - x - 2\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1665",
+    "text": "In the diagram given, find the value of x.",
+    "options": {
+      "A": "30o",
+      "B": "40o",
+      "C": "45o",
+      "D": "15o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/33152?exam_type=jamb&type=obj&page=333",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1666",
+    "text": "The value x in the figure given is",
+    "options": {
+      "A": "110o",
+      "B": "100o",
+      "C": "70o",
+      "D": "130o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/33153?exam_type=jamb&type=obj&page=334",
+    "correct_answer": "D",
+    "explanation": "Sum of the angles in a triangle = 180\u00b0\n180\u00b0 - x + 60 + 70 = 180\n130\u00b0 - x = 180\u00b0 - 180\u00b0 = 0\u00b0\nx = 130\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1667",
+    "text": "The bar chart above shows the allotment of time(in minutes) per week for selected subjects in a certain school. What is the total time allocated to the six subjects per week?",
+    "options": {
+      "A": "460mins",
+      "B": "720mins",
+      "C": "960mins",
+      "D": "200mins"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/33154?exam_type=jamb&type=obj&page=334",
+    "correct_answer": "B",
+    "explanation": "80 + 160 + 200 + 80 +\u00a0128 + 72 = 720minutes\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1668",
+    "text": "The pie chart above shows the statistical distribution of 80 students in five subjects in an examination. Calculate how many student offer Mathematics.",
+    "options": {
+      "A": "30",
+      "B": "11",
+      "C": "50",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/33155?exam_type=jamb&type=obj&page=334",
+    "correct_answer": "B",
+    "explanation": "5x\u00b0\u00a0+ (16x - 24)\u00b0\u00a0+ 5x\u00b0\u00a0+ (4x + 12)\u00b0\u00a0+ (6x + 12)\u00b0\u00a0= 360\u00b036x\u00b0\u00a0- 24 + 12 + 12 = 360\u00b036x\u00b0 = 360\u00b0x\u00b0\u00a0= \\(\\frac{360\u00b0}{36}\\)= 10\u00b0Thus, the angle of sector representing Mathematics is 5 x 10\u00b0\u00a0= 50\u00b0. Hence the number of students who offer mathematics is\\(\\frac{50}{360} \\times 80 \\approx 11\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1907",
+    "text": "If the angles of a quadrilateral are (3y + 10)\u00b0, (2y + 30)\u00b0, (y + 20)\u00b0 and 4y\u00b0. Find the value of y.",
+    "options": {
+      "A": "66\u00b0",
+      "B": "12\u00b0",
+      "C": "30\u00b0",
+      "D": "42\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54917?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "C",
+    "explanation": "Sum of angles in a quadrilateral = 360\u00b0\n\\(\\therefore\\) (3y + 10) + (2y + 30) + (y + 20) + 4y = 360\n10y + 60 = 360 \\(\\implies\\) 10y = 300\ny = 30\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1908",
+    "text": "A square tile has side 30 cm. How many of these tiles will cover a rectangular floor of length 7.2m and width 4.2m?",
+    "options": {
+      "A": "720",
+      "B": "336",
+      "C": "420",
+      "D": "576"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54918?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "B",
+    "explanation": "Length of the tile = 30 cm = 0.3m\nArea of the tile = 0.3 \\(\\times\\) 0,3 = 0.09 m\\(^2\\)\nArea of the room = (7.2 \\(\\times\\) 4.2)m\\(^2\\)\nNumber of tiles = \\(\\frac{7.2 \\times 4.2}{0.09}\\)\n= 336\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1909",
+    "text": "Find the length of a chord which subtends an angle of 90\u00b0 at the centre of a circle whose radius is 8 cm.",
+    "options": {
+      "A": "\\(8\\sqrt{3}\\) cm",
+      "B": "4 cm",
+      "C": "8 cm",
+      "D": "\\(8\\sqrt{2}\\) cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54919?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "D",
+    "explanation": "Length of chord = \\(2r \\sin (\\frac{\\theta}{2})\\)\n= \\(2 \\times 8 \\times \\sin (\\frac{90}{2})\\)\n= \\(16 \\times \\frac{\\sqrt{2}}{2}\\)\n= \\(8\\sqrt{2} cm\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1910",
+    "text": "A chord of a circle subtends an angle of 120\u00b0 at the centre of a\u00a0circle of diameter \\(4\\sqrt{3} cm\\). Calculate the area of the major sector.",
+    "options": {
+      "A": "32\\(\\pi\\) cm\\(^2\\)",
+      "B": "4\\(\\pi\\) cm\\(^2\\)",
+      "C": "8\\(\\pi\\) cm\\(^2\\)",
+      "D": "16\\(\\pi\\) cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54920?exam_type=jamb&type=obj&page=382",
+    "correct_answer": "C",
+    "explanation": "Angle of major sector = 360\u00b0 - 120\u00b0 = 240\u00b0\nArea of major sector : \\(\\frac{\\theta}{360} \\times \\pi r^{2}\\)\nr = \\(\\frac{4\\sqrt{3}}{2} = 2\\sqrt{3} cm\\)\nArea : \\(\\frac{240}{360} \\times \\pi \\times (2\\sqrt{3})^{2}\\)\n= \\(8\\pi cm^{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1911",
+    "text": "The locus of the points which is equidistant from the line PQ forms a",
+    "options": {
+      "A": "perpendicular line to PQ",
+      "B": "circle centre P",
+      "C": "circle centre Q",
+      "D": "pair of parallel lines to PQ"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54921?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "D",
+    "explanation": "If you take any point that is equidistant from the line PQ, it lies at a constant distance above and below the line.\nTherefore, the correct answer is:apair of parallel lines to PQ.\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1912",
+    "text": "If the midpoint of the line PQ is (2,3) and the point P is (-2, 1), find the coordinate of the point Q.",
+    "options": {
+      "A": "(8,6)",
+      "B": "(5,6)",
+      "C": "(0,4)",
+      "D": "(6,5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54922?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "D",
+    "explanation": "Midpoint of a line PQ where P has coordinates (x\\(_{1}\\), y\\(_{1}\\)) and Q has coordinates (x\\(_{2}\\), y\\(_{2}\\)) is given as\n\\((\\frac{x_{1} + x_{2}}{2}, \\frac{y_{1} + y_{2}}{2})\\).\n\\(\\therefore\\) If Q has coordinates (r, s), then\n\\(\\frac{-2 + r}{2} = 2\\) and \\(\\frac{1\u00a0+ s}{2} = 3\\)\n\\(-2 + r = 4 \\implies r = 6\\)\n\\(1 + s = 6 \\implies s = 5\\)\nQ = (6, 5)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1913",
+    "text": "Find the equation of the perpendicular bisector of the line joining P(2, -3) to\u00a0Q(-5, 1)",
+    "options": {
+      "A": "8y + 14x + 13 = 0",
+      "B": "8y - 14x + 13 = 0",
+      "C": "8y - 14x - 13 = 0",
+      "D": "8y + 14x - 13 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54923?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "C",
+    "explanation": "Given P(2, -3) and Q(-5, 1)\nMidpoint = \\((\\frac{2 + (-5)}{2}, \\frac{-3 + 1}{2})\\)\n= \\((\\frac{-3}{2}, -1)\\)\nSlope of the line PQ = \\(\\frac{1 - (-3)}{-5 - 2}\\)\n= \\(-\\frac{4}{7}\\)\nThe slope of the perpendicular line to PQ = \\(\\frac{-1}{-\\frac{4}{7}}\\)\n= \\(\\frac{7}{4}\\)\nThe equation of the perpendicular line: \\(y = \\frac{7}{4}x + b\\)\nUsing a point on the line (in this case, the midpoint) to find the value of b (the intercept).\n\\(-1 = (\\frac{7}{4})(\\frac{-3}{2}) + b\\)\n\\(-1 + \\frac{21}{8} = \\frac{13}{8} = b\\)\n\\(\\therefore\\) The equation of the perpendicular bisector of the line PQ is \\(y = \\frac{7}{4}x + \\frac{13}{8}\\)\n\\(\\equiv 8y = 14x + 13 \\implies 8y - 14x - 13 = 0\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1914",
+    "text": "In triangle PQR, q = 8 cm, r = 6 cm and cos P = \\(\\frac{1}{12}\\). Calculate the value of p.",
+    "options": {
+      "A": "\\(\\sqrt{108}\\) cm",
+      "B": "9 cm",
+      "C": "\\(\\sqrt{92}\\) cm",
+      "D": "10 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54924?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "C",
+    "explanation": "Using the cosine rule, we have\n\\(p^{2} = q^{2} + r^{2} - 2qr \\cos P\\)\n\\(p^{2} = 8^{2} + 6^{2} - 2(8)(6)(\\frac{1}{12})\\)\n= \\(64 + 36 - 8\\)\n\\(p^{2} = 92 \\therefore p = \\sqrt{92} cm\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1915",
+    "text": "If \\(\\tan \\theta = \\frac{3}{4}\\), find the value of \\(\\sin \\theta + \\cos \\theta\\).",
+    "options": {
+      "A": "\\(1\\frac{1}{3}\\)",
+      "B": "\\(1\\frac{2}{3}\\)",
+      "C": "\\(1\\frac{3}{5}\\)",
+      "D": "\\(1\\frac{2}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54925?exam_type=jamb&type=obj&page=383",
+    "correct_answer": "D",
+    "explanation": "\\(\\tan \\theta = \\frac{opp}{adj} = \\frac{3}{4}\\)\n\\(hyp^{2} = opp^{2} + adj^{2}\\)\n\\(hyp = \\sqrt{3^{2} + 4^{2}}\\)\n= 5\n\\(\\sin \\theta = \\frac{3}{5}; \\cos \\theta = \\frac{4}{5}\\)\n\\(\\sin \\theta + \\cos \\theta = \\frac{3}{5} + \\frac{4}{5}\\)\n= \\(\\frac{7}{5} = 1\\frac{2}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1916",
+    "text": "Integrate \\(\\frac{1 + x}{x^{3}} \\mathrm d x\\)",
+    "options": {
+      "A": "\\(2x^{2} - \\frac{1}{x} + k\\)",
+      "B": "\\(-\\frac{1}{2x^{2}} - \\frac{1}{x} + k\\)",
+      "C": "\\(-\\frac{x^{2}}{2} - \\frac{1}{x} + k\\)",
+      "D": "\\(x^{2} - \\frac{1}{x} + k\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54926?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "B",
+    "explanation": "\\(\\int \\frac{1 + x}{x^{3}} \\mathrm d x\\)\n= \\(\\int (\\frac{1}{x^{3}} + \\frac{x}{x^{3}}) \\mathrm d x\\)\n= \\(\\int (x^{-3} + x^{-2}) \\mathrm d x\\)\n= \\(\\frac{-1}{2x^{2}} - \\frac{1}{x} + k\\)\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1917",
+    "text": "Evaluate \\(\\int_{0} ^{\\frac{\\pi}{2}} \\sin x \\mathrm d x\\)",
+    "options": {
+      "A": "-2",
+      "B": "2",
+      "C": "1",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54927?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "C",
+    "explanation": "\\(\\int_{0} ^{\\frac{\\pi}{2}} \\sin x \\mathrm d x\\)\n= \\(- \\cos x |_{0} ^{\\frac{\\pi}{2}\\)\n= \\(- \\cos (\\frac{\\pi}{2}) - (- \\cos 0)\\)\n= \\(0 + 1\\)\n= 1\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  },
+  {
+    "number": "1918",
+    "text": "P, Q and R are subsets of the universal set U. The Venn\u00a0diagram showing the relationship \\((P \\cap Q) \\cup R\\) is",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54928?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2013"
+  }
+]

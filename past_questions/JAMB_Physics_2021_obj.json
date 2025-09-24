@@ -1,0 +1,562 @@
+[
+  {
+    "number": "2088",
+    "text": "The slope of the straight line displacement-time graph indicates?",
+    "options": {
+      "A": "distance traveled",
+      "B": "uniform velocity",
+      "C": "uniform acceleration",
+      "D": "uniform speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60560?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\bigtriangleup\u00a0s}{\\bigtriangleup\u00a0t}\\) = uniform velocity\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2089",
+    "text": "A man will exert the greatest pressure\u00a0when he?",
+    "options": {
+      "A": "lies flat on his back",
+      "B": "lies on his belly",
+      "C": "stands on both feet",
+      "D": "stands on the toes of one foot"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60562?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "D",
+    "explanation": "Pressure varies inversely as A\ni.e P \\(\\propto\\) \\(\\frac{1}{A}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2090",
+    "text": "Which of the units of the following physical quantities are derived?\nI. Area\nII. Thrust\nIII. Pressure\nIV. Mass",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "I, II, and III only",
+      "C": "I, II, and IV  only",
+      "D": "I and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60566?exam_type=jamb&type=obj&page=418",
+    "correct_answer": "B",
+    "explanation": "Only 'mass' is a fundamental quantity\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2091",
+    "text": "A ball of mass 0.5kg moving at 10ms\\(^{-1}\\) collides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
+    "options": {
+      "A": "0.2ms\\(^{-1}\\)",
+      "B": "0.5ms\\(^{-1}\\)",
+      "C": "5.0ms\\(^{-1}\\)",
+      "D": "5.5ms\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60597?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "C",
+    "explanation": "Using; m\\(_{1}\\) u\\(_{1}\\) +\u00a0m\\(_{2}\\) u\\(_{2}\\) = (m\\(_{1}\\) + m\\(_{2}\\))v\nm\\(_{1}\\) = 0.5kg, u\\(_{1}\\) = 10ms\\(^{1}\\), m\\(_{2}\\) = 0.5kg, u\\(_{1}\\) = 0\n\\(\\therefore\\) (0.5kg x 10) + (0.5 x 0) = (0.5 + 0.5)v\nv = 5ms\\(^{1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2092",
+    "text": "The motion of a body is simple harmonic if the?",
+    "options": {
+      "A": "acceleration is always directed towards a fixed point",
+      "B": "path of motion is a straight line",
+      "C": "acceleration is proportional to the square of the distance from a fixed point",
+      "D": "acceleration is constant and directed towards a fixed point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60605?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "A",
+    "explanation": "In simple harmonic motion,\u00a0the acceleration of the particle is\u00a0directed towards its mean position and directly proportional to its displacement.\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2093",
+    "text": "Which of the following is not correct about the molecules of a substance in a gaseous state. They?",
+    "options": {
+      "A": "are in a constant state of motion",
+      "B": "have different speeds",
+      "C": "have a temperature which is measured by the average kinetic energy",
+      "D": "The collision between the gases is perfectly inelastic"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60607?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "D",
+    "explanation": "The collision between the gases is perfectly elastic\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2094",
+    "text": "A given mass of gas has a pressure of 80 Nm\\(^{-2}\\) at a temperature of 47 C. If the temperature is reduced to 27 C with volume remaining constant, the new pressure is?",
+    "options": {
+      "A": "46.0 Nm\\(^{-2}\\)",
+      "B": "75.0 Nm\\(^{-2}\\)",
+      "C": "80.0 Nm\\(^{-2}\\)",
+      "D": "85.3 Nm\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60611?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "B",
+    "explanation": "Using \\(\\frac{P_{1}}{T_{1}} = \\frac{P_{2}}{T_{2}}\\)\nP\\(_{1}\\) = 80Nm\\(^{2}\\)T\\(_{1}\\) = 47 + 273 = 320kT\\(_{2}\\) = 27 + 273 = 300kP\\(_{2}\\)?\n\\(\\therefore\\) = P\\(_{2}\\) = \\(\\frac{P_{1}T_{2}}{T_{1}}\\)\n= \\(\\frac{80 \\times 300}{320}\\) = 75.Nm\\(^{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2095",
+    "text": "0.5kg of water at 10\u00baC is completely converted to ice at 0\u00baC by extracting (88000) of heat from it. If the specific heat capacity of water is 4200jkg\\(^{1}\\) C\u00ba. Calculate the specific latent heat of fusion of ice.",
+    "options": {
+      "A": "9.0kjkg\\(^{-1}\\)",
+      "B": "84.0kjkg\\(^{-1}\\)",
+      "C": "134.0kjkg\\(^{-1}\\)",
+      "D": "168.0kjkg\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60731?exam_type=jamb&type=obj&page=419",
+    "correct_answer": "C",
+    "explanation": "Heat involved (H) = 88,000J, Mass(M)= 0.5kg, \u00a0specific heat capacity of water(C)\u00a0= 4200Jkg\u00baC,\nSpecific latent heat of fusion(L) = ?, Temperature change(\u0394\u03b8)\u00a0=\u00a0\u00a0\u03b82 -\u00a0\u00a0\u03b81 =\u00a0\u00a0(10 - 0)\u00b0 = 10\u00b0\nH = MC\u0394\u03b8 + ML\nor\nH = M(C\u0394\u03b8 + L)\u00a0-->\\(\\frac{H}{M}\\) = C\u0394\u03b8 + L\n: L =\u00a0\\(\\frac{H}{M}\\) -\u00a0 C\u0394\u03b8 =\u00a0\\(\\frac{88,000}{0.5}\\) - 4200 \\(\\times\\) 10\nL =\u00a0176,000 - 42000 =\u00a0134,000\nL =\u00a0134,000 or 134kj/kg\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2096",
+    "text": "Which of the following instruments may be used to measure relative humidity?",
+    "options": {
+      "A": "Hydrometer",
+      "B": "Manometer",
+      "C": "Hygrometer",
+      "D": "Hypsometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60733?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "C",
+    "explanation": "A hygrometer is an instrument that is used to measure water vapor in the atmosphere. This is also commonly referred to asrelative humidityin the atmosphere.\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2097",
+    "text": "A source of sound produces waves in air of wavelength\u00a01.65m. If the speed of sound\u00a0in air is 330ms\\(^{-1}\\), the period of vibration in air is?",
+    "options": {
+      "A": "200",
+      "B": "0.005",
+      "C": "0.5",
+      "D": "0.02"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60734?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "B",
+    "explanation": "V = \\(\\frac{\\lambda}{T}\\)\n: v = 330ms\\(^{-1}\\)\\(\\lambda\\) = 1.65mT = ?\n330 = 1.65\nT = \\(\\frac{1.65}{330}\\) = 0.005s\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2098",
+    "text": "A boy standing some distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms\\(^{-1}\\), how far is he from the cliff?",
+    "options": {
+      "A": "680m",
+      "B": "170m",
+      "C": "34m",
+      "D": "85m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60737?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "D",
+    "explanation": "V = \\(\\frac{2d}{t}\\)v = 340ms\\(^{-1}\\)t = 0.5sd= ?\nd = \\(\\frac{2d}{2} = \\frac{340 \\times 0.5}{2}\\) = 85m\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2099",
+    "text": "Which of the following is not a vector quantity?",
+    "options": {
+      "A": "momentum",
+      "B": "force",
+      "C": "temperature",
+      "D": "displacement"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60738?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "C",
+    "explanation": ",displacement, velocity, and acceleration, linear momentum, forceare vector quantities, while speed (the magnitude of velocity), time, and mass are scalars. To qualify as a vector, a quantity having magnitude and direction must also obey certain rules of combination.\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2100",
+    "text": "Calculate the heat energy required to vaporize 50g of water initially at 80\u00baC\u00a0if the specific heat capacity of water is 4.23jg\\(^{-1}\\)k\\(^{-1}\\) (specific latent heat of vaporization of water is 2260jg\\(^{-1}\\)",
+    "options": {
+      "A": "530000J",
+      "B": "23200J",
+      "C": "17200J",
+      "D": "130000J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60740?exam_type=jamb&type=obj&page=420",
+    "correct_answer": "D",
+    "explanation": "H = mc\\(\\bigtriangleup\\theta\\) + mL\nH = ?\nm = 50g, c = 4.23J/gk,L = 2260, \\(\\bigtriangleup\\theta\\) = 80\u00baC\nH = 50 [4.23 x 80 + 2260]\n= 129920 \\(\\approx\\) 130,000J\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2101",
+    "text": "In a series R-L-C circuit at resonance, the voltages across the resistor and the inductors are 30V and 40V respectively. What is the voltage across the capacitor?",
+    "options": {
+      "A": "30V",
+      "B": "40V",
+      "C": "50V",
+      "D": "70V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60741?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "B",
+    "explanation": "AT resonance; X\\(_{L}\\) = X\\(_{c}\\)\n\\(\\therefore\\) = V\\(_{L}\\) = V\\(_{c}\\) = 40V\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2102",
+    "text": "If the frequency of an emitted x-ray is 1.6 x 10\\(^{16}\\)Hz, the accelerating potential is?\n\u00a0[e = 1.6 x 10\\(^{-19}\\)J, h = 6.63 x 10-\\(^{34}\\)Js]",
+    "options": {
+      "A": "6630.0V",
+      "B": "663.0V",
+      "C": "66.3V",
+      "D": "6.6V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60745?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "C",
+    "explanation": "Given f = 1.6 x10\\(^{16}\\)H\\(_{3}\\), h = 6.63 x 10\\(^{-39}\\)Js\ne = 1.6 x 10\\(^{-19}\\)C, V = ?\nV = \\(\\frac{w}{e} = \\frac{hf}{e}\\)\u00a0= \\(\\frac{1.6 \\times 10^{16} \\times 6.63 \\times 10^{34}}{1.6 \\times 10^{-19}}\\)\n= 66.3V\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2103",
+    "text": "If the fraction of the atoms of a radioactive material left after 120 years is 1/64, what is the half-life of the material?",
+    "options": {
+      "A": "24 years",
+      "B": "20 years",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60747?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "B",
+    "explanation": "Given amount remaining = \\(\\frac{1}{64}\\)\n= \\(\\frac{1}{64} = \\frac{1}{(2)^{6}}\\)\n\\(\\therefore\\) = \\(\\frac{120 \\text {years}}{6}\\) = 20 years\n\\(\\Rightarrow\\) T\\(\\frac{1}{2}\\) = 20 years\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2104",
+    "text": "A certain radioactive source emits radiation that was found to be deflected by both magnetic\u00a0and electric fields. The radiation is?",
+    "options": {
+      "A": "beta rays",
+      "B": "gamma rays",
+      "C": "x-rays",
+      "D": "ultra-violet rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60749?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "A",
+    "explanation": "Both the electric field and magnetic field affect the \u03b2-particles.\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2105",
+    "text": "The inner diameter of a test tube can be measured accurately using a?",
+    "options": {
+      "A": "micrometer screw gauge",
+      "B": "pair of dividers",
+      "C": "meter rule",
+      "D": "pair of vernier calipers"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60750?exam_type=jamb&type=obj&page=421",
+    "correct_answer": "D",
+    "explanation": "Vernier\u00a0calipers are also used to measure the internal and external diameters of a tube\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2106",
+    "text": "Two bodies have masses in the ratio3:1. They experience forces which\u00a0impart to them,\u00a0acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced",
+    "options": {
+      "A": "1:4",
+      "B": "2:1",
+      "C": "2:3",
+      "D": "2:5"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60751?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "C",
+    "explanation": "Given \\(\\frac{m_{1}}{m_{2}} = \\frac{3}{1}\\) \\(\\Rightarrow\\) m\\(_{1}\\) = 3m\\(_{2}\\)\n\\(\\frac{a_{1}}{a_{2}} = \\frac{2}{9}\\) = a\\(_{1}\\) = \\(\\frac{2a_{2}}{9}\\)\n\\(\\frac{F_{1}}{F_{2}}\\) = ?\nSince F = ma\n\\(\\Rightarrow\\) \u00a0\\(\\frac{F_{1}}{F_{2}} = \\frac{m_{1}a_{1}}{m_{2}a_{2}}\\) = \\(\\frac{(3 \\not m_{2})(2 \\not a_{2})}{\\not m_{2} a_{2} \\not a_{3}}\\)\n\\(\\frac{F_{1}}{F_{2}} = \\frac{2}{3}\\) \\(\\Rightarrow\\) 2:3\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2107",
+    "text": "Particles of mass 10\\(^{-2}\\)kg is fixed to the tip of a fan blade which rotates with angular velocity of 100rad\\(^{-1}\\). If the radius of the blade is 0.2m, the centripetal\u00a0force is?",
+    "options": {
+      "A": "2N",
+      "B": "20N",
+      "C": "200N",
+      "D": "400N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60752?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "B",
+    "explanation": "Givenm = 10\\(^{-2}\\)w = 100rads\\(^{-1}\\)F = mw\\(^{2}\\)rr = 0.2mF = ?\n= 10\\(^{-2}\\) x (100)\\(^{2}\\) x 0.2\n= 20N\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2108",
+    "text": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms\\(^{-1}\\) into a block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is?",
+    "options": {
+      "A": "50J",
+      "B": "100J",
+      "C": "150J",
+      "D": "200J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60753?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "A",
+    "explanation": "Givenm\\(_{1}\\) = 0.05kg, u\\(_{1}\\) = 200ms\\(^{-1}\\), m\\(_{2}\\) = 0.95kg\nK.E = \\(\\frac{1}{2}\\)m\\(_{r}\\)v\\(^{2}\\)\nm\\(_{1}\\)u\\(_{1}\\) = v(m\\(_{1}\\) + m\\(_{2}\\)) [law of conversation of momentum]\nv = \\(\\frac{0.05 \\times 200}{0.05 +\u00a095}\\) = 10ms\\(^{-1}\\)\nK.E = \\(\\frac{1}{2}\\)(1)10\\(^{2}\\) = 50J\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2109",
+    "text": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms\\(^{-1}\\) from the top of a tower 10m high. Neglecting air resistance, its total energy\u00a0just before hitting the ground is? (Take g = 10ms\\(^{-2}\\))",
+    "options": {
+      "A": "5J",
+      "B": "10J",
+      "C": "15J",
+      "D": "20J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60754?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "C",
+    "explanation": "Givnm = 0.1kgu = 10ms\\(^{-1}\\)h = 10mg = 10ms\\(^{-2}\\)\nAt h\\(_{max}\\); v = 0\nUsing\\(\\not v\\) = \\(\\not u\\) = \\(\\not gt\\)\\(\\not 0\\) = \\(\\not w\\) - \\(\\not 10t\\)\nv\\(^{2}\\) = u\\(^{2}\\) - 2gh0\\(^{2}\\) = 10\\(^{2}\\) - 2 x 10h20h = 100h = 5mTotal height = 10 + 5= 15mTotal energy = mghr = 0.1 x 10 x1 5= 15J\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2110",
+    "text": "A car of mass 800kg attains a speed of 25m/s in 20secs. The power developed in the engine is?",
+    "options": {
+      "A": "1.25 x 10\\(^{4}\\)W",
+      "B": "2.50x 10\\(^{4}\\)W",
+      "C": "1.25 x 10\\(^{6}\\)W",
+      "D": "2.50 x 10\\(^{6}\\)W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60756?exam_type=jamb&type=obj&page=422",
+    "correct_answer": "B",
+    "explanation": "P = \\(\\frac{mv^{2}}{t} = \\frac{800 \\times 25 \\times 25}{20}\\)\n2.5 x 10\\(^{4}\\)W\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2111",
+    "text": "When the breaks in a car are applied, the frictional force on the tyres\u00a0is?",
+    "options": {
+      "A": "a disadvantage because it is in the direction of the motion of the car",
+      "B": "a disadvantage because it is in the opposite direction of the motion of the car",
+      "C": "an advantage because it is in the direction of the motion of the car",
+      "D": "an advantage because it is in the opposite direction of the motion of the car"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60758?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "D",
+    "explanation": "Frictional force\u00a0opposes motion\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2112",
+    "text": "If the stress on a wire is 10\\(^{7}\\)NM\\(^{-2}\\) and the wire is stretched from its original length of 10.00m to 10.05m. The young's\u00a0modulus of the wire is?",
+    "options": {
+      "A": "5.0 x 10\\(^{-4}\\)Nm\\(^{-2}\\)",
+      "B": "5.0 x 10\\(^{-5}\\)Nm\\(^{-2}\\)",
+      "C": "2.0 x 10\\(^{-8}\\)Nm\\(^{-2}\\)",
+      "D": "2.0 x 10\\(^{9}\\)Nm\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60763?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "D",
+    "explanation": "Young's modulus \\(\\frac{stress}{strain}\\)\nStrain = \\(\\frac{e}{l} = \\frac{0.05}{10} = \\frac{10^{7}}{0.005}\\)\n2 x 10\\(^{9}\\)Nm\\(^{-2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2113",
+    "text": "A solid weighs\u00a010.00N in air,\u00a06N when forcefully immersed in water, and 7.0N when fully immersed in a liquid, X. Calculate the relative density of the liquid X.",
+    "options": {
+      "A": "\\(\\frac{5}{3}\\)",
+      "B": "\\(\\frac{4}{3}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{7}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60774?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "C",
+    "explanation": "R.D = \\(\\frac{\\text {weigh in air - weigh in liquid X}}{\\text {weigh in air - weigh in water}}\\)\n= \\(\\frac{10 - 7}{10 - 6} = \\frac{3}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2114",
+    "text": "When the temperature of a liquid increases,\u00a0its surface tension",
+    "options": {
+      "A": "decreases",
+      "B": "increases",
+      "C": "remains constant",
+      "D": "increases then decreases"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60775?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "A",
+    "explanation": "Surface tension decreases by:\n* Increasing liquid's temperature\n* Adding soap to the liquid\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2115",
+    "text": "A gas at a volume of V\\(_{0}\\) in a container at pressure p\\(_{0}\\) is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
+    "options": {
+      "A": "\\(\\frac{p_{0}} {5}\\)",
+      "B": "\\(\\frac{4p_{0}}{5}\\)",
+      "C": "p\\(_{0}\\)",
+      "D": "5P\\(_{0}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60776?exam_type=jamb&type=obj&page=423",
+    "correct_answer": "D",
+    "explanation": "p\\(_{1}\\) = P\\(_{0}\\), V\\(_{1}\\) = V\\(_{0}\\), V\\(_{2}\\)\u00a0= \\(\\frac{1}{5}\\)V\\(_{0}\\) P\\(_{2}\\) = ?\nP\\(_{1}\\)V\\(_{1}\\) = P\\(_{2}\\)V\\(_{2}\\)\nP\\(_{2}\\) = \\(\\frac{P_{1}V_{1}}{V_{1}}\\)\n= \\(\\frac{\\not P_{o}V_{o}}{\\frac{1}{5}P_{o}}\\) = 5\\(\\not P_{o}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2116",
+    "text": "A piece of substance of specific heat\u00a0capacity 450Jkg\\(^{-1}\\)k\\(^{1}\\) falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms\\(^{-2}\\)]",
+    "options": {
+      "A": "\\(\\frac{2}{9}\\)\u00baC",
+      "B": "\\(\\frac{4}{9}\\)\u00baC",
+      "C": "\\(\\frac{9}{2}\\)\u00baC",
+      "D": "\\(\\frac{9}{4}\\)\u00baC"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60777?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "B",
+    "explanation": "Using the law of conservation of energy\nmc\\(\\bigtriangleup\\theta\\) = mgh\n\\(\\bigtriangleup\\theta\\) = \\(\\frac{gh}{c} = \\frac{10 \\times 20}{450} = \\frac{4}{9}\\)\u00baC\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2117",
+    "text": "I. A liquid boils when its saturated vapor pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to an increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decreases the boiling point\u00a0\nWhich of the above combinations are peculiarities of the boiling point of a liquid?",
+    "options": {
+      "A": "I, II and III only",
+      "B": "I, II, III, and IV",
+      "C": "I, II, and IV",
+      "D": "II, III, and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60778?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "A",
+    "explanation": "The boiling point of a liquid depends on\u00a0temperature, atmospheric pressure, and the vapor pressure of the liquid.When the atmospheric pressure is equal to the vapor pressure of the liquid, boiling will begin\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2118",
+    "text": "The temperature gradient across a copper rod of thickness 0.02m, maintained at two temperature junctions of 20\u00ba and 80\u00baC respectively is?",
+    "options": {
+      "A": "3.0 x 10\\(^{2}\\)km\\(^{-1}\\)",
+      "B": "3.0 x 10\\(^{3}\\)km\\(^{-1}\\)",
+      "C": "5.0 x 10\\(^{3}\\)km\\(^{-1}\\)",
+      "D": "3.0 x 10\\(^{4}\\)km\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60779?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "B",
+    "explanation": "\\(\\Delta\\) = \\(\\frac{\\bigtriangleup\\theta}{\\delta} = \\frac{80-20}{0.02}\\)\n= 3.0 x 10\\(^{3}\\)km\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2119",
+    "text": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss (specific heat capacity of copper = 400Jkg\\(^{1}\\)k\\(^{-1}\\), latent heat of fusion of ice = 3.3 x 10\\(^{5}\\)Jkg\\(^{-1}\\))",
+    "options": {
+      "A": "\\(\\frac{8}{33}\\)kg",
+      "B": "\\(\\frac{3.3}{80}\\)kg",
+      "C": "\\(\\frac{80}{33}\\)kg",
+      "D": "\\(\\frac{3.3}{8}\\)kg"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60780?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "A",
+    "explanation": "mc\\(\\Delta\\theta\\) = m\\(\\lambda\\)f\n2 x 400 (100 - 0) = m(3.3 x 10\\(^{5}\\))\nm = \\(\\frac{2 \\times 400 \\times 100}{3.3 \\times 10^{5}} = \\frac{8}{33}\\)kg\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2120",
+    "text": "The equation of a wave traveling along the positive x-direction is given by; y = 0.25 x 10\\(^{-3}\\) sin (500t - 0.025x). Determine the angular velocity\u00a0of the wave motion.",
+    "options": {
+      "A": "0.25 x 10\\(^{-3}\\)rads\\(^{-1}\\)",
+      "B": "0.25 x 10\\(^{-1}\\)rads\\(^{-1}\\)",
+      "C": "5.00 x 10\\(^{2}\\)rads\\(^{-1}\\)",
+      "D": "2.50 x 10\\(^{3}\\)rads\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60795?exam_type=jamb&type=obj&page=424",
+    "correct_answer": "C",
+    "explanation": "Using y = A sin (wt + 0)\nGiven y = 0.25 x 10\\(^{-3}\\)sin (500t - 0.025x)\nBy comparing, w = 5.00 x 10\\(^{2}\\)rads\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2121",
+    "text": "If a sound wave goes from a cold air region to a hot air region, its wavelength will?",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "decrease then increase",
+      "D": "remain constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60799?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2122",
+    "text": "The lowest note emitted by a stretched string has a frequency of 40Hz. How many overtones are there between 40Hz and 180Hz?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60808?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "B",
+    "explanation": "f\\(_{0}\\) = 40H\\(_{3}\\)\n1st overtone = 2f\\(_{0}\\) = 80H\\(_{3}\\)\n2nd overtone = 3f\\(_{0}\\) = 120H\\(_{3}\\)\n3rd overtone = 4f\\(_{0}\\) = 160H\\(_{3}\\)\n4th overtone = 5f\\(_{0}\\) = 200H\\(_{3}\\)\n\\(\\therefore\\) Number of overtones between 40H\\(_{3}\\) and 180H\\(_{3}\\)\u00a0= 3\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2123",
+    "text": "A man stands 4m in front of a plane mirror. If the mirror is moved 1m towards the man, the distance between him and his new image is?",
+    "options": {
+      "A": "3m",
+      "B": "5m",
+      "C": "6m",
+      "D": "10m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60812?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "C",
+    "explanation": "Objects distance (u) = image distance (v)\nobject distance = 3m\n|uv| = 3 + 3 = 6m\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2124",
+    "text": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a?",
+    "options": {
+      "A": "concave mirror of focal length 5cm",
+      "B": "concave mirror of focal length 10cm",
+      "C": "convex mirror of focal length 5cm",
+      "D": "convex mirror of focal length 10cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60819?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "A",
+    "explanation": "Concave Mirror: It is a spherical mirror whoseouter surface is polished and inner or concave side is reflecting surface.\nConvex Mirror: It is a spherical mirror whose inner surface is polished and whose outer side or convex side is the reflecting surface.\nf = \\(\\frac{m}{4}\\) = f = \\(\\frac{d}{4}\\)\nf = \\(\\frac{20}{4}\\) = 5cm\n(For metal, it is the polished side that will be the reflecting surface)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2125",
+    "text": "The velocities of light in air and glass are 3.0 x 10\\(^8\\)ms\\(^{-1}\\) and 2.0 x 10\\(^8\\)ms\\(^{-1}\\) respectively. If the angle of refraction is 30\u00ba, the sine of the angle of incidence is?",
+    "options": {
+      "A": "0.33",
+      "B": "0.50",
+      "C": "0.67",
+      "D": "0.75"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60827?exam_type=jamb&type=obj&page=425",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{\\text {sin i}}{\\text {sin r}}\\) = \\(\\frac{\\text {velocity in air}}{\\text {velocity in glass}}\\)\n\\(\\frac{\\text {sin i}}{\\text {sin 30}}\\) = \\(\\frac{3 \\times 10^{8}}{2 \\times 10^{8}}\\)\nSin i = \\(\\frac{3}{4}\\) = 0.75\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2126",
+    "text": "An astronomical telescope is said to be in normal adjustment when the?",
+    "options": {
+      "A": "eye is accommodated",
+      "B": "focal length of an object lens is longer than that of eye piece",
+      "C": "final image is at the near point of eye",
+      "D": "final image is at infinity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60832?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "D",
+    "explanation": "A normal\u00a0arrangement is an arrangement where the principal focus of objective coincides with\u00a0the eyepiece\u00a0so that the final image is at infinity\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  },
+  {
+    "number": "2127",
+    "text": "A 2H inductor has negligible resistance and is connected to a \\(\\frac{50}{\\pi}\\) Hz A.C supply. The reactance of the inductor is?",
+    "options": {
+      "A": "200\\(\\Omega\\)",
+      "B": "50\\(\\Omega\\)",
+      "C": "\\(\\frac{100}{\\pi}\\)",
+      "D": "\\(\\frac{25}{\\pi \\Omega}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/60841?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "A",
+    "explanation": "Given;\nL = 2HF = \\(\\frac{50}{\\pi}\\) H\\(_{2}\\)X\\(_{L}\\) = ?\nX\\(_{L}\\) = 2\\(\\pi\\)fL = 2\\(\\pi\\) x \\(\\frac{50}{\\lambda}\\) x 2\n= 200\\(\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2021"
+  }
+]

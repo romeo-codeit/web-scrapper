@@ -1,0 +1,702 @@
+[
+  {
+    "number": "499",
+    "text": "An automatic system is one that",
+    "options": {
+      "A": "is operated using sophisticated skills.",
+      "B": "needs fuel before it can. be operated by humans.",
+      "C": "performs different kinds of tasks diligently.",
+      "D": "requires little or no human intervention to work."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72581?exam_type=waec&type=obj&page=100",
+    "correct_answer": "D",
+    "explanation": "An automatic system is one that requires little or no human intervention to work.",
+    "year": "2024"
+  },
+  {
+    "number": "500",
+    "text": "Which of the following features of information is not important for meaningful decision?",
+    "options": {
+      "A": "Accuracy",
+      "B": "Competitiveness",
+      "C": "Completeness",
+      "D": "Timeliness"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72582?exam_type=waec&type=obj&page=100",
+    "correct_answer": "B",
+    "explanation": "B: (competitiveness)Information must be accurate ie. it must have a degree of correctness and must be free from errors.Completeness: Information must include all necessary and relevant de- tails.Timeliness: Information must be up- to-date and provided at the right moment.",
+    "year": "2024"
+  },
+  {
+    "number": "501",
+    "text": "The microprocessor that controls a washing machine is known as",
+    "options": {
+      "A": "bot.",
+      "B": "console.",
+      "C": "embedded computer.",
+      "D": "mainframe computer."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72591?exam_type=waec&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "C: (embedded computer)An embedded computer is designed to be within a larger device or system. The washing machine in this case.",
+    "year": "2024"
+  },
+  {
+    "number": "502",
+    "text": "Which of the following statements is true about data?",
+    "options": {
+      "A": "Information is a product of data while knowledge is a product of information",
+      "B": "Data produces knowledge while knowledge produces information",
+      "C": "Data is a product of information while knowledge is a product of data",
+      "D": "Knowledge produces information while in- formation produces data"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72592?exam_type=waec&type=obj&page=101",
+    "correct_answer": "A",
+    "explanation": "A:The correct order is data information knowledge.Data provides the foundation upon which information is built. Then, knowledge emerges from information being applied.",
+    "year": "2024"
+  },
+  {
+    "number": "503",
+    "text": "Instructions were written to the first generation computers using",
+    "options": {
+      "A": "assemblers.",
+      "B": "low level language.",
+      "C": "machine language.",
+      "D": "mnemonics"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72593?exam_type=waec&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "C: (machine language)Machine language which consists of binary code (0's and I's) were used to write instructions to the first genera- tion of computers.",
+    "year": "2024"
+  },
+  {
+    "number": "504",
+    "text": "Addition and subtraction of numbers in Abacus are done using",
+    "options": {
+      "A": "bars.",
+      "B": "beads.",
+      "C": "frame.",
+      "D": "string."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72594?exam_type=waec&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "B: (beads)Addition and subtraction of numbers in an abacus are done using the beads.",
+    "year": "2024"
+  },
+  {
+    "number": "505",
+    "text": "In using the slide rule, multiplication that goes off the scale can be corrected by the following approaches except",
+    "options": {
+      "A": "resetting the slide.",
+      "B": "using circular slide rule.",
+      "C": "using flat scales.",
+      "D": "using folded scales."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72595?exam_type=waec&type=obj&page=101",
+    "correct_answer": "A",
+    "explanation": "A: (resetting the slide)Resetting the slide does not correct multiplication that goes off the scale but rather, it signifies the start of a new calculation.",
+    "year": "2024"
+  },
+  {
+    "number": "506",
+    "text": "The computer's short-term memory is the",
+    "options": {
+      "A": "arithmetic logic unit.",
+      "B": "arithmetic operator.",
+      "C": "control unit.",
+      "D": "random access memory."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72596?exam_type=waec&type=obj&page=102",
+    "correct_answer": "D",
+    "explanation": "D: (Random Access Memory)The RAM (Random Access Memory) only stores the programs the computer is currently working on. Once the program is closed, the RAM deletes it from memory. Hence, short-term memory.",
+    "year": "2024"
+  },
+  {
+    "number": "507",
+    "text": "Which of the following logic devices is considered as equivalent gate?",
+    "options": {
+      "A": "AND",
+      "B": "EX-NOR",
+      "C": "EXOR",
+      "D": "NOR"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72597?exam_type=waec&type=obj&page=102",
+    "correct_answer": "B",
+    "explanation": "B: (Ex-NOR)An equivalent gate or EX-NOR gate is a digital logic gate that outputs true (1) when an even number of true (1) inputs are present.",
+    "year": "2024"
+  },
+  {
+    "number": "508",
+    "text": "Use the devices in Figures 1 and 2 to answer the questions\u00a0given that the input variables X and Y have values of 0011 and 0101 respectively as shown in Table 1.\n\u00a0\n\n\n\n\u00a0X\n\u00a0Y\n\n\n\n\u00a00\n\u00a00\n\u00a01\n\u00a01\n\n\n\u00a00\n\u00a01\n\u00a00\n\u00a01\n\n\n\n\nCompute the value of the output Z in Figure 1 using the values of X and Y given.",
+    "options": {
+      "A": "0001",
+      "B": "0110",
+      "C": "0111",
+      "D": "1000"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72598?exam_type=waec&type=obj&page=102",
+    "correct_answer": "C",
+    "explanation": "C: (0111)\nThe gate here is an OR gate that only gives 0 when both inputs are 0, else it gives 1.\nXYZ001101010111\nZ = 0111",
+    "year": "2024"
+  },
+  {
+    "number": "509",
+    "text": "Use the devices in Figures 1 and 2 to answer the questions\u00a0given that the input variables X and Y have values of 0011 and 0101 respectively as shown in Table 1.\n\n\n\n\u00a0X\n\u00a0Y\n\n\n\n\u00a00\n\u00a00\n\u00a01\n\u00a01\n\n\n\u00a00\n\u00a01\n\u00a00\n\u00a01\n\n\n\n\nIf the input variable X in Figure 1 is passed through the device in Figure 2 before going into the logic gate in Figure 1, what will be the value of the output Z?",
+    "options": {
+      "A": "0111",
+      "B": "1011",
+      "C": "1101",
+      "D": "1110"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72599?exam_type=waec&type=obj&page=102",
+    "correct_answer": "D",
+    "explanation": "D: (1110)\nThe gate in figure 2 is a NOT gate that inverse the input. It gives 1 when the input is 0 and vice-versa.\nFor input X =\u00a0 0011,\nwhen it passes through the NOT gate, it becomes 1100\nFor input Y = 0101,\nWhen it passes through the NOT gate, it becomes 1010\n\\(\\overline{X}\\)\\(\\overline{Y}\\)Z110010101110\nZ = 1110",
+    "year": "2024"
+  },
+  {
+    "number": "510",
+    "text": "If the input variable Y in Figure 1 is passed through the device in Figure 2 before going into the logic gate in Figure 1, compute the resulting value of the output at Z.\u00a0\n\n\n\n\u00a0X\n\u00a0Y\n\n\n\n\u00a00\n\u00a00\n\u00a01\n\u00a01\n\n\n\u00a00\n\u00a01\n\u00a00\n\u00a01",
+    "options": {
+      "A": "0111",
+      "B": "1011",
+      "C": "1101",
+      "D": "110"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72601?exam_type=waec&type=obj&page=102",
+    "correct_answer": "B",
+    "explanation": "B: (1011)\nY is originally 0101. After passing it through the NOT gate, in Figure 2, it becomes 1010.\nX\\(\\overline{Y}\\)Z001110101011\nZ= 1011",
+    "year": "2024"
+  },
+  {
+    "number": "511",
+    "text": "Using the given values of X and Y for the device in Figure 1, what will be the value of the output Z if it is passed through the device in Figure 2?\u00a0\n\n\n\n\u00a0X\n\u00a0Y\n\n\n\n\u00a00\n\u00a00\n\u00a01\n\u00a01\n\n\n\u00a00\n\u00a01\n\u00a00\n\u00a01",
+    "options": {
+      "A": "0001",
+      "B": "0110",
+      "C": "0111",
+      "D": "1000"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72603?exam_type=waec&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "D: (1000)Our original output for Z as gotten in no. (10) is 0111.After passing it through the NOT gate in figure 2, it becomes 1000.",
+    "year": "2024"
+  },
+  {
+    "number": "512",
+    "text": "The part labeled Q in Figure 3 is called",
+    "options": {
+      "A": "control unit.",
+      "B": "data bus.",
+      "C": "memory unit.",
+      "D": "register."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72610?exam_type=waec&type=obj&page=103",
+    "correct_answer": "C",
+    "explanation": "C: (Memory Unit)The Central Processing Unit (CPU) relies on the memory unit to store and retrieve data and instructions.",
+    "year": "2024"
+  },
+  {
+    "number": "513",
+    "text": "MS Access is an example of",
+    "options": {
+      "A": "Word processing package.",
+      "B": "spreadsheet application.",
+      "C": "graphic software.",
+      "D": "database management system."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72611?exam_type=waec&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "D: (database management system) MS Access is an example of database management system. Other examples include MySQL, Oracle, MongoDB.",
+    "year": "2024"
+  },
+  {
+    "number": "514",
+    "text": "Which of the following statements explains the function of device drivers? They",
+    "options": {
+      "A": "convert source code to object code.",
+      "B": "enable hardware and software control and manage the system.",
+      "C": "help to clean disk space and manage installation of applications.",
+      "D": "help to improve the functionality of hardware devices."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72612?exam_type=waec&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "D:Device drivers improve the functionality of hardware devices.",
+    "year": "2024"
+  },
+  {
+    "number": "515",
+    "text": "One usefulness of utility software in the computer is",
+    "options": {
+      "A": "conversion of source code to object code.",
+      "B": "enhancement of communication between hardware and the computer system.",
+      "C": "removal of malware from the computer.",
+      "D": "to improve the functionality of hardware devices."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72613?exam_type=waec&type=obj&page=103",
+    "correct_answer": "C",
+    "explanation": "C:Utility software perform a variety of tasks that help manage, maintain and optimize computer systems. One of these include the removal of malware from the computer.",
+    "year": "2024"
+  },
+  {
+    "number": "516",
+    "text": "Which of the following statements about operating system is false? It",
+    "options": {
+      "A": "enhances the booting process.",
+      "B": "manages computer devices.",
+      "C": "manages storage location.",
+      "D": "protects the computer from surge."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72614?exam_type=waec&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "D:The Operating System (OS) does not protect the computer from surge. What does this is a surge protector with a common example being the Uninterruptible Power Supply (UPS).",
+    "year": "2024"
+  },
+  {
+    "number": "517",
+    "text": "Debugging in program development is the process of",
+    "options": {
+      "A": "fixing errors.",
+      "B": "introducing bugs.",
+      "C": "removing virus.",
+      "D": "writing error messages."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72616?exam_type=waec&type=obj&page=104",
+    "correct_answer": "A",
+    "explanation": "A:Debugging in program development is the process of identifying, isolating and fixing errors, bugs or glitches in your program.",
+    "year": "2024"
+  },
+  {
+    "number": "518",
+    "text": "Figure 4 is a flowchart symbol. Use it to answer questions this question.\nIdentify the flowchart symbol in Figure 4.",
+    "options": {
+      "A": "Decision box",
+      "B": "Manual input",
+      "C": "Preparation",
+      "D": "Process"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72618?exam_type=waec&type=obj&page=104",
+    "correct_answer": "A",
+    "explanation": "A:This symbol represents the decision box.",
+    "year": "2024"
+  },
+  {
+    "number": "519",
+    "text": "Figure 4 is a flowchart symbol. Use it to answer questions this question.\n\u00a0\nThe flowchart symbol in Figure 4 is used to",
+    "options": {
+      "A": "show the preparation stage.",
+      "B": "represent a decision-making point.",
+      "C": "input data manually in a flowchart.",
+      "D": "execute a process."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72619?exam_type=waec&type=obj&page=104",
+    "correct_answer": null,
+    "explanation": "B:The symbol is used to represent a decision making point.",
+    "year": "2024"
+  },
+  {
+    "number": "520",
+    "text": "Which of the following operations will be executed last in a program?",
+    "options": {
+      "A": "Addition",
+      "B": "Division",
+      "C": "Exponentiation",
+      "D": "PEMDAS"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72620?exam_type=waec&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "D:The order operation is PEMDAS\nP-Parentheses \u00a0E-Exponents M-Multiplication D-Division A-Addition S-Subtraction",
+    "year": "2024"
+  },
+  {
+    "number": "521",
+    "text": "A The equation x =p + qr +s) can be expressed in Q BASIC programming",
+    "options": {
+      "A": "X = P + Q* = \\(\\frac{R}{S}\\)",
+      "B": "X = P + Q* (R\\S)",
+      "C": "X = P x Q (R\\S)",
+      "D": "X = P + Q = \\(\\frac{R}{S}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72622?exam_type=waec&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "B:x=p+q* (r/s)\nMultiplication symbol is represent- ed by an asterisk (*).Division symbol is represented by a forward stroke (/)",
+    "year": "2024"
+  },
+  {
+    "number": "522",
+    "text": "Which of the following statements is true about the rules of flowcharting?",
+    "options": {
+      "A": "All boxes of flowcharts are connected with arrows to show the logical connection between them.",
+      "B": "All flowchart process boxes are connected with on page connector to show the flow of operation.",
+      "C": "All flowcharts start with a start box and end with a decision box",
+      "D": "The low of control must always enter an object from bottom to top"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72623?exam_type=waec&type=obj&page=105",
+    "correct_answer": "A",
+    "explanation": "A:All boxes in a flowchart must be connected with arrows to show the logical connection between them.",
+    "year": "2024"
+  },
+  {
+    "number": "523",
+    "text": "In computer programming, it is advised to translate source code into intermediate code to",
+    "options": {
+      "A": "change the analysis portion for different compilers.",
+      "B": "ensure that full native compiler is used for every new machine that will run the program.",
+      "C": "make it easier to apply the source code modifications to improve code performance.",
+      "D": "make the synthesis part of the compiler target-machine dependent."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72624?exam_type=waec&type=obj&page=105",
+    "correct_answer": "C",
+    "explanation": "C:Translating source code into intermediate code makes it easier to apply source code modifications to improve code performance.",
+    "year": "2024"
+  },
+  {
+    "number": "524",
+    "text": "A graphic or text in a document or web page that links to another file or object is referred to",
+    "options": {
+      "A": "a domain name.",
+      "B": "a hyperlink.",
+      "C": "a shortcut.",
+      "D": "an icon."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72625?exam_type=waec&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "B:A hyperlink is a graphic or text in a document or webpage that inks to another file or object.",
+    "year": "2024"
+  },
+  {
+    "number": "525",
+    "text": "Instant messages can be sent with little or no tine lag using",
+    "options": {
+      "A": "podcast.",
+      "B": "facsimile.",
+      "C": "email.",
+      "D": "chat room,"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72626?exam_type=waec&type=obj&page=105",
+    "correct_answer": "D",
+    "explanation": "D:Chat rooms allow for real-time text- based conversations with little to no time lag.",
+    "year": "2024"
+  },
+  {
+    "number": "526",
+    "text": "Which of the following statements is true about preventing phishing?",
+    "options": {
+      "A": "Insure that antivirus is updated regularly",
+      "B": "Do not click on links in emails from untrusted sources",
+      "C": "Do not download from untrusted sites",
+      "D": "Use a strong password at all times"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72627?exam_type=waec&type=obj&page=106",
+    "correct_answer": "B",
+    "explanation": "B:Phishing is a type of cybercrime where attackers attempt to trick individuals into revealing sensitive information such as passwords, credit card numbers, PINS, financial information, etc. To prevent phishing, one of the ways is not to click on links in emails from untrusted sources.",
+    "year": "2024"
+  },
+  {
+    "number": "527",
+    "text": "Which of the following statements is\u00a0true about star topologies?",
+    "options": {
+      "A": "Computers are connected node-to-node",
+      "B": "Computers are connected to a central device",
+      "C": "The connection is linear in shape",
+      "D": "The connection is a tree-like structure"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72632?exam_type=waec&type=obj&page=106",
+    "correct_answer": "B",
+    "explanation": "In star topology, the computers are connected to a central device (hub or switch).",
+    "year": "2024"
+  },
+  {
+    "number": "528",
+    "text": "An internet user secures his social\u00a0 media account by regularly changing passwords. Which of the following passwords produces the best security?",
+    "options": {
+      "A": "wasscesc2024",
+      "B": "WASSCESC2024",
+      "C": "2024wasscesc",
+      "D": "WASSCESchool-Candidates(@2024"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72633?exam_type=waec&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "A very secure password is one with large number of characters, complex (uppercase, lowercase and special characters mixed) and unpredictable.",
+    "year": "2024"
+  },
+  {
+    "number": "529",
+    "text": "Which of the following statements is true about intranet?",
+    "options": {
+      "A": "Private network that uses internet protocol and is accessible by all visitors to an organization's website",
+      "B": "Private network that uses internet protocol and is accessible by employees of an organization",
+      "C": "Private network which does not use internet protocol and is accessible by employees of an organization",
+      "D": "Public network that uses internet protocol and is accessible by all visitors to an organization's website"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72634?exam_type=waec&type=obj&page=106",
+    "correct_answer": "B",
+    "explanation": "The internet is a private network that uses internet protocol and is accessible by the employees of an organization.",
+    "year": "2024"
+  },
+  {
+    "number": "530",
+    "text": "The art of checking for errors in a Word document before publishing is referred to as",
+    "options": {
+      "A": "editing.",
+      "B": "formatting.",
+      "C": "modifying.",
+      "D": "proof reading."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72636?exam_type=waec&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "Proof-reading is the art of checking for errors in a word document before publishing.",
+    "year": "2024"
+  },
+  {
+    "number": "531",
+    "text": "Columns in MS Access are referred to as",
+    "options": {
+      "A": "fields.",
+      "B": "files.",
+      "C": "records.",
+      "D": "tuples."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72637?exam_type=waec&type=obj&page=107",
+    "correct_answer": "A",
+    "explanation": "Columns in MS Access are called fields. Rows are called records.",
+    "year": "2024"
+  },
+  {
+    "number": "532",
+    "text": "Which of the following application packages is suitable for making budgets?",
+    "options": {
+      "A": "Word processor",
+      "B": "Spreadsheet package",
+      "C": "Graphic package",
+      "D": "Database Management System"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72638?exam_type=waec&type=obj&page=107",
+    "correct_answer": "B",
+    "explanation": "Spreadsheet package is suitable for making budgets.",
+    "year": "2024"
+  },
+  {
+    "number": "533",
+    "text": "What happens when a user clicks on the icon in Figure 5 on the Microsoft Excel menu bar?",
+    "options": {
+      "A": "copy of the selection is put on the clipboard so that user can paste somewhere else",
+      "B": "A label that spans multiple columns is created",
+      "C": "Content on the clipboard is added to the document",
+      "D": "Selected range of cells is quickly converted to a table with its own style"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72639?exam_type=waec&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "This icon is the paste icon. When clicked, the content on the clipboard is added to the document",
+    "year": "2024"
+  },
+  {
+    "number": "534",
+    "text": "30. New comment can be added to a cell in MS Excel by using the procedure",
+    "options": {
+      "A": "Edit \u2192 Comment.",
+      "B": "File \u2192 Comment.",
+      "C": "Insert\u2192 Comment.",
+      "D": "Review\u2192 Comment."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72654?exam_type=waec&type=obj&page=107",
+    "correct_answer": "D",
+    "explanation": "To add a new comment in MS Excel go to the Review tab and click new comment.",
+    "year": "2024"
+  },
+  {
+    "number": "535",
+    "text": "What is the function of the CorelDraw Toolbox object shown in Figure 6? It IS used to",
+    "options": {
+      "A": "charge the magnification level in drawing window.",
+      "B": "draw lines and curves.",
+      "C": "edit the shape of objects.",
+      "D": "select and transform objects."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72655?exam_type=waec&type=obj&page=107",
+    "correct_answer": "D",
+    "explanation": "The object shown is the Pick tool. It is used to select and transform objects,",
+    "year": "2024"
+  },
+  {
+    "number": "536",
+    "text": "Which of the following statements about index is true? It is a data structure",
+    "options": {
+      "A": "that reduces the speed of data retrieval operations on a database table.",
+      "B": "used to quickly locate data without searching every row in a table every time a database table is accessed.",
+      "C": "created using only two rows of a database table to uniquely identify each record.",
+      "D": "that allows relational database to split and store data in different tables, while linking disparate items."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72658?exam_type=waec&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "An index data structure can be used to quickly locate data without searching every row in a table every time a database table is accessed.",
+    "year": "2024"
+  },
+  {
+    "number": "537",
+    "text": "A collection of computer wires used to identify memory location in a computer is",
+    "options": {
+      "A": "system bus.",
+      "B": "data bus.",
+      "C": "data cable.",
+      "D": "address bus."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72659?exam_type=waec&type=obj&page=108",
+    "correct_answer": "D",
+    "explanation": "Address bus is a collection of computer wires used to identify memory location in a computer.",
+    "year": "2024"
+  },
+  {
+    "number": "538",
+    "text": "Read Only Memory (ROM) contains",
+    "options": {
+      "A": "current program in operation.",
+      "B": "preset instructions for operation.",
+      "C": "user instructions.",
+      "D": "volatile programs."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72660?exam_type=waec&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "The ROM contains present instruction for operation. It is a non-volatile memory.",
+    "year": "2024"
+  },
+  {
+    "number": "539",
+    "text": "What happens when the Shift key is pressed down while deleting a file from the computer? The file is",
+    "options": {
+      "A": "un- installed from the computer.",
+      "B": "permanently deleted from the computer.",
+      "C": "deleted and sent to the Recycle Bin.",
+      "D": "deleted and kept in the clipboard."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72665?exam_type=waec&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "This permanently deletes the fle from the computer without storing it in the Recycle Bin.",
+    "year": "2024"
+  },
+  {
+    "number": "540",
+    "text": "Which of the following statements about warm booting is true? The computer",
+    "options": {
+      "A": "reloads the operating system while still running in the background.",
+      "B": "loads the operating system into memory from the power-on button.",
+      "C": "reloads the operating system into memory while still running.",
+      "D": "loads the application into memory from rest state."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72666?exam_type=waec&type=obj&page=108",
+    "correct_answer": "A",
+    "explanation": "Warm booting reloads the operating system while running in the background.",
+    "year": "2024"
+  },
+  {
+    "number": "541",
+    "text": "The ASCII character set represents alphabetical and control characters using numeric code ranging from",
+    "options": {
+      "A": "0 to 32.",
+      "B": "0 to 64.",
+      "C": "0 to 127.",
+      "D": "0 to 128."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72667?exam_type=waec&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "TheASCIIcharacter set ,represents using numeric code ranging from 0 to 127 (128 characters in total).",
+    "year": "2024"
+  },
+  {
+    "number": "542",
+    "text": "Which of the following hard disk drive memory capacities can store the largest size of data?",
+    "options": {
+      "A": "2TB",
+      "B": "12GB",
+      "C": "240MB",
+      "D": "800K"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72668?exam_type=waec&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "1TB = 1024GB2TB = 2x 1024 = 2048GBThis is a larger size of data than any other option.",
+    "year": "2024"
+  },
+  {
+    "number": "543",
+    "text": "The equivalent of the letter A in the standard ASCII is",
+    "options": {
+      "A": "01000001",
+      "B": "01000010",
+      "C": "01100001",
+      "D": "01100010"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72670?exam_type=waec&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "Ain standardASCIIis 65 (decimal) which is 01000001 in binary form.",
+    "year": "2024"
+  },
+  {
+    "number": "544",
+    "text": "One example of a file containing reference data which is usually altered is",
+    "options": {
+      "A": "brand name.",
+      "B": "payroll.",
+      "C": "price list.",
+      "D": "stock."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72671?exam_type=waec&type=obj&page=109",
+    "correct_answer": "D",
+    "explanation": "Stock file contains reference data (e.g. quantity of inventory) that is frequently altered to reflect changes.",
+    "year": "2024"
+  },
+  {
+    "number": "545",
+    "text": "Figure 7 represents a procedure to",
+    "options": {
+      "A": "backup files on a computer.",
+      "B": "repair a corrupted file on a computer.",
+      "C": "transfer files from one device to another.",
+      "D": "update software on a device."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72688?exam_type=waec&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "This process involves the transfer of files from one device to another via Bluetooth.",
+    "year": "2024"
+  },
+  {
+    "number": "546",
+    "text": "A user observed that a certain file in a removable storage device changed to a shortcut icon. This implies that",
+    "options": {
+      "A": "the\u00a0file is corrupt.",
+      "B": "the file is shared.",
+      "C": "the removable storage device is corrupt.",
+      "D": "there is a link to the file."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72689?exam_type=waec&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "This can occur when the storage device is corrupt making the file inaccessible and appear as a shortcut icon.",
+    "year": "2024"
+  },
+  {
+    "number": "547",
+    "text": "Set of characters used to authenticate a computer user is called",
+    "options": {
+      "A": "encoder.",
+      "B": "binary code.",
+      "C": "password.",
+      "D": "barcode."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72690?exam_type=waec&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "Password is a set of characters used to authenticate a computer user.",
+    "year": "2024"
+  },
+  {
+    "number": "548",
+    "text": "Which of the following statements about firewall is correct?",
+    "options": {
+      "A": "A network transmission system that increases the speed of incoming and outgoing network traffic",
+      "B": "A network security system that establishes a barrier between a trusted internal network and an untrusted external network such as the Internet",
+      "C": "A data structure that improves the speed of data retrieval operations on a database table",
+      "D": "A data structure created using only two\u00a0rows of a database table used to uniquely identify each record"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/72691?exam_type=waec&type=obj&page=110",
+    "correct_answer": "B",
+    "explanation": "A firewall is a network security system that establishes a barrier between a trusted internal network and an untrusted external network such as the Internet.",
+    "year": "2024"
+  }
+]

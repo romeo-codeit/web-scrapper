@@ -1,0 +1,1121 @@
+[
+  {
+    "number": "1920",
+    "text": "Make q the subject of the formula in the equation \\(\\frac{mn}{a^2} - \\frac{pq}{b^2} = 1\\)",
+    "options": {
+      "A": "\\(q = \\frac{b^2(mn - a^2)}{a^2 p}\\)",
+      "B": "\\(q = \\frac{m^2 n - a^2}{p^2}\\)",
+      "C": "\\(q = \\frac{mn - 2b^2}{a^2}\\)",
+      "D": "\\(q = \\frac{b^2 (n^2 - ma^2)}{n}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54942?exam_type=jamb&type=obj&page=384",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{mn}{a^2} - \\frac{pq}{b^2} = 1\\)\n\\(\\frac{mn}{a^2} - 1 = \\frac{pq}{b^2}\\)\n\\(\\frac{mn - a^2}{a^2} = \\frac{pq}{b^2}\\)\n\\(pq = \\frac{b^2 (mn - a^2)}{a^2}\\)\n\\(q = \\frac{b^2(mn - a^2)}{a^2 p}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1921",
+    "text": "The angle of elevation of the top of a tree from a point on the ground 60m away from the foot of the tree is 78\u00b0. Find the height of the tree correct to the nearest whole number.",
+    "options": {
+      "A": "148m",
+      "B": "382m",
+      "C": "282m",
+      "D": "248m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54944?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "C",
+    "explanation": "\\(\\tan 78 = \\frac{h}{60}\\)\n\\(h = 60 \\tan 78\\)\n\\(h = 60 \\times 4.705 = 282.27m\\)\n\\(\\approxeq\\) 282m\u00a0to the nearest whole number.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1922",
+    "text": "A binary operation \\(\\otimes\\) is defined by \\(m \\otimes\u00a0n = mn + m - n\\) on the set of real numbers, for all m, n \\(\\in\\) R. Find the value of 3 \\(\\otimes\\) (2 \\(\\otimes\\) 4).",
+    "options": {
+      "A": "6",
+      "B": "25",
+      "C": "15",
+      "D": "18"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54945?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "C",
+    "explanation": "\\(m \\otimes\u00a0n = mn + m - n\\)\n3 \\(\\otimes\\) (2 \\(\\otimes\\) 4)\n2 \\(\\otimes\\) 4 = 2(4) + 2 - 4 = 6\n3 \\(otimes\\) 6 = 3(6) + 3 - 6\u00a0 = 15\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1923",
+    "text": "Age in years\n7\n8\n9\n10\n11\n\n\nNo of pupils\n4\n13\n30\n44\n9\n\n\n\nThe table above shows the number of pupils in a class with respect to their ages. If a pie chart is constructed to represent the age, the angle corresponding to 8 years old is",
+    "options": {
+      "A": "48.6\u00b0",
+      "B": "56.3\u00b0",
+      "C": "46.8\u00b0",
+      "D": "13\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54946?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "C",
+    "explanation": "Total number of pupils : 4 + 13 + 30 + 44 + 9 = 100\nThe number of 8 - year olds = 13\nThe angle represented by the 8-year olds on the pie chart = \\(\\frac{13}{100} \\times 360\u00b0\\)\n= 46.8\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1924",
+    "text": "In a class of 50 students, 40 students offered Physics and 30 offered Biology. How many offered both Physics and Biology?",
+    "options": {
+      "A": "42",
+      "B": "20",
+      "C": "70",
+      "D": "54"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54947?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "B",
+    "explanation": "n(Total) = 50\nn(Physics) = 40\nn(Biology) = 30\nLet n(Physics and Biology) = x\nn(Physics only) = 40 -x\nn(Biology only) = 30 - x\n40 - x + 30 - x + x = 50\n70 - x = 50\nx = 20\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1925",
+    "text": "Rationalize \\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}}\\)",
+    "options": {
+      "A": "\\(-5 - 2\\sqrt{6}\\)",
+      "B": "\\(-5 + 3\\sqrt{2}\\)",
+      "C": "\\(5 - 2\\sqrt{3}\\)",
+      "D": "\\(5 + 2\\sqrt{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54951?exam_type=jamb&type=obj&page=385",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}}\\)\n= \\((\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} - \\sqrt{3}})(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{2} + \\sqrt{3}})\\)\n= \\(\\frac{2 + \\sqrt{6} + \\sqrt{6} + 3}{2 - \\sqrt{6} + \\sqrt{6} - 3}\\)\n= \\(\\frac{5 + 2\\sqrt{6}}{-1}\\)\n= \\(- 5 - 2\\sqrt{6}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1926",
+    "text": "Find the length of the chord |AB| in the diagram shown above.",
+    "options": {
+      "A": "4.2 cm",
+      "B": "4.3 cm",
+      "C": "3.2 cm",
+      "D": "3.4 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54955?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "D",
+    "explanation": "Length of chord = \\(2r \\sin (\\frac{\\theta}{2})\\)\n= \\(2(3) \\sin (\\frac{68}{2})\\)\n= \\(6 \\sin 34\\)\n= \\(6 \\times 0.559\\)\n= 3.354 cm \\(\\approxeq\\)\u00a0 3.4 cm\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1927",
+    "text": "Given \\(\\sin 58\u00b0 = \\cos p\u00b0\\), find p.",
+    "options": {
+      "A": "48\u00b0",
+      "B": "58\u00b0",
+      "C": "32\u00b0",
+      "D": "52\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54956?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "C",
+    "explanation": "\\(\\sin \\theta = \\cos (90 - \\theta)\\)\n\\(\\sin \\theta = \\cos (90 - 58)\\)\n= \\(\\cos 32\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1928",
+    "text": "\\(\\frac{\\frac{2}{3} \\div \\frac{4}{5}}{\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3}}\\)",
+    "options": {
+      "A": "\\(\\frac{31}{50}\\)",
+      "B": "\\(\\frac{20}{31}\\)",
+      "C": "\\(\\frac{31}{20}\\)",
+      "D": "\\(\\frac{50}{31}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54958?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{\\frac{2}{3} \\div \\frac{4}{5}}{\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3}}\\)\n\\(\\frac{2}{3} \\div \\frac{4}{5} = \\frac{2}{3} \\times \\frac{5}{4}\\)\n= \\(\\frac{5}{6}\\)\n\\(\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3} = \\frac{15 + 36 - 20}{60}\\)\n= \\(\\frac{31}{60}\\)\n\\(\\therefore\u00a0\\frac{\\frac{2}{3} \\div \\frac{4}{5}}{\\frac{1}{4} + \\frac{3}{5} - \\frac{1}{3}} = \\frac{5}{6} \\div \\frac{31}{60}\\)\n= \\(\\frac{5}{6} \\times \\frac{60}{31}\\)\n= \\(\\frac{50}{31}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1929",
+    "text": "If \\(6x^3 + 2x^2 - 5x + 1\\) divides \\(x^2 - x - 1\\), find the remainder.",
+    "options": {
+      "A": "2x + 6",
+      "B": "6x + 8",
+      "C": "5x - 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54960?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1930",
+    "text": "If a fair coin is tossed 3 times, what is the probability of getting at least two heads?",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{4}{5}\\)",
+      "C": "\\(\\frac{2}{5}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54961?exam_type=jamb&type=obj&page=386",
+    "correct_answer": "D",
+    "explanation": "The outcomes are {HHH, HHT, HTT, HTH, THH, THT, TTH, TTT}\nP(at least two heads) = \\(\\frac{4}{8}\\)\n= \\(\\frac{1}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1931",
+    "text": "In how many ways can the word MATHEMATICIAN be arranged?",
+    "options": {
+      "A": "6794800 ways",
+      "B": "2664910 ways",
+      "C": "6227020800 ways",
+      "D": "129729600 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54962?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "D",
+    "explanation": "MATHEMATICIAN = 13 letters with 2M, 3A, 2T, 2I.\nHence, the word MATHEMATICIAN can be arranged in \\(\\frac{13!}{2! 3! 2! 2!}\\)\n= 129729600 ways\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1932",
+    "text": "Given matrix M = \\(\\begin{vmatrix} -2 & 0 & 4 \\\\ 0 & -1 & 6 \\\\ 5 & 6 & 3 \\end{vmatrix}\\), find \\(M^{T} + 2M\\)",
+    "options": {
+      "A": "\\(\\begin{vmatrix} -4 & 2 & 1\\\\ 6 & 0 & 5 \\\\ 0 & 6 & 2 \\end{vmatrix}\\)",
+      "B": "\\(\\begin{vmatrix} -6 & 0 & 13\\\\ 0 & -3 & 18 \\\\ 14 & 18 & 9 \\end{vmatrix}\\)",
+      "C": "\\(\\begin{vmatrix} 5 & 2 & 6 \\\\ 0 & 1 & 1\\\\ 3 & 4 & -7 \\end{vmatrix}\\)",
+      "D": "\\(\\begin{vmatrix} -4 & 0 & 8 \\\\ 0 & -2 & -16 \\\\ 10 & 12 & 6 \\end{vmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54967?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "B",
+    "explanation": "M = \\(\\begin{vmatrix} -2 & 0 & 4 \\\\ 0 & -1 & 6 \\\\ 5 & 6 & 3 \\end{vmatrix}\\)\nM\\(^{T}\\) = \\(\\begin{vmatrix} -2 & 0 & 5 \\\\ 0 &\u00a0-1 & 6\\\\ 4 & 6 & 3 \\end{vmatrix}\\)\n2M = \\(\\begin{vmatrix} -4 & 0 & 8\\\\ 0 & -2\u00a0& 12\\\\ 10 & 12 & 6\\end{vmatrix}\\)\nM\\(^T\\) + 2M = \\(\\begin{vmatrix} -6 & 0 & 13 \\\\ 0 & -3 & 18 \\\\ 14 & 18 & 9 \\end{vmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1933",
+    "text": "Score (x)\n0\n1\n2\n3\n4\n5\n6\n\n\nFreq (f)\n5\n7\n3\n7\n11\n6\n7\n\n\n\nFind the mean of the data.",
+    "options": {
+      "A": "3.26",
+      "B": "4.91",
+      "C": "6.57",
+      "D": "3.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54970?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "A",
+    "explanation": "Score (x)0123456Freq (f)5737116746fx07621443042150\nMean = \\(\\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{150}{46}\\)\n= 3.26\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1934",
+    "text": "Score (x)\n0\n1\n2\n3\n4\n5\n6\n\n\nFreq (f)\n5\n7\n3\n7\n11\n6\n7\n\n\n\nFind the variance",
+    "options": {
+      "A": "3.42",
+      "B": "4.69",
+      "C": "4.85",
+      "D": "3.72"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54971?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "D",
+    "explanation": "xffx(x - \\(\\bar{x}\\))(x - \\(\\bar{x}\\))\\(^2\\)f(x - \\(\\bar{x}\\))\\(^2\\)050-3.2610.62853.14177-2.265.10835.756236-1.261.5884.7643721-0.260.0680.476411440.740.5486.02856301.743.02818.16867422.747.50852.55646150170.888\nVariance = \\(\\frac{\\sum f(x - \\bar{x})}{\\sum f}\\)\n= \\(\\frac{170.888}{46}\\)\n= 3.72\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1935",
+    "text": "The locus of a point which moves so that it is equidistant from two intersecting straight lines is the",
+    "options": {
+      "A": "bisector of the two lines",
+      "B": "line parallel to the two lines",
+      "C": "angle bisector of the two lines",
+      "D": "perpendicular bisector of the two lines"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54974?exam_type=jamb&type=obj&page=387",
+    "correct_answer": "C",
+    "explanation": "The locus of a points equidistant from two intersecting straight lines is a pair of bisectors\u00a0that bisect the angles formed by the two intersecting lines.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1936",
+    "text": "From the cyclic quadrilateral MNOP above, find the value of x.",
+    "options": {
+      "A": "16\u00b0",
+      "B": "25\u00b0",
+      "C": "42\u00b0",
+      "D": "39\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54977?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "D",
+    "explanation": "The sum of two opposite angles of a cyclic quadrilateral = 180\u00b0\n\\(\\therefore\\) (2x + 18)\u00b0 + 84\u00b0 = 180\u00b0\n2x + 102\u00b0 = 180\u00b0 \\(\\implies\\) 2x = 78\u00b0\nx = 39\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1937",
+    "text": "If \\(4\\sin^2 x - 3 = 0\\), find the value of x, when 0\u00b0 \\(\\leq\\) x \\(\\leq\\) 90\u00b0",
+    "options": {
+      "A": "90\u00b0",
+      "B": "45\u00b0",
+      "C": "60\u00b0",
+      "D": "30\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54992?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "C",
+    "explanation": "\\(4\\sin^2 x - 3 = 0\\)\n\\(4 \\sin^2 x = 3 \\implies \\sin^2 x = \\frac{3}{4}\\)\n\\(\\sin x = \\frac{\\sqrt{3}}{2}\\)\n\\(\\therefore x = \\sin^{-1} (\\frac{\\sqrt{3}}{2})\\)\nx = 60\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1938",
+    "text": "In the figure above, |CD| is the base of the triangle CDE. Find the area of the figure to the nearest whole number.",
+    "options": {
+      "A": "56 cm\\(^2\\)",
+      "B": "24 cm\\(^2\\)",
+      "C": "42 cm\\(^2\\)",
+      "D": "34 cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55004?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "D",
+    "explanation": "Area of rectangle ABCD = length x breadth\n= 7 x 4\n= 28 cm\\(^2\\)\nArea of triangle CDE = \\(\\frac{1}{2}\\) base x height\n= \\(\\frac{1}{2} \\times 3 \\times 4\\)\n= 6 cm\\(^2\\)\nArea of the figure = 28 cm\\(^2\\) + 6 cm\\(^2\\)\n= 34 cm\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1939",
+    "text": "The marks scored by 30 students in a Mathematics test are recorded in the table below:\n\n\n\nScores (Mark)\n0\n1\n2\n3\n4\n5\n\n\nNo of students\n4\n3\n7\n8\n6\n2\n\n\n\nWhat is the total number of marks scored by the children?",
+    "options": {
+      "A": "82",
+      "B": "15",
+      "C": "63",
+      "D": "75"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55016?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "D",
+    "explanation": "Scores (Mark)012345No of students437862fx031424241075\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1940",
+    "text": "If given two points A(3, 12) and B(5, 22) on a x-y plane. Find the equation of the straight line with intercept at 2.",
+    "options": {
+      "A": "y = 5x + 2",
+      "B": "y = 5x + 3",
+      "C": "y = 12x + 2",
+      "D": "y = 22x + 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55017?exam_type=jamb&type=obj&page=388",
+    "correct_answer": "A",
+    "explanation": "The equation of a straight line is given as \\(y = mx + b\\)\nwhere m = the slope of the line\nb = intercept\nGiven points A(3, 12) and B(5, 22), the slope = \\(\\frac{22 - 12}{5 - 3}\\)\n= \\(\\frac{10}{2}\\) = 5\nHence, the equation of the line is \\(y = 5x + 2\\).\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1941",
+    "text": "If P(2, m) is the midpoint of the line joining Q(m, n) and R(n, -4), find the values of m and n.",
+    "options": {
+      "A": "m = 0, n = 4",
+      "B": "m = 4, n = 0",
+      "C": "m = 2, n = 2",
+      "D": "m = -2, n = 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55019?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "A",
+    "explanation": "Q(m, n) and R(n, -4)\nMidpoint : P(2, m)\n\\(\\implies (\\frac{m + n}{2}, \\frac{n - 4}{2}) = (2, m)\\)\n\\(m + n = 2 \\times 2 \\implies m + n = 4 ... (i)\\)\n\\(n - 4 = 2 \\times m \\implies n - 4 = 2m ... (ii)\\)\nSolving (i) and (ii) simultaneously,\nm = 0 and n = 4.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1942",
+    "text": "If \\(\\begin{vmatrix} 2 & -4 \\\\ x & 9 \\end{vmatrix} = 58\\), find the value of x.",
+    "options": {
+      "A": "10",
+      "B": "30",
+      "C": "14",
+      "D": "28"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55021?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "A",
+    "explanation": "\\(\\begin{vmatrix} 2 & -4 \\\\ x & 9 \\end{vmatrix} = 58\\)\n\\(\\implies (2 \\times 9) - (-4 \\times x) = 58\\)\n\\(18 + 4x = 58 \\implies 4x = 58 - 18 = 40\\)\n\\(x = 10\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1943",
+    "text": "If \\(y = 6x^3 + 2x^{-2} - x^{-3}\\), find \\(\\frac{\\mathrm d y}{\\mathrm d x}\\).",
+    "options": {
+      "A": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 15x^2 - 4x^{-2} - 3x^{-2}\\)",
+      "B": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x + 4x^{-1} - 3x^{-4}\\)",
+      "C": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 18x^2 - 4x^{-3} + 3x^{-4}\\)",
+      "D": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 12x^2 + 4x^{-1} - 3x^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55023?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "C",
+    "explanation": "\\(y = 6x^3 + 2x^{-2} - x^{-3}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 18x^2 - 4x^{-3} + 3x^{-4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1944",
+    "text": "\\(\\frac{d}{dx} [\\log (4x^3 - 2x)]\\) is equal to",
+    "options": {
+      "A": "\\(\\frac{12x - 2}{4x^2}\\)",
+      "B": "\\(\\frac{43x^2 - 2x}{7x}\\)",
+      "C": "\\(\\frac{4x^2 - 2}{7x + 6}\\)",
+      "D": "\\(\\frac{12x^2 - 2}{4x^3 - 2x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55035?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{d}{dx} [\\log (4x^3 - 2x)]\\) ... (1)\nLet u = 4x\\(^3\\) - 2x.\n\\(\\frac{\\mathrm\u00a0d}{\\mathrm d x} (\\log (4x^3 - 2x)) = (\\frac{\\mathrm d}{\\mathrm d u})(\\frac{\\mathrm d u}{\\mathrm d x})\\)\n\\(\\frac{\\mathrm d}{\\mathrm\u00a0d u} (\\log u)\\) = \\(\\frac{1}{u}\\)\n\\(\\frac{\\mathrm d u}{\\mathrm d x} = 12x^2 - 2\\)\n\\(\\therefore\u00a0\\frac{d}{dx} [\\log (4x^3 - 2x)] = \\frac{12x^2 - 2}{u}\\)\n= \\(\\frac{12x^2 - 2}{4x^3 - 2x}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1945",
+    "text": "If \\(f(x) = 3x^3 + 4x^2 + x - 8\\), what is the value\u00a0of f(-2)?",
+    "options": {
+      "A": "-24",
+      "B": "30",
+      "C": "-18",
+      "D": "-50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55037?exam_type=jamb&type=obj&page=389",
+    "correct_answer": "C",
+    "explanation": "\\(f(x) = 3x^3 + 4x^2 + x - 8\\)\n\\(f(-2) = 3(-2)^3 + 4(-2)^2 + (-2) - 8\\)\n= \\(-24 + 16 - 2 - 8\\)\n= -18\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1946",
+    "text": "Solve for x in \\(\\frac{4x - 6}{3} \\leq \\frac{3 + 2x}{2}\\)",
+    "options": {
+      "A": "\\(x \\leq 1\\frac{1}{2}\\)",
+      "B": "\\(x \\leq \\frac{21}{2}\\)",
+      "C": "\\(x \\geq \\frac{21}{2}\\)",
+      "D": "\\(x \\geq 1\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55038?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{4x - 6}{3} \\leq \\frac{3 + 2x}{2}\\)\n2(4x - 6) \\(\\leq\\) 3(3 + 2x)\n8x - 12 \\(\\leq\\) 9 + 6x\n8x - 6x \\(\\leq\\) 9 + 12\n2x \\(\\leq\\) 21\n\\(x \\leq \\frac{21}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1947",
+    "text": "Solve the inequality: -7 \\(\\leq\\) 9 - 8x < 16 - x",
+    "options": {
+      "A": "-1 \\(\\leq\\) x \\(\\leq\\) 2",
+      "B": "-1 \\(\\leq\\) x < 2",
+      "C": "-1 < x < 2",
+      "D": "-1 < x \\(\\leq\\) 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55039?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "D",
+    "explanation": "-7 \\(\\leq\\) 9 - 8x < 16 - x\n-7 \\(\\leq\\) 9 - 8x and 9 - 8x < 16 - x\n-7 - 9 \\(\\leq\\) -8x and -8x + x < 16 - 9\n-16 \\(\\leq\\) -8x and -7x < 7\n\\(\\therefore\\) x \\(\\leq\\) 2 and -1 < x\n-1 < x \\(\\leq\\) 2.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1948",
+    "text": "The nth term of a sequence is given by 2\\(^{2n - 1}\\). Find the sum of the first four terms.",
+    "options": {
+      "A": "74",
+      "B": "32",
+      "C": "42",
+      "D": "170"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55042?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "D",
+    "explanation": "\\(T_n = 2^{2n - 1}\\)\n\\(T_1 = 2^{2(1) - 1} \\)\n= 2\n\\(T_2 = 2^{2(2) - 1}\\)\n= 8\n\\(T_3 = 2^{2(3) - 1}\\)\n= 32\n\\(T_4 = 2^{2(4) - 1}\\)\n= 128\n\\(T_1 + T_2 + T_3 + T_4 = 2 + 8 + 32 + 128\\)\n= 170\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1949",
+    "text": "Integrate \\(\\int_{-1} ^{2} (2x^2 + x) \\mathrm {d} x\\)",
+    "options": {
+      "A": "\\(4\\frac{1}{2}\\)",
+      "B": "\\(3\\frac{1}{2}\\)",
+      "C": "\\(7\\frac{1}{2}\\)",
+      "D": "\\(5\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55048?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "C",
+    "explanation": "\\(\\int_{-1} ^{2} (2x^2 + x) \\mathrm {d} x\\)\n= \\([\\frac{2x^{2 + 1}}{3} + \\frac{x^{1 + 1}}{2}]_{-1} ^{2}\\)\n= \\([\\frac{2x^{3}}{3} + \\frac{x^{2}}{2}]_{-1} ^{2}\\)\n= \\((\\frac{2(2)^{3}}{3} + \\frac{2^2}{2}) - (\\frac{2(-1)^{3}}{3} + \\frac{(-1)^{2}}{2})\\)\n= \\((\\frac{16}{3} + 2) - (\\frac{-2}{3} + \\frac{1}{2})\\)\n= \\(\\frac{22}{3} - (-\\frac{1}{6})\\)\n= \\(\\frac{22}{3} + \\frac{1}{6}\\)\n= \\(\\frac{15}{2}\\)\n= \\(7\\frac{1}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1950",
+    "text": "If P varies inversely as the square root of q, where p = 3 and q = 16, find the value of q when p = 4.",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "9",
+      "D": "16"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55053?exam_type=jamb&type=obj&page=390",
+    "correct_answer": "C",
+    "explanation": "\\(p \\propto \\frac{1}{\\sqrt{q}}\\)\n\\(\\implies p = \\frac{k}{\\sqrt{q}}\\)\nwhen p = 3, q = 16.\n\\(3 = \\frac{k}{\\sqrt{16}}\\)\n\\(k = 3 \\times 4 = 12\\)\n\\(\\therefore p = \\frac{12}{\\sqrt{q}}\\)\nwhen p = 4,\n\\(4 = \\frac{12}{\\sqrt{q}} \\implies \\sqrt{q} = \\frac{12}{4}\\)\n\\(\\sqrt{q} = 3 \\implies q = 3^2 \\)\n\\(q = 9\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1951",
+    "text": "Tade bought 200 mangoes at 4 for \u20a62.50.\u00a030 out of the mangoes got spoilt and the remaining were sold at 2 for \u20a62.40. Find the percentage profit or loss.",
+    "options": {
+      "A": "43.6% loss",
+      "B": "35% profit",
+      "C": "63.2% profit",
+      "D": "28% loss"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55055?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "C",
+    "explanation": "200 mangoes at 4 for N2.50\n\\(\\implies\\) Total cost price = \\(\\frac{200}{4} \\times N 2.50\\)\n= N 125.00\nSince 30 mangoes got spoilt \\(\\implies\\) Left over = 200 - 30\n= 170 mangoes\n170 mangoes at 2 for N 2.40\n\\(\\implies\\) Total selling point = \\(\\frac{170}{2} \\times N 2.40\\)\n= N 204.00\nProfit : N (204.00 - 125.00) = N 79.00\n% profit = \\(\\frac{79}{125} \\times 100%\\)\n= 63.2% profit.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1952",
+    "text": "The simple interest on \u20a68550 for 3 years at x% per annum is \u20a64890. Calculate the value of x to the nearest whole number.",
+    "options": {
+      "A": "19%",
+      "B": "20%",
+      "C": "25%",
+      "D": "16.3%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55062?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "A",
+    "explanation": "S.I = \\(\\frac{PRT}{100}\\)\n\\(\\implies\\) N 4890 = \\(\\frac{8550 \\times 3 \\times x}{100}\\)\n\\(x = \\frac{4890 \\times 100}{8550 \\times 3}\\)\n\\(x = 19.06%\\)\n\\(x \\approxeq\u00a019%\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1953",
+    "text": "Simplify 81\\(^{\\frac{-3}{4}}\\) x 25\\(^{\\frac{1}{2}}\\) x 243\\(^{\\frac{2}{5}}\\)",
+    "options": {
+      "A": "\\(\\frac{2}{5}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(\\frac{5}{2}\\)",
+      "D": "\\(\\frac{5}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55069?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "D",
+    "explanation": "81\\(^{\\frac{-3}{4}}\\) x 25\\(^{\\frac{1}{2}}\\) x 243\\(^{\\frac{2}{5}}\\)\n= \\((\\sqrt[4]{81})^{-3} \\times \\sqrt{25} \\times (\\sqrt[5]{243})^2\\)\n= \\(\\frac{5 \\times 3^2}{3^{3}}\\)\n= \\(\\frac{5}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1954",
+    "text": "Find the value of \\(\\frac{(0.5436)^3}{0.017 \\times 0.219}\\) to 3 significant figures.",
+    "options": {
+      "A": "46.2",
+      "B": "43.1",
+      "C": "534",
+      "D": "431"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55075?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "B",
+    "explanation": "(\\frac{(0.5436)^3}{0.017 \\times 0.219}\\)\n= \\(\\frac{0.16063}{0.017 \\times 0.219}\\)\n= 43.1 (to 3 s.f)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1955",
+    "text": "If S = (4t + 3)(t - 2), find ds/dt when t = 5 secs.",
+    "options": {
+      "A": "50 units per sec",
+      "B": "35 units per sec",
+      "C": "22 units per sec",
+      "D": "13 units per sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55079?exam_type=jamb&type=obj&page=391",
+    "correct_answer": "B",
+    "explanation": "\\(s = (4t + 3)(t - 2)\\)\n\\(\\frac{\\mathrm d s}{\\mathrm d t} = (4t + 3)(1) + (t - 2)(4)\\)\n= \\(4t + 3 + 4t - 8\\)\n= 8t - 5\n\\(\\frac{\\mathrm\u00a0d s}{\\mathrm d t} (t = 5 secs) = 8(5) - 5\\)\n= 40 - 5\n= 35 units per sec\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1956",
+    "text": "The angles of a polygon are given by 2x, 5x, x and 4x respectively. The value of x is",
+    "options": {
+      "A": "31\u00b0",
+      "B": "30\u00b0",
+      "C": "26\u00b0",
+      "D": "48\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55081?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "B",
+    "explanation": "Since there are 4 angles given, the polygon is a quadrilateral.\nSum of angle in a quadrilateral = 360\u00b0\n\\(\\therefore\\) 2x + 5x + x + 4x = 360\u00b0\n12x = 360\u00b0\nx = 30\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1957",
+    "text": "The weight of a day-old chick was measured to be 0.21g. If the actual weight of the chick is 0.18g, what was the percentage error in the measurement?",
+    "options": {
+      "A": "15.5%",
+      "B": "18.2%",
+      "C": "14.8%",
+      "D": "16.7%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55083?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "D",
+    "explanation": "Actual weight = 0.18g\nError = 0.21g - 0.18g\n= 0.03g\n% error = \\(\\frac{0.03}{0.18} \\times 100%\\)\n= 16.7%\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1958",
+    "text": "Evaluate \\((\\frac{6}{0.32} \\div \\frac{2}{0.084})^{-1}\\) correct to 1 decimal place.",
+    "options": {
+      "A": "1.3",
+      "B": "2.5",
+      "C": "4.6",
+      "D": "3.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55085?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "A",
+    "explanation": "\\((\\frac{6}{0.32} \\div \\frac{2}{0.084})^{-1}\\)\n= \\((\\frac{600}{32} \\div \\frac{2000}{84})^{-1}\\)\n= \\((\\frac{600}{32} \\times \\frac{84}{2000})^{-1}\\)\n= \\((\\frac{63}{80})^{-1}\\)\n= \\(\\frac{80}{63}\\)\n= 1.3 (to 1 decimal place)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1959",
+    "text": "If 2\\(^{x + y}\\) = 16 and 4\\(^{x - y} = \\frac{1}{32}\\), find the values of x and y.",
+    "options": {
+      "A": "x = \\(\\frac{3}{4}\\), y = \\(\\frac{11}{4}\\)",
+      "B": "x = \\(\\frac{3}{4}\\), y = \\(\\frac{13}{4}\\)",
+      "C": "x = \\(\\frac{2}{3}\\), y = \\(\\frac{4}{5}\\)",
+      "D": "x = \\(\\frac{2}{3}\\), y = \\(\\frac{13}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55231?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "B",
+    "explanation": "2\\(^{x + y}\\) = 16 ; 4\\(^{x - y}\\) = \\(\\frac{1}{32}\\).\n\\(\\implies 2^{x + y} = 2^4\\)\n\\(x + y = 4 ... (1)\\)\n\\(2^{2(x - y)} = 2^{-5} \\)\n\\(2^{2x - 2y} = 2^{-5}\\)\n\\(\\implies 2x - 2y = -5 ... (2)\\)\nSolving the equations (1) and (2) simultaneously, we have\nx = \\(\\frac{3}{4}\\) and y = \\(\\frac{13}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1960",
+    "text": "Simplify \\(\\frac{0.0839 \\times 6.381}{5.44}\\) to 2 significant figures.",
+    "options": {
+      "A": "0.2809",
+      "B": "2.51",
+      "C": "3.5",
+      "D": "0.098"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55277?exam_type=jamb&type=obj&page=392",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1961",
+    "text": "Find the value of x and y in the simultaneous equation: 3x + y = 21; xy = 30",
+    "options": {
+      "A": "x = 3 or 7, y = 12 or 8",
+      "B": "x = 6 or 1, y = 11 or 5",
+      "C": "x = 2 or 5, y = 15 or 6",
+      "D": "x = 1 or 5, y = 10 or 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55279?exam_type=jamb&type=obj&page=393",
+    "correct_answer": "C",
+    "explanation": "3x + y = 21 ... (i);\nxy = 30 ... (ii)\nFrom (ii), \\(y = \\frac{30}{x}\\). Putting the value of y in (i), we have\n3x + \\(\\frac{30}{x}\\) = 21\n\\(\\implies\\) 3x\\(^2\\) + 30 = 21x\n3x\\(^2\\) - 21x + 30 = 0\n3x\\(^2\\) - 15x - 6x + 30 = 0\n3x(x - 5) - 6(x - 5) = 0\n(3x - 6)(x - 5) = 0\n3x - 6 = 0 \\(\\implies\\) x = 2.\nx - 5 = 0 \\(\\implies\\) x = 5.\nIf x = 2, y = \\(\\frac{30}{2}\\) = 15;\nIf x = 5, y = \\(\\frac{30}{5}\\) = 6.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1962",
+    "text": "Points X and Y are 20km North and 9km East of point O, respectively. What is the bearing of Y from X? Correct to the nearest degree.",
+    "options": {
+      "A": "24\u00b0",
+      "B": "56\u00b0",
+      "C": "127\u00b0",
+      "D": "156\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55282?exam_type=jamb&type=obj&page=393",
+    "correct_answer": "D",
+    "explanation": "\\(\\tan \\theta = \\frac{9}{20} = 0.45\\)\n\\(\\theta = \\tan^{-1} (0.45) \\)\n= 24.23\u00b0\n\\(\\therefore\\) The bearing of Y from X = 180\u00b0 - 24.23\u00b0\n= 155.77\u00b0\n= 156\u00b0 (to the nearest degree)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1963",
+    "text": "If \\(P = (\\frac{Q(R - T)}{15})^{\\frac{1}{3}}\\), make T the subject of the formula.",
+    "options": {
+      "A": "\\(T = \\frac{15R - Q}{P^3}\\)",
+      "B": "\\(T = R - \\frac{15P^3}{Q}\\)",
+      "C": "\\(T = \\frac{R - 15P^3}{Q}\\)",
+      "D": "\\(T = \\frac{R + P^3}{15Q}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55288?exam_type=jamb&type=obj&page=393",
+    "correct_answer": "B",
+    "explanation": "\\(P = (\\frac{Q(R - T)}{15})^{\\frac{1}{3}}\\)\n\\(P^3 = \\frac{Q(R - T)}{15}\\)\n\\(Q(R - T) = 15P^3\\)\n\\(R - T = \\frac{15P^3}{Q}\\)\n\\(T = R - \\frac{15P^3}{Q}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1964",
+    "text": "In the diagram above, O is the centre\u00a0of the circle ABC, < ABO = 26\u00b0 and < BOC = 130\u00b0. Calculate < AOC.",
+    "options": {
+      "A": "26\u00b0",
+      "B": "13\u00b0",
+      "C": "80\u00b0",
+      "D": "102\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55366?exam_type=jamb&type=obj&page=393",
+    "correct_answer": "D",
+    "explanation": "< BAC = \\(\\frac{130}{2}\\) (angle subtended at the centre)\n< BAC = 65\u00b0\nAlso, x = 26\u00b0 (theorem)\ny = 65\u00b0 - 26\u00b0 = 39\u00b0\n< AOC = 180\u00b0 - (39\u00b0 + 39\u00b0)\n= 102\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1965",
+    "text": "Each of the interior angles of a regular polygon is 140\u00b0. Calculate the sum of all the interior angles of the polygon.",
+    "options": {
+      "A": "1080\u00b0",
+      "B": "1260\u00b0",
+      "C": "2160\u00b0",
+      "D": "1800\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55367?exam_type=jamb&type=obj&page=393",
+    "correct_answer": "B",
+    "explanation": "Since each interior angle = 140\u00b0;\nEach exterior angle = 180\u00b0 - 140\u00b0 = 40\u00b0\nNumber of sides of the polygon = \\(\\frac{360\u00b0}{40\u00b0}\\)\n= 9\nSum of angles in the polygon = 140\u00b0 x 9\n= 1260\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1966",
+    "text": "A man bought a car newly for \u20a61,250,000. He had a crash with the car and later sold it at the rate of \u20a61,085,000. What is the percentage gain or loss of the man?",
+    "options": {
+      "A": "43.7% loss",
+      "B": "13.2% gain",
+      "C": "13.2% loss",
+      "D": "43.7% gain"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55368?exam_type=jamb&type=obj&page=394",
+    "correct_answer": "C",
+    "explanation": "Cost price of the car = N 1,250.00\nSelling price = N 1,085.00\nLoss = N (1250 - 1085)\n= N 165.00\n% loss = \\(\\frac{165}{1250} \\times 100%\\)\n= 13.2% loss\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1967",
+    "text": "If the volume of a frustrum\u00a0is given as \\(V = \\frac{\\pi h}{3} (R^2 + Rr + r^2)\\), find \\(\\frac{\\mathrm d V}{\\mathrm\u00a0d R}\\).",
+    "options": {
+      "A": "\\(\\frac{\\pi h}{3} (2R + r)\\)",
+      "B": "\\(2R + r + \\frac{\\pi h}{3}\\)",
+      "C": "\\(\\frac{\\pi h}{3} (2R^2 + r + 2r)\\)",
+      "D": "\\(\\frac{2R^2}{3} \\pi h\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55369?exam_type=jamb&type=obj&page=394",
+    "correct_answer": "A",
+    "explanation": "\\(V = \\frac{\\pi h}{3} (R^2 + Rr + r^2)\\)\n\\(V = \\frac{\\pi R^2 h}{3} + \\frac{\\pi Rr h}{3} + \\frac{\\pi r^2 h}{3}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d R} = \\frac{2 \\pi R h}{3} + \\frac{\\pi r h}{3}\\)\n= \\(\\frac{\\pi}{3} (2R + r)\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1968",
+    "text": "Express \\((0.0439 \\div 3.62)\\) as a fraction.",
+    "options": {
+      "A": "\\(\\frac{21}{100}\\)",
+      "B": "\\(\\frac{21}{1000}\\)",
+      "C": "\\(\\frac{12}{1000}\\)",
+      "D": "\\(\\frac{12}{100}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55370?exam_type=jamb&type=obj&page=394",
+    "correct_answer": "C",
+    "explanation": "\\((0.0439 \\div 3.62)\\)\n= 0.01213\n\\(\\approxeq\\) 0.012\n= \\(\\frac{12}{1000}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1969",
+    "text": "If \\(25^{1 - x} \\times 5^{x + 2} \\div\u00a0(\\frac{1}{125})^{x} = 625^{-1}\\), find the value of x.",
+    "options": {
+      "A": "x = -4",
+      "B": "x = 2",
+      "C": "x = -2",
+      "D": "x = 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55371?exam_type=jamb&type=obj&page=394",
+    "correct_answer": "A",
+    "explanation": "\\(25^{1 - x} \\times 5^{x + 2} \\div\u00a0(\\frac{1}{125})^{x} = 625^{-1}\\)\n\\((5^2)^{(1 - x)} \\times 5^{(x + 2)} \\div (5^{-3})^x = (5^4)^{-1}\\)\n\\(5^{2 - 2x} \\times 5^{x + 2} \\div 5^{-3x} = 5^{-4}\\)\n\\(5^{(2 - 2x) + (x + 2) - (-3x)} = 5^{-4}\\)\nEquating bases, we have\n\\(2 - 2x + x + 2 + 3x = -4\\)\n\\(4 + 2x = -4 \\implies 2x = -4 - 4\\)\n\\(2x = -8\\)\n\\(x = -4\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1970",
+    "text": "A bricklayer charges \u20a61,500 per day for himself and \u20a6500 per day for his assistant. If a two bedroom flat was built for \u20a695,000 and the bricklayer worked 10 days more than his assistant, how much did the assistant receive?",
+    "options": {
+      "A": "N20,000",
+      "B": "N28,000",
+      "C": "N31,200",
+      "D": "N41,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55372?exam_type=jamb&type=obj&page=394",
+    "correct_answer": "A",
+    "explanation": "Let the number of days worked by the assistant = t\n\\(\\therefore\\) The bricklayer worked (t + 10) days.\n1500(t + 10) + 500(t) = N 95,000\n1500t + 15,000 + 500t = N 95,000\n2000t = N 95,000 - N 15,000\n2000t = N 80,000\nt = 40 days\n\\(\\therefore\\) The assistant worked for 40 days and received N (500 x 40)\n= N 20,000\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1971",
+    "text": "Find the equation of the locus of a point A(x, y) which is equidistant from B(0, 2) and C(2, 1)",
+    "options": {
+      "A": "4x + 2y = 3",
+      "B": "4x - 3y = 1",
+      "C": "4x - 2y = 1",
+      "D": "4x + 2y = -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55373?exam_type=jamb&type=obj&page=395",
+    "correct_answer": "C",
+    "explanation": "Since A(x, y) is the point of equidistance between B and C, then\nAB = AC\n(AB)\\(^2\\) = (AC)\\(^2\\)\nUsing the distance formula,\n(x - 0)\\(^2\\) + (y - 2)\\(^2\\) = (x - 2)\\(^2\\) + (y - 1)\\(^2\\)\nx\\(^2\\) + y\\(^2\\) - 4y + 4 = x\\(^2\\) - 4x + 4 + y\\(^2\\) - 2y + 1\nx\\(^2\\) -\u00a0x\\(^2\\) +\u00a0y\\(^2\\) - y\\(^2\\) + 4x - 4y + 2y = 5 - 4\n4x - 2y = 1\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1972",
+    "text": "A factory worker earns \u20a650,000 per month out of which he spends 15% on his children's education, \u20a613,600 on Food, 3% on electricity and uses the rest for his personal purpose. How much does he have left?",
+    "options": {
+      "A": "N21,850",
+      "B": "N18,780",
+      "C": "N27,400",
+      "D": "N32,500"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55374?exam_type=jamb&type=obj&page=395",
+    "correct_answer": "C",
+    "explanation": "Education = \\(\\frac{15}{100} \\times N 50,000\\)\n= N 7,500\nFood = N 13,600\nElectricity = \\(\\frac{3}{100} \\times N 50,000\\)\n= N 1,500\nLeftover : N (50,000 - (7,500 + 13,600 + 1,500))\n= N 27,400\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1973",
+    "text": "A binary operation \u0394 is defined by a \u0394 b = a + 3b + 2.\nFind (3 \u0394 2) \u0394 5",
+    "options": {
+      "A": "35",
+      "B": "59",
+      "C": "28",
+      "D": "87"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55375?exam_type=jamb&type=obj&page=395",
+    "correct_answer": "C",
+    "explanation": "a \u0394 b = a + 3b + 2\n(3\u00a0\u0394 2)\u00a0\u0394 5 = (3 + 3(2) + 2)\u00a0\u0394 5\n= 11\u00a0\u0394 5\n= 11\u00a0+ 3(5) + 2\n= 28\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1974",
+    "text": "If M varies directly as N and inversely as the root of P. Given that M = 3, N = 5 and P = 25. Find the value of P when M = 2 and N = 6.",
+    "options": {
+      "A": "36",
+      "B": "63",
+      "C": "47",
+      "D": "81"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55376?exam_type=jamb&type=obj&page=395",
+    "correct_answer": "D",
+    "explanation": "\\(M \\propto\u00a0N \\) ; \\(M \\propto \\frac{1}{\\sqrt{P}}\\).\n\\(\\therefore M \\propto\u00a0\\frac{N}{\\sqrt{P}}\\)\n\\(M = \\frac{k N}{\\sqrt{P}}\\)\nwhen M = 3, N = 5 and P = 25;\n\\(3 = \\frac{5k}{\\sqrt{25}}\\)\n\\(k = 3\\)\n\\(M = \\frac{3N}{\\sqrt{P}}\\)\nwhen M = 2\u00a0and N = 6,\n\\(2\u00a0= \\frac{3(6)}{\\sqrt{P}} \\implies \\sqrt{P} = \\frac{18}{2}\\)\n\\(\\sqrt{P} = 9 \\implies P = 9^2\\)\nP = 81\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1975",
+    "text": "This table below gives the scores of a group of students in a Further Mathematics Test.\n\n\n\nScore\n1\n2\n3\n4\n5\n6\n7\n\n\nFrequency\n4\n6\n8\n4\n10\n6\n2\n\n\n\nFind the mode of the distribution.",
+    "options": {
+      "A": "7",
+      "B": "10",
+      "C": "5",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55377?exam_type=jamb&type=obj&page=395",
+    "correct_answer": "C",
+    "explanation": "Mode = Score with the highest frequency\n= 5\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1976",
+    "text": "This table below gives the scores of a group of students in a Further Mathematics Test.\n\n\n\nScore\n1\n2\n3\n4\n5\n6\n7\n\n\nFrequency\n4\n6\n8\n4\n10\n6\n2\n\n\n\nCalculate the mean deviation for the distribution",
+    "options": {
+      "A": "4.32",
+      "B": "2.81",
+      "C": "1.51",
+      "D": "3.90"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55378?exam_type=jamb&type=obj&page=396",
+    "correct_answer": "C",
+    "explanation": "Score(x)1234567TotalFrequency (f)4684106240fx4122416503614156x - \\(\\bar{x}\\)-2.9-1.9-0.90.11.12.13.1|x - \\(\\bar{x}\\)|2.91.90.90.11.12.13.1f|x - \\(\\bar{x}\\)|11.611.47.20.41112.66.260.4\nMean = \\(\\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{156}{40}\\)\n= 3.9\nM.D = \\(\\frac{\\sum f|x - \\bar{x}|}{\\sum f}\\)\n= \\(\\frac{60.4}{40}\\)\n= 1.51\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1977",
+    "text": "Integrate \\(\\int (4x^{-3} - 7x^2 + 5x - 6) \\mathrm d x\\).",
+    "options": {
+      "A": "\\(-2x^{-2} - \\frac{7}{3}x^3 + \\frac{5}{2} x^2 - 6x\\)",
+      "B": "\\(2x^2 + \\frac{7}{3} x^3 - 5x + 6\\)",
+      "C": "\\(12x^2 + 14x - 5\\)",
+      "D": "\\(-12x^{-4} - 14x + 5\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55379?exam_type=jamb&type=obj&page=396",
+    "correct_answer": "A",
+    "explanation": "\\(\\int (4x^{-3} - 7x^2 + 5x - 6) \\mathrm d x\\)\n= \\(\\frac{4x^{-3 + 1}}{-3 + 1} - \\frac{7x^{2 + 1}}{2 + 1} + \\frac{5x^{1 + 1}}{1 + 1} - 6x\\)\n= \\(-2x^{-2} - \\frac{7}{3} x^3 + \\frac{5}{2} x^2 - 6x\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1978",
+    "text": "Find the probability that a number selected at random from 21 to 34 is a multiple of 3",
+    "options": {
+      "A": "\\(\\frac{3}{11}\\)",
+      "B": "\\(\\frac{2}{9}\\)",
+      "C": "\\(\\frac{5}{14}\\)",
+      "D": "\\(\\frac{5}{13}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55381?exam_type=jamb&type=obj&page=396",
+    "correct_answer": "C",
+    "explanation": "S = {21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34}\nn(S) = 14\nmultiples of 3 = {21, 24, 27, 30, 33}\nn(multiples of 3) = 5\nProb( picking a multiple of 3) = 5/14\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1979",
+    "text": "If the 3rd and 7th terms of a G.P are 9 and 1/9 respectively. Find the common ratio.",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{1}{9}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "\\(\\frac{2}{9}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55382?exam_type=jamb&type=obj&page=396",
+    "correct_answer": "A",
+    "explanation": "\\(T_n = ar^{n - 1}\\) (terms of a G.P)\n\\(T_3 = ar^2 = 9\\) ... (i)\n\\(T_7 = ar^6 = \\frac{1}{9}\\) ... (ii)\nDivide (i) by (ii);\n\\(\\frac{ar^6}{ar^2} = \\frac{\\frac{1}{9}}{9}\\)\n\\(r^4 = \\frac{1}{81}\\)\n\\(r^4\u00a0= (\\frac{1}{3})^4\\)\n\\(r = \\frac{1}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1980",
+    "text": "If the universal set \u03bc = {x : 1 \u2264 x \u2264 20} and\nA = {y : multiple of 3}\nB = |z : odd numbers}\nFind A \u2229 B",
+    "options": {
+      "A": "{1, 3, 6}",
+      "B": "{3, 5, 9, 12}",
+      "C": "{3, 9, 15}",
+      "D": "{2, 3, 9}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55386?exam_type=jamb&type=obj&page=396",
+    "correct_answer": "C",
+    "explanation": "\u03bc\u00a0= {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}\nA = {3, 6, 9, 12, 15, 18}\nB = {1, 3, 5, 7, 9, 11, 13, 15, 17, 19}\nA\u00a0\u2229 B = {3, 9, 15}\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1981",
+    "text": "In a committee of 5, which must be selected from 4 males and 3 females. In how many ways can the members be chosen if it were to include 2 females?",
+    "options": {
+      "A": "144 ways",
+      "B": "15 ways",
+      "C": "185 ways",
+      "D": "12 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55389?exam_type=jamb&type=obj&page=397",
+    "correct_answer": "D",
+    "explanation": "For the committee to include 2 females, we must have 3 males, so that there should be 5 members.\nThat is, \\(^4C_3 \\times ^3C_2\\)\n= \\(\\frac{4!}{(4 - 3)! 3!} \\times \\frac{3!}{(3 - 2)! 2!}\\)\n= 4 \u00d7 3 = 12 ways\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1982",
+    "text": "Find the value of k in the equation: \\(\\sqrt{28} + \\sqrt{112} - \\sqrt{k} = \\sqrt{175}\\)",
+    "options": {
+      "A": "\\(\\sqrt{28}\\)",
+      "B": "7",
+      "C": "28",
+      "D": "\\(\\sqrt{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55391?exam_type=jamb&type=obj&page=397",
+    "correct_answer": "B",
+    "explanation": "\\(\\sqrt{28} + \\sqrt{112} - \\sqrt{k} = \\sqrt{175}\\)\n\\(\\sqrt{4 \\times 7} + \\sqrt{16 \\times 7} - \\sqrt{k} = \\sqrt{25 \\times 7}\\)\n\\(2\\sqrt{7} + 4\\sqrt{7} - \\sqrt{k} = 5\\sqrt{7}\\)\n\\(6\\sqrt{7} - 5\\sqrt{7} = \\sqrt{k}\\)\n\\(\\sqrt{k} = \\sqrt{7}\\)\n\\(\\implies k = 7\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1983",
+    "text": "Evaluate \\(\\frac{2\\log_{3} 9 \\times \\log_{3} 81^{-2}}{\\log_{5} 625}\\)",
+    "options": {
+      "A": "4",
+      "B": "-32",
+      "C": "-8",
+      "D": "16"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55393?exam_type=jamb&type=obj&page=397",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2\\log_{3} 9 \\times \\log_{3} 81^{-2}}{\\log_{5} 625}\\)\n= \\(\\frac{2\\log_3 3^2 \\times \\log_3 (3^4)^{-2}}{\\log_5 (5^4)}\\)\n= \\(\\frac{4\\log_3 3 \\times -8\\log_3 3}{4\\log_5 5}\\)\n= -8.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1984",
+    "text": "Find the value of x for \\(\\frac{2 + 2x}{3} - 2 \\geq \\frac{4x - 6}{5}\\)",
+    "options": {
+      "A": "x \\(\\geq\\) -5",
+      "B": "x \\(\\geq\\) -1",
+      "C": "x \\(\\leq\\) -1",
+      "D": "x \\(\\leq\\) 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55394?exam_type=jamb&type=obj&page=397",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2 + 2x}{3} - 2 \\geq \\frac{4x - 6}{5}\\)\n\\(\\frac{2 + 2x - 6}{3} \\geq \\frac{4x - 6}{5}\\)\n\\(\\frac{2x - 4}{3} \\geq \\frac{4x - 6}{5}\\)\n\\(5(2x - 4) \\geq 3(4x - 6)\\)\n\\(10x - 20 \\geq 12x - 18\\)\n\\(10x - 12x \\geq -18 + 20\\)\n\\(-2x \\geq 2\\)\n\\(x \\leq -1\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1985",
+    "text": "Determine the values for which \\(x^2 - 7x + 10 \\leq 0\\)",
+    "options": {
+      "A": "2 \\(\\leq\\) x \\(\\geq\\) 5",
+      "B": "-2 \\(\\leq\\) x \\(\\leq\\) 3",
+      "C": "-2 \\(\\leq\\) x \\(\\geq\\) 3",
+      "D": "2 \\(\\leq\\) x \\(\\leq\\) 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55395?exam_type=jamb&type=obj&page=397",
+    "correct_answer": "D",
+    "explanation": "\\(x^2 - 7x + 10 \\leq 0\\)\nSolve for\u00a0\\(x^2 - 7x + 10 =\u00a00\\)\nWe have, (x - 5)(x - 2) \\(\\leq\\) 0.\nConditions:\nCase 1: (x - 5) \\(\\leq\\) 0, (x - 2) \\(\\geq\\) 0.\n\\(\\implies\\) x \\(\\leq\\) 5; x \\(\\geq\\) 2.\n2 \\(\\leq\\) x \\(\\leq\\) 5.\nChoosing x = 3,\n3\\(^2\\) - 7(3) + 10 = 9 - 21 + 10\n= -2 \\(\\leq\\) 0.\n\\(\\therefore\\) 2 \\(\\leq\\) x \\(\\leq\\) 5.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1986",
+    "text": "Find the polynomial if given q(x) = x\\(^2\\) - x - 5, d(x) = 3x - 1 and r(x) = 7.",
+    "options": {
+      "A": "3x\\(^3\\) - 4x\\(^2\\) - 14x + 12",
+      "B": "3x\\(^2\\) + 3x - 7",
+      "C": "3x\\(^3\\) + 4x\\(^2\\) + 14x - 12",
+      "D": "3x\\(^2\\) - 3x + 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55396?exam_type=jamb&type=obj&page=398",
+    "correct_answer": "A",
+    "explanation": "Given q(x) [quotient], d(x) [divisor] and r(x) [remainder], the polynomial is gotten by multiplying the quotient and the divisor and adding the remainder.\ni.e In this case, the polynomial = (x\\(^2\\) - x - 5)(3x - 1) + 7.\n= (3x\\(^3\\) - x\\(^2\\) - 3x\\(^2\\) + x - 15x + 5) + 7\n= (3x\\(^3\\) - 4x\\(^2\\) - 14x + 5) + 7\n= 3x\\(^3\\) - 4x\\(^2\\) - 14x + 12\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1987",
+    "text": "If 2x\\(^2\\) + x - 3 divides x - 2, find the remainder.",
+    "options": {
+      "A": "7",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55397?exam_type=jamb&type=obj&page=398",
+    "correct_answer": "A",
+    "explanation": "When you divide a polynomial p(x) by (x - a), the remainder = p(a)\ni.e. In the case of 2x\\(^2\\) + x - 3 \\(\\div\\) (x - 2), the remainder = p(2).\n= 2(2)\\(^2\\) + 2 - 3\n= 8 + 2 - 3\n= 7.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1988",
+    "text": "If \\(\\begin{vmatrix} 2 & -5 & 3 \\\\ x & 1 & 4 \\\\ 0 & 3 & 2 \\end{vmatrix} = 132\\), find the value of x.",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "6",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55398?exam_type=jamb&type=obj&page=398",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{vmatrix} 2 & -5 & 3 \\\\ x & 1 & 4 \\\\ 0 & 3 & 2 \\end{vmatrix} = 132\\)\n\\(\\implies 2 \\begin{vmatrix} 1 & 4 \\\\ 3 & 2 \\end{vmatrix} - (-5) \\begin{vmatrix} x & 4 \\\\ 0 & 2 \\end{vmatrix} + 3 \\begin{vmatrix} x & 1 \\\\ 0 & 3 \\end{vmatrix} = 132\\)\n\\(2(2 - 12) + 5(2x) + 3(3x) = 132\\)\n\\(-20 + 10x + 9x = 132\\)\n\\(19x = 152\\)\n\\(x = 8\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1989",
+    "text": "Given the matrix \\(A = \\begin{vmatrix} 3 & -2 \\\\ 1 & 6 \\end{vmatrix}\\). Find the inverse of matrix A.",
+    "options": {
+      "A": "\\(\\begin{vmatrix} 6 & 2 \\\\ 1 & 6 \\end{vmatrix}\\)",
+      "B": "\\(\\begin{vmatrix} \\frac{2}{11} & \\frac{1}{12}\\\\ \\frac{3}{20} & \\frac{1}{10} \\end{vmatrix}\\)",
+      "C": "\\(\\begin{vmatrix} -3 & 2 \\\\ -1 & -6 \\end{vmatrix}\\)",
+      "D": "\\(\\begin{vmatrix} \\frac{3}{10} & \\frac{1}{10} \\\\ \\frac{-1}{20} & \\frac{3}{20}\\end{vmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55401?exam_type=jamb&type=obj&page=398",
+    "correct_answer": "D",
+    "explanation": "\\(A = \\begin{vmatrix} 3 & -2 \\\\ 1 & 6 \\end{vmatrix}\\)\n|A| = (3 x 6) - (-2 x 1)\n= 18 + 2\n= 20.\nA\\(^{-1}\\) = \\(\\frac{1}{20} \\begin{vmatrix} 6 & 2 \\\\ -1 & 3 \\end{vmatrix}\\)\n= \\(\\begin{vmatrix} \\frac{6}{20} & \\frac{2}{20} \\\\ \\frac{-1}{20} & \\frac{3}{20} \\end{vmatrix}\\)\n= \\(\\begin{vmatrix} \\frac{3}{10} & \\frac{1}{10} \\\\ \\frac{-1}{20} & \\frac{3}{20} \\end{vmatrix}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1990",
+    "text": "If y = 8x\\(^3\\) - 3x\\(^2\\) + 7x - 1, find \\(\\frac{\\mathrm d^2 y}{\\mathrm d x^2}\\).",
+    "options": {
+      "A": "48x - 6",
+      "B": "11x\\(^2\\) + 6x - 7",
+      "C": "32x + 7",
+      "D": "24x\\(^2\\) - 6x + 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55407?exam_type=jamb&type=obj&page=398",
+    "correct_answer": "A",
+    "explanation": "y = 8x\\(^3\\) - 3x\\(^2\\) + 7x - 1\n\\(\\frac{\\mathrm d^2 y}{\\mathrm d x^2}\u00a0 = \\frac{\\mathrm d}{\\mathrm d x} (\\frac{\\mathrm d y}{\\mathrm d x})\\)\n= \\(\\frac{\\mathrm d}{\\mathrm d x} (24x^2 - 6x + 7)\\)\n\\(\\frac{\\mathrm d^2 y}{\\mathrm d x^2} = 48x - 6\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1991",
+    "text": "Differentiate \\(\\frac{2x}{\\sin x}\\) with respect to x.",
+    "options": {
+      "A": "\\(2 \\cot x \\sec x (1 + \\tan x)\\)",
+      "B": "\\(2 \\csc x - x \\cot x\\)",
+      "C": "\\(2x \\csc x + \\tan x\\)",
+      "D": "\\(2\\csc x(1 - x\\cot x)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55409?exam_type=jamb&type=obj&page=399",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1992",
+    "text": "Find the distance between the points C(2, 2) and D(5, 6).",
+    "options": {
+      "A": "13 units",
+      "B": "7 units",
+      "C": "12 units",
+      "D": "5 units"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55435?exam_type=jamb&type=obj&page=399",
+    "correct_answer": "D",
+    "explanation": "= \\(\\sqrt{(5 - 2)^2 + (6 - 2)^2}\\)\n= \\(\\sqrt{3^2 + 4^2}\\)\n= \\(\\sqrt{9 + 16}\\)\n= \\(\\sqrt{25}\\)\n= 5 units\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1993",
+    "text": "Find the equation of a line perpendicular to the line 4y = 7x + 3 which passes through (-3, 1)",
+    "options": {
+      "A": "7y + 4x + 5 = 0",
+      "B": "7y - 4x - 5 = 0",
+      "C": "3y - 5x + 2 = 0",
+      "D": "3y + 5x - 2 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55436?exam_type=jamb&type=obj&page=399",
+    "correct_answer": "A",
+    "explanation": "Equation: 4y = 7x + 3\n\\(\\implies y = \\frac{7}{4} x + \\frac{3}{4}\\)\nSlope = coefficient of x = \\(\\frac{7}{4}\\)\nSlope of perpendicular line = \\(\\frac{-1}{\\frac{7}{4}}\\)\n= \\(\\frac{-4}{7}\\)\nThe perpendicular line passes (-3, 1)\n\\(\\therefore\\) Using the equation of line \\(y = mx + b\\)\nm = slope and b = intercept.\n\\(y = \\frac{-4}{7} x + b\\)\nTo find the intercept, substitute y = 1 and x = -3 in the equation.\n\\(1 = \\frac{-4}{7} (-3) + b\\)\n\\(1 = \\frac{12}{7} + b\\)\n\\(b = \\frac{-5}{7}\\)\n\\(\\therefore y = \\frac{-4}{7} x - \\frac{5}{7}\\)\n\\(7y + 4x + 5 = 0\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1994",
+    "text": "Marks\n1\n2\n3\n4\n5\n\n\nFrequency\n2y - 2\ny - 1\n3y - 4\n3 - y\n6 - 2y\n\n\n\nThe table above is the distribution of data with mean equals to 3. Find the value of y.",
+    "options": {
+      "A": "5",
+      "B": "2",
+      "C": "3",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55439?exam_type=jamb&type=obj&page=399",
+    "correct_answer": "B",
+    "explanation": "Marks (x)12345Frequency (f)2y - 2y - 13y - 43 - y6 - 2y3y + 2fx2y - 22y - 29y - 1212 - 4y30 - 10y26 - y\nMean = \\(\\frac{\\sum fx}{\\sum f}\\)\n\\(3 = \\frac{26 - y}{3y + 2}\\)\n\\(3(3y + 2) = 26 - y\\)\n\\(9y + 6 = 26 - y\\)\n\\(9y + y = 26 - 6\\)\n\\(10y = 20 \\implies y = 2\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1995",
+    "text": "The histogram above represents the number of candidates who did Further Mathematics examination in a school. How many candidates scored more than 40?",
+    "options": {
+      "A": "100",
+      "B": "79",
+      "C": "150",
+      "D": "90"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55453?exam_type=jamb&type=obj&page=399",
+    "correct_answer": "C",
+    "explanation": "Number of students that scored above 40 = 55 + 45 + 30 + 15 + 5\n= 150 students.\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1996",
+    "text": "In the circle above, with centre\u00a0O and radius 7 cm. Find the length of the arc AB, when < AOB = 57\u00b0.",
+    "options": {
+      "A": "5.32 cm",
+      "B": "4.39 cm",
+      "C": "7.33 cm",
+      "D": "6.97 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55456?exam_type=jamb&type=obj&page=400",
+    "correct_answer": "D",
+    "explanation": "Length of arc = \\(\\frac{\\theta}{360\u00b0} \\times 2 \\pi r\\)\n= \\(\\frac{57}{360} \\times 2 \\times \\frac{22}{7} \\times 7\\)\n= 6.97 cm\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1997",
+    "text": "Calculate the volume of the regular three dimensional figure drawn above, where < ABC = 90\u00b0 (a right- angled triangle).",
+    "options": {
+      "A": "394 cm\\(^3\\)",
+      "B": "425 cm\\(^3\\)",
+      "C": "268 cm\\(^3\\)",
+      "D": "540 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55461?exam_type=jamb&type=obj&page=400",
+    "correct_answer": "D",
+    "explanation": "|AC| = |DF| = 13 cm\nUsing Pythagoras theorem,\n|AC|\\(^2\\) = |AB|\\(^2\\) + |BC|\\(^2\\)\n13\\(^2\\) = 12\\(^2\\) + |BC|\\(^2\\)\n|BC|\\(^2\\) = 169 - 144 = 25\n|BC| = \\(\\sqrt{25}\\)\n= 5 cm\nVolume of triangular prism = \\(\\frac{1}{2} \\times base \\times length \\times height\\)\n= \\(\\frac{1}{2} \\times 5 \\times 12 \\times 18\\)\n= 540 cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1998",
+    "text": "If \\(\\sin x = \\frac{4}{5}\\), find \\(\\frac{1 + \\cot^2 x}{\\csc^2 x - 1}\\).",
+    "options": {
+      "A": "\\(\\frac{13}{2}\\)",
+      "B": "\\(\\frac{25}{9}\\)",
+      "C": "\\(\\frac{3}{13}\\)",
+      "D": "\\(\\frac{4}{11}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55463?exam_type=jamb&type=obj&page=400",
+    "correct_answer": "B",
+    "explanation": "\\(\\sin x = \\frac{opp}{Hyp} = \\frac{4}{5}\\)\n5\\(^2\\) = 4\\(^2\\) + adj\\(^2\\)\nadj\\(^2\\) = 25 - 16 = 9\nadj = \\(\\sqrt{9}\\) = 3\n\\(\\tan x = \\frac{4}{3}\\)\n\\(\\cot x = \\frac{1}{\\frac{4}{3}} = \\frac{3}{4}\\)\n\\(\\cot^2 x = (\\frac{3}{4})^2 = \\frac{9}{16}\\)\n\\(\\csc x = \\frac{1}{\\sin x}\\)\n= \\(\\frac{1}{\\frac{4}{5}} = \\frac{5}{4}\\)\n\\(\\csc^2 x = (\\frac{5}{4})^2 = \\frac{25}{16}\\)\n\\(\\therefore\u00a0\\frac{1 + \\cot^2 x}{\\csc^2 x - 1} = \\frac{1 + \\frac{9}{16}}{\\frac{25}{16} - 1}\\)\n= \\(\\frac{25}{16} \\div \\frac{9}{16}\\)\n= \\(\\frac{25}{9}\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  },
+  {
+    "number": "1999",
+    "text": "Evaluate \\(\\frac{2\\sin 30 + 5\\tan 60}{\\sin 60}\\), leaving your answer in surd form.",
+    "options": {
+      "A": "\\(\\frac{2\\sqrt{3}}{3} + 10\\)",
+      "B": "\\(\\frac{3\\sqrt{2} - 1}{5}\\)",
+      "C": "\\(\\frac{3\\sqrt{2} + 1}{5}\\)",
+      "D": "\\(\\frac{2\\sqrt{3}}{3} - 10\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/55474?exam_type=jamb&type=obj&page=400",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{2\\sin 30 + 5\\tan 60}{\\sin 60}\\)\n\\(\\sin 30 = \\frac{1}{2}; \\tan 60 = \\sqrt{3}; \\sin 60 = \\frac{\\sqrt{3}}{2}\\)\n\\(\\therefore \\frac{2\\sin 30 + 5\\tan 60}{\\sin 60} = \\frac{2(\\frac{1}{2}) + 5(\\sqrt{3})}{\\frac{\\sqrt{3}}{2}}\\)\\)\n= \\(\\frac{1 + 5\\sqrt{3}}{\\frac{\\sqrt{3}}{2}}\\)\n= \\(\\frac{2(1 + 5\\sqrt{3})}{\\sqrt{3}}\\)\n= \\(\\frac{2 + 10\\sqrt{3}}{\\sqrt{3}}\\)\nRationalizing, we get\n= \\(\\frac{2\\sqrt{3} + 30}{3}\\)\n= \\(\\frac{2}{3} \\sqrt{3} + 10\\)\nThere is an explanation video availablebelow.",
+    "year": "2019"
+  }
+]

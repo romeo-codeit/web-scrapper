@@ -1,0 +1,562 @@
+[
+  {
+    "number": "41",
+    "text": "Who developed the first digital electrical computer?",
+    "options": {
+      "A": "Blaise Pascal",
+      "B": "Joseph Jacquard",
+      "C": "Mauchly and Eckert",
+      "D": "Von Leibniz"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57699?exam_type=waec&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "John William Mauchly and J. Presper Eckert are the scientists credited with the invention of the Electronic Numerical Integrator And Computer (ENIAC), the first general-purpose electronic digital computer, which was completed in 1946.",
+    "year": "2016"
+  },
+  {
+    "number": "42",
+    "text": "Which generation of computers made use of intergrated circuit?",
+    "options": {
+      "A": "Fourth",
+      "B": "Third",
+      "C": "Second",
+      "D": "First"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57700?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "43",
+    "text": "Which of the following is an alphebetical data?",
+    "options": {
+      "A": "Bed",
+      "B": "Ax44jj",
+      "C": "AB+CD",
+      "D": "%"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57701?exam_type=waec&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "44",
+    "text": "The type of data which consist of text, number, audio, graphic and animation is called",
+    "options": {
+      "A": "data set",
+      "B": "multimedia data",
+      "C": "multi-purpose data",
+      "D": "multi-variable data"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57702?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "45",
+    "text": "Which of the following factors is not considered when classifying computers?",
+    "options": {
+      "A": "Location",
+      "B": "Size",
+      "C": "Type",
+      "D": "Purpose"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57703?exam_type=waec&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "46",
+    "text": "Which of the following is not used for online shopping?",
+    "options": {
+      "A": "MasterCard",
+      "B": "Credit card",
+      "C": "Verve card",
+      "D": "Sim card"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57704?exam_type=waec&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "47",
+    "text": "Which of the following is a negative impact of ICT in education?",
+    "options": {
+      "A": "Plagiarism",
+      "B": "E-Library",
+      "C": "Distance Learning",
+      "D": "Computer-based test"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57705?exam_type=waec&type=obj&page=10",
+    "correct_answer": "A",
+    "explanation": "One of the\u00a0negative aspects\u00a0of using technology for\u00a0education\u00a0and especially for assessment is its potential to support academic dishonesty and plagiarism is the practice of taking someone else's work or ideas and passing them off as one's own.",
+    "year": "2016"
+  },
+  {
+    "number": "48",
+    "text": "Which of the following are parts of a computer processor?",
+    "options": {
+      "A": "CPU and main memory",
+      "B": "Control unit and ALU",
+      "C": "Operating system and application",
+      "D": "Main memory and storage"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57707?exam_type=waec&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "49",
+    "text": "Data gathering involves the following means except",
+    "options": {
+      "A": "counting process",
+      "B": "voting process",
+      "C": "measuring process",
+      "D": "calculating process"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57708?exam_type=waec&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "The voting process\u00a0is not typically used in data gathering as it involves a different type of information gathering, such as collecting opinions or preferences rather than numerical data.",
+    "year": "2016"
+  },
+  {
+    "number": "50",
+    "text": "Two computers, X and Y are such that the processor in X has a word size of 32 bits while that of Y is 16bits. Which of the following statement is true?",
+    "options": {
+      "A": "X can process half as much data as Y at the same time",
+      "B": "X can process the same amount of data as Y at the same time.",
+      "C": "X can process two times as much data as Y at the same time.",
+      "D": "X can process four times as much data as Y at the same time."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57710?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "X can process two times as much data as Y at the same time.",
+    "year": "2016"
+  },
+  {
+    "number": "51",
+    "text": "The television set deisplays information as",
+    "options": {
+      "A": "antenna signals",
+      "B": "visual signal",
+      "C": "audio signals",
+      "D": "audio-visual signals"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57711?exam_type=waec&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "The television set displays signals that we can see and also hear hence option D.",
+    "year": "2016"
+  },
+  {
+    "number": "52",
+    "text": "Which of the following is not an ancient medium for transmitting information?",
+    "options": {
+      "A": "Fire lighting",
+      "B": "Beating of drums",
+      "C": "Telephone",
+      "D": "Whistling"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57712?exam_type=waec&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "53",
+    "text": "A server is a computer that provides services to other computers called",
+    "options": {
+      "A": "Clients",
+      "B": "Peers",
+      "C": "routers",
+      "D": "switches"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57713?exam_type=waec&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "In computing, a client is\u00a0a piece of computer hardware or software that accesses a service made available by a server as part of the\u00a0client\u2013server model of computer networks.",
+    "year": "2016"
+  },
+  {
+    "number": "54",
+    "text": "The rules for exchanging data on a network are known as",
+    "options": {
+      "A": "transmission rules",
+      "B": "transfer rules",
+      "C": "protocol",
+      "D": "configurations"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57714?exam_type=waec&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "Protocol, in computer science,\u00a0a set of rules or procedures for transmitting data between electronic devices, such as computers",
+    "year": "2016"
+  },
+  {
+    "number": "55",
+    "text": "A search engine is a?",
+    "options": {
+      "A": "A program that searches engines",
+      "B": "Computer engine that searches a database",
+      "C": "hardware components of a computer",
+      "D": "tool that searches the web"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57715?exam_type=waec&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "A search engine is a (usually web-based) computer program that collects and organizes content from all over the internet. Examples are\u00a0Google,Bing,Yahoo!,Yandex, DuckDuckGo, Ask.com, etc.",
+    "year": "2016"
+  },
+  {
+    "number": "56",
+    "text": "The feature in a browser which enables users to open the latest copy of a webpage is",
+    "options": {
+      "A": "Refresh",
+      "B": "Forward",
+      "C": "Backward",
+      "D": "Redirect"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57716?exam_type=waec&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "57",
+    "text": "An operating system will perform the following except",
+    "options": {
+      "A": "files and folder arrangement",
+      "B": "storage location",
+      "C": "user profile creation",
+      "D": "protection from surge"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57717?exam_type=waec&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "58",
+    "text": "A Microsoft\u00a0Office application suites include all the following except",
+    "options": {
+      "A": "Word",
+      "B": "Access",
+      "C": "CorelDraw",
+      "D": "PowerPoint"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57718?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "Microsoft Office is a set of applications primarily known as Office Suite.\u00a0\u00a0The three main Microsoft Office applications, Word, Excel, and PowerPoint,",
+    "year": "2016"
+  },
+  {
+    "number": "59",
+    "text": "Which of the following is not a feature of the drawing tool bar?",
+    "options": {
+      "A": "Oval shape",
+      "B": "Line",
+      "C": "Drop Cap",
+      "D": "Arc"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57720?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "60",
+    "text": "The MS Excel worksheet below shows the salary distribution for four staff in a company. The net salary is paid after deductions have been made.\u00a0\n\n\n\nS/N\nA\nB\nC\nD\nE\n\n\n1\nIDENTIFICATION NUMBER\nBASIC SALARY (N)\nTOTAL ALLOWANCE (N)\nTOTAL DEDUCTION (N)\nNET SALARY (N)\n\n\n2\nLP/p/1202\n22000\n29000\n7000\n44000\n\n\n3\nL/P/1250\n26000\n35000\n9000\n52000\n\n\n4\nL/P/3205\n15000\n21000\n6000\n30000\n\n\n5\nL/P/3215\n33000\n41000\n8000\n66000\n\n\n\nWhich of the following cells contain numeric data?",
+    "options": {
+      "A": "A1",
+      "B": "A2",
+      "C": "C3",
+      "D": "E1"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57722?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "Cell C3 contains numeric data i.e. 35000, A1, and A2 alpha-numeric\u00a0data while E1 contains alphabets only, therefore, OPTION C is correct.",
+    "year": "2016"
+  },
+  {
+    "number": "61",
+    "text": "The MS Excel worksheet below shows the salary distribution for four staff\u00a0 of a company. The net salary is paid after deductions have been made.\n\n\n\nS/N\nA\nB\nC\nD\nE\n\n\n1\nIDENTIFICATION NUMBER\nBASIC SALARY (N)\nTOTAL ALLOWANCE (N)\nTOTAL DEDUCTION (N)\nNET SALARY (N)\n\n\n2\nLP/p/1202\n22000\n29000\n7000\n44000\n\n\n3\nL/P/1250\n26000\n35000\n9000\n52000\n\n\n4\nL/P/3205\n15000\n21000\n6000\n30000\n\n\n5\nL/P/3215\n33000\n41000\n8000\n66000\n\n\n\nWhich of the following for mulas would be used to obtain the value in cell E2?",
+    "options": {
+      "A": "= B2 + C2 - D2",
+      "B": "= B2 + C2 + D2",
+      "C": "= (B2 + C2 + D2)/3",
+      "D": "= C2 - D2"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57723?exam_type=waec&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "62",
+    "text": "In Database Management System (DBMS), linking entities is used to represent?",
+    "options": {
+      "A": "Attributes",
+      "B": "Objects",
+      "C": "Relationships",
+      "D": "Relations"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57724?exam_type=waec&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "A relationship in a DBMS, is primarily the\u00a0way two or more data sets are linked, relationships allow the datasets to share and store the data in separate tables.",
+    "year": "2016"
+  },
+  {
+    "number": "63",
+    "text": "A data element that uniquely identifies one record from the other in a table is the",
+    "options": {
+      "A": "Attribute key",
+      "B": "determinant",
+      "C": "entity key",
+      "D": "primary key"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57725?exam_type=waec&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "In DBMS,\u00a0The primary key is the chosen key that uniquely identifies records in a table. It\u2019s the one that\u2019s used as the main identifier for each record.. There can be only one primary Key in a table. Also, the primary Key cannot have the same values repeating for any row.",
+    "year": "2016"
+  },
+  {
+    "number": "64",
+    "text": "In MS PowerPoint presentation, the special effects that control the order in which objects enter a slide and their manner of appearance is",
+    "options": {
+      "A": "Transition",
+      "B": "Media",
+      "C": "ClipArt",
+      "D": "Animation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57726?exam_type=waec&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "An\u00a0animation\u00a0is a special effect that applies to a single element on a slide such as text, a shape, an\u00a0image, and so on. While Atransitionis the special effect that occurs when you exit\u00a0one slide and move on to the next during a presentation.",
+    "year": "2016"
+  },
+  {
+    "number": "65",
+    "text": "Which of these packages could be used by a Data processing teacher to design a website for a school",
+    "options": {
+      "A": "Front Page",
+      "B": "Pagemaker",
+      "C": "PowerPoint",
+      "D": "word Perfect"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57727?exam_type=waec&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "66",
+    "text": "In graphic packages, the process of removing unwanted part of an image is known as",
+    "options": {
+      "A": "Shaping",
+      "B": "resizing",
+      "C": "editing",
+      "D": "cropping"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57728?exam_type=waec&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "67",
+    "text": "Routine checks operations on computers in order to ensure its continuous functioning is known as computer",
+    "options": {
+      "A": "servicing",
+      "B": "repairs",
+      "C": "maintenance",
+      "D": "installation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57729?exam_type=waec&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "68",
+    "text": "The perfomance of the computer can be enhanced by",
+    "options": {
+      "A": "using large monitors",
+      "B": "using faster printer",
+      "C": "installing a scanner",
+      "D": "increasing the memory size"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57730?exam_type=waec&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "Generally,\u00a0the faster the RAM, the faster the processing speed. With faster RAM, you increase the speed at which memory transfers information to other components.meaning, your fast processor now has an equally fast way of talking to the other components, making your computer much more efficient.",
+    "year": "2016"
+  },
+  {
+    "number": "69",
+    "text": "The moral principles that regulates the use of computers, its accessories and environment are called",
+    "options": {
+      "A": "ethics",
+      "B": "conduct",
+      "C": "attitude",
+      "D": "appreciation"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57732?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "70",
+    "text": "A technician can protect itself from electronic discharge by using",
+    "options": {
+      "A": "wrist strap",
+      "B": "voltmeter",
+      "C": "screw driver",
+      "D": "magnet"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57734?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "An anti-static wrist strap is used to make sure that the voltage difference in your body and the computer is balanced out. By grounding your body with an anti-static wrist strap, any excess static charge in your body will be dissipated right away.",
+    "year": "2016"
+  },
+  {
+    "number": "71",
+    "text": "Which of the following operations prevent file loss?",
+    "options": {
+      "A": "File backup",
+      "B": "File conversation",
+      "C": "File maintenance",
+      "D": "File sorting"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57735?exam_type=waec&type=obj&page=15",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "72",
+    "text": "Acomputer pofessional who studies an existing system with a view to evolving a computer based system from it is",
+    "options": {
+      "A": "system analyst",
+      "B": "system administrator",
+      "C": "computer programmer",
+      "D": "computer engineer"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57736?exam_type=waec&type=obj&page=15",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "73",
+    "text": "Computer virus cannot be transmitted by",
+    "options": {
+      "A": "downloading files",
+      "B": "e-mail attachment",
+      "C": "pen drives",
+      "D": "typing of keyboard"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57737?exam_type=waec&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "74",
+    "text": "A program designed to detect and prevent malicious programs from a computer system is",
+    "options": {
+      "A": "spyware",
+      "B": "passcode",
+      "C": "malware",
+      "D": "firewall"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57738?exam_type=waec&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network,",
+    "year": "2016"
+  },
+  {
+    "number": "75",
+    "text": "In relational model, a tuple is a?",
+    "options": {
+      "A": "A column of table",
+      "B": "key of a table",
+      "C": "row of a table",
+      "D": "two-dimensional table"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57742?exam_type=waec&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "76",
+    "text": "Relationship between tables in a relational model are created by",
+    "options": {
+      "A": "foreign keys",
+      "B": "determinants",
+      "C": "composite keys",
+      "D": "candidates keys"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57745?exam_type=waec&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "Foreign Key is used to establish relationships between two tables. A foreign key will require each value in a column or set of columns to match the Primary Key of the referential table. Foreign keys help to maintain data and referential integrity.\u00a0A composite Key is a set of two or more attributes that help identify each tuple in a table uniquely. and a Candidate keys are those attributes that uniquely identify rows of a table.",
+    "year": "2016"
+  },
+  {
+    "number": "77",
+    "text": "Computers store data as",
+    "options": {
+      "A": "folders",
+      "B": "files",
+      "C": "documents",
+      "D": "directories"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57747?exam_type=waec&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "Computers perform two functions: they process and store data.\u00a0Data is stored as files and files are stored in folders and folders are stored within drives.",
+    "year": "2016"
+  },
+  {
+    "number": "78",
+    "text": "The records of students in a school are kept in order of their arrival. What files access method would be used to access a student's record if the latest record would first be retrieved?",
+    "options": {
+      "A": "Direct",
+      "B": "Indexed",
+      "C": "Batch",
+      "D": "sequential"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57750?exam_type=waec&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "Indexed: Can allow for faster retrieval of records based on specific criteria, but typically does not prioritize the latest records unless designed that way. For this question, the files of the students are kept\u00a0in order of arrival.",
+    "year": "2016"
+  },
+  {
+    "number": "79",
+    "text": "The prevention of data from corruption and unauthorized access is a function of data",
+    "options": {
+      "A": "security",
+      "B": "secrecy",
+      "C": "intergrity",
+      "D": "coding"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57751?exam_type=waec&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "80",
+    "text": "Which of the following defines heterogeneous\u00a0distributed database?",
+    "options": {
+      "A": "Same DBMS is used at each location but data are not distributed across all nodes.",
+      "B": "Same DBSM  is used at each location with data distributed across all nodes.",
+      "C": "Different DBSM is used at each location and data are not distributed across all nodes.",
+      "D": "Different DBSM is used at each location and data are distributed across all nodes"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57754?exam_type=waec&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "A heterogeneous distributed database is defined by the presence of different Database Management Systems (DBMS) at each location, with each node possibly utilizing its own DBMS from various vendors or versions. In this setup, data may not be uniformly distributed across all nodes; it can be either centralized or selectively distributed depending on the system's architecture.",
+    "year": "2016"
+  }
+]

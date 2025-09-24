@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1167",
+    "text": "Express 302.10495 correct to five significant figures",
+    "options": {
+      "A": "302.10",
+      "B": "302.11",
+      "C": "302.105",
+      "D": "302.1049"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36730?exam_type=waec&type=obj&page=234",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1168",
+    "text": "Simplify; \\(\\frac{3\\sqrt{5} \\times 4\\sqrt{6}}{2 \\sqrt{3} \\times 3\\sqrt{2}}\\)",
+    "options": {
+      "A": "\\(\\sqrt{2}\\)",
+      "B": "\\(\\sqrt{5}\\)",
+      "C": "2\\(\\sqrt{2}\\)",
+      "D": "2\\(\\sqrt{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36731?exam_type=waec&type=obj&page=234",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{3\\sqrt{5} \\times 4\\sqrt{6}}{2 \\sqrt{3} \\times 3\\sqrt{2}}\\)= \\(\\frac{\\sqrt{5} \\times 2\\sqrt{6}}{\\sqrt{2} \\times \\sqrt{3}}\\)= \\(\\frac{\\sqrt{5} \\times 2 \\sqrt{6}}{\\sqrt{6}}\\)= 2\\(\\sqrt{5}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1169",
+    "text": "In 1995, the enrollment of two schools X and Y were 1,050 and 1,190 respectively. Find the ration of the enrollments of X and Y",
+    "options": {
+      "A": "50:11",
+      "B": "15:17",
+      "C": "13:55",
+      "D": "12:11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36733?exam_type=waec&type=obj&page=234",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1170",
+    "text": "Convert 3510 to number in base 2",
+    "options": {
+      "A": "1011",
+      "B": "10011",
+      "C": "100011",
+      "D": "11001"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36738?exam_type=waec&type=obj&page=234",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1171",
+    "text": "The nth term of a sequence is Tn = 5 + (n - 1)2. Evaluate T4 - T6",
+    "options": {
+      "A": "30",
+      "B": "16",
+      "C": "-16",
+      "D": "-30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36740?exam_type=waec&type=obj&page=235",
+    "correct_answer": "C",
+    "explanation": "4\n2\n2\n2\n2\n4\n6",
+    "year": "2012"
+  },
+  {
+    "number": "1172",
+    "text": "Mr. Manu travelled from Accra to Pamfokromb a distance of 720km in 8 hours. What will be his speed in m/s?",
+    "options": {
+      "A": "25m/s",
+      "B": "150m/s",
+      "C": "250m/s",
+      "D": "500m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36741?exam_type=waec&type=obj&page=235",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1173",
+    "text": "If N2,500.00 amounted to N3,50.00 in 4 years at simple interest, find the rate at which the interest was charged",
+    "options": {
+      "A": "5%",
+      "B": "7\\(\\frac{1}{2}\\)%",
+      "C": "8%",
+      "D": "10%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36744?exam_type=waec&type=obj&page=235",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1174",
+    "text": "Solve for x in the equation; \\(\\frac{1}{x} + \\frac{2}{3x} = \\frac{1}{3}\\)",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36746?exam_type=waec&type=obj&page=235",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1175",
+    "text": "Simplify: \\(\\frac{54k^2 - 6}{3k + 1}\\)",
+    "options": {
+      "A": "6(1 - 3k2)",
+      "B": "6(3k2 - 1)",
+      "C": "6(3k - 1)",
+      "D": "6(1 - 3k)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36748?exam_type=waec&type=obj&page=235",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1176",
+    "text": "Make p the subject of the relation: q = \\(\\frac{3p}{r} + \\frac{s}{2}\\)",
+    "options": {
+      "A": "p = \\(\\frac{2q - rs}{6}\\)",
+      "B": "p = 2qr - sr - 3",
+      "C": "p = \\(\\frac{2qr - s}{6}\\)",
+      "D": "p = \\(\\frac{2qr - rs}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36751?exam_type=waec&type=obj&page=236",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1177",
+    "text": "If x + y = 2y - x + 1 = 5, find the value of x",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36754?exam_type=waec&type=obj&page=236",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1178",
+    "text": "The sum of 12 and one third of n is 1 more than twice n. Express the statement in the form of an equation",
+    "options": {
+      "A": "12n - 6 = 0",
+      "B": "3n - 12 = 0",
+      "C": "2n - 35 = 0",
+      "D": "5n - 33 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36755?exam_type=waec&type=obj&page=236",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1179",
+    "text": "Solve the inequality: \\(\\frac{-m}{2} - \\frac{5}{4} \\geq \\frac{5m}{12} - \\frac{7}{6}\\)",
+    "options": {
+      "A": "m \\(\\leq \\frac{5}{4}\\)",
+      "B": "m \\(\\geq \\frac{5}{4}\\)",
+      "C": "m \\(\\leq - \\frac{1}{11}\\)",
+      "D": "m \\(\\geq - \\frac{1}{11}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36760?exam_type=waec&type=obj&page=236",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1180",
+    "text": "The curved surface area of a cylindrical tin is 704cm2. If the radius of its base is 8cm, find the height. [Take \\(\\pi = \\frac{22}{7}\\)]`",
+    "options": {
+      "A": "14cm",
+      "B": "9cm",
+      "C": "8cm",
+      "D": "7cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36763?exam_type=waec&type=obj&page=236",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1181",
+    "text": "The lengths of the minor and major arcs 54cm and 126cm respectively. Calculate the angle of the major sector",
+    "options": {
+      "A": "360o",
+      "B": "252o",
+      "C": "246o",
+      "D": "234o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36764?exam_type=waec&type=obj&page=237",
+    "correct_answer": "B",
+    "explanation": "o\no",
+    "year": "2012"
+  },
+  {
+    "number": "1182",
+    "text": "In \\(\\bigtriangleup\\) XYZ, /XY/ = 8cm, /YZ/ = 10cm and /XZ/ = 6cm. Which of these relation is true?",
+    "options": {
+      "A": "/XY/ + /YZ/ = /XZ/",
+      "B": "/XY/ - /YZ/ = /XZ/",
+      "C": "/XY/2 = /Y/2 - /XY/2",
+      "D": "/YZ/2 = /XZ/2 + /XY/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36767?exam_type=waec&type=obj&page=237",
+    "correct_answer": "D",
+    "explanation": "/YZ/\\(^2\\)\u00a0= /XZ/\\(^2\\)\u00a0+ /XY/\\(^2\\)\n(Verify using Pythagoras' theorem)",
+    "year": "2012"
+  },
+  {
+    "number": "1183",
+    "text": "If cos(x + 40)o = 0.0872, what is the value of x?",
+    "options": {
+      "A": "85o",
+      "B": "75o",
+      "C": "65o",
+      "D": "45o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36772?exam_type=waec&type=obj&page=237",
+    "correct_answer": "D",
+    "explanation": "o\n-1\no\no\no\no\no",
+    "year": "2012"
+  },
+  {
+    "number": "1184",
+    "text": "A kite flies on a taut string of length 50m inclined at tan angle 54o to the horizontal ground. The height of the kite above the ground is",
+    "options": {
+      "A": "50 tan 30o",
+      "B": "50 sin 54o",
+      "C": "50 tan 54o",
+      "D": "50 sin 36o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36773?exam_type=waec&type=obj&page=237",
+    "correct_answer": "B",
+    "explanation": "From the diagram above,\nSin 54\u00ba = \\(\\frac{\\text{OPP}}{\\text{HYP}}\\)\nSin 54\u00ba = \\(\\frac{\\text{x}}{50}\\)\nx = 50 Sin 54\u00ba",
+    "year": "2012"
+  },
+  {
+    "number": "1185",
+    "text": "Given that the mean of the scores 15, 21, 17, 26, 18 and 29 is 21, calculate the standard deviation of the scores",
+    "options": {
+      "A": "\\(\\sqrt{10}\\)",
+      "B": "4",
+      "C": "5",
+      "D": "\\(\\sqrt{30}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36775?exam_type=waec&type=obj&page=237",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1186",
+    "text": "A bag contains 4 red and 6 black balls of the same size. If the balls are shuffled briskly and two balls are drawn one after the other without replacement, find the probability of picking balls of different colours",
+    "options": {
+      "A": "\\(\\frac{8}{15}\\)",
+      "B": "\\(\\frac{13}{25}\\)",
+      "C": "\\(\\frac{11}{15}\\)",
+      "D": "\\(\\frac{13}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36780?exam_type=waec&type=obj&page=238",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1187",
+    "text": "Which of these statements about y = \\(\\sqrt{8m}\\) is correct?",
+    "options": {
+      "A": "log y = log 8 x log \\(\\sqrt{m}\\)",
+      "B": "log y = 3 log 2 x \\(\\frac{1}{2}\\) log m",
+      "C": "log y = 3 log 2 - \\(\\frac{1}{2}\\) log m",
+      "D": "log y = \\(\\frac{3}{2}\\) log 2 + \\(\\frac{1}{2}\\) log m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36781?exam_type=waec&type=obj&page=238",
+    "correct_answer": "D",
+    "explanation": "y = \\(\\sqrt{8m}\\); log y = log \\(\\sqrt{8m}\\)log y = log \\(\\sqrt{8}\\) + log \\(\\sqrt{m}\\)log y = \\(\\frac{1}{2}\\)log 2\\(^3\\) + log m\\(\\frac{1}{2}\\)log y = \\(\\frac{3}{2}\\)\u00a0log 2\u00a0+ \\(\\frac{1}{2}\\) log m",
+    "year": "2012"
+  },
+  {
+    "number": "1188",
+    "text": "If x + 0.4y = 3 and y = \\(\\frac{1}{2}\\)x, find the value of (x + y)",
+    "options": {
+      "A": "1\\(\\frac{1}{4}\\)",
+      "B": "2\\(\\frac{1}{2}\\)",
+      "C": "3\\(\\frac{3}{4}\\)",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36784?exam_type=waec&type=obj&page=238",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1189",
+    "text": "Express 3 - [\\(\\frac{x - y}{y}\\)] as a single fraction",
+    "options": {
+      "A": "\\(\\frac{3xy}{y}\\)",
+      "B": "\\(\\frac{x - 4y}{y}\\)",
+      "C": "\\(\\frac{4y - x}{y}\\)",
+      "D": "3 - \\(\\frac{x - y}{y}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36787?exam_type=waec&type=obj&page=238",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1190",
+    "text": "If p = {prime factors of 210} and Q = {prime less than 10}, find p \\(\\cap\\) Q",
+    "options": {
+      "A": "{1,2, 3}",
+      "B": "{2, 3, 5}",
+      "C": "{1, 3, 5,7}",
+      "D": "{2,3,5,7}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36790?exam_type=waec&type=obj&page=238",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1191",
+    "text": "Alfred spent \\(\\frac{1}{4}\\) of his money on food, \\(\\frac{1}{3}\\) on clothing and save the rest. If he saved N72000.00, how much did he spend on food?",
+    "options": {
+      "A": "N43,200.00",
+      "B": "N43,000.00",
+      "C": "N42,200.00",
+      "D": "N40,000.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36792?exam_type=waec&type=obj&page=239",
+    "correct_answer": "A",
+    "explanation": "let the total amount be Nx i.e (\\(\\frac{1}{4}\\))x + (\\(\\frac{1}{3}\\))x + 72,000 = x\\(\\frac{x}{4} + \\frac{x}{4} + 72,000 = x\\)\\(\\frac{3x + 4x + 86,400}{12} = x\\)cross multiply to clear fraction12x = 3x + 4x + 86,40012x - 7x = 86,4005x = 86,400x - \\(\\frac{86,400}{5}\\) = 172,800amount spent on food = \\(\\frac{1}{4} \\times 172,800\\)= N43,200",
+    "year": "2012"
+  },
+  {
+    "number": "1192",
+    "text": "Solve (\\(\\frac{27}{125}\\))-\\(\\frac{1}{3}\\) x (\\(\\frac{4}{9}\\))\\(\\frac{1}{2}\\)",
+    "options": {
+      "A": "\\(\\frac{10}{9}\\)",
+      "B": "\\(\\frac{9}{10}\\)",
+      "C": "\\(\\frac{2}{5}\\)",
+      "D": "\\(\\frac{12}{125}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36793?exam_type=waec&type=obj&page=239",
+    "correct_answer": "A",
+    "explanation": "-\\(\\frac{1}{3}\\)\n\\(\\frac{1}{2}\\)\n-\\(\\frac{1}{3}\\)\n-\\(\\frac{1}{3}\\)\n\\(\\frac{1}{2}\\)\n-\\(\\frac{1}{2}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "1193",
+    "text": "The sum of the interior angles of regular polygon is 1800o. How many sides has the polygon?",
+    "options": {
+      "A": "16",
+      "B": "12",
+      "C": "10",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36794?exam_type=waec&type=obj&page=239",
+    "correct_answer": "B",
+    "explanation": "o",
+    "year": "2012"
+  },
+  {
+    "number": "1194",
+    "text": "Find the coefficient of m in the expression of (\\(\\frac{m}{2} - 1 \\frac{1}{2}\\)) (m + \\(\\frac{2}{3}\\))",
+    "options": {
+      "A": "-\\(\\frac{1}{6}\\)",
+      "B": "- \\(\\frac{1}{2}\\)",
+      "C": "-1",
+      "D": "-1\\(\\frac{1}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36796?exam_type=waec&type=obj&page=239",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1195",
+    "text": "The volume of a cuboid is 54cm3. If the length, width and height of the cuboid are in the ratio 2:1:1 respectively, find its total surface area",
+    "options": {
+      "A": "108cm2",
+      "B": "90cm2",
+      "C": "80cm2",
+      "D": "72cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36799?exam_type=waec&type=obj&page=239",
+    "correct_answer": "B",
+    "explanation": "V = L x B x HV = \\(2x \\times x \\times x = 2x^3\\)= 54cm3i.e. 2x3 = 54x3 = \\(\\frac{54}{2}\\) = 27x = 3\\(\\sqrt{27}\\)x = 3L = 2x i.e. 2 x 3 = 6cmB = x i.e. x = 3cmH = x i.e. x = 3cmbut A = 2(LB + LH + BH) = 2(6 x 3) + (6 x 3) + (3 x 3) = 2(18 + 18 + 9) = 2(45)= 90cm2",
+    "year": "2012"
+  },
+  {
+    "number": "1196",
+    "text": "A side and a diagonal of a rhombus are 10cm and 12cm respectively, Find its area",
+    "options": {
+      "A": "20cm2",
+      "B": "24cm2",
+      "C": "48cm2",
+      "D": "96cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36800?exam_type=waec&type=obj&page=240",
+    "correct_answer": "D",
+    "explanation": ".",
+    "year": "2012"
+  },
+  {
+    "number": "1197",
+    "text": "Factorise completely: 32x2y - 48x3y3",
+    "options": {
+      "A": "16x2y(2 - 3xy2)",
+      "B": "8xy(4x - 6x2y2)",
+      "C": "8x2y(4 - 6xy2)",
+      "D": "16xy(2x - 3x2y2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36801?exam_type=waec&type=obj&page=240",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1198",
+    "text": "If x and y are variables and k is a constant, which of the following describes an inverse relationship between x and y?",
+    "options": {
+      "A": "y = kx",
+      "B": "y = \\(\\frac{k}{x}\\)",
+      "C": "y = k\\(\\sqrt{x}\\)",
+      "D": "y = x + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36803?exam_type=waec&type=obj&page=240",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1199",
+    "text": "If x and y are variables and k is a constant, which of the following describes an inverse relationship between x and y?",
+    "options": {
+      "A": "y = kx",
+      "B": "y = \\(\\frac{k}{x}\\)",
+      "C": "y = k\\(\\sqrt{x}\\)",
+      "D": "y = x + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36804?exam_type=waec&type=obj&page=240",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1200",
+    "text": "In the diagram, |QR| = 10m, |SR| = 8m \n\n< QPS = 30o, < QRP = 90o  and |PS| = x, Find x",
+    "options": {
+      "A": "1.32m",
+      "B": "6.32m",
+      "C": "9.32m",
+      "D": "17.32"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36805?exam_type=waec&type=obj&page=240",
+    "correct_answer": "C",
+    "explanation": "o",
+    "year": "2012"
+  },
+  {
+    "number": "1201",
+    "text": "In the diagram, O is a circle centre of the circle PQRS and < PSR = 86o. If < PQR = xo, find x",
+    "options": {
+      "A": "108o",
+      "B": "172o",
+      "C": "130o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36806?exam_type=waec&type=obj&page=241",
+    "correct_answer": "B",
+    "explanation": "o\no",
+    "year": "2012"
+  },
+  {
+    "number": "1202",
+    "text": "The diagram is a circle centre O. If < SPR = 2m and < SQR = n, express m in terms of n",
+    "options": {
+      "A": "m = \\(\\frac{n}{2}\\)",
+      "B": "m = 2n",
+      "C": "m = n - 2",
+      "D": "m = n + 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36807?exam_type=waec&type=obj&page=241",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1203",
+    "text": "In the diagram, MQ//RS, < TUV = 70o and < RLV = 30o. Find the value of x",
+    "options": {
+      "A": "150o",
+      "B": "110o",
+      "C": "100o",
+      "D": "95o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36809?exam_type=waec&type=obj&page=241",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2012"
+  },
+  {
+    "number": "1204",
+    "text": "Is the diagram, MN, PQ and RS are three intersecting straight lines. Which of the following statements is/are true? i. t = y ii. x + y + z + m = 180o iii. x + m + n = 180o iv. x + n = m + z",
+    "options": {
+      "A": "i and iv",
+      "B": "ii",
+      "C": "iii",
+      "D": "iv"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36810?exam_type=waec&type=obj&page=241",
+    "correct_answer": "C",
+    "explanation": "m + y + x = 180o(sum of < s on straight line)y = n(vertically opp. angle)m + n + x = 180o",
+    "year": "2012"
+  },
+  {
+    "number": "1205",
+    "text": "The position of three ships P,Q and R at sea are illustrated in the diagram. The arrows indicated the North direction. The bearing of Q from P is 050o and < PQR = 72o. Calculate the bearing of R and Q",
+    "options": {
+      "A": "155o",
+      "B": "80o",
+      "C": "158o",
+      "D": "91o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36811?exam_type=waec&type=obj&page=241",
+    "correct_answer": "C",
+    "explanation": "< NPQ = < PQB = 50\u00ba(alt. < s)< PQB = 50\u00ba< PQR = < PQR < PQB + < QBR = 72\u00ba< QBR = < PQR - < PQB = 72\u00ba\u00a0- 50\u00ba= 22\u00ba< NQR = 180 - < QBR = 180\u00ba\u00a0- 22 = 158\u00ba, the bearing of R from Q = 158\u00ba",
+    "year": "2012"
+  },
+  {
+    "number": "1206",
+    "text": "The bar chart shows the frequency distribution of marks scored by students in a class test. How many students are in the class?",
+    "options": {
+      "A": "10",
+      "B": "24",
+      "C": "25",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36813?exam_type=waec&type=obj&page=242",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1207",
+    "text": "The bar chart shows the frequency distribution of marks scored by students in a class test. Calculate the mean of the distribution.",
+    "options": {
+      "A": "6.0",
+      "B": "3.0",
+      "C": "2.4",
+      "D": "1.8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36814?exam_type=waec&type=obj&page=242",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1208",
+    "text": "The bar chart shows the frequency distribution of marks scored by students in a class test. What is the median of the distribution?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36815?exam_type=waec&type=obj&page=242",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2012"
+  },
+  {
+    "number": "1209",
+    "text": "The graph is that of y = 2x2 - 5x - 3. For what value of x will y be negative? What is the gradient of y = 2x2 - 5x - 3 at the point x = 4?",
+    "options": {
+      "A": "11.1",
+      "B": "10.5",
+      "C": "10.3",
+      "D": "9.9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36818?exam_type=waec&type=obj&page=242",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1210",
+    "text": "In the diagram, MN//PO, < PMN = 112\u00ba, < PNO = 129\u00ba, < NOP = 37\u00ba\u00a0and < MPN = yo. Find the value of y",
+    "options": {
+      "A": "51o",
+      "B": "54o",
+      "C": "56o",
+      "D": "68o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36821?exam_type=waec&type=obj&page=242",
+    "correct_answer": "B",
+    "explanation": "in the diagram;\nx = 180\u00ba - ( 129 + 37)\u00ba = 14\u00ba ( sum of angles in a\u00a0\u25b3)\nz = x = 14\u00ba ( alternate angles are equal )\ny = 180\u00ba - ( 112 + z )\u00ba = 14\u00ba ( sum of angles in a\u00a0\u25b3)\ny = 180\u00ba - ( 112 + 14)\u00ba = 54\u00ba",
+    "year": "2012"
+  },
+  {
+    "number": "1211",
+    "text": "The diagram is a circle with centre P. PRST are points on the circle. Find the value of < PRS",
+    "options": {
+      "A": "144o",
+      "B": "72o",
+      "C": "40o",
+      "D": "36o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36823?exam_type=waec&type=obj&page=243",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no",
+    "year": "2012"
+  },
+  {
+    "number": "1212",
+    "text": "The diagram is a circle of radius |QR| = 4cm. \\(\\bar{R}\\) is a tangent to the circle at R. If TPO = 120o, find |PQ|.",
+    "options": {
+      "A": "2.32cm",
+      "B": "1.84cm",
+      "C": "0.62cm",
+      "D": "0.26cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36824?exam_type=waec&type=obj&page=243",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "1213",
+    "text": "In the diagram, |SR| = |QR|. < SRP = 65o and < RPQ = 48o, find < PRQ",
+    "options": {
+      "A": "65o",
+      "B": "45o",
+      "C": "25o",
+      "D": "19o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36825?exam_type=waec&type=obj&page=243",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\no\no",
+    "year": "2012"
+  },
+  {
+    "number": "1214",
+    "text": "The graph is that of y = 2x2 - 5x - 3. For what value of x will y be negative? For what value of x will y be negative?",
+    "options": {
+      "A": "-\\(\\frac{1}{2} \\leq x\\) < 3",
+      "B": "-\\(\\frac{1}{2} < x \\leq 3\\)",
+      "C": "-\\(\\frac{1}{2} < x < 3\\)",
+      "D": "-\\(\\frac{1}{2} \\leq x \\leq 3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36826?exam_type=waec&type=obj&page=243",
+    "correct_answer": "C",
+    "explanation": "2\n2",
+    "year": "2012"
+  },
+  {
+    "number": "1215",
+    "text": "The diagram is a polygon. Find the largest of its interior angles",
+    "options": {
+      "A": "300o",
+      "B": "100o",
+      "C": "120o",
+      "D": "150o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36827?exam_type=waec&type=obj&page=243",
+    "correct_answer": "D",
+    "explanation": "2\no\no\no\no",
+    "year": "2012"
+  }
+]

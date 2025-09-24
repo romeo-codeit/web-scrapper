@@ -1,0 +1,562 @@
+[
+  {
+    "number": "1",
+    "text": "Which of the following persons invented the punch card machine?",
+    "options": {
+      "A": "Blaise Pascal",
+      "B": "Gottfried Leibniz",
+      "C": "J. Prosper Eckert",
+      "D": "Dr. Herman Hollerith"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57159?exam_type=waec&type=obj",
+    "correct_answer": "D",
+    "explanation": "Dr. Herman Hollerith developed the punch card system for data processing in the late 19th century, which was widely used for the 1890 U.S. Census. His system used punched cards to store data, which could be processed using electric machines to count and analyze the information much more efficiently than manual methods.",
+    "year": "2015"
+  },
+  {
+    "number": "2",
+    "text": "Convert \\(47_8\\)\u00a0to its binary equivalent.",
+    "options": {
+      "A": "100111\\(_2\\)",
+      "B": "110011\\(_2\\)",
+      "C": "10001\\(_2\\)",
+      "D": "1111011\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57190?exam_type=waec&type=obj",
+    "correct_answer": "A",
+    "explanation": "Convert to base 10 first.\n\\(47_8\\) = 4 x \\(8^1\\) + 7 x \\(8^0\\) = \\(39_{10}\\)\nThen convert \\(39_{10}\\) to base 2 as follows\n239219 R 129 R 124 R 122 R 021 R 020 R 1\nTherefore\u00a0\\(47_8\\) is equivalent to \\(100111_2\\)",
+    "year": "2015"
+  },
+  {
+    "number": "3",
+    "text": "The operation of checking input data against specified criteria is referred to as.",
+    "options": {
+      "A": "data verification",
+      "B": "data validation",
+      "C": "data cross check",
+      "D": "data control"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57195?exam_type=waec&type=obj",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "4",
+    "text": "Which of the following is not a source of data collection.",
+    "options": {
+      "A": "observation",
+      "B": "interview",
+      "C": "questionnaire",
+      "D": "classification"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57212?exam_type=waec&type=obj",
+    "correct_answer": "D",
+    "explanation": "Data collection is defined as the procedure of collecting, measuring and analyzing accurate insights for research using standard validated techniques. All the other processes help to achieve this apart from option D.",
+    "year": "2015"
+  },
+  {
+    "number": "5",
+    "text": "Which of the following is true about digital computers.",
+    "options": {
+      "A": "They consist of magnetic core memory.",
+      "B": "they understand data as a continuous measurement of a physical quantity.",
+      "C": "they represent numbers through a string of binary digits.",
+      "D": "they are mainly used for scientific purposes."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57227?exam_type=waec&type=obj",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "6",
+    "text": "Facebook, Twitter and WhatsApp are examples of",
+    "options": {
+      "A": "social media",
+      "B": "social communication",
+      "C": "networking media",
+      "D": "search engines"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57231?exam_type=waec&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "Facebook, Twitter, and WhatsApp are examples of social media/app platforms.",
+    "year": "2015"
+  },
+  {
+    "number": "7",
+    "text": "Which of the following is not an application of computers?",
+    "options": {
+      "A": "bank notes counter",
+      "B": "point of sales terminal",
+      "C": "Automated Teller Machine",
+      "D": "traffic lights control"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57234?exam_type=waec&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "8",
+    "text": "Which of the following is secondary storage device.",
+    "options": {
+      "A": "RAM",
+      "B": "bubble memory",
+      "C": "floppy disk",
+      "D": "EPROM"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57239?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "9",
+    "text": "Information analysis procedures includes the following except",
+    "options": {
+      "A": "skim and scan",
+      "B": "recognizing interrelationships",
+      "C": "interpret and conclude",
+      "D": "identifying propaganda and bias"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57243?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "Information analysis procedures involve the following i. skim and scan ii.recognize omission and faulty logic iii. determine accuracy, relevance and reliability of information iv. differentiate, identify propaganda/bias vi. recognize interrelationships.Therefore OPTION C is Correct.",
+    "year": "2015"
+  },
+  {
+    "number": "10",
+    "text": "The advantages of electronic data processing includes the following except",
+    "options": {
+      "A": "automatic processing",
+      "B": "hacking",
+      "C": "fast and reliable processing",
+      "D": "storage capacity"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57245?exam_type=waec&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "11",
+    "text": "Which of the following is not a transmission medium?",
+    "options": {
+      "A": "twisted pair cables",
+      "B": "coaxial cables",
+      "C": "wireless",
+      "D": "modem"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57270?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "A transmission medium is something that can mediate the propagation of signals for the purposes of telecommunication.\u00a0Amodemis a device or program that enables a computer to transmit data and so cannot be regarded as a transmission medium.",
+    "year": "2015"
+  },
+  {
+    "number": "12",
+    "text": "Information transmission by television is classified as",
+    "options": {
+      "A": "multimedia transmission",
+      "B": "polymedia transmission",
+      "C": "unimedia transmission",
+      "D": "monomedia transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57279?exam_type=waec&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "13",
+    "text": "Which of the following are the basic components of a computer network? I. A minimum of two computers II. Printers III. Network interface card.",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57282?exam_type=waec&type=obj&page=3",
+    "correct_answer": "B",
+    "explanation": "The key parts required to set up\u00a0a computer network are called Basic Computer Network.\u00a0The components\u00a0of a Computer Network: are a Network Interface Card(NIC), HUB, Switch, Repeater, Router, Modem, Server, Bridge.",
+    "year": "2015"
+  },
+  {
+    "number": "14",
+    "text": "Social networking does not promote.",
+    "options": {
+      "A": "personal publicity",
+      "B": "business expansion",
+      "C": "e-commerce",
+      "D": "e-payment"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57285?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "15",
+    "text": "Companies that provide internet access are referred to as",
+    "options": {
+      "A": "fixed network operators",
+      "B": "network service providers",
+      "C": "internet service providers",
+      "D": "internet network operators"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57287?exam_type=waec&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "16",
+    "text": "While typing a MS word document, Akin inserted footer in the document in order to",
+    "options": {
+      "A": "enhance the overall appearance of the document.",
+      "B": "make the document more readable",
+      "C": "insert page numbers",
+      "D": "make it appear on the document when printed."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57292?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "Footers are primarily used to add page numbers to documents, aiding in navigation for both printed and digital formats.",
+    "year": "2015"
+  },
+  {
+    "number": "17",
+    "text": "The spreadsheet symbol used to convert a\u00a0number to a label is",
+    "options": {
+      "A": "quotation mark (\u201c \u201c)",
+      "B": "equality sign (=)",
+      "C": "underscore (_)",
+      "D": "apostrophe sign (')"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57296?exam_type=waec&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "An apostrophe\u00a0before a cell value forces Excel to interpret the value as label. This is mostly useful for values that look like a number or date.",
+    "year": "2015"
+  },
+  {
+    "number": "18",
+    "text": "In spreadsheets, data would not be accepted into a cell by pressing the.",
+    "options": {
+      "A": "Enter key",
+      "B": "Arrow key",
+      "C": "Esc key",
+      "D": "Tab key"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57297?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "Entering Data in MS Excel\nA cell is selected in which a particular text is to be written and then\u00a0enter is pressed.The tab key is used to feed the same data in different cells of Excel.Arrow keys are used to jump from one cell to another and then feed data accordingly to a particular cell.Esc cancels an entry in the cell or Formula Bar.",
+    "year": "2015"
+  },
+  {
+    "number": "19",
+    "text": "A field in a database table is also known as",
+    "options": {
+      "A": "index",
+      "B": "relation",
+      "C": "attribute",
+      "D": "key"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57301?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "A field, also known as a column or attribute, represents a single piece of data within a database table. It corresponds to a specific characteristic or property of the entities being stored in the table.",
+    "year": "2015"
+  },
+  {
+    "number": "20",
+    "text": "The property of a system software that enables it to execute more than one program at a time is referred to as",
+    "options": {
+      "A": "compiling",
+      "B": "virtual memory",
+      "C": "multitasking",
+      "D": "load modules"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57305?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "21",
+    "text": "Which of these operations would not close MS word application?",
+    "options": {
+      "A": "Pressing the Alt + F4 keys",
+      "B": "clicking the X button on the title bar",
+      "C": "choosing exit from the file menu drop down box",
+      "D": "selecting the close from the file menu drop down dialogue box"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57315?exam_type=waec&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "22",
+    "text": "The feature in a database application that acts as an interface between the user and the database is called a?",
+    "options": {
+      "A": "query",
+      "B": "report",
+      "C": "form",
+      "D": "table"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57326?exam_type=waec&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "23",
+    "text": "Planning and creating websites are stages in?",
+    "options": {
+      "A": "web analysis",
+      "B": "web maintenance",
+      "C": "web design",
+      "D": "web publishing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57327?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "24",
+    "text": "The type of data entered into a table in database follow a set of rules known as?",
+    "options": {
+      "A": "protocols",
+      "B": "regulators",
+      "C": "algorithms",
+      "D": "constraints"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57330?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "25",
+    "text": "Which of the following drawing tools would create special effects for texts?",
+    "options": {
+      "A": "Smart Art",
+      "B": "Shape tool",
+      "C": "Textbox",
+      "D": "Word Art"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57335?exam_type=waec&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "26",
+    "text": "The study of the effect of interaction between the computer and human users is referred to as computer",
+    "options": {
+      "A": "ergonomy",
+      "B": "economy",
+      "C": "ergophobia",
+      "D": "biomechanics"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57336?exam_type=waec&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "27",
+    "text": "In MS Powerpoint, the action of holding down the left mouse key and moving the mouse around the slide would",
+    "options": {
+      "A": "highlight an item",
+      "B": "drag an item",
+      "C": "select an item",
+      "D": "move an item"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57353?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "Dragging is the term used when we press and hold the left mouse key and move the mouse around the slide. As we drag, a shadow object shows us where the object will land when we release the mouse button.",
+    "year": "2015"
+  },
+  {
+    "number": "28",
+    "text": "A file kept in case of an accident or natural disaster is called",
+    "options": {
+      "A": "master",
+      "B": "transition",
+      "C": "back-up",
+      "D": "reference"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57358?exam_type=waec&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "29",
+    "text": "Which of the following is not a preventive maintenance measure?",
+    "options": {
+      "A": "Regular update of the operating system",
+      "B": "Proper shut down of the system",
+      "C": "use of uninterrupted power supply",
+      "D": "data recovery"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57360?exam_type=waec&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "30",
+    "text": "Which of the following is not a safety equipment in a computer laboratory?",
+    "options": {
+      "A": "surge protector",
+      "B": "metal detector",
+      "C": "smoke detector",
+      "D": "fore extinguisher"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57362?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "31",
+    "text": "Which of the following is not a computer professional?",
+    "options": {
+      "A": "Network Administrator",
+      "B": "Web Master",
+      "C": "System Analyst",
+      "D": "File Manager"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57366?exam_type=waec&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "Computer professionals are individuals employed in the field of information technology, for example, hardware or software engineers, web designers, network or database administrators, computer science instructors, computer repair technicians, etc.",
+    "year": "2015"
+  },
+  {
+    "number": "32",
+    "text": "The following are desturctive software except",
+    "options": {
+      "A": "drivers",
+      "B": "worms",
+      "C": "trojan horses",
+      "D": "logic bomb"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57368?exam_type=waec&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "33",
+    "text": "The type of file organisation in a DVD-ROM is?",
+    "options": {
+      "A": "direct access",
+      "B": "sequential",
+      "C": "serial",
+      "D": "hierarchical"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57370?exam_type=waec&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "34",
+    "text": "Which of these measures would not secure data in database?",
+    "options": {
+      "A": "Encryption",
+      "B": "Data integration",
+      "C": "Personal Identification Number",
+      "D": "Username and passwords"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57373?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "35",
+    "text": "The diagram illustrates the relationship between two tables in a database.\nThe student ID in Tables II is referred to as",
+    "options": {
+      "A": "primary key",
+      "B": "foriegn key",
+      "C": "normal key",
+      "D": "composite key"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57426?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "B. foreign key\nThis is because it links to the primary key (student ID) in Table I, establishing a relationship between the two tables.",
+    "year": "2015"
+  },
+  {
+    "number": "36",
+    "text": "The diagram illustrates the relationship between two tables in a database.\n\u00a0\nWhat type of relationship exists between Tables I and II?",
+    "options": {
+      "A": "one to one",
+      "B": "three to four",
+      "C": "four to three",
+      "D": "one to many"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57430?exam_type=waec&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "A one-to-many relationship is the most common kind of relationship. In this kind of relationship, a row in table A can have many matching rows in table B. But a row in table B can have only one matching row in table A.\u00a0 A one-to-many relationship is created if only one of the related columns is a primary key or has a unique constraint.",
+    "year": "2015"
+  },
+  {
+    "number": "37",
+    "text": "A program developed to protect the computer from malicious software is referred to as",
+    "options": {
+      "A": "trojan",
+      "B": "driver",
+      "C": "antivirus",
+      "D": "spyware"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57433?exam_type=waec&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "Antivirus software, or anti-virus software, also known as anti-malware, is a computer program used to prevent, detect, and remove malware.",
+    "year": "2015"
+  },
+  {
+    "number": "38",
+    "text": "One of the advantages of a parallel database is",
+    "options": {
+      "A": "data sharing",
+      "B": "data security",
+      "C": "faster processing of data",
+      "D": "uniform memory access"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57438?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2015"
+  },
+  {
+    "number": "39",
+    "text": "In a relational database management system, files are organized as relations and",
+    "options": {
+      "A": "tuple",
+      "B": "modules",
+      "C": "tables",
+      "D": "forms"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57443?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "A tuple, also known as a record or row, is a basic unit of data in a relational database management system (DBMS). A tuple represents a single instance of a relation, or table, in the database. Each tuple contains a set of values, or attributes, that correspond to the columns, or fields, of the relation.",
+    "year": "2015"
+  },
+  {
+    "number": "40",
+    "text": "The exchange of information over a network follows a set of rules called",
+    "options": {
+      "A": "transmission rules",
+      "B": "transfer rules",
+      "C": "channels rules",
+      "D": "protocols"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/57450?exam_type=waec&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "Protocol, in computer science,\u00a0a set of rules or procedures for transmitting data between electronic devices, such as computers.",
+    "year": "2015"
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1120",
+    "text": "If N112.00 exchanges for D14.95, calculate the value of D1.00 in naira",
+    "options": {
+      "A": "0.13",
+      "B": "7.49",
+      "C": "8.00",
+      "D": "13.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36628?exam_type=waec&type=obj&page=224",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1121",
+    "text": "Solve for x in the equation; \\(\\frac{3}{5}\\)(2x - 1) = \\(\\frac{1}{4}\\)(5x - 3)",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36629?exam_type=waec&type=obj&page=225",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1122",
+    "text": "Given that cos xo = \\(\\frac{1}{r}\\), express tan x in terms of r",
+    "options": {
+      "A": "\\(\\frac{1}{\\sqrt{r}}\\)",
+      "B": "\\(\\sqrt{r}\\)",
+      "C": "\\(\\sqrt{r^2 + 1}\\)",
+      "D": "\\(\\sqrt{r^2 - 1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36631?exam_type=waec&type=obj&page=225",
+    "correct_answer": "D",
+    "explanation": "o\n2\n2\n2\no",
+    "year": "2011"
+  },
+  {
+    "number": "1123",
+    "text": "Solve the equation; 3x - 2y = 7, x + 2y = -3",
+    "options": {
+      "A": "x = 1, y = -2",
+      "B": "x = 1, y = 3",
+      "C": "x = -2, y = -1",
+      "D": "x = 4, y = -3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36632?exam_type=waec&type=obj&page=225",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1124",
+    "text": "If a number is chosen at random from the set {x: 4 \\(\\leq x \\leq 15\\)}. Find the probability that it is a multiple of 3 or a multiple of 4",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{5}{12}\\)",
+      "C": "\\(\\frac{7}{12}\\)",
+      "D": "\\(\\frac{11}{12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36633?exam_type=waec&type=obj&page=225",
+    "correct_answer": "A",
+    "explanation": "set = 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15multiples of 3 = 6, 9, 12, 15multiples of 4 = 4, 8, 12Prob(multiples of 3 or 4) = Prob(multiple of 3) + pro(multiple of 4) - pro(3\u22294)= \\(\\frac{4}{12} + \\frac{3}{12} = \\frac{7}{12} - \\frac{1}{2}\\) = \\(\\frac{4 + 3 - 1}{12}\\)\n= \\(\\frac{1}{2}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "1125",
+    "text": "One of the factors of (mn - nq - n\\(^2\\) + mq) is (m - n). The other factor is?",
+    "options": {
+      "A": "(n - q)",
+      "B": "(q - n)",
+      "C": "(n + q)",
+      "D": "(q - m)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36639?exam_type=waec&type=obj&page=225",
+    "correct_answer": "C",
+    "explanation": "mn - nq - n\\(^2\\)\u00a0+ mqmn - n\\(^2\\)\u00a0- nq + mq(mn - n\\(^2\\)) (mq - nq)n(m - n) +\u00a0q(m\u00a0- n)= (n +q) (m - n)",
+    "year": "2011"
+  },
+  {
+    "number": "1126",
+    "text": "A cylindrical container has a base radius of 14cm and height 18cm. How many litres of liquid can it hold?  correct to the nearest litre [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "11",
+      "B": "14",
+      "C": "16",
+      "D": "18"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36640?exam_type=waec&type=obj&page=226",
+    "correct_answer": "A",
+    "explanation": "3\n3\n3",
+    "year": "2011"
+  },
+  {
+    "number": "1127",
+    "text": "A regular polygon of n sides has each exterior angle to 45o. Find the value of n",
+    "options": {
+      "A": "6",
+      "B": "8",
+      "C": "12",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36641?exam_type=waec&type=obj&page=226",
+    "correct_answer": "B",
+    "explanation": "o\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1128",
+    "text": "Esther was facing S 20\u00b0 W. She turned 90\u00b0 in the clock wise direction. What direction is she facing?",
+    "options": {
+      "A": "N 70o W",
+      "B": "S 70o W",
+      "C": "N 20o W",
+      "D": "S 20o E"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36642?exam_type=waec&type=obj&page=226",
+    "correct_answer": "A",
+    "explanation": "The bearing S 20\u00b0 W is equivalent to a bearing of 200\u00b0.\nMoving clockwise 90\u00b0\u00a0\u21d2 200\u00b0 + 90\u00b0\n= 290\u00b0\nThis is equivalent to N 70\u00b0 W.",
+    "year": "2011"
+  },
+  {
+    "number": "1129",
+    "text": "The cross section section of a uniform prism is a right-angled triangle with sides 3cm. 4cm and 5cm. If its length is 10cm. Calculate the total surface area",
+    "options": {
+      "A": "142cm2",
+      "B": "132cm2",
+      "C": "122cm2",
+      "D": "112cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36647?exam_type=waec&type=obj&page=226",
+    "correct_answer": "B",
+    "explanation": "2\n2",
+    "year": "2011"
+  },
+  {
+    "number": "1130",
+    "text": "From the equation whose roots are x = \\(\\frac{1}{2}\\) and -\\(\\frac{2}{3}\\)",
+    "options": {
+      "A": "6x2 - x + 2 = 0",
+      "B": "6x2 - x - 2 = 0",
+      "C": "6x2 + x + 2 = 0",
+      "D": "6x2 + x - 2 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36650?exam_type=waec&type=obj&page=226",
+    "correct_answer": "D",
+    "explanation": "2\n2",
+    "year": "2011"
+  },
+  {
+    "number": "1131",
+    "text": "Simplify \\(\\frac{\\log \\sqrt{27}}{\\log \\sqrt{81}}\\)",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{3}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36651?exam_type=waec&type=obj&page=227",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1132",
+    "text": "Which of these angles can be constructed using ruler and a pair of compasses only?",
+    "options": {
+      "A": "115o",
+      "B": "125o",
+      "C": "135o",
+      "D": "145o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36652?exam_type=waec&type=obj&page=227",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1133",
+    "text": "The perimeter of a sector of a circle of radius 4cm is (\\(\\pi + 8\\))cm. Calculate the anle of the sector",
+    "options": {
+      "A": "45o",
+      "B": "60o",
+      "C": "75o",
+      "D": "90o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36653?exam_type=waec&type=obj&page=227",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1134",
+    "text": "The length of a piece of stick is 1.75m. A girl measured it as 1.80m. Find the percentage error",
+    "options": {
+      "A": "\\(\\frac{28}{7}\\)%",
+      "B": "\\(\\frac{29}{7}\\)%",
+      "C": "5%",
+      "D": "\\(\\frac{20}{7}\\)%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36654?exam_type=waec&type=obj&page=227",
+    "correct_answer": "D",
+    "explanation": "Error = 1.80m - 1.75m = 0.05m%error = \\(\\frac{\\text{error}}{\\text{true measurement}}\\) x 100%\n%error = \\(\\frac{ 0.05}{ 1.75}\\times100\\)\n%error = \\(\\frac{20}{7}\\)% or 2.86%",
+    "year": "2011"
+  },
+  {
+    "number": "1135",
+    "text": "What is the value of 3 in the number 42.7531?",
+    "options": {
+      "A": "\\(\\frac{3}{10000}\\)",
+      "B": "\\(\\frac{3}{1000}\\)",
+      "C": "\\(\\frac{3}{100}\\)",
+      "D": "\\(\\frac{1}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36664?exam_type=waec&type=obj&page=227",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1136",
+    "text": "The height of a cylinder is equal to its radius. If the volume is 0.216 \\(\\pi\\) m\\(^3\\). Calculate the radius.",
+    "options": {
+      "A": "0.46m",
+      "B": "0.60m",
+      "C": "0.87m",
+      "D": "1.80m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36665?exam_type=waec&type=obj&page=228",
+    "correct_answer": "B",
+    "explanation": "volume of cylinder = \\(\\pi r^2\\)h0.216\\(\\pi\\) m\\(^3\\) = \\(\\pi \\times r^2 \\times h\\)Since r = h,0.216 = r\\(^3\\)r\\(^3\\)\u00a0= 0.216r = \\(\\sqrt[3]{0.216}\\)= 0.6",
+    "year": "2011"
+  },
+  {
+    "number": "1137",
+    "text": "The height of a cylinder is equal to its radius. If the volume is 0.216 \\(\\pi m^3\\) Calculate the radius.",
+    "options": {
+      "A": "0.46m",
+      "B": "0.60m",
+      "C": "0.87m",
+      "D": "1.80m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36668?exam_type=waec&type=obj&page=228",
+    "correct_answer": "B",
+    "explanation": "volume of cylinder = \\(\\pi r^2\\)h0.216\\(\\pi m^3 = \\pi \\times r^2 \\times h\\)But\u00a0h = r, pi cancels piThen, 0.216 = r\\(^3\\)r\\(^3\\)\u00a0= 0.216r = \\(\\sqrt[3]{0.216}\\)= 0.60m",
+    "year": "2011"
+  },
+  {
+    "number": "1138",
+    "text": "What is the value of 3 in the number 42.7531?",
+    "options": {
+      "A": "\\(\\frac{3}{10000}\\)",
+      "B": "\\(\\frac{3}{1000}\\)",
+      "C": "\\(\\frac{3}{100}\\)",
+      "D": "\\(\\frac{1}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36669?exam_type=waec&type=obj&page=228",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1139",
+    "text": "Factorize the expression: am + bn - an - bm",
+    "options": {
+      "A": "(a - b)(m + n)",
+      "B": "(a - b)(m - n)",
+      "C": "(a + b)(m - n)",
+      "D": "(a + b)(m + n)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36671?exam_type=waec&type=obj&page=228",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1140",
+    "text": "The graph represents the relation y = xo2 - 3x - 3. Find the value of x for which x2 - 3x = 7",
+    "options": {
+      "A": "-1.55, 4.44",
+      "B": "1.55, -4.55",
+      "C": "-1.55, -4.55",
+      "D": "1.55, 4.55"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36674?exam_type=waec&type=obj&page=228",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n2",
+    "year": "2011"
+  },
+  {
+    "number": "1141",
+    "text": "Simplify \\(\\frac{m}{n} + \\frac{(m - 1)}{5n} = \\frac{(m - 2)}{10n}\\) where n \\(\\neq\\) 0",
+    "options": {
+      "A": "\\(\\frac{m - 3}{10n}\\)",
+      "B": "\\(\\frac{11m}{10n}\\)",
+      "C": "\\(\\frac{m + 1}{10n}\\)",
+      "D": "\\(\\frac{11m + 4}{10n}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36676?exam_type=waec&type=obj&page=229",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1142",
+    "text": "If \\(\\sqrt{72} + \\sqrt{32} - 3 \\sqrt{18} = x \\sqrt{8}\\), Find the value of x",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36677?exam_type=waec&type=obj&page=229",
+    "correct_answer": "C",
+    "explanation": "\\(\\sqrt{2} + \\sqrt{32} - 3\\sqrt{18} = x\\sqrt{8}\\)= \\(\\sqrt{36 \\times 2} + \\sqrt{16 \\times 2} - 3\\sqrt{2 \\times 9}\\)= x\\(\\sqrt{2 \\times 4}\\)= 6\\(\\sqrt{2} + 4\\sqrt{2} - 9\\sqrt{2} = 2 \\times \\sqrt{2}\\)\\(\\sqrt{2} (6 + 4 - 9) = 2x\\sqrt{2}\\)\\(\\sqrt{2} = 2x \\sqrt{2}\\) divide both sides by \\(\\sqrt{2}\\)\\(\\frac{\\sqrt{2}}{\\sqrt{2}} = \\frac{ 2x\\sqrt{2}}{\\sqrt{2}}\\)1 = 2x2x = 1x = \\(\\frac{1}{2}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "1143",
+    "text": "G varies directly as the square of H, If G is 4 when H is 3, find H when G = 100",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "75",
+      "D": "225"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36678?exam_type=waec&type=obj&page=229",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n2",
+    "year": "2011"
+  },
+  {
+    "number": "1144",
+    "text": "Given that n(p) = 19, m(P \\(\\cup\\) Q) = 38 and n(P \\(\\cap\\) Q) = 7, Find n(C)",
+    "options": {
+      "A": "26",
+      "B": "31",
+      "C": "36",
+      "D": "50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36679?exam_type=waec&type=obj&page=229",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1145",
+    "text": "What must be added to (2x - 3y) to get (x -\u00a02y)?",
+    "options": {
+      "A": "5y - x",
+      "B": "y - x",
+      "C": "x - 5x",
+      "D": "x - y"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36681?exam_type=waec&type=obj&page=229",
+    "correct_answer": "B",
+    "explanation": "What must be added to 2x - 3y = Difference between x - 2y and 2x - 3yx - 2y - 2y - (2x - 3y); x - 2y - 2x + 3y= x - 2x + 3y - 2y= y - x",
+    "year": "2011"
+  },
+  {
+    "number": "1146",
+    "text": "Simplify 1\\(\\frac{3}{4} - (2 \\frac{1}{3} + 4)\\)",
+    "options": {
+      "A": "3\\(\\frac{5}{12}\\)",
+      "B": "2\\(\\frac{7}{12}\\)",
+      "C": "-4 \\(\\frac{7}{12}\\)",
+      "D": "-5 \\(\\frac{7}{12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36682?exam_type=waec&type=obj&page=230",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1147",
+    "text": "Find the smaller value of x that satisfies the equation x\\(^2\\) + 7x + 10 = 0",
+    "options": {
+      "A": "-5",
+      "B": "-2",
+      "C": "2",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36685?exam_type=waec&type=obj&page=230",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\) + 7x + 10 = 0x2 + 5x + 2x + 10 = 0x(x + 5) + 2(x + 5) = 0(x + 2)(x + 5) = 0x + 2 = 0 or x + 5 = 0x = -2 or x = -5the smaller value x = -5",
+    "year": "2011"
+  },
+  {
+    "number": "1148",
+    "text": "The perpendicular bisectors of the sides of an acute-angled triangle are drawn. Which of these statements is correct? They intersect",
+    "options": {
+      "A": "on one of the vertices",
+      "B": "at a midpoint of a side",
+      "C": "inside the triangle",
+      "D": "outside the triangle"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36686?exam_type=waec&type=obj&page=230",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1149",
+    "text": "A rectangular garden measures 18.6m by 12.5m. Calculate, correct to three significant figures, the area of the garden",
+    "options": {
+      "A": "230m2",
+      "B": "231m2",
+      "C": "232m2",
+      "D": "233m2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36687?exam_type=waec&type=obj&page=230",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2",
+    "year": "2011"
+  },
+  {
+    "number": "1150",
+    "text": "John pours 96 litres of red oil into a rectangular container with length 220cm and breadth 40cm. Calculate, correct to the nearest cm, the height of the oil in the container",
+    "options": {
+      "A": "11cm",
+      "B": "18cm",
+      "C": "21cm",
+      "D": "34cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36688?exam_type=waec&type=obj&page=230",
+    "correct_answer": "A",
+    "explanation": "volume of rectangular container = L x B x H1 litre = 1000cm396 litres = \\(\\frac{1000cm^3}{1 litres}\\) x 96 litresvolume = 96000cm396000 = 220 x 4096--- = 8800HH = \\(\\frac{96000}{8800}\\)= 10.97cm= 11cm",
+    "year": "2011"
+  },
+  {
+    "number": "1151",
+    "text": "John pours 96 litres of red oil into a rectangular container with length 220cm and breadth 40cm. Calculate, correct to the nearest cm, the height of the oil in the container",
+    "options": {
+      "A": "11cm",
+      "B": "18cm",
+      "C": "21cm",
+      "D": "34cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36689?exam_type=waec&type=obj&page=231",
+    "correct_answer": "A",
+    "explanation": "3\n3",
+    "year": "2011"
+  },
+  {
+    "number": "1152",
+    "text": "in a quiz competition, a student answers n questions correctly and was given D(n + 50) for each question correctly answered. If he gets D600.00 altogether, how many questions did he answer correctly?",
+    "options": {
+      "A": "18",
+      "B": "15",
+      "C": "12",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36690?exam_type=waec&type=obj&page=231",
+    "correct_answer": "D",
+    "explanation": "2",
+    "year": "2011"
+  },
+  {
+    "number": "1153",
+    "text": "If 27x = 9y. Find the value of \\(\\frac{x}{y}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "1\\(\\frac{1}{2}\\)",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36691?exam_type=waec&type=obj&page=231",
+    "correct_answer": "B",
+    "explanation": "x\ny\n3x\n2y",
+    "year": "2011"
+  },
+  {
+    "number": "1154",
+    "text": "a boy looks through a window of a building and sees a mango fruit on the ground 50m away from the foot of the building. If the window is 9m from the ground, calculate, correct to the nearest degree, the angle of depression of the mango from the window",
+    "options": {
+      "A": "9o",
+      "B": "10o",
+      "C": "11o",
+      "D": "12o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36692?exam_type=waec&type=obj&page=231",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1155",
+    "text": "The diagram shows a cyclic quadrilateral PQRS with its diagonals intersecting at K. Which of the following triangles is similar to triangle QKR?",
+    "options": {
+      "A": "\\(\\bigtriangleup\\) PQK",
+      "B": "\\(\\bigtriangleup\\) PKS",
+      "C": "\\(\\bigtriangleup\\) SKR",
+      "D": "\\(\\bigtriangleup\\) PSR"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36698?exam_type=waec&type=obj&page=231",
+    "correct_answer": "B",
+    "explanation": "It is angle PKS, angles in the same segment. Therefore,\u00a0PKS is congruent with QKR",
+    "year": "2011"
+  },
+  {
+    "number": "1156",
+    "text": "In the diagram, PO and OR are radii, |PQ| = |QR| and reflex < PQR is 240o. Calculate the value x",
+    "options": {
+      "A": "60o",
+      "B": "55o",
+      "C": "50o",
+      "D": "45o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36699?exam_type=waec&type=obj&page=232",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1157",
+    "text": "Find the size of the angle marked x in the diagram.",
+    "options": {
+      "A": "108o",
+      "B": "112o",
+      "C": "128o",
+      "D": "142o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36702?exam_type=waec&type=obj&page=232",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1158",
+    "text": "The histogram shows the age distribution of members of a club. How many members are in the club?",
+    "options": {
+      "A": "52",
+      "B": "50",
+      "C": "48",
+      "D": "40"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36703?exam_type=waec&type=obj&page=232",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1159",
+    "text": "The histogram shows the age distribution of members of a club. What is their modal age?",
+    "options": {
+      "A": "44.5",
+      "B": "42.5",
+      "C": "41.5",
+      "D": "40.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36704?exam_type=waec&type=obj&page=232",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1160",
+    "text": "In the diagram, /MN/, /OP/, /QOP/ = 125o. What is the size of < MQR?",
+    "options": {
+      "A": "11o",
+      "B": "120o",
+      "C": "130o",
+      "D": "160o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36708?exam_type=waec&type=obj&page=232",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1161",
+    "text": "The graph represents the relation y = x\\(^2\\) - 3x - 3. What is the equation of the line of symmetry of the graph?",
+    "options": {
+      "A": "y = 0.5",
+      "B": "x = 1.0",
+      "C": "x = 1.5",
+      "D": "y = 4.6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36709?exam_type=waec&type=obj&page=233",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1162",
+    "text": "from the diagram, Which of the following statements are  true? i. m = q  ii. n = q  iii. n + p = 180o  iv. p + m = 180o",
+    "options": {
+      "A": "i and iii",
+      "B": "i and iv",
+      "C": "ii and iii",
+      "D": "ii and ic"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36710?exam_type=waec&type=obj&page=233",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1163",
+    "text": "In the diagram, STUV is a straight line. < TSY = < UXY = 40o and < VUW = 110o. Calculate < TYW",
+    "options": {
+      "A": "150o",
+      "B": "140o",
+      "C": "130o",
+      "D": "120o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36716?exam_type=waec&type=obj&page=233",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1164",
+    "text": "The venn diagram shows the number of students in a class who like reading(R), dancing(D) and swimming(S). How many students like dancing and swimming?",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "11",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36720?exam_type=waec&type=obj&page=233",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2011"
+  },
+  {
+    "number": "1165",
+    "text": "In the diagram /Pq//TS//TU, reflex angle QPS = 245o angle PST = 115o, , STU = 65o and < RPS = x. Find the value of x",
+    "options": {
+      "A": "80o",
+      "B": "70o",
+      "C": "60o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36721?exam_type=waec&type=obj&page=233",
+    "correct_answer": "D",
+    "explanation": "o\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1166",
+    "text": "In the diagram /Pq//TS//TU, reflex angle QPS = 245o angle PST = 115o, , STU = 65o and < RPS = x. Find the value of x",
+    "options": {
+      "A": "80o",
+      "B": "70o",
+      "C": "60o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36724?exam_type=waec&type=obj&page=234",
+    "correct_answer": "D",
+    "explanation": "o\no\no",
+    "year": "2011"
+  },
+  {
+    "number": "1506",
+    "text": "Using the cumulative frequency curve, estimate the median of the data represented on the graph.",
+    "options": {
+      "A": "35.5",
+      "B": "36.5",
+      "C": "37.5",
+      "D": "38.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54930?exam_type=waec&type=obj&page=302",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1507",
+    "text": "Using the cumulative frequency curve. What is the 80th percentile?",
+    "options": {
+      "A": "45.5",
+      "B": "46.5",
+      "C": "47.5",
+      "D": "48.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/54931?exam_type=waec&type=obj&page=302",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  }
+]

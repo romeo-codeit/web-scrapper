@@ -1,0 +1,562 @@
+[
+  {
+    "number": "359",
+    "text": "The Stepped Reckoner was developed by",
+    "options": {
+      "A": "Gottfied Leibnitz.",
+      "B": "Herman Hollerith",
+      "C": "John Von Neumann",
+      "D": "William Schickard"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72329?exam_type=waec&type=obj&page=72",
+    "correct_answer": "A",
+    "explanation": "The stepped Reckoner was developed by Gottfried Whichelm Leibnitz.",
+    "year": "2024"
+  },
+  {
+    "number": "360",
+    "text": "The binary number 100101, can be written in denary as",
+    "options": {
+      "A": "25",
+      "B": "37",
+      "C": "45",
+      "D": "211"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72330?exam_type=waec&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "\\(1^40^40^30^20^11^0_2\u00a0= (1x2^2)+(1x2^2)+(1x2^0) = 32+4+1 = 37_{10}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "361",
+    "text": "The first stage in computer data processing procedure is",
+    "options": {
+      "A": "collection of data",
+      "B": "communication of information.",
+      "C": "conversion of data",
+      "D": "manipulation of data"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72333?exam_type=waec&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "The first stage in computer data processing\u00a0is the collection of data, which will be worked on.",
+    "year": "2024"
+  },
+  {
+    "number": "362",
+    "text": "One advantage of electronic data processing is that it",
+    "options": {
+      "A": "involves special skill",
+      "B": "deals only with simple data.",
+      "C": ". is completely error-free",
+      "D": "handles complex data"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72334?exam_type=waec&type=obj&page=73",
+    "correct_answer": "D",
+    "explanation": "Electronic data processing can be used to handle complex and cumbersome data that would be impossible manually.",
+    "year": "2024"
+  },
+  {
+    "number": "363",
+    "text": "The type of computer\u00a0that has the ability of counting in discrete form\u00a0is referred to as",
+    "options": {
+      "A": "analogue computer",
+      "B": "digital computer",
+      "C": "hybrid computer",
+      "D": "versatile computer"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72335?exam_type=waec&type=obj&page=73",
+    "correct_answer": "B",
+    "explanation": "Digital computer counts in discrete form.Analog computer counts incontinuousform.Hybrid computer is a combination of both.",
+    "year": "2024"
+  },
+  {
+    "number": "364",
+    "text": "One reason for using Computer Aided Design in manufacturing is that",
+    "options": {
+      "A": "it uses few system resources",
+      "B": "manufacturing time is reduced.",
+      "C": "designers do not need training to use it",
+      "D": "3D designs are easily produced with it."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72336?exam_type=waec&type=obj&page=73",
+    "correct_answer": "D",
+    "explanation": "Computer - Aided Design systems are capable of creating complex 3D\u00a0models, simulations, and visualizations which significantly impacts manufacturing.",
+    "year": "2024"
+  },
+  {
+    "number": "365",
+    "text": "Which one of the following statements is true about Voice Over IP? it",
+    "options": {
+      "A": "converts voice and video data into a digital signal and transfers it over the Internet.",
+      "B": "converts voice and video data into a digital signal and broedcasts it via a transmitter.",
+      "C": "is a voice over communication system which is cyber-attack proof",
+      "D": "is a circuit-switched data communication system."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72337?exam_type=waec&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "Voice over IP converts voice and video data into a digital signal and transfers it over the Internet.",
+    "year": "2024"
+  },
+  {
+    "number": "366",
+    "text": "Which one of the following sets of devices can be used to store data during processing?",
+    "options": {
+      "A": "Cache, RAM and Register",
+      "B": "Cache, Register and ROM",
+      "C": "Flash Drive, ROM and Hard Disk Drive",
+      "D": "RAM, Register and Zip Drive"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72338?exam_type=waec&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "During processing, the cache, RAM and registers are used to store data.",
+    "year": "2024"
+  },
+  {
+    "number": "367",
+    "text": "The process of inspecting, transforming and modeling data to get useful information is known as",
+    "options": {
+      "A": "collation",
+      "B": "interpretation",
+      "C": "execution",
+      "D": "analysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72339?exam_type=waec&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "Data Analysis is the process of in- specting, transforming and modelling data get useful information.",
+    "year": "2024"
+  },
+  {
+    "number": "368",
+    "text": "One disadvantage of using computer for information processing is",
+    "options": {
+      "A": "need for staff retraining",
+      "B": "increased running cost in the long run",
+      "C": "the increase in storage space",
+      "D": "redundancy of computers in the long run."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72340?exam_type=waec&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "Computers require ongoing maintenance, software updates, hardware upgrades and potential repairs leading to increased running cost in the long run.",
+    "year": "2024"
+  },
+  {
+    "number": "369",
+    "text": "The diagram in Figure 1 illustrates process called",
+    "options": {
+      "A": "information processing",
+      "B": "information transmission",
+      "C": "modulation",
+      "D": "synchronization"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72341?exam_type=waec&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "The process is known as information transmission.",
+    "year": "2024"
+  },
+  {
+    "number": "370",
+    "text": "The transmitter in communication is the component that",
+    "options": {
+      "A": "decodes sender's signal by interpretation",
+      "B": "encodes interpreted data by using machine language",
+      "C": "broadcasts synchronous signals",
+      "D": "launches signal into the air"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72342?exam_type=waec&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "The transmitter launches the signal into the air where it can be received by a receiver.",
+    "year": "2024"
+  },
+  {
+    "number": "371",
+    "text": "Which of the following resources is not usually shared in a network?",
+    "options": {
+      "A": "VGA projector",
+      "B": "Laserjet printer",
+      "C": "Folder",
+      "D": "File"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72343?exam_type=waec&type=obj&page=75",
+    "correct_answer": "A",
+    "explanation": "Unlike folders, files and printers, a VGA projector is not typically shared in a network.",
+    "year": "2024"
+  },
+  {
+    "number": "372",
+    "text": "Factors to be considered when creating a backup system in a computer network include",
+    "options": {
+      "A": "amount of RAM, amount of data and time of backup",
+      "B": "amount of RAM, type of data and frequency of backup",
+      "C": "media to use, amount of data and frequency of backup.",
+      "D": "media to use, type of data and time of backup."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72344?exam_type=waec&type=obj&page=75",
+    "correct_answer": "C",
+    "explanation": "The media to use, backup frequency and amount of data directly impact the effectiveness and reliability of the backup system, ensuring proper projection and retrieval of data, when needed.",
+    "year": "2024"
+  },
+  {
+    "number": "373",
+    "text": "The URL www.exams.edu.ng represents the website of",
+    "options": {
+      "A": "an examination body",
+      "B": "a Nigerian-based learning institution",
+      "C": "an educational inctitution in Niger",
+      "D": "a research institution in Niger"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72345?exam_type=waec&type=obj&page=75",
+    "correct_answer": "A",
+    "explanation": "The URLwww.exams.edu.ngrepresentsthe website of an examination body in Nigeria.",
+    "year": "2024"
+  },
+  {
+    "number": "374",
+    "text": "The Post Ofice Protocol (POP) is used to",
+    "options": {
+      "A": "interconnect devices on the Internet",
+      "B": "retrieve email from a mail server",
+      "C": "transfer file from a server to a client",
+      "D": "send email from one user to another."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72346?exam_type=waec&type=obj&page=75",
+    "correct_answer": "B",
+    "explanation": "The Post Office Protocol (POP) is an application-layer Internet standard protocol used by email clients to re- trieve e-mail from a mail server.",
+    "year": "2024"
+  },
+  {
+    "number": "375",
+    "text": "A user working on a computer that is running on Windows 7 issued the com- mand \"Ctrl + Alt + Del\" while typing a document.\nWhat interface is expected to be displayed on the screen?",
+    "options": {
+      "A": "Restart Windows",
+      "B": "Shut Down Windows",
+      "C": "Windows Security",
+      "D": "Windows Task"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72347?exam_type=waec&type=obj&page=75",
+    "correct_answer": "C",
+    "explanation": "Ctrl+Alt+Del loads the Windows security interface which provides options\u00a0to: I. lock the computer II. switch user III. Sign out IV. Open task manage",
+    "year": "2024"
+  },
+  {
+    "number": "376",
+    "text": "Header and Footer are added to a document\u00a0in MS Word by just clicking on the",
+    "options": {
+      "A": "Edit menu",
+      "B": "Format menu",
+      "C": "Insert menu",
+      "D": "View menu"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72348?exam_type=waec&type=obj&page=76",
+    "correct_answer": "C",
+    "explanation": "The Internet menu tab can be used to add a header and footer to a document in MS word.",
+    "year": "2024"
+  },
+  {
+    "number": "377",
+    "text": "A typist positioned the insertion point at the beginning of a line of text in a word processor and then pressed down the Shift key and clicked at the opposite\u00a0end of the text. What would be the result of this action? The\u00a0text will be",
+    "options": {
+      "A": "copied into the clipboard.",
+      "B": "cut into the clipboard.",
+      "C": "deleted from the storage.",
+      "D": "highlighted on the screen."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72349?exam_type=waec&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "This action highlights the line of text on the Screen",
+    "year": "2024"
+  },
+  {
+    "number": "378",
+    "text": "The Microsoft Excel menu bar icon shown in Figure 2 is used to",
+    "options": {
+      "A": "automatically add tup selected values",
+      "B": "create label that spans multiple columns",
+      "C": "spot trends and patterns in user's data using bars, columns and icons",
+      "D": "organize data for easy analysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72350?exam_type=waec&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "This icon is the sort and filter icon. It is used to organize data for easy analysis.",
+    "year": "2024"
+  },
+  {
+    "number": "379",
+    "text": "To add a new column to the right of the IGR column on the interface in the figure above, the user would.",
+    "options": {
+      "A": "right click on cell Cl snf thrn click on insert",
+      "B": "right click on cell Dl and then click on user",
+      "C": "right click on column C and then click on insert",
+      "D": "right click on column D and the click on user"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72351?exam_type=waec&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "Right-click on the column to the\u00a0RIGHT of where you want the new column to be inserted, which is column D in this case and then click on insert.",
+    "year": "2024"
+  },
+  {
+    "number": "380",
+    "text": "The function of the foreign key in a database is to",
+    "options": {
+      "A": "uniquely identify tuples in a table",
+      "B": "provide a link between data in two tables",
+      "C": "uniquely identify an entity occurrence",
+      "D": "uniquely identify each record in a table"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72352?exam_type=waec&type=obj&page=76",
+    "correct_answer": "B",
+    "explanation": "The foreign key exists to provide a link between data in two tables.",
+    "year": "2024"
+  },
+  {
+    "number": "381",
+    "text": "How many primary keys exist in the figure above?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72353?exam_type=waec&type=obj&page=77",
+    "correct_answer": "A",
+    "explanation": "A primary key is a field that uniquely identifies each record. In this scenario, there are 3 primary keys in total: cus- tomerld, oderld, productld.",
+    "year": "2024"
+  },
+  {
+    "number": "382",
+    "text": "Which of the following lists contains the primary keys in the figure above?",
+    "options": {
+      "A": "Customers, Orders, and Products",
+      "B": "Customerld, Orderld, Productld.",
+      "C": "CustomerId, FirstName, LastName and DateCreated",
+      "D": "Customers, CustomerId, FirstName, LastName, and DateCreated"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72354?exam_type=waec&type=obj&page=77",
+    "correct_answer": "B",
+    "explanation": "customerld, orderld, productld.",
+    "year": "2024"
+  },
+  {
+    "number": "383",
+    "text": "Web design packages include the following, except",
+    "options": {
+      "A": "Macromedia Dreamweaver",
+      "B": "iWeb",
+      "C": "Front page",
+      "D": "Adobe pagemaker"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72355?exam_type=waec&type=obj&page=77",
+    "correct_answer": "D",
+    "explanation": "Macromedia Dreamweaver, iWeb, and FrontPage are all web design or web development tools used for creating and managing websites. Adobe PageMaker, however, is a desktop publishing software used mainly for creating print-based layouts, such as brochures, newsletters, and magazines, rather than for web design.",
+    "year": "2024"
+  },
+  {
+    "number": "384",
+    "text": "The part labelled\u00a0IV in the image above is used to",
+    "options": {
+      "A": "shape objects",
+      "B": "select and transform objects",
+      "C": "draw lines and curves",
+      "D": "create texts"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72360?exam_type=waec&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "The part labelled IV is the curve tool.\u00a0It is used to draw lines, curves, and shapes.",
+    "year": "2024"
+  },
+  {
+    "number": "385",
+    "text": "One precautionary measure taken when cleaning a monitor is",
+    "options": {
+      "A": "covering the monitor with antiglare",
+      "B": "cleaning the monitor with alcohol",
+      "C": "unplugging the power supply cable",
+      "D": "using a vacuum cleaner to dust the monitor casing"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72361?exam_type=waec&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "For any electronic device, always unplug the power supply cable before cleaning.",
+    "year": "2024"
+  },
+  {
+    "number": "386",
+    "text": "Which one of the following practices is considered ethical?",
+    "options": {
+      "A": "Gaining access into school database to change one's grades",
+      "B": "Gaining access into government database to alter personal details",
+      "C": "Logging into a friend's social media account to read inbox messages",
+      "D": "Signing into school e-library to read e-books"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72362?exam_type=waec&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "Ethical practice is the application of a good moral principles and values to guide decision-making and behaviour Only option D here satisfies that.",
+    "year": "2024"
+  },
+  {
+    "number": "387",
+    "text": "Proper network implementation and good ICT policies are types of",
+    "options": {
+      "A": "adaptive measures",
+      "B": "corrective measures",
+      "C": "perfective measures",
+      "D": "preventive measures"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72363?exam_type=waec&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "Proper network implementation and good ICT policies aim to prevent security incidents from happening in the first place, hence preventive measures.",
+    "year": "2024"
+  },
+  {
+    "number": "388",
+    "text": "Preventive maintenance measures in the computer room include the following options except",
+    "options": {
+      "A": "good ventilation",
+      "B": "proper illumination",
+      "C": "the use of rugs",
+      "D": "the use of tiles"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72364?exam_type=waec&type=obj&page=78",
+    "correct_answer": "C",
+    "explanation": "Use of rugs in the computer room is not recommended as rugs can generate static electricity which can damage sensitive computer equipment. They can also trap moisture leading to humidity issues and have poor heat dissipation.",
+    "year": "2024"
+  },
+  {
+    "number": "389",
+    "text": "A database administrator is responsible\u00a0for the following tasks except",
+    "options": {
+      "A": "controlling and monitoring user access to the database",
+      "B": "enrolling users and maintaining system security",
+      "C": "maintaining archived data",
+      "D": "maintaining connection between local network and the network and the internet"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72365?exam_type=waec&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "A database administrator is not typically\u00a0responsible for maintaining the connection between a local network and the Internet.",
+    "year": "2024"
+  },
+  {
+    "number": "390",
+    "text": "Measures taken to avoid eye strain include the following except",
+    "options": {
+      "A": "adjusting the brightness of the monitor",
+      "B": "adjust\u0131ng the height of the screen",
+      "C": "blinking of eyes often",
+      "D": "relaxing the body regularly."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72366?exam_type=waec&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "Relaxing the body regularly is not directly a measure to avoid eye strain",
+    "year": "2024"
+  },
+  {
+    "number": "391",
+    "text": "A computer virus replicates itself into other programs or certain areas on the disk during the",
+    "options": {
+      "A": "dormant phase.",
+      "B": "execution phase",
+      "C": "propagation phase",
+      "D": "trigger phase."
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72368?exam_type=waec&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "During the propagation phase, a computer\u00a0virus\u2022 identifies potential targets (e.g. executive files, boot sectors),\u2022 copies its code into the target program or area\u2022 modifies the target to execute the virus code",
+    "year": "2024"
+  },
+  {
+    "number": "392",
+    "text": "A malware that copies and replicates itself using computer network and security flaws is",
+    "options": {
+      "A": "Rootkit virus",
+      "B": "Spyware",
+      "C": "Trojan horse",
+      "D": "Worm"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72370?exam_type=waec&type=obj&page=79",
+    "correct_answer": "D",
+    "explanation": "\u2022 A wom is a malware that copies and replicates itself using network and security flaws\u2022A spyware is a malware that secretly monitors and collects information about a user's activities\u2022 A trojan horse is a malware that disguises as a legitimate program or file but actually contains malicious code designed to harm your computer or steal your data.\u2022A rootkit virus is a malware that hides itself and other malwares from the system software, allowing them to persist and cause harm without being detected.",
+    "year": "2024"
+  },
+  {
+    "number": "393",
+    "text": "The entities in the figure above are named",
+    "options": {
+      "A": "RegNo, Name and Age",
+      "B": "Musa, Uche and Bayo",
+      "C": "Student and Subject",
+      "D": "Maths, Eng and DP"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72371?exam_type=waec&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "An entity is a table or collection of data that represents a real-world object or concept. Student and subject are\u00a0entities.",
+    "year": "2024"
+  },
+  {
+    "number": "394",
+    "text": "Which one of the following statements is true about database tables?",
+    "options": {
+      "A": "All the tables in a database have a common name",
+      "B": "A table may contain repeating groups",
+      "C": "Entries in a column are from different domains based on datatype",
+      "D": "There are no duplicate rows in a table"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72373?exam_type=waec&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "Entries in a column are from different domains based on datatype.",
+    "year": "2024"
+  },
+  {
+    "number": "395",
+    "text": "The major difference between serial and sequential files is that sequential files are",
+    "options": {
+      "A": "given a key",
+      "B": "sorted in a particular order",
+      "C": "stored as they come",
+      "D": "recorded in any storage medium"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72374?exam_type=waec&type=obj&page=79",
+    "correct_answer": "B",
+    "explanation": "Sequential files are sorted in a particular\u00a0order while serial files are simply stored one after the other.",
+    "year": "2024"
+  },
+  {
+    "number": "396",
+    "text": "Which one of the following pairs contains computer file classification?",
+    "options": {
+      "A": "Master file and serial file",
+      "B": "Random file and master file",
+      "C": "Reference file and random file",
+      "D": "Transaction file and master file"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72375?exam_type=waec&type=obj&page=80",
+    "correct_answer": "D",
+    "explanation": "A master file is a permanent file while transaction file is a temporary file used to update the master file.",
+    "year": "2024"
+  },
+  {
+    "number": "397",
+    "text": "Which of the following statements supports the goals of data backup?\nI. Need for duplication II. Need for future reference III. Protection against data loss",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72376?exam_type=waec&type=obj&page=80",
+    "correct_answer": "C",
+    "explanation": "Need for duplication is not the primary\u00a0goal of data backup, but rather. Duplication is a means to achieve data backup.",
+    "year": "2024"
+  },
+  {
+    "number": "398",
+    "text": "Which of the following characteristics is associated with the architecture of parallel database?",
+    "options": {
+      "A": "Communication cost and problems cannot be ignored",
+      "B": "Machines can be far from each other",
+      "C": "Machines are physically close to each other",
+      "D": "It is usually associated with shared-nothing architecture"
+    },
+    "answer_url": "https://myschool.ng/classroom/data-processing/72377?exam_type=waec&type=obj&page=80",
+    "correct_answer": "D",
+    "explanation": "Shared-nothing architecture is a key characteristic of parallel databases.",
+    "year": "2024"
+  }
+]

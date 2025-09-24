@@ -1,0 +1,687 @@
+[
+  {
+    "number": "150",
+    "text": "The first calculating device is the?",
+    "options": {
+      "A": "Abacus",
+      "B": "Census machine",
+      "C": "Difference engine",
+      "D": "Napier bones."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62329?exam_type=waec&type=obj&page=30",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "151",
+    "text": "Which of the following represents features of a computer?\nI. It is constructed from electronics components.\nII. It has self regeneration capability.\nIlI. It has facility for storage of data and programs.\nIV. It has provision for input and output data.",
+    "options": {
+      "A": "I, Il and ll only",
+      "B": "I, II and IV only",
+      "C": "I, IIl and IV only",
+      "D": "II, Ill and IV only."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62330?exam_type=waec&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "I. It is constructed from electronic components. IlI. It has a facility for the storage of data and programs. IV. It has provisions for input and output data; represent the features of a computer except\u00a0II. It has self-regeneration capability.",
+    "year": "2016"
+  },
+  {
+    "number": "152",
+    "text": "Arrange in a hierarchical order by date, the following\u00a0inventions: I. slide rule; Il. pascaline; IIl, analytical engine; v. difference engine.",
+    "options": {
+      "A": "I, lI, IV and llI",
+      "B": "II, IV, and Il",
+      "C": "III, IV, II and I",
+      "D": "I, II, IIl and IV."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62331?exam_type=waec&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "I.Slide rule, II. Pascaline, IV.difference engine, and III. Analytical engine",
+    "year": "2016"
+  },
+  {
+    "number": "153",
+    "text": "Which of the following is true about raw data?",
+    "options": {
+      "A": "It is well categorized",
+      "B": "It exists in oral form only",
+      "C": "It exists in written form only",
+      "D": "It cannot be relied on to make decision."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62332?exam_type=waec&type=obj&page=31",
+    "correct_answer": "D",
+    "explanation": "Raw data refers to unprocessed or unorganized data that hasn't undergone any analysis or transformation. It is often messy and lacks context. Therefore, it cannot be relied upon to make informed decisions without further processing, analysis, and interpretation.",
+    "year": "2016"
+  },
+  {
+    "number": "154",
+    "text": "Which of the following was used by Joseph Marie Jacquad in inventing the Loom?",
+    "options": {
+      "A": "Punched card",
+      "B": "Smart card",
+      "C": "Smart chip",
+      "D": "Sound card."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62333?exam_type=waec&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "Joseph Marie Jacquard used punched cards to invent the Jacquard Loom. The punched card was used to control the weaving of patterns in the fabric, making it an early example of a programmable machine.",
+    "year": "2016"
+  },
+  {
+    "number": "155",
+    "text": "Which generation of computers used vaccum tubes in their circuitry?",
+    "options": {
+      "A": "First generation",
+      "B": "Second generation",
+      "C": "Third generation",
+      "D": "Fourth generation."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62334?exam_type=waec&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "156",
+    "text": "The full meaning of the acronym ENIAC is?",
+    "options": {
+      "A": "Electronic Numerical Integrator and Calculator.",
+      "B": "Electronic Numerical Integrator and Computer",
+      "C": "Electronic Numerical Integration Automatic Calculator",
+      "D": "Electronic Numerical Integrated Automatic Calculator"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62335?exam_type=waec&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "The acronym ENIAC(also known as The Giant Brain)\u00a0stands for \"Electronic Numerical Integrator and Computer.\" It was one of the earliest electronic general-purpose computers, developed during World War II and completed in 1945.",
+    "year": "2016"
+  },
+  {
+    "number": "157",
+    "text": "The primary memory of the computer can be divided into?",
+    "options": {
+      "A": "register and random access\u00a0memory",
+      "B": "mass\u00a0storage and read only memory",
+      "C": "volatile memory and auxiliary memory",
+      "D": "random access memory and read only memory."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62336?exam_type=waec&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "158",
+    "text": "A common communication pathway shared by hard- ware components in the computer is\u00a0called?",
+    "options": {
+      "A": "bus",
+      "B": "channel",
+      "C": "firmware",
+      "D": "register."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62337?exam_type=waec&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "159",
+    "text": "Which of the following can be described as the brain of the computer hardware?",
+    "options": {
+      "A": "BIOS",
+      "B": "microprocessor",
+      "C": "RAM chip",
+      "D": "system clock"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62338?exam_type=waec&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "Thecomputer brainis a microprocessor called the central processing unit (CPU). The CPU is a chip containing millions of tiny transistors. It's the CPU's job to perform the calculations necessary to make thecomputerwork -- the transistors in the CPU manipulate the data.",
+    "year": "2016"
+  },
+  {
+    "number": "160",
+    "text": "Which of the following is not a computer output device?",
+    "options": {
+      "A": "Disk",
+      "B": "Plotter",
+      "C": "Printer",
+      "D": "Speaker"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62339?exam_type=waec&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "161",
+    "text": "Data to be processed by the microprocessor is temporarily stored in the?",
+    "options": {
+      "A": "auxiliary storage",
+      "B": "backing storage",
+      "C": "main storage",
+      "D": "random access memory."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62340?exam_type=waec&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "Random access memory (RAM)(temporary storage)\u00a0is computer hardware that temporarily stores data that can be quickly accessed by the computer's processor.",
+    "year": "2016"
+  },
+  {
+    "number": "162",
+    "text": "The smallest unit of information representation which is addressable on the computer memory is?",
+    "options": {
+      "A": "1 bit",
+      "B": "2 bits",
+      "C": "4 bits",
+      "D": "8 bits"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62341?exam_type=waec&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "163",
+    "text": "Software is referred to as the?",
+    "options": {
+      "A": "generic term for computer programs",
+      "B": "physical components of the computer",
+      "C": "part of the computer for communication",
+      "D": "part of the computer which is breakable."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62342?exam_type=waec&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "164",
+    "text": "The software whose output is intended for the human user is called?",
+    "options": {
+      "A": "application software",
+      "B": "malware",
+      "D": "system software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62343?exam_type=waec&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "165",
+    "text": "The parts of the taskbar include: I recycle bin Il start button lII system tray IV quick launch toolbar",
+    "options": {
+      "A": "I, I and IV only",
+      "B": "I, Ill and IV only",
+      "C": "II, Il and IV only",
+      "D": "I, II, III\u00a0and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62344?exam_type=waec&type=obj&page=33",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "166",
+    "text": "The similarities between main memory and registers is that they are: I volatile Il under the direct control of the user ll protected by the system unit lIV for system\nuse only?",
+    "options": {
+      "A": "I, II\u00a0and IV only",
+      "B": "I, Ill and IV only",
+      "C": "II, Ill and IV only",
+      "D": "I, I, Ill and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62345?exam_type=waec&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "167",
+    "text": "A pictorial representation of the logic of a program is called?",
+    "options": {
+      "A": "diagram",
+      "B": "flowchart",
+      "C": "pseudo code",
+      "D": "software"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62346?exam_type=waec&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "A flowchart is a pictorial representation depicting the flow of steps in a program or business process in an organization. A flowchart can often be used to show the program structure, logic flow, and operations performed that form an important part of the documentation of the system; subsequently, it enables us to trace and detect any logical or other errors before the programs are written.",
+    "year": "2016"
+  },
+  {
+    "number": "168",
+    "text": "A subroutine is called in a flowchart through the use of?",
+    "options": {
+      "A": "data",
+      "B": "predefined process",
+      "C": "process",
+      "D": "terminator"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62347?exam_type=waec&type=obj&page=34",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "169",
+    "text": "The symbol used to represent an execution flow in a flowchart is?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62348?exam_type=waec&type=obj&page=34",
+    "correct_answer": "D",
+    "explanation": ".",
+    "year": "2016"
+  },
+  {
+    "number": "170",
+    "text": "A suitable BASIC notation for the expression mc\\(^2\\) is?",
+    "options": {
+      "A": "m *\u00a0c^2",
+      "B": "m *\u00a0c * 2",
+      "C": "m * c",
+      "D": "m\u00a0* c *\u00a0\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62409?exam_type=waec&type=obj&page=34",
+    "correct_answer": "A",
+    "explanation": "The expression mc\\(^2\\) is a mathematical expression that represents the product of m and the square of c. In programming, the ^ symbol is used to denote exponentiation. Therefore, the correct notation for the expression mc2 is m * c^2",
+    "year": "2016"
+  },
+  {
+    "number": "171",
+    "text": "Use the BASIC program below to answer questions 23 to 25\n10 LET K = 2\n20 LET L = 9\n30 LET SUM = 0\n\u00a040 FOR J = K TO STEP 2\n50 SUM = SUM + J\\(^2\\)\n60 PRINT \"ANSWER =\", SUM\n70 NEXT J\n80 END\nHow many times will the statement lines 50 and 60 be repeated?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62410?exam_type=waec&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "172",
+    "text": "Which of the following best represents the sequence of output from the program?",
+    "options": {
+      "A": "2,4",
+      "B": "4, 20, 36",
+      "C": "4, 16, 36, 64",
+      "D": "4, 20, 56, 120"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62411?exam_type=waec&type=obj&page=35",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "173",
+    "text": "Use the BASIC program below to answer this question\n10 \u00a0 \u00a0 LET K = 2\n20 \u00a0 \u00a0 LET L = 9\n30 \u00a0 \u00a0 LET SUM = 0\n40 \u00a0 \u00a0 FOR J = K TO STEP 2\n50 \u00a0 \u00a0 SUM = SUM + J2\n60 \u00a0 \u00a0 PRINT \"ANSWER =\", SUM\n70 \u00a0 \u00a0 NEXT J\n80 \u00a0 \u00a0 END\nThe last output that will be displayed by the program is",
+    "options": {
+      "A": "20",
+      "B": "36",
+      "C": "64",
+      "D": "120"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62412?exam_type=waec&type=obj&page=35",
+    "correct_answer": "D",
+    "explanation": "120",
+    "year": "2016"
+  },
+  {
+    "number": "174",
+    "text": "Which of the following networks can be extended to cover continents?",
+    "options": {
+      "A": "Metropolitan Area Network .",
+      "B": "Personal Area Network",
+      "C": "Wide Area Network",
+      "D": "Wireless Area Network"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62413?exam_type=waec&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "WAN stands for Wide Area Network is a type of computer network that can cover a large geographical area such as a continent, or a country.",
+    "year": "2016"
+  },
+  {
+    "number": "175",
+    "text": "Identify the browsers in the following list:\nI telnet II netscape navigator.ll opera IV mozilla firefox",
+    "options": {
+      "A": "I, lI\u00a0and lll only",
+      "B": "I, ll and IV only",
+      "C": "Il, Ill and IV,only",
+      "D": "I, II, IIl and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62414?exam_type=waec&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "176",
+    "text": "Trap doors and bombs are typical examples of?",
+    "options": {
+      "A": "adware",
+      "B": "computer worms",
+      "C": "firewall",
+      "D": "trojan horses"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62415?exam_type=waec&type=obj&page=36",
+    "correct_answer": "D",
+    "explanation": "A logic bomb is a type of Trojan Horse\u00a0that executes when specific conditions occur.\u00a0\u00a0A trap door is a defect in the computer code that allows malicious actors to exploit the flaw and gain access to valuable information. Trojan Horse \u2013 traps and stores user login credentials, to send to malicious hackers who can use them to log in by impersonating the real and authorized user.\nHENCE, both trap doors and bombs are a type of Trojan Horse.",
+    "year": "2016"
+  },
+  {
+    "number": "177",
+    "text": "The first four steps required to open e-mail account include:\nI click on \"Create my account\"\nII go to home page of the service provider\nlll click \"create new account\"\nIV click on \"mail\"",
+    "options": {
+      "A": "I, II, IV and III",
+      "B": "I, II,\u00a0IV and Il",
+      "C": "II, IV, Ill and I",
+      "D": "IV, II, I, and Ill."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62416?exam_type=waec&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "The correct sequence to open an email account is: II - go to home page of the service provider, IV - click on \"Mail\", III - click create \"New Account\", I - click on \"Create my account\". This sequence ensures that you are on the correct platform (service provider), you are in the correct section (Mail), you are initiating the correct action (creating a new account), and finally confirming the action (Create my account).",
+    "year": "2016"
+  },
+  {
+    "number": "178",
+    "text": "The two main components of a radio communication system are?",
+    "options": {
+      "A": "transmitter and terminal",
+      "B": "receiver and determinator",
+      "C": "transmitter and receiver",
+      "D": "transmitter and terminator."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62418?exam_type=waec&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "179",
+    "text": "Which of the following can a traveler who finds himself in a new environment rely on for direction to his final destination?",
+    "options": {
+      "A": "DNS",
+      "B": "GPRS",
+      "C": "GPS",
+      "D": "TCP"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62419?exam_type=waec&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "The Global Positioning System (GPS) tells you where you are on Earth.\u00a0Therefore,\u00a0a traveler who finds himself in a new environment can rely on GPS for directions to his final destination.\u00a0GPRS\u00a0(General Packet Radio Service) is a system within the\u00a0GSM\u00a0network (telephone) that makes it possible to send and receive more information faster.",
+    "year": "2016"
+  },
+  {
+    "number": "180",
+    "text": "The default number of sheets of a workbook is?",
+    "options": {
+      "A": "one",
+      "B": "two",
+      "C": "three",
+      "D": "four"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62420?exam_type=waec&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "The default number of sheets in a new workbook in Microsoft Excel is typically three. However, it's worth noting that this can be adjusted in the software settings, and different versions may have variations.",
+    "year": "2016"
+  },
+  {
+    "number": "181",
+    "text": "The chart type that does not have the X and Y axis display is the?",
+    "options": {
+      "A": "area chart",
+      "B": "bar chart",
+      "C": "pie chart",
+      "D": "scatter diagram"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62421?exam_type=waec&type=obj&page=37",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "182",
+    "text": "When a worksheet is deleted from a workbook, it is?",
+    "options": {
+      "A": "lost forever",
+      "B": "sent to the recycle bin",
+      "C": "sent to the original folder",
+      "D": "stored permanently in main memory."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62422?exam_type=waec&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "183",
+    "text": "A block of text that is marked by the tab key when the enter key is pressed can be referred to as?",
+    "options": {
+      "A": "margin",
+      "B": "paragraph",
+      "C": "white space",
+      "D": "word wrap"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62423?exam_type=waec&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "A block of text that is marked by the tab key when the enter key is pressed is referred to as a \"paragraph\". In word processing, a paragraph is a unit of text consisting of one or more sentences that are separated from other paragraphs by a blank line or indentation.",
+    "year": "2016"
+  },
+  {
+    "number": "184",
+    "text": "Principal uses of word processing software packages include:\nI preparing deft articles for publication\nll pre- paring reports for top management\nIll preparing accounts\nIV preparing organizations' newsletter.",
+    "options": {
+      "A": "I, III\u00a0and IV only",
+      "B": "I, II and IV only",
+      "C": "II, III and IV only",
+      "D": "I, II, IIl, and IV."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62424?exam_type=waec&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "The principal uses of word-processing software packages include: I - Preparing draft articles for publication, II - Preparing reports for top management, IV - Preparing the organization's newsletter",
+    "year": "2016"
+  },
+  {
+    "number": "185",
+    "text": "In a database, a primary key is a field which contains?",
+    "options": {
+      "A": "text only",
+      "B": "unique entries",
+      "C": "duplicate values",
+      "D": "numeric value only."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62425?exam_type=waec&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "186",
+    "text": "One megabyte is equivalent to?",
+    "options": {
+      "A": "one million bytes",
+      "B": "two million bytes",
+      "C": "three million bytes",
+      "D": "four million bytes"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62426?exam_type=waec&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "One megabyte is equivalent to one million bytes.",
+    "year": "2016"
+  },
+  {
+    "number": "187",
+    "text": "Converting 4B7\\(_16\\)\u00a0to binary?",
+    "options": {
+      "A": "0100 1010 0111",
+      "B": "0100 1011 0111,",
+      "C": "0100 1000 0111,",
+      "D": "0100 1100 0111"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62427?exam_type=waec&type=obj&page=38",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "188",
+    "text": "The speed of data transfer in the computer can be determined in terms of ?",
+    "options": {
+      "A": "protocol and bus speed",
+      "B": "bus speed and width",
+      "C": "bus speed and storage media",
+      "D": "bus width and storage media."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62428?exam_type=waec&type=obj&page=38",
+    "correct_answer": "C",
+    "explanation": "Bus speed and storage media are two factors that determine the speed of data transfer in a computer.\u00a0Bus speed refers to the speed at which data is transferred between the various components of a computer system, such as the CPU, RAM, and other devices connected to the motherboard.\u00a0A higher bus speed generally means faster data transfer and improved performance",
+    "year": "2016"
+  },
+  {
+    "number": "189",
+    "text": "The initial screen that is displayed after a computer booting is referred to as?",
+    "options": {
+      "A": "desktop",
+      "B": "interface",
+      "C": "software",
+      "D": "taskbar"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62429?exam_type=waec&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "190",
+    "text": "Which of the following is not a biometric data?",
+    "options": {
+      "A": "finger prints",
+      "B": "password",
+      "C": "pattern of eye iris",
+      "D": "sound of the voice."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62430?exam_type=waec&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "191",
+    "text": "The main advantage of intellectual property right is?",
+    "options": {
+      "A": "maximization of profit",
+      "B": "discovering of brilliant persons",
+      "C": "discovering of sharing",
+      "D": "encouragement of innovations."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62431?exam_type=waec&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "192",
+    "text": "The word bit refers to?",
+    "options": {
+      "A": "the value zero or one",
+      "B": "the value zero of more",
+      "C": "central processing unit command",
+      "D": "central processing unit instructions."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62432?exam_type=waec&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "193",
+    "text": "The decimal number 1024 in hexadecimal equivalent is?",
+    "options": {
+      "A": "24",
+      "B": "400",
+      "C": "3E8",
+      "D": "8BB"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62433?exam_type=waec&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "Divide the decimal number 1024 by 16: 1024 \u00f7 16 = 64 with a remainder of 0Divide the quotient (64) by 16: 64 \u00f7 16 = 4 with a remainder of 0Divide the new quotient (4) by 16: 4 \u00f7 16 = 0 with a remainder of 4Write down the remainder in reverse order: 0 0 4\nThus, the hexadecimal equivalent of the decimal number 1024 is 400",
+    "year": "2016"
+  },
+  {
+    "number": "194",
+    "text": "Which of the following is true of a digital logic gate?\n.",
+    "options": {
+      "A": "It has at least two inputs but only one output.",
+      "B": "It has many outputs and inputs.",
+      "C": "It has at least one or more inputs but only one output.",
+      "D": "It has at least one input and two outputs"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62434?exam_type=waec&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "195",
+    "text": "Which of the following is a temporary file that can be used only once and then discarded?",
+    "options": {
+      "A": "Refresh file",
+      "B": "Master file",
+      "C": "System file",
+      "D": "Transaction file"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62435?exam_type=waec&type=obj&page=39",
+    "correct_answer": "D",
+    "explanation": "A transaction file is a temporary file that is used to store data that will be used to update the master file. The transaction file is used only once and then discarded after the update process. So, the correct answer is 'transaction file'.",
+    "year": "2016"
+  },
+  {
+    "number": "196",
+    "text": "Sorting of records is sufficient and a necessary condition for creating?",
+    "options": {
+      "A": "random file",
+      "B": "indirect file",
+      "C": "sequential file",
+      "D": "indexed sequential file."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62436?exam_type=waec&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "197",
+    "text": "The illegal copying and use of proprietary/copy righted software is called?",
+    "options": {
+      "A": "hacking",
+      "B": "spamming",
+      "C": "hardware piracy",
+      "D": "software piracy."
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62437?exam_type=waec&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "198",
+    "text": "Symptoms of computer virus attack include:\nI improved processing speeds; Il drive light coming up without apparent reason; Ill unexplainable printer activity; IV the disappearance or strange files appearance on the screen",
+    "options": {
+      "A": "l, Il and Ill only",
+      "B": "I, Ill and IV only",
+      "C": "II, IIl, and IV only",
+      "D": "I, II, Ill and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/computer-studies/62438?exam_type=waec&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "Symptoms of a computer virus attack often include drive light coming up without apparent reason, unexplainable printer activity, and file disappearance or strange files appearing on-screen. Improved processing speed\u00a0is not a typical symptom of a virus attack, a virus usually slows down the computer.",
+    "year": "2016"
+  }
+]
