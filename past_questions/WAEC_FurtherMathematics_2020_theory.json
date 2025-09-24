@@ -1,0 +1,137 @@
+[
+  {
+    "number": "247",
+    "text": "A binary operation * is defined on the set of real numbers R, by p*q = p + q - \\(\\frac{pq}{2}\\), where p, q \\(\\in\\) R. Find the:\n(a) inverse of\u00a0-1 under * given that the identity clement is zero.\n(b) truth set of m*\u00a07 = m* 5,",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59739?exam_type=waec&type=theory&page=50",
+    "correct_answer": "p*e = e*p = p\np + e - \\(\\frac{pe}{2}\\) = p\ne - \\(\\frac{pe}{2}\\) = 0\ne(\\(1 - \\frac{p}{2}\\)) = 0\ne = 0\np*p\\(^{-1}\\) = e\np - p\\(^{-1}\\) - \\(\\frac{pp^{-1}}{2}\\)\u00a0 = 0\np\\(^{-1}\\) - \\(\\frac{pp}{2}\\) = -p\np\\(^{-1}\\) (1 - \\(\\frac{p}{2}\\)) = -p\np\\(^{-1}\\) = \\(\\frac{-p}{1 - \\frac{p}{2}}\\)\nInverse of -1 \\(\\to\\) p = -1\np\\(^{-1}\\) = \\(\\frac{-1}{1 - (\\frac{-1}{2})} = \\frac{-1}{\\frac{3}{2}}\\)\n= \\(\\frac{-2}{3}\\)\n(b) m*7 = m + 7 - \\(\\frac{7m}{2}\\), m*5 = m + 5 - \\(\\frac{5m}{2}\\)\nm*7 = m*5, m + 7 - \\(\\frac{7m}{2}\\) = m + 5 - \\(\\frac{5m}{2}\\)\n7 - 5 = -\\(\\frac{5m}{2} + \\frac{7m}{2}\\)\n2 = \\(\\frac{2m}{2}\\)\nm = 2",
+    "explanation": "p*e = e*p = p\np + e - \\(\\frac{pe}{2}\\) = p\ne - \\(\\frac{pe}{2}\\) = 0\ne(\\(1 - \\frac{p}{2}\\)) = 0\ne = 0\np*p\\(^{-1}\\) = e\np - p\\(^{-1}\\) - \\(\\frac{pp^{-1}}{2}\\)\u00a0 = 0\np\\(^{-1}\\) - \\(\\frac{pp}{2}\\) = -p\np\\(^{-1}\\) (1 - \\(\\frac{p}{2}\\)) = -p\np\\(^{-1}\\) = \\(\\frac{-p}{1 - \\frac{p}{2}}\\)\nInverse of -1 \\(\\to\\) p = -1\np\\(^{-1}\\) = \\(\\frac{-1}{1 - (\\frac{-1}{2})} = \\frac{-1}{\\frac{3}{2}}\\)\n= \\(\\frac{-2}{3}\\)\n(b) m*7 = m + 7 - \\(\\frac{7m}{2}\\), m*5 = m + 5 - \\(\\frac{5m}{2}\\)\nm*7 = m*5, m + 7 - \\(\\frac{7m}{2}\\) = m + 5 - \\(\\frac{5m}{2}\\)\n7 - 5 = -\\(\\frac{5m}{2} + \\frac{7m}{2}\\)\n2 = \\(\\frac{2m}{2}\\)\nm = 2",
+    "year": "2020"
+  },
+  {
+    "number": "248",
+    "text": "(a) Two functions p and q are defined on the set of real numbers, R, by p : y \\(\\to\\) 2y +3 and q : y -> y - 2. Find QOP\n(b) How many four digits odd numbers greater than 4000 can be formed from 1,7,3,8,2 if repetition is allowed?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59740?exam_type=waec&type=theory&page=50",
+    "correct_answer": "P(y) = 2y + 3, q(y) = y\\(^2\\) - 2\nq \\(\\cap\\) p = qp(y)\n= q(2y + 3)\n= (2y + 3)\\(^3\\) - 2\n= 4xy\\(^2\\) + 12y + 9 - 2\n= 4y\\(^2\\) + 12y + 7\n(b)\nNo. of ways = 2 x 5 x 5 x 5\n= 250 ways",
+    "explanation": "P(y) = 2y + 3, q(y) = y\\(^2\\) - 2\nq \\(\\cap\\) p = qp(y)\n= q(2y + 3)\n= (2y + 3)\\(^3\\) - 2\n= 4xy\\(^2\\) + 12y + 9 - 2\n= 4y\\(^2\\) + 12y + 7\n(b)\nNo. of ways = 2 x 5 x 5 x 5\n= 250 ways",
+    "year": "2020"
+  },
+  {
+    "number": "249",
+    "text": "Evaluate; \\(\\int^3_1(3x - 2)^5 dx\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59741?exam_type=waec&type=theory&page=50",
+    "correct_answer": "\\(\\int^3_1(3x - 2)^5 dx\\)\nLet u = 3x - 2\n\\(\\frac{du}{dx}\\) = 3\ndx = \\(\\frac{dy}{3}\\)\n\\(\\int^3_1(3x - 2)^5 dx\\) =\u00a0\\(\\int^7_1 \\frac{u^5}{3} du\\)\n= \\(\\frac{u^{5 + 1}}{3(5 + 1)}|^7_1\\)\n= \\(\\frac{u^5}{18}|^7_1\\)\n= \\(\\frac{7^6}{18} = \\frac{1^6}{18}\\)\n= \\(\\frac{7^6 - 1}{18}\\)\n= \\(\\frac{117649}{18}\\)\n= 6536",
+    "explanation": "\\(\\int^3_1(3x - 2)^5 dx\\)\nLet u = 3x - 2\n\\(\\frac{du}{dx}\\) = 3\ndx = \\(\\frac{dy}{3}\\)\n\\(\\int^3_1(3x - 2)^5 dx\\) =\u00a0\\(\\int^7_1 \\frac{u^5}{3} du\\)\n= \\(\\frac{u^{5 + 1}}{3(5 + 1)}|^7_1\\)\n= \\(\\frac{u^5}{18}|^7_1\\)\n= \\(\\frac{7^6}{18} = \\frac{1^6}{18}\\)\n= \\(\\frac{7^6 - 1}{18}\\)\n= \\(\\frac{117649}{18}\\)\n= 6536",
+    "year": "2020"
+  },
+  {
+    "number": "250",
+    "text": "If \\(\\frac{3x^2 + 3x - 2}{(x - 1)(x + 1)}\\) = P + \\(\\frac{Q}{x - 1} + \\frac{R}{x - 1}\\)\u00a0\nFind the value of Q and R",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59742?exam_type=waec&type=theory&page=50",
+    "correct_answer": "\\(\\frac{3x^2 + 3x - 2}{(x - 1)(x + 1)}\\) = P + \\(\\frac{Q}{x - 1} + \\frac{R}{x - 1}\\)\nLong division\n\\(x^2 - 1\\)33x\\(^2\\) + 3x - 2-(3x\\(^2\\) - 3x)\\(\\overline{6x - 2}\\)\n\\(\\frac{6x^{-2}}{(x - 1)(x + 1)}\\)\n= \\(\\frac{Q}{x - 1} + \\frac{R}{x + 1}\\)\n6x - 2 = Q (x + 1) + R(x - 1)\nLet x = -1\n6(-1) - 2 = Q(-1 + 1) + R (-1 - 1)\n-6 - 2 = -2R\n\\(\\frac{-8}{-2} = \\frac{-2R}{-2}\\)\nR = 4\nFrom 6x - 2 = Q(x - 1) + R(x - 1)\nLet x = 1\n6(1) - 2 = Q(1 + 1) + R(1 - 1)\n6 - 2 = 2Q\n\\(\\frac{4}{2} = \\frac{2Q}{2}\\)\n= Q = 2",
+    "explanation": "\\(\\frac{3x^2 + 3x - 2}{(x - 1)(x + 1)}\\) = P + \\(\\frac{Q}{x - 1} + \\frac{R}{x - 1}\\)\nLong division\n\\(x^2 - 1\\)33x\\(^2\\) + 3x - 2-(3x\\(^2\\) - 3x)\\(\\overline{6x - 2}\\)\n\\(\\frac{6x^{-2}}{(x - 1)(x + 1)}\\)\n= \\(\\frac{Q}{x - 1} + \\frac{R}{x + 1}\\)\n6x - 2 = Q (x + 1) + R(x - 1)\nLet x = -1\n6(-1) - 2 = Q(-1 + 1) + R (-1 - 1)\n-6 - 2 = -2R\n\\(\\frac{-8}{-2} = \\frac{-2R}{-2}\\)\nR = 4\nFrom 6x - 2 = Q(x - 1) + R(x - 1)\nLet x = 1\n6(1) - 2 = Q(1 + 1) + R(1 - 1)\n6 - 2 = 2Q\n\\(\\frac{4}{2} = \\frac{2Q}{2}\\)\n= Q = 2",
+    "year": "2020"
+  },
+  {
+    "number": "251",
+    "text": "Marks\n10 - 19\n20 - 29\n30 - 39\n40 - 49\n50 - 59\n60 - 69\n70 - 79\n80 - 89\n90 - 99\n\n\nFrequency\u00a0\n2\n2\n2\n8\n13\n11\n12\n10\n4\n\n\n\nThe table shows the distribution of marks scored by 64 students in a test\n(a) Draw a histogram for the distribution.\n(b) Use the histogram to estimate the modal score.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59744?exam_type=waec&type=theory&page=51",
+    "correct_answer": "Class intervalsFClass boundaries10 - 1929.5 - 19.520 - 29219.5 - 29.530 - 39229.5 - 39.540 - 49839.5 - 49.550 - 591349.5 - 59.560 - 691159.5 - 69.570 - 791269.5 - 79.580 - 891079.5 - 89.590 - 99489.5 - 99.5\n(b) The model score = 57",
+    "explanation": "Class intervalsFClass boundaries10 - 1929.5 - 19.520 - 29219.5 - 29.530 - 39229.5 - 39.540 - 49839.5 - 49.550 - 591349.5 - 59.560 - 691159.5 - 69.570 - 791269.5 - 79.580 - 891079.5 - 89.590 - 99489.5 - 99.5\n(b) The model score = 57",
+    "year": "2020"
+  },
+  {
+    "number": "252",
+    "text": "(a) A bag contains 10 red and 8 green identical balls. Two balls are drawn at random from the bag, one after the other, without replacement. Find the probability\u00a0that one is red and the other is green.\n(b) There are 20% defective bulbs in a large box. If 12 bulbs are selected randomly from the box, calculate the probability that between two and five are defective.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59746?exam_type=waec&type=theory&page=51",
+    "correct_answer": "No. of red = 10, No of green = 8\nTotal = 18\nP(RG) = P(R) x P(G)\n= \\(\\frac{10}{18} \\times \\frac{8}{17} = \\frac{40}{152}\\)\nP(GR) = P(G) x P(R)\n= \\(\\frac{8}{18} \\times \\frac{10}{17} = \\frac{40}{153}\\)\nP(one red and one green)\n= \\(\\frac{40}{153} + \\frac{40}{153} = \\frac{80}{153}\\)\n(b) P = 20% = \\(\\frac{20}{100}\\) = 0.2\nq = 1 - P = 1 - 0.2 = 0.8\nn = 12\nP(2 \\(\\leq x \\leq 5\\)) = P(5) - P(2)\n= \\(^{12}C_5(0.5)^5 (0.8)^7 - ^{12}C_2(0.2)^2(0.8)^{10}\\)\n= 792 x (0.2)\\(^5\\) (0.8)\\(^7\\) - 65(0.2)\\(^2\\)(0.8)\\(^10\\)\n= 0.04892 - 0.2791\n= 0.2302",
+    "explanation": "No. of red = 10, No of green = 8\nTotal = 18\nP(RG) = P(R) x P(G)\n= \\(\\frac{10}{18} \\times \\frac{8}{17} = \\frac{40}{152}\\)\nP(GR) = P(G) x P(R)\n= \\(\\frac{8}{18} \\times \\frac{10}{17} = \\frac{40}{153}\\)\nP(one red and one green)\n= \\(\\frac{40}{153} + \\frac{40}{153} = \\frac{80}{153}\\)\n(b) P = 20% = \\(\\frac{20}{100}\\) = 0.2\nq = 1 - P = 1 - 0.2 = 0.8\nn = 12\nP(2 \\(\\leq x \\leq 5\\)) = P(5) - P(2)\n= \\(^{12}C_5(0.5)^5 (0.8)^7 - ^{12}C_2(0.2)^2(0.8)^{10}\\)\n= 792 x (0.2)\\(^5\\) (0.8)\\(^7\\) - 65(0.2)\\(^2\\)(0.8)\\(^10\\)\n= 0.04892 - 0.2791\n= 0.2302",
+    "year": "2020"
+  },
+  {
+    "number": "253",
+    "text": "Forces F\\(_1\\)(10N, 090\u00b0) and F\\(_2\\)(20N, 210\\(^o\\)) and (4N,330\u00b0) act on a particle, Find, correct to one decimal place, the magnitude of the resultant force.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59747?exam_type=waec&type=theory&page=51",
+    "correct_answer": "F\\(_1\\) = (10N, 090\\(^o\\)), F\\(_2\\) = (20N, 210\\(^o\\))\nF\\(_3\\) = (4N, 33\\(^o\\))\nF\\(_3\\) component x - axis\n= - 4 cos 60\\(^o\\)\u00a0 = - 2N\nF\\(_2\\) along y - axis\n= 20 x cos 30\\(^o\\) = -1.7320\n\\(\\frac{8N}{-1.732N}\\)\nResultant force\n= \\(\\sqrt{8^2 + (-1.732)^2}\\)\n= \\(\\sqrt{65.999}\\)\n= 8.185N\n= 8.2N",
+    "explanation": "F\\(_1\\) = (10N, 090\\(^o\\)), F\\(_2\\) = (20N, 210\\(^o\\))\nF\\(_3\\) = (4N, 33\\(^o\\))\nF\\(_3\\) component x - axis\n= - 4 cos 60\\(^o\\)\u00a0 = - 2N\nF\\(_2\\) along y - axis\n= 20 x cos 30\\(^o\\) = -1.7320\n\\(\\frac{8N}{-1.732N}\\)\nResultant force\n= \\(\\sqrt{8^2 + (-1.732)^2}\\)\n= \\(\\sqrt{65.999}\\)\n= 8.185N\n= 8.2N",
+    "year": "2020"
+  },
+  {
+    "number": "254",
+    "text": "Given that w = 8i + 3j, x = 6i - 5j, y = 2i + 3j and |z| = 41. find z in the direction of w + x - 2y.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59748?exam_type=waec&type=theory&page=51",
+    "correct_answer": "W = 8i + 3J\nX = 6i - 5J\nY = 2i + 3J\nw + x - 2y = 8i + 3j + 6i - 5j - 2(2i + 3j)\n= 10i - 8j\nZ = \\(\\frac{10i - 8j}{|Z|}\\)\n= \\(\\frac{10i - 8j}{4}\\)\n= \\(\\frac{10i}{4}\\)\n\\(\\frac{8j}{4}\\)\n= \\(\\frac{5}{2}\\)i - 2j",
+    "explanation": "W = 8i + 3J\nX = 6i - 5J\nY = 2i + 3J\nw + x - 2y = 8i + 3j + 6i - 5j - 2(2i + 3j)\n= 10i - 8j\nZ = \\(\\frac{10i - 8j}{|Z|}\\)\n= \\(\\frac{10i - 8j}{4}\\)\n= \\(\\frac{10i}{4}\\)\n\\(\\frac{8j}{4}\\)\n= \\(\\frac{5}{2}\\)i - 2j",
+    "year": "2020"
+  },
+  {
+    "number": "255",
+    "text": "(a) If (x\u00a0+ 2) is a factor of g(x) = 2x\\(^3\\) +11x\\(^2\\) - x - 30, find the zeros of g(x).\n(b) Solve 3(2\\(^x\\)) +3\\(^{y - 2}\\) = 25 and 2x -\u00a03\\(^{y + 1}\\) = -19 simultaneously.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59749?exam_type=waec&type=theory&page=51",
+    "correct_answer": "(a) Using long division\nx + 22x\\(^2\\) + 7x - 152x\\(^3\\) + 11x^2 - x -30-\u00a0 (2x\\(^3\\) + 4x\\(^2\\))\\(\\overline{7^2 - x - 30}\\)- (7x\\(^2\\) + 14x) - 3\\(\\overline{-15x - 30}\\)- 15x - 30\\(\\overline{0}\\)\n(x + 2)(2x\\(^2\\) + 7x - 15)\n(x + 2)(2x - 3)(x - 5)\nzeros of g (x) are;\nx + 2 =0, 2x - 3 = 0\nx + 5 = 0, x = -2\nx = \\(\\frac{5}{2}\\) and x = -5\n(b) 3(2^\\(^x\\)) + 3\\(^{y - 2}\\) = 25 .......x1\n2\\(^x\\) - 3\\(^{y + 1}\\) = -19 .........x3\n3(2\\(^x\\)) + 3\\(^{y - 2}\\) = 25\n3\\(^{y - 2}\\)\u00a0+ 3(3\\(^{y + 1}\\)) = 82\n\\(\\frac{3^y}{9} + \\frac{3^y}{1}\\) = 82\n\\(\\frac{3^y + 9(3^y)}{9}\\) = 82\n3\\(^y\\) + 9(3\\(^y)\\)) = 82 x 9\nlet p = 3y\np + qp = 738\n\\(\\frac{10p}{10} = \\frac{738}{10}\\)\np = 73.8, 3\\(^y\\) = 73.8\nlog3\\(^y\\) = log 73.8\n\\(\\frac{y log 3}{log 3} = \\frac{log 73.8}{\\log 3}\\)\ny = 3.9\nfrom\n2\\(^x\\) + 3\\(^{y + 1}\\) = - 19\n2\\(^x\\) + 3\\(^{3.9\u00a0+ 1}\\) = - 19\n2\\(^x\\) + 3\\(^{4 - 9}\\) = - 19\n2\\(^x\\) -\u00a0217.7 = - 19\n2\\(^x\\) = 198.71\nlog 2\\(^x\\) = log 198.71\n\\(\\frac{x \\log 2}{log 2} = \\frac{log 198.71}{log 2}\\)\nx\u00a0 = 7.6",
+    "explanation": "(a) Using long division\nx + 22x\\(^2\\) + 7x - 152x\\(^3\\) + 11x^2 - x -30-\u00a0 (2x\\(^3\\) + 4x\\(^2\\))\\(\\overline{7^2 - x - 30}\\)- (7x\\(^2\\) + 14x) - 3\\(\\overline{-15x - 30}\\)- 15x - 30\\(\\overline{0}\\)\n(x + 2)(2x\\(^2\\) + 7x - 15)\n(x + 2)(2x - 3)(x - 5)\nzeros of g (x) are;\nx + 2 =0, 2x - 3 = 0\nx + 5 = 0, x = -2\nx = \\(\\frac{5}{2}\\) and x = -5\n(b) 3(2^\\(^x\\)) + 3\\(^{y - 2}\\) = 25 .......x1\n2\\(^x\\) - 3\\(^{y + 1}\\) = -19 .........x3\n3(2\\(^x\\)) + 3\\(^{y - 2}\\) = 25\n3\\(^{y - 2}\\)\u00a0+ 3(3\\(^{y + 1}\\)) = 82\n\\(\\frac{3^y}{9} + \\frac{3^y}{1}\\) = 82\n\\(\\frac{3^y + 9(3^y)}{9}\\) = 82\n3\\(^y\\) + 9(3\\(^y)\\)) = 82 x 9\nlet p = 3y\np + qp = 738\n\\(\\frac{10p}{10} = \\frac{738}{10}\\)\np = 73.8, 3\\(^y\\) = 73.8\nlog3\\(^y\\) = log 73.8\n\\(\\frac{y log 3}{log 3} = \\frac{log 73.8}{\\log 3}\\)\ny = 3.9\nfrom\n2\\(^x\\) + 3\\(^{y + 1}\\) = - 19\n2\\(^x\\) + 3\\(^{3.9\u00a0+ 1}\\) = - 19\n2\\(^x\\) + 3\\(^{4 - 9}\\) = - 19\n2\\(^x\\) -\u00a0217.7 = - 19\n2\\(^x\\) = 198.71\nlog 2\\(^x\\) = log 198.71\n\\(\\frac{x \\log 2}{log 2} = \\frac{log 198.71}{log 2}\\)\nx\u00a0 = 7.6",
+    "year": "2020"
+  },
+  {
+    "number": "256",
+    "text": "(a) Find the derivative of y = x\\(^2\\)\u00a0(1 + x)\\(^{\\frac{3}{2}}\\)\u00a0with respect to x.\n(b) The centre of a circle lies on the line 2y - x = 3. If the circle passes through P(2,3) and Q(6,7), find its equation.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59750?exam_type=waec&type=theory&page=52",
+    "correct_answer": "y = x\\(^2\\)(1 + x)\\(^{\\frac{3}{2}}\\)\nLet u = x\\(^2\\)\nv = (1 + x)\\(^{\\frac{3}{2}}\\)\n\\(\\frac{du}{dx} 2x\\)\n\\(\\frac{dv}{dx} = \\frac{3}{2}\\)(1 + x)\\(^\\frac{1}{2}\\)\n\\(\\frac{dy}{dx} = v\\frac{du}{dx} + u\\frac{dv}{dx}\\)\n= (1 + x)\\(^{\\frac{3}{2}}\\)(2x) + x\\(^2\\)\\(\\frac{3}{2}(1 + x)^{\\frac{1}{2}}\\)\n= 2x(1 + x)\\(^{\\frac{3}{2}}\\) + \\(\\frac{3x^2(1 + x)^{\\frac{1}{2}}}{2}\\)\n(b)\nLet the coordinates of the centre of a circle be C(h,k) which lies on the line\n2y - x = 3 , therefore 2k \u2014 h = 3. \u2026\u2026\u2026\u2026\u2026\u2026..(1).\nThe circle passes through the points P(2,3) and Q(6,7) ,then :\u2014\nCP = CQ = radius of the circle.\nor, (CP)\\(^2\\) = (CQ)\\(^2\\).\nor, (h - 2)\\(^2\\) + (k-3)\\(^2\\) = (h\u00a0 - 6)\\(^2\\) + (k - 7)\\(^2\\).\nor, h\\(^2\\) \u2013 4h + 4 + k\\(^2\\) \u2013 6k + 9 = h\\(^2\\) \u2013 12h + 36 + k\\(^2\\) \u2013 14k + 49.\nor, 8h + 8k = 85 - 13 =\u00a072.\nor, h + k = 9\u2026\u2026\u2026\u2026\u2026\u2026\u2026(2) , from eqn.(1) and (2).\nh = 5, k = 4. Thus the coordinates of the centre of a circle are (5,4).\nRadius (r) = CP = \\(\\sqrt{(5\u20132)^2 + (4 \u2013 3)^2}\\) = \\(\\sqrt{10}\\) units.\nEquation of a circle is:\u2014\n(x - 5)\\(^2\\) + (y - 4)\\(^2\\) = \\(\\sqrt{(10)}^2\\)\nx\\(^2\\) - 10x + 25 + y\\(^2\\) - 8y + 16 = 10\nx\\(^2\\) +\u00a0y\\(^2\\) - 10x - 8y + 25 + 16 - 10 = 0\nx\\(^2\\) +\u00a0y\\(^2\\) - 10x - 8y + 31 = 0",
+    "explanation": "y = x\\(^2\\)(1 + x)\\(^{\\frac{3}{2}}\\)\nLet u = x\\(^2\\)\nv = (1 + x)\\(^{\\frac{3}{2}}\\)\n\\(\\frac{du}{dx} 2x\\)\n\\(\\frac{dv}{dx} = \\frac{3}{2}\\)(1 + x)\\(^\\frac{1}{2}\\)\n\\(\\frac{dy}{dx} = v\\frac{du}{dx} + u\\frac{dv}{dx}\\)\n= (1 + x)\\(^{\\frac{3}{2}}\\)(2x) + x\\(^2\\)\\(\\frac{3}{2}(1 + x)^{\\frac{1}{2}}\\)\n= 2x(1 + x)\\(^{\\frac{3}{2}}\\) + \\(\\frac{3x^2(1 + x)^{\\frac{1}{2}}}{2}\\)\n(b)\nLet the coordinates of the centre of a circle be C(h,k) which lies on the line\n2y - x = 3 , therefore 2k \u2014 h = 3. \u2026\u2026\u2026\u2026\u2026\u2026..(1).\nThe circle passes through the points P(2,3) and Q(6,7) ,then :\u2014\nCP = CQ = radius of the circle.\nor, (CP)\\(^2\\) = (CQ)\\(^2\\).\nor, (h - 2)\\(^2\\) + (k-3)\\(^2\\) = (h\u00a0 - 6)\\(^2\\) + (k - 7)\\(^2\\).\nor, h\\(^2\\) \u2013 4h + 4 + k\\(^2\\) \u2013 6k + 9 = h\\(^2\\) \u2013 12h + 36 + k\\(^2\\) \u2013 14k + 49.\nor, 8h + 8k = 85 - 13 =\u00a072.\nor, h + k = 9\u2026\u2026\u2026\u2026\u2026\u2026\u2026(2) , from eqn.(1) and (2).\nh = 5, k = 4. Thus the coordinates of the centre of a circle are (5,4).\nRadius (r) = CP = \\(\\sqrt{(5\u20132)^2 + (4 \u2013 3)^2}\\) = \\(\\sqrt{10}\\) units.\nEquation of a circle is:\u2014\n(x - 5)\\(^2\\) + (y - 4)\\(^2\\) = \\(\\sqrt{(10)}^2\\)\nx\\(^2\\) - 10x + 25 + y\\(^2\\) - 8y + 16 = 10\nx\\(^2\\) +\u00a0y\\(^2\\) - 10x - 8y + 25 + 16 - 10 = 0\nx\\(^2\\) +\u00a0y\\(^2\\) - 10x - 8y + 31 = 0",
+    "year": "2020"
+  },
+  {
+    "number": "257",
+    "text": "(a) Simplify; \\(\\frac{log_2 ^8 + log_2 ^{16} - 4 log_2 ^2}{log_4^{16}}\\)\n(b) The first, third, and seventh terms of an Arithmetic Progression (A.P) from three consecutive terms of a Geometric Progression (G.P). If the sum of the first two terms of the A.P is 6, find its:\n(I) first term; (ii) common difference.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59751?exam_type=waec&type=theory&page=52",
+    "correct_answer": "\\(\\frac{log_2 ^8 + log_2 ^\u00a0{16} - 4 log_2^ 2}{log_4^{16}}\\)\n= \\(\\frac{3log_2 ^2\u00a0+ 4 log_2^\u00a02\u00a0- 4 log_2 2}{2 log_4^4}\\)\n= \\(\\frac{3 + 4 - 4}{2}\\)\n= \\(\\frac{3}{2}\\)\n(b)\nAPGPT\\(_1\\)T\\(_3\\)T\\(_7\\)T\\(_1\\)T\\(_2\\)T\\(_3\\)\nT\\(_1\\) + T\\(_2\\) = 6\na + a + d = 6\n2a + d = 6.....(i)\na = a\na + 2d = ar, a + 6d = ar\\(^2\\)\n\\(\\frac{a + 2d}{a} = \\frac{a + 6d}{a + 2d}\\)\n(a + 2d)\\(^2\\)\u00a0 = \\(\\frac{a + 6d}{a + 2d}\\)\n(a + 2d)\\(^2\\) = a(a + 6d)\na\\(^2\\) + 4d\\(^2\\) + 4ad = a\\(^2\\) + 6ad\n4d\\(^2\\) = 6ad - 4ad\n4d\\(^2\\) = 2ad\n\\(\\frac{4d}{2} = \\frac{2a}{2}\\)\na = 2d ......(ii)\nfrom;\n2a + d = 6\n2(2d) + d = 6\n4d + d = 6\n5d = 6\nd = \\(\\frac{6}{5}\\)\n= 1\\(\\frac{1}{5}\\)\nfrom; a = 2d\na = \\(\\frac{2 \\times 6}{5}\\)\n= \\(\\frac{12}{5}\\)\n= 2\\(\\frac{2}{5}\\)\nFirst term = 2\\(\\frac{2}{5}\\)\nCommon difference = 1\\(\\frac{4}{5}\\)",
+    "explanation": "\\(\\frac{log_2 ^8 + log_2 ^\u00a0{16} - 4 log_2^ 2}{log_4^{16}}\\)\n= \\(\\frac{3log_2 ^2\u00a0+ 4 log_2^\u00a02\u00a0- 4 log_2 2}{2 log_4^4}\\)\n= \\(\\frac{3 + 4 - 4}{2}\\)\n= \\(\\frac{3}{2}\\)\n(b)\nAPGPT\\(_1\\)T\\(_3\\)T\\(_7\\)T\\(_1\\)T\\(_2\\)T\\(_3\\)\nT\\(_1\\) + T\\(_2\\) = 6\na + a + d = 6\n2a + d = 6.....(i)\na = a\na + 2d = ar, a + 6d = ar\\(^2\\)\n\\(\\frac{a + 2d}{a} = \\frac{a + 6d}{a + 2d}\\)\n(a + 2d)\\(^2\\)\u00a0 = \\(\\frac{a + 6d}{a + 2d}\\)\n(a + 2d)\\(^2\\) = a(a + 6d)\na\\(^2\\) + 4d\\(^2\\) + 4ad = a\\(^2\\) + 6ad\n4d\\(^2\\) = 6ad - 4ad\n4d\\(^2\\) = 2ad\n\\(\\frac{4d}{2} = \\frac{2a}{2}\\)\na = 2d ......(ii)\nfrom;\n2a + d = 6\n2(2d) + d = 6\n4d + d = 6\n5d = 6\nd = \\(\\frac{6}{5}\\)\n= 1\\(\\frac{1}{5}\\)\nfrom; a = 2d\na = \\(\\frac{2 \\times 6}{5}\\)\n= \\(\\frac{12}{5}\\)\n= 2\\(\\frac{2}{5}\\)\nFirst term = 2\\(\\frac{2}{5}\\)\nCommon difference = 1\\(\\frac{4}{5}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "258",
+    "text": "(a) An association is made up of 6 farmers and 8 traders. If an executive body of 4 members is to be formed, find the probability that it will consist of at least two farmers. (b) The probability of an accident occurring\u00a0in a given month in factories X, Y, and Z are \\(\\frac{1}{5}, \\frac{1}{12} \\) and \\(\\frac{1}{6}\\) respectively.\nFind the probability that the accident will occur in:\ni) none of the factories;\n(ii) all the factories;\n(iii) at least one factory.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59754?exam_type=waec&type=theory&page=52",
+    "correct_answer": "No. of farmers = 6\nNo. of traders = 8\nTotal = 14\nPr(at least two farmers)\n= \\(\\frac{^6C_2 \\times ^8C_2}{^{14}C_4} + \\frac{^6C_3 \\times ^8C_1}{^{14}}+ \\frac{^6C_4 \\times ^8C_0}{^{14}C_4}\\)\n= \\(\\frac{15 \\times 28}{1001} + \\frac{20 \\times 8}{1001} + \\frac{15 \\times 1}{1001}\\)\n= \\(\\frac{420}{1001} + \\frac{160}{1001} + \\frac{15}{1001}\\)\n= \\(\\frac{420 + 160 + 15}{1001}\\)\n= \\(\\frac{595}{1001}\\)\n(b) P(x) = \\(\\frac{1}{5}\\)\np(x\\(^1\\)) = 1 - \\(\\frac{1}{5}\\) = \\(\\frac{4}{5}\\)\np(y) = \\(\\frac{1}{2}\\), p(y\\(^1\\))\n= 1 - \\(\\frac{1}{12}\\)\n= \\(\\frac{11}{12}\\)\np(2) = \\(\\frac{1}{6}\\)\np(z\\(^1\\)) = 1 - \\(\\frac{1}{6}\\)\n= \\(\\frac{5}{6}\\)\n(i) Pr(None)\n= \\(\\frac{4}{5} \\times \\frac{11}{12} \\times \\frac{5}{6} = \\frac{11}{18}\\)\n(ii) Pr(all the factories)\n= \\(\\frac{1}{5} \\times \\frac{1}{12} \\times \\frac{1}{6} = \\frac{1}{360^o}\\)\n(iii) Pr (at least one factory)\n= 1 - Pr (none) = \\(\\frac{1}{1} - \\frac{11}{18}\\)\n= \\(\\frac{18 - 11}{18}\\)\n= \\(\\frac{7}{18}\\)",
+    "explanation": "No. of farmers = 6\nNo. of traders = 8\nTotal = 14\nPr(at least two farmers)\n= \\(\\frac{^6C_2 \\times ^8C_2}{^{14}C_4} + \\frac{^6C_3 \\times ^8C_1}{^{14}}+ \\frac{^6C_4 \\times ^8C_0}{^{14}C_4}\\)\n= \\(\\frac{15 \\times 28}{1001} + \\frac{20 \\times 8}{1001} + \\frac{15 \\times 1}{1001}\\)\n= \\(\\frac{420}{1001} + \\frac{160}{1001} + \\frac{15}{1001}\\)\n= \\(\\frac{420 + 160 + 15}{1001}\\)\n= \\(\\frac{595}{1001}\\)\n(b) P(x) = \\(\\frac{1}{5}\\)\np(x\\(^1\\)) = 1 - \\(\\frac{1}{5}\\) = \\(\\frac{4}{5}\\)\np(y) = \\(\\frac{1}{2}\\), p(y\\(^1\\))\n= 1 - \\(\\frac{1}{12}\\)\n= \\(\\frac{11}{12}\\)\np(2) = \\(\\frac{1}{6}\\)\np(z\\(^1\\)) = 1 - \\(\\frac{1}{6}\\)\n= \\(\\frac{5}{6}\\)\n(i) Pr(None)\n= \\(\\frac{4}{5} \\times \\frac{11}{12} \\times \\frac{5}{6} = \\frac{11}{18}\\)\n(ii) Pr(all the factories)\n= \\(\\frac{1}{5} \\times \\frac{1}{12} \\times \\frac{1}{6} = \\frac{1}{360^o}\\)\n(iii) Pr (at least one factory)\n= 1 - Pr (none) = \\(\\frac{1}{1} - \\frac{11}{18}\\)\n= \\(\\frac{18 - 11}{18}\\)\n= \\(\\frac{7}{18}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "259",
+    "text": "The essays of 10 candidates were ranked by three examiners as shown in the table.\n\n\n\ncandidates\nA\nB\nC\nD\nE\nF\nG\nH\nI\nJ\n\n\nExaminer I\n1st\n3rd\n6th\n2nd\n10th\n9th\n7th\n4th\n8th\n5th\n\n\nExaminer II\n2nd\n1st\n3rd\n9th\n7th\n4th\n8th\n10th\n5th\n6th\n\n\nExaminer III\n3rd\n2nd\n1st\n6th\n9th\n8th\n7th\n5th\n4th\n10th\n\n\n\n\u00a0\na) Calculate the Spearman's rank correlation coefficient of the ranks assigned by:\n(i) Examiners I and lI;\n(ii) Examiners I and III\n(iii) Examiners II and II.\n(b) Using the results in (a), state which two examiners agree most.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59756?exam_type=waec&type=theory&page=52",
+    "correct_answer": "(a)(i)\nRank coefficient = I = \\(\\frac{6\\sum d^2}{n(n^2 - 1)}\\)\n= 1 - \\(\\frac{6(141)}{10(10^2 - 1)}\\)\n= 1 - \\(\\frac{6(141)}{10 \\times 99}\\)\n= 1 - \\(\\frac{846}{990}\\)\n= 1 - 0.85\n= 0.15\n(ii)\nRank coefficient = 1 - \\(\\frac{6(78)}{10(10^2 - 1)}\\)\n= 1 - \\(\\frac{468}{990}\\)\n= 1 - 0.472\n= 0.53\n(iii)\nRank coefficient = 1 - \\(\\frac{6(78)}{10(10^2 - 1)}\\)\n= 0.53\n(b) Examiner II and III",
+    "explanation": "(a)(i)\nRank coefficient = I = \\(\\frac{6\\sum d^2}{n(n^2 - 1)}\\)\n= 1 - \\(\\frac{6(141)}{10(10^2 - 1)}\\)\n= 1 - \\(\\frac{6(141)}{10 \\times 99}\\)\n= 1 - \\(\\frac{846}{990}\\)\n= 1 - 0.85\n= 0.15\n(ii)\nRank coefficient = 1 - \\(\\frac{6(78)}{10(10^2 - 1)}\\)\n= 1 - \\(\\frac{468}{990}\\)\n= 1 - 0.472\n= 0.53\n(iii)\nRank coefficient = 1 - \\(\\frac{6(78)}{10(10^2 - 1)}\\)\n= 0.53\n(b) Examiner II and III",
+    "year": "2020"
+  },
+  {
+    "number": "260",
+    "text": "(a) A car is moving with a velocity of 10ms\\(^{-1}\\) It then accelerates at 0.2ms\\(^{-2}\\) for 100m. Find, correct to two decimal places the time taken by the car to cover the distance.\n(b) A particle moves along a straight line such that its distance S metres from a fixed point O is given by S = t\\(^2\\) - 5t + 6, where t is the time in seconds. Find its:\n(i) initial velocity;\n(ii) distance when it is momentarily at rest",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59757?exam_type=waec&type=theory&page=52",
+    "correct_answer": "(a) u = 10ms\\(^{-1}\\), a = 0.2m\\(^{-2}\\), s = 100m, t = ?\nusing S = ut + \\(\\frac{1}{2} at^2\\)\n100 = 10t + \\(\\frac{1}{2}(0.2)t^2\\)\n100 = 10t + 0.1t\\(^2\\)\n0.1t\\(^2\\) + 10t - 100 = 0\nt = \\(\\frac{-10 \\pm \\sqrt{10^2 - 4(0.1)(-100)}}{2(0.1)}\\)\nt = \\(\\frac{-10\\pm \\sqrt{100 + 40}}{0.2}\\)\nt = \\(\\frac{-10 \\pm \\sqrt{140}}{0.2}\\)\nt = \\(\\frac{-10 \\pm 11.83}{0.2}\\)\nt = \\(\\frac{-10 - 11.82}{2}\\)\nt = \\(\\frac{1.83}{0.2}\\)\nt = \\(\\frac{21.83}{2}\\)\nt = 9.15 seconds\n(b)(i) S = t\\(^2\\) - 5 + 6\nv =\u00a0 \\(\\frac{ds}{dt}\\)\n= 2t - 5\nat t = 0, y = 2(0) - 5\n= - 5ms\\(^{-1}\\)\nThe initial\u00a0velocity is 5 in the negative direction\n(ii) When t = 0, S = t\\(^2\\) - 5t + 6\nS = 0\\(^2\\) - 5(0) + 6\nS = 6\nThe distance is 6m",
+    "explanation": "(a) u = 10ms\\(^{-1}\\), a = 0.2m\\(^{-2}\\), s = 100m, t = ?\nusing S = ut + \\(\\frac{1}{2} at^2\\)\n100 = 10t + \\(\\frac{1}{2}(0.2)t^2\\)\n100 = 10t + 0.1t\\(^2\\)\n0.1t\\(^2\\) + 10t - 100 = 0\nt = \\(\\frac{-10 \\pm \\sqrt{10^2 - 4(0.1)(-100)}}{2(0.1)}\\)\nt = \\(\\frac{-10\\pm \\sqrt{100 + 40}}{0.2}\\)\nt = \\(\\frac{-10 \\pm \\sqrt{140}}{0.2}\\)\nt = \\(\\frac{-10 \\pm 11.83}{0.2}\\)\nt = \\(\\frac{-10 - 11.82}{2}\\)\nt = \\(\\frac{1.83}{0.2}\\)\nt = \\(\\frac{21.83}{2}\\)\nt = 9.15 seconds\n(b)(i) S = t\\(^2\\) - 5 + 6\nv =\u00a0 \\(\\frac{ds}{dt}\\)\n= 2t - 5\nat t = 0, y = 2(0) - 5\n= - 5ms\\(^{-1}\\)\nThe initial\u00a0velocity is 5 in the negative direction\n(ii) When t = 0, S = t\\(^2\\) - 5t + 6\nS = 0\\(^2\\) - 5(0) + 6\nS = 6\nThe distance is 6m",
+    "year": "2020"
+  },
+  {
+    "number": "261",
+    "text": "The diagram is that of a light inextensible string of length 4.2m, whose ends are attached to two fixed points X and Y, 3m apart, and on the same horizontal level. A body of mass 800g is hung on the string at a point O, 2.4m from Y. If the system is kept in equilibrium by a horizontal force P acting on the body and the tensions are equal, calculate:\n(a) < XOY;\n(b) the magnitude of the force P;\n(c) the tension T in the string.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59759?exam_type=waec&type=theory&page=53",
+    "correct_answer": "Cos \\(\\theta\\) = \\(\\frac{(2.4)^2 + (1.8)^2 - (3)^2}{2(2.4)(1.8)}\\)\ncos \\(\\theta\\) = \\(\\frac{5.76 + 3.4 - 9}{8.64}\\)\ncos \\(\\theta\\) = \\(\\frac{0.0}{8.64}\\) = 0\n\\(\\theta\\) cos\\(^{-1}\\) 0 = 90\\(^o\\)\n< XOY = 90\\(^o\\)\n(b) Magnitude of the force p\ncos \\(\\alpha\\) = \\(\\frac{(3)^2 + (2.4)^2 - (1.8(^2}{2(3)(2.5)}\\)\ncos \\(\\alpha\\) = = \\(\\frac{9 + 5.76 - 3.24}{14.4}\\)\ncos \\(\\alpha\\) = \\(\\frac{11.52}{14.4}\\)\ncos \\(\\alpha\\) = 0.8\n\\(\\alpha\\) = cos \\(^{-1}\\) 0.8\n= 36.86\\(^o\\)\n\\(\\frac{p}{2.4} = cos 36.86^o\\)\np = 2.4 x 0.8\np = 1.92N\n(c) The tension T in the string\nT\\(^2\\) = 8\\(^2\\) + 1.92\\(^2\\)\nT\\(^2\\) = 64 + 3.59\nTv = 67.69\nT = \\(\\sqrt{67.69}\\)\nT = 8.23N",
+    "explanation": "Cos \\(\\theta\\) = \\(\\frac{(2.4)^2 + (1.8)^2 - (3)^2}{2(2.4)(1.8)}\\)\ncos \\(\\theta\\) = \\(\\frac{5.76 + 3.4 - 9}{8.64}\\)\ncos \\(\\theta\\) = \\(\\frac{0.0}{8.64}\\) = 0\n\\(\\theta\\) cos\\(^{-1}\\) 0 = 90\\(^o\\)\n< XOY = 90\\(^o\\)\n(b) Magnitude of the force p\ncos \\(\\alpha\\) = \\(\\frac{(3)^2 + (2.4)^2 - (1.8(^2}{2(3)(2.5)}\\)\ncos \\(\\alpha\\) = = \\(\\frac{9 + 5.76 - 3.24}{14.4}\\)\ncos \\(\\alpha\\) = \\(\\frac{11.52}{14.4}\\)\ncos \\(\\alpha\\) = 0.8\n\\(\\alpha\\) = cos \\(^{-1}\\) 0.8\n= 36.86\\(^o\\)\n\\(\\frac{p}{2.4} = cos 36.86^o\\)\np = 2.4 x 0.8\np = 1.92N\n(c) The tension T in the string\nT\\(^2\\) = 8\\(^2\\) + 1.92\\(^2\\)\nT\\(^2\\) = 64 + 3.59\nTv = 67.69\nT = \\(\\sqrt{67.69}\\)\nT = 8.23N",
+    "year": "2020"
+  }
+]

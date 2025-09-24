@@ -1,0 +1,272 @@
+[
+  {
+    "number": "217",
+    "text": "Given that (\\(_r^n\\)) = \\(^nC_r\\), simplify (\\(^{2x + 1}_{3}\\)) - (\\(^{2x - 1}_3\\)) - 2(\\(^x_2\\))",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56560?exam_type=waec&type=theory&page=44",
+    "correct_answer": "We want to simplify the expression:\n\\(\\binom{2x + 1}{3} - \\binom{2x - 1}{3} - 2\\binom{x}{2}\\)\nWrite the Binomial Coefficients\n1. First term:\\(\\binom{2x + 1}{3} = \\frac{(2x + 1)(2x)(2x - 1)}{6}\\) from the fact that\u00a0\\(\\binom{2x + 1}{3}\\) = \\(\\frac{(2x + 1)!}{3!(3 - (2x + 1)!}\\) = \\(\\frac{(2x + 1)(2x)(2x - 2)!}{6(2x - 2)!}\\)\nAfter cancelling, we have\u00a0 \\(\\frac{(2x + 1)(2x)(2x - 1)}{6}\\).\n2. Second term:\\(\\binom{2x - 1}{3} = \\frac{(2x - 1)(2x - 2)(2x - 3)}{6}\\)\n3. Third term:\\(2\\binom{x}{2} = 2 \\cdot \\frac{x(x - 1)}{2} = x(x - 1)\\)\nCombine the First Two Terms\nCombining the first two terms gives us: \\(\\frac{(2x + 1)(2x)(2x - 1) - (2x - 1)(2x - 2)(2x - 3)}{6}\\)\nExpand the Numerators\n1. Expanding \\((2x + 1)(2x)(2x - 1)\\): \\((2x)(2x - 1) = 4x^2 - 2x\\)\\((2x + 1)(4x^2 - 2x) = 8x^3 - 4x^2 + 4x^2 - 2x = 8x^3 - 2x\\)\nExpanding \\((2x - 1)(2x - 2)(2x - 3)\\):First, calculate:\\((2x - 2)(2x - 3) = 4x^2 - 10x + 6\\), Then multiply by \\((2x - 1)\\):\\((2x - 1)(4x^2 - 10x + 6) = 8x^3 - 20x^2 + 12x - 4x^2 + 10x - 6 = 8x^3 - 24x^2 + 22x - 6\\)\nSubstitute Back into the Expression, Now we have:\\(\\frac{(8x^3 - 2x) - (8x^3 - 24x^2 + 22x - 6)}{6}\\)\nSimplify the Numerator; Distributing the negative:\\(= \\frac{8x^3 - 2x - 8x^3 + 24x^2 - 22x + 6}{6}\\)Combining like terms: \\(= \\frac{24x^2 - 24x + 6}{6}\\)\nInclude \\(x(x - 1)\\)\nNow subtract \\(x(x - 1)\\):\\(= \\frac{24x^2 - 24x + 6}{6} - x(x - 1)\\)Convert \\(x(x - 1)\\) into sixths:\\(= \\frac{24x^2 - 24x + 6 - 6(x^2 - x)}{6}\\)\\(= \\frac{24x^2 - 24x + 6 - 6x^2 + 6x}{6}\\)\nNow, combine the terms in the numerator:\\(= \\frac{(24x^2 - 6x^2) + (-24x + 6x) + 6}{6}\\)\\(= \\frac{18x^2 - 18x + 6}{6}\\)\nNow divide each term by 6:\\(= 3x^2 - 3x + 1\\).",
+    "explanation": "We want to simplify the expression:\n\\(\\binom{2x + 1}{3} - \\binom{2x - 1}{3} - 2\\binom{x}{2}\\)\nWrite the Binomial Coefficients\n1. First term:\\(\\binom{2x + 1}{3} = \\frac{(2x + 1)(2x)(2x - 1)}{6}\\) from the fact that\u00a0\\(\\binom{2x + 1}{3}\\) = \\(\\frac{(2x + 1)!}{3!(3 - (2x + 1)!}\\) = \\(\\frac{(2x + 1)(2x)(2x - 2)!}{6(2x - 2)!}\\)\nAfter cancelling, we have\u00a0 \\(\\frac{(2x + 1)(2x)(2x - 1)}{6}\\).\n2. Second term:\\(\\binom{2x - 1}{3} = \\frac{(2x - 1)(2x - 2)(2x - 3)}{6}\\)\n3. Third term:\\(2\\binom{x}{2} = 2 \\cdot \\frac{x(x - 1)}{2} = x(x - 1)\\)\nCombine the First Two Terms\nCombining the first two terms gives us: \\(\\frac{(2x + 1)(2x)(2x - 1) - (2x - 1)(2x - 2)(2x - 3)}{6}\\)\nExpand the Numerators\n1. Expanding \\((2x + 1)(2x)(2x - 1)\\): \\((2x)(2x - 1) = 4x^2 - 2x\\)\\((2x + 1)(4x^2 - 2x) = 8x^3 - 4x^2 + 4x^2 - 2x = 8x^3 - 2x\\)\nExpanding \\((2x - 1)(2x - 2)(2x - 3)\\):First, calculate:\\((2x - 2)(2x - 3) = 4x^2 - 10x + 6\\), Then multiply by \\((2x - 1)\\):\\((2x - 1)(4x^2 - 10x + 6) = 8x^3 - 20x^2 + 12x - 4x^2 + 10x - 6 = 8x^3 - 24x^2 + 22x - 6\\)\nSubstitute Back into the Expression, Now we have:\\(\\frac{(8x^3 - 2x) - (8x^3 - 24x^2 + 22x - 6)}{6}\\)\nSimplify the Numerator; Distributing the negative:\\(= \\frac{8x^3 - 2x - 8x^3 + 24x^2 - 22x + 6}{6}\\)Combining like terms: \\(= \\frac{24x^2 - 24x + 6}{6}\\)\nInclude \\(x(x - 1)\\)\nNow subtract \\(x(x - 1)\\):\\(= \\frac{24x^2 - 24x + 6}{6} - x(x - 1)\\)Convert \\(x(x - 1)\\) into sixths:\\(= \\frac{24x^2 - 24x + 6 - 6(x^2 - x)}{6}\\)\\(= \\frac{24x^2 - 24x + 6 - 6x^2 + 6x}{6}\\)\nNow, combine the terms in the numerator:\\(= \\frac{(24x^2 - 6x^2) + (-24x + 6x) + 6}{6}\\)\\(= \\frac{18x^2 - 18x + 6}{6}\\)\nNow divide each term by 6:\\(= 3x^2 - 3x + 1\\).",
+    "year": "2019"
+  },
+  {
+    "number": "218",
+    "text": "Differentiate from first principles, with respect to x, (3x\\(^2\\) + 2x - 1)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56563?exam_type=waec&type=theory&page=44",
+    "correct_answer": "Substitute x by (x + h) to have f(x + h) = 3(x + h)\\(^2\\) + 2x + 2h - 1 - 3x\\(^2\\) - 2x + 1\n= 6\\(x\\)h + 3h\\(^2\\) + 2h\nDivided through by h and obtained \\(\\frac{f(x + h) - f(x)}{h}\u00a0= \\frac{6 \\times h + 3h^2 + 2h}{h} = 6x + 3h + 2\\)\nTaking limit as h tends to zero, lim\\(_{h \\to\u00a0o}\\) \\(\\frac{f(x+h) -f(x)}{h}\\)\n= lim\\(_{h \\to\u00a0o}\\) (6x + 3h + 2) so that f\\(^1\\)(x) = 6x + 2",
+    "explanation": "Substitute x by (x + h) to have f(x + h) = 3(x + h)\\(^2\\) + 2x + 2h - 1 - 3x\\(^2\\) - 2x + 1\n= 6\\(x\\)h + 3h\\(^2\\) + 2h\nDivided through by h and obtained \\(\\frac{f(x + h) - f(x)}{h}\u00a0= \\frac{6 \\times h + 3h^2 + 2h}{h} = 6x + 3h + 2\\)\nTaking limit as h tends to zero, lim\\(_{h \\to\u00a0o}\\) \\(\\frac{f(x+h) -f(x)}{h}\\)\n= lim\\(_{h \\to\u00a0o}\\) (6x + 3h + 2) so that f\\(^1\\)(x) = 6x + 2",
+    "year": "2019"
+  },
+  {
+    "number": "219",
+    "text": "Find the equation of the circle centre (2. 3) which passes through the y - intercept of the line 3x\u00a0 - 2y + 6 = 0",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56566?exam_type=waec&type=theory&page=44",
+    "correct_answer": "At y-intercept, 3(0) \u2014 2y + 6 = 0 and solving for y, y = 3.\nTherefore, the coordinates of y \u2014 intercept is (0, 3).\nThen, r\\(^2\\) =\u00a0\u00a0(0 \u2014 2)\\(^2\\) + (3 \u2014 3)\\(^2\\) = 4. With the centre at (2, 3). the equation of the circle was (x \u2014 2)\\(^2\\) + (y \u2014 3)\\(^2\\) =\u00a04 and which simplified to \\(x^2\\) - y\\(^2\\) \u2014 4x \u2014 6y + 9 = 0",
+    "explanation": "At y-intercept, 3(0) \u2014 2y + 6 = 0 and solving for y, y = 3.\nTherefore, the coordinates of y \u2014 intercept is (0, 3).\nThen, r\\(^2\\) =\u00a0\u00a0(0 \u2014 2)\\(^2\\) + (3 \u2014 3)\\(^2\\) = 4. With the centre at (2, 3). the equation of the circle was (x \u2014 2)\\(^2\\) + (y \u2014 3)\\(^2\\) =\u00a04 and which simplified to \\(x^2\\) - y\\(^2\\) \u2014 4x \u2014 6y + 9 = 0",
+    "year": "2019"
+  },
+  {
+    "number": "220",
+    "text": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of the equation 3x\\(^2\\) + 4x - 5 = 0, find the value of (\\(\\alpha - \\beta\\)), leaving the answer in surd form.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56567?exam_type=waec&type=theory&page=44",
+    "correct_answer": "Note that \\(\\alpha\\) + \\(\\beta\\) = - \\(\\frac{4}{3}\\) and (\\(\\alpha - \\beta\\))\\(^2\\)\n= a\\(^2\\) + \\(\\beta\\)\\(^2\\) - 2\\(\\alpha\\beta\\) = (\\(\\alpha + \\beta\\))\\(^2\\) - 4\\(\\alpha \\beta\\)\nThus, substituting for \\(\\alpha + \\beta\\) and \\(\\alpha \\beta\\)\nsimplify to get (\\(\\alpha - \\beta\\))\\(^2\\) = (-\\(\\frac{4}{3}\\))\\(^2\\) - 4(-\\(\\frac{5}{3}\\))\n= \\(\\frac{16}{9} + \\frac{20}{3}\\)\n= \\(\\frac{16+60}{9}\\)\n= \\(\\frac{76}{9}\\)\nTaking square root of both sides\n(\\(\\alpha\\) - \\(\\beta\\)) = \\(\\sqrt{\\frac{76}{9}}\\)\n= \\(\\pm \\frac{2\\sqrt{19}}{3}\\)",
+    "explanation": "Note that \\(\\alpha\\) + \\(\\beta\\) = - \\(\\frac{4}{3}\\) and (\\(\\alpha - \\beta\\))\\(^2\\)\n= a\\(^2\\) + \\(\\beta\\)\\(^2\\) - 2\\(\\alpha\\beta\\) = (\\(\\alpha + \\beta\\))\\(^2\\) - 4\\(\\alpha \\beta\\)\nThus, substituting for \\(\\alpha + \\beta\\) and \\(\\alpha \\beta\\)\nsimplify to get (\\(\\alpha - \\beta\\))\\(^2\\) = (-\\(\\frac{4}{3}\\))\\(^2\\) - 4(-\\(\\frac{5}{3}\\))\n= \\(\\frac{16}{9} + \\frac{20}{3}\\)\n= \\(\\frac{16+60}{9}\\)\n= \\(\\frac{76}{9}\\)\nTaking square root of both sides\n(\\(\\alpha\\) - \\(\\beta\\)) = \\(\\sqrt{\\frac{76}{9}}\\)\n= \\(\\pm \\frac{2\\sqrt{19}}{3}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "221",
+    "text": "Three soldies, X, Y and Z have probabilities \\(\\frac{1}{3}, \\frac{1}{5}\\) and \\(\\frac{1}{4}\\) respectively of hitting a target. If each of them fires once, find, correct to two decimal places, the probability that only one of them hits the target",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56568?exam_type=waec&type=theory&page=45",
+    "correct_answer": "Note that P(X not hitting the target) = \\(\\frac{2}{3}\\)\nP(Y not hittiing the target) = \\(\\frac{4}{5}\\) and P(Z not hitting the target) = \\(\\frac{3}{4}\\)\nSo that, P(only one) = (\\(\\frac{1}{3} \\times \\frac{4}{5} \\times \\frac{3}{4}\\)) + (\\(\\frac{2}{3} \\times \\frac{1}{5} \\times\u00a0\\frac{3}{4}\\)) +\u00a0(\\(\\frac{2}{3} \\times \\frac{4}{5} \\times \\frac{1}{4}\\)) = \\(\\frac{12}{60} + \\frac{6}{60} = \\frac{13}{30}\\)\n= 0.43, correct to two decimal places.",
+    "explanation": "Note that P(X not hitting the target) = \\(\\frac{2}{3}\\)\nP(Y not hittiing the target) = \\(\\frac{4}{5}\\) and P(Z not hitting the target) = \\(\\frac{3}{4}\\)\nSo that, P(only one) = (\\(\\frac{1}{3} \\times \\frac{4}{5} \\times \\frac{3}{4}\\)) + (\\(\\frac{2}{3} \\times \\frac{1}{5} \\times\u00a0\\frac{3}{4}\\)) +\u00a0(\\(\\frac{2}{3} \\times \\frac{4}{5} \\times \\frac{1}{4}\\)) = \\(\\frac{12}{60} + \\frac{6}{60} = \\frac{13}{30}\\)\n= 0.43, correct to two decimal places.",
+    "year": "2019"
+  },
+  {
+    "number": "222",
+    "text": "The distribution of the masses of a group of persons is shown in the following table\n\n\n\nMass/kg\n10.5 - 14.4\n14.5 - 24.4\n24.5 - 44.4\n44.5 - 47.4\n47.5 - 49.4\n\n\nNumber of Persons\n2\n6\n18\n2\n1\n\n\n\nDraw a histogram for the distribution",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56569?exam_type=waec&type=theory&page=45",
+    "correct_answer": "Frequency Distribution Table\nMass/kgFreq(f)Class BoundaryClass Size\\(\\frac{f}{c}\\)10.5 - 14.4210.45 -\u00a0 14.4540.514.5 - 24.4614.45 - 24.4510.0.624.5 - 44.41824.45 - 44.45200.944.5\u00a0- 47.4244.45 - 47.4530.6747.5 - 49.4147.45 - 49.4520.5",
+    "explanation": "Frequency Distribution Table\nMass/kgFreq(f)Class BoundaryClass Size\\(\\frac{f}{c}\\)10.5 - 14.4210.45 -\u00a0 14.4540.514.5 - 24.4614.45 - 24.4510.0.624.5 - 44.41824.45 - 44.45200.944.5\u00a0- 47.4244.45 - 47.4530.6747.5 - 49.4147.45 - 49.4520.5",
+    "year": "2019"
+  },
+  {
+    "number": "223",
+    "text": "Find the angle between \\(\\over {OP}\\) = (\\(^{-3}_{-4}\\)) and \\(\\over{OQ}\\) = (\\(^8_{-15}\\))",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56570?exam_type=waec&type=theory&page=45",
+    "correct_answer": "|\\(\\over{OP}\\)| = \\(\\sqrt{(-3)^2 + (-4)^2}\\) = 5\n|\\(\\over{OQ}\\)|\u00a0= \\(\\sqrt{(8)^2 +(-15)^2}\\) = 17\nand\u00a0|\\(\\over{OP}\\)|.|\\(\\over{OQ}\\)|\u00a0 = (\\(^{-3}_{-4}\\)).(\\(^8_{15}\\)) = -24 + 60 = 36\nThen 36 = (5)(17) cos \\(\\theta\\) and finding cos \\(\\theta\\) = \\(\\frac{36}{85}\\) = 0.4235 and taking the inverse cosine\u00a0to yield\n\\(\\theta\\) = cos\\(^{-1}\\)(0.4235)\n= 64.94\\(^o\\)",
+    "explanation": "|\\(\\over{OP}\\)| = \\(\\sqrt{(-3)^2 + (-4)^2}\\) = 5\n|\\(\\over{OQ}\\)|\u00a0= \\(\\sqrt{(8)^2 +(-15)^2}\\) = 17\nand\u00a0|\\(\\over{OP}\\)|.|\\(\\over{OQ}\\)|\u00a0 = (\\(^{-3}_{-4}\\)).(\\(^8_{15}\\)) = -24 + 60 = 36\nThen 36 = (5)(17) cos \\(\\theta\\) and finding cos \\(\\theta\\) = \\(\\frac{36}{85}\\) = 0.4235 and taking the inverse cosine\u00a0to yield\n\\(\\theta\\) = cos\\(^{-1}\\)(0.4235)\n= 64.94\\(^o\\)",
+    "year": "2019"
+  },
+  {
+    "number": "224",
+    "text": "In the diagram, a mass of 12kg hanging from a light inextensible string is pulled aside by a horizontal force, R, such that the string is inclined at 45\\(^o\\) to the vertical. If the system is in equilibrium, calculate the;\n(a) tension in the string;\n(b) value of R",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56571?exam_type=waec&type=theory&page=45",
+    "correct_answer": "Using Lami's Theorem;\n(a) \\(\\frac{T}{\\sin 90^o} = \\frac{120}{\\sin 135^o}\\) and T = 169.71N\n(b) \\(\\frac{R}{\\sin 135^o} = \\frac{120}{\\sin 135^o}\\) and R = 120N",
+    "explanation": "Using Lami's Theorem;\n(a) \\(\\frac{T}{\\sin 90^o} = \\frac{120}{\\sin 135^o}\\) and T = 169.71N\n(b) \\(\\frac{R}{\\sin 135^o} = \\frac{120}{\\sin 135^o}\\) and R = 120N",
+    "year": "2019"
+  },
+  {
+    "number": "225",
+    "text": "(a).\u00a0 \\(\\frac{T}{\\sin 90^o}\\) = \\(\\frac{120}{sin 135^o}\\) and found T = 169.71N\n(b) \\(\\frac{R}{\\sin 135^o}\\) = \\(\\frac{120}{\\sin 135^o}\\)\nR = 120N",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56573?exam_type=waec&type=theory&page=45",
+    "correct_answer": "(a) 3 log\\(_2\\)\u00a0x = y \\(\\to\\) 2\\(^y\\)\u00a0\u00a0= x\\(^3\\).............(1)\nSimilarly, log\\(_2\\)\u00a04x = y + 4 can be written as 2\\(^{y + 4}\\) = 4x............(2)\nSubstituting for 2y\u00a0in equation (2) to have 16x\\(^3\\) =\u00a04x and to form a cubic equation 16x\\(^3\\) - 4x =\u00a00.\nThen, using factorizing to have 4x(4x\\(^2\\) - 1) = 0 and solving for x to get x =\u00a00 or x = \\(\\frac{1}{2}\\) or \\(\\frac{1}{2}\\)\nNext, substituting for x in equation (1), when x = 0, y has no solution.\nAlso, when x = -\\(\\frac{1}{2}\\)\u00a0y has no solution and when x = \\(\\frac{1}{2}\\), 2\\(^y\\) = (\\(\\frac{1}{2}\\))\\(^3\\) = 2\\(^{-3}\\)\nTherefore, y = -3\n(b). Substitute to have -3*5 = (-3)\\(^2\\) - 2(-3) (5) + 5\\(^2\\)\u00a0= 2\\(^n\\) and when simplified to get 64 = 2\\(^n\\).\u00a0However, 2\\(^6\\)\u00a0= 2\\(^n\\) so that n = 6.",
+    "explanation": "(a) 3 log\\(_2\\)\u00a0x = y \\(\\to\\) 2\\(^y\\)\u00a0\u00a0= x\\(^3\\).............(1)\nSimilarly, log\\(_2\\)\u00a04x = y + 4 can be written as 2\\(^{y + 4}\\) = 4x............(2)\nSubstituting for 2y\u00a0in equation (2) to have 16x\\(^3\\) =\u00a04x and to form a cubic equation 16x\\(^3\\) - 4x =\u00a00.\nThen, using factorizing to have 4x(4x\\(^2\\) - 1) = 0 and solving for x to get x =\u00a00 or x = \\(\\frac{1}{2}\\) or \\(\\frac{1}{2}\\)\nNext, substituting for x in equation (1), when x = 0, y has no solution.\nAlso, when x = -\\(\\frac{1}{2}\\)\u00a0y has no solution and when x = \\(\\frac{1}{2}\\), 2\\(^y\\) = (\\(\\frac{1}{2}\\))\\(^3\\) = 2\\(^{-3}\\)\nTherefore, y = -3\n(b). Substitute to have -3*5 = (-3)\\(^2\\) - 2(-3) (5) + 5\\(^2\\)\u00a0= 2\\(^n\\) and when simplified to get 64 = 2\\(^n\\).\u00a0However, 2\\(^6\\)\u00a0= 2\\(^n\\) so that n = 6.",
+    "year": "2019"
+  },
+  {
+    "number": "226",
+    "text": "(a) If sin p = \\(\\frac{1}{2}\\)\u00a0and cos q = \\(\\frac{1}{3}\\), evaluate sin(p - q), where 0\\(^o\\) \\(\\geq\\) p \\(\\geq\\)\u00a090\\(^o\\) and 90\\(^o\\) \\(\\geq\\) q \\(\\geq\\) 180\\(^o\\)\n\nb)\u00a0Using trapezum rule with seven ordinates, evaluate \\(\\int^4_1\\frac{2}{\\sqrt{x + 3}}\\)dx",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56574?exam_type=waec&type=theory&page=46",
+    "correct_answer": "(a)To find sin q =\\(\\frac{2\\sqrt{2}}{3}\\) and cos p = \\(\\frac{\\sqrt{3}}{3}\\). Then, substituting\nsin(p - q) = sin p\u00a0cos q - cos p sin q = (\\(\\frac{1}{2} \\times -\\frac{1}{3}\\)) - (\\(\\frac{2\\sqrt{2}}{3} \\times \\frac{\\sqrt{3}}{2}\\)\nWhich simplified to -\\(\\frac{1}{6} - \\frac{2\\sqrt{6}}{6}\\) and can be written as \\(\\frac{-1 -2\\sqrt{6}}{6}\\)\n(b), candidates were expected to obtain the following table\nx11.522.533.54y10.94280.89440.85280.81650.78450.7559\nThen, using the table and applying the formula;\n\\(\\int^4_1\\frac{2}{\\sqrt{x + 3}}\\)dx =\u00a0 0.5{\\(\\frac{1}{2}\\)\u00a0+ 0.9428 + 0.8944 + 0.8528 + 0.8165 + 0.7845 + \\(\\frac{0.7559}{2}\\)}\n= \u00a00.5 (5.16895)\n= 2.584475\n= 2.58 correct to two decimal places.",
+    "explanation": "(a)To find sin q =\\(\\frac{2\\sqrt{2}}{3}\\) and cos p = \\(\\frac{\\sqrt{3}}{3}\\). Then, substituting\nsin(p - q) = sin p\u00a0cos q - cos p sin q = (\\(\\frac{1}{2} \\times -\\frac{1}{3}\\)) - (\\(\\frac{2\\sqrt{2}}{3} \\times \\frac{\\sqrt{3}}{2}\\)\nWhich simplified to -\\(\\frac{1}{6} - \\frac{2\\sqrt{6}}{6}\\) and can be written as \\(\\frac{-1 -2\\sqrt{6}}{6}\\)\n(b), candidates were expected to obtain the following table\nx11.522.533.54y10.94280.89440.85280.81650.78450.7559\nThen, using the table and applying the formula;\n\\(\\int^4_1\\frac{2}{\\sqrt{x + 3}}\\)dx =\u00a0 0.5{\\(\\frac{1}{2}\\)\u00a0+ 0.9428 + 0.8944 + 0.8528 + 0.8165 + 0.7845 + \\(\\frac{0.7559}{2}\\)}\n= \u00a00.5 (5.16895)\n= 2.584475\n= 2.58 correct to two decimal places.",
+    "year": "2019"
+  },
+  {
+    "number": "227",
+    "text": "Using determinants, solve the following equations simultaneously.\n5x \u2014 6y + 4z = 15\n7x + 4y \u2014 3z = 19\n2x + y + 6z = 46",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56575?exam_type=waec&type=theory&page=46",
+    "correct_answer": "To find the determinant of \\(\\begin{pmatrix} 5 & -6 & 4\\\\ 7 & 4 & -3\\\\ 2 & 1 & 6 \\end{pmatrix}\\) which is\u00a0\u00a05(24 + 3) + 6(4 + 6) + 4(7 - 8) = 135 +\u00a0288 - 4 = 419.\nThen,\u00a0substitude\u00a0the column of the coefficient of x by the right - hand side of the equations and find the determinant of\u00a0\\(\\begin{pmatrix} 5 & -6 & 4\\\\ 7 & 4\u00a0 & -3\\\\ 46 & 1 & 6 \\end{pmatrix}\\)\u00a0 = 15(24 + 3) + 6(114 + 138) + 4(19 - 184) = 405 + 1512 - 660 = 1257.\nSimilarly, to find the coefficient of y, find the determinant of\u00a0\\(\\begin{pmatrix} 5 & 15 & 4\\\\ 7 & 19 & -3\\\\ 2 & 46 & 6 \\end{pmatrix}\\)\n= 5(114 + 138) - 13(42 + 6) - 4(322 - 38) =\u00a01260 - 720 + 1136 = 1676.Finally, for the coefficient of z find\u00a0the determinant of \\(\\begin{pmatrix} 5 & -6 & 15\\\\ 7 & 19 & -3\\\\ 2 & 46 & 6 \\end{pmatrix}\\)\n= 5(184 - 19) + 6(322 - 38) + 15(7 - 8) = 825 + 1704 - 15 = 2514\nTherefore, x = \\(\\frac{1257}{419}\\) = 3, y = \\(\\frac{1676}{419}\\) = 4\nand z = \\(\\frac{2514}{419}\\) = 6",
+    "explanation": "To find the determinant of \\(\\begin{pmatrix} 5 & -6 & 4\\\\ 7 & 4 & -3\\\\ 2 & 1 & 6 \\end{pmatrix}\\) which is\u00a0\u00a05(24 + 3) + 6(4 + 6) + 4(7 - 8) = 135 +\u00a0288 - 4 = 419.\nThen,\u00a0substitude\u00a0the column of the coefficient of x by the right - hand side of the equations and find the determinant of\u00a0\\(\\begin{pmatrix} 5 & -6 & 4\\\\ 7 & 4\u00a0 & -3\\\\ 46 & 1 & 6 \\end{pmatrix}\\)\u00a0 = 15(24 + 3) + 6(114 + 138) + 4(19 - 184) = 405 + 1512 - 660 = 1257.\nSimilarly, to find the coefficient of y, find the determinant of\u00a0\\(\\begin{pmatrix} 5 & 15 & 4\\\\ 7 & 19 & -3\\\\ 2 & 46 & 6 \\end{pmatrix}\\)\n= 5(114 + 138) - 13(42 + 6) - 4(322 - 38) =\u00a01260 - 720 + 1136 = 1676.Finally, for the coefficient of z find\u00a0the determinant of \\(\\begin{pmatrix} 5 & -6 & 15\\\\ 7 & 19 & -3\\\\ 2 & 46 & 6 \\end{pmatrix}\\)\n= 5(184 - 19) + 6(322 - 38) + 15(7 - 8) = 825 + 1704 - 15 = 2514\nTherefore, x = \\(\\frac{1257}{419}\\) = 3, y = \\(\\frac{1676}{419}\\) = 4\nand z = \\(\\frac{2514}{419}\\) = 6",
+    "year": "2019"
+  },
+  {
+    "number": "228",
+    "text": "The table shows the distribution of masks obtained by students in an examination.\u00a0\n\n\n\nMarks\n50 - 54\n55 - 59\n60 - 64\n65 - 69\n70 - 74\n75 - 79\n80 - 84\n85 - 89\n\n\nFrequency\n5\n15\n20\n28\n12\n9\n7\n4\n\n\n\n\nUsing an assumed mean of 67, calculate,\u00a0correct to one decimal place. the\na) Mean\nb) Standard deviation of the distribution",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56576?exam_type=waec&type=theory&page=46",
+    "correct_answer": "xfdfd\\(\\delta\\)f\\(\\delta\\)525-15-7522511255715-10-15010015006220-5-1002550067280000721256025300779109010090082715105225157587420804001600Total100107500\n(a) To find mean; = 67 + \\(\\frac{10}{100}\\) = 67.1\n(b) Substitute and find the standard deviation as \\(\\sqrt{\\frac{7500}{100} - (\\frac{10}{100})^2}\\) = \\(\\sqrt{74.99}\\)\n= 8.6597\n= 8.7, correct to one decimal place",
+    "explanation": "xfdfd\\(\\delta\\)f\\(\\delta\\)525-15-7522511255715-10-15010015006220-5-1002550067280000721256025300779109010090082715105225157587420804001600Total100107500\n(a) To find mean; = 67 + \\(\\frac{10}{100}\\) = 67.1\n(b) Substitute and find the standard deviation as \\(\\sqrt{\\frac{7500}{100} - (\\frac{10}{100})^2}\\) = \\(\\sqrt{74.99}\\)\n= 8.6597\n= 8.7, correct to one decimal place",
+    "year": "2019"
+  },
+  {
+    "number": "229",
+    "text": "(a)\u00a0In a bakery, 30%\u00a0of loaves of bread produced are of bad quality. If twelve\u00a0loaves are selected at random from the bakery, calculate,\u00a0correct to four decimal places. the probabshty of getting\u00a0\n(i) exactly\u00a06 bad ones:\n(ii) at least 4 bad ones;\n(ii) no bad one.\n\u00a0\n(b) A group consists of 8 boys and 5 girls. A committee of 7 members is chosen from the group. Find the probability that the committee is made up of 4 boys and 3 girls.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56577?exam_type=waec&type=theory&page=46",
+    "correct_answer": "(a)P(Bad Quality) = \\(\\frac{30}{10}\\) = 0.3 and P(Good Quality) = 1 - 0.3 = 0.7\n(a)(i) P(exactly 6) = \\(^{12}C_6\\) x (0.3)\\(^6\\) x (0.7)\\(^6\\) = 0.0792\n(a)(ii) P(at least 4) = 1 - [P(x = 0) + P(x = 1) + P(x = 2) + P(x = 3)]\nWhere P(x = 0) + P(x = 1) + P(x = 2) + P(x = 3) =\u00a0\\(^{12}C_0\\)(0.3)\\(^6\\)(0.7)\\(^{12}\\) +\u00a0\\(^{12}C_1\\)(0.3)\\(^1\\)(0.7)\\(^{11}\\) +\u00a0\\(^{12}C_2\\)(0.3)\\(^2\\)(0.7)\\(^{10}\\) +\u00a0\\(^{12}C_3\\)(0.3)\\(^3\\)(0.7)\\(^{9}\\)\n= 0.01384 + 0.071184 + 0.16779 + 0.2397\nTherefore; P(at least 4) = 1 - 0.4925 = 0.5075\n(a)(iii) P(no bad one) =\u00a0\\(^{12}C_0\\)(0.3)\\(^o\\)(0.7)\\(^{12}\\) = 0.0138\n(b) To find P(4 boys and 3 girls) = \\(\\frac{^8C_4 \\times ^5C_3}{^{13}C_7}\\)\n= \\(\\frac{70 \\times 10}{1716}\\)\n= \\(\\frac{175}{429}\\)\n= 0.4079",
+    "explanation": "(a)P(Bad Quality) = \\(\\frac{30}{10}\\) = 0.3 and P(Good Quality) = 1 - 0.3 = 0.7\n(a)(i) P(exactly 6) = \\(^{12}C_6\\) x (0.3)\\(^6\\) x (0.7)\\(^6\\) = 0.0792\n(a)(ii) P(at least 4) = 1 - [P(x = 0) + P(x = 1) + P(x = 2) + P(x = 3)]\nWhere P(x = 0) + P(x = 1) + P(x = 2) + P(x = 3) =\u00a0\\(^{12}C_0\\)(0.3)\\(^6\\)(0.7)\\(^{12}\\) +\u00a0\\(^{12}C_1\\)(0.3)\\(^1\\)(0.7)\\(^{11}\\) +\u00a0\\(^{12}C_2\\)(0.3)\\(^2\\)(0.7)\\(^{10}\\) +\u00a0\\(^{12}C_3\\)(0.3)\\(^3\\)(0.7)\\(^{9}\\)\n= 0.01384 + 0.071184 + 0.16779 + 0.2397\nTherefore; P(at least 4) = 1 - 0.4925 = 0.5075\n(a)(iii) P(no bad one) =\u00a0\\(^{12}C_0\\)(0.3)\\(^o\\)(0.7)\\(^{12}\\) = 0.0138\n(b) To find P(4 boys and 3 girls) = \\(\\frac{^8C_4 \\times ^5C_3}{^{13}C_7}\\)\n= \\(\\frac{70 \\times 10}{1716}\\)\n= \\(\\frac{175}{429}\\)\n= 0.4079",
+    "year": "2019"
+  },
+  {
+    "number": "230",
+    "text": "(a) P(-1, 4), Q(2, 3), R(x, y) and S(-2, 3) are the verticles of a parallelogram. Find the value of x and y.\u00a0\n(b) A particle starts from rest and moves in a straight line. It attains a velocity of 20ms\\(^{-1}\\) after travelling a distance of 8 metres. Calculate;\n(ii) Iis acceleration\n(ii) the time taken to travel 40 metres",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56580?exam_type=waec&type=theory&page=46",
+    "correct_answer": "\\(\\over{PS}\\) = \\(\\over{OS}\\) - \\(\\over{OP}\\) = (\\(^{-2}_3\\)) - (\\(^{-1}_4\\)) = (\\(^{-1}_{-1}\\))\nSimilarly \\(\\over{QR}\\) = \\(\\over{OR}\\) -\u00a0\\(\\over{OQ}\\) = (\\(^x_y\\)) - (\\(^2_3\\)) = (\\(^{x - 2}_{y -\u00a03}\\))\nSince \\(\\over{PS}\\) = \\(\\over{QR}\\), it flows that (\\(^{x - 2}_{y - 3}\\)) = (\\(^{-1}_{-1}\\)). Therefore, x - 2 = -1 which solved will yield x = 1.\nAlso, y - 3 = -1 which implies that y = 2\n(b)(i), Since the particle starts from rest, the initial velocity (u) = 0 and substituting for final velocity (v) and distance (s) into the formula v\\(^2\\) = u\\(^2\\) + 2as to obtain 20\\(^2\\) = 0 + 2a(8) and when simplifies and solved for acceleration (a), to get a = 25ms\\(^{-2}\\)\n(b)(ii), S = ut + \\(\\frac{1}{2}\\)at\\(^2\\), where s = 40, u = 0 and a = 25\nSubstituting these values into the equation we obtain 40 = 0 + \\(\\frac{1}{2}\\) x 25t\\(^2\\) and solving for t gave t = 1.79 seconds.",
+    "explanation": "\\(\\over{PS}\\) = \\(\\over{OS}\\) - \\(\\over{OP}\\) = (\\(^{-2}_3\\)) - (\\(^{-1}_4\\)) = (\\(^{-1}_{-1}\\))\nSimilarly \\(\\over{QR}\\) = \\(\\over{OR}\\) -\u00a0\\(\\over{OQ}\\) = (\\(^x_y\\)) - (\\(^2_3\\)) = (\\(^{x - 2}_{y -\u00a03}\\))\nSince \\(\\over{PS}\\) = \\(\\over{QR}\\), it flows that (\\(^{x - 2}_{y - 3}\\)) = (\\(^{-1}_{-1}\\)). Therefore, x - 2 = -1 which solved will yield x = 1.\nAlso, y - 3 = -1 which implies that y = 2\n(b)(i), Since the particle starts from rest, the initial velocity (u) = 0 and substituting for final velocity (v) and distance (s) into the formula v\\(^2\\) = u\\(^2\\) + 2as to obtain 20\\(^2\\) = 0 + 2a(8) and when simplifies and solved for acceleration (a), to get a = 25ms\\(^{-2}\\)\n(b)(ii), S = ut + \\(\\frac{1}{2}\\)at\\(^2\\), where s = 40, u = 0 and a = 25\nSubstituting these values into the equation we obtain 40 = 0 + \\(\\frac{1}{2}\\) x 25t\\(^2\\) and solving for t gave t = 1.79 seconds.",
+    "year": "2019"
+  },
+  {
+    "number": "231",
+    "text": "Forces(5N, 030\\(^o\\)), (PN, 060\\(^o\\)), (QN, 150\\(^o\\)), (3N, 180\\(^o\\)) and (5N, 270\\(^o\\)) act on a body . If the system is in quilibrium, find, correct to one decimal place, the values of P and Q",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56582?exam_type=waec&type=theory&page=47",
+    "correct_answer": "They were expected to resolve the forces vertically and horizontally to have; (\\(^{5 \\cos 60^o}_{5 \\sin 60^o}\\)) + (\\(^{P \\cos 30^o}_{P\u00a0\\sin 30^o}\\)) + (\\(^{Q\u00a0\\cos 60^o}_{-Q\u00a0\\sin 60^o}\\)) + (\\(^{3\u00a0\\cos 90^o}_{-3\u00a0\\sin 90^o}\\)) +\u00a0 (\\(^{-5\u00a0\\cos 0^o}_{5 \\sin 0^o}\\)) = (\\(^0_0\\))\nwhich simplifies to;\n(\\(^{0.866P + 0.5Q}_{0.5P -\u00a00.866Q}\\)) = (\\(^{2.5}_{-1.33}\\))\nThis will yield two equations to be solved, the equations are\u00a0 0.866P + 0.5Q = 2.5 and 0.5P - 0.866Q = -1.33\nWhen these equations are solved, they will give P = 1.5 and Q = 2.4019",
+    "explanation": "They were expected to resolve the forces vertically and horizontally to have; (\\(^{5 \\cos 60^o}_{5 \\sin 60^o}\\)) + (\\(^{P \\cos 30^o}_{P\u00a0\\sin 30^o}\\)) + (\\(^{Q\u00a0\\cos 60^o}_{-Q\u00a0\\sin 60^o}\\)) + (\\(^{3\u00a0\\cos 90^o}_{-3\u00a0\\sin 90^o}\\)) +\u00a0 (\\(^{-5\u00a0\\cos 0^o}_{5 \\sin 0^o}\\)) = (\\(^0_0\\))\nwhich simplifies to;\n(\\(^{0.866P + 0.5Q}_{0.5P -\u00a00.866Q}\\)) = (\\(^{2.5}_{-1.33}\\))\nThis will yield two equations to be solved, the equations are\u00a0 0.866P + 0.5Q = 2.5 and 0.5P - 0.866Q = -1.33\nWhen these equations are solved, they will give P = 1.5 and Q = 2.4019",
+    "year": "2019"
+  },
+  {
+    "number": "232",
+    "text": "(a) Find the coordinates of the point which divides the line joining (7, -5) and (-2, 7) externally in the ration 3 : 2.\n(b) Without using calculators or mathematical tables, evaluate \\(\\frac{2}{1 + \\sqrt{2}}\\) - \\(\\frac{2}{2 + \\sqrt{2}}\\), leaving the answer in the form p + q\\(\\sqrt{n}\\), where p, q and n are integers.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56585?exam_type=waec&type=theory&page=47",
+    "correct_answer": "(a) If we let P(x, y) be the coordinates of the point, then we would have;\nP(x, y) = (\\(\\frac{(3)(-2) - (2)(7)}{3 -2}\\), \\(\\frac{(3)(7) - (2)(5)}{3- 2}\\)) = (\\(\\frac{-6 - 14}{1}\\)), \\(\\frac{21 - 18}{1}\\)) = (-20, 31)\n(b), They took the L.C.M. and arrived at \\(\\frac{2}{1 - \\sqrt{2}}\\)\u00a0 - \\(\\frac{2}{2 - \\sqrt{2}}\\) = \\(\\frac{2(2 + \\sqrt{2}) - 2 (1\u00a0- \\sqrt{2})}{(1 - \\sqrt{2})(2 + \\sqrt{2})}\\)\nSimplify and rationalize to get -4 - \\(\\sqrt{2}\\)",
+    "explanation": "(a) If we let P(x, y) be the coordinates of the point, then we would have;\nP(x, y) = (\\(\\frac{(3)(-2) - (2)(7)}{3 -2}\\), \\(\\frac{(3)(7) - (2)(5)}{3- 2}\\)) = (\\(\\frac{-6 - 14}{1}\\)), \\(\\frac{21 - 18}{1}\\)) = (-20, 31)\n(b), They took the L.C.M. and arrived at \\(\\frac{2}{1 - \\sqrt{2}}\\)\u00a0 - \\(\\frac{2}{2 - \\sqrt{2}}\\) = \\(\\frac{2(2 + \\sqrt{2}) - 2 (1\u00a0- \\sqrt{2})}{(1 - \\sqrt{2})(2 + \\sqrt{2})}\\)\nSimplify and rationalize to get -4 - \\(\\sqrt{2}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "233",
+    "text": "How many terms of the series -3 -1 + 1 +..... add up to 165?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56588?exam_type=waec&type=theory&page=47",
+    "correct_answer": "Observe that the common difference = 2, substitute to get 165 = \\(\\frac{n}{2}\\)[2(-3) + (n - 1)2]\nn\\(^2\\) - 4n - 165 = 0\nn = 15 or n = -11\nTherefore, the number of terms is 15 as n cannot be negative.",
+    "explanation": "Observe that the common difference = 2, substitute to get 165 = \\(\\frac{n}{2}\\)[2(-3) + (n - 1)2]\nn\\(^2\\) - 4n - 165 = 0\nn = 15 or n = -11\nTherefore, the number of terms is 15 as n cannot be negative.",
+    "year": "2019"
+  },
+  {
+    "number": "234",
+    "text": "If sin x \\(\\frac{P - Q}{P + Q}\\), where 0\\(^o\\) \\(\\leq\\) x\u00a0\\(\\leq\\) 90\\(^o\\), find 1 - tan\\(^2\\)x",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56589?exam_type=waec&type=theory&page=47",
+    "correct_answer": "Let w\u00a0be the adjacent side, then w\\(^2\\) = (P + q)\\(^2\\) = 4pq so that w = 2\\(\\sqrt{pq}\\)\nSince tan x \\(\\frac{p - q}{2\\sqrt{pq}}\\),\nsubstituting; 1 - tan\\(^2\\)x = 1 - (\\(\\frac{p - q}{2\\sqrt{pq}}\\))\\(^2\\)\n= 1 - \\(\\frac{P^2 - 2pq + q^2}{4pq}\\)\n= \\(\\frac{4pq - p^2 + 2pq - q^2}{4pq}\\)\nTherefore, 1 - tan\\(^2\\)x = \\(\\frac{6pq - p^2\u00a0- q^2}{4pq}\\)",
+    "explanation": "Let w\u00a0be the adjacent side, then w\\(^2\\) = (P + q)\\(^2\\) = 4pq so that w = 2\\(\\sqrt{pq}\\)\nSince tan x \\(\\frac{p - q}{2\\sqrt{pq}}\\),\nsubstituting; 1 - tan\\(^2\\)x = 1 - (\\(\\frac{p - q}{2\\sqrt{pq}}\\))\\(^2\\)\n= 1 - \\(\\frac{P^2 - 2pq + q^2}{4pq}\\)\n= \\(\\frac{4pq - p^2 + 2pq - q^2}{4pq}\\)\nTherefore, 1 - tan\\(^2\\)x = \\(\\frac{6pq - p^2\u00a0- q^2}{4pq}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "235",
+    "text": "Three forces N, 14N and 16N acting on a particle keep it in equilibrium. Find the angle between the forces 10N and 16N.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56590?exam_type=waec&type=theory&page=47",
+    "correct_answer": "If we let \\(\\beta\\) \u00a0be the angle between the forces 10N and 16N,\nthen \\(\\beta\\) = (180\\(^o\\) - \\(\\theta\\))\nApplying the cosine rule; cos\\(\\theta\\) = \\(\\frac{10^2 + 16^2 - 14^2}{2 \\times 10 \\times 16}\\) = 0.5\nIf \\(\\theta\\) = cos\\(^{-1}\\)(0.5) = 60\\(^o\\)\n\\(\\beta\\) = 180\\(^o\\) - 60\\(^o\\) = 120\\(^o\\)",
+    "explanation": "If we let \\(\\beta\\) \u00a0be the angle between the forces 10N and 16N,\nthen \\(\\beta\\) = (180\\(^o\\) - \\(\\theta\\))\nApplying the cosine rule; cos\\(\\theta\\) = \\(\\frac{10^2 + 16^2 - 14^2}{2 \\times 10 \\times 16}\\) = 0.5\nIf \\(\\theta\\) = cos\\(^{-1}\\)(0.5) = 60\\(^o\\)\n\\(\\beta\\) = 180\\(^o\\) - 60\\(^o\\) = 120\\(^o\\)",
+    "year": "2019"
+  },
+  {
+    "number": "236",
+    "text": "A uniform beam, WX, of length 90 cm and weight 50N is suspended on a pivot, 35 cm from W. It is kept in equilibrum by a means of forces T and 20N applied at Y and Z respectively. |WY| = 10cm and |XZ| = 10cm. Find the value of T",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56591?exam_type=waec&type=theory&page=48",
+    "correct_answer": "The weight 50N acts at G, the centre of the beam. Given that the system is in equilibrium, therefore taking moments about the pivot, we have 25 x T = 50 x 10 x 45 and when simplified and solved for T\nT = \\(\\frac{1500}{25}\\) = 56N",
+    "explanation": "The weight 50N acts at G, the centre of the beam. Given that the system is in equilibrium, therefore taking moments about the pivot, we have 25 x T = 50 x 10 x 45 and when simplified and solved for T\nT = \\(\\frac{1500}{25}\\) = 56N",
+    "year": "2019"
+  },
+  {
+    "number": "237",
+    "text": "The table shows the age distribution in years of a group of people\u00a0\n\n\n\nAge(in years)\u00a0\n1 - 5\n6 - 10\n11 - 15\n16 - 20\n21 - 25\n26 - 30\n\n\nNumber of people\n18\n12\n25\n15\n20\n10\n\n\n\nUsing an assume mean of 13 years, find the mean age of the people.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56592?exam_type=waec&type=theory&page=48",
+    "correct_answer": "AgeClass Mark(x)Freq(f)d\u00a0 = x - AFd1 - 5318-10-1806 - 10812-5-6011 - 1513250016 - 20181557521 - 2523201020026 - 30281015150Total100185\nWhere A is the assumed mean = 13\nsubstituting, mean = 13 + \\(\\frac{18}{100}\\) = 13 + 1.85\n= 14.85 years",
+    "explanation": "AgeClass Mark(x)Freq(f)d\u00a0 = x - AFd1 - 5318-10-1806 - 10812-5-6011 - 1513250016 - 20181557521 - 2523201020026 - 30281015150Total100185\nWhere A is the assumed mean = 13\nsubstituting, mean = 13 + \\(\\frac{18}{100}\\) = 13 + 1.85\n= 14.85 years",
+    "year": "2019"
+  },
+  {
+    "number": "238",
+    "text": "Two fair dice are thrown together two times. Find the probability of obtaining a sum of seven in the first throw and a sum of four in the second throw.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56593?exam_type=waec&type=theory&page=48",
+    "correct_answer": "+123456123456723456783456789456789105678910116789101112\nP(a sum of 7) = \\(\\frac{6}{36}\\) and P(a sum of 4) = \\(\\frac{3}{36}\\)\nP(a sum of 4) = \\(\\frac{3}{36}\\)\nP(a sum of 7 and a sum of 4) = \\(\\frac{6}{36} \\times \\frac{3}{36}\\) = \\(\\frac{1}{72}\\)",
+    "explanation": "+123456123456723456783456789456789105678910116789101112\nP(a sum of 7) = \\(\\frac{6}{36}\\) and P(a sum of 4) = \\(\\frac{3}{36}\\)\nP(a sum of 4) = \\(\\frac{3}{36}\\)\nP(a sum of 7 and a sum of 4) = \\(\\frac{6}{36} \\times \\frac{3}{36}\\) = \\(\\frac{1}{72}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "239",
+    "text": "The curve y = 7 - \\(\\frac{6}{x}\\) and the line y + 2x - 3 = 0 intersect at two point. Finf the;\n(a) coordinates of the two points\n(b) equation of the perpendicular bisector of the line joining the two points",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56594?exam_type=waec&type=theory&page=48",
+    "correct_answer": "(a) 7 - \\(\\frac{6}{x} = 3 - 2x\\)\nSimplifying; \\(x^2 + 2x - 2 = 0\\)\nx = 1 or\u00a0x = -3\nSubstituting for x;\u00a0 y = 3 - 2(1) = 3 - 2 = 1 or y = 3 - 2(-3) = 3 + 6 = 9\nThe coordinate of the two points are (x y) = (1, 1), (-3, 9)\n(b) (\\(\\frac{1 - 3}{2}, \\frac{1 + 9}{2}\\)) = (-1, 5)\nThe gradient of the point of intersection ; \\(\\frac{9 - 1}{-3 -1} = \\frac{8}{-4}\\) = -2\nThe gradient of the perpendicular bisector; \\(\\frac{1}{2}\\)\nThus, the equation of the perpendicular bisector; y - 5 = \\(\\frac{1}{2}\\) (x + 1)\nTherefore, 2y - x - 11 = 0",
+    "explanation": "(a) 7 - \\(\\frac{6}{x} = 3 - 2x\\)\nSimplifying; \\(x^2 + 2x - 2 = 0\\)\nx = 1 or\u00a0x = -3\nSubstituting for x;\u00a0 y = 3 - 2(1) = 3 - 2 = 1 or y = 3 - 2(-3) = 3 + 6 = 9\nThe coordinate of the two points are (x y) = (1, 1), (-3, 9)\n(b) (\\(\\frac{1 - 3}{2}, \\frac{1 + 9}{2}\\)) = (-1, 5)\nThe gradient of the point of intersection ; \\(\\frac{9 - 1}{-3 -1} = \\frac{8}{-4}\\) = -2\nThe gradient of the perpendicular bisector; \\(\\frac{1}{2}\\)\nThus, the equation of the perpendicular bisector; y - 5 = \\(\\frac{1}{2}\\) (x + 1)\nTherefore, 2y - x - 11 = 0",
+    "year": "2019"
+  },
+  {
+    "number": "240",
+    "text": "(a) Find the range of value of p for which 4x\\(^2\\) - px + 1 = 0\u00a0\n(b)(i) Expand (1 + 3x)\\(^6\\) in ascending powers of x\n(ii) Using the expression in 10\n(ii) find, correct to four significant figures, the value of (1.03)\\(^6\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56595?exam_type=waec&type=theory&page=48",
+    "correct_answer": "(a) The range of values of p must satisfy p\\(^2\\) - 4 x 4 x 1 \\(\\geq\\) 0 which will simplify to (p - 4)(p + 4) \\(\\geq\\) 0\nThus;\u00a0 p \\(\\geq\\) -4 or p \\(\\leq\\) 4\n(b)(i) (1 + 3x)\\(^6\\) which is to be in ascending powers of x as (\\(^6_0\\))(3x)\\(^o\\) +\u00a0(\\(^6_1\\))(3x)\\(^1\\) +\u00a0(\\(^6_2\\))(3x)\\(^2\\) +\u00a0(\\(^6_3\\))(3x)\\(^3\\) +\u00a0(\\(^6_4\\))(3x)\\(^4\\) +\u00a0(\\(^6_5\\))(3x)\\(^5\\) +\u00a0(\\(^6_6\\))(3x)\\(^6\\)\n= 1 + 18x + 135x\\(^2\\) + 540x\\(^3\\) + 1215x\\(^4\\) + 1458x\\(^5\\) + 729x\\(^6\\)\n(b)(ii) Observe that 1 + 3x = 1.03\nx = 0.01\nSubstituting for x in the expansion;\n(1.03)\\(^6\\) = 1 + 18(0.01) + 135(0.01)\\(^2\\) + 540(0.01)\\(^3\\) + 1215(0.01)\\(^4\\) + 1458(0.01)\\(^5\\)\u00a0+ 729(0.01)\\(^6\\)\n= 1 + 0.18 + 0.0135 + 0.00054 + 0.00001215 + ...\n= 1.19405215\n= 1.194 correct to four significant figures.",
+    "explanation": "(a) The range of values of p must satisfy p\\(^2\\) - 4 x 4 x 1 \\(\\geq\\) 0 which will simplify to (p - 4)(p + 4) \\(\\geq\\) 0\nThus;\u00a0 p \\(\\geq\\) -4 or p \\(\\leq\\) 4\n(b)(i) (1 + 3x)\\(^6\\) which is to be in ascending powers of x as (\\(^6_0\\))(3x)\\(^o\\) +\u00a0(\\(^6_1\\))(3x)\\(^1\\) +\u00a0(\\(^6_2\\))(3x)\\(^2\\) +\u00a0(\\(^6_3\\))(3x)\\(^3\\) +\u00a0(\\(^6_4\\))(3x)\\(^4\\) +\u00a0(\\(^6_5\\))(3x)\\(^5\\) +\u00a0(\\(^6_6\\))(3x)\\(^6\\)\n= 1 + 18x + 135x\\(^2\\) + 540x\\(^3\\) + 1215x\\(^4\\) + 1458x\\(^5\\) + 729x\\(^6\\)\n(b)(ii) Observe that 1 + 3x = 1.03\nx = 0.01\nSubstituting for x in the expansion;\n(1.03)\\(^6\\) = 1 + 18(0.01) + 135(0.01)\\(^2\\) + 540(0.01)\\(^3\\) + 1215(0.01)\\(^4\\) + 1458(0.01)\\(^5\\)\u00a0+ 729(0.01)\\(^6\\)\n= 1 + 0.18 + 0.0135 + 0.00054 + 0.00001215 + ...\n= 1.19405215\n= 1.194 correct to four significant figures.",
+    "year": "2019"
+  },
+  {
+    "number": "241",
+    "text": "In an examination, 60% of the candidates passed. If 10\u00a0candidates are selected at random, find the probability that;\n(1) at least two of the, failed\n(2) exactly half of them passed\u00a0\n(3) at most two of them failed",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56605?exam_type=waec&type=theory&page=49",
+    "correct_answer": "The probability of success (p) = \\(\\frac{3}{5}\\) and the probability of failure (q) = 1 - \\(\\frac{3}{5} = \\frac{2}{5}\\)\nThe probability that at least two of them failed is\nP(x \\(\\geq\\) 2) = 1 - p(x < 2) = 1 - [P(x = 0)] + [P(x = 1)]= 1 - [(\\(^{10}_{0}\\)) (\\(\\frac{2}{5}\\))\\(^0\\) (\\(\\frac{3}{5}\\))\\(^{10}\\) + (\\(^{10}_1\\)) (\\(\\frac{2}{5}\\))\\(^1\\) (\\(\\frac{3}{5}\\))\\(^9\\)]\nWhich simplified to 1 - 0.046357401 = 0.9536 correct to four decimal places\n(b) The probability that exactly half of them passes is P(x = 6) =\u00a0(\\(^{10}_{5}\\)) (\\(\\frac{3}{5}\\))\\(^5\\) (\\(\\frac{2}{5}\\))\\(^{5}\\)\nSimplified to give; 252 x 0.7776 x 0.01024 = 0.2007 correct to four decimal places\n(c) The probability that at most two of them failed is\nP(x \\(\\leq\\) 2) = P(x = 0) + P(x = 1) + P(x = 2). In this case p = \\(\\frac{2}{5}\\) q = \\(\\frac{3}{5}\\) so that\np(x \\(\\leq\\) 2) =\u00a0(\\(^{10}_{0}\\)) (\\(\\frac{2}{5}\\))\\(^0\\) (\\(\\frac{3}{5}\\))\\(^{10}\\) + (\\(^{10}_1\\)) (\\(\\frac{2}{5}\\))\\(^1\\) (\\(\\frac{3}{5}\\))\\(^9\\) +\u00a0(\\(^{10}_{2}\\)) (\\(\\frac{2}{5}\\))\\(^2\\) (\\(\\frac{3}{5}\\))\\(^{8}\\)\nWhich simplies to 0.1673 correct to four decimal places.",
+    "explanation": "The probability of success (p) = \\(\\frac{3}{5}\\) and the probability of failure (q) = 1 - \\(\\frac{3}{5} = \\frac{2}{5}\\)\nThe probability that at least two of them failed is\nP(x \\(\\geq\\) 2) = 1 - p(x < 2) = 1 - [P(x = 0)] + [P(x = 1)]= 1 - [(\\(^{10}_{0}\\)) (\\(\\frac{2}{5}\\))\\(^0\\) (\\(\\frac{3}{5}\\))\\(^{10}\\) + (\\(^{10}_1\\)) (\\(\\frac{2}{5}\\))\\(^1\\) (\\(\\frac{3}{5}\\))\\(^9\\)]\nWhich simplified to 1 - 0.046357401 = 0.9536 correct to four decimal places\n(b) The probability that exactly half of them passes is P(x = 6) =\u00a0(\\(^{10}_{5}\\)) (\\(\\frac{3}{5}\\))\\(^5\\) (\\(\\frac{2}{5}\\))\\(^{5}\\)\nSimplified to give; 252 x 0.7776 x 0.01024 = 0.2007 correct to four decimal places\n(c) The probability that at most two of them failed is\nP(x \\(\\leq\\) 2) = P(x = 0) + P(x = 1) + P(x = 2). In this case p = \\(\\frac{2}{5}\\) q = \\(\\frac{3}{5}\\) so that\np(x \\(\\leq\\) 2) =\u00a0(\\(^{10}_{0}\\)) (\\(\\frac{2}{5}\\))\\(^0\\) (\\(\\frac{3}{5}\\))\\(^{10}\\) + (\\(^{10}_1\\)) (\\(\\frac{2}{5}\\))\\(^1\\) (\\(\\frac{3}{5}\\))\\(^9\\) +\u00a0(\\(^{10}_{2}\\)) (\\(\\frac{2}{5}\\))\\(^2\\) (\\(\\frac{3}{5}\\))\\(^{8}\\)\nWhich simplies to 0.1673 correct to four decimal places.",
+    "year": "2019"
+  },
+  {
+    "number": "242",
+    "text": "In a research to determine the relationship between performance of students in an entrance examination and subsequent school performance, the results of ten randomly selected students wre obtained as follows;\n\n\n\nStudents\nA\nB\nC\nD\nE\nF\nG\nH\nI\n\n\nPerformance in Entrance Examination\n11\n12\n8\n13\n6\n15\n10\n14\n17\n\n\nSchool Performance\n5\n10\n9\n7\n4\n8\n6\n14\n11\n\n\n\n1, Calculate the spearman's rank correlation coefficient\n2. What would be the researcher's from the result in a?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56606?exam_type=waec&type=theory&page=49",
+    "correct_answer": "(a)\nR\\(_1\\)45261837109R\\(_2\\)27641531089d\\(_1\\)2-2-42030-320d\\(_2\\)44164090940\nThen \\(\\sum d_1^2\\) = 50\nThe spearman's coefficient = 1 - \\(\\frac{6 \\times 50}{10(100 - 1)}\\) = 1 - 0.30303 = 0.697\n(b) We conclude that there exist positive correlation between performance in entrance examination and school performance",
+    "explanation": "(a)\nR\\(_1\\)45261837109R\\(_2\\)27641531089d\\(_1\\)2-2-42030-320d\\(_2\\)44164090940\nThen \\(\\sum d_1^2\\) = 50\nThe spearman's coefficient = 1 - \\(\\frac{6 \\times 50}{10(100 - 1)}\\) = 1 - 0.30303 = 0.697\n(b) We conclude that there exist positive correlation between performance in entrance examination and school performance",
+    "year": "2019"
+  },
+  {
+    "number": "243",
+    "text": "A body, moving at 20ms\\(^{-1}\\) accelerates uniformly at 2\\(\\frac{1}{2}ms^{-2}\\) for 4 seconds. It continues the journey at this speed for 8 seconds, before coming to rest seconds at tseconds after with uniform retardation. If the ratio of the acceleration to retardation is 3 : 4\n(a( sketch the velocity - times graph of the journey\n(b) find t\n(c) find the total distance of the journey",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56607?exam_type=waec&type=theory&page=49",
+    "correct_answer": "(a)\n(b) If we let r be the retardation, then \\(\\frac{s}{t}\\) : r = 3 : 4\nwhen simplified, r = \\(\\frac{10}{3}\\)\nVelocity after 4 seconds = 20 + \\(\\frac{5}{2}\\) x 4 = 30ms\\(^{-1}\\)\nSo that \\(\\frac{5}{2}\\) : \\(\\frac{30}{t}\\) = \\(\\frac{3}{4}\\)\nt = 9 seconds\n(c) The total distance of the journey = {[\\(\\frac{1}{2}\\) (20 + 30)4] + (30 x 8) + \\(\\frac{1}{2}\\)(30 x 9)}\n= 100 + 240 + 135 = 475 metres",
+    "explanation": "(a)\n(b) If we let r be the retardation, then \\(\\frac{s}{t}\\) : r = 3 : 4\nwhen simplified, r = \\(\\frac{10}{3}\\)\nVelocity after 4 seconds = 20 + \\(\\frac{5}{2}\\) x 4 = 30ms\\(^{-1}\\)\nSo that \\(\\frac{5}{2}\\) : \\(\\frac{30}{t}\\) = \\(\\frac{3}{4}\\)\nt = 9 seconds\n(c) The total distance of the journey = {[\\(\\frac{1}{2}\\) (20 + 30)4] + (30 x 8) + \\(\\frac{1}{2}\\)(30 x 9)}\n= 100 + 240 + 135 = 475 metres",
+    "year": "2019"
+  },
+  {
+    "number": "244",
+    "text": "(a) Given that m = i - i, n = 2i + 3j and 2m + n - r = 0, find |r|\n(b) The distance, S metres of a moving particle at any time tseconds is given by\nS = 3t - \\(\\frac{t^3}{3}\\) + 9\nFind the;\n(i) time\n(ii) distance travelled\nWhen the particle is momentarily at rest",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/56608?exam_type=waec&type=theory&page=49",
+    "correct_answer": "(a) Substituting for m and n to get 2(i - j) + 2i + 3j - r = 0 and solving for r to get r = 4i + j\nThus |r| = \\(\\sqrt{4^2 + 1^2}\\) = \\(\\sqrt{17}\\) = 4.1231\n(b)(i) Given that S = 3t - \\(\\frac{r^3}{3}\\) + 9, they took the derivative of S with respect to t and equated to zero to obtain \\(\\frac{d_s}{d_t}\\) = 3 - t\\(^2\\) = 0\nSolve to get t = \\(\\sqrt{3}\\) = 1.7321 seconds\n(b)(ii) Substituting for (t), the distance covered is S = 3(1.7321) - \\(\\frac{(1.7321)^3}{3}\\) + 9\nTherefore; 5.1963 - 1.732198389 + 9\n= 12.4641 metres",
+    "explanation": "(a) Substituting for m and n to get 2(i - j) + 2i + 3j - r = 0 and solving for r to get r = 4i + j\nThus |r| = \\(\\sqrt{4^2 + 1^2}\\) = \\(\\sqrt{17}\\) = 4.1231\n(b)(i) Given that S = 3t - \\(\\frac{r^3}{3}\\) + 9, they took the derivative of S with respect to t and equated to zero to obtain \\(\\frac{d_s}{d_t}\\) = 3 - t\\(^2\\) = 0\nSolve to get t = \\(\\sqrt{3}\\) = 1.7321 seconds\n(b)(ii) Substituting for (t), the distance covered is S = 3(1.7321) - \\(\\frac{(1.7321)^3}{3}\\) + 9\nTherefore; 5.1963 - 1.732198389 + 9\n= 12.4641 metres",
+    "year": "2019"
+  },
+  {
+    "number": "245",
+    "text": "Simplify \\(\\frac{\u00a0 \u00a0 \u00a0 625(\\frac{3x}{4} - 1) + 125^{(x - 1)}\u00a0 \u00a0 }{5^{(3x - 2)}}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59649?exam_type=waec&type=theory&page=49",
+    "correct_answer": "\\(\\frac{625(\\frac{3x}{4} - 1) + 125^{(x - 1)}}{5^{(3x - 2)}}\\)\n\\(\\frac{5^4(\\frac{3x}{4} - 1) + 5^{3(x - 1)}}{5^{(3x - 2)}}\\)\n\\(\\frac{5^{3x - 4} + 5^{3x - 3}}{5^{3x}\u00a0 \\times 5^{-2}}\\)\n= \\(\\frac{5^{3x}(5^{-4} + 5^{-3})}{5^{3x} \\times 5{-2}}\\)\n= \\(\\frac{5^{-3}(5^{-1} + 1)}{5^{-2}}\\)\n= 5\\(^{-1} (5^{-1} + 1)\\)\n= \\(\\frac{1}{5}(\\frac{1}{5} + \\frac{1}{1}\\))\n= \\(\\frac{1}{5} \\times \\frac{6}{5} = \\frac{6}{25}\\)",
+    "explanation": "\\(\\frac{625(\\frac{3x}{4} - 1) + 125^{(x - 1)}}{5^{(3x - 2)}}\\)\n\\(\\frac{5^4(\\frac{3x}{4} - 1) + 5^{3(x - 1)}}{5^{(3x - 2)}}\\)\n\\(\\frac{5^{3x - 4} + 5^{3x - 3}}{5^{3x}\u00a0 \\times 5^{-2}}\\)\n= \\(\\frac{5^{3x}(5^{-4} + 5^{-3})}{5^{3x} \\times 5{-2}}\\)\n= \\(\\frac{5^{-3}(5^{-1} + 1)}{5^{-2}}\\)\n= 5\\(^{-1} (5^{-1} + 1)\\)\n= \\(\\frac{1}{5}(\\frac{1}{5} + \\frac{1}{1}\\))\n= \\(\\frac{1}{5} \\times \\frac{6}{5} = \\frac{6}{25}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "246",
+    "text": "Given that M :\u00a0(x, y) \\(\\to\\) (7x, 3x - y) and N : (x, y) \\(\\to\\) (2x - y; 5x + 3y)\u00a0\n(a) write down matrices M and N of the linear transformation\n(b) find the image of P(2, -3) under the linear transformation N followed by M;\n(c) find the coordinates of the point Q whose image is Q(2, 4) under the linear transformation N",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59650?exam_type=waec&type=theory&page=50",
+    "correct_answer": "M = \\(\\begin {pmatrix} 0 & 7 \\\\ 3 & -1 \\end {pmatrix}\\)\nN =\u00a0\\(\\begin {pmatrix} \u00a02 & -1 \\\\ 5 & 3 \\end {pmatrix}\\)\n(b) p(2,-3) = (2(2) + 3, 5(2) + 3(-3))\n= (7, 10 - 9) = (7, 1)\np(7, 1) = (7(1), 2(7) - 1)\n= (7, 21, -1) = (7, 20)\n(c) Q`(2, 4) = (2(2) - 4, 5(2) + 14)\n= (4 - 4, 10 + 12)\n= (0, 22)",
+    "explanation": "M = \\(\\begin {pmatrix} 0 & 7 \\\\ 3 & -1 \\end {pmatrix}\\)\nN =\u00a0\\(\\begin {pmatrix} \u00a02 & -1 \\\\ 5 & 3 \\end {pmatrix}\\)\n(b) p(2,-3) = (2(2) + 3, 5(2) + 3(-3))\n= (7, 10 - 9) = (7, 1)\np(7, 1) = (7(1), 2(7) - 1)\n= (7, 21, -1) = (7, 20)\n(c) Q`(2, 4) = (2(2) - 4, 5(2) + 14)\n= (4 - 4, 10 + 12)\n= (0, 22)",
+    "year": "2019"
+  }
+]

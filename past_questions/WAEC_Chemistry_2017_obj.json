@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1225",
+    "text": "Which of the following species determines the chemical properties of an atom?",
+    "options": {
+      "A": "Electron",
+      "B": "Neutron",
+      "C": "Nucleus",
+      "D": "Proton"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49180?exam_type=waec&type=obj&page=245",
+    "correct_answer": "A",
+    "explanation": "An element's chemical properties depend on its valence electrons.The chemical properties of elements depend on an element's electron configuration.",
+    "year": "2017"
+  },
+  {
+    "number": "1226",
+    "text": "The following glasswares are used to measure the volume of liquids EXCEPT",
+    "options": {
+      "A": "graduated beaker",
+      "B": "pipette",
+      "C": "test tube",
+      "D": "burette"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49181?exam_type=waec&type=obj&page=246",
+    "correct_answer": "C",
+    "explanation": "Test tubes are convenient containers for heating small amounts of liquids or solids with a Bunsen burner or alcohol burner.",
+    "year": "2017"
+  },
+  {
+    "number": "1227",
+    "text": "Pauli exclusion principle is related to",
+    "options": {
+      "A": "quantity of electrons in the valence shell",
+      "B": "filling the orbitals with lower energy first",
+      "C": "the filling of degenerated orbitals",
+      "D": "quantum numbers of electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49183?exam_type=waec&type=obj&page=246",
+    "correct_answer": "D",
+    "explanation": "Pauli Exclusion Principle states that, in an atom or molecule, no two electrons can have the same four electronic quantum numbers.",
+    "year": "2017"
+  },
+  {
+    "number": "1228",
+    "text": "The species with no electron in the 3d-orbital is",
+    "options": {
+      "A": "\\(Zn^{2+}\\)",
+      "B": "\\(Sc^{3+}\\)",
+      "C": "Cu",
+      "D": "\\(Mn\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49188?exam_type=waec&type=obj&page=246",
+    "correct_answer": "B",
+    "explanation": "Scandium has electronic configuration \\(1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}3d^{1}4s^{2}\\) hence, \\(Sc^{3+}\\) has configuration \\(1s^{2}2s^{2}2p^{6}3s^{2}3p^{6}\\). Hence, no electron in the 3d-orbital.",
+    "year": "2017"
+  },
+  {
+    "number": "1229",
+    "text": "The seperation of Nitrogen from oxygen using fractional distillation of air is possible because",
+    "options": {
+      "A": "nitrogen is less dense than oxygen",
+      "B": "oxygen is more reactive than nitrogen",
+      "C": "of the difference in their boiling points",
+      "D": "they belong to the same period"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49192?exam_type=waec&type=obj&page=246",
+    "correct_answer": "C",
+    "explanation": "The various gases vaporize as their boiling points are reached, then they are pumped away and separately re-liquefied for convenient storage.",
+    "year": "2017"
+  },
+  {
+    "number": "1230",
+    "text": "The purity of a solid sample can best be determined by its",
+    "options": {
+      "A": "boiling point",
+      "B": "melting point",
+      "C": "conductivity",
+      "D": "solubility"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49194?exam_type=waec&type=obj&page=246",
+    "correct_answer": "B",
+    "explanation": "The purity of a solid can be determined by measuring the melting point. A pure solid will have a single, sharp melting point.",
+    "year": "2017"
+  },
+  {
+    "number": "1231",
+    "text": "The mass of one mole of \\((NH_{4})_{2}CO_{3}\\) is \u00a0 [O=16.0, N=14.0, C=12.0, H=1.0]",
+    "options": {
+      "A": "66.0g",
+      "B": "76.0g",
+      "C": "80.0g",
+      "D": "96.0g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49199?exam_type=waec&type=obj&page=247",
+    "correct_answer": "D",
+    "explanation": "This is same as asking for the molar mass of the compound\n= \\((2\\times 14.0)+ (8\\times 1.0) + 12.0+(16.0\\times 3)\\)\n= 28.0+8.0+12.0+48.0 = 96.0g",
+    "year": "2017"
+  },
+  {
+    "number": "1232",
+    "text": "Atomic orbital is",
+    "options": {
+      "A": "the circular path through which electrons revolve round the nucleus",
+      "B": "a region around the nucleus where electrons are most likely to be found",
+      "C": "the path around the nucleus through which electrons move",
+      "D": "the path around the nucleus through which protons move"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49201?exam_type=waec&type=obj&page=247",
+    "correct_answer": "B",
+    "explanation": "The orbital is a path or region around the nucleus. The electrons move in the orbitals and not through it.",
+    "year": "2017"
+  },
+  {
+    "number": "1233",
+    "text": "The property of elements which increases down a group of the periodic table is",
+    "options": {
+      "A": "electronegativity",
+      "B": "electron affinity",
+      "C": "ionic radius",
+      "D": "ionization energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49203?exam_type=waec&type=obj&page=247",
+    "correct_answer": "C",
+    "explanation": "The ionic radius decreases across a period but increases along a group.",
+    "year": "2017"
+  },
+  {
+    "number": "1234",
+    "text": "The reason for the decrease in the atomic size of elements across a period is that",
+    "options": {
+      "A": "nuclear charge increases while the outermost electrons are drawn closer to the nucleus",
+      "B": "nuclear charge decreases while the outermost electrons are drawn closer to the nucleus",
+      "C": "valence electrons increase across the period while the valence shell remains constant",
+      "D": "nuclear charge decreases while the distance of the valence shell from the nucleus is increasing"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49209?exam_type=waec&type=obj&page=247",
+    "correct_answer": "A",
+    "explanation": "This is caused by the increase in the number of protons and electrons across a period.",
+    "year": "2017"
+  },
+  {
+    "number": "1235",
+    "text": "The oxidation number of nitrogen in \\(Pb(NO_{3})_{2}\\) is",
+    "options": {
+      "A": "+2",
+      "B": "+3",
+      "C": "+4",
+      "D": "+5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49213?exam_type=waec&type=obj&page=247",
+    "correct_answer": "D",
+    "explanation": "\\(Pb(NO_{3})_{2}\\) = \\(+2 +2N + (-2\\times 6) = 0\\)\n= \\(2N = 10\\)\n\u21d2 \\(N = +5\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1236",
+    "text": "Which of the following arrangements indicates the correct decreasing order of ionization energy of period 3 elements?",
+    "options": {
+      "A": "Na, Al, P, Cl",
+      "B": "Cl, P, Al, Na",
+      "C": "Na, P, Cl, Al",
+      "D": "Al, Na, P, Cl"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49216?exam_type=waec&type=obj&page=248",
+    "correct_answer": "B",
+    "explanation": "As you move across a period, first ionization energy increases.",
+    "year": "2017"
+  },
+  {
+    "number": "1237",
+    "text": "Which of the following metals has the strongest metallic bond?",
+    "options": {
+      "A": "\\(_{13}Al\\)",
+      "B": "\\(_{19}K\\)",
+      "C": "\\(_{12}Mg\\)",
+      "D": "\\(_{11}Na\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49219?exam_type=waec&type=obj&page=248",
+    "correct_answer": "A",
+    "explanation": "Aluminium has the highest magnitude of charge of +3, hence it will form a stronger metallic bond.",
+    "year": "2017"
+  },
+  {
+    "number": "1238",
+    "text": "Which of the following substances does not have van der Waals' forces?",
+    "options": {
+      "A": "Copper",
+      "B": "Graphite",
+      "C": "Neon",
+      "D": "Iodine crystals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49231?exam_type=waec&type=obj&page=248",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1239",
+    "text": "The oxidation number of X in \\(XO_{4}^{3-}\\) is",
+    "options": {
+      "A": "+1",
+      "B": "+3",
+      "C": "+4",
+      "D": "+5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49234?exam_type=waec&type=obj&page=248",
+    "correct_answer": "D",
+    "explanation": "\\(XO_{4}^{3+}\\) = \\(X + (-2\\times 4) = -3\\)\n\\(X = -3+8 = +5\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1240",
+    "text": "The ionization energy is affected by the following factors except",
+    "options": {
+      "A": "distance of the outermost electron(s) from the nucleus",
+      "B": "size of the positive nuclear charge",
+      "C": "ability to attract shared electron(s)",
+      "D": "screening effect of the inner electron(s)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49238?exam_type=waec&type=obj&page=248",
+    "correct_answer": "C",
+    "explanation": "These 3 factors affect the ionization energy:\nSize of the positive nuclear chargeSize of atom (distanceof outermost electron from the nucleus)Screening effect of inner shell electrons",
+    "year": "2017"
+  },
+  {
+    "number": "1241",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "Covalent compounds would readily ionize in solution",
+      "B": "Covalent compounds consist of ions",
+      "C": "Hydrogen bond is formed between a metal and a non-metal",
+      "D": "Ionic compounds in solution would conduct electricity"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49243?exam_type=waec&type=obj&page=249",
+    "correct_answer": "D",
+    "explanation": "One of the common features of materials with ionic bonds is that they conduct electricity when dissolved in water.",
+    "year": "2017"
+  },
+  {
+    "number": "1242",
+    "text": "The bond angle in tetrahedral molecules such as tetrachloromethane is",
+    "options": {
+      "A": "180.0\u00b0",
+      "B": "109.5\u00b0",
+      "C": "105.5\u00b0",
+      "D": "90.0\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49247?exam_type=waec&type=obj&page=249",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1243",
+    "text": "The properties of a good primary standard include the following except",
+    "options": {
+      "A": "high molecular mass",
+      "B": "low molecular mass",
+      "C": "high degree of purity",
+      "D": "readily available"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49251?exam_type=waec&type=obj&page=249",
+    "correct_answer": "B",
+    "explanation": "Characters of a good primary standard include: high purity, low reactivity with the air or surrounding environment, low hygroscopicity, large molar mass, a predictable reactivity and readily available.",
+    "year": "2017"
+  },
+  {
+    "number": "1244",
+    "text": "The use of diamond in abrasives is due to its",
+    "options": {
+      "A": "high melting point",
+      "B": "hardness",
+      "C": "octahedral shape",
+      "D": "durability"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49254?exam_type=waec&type=obj&page=249",
+    "correct_answer": "B",
+    "explanation": "Diamonds are very hard, they are often used as an abrasive.",
+    "year": "2017"
+  },
+  {
+    "number": "1245",
+    "text": "Which of the following statements about endothermic reaction is correct?",
+    "options": {
+      "A": "Activation energy is high",
+      "B": "A catalyst is required",
+      "C": "It occurs reversibly",
+      "D": "Heat energy is absorbed"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49255?exam_type=waec&type=obj&page=249",
+    "correct_answer": "D",
+    "explanation": "Endothermic reactions are those reactions which absorb energy from the surroundings and result in a net decrease in temperature.",
+    "year": "2017"
+  },
+  {
+    "number": "1246",
+    "text": "A 0.1\\(moldm^{-3}\\) solution of sodium hydroxide was diluted with distilled water to 0.001\\(moldm^{-3}\\). What is the dilution factor?",
+    "options": {
+      "A": "1000.00",
+      "B": "100.00",
+      "C": "10.00",
+      "D": "0.01"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49260?exam_type=waec&type=obj&page=250",
+    "correct_answer": "B",
+    "explanation": "The formula to calculate the dilution factor when using concentrations is\u00a0DF = \\(\\frac{C_1}{C_2}\\), where C\\(_1\\) is the initial concentration of the stock solution and C\\(_2\\) is the final concentration of the diluted solution.\nDilution factor= \\(\\frac{0.1}{0.001}\\) = 100",
+    "year": "2017"
+  },
+  {
+    "number": "1247",
+    "text": "Graphite and Diamond are similar in that they",
+    "options": {
+      "A": "have octahedral shape",
+      "B": "have same density",
+      "C": "form carbon(IV) oxide on combustion",
+      "D": "conduct electricity"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49267?exam_type=waec&type=obj&page=250",
+    "correct_answer": "C",
+    "explanation": "A diamond is pure carbon. Graphite is pure carbon. Both will burn to form carbon dioxide.",
+    "year": "2017"
+  },
+  {
+    "number": "1248",
+    "text": "In a saturated solution at a given temperature, the undissolved solutes are in equilibrium with",
+    "options": {
+      "A": "the solvent",
+      "B": "dissolved solute particles",
+      "C": "the saturated solution",
+      "D": "insoluble solute particles"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49271?exam_type=waec&type=obj&page=250",
+    "correct_answer": "B",
+    "explanation": "In a saturated solutiondissolved solute and undissolved soluteare in equilibrium with each other.\u00a0 Is different from\u00a0 A saturated solution is said to be\u00a0in equilibrium with undissolved solute when the rate of dissolution of the solute equals the rate of crystallization. This means that the amount of solute being dissolved is the same as the amount of solute coming out of solution, resulting in no net change in the concentration of the solution.",
+    "year": "2017"
+  },
+  {
+    "number": "1249",
+    "text": "The number of atoms present in 2.5moles of a triatomic gas is equivalent to\u00a0 \u00a0[1mole = \\(6.02\\times 10^{23}\\)]",
+    "options": {
+      "A": "\\(2.5\\times 10^{23}\\)",
+      "B": "\\(1.5\\times 10^{23}\\)",
+      "C": "\\(1.5\\times 10^{24}\\)",
+      "D": "\\(2.5\\times 10^{24}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49274?exam_type=waec&type=obj&page=250",
+    "correct_answer": "C",
+    "explanation": "1 mole = \\(6.02 \\times 10^{23}\\)\n2.5 moles = \\(6.02 \\times 10^{23} \\times 2.5\\)\n= \\(15.05 \\times 10^{23} = 1.505 \\times 10^{24}\\)\n\\(\\approxeq 1.5 \\times 10^{24}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1250",
+    "text": "When Magnesium reacts with oxygen, heat is",
+    "options": {
+      "A": "absorbed and the reaction is endothermic",
+      "B": "evolved and the reaction is endothermic",
+      "C": "evolved and the reaction is exothermic",
+      "D": "absorbed and the reaction is exothermic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49275?exam_type=waec&type=obj&page=250",
+    "correct_answer": "C",
+    "explanation": "The Magnesium actually reacts with oxygen in the air, is burnt and produces a bright light. The bright light emits a lot of heat so the reaction is exothermic.",
+    "year": "2017"
+  },
+  {
+    "number": "1251",
+    "text": "Which of the following gases is not acidic?",
+    "options": {
+      "A": "\\(SO_{3}\\)",
+      "B": "\\(NO_{2}\\)",
+      "C": "\\(Co_{2}\\)",
+      "D": "CO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49276?exam_type=waec&type=obj&page=251",
+    "correct_answer": "D",
+    "explanation": "The compound CO is treated as a neutral oxide, though in truth, it is slightly acidic. Regardless of this, within the options supplied, CO is the best option available.",
+    "year": "2017"
+  },
+  {
+    "number": "1252",
+    "text": "A hydrocarbon contained 14.3% hydrogen. The empirical formula for the hydrocarbon is \u00a0 [H= 1.0, C= 12.0]",
+    "options": {
+      "A": "\\(CH\\)",
+      "B": "\\(CH_{2}\\)",
+      "C": "\\(CH_{3}\\)",
+      "D": "\\(CH_{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49291?exam_type=waec&type=obj&page=251",
+    "correct_answer": "B",
+    "explanation": "The percentage of Carbon in the compound is (100 - 14.3)%\u00a0 = 85.7%\nC \u00a0 \u00a0 \u00a0\u00a0 : \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 H\n\\(\\frac{85.7}{12.0} \u00a0 : \u00a0 \u00a0\u00a0 \\frac{14.3}{1.0}\\)\n\\( 7.14 \u00a0 \u00a0 : \u00a0\u00a0 14.3\\)\n\\(\\frac{7.14}{7.14} \u00a0 \u00a0 : \u00a0 \u00a0 \\frac{14.3}{7.14}\\)\n\\(\\approxeq \u00a0 1\u00a0 : \u00a0 2\\)\nTherefore, the empirical formula is \\(CH_{2}\\).",
+    "year": "2017"
+  },
+  {
+    "number": "1253",
+    "text": "Which of the following statements is NOT a chemical property of an acid?",
+    "options": {
+      "A": "Evolution of ammonia when heated with ammonium salts",
+      "B": "Evolution of carbon dioxide gas when added to a trioxocarbonate (IV) salt",
+      "C": "Formation of salt and water with alkalis",
+      "D": "Formation of salt and hydrogen gas with reactive metals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49295?exam_type=waec&type=obj&page=251",
+    "correct_answer": "A",
+    "explanation": "Ammonium salts react with bases to release ammonia and not with acids.",
+    "year": "2017"
+  },
+  {
+    "number": "1254",
+    "text": "Halogens generally react with metals to form",
+    "options": {
+      "A": "alkalis",
+      "B": "acids",
+      "C": "bases",
+      "D": "salts"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49302?exam_type=waec&type=obj&page=251",
+    "correct_answer": "D",
+    "explanation": "The word \"halogen\" is a Greek word meaning salt former, because they form salts when they react with metals eg NaCl.",
+    "year": "2017"
+  },
+  {
+    "number": "1255",
+    "text": "Potassium Chloride solid does not conduct electricity because",
+    "options": {
+      "A": "it is a covalent compound",
+      "B": "strong cohesive forces make its ions immobile",
+      "C": "strong cohesive force makes its molecule immobile",
+      "D": "each of potassium and chlorine structures contain noble gas structure"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49305?exam_type=waec&type=obj&page=251",
+    "correct_answer": "B",
+    "explanation": "For a substance to conduct electricity, it must have charge particles like electrons and ions within it that are able to move freely throughout it. In its solid state, potassium chloride (like many other ionic compounds) have fixed ions, hence, they are immobile and can't conduct electricity.",
+    "year": "2017"
+  },
+  {
+    "number": "1256",
+    "text": "When water was added to a white anhydrous substance X, the colour changed to blue. X is",
+    "options": {
+      "A": "\\(CuSO_{4}\\)",
+      "B": "\\(FeSO_{4}\\)",
+      "C": "\\(Na_{2}SO_{4}\\)",
+      "D": "\\(PbSO_{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49311?exam_type=waec&type=obj&page=252",
+    "correct_answer": "A",
+    "explanation": "When water is added to white coloured anhydrous copper sulphate, its colour changes to blue, indicating that the blue coloured copper sulphate pentahydrate is regenerated.",
+    "year": "2017"
+  },
+  {
+    "number": "1257",
+    "text": "Solubility curve can be used in the determination of the",
+    "options": {
+      "A": "amount of crystals formed",
+      "B": "amount of solvent that can be recovered",
+      "C": "amount of solid drugs in a given solution",
+      "D": "temperature of the solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49312?exam_type=waec&type=obj&page=252",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1258",
+    "text": "If 0.2g of a salt is required to saturate 200\\(cm^{3}\\) of water at room temperature, what is the solubility of the salt?",
+    "options": {
+      "A": "0.2\\(gdm^{-3}\\)",
+      "B": "1.0\\(gdm^{-3}\\)",
+      "C": "2.0\\(gdm^{-3}\\)",
+      "D": "5.0\\(gdm^{-3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49313?exam_type=waec&type=obj&page=252",
+    "correct_answer": "B",
+    "explanation": "Solubility in\u00a0\\(gdm^{-3}\\) = \\(\\frac{mass of salt in gram}{volume of liquid in dm^{3}}\\)\n200\\(cm^{3}\\) = \\(\\frac{200}{1000} dm^{3}\u00a0 = 0.2dm^{3}\\)\nSolubility = \\(\\frac{0.2g}{0.2dm^{3}}\\)\n= 1.0\\(gdm^{-3}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1259",
+    "text": "The property of a chemical reaction that is affected by the presence of a catalyst is",
+    "options": {
+      "A": "activation energy",
+      "B": "free energy",
+      "C": "equilibrium position",
+      "D": "enthalpy change"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49315?exam_type=waec&type=obj&page=252",
+    "correct_answer": "A",
+    "explanation": "The activation energy is the amount of energy that is required to form products in a reaction. The presence of a catalyst helps to speed up the reaction such that the energy needed for the reaction is reduced.",
+    "year": "2017"
+  },
+  {
+    "number": "1260",
+    "text": "Soluble salts can be prepared by the following methods except",
+    "options": {
+      "A": "neutralization",
+      "B": "reaction of an acid with trioxocarbonate(IV) salt",
+      "C": "double decomposition",
+      "D": "reaction of an acid with electropositive metals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49318?exam_type=waec&type=obj&page=252",
+    "correct_answer": "C",
+    "explanation": "Soluble salts cannot be produced by double decomposition( precipitation of an insoluble salt)",
+    "year": "2017"
+  },
+  {
+    "number": "1261",
+    "text": "Chemical reactions occurs when the colliding reactants have energy that is",
+    "options": {
+      "A": "less than the activation energy",
+      "B": "greater than the activation energy",
+      "C": "greater than the energy of the product",
+      "D": "less than the energy of effective collision"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49320?exam_type=waec&type=obj&page=253",
+    "correct_answer": "B",
+    "explanation": "The energy of the reactants must be more than the activation energy in order for product to be formed.",
+    "year": "2017"
+  },
+  {
+    "number": "1262",
+    "text": "The common feature of reactions at the anode is that",
+    "options": {
+      "A": "electrons are consumed",
+      "B": "ions are reduced",
+      "C": "oxidation is involved",
+      "D": "the electrode dissolves"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49323?exam_type=waec&type=obj&page=253",
+    "correct_answer": "C",
+    "explanation": "In both the electrochemical cell and the electrolytic cell, at the anode, oxidation is involved.",
+    "year": "2017"
+  },
+  {
+    "number": "1263",
+    "text": "Consider the following reaction equation: \\(2NO_{(g)} + O_{{2}{(g)}} \\to 2NO_{{2}{(g)}}\\). What is the change in the oxidation number of nitrogen?",
+    "options": {
+      "A": "+2 to 0",
+      "B": "+2 to -2",
+      "C": "+2 to +4",
+      "D": "+4 to +2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49324?exam_type=waec&type=obj&page=253",
+    "correct_answer": "C",
+    "explanation": "In NO, the oxidation number for nitrogen is N - 2 = 0\n\u21d2 N = +2\nIn \\(NO_{2}\\), we have N - (2x2) =0\nN - 4 =0\nN =+4",
+    "year": "2017"
+  },
+  {
+    "number": "1264",
+    "text": "Which of the following factors characterize members of the same homologous series?",
+    "options": {
+      "A": "The chemical property change gradually throughout the series",
+      "B": "physical properties of members are similar",
+      "C": "They have the same molecular formular",
+      "D": "Successive members undergo changes in molecular formula by \\(CH_{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49326?exam_type=waec&type=obj&page=253",
+    "correct_answer": "D",
+    "explanation": "The difference between every successive member of the same homologous series is always \\(CH_{2}\\) eg methane is \\(CH_{4}\\) and ethane is \\(C_{2}H_{6}\\), difference being \\(CH_{2}\\).",
+    "year": "2017"
+  },
+  {
+    "number": "1265",
+    "text": "Calculate the mass of copper deposited if a current of 0.45A flows through \\(CuSO_{4}\\) solution for 1hour 15mins. \u00a0 [Cu=64.0, S= 32.0, O =16.0, 1F= 96500C]",
+    "options": {
+      "A": "6.40g",
+      "B": "0.67g",
+      "C": "0.64g",
+      "D": "0.45g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49330?exam_type=waec&type=obj&page=253",
+    "correct_answer": "B",
+    "explanation": "\\(Cu^{2+} + 2e^{-}\u00a0 \\to\u00a0 Cu_{(s)}\\)\n\\( 2 \\times 96500C = 193000C\u00a0 deposits 64g of Cu\\)\n\\(M \\propto It\\)\n\\(Q = It = 0.45A \\times 1hr15mins\\)\n= \\( 0.45 \\times 75 \\times 60\\) [converting the time to seconds]\nQuantity of electricity passed = 2025C\n\\(193000C \\to 64g Cu\\)\n\\(1C \\to \\frac{64}{193000}\\)\n\\(2025C \\to \\frac{64}{193000} \\times 2025\\)\n\\(= 0.6715g\u00a0 \\approxeq\u00a0 0.67g\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1266",
+    "text": "Classification of alkanols is based on the",
+    "options": {
+      "A": "number of carbon atoms present in the compound",
+      "B": "molecular mass of the compound",
+      "C": "molecular formula of the compound",
+      "D": "number of alkyl groups bonded to the carbon having the hydroxyl group"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49331?exam_type=waec&type=obj&page=254",
+    "correct_answer": "D",
+    "explanation": "Alkanols can be classified as primary, secondary or tertiary, according to the number of alkyl groups attached to the carbon which bears the -OH group.",
+    "year": "2017"
+  },
+  {
+    "number": "1267",
+    "text": "The name of the compound \\(C_{4}H_{9}COOC_{3}H_{7}\\) is",
+    "options": {
+      "A": "propyl pentanoate",
+      "B": "pentyl propanoate",
+      "C": "butyl propanoate",
+      "D": "propyl butanoate"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49334?exam_type=waec&type=obj&page=254",
+    "correct_answer": "A",
+    "explanation": "The alkyl group is attached to the parent chain being a carboxylic acid. The name of the compound is gotten by writing the name of the attached alkyl group first and then the parent carboxylic acid is written but you change the -oic acid to -oate.\nThe alkyl group in this case is \\(C_{3}H_{7}\\)\nThe parent carboxylic acid is \\(C_{4}H_{9}COOH\\) which is pentanoic acid.\nHence, the name is propyl pentanoate.",
+    "year": "2017"
+  },
+  {
+    "number": "1268",
+    "text": "Which of the following pairs of gases are pollutants from car exhaust?",
+    "options": {
+      "A": "Nitrogen(II) oxide and Carbon(IV) oxide",
+      "B": "Carbon(IV) oxide and Nitrogen",
+      "C": "Carbon(II) oxide and Sulphur(IV) oxide",
+      "D": "Carbon(II) oxide and oxygen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49335?exam_type=waec&type=obj&page=254",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1269",
+    "text": "Fats and oils can be obtained from any of the following sources except",
+    "options": {
+      "A": "paraffin oil",
+      "B": "animals",
+      "C": "groundnuts",
+      "D": "palm kernel"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49336?exam_type=waec&type=obj&page=254",
+    "correct_answer": "A",
+    "explanation": "Paraffin oil is gotten from petroleum distillation and can't be a source of fats and oil.",
+    "year": "2017"
+  },
+  {
+    "number": "1270",
+    "text": "The condensation of two units of glucose will produce a dissacharide with the formula \\(C_{12}H_{22}O_{11}\\) which is",
+    "options": {
+      "A": "sucrose",
+      "B": "maltose",
+      "C": "galactose",
+      "D": "mannose"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49337?exam_type=waec&type=obj&page=254",
+    "correct_answer": "B",
+    "explanation": "A maltose is a dissacharide formed from two units of glucose.",
+    "year": "2017"
+  },
+  {
+    "number": "1271",
+    "text": "The IUPAC name for the compound \\(ClCH_{2}CH_{2}OH\\) is",
+    "options": {
+      "A": "1- chloropropanol",
+      "B": "2-chloropropanol",
+      "C": "1-chloroethanol",
+      "D": "2-chloroethanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49338?exam_type=waec&type=obj&page=255",
+    "correct_answer": "D",
+    "explanation": "The parent chain for the compound is \\(C_{2}H_{5}OH\\) in which one of the hydrogen atoms is replaced by the Cl atom. Giving the chlorine the highest number while naming, we have 2- chloroethanol.",
+    "year": "2017"
+  },
+  {
+    "number": "1272",
+    "text": "The real harmful effect of the release of chlorofluorocarbons into the atmosphere is that it eventually causes",
+    "options": {
+      "A": "excessive ultraviolet light from the sun to reach the earth surface",
+      "B": "excessive release of infrared light from the sun to the earth surface",
+      "C": "corrosive effect of the chemicals on humans and animals",
+      "D": "acidic effect of chemicals on humans"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49341?exam_type=waec&type=obj&page=255",
+    "correct_answer": "A",
+    "explanation": "Chlorofluorocarbons are harmful to environment and living beings because it increases greenhouse gases in the environment which results in forming holes in the ozone layer.. And if this happens it will cause to an increase in the ultraviolet rays exposer, and which will make the earth's surface much hotter than usual.",
+    "year": "2017"
+  },
+  {
+    "number": "1273",
+    "text": "A primary alkanol has a molecular mass of 60. What is the structural formula of the compound? [C= 12.0, H= 1.0, O= 16.0)",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49342?exam_type=waec&type=obj&page=255",
+    "correct_answer": "B",
+    "explanation": "Alkanols have the formula \\(C_{n}H_{2n+1}OH\\).\n\u21d2\u00a0 \\( 12n + (1\\times (2n+1)) + 16.0 + 1.0 = 60\\)\n= (14n +18 = 60\\)\n\\(n = \\frac{60-18}{14} = \\frac{42}{14} = 3\\)\nHence, the alkanol is gotten by putting n=3,\n=\\(C_{3}H_{7}OH\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1274",
+    "text": "Petroleum is a non-renewable source of energy because it",
+    "options": {
+      "A": "is formed naturally",
+      "B": "is cheap",
+      "C": "can be recycled after use",
+      "D": "cannot be regenerated once used up"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/49346?exam_type=waec&type=obj&page=255",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  }
+]

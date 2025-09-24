@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1506",
+    "text": "The diagram above is a micrometer screw gauge. Determine its reading.",
+    "options": {
+      "A": "2.44mm",
+      "B": "2.46mm",
+      "C": "2.86mm",
+      "D": "2.96mm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49910?exam_type=waec&type=obj&page=302",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1507",
+    "text": "Which of the following is the dimension for impulse?",
+    "options": {
+      "A": "MLT\\(^{-1}\\)",
+      "B": "MLT\\(^{-2}\\)",
+      "C": "MLT",
+      "D": "ML"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49912?exam_type=waec&type=obj&page=302",
+    "correct_answer": "A",
+    "explanation": "Impulse = Force \\(\\times\\) time\nForce has the dimension \\(\\frac{ML}{T^{2}}\\), hence\nImpulse= \\(\\frac{ML}{T^{2}} \\times T = \\frac{ML}{T}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1508",
+    "text": "A body accelerates uniformly from rest at 2\\(ms^{-2}\\). Calculate its velocity when it has travelled a distance of 9m.",
+    "options": {
+      "A": "3.0\\(ms^{-1}\\)",
+      "B": "4.5\\(ms^{-1}\\)",
+      "C": "6.0\\(ms^{-1}\\)",
+      "D": "18.0\\(ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49913?exam_type=waec&type=obj&page=302",
+    "correct_answer": "C",
+    "explanation": "Given that \\(u = 0ms^{-1}, a = 2ms^{-2}, s = 9m\\)\nWe can use the equation, \\(v^{2}=u^{2} +2as\\) so that we have,\n\\(v^{2} = 0^{2} + 2\\times 2\\times 9\\)\n\\(v^{2} = 36; v= 6.0ms^{-1}\\)\nNote; u = Initial velocity\nv = final velocity\na = acceleration\ns = distance covered",
+    "year": "2017"
+  },
+  {
+    "number": "1509",
+    "text": "Which of the following statements about matter is not correct?",
+    "options": {
+      "A": "Molecules of solids move more freely than molecules of liquids and gases",
+      "B": "Molecules of solids are more closely packed than those of liquids",
+      "C": "Energy is required to break the intermolecular forces of attraction between molecules",
+      "D": "Molecules of liquids move about within the liquid and they are in constant motion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49916?exam_type=waec&type=obj&page=302",
+    "correct_answer": "A",
+    "explanation": "All other properties of the different states of matter holds except that the molecules of solids don't move freely due to the fact that the particles in the solids are closely packed so it inhibits free motion.",
+    "year": "2017"
+  },
+  {
+    "number": "1510",
+    "text": "A ball is projected horizontally from the top of a tower. Neglecting air resistance, which of the following statements about its motion is/are correct?\nI. Vertical acceleration on the ball decreases as it falls\nII. The vertical force on the ball remains constant\nIII. The vertical speed of the ball increases as it falls",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49922?exam_type=waec&type=obj&page=302",
+    "correct_answer": "D",
+    "explanation": "The body while coming down is acted upon by acceleration due to gravity, hence, the vertical force is constant. Also, at maximum height, the vertical velocity is 0 and then increases as the body comes downward.",
+    "year": "2017"
+  },
+  {
+    "number": "1511",
+    "text": "Two forces 100N and 60N act on an object of mass 10kg as illustrated in the diagram above. Neglecting friction, calculate the acceleration of the object.",
+    "options": {
+      "A": "4.0\\(ms^{-2}\\)",
+      "B": "13.4\\(ms^{-2}\\)",
+      "C": "16.0\\(ms^{-2}\\)",
+      "D": "22.6\\(ms^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49934?exam_type=waec&type=obj&page=303",
+    "correct_answer": "B",
+    "explanation": "Resolving 100N into horizontal and vertical\n100 sin45 = 0.7071 * 100 = 70.71\n100cos45 = 70.71\nVertical forces = 100 - 70.71\u00a0\u2192 29.29\nHorizontal force = 70.71 + 60\u00a0\u2192 130.71\nResultant of vertical and horizontal forces using pythagoras thoerem\nResultant force (F) = m * a\na = F/m\u00a0\u2192 133.9/10\na = 13.4",
+    "year": "2017"
+  },
+  {
+    "number": "1512",
+    "text": "A body weighing 14N in air is partially immersed in water. If the mass of water displaced in the process is 200g, calculate the upthrust on the body. [g=10\\(m/s^{2}\\)]",
+    "options": {
+      "A": "2.0N",
+      "B": "3.0N",
+      "C": "3.5N",
+      "D": "7.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49940?exam_type=waec&type=obj&page=303",
+    "correct_answer": "A",
+    "explanation": "Upthrust = weight of liquid displaced\n= mass of liquid displaced \\(\\times\\) acceleration due to gravity\n= \\(\\frac{200}{1000} \\times 10\\)\n= 2N",
+    "year": "2017"
+  },
+  {
+    "number": "1513",
+    "text": "Which of the following processes is not a surface phenomenon?",
+    "options": {
+      "A": "Condensation",
+      "B": "Evaporation",
+      "C": "Photo Emission",
+      "D": "Thermionic Emission"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49946?exam_type=waec&type=obj&page=303",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1514",
+    "text": "A chemical balance is used for measuring",
+    "options": {
+      "A": "volume",
+      "B": "mass",
+      "C": "thickness",
+      "D": "density"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49950?exam_type=waec&type=obj&page=303",
+    "correct_answer": "B",
+    "explanation": "It is a type of beam balance with great precision, and it can pick up the slightest mass placed on it.",
+    "year": "2017"
+  },
+  {
+    "number": "1515",
+    "text": "A body is whirled round a circular path at constant speed. Which of the following diagrams correctly indicates the direction of the body's velocity (v) and its acceleration (a)?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49956?exam_type=waec&type=obj&page=303",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1516",
+    "text": "A motorist travelling at 72\\(kmh^{-1}\\) had his eyes shut for 0.4s during a hard sneeze. Calculate the distance covered by him during this time interval.",
+    "options": {
+      "A": "50.0m",
+      "B": "28.8m",
+      "C": "18.0m",
+      "D": "8.0m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49958?exam_type=waec&type=obj&page=304",
+    "correct_answer": "D",
+    "explanation": "Convert velocity from\u00a0\\(kmh^{-1}\\) to \\(ms^{-1}\\), by multiplying \\(\\frac{1000}{3600}\\),\n\\(72 \\times \\frac{1000}{3600}\\) = \\(20ms^{-1}\\)\nTherefore, distance covered in 0.4s =\u00a0 \\(20 \\times 0.4 = 8m\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1517",
+    "text": "The angle at which a projectile must be fired to cover maximum range is",
+    "options": {
+      "A": "30\u00b0",
+      "B": "45\u00b0",
+      "C": "60\u00b0",
+      "D": "90\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49961?exam_type=waec&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "The formula is \\(\\frac{v^{2}sin2\\theta}{g}\\)\nAnd the sine graph is highest at 1 with its inverse as 90\u00b0. Hence, \\(2\\theta\\) = 90\u00b0\n\\(\\theta\\) = 45\u00b0",
+    "year": "2017"
+  },
+  {
+    "number": "1518",
+    "text": "A body can undergo the following types of motion except",
+    "options": {
+      "A": "random",
+      "B": "rotational",
+      "C": "translational",
+      "D": "relative"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49964?exam_type=waec&type=obj&page=304",
+    "correct_answer": "D",
+    "explanation": "Relative motion is the calculation of the motion of an object with regard to some other moving object. Hence, relative motion is not a type of motion.",
+    "year": "2017"
+  },
+  {
+    "number": "1519",
+    "text": "Which of the following graphs correctly represents the relationship between the kinetic energy (K.E) and the displacement (d) from point of release of a swinging pendulum bob?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49965?exam_type=waec&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1520",
+    "text": "The energy stored in a spring of stiffness constant k = 2000\\(Nm^{-1}\\) when extended 4cm is",
+    "options": {
+      "A": "0.16J",
+      "B": "1.60J",
+      "C": "16.00J",
+      "D": "160.00J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49968?exam_type=waec&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "The spring constant = the measure of stiffness = 2000\\(Nm^{-1}\\)\nEnergy stored in a spring = Work done to stretch it through a distance = change in potential energy\n= \\(\\frac{kx^{2}}{2}\\) = \\(\\frac{2000 \\times (0.04)^{2}}{2}\\) (converting 4cm to metres)\n= \\(\\frac{3.2}{2} = 1.60J\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1521",
+    "text": "Ice of mass 50g at 0\u00b0C was completely melted by 70% of the total heat energy supplied. Calculate the total heat energy supplied\u00a0 [Specific latent heat of fusion of ice = 336\\(Jg^{-1}\\)]",
+    "options": {
+      "A": "2400J",
+      "B": "6800J",
+      "C": "7251J",
+      "D": "24000J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49971?exam_type=waec&type=obj&page=305",
+    "correct_answer": "D",
+    "explanation": "The quantity of heat needed to melt ice = mL (where m is the mass of ice and L is the specific latent heat of fusion of ice)\nQ = \\(50 \\times 336 = 16800J\\) but this is 70% of the total heat supplied so that we have,\n70% total heat = 16800J\n\\(\\frac{70}{100}\\) of total\u00a0heat = 16800J\n\u21d2 Total heat supplied = \\(\\frac{16800\\times100}{70} = 24000J\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1522",
+    "text": "A plane is inclined at an angle \\(\\theta\\) to the horizontal. Its velocity ratio is",
+    "options": {
+      "A": "\\(sin\\theta\\)",
+      "B": "\\(tan\\theta\\)",
+      "C": "\\(\\frac{1}{sin\\theta}\\)",
+      "D": "\\(\\frac{1}{tan\\theta}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49973?exam_type=waec&type=obj&page=305",
+    "correct_answer": "C",
+    "explanation": "Velocity ratio = \\(\\frac{Effort distance}{Load distance}\\)\nOn an inclined plane, it is the inverse of \\(sin\\theta\\) = \\(\\frac{1}{sin\\theta}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1523",
+    "text": "The diagram above illustrates a beaker of water being heated. It is observed that as the bubbles rise they get bigger in size.The reason for this observation is",
+    "options": {
+      "A": "water pressure on the bubbles decreases",
+      "B": "density of water increases with rise in temperature",
+      "C": "volume of water increases with rise in temperature",
+      "D": "atmospheric pressure on the bubbles decreases"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49975?exam_type=waec&type=obj&page=305",
+    "correct_answer": "A",
+    "explanation": "When a bubble is deep under water, it has both atmospheric pressure and water pressure (giving it depth), acting on it but as it rises, the water pressure decreases. At this point, the basic pressre acting on the bubble is the atmospheric pressure. Recall that pressure is inversely proportional to volume (Boyles' law), hence, the less the pressure, the more the volume.",
+    "year": "2017"
+  },
+  {
+    "number": "1524",
+    "text": "Which of the following devices converts light energy to electrical energy?",
+    "options": {
+      "A": "Bulb",
+      "B": "Television",
+      "C": "Solar cell",
+      "D": "Light emitting diode (LED)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49977?exam_type=waec&type=obj&page=305",
+    "correct_answer": "C",
+    "explanation": "The solar cell converts light from the sun to electricity.",
+    "year": "2017"
+  },
+  {
+    "number": "1525",
+    "text": "A motor of a corn mill machine operates on electrical energy of \\(1.44 \\times 10^{5}\\)J. If one-quarter of the energy is wasted on sound and heat, determine the efficiency of the machine.",
+    "options": {
+      "A": "25%",
+      "B": "36%",
+      "C": "64%",
+      "D": "75%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49979?exam_type=waec&type=obj&page=305",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1526",
+    "text": "Thermal energy added or removed from a substance that changes the state of the substance is called",
+    "options": {
+      "A": "latent heat",
+      "B": "heat of reaction",
+      "C": "calorimetry",
+      "D": "specific heat"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49981?exam_type=waec&type=obj&page=306",
+    "correct_answer": "A",
+    "explanation": "Latent heat is thermal energy released or absorbed, by a body or a thermodynamic system, during a constant-temperature process.",
+    "year": "2017"
+  },
+  {
+    "number": "1527",
+    "text": "The maximum density of water occurs at a temperature of",
+    "options": {
+      "A": "0\u00b0C",
+      "B": "4\u00b0C",
+      "C": "37\u00b0C",
+      "D": "273\u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49991?exam_type=waec&type=obj&page=306",
+    "correct_answer": "B",
+    "explanation": "This is as a result of the Hydrogen bonding in water. Due to the high Kinetic Energy of water, the hydrogen bonds can't hold for too long but from 4\u00b0C, there's an increase in the hydrogen bonds hence strenghtening it.\u00a0 From the point of production of more hydrogen bonds, the bonding is no longer easily broken. Generally, these and a few factors based on these cause the density of water to be maximum at 4\u00b0C.",
+    "year": "2017"
+  },
+  {
+    "number": "1528",
+    "text": "A vapour whose molecules are in dynamic equilibrium with those of its own liquid is said to be",
+    "options": {
+      "A": "unsaturated",
+      "B": "gaseous",
+      "C": "saturated",
+      "D": "diffused"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49993?exam_type=waec&type=obj&page=306",
+    "correct_answer": "C",
+    "explanation": "A saturated vapour is one which is in a dynamic equilibrium with its own liquid.",
+    "year": "2017"
+  },
+  {
+    "number": "1529",
+    "text": "The diagram above illustrates two waves of equal amplitudes A and frequencies approaching each other. When the two waves meet at a point I midway between them, the vertical displacement of the resulting wave will be",
+    "options": {
+      "A": "0",
+      "B": "\\(\\frac{A}{2}\\)",
+      "C": "\\(\\frac{A}{4}\\)",
+      "D": "\\(2A\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49997?exam_type=waec&type=obj&page=306",
+    "correct_answer": "D",
+    "explanation": "This is a type of constructive interference. When\u00a0two waves of equal amplitude are interfering constructively, the resulting amplitude is twice as large as the amplitude of an individual wave.\n= A + A = 2A",
+    "year": "2017"
+  },
+  {
+    "number": "1530",
+    "text": "A rainbow is formed when sunlight is incident on water droplets suspended in the air due to",
+    "options": {
+      "A": "interference",
+      "B": "refraction",
+      "C": "dispersion",
+      "D": "diffraction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50006?exam_type=waec&type=obj&page=306",
+    "correct_answer": "C",
+    "explanation": "Dispersionoccurs when different wavelengths of light are refracted by different amounts as they pass through the water droplets, causing the light to spread out into its constituent colors, thereby creating a rainbow.",
+    "year": "2017"
+  },
+  {
+    "number": "1531",
+    "text": "Which of the following statements about the 3rd overtone of a vibrating air column of an open pipe is correct? It has",
+    "options": {
+      "A": "4 nodes",
+      "B": "5 nodes",
+      "C": "3 antinodes",
+      "D": "4 antinodes"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50010?exam_type=waec&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "The 3rd overtone for an open pipe has 5 antinodes and 4 nodes.",
+    "year": "2017"
+  },
+  {
+    "number": "1532",
+    "text": "Consider the wave equation:\u00a0 \\(y =\u00a0 10sin(x - 50t)\\), What does the number 10 represent?",
+    "options": {
+      "A": "Acceleration",
+      "B": "Speed",
+      "C": "Amplitude",
+      "D": "Wavelength"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50012?exam_type=waec&type=obj&page=307",
+    "correct_answer": "C",
+    "explanation": "Comparing the given equation with the wave equation:\n\\(Asin(kx - \\omega t)\\), we have that A = 10 which is the amplitude of the wave.",
+    "year": "2017"
+  },
+  {
+    "number": "1533",
+    "text": "Plane waves through a narrow gap emerge as circular waves. This phenomenon is known as",
+    "options": {
+      "A": "interference",
+      "B": "dispersion",
+      "C": "refraction",
+      "D": "diffraction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50015?exam_type=waec&type=obj&page=307",
+    "correct_answer": "D",
+    "explanation": "Diffraction refers to the various things that occur when a wave encounters an obstacle. This bending of the wave after it passes a small gap is an example of diffraction.",
+    "year": "2017"
+  },
+  {
+    "number": "1534",
+    "text": "A ray of light incident at an angle \\(\\theta\\) in a rectangular prism grazes the surface of the prism on emerging from the prism. Determine the value of the angle. [Absolute refractive index of the material of the prism is 1.5]",
+    "options": {
+      "A": "41.8\u00b0",
+      "B": "48.2\u00b0",
+      "C": "60.8\u00b0",
+      "D": "90.0\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50018?exam_type=waec&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "\\(\\eta = \\frac{1}{sin\\theta}\\)\n\\(1.5 = \\frac{1}{sin\\theta}\\)\n\\(sin\\theta = \\frac{1}{1.5} = 0.667\\)\n\\(\\theta = sin^{-1}(0.667) = 41.835\u00b0\\)\n\\(\\approxeq 41.8\u00b0\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1535",
+    "text": "The diagram above illustrates a wave setup between two fixed ends 4.0m apart. If the speed of the wave is 1.0\\(ms^{-1}\\), its wavelength and frequency respectively are",
+    "options": {
+      "A": "1m; 0.25Hz",
+      "B": "2m; 0.25Hz",
+      "C": "2m; 0.50Hz",
+      "D": "4m; 0.50Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50021?exam_type=waec&type=obj&page=307",
+    "correct_answer": "C",
+    "explanation": "For the 4th harmonic, \\(L = 2\\lambda\\)\n\\(4m = 2\\lambda \\implies \\lambda = \\frac{4m}{2}\\)\n=\\(2m\\)\nRecall, \\(v = f\\lambda\\)\n\\(1 = f \\times 2 \\implies f = \\frac{1}{2}\\)\n= 0.50Hz",
+    "year": "2017"
+  },
+  {
+    "number": "1536",
+    "text": "Two plane mirrors are inclined at an angle 20\u00b0 to each other. Determine the number of images formed when an object is placed between them.",
+    "options": {
+      "A": "17",
+      "B": "18",
+      "C": "19",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50022?exam_type=waec&type=obj&page=308",
+    "correct_answer": "A",
+    "explanation": "The number of images formed = \\(\\frac{360}{n}\\) where the value gotten is odd\nelse, = \\(\\frac{360}{n} -1\\).\nSolving, we have that \\(\\frac{360}{20} = 18\\)\nHence, the no of images formed is 18 - 1 = 17.",
+    "year": "2017"
+  },
+  {
+    "number": "1537",
+    "text": "A converging lens of focal length 10cm forms an erect image three times the size of the real object. Calculate the distance between the image and the object.",
+    "options": {
+      "A": "6.6cm",
+      "B": "11.1cm",
+      "C": "13.3cm",
+      "D": "20.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50030?exam_type=waec&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "Given, image size = 3U\nobject size = U\nfocal length = 10cm\nlens to object distance = \\(\\frac{focal length \\times object size}{image size}\\)\n= \\(\\frac{10 \\times u}{3u} = 3.33\\)\ndistance between image and object = 10 + 3.33 = 13.33cm",
+    "year": "2017"
+  },
+  {
+    "number": "1538",
+    "text": "The inverse of the time required for a wave to complete one full cycle is called",
+    "options": {
+      "A": "wavelength",
+      "B": "period",
+      "C": "frequency",
+      "D": "amplitude"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50033?exam_type=waec&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "The time required to complete one full cycle is the period; the inverse of the period gives the frequency.",
+    "year": "2017"
+  },
+  {
+    "number": "1539",
+    "text": "Two bar magnets are placed near each other. Which of the following diagrams correctly illustrates the magnetic field pattern formed by the pair?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50034?exam_type=waec&type=obj&page=308",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1540",
+    "text": "The force per unit charge experienced at a point in a field is the",
+    "options": {
+      "A": "gravitational field strength",
+      "B": "electric potential",
+      "C": "electric field intensity",
+      "D": "magnetic field strength"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50035?exam_type=waec&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "Electric intensity at a point is defined as the force experienced per unit positive charge at a point placed in the electric field.",
+    "year": "2017"
+  },
+  {
+    "number": "1541",
+    "text": "Which of the following objects is not a conductor of electricity?",
+    "options": {
+      "A": "The Earth",
+      "B": "Human body",
+      "C": "Iron rod",
+      "D": "Dry wood"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50038?exam_type=waec&type=obj&page=309",
+    "correct_answer": "D",
+    "explanation": "Dry wood is rather an insulator and not a conductor.",
+    "year": "2017"
+  },
+  {
+    "number": "1542",
+    "text": "A circuit is set up as shown in the diagram above. When the key is closed, the ammeter reading will be",
+    "options": {
+      "A": "6A",
+      "B": "4A",
+      "C": "2A",
+      "D": "1A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50045?exam_type=waec&type=obj&page=309",
+    "correct_answer": "C",
+    "explanation": "The resistors are connected both in parallel and series. To calculate the total resistance, we have:\nFor the parallel connection: \\(\\frac{1}{R} = \\frac{1}{1} + \\frac{1}{1}\\)\n\\(\\frac{1}{R} = 2 \\implies R = 0.5\\Omega\\)\nFor the series connection: \\(R_{total} = (1 + 0.5)\\Omega = 1.5\\Omega\\)\nRecall, \\(V=IR\\)\n\\(3 = 1.5I\u00a0 \\implies I = \\frac{3}{1.5} =2A\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1543",
+    "text": "Which of the following statements is/ are correct?\nI. Gravitational potential due to a mass at a point a distance r away is proportional to \\(r^{2}\\)\nII. Gravitational field strength is a vector quantity\nIII. Gravitational intensity is proportional to the weight of a unit mass.",
+    "options": {
+      "A": "I, II and III",
+      "B": "III only",
+      "C": "II only",
+      "D": "I only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50065?exam_type=waec&type=obj&page=309",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1544",
+    "text": "The diagrams above illustrate electrical connections to the element of an electric pressing iron.In which of the connections is the fuse correctly fixed?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50072?exam_type=waec&type=obj&page=309",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1545",
+    "text": "A transformer connected to a 240\\(V_{r.m.s}\\) has 3000 turns in its primary coil and 500 turns in its secondary coil. Calculate the output voltage.",
+    "options": {
+      "A": "4000V",
+      "B": "400V",
+      "C": "40V",
+      "D": "4V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50080?exam_type=waec&type=obj&page=309",
+    "correct_answer": "C",
+    "explanation": "\\(N_{p} = 3000 turns\\)\n\\(N_{s} = 500 turns\\)\n\\(E_{p} = 240V_{r.m.s}\\)\n\\(E_{s} = ?\\)\n\\(\\frac{N_{s}}{N_{p}} = \\frac{E_{s}}{E_{p}}\\)\n\\(\\frac{500}{3000} = \\frac{E_{s}}{240}\\)\n\\(\\implies E_{s} = \\frac{240\\times500}{3000} = 40V\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1546",
+    "text": "A lamp rated 100W, 240V is lit for 5hours. Calculate the cost of lighting the lamp if 1kWh of electrical energy cost N5.",
+    "options": {
+      "A": "N2.50",
+      "B": "N3.20",
+      "C": "N6.50",
+      "D": "N9.60"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50082?exam_type=waec&type=obj&page=310",
+    "correct_answer": "A",
+    "explanation": "Power = 100W; Voltage = 240V;\u00a0 Time = 5 hours\nTotal energy used = Power x time = 100 x 5 = 500wh\nconverting to kwh, we have\n\\(\\frac{500}{1000} = 0.5kWh \\times N5 = N2.50\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1547",
+    "text": "A battery of e.m.f 3.0V is connected across a potentiometer wire AB of length 10\\(\\Omega m^{-1}\\) as illustrated in the diagram above. If the jockey J makes contact at the 30cm mark, determine the resistance of length AJ and voltage across AJ.",
+    "options": {
+      "A": "3.0\\(\\Omega\\); 0.9V",
+      "B": "3.0\\(\\Omega\\); 3.0V",
+      "C": "3.3\\(\\Omega\\); 0.3V",
+      "D": "3.3\\(\\Omega\\); 9.0V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50088?exam_type=waec&type=obj&page=310",
+    "correct_answer": "A",
+    "explanation": "E = 3.0V; \\(\\frac{R}{l} = 10\\Omega m^{-1}\\)\nl = 30cm = 0.3m; R = \\(10\\Omega m^{-1} \\times 0.3m = 3\\Omega\\)\n\\(\\frac{E}{V} = \\frac{l_{1}}{l_{2}} \\implies \\frac{3}{V} = \\frac{1}{0.3}\\)\n= \\(\\frac{3\\times 0.3}{1} = 0.9V\\)",
+    "year": "2017"
+  },
+  {
+    "number": "1548",
+    "text": "The main reason why a.c. is transmitted at very high voltage and low current is that",
+    "options": {
+      "A": "flows faster through the conductor",
+      "B": "can be stepped down",
+      "C": "is cheaper to generate",
+      "D": "reduces heat loss"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50089?exam_type=waec&type=obj&page=310",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1549",
+    "text": "The diagram above illustrates two charged bodies, X and Y separated by a distance r. Each body has charge q and mass m. Which of the following statements about the electrostatic force \\(F_{e}\\) and gravitational force \\(F_{g}\\) acting between the bodies is correct?",
+    "options": {
+      "A": "\\(F_{e}\\) is attraction while \\(F_{g}\\) is repulsion",
+      "B": "Both \\(F_{e}\\) and \\(F_{g}\\) are that of repulsion",
+      "C": "Both \\(F_{e}\\) and \\(F_{g}\\) is that of attraction",
+      "D": "\\(F_{e}\\) is repulsion while \\(F_{g}\\) is attraction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50092?exam_type=waec&type=obj&page=310",
+    "correct_answer": "D",
+    "explanation": "electrostatic force can be repulsive or attractive\u00a0and gravitational force is only attractive.",
+    "year": "2017"
+  },
+  {
+    "number": "1550",
+    "text": "The opposition offered to an alternating current in a C-R series circuit is known as",
+    "options": {
+      "A": "impedance",
+      "B": "resistance",
+      "C": "reactance",
+      "D": "friction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50093?exam_type=waec&type=obj&page=310",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1551",
+    "text": "Which of the following pairs of concepts constitutes complementary variables as expressess by the Heinsberg uncertainty principle?",
+    "options": {
+      "A": "Momentum and time",
+      "B": "Energy and acceleration",
+      "C": "Position and momentum",
+      "D": "Velocity and Momentum"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50095?exam_type=waec&type=obj&page=311",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1552",
+    "text": "The nucleon number of an atom is the total number of",
+    "options": {
+      "A": "electrons and protons",
+      "B": "electrons and neutrons",
+      "C": "neutrons minus electrons",
+      "D": "protons and neutrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50096?exam_type=waec&type=obj&page=311",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1553",
+    "text": "n = \\(\\alpha\\)\n0.06eV\n\n\nE=3\n-1.6eV\n\n\nE=2\n-3.7eV\n\n\nE=1\n-5.5eV\n\n\nE=0\n-10.4eV\n\n\n\nThe energy levels in the mercury atom is illustrated in the table above. Calculate the ionisation energy of the atom.",
+    "options": {
+      "A": "+21.2eV",
+      "B": "+10.4eV",
+      "C": "-10.4eV",
+      "D": "-21.2eV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50098?exam_type=waec&type=obj&page=311",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1554",
+    "text": "Which of the following statements about Gamma radiation is correct? Gamma radiation can",
+    "options": {
+      "A": "be seen by the naked eye",
+      "B": "not pass through an aluminium foil",
+      "C": "be present naturally in our surroundings",
+      "D": "be used as a tracer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50100?exam_type=waec&type=obj&page=311",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2017"
+  },
+  {
+    "number": "1555",
+    "text": "Radio wave\nMicro wave\nInfrared wave\nP\nQ\nR\nGamma Ray\n\n\n\nThe table above shows the components of electromagnetic spectrum in order of increaasing frequency.Which of the following sets correctly identifies P, Q, R respectively?",
+    "options": {
+      "A": "Visible, ultraviolet, X-ray",
+      "B": "X-ray, visible, ultraviolet",
+      "C": "Ultraviolet, visible, X-ray",
+      "D": "X-ray, ultraviolet, visible"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/50102?exam_type=waec&type=obj&page=311",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2017"
+  }
+]

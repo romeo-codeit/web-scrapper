@@ -1,0 +1,631 @@
+[
+  {
+    "number": "637",
+    "text": "A binary operation \u2206 is defined on the set of real numbers R, by x\u2206y = \\(\\sqrt{x+y - \\frac{xy}{4}}\\), where x, yER. Find the value of 4\u22063",
+    "options": {
+      "A": "16",
+      "B": "8",
+      "C": "4",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/65944?exam_type=waec&type=obj&page=128",
+    "correct_answer": "D",
+    "explanation": "x\u2206y = \\(\\sqrt{x+y - \\frac{xy}{4}}\\)\n4\u22063 =\u00a0\\(\\sqrt{4+3\u00a0- \\frac{4*3}{4}}\\)\n=\u00a0\\(\\sqrt{4+3-3}\\)\n=\u00a0\\(\\sqrt{4}\\)\n= 2.",
+    "year": "2022"
+  },
+  {
+    "number": "638",
+    "text": "(\\(\\frac{3\\sqrt6 + \\sqrt{54}}{\\sqrt5(3\\sqrt5)})^{-1}\\)",
+    "options": {
+      "A": "\\(\\frac{5\u221a3}{6}\\)",
+      "B": "\\(\\frac{3\u221a15}{6}\\)",
+      "C": "\\(\\frac{5\u221a6}{12}\\)",
+      "D": "\\(\\frac{5\u221a3}{12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/65945?exam_type=waec&type=obj&page=128",
+    "correct_answer": "C",
+    "explanation": "(\\(\\frac{3\\sqrt6 + \\sqrt{54}}{\\sqrt5(3\\sqrt5)})^{-1}\\)\n= \\(\\frac{\u221a5(3\u221a5)}{3\u221a6 + 3\u221a6}\\)\n= \\(\\frac{3*5}{6\u221a6} = \\frac{5}{2\u221a6}\\)\n= \\(\\frac{5*2\u221a6}{2\u221a6+2\u221a6} = \\frac{10\u221a6}{4*6}\\)\n= \\(\\frac{5\u221a6}{12}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "639",
+    "text": "If \\(log_{10}(3x-1) +\u00a0log_{10}4 =\u00a0log_{10}(9x+2)\\), find the value of x",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/65946?exam_type=waec&type=obj&page=128",
+    "correct_answer": "C",
+    "explanation": "\\(log_{10}(3x - 1) +\u00a0log_{10}4 =\u00a0log_{10}(9x+2)\\)\n\\(log_{10}4(3x-1)\u00a0=\u00a0log_{10}(9x+2)\\)\n4(3x - 1) = 9x + 2\n12x - 4 =\u00a09x + 2\n12x - 9x = 2 + 4\n3x = 6\nx = 2",
+    "year": "2022"
+  },
+  {
+    "number": "640",
+    "text": "Simplify \\(\\frac{9*3^{n+1} - 3^{n+2}}{3^{n+1} - 3^{n}}\\)",
+    "options": {
+      "A": "3",
+      "B": "9",
+      "C": "27",
+      "D": "81"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/65950?exam_type=waec&type=obj&page=128",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{9*3^{n+1} - 3^{n+2}}{3^{n+1} - 3^{n}}\\)\n= \\(\\frac{3^n * 3^n * 3^1 * - 3^2 * 3^2}{3^n * 3^1 - 3^n}\\)\n=\u00a0\\(\\frac{3^n (3^2 * 3^1)}{3^n\u00a0(3^1 - 1)}\\)\n=\u00a0\\(\\frac{27-9}{3-1}\\)\n=\u00a0\\(\\frac{18}{2}\\)\n= 9",
+    "year": "2022"
+  },
+  {
+    "number": "641",
+    "text": "Consider the following statement:\nx: All wrestlers are strong\ny: Some wresters are not weightlifters.\nWhich of the following is a valid conclusion?",
+    "options": {
+      "A": "All strong wrestlers are weightlifters",
+      "B": "Some strong wrestlers are not weightlifters",
+      "C": "Some weak wrestlers are weightlifters",
+      "D": "All weightlifters are wrestlers"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/65971?exam_type=waec&type=obj&page=129",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2022"
+  },
+  {
+    "number": "642",
+    "text": "The functions f:x\u00a0\u2192 2x\\(^2\\) + 3x -7 and g:x \u21925x\\(^2\\) + 7x - 6 are defined on the set of real numbers, R. Find the values of x\u00a0for which 3f(x) = g(x).",
+    "options": {
+      "A": "x = -3 or -5",
+      "B": "x = -3 or 5",
+      "C": "x = 3 or -5",
+      "D": "x = 3 or 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/65995?exam_type=waec&type=obj&page=129",
+    "correct_answer": "C",
+    "explanation": "f:x\u00a0\u2192 2x\\(^2\\) + 3x -7 and\ng:x \u21925x\\(^2\\) + 7x - 6\nIf\u00a03f(x) = g(x)\n3(2x\\(^2\\) + 3x -7) =\u00a05x\\(^2\\) + 7x - 6\n6x\\(^2\\) + 9x - 21\u00a0=\u00a05x\\(^2\\) + 7x - 6\n6x\\(^2\\)\u00a0- 5x\\(^2\\) + 9x - 7x - 21 + 6\nx\\(^2\\) + 2x - 15 = 0\nx = 3 or -5",
+    "year": "2022"
+  },
+  {
+    "number": "643",
+    "text": "Express \\(\\frac{4\u03c0}{2}\\) radians in degrees.",
+    "options": {
+      "A": "288\u00ba",
+      "B": "200\u00ba",
+      "C": "144\u00ba",
+      "D": "120\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66008?exam_type=waec&type=obj&page=129",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{4\u03c0}{2}\\) = \\(\\frac{4}{5} * 180\\)\n= 144\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "644",
+    "text": "A straight line makes intercepts of -3 and 2 on the x and y axes respectively. Find the equation of the line.",
+    "options": {
+      "A": "2x + 3y + 6 = 0",
+      "B": "3x - 2y - 6 = 0",
+      "C": "-3x 2y - 6 = 0",
+      "D": "-2x + 3y - 6 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66453?exam_type=waec&type=obj&page=129",
+    "correct_answer": "D",
+    "explanation": "Recall:\nxa+yb=1\nWhere 'a' and 'b' are the x and y intercept respectively.\nx-3+y2=1\n2x-3y = -62x - 3y + 6 = 0 -------(1)multiply through by -1-2x + 3y - 6 = 0",
+    "year": "2022"
+  },
+  {
+    "number": "645",
+    "text": "Which of the following is the semi-interquartile range of a distribution?",
+    "options": {
+      "A": "Mode - Median",
+      "B": "Highest score - Lowest score",
+      "C": "1/2 (Upper Quartile - Median)",
+      "D": "1/2 (Upper Quartile - Lower Quartile)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66454?exam_type=waec&type=obj&page=129",
+    "correct_answer": "D",
+    "explanation": "\"Semi\" means \"half\"Interquartile range = Upper quartile - Lower quartile\nSemiinterquartilerange=12(upperquartile-lowerquartile)",
+    "year": "2022"
+  },
+  {
+    "number": "646",
+    "text": "Evaluate \\(\u222b^0_{-1}\\) (x + 1)(x - 2) dx",
+    "options": {
+      "A": "7/6",
+      "B": "5/6",
+      "C": "-5/6",
+      "D": "-7/6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66456?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "\\(\u222b^0_{-1}\\) (x + 1)(x - 2) dx\n= \\(\u222b^0_{-1}\\) \\(x^2 -\u00a0x - 2\\) dx\nIntegrated \\(x^2 -\u00a0x - 2\\) = \\(\\frac{x^3}{3} -\u00a0\\frac{x^2}{2} -2\\)\n=(0-0-0)-(-13-12+2)\n=0-(76)=-76",
+    "year": "2022"
+  },
+  {
+    "number": "647",
+    "text": "If 36, p,\\(\\frac{9}{4}\\) and q are consecutive terms of an exponential sequence (G.P), find the sum of p and q.",
+    "options": {
+      "A": "9/16",
+      "B": "81/16",
+      "C": "9",
+      "D": "9 \\(\\frac{9}{16}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66457?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "GP : 36, P, \\(\\frac{q}{4}\\), q, ... p + q = ?\nRecall,commonratio,r=TnTn-1=T2T1=T3T2=T4T3\n\u2234P36=94\u00f7p;p\\(^2\\)=94x36;p\\(^2\\)=81\np=9\u2234r=T2T1=936=14\nAlsor=T4T3=q\u00f794\n\u2234 \\(\\frac{1}{4}\\) = q \u00f7 \\(\\frac{9}{4}\\)\u00a0;\n\\(\\frac{9}{4}\\)\u00a0= 4q\n16q=9,q=916\u2234p+q=9+916=9916",
+    "year": "2022"
+  },
+  {
+    "number": "648",
+    "text": "Differentiate \\(\\frac{5x^ 3+x^2}{x}\\), x \u2260 0 with respect to x.",
+    "options": {
+      "A": "10x + 1",
+      "B": "10x + 2",
+      "C": "x(15x + 1)",
+      "D": "x(15x + 2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66458?exam_type=waec&type=obj&page=130",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{5x^ 3+x^2}{x}\\)\u00a0\u2192\u00a0\\(\\frac{5x^ 3}{x} + \\frac{x^2}{x}\\)\n5x\\(^2\\) + x\nThen dy/dx = 10x + 1",
+    "year": "2022"
+  },
+  {
+    "number": "649",
+    "text": "Given that \\(\\frac{8x+m}{x^2-3x-4}\u00a0\u2261 \\frac{5}{x+1} +\u00a0\\frac{3}{x-4}\\)",
+    "options": {
+      "A": "23",
+      "B": "17",
+      "C": "-17",
+      "D": "17"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66459?exam_type=waec&type=obj&page=130",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{8x+m}{x^2-3x-4}\u00a0\u2261 \\frac{5}{x+1} +\u00a0\\frac{3}{x-4}\\)\n\\(\\frac{8x+m}{x^2-3x-4}\\) \u2261 \\(\\frac{5(x-1)+\u00a03(x+4)}{x^2-3x-4}\\)\nmultiplying both sides by x2-3x-48x+m \u2261 5(x-4)+3(x+1)8x + m \u2261 5x - 20 + 3x + 38x - 5x - 3x + m = -20 + 3m = -17",
+    "year": "2022"
+  },
+  {
+    "number": "650",
+    "text": "If \\(x^2+y^2+-2x-6y+5 =0\\), evaluate dy/dx when x=3 and y=2.",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "-4",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66460?exam_type=waec&type=obj&page=130",
+    "correct_answer": "A",
+    "explanation": "\\(x^2+y^2+-2x-6y+5 =0\\)\nWhen differentiated:\n\\(x^2+y^2+-2x-6y+5 =0\\)\u00a0\u2192 2x + 2y - 2 - 6 = 0\nwhere\u00a0x=3 and y=2\n2[3] + 2[2] - 8 = 0\n6 + 4 - 8 = 2",
+    "year": "2022"
+  },
+  {
+    "number": "651",
+    "text": "Evaluate\\({1_0^\u222b} x^2(x^3+2)^3\\)",
+    "options": {
+      "A": "\\(\\frac{56}{12}\\)",
+      "B": "\\(\\frac{65}{12}\\)",
+      "C": "12",
+      "D": "65"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66470?exam_type=waec&type=obj&page=131",
+    "correct_answer": "B",
+    "explanation": "\\({1_0^\u222b} x^2(x^3+2)^3\\)dx\nlet \\( u = x^3 + 2, du = 3x^2dx\\)\nwhen x = 1,\u00a0 u = 3\nwhen x = 0,\u00a0 u = 2\ndx = \\(\\frac{du}{3x^2}\\)\n\\({3_2^\u222b}\\)\u00a0\\(\\frac{x^2[u]^3}{3x^2}\\)\n\\({3_2^\u222b}\\) \\(\\frac{u^3}{3}\\) du\n=\u00a0\\(\\frac{u^4}{3*4}\\)\\(_2\\)3\n\\(\\frac{1}{12} [u^4]\\)\\(_2\\)3\n\\(\\frac{1}{12} [3^4 - 2^4]\\)\n\\(\\frac{1}{12}[81 - 16]\\)\n\\(\\frac{65}{12}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "652",
+    "text": "Given \\(\\begin{vmatrix} 2\u00a0& -3 \\\\ 1\u00a0& 4\u00a0\\end{vmatrix} \\begin{vmatrix} -6 \\\\ k \\end{vmatrix}\u00a0\u00a0\\begin{vmatrix} 3\u00a0\\\\ -26\u00a0\\end{vmatrix} = 15\\). Solve for k.",
+    "options": {
+      "A": "-8",
+      "B": "-5",
+      "C": "-4",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66476?exam_type=waec&type=obj&page=131",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{vmatrix} 2\u00a0& -3 \\\\ 1\u00a0& 4\u00a0\\end{vmatrix} \\begin{vmatrix} -6 \\\\ k \\end{vmatrix}\u00a0\u00a0\\begin{vmatrix} 3\u00a0\\\\ -26\u00a0\\end{vmatrix} = 15\\)\n\\(\\begin{vmatrix} 2[-6]\u00a0& - 3k \\\\ 1[-6] & + 4k\u00a0\\end{vmatrix} =\u00a0\\begin{vmatrix} 3\u00a0\\\\ -26\u00a0\\end{vmatrix}\\)\n\\(\\begin{vmatrix} -12\u00a0& - 3k \\\\ -6\u00a0& + 4k\u00a0\\end{vmatrix} =\u00a0\\begin{vmatrix} 3\u00a0\\\\ -26\u00a0\\end{vmatrix}\\)\n-12 - 3k = 3\n-3k = 3 + 12\nk = \\(\\frac{15}{-3}\\)\nk = -5",
+    "year": "2022"
+  },
+  {
+    "number": "653",
+    "text": "A linear transformation T is defined by T: (x,y) \u2192 (3x - y, x + 4y). Find the image of (2, -1) under T.",
+    "options": {
+      "A": "(7, -2)",
+      "B": "(5, -2)",
+      "C": "(-2, 7)",
+      "D": "(-7, 2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66478?exam_type=waec&type=obj&page=131",
+    "correct_answer": "A",
+    "explanation": "Let (x1, y1) be the image of the point (x, y) under the given transformations.x1 = 3x - yy1 = x + 4y\\(\\begin{vmatrix} 3\u00a0& -1\u00a0\\\\ 1\u00a0& 4\u00a0\\end{vmatrix} \\begin{vmatrix}\u00a0x\u00a0\\\\ y =\u00a0\\end{vmatrix}\u00a0\u00a0\\begin{vmatrix} x_1\u00a0\\\\ y_1\u00a0\\end{vmatrix}\\)\n\\(\\begin{vmatrix} 3\u00a0& -1\u00a0\\\\ 1\u00a0& 4\u00a0\\end{vmatrix} \\begin{vmatrix} 2\u00a0\\\\ 1\u00a0=\u00a0\\end{vmatrix}\u00a0\u00a0\\begin{vmatrix} 7\u00a0\\\\ -2\u00a0\\end{vmatrix}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "654",
+    "text": "Evaluate \\(4p_2 +\u00a04C_2 -\u00a04p_3\\)",
+    "options": {
+      "A": "18",
+      "B": "6",
+      "C": "-6",
+      "D": "-18"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66486?exam_type=waec&type=obj&page=131",
+    "correct_answer": "C",
+    "explanation": "\\(4p_2 +\u00a04C_2 -\u00a04p_3\\)\n\\(np_r\u00a0= \\frac{n!}{[n-r]!} and\u00a0\u00a0nC_r\u00a0= \\frac{n!}{[n-r]!r!}\u00a0\\)\n= \\(\\frac{4!}{[4-2]!} + \\frac{4!}{[4-2]!2!} - \\frac{4!}{[4-3]!} = \\frac{4!}{2!} + \\frac{4!}{2!2!} - \\frac{4!}{1!}\\)\n= \\(\\frac{4*3*2!}{2!} +\u00a0\\frac{4*3*2!}{2!2!} -\u00a0\\frac{4*3*2*1}{1!}\\)\n12 + 6 - 24 = -6",
+    "year": "2022"
+  },
+  {
+    "number": "655",
+    "text": "Find the coefficient of x\\(^2\\)in the binomial expansion of \\((x\u00a0+ \\frac{2}{x^2})^5\\)",
+    "options": {
+      "A": "10",
+      "B": "40",
+      "C": "32",
+      "D": "80"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66493?exam_type=waec&type=obj&page=131",
+    "correct_answer": "A",
+    "explanation": "\\((x\u00a0+ \\frac{2}{x^2})^5\\)\nn = 5,\u00a0 r = 4,\u00a0 p = x\u00a0 and q = \\(\\frac{2}{x^2}\\)\n5C\\(_4\\)x\\(^4\\) (\\(\\frac{2}{x^2}\\))1 =\u00a05C\\(_4\\)\u00a0\\(\\frac{2x^4}{x^2}\\)\n5C\\(_4\\) 2x\\(^2\\) = \\(\\frac{5!}{[5-4]!4!}\\) *\u00a02x\\(^2\\)\n\\(\\frac{5*4!}{4!} * 2x^2\\) = 5 *\u00a02x\\(^2\\) = 10x\\(^2\\)\nThe coefficient is 10.",
+    "year": "2022"
+  },
+  {
+    "number": "656",
+    "text": "Given that P = {x: x is a multiple of 5}, Q = {x: x is a multiple of 3} and R = {x: x is an odd number} are subsets of \u03bc = {x: 20 \u2264 x \u2264 35}, (P\u22c3Q)\u2229R.",
+    "options": {
+      "A": "{20, 21, 25, 30, 33}",
+      "B": "{21, 25, 27, 33, 35}",
+      "C": "{20, 21, 25, 27, 33, 35}",
+      "D": "{21, 25, 27, 30, 33, 35}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66496?exam_type=waec&type=obj&page=132",
+    "correct_answer": "B",
+    "explanation": "P = { 20, 25, 30, 35}, Q = {21, 24, 27, 30, 33}, R = {21, 23, 25, 27, 29, 31, 33, 35}\n(P\u22c3Q)\u2229R = {20, 21, 24, 25, 27, 30, 33, 35} \u2229 {21, 23, 25, 27, 29, 31, 33, 35}\n= {21, 25, 27, 33, 35}",
+    "year": "2022"
+  },
+  {
+    "number": "657",
+    "text": "A particle moving with a velocity of 5m/s\u00a0accelerates at 2m/s\\(^2\\). Find the distance it covers in 4 seconds.",
+    "options": {
+      "A": "16m",
+      "B": "26m",
+      "C": "36m",
+      "D": "46m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66504?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "from the\u00a0equation of motionu = 5m/s, a = 2m/s\\(^2\\), t = 4s\ns = ut + \\(\\frac{1}{2} at^2\\)\ns = 5*4 + \\(\\frac{1}{2} 2*4^2\\)\ns =\u00a0\u00a020 + 16\ns = 36m",
+    "year": "2022"
+  },
+  {
+    "number": "658",
+    "text": "If Un = kn\\(^2\\) + pn, U\\(_1\\) = -1, U\\(_5\\) = 15, find the values of k and p.",
+    "options": {
+      "A": "k = -1, p = 2",
+      "B": "k = -1, p = -2",
+      "C": "k = 1, p = -2",
+      "D": "k = 1, p = 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66514?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "Un = kn\\(^2\\) + pn,\nU\\(_1\\) = -1,\nU\\(_5\\) = 15,\nwhen n = 1U1 = k(1)\\(^2\\)+ p(1) = -1k + p = -1 --------eqn1when n = 5U\\(_5\\) = k(5)\\(^2\\)+ p(5) = 1525k + 5p = 15 --------eqn2multiply eqn1 by 5 and eqn2 by 15k + 5p = -5 -------eqn325k + 5p = 15 -------eqn4eqn4 - eqn320k = 20k = 1sub for k in eqn11 + p = -1p = -1 -1 = -2",
+    "year": "2022"
+  },
+  {
+    "number": "659",
+    "text": "In how many ways can six persons be paired?",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66523?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "6C\\(_2 = \\frac{6!}{[6-2]![2!]}\\)\n\\(\\frac{6*5*4!}{4!*2!}\\)\n= \\(\\frac{6*5}{2}\\)\n= 15",
+    "year": "2022"
+  },
+  {
+    "number": "660",
+    "text": "Solve: \\(3^{2x-2} - 28(3^{x-2}) + 3 = 0\\)",
+    "options": {
+      "A": "x = -2 or x = 1",
+      "B": "x = 0 or x = -3",
+      "C": "x = 2 or x = 1",
+      "D": "x = 0 or x = 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66577?exam_type=waec&type=obj&page=132",
+    "correct_answer": "D",
+    "explanation": "\\(3^{2x-2} - 28(3^{x-2}) + 3 = 0\\)\n\\(\\frac{3^{2x}}{3^2} - \\frac{28.3^x}{3^2} + 3 = 0\\)\n\\(\\frac{3^{2x}}{9} - \\frac{28.3^x}{9} + 3 = 0\\)\nlet p = 3\\(^x\\)\n\\(\\frac{p^{2}}{9} - \\frac{{28p}}{9} + 3 = 0\\)\nmultiply through by 9p\\(^2\\)\u00a0- 28p + 27 = 0p\\(^2\\)\u00a0- p - 27p + 27 = 0p (p - 1) - 27(p - 1) = 0(p-1)(p-27) = 0p = 1 or 27when p = 1p = 3\\(^x\\)3\\(^x\\)\u00a0= 13\\(^x\\)\u00a0= 3\\(^0\\)x = 0when p = 273x = 273x = 33x = 3",
+    "year": "2022"
+  },
+  {
+    "number": "661",
+    "text": "Given that P = (-4, -5) and Q = (2,3), express \u2192PQ in the form (k,\u03b8). where k is the magnitude and \u03b8 the bearing.",
+    "options": {
+      "A": "(10 units, 053\u00ba)",
+      "B": "(9 units, 049\u00ba)",
+      "C": "(10 units, 037\u00ba)",
+      "D": "(9 units, 027\u00ba)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66590?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "|\u2192PQ| = \u221a[(2-(-4))\\(^2\\) + (3-(-5))\\(^2\\)]|\u2192PQ| = \u221a\\(6^2 + 8^2\\)|\u2192PQ| = \u221a100|\u2192PQ| = 10units\ntan\u03b8\u00a0= \\(\\frac{3--5}{2--4}\\)\ntan\u03b8\u00a0= \\(\\frac{4}{3}\\)\n\u03b8\u00a0= \\(tan^{-1}\\frac{4}{3}\\)\n= 53\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "662",
+    "text": "If \u2192PQ = -2i + 5j and \u2192RQ = -i - 7j, find \u2192PR",
+    "options": {
+      "A": "-3i + 12j",
+      "B": "-3i - 12j",
+      "C": "-i + 12j",
+      "D": "i - 12j"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66593?exam_type=waec&type=obj&page=133",
+    "correct_answer": "C",
+    "explanation": "\u2192PQ = \u2192PR + \u2192RQ\u2192PR = \u2192PQ\u00a0 -\u00a0 \u2192RQ\u2192PR = -2i + 5j - (-i - 7j)\u2192PR = -2i + 5j + i + 7j\u2192PR = -i + 12j.",
+    "year": "2022"
+  },
+  {
+    "number": "663",
+    "text": "The table shows the distribution of the distance (in km) covered by 40 hunters while hunting.\n\n\n\nDistance(km)\n3\n4\n5\n6\n7\n8\n\n\nFrequency\n5\n4\nx\n9\n2x\n1\n\n\n\nIf a hunter is selected at random, find the probability that the hunter covered at least 6km.",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{3}{8}\\)",
+      "D": "\\(\\frac{9}{40}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66599?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "5+4+x+9+2x+1 = 4019+3x = 403x = 21x = 7\nDistance(km)345678Frequency5479141\nThe probability that the hunter covered at least 6km,\u00a0means the hunter covered either 6km or 7km, or 8km.\n24 hunters covered at least 6km\n2440=35",
+    "year": "2022"
+  },
+  {
+    "number": "664",
+    "text": "The table shows the distribution of the distance (in km) covered by 40 hunters while hunting.\nWhat is the mode of the distribution?\n\u00a0\n\n\n\nDistance(km)\n3\n4\n5\n6\n7\n8\n\n\nFrequency\n5\n4\nx\n9\n2x\n1",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66601?exam_type=waec&type=obj&page=133",
+    "correct_answer": "C",
+    "explanation": "7km has the highest frequency(14)",
+    "year": "2022"
+  },
+  {
+    "number": "665",
+    "text": "If g(x) = \u221a(1-x\\(^2\\)), find the domain of g(x)",
+    "options": {
+      "A": "x < -1 or x > 1",
+      "B": "x \u2264 -1 or x \u22651",
+      "C": "-1 < x < 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66603?exam_type=waec&type=obj&page=133",
+    "correct_answer": "C",
+    "explanation": "1 - x\\(^2\\)\u00a0\u2265 0-x\\(^2\\)\u00a0\u2265 -1x\\(^2\\)\u00a0\u2264 1\u221ax\\(^2\\)\u00a0\u2264 1|x| \u2264 1-1 \u2264 x \u2264 1",
+    "year": "2022"
+  },
+  {
+    "number": "666",
+    "text": "Find the coefficient of x\\(^3\\)y\\(^2\\)\u00a0in the binomial expansion of (x-2y)\\(^5\\)",
+    "options": {
+      "A": "-80",
+      "B": "10",
+      "C": "40",
+      "D": "80"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66617?exam_type=waec&type=obj&page=134",
+    "correct_answer": "C",
+    "explanation": "x\\(^3\\)y\\(^2\\)\u00a0in (x-2y)\\(^5\\)\nn = 5, r = 3, p = x, q = -2y\n5C\\(_3\\) * x\\(^3\\) -2y\\(^2\\)\n5C\\(_3\\) = \\(\\frac{5!}{[5-3]!3!}\\)\n\\(\\frac{5*4*3!}{2! 3!}\\)\u00a0\u2192\u00a0\u00a0\\(\\frac{5*4}{2}\\)\n5C\\(_3\\) = 10\n:\u00a05C\\(_3\\) * x\\(^3\\) -2y\\(^2\\) = 10 *\u00a0\u00a0x\\(^3\\) 4y\\(^2\\)\n40x\\(^3\\)y\\(^2\\)the coefficient is 40",
+    "year": "2022"
+  },
+  {
+    "number": "667",
+    "text": "The first, second and third terms of an exponential sequence (G.P) are (x - 4), (x + 2), and (3x + 1) respectively. Find the values of x.",
+    "options": {
+      "A": "\\(\\frac{-1}{2}, 8\\)",
+      "B": "\\(\\frac{1}{2}, -8\\)",
+      "C": "\\(\\frac{-1}{2}, -8\\)",
+      "D": "\\(\\frac{1}{2}, 8\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66624?exam_type=waec&type=obj&page=134",
+    "correct_answer": "A",
+    "explanation": "U1 = x - 4U2 = x + 2U3 = 3x + 1\n\\(\\frac{u_2}{u_1} = \\frac{u_3}{u_2}\\)\n\\(\\frac{x+2}{x-4} = \\frac{3x+1}{x+2}\\)\n(x+2)(x+2) = (x-4)(3x+1)x\\(^2\\) + 4x + 4 = 3x2 - 11x - 4collecting like terms2x\\(^2\\) - 15x - 8 =02x\\(^2\\)\u00a0+ x - 16x - 8 = 0x(2x + 1) - 8(2x + 1) = 0(x-8)(2x+1) = 0\nx = (\\(\\frac{-1}{2}, 8\\))",
+    "year": "2022"
+  },
+  {
+    "number": "668",
+    "text": "A body of mass 18kg moving with velocity 4ms-1 collides with another body of mass 6kg moving in the opposite direction with velocity 10ms-1. If they stick together after the collision, find their common velocity.",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)\u00a0m/s",
+      "B": "\\(\\frac{1}{3}\\)\u00a0m/s",
+      "C": "2m/s",
+      "D": "3m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66627?exam_type=waec&type=obj&page=134",
+    "correct_answer": "A",
+    "explanation": "m1u1 + m2u2 = (m1 + m2)v\nm1 = 18kg, m2 = 6kg, u1 = 4ms-1, u2 = -10m/s\n18(4) + 6(-10) = (18+6)v\n72 - 60 = 24v12 = 24vv = \\(\\frac{1}{2}\\)\u00a0m/s",
+    "year": "2022"
+  },
+  {
+    "number": "669",
+    "text": "The mean heights of three groups of students consisting of 20, 16 and 14 students each are 1.67m, 1.50m and 1.40m respectively. Find the mean height of all the students.",
+    "options": {
+      "A": "1.63m",
+      "B": "1.54m",
+      "C": "1.52m",
+      "D": "1.42m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66634?exam_type=waec&type=obj&page=134",
+    "correct_answer": "B",
+    "explanation": "for 20 students, mean = 1.67\n\u03bc=\u2211fxf\n\u2211fx = \u03bcf\u2211fx = 20 \u00d7 1.67 = 33.4for group 2\u2211fx = 16 \u00d7 1.50 = 24for group 3\u2211fx = 14 \u00d7 1.40 = 19.633.4 + 24 + 19.6 = 77\u2211f = 20+16+14 = 50\n\u03bc=7750=1.54m",
+    "year": "2022"
+  },
+  {
+    "number": "670",
+    "text": "Find correct to the nearest degree, the acute angle formed by the lines y = 2x + 5 and 2y = x - 6",
+    "options": {
+      "A": "76\\(^\u2218\\)",
+      "B": "53\\(^\u2218\\)",
+      "C": "37\\(^\u2218\\)",
+      "D": "14\\(^\u2218\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66638?exam_type=waec&type=obj&page=134",
+    "correct_answer": "C",
+    "explanation": "tan\u03b8=m1 - m21 + m1m2\ny = 2x + 5m1 = 22y = x - 6\ny=12x-3\nm2=12\ntan\u03b8=2 - \\(\\frac{1}{2}\\)1+2(\\(\\frac{1}{2}\\))\ntan\u03b8\u00a0=\u00a0\u00a0\\(\\frac{3}{2}\\)\u00a0\u00f7 (1+1)\ntan\u03b8\u00a0=\u00a0\\(\\frac{3}{2}\\)\u00a0\u00f7 2\ntan\u03b8=34\n\u03b8 = \\(tan^{-1}\u00a0(\\frac{3}{4})\\)\n\u03b8 = 36.87\u00ba\u03b8 = 37\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "671",
+    "text": "Solve: 4sin\\(^2\\)\u03b8 + 1 = 2, where 0\u00ba\u00a0< \u03b8 < 180\u00ba",
+    "options": {
+      "A": "60\u00ba 0r 120\u00ba",
+      "B": "30\u00ba 0r 150\u00ba",
+      "C": "30\u00ba 0r 120\u00ba",
+      "D": "60\u00ba 0r 150\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66643?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "4sin\\(^2\\)\u03b8 + 1 = 2\n4sin\\(^2\\)\u03b8\u00a0 =\u00a02 - 1\n4sin\\(^2\\)\u03b8 = 1\n\\(\\sqrt sin^2\u03b8\\) = \\(\\sqrt \\frac{1}{4}\\)\nsin\u03b8\u00a0= \\(\\frac{1}{2}\\)\n\u03b8 =\u00a0\\(sin^{-1} \\frac{1}{2}\\)\n\u03b8 = 30\u00ba 0r 150\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "672",
+    "text": "Find the range of values of x for which 2x\\(^2\\) + 7x - 15 \u2265 0.",
+    "options": {
+      "A": "x \u2264 -5 or x \u2265 \\(\\frac{3}{2}\\)",
+      "B": "x \u2265 -5 or x  \u2264\\(\\frac{3}{2}\\)",
+      "C": "-5 \u2264 x \u2264 \\(\\frac{3}{5}\\)",
+      "D": "\\(\\frac{3}{5}\\) \u2264 x \u2264 -5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66644?exam_type=waec&type=obj&page=135",
+    "correct_answer": "A",
+    "explanation": "2x\\(^2\\) + 7x - 15 \u2265 0\n2x\\(^2\\) -3x + 10x - 15 \u2265 0x(2x - 3) + 5(2x - 3) \u2265 0(x+5)(2x-3) \u2265 0the points on x-axis where the graph \u2265 0\nx \u2264 -5 or x \u2265 \\(\\frac{3}{2}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "673",
+    "text": "The probability that a student will graduate from college is 0.4. If 3 students are selected from the college, what is the probability that at least one student will graduate?",
+    "options": {
+      "A": "0.06",
+      "B": "0.22",
+      "C": "0.78",
+      "D": "0.80"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66645?exam_type=waec&type=obj&page=135",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2022"
+  },
+  {
+    "number": "674",
+    "text": "The equation of a circle is given as 2x\\(^2\\) + 2y\\(^2\\) - x - 3y - 41 = 0. Find the coordinates of its centre.",
+    "options": {
+      "A": "(\\(\\frac{-1}{4}\\), \\(\\frac{3}{4}\\))",
+      "B": "(\\(\\frac{1}{4}\\), \\(\\frac{3}{4}\\))",
+      "C": "(\\(\\frac{-1}{2}\\), \\(\\frac{3}{2}\\))",
+      "D": "(\\(\\frac{-1}{2}\\), \\(\\frac{-3}{2}\\))"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66646?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "2x\\(^2\\) + 2y\\(^2\\) - x - 3y - 41\nstandard equation of circle(x-a)\\(^2\\)\u00a0+ (x-b)\\(^2\\)\u00a0= r\\(^2\\)General form of equation of a circle.x\\(^2\\)\u00a0+ y\\(^2\\)\u00a0+ 2gx + 2fy + c = 0a = -g, b = -f., r2 = g2 + f2 - cthe centre of the circle is (a,b)comparing the equation with the general form of equation of circle.2x\\(^2\\)\u00a0+ 2y\\(^2\\)\u00a0- x - 3y - 41\n= x\\(^2\\)\u00a0+ y\\(^2\\)\u00a0+ 2gx + 2fy + c2x\\(^2\\)\u00a0+ 2y\\(^2\\)\u00a0- x - 3y - 41 = 0divide through by 2\ng = \\(\\frac{-1}{4}\\) ; 2g =\u00a0\\(\\frac{-1}{2}\\)\nf = \\(\\frac{-3}{4}\\) ; 2f\u00a0=\u00a0\\(\\frac{-3}{2}\\)\na = -g\u00a0 \u2192 - \\(\\frac{-1}{4}\\) ; =\u00a0\\(\\frac{1}{4}\\)\nb = -f\u00a0\u2192 -\u00a0(\\frac{-3}{4}\\) =\u00a0(\\frac{3}{4}\\)\ntherefore the centre\u00a0is (\\(\\frac{1}{4}\\), \\(\\frac{3}{4}\\))",
+    "year": "2022"
+  },
+  {
+    "number": "675",
+    "text": "The gradient of a function at any point (x,y) 2x - 6. If the function passes through (1,2), find the function.",
+    "options": {
+      "A": "x\\(^2\\) -\u00a0 6x - 5",
+      "B": "x\\(^2\\) -\u00a0 6x + 5",
+      "C": "x\\(^2\\) -\u00a0 6x - 3",
+      "D": "x\\(^2\\) -\u00a0 6x + 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66743?exam_type=waec&type=obj&page=135",
+    "correct_answer": "D",
+    "explanation": "dy/dx = 2x - 6\ny = \u222b 2x - 6\ny = \\(\\frac{2x^2}{2} - 6 + c\\)y = x\\(^2\\) - 6x + cpasses through (1,2)2 = 1\\(^2\\)\u00a0- 6(1) + c2 = 1 - 6 + cc = 7y = x\\(^2\\)\u00a0- 6x + c\ny = x\\(^2\\) -\u00a0 6x + 7",
+    "year": "2022"
+  },
+  {
+    "number": "676",
+    "text": "A particle of mass 3kg moving along a straight line under the action of a F N, covers a line distance, d, at time, t, such that d = t\\(^2\\) + 3t. Find the magnitude of F at time t.",
+    "options": {
+      "A": "0N",
+      "B": "2N",
+      "C": "3(2t + 3)N",
+      "D": "6N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66744?exam_type=waec&type=obj&page=136",
+    "correct_answer": "D",
+    "explanation": "F = m *\u00a0a\nd = t\\(^2\\) + 3t.\na = \\(\\frac{d^2d}{dt^2}\\)\n\\(\\frac{d[d]}{dt}\\) = 2t + 3\n\\(\\frac{d^2d}{dt^2}\\)\u00a0= 2m/s\\(^2\\)\na = 2m/s\\(^2\\)\nF = m * a\nF = 3 \u00d7 2 = 6N",
+    "year": "2022"
+  },
+  {
+    "number": "677",
+    "text": "If \u03b1 and \u03b2 are roots of x\\(^2\\) + mx - n = 0, where m and n are constants, form the\n\n\n\nequation\nwhose\nroots\nare\n1\n\t\t\t \u03b1\nand\n1\n\t\t\t \u03b2\n.",
+    "options": {
+      "A": "mnx\\(^2\\)\u00a0 - n\\(^2\\)\u00a0x - m = 0",
+      "B": "mx\\(^2\\)\u00a0 - nx + 1 = 0",
+      "C": "nx\\(^2\\)\u00a0 - mx + 1 = 0",
+      "D": "nx\\(^2\\)\u00a0 - mx - 1 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66745?exam_type=waec&type=obj&page=136",
+    "correct_answer": "D",
+    "explanation": "x\\(^2\\) + mx - n = 0\na = 1, b = m, c = -n\n\u03b1 + \u03b2 = \\(\\frac{-b}{a}\\) =\u00a0\\(\\frac{-m}{1}\\) = -m\n\u03b1\u03b2 = \\(\\frac{c}{a}\\) =\u00a0\\(\\frac{-n}{1}\\) = -n\nthe roots are =\u00a0\\(\\frac{1}{\u03b1}\\)\u00a0and \\(\\frac{1}{\u03b2}\\)\nsum of the roots =\u00a0\\(\\frac{1}{\u03b1}\\) + \\(\\frac{1}{\u03b2}\\)\n\\(\\frac{1}{\u03b1}\\) + \\(\\frac{1}{\u03b2}\\) =\u00a0\\(\\frac{\u03b1+\u03b2}{\u03b1\u03b2}\\)\n\u03b1 + \u03b2 = -m\u03b1\u03b2 = -n\n\\(\\frac{\u03b1+\u03b2}{\u03b1\u03b2}\\) =\u00a0\\(\\frac{-m}{-n}\\)\u00a0\u2192\u00a0\\(\\frac{m}{n}\\)\nproduct of the roots =\u00a0\\(\\frac{1}{\u03b1}\\) *\u00a0\\(\\frac{1}{\u03b2}\\)\n\\(\\frac{1}{\u03b1}\\) + \\(\\frac{1}{\u03b2}\\) =\u00a0\\(\\frac{1}{\u03b1\u03b2}\\)\u00a0\u2192\u00a0\\(\\frac{1}{-n}\\)\nx\\(^2\\)\u00a0- (sum of roots)x + (product of roots)x\\(^2\\)\u00a0- ( m/n )x + ( 1/-n ) = 0multiply through by nnx\\(^2\\)\u00a0- mx - 1 = 0",
+    "year": "2022"
+  },
+  {
+    "number": "678",
+    "text": "A particle is acted upon by forces F = (10N, 060\u00ba), P = (15N, 120\u00ba) and Q = (12N, 200\u00ba). Express the force that will keep the particle in equilibrium in the form xi + yj, where x and y are scalars.",
+    "options": {
+      "A": "17.55i + 13.78j",
+      "B": "17.55j - 13.78i",
+      "C": "-17.55i + 13.78j",
+      "D": "-17.55i - 13.78j"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66746?exam_type=waec&type=obj&page=136",
+    "correct_answer": "B",
+    "explanation": "Converting the forces to their rectangular formsF = (10N, 060\u00ba)Fx = 10cos60 = 5ify = 10sin60 = 8.66jF = 5i + 8.66jP = (15N, 120\u00ba)Px = 15cos120 = -7.5ipy = 15sin120 = 12.99jP = -7.5i + 12.99jQ = (12N, 200\u00ba)Qx = 12cos200 = -11.28iQy = 12sin200 = -4.1jQ = -11.28i -4.1jThe resultant force = F + P + QR = 5i + 8.66j + (-7.5i + 12.99j) + (-11.28i -4.1j)R = -13.78i + 17.55j",
+    "year": "2022"
+  },
+  {
+    "number": "679",
+    "text": "Evaluate: lim\\(_{x\u2192-2}\\) \\(\\frac{x^3+8}{x+2}\\).",
+    "options": {
+      "A": "12",
+      "B": "8",
+      "C": "4",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66748?exam_type=waec&type=obj&page=136",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{x^3+8}{x+2}\\).\nx\\(^3\\) + 8 = x\\(^3\\)\u00a0+ 23recall thatx\\(^3\\)\u00a0+ y\\(^3\\)\u00a0= (x + y)(x\\(^2\\)\u00a0- xy + y\\(^2\\))x = x, y = 2x\\(^3\\)\u00a0+ 8 = (x + 2)(x\\(^3\\)\u00a0- 2(x) + 2\\(^2\\))\n\\(\\frac{x^3 + 8}{x + 2} = \\frac{( x + 2)(x^3\u00a0- 2(x) + 2^2))}{x+2}\\)\u00a0\u2192\u00a0x\\(^2\\) - 2x + 4\nx = -2(-2)\\(^2\\)\u00a0- 2(-2) + 4 = 4 +\u00a04 + 4\n= 12",
+    "year": "2022"
+  },
+  {
+    "number": "680",
+    "text": "If f(x-1) = x\\(^3\\)\u00a0+ 3x\\(^2\\)\u00a0+ 4x - 5, find f(2)",
+    "options": {
+      "A": "61",
+      "B": "25",
+      "C": "20",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66749?exam_type=waec&type=obj&page=136",
+    "correct_answer": "A",
+    "explanation": "x - 1 = 2x = 3f(2) = (3)\\(^3\\) + 3(3)\\(^2\\)\u00a0+ 4(3) - 5f(2) = 27 + 27 + 12 - 5\n= 61",
+    "year": "2022"
+  },
+  {
+    "number": "681",
+    "text": "The length of the line joining points (x,4) and (-x,3) is 7 units. Find the value of x.",
+    "options": {
+      "A": "4\u221a3",
+      "B": "2\u221a6",
+      "C": "3\u221a2",
+      "D": "2\u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/66750?exam_type=waec&type=obj&page=137",
+    "correct_answer": "D",
+    "explanation": "d = \\(\\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}\\)x1 = x, x2 = -x, y1 = 4, y2 = 3, d = 77 = \u00a0\\(\\sqrt{(-x -x)^2 + (3 - 4)^2}\\)7 = \\(\\sqrt{(-2x)^2 + (-1)^2}\\)7 = ( \\(\\sqrt{4x^2 + 1}\\)square both sides7\\(^2\\) = 4x\\(^2\\)\u00a0+ 1collect like terms4x\\(^2\\)\u00a0= 49 - 14x\\(^2\\)\u00a0= 48\nx\\(^2\\) = \\(\\frac{48}{4}\\)\nx\\(^2\\)\u00a0= 12x = \u221a12x = 2\u221a3",
+    "year": "2022"
+  }
+]

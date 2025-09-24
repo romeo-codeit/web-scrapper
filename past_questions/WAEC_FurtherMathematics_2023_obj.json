@@ -1,0 +1,562 @@
+[
+  {
+    "number": "682",
+    "text": "Calculate, correct to one decimal place, the angle between 5 i + 12 j and -2 i + 3 j",
+    "options": {
+      "A": "56.3\u00ba",
+      "B": "76.3\u00ba",
+      "C": "66.4\u00ba",
+      "D": "54.8\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/68814?exam_type=waec&type=obj&page=137",
+    "correct_answer": "A",
+    "explanation": "Using the dot product:a.b = |a||b|cos \u03b8a.b = 5(-2) + 12(3) = -10 + 36 = 26|a| = \u221a(52 + 122) = \u221a(25 + 144)|a| = \u221a169 = 13|b| = \\(\u221a((-2)^2 + 3^2)\\) = \u221a(4 + 9)|b| = \u221a13= 26 = 13\u221a13 x cos \u03b8\n= \\(\\frac{26}{13\\sqrt13}\\) =\u00a0cos \u03b8\n=\\(\\frac{2}{\\sqrt13}\\) =\u00a0cos \u03b8\n=\u00a0\u03b8 = \\(cos^{-1} (\\frac{2}{\\sqrt13})\\)\n\u2234 \u03b8 = 56.3\u00ba",
+    "year": "2023"
+  },
+  {
+    "number": "683",
+    "text": "Find the equation of the normal to the curve y = \\(3x^2 + 2\\) at point (1, 5).",
+    "options": {
+      "A": "6y - x - 29 = 0",
+      "B": "6y + x - 31 = 0",
+      "C": "y - 6x - 1 = 0",
+      "D": "y - 6x + 1 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/68855?exam_type=waec&type=obj&page=137",
+    "correct_answer": "B",
+    "explanation": "y = \\(3x^2 + 2\\)\n\\(y^1 = \\frac{dy}{dx} = 6x\\)\nEvaluating this derivative at x = 1 (since the point of interest is (1, 5)) gives us the slope of the tangent line at that point:\\(^mtangent\u00a0= y^1(1) = 6 (1) = 6\\)Slope of the Normal Line \\( ^mnorma l= - \\frac{1}{^mtangent}\\)\n\\(^mnormal = - \\frac{1}{6}\\)\n\\(y\u2212y_1\u200b= ^mnormal\u22c5(x\u2212x_1)\\)\n=y-5=-\\(\\frac{1}{6}(x-1)\\)\n=y-5=-\\(\\frac{1}{6}x+\\frac{1}{6}\\)\n=y=-\\(\\frac{1}{6}x+\\frac{1}{6}+5\\)\nMultiply through by 6\n=6y=-x+1+30\n\u22346y+ x - 31=0",
+    "year": "2023"
+  },
+  {
+    "number": "684",
+    "text": "The distance S metres moved by a body in t seconds is given by \\(S = 5t^3 - \\frac{19}{2} t^2 + 6t - 4\\). Calculate the acceleration of the body after 2 seconds",
+    "options": {
+      "A": "19 \\(ms ^{-2}\\)",
+      "B": "21 \\(ms ^{-2}\\)",
+      "C": "41 \\(ms ^{-2}\\)",
+      "D": "31 \\(ms ^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/68866?exam_type=waec&type=obj&page=137",
+    "correct_answer": "C",
+    "explanation": "\\(S = 5t^3 - \\frac{19}{2} t^2 + 6t - 4\\)\n\\(v(t)=\\frac{dS}{dt}=15t^2-19t+6\\)\n\\(a(t)=\\frac{dv}{dt}=30t-19\\)\n\u2234a(2)=30(2)-19=60-19=41 \\(ms ^{-2}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "685",
+    "text": "Evaluate \\(\\int^1_0 x(x^2-2)^2 dx\\)",
+    "options": {
+      "A": "\\(\\frac{6}{7}\\)",
+      "B": "\\(1\\frac{1}{6}\\)",
+      "C": "\\(\\frac{1}{7}\\)",
+      "D": "\\(3\\frac{1}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/68887?exam_type=waec&type=obj&page=137",
+    "correct_answer": "B",
+    "explanation": "\\(\\int^1_0 x(x^2-2)^2 dx\\)\n\\((x^2-2)^2=x^4-2x^2-2x^2+4\\)\n=\\(x^4-4x^2+4\\)\n\\(x(x^2-2)^2=x(x^4-4x^2+4)\\)\n=\\(x^5-4x^3+4x\\)\n\\(\\int^1_0 x(x^2-2)^2 dx = \\int^1_0 x^5 - 4x^3 + 4x dx\\)\n=\\((\\frac{x^6}{6} - x^4+2x^2)^1_0\\)\n= \\((\\frac{(1)^6}{6} - (1)^4 +2(1)^2)-(\\frac{(0)^6}{6} - (0)^4+2(0)^2)\\)\n=\\(\\frac{7}{6} - 0 =\\frac{7}{6}\\)\n\\(\\therefore 1\\frac{1}{6}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "686",
+    "text": "Given that \\(sin x = \\frac{4}{5}\\) and \\(cos y = \\frac{12}{13}\\), where x is an obtuse angle and y is an acute angle, find the value of sin (x - y).",
+    "options": {
+      "A": "\\(\\frac{63}{65}\\)",
+      "B": "\\(\\frac{48}{65}\\)",
+      "C": "\\(\\frac{56}{65}\\)",
+      "D": "\\(\\frac{16}{65}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/68890?exam_type=waec&type=obj&page=138",
+    "correct_answer": "A",
+    "explanation": "\\(sin x = \\frac{4}{5}\\) and \\(cos y = \\frac{12}{13}\\)\nx is obtuse i.e sin x = + ve while cos x\u00a0= + ve\n\\(cos x=\\frac{3}{5}==>cos x=-\\frac {3}{5}(obtuse)\\)\n\\(sin y= \\frac{5}{13}\\)\n\\(sin (x-y) = sin x\\)\u00a0\\(cos y - cos x\\)\u00a0\\(sin y\\)\n\\(sin(x-y) = \\frac{4}{5}\\times\\frac{12}{13}-(-\\frac{3}{5})\\times\\frac{5}{13}\\)\n\\(sin(x-y) = \\frac{48}{65}-(-\\frac{3}{13})\\)\n\\(\\therefore sin (x-y) = \\frac{48}{65} + \\frac{3}{13} = \\frac{63}{65}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "687",
+    "text": "If\\((\\frac{1}{9})^{2x-1} = (\\frac{1}{81})^{2-3x}\\)find the value of x",
+    "options": {
+      "A": "\\(-\\frac{5}{8}\\)",
+      "B": "\\(-\\frac{3}{4}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(-\\frac{5}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69039?exam_type=waec&type=obj&page=138",
+    "correct_answer": "D",
+    "explanation": "\\((\\frac{1}{9})^{2x-1} = (\\frac{1}{81})^{2-3x}\\)\n\\((\\frac{1}{9})^{2x-1} = (\\frac{1}{9})^{2(2-3x)}\\)\n\\((\\frac{1}{9})^{2x-1} = (\\frac{1}{9})^{4-6x}\\)\nSince the bases are equal, powers can be equated\n= 2x - 1 = 4 - 6x\n= 2x + 6x = 4 + 1\n= 8x = 5\n\\(\\therefore x = \\frac{5}{8}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "688",
+    "text": "The table shows the operation * on the set {x, y, z, w}.\n\n\n\n*\nX\nY\nZ\nW\n\n\nX\nY\nZ\nX\nW\n\n\nY\nZ\nW\nY\nX\n\n\nZ\nX\nY\nZ\nW\n\n\nW\nW\nX\nW\nZ\n\n\n\nFind the identity of the element.",
+    "options": {
+      "A": "W",
+      "B": "Y",
+      "C": "Z",
+      "D": "X"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69046?exam_type=waec&type=obj&page=138",
+    "correct_answer": "C",
+    "explanation": "From the table, x * z = x, y * z = y, z * z = z and w * z = w\u2234 z is the identity element",
+    "year": "2023"
+  },
+  {
+    "number": "689",
+    "text": "Find the radius of the circle \\(2x^2 + 2y^2 - 4x + 5y + 1 = 0\\)",
+    "options": {
+      "A": "\\(\\frac{\\sqrt33}{4}\\)",
+      "B": "\\(\\frac{\\sqrt5}{6}\\)",
+      "C": "\\(\\frac{5}{6}\\)",
+      "D": "\\(\\frac{33}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69072?exam_type=waec&type=obj&page=138",
+    "correct_answer": "A",
+    "explanation": "Standard Form equation of a circle (Center-Radius Form): \\((x \u2212 a)^2 + (y \u2212 b)^2 = r^2\\)Where \"a\" and \"b\" are the coordinates of the center and \"r\" is the radius of the circle\n\\(2x^2+2y^2-4x+5y+1=0\\)\nDivide through by 2\n= \\(x^2+y^2-2x+\\frac{5}{2}y+\\frac{1}{2}= 0\\)\n=\\(x^2-2x+y^2+\\frac{5}{ 2}y=-\\frac{1}{ 2}\\)\n=\\(x^2-2x+1^2+y^2+\\frac{5}{ 2}y+(\\frac{5}{ 4})^2-1-\\frac{25}{16}=-\\frac{1}{2}\\)\n=\\((x-1)^2+(y+\\frac{5}{4})^2=-\\frac{1}{2}+1+\\frac{25}{16}\\)\n=\\((x-1)^2+(y-(-\\frac{5}{4}))^2=\\frac{33}{16}\\)\n=\\((x-1)^2+(y-(-\\frac{5}{4}))^2=(\\frac{\\sqrt33}{4})^2\\)\n\\(\\therefore a = 1, b = - \\frac{5}{4} and\\)\u00a0\\(r \\frac{\\sqrt33}{4} (answer)\\)",
+    "year": "2023"
+  },
+  {
+    "number": "690",
+    "text": "Given that M is the midpoint of T (2, 4) and Q (-8, 6), find the length of MQ .",
+    "options": {
+      "A": "\\(\u221a26 units\\)",
+      "B": "\\(\u221a28 units\\)",
+      "C": "\\(\u221a24 units\\)",
+      "D": "\\(\u221a30 units\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69073?exam_type=waec&type=obj&page=138",
+    "correct_answer": "A",
+    "explanation": "\\(|MQ| = \\frac{1}{2} |TQ|\\)\\(|TQ| = \u221a((y2 - y1)^2 + (x2 - x1)^2)\\)\\(|TQ| = \u221a((6 - 4)^2 + (-8 - 2)^2)\\)\\(|TQ| = \u221a(2^2 + (-10)^2)\\)\\(|TQ| = \u221a(4 + 100) = \u221a104\\)\\(|TQ| = 2\u221a26 units\\)\\(|MQ| = \\frac{1}{2} |TQ| = 2 \\times\u00a02\u221a26\\)\u2234 \\(|MQ| = \u221a26 units\\)",
+    "year": "2023"
+  },
+  {
+    "number": "691",
+    "text": "A particle began to move at \\(27 ms^{-1}\\) along a straight line with constant retardation of \\(9 ms^{-2}\\). Calculate the time it took the particle to come to a stop.",
+    "options": {
+      "A": "3 sec",
+      "B": "2 sec",
+      "C": "4 sec",
+      "D": "1 sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69075?exam_type=waec&type=obj&page=139",
+    "correct_answer": "A",
+    "explanation": "\\(u = 27 ms^{-1}; a = -9 ms^{-2}; v = 0; t = ?\\)\n\\(v = u + at; t = \\frac{v - u}{a}\\)\n\\(t = \\frac{0 - 27}{-9} = \\frac{-27}{-9}\\)\n\\(\\therefore t = 3 sec\\)",
+    "year": "2023"
+  },
+  {
+    "number": "692",
+    "text": "Find the fifth term in the binomial expansion of \\((q + x)^7\\).",
+    "options": {
+      "A": "\\(21q^2x^5\\)",
+      "B": "\\(21q^4x^3\\)",
+      "C": "\\(35q^3x^4\\)",
+      "D": "\\(35q^5x^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69095?exam_type=waec&type=obj&page=139",
+    "correct_answer": "C",
+    "explanation": "rth term of a binomial expansion = \\(^nC_r - _1a^{n - (r - 1)} b^{r - 1}\\)n = 7, r = 5 \u2234 r - 1 = 45th term = \\(^7C_4 q^{7 - 4} x^4\\)= \\(^7C_4 q^3x^4\\)\\(\\therefore 35q^3x^4\\)",
+    "year": "2023"
+  },
+  {
+    "number": "693",
+    "text": "Given that P = {x : 2 \u2264 x \u2264 8} and Q = {x : 4 < x \u2264 12} are subsets of the universal set \u03bc = {x : x \u2208 R}, find (P \u22c2 Q\\(^1\\)).",
+    "options": {
+      "A": "{x : 4 < x < 8}",
+      "B": "{x : 2 < x \u2264 4}",
+      "C": "{x : 2 \u2264 x \u2264 4}",
+      "D": "{x : 4 \u2264 x \u2264 8}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69096?exam_type=waec&type=obj&page=139",
+    "correct_answer": "C",
+    "explanation": "P = {x : 2 \u2264 x \u2264 8} = {2, 3, 4, 5, 6, 7, 8}Q = {x : 4 < x \u2264 12} = {5, 6, 7, 8, 9, 10, 11, 12}Q1 = R - {5, 6, 7, 8, 9, 10, 11, 12} = {..., 2, 3, 4, 13, 14, 15, ...}\u2234 P \u22c2 Q\\(^1\\) = {2, 3, 4} = {x : 2 \u2264 x \u2264 4}",
+    "year": "2023"
+  },
+  {
+    "number": "694",
+    "text": "Consider the statements:\nx: The school bus arrived late\ny: The student walked down to school\nWhich of the following can be represented by y \u21d2 x?",
+    "options": {
+      "A": "The school bus arrived early and Kate ran to school",
+      "B": "Mary walked to school because the school bus arrived late",
+      "C": "Either the school bus arrived late or Maryam walked to school",
+      "D": "Emmanuella did not go to school because the school bus arrived late"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69097?exam_type=waec&type=obj&page=139",
+    "correct_answer": "B",
+    "explanation": "The statement \"y \u21d2 x\" represents a logical implication, where y implies x. This means that if y is true, then x must also be true. In other words, if the condition represented by y is satisfied, the condition represented by x must also be satisfied.Out of the provided options:\"Emmanuella did not go to school because the school bus arrived late.\"In this case, \"Emmanuella did not go to school\" (not y) is the outcome of the late school bus (x). However, the implication y \u21d2 x would mean that if the student walked down to school (y), then the school bus arrived late (x). So this case does not match the y \u21d2 x structure.\"The school bus arrived early and Kate ran to school\" does not match the y \u21d2 x structure, as there's no clear implication between the two events.\"Mary walked to school because the school bus arrived late\" can be represented by y \u21d2 x because if Mary walked to school (y), it implies that the school bus arrived late (x).\"Either the school bus arrived late or Maryam walked to school\" does not match the y \u21d2 x structure, as it represents a logical OR relationship rather than an implication.So, the correct statement that can be represented by y \u21d2 x is:Mary walked to school because the school bus arrived late",
+    "year": "2023"
+  },
+  {
+    "number": "695",
+    "text": "\\(Differentiate f (x) = \\frac{1}{(1 - x^2)^5}\\) with respect to \\(x\\).",
+    "options": {
+      "A": "\\(\\frac{-5x}{(1-x^2)^6}\\)",
+      "B": "\\(\\frac{-10x}{(1-x^2)^6}\\)",
+      "C": "\\(\\frac{5x}{(1-x^2)^6}\\)",
+      "D": "\\(\\frac{10x}{(1-x^2)^6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69098?exam_type=waec&type=obj&page=139",
+    "correct_answer": "D",
+    "explanation": "\\(y = \\frac{1}\u00a0{(1 - x^2)^5} = (1-x^2)^{-5}\\)\nLet u = \\(1 - x^2; y = u ^{-5}\\)\n\\(\\frac{du}{ dx}=-2x;\\frac{dy}{ du}=-5u^{-6}\\)\nUsing chain rule:\n\\(\\frac{dy}{dx}=\\frac{dy}{du}\\times\\frac{du}{ dx}\\)\n\\(\\frac{dy}{dx}=-2x\\times-5u^{-6}\\)\n\\(\\frac{dy}{dx}=-2x\\times-5(1 - x^2)^{-6}\\)\n\\(\\therefore\\frac{dy}{dx} = 10x(1-x^2)^{-6}=\\frac{10x}{(1-x^2)^6}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "696",
+    "text": "Express \\(\\frac{3}{3 - \u221a6}\\) in the form \\(x + m\u221ay\\)",
+    "options": {
+      "A": "3 - 3 \u221a6",
+      "B": "3 + 3\u221a6",
+      "C": "3 + \u221a6",
+      "D": "3 - \u221a6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69100?exam_type=waec&type=obj&page=140",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{3}{3 - \u221a3}\\)\nRationalize\n\\(= \\frac{3}{3 - \u221a6} \\times \\frac{3\u00a0+ \u221a6}{3 + \u221a6}\\)\n\\(=\\frac{3(3 + \u221a6)}{(3 - \u221a6)(3 + \u221a6)}\\)\n\\(=\\frac{3(3 + \u221a6)}{9 - 6}=\\frac{3(3 + \u221a6)}{3}\\)\n\u2234 3 + \u221a6",
+    "year": "2023"
+  },
+  {
+    "number": "697",
+    "text": "The table shows the mark obtained by students in a test.\n\n\n\nMarks\n1\n2\n3\n4\n5\n\n\nFrequency\n2\nk\n1\n1\n2\n\n\n\nIf the mean mark is 3, find the value of k.",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69102?exam_type=waec&type=obj&page=140",
+    "correct_answer": "B",
+    "explanation": "x\u0304\u00a0\\(=\\frac{\u2211fx}{\u2211f}= 3\\)\n\\(=\\frac{(1 \\times\u00a02)+(2 \\times\u00a0k)+(3 \\times\u00a01)+(4 \\times\u00a01)+(5 \\times\u00a02)}{2 + k + 1 + 1 + 2}= 3\\)\n\\(=\\frac{2 + 2k + 3 + 4 + 10}{6 + k} = 3\\)\n\\(=\\frac{19 + 2k}{6 + k} = 3\\)\n\\(=\\frac{19 + 2k}{6 + k} = \\frac{3}{1}\\)\n=19+2k=3(6+k)\n=19+2k=18+3k\n=2k-3k=18-19\n=-k=-1\n\u2234k=1",
+    "year": "2023"
+  },
+  {
+    "number": "698",
+    "text": "\\(Simplify: \\frac{log \u221a27 - log \u221a8}{log 3 - log 2}\\)",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\)",
+      "B": "-\\(\\frac{1}{4}\\)",
+      "C": "-\\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69105?exam_type=waec&type=obj&page=140",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{log \u221a27 - log \u221a8}{log 3 - log 2}\\)\n= \\(\\frac{log \u221a3^3 - log \u221a2^3}{log 3 - log 2}\\)\n= \\(\\frac{log3^{3/2} - log2^{3/2}}{log3}\\)\n=\\(\\frac{^3/_2(log 3 - log 2)}{log 3 - log 2}\\)\n\\(\\therefore\\frac{3}{2}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "699",
+    "text": "Given that r = (10 N , 200\u00ba) and n = (16 N , 020\u00ba), find (3r - 2n).",
+    "options": {
+      "A": "(62 N , 240\u00ba)",
+      "B": "(62 N , 200\u00ba)",
+      "C": "(62 N , 280\u00ba)",
+      "D": "(62 N , 020\u00ba)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69107?exam_type=waec&type=obj&page=140",
+    "correct_answer": "D",
+    "explanation": "r = (10 N, 200\u00ba) and n = (16 N, 020\u00ba)In rectangular form:r = 10cos 200\u00bai + 10sin 200\u00baj = -9.397i - 3.420jn = 16cos 20\u00bai + 16sin 20\u00baj = 15.035i + 5.472j3r = -28.191i - 10.260j2n = 30.070i + 10.945j3r - 2n = (-28.191i - 10.260j) - (30.070i + 10.945j)3r - 2n = -58.261i - 21.205j|3r - 2n| = \u221a((-58.261)\\(^2\\) + (-21.205)\\(^2\\)) = 62 N\n\\(tan \u03b8 =\\frac{-21.205}{-58.261} = 0.3640\\)\n\\(\u03b8 = tan^{-1} (0.3640) = 20^o\\)\u2234 (62 N , 020\u00ba)",
+    "year": "2023"
+  },
+  {
+    "number": "700",
+    "text": "Solve 6 sin 2\u03b8 tan \u03b8 = 4, where 0\u00ba\u00a0< \u03b8 < 90\u00ba",
+    "options": {
+      "A": "18.43\u00ba",
+      "B": "30.00\u00ba",
+      "C": "35.26\u00ba",
+      "D": "19.47\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69109?exam_type=waec&type=obj&page=140",
+    "correct_answer": "C",
+    "explanation": "6 sin 2\u03b8 tan \u03b8 = 4, where 0\u00ba\u00a0< \u03b8 < 90\u00ba\nsin 2\u03b8 = 2sin \u03b8 cos \u03b8 and tan\u03b8 = \\(\\frac{sin\u03b8}{cos\u03b8}\\)\n= 6 x 2sin \u03b8 cos \u03b8 x \\(\\frac{sin \u03b8}{cos \u03b8} = 4\\)\n= \\(sin^2 \u03b8 = 4\\)\n= \\(sin^2 \u03b8 = \\frac{4}{12}=\\frac{1}{3}\\)\n=\\(sin \u03b8 = \\frac{\\sqrt1}{3}=\\frac{1}{\\sqrt3}\\)\n= \\(\u03b8 = sin^{-1}(\\frac{1}{\\sqrt3})\\)\n\u2234 \u03b8 = 35.26\u00ba",
+    "year": "2023"
+  },
+  {
+    "number": "701",
+    "text": "An exponential sequence (G.P.) is given by 8\u221a2, 16\u221a2, 32\u221a2, ... . Find the n\\(^{th}\\) term of the sequence",
+    "options": {
+      "A": "\\(8\\sqrt2^n\\)",
+      "B": "\\(2^{(n+2)}\\sqrt2\\)",
+      "C": "\\(\\sqrt2^{(n+3)}\\)",
+      "D": "\\(8n\\sqrt2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69112?exam_type=waec&type=obj&page=141",
+    "correct_answer": "B",
+    "explanation": "8\u221a2, 16\u221a2, 32\u221a2, ..\n\\(a = 8\\sqrt2; r =\\frac{T_2}{T_1}=\\frac{16\\sqrt2}{8\\sqrt2}=2\\)\n\\(T_n=ar^{n-1}\\)\n\\(T_n=8\\sqrt2 \\times 2^{n-1}\\)\n\\(T_n=2^3\\times2^{n-1}\\times\\sqrt2\\)\n\\(T_n=2^{3+n-1}\\times\\sqrt2\\)\n\\(\\therefore T_n= 2^{(n+2)}\\sqrt2\\)",
+    "year": "2023"
+  },
+  {
+    "number": "702",
+    "text": "If \\(f : x \u2192 2 tan x\\) and \\(g : x \u2192 \u221a(x^2 + 8), find ( g o f )(45^o)\\)",
+    "options": {
+      "A": "4",
+      "B": "2\u221a3",
+      "C": "6",
+      "D": "3\u221a2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69113?exam_type=waec&type=obj&page=141",
+    "correct_answer": "B",
+    "explanation": "\\(f : x \u2192 2 tan x\\)\\(g : x \u2192 \u221a(x^2 + 8)\\)\\(( g o f ) = \u221a((2 tan x)^2 + 8)\\)\\(( g o f )(45\u00ba) = \u221a((2 tan 45\u00ba)^2 + 8)\\)= \u221a(4 + 8) = \u221a12= \u221a(4 x 3)\u2234 2\u221a3",
+    "year": "2023"
+  },
+  {
+    "number": "703",
+    "text": "A uniform beam PQ of length 80 cm and weight 60 N rests on a support at X where | PX | = 30 cm. If the body is kept in equilibrium by a mass m kg which is placed at P , calculate the value of m\n[Take g = 10 ms\\(^{-2}\\)]",
+    "options": {
+      "A": "2.0",
+      "B": "3.0",
+      "C": "2.5",
+      "D": "4.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69118?exam_type=waec&type=obj&page=141",
+    "correct_answer": "A",
+    "explanation": "\u2211 clock wise moments =\u2211 anti clock wise moments\n= 60 x 10 = 30 x m\n= 600 = 30 m\nm = \\(\\frac{600}{30} = 20 N\\)\nW = mg ==> m = \\(\\frac{W}{g}\\)\n\u2234 m = \\(\\frac{20}{10} = 2kg\\)",
+    "year": "2023"
+  },
+  {
+    "number": "704",
+    "text": "An exponential sequence (G.P.) is given by \\(\\frac{9}{2},\\frac{3}{4},\\frac{1}{8},\\)....Find its sum to infinity.",
+    "options": {
+      "A": "\\(5\\frac{2}{5}\\)",
+      "B": "\\(4\\frac{1}{5}\\)",
+      "C": "\\(13\\frac{1}{2}\\)",
+      "D": "\\(6\\frac{3}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69127?exam_type=waec&type=obj&page=141",
+    "correct_answer": "A",
+    "explanation": "Sum to infinity of a G.P when /r/ < 1 = \\(\\frac{a}{1 - r}\\)\na = \\(\\frac{9}{2},r = \\frac{T_2}{T_1} = \\frac{3}{4} + \\frac{9}{2}\\)\nr = \\(\\frac{3}{4} \\times \\frac{2}{9} = \\frac{1}{6}\\)\n\\(S_\u221e = \\frac{\\frac{9}{2}}{1-\\frac{1}{6}} = \\frac{\\frac{9}{2}}{\\frac{5}{6}} = \\frac{27}{5}\\)\n\\(\\therefore\u00a0S_\u221e = 5\\frac{2}{5}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "705",
+    "text": "Adu's scores in five subjects in an examination are 85, 84, 83, 86 and 87. Calculate the standard deviation.",
+    "options": {
+      "A": "2.0",
+      "B": "1.4",
+      "C": "1.8",
+      "D": "1.6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69132?exam_type=waec&type=obj&page=141",
+    "correct_answer": "B",
+    "explanation": "n = 5\nx\u0304 = \\(\\frac{\u2211x}{n} = \\frac{85 + 84 + 83 + 86 + 87}{5} = \\frac{425}{5} = 85\\)\n\\(x\\)\\(x -\u00a0x\u0304\\)\\((x - x\u0304)^2\\)850084-1183-2486118724\\(\\Sigma(x - x\u0304)^2 = 10\\)\n\\S.D = \\(\\sqrt{\\frac{\u2211(x - x\u0304 )}{n}}\\) = \\(\\sqrt{\\frac{10}{5}}\\)\n\u2234 S.D = \\(\\sqrt{2}\\) =1.4",
+    "year": "2023"
+  },
+  {
+    "number": "706",
+    "text": "In how many ways can a committee of 3 women and 2 men be chosen from a group of 7 men and 5 women?",
+    "options": {
+      "A": "500",
+      "B": "350",
+      "C": "720",
+      "D": "210"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69151?exam_type=waec&type=obj&page=142",
+    "correct_answer": "D",
+    "explanation": "For choosing, its different 'combinations'Options - 7 men, 5 womenTo pick - 2 men, 3 women\u2234 The number of ways to choose a committee of 3 women and 2 men from a group of 7 men and 5 women is:=\\(^5C_3 \\times ^7C_2\\)\n=\\(\\frac{5\\times4\\times3}{3\\times2}\\times\\frac{7\\times6}{2\\times1}\\)\n=\\(10\\times21\\)\n=210",
+    "year": "2023"
+  },
+  {
+    "number": "707",
+    "text": "Evaluate: \\(\\int(2x + 1)^3 dx\\)",
+    "options": {
+      "A": "\\(8(2x + 1)^2 + k\\)",
+      "B": "\\(6(2x + 1)^2 + k\\)",
+      "C": "\\(\\frac{1}{8} (2x + 1)^4 + k\\)",
+      "D": "\\(\\frac{1}{6} (2x + 1)^4 + k\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69157?exam_type=waec&type=obj&page=142",
+    "correct_answer": "C",
+    "explanation": "\\(\\int(2x + 1)^3 dx\\)\nUsing substitution method, Let \\(u = 2x + 1\\)\n\\(\\frac{du}{dx}=2==>du=2dx==>dx=\\frac{du}{2}\\)\n=\\(\\int\\frac{u^3}{2} du = \\frac{1}{2}\\int u^3 du\\)\n=\\(\\frac{1}{2}(\\frac{u^4}{4})=\\frac{u^4}{8}\\)\n\\(\\therefore\\frac{1}{8} (2x + 1)^4 + k\\)",
+    "year": "2023"
+  },
+  {
+    "number": "708",
+    "text": "If \u03b1 and \u03b2 are the roots of \\(7x2 +12x - 4 = 0\\),find the value of \\(\\frac{\u03b1\u03b2}{(\u03b1 + \u03b2)^2}\\)",
+    "options": {
+      "A": "\\( \\frac{7}{36}\\)",
+      "B": "-\\( \\frac{36}{7}\\)",
+      "C": "\\(\\frac{36}{7}\\)",
+      "D": "-\\( \\frac{7}{36}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69162?exam_type=waec&type=obj&page=142",
+    "correct_answer": "D",
+    "explanation": "The general form of a quadratic equation is:\n\\(x^2\\) -(sum of roots)\\(x\\) +(product of roots) = 0\n\\(7x^2+12x-4=0\\)\nDivide through by 7\n=\\(x^2+\\frac{12}{7}x-\\frac{4}{7}=0\\)\n=\\(x^2-(-\\frac{12}{7})x+(-\\frac{4}{7})=0\\)\n\\(\\therefore\\) sum of roots = \\(-\\frac{12}{7}\\), and products of roots =\\(-\\frac{4}{7}\\)\n\u03b1 + \u03b2 = \\(-\\frac{12}{7},\u00a0\u03b1\u03b2 = -\\frac{4}{7}\\)\n\\(\\frac{\u03b1\u03b2}{(\u03b1 + \u03b2)^2} = \\frac{\\frac{-4}{7}}{(\\frac{-12}{7})^2}\\)\n=\\(\\frac{\\frac{-4}{7}}{\\frac{144}{49}}=-\\frac{4}{7}\\times\\frac{49}{144}\\)\n\\(\\therefore - \\frac{7}{36}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "709",
+    "text": "If \\(3x^2 + p x + 12 = 0\\) has equal roots, find the values of p .",
+    "options": {
+      "A": "\u00b112",
+      "B": "\u00b13",
+      "C": "\u00b14",
+      "D": "\u00b16"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69164?exam_type=waec&type=obj&page=142",
+    "correct_answer": "A",
+    "explanation": "The general form of a quadratic\u00a0equation is:\n\\(x^2\\)-(sum of roots) = 0\nFor equal roots it's:\\(x^2 - 2(\u03b1)+(\u03b1)^2=0\\)\n\\(3x^2+px+12=0\\)\nDivide through by 3\n= \\(x^2+\\frac{p}{3}x+4=0\\)\n=\\(x^2-(-\\frac{p}{3})x+4=0\\)\n\\(So,\u03b1^2=4\\)\n= \u03b1 = \u221a4 = \u00b12\nAlso,-\\(\\frac{p}{3}= 2\u03b1\\)\nWhen \u03b1 = 2\n-\\(\\frac{p}{3} = 2(2)=4\\)\n=p=-12\nWhen \u03b1 =-2\n-\\(\\frac{p}{3}=2(-2)=-4\\)\n= p = 12\n\u2234 values of p = \u00b112",
+    "year": "2023"
+  },
+  {
+    "number": "710",
+    "text": "Given that \\(\\frac{3x + 4}{(x - 2)(x + 3)}\u2261\\frac{P}{x + 3}+\\frac{Q}{x - 2}\\),find the value of Q.",
+    "options": {
+      "A": "2",
+      "B": "-2",
+      "C": "1",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69165?exam_type=waec&type=obj&page=142",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{3x + 4}{(x - 2)(x + 3)}\u2261\\frac{P}{x + 3}+\\frac{Q}{x - 2}\\)\n\\(\\frac{3x + 4}{(x - 2)(x + 3)}=\\frac{P(x-2)+Q(x+3)}{(x-2)(x+3)}\\)\n=\\(3x+4=P(x-2)+Q(x+3)\\)\n=\\(3x+4=Px-2P+Qx+3Q\\)\n=\\(3x+4=Px+Qx-2P+3Q\\)\n=\\(3x+4=(P+Q)x-2P+3Q\\)\nEquating x and the constants\nP+Q=3------(i)\n2P+3Q=4-------(ii)\nFrom equation (i)\nP=3-Q------(iii)\nSubstitute (3-Q) for P inequation (ii)\n=-2(3-Q)+3Q=4\n=-6+2Q+3Q=4\n=-6+5Q=4\n=5Q=4+6\n=5Q=10\n\u2234Q=\\(\\frac{10}{5}=2\\)",
+    "year": "2023"
+  },
+  {
+    "number": "711",
+    "text": "The velocity of a body of mass 4.56 kg increases from \\((10 ms^{-1}, 060^o) to (50 ms ^{-1}, 060^o)\\) in 16 seconds . Calculate the magnitude of force acting on it.",
+    "options": {
+      "A": "17.1 N",
+      "B": "11.4 N",
+      "C": "36.5 N",
+      "D": "5.7 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69177?exam_type=waec&type=obj&page=143",
+    "correct_answer": "B",
+    "explanation": "\\(m=4.56kg;t=16s;v_1=(10ms^{-1},060^o);v_2=(50ms^{-1},060^o)\\)\nNotice that there is no change in the direction of the velocity\nSo,we don't need to write it\u00a0in a vector form\n\\(a=\\frac{\u2206v}{t}=\\frac{50 - 10}{16}\\)\n\\(a=\\frac{40}{16}=2.5ms^{-2}\\)\nF = ma = 4.56 x 2.5\n\u2234 F = 11.4 N",
+    "year": "2023"
+  },
+  {
+    "number": "712",
+    "text": "A linear transformation on the oxy plane is defined by \\(P : (x, y) \u2192 (2x + y, -2y)\\). Find \\(P^2\\)",
+    "options": {
+      "A": "\\(\\begin{bmatrix} 4&0\\\\1&4\\end{bmatrix}\\)",
+      "B": "\\(\\begin{bmatrix} 4&4\\\\0&0\\end{bmatrix}\\)",
+      "C": "\\(\\begin{bmatrix} 4&0\\\\0&4\\end{bmatrix}\\)",
+      "D": "\\(\\begin{bmatrix} 4&1\\\\0&4\\end{bmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69179?exam_type=waec&type=obj&page=143",
+    "correct_answer": "C",
+    "explanation": "\\(P : (x, y) \u2192 (2x + y, -2y)\\)\n\\(p\\begin{bmatrix}\u00a0x\\\\y\\end{bmatrix}=\\begin{bmatrix} 2x & y\\\\0 &-2y\\end{bmatrix}\\)\n\\(\\therefore p = \\begin{bmatrix} 2 & 1\\\\0 &-2\\end{bmatrix}\\)\n\\(\\therefore p^2 = \\begin{bmatrix} 2&1\\\\0&-2\\end{bmatrix}\\) \\(\\begin{bmatrix} 2&1\\\\0&-2\\end{bmatrix}\\) = \\(\\begin{bmatrix} 4&0\\\\0&4\\end{bmatrix}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "713",
+    "text": "Given that \\(y^2 + xy = 5,find \\frac{dy}{dx}\\).",
+    "options": {
+      "A": "\\(\\frac{y}{2y\u00a0+ x}\\)",
+      "B": "\\(\\frac{-y}{2y\u00a0+ x}\\)",
+      "C": "\\(\\frac{-y}{2y\u00a0- x}\\)",
+      "D": "\\(\\frac{y}{2y\u00a0+ x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69195?exam_type=waec&type=obj&page=143",
+    "correct_answer": "B",
+    "explanation": "\\(y^2 + xy = 5\\)\nBy implicit differentiation\n\\(=2y\\frac{dy}{dx}+y+x\\frac{dy}{dx}=0\\)\n\\(=2y\\frac{dy}{dx}+x\\frac{dy}{dx}=-y\\)\nFactor out \\(\\frac{dy}{dx}\\)\n\\(=\\frac{dy}{dx}(2y+x)=-y\\)\n\\(\u2234\\frac{dy}{dx}=\\frac{-y}{2y\u00a0+ x}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "714",
+    "text": "If \\(X\\) and \\(Y\\) are two independent events such that \\(P (X) = \\frac{1}{8}\\) and \\(P (X \u22c3 Y) = \\frac{5}{8}\\), find \\(P (Y)\\).",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{4}{7}\\)",
+      "C": "\\(\\frac{4}{21}\\)",
+      "D": "\\(\\frac{3}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69200?exam_type=waec&type=obj&page=143",
+    "correct_answer": "B",
+    "explanation": "\\(P(X\u22c3Y)=\\frac{5}{8}\\)\n\\(P(X\u22c2Y)=P(X)\\times P(Y)\\)\nSince X and Y are independent events, the probability of their union (X \u22c3 Y) can be calculated as:\n\\(P(X\u22c3Y)=P(X)+P(Y)-P(X\u22c2Y)\\)\n\\(=\\frac{5}{8}=\\frac{1}{8}+P(Y)-\\frac{1}{8}\\times P(Y)\\)\n\\(=\\frac{5}{8}-\\frac{1}{8}=P(Y)-\\frac{1}{8}\\times P(Y)\\)\n\\(=\\frac{1}{2}=P(Y)(1-\\frac{1}{8})\\)\n\\(=\\frac{1}{2}=P(Y)(\\frac{7}{8})\\)\n\\(=P(Y)=\\frac{1}{2}\u00f7\\frac{7}{8}\\)\n\\(\u2234P(Y)=\\frac{1}{2}x\\frac{8}{7}=\\frac{4}{7}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "715",
+    "text": "A function \\(f\\) is defined by \\(f :x\u2192\\frac{x + 2}{x - 3},x \u2260 3\\).Find the inverse of \\(f\\)\u00a0.",
+    "options": {
+      "A": "\\(\\frac{x + 3}{x - 2},x \u2260 2\\)",
+      "B": "\\(\\frac{x - 3}{x + 2},x \u2260 -2\\)",
+      "C": "\\(\\frac{3x - 2}{x+1},x \u2260 -1\\)",
+      "D": "\\(\\frac{3x + 2}{x - 1},x \u2260 1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69224?exam_type=waec&type=obj&page=143",
+    "correct_answer": "D",
+    "explanation": "\\(f :x\u2192\\frac{x + 2}{x - 3},x \u2260 3, f = ?\\)\nLet \\(f\u00a0:x=y\\)\n\\(y=\\frac{x + 2}{x - 3}\\)\n\\(=x+2=y(x-3)\\)\n\\(=x-xy=-3y-2\\)\n\\(=x(1-y)=-3y-2\\)\n\\(=x=\\frac{-3y - 2}{1 - y}=\\frac{-(3y + 2)}{- (y - 1)}\\)\n\\(=x=\\frac{3y + 2}{y - 1}\\)\n\\(\u2234f ^{-1} : x=\\frac{3x + 2}{x - 1},x \u2260 1\\)",
+    "year": "2023"
+  },
+  {
+    "number": "716",
+    "text": "The probabilities that Atta and Tunde will hit a target in a shooting contest are \\(\\frac{1}{6}\\) and \\({1}{9}\\) respectively. Find the probability that only one of them will hit the target.",
+    "options": {
+      "A": "\\(\\frac{1}{54}\\)",
+      "B": "\\(\\frac{41}{54}\\)",
+      "C": "\\(\\frac{20}{27}\\)",
+      "D": "\\(\\frac{13}{54}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69251?exam_type=waec&type=obj&page=144",
+    "correct_answer": "D",
+    "explanation": "\\(P(A)=\\frac{1}{6},P(T)=\\frac{1}{9}\\)\nProbability that only one of them will hit the target = \\(P(A)\\times P( \\bar T ) + P( \\bar A )\\times P(T)\\)\nWhere \\(P( \\bar T )\\) is the probability that Tunde will not hit the target and \\(P( \\bar A )\\) is the probability that Atta will not hit the target\n\\(P( \\bar T\u00a0)=1-\\frac{1}{9}=\\frac{8}{9}\\)\n\\(P( \\bar A\u00a0)=1-\\frac{1}{6}=\\frac{5}{6}\\)\nPr(only one) =\\((\\frac{1}{6}\\times\\frac{8}{9}) + (\\frac{5}{6} \\times \\frac{1}{9}) =\\frac{4}{27} + \\frac{5}{54}\\)\n\\(\\therefore\\) pr (only one) = \\(\\frac{13}{54}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "717",
+    "text": "Given that \\(p = \\begin{bmatrix} x&4\\\\3&7\\end{bmatrix} Q =\\begin{bmatrix} x&3\\\\1&2x\\end{bmatrix}\\) and the determinant of \\(Q\\) is three more than that of \\(P\\) , find the values of \\(x\\).",
+    "options": {
+      "A": "\\(-2,\\frac{3}{2}\\)",
+      "B": "\\(2,\\frac{3}{2}\\)",
+      "C": "\\(-2,-\\frac{3}{2}\\)",
+      "D": "\\(2-,\\frac{3}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69270?exam_type=waec&type=obj&page=144",
+    "correct_answer": "B",
+    "explanation": "\\(p = \\begin{bmatrix} x&4\\\\3&7\\end{bmatrix}, Q =\\begin{bmatrix} x&3\\\\1&2x\\end{bmatrix}\\)\n\\(p = \\begin{bmatrix} x&4\\\\3&7\\end{bmatrix}=7x-12, Q =\\begin{bmatrix} x&3\\\\1&2x\\end{bmatrix}=2x^2-3\\)\n|Q| = |P| + 3 (Given)\\(= 2\\times2 - 3 = 7x - 12 + 3\\)\\(= 2\\times2 - 3 - 7x + 12 - 3 = 0\\)\\(= 2\\times2 - 7x + 6 = 0\\)\\(= 2\\times2 - 4x - 3x + 6 = 0\\)\\(= 2x(x - 2) - 3(x - 2) = 0\\)\\(= (x - 2)(2x - 3) = 0\\)\n\\(\\therefore x=2,\\frac{3}{2}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "718",
+    "text": "If m and ( m + 4) are the roots of \\(4x^2 - 4x - 15 = 0\\), find the equation whose roots are 2 m and (2 m + 8).",
+    "options": {
+      "A": "\\(x^2+8x-15=0\\)",
+      "B": "\\(x^2-2x-15=0\\)",
+      "C": "\\(x^2-8x-15=0\\)",
+      "D": "\\(x^2+2x+15=0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69274?exam_type=waec&type=obj&page=144",
+    "correct_answer": "B",
+    "explanation": "\\(x^2-\\)(sum of roots)\\(x+\\)(product of roots) = \\(0\\)\n\\(4x^2-4x-15=0\\)\nDivide through by 4\n\\(=x^2-x-\\frac{15}{4}=0\\)\n\\(=x^2-x+(-\\frac{15}{4})=0\\)\n\\(=x^2-(1)x+(-\\frac{15}{4})=0\\)\nsum of roots =1\n= m + (m + 4) = 1=2m+4=1\n=2m=-3\n=m=-\\(\\frac{3}{2}\\)\nThe equation whose roots are 2m and 2m+8\n2m=2\u00d7-\\(\\frac{3}{2}=-3\\)and \\(2m+8=2\u00d7-\\frac{3}{2}+8=5\\)\n\\(=x^2-(-3+5)x+(-3)(5)=0\\)\n\\(=x^2-2x+(-15)=0\\)\n\\(\u2234x^2-2x-15=0\\)",
+    "year": "2023"
+  },
+  {
+    "number": "719",
+    "text": "Find the coefficient of the \\(6^{th}term\\)\u00a0in the binomial expansion of \\((1 - \\frac{2x}{3})10\\) in ascending powers of \\(x\\).",
+    "options": {
+      "A": "\\(-\\frac{896x^6}{9}\\)",
+      "B": "\\(-\\frac{896x^5}{9}\\)",
+      "C": "\\(-\\frac{896x^5}{27}\\)",
+      "D": "\\(-\\frac{896x^6}{27}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69285?exam_type=waec&type=obj&page=144",
+    "correct_answer": "C",
+    "explanation": "rth term of a binomial expansion =\\(^nC_r-1 a^{n-(r-1)}b^{r-1}\\)\n\\(n = 10,r = 6 \\therefore r-1=5\\)\n6th term =\\(^{10}C_5 1^{10} - 5 (-\\frac{2}{3}x)^5\\)\n\\(=252*1*-\\frac{32x^5}{243}=-\\frac{896x^5}{27}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "720",
+    "text": "In how many ways can four Mathematicians be selected from six ?",
+    "options": {
+      "A": "90",
+      "B": "60",
+      "C": "15",
+      "D": "360"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69290?exam_type=waec&type=obj&page=144",
+    "correct_answer": "C",
+    "explanation": "\\(=^6C_4\\)\n\\(=\\frac{6!}{(4!\\times2!)}\\)\n\\(=\\frac{6\\times5}{2\\times1}\\)\n= 15",
+    "year": "2023"
+  },
+  {
+    "number": "721",
+    "text": "If \\((x - 5)\\) is a factor of \\(x^3 - 4x^2 - 11x + 30\\), find the remaining factors.",
+    "options": {
+      "A": "\\((x + 3) and (x - 2)\\)",
+      "B": "\\((x - 3) and (x + 2)\\)",
+      "C": "\\((x - 3) and (x - 2)\\)",
+      "D": "\\((x + 3) and (x + 2)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/69294?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "(x - 5) is a factor of \\(x^3 - 4x^2 - 11x + 30\\). To find the remaining factors, let's draw out \\((x - 5)\\) from the parent expression.\\(x^3 - 4x^2 - 11x + 30 = x^3 - 5x^2 + x^2 - 5x - 6x + 30\\)\\(= x^2(x - 5) + x(x - 5) - 6(x - 5) = (x - 5)(x^2 + x - 6)\\)\u2234 To find the remaining factors, we factorize \\((x2 + x - 6)\\)\\(x^2 + x - 6 = x^2 + 3x - 2x - 6\\)\\(= x(x + 3) - 2(x + 3) = (x + 3)(x - 2)\\)\u2234 The other two factors are \\((x + 3) and (x - 2)\\)ALTERNATIVELY\n\\(\u2234 x^2 + x - 6 = (x + 3) and (x - 2)\\)",
+    "year": "2023"
+  }
+]

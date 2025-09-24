@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1524",
+    "text": "Which of the following gases could be collected by downward displacement of air?",
+    "options": {
+      "A": "Chlorine",
+      "B": "Hydrogen",
+      "C": "hydrogen chloride",
+      "D": "Sulphur(IV) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72167?exam_type=waec&type=obj&page=305",
+    "correct_answer": "B",
+    "explanation": "Gases that are less dense than air are collected by downward displacement of air.\u00a0Examples include\u00a0ammonia and hydrogen.\nSulphur dioxide (SO\\(_2\\)) is not collected by downward displacement of air.\u00a0It is collected by upward displacement of air because it is heavier than air.Also,\u00a0chlorine is collected by upward displacement of air, not downward displacement.\u00a0This is because although,\u00a0it is heavier and denser than air,\u00a0it is soluble in water.\u00a0Instead, chlorine is collected by upward displacement of air.",
+    "year": "2024"
+  },
+  {
+    "number": "1525",
+    "text": "Which of the following substances has the lowest boiling point?",
+    "options": {
+      "A": "Aqueous sodium chloride",
+      "B": "Ethanol",
+      "C": "Tetrachloromethane",
+      "D": "Water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72168?exam_type=waec&type=obj&page=305",
+    "correct_answer": "C",
+    "explanation": "High boiling point is primarily caused by\u00a0strong intermolecular forces, particularly hydrogen bonding\u00a0which is the main reason for water's high boiling point, as water molecules can form multiple hydrogen bonds with each other, requiring more energy to separate them and vapourize. Consequently, water, ethanol and aquous sodium chloride would have relatively high boiling points, owing to the presence of hydrogen bonds while tetrachloromethane has no hydrogen bonding, hence, it is has the lowest boiling point.",
+    "year": "2024"
+  },
+  {
+    "number": "1526",
+    "text": "The branch of science that deals with the nature and properties of substances and how one substance can be converted to another is known as",
+    "options": {
+      "A": "biology",
+      "B": "chemistry",
+      "C": "geography",
+      "D": "physics"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72169?exam_type=waec&type=obj&page=306",
+    "correct_answer": "B",
+    "explanation": "The branch of science that deals with the nature and properties of substances and how one substance can be converted to another is known as\u00a0Chemistry.\nChemistry studies the composition, structure, and properties of matter, as well as the changes it undergoes during chemical reactions, including how one substance can be transformed into another.",
+    "year": "2024"
+  },
+  {
+    "number": "1527",
+    "text": "The electron configuration 1S\\(^2\\) 2S\\(^2\\) 2P\\(_x\\)\\(^2\\) contravenes the",
+    "options": {
+      "A": "Pauli's exclusion principle",
+      "B": "Aufbau's principle",
+      "C": "octet rule",
+      "D": "Hund's rule"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72170?exam_type=waec&type=obj&page=306",
+    "correct_answer": "D",
+    "explanation": "Hund's rule states that\u00a0the lowest energy state of an atom or molecule is when the spins of its electrons are aligned as much as possible.\u00a0This means that electrons in the same orbital have the same spin before pairing up with opposite spins.\u00a0Each orbital in a subshell is singly occupied or filled with one electron first before any orbital is doubly occupied.",
+    "year": "2024"
+  },
+  {
+    "number": "1528",
+    "text": "The oxidation number of Chromium in Na\\(_2\\)Cr\\(_2\\)O\\(_7\\) is",
+    "options": {
+      "A": "+2",
+      "B": "+6",
+      "C": "+7",
+      "D": "+12"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72171?exam_type=waec&type=obj&page=306",
+    "correct_answer": "B",
+    "explanation": "Oxidation number of Cr in\u00a0Na\\(_2\\)Cr\\(_2\\)O\\(_7\\) = 0\n2(Na) + 2Cr + 7(O) = 0\nOxidation state of Na = +1, O = - 2\nSo,\u00a0 \u00a02(+1) + 2Cr +\u00a0 7(-2) = 0\n+2 + 2Cr - 14 = 0\n+2 - 14 + 2Cr = 0\n- 12 + 2Cr = 0\n2Cr = 12\nCr = \\(\\frac{12}{2}\\)\nCr = + 6",
+    "year": "2024"
+  },
+  {
+    "number": "1529",
+    "text": "The most important ore of aluminium is",
+    "options": {
+      "A": "bauxite",
+      "B": "haematite",
+      "C": "magnetite",
+      "D": "monazite"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72172?exam_type=waec&type=obj&page=306",
+    "correct_answer": "A",
+    "explanation": "Bauxite is considered the most important ore of aluminum;\u00a0it is the primary source from which aluminum is extracted globally.\u00a0Bauxite ore (Al\\(_2\\)O\\(_3\\).\u00a0xH\\(_2\\)O) is the major source of aluminium till date\u00a0which is a mixture of hydrated aluminium oxide.\nBoth haematite and magnetite are ores of Iron.\nMonazite is\u00a0a phosphate mineral that contains rare earth elements and thorium.\u00a0It's often found in sand and gravel deposits, and can be red, brown, or green in color.",
+    "year": "2024"
+  },
+  {
+    "number": "1530",
+    "text": "Bases normally",
+    "options": {
+      "A": "are corrosive",
+      "B": "turn litmus paper from blue to red",
+      "C": "turn litmus paper from red to blue",
+      "D": "are non-metal oxides"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72173?exam_type=waec&type=obj&page=306",
+    "correct_answer": "C",
+    "explanation": "Bases turn red litmus paper blue. They are also slippery to touch.",
+    "year": "2024"
+  },
+  {
+    "number": "1531",
+    "text": "The product formed when concentrated sodium chloride solution is electrolysed using carbon electrodes is",
+    "options": {
+      "A": "chloride water",
+      "B": "hydrochloric acid",
+      "C": "sodium hydroxide",
+      "D": "sodium oxochlorate (I)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72174?exam_type=waec&type=obj&page=307",
+    "correct_answer": "C",
+    "explanation": "When a concentrated sodium chloride solution is electrolyzed using carbon electrodes, the primary product formed is\u00a0chlorine gas\u00a0at the anode (positive electrode), while hydrogen gas is produced at the cathode (negative electrode).\nAt the anode:Chloride ions (Cl-) are oxidized to form chlorine gas (Cl\\(_2\\)).At the cathode:Water molecules are reduced to form hydrogen gas (H\\(_2\\)) and hydroxide ions (OH-).The overall reaction produces sodium hydroxide solution alongside the chlorine and hydrogen gases.",
+    "year": "2024"
+  },
+  {
+    "number": "1532",
+    "text": "The product of the reaction between ethanol and excess acidified K\\(_2\\)Cr\\(_2\\)O\\(_7\\) is",
+    "options": {
+      "A": "CH\\(_2\\)=CH\\(_2\\)",
+      "B": "CH\\(_3\\)OCH\\(_3\\)",
+      "C": "CH\\(_3\\)COOH",
+      "D": "CH\\(_3\\)CH\\(_3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72175?exam_type=waec&type=obj&page=307",
+    "correct_answer": "C",
+    "explanation": "When ethanol reacts with excess acidified potassium dichromate (K\\(_2\\)Cr\\(_2\\)O\\(_7\\)),\u00a0it gets oxidized to ethanoic acid (acetic acid), with the color of the solution changing from orange to green as the chromium ions are reduced during the oxidation process;\u00a0this reaction is a common test for alcohols due to the visible color change.\nCH\\(_3\\)CH\\(_2\\)OH\u00a0 +\u00a0K\\(_2\\)Cr\\(_2\\)O\\(_7\\)\u00a0\u2192\u00a0 CH\\(_3\\)COOH",
+    "year": "2024"
+  },
+  {
+    "number": "1533",
+    "text": "Which of the following statements about ammonium salt is correct? It",
+    "options": {
+      "A": "dissolves in water to form solution of pH > 1",
+      "B": "dissolves in water to form solution of pH < 7",
+      "C": "does not decompose on heating",
+      "D": "is insoluble in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72176?exam_type=waec&type=obj&page=307",
+    "correct_answer": "B",
+    "explanation": "When an ammonium salt dissolves in water,\u00a0the resulting solution is acidic.\u00a0Ammonium ions (NH\\(_4\\)\\(^+\\)) act as a weak acid when dissolved in water, donating a proton to water molecules and creating hydronium ions (H\\(_3\\)O\\(^+\\), which lowers the pH and makes the solution acidic.Consequently, option B is correct\u00a0 since the pH of solution formed will be less than 7 not greater than 1 because greater than 1 can mean that it is alkaline.\nAmmonium salts decompose when heated, typically releasing ammonia gas as one of the products.\u00a0Ammonium salts break down into their constituent components, like ammonia and the corresponding acid, when exposed to heat.\u00a0For example, ammonium chloride (NH\\(_4\\)Cl) decomposes into ammonia (NH\\(_3\\)) and hydrogen chloride (HCl) when heated.\nAmmonium salts are generally very soluble in water;\u00a0most simple ammonium salts readily dissolve in water, making them considered highly soluble. Which makes the statement incorrect.",
+    "year": "2024"
+  },
+  {
+    "number": "1534",
+    "text": "Ethanedioic acid is an organic solid that can be purified by",
+    "options": {
+      "A": "decantation",
+      "B": "distillation",
+      "C": "crystallization",
+      "D": "filtration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72177?exam_type=waec&type=obj&page=307",
+    "correct_answer": "C",
+    "explanation": "Solid ethanedioic acid (also known as oxalic acid) is typically purified\u00a0through a process called crystallization where the impure solid is dissolved in a hot solvent (usually water), then allowed to cool slowly, causing the purer crystals to precipitate out while leaving impurities behind in the solution;\u00a0this process can be repeated multiple times for further purification.",
+    "year": "2024"
+  },
+  {
+    "number": "1535",
+    "text": "Which of the following functional groups is present in alkanoic\u00a0acid?",
+    "options": {
+      "A": "-COOH",
+      "B": "-OH",
+      "C": "-COOR",
+      "D": "-CHO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72178?exam_type=waec&type=obj&page=307",
+    "correct_answer": "A",
+    "explanation": "To identify an alkanoic acid,\u00a0look for the presence of the carboxyl functional group (-COOH) in the molecule, which is the key indicator of an alkanoic acid (also known as a carboxylic acid).",
+    "year": "2024"
+  },
+  {
+    "number": "1536",
+    "text": "In ethanol, the attractive forces between adjacent molecules are",
+    "options": {
+      "A": "covalent bonds only",
+      "B": "hydrogen bonds only",
+      "C": "hydrogen bonding and Van der Waal's forces",
+      "D": "Van der Waal's forces only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72179?exam_type=waec&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "The primary intermolecular force between ethanol molecules is\u00a0hydrogen bonding.\u00a0Hydrogen bonding is a strong type of dipole-dipole attraction.\u00a0Other intermolecular forces present in ethanol is the London dispersion forces or Van der waal's force.\nVan der Waals forces of attraction are present in ethanol molecules, alongside stronger hydrogen bonding interactions;\u00a0essentially, all molecules experience some degree of van der Waals forces, making them present in ethanol as well.",
+    "year": "2024"
+  },
+  {
+    "number": "1537",
+    "text": "At 25\\(^0\\)C, the saturated solution of a salt in water was found to contain 0.24g of the salt in 100cm\\(^3\\). What is the solubility of the salt in gdm\\(^{-1}\\)?",
+    "options": {
+      "A": "0.024",
+      "B": "0.240",
+      "C": "2.40",
+      "D": "24.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72180?exam_type=waec&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "If\u00a0 \u00a0 \u00a00.24g of the salt was dissolved in 100 cm\\(^3\\)\nthen Xg of the salt will be dissolved in 1000 cm\\(^3\\) (1\u00a0dm\\(^3\\)\n\u21d2\u00a0 \u00a00.24\u00a0 =\u00a0 100 cm\\(^3\\)\nX\u00a0 \u00a0 \u00a0=\u00a0\u00a01000 cm\\(^3\\)\nSolubility of salt, X (gdm\\(^{-3}\\)) = \\(\\frac{{0.24} \\times{1000}}{100}\\)\n= 2.40 gdm\\(^{-3}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1538",
+    "text": "The reaction represented by the equation: Ni\\(^{2+}\\)\\((_{aq}\\))\u00a0 + Fe\\((_s\\)) \u2192\u00a0\u00a0Ni\\((_s\\))\u00a0 +\u00a0 Fe\\(^{2+}\\)\\((_{aq}\\)) is a redox reaction because",
+    "options": {
+      "A": "Ni\\(^{2+}\\) ions are oxidized and Fe acts as a oxidizing agent",
+      "B": "Ni\\(^{2+}\\) ions are oxidized and Fe acts as a reducing agent",
+      "C": "Ni\\(^{2+}\\) ions are reduced and Fe acts as an oxidizing agent",
+      "D": "Ni\\(^{2+}\\) ions are reduced and Fe acts as a reducing agent."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72181?exam_type=waec&type=obj&page=308",
+    "correct_answer": "D",
+    "explanation": "Ni\\(^{2+}\\)\\(_{aq}\\)\u00a0 + Fe\\(_s\\)\u00a0\u2192\u00a0\u00a0Ni\\(_s\\)\u00a0 +\u00a0 Fe\\(^{2+}\\)\\(_{aq}\\)\nReduction takes place from Ni\\(^{2+}\\) to Ni because there is a decrease in oxidation number from +2 to 0. Thus,\u00a0Ni\\(^{2+}\\) ions are reduced to Ni\nOxidation takes place from Fe to Fe\\(^{2+}\\) because there is an increase in oxidation number from 0 to +2. Thus, Fe is oxidized to\u00a0Fe\\(^{2+}\\)\nOxidizing agent\u00a0\u2192\u00a0Ni\\(^{2+}\\) because oxidizing agents undergo reduction.\nReducing agent\u00a0\u2192 Fe because reducing agents undergo oxidation.\nConsequently, option D is the correct option.",
+    "year": "2024"
+  },
+  {
+    "number": "1539",
+    "text": "Which of the following statements describes transition elements? They",
+    "options": {
+      "A": "are very reactive",
+      "B": "have low melting points",
+      "C": "possess variable oxidation state",
+      "D": "form colourless salts"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72182?exam_type=waec&type=obj&page=308",
+    "correct_answer": "C",
+    "explanation": "Transition elements are elements having partially filled d- orbitals. The first series of transition elements ranges from Scandium to Zinc.\nApart from the general properties of metals, the transition elements have in addition the following\u00a0characteristics:\n- Variable oxidation state\n- Catalytic properties\n- Magnetic properties.\n- Complex ion formation",
+    "year": "2024"
+  },
+  {
+    "number": "1540",
+    "text": "Aluminium is suitable for making alloys for aircraft construction because it",
+    "options": {
+      "A": "is hard and brittle",
+      "B": "is light and very resistant to corrosion",
+      "C": "has high density and also a non-conductor of electricity",
+      "D": "is amphoteric and allotropic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72183?exam_type=waec&type=obj&page=308",
+    "correct_answer": "B",
+    "explanation": "Aluminum is ideal as an alloy for aircraft because\u00a0it strikes a great balance between being lightweight, strong, resistant to corrosion, and relatively easy to work with, making it perfect for building large aircraft structures while minimizing overall weight, which significantly improves fuel efficiency and performance;\u00a0this is especially important due to its high strength-to-weight ratio compared to other metals like steel.",
+    "year": "2024"
+  },
+  {
+    "number": "1541",
+    "text": "Which of the following arrangements of elements is in order of increasing ionization energy?",
+    "options": {
+      "A": "Si, Al, S, P",
+      "B": "S, P, Si, Al",
+      "C": "Al, Si, P, S",
+      "D": "P, Si, S, Al"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72184?exam_type=waec&type=obj&page=309",
+    "correct_answer": "C",
+    "explanation": "Ionization energy is said to be the amount of energy required to remove a valence electron from the atom of an element to become a gaseous specie.\nIonization energy decrease as you move down the group and increase across the period in the periodic table. Consequently, the elements under consideration are in the same period, period 3, ranging from Aluminium to Silicon to Phosphorus to Sulphur. i.e Al < Si < P < S.",
+    "year": "2024"
+  },
+  {
+    "number": "1542",
+    "text": "Consider the reaction represented by the equation:\n\u00a0 \u00a0C\\(_3\\)H\\(_8\\)\u00a0 +\u00a0 5 O\\(_2\\)\u00a0 \u2192 3CO\\(_2\\)\u00a0 +\u00a0 4H\\(_2\\)O\nIf 0.1 mole of\u00a0\u00a0C\\(_3\\)H\\(_8\\) was completely burnt, what volume of CO\\(_2\\) would be produced at stp? [volume of gas at stp = 22.4dm\\(^3\\)mol\\(^{-1}\\)].",
+    "options": {
+      "A": "6.72dm\\(^3\\)",
+      "B": "2.24dm\\(^3\\)",
+      "C": "0.30 dm\\(^3\\)",
+      "D": "0.10dm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72185?exam_type=waec&type=obj&page=309",
+    "correct_answer": "A",
+    "explanation": "C\\(_3\\)H\\(_8\\)\u00a0 +\u00a0 5 O\\(_2\\)\u00a0 \u2192 3CO\\(_2\\)\u00a0 +\u00a0 4H\\(_2\\)O\nFrom the equation:\u00a01 mole\u00a0 \u00a0 \u00a0 \u00a0:\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 3 moles\nIf\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 0.1 mole\u00a0 reacted, then\u00a0 \u00a0 0.3 mole\u00a0will be formed.\n\u21d2\u00a0 0.3 mole of CO\\(_2\\) will be produced.\nRecall that Number of moles of gases =\u00a0 \\(\\frac{Volume}{Molar Volume of gas at stp}\\)\nn =\u00a0 \\(\\frac{V}{M.V}\\)\n0.3\u00a0=\u00a0 \\(\\frac{V}{22.4}\\)\nV = 0.3 x 22.4\nV = 6.72\u00a0dm\\(^3\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1543",
+    "text": "Naturally occurring Boron is made up of 19.9% \\(^{10}\\)B and 80.1%\u00a0\\(^{11}\\)B. The relative atomic mass of Boron is",
+    "options": {
+      "A": "21.0",
+      "B": "10.8",
+      "C": "10.5",
+      "D": "10.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72186?exam_type=waec&type=obj&page=309",
+    "correct_answer": "B",
+    "explanation": "Relative Atomic Mass of Boron =\u00a0 [19.9% \\(^{10}\\)B} +\u00a0\u00a0[80.1%\u00a0\\(^{11}\\)B]\n= [ 19.9% of 10] + [80.1% of\u00a0 11]\n= [ \\(\\frac{19.9}{100}\\times{10}\\) ] + [ \\(\\frac{80.1}{100}\\times{11}\\)]\n= 1.99\u00a0 + 8.811\n= 10.801",
+    "year": "2024"
+  },
+  {
+    "number": "1544",
+    "text": "The number of shared pair of electrons in a molecule of methane is",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72187?exam_type=waec&type=obj&page=309",
+    "correct_answer": "B",
+    "explanation": "In methane (CH\\(_4\\)), there are\u00a0four\u00a0shared pairs of electrons.\u00a0A single carbon atom in the center shares one pair of electrons with each of the four hydrogen atoms, resulting in four shared pairs.",
+    "year": "2024"
+  },
+  {
+    "number": "1545",
+    "text": "Isotopes of the same element have similar chemical properties because they have the same number of",
+    "options": {
+      "A": "nuclides",
+      "B": "protons",
+      "C": "neutrons",
+      "D": "atoms"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72188?exam_type=waec&type=obj&page=309",
+    "correct_answer": "B",
+    "explanation": "Isotopes differ in the number of neutrons in their nucleus, but they have the same number of protons (which determines the number of electrons).\u00a0Since chemical properties are primarily determined by the electron configuration, isotopes of the same element behave similarly in chemical reactions.",
+    "year": "2024"
+  },
+  {
+    "number": "1546",
+    "text": "Which of the following household liquids would be effective in treating someone with too much acid in the stomach?",
+    "options": {
+      "A": "Strong salt solution with pH 7.0",
+      "B": "Tomato juice with pH 4.1",
+      "C": "Milk of Magnesia with pH 10.5",
+      "D": "Black coffee with pH 5.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72189?exam_type=waec&type=obj&page=310",
+    "correct_answer": "C",
+    "explanation": "Milk of magnesia is alkaline because it has a pH of 10.5, which means that it would neutralize any acidic substance encountered. Hence, it is an excellent antacid.\u00a0It neutralizes excess stomach acid or hydrochloric acid. The hydroxide ions of the milk combine with the hydrogen ions in the stomach acid to reduce excess acidity in the stomach.",
+    "year": "2024"
+  },
+  {
+    "number": "1547",
+    "text": "The percentage by mass of Oxygen in MgSO\\(_4\\).7H\\(_2\\)O is [ M\\(_r\\) of\u00a0MgSO\\(_4\\).7H\\(_2\\)O = 246 ]",
+    "options": {
+      "A": "26.0%",
+      "B": "45.5%",
+      "C": "71.5%",
+      "D": "84.0%"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72190?exam_type=waec&type=obj&page=310",
+    "correct_answer": "C",
+    "explanation": "Given:\nM\\(_r\\) of\u00a0MgSO\\(_4\\).7H\\(_2\\)O = 246\nM\\(_r\\) of Oxygen = 16\nPercentage by mass of Oxygen =\u00a0 \\(\\frac{Total mass of Oxygen}{Total mass of\u00a0MgSO_4.7H_2O}\\times 100\\)\n% by mass of Oxygen =\u00a0\\(\\frac{11moles of oxygen}{MgSO_4.7H_2O}\\times 100\\) (4moles of oxygen +\u00a0 7 moles of oxygen from 7H\\(_2\\)O )\n=\u00a0\\(\\frac{11 X 16}{246}\\times 100\\)\n=\u00a0\\(\\frac{176}{246}\\times 100\\)\n= 71.544%\n= 71.5%",
+    "year": "2024"
+  },
+  {
+    "number": "1548",
+    "text": "Catalysts alter reaction rates by",
+    "options": {
+      "A": "providing an alternative reaction pathway",
+      "B": "lowering the energy of reaction",
+      "C": "increasing the surface area of reactants",
+      "D": "aligning the reactant molecules properly"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72191?exam_type=waec&type=obj&page=310",
+    "correct_answer": "A",
+    "explanation": "A catalyst alters the rate of a chemical reaction by\u00a0providing an alternative reaction pathway with a lower activation energy, meaning it makes it easier for reactants to reach the transition state and form products, thus significantly increasing the reaction rate without being consumed in the process.",
+    "year": "2024"
+  },
+  {
+    "number": "1549",
+    "text": "Ethane of volume 400 cm\\(^3\\) was completely burnt in excess\u00a0oxygen according to the following equation:\n2C\\(_2\\)H\\(_6\\)\\(_(g)\\)\u00a0 \u00a0+\u00a0 7O\\(_2\\)\\(_(g)\\) \u2192 6H\\(_2\\)O\\(_(g)\\) + 4CO\\(_2\\)\\(_(g)\\)\nCalculate the volume of steam that would be produced.",
+    "options": {
+      "A": "200 cm\\(^3\\)",
+      "B": "400 cm\\(^3\\)",
+      "C": "600 cm\\(^3\\)",
+      "D": "1200 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72192?exam_type=waec&type=obj&page=310",
+    "correct_answer": "D",
+    "explanation": "2C\\(_2\\)H\\(_6\\)\\(_(g)\\)\u00a0 \u00a0+\u00a0 7O\\(_2\\)\\(_(g)\\) \u2192 6H\\(_2\\)O\\(_(g)\\) + 4CO\\(_2\\)\\(_(g)\\)\n2 moles\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06 moles\n400cm\\(^3\\)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0X\u00a0cm\\(^3\\)\nX\u00a0 =\u00a0 \\(\\frac{{400}\\times{6}}{2}\\)\nX = 1200cm\\(^3\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1550",
+    "text": "A saturated solution at 30\\(^0\\)C will normally produce crystals at a temperature of",
+    "options": {
+      "A": "50\\(^0\\)C",
+      "B": "40\\(^0\\)C",
+      "C": "35\\(^0\\)C",
+      "D": "20\\(^0\\)C"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72193?exam_type=waec&type=obj&page=310",
+    "correct_answer": "D",
+    "explanation": "A saturated solution at 30\u00b0C will normally produce crystals\u00a0when it is cooled below the saturation point for that specific solute at a lower temperature;\u00a0this means that crystals will typically begin to form as the solution cools down from 30\u00b0C, with the exact temperature depending on the solubility curve of the dissolved substance.",
+    "year": "2024"
+  },
+  {
+    "number": "1551",
+    "text": "The following organic compounds are polymers except",
+    "options": {
+      "A": "rubber",
+      "B": "starch",
+      "C": "proteins",
+      "D": "fats"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72194?exam_type=waec&type=obj&page=311",
+    "correct_answer": "D",
+    "explanation": "Although fats are\u00a0complex molecules that are made up of fatty acids and glycerol, they are not polymers. Polymers are\u00a0large molecules made up of many smaller units called monomers that are chemically bonded together.\nRubber, starch and proteins are polymers because they have several units of isoprene, glucose and amino acids respectively, chemically bonded together.",
+    "year": "2024"
+  },
+  {
+    "number": "1552",
+    "text": "According to the collision theory of reaction rates, which of the following conditions is not required for two molecules to react? The molecules must",
+    "options": {
+      "A": "come into contact without loss of energy on colliding with each other",
+      "B": "collide with enough energy to overcome the activation energy barrier",
+      "C": "collide in an orientation that makes formation of product possible",
+      "D": "possess enough speed to overcome intermolecular forces of attraction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72195?exam_type=waec&type=obj&page=311",
+    "correct_answer": "A",
+    "explanation": "The collision theory assumes that the colliding molecules have sufficient energy to be able to overcome the intermolecular forces of attraction and the activation energy barriers, but it does not require that the collision be perfectly elastic. i.e no loss of energy.",
+    "year": "2024"
+  },
+  {
+    "number": "1553",
+    "text": "A weak acid is one which",
+    "options": {
+      "A": "is not corrosive",
+      "B": "completely ionizes in water",
+      "C": "does not produce salt with alkali",
+      "D": "slightly ionizes in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72196?exam_type=waec&type=obj&page=311",
+    "correct_answer": "D",
+    "explanation": "While a strong acid dissociates or ionizes completely in water, weak acids only partially ionizes in water.",
+    "year": "2024"
+  },
+  {
+    "number": "1554",
+    "text": "Which of the following conditions are necessary for the preparation of alkanoates\u00a0from alkanols\u00a0and alkanoic acid?",
+    "options": {
+      "A": "Water and NaOH",
+      "B": "Conc. H\\(_2\\)SO\\(_4\\) and heat",
+      "C": "NaOH and heat",
+      "D": "water and aqueous HCl"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72197?exam_type=waec&type=obj&page=311",
+    "correct_answer": "B",
+    "explanation": "Esterification reaction\u00a0is the reaction between an alkanol (alcohol) and an alkanoic acid (carboxylic acid) in the presence of an acid catalyst forms an ester (alkanoate) and water.\u00a0To produce alkanoates (esters) from alkanols and alkanoic acids, you need to perform esterification, which requires\u00a0a concentrated acid catalyst (like sulphuric acid) and heat.",
+    "year": "2024"
+  },
+  {
+    "number": "1555",
+    "text": "The volume of 22g of CO\\(_2\\) at stp is equivalent to [C =12, O =16, molar volume at stp = 22.4 dm\\(^3\\) ]",
+    "options": {
+      "A": "22.0 dm\\(^3\\)",
+      "B": "22.4 dm\\(^3\\)",
+      "C": "11.2 dm\\(^3\\)",
+      "D": "5.6 dm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72198?exam_type=waec&type=obj&page=311",
+    "correct_answer": "C",
+    "explanation": "Given:\nm = 22g\nM.V = 22.4dm\\(^3\\)\nV = ?\nFirst, calculate the number of moles n, by dividing mass of CO\\(_2\\) by the molar mass of CO\\(_2\\), since\u00a0 n = \\(\\frac{mass}{Molar mass}\\)\nMolar mass of\u00a0CO\\(_2\\) = 12 + (2 x 16) = 44g/mol\nSo,\u00a0n = \\(\\frac{mass}{Molar mass}\\)\nn = \\(\\frac{22}{44}\\) = 0.5 mole\nAlso recall that number of moles of gases,\u00a0 n = \\(\\frac{Volume}{Molar Volume}\\)\nn = \\(\\frac{V}{M.V}\\)\n0.5\u00a0= \\(\\frac{V}{22.4}\\)\nV = 0.5 X 22.4\nV = 11.2 dm\\(^3\\)\nAlternatively,\nGiven the\u00a0mass of CO\\(_2\\) =\u00a022g\nMolar mass of CO\\(_2\\) = 12 + (16X2) = 44g\nnumber of moles, n\u00a0= \\(\\frac{m}{M}\\) =\u00a0 \\(\\frac{22}{44}\\) = 0.5 mole.\nIf\u00a0 1 mole of CO\\(_2\\) = 22.4dm\\(^3\\)\n0.5 mole of CO\\(_2\\) = X dm\\(^3\\)\nX = 0.5 x 22.4 = 11.2 dm\\(^3\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1556",
+    "text": "Pairs of outermost shell electrons which are not used in bonding are",
+    "options": {
+      "A": "lone pairs",
+      "B": "bonding pairs",
+      "C": "valence electrons",
+      "D": "electrovalent electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72199?exam_type=waec&type=obj&page=312",
+    "correct_answer": "A",
+    "explanation": "Pairs of outermost shell electrons that are not used in bonding are called\u00a0lone pairs or non-bonding pairs.\nA\u00a0lone pair\u00a0refers to a pair of valence electrons that are not shared with another atom in a covalent bond and is sometimes called an unshared pair or non-bonding pair. Lone pairs are found in the outermost electron shell of atoms.",
+    "year": "2024"
+  },
+  {
+    "number": "1557",
+    "text": "\\(_8\\)X\\(^{2-}\\) and \\(_{10}\\)Y are",
+    "options": {
+      "A": "isomers",
+      "B": "isotopes",
+      "C": "allotropes",
+      "D": "isoelectronic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72200?exam_type=waec&type=obj&page=312",
+    "correct_answer": "D",
+    "explanation": "Isoelectronic species are\u00a0atoms, ions, or molecules that have the same number of electrons and therefore, the same electronic configuration, even if they are different elements.\nFor\u00a0\\(_8\\)X\\(^{2-}\\)\nNumber of protons = 8, while Number of electrons = 10, because X\u00a0gains 2 electrons and outnumbers the number of protons.\nAlso, for\u00a0\\(_{10}\\)Y,\nNumber of protons = 10, while Number of electrons = 10, because Y has no charge, it is a neutral atom. Hence, the number of protons = Number of electrons =10\nSince the number of electrons are the same in both atoms of element X and element Y, even though they are of different elements, they are said to be isoelectronic species.\nTherefore, \\(_8\\)X\\(^{2-}\\) and \\(_{10}\\)Y are Isoelectronic",
+    "year": "2024"
+  },
+  {
+    "number": "1558",
+    "text": "Pure water contaminated with quicklime will have a pH of",
+    "options": {
+      "A": "1",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72201?exam_type=waec&type=obj&page=312",
+    "correct_answer": "D",
+    "explanation": "Pure water contaminated with quicklime (calcium oxide) will have a highly alkaline pH,\u00a0significantly above 7. The reason being that quicklime (CaO) reacts vigorously with water to form slaked lime (calcium hydroxide, Ca(OH)\u2082), a strong base.",
+    "year": "2024"
+  },
+  {
+    "number": "1559",
+    "text": "The electron configuration of \\(_{29}\\) Cu is",
+    "options": {
+      "A": "1S\\(^2\\) 2S\\(^2\\) 2P\\(^6\\) 3S\\(^2\\) 3P\\(^6\\) 4S\\(^1\\) 3d\\(^{10}\\)",
+      "B": "1S\\(^2\\) 2S\\(^2\\) 2P\\(^6\\) 3S\\(^2\\) 3P\\(^6\\) 4S\\(^3\\) 3d\\(^9\\)",
+      "C": "1S\\(^2\\) 2S\\(^2\\) 2P\\(^5\\) 3S\\(^2\\) 3P\\(^6\\) 4S\\(^2\\) 3d\\(^{10}\\)",
+      "D": "1S\\(^2\\) 2S\\(^2\\) 2P\\(^6\\) 3S\\(^2\\) 3P\\(^2\\) 4S\\(^1\\) 3d\\(^{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72202?exam_type=waec&type=obj&page=312",
+    "correct_answer": "A",
+    "explanation": "The electron configuration of copper (Cu), with atomic number 29, is\u00a0[Ar] 3d\u00b9\u2070 4s\u00b9 or 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076 3d\u00b9\u2070 4s\u00b9.\nHere's a more detailed explanation:\nAtomic Number:Copper (Cu) has 29 electrons.Following the Aufbau principle, the expected configuration would be 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076 4s\u00b2 3d\u2079.However, copper exhibits an exception to this rule.\u00a0A full or half-filled d-orbital is more stable than a partially filled one.Therefore, one electron moves from the 4s orbital to the 3d orbital, resulting in the configuration 1s\u00b2 2s\u00b2 2p\u2076 3s\u00b2 3p\u2076 3d\u00b9\u2070 4s\u00b9 or [Ar] 3d\u00b9\u2070 4s\u00b9.",
+    "year": "2024"
+  },
+  {
+    "number": "1560",
+    "text": "When s and p block elements react, the bond formed is",
+    "options": {
+      "A": "electrovalent",
+      "B": "covalent",
+      "C": "metallic",
+      "D": "dative-covalent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72203?exam_type=waec&type=obj&page=312",
+    "correct_answer": "A",
+    "explanation": "When s and p block elements react, the bond formed is\u00a0typically ionic or electrovalent, as s-block elements tend to lose electrons to achieve a stable electron configuration, while p-block elements, especially nonmetals, readily gain electrons.\u00a0These elements(alkali and alkaline earth metals) have low electronegativity and readily lose electrons to form positively charged ions (cations).\nOn the other hand,the P-block\u00a0elements, especially non-metals like halogens and oxygen, have high electronegativity and readily gain electrons to form negatively charged ions (anions).\u00a0The electrostatic attraction between these oppositely charged ions results in the formation of an ionic bond or electrovalent bond.",
+    "year": "2024"
+  },
+  {
+    "number": "1561",
+    "text": "The hardest form of carbon is",
+    "options": {
+      "A": "charcoal",
+      "B": "coke",
+      "C": "diamond",
+      "D": "graphite"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72204?exam_type=waec&type=obj&page=313",
+    "correct_answer": "C",
+    "explanation": "Diamond\u00a0is the hardest form of carbon.\u00a0It's also the hardest naturally occurring substance on Earth.\u00a0Diamond is an allotrope of carbon, meaning it's a variation of carbon's structure.\u00a0In diamond, carbon atoms are arranged in a tetrahedral structure, with each carbon atom bonded to four other carbon atoms.\u00a0This structure creates a rigid, three-dimensional network of carbon atoms.\u00a0Thus,the strong bonds between the carbon atoms make diamond extremely hard.",
+    "year": "2024"
+  },
+  {
+    "number": "1562",
+    "text": "The metallic bonding in aluminium\u00a0is strong because of large number of",
+    "options": {
+      "A": "delocalized electrons",
+      "B": "immobile electrons",
+      "C": "lone pair electrons",
+      "D": "valence electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72205?exam_type=waec&type=obj&page=313",
+    "correct_answer": "A",
+    "explanation": "The strong metallic bonding in aluminum is due to a large number of\u00a0delocalized electrons\u00a0that are shared among the metal atoms, creating a \"sea\" of electrons that strongly attracts the positively charged metal ions.\nIn metallic bonding, the outermost electrons of metal atoms are not bound to any specific atom but are free to move throughout the entire structure.\u00a0These electrons form a \"sea\" or \"cloud\" of negative charge.\u00a0The positively charged metal ions (cations) are attracted to this \"sea\" of delocalized electrons, creating a strong electrostatic attraction that holds the metal atoms together.",
+    "year": "2024"
+  },
+  {
+    "number": "1563",
+    "text": "How many covalent bonds are formed by Nitrogen?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72206?exam_type=waec&type=obj&page=313",
+    "correct_answer": "C",
+    "explanation": "Nitrogen\u00a0typically forms three covalent bonds.\u00a0However, it can form four or five bonds in some cases.\nExplanation\nNitrogen has five valence electrons.To fill its outer shell, it needs three more electrons.Each covalent bond adds one electron to its outer shell.Therefore, nitrogen forms three covalent bonds.",
+    "year": "2024"
+  },
+  {
+    "number": "1564",
+    "text": "When an element exists in two or more forms in the same physical state, it exhibits",
+    "options": {
+      "A": "isotopy",
+      "B": "allotropy",
+      "C": "isobars",
+      "D": "isomerism"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72207?exam_type=waec&type=obj&page=313",
+    "correct_answer": "B",
+    "explanation": "When an element exists in two or more forms in the same physical state, it exhibits\u00a0allotropy or allotropism.\nAllotropy\u00a0refers to the property of some chemical elements to exist in two or more different forms, known as allotropes, in the same physical state (solid, liquid, or gas).\nAllotropes\u00a0are different forms of the same element that have different physical properties but the same chemical properties.\nExamples of elements that exhibit allotropy include carbon (graphite, diamond), sulphur etc",
+    "year": "2024"
+  },
+  {
+    "number": "1565",
+    "text": "An atom of an element in the ground state contains 8 valence electrons. The element is considered as a",
+    "options": {
+      "A": "metal",
+      "B": "semi-metal",
+      "C": "noble gas",
+      "D": "halogen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72208?exam_type=waec&type=obj&page=313",
+    "correct_answer": "C",
+    "explanation": "An atom containing 8 valence electrons is typically classified as anoble gas. Noble gases are found in Group 0\u00a0of the periodic table and are known for their stability due to having full valence shells, which means they possess eight electrons in their outermost shell.",
+    "year": "2024"
+  },
+  {
+    "number": "1566",
+    "text": "The main function of limestone in the blast furnace during the extraction of iron is to",
+    "options": {
+      "A": "act as catalyst",
+      "B": "remove impurities",
+      "C": "act as a reducing agent",
+      "D": "supply Carbon(IV) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72209?exam_type=waec&type=obj&page=314",
+    "correct_answer": "B",
+    "explanation": "In the blast furnace during iron extraction, limestone\u00a0acts as a flux, reacting with impurities like silicon dioxide (sand) to form a molten slag that can be easily separated from the molten iron.\nA flux is a substance added to a smelting process to react with and remove impurities from the molten metal.\nIn the blast furnace, limestone (calcium carbonate, CaCO\\(_3\\)) decomposes at high temperatures into calcium oxide (CaO) and carbon dioxide (CO\\(_2\\)).\u00a0The calcium oxide (CaO) then reacts with the silicon dioxide (SiO\\(_2\\)), which is a common impurity in iron ore, to form calcium silicate (CaSiO\\(_3\\)), which is the molten slag.",
+    "year": "2024"
+  },
+  {
+    "number": "1567",
+    "text": "Which of the following is a monomer of polythene?",
+    "options": {
+      "A": "Ethanol",
+      "B": "Vinyl chloride",
+      "C": "Ethene",
+      "D": "Ethane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72210?exam_type=waec&type=obj&page=314",
+    "correct_answer": "C",
+    "explanation": "A monomer is\u00a0a small, basic building block molecule that can bond with other similar molecules to form a larger, more complex molecule called a polymer.\u00a0The monomer of polythene (also known as polyethylene) is\u00a0ethylene (ethene), a gaseous hydrocarbon with the chemical formula C\\(_2\\)H\\(_4\\).",
+    "year": "2024"
+  },
+  {
+    "number": "1568",
+    "text": "Which of the following compounds is formed by the oxidation of ethanol?",
+    "options": {
+      "A": "C\\(_2\\)H\\(_4\\)CO\\(_2\\)H",
+      "B": "C\\(_2\\)H\\(_5\\)OH",
+      "C": "CH\\(_3\\)OH",
+      "D": "CH\\(_3\\)CO\\(_2\\)H"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72211?exam_type=waec&type=obj&page=314",
+    "correct_answer": "D",
+    "explanation": "The oxidation of ethanol involves two steps:\u00a0first, ethanol is oxidized to acetaldehyde (ethanal), and then acetaldehyde is further oxidized to acetic acid (ethanoic acid).\nEthanol (CH\\(_3\\)CH\\(_2\\)OH) is oxidized to acetaldehyde (CH\\(_3\\)CHO).\u00a0This process involves the removal of a hydrogen atom from the carbon atom that is bonded to the alcohol group (-OH).\u00a0Acetaldehyde (CH\\(_3\\)CHO) is then further oxidized to acetic acid (CH\\(_3\\)COOH).\u00a0This involves the addition of an oxygen atom to the carbon atom that is bonded to the aldehyde group (-CHO).\u00a0Strong oxidizing agents like acidified potassium dichromate (K\\(_2\\)Cr\\(_2\\)O\\(_7\\)) or alkaline potassium permanganate (KMnO\\(_4\\)) are commonly used to oxidize ethanol.",
+    "year": "2024"
+  },
+  {
+    "number": "1569",
+    "text": "Tetraoxosulphate (VI) acid is considered as a heavy chemical because",
+    "options": {
+      "A": "its relative molecular mass is high",
+      "B": "a high tonnage is produced every year",
+      "C": "it is an inorganic chemical",
+      "D": "it is used to manufacture heavy chemicals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72212?exam_type=waec&type=obj&page=314",
+    "correct_answer": "B",
+    "explanation": "Tetraoxosulphate(VI) acid, also known as sulfuric acid (H\u2082SO\u2084), is considered a heavy chemical because\u00a0it is produced and used on a large industrial scale and is a key raw material in many industries.\u00a0It serves as a crucial raw material in various industries, including fertilizer production, manufacturing of explosives, dyes, and other chemicals.",
+    "year": "2024"
+  },
+  {
+    "number": "1570",
+    "text": "How many isomers can be formed from a compound with molecular formula\u00a0C\\(_5\\)H\\(_{12}\\) ?",
+    "options": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72213?exam_type=waec&type=obj&page=314",
+    "correct_answer": "C",
+    "explanation": "C\\(_5\\)H\\(_{12}\\) has three (3) isomers which are;\n- pentane,\n- 2- methyl butane and\n- 2,2-dimethyl propane.",
+    "year": "2024"
+  },
+  {
+    "number": "1571",
+    "text": "The oxidation number of iron, in its free state is",
+    "options": {
+      "A": "0",
+      "B": "+1",
+      "C": "+2",
+      "D": "+3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72214?exam_type=waec&type=obj&page=315",
+    "correct_answer": "A",
+    "explanation": "The oxidation number of iron in its free, or elemental, state is\u00a00.",
+    "year": "2024"
+  },
+  {
+    "number": "1572",
+    "text": "Water pipes are produced from",
+    "options": {
+      "A": "polyethene",
+      "B": "Perspex",
+      "C": "polystyrene",
+      "D": "poly vinyl chloride"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72215?exam_type=waec&type=obj&page=315",
+    "correct_answer": "D",
+    "explanation": "Water pipes can be made from a variety of materials, including\u00a0copper, steel, concrete, PVC, and plastic. However,\u00a0Polyvinyl chloride\u00a0is a common replacement for metal piping.\u00a0PVC pipes are resistant to corrosion and chlorinated disinfectants.",
+    "year": "2024"
+  },
+  {
+    "number": "1573",
+    "text": "Consider the reaction represented by the following equation:\u00a0\nx Al\u00a0 +\u00a0 yCl\\(_2\\)\u00a0\u2192 z AlCl\\(_3\\)",
+    "options": {
+      "A": "2, 3 and 2",
+      "B": "2, 2 and 3",
+      "C": "1, 2 and 1",
+      "D": "1, 1 and 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72216?exam_type=waec&type=obj&page=315",
+    "correct_answer": "A",
+    "explanation": "Firstly, ensure you balance the chemical reaction\u00a0 x Al\u00a0 +\u00a0 yCl\\(_2\\)\u00a0\u2192 z AlCl\\(_3\\)\n2Al\u00a0 +\u00a0 3Cl\\(_2\\)\u00a0\u2192 2\u00a0AlCl\\(_3\\)\nTherefore from the balanced equation, x =2, y=3 and z = 2",
+    "year": "2024"
+  }
+]

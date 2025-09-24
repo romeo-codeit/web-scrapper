@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1456",
+    "text": "The S.I unit for sound energy is",
+    "options": {
+      "A": "Hz",
+      "B": "cd",
+      "C": "dB",
+      "D": "J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49626?exam_type=waec&type=obj&page=292",
+    "correct_answer": "D",
+    "explanation": "Every form of energy is measured in joules (J).",
+    "year": "2018"
+  },
+  {
+    "number": "1457",
+    "text": "The general definition of elastic modulus is",
+    "options": {
+      "A": "\\(\\frac{stress}{strain}\\)",
+      "B": "\\(\\frac{strain}{stress}\\)",
+      "C": "\\(stress \\times strain\\)",
+      "D": "\\(\\sqrt{\\frac{stress}{strain}}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49631?exam_type=waec&type=obj&page=292",
+    "correct_answer": "A",
+    "explanation": "Elastic modulus is the ratio of pressure (stress) applied to a body to the resistance (strain) produced by the body.\n= \\(\\frac{stress}{strain}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1458",
+    "text": "The diagram above illustrates a simple barometer. Which distance measures the atmospheric pressure?",
+    "options": {
+      "A": "PQ",
+      "B": "QR",
+      "C": "RS",
+      "D": "QS"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49635?exam_type=waec&type=obj&page=292",
+    "correct_answer": "B",
+    "explanation": "The height of the mercury column in a simple barometer is calculated as the atmospheric pressure.",
+    "year": "2018"
+  },
+  {
+    "number": "1459",
+    "text": "The property of a body to remain at rest or to continue in uniform motion in a straight line is called",
+    "options": {
+      "A": "momentum",
+      "B": "Inertia",
+      "C": "impulse",
+      "D": "Energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49639?exam_type=waec&type=obj&page=292",
+    "correct_answer": "B",
+    "explanation": "Inertia is the resistance of the object to any change in its motion, including a change in direction. An object will stay still or keep moving at the same speed and in a straight line, unless it is acted upon by an external unbalanced force.",
+    "year": "2018"
+  },
+  {
+    "number": "1460",
+    "text": "During a training session, two footballers pass a ball repeatedly between each other. The 'to and fro' motion of the ball is not simple harmonic because the\nI. Acceleration of the ball is not directed towards a fixed point\nII. Restoring force is not directed towards the centre\nIII. Acceleration of the ball is not directly proportional to the displacement from a fixed point\nWhich of the statements above are correct?",
+    "options": {
+      "A": "I and III only",
+      "B": "I and II only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49646?exam_type=waec&type=obj&page=292",
+    "correct_answer": "D",
+    "explanation": "In SHM, the body must have acceleration in a direction opposite to the displacement, and the acceleration must be directly proportional to the displacement. Also, the acceleration must be directed towards its mean position. This is not the case with a football on the pitch. Also, in SHM, the restoring force must act towards the equilibrium point.",
+    "year": "2018"
+  },
+  {
+    "number": "1461",
+    "text": "A dam is able to hold a large quantity of water because its wall is",
+    "options": {
+      "A": "thickest at the top",
+      "B": "thickest at the middle",
+      "C": "thickest at the bottom",
+      "D": "of the same thickness throughout"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49648?exam_type=waec&type=obj&page=293",
+    "correct_answer": "C",
+    "explanation": "The pressure of the water is much greater deeper down and the dam needs to be thick at the bottom so that it is strong enough to withstand this larger pressure.",
+    "year": "2018"
+  },
+  {
+    "number": "1462",
+    "text": "A body of mass m moving around a circle of radius r with a uniform speed v experiences a centripetal force F. The work done by the centripetal force on it is",
+    "options": {
+      "A": "Fv",
+      "B": "zero",
+      "C": "Fmr",
+      "D": "\\(\\frac{Fr}{m}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49653?exam_type=waec&type=obj&page=293",
+    "correct_answer": "B",
+    "explanation": "Work is done whenever the given conditions are satisfied. (ii) there is a displacement of the body caused by the applied force along the direction of the applied force. No displacement takes place in this case. So,work done by a centripetal force is always zero.\nThe work done by centripetal force in the case of a uniform circular motion is 0 joules.",
+    "year": "2018"
+  },
+  {
+    "number": "1463",
+    "text": "A block is acted upon by TWO horizontal forces as illustrated in the diagram above. The block accelerates at 1.5\\(ms^{-2}\\). Calculate the mass of the block.",
+    "options": {
+      "A": "6kg",
+      "B": "9kg",
+      "C": "10kg",
+      "D": "15kg"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49655?exam_type=waec&type=obj&page=293",
+    "correct_answer": "A",
+    "explanation": "Total force exerted on the block = (10 - 1)N =9N\nForce = mass x acceleration\n9 = m x 1.5\nm = 9/1.5 = 6kg",
+    "year": "2018"
+  },
+  {
+    "number": "1464",
+    "text": "Which of the following quantities are dimensionally independent?\nI. Dielectric constant \u00a0\u00a0 II. Momentum \u00a0 III. Efficiency \u00a0 IV. Refractive index",
+    "options": {
+      "A": "I and II",
+      "B": "II, III and IV",
+      "C": "I, II, III and IV",
+      "D": "I, III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49662?exam_type=waec&type=obj&page=293",
+    "correct_answer": "D",
+    "explanation": "The quantities Efficiency, Dielectric constant and Refractive index are dimensionless.",
+    "year": "2018"
+  },
+  {
+    "number": "1465",
+    "text": "A body is projected with an initial velocity u at angle \\(\\theta\\) to the horizontal. If \\(R_{max}\\) is the maximum range of the projectile, what does the relation \\(\\frac{u^{2}}{R_{max}}\\) represent?",
+    "options": {
+      "A": "The vertical distance covered",
+      "B": "Acceleration due to gravity",
+      "C": "The horizontal distance covered",
+      "D": "The acceleration of the body"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49664?exam_type=waec&type=obj&page=293",
+    "correct_answer": "B",
+    "explanation": "\\(R_{max} = \\frac{u^{2}}{g}\\)\nHence, \\(g = \\frac{u^{2}}{R_{max}}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1466",
+    "text": "An object at rest is said to possess",
+    "options": {
+      "A": "potential energy",
+      "B": "kinetic energy",
+      "C": "chemical energy",
+      "D": "electrical energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49675?exam_type=waec&type=obj&page=294",
+    "correct_answer": "A",
+    "explanation": "Potential energy is the energy that is stored in an object due to its position relative to some zero position.",
+    "year": "2018"
+  },
+  {
+    "number": "1467",
+    "text": "According to Newton's law of cooling, the heat energy lost per unit area of a body depends on the\nI. Surface area\nII. Nature of the surface\nIII. Temperature of the surface\nIV. Excess temperature over the surroundings",
+    "options": {
+      "A": "I and II only",
+      "B": "II and IV only",
+      "C": "I,II and III",
+      "D": "I, II and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49680?exam_type=waec&type=obj&page=294",
+    "correct_answer": "C",
+    "explanation": "The rate of cooling of liduid according to Newton's law of cooling depends on:\n- Temperature of the liquid\n- Temperature of the enclosure\n- The area of the exposed surface\n- The nature and extent of the surface of the containing vessel",
+    "year": "2018"
+  },
+  {
+    "number": "1468",
+    "text": "The graph of density against temperature for water is correctly illustrated by",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49683?exam_type=waec&type=obj&page=294",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1469",
+    "text": "A football is kicked at an angle of 45\u00b0 to the horizontal over a defense line up with a velocity of 15\\(ms^{-1}\\). Calculate the magnitudeof horizontal velocity of the ball at its highest point\u00a0 [Neglect friction, g = 10\\(ms^{-2}\\)].",
+    "options": {
+      "A": "0.0\\(ms^{-1}\\)",
+      "B": "5.6\\(ms^{-1}\\)",
+      "C": "10.6\\(ms^{-1}\\)",
+      "D": "15.0\\(ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49687?exam_type=waec&type=obj&page=294",
+    "correct_answer": "C",
+    "explanation": "The horizontal component of velocity, \\(V_{x}\\), is unaffected by the acceleration of free fall and remains constant.\n\\(V_{x} = U_{x} = Ucos\\theta\\)\n= \\(15 \\times cos45 = 15\\times 0.7071\\)\n\\(\\approxeq 10.6ms^{-1}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1470",
+    "text": "The ice point on the absolute scale of temperature is",
+    "options": {
+      "A": "0K",
+      "B": "32K",
+      "C": "100K",
+      "D": "273K"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49694?exam_type=waec&type=obj&page=294",
+    "correct_answer": "D",
+    "explanation": "The ice point, where water freezes, is 0\u00b0C, which corresponds to 273 K on the absolute (Kelvin) scale.",
+    "year": "2018"
+  },
+  {
+    "number": "1471",
+    "text": "Which of the following factors does not increase the rate of evaporation of water in a lake?",
+    "options": {
+      "A": "Increase in the pressure of the atmosphere",
+      "B": "Rise in temperature",
+      "C": "Increase in the surface area of the lake",
+      "D": "Increase in the speed of the wind"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49697?exam_type=waec&type=obj&page=295",
+    "correct_answer": "A",
+    "explanation": "The rate of evaporation is increased by the lowering of atmospheric pressure and not its increase. Every other factor stands, for the increase of evaporation process.",
+    "year": "2018"
+  },
+  {
+    "number": "1472",
+    "text": "The bob of a simple pendulum takes 8.0s to complete 10 oscillations. Determine the frequency of oscillation of the bob.",
+    "options": {
+      "A": "0.125Hz",
+      "B": "1.25Hz",
+      "C": "7.50Hz",
+      "D": "8.00Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49698?exam_type=waec&type=obj&page=295",
+    "correct_answer": "B",
+    "explanation": "10 complete oscillations = 8.0s\n1 complete oscillation (period) = \\(\\frac{8}{10}\\)s\nFrequency = \\(\\frac{1}{period}\\) = \\(\\frac{1}{0.8} = 1.25Hz\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1473",
+    "text": "The diagram above illustrates the mercury-in-glass thermometer used for determining the temperature of a room. Use the data on it to determine the room temperature.",
+    "options": {
+      "A": "3.3\u00b0C",
+      "B": "7.0\u00b0C",
+      "C": "13\u00b0C",
+      "D": "30.0\u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49705?exam_type=waec&type=obj&page=295",
+    "correct_answer": "D",
+    "explanation": "Let the room temperature be X.\nWe have, \\(\\frac{3-0}{10-0} = \\frac{X-0}{100-0}\\)\n\\(\\frac{3}{10} = \\frac{X}{100}\\)\n\\(X = \\frac{3 \\times 100}{10}\\)\n= 30\u00b0C",
+    "year": "2018"
+  },
+  {
+    "number": "1474",
+    "text": "Frequency is measured in",
+    "options": {
+      "A": "meter per second",
+      "B": "seconds",
+      "C": "hertz",
+      "D": "farad"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49712?exam_type=waec&type=obj&page=295",
+    "correct_answer": "C",
+    "explanation": "The unit of frequency is hertz, abbreviated Hz.",
+    "year": "2018"
+  },
+  {
+    "number": "1475",
+    "text": "Which of the following electromagnetic waves is most energetic?",
+    "options": {
+      "A": "Radio waves",
+      "B": "X-ray",
+      "C": "Gamma rays",
+      "D": "Ultra-violet rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49719?exam_type=waec&type=obj&page=295",
+    "correct_answer": "C",
+    "explanation": "The gamma rays have the shortest wavelength and therefore, impart the highest photon energy.",
+    "year": "2018"
+  },
+  {
+    "number": "1476",
+    "text": "Rainbow formation is a natural phenomenon illustrating that white light",
+    "options": {
+      "A": "splits into three components after rainfall",
+      "B": "is dispersed by glass prisms",
+      "C": "splits into its constituent colours before rainfall",
+      "D": "is dispersed into its constituent colours after rainfall"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49726?exam_type=waec&type=obj&page=296",
+    "correct_answer": "D",
+    "explanation": "A rainbow is caused by the dispersion of sunlight by tiny water droplets present in the atmosphere, which can be seen after the rain.",
+    "year": "2018"
+  },
+  {
+    "number": "1477",
+    "text": "The lens illustrated above can best be described as a",
+    "options": {
+      "A": "converging meniscus",
+      "B": "plano-convex",
+      "C": "diverging meniscus",
+      "D": "bi-convex"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49730?exam_type=waec&type=obj&page=296",
+    "correct_answer": "B",
+    "explanation": "The diagram is that of a plano-convex lens; a type of converging lens.",
+    "year": "2018"
+  },
+  {
+    "number": "1478",
+    "text": "Two plane mirrors are inclined to each other such that an object placed between them has 11 images. Determine the angle of inclination",
+    "options": {
+      "A": "30\u00b0",
+      "B": "45\u00b0",
+      "C": "60\u00b0",
+      "D": "90\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49731?exam_type=waec&type=obj&page=296",
+    "correct_answer": "A",
+    "explanation": "Formula for number of images = \\(\\frac{360}{n} - 1\\)\nwhere n is the angle of inclination.\nGiven the number of images = 11, we have\n\\(\\frac{360}{n} - 1 = 11\\)\n\\(\\frac{360}{n} = 12\\)\n\\(n = \\frac{360}{12} =30\u00b0\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1479",
+    "text": "The pitch of a note is not affected by",
+    "options": {
+      "A": "frequency",
+      "B": "tension in a vibrating string",
+      "C": "mass of a vibrating string",
+      "D": "amplitude of sound wave"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49738?exam_type=waec&type=obj&page=296",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1480",
+    "text": "When two flat plate conductors are arranged in such a way that they possess equal and opposite charges seperated by a dielectric, they form a/an",
+    "options": {
+      "A": "electroscope",
+      "B": "electrophorus",
+      "C": "capacitor",
+      "D": "cell"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49743?exam_type=waec&type=obj&page=296",
+    "correct_answer": "C",
+    "explanation": "Most capacitors contain at least two electrical conductors often in the form of metallic plates or surfaces separated by a dielectric medium.",
+    "year": "2018"
+  },
+  {
+    "number": "1481",
+    "text": "Which electrical device is illustrated above?",
+    "options": {
+      "A": "a.c. generator",
+      "B": "a.c. motor",
+      "C": "d.c. generator",
+      "D": "d.c. motor"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49748?exam_type=waec&type=obj&page=297",
+    "correct_answer": "C",
+    "explanation": "In a DC generator, the coil rotates within a magnetic field, and the commutator is employed to convert the alternating current generated in the coil into direct current. The presence of the magnetic field, represented by the north (N) and south (S) poles, further confirms its identification as a DC generator.",
+    "year": "2018"
+  },
+  {
+    "number": "1482",
+    "text": "A simple barometer is constructed using a liquid \\(Q_{1}\\) of density 16.2\\(g/cm^{3}\\). Calculate the least lenth of the tube to be used to measure pressure of 1.5atm.\u00a0 [Density of mercury = 13.6\\(g/cm^{3}\\), 1atm = 76.0 cm of Mercury]",
+    "options": {
+      "A": "1358mm",
+      "B": "957mm",
+      "C": "760mm",
+      "D": "638mm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49762?exam_type=waec&type=obj&page=297",
+    "correct_answer": "D",
+    "explanation": "Let \\(h_{Q}\\) and \\(\\rho_{Q}\\) be the least length and the density of \\(Q_{1}\\)\nwhile \\(h\\) and \\(\\rho\\) are the length and density of mercury respectively.\n\\(h\\times \\rho \\times g = h_{Q} \\times \\rho_{Q} \\times g\\)\n\\(76cm \\times 13.6 \\times 10 = h_{Q} \\times 16.2 \\times 10\\)\n\\(h_{Q} = \\frac{76\\times13.6\\times10}{16.2\\times10}\\)\n\\(h_{Q} = \\frac{10336}{162}\\)\n\\(h_{Q} \\approxeq 63.8cm = 638mm\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1483",
+    "text": "A bar AB is balanced horizontally on two knife edges as illustrated as in the diagram above. Determine the weight of the bar.",
+    "options": {
+      "A": "10.0N",
+      "B": "20.0N",
+      "C": "40.0N",
+      "D": "50.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49769?exam_type=waec&type=obj&page=297",
+    "correct_answer": "C",
+    "explanation": "Upward force = downward force = weight of the Bar\n20N + 20N = Weight of the BAR\nTherefore, the weight of the bar = 40N",
+    "year": "2018"
+  },
+  {
+    "number": "1484",
+    "text": "To obtain a virtual, erect and magnified image from a thin converging lens, an object must be placed",
+    "options": {
+      "A": "between the focus and the lens",
+      "B": "at the focus",
+      "C": "between the focal length and twice the focal length",
+      "D": "beyond twice the focal length"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49772?exam_type=waec&type=obj&page=297",
+    "correct_answer": "A",
+    "explanation": "When the object is placed between the optical centre of the lens and the focal length, the image formed is virtual, erect and magnified.",
+    "year": "2018"
+  },
+  {
+    "number": "1485",
+    "text": "The diagram above represents a transverse travelling wave. Which two points are 180\u00b0 out of phase?",
+    "options": {
+      "A": "A and E",
+      "B": "B and D",
+      "C": "C and F",
+      "D": "D and H"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49775?exam_type=waec&type=obj&page=297",
+    "correct_answer": "B",
+    "explanation": "This means that when one Point is at its highest point, the other is at its lowest point, resulting in a 180-degree phase difference.",
+    "year": "2018"
+  },
+  {
+    "number": "1486",
+    "text": "Two objects P and Q of masses 100kg and 20kg respectively are 1.2m apart on a horizontal surface. Calculate the net gravitational force acting on Q. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \\([G= 6.67 \\times 10^{-11} Nm^{2}kg^{-2}]\\)",
+    "options": {
+      "A": "\\(1.11\\times 10^{-7} N\\) towards P",
+      "B": "\\(1.11\\times 10^{-7} N\\) towards Q",
+      "C": "\\(9.26\\times 10^{-8} N\\) towards P",
+      "D": "\\(9.26\\times 10^{-8} N\\) towards Q"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49788?exam_type=waec&type=obj&page=298",
+    "correct_answer": "D",
+    "explanation": "\\(F= \\frac{Gm_{1}m_{2}}{r^{2}}\\)\n\\(m_{1} = 100kg\\)\n\\(m_{2} = 20kg; r =1.2m\\)\n\\(G= 6.67\\times 10^{-11}\\)\n\\(F = \\frac{6.67\\times 10^{-11}\\times 100\\times 20}{(1.2)^{2}} = 9.26\\times 10^{-8}\\)\nThe acceleration of each object is inversely proportional to the mass, the lighter object will move a bit faster, hence. the force will act in the direction of Q.",
+    "year": "2018"
+  },
+  {
+    "number": "1487",
+    "text": "The primary of a transformer has 100 turns and its secondary has 200 turns. If the voltage at the primary is 100V, determine the voltage at the secondary.",
+    "options": {
+      "A": "50V",
+      "B": "100V",
+      "C": "200V",
+      "D": "400V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49794?exam_type=waec&type=obj&page=298",
+    "correct_answer": "C",
+    "explanation": "The ideal transformer (either step-up or step-down) works with the equation:\n\\(\\frac{V_{s}}{V_{p}} = \\frac{N_{s}}{N_{p}} = \\frac{I_{p}}{I_{s}}\\)\nwhere \\(V_{s}\\) and \\(V_{p}\\) are the voltages applied to the secondary and the primary respectively\n\\(N_{s}\\) and \\(N_{p}\\) are the number of turns on the secondary and primary coils respectively\n\\(I_{p}\\) and \\(I_{s}\\) are the currents flowing in the primary and secondary coils respectively.\n\\(\\frac{V_{s}}{100} = \\frac{200}{100}\\)\n\\(V_{s} = \\frac{200\\times 100}{100} = 200V\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1488",
+    "text": "In the diagram illustrated a block of mass M is at rest on a plane inclined at an angle \\(\\theta\\) to the horizontal. As \\(\\theta\\) increases, the velocity ratio of the plane",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remain the same",
+      "D": "decreases and later increases"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49797?exam_type=waec&type=obj&page=298",
+    "correct_answer": "B",
+    "explanation": "The velocity ratio and therefore, the mechanical advantage of an inclined plane system increases as \\(\\theta\\) decreases and vice-versa.",
+    "year": "2018"
+  },
+  {
+    "number": "1489",
+    "text": "When the speed of a car is halved, its kinetic energy is",
+    "options": {
+      "A": "doubled",
+      "B": "quartered",
+      "C": "halved",
+      "D": "quadrupled"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49798?exam_type=waec&type=obj&page=298",
+    "correct_answer": "B",
+    "explanation": "Given \\(K_{1}\\) = \\(\\frac{mv^{2}}{2}\\).\nWhen v is halved, we have\n\\(K_{2}\\) = \\(\\frac{m\\times (\\frac{v}{2})^{2}}{2}\\)\n= \\(\\frac{K_{1}}{4}\\)\nHence, the initial kinetic energy is quartered.",
+    "year": "2018"
+  },
+  {
+    "number": "1490",
+    "text": "A wire of length 400cm is stretched between two fixed points. When plucked, its fundamental frequency is 150Hz. Calculate the speed of the wave produced.",
+    "options": {
+      "A": "250\\(ms^{-1}\\)",
+      "B": "625\\(ms^{-1}\\)",
+      "C": "1200\\(ms^{-1}\\)",
+      "D": "1500\\(ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49800?exam_type=waec&type=obj&page=298",
+    "correct_answer": "C",
+    "explanation": "The fundamental frequency \\((f_{0})\\) = \\(\\frac{v}{2l}\\)\n\\(f_{0} = 150Hz; l =400cm = 4m\\)\n\\(150 = \\frac{v}{2\\times 4}\\)\n\\(v = 150 \\times 8 = 1200ms^{-1}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1491",
+    "text": "The diagram above illustrates a waveform. Determine the number of wavelengths in it",
+    "options": {
+      "A": "4",
+      "B": "3\\(\\frac{1}{2}\\)",
+      "C": "2\\(\\frac{1}{2}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49804?exam_type=waec&type=obj&page=299",
+    "correct_answer": "C",
+    "explanation": "Number\u00a0of wavelengths = Number of oscillations\nNumber of\u00a0 wavelengths = \\(\\frac{1}{4} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} + \\frac{1}{2} +\\frac{1}{4}\\) = 2\\(\\frac{1}{2}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1492",
+    "text": "A resistor with fixed resistance value is called a",
+    "options": {
+      "A": "resistance box",
+      "B": "standard resistor",
+      "C": "shunt resistor",
+      "D": "multiplier resistor"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49808?exam_type=waec&type=obj&page=299",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1493",
+    "text": "Which of the following statements is not an advantage of an alkaline accumulator?",
+    "options": {
+      "A": "The electrolyte does not need attention",
+      "B": "It can be recharged",
+      "C": "It has low internal resistance",
+      "D": "It has a much longer life than lead-acid accumulator"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49817?exam_type=waec&type=obj&page=299",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1494",
+    "text": "The diagram above illustrates the wire connections to a three-pin plug. The wires P, Q and R respectively are:",
+    "options": {
+      "A": "live, neutral and earth",
+      "B": "neutral, earth and live",
+      "C": "earth, live and neutral",
+      "D": "earth, neutral and live"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49823?exam_type=waec&type=obj&page=299",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1495",
+    "text": "Which of the following statements about parallel plate capacitors is/are correct?\nI. Capacitance of the capacitor\u00a0 is inversely proportional to the distance between the plates\nII. Capacitors can filter a.c signals from d.c\u00a0\nIII. Capacitors can store charges",
+    "options": {
+      "A": "I only",
+      "B": "I and II only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49843?exam_type=waec&type=obj&page=299",
+    "correct_answer": "D",
+    "explanation": "Capacitors pass AC but block DC signals (when charged up to the applied DC voltage), they are often used to separate the AC and DC components of a signal. Capacitors are also primarily used to store energy.",
+    "year": "2018"
+  },
+  {
+    "number": "1496",
+    "text": "The circuit contains three ammeters A1, A2 and A3 with readings of A2 and A3 shown as indicated in the diagram. Determine the reading of A1.",
+    "options": {
+      "A": "2A",
+      "B": "3A",
+      "C": "5A",
+      "D": "8A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49857?exam_type=waec&type=obj&page=300",
+    "correct_answer": "B",
+    "explanation": "Ammeters are connected in series so,\nA3= A2 + A1\nA1 = A3 - A1\n= 5A - 2A\n= 3A",
+    "year": "2018"
+  },
+  {
+    "number": "1497",
+    "text": "Which of the following statements about magnetic lines of force is not correct? They",
+    "options": {
+      "A": "pass through even non-magnetic materials",
+      "B": "run from the north pole to the south pole",
+      "C": "are in a state of tension and tend to be shorted",
+      "D": "intersect one another"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49864?exam_type=waec&type=obj&page=300",
+    "correct_answer": "D",
+    "explanation": "Two magnetic lines of force can not intersect each other.",
+    "year": "2018"
+  },
+  {
+    "number": "1498",
+    "text": "In which of the following activities is an induction coil not useful?",
+    "options": {
+      "A": "Investigation of high voltages",
+      "B": "Study of electric discharge",
+      "C": "Operation of X-ray tubes",
+      "D": "A.C. power transmission"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49869?exam_type=waec&type=obj&page=300",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1499",
+    "text": "In a series R-L-C circuit, R = 10\\(\\Omega\\), \\(X_{c}\\)= 4\\(\\Omega\\) and \\(X_{L}\\) = 9\\(\\Omega\\). The impedance of the circuit is",
+    "options": {
+      "A": "4.1\\(\\Omega\\)",
+      "B": "5.0\\(\\Omega\\)",
+      "C": "10.8\\(\\Omega\\)",
+      "D": "11.2\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49874?exam_type=waec&type=obj&page=300",
+    "correct_answer": "D",
+    "explanation": "The impedance for a RLC circuit is\n\\(Z = \\sqrt{R^{2} + (X_{L} - X_{C})^{2}}\\)\n= \\(\\sqrt{10^{2} + (9 - 4)^{2}}\\)\n= \\(\\sqrt{125}\\)\n= 11.18\\(\\Omega\\) \\(\\approxeq\\) 11.2\\(\\Omega\\)",
+    "year": "2018"
+  },
+  {
+    "number": "1500",
+    "text": "A student uses two compass needles to investigate the magnetic field around a bar magnet. Which of the following diagrams show the correct directions of the needles?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49876?exam_type=waec&type=obj&page=300",
+    "correct_answer": "B",
+    "explanation": "By convention, the field direction is taken to be outward from the North pole and in to the South pole of the magnet. Also, they form closed lines.",
+    "year": "2018"
+  },
+  {
+    "number": "1501",
+    "text": "Which of the following is emitted in a process of natural radioactivity?",
+    "options": {
+      "A": "\\(\\alpha\\)- particles and \\(\\beta\\)- particles",
+      "B": "\\(\\alpha\\)- particles and X-rays",
+      "C": "\\(\\beta\\)- particles and X-rays",
+      "D": "\\(\\lambda\\)- rays and X-rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49885?exam_type=waec&type=obj&page=301",
+    "correct_answer": "A",
+    "explanation": "In the course of natural radioactivity, alpha, beta and gamma rays are emitted.",
+    "year": "2018"
+  },
+  {
+    "number": "1502",
+    "text": "In which of the following situations is photoelectric effect employed?\nI. Automatic devices for switching on light at dusk\nII. Automatic doors in departmental stores\nIII. Automatic devices for switching on air conditioners\nIV. Automatic voltage stabilizers",
+    "options": {
+      "A": "I, II and IV only",
+      "B": "I, III and IV only",
+      "C": "III and IV only",
+      "D": "I and II only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49887?exam_type=waec&type=obj&page=301",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1503",
+    "text": "Which of the following radiations has the longest wavelength?",
+    "options": {
+      "A": "Gamma ray",
+      "B": "Radio wave",
+      "C": "Infrared ray",
+      "D": "X-ray"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49891?exam_type=waec&type=obj&page=301",
+    "correct_answer": "B",
+    "explanation": "Radio wave has the longest wavelength and shortest frequency.",
+    "year": "2018"
+  },
+  {
+    "number": "1504",
+    "text": "In which of the following fields is radioisotopes not used?",
+    "options": {
+      "A": "Medicine",
+      "B": "Oil industry",
+      "C": "Agriculture",
+      "D": "Weather forecast"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49894?exam_type=waec&type=obj&page=301",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2018"
+  },
+  {
+    "number": "1505",
+    "text": "A nuclide is represented by \\(_{32}^{70}B\\). Determine its neutron-proton ratio",
+    "options": {
+      "A": "0.5",
+      "B": "0.8",
+      "C": "1.2",
+      "D": "1.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/49900?exam_type=waec&type=obj&page=301",
+    "correct_answer": "C",
+    "explanation": "The element B has a mass number of 70 with atomic number 32. Hence, B has 32 protons and (70-32) = 38 neutrons.\nThe neutron- proton ratio is 38:32 = \\(\\frac{38}{32} = 1.1875\\)\n\\(\\approxeq 1.2\\)",
+    "year": "2018"
+  }
+]

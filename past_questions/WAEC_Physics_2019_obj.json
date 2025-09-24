@@ -1,0 +1,687 @@
+[
+  {
+    "number": "1556",
+    "text": "The time rate of increase in velocity is called",
+    "options": {
+      "A": "force",
+      "B": "momentum",
+      "C": "acceleration",
+      "D": "speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58778?exam_type=waec&type=obj&page=312",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1557",
+    "text": "Which of the following quantities is a vector?",
+    "options": {
+      "A": "Volume",
+      "B": "Momentum",
+      "C": "Energy",
+      "D": "Speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58780?exam_type=waec&type=obj&page=312",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1558",
+    "text": "In an elastic collision, momentum is conserved as well as well as?",
+    "options": {
+      "A": "velocity",
+      "B": "kinetic energy",
+      "C": "potential energy",
+      "D": "speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58783?exam_type=waec&type=obj&page=312",
+    "correct_answer": "B",
+    "explanation": "An\u00a0elastic collision\u00a0is an encounter (collision) between two bodies in which the total kinetic energy of the two bodies remains the same.",
+    "year": "2019"
+  },
+  {
+    "number": "1559",
+    "text": "The induced current in a coil always flows in a direction so as to oppose the change that causes it. This statement is known as",
+    "options": {
+      "A": "Coulomb's law",
+      "B": "Lenz's law",
+      "C": "Faraday's law",
+      "D": "Ampere's law"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58785?exam_type=waec&type=obj&page=312",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1560",
+    "text": "Which of the following instruments can be used to compare the magnitudes of charges on two given bodies?",
+    "options": {
+      "A": "Electrophorus",
+      "B": "Ebonite rod",
+      "C": "Gold-leaf electroscope",
+      "D": "Proof planes"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58787?exam_type=waec&type=obj&page=312",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1561",
+    "text": "A body of mass 2 kg is released from a point 100 m above the ground. Calculate its kinetic energy 80m\u00a0 from the point of release.",
+    "options": {
+      "A": "1600 J",
+      "B": "900 J",
+      "C": "600 J",
+      "D": "200 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58793?exam_type=waec&type=obj&page=313",
+    "correct_answer": "A",
+    "explanation": "K.E = mgh\nbut h = 80m, m = 2kg, g = 10m/s^2\nK.E = 2 x 10 x 80 = 1600J.",
+    "year": "2019"
+  },
+  {
+    "number": "1562",
+    "text": "Which of the following waves is not mechanical?",
+    "options": {
+      "A": "Waves in pipes",
+      "B": "Water waves",
+      "C": "Radio waves",
+      "D": "Sound waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58800?exam_type=waec&type=obj&page=313",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1563",
+    "text": "A loaded spring is set in simple harmonic motion. The force that tends to restore the load to its equilibrium position is",
+    "options": {
+      "A": "adhesive",
+      "B": "elastic",
+      "C": "frictional",
+      "D": "gravitational"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58801?exam_type=waec&type=obj&page=313",
+    "correct_answer": "B",
+    "explanation": "Elastic Force: This is the force exerted by the spring when it is compressed or stretched. It is the elastic force that directly acts to restore the spring to its equilibrium position.",
+    "year": "2019"
+  },
+  {
+    "number": "1564",
+    "text": "Which of the following cases cannot produce total internal reflection? A light ray travelling from",
+    "options": {
+      "A": "glass to water",
+      "B": "kerosene to air",
+      "C": "air to water",
+      "D": "water to ice"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58805?exam_type=waec&type=obj&page=313",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1565",
+    "text": "The vacuum in a thermoflask reduces heat loss resulting from",
+    "options": {
+      "A": "radiation only",
+      "B": "conduction and convection only",
+      "C": "radiation and convection only",
+      "D": "conduction only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58807?exam_type=waec&type=obj&page=313",
+    "correct_answer": "B",
+    "explanation": "The vacuum of a thermos flask\u00a0prevents heat loss by conduction and convection, conduction because vacuum is a poor conductor of heat, convention because\nthe space between the walls is a vacuum which reduces the heat loss due to conduction and convection. if there is any atmospheric air or material between then there will be some amount of heat transfer through the conduction and convection",
+    "year": "2019"
+  },
+  {
+    "number": "1566",
+    "text": "The diagram above represents an experimental set-up for\u00a0verifying?",
+    "options": {
+      "A": "lens formula",
+      "B": "refraction laws",
+      "C": "reflection laws",
+      "D": "mirror formula"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58810?exam_type=waec&type=obj&page=314",
+    "correct_answer": "A",
+    "explanation": "the diagram\u00a0above is an experimental set up for verifying lens formula",
+    "year": "2019"
+  },
+  {
+    "number": "1567",
+    "text": "Which of the following statements about a moving object is correct?",
+    "options": {
+      "A": "When accelerating, the resultant force acting on it must be equal to zero.",
+      "B": "There must always be a non-zero resultant force acting on it.",
+      "C": "At a steady velocity, the resultant\u00a0force acting on it must be equal to zero",
+      "D": "At a steady velocity, the air resistance must be equal to zero."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58822?exam_type=waec&type=obj&page=314",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1568",
+    "text": "If the efficiency of a transformer is 100%, which of the following equations would be correct?",
+    "options": {
+      "A": "N\\(_p\\)E\\(_p\\) = N\\(_s\\)E\\(_s\\)",
+      "B": "N\\(_s\\)I\\(_p\\)= N\\(_p\\)I\\(_s\\)",
+      "C": "N\\(_s\\)I\\(_s\\) = N\\(_p\\)I\\(_p\\)",
+      "D": "I\\(_p\\)E\\(_s\\) = I\\(_s\\)E\\(_p\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58844?exam_type=waec&type=obj&page=314",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1569",
+    "text": "A freshly demagnetized bar magnet is placed in the East-West direction to ensure that",
+    "options": {
+      "A": "the molecular magnets remain randomly arranged.",
+      "B": "the molecular magnets are properly aligned",
+      "C": "it is affected by the earth's magnetic field",
+      "D": "the magnetic domains are within the earth's field"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58845?exam_type=waec&type=obj&page=314",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1570",
+    "text": "Which of the following graphs above of a charge Q against potential difference\u00a0V across\u00a0the capacitor is correct?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58847?exam_type=waec&type=obj&page=314",
+    "correct_answer": "B",
+    "explanation": "C = \\(\\frac{\\text{Q}}{\\text{V}}\\)\u00a0\u21d2 Q = CV which means that Q Is directly proportional to V.",
+    "year": "2019"
+  },
+  {
+    "number": "1571",
+    "text": "A small amount of air is introduced into the vacuum above the mercury in a mercury barometer tube.\u00a0The mercury level goes down because the air molecules",
+    "options": {
+      "A": "heat the mercury and make it expand",
+      "B": "increase the pressure above the mercury.",
+      "C": "cool the mercury and make it contract.",
+      "D": "decrease the pressure above the mercury"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58848?exam_type=waec&type=obj&page=315",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1572",
+    "text": "Calculate the quantity of heat needed to change the temperature of 60g of ice at 0 \u00b0C to 80 \u00b0C.\u00a0[specific latent heat of fusion of ice= 3.36 x 10\\(^5\\) Jkg\\(^{-1}\\) specific heat\u00a0capacity of water 4.2 x 10\\(^3\\) J kg\\(^{-1}\\) K\\(^{-1}\\)]",
+    "options": {
+      "A": "4.80 kJ",
+      "B": "20.16 kJ",
+      "C": "40.32 kJ",
+      "D": "22.17 kJ"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58857?exam_type=waec&type=obj&page=315",
+    "correct_answer": "C",
+    "explanation": "Heat needed to change 60g (0.06kg) of ice at 0\\(^o\\)C to water at 0\\(^o\\)\n= 0.06 x 3.36 x 10\\(^5\\)J\n= 0.2016 x 10\\(^5\\) J\nHeat required to raise the temp. of 60g (0.06kg) of water from 0\\(^o\\)C to 80\\(^o\\)C\n= 0.06 x 4.2 x 10\\(^3\\) x (80.0)J\n= 0.06 x 4.2 x 10\\(^3\\) x 80\n= 20.16 x 10\\(^3\\)\n= 0.2016 x 10\\(^5\\)\nTotal heat needed = (0.2016 + 0.2016) 10\\(^5\\)J\n= 0.4032 x 10\\(^5\\) J\n= 40.32KJ",
+    "year": "2019"
+  },
+  {
+    "number": "1573",
+    "text": "The wire of a platinum resistance thermometer has\u00a0d resistance of 3.5\\(\\Omega\\) at 0 \u00b0C and 10.52\\(\\Omega\\) at 100\u00b0C. Calculate the temperature of the wire when its resistance is 7.5\\(\\Omega\\).",
+    "options": {
+      "A": "78 \u00b0C",
+      "B": "25 \\(^o\\)C",
+      "C": "30\\(^o\\)C",
+      "D": "57 \\(^o\\)C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58861?exam_type=waec&type=obj&page=315",
+    "correct_answer": "D",
+    "explanation": "Using the formula\nt = \\(\\frac{R - R_0}{R_{(100)} - R_0} \\times\u00a0100^oC\\)\nt = \\(\\frac{7.5 - 3.5}{10.5 - 2..5} \\times 100^oC\\)\n= \\(\\frac{4}{7} \\times 100\\)\n= 57.14\\(^o\\)C\n~ 57\\(^o\\)C",
+    "year": "2019"
+  },
+  {
+    "number": "1574",
+    "text": "A transverse pulse of frequency 9 Hz traves 4.5m in 0.6 s. Calculate the wavelength of the pulse.",
+    "options": {
+      "A": "3.33 m",
+      "B": "0.30 m",
+      "C": "0.83 m",
+      "D": "1.20 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58863?exam_type=waec&type=obj&page=315",
+    "correct_answer": "C",
+    "explanation": "Wavelength (\\(\\alpha\\)) = \\(\\frac{Velocity (V)}{Frequency (f)}\\)\nVelocity = \\(\\frac{Distance}{Time}\\) = \\(\\frac{4.5}{0.6}\\)\n= \\(\\frac{7.5}{9.0}\\)\n= 0.83m",
+    "year": "2019"
+  },
+  {
+    "number": "1575",
+    "text": "In which of the following\u00a0media is the speed of sound the least?",
+    "options": {
+      "A": "Air",
+      "B": "Brass",
+      "C": "Water",
+      "D": "Wood"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58885?exam_type=waec&type=obj&page=315",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1576",
+    "text": "Which of the following characteristics of waves can a ripple tank be used to demonstrate?\nI. Reflection\nII. Refraction\nIII.\u00a0Diffraction",
+    "options": {
+      "A": "I, II and Ill",
+      "B": "ll and ll only",
+      "C": "l and lII only",
+      "D": "I and II only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58888?exam_type=waec&type=obj&page=316",
+    "correct_answer": "A",
+    "explanation": "ripple tank experiment can be used to demonstrate the following properties of waves:\nReflectionRefraction\nDiffraction",
+    "year": "2019"
+  },
+  {
+    "number": "1577",
+    "text": "Which of the following graphs\u00a0gives the correct relationship between energy and mass when mass is converted to energy.",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58889?exam_type=waec&type=obj&page=316",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1578",
+    "text": "An 800 kg car moving at 80 km hr\\(^{-1}\\) collides with a 1200 kg car moving at 40 km hr\\(^{-1}\\)\u00a0in the same direction.\u00a0If the cars stick together, calculate their common velocity.",
+    "options": {
+      "A": "60 km hr\\(^{-1}\\)",
+      "B": "8 km hr\\(^{-1}\\)",
+      "C": "40 km hr\\(^{-1}\\)",
+      "D": "56 km hr\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58901?exam_type=waec&type=obj&page=316",
+    "correct_answer": "D",
+    "explanation": "From momentum conservation\n(800 x 80) +\u00a0(1200 x 40)\n= (800 + 1200) V\n= 64000 +\u00a048000 = 2000V\n112000 = 2000V\nV = \\(\\frac{112000}{2000}\\)\n= 56kmh\\(^-1\\)\nThe common velocity = 56kmhr\\(^{-1}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "1579",
+    "text": "The mass of a load is doubled while the force acting on it is halved. The resulting acceleration of the load is",
+    "options": {
+      "A": "quadrupled",
+      "B": "quartered",
+      "C": "halved",
+      "D": "doubled"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58904?exam_type=waec&type=obj&page=316",
+    "correct_answer": "B",
+    "explanation": "Force = mass x acceleration\nbut force was halved = 1/2 and mass doubled = 2 ( assuming that\u00a0force and mass are\u00a01N and 1kg respectively)\nf = ma = \\(\\frac{1}{2}\\) = 2 x a\ndividing both sides by 2\na = \\(\\frac{1}{2} \\times\\frac{1}{2} = \\frac{1}{4}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "1580",
+    "text": "The maximum and minimum thermometer reads the",
+    "options": {
+      "A": "the maximum temperature during the day and the minimum temperature at night at all times.",
+      "B": "the maximum temperature at night and minimum temperature during the day at all times",
+      "D": "the maximum temperature during the day and minimum temperature at\u00a0night from the last reset"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58913?exam_type=waec&type=obj&page=316",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1581",
+    "text": "An a.c. the generator can be converted to a d.c. generator by replacing the",
+    "options": {
+      "A": "commutator with an armature",
+      "B": "armature with a commutator",
+      "C": "commutator with slip rings",
+      "D": "slip rings with a commutator"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58915?exam_type=waec&type=obj&page=317",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1582",
+    "text": "Which of the following statements is the correct reason for using soft iron in making the armature or an electric bell?",
+    "options": {
+      "A": "It is a diamagnetic material",
+      "B": "It loses its magnetism readily",
+      "C": "It is not easily magnetized",
+      "D": "It retains its magnetism for a long\u00a0time"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58919?exam_type=waec&type=obj&page=317",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1583",
+    "text": "The diagram above illustrates a meter bridge circuit underbalanced conditions. Determine the value of x.",
+    "options": {
+      "A": "50.cm",
+      "B": "10.0 cm",
+      "C": "28.6 cm",
+      "D": "57.2 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58941?exam_type=waec&type=obj&page=317",
+    "correct_answer": "A",
+    "explanation": "Using wheatstone bridge principle;\n\\(\\frac{2}{x} = \\frac{2}{(100 - x)}\\)\n2(100 - x) = 2 x \\(x\\)\n200 = 2\\(x + 2x\\)\n200 = 4x\nx = \\(\\frac{200}{4}\\)\n= 50cm",
+    "year": "2019"
+  },
+  {
+    "number": "1584",
+    "text": "Which of the following devices is used for storing electric charges?",
+    "options": {
+      "A": "Transformer",
+      "B": "Ammeter",
+      "C": "Potentiometer",
+      "D": "Capacitor"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58948?exam_type=waec&type=obj&page=317",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1585",
+    "text": "An electron of mass 9.1 x 10\\(^{-31}\\) kg moves with a speed of 2.0 x 10\\(^6\\) ms\\(^{-1}\\)\u00a0round the nucleus of an atom in a Circular path of radius 6.1 x 10(^{11}\\)\u00a0m.\u00a0Determine the angular speed of the electron.",
+    "options": {
+      "A": "3.28 x 10\\(^{16}\\) rad s\\(^{-1}\\)",
+      "B": "8.55 x 10\\(^{3}\\) rad s\\(^{-1}\\)",
+      "C": "9.11 x 10\\(^{13}\\) rad s\\(^{-1}\\)",
+      "D": "5.22 x 10\\(^{15}\\) rad s\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58963?exam_type=waec&type=obj&page=317",
+    "correct_answer": "A",
+    "explanation": "Angular speed of the electron (W)\nw = \\(\\frac{Velocity}{Radius} = \\frac{V}{R}\\)\n= \\(\\frac{2.0 \\times 10^6}{6.1 \\times 10^{11}}\\)\n= 3.28 x 10\\(^{16}\\) rads\\(^{-1}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "1586",
+    "text": "An electron of mass 9.1 x 10\\(^{-31}\\) kg moves with a speed of 2.0 x 10\\(^6\\) ms\\(^{-1}\\)\u00a0round the nucleus of an atom in a Circular path of radius\n6.1 x 10\\(^{11}\\)\u00a0m.\u00a0Calculate the centripetal force acting on the electron.",
+    "options": {
+      "A": "7.7 x 10\\(^{47}\\) N",
+      "B": "6.0 x 10\\(^{-8}\\)N",
+      "C": "3.0 x 10\\(^{-14}\\)N",
+      "D": "1.3 x 10\\(^{-26}\\)N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58977?exam_type=waec&type=obj&page=318",
+    "correct_answer": "B",
+    "explanation": "Centripetal force (Fr) = \\(\\frac{MV^2}{r}\\)\ni.e. Fr = \\(\\frac{Mv^2}{r}\\)\n= \\(\\frac{9.1 \\times\u00a010^{-31} \\times 2.0 \\times 10^6 \\times 2.0 \\times 10^6}{6.1 \\times 10^{-11}}\\) N\n= (\\(\\frac{36.4\u00a0\\times 10^{-19}}{6.1 \\times 10^{-11}}\\)) N\n= 5.967 x 10\\(^{-8}\\) N\n~ 6.0 x 10\\(^{-8}\\) N",
+    "year": "2019"
+  },
+  {
+    "number": "1587",
+    "text": "A device consumes 100 W of power when connected to a 120 V source. Calculate its resistance.",
+    "options": {
+      "A": "1.2\\(\\Omega\\)",
+      "B": "12,000 \\(\\Omega\\)",
+      "C": "20.0\\(\\Omega\\)",
+      "D": "144\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/58985?exam_type=waec&type=obj&page=318",
+    "correct_answer": "D",
+    "explanation": "P = \\(\\frac{V^2}{R}\\)\nR = \\(\\frac{120^2}{100}\\)\n= 144.0\\(\\Omega\\)",
+    "year": "2019"
+  },
+  {
+    "number": "1588",
+    "text": "Which property of a wave remains constant when the wave travels from one medium into another?",
+    "options": {
+      "A": "Amplitude",
+      "B": "Wavelength",
+      "C": "Velocity",
+      "D": "Frequency"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59012?exam_type=waec&type=obj&page=318",
+    "correct_answer": "D",
+    "explanation": "Frequency remains unchanged as waves travel from one medium to another because it is characterized\u00a0by the source of the wave.",
+    "year": "2019"
+  },
+  {
+    "number": "1589",
+    "text": "The anomalous expansion of water occurs in the range",
+    "options": {
+      "A": "0 \u00b0C to 100 \u00b0C",
+      "B": "0 \u00b0C to 4 \u00b0C",
+      "C": "4 \u00b0C to 100 C",
+      "D": "-4 \u00b0C to 0 \u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59014?exam_type=waec&type=obj&page=318",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1590",
+    "text": "A ray of light traveling from a\u00a0rectangular glass\u00a0block of refractive index 1.5 into air strikes the block at an angle of incidence of 30. Calculate its angle of refraction.",
+    "options": {
+      "A": "48.6\u00b0",
+      "B": "19.5\u00b0",
+      "C": "20.0",
+      "D": "45.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59015?exam_type=waec&type=obj&page=318",
+    "correct_answer": "A",
+    "explanation": "Given that refractive index = 1.5, angle of incidence = 30\u00b0, angle of refraction =?\nusing snell's law = refractive index = \\(\\frac{sini}{sinr}\\)\n=\\(\\frac{1}{n } =\u00a0\\frac{sin30}{sinr}\\)\n= \\(sinr = 1.5\\times sin 30\\)\nr =\u00a0\u00a0\\(sin^10.75\\)\n= 48.6\u00b0\nthis is because ray is traveling from a more denser medium to a less dense medium",
+    "year": "2019"
+  },
+  {
+    "number": "1591",
+    "text": "A rectangular piece of iron\u00a0measuring 4 cm by 3 cm at 20\\(^o\\)C is heated until its temperature increases by 100 C. Calculate the new area\u00a0of the metal.\u00a0[Linear expansivity of iron is 1.2x 10\\(^{-5}\\)\u00a0K\\(^{-1}\\)]",
+    "options": {
+      "A": "12.0144 cm\\(^3\\)",
+      "B": "12.0346 cm\\(^3\\)",
+      "C": "12.0288 cm\\(^3\\)",
+      "D": "12.0173 cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59017?exam_type=waec&type=obj&page=319",
+    "correct_answer": "C",
+    "explanation": "Linear expansivity (\\(\\alpha\\))\n= \\(\\frac{A_2 - A_1}{A_1\\theta}\\)\nOriginal Area(A\\(_1\\)) = 4 x 3 = 12\nNew Area (A\\(_2\\)) = ?\nTemp. rise (\\(\\theta\\)) = 100\\(^o\\)C\nA\\(_2\\) - 12 = 1200 x 2 x 1.2 x 10\\(^{-5}\\)\nA\\(_2\\) - 12 = 2880\u00a0x 10\\(^-5\\)\nA\\(_2\\) - 12 = 0.0288\nA\\(_2\\) = 12.0288 cm\\(^2\\)",
+    "year": "2019"
+  },
+  {
+    "number": "1592",
+    "text": "Two bodies of masses 3.0 kg and 2.0 kg are separated by a distance of 50 cm. Calculate the force of attraction between them. [G = 6.67 x 10\\(^{-11}\\) Nm\\(^2\\)\u00a0kg\\(^2\\)]",
+    "options": {
+      "A": "1.6 x 10\\(^{-9}\\)N",
+      "B": "1.3 x 10\\(^{3}\\)N",
+      "C": "2.3 x 10\\(^{3}\\)N",
+      "D": "5.0x 10\\(^{3}\\)N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59019?exam_type=waec&type=obj&page=319",
+    "correct_answer": "A",
+    "explanation": "Using the formula\nF = \\(\\frac{Gm_1m_2}{r^2}\\)\n= \\(\\frac{6.67 \\times 10^{-11} \\times 3.0 \\times 2.0}{(50)^2}\\)\n= \\(\\frac{40.02 \\times\u00a010^{-11}}{2500}\\)\n=\u00a01.6 x 10\\(^{-9}\\)N",
+    "year": "2019"
+  },
+  {
+    "number": "1593",
+    "text": "The diagram above illustrates an object moving in a circular path at a constant speed. Which of the arrows\u00a0indicates the direction of linear velocity?",
+    "options": {
+      "A": "z",
+      "B": "X",
+      "C": "Y",
+      "D": "W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59022?exam_type=waec&type=obj&page=319",
+    "correct_answer": "A",
+    "explanation": "for an object moving along a circular path, it speed is constant but its linear velocity changes with time at every point on the circle.",
+    "year": "2019"
+  },
+  {
+    "number": "1594",
+    "text": "Which of the following thermometers is\u00a0used to measure the temperature of the human body?",
+    "options": {
+      "A": "Thermocouple",
+      "B": "Alcohol-in-glass thermometer",
+      "C": "Gas thermometer",
+      "D": "Platinum resistance thermometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59023?exam_type=waec&type=obj&page=319",
+    "correct_answer": "B",
+    "explanation": "The range of usefulness of the thermometer is set by the boiling point of the liquid used. In the case of the ethanol-filled thermometer, the upper limit for measurement is 78 \u00b0C (172.4 \u00b0F), which makes it useful for measuring daytime, nighttime and body temperatures, although not for anything much hotter than these.",
+    "year": "2019"
+  },
+  {
+    "number": "1595",
+    "text": "In the diagram above, the time taken to trace a wave between P and Q is?",
+    "options": {
+      "A": "2 periods",
+      "B": "1 period",
+      "C": "1\\(\\frac{1}{2}\\) periods",
+      "D": "1\\(\\frac{1}{4}\\) periods"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59024?exam_type=waec&type=obj&page=319",
+    "correct_answer": "A",
+    "explanation": "frequency means no of oscillation per secs, so the time taken to trace a wave between p and q is 2secs.",
+    "year": "2019"
+  },
+  {
+    "number": "1596",
+    "text": "Which of the following materials does not serve as a\u00a0safety device in electrical circuits?",
+    "options": {
+      "A": "Connecting wires",
+      "B": "Earth wire",
+      "C": "Fuse",
+      "D": "Switch"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59025?exam_type=waec&type=obj&page=320",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1597",
+    "text": "Which of the following liquids has the highest surface tension?",
+    "options": {
+      "A": "Soapy water",
+      "B": "Cold water",
+      "C": "Hot water",
+      "D": "oily water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59026?exam_type=waec&type=obj&page=320",
+    "correct_answer": "B",
+    "explanation": "Cold water has a higher surface tension than soapy water, hot water, and oily water. Soapy water has surfactants that reduce surface tension, while hot water has lower surface tension than cold water due to increased molecular motion. Oily water also has a lower surface tension than pure water.",
+    "year": "2019"
+  },
+  {
+    "number": "1598",
+    "text": "The nucleon and proton numbers of a neutral atom of an element are\u00a0238 and 92 respectively. Determine the number of neutrons in the atom.",
+    "options": {
+      "A": "119",
+      "B": "330",
+      "C": "165",
+      "D": "146"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59027?exam_type=waec&type=obj&page=320",
+    "correct_answer": "D",
+    "explanation": "Neutron No (N) = 238 - 92\n= 146",
+    "year": "2019"
+  },
+  {
+    "number": "1599",
+    "text": "An instrument used to measure\u00a0relative humidity is the?",
+    "options": {
+      "A": "hygrometer",
+      "B": "hydrometer",
+      "C": "pyrometer",
+      "D": "manometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59028?exam_type=waec&type=obj&page=320",
+    "correct_answer": "A",
+    "explanation": "A hydrometer is an instrument used for measuring the relative density of liquids based on the concept of buoyancy.\nA hygrometer measureshumidity, the amount of water vapor in air",
+    "year": "2019"
+  },
+  {
+    "number": "1600",
+    "text": "The area under a velocity-time\u00a0graph represents",
+    "options": {
+      "A": "speed",
+      "B": "acceleration",
+      "C": "moment",
+      "D": "distance"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59030?exam_type=waec&type=obj&page=320",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "1601",
+    "text": "Which of the following statements about a neutral atom is correct? The",
+    "options": {
+      "A": "core is composed of electrons and protons",
+      "B": "number of electrons is equal to that of neutron",
+      "C": "number of neutrons is equal to that of protons",
+      "D": "number of protons is equal to that of electrons."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59031?exam_type=waec&type=obj&page=321",
+    "correct_answer": "D",
+    "explanation": "Atoms are neutral;\u00a0they contain the same number of protons as electrons.",
+    "year": "2019"
+  },
+  {
+    "number": "1602",
+    "text": "Which of the following properties is not exhibited by sound waves?",
+    "options": {
+      "A": "Diffraction",
+      "B": "Polarization",
+      "C": "Interference",
+      "D": "Reflection"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59032?exam_type=waec&type=obj&page=321",
+    "correct_answer": "B",
+    "explanation": "polarization, property of certain electromagnetic radiations(such as radio waves, visible light, and gamma rays)\u00a0in which the direction and magnitude of the vibrating electric field are related in a specified way",
+    "year": "2019"
+  },
+  {
+    "number": "1603",
+    "text": "When ultraviolet light is incident on certain metallic p\u00a0articles are emitted. These particles are called",
+    "options": {
+      "A": "positrons",
+      "B": "protons",
+      "C": "photoelectrons",
+      "D": "photons"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59035?exam_type=waec&type=obj&page=321",
+    "correct_answer": "C",
+    "explanation": "Photoelectrons are electrons that are ejected from a material (usually a metal) when it absorbs photons of light, such as ultraviolet light. This phenomenon is known as the photoelectric effect.",
+    "year": "2019"
+  },
+  {
+    "number": "1604",
+    "text": "The graph above illustrates the variation of temperature \\(\\theta\\) with time (t) for a solid that is being heated. Which processes take place at segments P and Q respectively?",
+    "options": {
+      "A": "Freezing and vaporization",
+      "B": "Evaporation and solidification",
+      "C": "Melting and boiling",
+      "D": "Condensation and evaporation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/59043?exam_type=waec&type=obj&page=321",
+    "correct_answer": "C",
+    "explanation": "Since the substance is solid, it will need heat to melt to liquid and once the liquid starts boiling temperature will remain the same.",
+    "year": "2019"
+  }
+]

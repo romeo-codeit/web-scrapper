@@ -1,0 +1,110 @@
+[
+  {
+    "number": "37",
+    "text": "(a) What is a projectile?\n(b) Give the reason why the horizontal component of the velocity of a projectile remains the same at every point of its flight.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52979?exam_type=waec&type=theory&page=8",
+    "correct_answer": "(a) Projectile is an object thrown into the air, and left to move under the influence of gravity.\n(b) the acceleration of free fall due to gravity does not act in the horizontal direction.",
+    "explanation": "(a) Projectile is an object thrown into the air, and left to move under the influence of gravity.\n(b) the acceleration of free fall due to gravity does not act in the horizontal direction.",
+    "year": "2015"
+  },
+  {
+    "number": "38",
+    "text": "A body is projected at an angle of 30\u00b0 to the horizontal with a velocity of 150 ms\\(^{-1.}\\). Calculate the time it takes to reach the greatest height [Take g = 10 ms\\(^2\\) and neglect air resistance]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52980?exam_type=waec&type=theory&page=8",
+    "correct_answer": "Given Data: u =\u00a0150 ms\\(^{-1.}\\),\u00a0\u00d8 = 30\u00b0\nTime of Flight = \\(\\frac{2usin\u00d8}{g}\\)\u00a0\u2192\u00a0\\(\\frac{2 * 150 *\u00a0sin30\u00b0}{10}\\)\n= 15s\nt = time taken to reach maximum height = ?t =\u00a0usin\u03b8\u00f7gt = [150 \u00d7 sin(30)] \u00f710t = 7.5secs.",
+    "explanation": "Given Data: u =\u00a0150 ms\\(^{-1.}\\),\u00a0\u00d8 = 30\u00b0\nTime of Flight = \\(\\frac{2usin\u00d8}{g}\\)\u00a0\u2192\u00a0\\(\\frac{2 * 150 *\u00a0sin30\u00b0}{10}\\)\n= 15s\nt = time taken to reach maximum height = ?t =\u00a0usin\u03b8\u00f7gt = [150 \u00d7 sin(30)] \u00f710t = 7.5secs.",
+    "year": "2015"
+  },
+  {
+    "number": "39",
+    "text": "A wire of length 2.00 m and radius 1.0 mm is stretched by 25.0 mm on the application of a force of \\(10^3\\) N. Calculate Young's modulus for the wire.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52981?exam_type=waec&type=theory&page=8",
+    "correct_answer": "Given:L = 2m r = 1mm = 1 x \\(10^{-3}\\)m. e = 25mm = 25 x \\(10^{-3}\\)mF = 1000NYoung modulus, E = \\(\\frac{F \\times l}{A \\times e}\\)Area, A = \u03c0r^2\u00a0= \\(3.142 x (10^{-3})^2\\) = \\(3.142x10^{-6}\\)\nE = \\(\\frac{1000\u00a0\\times 2}{3.142\u00a0\\times 10^{-6} \\times\u00a025 \\times 10^{-3}}\\)E\u00a0= \\(2.55 x 10^{10} NM^{-2}\\)",
+    "explanation": "Given:L = 2m r = 1mm = 1 x \\(10^{-3}\\)m. e = 25mm = 25 x \\(10^{-3}\\)mF = 1000NYoung modulus, E = \\(\\frac{F \\times l}{A \\times e}\\)Area, A = \u03c0r^2\u00a0= \\(3.142 x (10^{-3})^2\\) = \\(3.142x10^{-6}\\)\nE = \\(\\frac{1000\u00a0\\times 2}{3.142\u00a0\\times 10^{-6} \\times\u00a025 \\times 10^{-3}}\\)E\u00a0= \\(2.55 x 10^{10} NM^{-2}\\)",
+    "year": "2015"
+  },
+  {
+    "number": "40",
+    "text": "State three ways of increasing the rate of cooling of a cup of hot tea.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52982?exam_type=waec&type=theory&page=8",
+    "correct_answer": "Ways of increasing the cooling rate of a cup of tea are:\n(i) Stirring the tea continuously.\n(ii) Increasing the rate of evaporation.\n(iii) Reducing the ambient temperature.",
+    "explanation": "Ways of increasing the cooling rate of a cup of tea are:\n(i) Stirring the tea continuously.\n(ii) Increasing the rate of evaporation.\n(iii) Reducing the ambient temperature.",
+    "year": "2015"
+  },
+  {
+    "number": "41",
+    "text": "(a) What is doping in a semi conductor?\n(b) Draw the symbol for OR gate.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52983?exam_type=waec&type=theory&page=9",
+    "correct_answer": "(a) Doping in a semi conductor is the addition of impurity to a pure semi condutor to increase its electrical conductivity through increase in the number of holes and electrons or charge carriers.",
+    "explanation": "(a) Doping in a semi conductor is the addition of impurity to a pure semi condutor to increase its electrical conductivity through increase in the number of holes and electrons or charge carriers.",
+    "year": "2015"
+  },
+  {
+    "number": "42",
+    "text": "The circuit above consists of an a. c. voltage input, a diode, a resistor and a voltmeter.\n(a) Identify the circuit.\n(b) Draw the waveform for the output voltage.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52984?exam_type=waec&type=theory&page=9",
+    "correct_answer": "(a) The circuit is half-wave rectifier.\n(b)",
+    "explanation": "(a) The circuit is half-wave rectifier.\n(b)",
+    "year": "2015"
+  },
+  {
+    "number": "43",
+    "text": "(a) Write the de Broglie equation.\n(b) Explain the significance of the equation.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52985?exam_type=waec&type=theory&page=9",
+    "correct_answer": "a) \\(\\lambda = \\frac{h}{p} or \\alpha = \\frac{h}{mV}\\)\nb) The significance of the equation is tha, a particle of mass (m) moving with a velocity (v) has an associated wavelength (\\(\\lambda\\)). The wavelength decreases with increase in momentum or velocity.",
+    "explanation": "a) \\(\\lambda = \\frac{h}{p} or \\alpha = \\frac{h}{mV}\\)\nb) The significance of the equation is tha, a particle of mass (m) moving with a velocity (v) has an associated wavelength (\\(\\lambda\\)). The wavelength decreases with increase in momentum or velocity.",
+    "year": "2015"
+  },
+  {
+    "number": "44",
+    "text": "(a) (i) Define uniform acceleration.\n(ii) Write an equation that relates linear velocity, angular velocity and radius\nof path in circular motion.\n(b) Two forces 30 N and 40 N act at right angles to each other. Determine by scale drawing, the magnitude and direction of the resultant force,.using a scale of 1 cm to 5 N.\n(c) Explain why ships are usually refilled with sand and water after they have been emptied of their cargo.\n(d) A crate of drinks of mass 20 kg is placed on a plane inclined at 30\u00b0 to the horizontal. If the crate slides down with a constant speed, calculate the:\n(i) co-efficient of kinetic friction;\n(ii) magnitude of the frictional force acting on the crate. [ g = 10 ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52986?exam_type=waec&type=theory&page=9",
+    "correct_answer": "(i) Uniform acceleration is a constant time rate of increase in velocity.\n(ii) Linear velocity = angular velocity x radius of path V = \\(\\omega\\)r\n(b) Scale: 1 cm to 5 N\n30N = 6cm and 40N = 8cm\n(c) \u00a0A floating ship is balanced by its weight and the upthrust on it. Hence when off-loaded the upthrust becomes greater than the weight of the ship, therefore when refilled with sand and water, equilibrium is restored for stability.\nd)(i) \\(\\mu = tan \\theta = tan 30^o = 0.5774\\)\n(ii) F = \\(\\mu g cos \\theta\\) = 0.5774 x 20 x 10 x Cos 30\\(^o\\) = 100N",
+    "explanation": "(i) Uniform acceleration is a constant time rate of increase in velocity.\n(ii) Linear velocity = angular velocity x radius of path V = \\(\\omega\\)r\n(b) Scale: 1 cm to 5 N\n30N = 6cm and 40N = 8cm\n(c) \u00a0A floating ship is balanced by its weight and the upthrust on it. Hence when off-loaded the upthrust becomes greater than the weight of the ship, therefore when refilled with sand and water, equilibrium is restored for stability.\nd)(i) \\(\\mu = tan \\theta = tan 30^o = 0.5774\\)\n(ii) F = \\(\\mu g cos \\theta\\) = 0.5774 x 20 x 10 x Cos 30\\(^o\\) = 100N",
+    "year": "2015"
+  },
+  {
+    "number": "45",
+    "text": "(a) Define specific latent heat of vaporization.\n(b) (i) What are renewable energy sources?\n(ii) List four renewable energy sources.\n(c) Explain why tomatoes keep longer when kept in a moist jute bag in a clay pot.\n(d) A box has a volume of 0.28 m\\(^3\\) and is 70% filled with iron fillings at 25\u00b0C. Calculate the:\n(i) total mass of the iron fillings;\n(ii) energy required to melt 10% of the iron fillings. [Density of iron = 8.00 x 10\\(^3\\) kgm\\(^{-3}\\); specific latent heat of fusion of iron = 1.38 x 10\\(^5\\) Jkg\\(^{-1}\\), specific heat capacity of iron = 460 Jkg\\(^{-1}\\) k\\(^{-1}\\), melting point of iron = 1500\u00b0C] 10.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52989?exam_type=waec&type=theory&page=9",
+    "correct_answer": "a) Specific latent heat of vaporization in the quantity of heat required to change a unit mass of a liquid at its boiling point to gas.\n(b)(i) Renewable energy sources are sources of energy that cannot be exhausted.\n(ii) Renewable energy sources are sun or solar, wave, wind, hydroelectric, tidal, biomass or vegetable oils, geothermal, etc.\n(c) Clay pot is porous, therefore molecules of water in the moist jute bag will extract latent heat of vaporization from the tomatoes which will escape through the pores of the pot, thereby causing cooling of the tomatoes.\n(i) Mass = density x volume = 8.00 x 10\\(^3\\) x \\(\\frac{70}{80}\\) x 0.28 = 1568 kg.\n(ii) Energy required Q = MC (\\(\\theta_2 - \\theta_1\\)) + mL\n= \\(\\frac{10}{100}\\) x 1568 x 460(1500 - 25) + \\(\\frac{10}{100}\\) x 1568 x 1.38 x 10\\(^5\\)\n= 106, 388, 800 + 21,638, 400\n= 128,027,200J or 1.28 x 10\\(^8\\)J",
+    "explanation": "a) Specific latent heat of vaporization in the quantity of heat required to change a unit mass of a liquid at its boiling point to gas.\n(b)(i) Renewable energy sources are sources of energy that cannot be exhausted.\n(ii) Renewable energy sources are sun or solar, wave, wind, hydroelectric, tidal, biomass or vegetable oils, geothermal, etc.\n(c) Clay pot is porous, therefore molecules of water in the moist jute bag will extract latent heat of vaporization from the tomatoes which will escape through the pores of the pot, thereby causing cooling of the tomatoes.\n(i) Mass = density x volume = 8.00 x 10\\(^3\\) x \\(\\frac{70}{80}\\) x 0.28 = 1568 kg.\n(ii) Energy required Q = MC (\\(\\theta_2 - \\theta_1\\)) + mL\n= \\(\\frac{10}{100}\\) x 1568 x 460(1500 - 25) + \\(\\frac{10}{100}\\) x 1568 x 1.38 x 10\\(^5\\)\n= 106, 388, 800 + 21,638, 400\n= 128,027,200J or 1.28 x 10\\(^8\\)J",
+    "year": "2015"
+  },
+  {
+    "number": "46",
+    "text": "(a)(i) what is resonance?\n(ii) State two eXwilples of resonance.\n(iii) Differentiate between loudness and intensity of sound.\n\u00a0\n(b) When a ray is refracted through a rectangular glass prism, which of the following properties of the ray will change? Wavelength, frequency and speed.\n(c)\n\n(i) Copy the diagram above in your answer booklet.\n(iii) On the copied diagram, sketch the pattern of the waves immediately after passing through the opening.\n(d) A diverging lens of focal length 18.0 in is used to view a shark that is 90.0 in away from the lens. If the image formed is 1.0 m long, calculate the:\n(i) image distance;\n(ii) length of the shark.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52990?exam_type=waec&type=theory&page=10",
+    "correct_answer": "(a)(i) Resonance is a phenomenon which occurs whenever a body is set in oscillation at its own natural frequency as a result of impulses received from another vibrating body, vibrating with the same frequency.\n(ii) Examples of resonance are:\n(1) Loud sound from vibrating prongs of a tuning fork.\n(2) Bridge vibrating under uniform matching of soldiers.\n(3) Repeated jumping of a diver at the free end of a diving board causes the board to resonate.\n(4) Rattling of car engine at high speed causing vibrating of the body of the car. (5) X\\(_{c}\\) equals X\\(_L\\) in an L-C-R series circuit for tuning a radio set.\n(iii)\nLoudnessIntensity- The magnitude of the sensation resulting from sound reaching the ear.-Sensation that depends on the individual hearing ability.- The time rate of flow of energy per unit area perpendicular to the direction of propagation of the sound.- Depends on physical quantities of energy, time and area\n(b) The following properties will change in speed and wavelength.\n(c)\n(d) \\(\\frac{1}{u} + \\frac{1}{v} = \\frac{1}{f}\\)\n\\(\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = \\frac{1}{-18} - \\frac{1}{90}\\)\n= \\(\\frac{-5 -1}{90}\\)\nv = -15m\nM = \\(\\frac{u}{v} = \\frac{h_i}{h_o}\\)\n\\(h_o = \\frac{hi \\times u}{v} = \\frac{1 \\times 90}{1.5}\\)\n= 6.0 m",
+    "explanation": "(a)(i) Resonance is a phenomenon which occurs whenever a body is set in oscillation at its own natural frequency as a result of impulses received from another vibrating body, vibrating with the same frequency.\n(ii) Examples of resonance are:\n(1) Loud sound from vibrating prongs of a tuning fork.\n(2) Bridge vibrating under uniform matching of soldiers.\n(3) Repeated jumping of a diver at the free end of a diving board causes the board to resonate.\n(4) Rattling of car engine at high speed causing vibrating of the body of the car. (5) X\\(_{c}\\) equals X\\(_L\\) in an L-C-R series circuit for tuning a radio set.\n(iii)\nLoudnessIntensity- The magnitude of the sensation resulting from sound reaching the ear.-Sensation that depends on the individual hearing ability.- The time rate of flow of energy per unit area perpendicular to the direction of propagation of the sound.- Depends on physical quantities of energy, time and area\n(b) The following properties will change in speed and wavelength.\n(c)\n(d) \\(\\frac{1}{u} + \\frac{1}{v} = \\frac{1}{f}\\)\n\\(\\frac{1}{v} = \\frac{1}{f} - \\frac{1}{u} = \\frac{1}{-18} - \\frac{1}{90}\\)\n= \\(\\frac{-5 -1}{90}\\)\nv = -15m\nM = \\(\\frac{u}{v} = \\frac{h_i}{h_o}\\)\n\\(h_o = \\frac{hi \\times u}{v} = \\frac{1 \\times 90}{1.5}\\)\n= 6.0 m",
+    "year": "2015"
+  },
+  {
+    "number": "47",
+    "text": "(a) Define:(i) the coulomb; (ii) resistance.\n(b) State the three effects of an electric current.\n(c) State the standard international colour convention for the insulating material covering the following electrical wires in a three-pin plug: (i) live; (ii) neutral; (iii) earth.\n(d)\n\nA water melon of mass 5.0 kg is suspended on a uniform rod of mass 4.0 kg and 4.0 in long as illustrated in the diagram above. If the rod is in equilibrium by the action of the force between the charges +q and -q, calculate the:\n(i) anti-clockwise moment;\n(ii) value of q. [ g = 10 ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52991?exam_type=waec&type=theory&page=10",
+    "correct_answer": "(a)(i) The coulomb is defined as the quantity of electric charge passing through a point in a conductor when a steady current of one ampere passes for one second.\n(ii) Resistance is the opposition offered to the flow or passage of an electric current in a conductor.\n(b) The effects of electric current are:\n(i) Magnetic (ii) Chemical\n(iii) Heating or thermal.\n(c) The standard international colour for insulating cover for a three in plug are:\n(i) Live is brown or red colour.\n(ii) Neutral is blue or black colour.\n(iii) Earth is green/yellow/green and yellow colour.\n(d) Clock wise moment = 4gl\\(_2\\) + \\(\\frac{kq^2l_3}{12}\\)\n\\(\\frac{4 \\times 10 \\times 1 + 8.99 \\times 10^9 \\times q^2 \\times 3}{(2.5)^2}\\) = 40 + 4.315 x 10\\(^{9}\\) x \\(q^{2}\\)\nAnti-clockwise moment = 5gl\\(_1\\) = 5 x 10 x 1 = 50 Nm\nBut sum of clockwise moment = Anti-clockwise moment 40 + 4.315 x 10\\(^9\\) q\\(^2\\) = 50\nq = \\(\\sqrt{\\frac{10}{4.315 \\times 10^9}}\\)\n= 4.814 x 10\\(^{-5}\\)C",
+    "explanation": "(a)(i) The coulomb is defined as the quantity of electric charge passing through a point in a conductor when a steady current of one ampere passes for one second.\n(ii) Resistance is the opposition offered to the flow or passage of an electric current in a conductor.\n(b) The effects of electric current are:\n(i) Magnetic (ii) Chemical\n(iii) Heating or thermal.\n(c) The standard international colour for insulating cover for a three in plug are:\n(i) Live is brown or red colour.\n(ii) Neutral is blue or black colour.\n(iii) Earth is green/yellow/green and yellow colour.\n(d) Clock wise moment = 4gl\\(_2\\) + \\(\\frac{kq^2l_3}{12}\\)\n\\(\\frac{4 \\times 10 \\times 1 + 8.99 \\times 10^9 \\times q^2 \\times 3}{(2.5)^2}\\) = 40 + 4.315 x 10\\(^{9}\\) x \\(q^{2}\\)\nAnti-clockwise moment = 5gl\\(_1\\) = 5 x 10 x 1 = 50 Nm\nBut sum of clockwise moment = Anti-clockwise moment 40 + 4.315 x 10\\(^9\\) q\\(^2\\) = 50\nq = \\(\\sqrt{\\frac{10}{4.315 \\times 10^9}}\\)\n= 4.814 x 10\\(^{-5}\\)C",
+    "year": "2015"
+  },
+  {
+    "number": "48",
+    "text": "(a) Define nucleon number\n(b) A radioactive isotope of Americium (Am \u2014241) decays into a nucleus of Neptunium (Np \u2014 237) and an alpha (\\(\\alpha\\)) particle as shown in the nuclear equation below. \\(^{241}_{95}Am\\) \\(\\to\\) \\(^{237}_{c} + ^b_a \\alpha\\)\n(i) State the number of neutrons in the nucleus of Americium \u2014 241.\n(ii) Determine the values of a,b and c.\n(c)(i) Why are y-rays not deflected by electromagnetic field?\n(ii) State two properties of gamma rays that make them suitable for sterilizing medical equipment.\n(d) A sample of radioactive substance was found to be left with h of its initial count rate after 110 years. Calculate its decay constant.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52993?exam_type=waec&type=theory&page=10",
+    "correct_answer": "(a) Nucleon number is the total number of protons and neutrons in the nucleus of an atom.\n(b)(i) Number of neutrons in the nucleus of Americium = 241 - 90 =146.\n(ii) a = 2\nb = 4\nc = 95 - 2\n= 93.\n(c)(i) Y-ray are electrically neutral or carry no charge.\n(ii) properties of gamma rays that makes them suitable for medical sterilization of equipment are:\n(1) Possession of strong penetrating power.\n(2) Posession of low ionizing power.\n(d) \\(\\frac{N}{N_o} = (\\frac{1}{2})^a = \\frac{1}{32} = (\\frac{1}{2})^a\\) = (\\(\\frac{1}{2})^5\\)\nBut T\\(_\\frac{1}{2}\\) = \\(\\frac{t}{n} = \\frac{110}{5}\\) = 22 years\nHence \\(\\lambda\\) = \\(\\frac{0.693}{T_{\\frac{1}{2}}} = \\frac{0,693}{22}\\)\nDecay constant \\(\\lambda\\) 3.2 x 10\\(^{-2}\\) per year",
+    "explanation": "(a) Nucleon number is the total number of protons and neutrons in the nucleus of an atom.\n(b)(i) Number of neutrons in the nucleus of Americium = 241 - 90 =146.\n(ii) a = 2\nb = 4\nc = 95 - 2\n= 93.\n(c)(i) Y-ray are electrically neutral or carry no charge.\n(ii) properties of gamma rays that makes them suitable for medical sterilization of equipment are:\n(1) Possession of strong penetrating power.\n(2) Posession of low ionizing power.\n(d) \\(\\frac{N}{N_o} = (\\frac{1}{2})^a = \\frac{1}{32} = (\\frac{1}{2})^a\\) = (\\(\\frac{1}{2})^5\\)\nBut T\\(_\\frac{1}{2}\\) = \\(\\frac{t}{n} = \\frac{110}{5}\\) = 22 years\nHence \\(\\lambda\\) = \\(\\frac{0.693}{T_{\\frac{1}{2}}} = \\frac{0,693}{22}\\)\nDecay constant \\(\\lambda\\) 3.2 x 10\\(^{-2}\\) per year",
+    "year": "2015"
+  }
+]

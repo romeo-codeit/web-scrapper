@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1805",
+    "text": "The vacuum and silvered wall surfaces of a vacuum flask walls are respectively",
+    "options": {
+      "A": "minimize conduction and convection and prevent radiation",
+      "B": "prevent conduction and convection and minimize radiation",
+      "C": "prevent conduction and minimize convection and radiation",
+      "D": "minimize convection and prevent conduction and radiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72005?exam_type=waec&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "Vacuum: It prevents conduction and convection because there are no air molecules to transfer heat.Silvered Walls: They minimize radiation by reflecting thermal radiation back.",
+    "year": "2024"
+  },
+  {
+    "number": "1806",
+    "text": "The magnitude of the acceleration of a moving object is equal to the",
+    "options": {
+      "A": "gradient of a displacement-time graph",
+      "B": "gradient of a velocity-time graph",
+      "C": "area below a force-time graph",
+      "D": "area below a velocity-time graph"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72008?exam_type=waec&type=obj&page=362",
+    "correct_answer": "B",
+    "explanation": "The magnitude of the acceleration of a moving object is equal to therate of change of its velocityover time.\u00a0Gradient of a velocity-time graph refers to the slope of the graph that plots velocity (y-axis) against time (x-axis).",
+    "year": "2024"
+  },
+  {
+    "number": "1807",
+    "text": "In which of the following states is MAXIMUM pressure exerted on a person",
+    "options": {
+      "A": "Standing on two feet",
+      "B": "Standing on one foot",
+      "C": "Lying on the floor",
+      "D": "Kneeling on the floor"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72010?exam_type=waec&type=obj&page=362",
+    "correct_answer": "B",
+    "explanation": "Pressure is defined as force per unit area (P = \\(\\frac{F}{A}\\)). When a person stands on one foot, all their weight is concentrated on a smaller area (the sole of one foot), resulting in higher pressure.",
+    "year": "2024"
+  },
+  {
+    "number": "1808",
+    "text": "What are cathode rays?",
+    "options": {
+      "A": "Stream of electrons",
+      "B": "Beam of neutrons",
+      "C": "Beam of protons",
+      "D": "Stream of alpha particles"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72012?exam_type=waec&type=obj&page=362",
+    "correct_answer": "A",
+    "explanation": "Cathode rays are streams of electrons emitted from the cathode (negative electrode) in a vacuum tube.\u00a0Cathode rays can be deflected by magnetic and electric fields, demonstrating their charge and nature as electrons.",
+    "year": "2024"
+  },
+  {
+    "number": "1809",
+    "text": "The capacitance of a parallel plate capacitor",
+    "options": {
+      "A": "decreases when the temperature between the plates decreases",
+      "B": "increases when the potential difference between the plates is increased",
+      "C": "is greater without a dielectric between the plates than with dielectric",
+      "D": "is greater with dielectric between the plates than without dielectric."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72015?exam_type=waec&type=obj&page=362",
+    "correct_answer": "D",
+    "explanation": "When a dielectric is placed between the plates, it increases the capacitance by reducing the electric field and allowing more charge to be stored.",
+    "year": "2024"
+  },
+  {
+    "number": "1810",
+    "text": "The diagram above illustrates the motion of a cyclist from P to R. The distance travelled is determined by the",
+    "options": {
+      "A": "area under QR",
+      "B": "area under PQR",
+      "C": "gradient of PQR",
+      "D": "gradient of QR"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72022?exam_type=waec&type=obj&page=362",
+    "correct_answer": "B",
+    "explanation": "The total area under the entire segment from P to R (the area of the triangle plus the area of the rectangle) represents the total distance traveled by the cyclist during the motion from P to R.",
+    "year": "2024"
+  },
+  {
+    "number": "1811",
+    "text": "A ray of light travels from a less dense medium to a denser medium. How are the speed and frequency of the light affected? The speed",
+    "options": {
+      "A": "Increases and the frequency increases",
+      "B": "decreases and the frequency decreases",
+      "C": "increases and the frequency remains the same",
+      "D": "decreases and the frequency remains the same"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72026?exam_type=waec&type=obj&page=363",
+    "correct_answer": "D",
+    "explanation": "When light travels from a less dense medium (like air) to a denser medium (like glass or water), its speed decreases due to the higher optical density of the new medium.The frequency of light remains constant when it passes from one medium to another. Although the speed changes, the frequency is determined by the source of the light and does not change with the medium.",
+    "year": "2024"
+  },
+  {
+    "number": "1812",
+    "text": "The function of a fuse in an electric circuit is to",
+    "options": {
+      "A": "break the circuit when the current exceeds a certain value",
+      "B": "save energy by reducing voltage",
+      "C": "ensure that the current in the circuit exceeds a certain value",
+      "D": "save energy by reducing the current"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72027?exam_type=waec&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "When the current flowing through the fuse exceeds its rated value, the fuse element melts, breaking the circuit and preventing further flow of electricity. This helps prevent overheating and potential fires.",
+    "year": "2024"
+  },
+  {
+    "number": "1813",
+    "text": "A body moves with uniform velocity when the resultant force on it is",
+    "options": {
+      "A": "greater than the frictional force acting on it",
+      "B": "less than the frictional force acting on it",
+      "C": "equal to zero",
+      "D": "equal to unity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72028?exam_type=waec&type=obj&page=363",
+    "correct_answer": "C",
+    "explanation": "A body moves with uniform velocity when there is no acceleration. According to Newton's first law of motion, an object will remain in its state of rest or uniform motion unless acted upon by a net external force.Therefore, if the resultant force acting on the body is equal to zero, it will maintain a constant velocity, which means it can be moving at a constant speed in a straight line.",
+    "year": "2024"
+  },
+  {
+    "number": "1814",
+    "text": "The law of conservation of momentum is stated\u00a0for closed and isolated system. What are the two conditions for a system to be closed and isolated?",
+    "options": {
+      "A": "No external force acts on the system and there is no change in mass of the system.",
+      "B": "No external force acts on the system and there is a gain in mass.",
+      "C": "No external force acts on the system and there is a loss in mass.",
+      "D": "An external force acts on the system and there is no change in mass."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72030?exam_type=waec&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "For the law of conservation of momentum to hold, the system must be closed (no mass enters or leaves) and isolated (no external forces acting on it).",
+    "year": "2024"
+  },
+  {
+    "number": "1815",
+    "text": "A stone of mass 200 g attached to a string is made to revolve in a horizontal circle of radius 1.5 m at a steady speed of 5 m/s. Calculate the tension in the string at the bottom of the circle.",
+    "options": {
+      "A": "5.3 N",
+      "B": "3.3 N",
+      "C": "2.0 N",
+      "D": "1.3 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72033?exam_type=waec&type=obj&page=363",
+    "correct_answer": "A",
+    "explanation": "F\\(_c\\) = \\(\\frac{mv^2}{r}\\)\nmass = 200g = 0.2kg, v = 5 m/s, r = 1.5 m\nF\\(_c\\) = \\(\\frac{0.2\u00a0\\times 5 \\times 5}{1.5}\\) \u2248 3.33N\nAt the bottom of the circle, the tension T\u00a0in the string must counteract the weight of the stone as well as provide the centripetal force:\nT = F\\(_c\\)\u00a0+ mg\nT = 3.33 + 0.2 x 10 = 5.3N",
+    "year": "2024"
+  },
+  {
+    "number": "1816",
+    "text": "To convert a milli-ammeter to an ammeter, a resistor of low value is necessary to connect a resistor of",
+    "options": {
+      "A": "low value in series with it",
+      "B": "high value in series with it",
+      "C": "low value in parallel with it",
+      "D": "high value in parallel with it"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72038?exam_type=waec&type=obj&page=364",
+    "correct_answer": "C",
+    "explanation": "To change a milliammeter\u00a0to an\u00a0ammeter, a low resistance known as shunt must be connected to it in parallel.",
+    "year": "2024"
+  },
+  {
+    "number": "1817",
+    "text": "An object is placed 1.5 m from a plane mirror. How far is the image from the object?",
+    "options": {
+      "A": "3.0 m",
+      "B": "1.3 m",
+      "C": "1.0 m",
+      "D": "0.3 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72039?exam_type=waec&type=obj&page=364",
+    "correct_answer": "A",
+    "explanation": "When an object is placed in front of a plane mirror, the image formed is at the same distance from the mirror as the object but on the opposite side.\nThus, the total distance between the object and the image is 1.5 m + 1.5 m = 3.0m",
+    "year": "2024"
+  },
+  {
+    "number": "1818",
+    "text": "Chromatic aberration in lenses can be corrected by using a combination of",
+    "options": {
+      "A": "diverging and converging lenses.",
+      "B": "an opaque material to cover the rims of lenses.",
+      "C": "wide parallel beams on the lenses' surface.",
+      "D": "a thin convex lens."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72040?exam_type=waec&type=obj&page=364",
+    "correct_answer": "A",
+    "explanation": "Chromatic aberration occurs because different wavelengths of light are refracted by different amounts when passing through a lens.\nChromatic aberration can be corrected by using a combination of diverging (concave) and converging (convex) lenses, which help focus different colors of light to the same point.",
+    "year": "2024"
+  },
+  {
+    "number": "1819",
+    "text": "A cube of water with side 10.0 cm floats vertically in water with 4.5 cm its length submerged. Calculate the density of the wood.\n[Density of water = 1 g/cm\\(^3\\); D = 0.090 g/cm\\(^3\\)]",
+    "options": {
+      "A": "0.090 g/cm\\(^3\\)",
+      "B": "0.450 g/cm\\(^3\\)",
+      "C": "0.230 g/cm\\(^3\\)",
+      "D": "0.0450 g/cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72041?exam_type=waec&type=obj&page=364",
+    "correct_answer": "B",
+    "explanation": "Volume of cube = s\\(^3\\) = 10\\(^3\\) = 1000cm\\(^3\\)\nVolume of cube submerged = 10 cm x 10 cm x 4.5 cm = 450 cm\\(^3\\)\nVolume of water displaced = volume of cube submerged =\u00a0450 cm\\(^3\\)\nMass of water displaced = 1 cm\\(^3\\) x\u00a0450 cm\\(^3\\) = 450g (density of water is 1\u00a0cm\\(^3\\))\nMass of cube = V\\(_{cube}\\) x \\(\\rho_{cube}\\)\nBut, mass of cube = mass of water displaced\n1000 cm\\(^3\\) x\u00a0\\(\\rho_{cube}\\) = 450g\n\\(\\rho_{cube}\\) = \\(\\frac{450}{1000}\\) = 0.45 g/cm\\(^3\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1820",
+    "text": "A temperature of 60\u00ba C is equivalent to",
+    "options": {
+      "A": "25\u00baF",
+      "B": "140\u00baF",
+      "C": "50\u00baF",
+      "D": "108\u00baF"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72045?exam_type=waec&type=obj&page=364",
+    "correct_answer": "B",
+    "explanation": "\u00baF = (\u00baC x 1.8) + 32\nBut\u00a0\u00baC = 60\u00ba\n\u00ba F = (60 x 1.8) + 32 = 108 + 32 = 140\u00baF",
+    "year": "2024"
+  },
+  {
+    "number": "1821",
+    "text": "All of the following uses are practical applications of x-ray except",
+    "options": {
+      "A": "the treatment of tumors",
+      "B": "determining the depth of a mine",
+      "C": "dental operation",
+      "D": "detecting fractures in bones"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72046?exam_type=waec&type=obj&page=365",
+    "correct_answer": "B",
+    "explanation": "X-rays are typically used for medical imaging and other applications related to examining structures, but they are not used to determine the depth of a mine",
+    "year": "2024"
+  },
+  {
+    "number": "1822",
+    "text": "Two isolated charged spheres each of magnitude + 1.0 x 10\\(^{-6}\\) C are seperated by a distance of 2.0 x 10\\(^{-1}\\) m. Calculate the magnitude of the electrostatic force between them [K = \\(\\frac{1}{4\\pi \\epsilon_o}\\) = 9 x\u00a010\\(^9\\)Nm\\(^2\\)C\\(^{-2}\\)]",
+    "options": {
+      "A": "2.25 x 10\\(^{-1}\\)N",
+      "B": "4.50 x 10\\(^{-1}\\)N",
+      "C": "2.25 x 10\\(^1\\)N",
+      "D": "4.50 x 10\\(^1\\)N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72047?exam_type=waec&type=obj&page=365",
+    "correct_answer": "A",
+    "explanation": "F = \\(\\frac{Kq_1q_2}{r^2}\\)\nF =\u00a0\\(\\frac{9 \\times\u00a010^9 \\times (1.0 \\times 10^{-6})^2}{(0.2)^2}\\)\n= 2.25 x 10\\(^{-1}\\)N",
+    "year": "2024"
+  },
+  {
+    "number": "1823",
+    "text": "In the circuit diagram above, which lamp causes the other to go off?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72049?exam_type=waec&type=obj&page=365",
+    "correct_answer": "D",
+    "explanation": "If lamp S goes off, all other lamps will go off. This is because lamp S is required to complete the whole circuit.",
+    "year": "2024"
+  },
+  {
+    "number": "1824",
+    "text": "A particle of mass 3.6 x 10\\(^{-6}\\)kg revolving around the earth has a radial acceleration of 4.3 x 10\\(^7\\)ms\\(^{-2}\\). Calculate the centripetal force of the particle.",
+    "options": {
+      "A": "1.55 x 10\\(^2\\)N",
+      "B": "2.00 x 10\\(^{-2}\\)N",
+      "C": "6.25 x 10\\(^{-14}\\)N",
+      "D": "1.00 x 10\\(^2\\)N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72051?exam_type=waec&type=obj&page=365",
+    "correct_answer": "A",
+    "explanation": "F = mass x acceleration due to gravity\nF\\(_c\\) = m x\u00a0a\\(_c\\)\na\\(_c\\) = a\\(_r\\) =\u00a04.3 x 10\\(^7\\)ms\\(^{-2}\\), m =\u00a03.6 x 10\\(^{-6}\\)kg\nF\\(_c\\) = m x\u00a0a\\(_c\\) =\u00a03.6 x 10\\(^{-6}\\) x 4.3 x 10\\(^7\\) = 154.8N\u00a0\u2248 155N\u00a0\u21d2 1.55 x 10\\(^2\\)N",
+    "year": "2024"
+  },
+  {
+    "number": "1825",
+    "text": "For a convex lens to form a real image, the distance between the object and the screen will be:",
+    "options": {
+      "A": "equal to the focal length of the lens",
+      "B": "less than the focal length of the lens",
+      "C": "twice the focal length of the lens",
+      "D": "four times the focal length of the lens"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72052?exam_type=waec&type=obj&page=365",
+    "correct_answer": "C",
+    "explanation": "Twice the focal length of the lens: this is because, for a real image to be formed, the object must be placed outside the focal length of the lens, typically at a distance greater than twice the focal length.",
+    "year": "2024"
+  },
+  {
+    "number": "1826",
+    "text": "A constant voltage source supplies a sinusoidal alternating e.m.f. The voltage marked against the components are their peak values. Determine the peak value of the applied e.m.f",
+    "options": {
+      "A": "1V",
+      "B": "4V",
+      "C": "5V",
+      "D": "2V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72054?exam_type=waec&type=obj&page=366",
+    "correct_answer": "C",
+    "explanation": "Effective voltage in an RLC circuit is given by V = \\(\\sqrt{V_R^2 + (V_L - V_C)^2}\\)\nV =\u00a0 \\(\\sqrt{3^2 + (6\u00a0- 2)^2}\\) =\u00a0 \\(\\sqrt{3^2 + 4^2}\\) =\u00a0 \\(\\sqrt{9 + 16}\\)\n= 5V",
+    "year": "2024"
+  },
+  {
+    "number": "1827",
+    "text": "A 2 \u03bcF capacitor is connected directly across a 150 V\\(_{rms}\\), 60 Hz A.C source. Calculate the r m s value of the current.",
+    "options": {
+      "A": "0.113 A",
+      "B": "0.160 A",
+      "C": "150 A",
+      "D": "1324 A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72056?exam_type=waec&type=obj&page=366",
+    "correct_answer": "A",
+    "explanation": "X\\(_c\\) = \\(\\frac{1}{2\\pi FC}\\)\nX\\(_c\\) = \\(\\frac{1}{2 \\times 3.142 \\times 60 \\times 2 \\times 10^{-6}}\\)\nX\\(_c\\) = 1326.1192\\(\\Omega\\)\nI = \\(\\frac{\\text{V}}{X_c}\\)\nI = \\(\\frac{150}{1326.1192}\\) = 0.113A",
+    "year": "2024"
+  },
+  {
+    "number": "1828",
+    "text": "A body of mass, m is projected vertically upward with a velocity, y. At what position will the potential energy be maximum?",
+    "options": {
+      "A": "\\(\\frac{y}{g}\\)",
+      "B": "\\(\\frac{2y^2}{g}\\)",
+      "C": "\\(\\frac{y^2}{2g}\\)",
+      "D": "\\(\\frac{y^2}{4g}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72057?exam_type=waec&type=obj&page=366",
+    "correct_answer": "C",
+    "explanation": "At the maximum height, all the kinetic energy will have been converted into potential energy:\nmgh = \\(\\frac{1}{2}\\)mv\\(^2\\)\nv = y\ngh = \\(\\frac{1}{2}\\)y\\(^2\\)\nh = \\(\\frac{y^2}{2g}\\)\nThus, the potential energy will be maximum at the height given by:\u00a0\\(\\frac{y^2}{2g}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1829",
+    "text": "Light of energy 1.12\u00a0x 10\\(^{-18}\\) J is incident on a metal of ejected electrons with maximum energy of 8.0\u00a0x 10\\(^{-19}\\)J. Calculate the threshold frequency of the metal. [h = 6.626 x 10\\(^{-34}\\)Js]",
+    "options": {
+      "A": "4.8 x 10\\(^{14}\\)Hz",
+      "B": "1.2 x 10\\(^{15}\\)Hz",
+      "C": "1.7 x 10\\(^{15}\\)Hz",
+      "D": "2.8 x 10\\(^{15}\\)Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72058?exam_type=waec&type=obj&page=366",
+    "correct_answer": "A",
+    "explanation": "E = hf\u00a0+ W\\(_o\\)\nE =\u00a01.12\u00a0x 10\\(^{-18}\\)J\nMax. Energy =\u00a08.0\u00a0x 10\\(^{-19}\\)J.\nW\\(_o\\) = E - Max. Energy \u00a0=\u00a01.12\u00a0x 10\\(^{-18}\\)J -\u00a08.0\u00a0x 10\\(^{-19}\\)J. = 3.2\u00a0x 10\\(^{-19}\\)J.\nBut\u00a0W\\(_o\\) = hf\\(_o\\)\nf\\(_o\\) = \\(\\frac{W_o}{h}\\) = \\(\\frac{3.2 \\times 10^{-19}}{6.626 \\times 10^{-34}}\\) =\u00a04.83 x 10\\(^{14}\\)Hz",
+    "year": "2024"
+  },
+  {
+    "number": "1830",
+    "text": "An object 2.0 cm high is placed at the radius of curvature of a concave mirror such that it is perpendicular to the principal axis of the mirror. Determine the height of the image.",
+    "options": {
+      "A": "0.5 cm",
+      "B": "1.0 cm",
+      "C": "1.5 cm",
+      "D": "2.0 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72059?exam_type=waec&type=obj&page=366",
+    "correct_answer": "D",
+    "explanation": "When an object is placed at the centre of curvature of a concave mirror, an image that is the same as the object will be formed. Therefore, the height of the image is 2.0 cm.",
+    "year": "2024"
+  },
+  {
+    "number": "1831",
+    "text": "The diagram above illustrates two boxes P and Q of\u00a0masses 27.3 kg and 6.2 kg respectively on a smooth horizontal surface. If a force F of 150 N is applied to the combined forces, calculate the acceleration.",
+    "options": {
+      "A": "4.5 ms\\(^{-2}\\)",
+      "B": "33.5 ms\\(^{-2}\\)",
+      "C": "70 ms\\(^{-2}\\)",
+      "D": "150 ms\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72060?exam_type=waec&type=obj&page=367",
+    "correct_answer": "A",
+    "explanation": "Total mass of the two boxes = 27.3 + 6.2 = 33.5kg\nF = ma\na = \\(\\frac{\\text{F}}{\\text{m}}\\) = \\(\\frac{150}{33.5}\\) = 4.4776...\u00a0\u2248\u00a04.5 ms\\(^{-2}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1832",
+    "text": "A boy of mass 40 kg jumps off a stationary skateboard and moves horizontally with a speed of 1.5 m/s while the skateboard moves in the opposite direction with a speed of 20\u00a0m/s. Calculate the mass of the skateboard.",
+    "options": {
+      "A": "60 kg",
+      "B": "40 kg",
+      "C": "3 kg",
+      "D": "2 kg"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72061?exam_type=waec&type=obj&page=367",
+    "correct_answer": "C",
+    "explanation": "Given: mass of boy = 40 kg = m\\(_b\\), mass of skateboard = ? = m\\(_k\\), speed of skateboard v\\(_x\\) = - 20 m/s, speed of boy v\\(_y\\) = 1.5 m/s\nBoth the skateboard and the boy were initially at rest.\nThe total momentum before and after the jump must be equal.\n0 =\u00a0m\\(_b\\) x\u00a0v\\(_y\\) +\u00a0m\\(_k\\) x\u00a0 v\\(_x\\)\n0 = 40 x 1.5\u00a0 +\u00a0\u00a0m\\(_k\\) x (-20)\n0 = 60 - 20m\\(_k\\)\n20m\\(_k\\) = 60\nm\\(_k\\) = \\(\\frac{60}{20}\\) = 3 kg.",
+    "year": "2024"
+  },
+  {
+    "number": "1833",
+    "text": "The depolarizing agent in a Leclanch\u00e9 cell is",
+    "options": {
+      "A": "powdered carbon.",
+      "B": "manganese (IV) oxide.",
+      "C": "carbon rod.",
+      "D": "ammonium."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72062?exam_type=waec&type=obj&page=367",
+    "correct_answer": "B",
+    "explanation": "The depolarizing agent in a Leclanch\u00e9 cell is manganese dioxide (MnO\\(_2\\)). This compound helps to reduce the polarization effect and improves the efficiency of the cell during operation.",
+    "year": "2024"
+  },
+  {
+    "number": "1834",
+    "text": "Which of the following terms has different dimension from the others?",
+    "options": {
+      "A": "Stress x Strain",
+      "B": "Pressure",
+      "C": "\\(\\frac{\\text{stress}}{\\text{strain}}\\)",
+      "D": "Torque"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72063?exam_type=waec&type=obj&page=367",
+    "correct_answer": "D",
+    "explanation": "The term with a different dimension from the others is D. Torque, as its dimensions\u00a0ML\\(^2\\)T\\(^{\u22122}\\) which differ from the dimensions of stress and pressure, which are\u00a0ML\\(^{\u22121}\\)T\\(^{\u22122}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1835",
+    "text": "A capacitor described as a mica capacitor has",
+    "options": {
+      "A": "both plates are made of mica.",
+      "B": "a mica dielectric.",
+      "C": "a dielectric made of mica",
+      "D": "the same capacitance as that of mica"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72064?exam_type=waec&type=obj&page=367",
+    "correct_answer": "C",
+    "explanation": "A mica capacitor has mica as its dielectric material. Known for excellent stability, low loss, and high insulation resistance, they are used in precision applications, particularly in RF circuits and high-frequency settings.",
+    "year": "2024"
+  },
+  {
+    "number": "1836",
+    "text": "In which of the following devices is the thermal expansion considered a disadvantage?",
+    "options": {
+      "A": "Fire alarm",
+      "B": "Thermostat",
+      "C": "Bimetallic thermometer",
+      "D": "Balance wheel of a watch"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72065?exam_type=waec&type=obj&page=368",
+    "correct_answer": "D",
+    "explanation": "Thermal expansion can affect accuracy and timekeeping in a watch's balance wheel, making it disadvantageous in this application.",
+    "year": "2024"
+  },
+  {
+    "number": "1837",
+    "text": "The inside portion\u00a0of a hollow metal sphere of diameter 20 cm is polished. The portion will therefore form a",
+    "options": {
+      "A": "Concave mirror of focal length 5cm.",
+      "B": "Concave mirror of focal length 10 cm.",
+      "C": "Convex mirror of focal length 10 cm",
+      "D": "Convex mirror of focal length 5cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72066?exam_type=waec&type=obj&page=368",
+    "correct_answer": "D",
+    "explanation": "Diameter = 20cm\nThe radius of curvature, R = 10cm\nBut, focal length, f = \\(\\frac{R}{2} = \\frac{10}{2}\\) = 5 cm.\nWhen the inside portion of a hollow metal is polished, the outside is the reflecting surface. This forms a convex mirror.",
+    "year": "2024"
+  },
+  {
+    "number": "1838",
+    "text": "Which of the following statements about a projectile is not correct?",
+    "options": {
+      "A": "Projectile motion is a two-dimensional motion.",
+      "B": "A projectile is an object launched into the air and allowed to move freely due to gravity.",
+      "C": "The range of a projectile is independent of the acceleration due to gravity.",
+      "D": "The time of flight dependent of the acceleration due to gravity"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72067?exam_type=waec&type=obj&page=368",
+    "correct_answer": "C",
+    "explanation": "R = \\(\\frac{u^2 sin 2\\theta}{g}\\)\nFrom the above formula, it is evident that range depends on acceleration due to gravity.\nFor real, the range of a projectile is affected by the acceleration due to gravity; it influences how far the projectile travels horizontally.",
+    "year": "2024"
+  },
+  {
+    "number": "1839",
+    "text": "Atmospheric pressure decreases with an increase in altitude because:",
+    "options": {
+      "A": "Acceleration due to gravity increases with altitude.",
+      "B": "Temperature increases with altitude.",
+      "C": "Internal energy increases with altitude.",
+      "D": "Interaction among air molecules decreases due to less quantity of air."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72068?exam_type=waec&type=obj&page=368",
+    "correct_answer": "D",
+    "explanation": "As altitude rises, there is less air above a particular point, leading to a decrease in atmospheric pressure. Furthermore, the density of air diminishes with increased altitude, which also contributes to this phenomenon.",
+    "year": "2024"
+  },
+  {
+    "number": "1840",
+    "text": "The main difference between X-rays and gamma rays is in their",
+    "options": {
+      "A": "ionizing ability.",
+      "B": "absorbing rate.",
+      "C": "mode of propagation.",
+      "D": "mode of production."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72069?exam_type=waec&type=obj&page=368",
+    "correct_answer": "D",
+    "explanation": "X-rays are usually produced\u00a0by electronic transitions within atoms, whereas gamma rays are released from an atom's nucleus during radioactive decay.",
+    "year": "2024"
+  },
+  {
+    "number": "1841",
+    "text": "The phenomenon used for explaining the formation of a rainbow in the sky is",
+    "options": {
+      "A": "interference.",
+      "B": "refraction.",
+      "C": "reflection.",
+      "D": "dispersion."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72070?exam_type=waec&type=obj&page=369",
+    "correct_answer": "D",
+    "explanation": "The formation of a rainbow is primarily due to dispersion, as it involves the separation of light into its constituent colors when it passes through water droplets in the atmosphere, it is refracted and dispersed due to varying wavelengths.",
+    "year": "2024"
+  },
+  {
+    "number": "1842",
+    "text": "Which of the following modes is the most economical method of transmitting electrical power over a long distance?",
+    "options": {
+      "A": "Alternating current at high voltage and low current.",
+      "B": "Alternating current at low voltage and high current.",
+      "C": "Direct current at high voltage and low current.",
+      "D": "Direct current at low voltage and high current."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72071?exam_type=waec&type=obj&page=369",
+    "correct_answer": "A",
+    "explanation": "When electricity is transmitted over long distances, power losses occur mainly due to the resistance of the transmission lines. These losses are proportional to the square of the current (I\\(^2\\)R losses). By using high voltage, the current can be kept low, significantly reducing these losses",
+    "year": "2024"
+  },
+  {
+    "number": "1843",
+    "text": "The correct sequence of ionization power of alpha particle, gamma ray, and beta particle respectively is",
+    "options": {
+      "A": "low, medium, high.",
+      "B": "high, medium, low.",
+      "C": "medium, low, high.",
+      "D": "high, low, medium."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72072?exam_type=waec&type=obj&page=369",
+    "correct_answer": "D",
+    "explanation": "The correct sequence of ionization power from highest to lowest is: Alpha particle >\u00a0Beta particle >\u00a0Gamma ray.",
+    "year": "2024"
+  },
+  {
+    "number": "1844",
+    "text": "Four pieces of constantan wire, marked E, F, G, and H, each of length 1.0m, are\u00a0at the temperature. Their respective diameters are 1 mm, 2 mm, 6 mm, and 10 mm. Which wire has the highest resistance?",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "G",
+      "D": "H"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72073?exam_type=waec&type=obj&page=369",
+    "correct_answer": "A",
+    "explanation": "Using the equation, R = \\(\\frac{\\rho l}{A}\\)\nwe conclude that the wire with the smallest diameter will have the highest resistance i.e. wire E",
+    "year": "2024"
+  },
+  {
+    "number": "1845",
+    "text": "The maximum displacement of particles from equilibrium position in a wave motion is known as",
+    "options": {
+      "A": "wave length.",
+      "B": "amplitude.",
+      "C": "frequency.",
+      "D": "polarization."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72074?exam_type=waec&type=obj&page=369",
+    "correct_answer": "B",
+    "explanation": "The maximum displacement of particles from equilibrium position in a wave motion is known as \"amplitude\".",
+    "year": "2024"
+  },
+  {
+    "number": "1846",
+    "text": "A non-conducting vessel contains a liquid of mass 70 g at 25\u00ba C. Another 70.0g of the same liquid at 35\u00baC is quickly poured into the vessel. Determine the final temperature of the mixture",
+    "options": {
+      "A": "15\u00baC",
+      "B": "20\u00baC",
+      "C": "30\u00baC",
+      "D": "40\u00baC"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72075?exam_type=waec&type=obj&page=370",
+    "correct_answer": "C",
+    "explanation": "Heat gained by 25\u00ba C body = Heat lost by 35\u00ba C body\nM\\(_c\\) c \\(\\delta\\)\\(\\theta\\) = M\\(_h\\) c\\(\\delta\\)\\(\\theta\\)\n70 x c x (f - 25) = 70 x c x (35 - f)\nwhere f = final temperature\nf - 25 = 35 - f (f and 70 cancel out)\n2f = 35 + 25 = 60\nf = \\(\\frac{60}{2}\\) = 30\u00baC",
+    "year": "2024"
+  },
+  {
+    "number": "1847",
+    "text": "A galvanometer of full-scale deflection 10 mA has a resistance of 5\\(\\Omega\\). Calculate the shunt needed to convert it\u00a0to measure currents of 2 A.",
+    "options": {
+      "A": "0.025\\(\\Omega\\)",
+      "B": "0.050\\(\\Omega\\)",
+      "C": "0.250\\(\\Omega\\)",
+      "D": "0.500\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72076?exam_type=waec&type=obj&page=370",
+    "correct_answer": "A",
+    "explanation": "Voltage across shunt = Voltage across galvanometer\nI\\(_s\\)R\\(_s\\) =\u00a0I\\(_g\\)R\\(_g\\)\nR\\(_g\\) = 5\\(\\Omega\\),\u00a0\u00a0I\\(_g\\) = 10mA = 0.01A,\u00a0I\\(_s\\) = 2 - 0.01 = 1.99A\nR\\(_s\\) = \\(\\frac{I_g \\times R_g}{I_s}\\)\u00a0= \\(\\frac{0 .01 \\times 5}{1.99}\\) = 0.025\\(\\Omega\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1848",
+    "text": "In storing magnets, the keeper is used to",
+    "options": {
+      "A": "cancel the effect of the earth's magnetism",
+      "B": "reduce self demagnetization",
+      "C": "protect the magnet from stray electric field",
+      "D": "increase the strength of the magnet."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72077?exam_type=waec&type=obj&page=370",
+    "correct_answer": "B",
+    "explanation": "Keepers reduce self-demagnetization of magnets by providing a low reluctance path for magnetic flux, thereby containing the flux within the keeper.",
+    "year": "2024"
+  },
+  {
+    "number": "1849",
+    "text": "Which of the following factors does not affect the speed of sound?",
+    "options": {
+      "A": "Loudness.",
+      "B": "Wind direction",
+      "C": "Temperature",
+      "D": "Material density"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72078?exam_type=waec&type=obj&page=370",
+    "correct_answer": "A",
+    "explanation": "Loudness does not affect the speed of sound.",
+    "year": "2024"
+  },
+  {
+    "number": "1850",
+    "text": "A convex mirror is used as a driving mirror; however, a disadvantage in this regard is that the image",
+    "options": {
+      "A": "it produces is virtual",
+      "B": "it produces is real",
+      "C": "is not as bright as we would like",
+      "D": "appears farther away from the driver"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72079?exam_type=waec&type=obj&page=370",
+    "correct_answer": "D",
+    "explanation": "The main disadvantage of a convex mirror as a driving mirror is that it distorts the perception of distance, making them appear farther away than they are.",
+    "year": "2024"
+  },
+  {
+    "number": "1851",
+    "text": "The amount of heat energy that will be extracted when 0.02kg of water vapor condenses to water at 97\u00baC is [specific heat capacity of water = 4200Jkg\\(^{-1}\\)k\\(^{-1}\\), Specific heat of vaporization of water = 2.26 x 10\\(^6\\)Jkg\\(^{-1}\\)]",
+    "options": {
+      "A": "45,452J",
+      "B": "45,200J",
+      "C": "25,200J",
+      "D": "252J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72080?exam_type=waec&type=obj&page=371",
+    "correct_answer": "A",
+    "explanation": "specific heat capacity of water = 4200Jkg\\(^{-1}\\)k\\(^{-1}\\), Specific heat of vaporization of water = 2.26 x 10\\(^6\\)Jkg\\(^{-1}\\), mass of water = 0.02kg, water vapour temp. = 100\u00baC, water at 97\u00baC\nThe amount of heat required = ML + Mc\u0394\\(\\theta\\)\n= 0.02 x\u00a02.26 x 10\\(^6\\) + 0.02 x 4200 x (100 - 97)\n= 45,200 + 252 = 45,452J.",
+    "year": "2024"
+  },
+  {
+    "number": "1852",
+    "text": "Water is readily available but it is not a thermometric liquid mainly\u00a0because",
+    "options": {
+      "A": "clings to glass",
+      "B": "does not expand uniformily",
+      "C": "boils at low temperature",
+      "D": "is colourless"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72081?exam_type=waec&type=obj&page=371",
+    "correct_answer": "B",
+    "explanation": "All the options are reasons why water is not a good thermometric substance, but the most critical one is its lack of uniform expansion. Water's non-linear expansion makes it difficult to correlate temperature changes with volume changes perfectly.",
+    "year": "2024"
+  },
+  {
+    "number": "1853",
+    "text": "The constant temperature at which a liquid change into gaseous state is known as",
+    "options": {
+      "A": "evaporation point",
+      "B": "boiling point",
+      "C": "melting point",
+      "D": "dew point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72082?exam_type=waec&type=obj&page=371",
+    "correct_answer": "B",
+    "explanation": "The constant temperature at which a liquid changes into gaseous state is known as its boiling point.",
+    "year": "2024"
+  },
+  {
+    "number": "1854",
+    "text": "The diagram above illustrates the graph for",
+    "options": {
+      "A": "the variation of the volume of a gas with increasing temperature",
+      "B": "expansion curve of mercury",
+      "C": "expansion curve of liquid oxygen",
+      "D": "anomalous expansion of water"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/72083?exam_type=waec&type=obj&page=371",
+    "correct_answer": "D",
+    "explanation": "The given graph illustrates the anomalous expansion of water, where water has its highest density and consequently its lowest\u00a0volume at 4\u00baC",
+    "year": "2024"
+  }
+]

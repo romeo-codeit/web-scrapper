@@ -1,0 +1,562 @@
+[
+  {
+    "number": "1",
+    "text": "If \\(log_{y}\\frac{1}{8}\\) = 3, find the value of y.",
+    "options": {
+      "A": "-2",
+      "B": "-\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50117?exam_type=waec&type=obj",
+    "correct_answer": "C",
+    "explanation": "\\(log_{y}\\frac{1}{8} = 3 \\implies y^{3} = \\frac{1}{8}\\) (Laws of logarithm)\n\\(y^{3} = \\frac{1}{2^{3}} = (\\frac{1}{2})^{3}\\)\nEquating both sides, we have\n\\(y = \\frac{1}{2}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "2",
+    "text": "A binary operation \\(\\Delta\\) is defined on the set of real numbers, R, by \\(a \\Delta b = \\frac{a+b}{\\sqrt{ab}}\\), where a\\(\\neq\\) 0, b\\(\\neq\\) 0. Evaluate \\(-3 \\Delta -1\\).",
+    "options": {
+      "A": "\\(-4\\sqrt{3}\\)",
+      "B": "\\(\\frac{-4\\sqrt{3}}{3}\\)",
+      "C": "\\(\\frac{-3\\sqrt{3}}{4}\\)",
+      "D": "\\(\\frac{-3\\sqrt{3}}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50120?exam_type=waec&type=obj",
+    "correct_answer": "B",
+    "explanation": "\\(a \\Delta b\\) = \\(\\frac{a+b}{\\sqrt{ab}}\\)\n\\(-3\\Delta -1\\) = \\(\\frac{-3 + -1}{\\sqrt{-3\\times -1}}\\)\n\\(\\frac{-4}{\\sqrt{3}}\\), rationalising, we have\n\\(\\frac{-4 \\times \\sqrt{3}}{\\sqrt{3}\\times \\sqrt{3}} = \\frac{-4\\sqrt{3}}{3}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "3",
+    "text": "Simplify \\(\\frac{1}{(1-\\sqrt{3})^{2}}\\)",
+    "options": {
+      "A": "\\(1- \\frac{1}{2}\\sqrt{3}\\)",
+      "B": "\\(1+ \\frac{1}{2}\\sqrt{3}\\)",
+      "C": "\\(\\sqrt{3}\\)",
+      "D": "\\(1+\\sqrt{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50123?exam_type=waec&type=obj",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{(1-\\sqrt{3})^{2}}\\)\n\\((1-\\sqrt{3})^{2} = (1-\\sqrt{3})(1-\\sqrt{3})\\)\n\\(1 - 2\\sqrt{3} + 3 = 4 - 2\\sqrt{3}\\)\n\\(\\frac{1}{4-2\\sqrt{3}}\\)\nAfter rationalising (multiplying the denominator and numerator with \\(4+2\\sqrt{3}\\), we have\n\\(\\frac{4+2\\sqrt{3}}{4} = 1 + \\frac{1}{2}\\sqrt{3}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "4",
+    "text": "If \\(x^{2} - kx + 9 = 0\\) has equal roots, find the values of k.",
+    "options": {
+      "A": "3, 4",
+      "B": "\\(\\pm3\\)",
+      "C": "\\(\\pm5\\)",
+      "D": "\\(\\pm6\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50128?exam_type=waec&type=obj",
+    "correct_answer": "D",
+    "explanation": "For equal roots, we have that \\(b^{2} = 4ac\\), so, given a=1, b = -k and c = 9,\n\\((-k)^{2} = 4\\times1\\times9 \\implies k^{2} = 36\\)\n\\(k = \\sqrt{36} = \\pm6\\)",
+    "year": "2017"
+  },
+  {
+    "number": "5",
+    "text": "Find the coordinates of the centre of the circle \\(3x^{2}+3y^{2} - 4x + 8y -2=0\\)",
+    "options": {
+      "A": "(-2,4)",
+      "B": "(\\(\\frac{-2}{3}, \\frac{4}{3}\\))",
+      "C": "(\\(\\frac{2}{3}, \\frac{-4}{3}\\))",
+      "D": "(2, -4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50140?exam_type=waec&type=obj",
+    "correct_answer": "C",
+    "explanation": "The equation for a circle with centre coordinates (a, b) and radius r is\n\\((x-a)^{2} + (y-b)^{2} = r^{2}\\)\nExpanding the above equation, we have\n\\(x^{2} - 2ax +a^{2} + y^{2} - 2by + b^{2} - r^{2} = 0\\) so that\n\\(x^{2} - 2ax + y^{2} - 2by = r^{2} - a^{2} - b^{2}\\)\nTaking the original equation given, \\(3x^{2} + 3y^{2} - 4x + 8y = 2\\) and making the coefficients of \\(x^{2}\\) and \\(y^{2}\\) = 1,\n\\(x^{2} + y^{2} - \\frac{4x}{3} + \\frac{8y}{3} = \\frac{2}{3}\\), comparing, we have\n\\(2a = \\frac{4}{3}; 2b = \\frac{-8}{3}\\)\n\\(\\implies a = \\frac{2}{3}; b = \\frac{-4}{3}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "6",
+    "text": "The function f: x \\(\\to \\sqrt{4 - 2x}\\) is defined on the set of real numbers R. Find the domain of f.",
+    "options": {
+      "A": "\\(x<2\\)",
+      "B": "\\(x \\leq 2\\)",
+      "C": "\\(x = 2\\)",
+      "D": "\\(x > -2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50156?exam_type=waec&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "\\(f : x \\to \\sqrt{4 -2x}\\) defined on the set of real numbers,R, which has range from \\((-\\infty, \\infty)\\) but because of the root sign, it is defined from \\([0, \\infty)\\).\nThis is because the root of numbers only has real number values from 0 and upwards.\n\\(\\sqrt{4-2x} \\geq 0 \\implies 4-2x \\geq 0\\)\n\\(-2x \\geq -4; x \\leq 2\\)",
+    "year": "2017"
+  },
+  {
+    "number": "7",
+    "text": "Given that \\(f(x) = \\frac{x+1}{2}\\), find \\(f^{1}(-2)\\).",
+    "options": {
+      "A": "-5",
+      "B": "-3",
+      "C": "\\(-\\frac{1}{2}\\)",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50158?exam_type=waec&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "Let \\(f(x) = y\\), then we have\n\\(y = \\frac{x+1}{2} \\implies 2y = x+1; x = 2y-1\\)\nLet \\(f^{1}(x) = x; x = 2y-1\\), replacing y with x,\n\\(f^{1}(x) = 2x - 1 \\implies f^{1}(-2) = 2(-2) -1= -5\\)",
+    "year": "2017"
+  },
+  {
+    "number": "8",
+    "text": "Given that \\(\\frac{6x+m}{2x^{2}+7x-15} \\equiv \\frac{4}{x+5} - \\frac{2}{2x-3}\\), find the value of m.",
+    "options": {
+      "A": "20",
+      "B": "12",
+      "C": "-10",
+      "D": "-22"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50163?exam_type=waec&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "Taking the LCM of the right hand side of the equation, we have\n\\(\\frac{4(2x-3) - 2(x+5)}{(x+5)(2x-3)} = \\frac{6x+m}{2x^{2}+7x-15}\\)\nComparing the numerators, we have\n\\(4(2x-3) - 2(x+5) = 6x+m\\)\n\\(8x-12-2x-10 = 6x -22 = 6x + m\\)\n\\(\\implies m = -22\\)",
+    "year": "2017"
+  },
+  {
+    "number": "9",
+    "text": "Find the coefficient of \\(x^{4}\\) in the expansion of \\((1-2x)^{6}\\).",
+    "options": {
+      "A": "-320",
+      "B": "-240",
+      "C": "240",
+      "D": "320"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50165?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "\\(^{6}C_{4}(1)^{6-4}(-2x)^{4}\\) = \\(15\\times1\\times16x^{4} = 240x^{4}\\)\nThe coefficient of \\(x^{4}\\)= 240",
+    "year": "2017"
+  },
+  {
+    "number": "10",
+    "text": "Find the 21st term of the Arithmetic Progression (A.P.):\u00a0 -4, -1.5, 1, 3.5,...",
+    "options": {
+      "A": "43.5",
+      "B": "46",
+      "C": "48.5",
+      "D": "51"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50167?exam_type=waec&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "\\(T_{n} = a + (n-1)d\\)\n\\( d = T_{2} - T_{1} = T_{3} - T_{2} = -1.5 - (-4) = 2.5\\)\n\\(T_{21} = -4 + (21 - 1) \\times 2.5 = -4 + (20\\times 2.5) \\)\n= \\(-4 + 50 = 46\\)",
+    "year": "2017"
+  },
+  {
+    "number": "11",
+    "text": "How many ways can 6 students be seated around a circular table?",
+    "options": {
+      "A": "36",
+      "B": "48",
+      "C": "120",
+      "D": "720"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50170?exam_type=waec&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "In a circular seating arrangement, we fix the position of one person and then rotate the others, so we have\n\\((6-1)! = 5! = 5\\times4\\times3\\times2 = 120\\)",
+    "year": "2017"
+  },
+  {
+    "number": "12",
+    "text": "If \\(\\begin{pmatrix}\u00a0 2\u00a0 &\u00a0 1 \\\\\u00a0 4 & 3 \\end{pmatrix}\\)\\(\\begin{pmatrix}\u00a0 5 \\\\ 4 \\end{pmatrix}\\)\u00a0 = k\\(\\begin{pmatrix}\u00a0 17.5 \\\\ 40.0 \\end{pmatrix}\\), find the value of k.",
+    "options": {
+      "A": "1.2",
+      "B": "3.6",
+      "C": "0.8",
+      "D": "0.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50178?exam_type=waec&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{pmatrix}\u00a0 2\u00a0 &\u00a0 1 \\\\\u00a0 4 & 3 \\end{pmatrix}\\)\\(\\begin{pmatrix}\u00a0 5 \\\\ 4 \\end{pmatrix}\\)\u00a0 = k\\(\\begin{pmatrix}\u00a0 17.5 \\\\ 40.0 \\end{pmatrix}\\)\n\\(\\begin{pmatrix}\u00a0 10 + 4\u00a0 \\\\\u00a0 20 + 12\\end{pmatrix}\\) = \\(\\begin{pmatrix}\u00a0 14 \\\\ 32\\end{pmatrix}\\) =\u00a0k\\(\\begin{pmatrix}\u00a0 17.5 \\\\ 40.0 \\end{pmatrix}\\)\nk = \\(\\frac{14}{17.5} = \\frac{32}{40} = 0.8\\)",
+    "year": "2017"
+  },
+  {
+    "number": "13",
+    "text": "Express cos150\u00b0 in surd form.",
+    "options": {
+      "A": "\\(-\\sqrt{3}\\)",
+      "B": "\\(-\\frac{\\sqrt{3}}{2}\\)",
+      "C": "\\(-\\frac{1}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{2}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50184?exam_type=waec&type=obj&page=3",
+    "correct_answer": "B",
+    "explanation": "cos150\u00b0 = -cos30\u00b0\n= \\(-\\frac{\\sqrt{3}}{2}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "14",
+    "text": "A straight line 2x+3y=6, passes through the point (-1,2). Find the equation of the line.",
+    "options": {
+      "A": "2x-3y=2",
+      "B": "2x-3y=-2",
+      "C": "2x+3y=-4",
+      "D": "2x+3y=4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50192?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "\\(2x+3y = 6 \\implies 3y = 6-2x\\)\n\\(y = \\frac{6}{3} - \\frac{2x}{3}\\)\nParallel lines have the same gradient\n\\(\\therefore\\) Gradient of the line = \\(\\frac{-2}{3}\\)\nLine passes through (-1,2)\nEquation: \\(\\frac{y-2}{x-(-1)} = \\frac{y-2}{x+1} = \\frac{-2}{3}\\)\n\\(3y-6 = -2x-2 \\implies 3y+2x = -2+6 =4\\)",
+    "year": "2017"
+  },
+  {
+    "number": "15",
+    "text": "\\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 3x + 4 = 0\\). Find \\(\\alpha + \\beta\\).",
+    "options": {
+      "A": "-2",
+      "B": "-\\(\\frac{3}{2}\\)",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50195?exam_type=waec&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "\\(\\alpha + \\beta = \\frac{-b}{a}\\)\nFrom the equation, a = 2, b = -3 and c = 4\n\\(\\alpha + \\beta = \\frac{-(-3)}{2} = \\frac{3}{2}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "16",
+    "text": "\\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 3x + 4 = 0\\). Find \\(\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}\\)",
+    "options": {
+      "A": "\\(\\frac{-9}{8}\\)",
+      "B": "\\(\\frac{-7}{8}\\)",
+      "C": "\\(\\frac{7}{8}\\)",
+      "D": "\\(\\frac{9}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50199?exam_type=waec&type=obj&page=4",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha} = \\frac{\\alpha^{2} + \\beta^{2}}{\\alpha\\beta}\\)\n\\(\\alpha + \\beta = \\frac{-b}{a}\\); \\(\\alpha\\beta = \\frac{c}{a}\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\alpha + \\beta)^{2} - 2(\\alpha\\beta)\\)\nFrom the equation, a = 2, b = -3, c =4\n\\(\\alpha + \\beta = \\frac{-(-3)}{2} = \\frac{3}{2}\\)\n\\(\\alpha\\beta = \\frac{4}{2} = 2\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\frac{3}{2})^{2} - 2(2)) = \\frac{9}{4} - 4 = \\frac{-7}{4}\\)\n\\(\\implies \\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha} = \\frac{\\frac{-7}{4}}{2} = \\frac{-7}{8}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "17",
+    "text": "If \\(B = \\begin{pmatrix}\u00a0 2 & 5\u00a0 \\\\\u00a0 1 & 3\u00a0 \\end{pmatrix}\\), find \\(B^{-1}\\).",
+    "options": {
+      "A": "\\(A = \\begin{pmatrix}  -3 & -5  \\\\  1 & 2  \\end{pmatrix}\\)",
+      "B": "\\(A = \\begin{pmatrix}  3 & -5  \\\\  1 & 2  \\end{pmatrix}\\)",
+      "C": "\\(A = \\begin{pmatrix}  3 & -5  \\\\  -1 & 2  \\end{pmatrix}\\)",
+      "D": "\\(A = \\begin{pmatrix}  -3 & 5  \\\\  1 & -2  \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50203?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "\\(B.B^{-1} = 1\\), let\u00a0\\(B^{-1} = \\begin{pmatrix}\u00a0 a & b\u00a0 \\\\\u00a0 c & d\u00a0 \\end{pmatrix}\\)\n\\(\\begin{pmatrix}\u00a0 2 & 5\u00a0 \\\\\u00a0 1 & 3\u00a0 \\end{pmatrix}\\)\\(\\begin{pmatrix}\u00a0 a & b\u00a0 \\\\\u00a0 c & d\u00a0 \\end{pmatrix}\\) =\u00a0\\(\\begin{pmatrix}\u00a0 1 & 0\u00a0 \\\\\u00a0 0 & 1\u00a0 \\end{pmatrix}\\)\nMultiplying \\(B \\times B^{-1}\\), we have the following equations:\n\\(2a+5c = 1......... (1)\\); \\(a+3c = 0 ........(2)\\)\n\\(2b+5d = 0 ..........(3)\\); \\(b+3d = 1..........(4)\\)\nSolving the equations simultaneously, we have\n\\(a = 3; b = -5; c = -1; d = 2 \\implies B^{-1} = \\begin{pmatrix}\u00a0 3 & -5\u00a0 \\\\\u00a0 -1 & 2\u00a0 \\end{pmatrix}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "18",
+    "text": "Given that \\(\\sin x = \\frac{5}{13}\\) and \\(\\sin y = \\frac{8}{17}\\), where x and y are acute, find \\(\\cos(x+y)\\).",
+    "options": {
+      "A": "\\(\\frac{130}{221}\\)",
+      "B": "\\(\\frac{140}{221}\\)",
+      "C": "\\(\\frac{140}{204}\\)",
+      "D": "\\(\\frac{220}{23}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50220?exam_type=waec&type=obj&page=4",
+    "correct_answer": "B",
+    "explanation": "\\(\\cos(x+y) = \\cos x\\cos y - \\sin x\\sin y\\)\nGiven \\(\\sin\\) of an angle implies we have the value of the opposite and hypotenuse of the right-angled triangle. We find the adjacent side using Pythagoras' theorem.\n\\(Adj^{2} = Hyp^{2} - Opp^{2}\\)\nFor triangle with angle x, \\(adj = \\sqrt{13^{2} - 5^{2}} = \\sqrt{144} = 12\\)\nFor triangle with angle y, \\(adj = \\sqrt{17^{2} - 8^{2}} = \\sqrt{225} = 15\\)\n\\(\\therefore \\cos x = \\frac{12}{13}; \\cos y = \\frac{15}{17}\\)\n\\(\\cos(x+y) = (\\frac{12}{13}\\times\\frac{15}{17}) - (\\frac{5}{13}\\times\\frac{8}{17}) = \\frac{180}{221} - \\frac{40}{221}\\)\n= \\(\\frac{140}{221}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "19",
+    "text": "A circle with centre (4,5) passes through the y-intercept of the line 5x - 2y + 6 = 0. Find its equation.",
+    "options": {
+      "A": "\\(x^{2} + y^{2} + 8x - 10y + 21 = 0\\)",
+      "B": "\\(x^{2} + y^{2} + 8x - 10y - 21 = 0\\)",
+      "C": "\\(x^{2} + y^{2} - 8x - 10y - 21 = 0\\)",
+      "D": "\\(x^{2} + y^{2} - 8x - 10y + 21 = 0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50224?exam_type=waec&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "On the y-intercept, x=0. At this point, y = 5(0) - 2y = -6; y = 3, so the y- intercept has coordinates (0,3).\nThe equation of the circle is given as \\((x-a)^{2} + (y-b)^{2} = r^{2}\\), where (a,b) is the centre and r is the radius.\nThe radius of the circle through the y- intercept = \\(\\sqrt{(4-0)^{2} + (5-3)^{2}} = \\sqrt{20}\\)\nThe equation of the circle is \\((x-4)^{2} + (y-5)^{2} = 20\\); expanding, we have\n\\(x^{2} + y^{2} + 8x - 10y + 21 = 0\\)",
+    "year": "2017"
+  },
+  {
+    "number": "20",
+    "text": "Given that \\(f(x) = 5x^{2} - 4x + 3\\), find the coordinates of the point where the gradient is 6.",
+    "options": {
+      "A": "(4,1)",
+      "B": "(4,-2)",
+      "C": "(1,4)",
+      "D": "(1,-2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50227?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "\\(f(x) = 5x^{2} - 4x + 3\\)\n\\(f'(x) = 10x - 4 = 6 \\implies 10x = 10; x=1\\)\nWhen x = 1, f(x) = y = \\(5(1^{2}) - 4(1) + 3 = 4\\)\nThe coordinates are (1,4)",
+    "year": "2017"
+  },
+  {
+    "number": "21",
+    "text": "If \\(y = \\frac{1+x}{1-x}\\), find \\(\\frac{dy}{dx}\\).",
+    "options": {
+      "A": "\\(\\frac{2}{(1-x)^{2}}\\)",
+      "B": "\\(\\frac{-2}{(1-x)^{2}}\\)",
+      "C": "\\(\\frac{-1}{\\sqrt{1-x}}\\)",
+      "D": "\\(\\frac{1}{\\sqrt{1-x}}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50229?exam_type=waec&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "\\(y = \\frac{1+x}{1-x}\\)\nUsing quotient rule, \\(\\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^{2}}\\), we have\n\\(\\frac{dy}{dx} = \\frac{(1-x)(1) - (1+x)(-1)}{(1-x)^{2}} = \\frac{(1 - x +1 +x)}{(1-x)^{2}}\\)\n= \\(\\frac{2}{(1-x)^{2}}\\).",
+    "year": "2017"
+  },
+  {
+    "number": "22",
+    "text": "Evaluate \\(\\int_{-1}^{0} (x+1)(x-2) \\mathrm{d}x\\)",
+    "options": {
+      "A": "\\(\\frac{7}{6}\\)",
+      "B": "\\(\\frac{5}{6}\\)",
+      "C": "\\(\\frac{-5}{6}\\)",
+      "D": "\\(\\frac{-7}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50233?exam_type=waec&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "Expanding \\((x+1)(x-2) = x^{2} - 2x + x - 2 = x^{2} - x - 2\\)\n\\(\\int_{-1}^{0} (x^{2} - x - 2) \\mathrm{d}x = [\\frac{x^{3}}{3} - \\frac{x^{2}}{2} - 2x]_{-1}^{0}\\)\n= \\([\\frac{0}{3} - \\frac{0}{2} - 2\\times0 - (\\frac{-1^{3}}{3} - \\frac{-1^{2}}{2} - 2\\times-1)]\\)\n= \\(0 + \\frac{1}{3} + \\frac{1}{2} - 2 = \\frac{-7}{6}\\)\nNote: This can also be solved using integration by parts.\n\\(\\int uv \\mathrm{d}x = u\\int v \\mathrm{d}x - \\int u'(\\int v \\mathrm{d}x)\\mathrm{d}x\\).",
+    "year": "2017"
+  },
+  {
+    "number": "23",
+    "text": "Simplify \\(\\frac{\\sqrt{128}}{\\sqrt{32} - 2\\sqrt{2}}\\)",
+    "options": {
+      "A": "\\(2\\sqrt{2}\\)",
+      "B": "\\(3\\sqrt{2}\\)",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50236?exam_type=waec&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "\\(\\sqrt{128}\u00a0 = \\sqrt{64\\times2} = 8\\sqrt{2}\\)\n\\(\\sqrt{32} = \\sqrt{16\\times2} = 4\\sqrt{2}\\)\nSimplifying, we have \\(\\frac{8\\sqrt{2}}{4\\sqrt{2} - 2\\sqrt{2}} = \\frac{8\\sqrt{2}}{2\\sqrt{2}}\\)\n= 4",
+    "year": "2017"
+  },
+  {
+    "number": "24",
+    "text": "There are 7 boys in a class of 20. Find the number of ways of selecting 3 girls and 2 boys",
+    "options": {
+      "A": "1638",
+      "B": "2730",
+      "C": "6006",
+      "D": "7520"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50239?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "No of boys in the class = 7; Girls = 20-7 = 13\nNo of selection = \\(^{13}C_{3} \\times ^{7}C_{2} = \\frac{13!}{(13-3)!3!} \\times \\frac{7!}{(7-2)!2!}\\)\n= \\(286\\times21 = 6006\\)",
+    "year": "2017"
+  },
+  {
+    "number": "25",
+    "text": "The 3rd and 7th term of a Geometric Progression (GP) are 81 and 16. Find the 5th term.",
+    "options": {
+      "A": "\\(\\frac{4}{729}\\)",
+      "B": "\\(\\frac{81}{16}\\)",
+      "C": "27",
+      "D": "36"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50241?exam_type=waec&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "The nth term of a GP is given by: \\(T_{n} = ar^{n-1}\\).\n\\(T_{3} = ar^{3-1} = ar^{2} = 81\\).......(1)\n\\(T_{7} = ar^{7-1} = ar^{6} = 16 \\) ...... (2)\nDividing (2) by (1), we have \\(r^{4} = \\frac{16}{81} = (\\frac{2}{3})^{4} \\implies r = \\frac{2}{3}\\)\nPutting \\(r = \\frac{2}{3}\\) in equation (1), we have \\(81 = a \\times (\\frac{2}{3}\\)^{2} = a \\times \\frac{4}{9} \\implies a = \\frac{729}{4}\\)\n\\(T_{5} = ar^{5-1} = ar^{4} = \\frac{729}{4} \\times (\\frac{2}{3})^{4}\\)\n= \\(\\frac{729}{4} \\times \\frac{16}{81} = 36\\)",
+    "year": "2017"
+  },
+  {
+    "number": "26",
+    "text": "Differentiate \\(\\frac{5x^{3} + x^{2}}{x}, x\\neq 0\\) with respect to x.",
+    "options": {
+      "A": "10x+1",
+      "B": "10x+2",
+      "C": "x(15x+1)",
+      "D": "x(15x+2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50259?exam_type=waec&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "This can be done either by using quotient rule or by direct division of the equation, then differentiate.\n\\(\\frac{\\mathrm d}{\\mathrm d x} \\left( \\frac{5x^{3} + x^{2}}{x} \\right)\\)\n= \\(\\frac{\\mathrm d}{\\mathrm d x} \\left ( \\frac{5x^{3}}{x} + \\frac{x^{2}}{x} \\right)\\)\n= \\(\\frac{\\mathrm d}{\\mathrm d x} \\left ( 5x^{2} + x \\right)\\)\n= \\(10x + 1\\)",
+    "year": "2017"
+  },
+  {
+    "number": "27",
+    "text": "A curve is given by \\(y = 5 - x - 2x^{2}\\). Find the equation of its line of symmetry.",
+    "options": {
+      "A": "\\(x = \\frac{-41}{8}\\)",
+      "B": "\\(x = \\frac{-1}{4}\\)",
+      "C": "\\(x = \\frac{1}{4}\\)",
+      "D": "\\(x = \\frac{41}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50261?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "The line of symmetry of the curve is at the minimum point of the curve (ie y' = 0)\n\\(\\frac{ \\mathrm d}{ \\mathrm d x} \\left ( 5-x-2x^{2} \\right)\\) = -1 - 4x\nIf y' = 0, we have \\(-1 - 4x = 0 \\implies 4x = -1\\)\n\\(x = \\frac{-1}{4}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "28",
+    "text": "In a class of 10 boys and 15 girls, the average score in a Biology test is 90. If the average score for the girls is x, find the average score for the boys in terms of x.",
+    "options": {
+      "A": "\\(200 - \\frac{2x}{3}\\)",
+      "B": "\\(225 - \\frac{3x}{2}\\)",
+      "C": "\\(250 - 2x\\)",
+      "D": "\\(250 - 3x\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50266?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "Let A and B be the sum for the boys and girls respectively.\n\\(\\frac{A + B}{10 + 15} = \\frac{A + B}{25} = 90\\)\n\\(\\implies A + B = 90 \\times 25 = 2250\\)\nGiven the average for girls = x, we have \\(\\frac{B}{15} = x \\implies B = 15x)\n\\(\\therefore A + 15x = 2250; A = 2250 - 15x \\implies\\) average score for boys \\(= \\frac{2250 - 15x}{10}\\)\n= \\(225 - \\frac{3x}{2}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "29",
+    "text": "A fair die is tossed twice. What is its smple size?",
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "36",
+      "D": "48"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50267?exam_type=waec&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "Sample size = 6 x 6 = 36.",
+    "year": "2017"
+  },
+  {
+    "number": "30",
+    "text": "Given that \\( a = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}\\) and \\(b = \\begin{pmatrix} -1 \\\\ 4 \\end{pmatrix}\\), evaluate \\((2a - \\frac{1}{4}b)\\).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 7 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 5 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 3 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 2 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50269?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "\\(a = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}\\);\u00a0\\(b = \\begin{pmatrix} -1 \\\\ 4 \\end{pmatrix}\\)\n\\(\\implies 2 \\times a = \\begin{pmatrix} 4 \\\\ 6 \\end{pmatrix}\\) and \\(\\frac{1}{4} \\times b = \\begin{pmatrix} -\\frac{1}{4} \\\\ 1 \\end{pmatrix}\\)\n\\(\\therefore 2a - \\frac{1}{4}b = \\begin{pmatrix} 4 - \\frac{-1}{4} \\\\ 6 - 1 \\end{pmatrix}\\)\n=\u00a0\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 5 \\end{pmatrix}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "31",
+    "text": "Face\n1\n2\n3\n4\n5\n6\n\n\nFrequency\n12\n18\ny\n30\n2y\n45\n\n\n\nGiven the table above as the results of tossing a fair die 150 times. Find the probability of obtaining a 5.",
+    "options": {
+      "A": "\\(\\frac{1}{10}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{1}{5}\\)",
+      "D": "\\(\\frac{3}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50271?exam_type=waec&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "Probability of obtaining a 5 = \\(\\frac{\\text{frequency of 5}}{\\text{total frequency}}\\)\n\\(12+18+y+30+2y+45 = 150 \\implies 105+3y = 150\\)\n\\(3y = 45; y = 15\\)\nProbability of 5 = \\(\\frac{2\\times 15}{150} = \\frac{1}{5}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "32",
+    "text": "Face\n1\n2\n3\n4\n5\n6\n\n\nFrequency\n12\n18\ny\n30\n2y\n45\n\n\n\n\u00a0Given the table above as the result of tossing a fair die 150 times, find the mode.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50272?exam_type=waec&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "The mode is the occurrence with the highest frequency which, from the table, is 45 (the occurrence of obtaining a 6).",
+    "year": "2017"
+  },
+  {
+    "number": "33",
+    "text": "Given that a = 5i + 4j and b = 3i + 7j, evaluate (3a - 8b).",
+    "options": {
+      "A": "9i + 44j",
+      "B": "-9i + 44j",
+      "C": "-9i - 44j",
+      "D": "9i - 44j"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50276?exam_type=waec&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "= \\(3(5i+4j) - 8(3i+7j) = 15i + 12j - 24i -56j\\)\n= \\(-9i - 44j\\)",
+    "year": "2017"
+  },
+  {
+    "number": "34",
+    "text": "A force (10i + 4j)N acts on a body of mass 2kg which is at rest. Find the velocity after 3 seconds.",
+    "options": {
+      "A": "\\((\\frac{5i}{3} + \\frac{2j}{3})ms^{-1}\\)",
+      "B": "\\((\\frac{10i}{3} + \\frac{4j}{3})ms^{-1}\\)",
+      "C": "\\((5i + 2j)ms^{-1}\\)",
+      "D": "\\((15i + 6j)ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50281?exam_type=waec&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "Recall, \\(F = mass \\times acceleration \\implies acceleration = \\frac{force}{mass}\\)\n= \\(\\frac{10i + 4j}{2} = (5i + 2j) ms^{-2}\\)\n= \\(v = u + at\u00a0 \\implies v \\text{at 3 seconds} = 0 + (5i + 2j \\times 3)\\)\n= \\((15i + 6j) ms^{-1}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "35",
+    "text": "Solve \\(3^{2x} - 3^{x+2} = 3^{x+1} - 27\\)",
+    "options": {
+      "A": "1 or 0",
+      "B": "1 or 2",
+      "C": "1 or -2",
+      "D": "-1 or 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50285?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "\\(3^{2x} - 3^{x+2} = 3^{x+1} - 27\\)\n= \\((3^{x})^{2} - (3^{x}).(3^{2}) = (3^{x}).(3^{1}) - 27\\)\nLet \\(3^{x}\\) be B; we have\n= \\(B^{2} - 9B - 3B + 27 = B^{2} - 12B + 27 = 0\\).\nSolving the equation, we have B = 3 or 9.\n\\(3^{x} = 3\\) or \\(3^{x} = 9\\)\n\\(3^{x} = 3^{1}\\) or \\(3^{x} = 3^{2}\\)\nEquating, we have x = 1 or 2.",
+    "year": "2017"
+  },
+  {
+    "number": "36",
+    "text": "Find the magnitude and direction of the vector \\(p = (5i - 12j)\\)",
+    "options": {
+      "A": "(13, 113.38\u00b0)",
+      "B": "(13, 067.38\u00b0)",
+      "C": "(13, 025.38\u00b0)",
+      "D": "(13, 157.38\u00b0)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50291?exam_type=waec&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "\\(p = (5i - 12j); |p| = \\sqrt{5^{2} + (-12)^{2}}\\)\n= \\(\\sqrt{169} = 13\\)\n\\(\\tan\\theta = \\frac{-12}{5} = -2.4 \\implies \\theta = -67.38\u00b0\\)\nDirection = \\(90\u00b0 - (-67.38\u00b0) = 157.38\u00b0\\)",
+    "year": "2017"
+  },
+  {
+    "number": "37",
+    "text": "The velocity, V, of a particle after t seconds, is \\(V = 3t^{2} + 2t - 1\\). Find the acceleration of the particle after 2 seconds.",
+    "options": {
+      "A": "10\\(ms^{-2}\\)",
+      "B": "12\\(ms^{-2}\\)",
+      "C": "14\\(ms^{-2}\\)",
+      "D": "17\\(ms^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50296?exam_type=waec&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "\\(accl = \\frac{\\mathrm d V}{\\mathrm d t}\\)\n\\(V = 3t^{2} + 2t - 1 \\therefore a = \\frac{\\mathrm d V}{\\mathrm d t} = 6t + 2\\)\n\\(a \\text{(after 2 seconds)} = (6\\times 2) + 2 = 12+2 = 14ms^{-2}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "38",
+    "text": "Given that \\(f(x) = 2x^{2} - 3\\) and \\(g(x) = x + 1\\) where \\(x \\in R\\). Find g o f(x).",
+    "options": {
+      "A": "\\(2(x^{2} - 1)\\)",
+      "B": "\\(2x^{2} + 4x - 1\\)",
+      "C": "\\(2x^{2} + 6x - 1\\)",
+      "D": "\\(3(x^{2} - 1)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50297?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = 2x^{2} - 3; g(x) = x + 1\\)\n\\(g o f(x) = g (2x^{2} - 3)\\)\n= \\( 2x^{2} - 3 + 1 = 2x^{2} - 2 = 2(x^{2} - 1)\\)",
+    "year": "2017"
+  },
+  {
+    "number": "39",
+    "text": "If P = \\({n^{2} + 1: n = 0,2,3}\\) and Q = \\({n + 1: n = 2,3,5}\\), find P\\(\\cap\\) Q.",
+    "options": {
+      "A": "{5, 10}",
+      "B": "{4, 6}",
+      "C": "{1, 3}",
+      "D": "{ }"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50301?exam_type=waec&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "\\(P = {n^{2} + 1: n = 0,2,3} \\therefore P = {1, 5,10}\\)\n\\(Q = {n + 1: n = 2,3,5} \\therefore Q = {3, 4, 6}\\)\n\\(P \\cap Q = { }\\)",
+    "year": "2017"
+  },
+  {
+    "number": "40",
+    "text": "If \\((2x^{2} - x - 3)\\) is a factor of \\(f(x) = 2x^{3} - 5x^{2} - x + 6\\), find the other factor",
+    "options": {
+      "A": "(x - 2)",
+      "B": "(x - 1)",
+      "C": "(x + 1)",
+      "D": "(x + \\(\\frac{3}{2}\\))"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50302?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "Divide \\((2x^{3} - 5x^{2} - x + 6)\\) by \\((2x^{2} - x - 3)\\) to get the other factor. Be careful of sign conventions.",
+    "year": "2017"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "number": "722",
+    "text": "If \\(\\frac{5}{\\sqrt{2}}\\) - \\(\\frac{\\sqrt{8}}{8}\\) = m\\(\\sqrt{2}\\), find the value of m",
+    "options": {
+      "A": "\\(\\frac{12}{5}\\)",
+      "B": "\\(\\frac{9}{4}\\)",
+      "C": "\\(\\frac{7}{3}\\)",
+      "D": "\\(\\frac{5}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72112?exam_type=waec&type=obj&page=145",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{5}{\\sqrt{2}}\\) - \\(\\frac{\\sqrt{8}}{8}\\) = m\\(\\sqrt{2}\\)\n\\(\\frac{5\\sqrt{2}}{2}\\) - \\(\\frac{\\sqrt{8}}{8}\\) = \\(\\frac{20 \\sqrt{2} - 2\\sqrt{2}}{8}\\)\n= \\(\\frac{18\\sqrt{2}}{8}\\) =\u00a0\\(\\frac{9\\sqrt{2}}{4}\\) = m\\(\\sqrt{2}\\)\nTherefore, m = \\(\\frac{9}{4}\\) \u2192 by comparing",
+    "year": "2024"
+  },
+  {
+    "number": "723",
+    "text": "Given that f: x\u00a0\u2192 \\(\\sqrt{x}\\) and g : x\u00a0\u2192 25 - x\\(^2\\), find the value of f\u00a0o g(3)",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72113?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "Given: f: x\u00a0\u2192 \\(\\sqrt{x}\\) and g : x\u00a0\u2192 25 - x\\(^2\\),\nf\u00a0o g(3) means replace x with g(3) in\u00a0f: x\u00a0\u2192 \\(\\sqrt{x}\\)\nf: x\u00a0\u2192 \\(\\sqrt{x}\\) =\u00a0f : g(3) \u2192 \\(\\sqrt{x}\\)\nbut, g(3)\u00a0\u2192 25 - 3\\(^2\\), = 25 - 9 = 16\nf\u00a0o g(3)\u00a0\u00a0\u2192 \\(\\sqrt{g(3)}\\) = \\(\\sqrt{16}\\) = 4.",
+    "year": "2024"
+  },
+  {
+    "number": "724",
+    "text": "\\(\\sqrt{x}\\) - \\(\\frac{6}{\\sqrt{x}}\\) = 1, find the value of x",
+    "options": {
+      "A": "36",
+      "B": "16",
+      "C": "9",
+      "D": "25"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72114?exam_type=waec&type=obj&page=145",
+    "correct_answer": "C",
+    "explanation": "\\(\\sqrt{x}\\) - \\(\\frac{6}{\\sqrt{x}}\\) = 1\nMultiply through by \\(\\sqrt{x}\\)\nx - 6 =\u00a0\\(\\sqrt{x}\\)\nx -\u00a0\\(\\sqrt{x}\\) = 6\nlet\u00a0\\(\\sqrt{x}\\) = q, then x = q\\(^2\\)\nq\\(^2\\) - q - 6 = 0\nq\\(^2\\) - 3q + 2q - 6 = 0\nq(q - 3) + 2(q - 3) = 0\n(q - 3)(q + 2) = 0\nq = 3 or -2\nbut x =\u00a0 q\\(^2\\), meaning, x = 9 or 4.",
+    "year": "2024"
+  },
+  {
+    "number": "725",
+    "text": "A binary operation\u00a0* is defined on the set of real numbers, R by x * y = \\(\\frac{y^2 - x^2}{2xy}\\), x, y\u00a0\u2260 0, where x and y are real numbers. Evaluate -3 * 2",
+    "options": {
+      "A": "\\(\\frac{5}{12}\\)",
+      "B": "\\(\\frac{13}{12}\\)",
+      "C": "-\\(\\frac{5}{12}\\)",
+      "D": "-\\(\\frac{13}{12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72115?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "Given:\u00a0 x * y = \\(\\frac{y^2 - x^2}{2xy}\\), Evaluate -3 * 2\n-3 * 2\u00a0\u2192\u00a0x = -3, y = 2\n-3 * 2 =\u00a0 \u00a0\\(\\frac{y^2 - x^2}{2xy}\\) =\u00a0 \\(\\frac{(2^2 - (-3)^2}{2 \\times 2 \\times -3}\\)\n= \\(\\frac{4 - 9}{- 12}\\) = \\(\\frac{-5}{-12}\\) =\u00a0\\(\\frac{5}{12}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "726",
+    "text": "If the n\\(^{th}\\) term of a linear sequence (A.P) is (5n - 2), find the sum of the first 12\u00a0terms of the sequence.",
+    "options": {
+      "A": "120",
+      "B": "183",
+      "C": "366",
+      "D": "732"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72116?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "n\\(^{th}\\) = (5n - 2)\n1st term = 5 - 2 = 3\n2nd term = 10 - 2 = 8\n3rd term = 15 - 2 = 13\nHence, common difference, d = 5\nS\\(_n\\) = \\(\\frac{n}{2}\\)[2a + (n - 1)d]\nS\\(_{12}\\) = \\(\\frac{12}{2}\\)[2 x 3\u00a0+ (12\u00a0- 1)5]\n= 6[6 + 11 x 5]\u00a0= 6[6 + 55]\u00a0= 6 x 61 = 366.",
+    "year": "2024"
+  },
+  {
+    "number": "727",
+    "text": "If h(x) = x\\(^2\\) + px + 2 is divided by (x + 3), the remainder is 5, find p",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72117?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "x\\(^2\\) + px + 2 is divided by (x + 3), R = 5\nFrom remainder's theorem, (x + 3) implies x = -3\nPut x = -3 into x\\(^2\\) + px + 2\u00a0 = (-3)\\(^2\\) + p(-3)\u00a0+ 2 = 5\n9 - 3p + 2 = 5\n11 - 3p = 5\n-3p = 5 - 11 = -6\np = \\(\\frac{-6}{-3}\\) = 2\nThus, p = 2.",
+    "year": "2024"
+  },
+  {
+    "number": "728",
+    "text": "If 5x + 7 \\(\\equiv\\) P(x + 3) + Q(x - 1), find the value of p",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72118?exam_type=waec&type=obj&page=146",
+    "correct_answer": "A",
+    "explanation": "5x + 7 \\(\\equiv\\) P(x + 3) + Q(x - 1),\nPut x = 1\n5(1) + 7 \\(\\equiv\\) \u00a0P(1 + 4) + Q(1 - 1)\n12\u00a0\\(\\equiv\\) 4p + 0\nP =\u00a0\\(\\frac{12}{4}\\) = 3",
+    "year": "2024"
+  },
+  {
+    "number": "729",
+    "text": "If log\\(_2^x\\) = 2, evaluate log\\(_x^{128}\\).",
+    "options": {
+      "A": "7",
+      "B": "2",
+      "C": "\\(\\frac{7}{2}\\)",
+      "D": "\\(\\frac{2}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72119?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "log\\(_2^x\\) = 2, in index form = x = 2\\(^2\\) = 4\nSo,\u00a0log\\(_x^{128}\\) =\u00a0log\\(_4^{128}\\) =\u00a0log\\(_{2^2}^{2^7}\\) = \\(\\frac{7}{2}\\)log\\(_2^2\\) =\u00a0\\(\\frac{7}{2}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "730",
+    "text": "Evaluate: \\(\\frac{cos^2 300\u00ba - 4sin^2 120\u00ba}{tan^2 135\u00ba}\\)",
+    "options": {
+      "A": "-2\\(\\frac{3}{4}\\)",
+      "B": "-3\\(\\frac{3}{4}\\)",
+      "C": "-2\\(\\frac{1}{4}\\)",
+      "D": "-3\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72120?exam_type=waec&type=obj&page=146",
+    "correct_answer": "A",
+    "explanation": "Evaluate: \\(\\frac{cos^2 300\u00ba - 4sin^2 120\u00ba}{tan^2 135\u00ba}\\)\nCos 300\u00ba = 60\u00ba, Sin 120\u00ba = 60\u00ba, tan 135\u00ba = - 45\u00ba (using the idea of quadrant}, and the angles are all special.\ncos 60\u00ba = \\(\\frac{1}{2}\\), sin\u00a0 60\u00ba =\u00a0\\(\\frac{\\sqrt{3}}{2}\\), Tan(-45) = -1\n\\(\\frac{cos^2 300\u00ba - 4sin^2 120\u00ba}{tan^2 135\u00ba}\\) =\u00a0 \\(\\frac{(\\frac{1}{2})^2\u00a0- 4(\\frac{\\sqrt{3}}{2})^2 }{(-1)^2}\\)\n= \\(\\frac{\\frac{1}{4} - 4\\frac{3}{4}}{1}\\) = \\(\\frac{1}{4}\\) - 3 = -2\\(\\frac{3}{4}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "731",
+    "text": "If f(x) = \\(\\frac{2 - x}{x}\\), x\u00a0\u2260 0, find the inverse of f.",
+    "options": {
+      "A": "\\(\\frac{2}{x - 1}\\), x\u00a0\u2260 1",
+      "B": "\\(\\frac{2}{x+1}\\), x\u00a0\u2260 -1",
+      "C": "\\(\\frac{2}{1-x}\\), x\u00a0\u2260 1",
+      "D": "\\(\\frac{x}{2 + x}\\), x\u00a0\u2260 -2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72121?exam_type=waec&type=obj&page=147",
+    "correct_answer": "B",
+    "explanation": "f(x) = \\(\\frac{2 - x}{x}\\), x\u2260 0\nlet the inverse of f\u00a0\\(\\frac{2 - 1}{x}\\), be y\ny =\u00a0\\(\\frac{2 - x}{x}\\),\nxy = 2 - x\nxy + x = 2\nx(y + 1) = 2\nx = \\(\\frac{2}{y +\u00a01}\\)\u00a0\u21d2\u00a0\\(\\frac{2}{x\u00a0+1}\\)\nThus, the inverse of\u00a0f(x) = \\(\\frac{2 - x}{x}\\), x\u2260 0 =\\(\\frac{2}{x\u00a0+1}\\)\u00a0provided\u00a0x\u2260 -1",
+    "year": "2024"
+  },
+  {
+    "number": "732",
+    "text": "Solve\u00a02\\(^{2x}\\) - \u00a05(2\\(^x\\)) + 4 = 0",
+    "options": {
+      "A": "x = 0 and 2",
+      "B": "x = 1 and 2",
+      "C": "x = 0 and 1",
+      "D": "x = 2 and 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72122?exam_type=waec&type=obj&page=147",
+    "correct_answer": "A",
+    "explanation": "2\\(^{2x}\\) - \u00a05(2\\(^x\\)) + 4 = 0\n2\\(^{(x)2}\\) - 5(2\\(^x\\)) + 4 = 0\nlet p =\u00a02\\(^x\\)\np\\(^2\\) - 5(p) + 4 = 0\np\\(^2\\) -4p - p + 4 = 0\np(p - 4) - 1(p - 4) = 0\n(p - 1)(p -4) = 0\np = 1 or 4\nBut p =\u00a02\\(^x\\) = 1 or 4\n2\\(^x\\) =\u00a02\\(^2\\)\nx = 2\n2\\(^x\\) =\u00a02\\(^0\\) = 1\nx = 0\nTherefore, the values of x = 0 and 2",
+    "year": "2024"
+  },
+  {
+    "number": "733",
+    "text": "If p = \\(\\begin{pmatrix}2 \\\\ 4 \\end{pmatrix}\\) and q =\u00a0\\(\\begin{pmatrix} 10\u00a0\\\\ -1\u00a0\\end{pmatrix}\\), find a vector, r such that 2p - 3r =\u00a0q",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -2\u00a0\\\\ 3\u00a0\\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -26\u00a0\\\\ 11\u00a0\\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 2\u00a0\\\\ 3\u00a0\\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 6\u00a0\\\\ -9\u00a0\\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72123?exam_type=waec&type=obj&page=147",
+    "correct_answer": "A",
+    "explanation": "p = \\(\\begin{pmatrix}2 \\\\ 4 \\end{pmatrix}\\) and q =\u00a0\\(\\begin{pmatrix} 10\u00a0\\\\ -1\u00a0\\end{pmatrix}\\), r =\u00a0\\(\\begin{pmatrix} x\u00a0\\\\ y\u00a0\\end{pmatrix}\\)\n2p - 3r =\u00a0q\n2( \\(\\begin{pmatrix}2 \\\\ 4 \\end{pmatrix}\\)) - 3(\u00a0\\(\\begin{pmatrix} x\u00a0\\\\ y\u00a0\\end{pmatrix}\\)) =\u00a0\\(\\begin{pmatrix} 10\u00a0\\\\ -1\u00a0\\end{pmatrix}\\)\n[\\(\\begin{pmatrix} 4\u00a0\\\\ 8\u00a0\\end{pmatrix}\\) -\u00a0\\(\\begin{pmatrix} 3x\u00a0\\\\ 3y\u00a0\\end{pmatrix}\\)] =\u00a0\\(\\begin{pmatrix} 10\u00a0\\\\ -1\u00a0\\end{pmatrix}\\)\n4 - 3x = 10, then, -3x = 6, so that, x = -2,\n8 - 3y = -1, then, -3y = -9, so that, y = 3\nThus, r =\u00a0\\(\\begin{pmatrix} -2\u00a0\\\\ 3\u00a0\\end{pmatrix}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "734",
+    "text": "Given that p = \\(\\begin{pmatrix} m + 1 & m - 1 \\\\ m + 4 & m - 8 \\end{pmatrix}\\) and |p| = - 34, find the value of m.",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72124?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "Given: p = \\(\\begin{pmatrix} m + 1 & m - 1 \\\\ m + 4 & m - 8 \\end{pmatrix}\\) and |p| = -32,\nBut the determinant of p = -32\n[{(m + 1)(m - 8)} - {(m - 1)(m + 4)}] = - 34\n[m\\(^2\\) - 8m + m - 8)]\u00a0- [(\u00a0m\\(^2\\) + 4m - m - 4] = - 34\n[m\\(^2\\) - 7m - 8] - [m\\(^2\\) + 3m - 4] = -34\nm\\(^2\\) - 7m - 8 -\u00a0m\\(^2\\) - 3m + 4 = - 34\n- 7m - 3m - 4 = - 34\n- 10m = - 34\u00a0+ 4 = - 30\nm = \\(\\frac{-30}{-10}\\) = 3\nHence, m = 3",
+    "year": "2024"
+  },
+  {
+    "number": "735",
+    "text": "If r = i + 2j and n = -i + 3j, find |2n - r|.",
+    "options": {
+      "A": "3.6",
+      "B": "4.0",
+      "C": "5.0",
+      "D": "8.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72125?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "Given that,\u00a0r = i + 2j and n = -i + 3j, to find |2n - r|\n2n = 2(- i + 3j) = - 2i + 6j\n2n - r = [- 2i + 6j] - [ i + 2j] = -3i + 4j\n|2n - r| = |-3i + 4j| = \\(\\sqrt{(-3)^2 + 4^2}\\) = \\(\\sqrt{9 + 16}\\) = \\(\\sqrt{25}\\) = 5.0",
+    "year": "2024"
+  },
+  {
+    "number": "736",
+    "text": "The gradient of the curve y = mx\\(^2\\) + 3x - 1 at the point (-1, 1) is 9. Find the value of m",
+    "options": {
+      "A": "- 3",
+      "B": "3",
+      "C": "\\(\\frac{-5}{4}\\)",
+      "D": "\\(\\frac{5}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72126?exam_type=waec&type=obj&page=148",
+    "correct_answer": "A",
+    "explanation": "y = mx\\(^2\\) + 3x - 1 at the point (-1, 1)\n\\(\\frac{dy}{dx}\\) = 9\n\\(\\frac{dy}{dx}\\) = 2mx + 3 = 9, but x = -1\n2m(-1) + 3 = 9\n-2m = 9 - 3 = 6\nm = \\(\\frac{6}{-2}\\) = - 3",
+    "year": "2024"
+  },
+  {
+    "number": "737",
+    "text": "If kx\\(^2\\) is a term in the binomial expansion of (1 - 2x)\\(^4\\), find the value of k.",
+    "options": {
+      "A": "-24",
+      "B": "-8",
+      "C": "8",
+      "D": "24"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72127?exam_type=waec&type=obj&page=148",
+    "correct_answer": "D",
+    "explanation": "Given:\u00a0 (1 - 2x)\\(^4\\), find\u00a0kx\\(^2\\)\nUsing, \\(^4_rCr(-2x)^r(1)^r\\)\nWhere r is from x\\(^2\\) = 2\n\\(^4_2Cr(-2x)^2(1)^2\\) = 6\u00a0* 4x\\(^2\\) = 24x\\(^2\\)\nkx\\(^2\\) =\u00a024x\\(^2\\)\nTherefore, k = 24.",
+    "year": "2024"
+  },
+  {
+    "number": "738",
+    "text": "A fair dice is thrown twice. Find the probability that the sum obtained will be a factor of 12.",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{5}{18}\\)",
+      "C": "\\(\\frac{1}{9}\\)",
+      "D": "\\(\\frac{7}{18}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72128?exam_type=waec&type=obj&page=148",
+    "correct_answer": "A",
+    "explanation": "When a die is thrown twice, the total number of possible outcomes is: 6 x\u00a06 = 36\nThe factors of 12 are:1, 2, 3, 4, 6, 12\nThe possible sums from rolling two dice range from 2 (1 + 1) to 12 (6 + 6). We need to identify which sums are factors of 12:\nSum = 2: (1, 1)Sum = 3: (1, 2), (2, 1)Sum = 4: (1, 3), (2, 2), (3, 1)Sum = 6: (1, 5), (2, 4), (3, 3), (4, 2), (5, 1)Sum = 12: (6, 6)\nTotal favorable outcome 1 + 2 + 3 + 5 + 1 = 12\nThe probability P\u00a0that the sum is a factor of 12 is given by: \\(\\frac{\\text{Favourable outcomes}}{\\text{Total otcomes}}\\) = \\(\\frac{12}{36}\\) = \\(\\frac{1}{3}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "739",
+    "text": "A body of mass 42 kg increases its speed from 15 ms\\(^{-1}\\) to 43\u00a0ms\\(^{-1}\\) in 12 seconds. Find the force acting on the body.",
+    "options": {
+      "A": "203N",
+      "B": "150N",
+      "C": "98N",
+      "D": "52N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72129?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "Using F = \\(\\frac{M(u_2 - u_1)}{t}\\)\nF =\u00a0\\(\\frac{42 (43\u00a0- 15)}{12}\\)\u00a0= \\(\\frac{42 \\times 28}{12}\\) = \\(\\frac{1176}{12}\\) = 98N",
+    "year": "2024"
+  },
+  {
+    "number": "740",
+    "text": "Given that M and N are two sets. Which of the following is the same as (M\u00a0\u2229\u00a0N)'?",
+    "options": {
+      "A": "M' \u2229 N'",
+      "B": "M' U N",
+      "C": "M \u2229 N'",
+      "D": "M' U N'"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72130?exam_type=waec&type=obj&page=148",
+    "correct_answer": "D",
+    "explanation": "Using De Morgan's law,\u00a0(A \u2229 B)\u2032 = A \u2032\u222a B\u2032\nApplying this to set M and N:\u00a0 (M\u2229N)' =\u00a0M' U N'",
+    "year": "2024"
+  },
+  {
+    "number": "741",
+    "text": "A particle starts from rest accelerates at 4ms\\(^{-2}\\). Find the distance covered after 4 seconds.",
+    "options": {
+      "A": "12 m",
+      "B": "14 m",
+      "C": "18 m",
+      "D": "32 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72131?exam_type=waec&type=obj&page=149",
+    "correct_answer": "D",
+    "explanation": "s = ut + \\(\\frac{1}{2}\\)at\\(^2\\)\nu = 0 ms\\(^{-1}\\), t = 4 secs, a =\u00a04ms\\(^{-2}\\)\nS = 0.5 x 4 x 16 = 32 m",
+    "year": "2024"
+  },
+  {
+    "number": "742",
+    "text": "Find the range of values of x for which 9x - 1 > 14x\\(^2\\)",
+    "options": {
+      "A": "\\(\\frac{1}{7}\\) < x <\u00a0\\(\\frac{1}{2}\\)",
+      "B": "-\\(\\frac{1}{7}\\) < x <\u00a0\\(\\frac{1}{2}\\)",
+      "C": "x \\(\\leq\\) -\\(\\frac{1}{7}\\) or x \\(\\geq\\) \\(\\frac{1}{2}\\)",
+      "D": "x \\(\\leq\\) \\(\\frac{1}{7}\\) or x \\(\\geq\\) \\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72132?exam_type=waec&type=obj&page=149",
+    "correct_answer": "A",
+    "explanation": "9x - 1 > 14x\\(^2\\)\nRearrange the inequality\n14x\\(^2\\) - 9x + 1 < 0\n14x\\(^2\\) - 7x - 2x + 1 < 0\n7x(2x - 1) - 1(2x - 1) < 0\n(7x - 1)(2x - 1) < 0\nx < \\(\\frac{1}{7}\\) or \\(\\frac{1}{2}\\)\nFinal answer is\u00a0\\(\\frac{1}{7}\\) < x <\u00a0\\(\\frac{1}{2}\\) (after testing)",
+    "year": "2024"
+  },
+  {
+    "number": "743",
+    "text": "A particle of mass 40 kg is kept on a smooth plane inclined at an angle of 30\u00ba to the horizontal by a force up the plane. find, correct to one decimal place, the magnitude of the normal reaction of the plane of the particle.[Take g = 10 ms\\(^{-2}\\)]",
+    "options": {
+      "A": "146.0N",
+      "B": "200.6N",
+      "C": "346.4N",
+      "D": "400.3N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72133?exam_type=waec&type=obj&page=149",
+    "correct_answer": "C",
+    "explanation": "Weight of particles = mass x accel. due to gravity\nW = m g = 40 x 10 = 400N\nThe weight can be resolved into the x and y components.\nSince we are calculating for normal reaction, we use the y component\nW\\(_y\\) = W cos\\(\\theta\\) = 400 Cos 30 = 400 x \\(\\frac{\\sqrt{3}}{2}\\) = 200 x \\(\\sqrt{3}\\) =\u00a0346.4N",
+    "year": "2024"
+  },
+  {
+    "number": "744",
+    "text": "The point P(-3, 5) lies on a line which is perpendicular to 2x - 4y + 3 = 0. Find the equation of the line.",
+    "options": {
+      "A": "y - 2x - 11 = 0",
+      "B": "y - 2x - 1 = 0",
+      "C": "y + 2x + 1 = 0",
+      "D": "y + 2x + 11 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72134?exam_type=waec&type=obj&page=149",
+    "correct_answer": "C",
+    "explanation": "P(-3, 5), The given line, 2x - 4y + 3 = 0\n2x - 4y + 3 = 0 rearrange to the slope-intercept form\n4y = 2x + 3, divide through by 4\ny = \\(\\frac{1}{2}\\) x + \\(\\frac{3}{4}\\)\nM\\(_1\\)\u00a0=\u00a0\\(\\frac{1}{2}\\), then M\\(_2\\) = -2 (condition for perpendicularity)\ny - y\\(_1\\) =\u00a0M\\(_2\\)(x - x\\(_1\\))\ny - 5 = -2(x - (-3))\ny - 5 = -2x - 6\ny - 5 + 6 + 2x = 0\ny + 2x + 1 = 0 becomes the equation of the line.",
+    "year": "2024"
+  },
+  {
+    "number": "745",
+    "text": "Find the coefficient of y\\(^2\\) in the binomial expansion of (y - 2x)\\(^5\\).",
+    "options": {
+      "A": "80x\\(^3\\)",
+      "B": "80x\\(^2\\)",
+      "C": "- 80x\\(^2\\)",
+      "D": "- 80x\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72135?exam_type=waec&type=obj&page=149",
+    "correct_answer": "D",
+    "explanation": "Using \\(^n_r C a^{n-r}b^r\\)\nIn this case, let a = y, b = - 2x, \u00a0n = 5\nWe want the term where the power of y\u00a0is 2, which means: 5 - r = 2, so, r = 3\n\\(^n_r C\u00a0a^{n-r}b^r\\) = \\(^5_3\u00a0C\u00a0y^{5 - 3}(-2x)^3\\) = 10y\\(^2\\) * - 8x\\(^3\\) = - 80y\\(^2\\)x\\(^3\\)\ncoefficient of y\\(^2\\) = \u00a0- 80x\\(^3\\)",
+    "year": "2024"
+  },
+  {
+    "number": "746",
+    "text": "Given that f(x) = x\\(^2\\) + 3x + 1, find the value of x at the turning point.",
+    "options": {
+      "A": "2",
+      "B": "1\\(\\frac{1}{2}\\)",
+      "C": "-1\\(\\frac{1}{2}\\)",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72136?exam_type=waec&type=obj&page=150",
+    "correct_answer": "C",
+    "explanation": "Given that f(x) = x\\(^2\\) + 3x + 1\nAt turning point f\"(x) = 0\nf\" = 2x + 3 = 0\n= 2x = -3\nx = \\(\\frac{-3}{2}\\) =\u00a0-1\\(\\frac{1}{2}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "747",
+    "text": "How many three-digit numbers can be formed from the digits 2, 3, 4, 5, 6, 7, and 8 if repetition is not allowed?",
+    "options": {
+      "A": "420",
+      "B": "210",
+      "C": "120",
+      "D": "35"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72137?exam_type=waec&type=obj&page=150",
+    "correct_answer": "B",
+    "explanation": "Since repetition is not allowed, we can use permutation for this question.\n\\(^7_3 P\\) = \\(\\frac{7!}{(7 - 4)!}\\) = 210\nOR\nChoose the First Digit: 7 options (2-8).Choose the Second Digit: 6 options remaining.Choose the Third Digit: 5 options remaining\nTotal Combinations:\nTotal = 7 \u00d7 6 \u00d7 5 = 210.",
+    "year": "2024"
+  },
+  {
+    "number": "748",
+    "text": "If \\(\\begin{pmatrix} 6 & 4 \\\\ 7 & 5 \\end{pmatrix}\\) \\(\\begin{pmatrix} 2 \\\\\u00a0m \\end{pmatrix}\\) = 2\\(\\begin{pmatrix} 12 \\\\\u00a014.5 \\end{pmatrix}\\), find the value of m.",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72138?exam_type=waec&type=obj&page=150",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{pmatrix} 6 & 4 \\\\ 7 & 5 \\end{pmatrix}\\) \\(\\begin{pmatrix} 2 \\\\\u00a0m \\end{pmatrix}\\) = 2\\(\\begin{pmatrix} 12 \\\\14.5 \\end{pmatrix}\\),\n\\(\\begin{pmatrix} 6 \\times\u00a0\u00a02\u00a0 +\u00a04\u00a0 \\times m \\\\ 7 \\times 2\u00a0+\u00a05\u00a0 \\times m \\end{pmatrix}\\)\u00a0= \\(\\begin{pmatrix} 24 \\\\\u00a029\u00a0\\end{pmatrix}\\),\n12 + 4m = 24\n4m = 24 - 12 = 12, then, m = 3 or\n14 + 5m = 29\n5m = 29 - 14 = 15, then, m = 3",
+    "year": "2024"
+  },
+  {
+    "number": "749",
+    "text": "A body of mass 80 kg moving with a velocity of 25 ) ms\\(^{-1}\\) collides with another moving in the opposite direction at 10\u00a0ms\\(^{-1}\\). After collision, both bodies moved with a common velocity of 12.8\u00a0ms\\(^{-1}\\). Calculate, correct to the nearest whole number, the mass of the second body.",
+    "options": {
+      "A": "33 kg",
+      "B": "38 kg",
+      "C": "43 kg",
+      "D": "47 kg"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72139?exam_type=waec&type=obj&page=150",
+    "correct_answer": "C",
+    "explanation": "m\\(_1\\) = 80 kg ,\u00a0m\\(_2\\) = ?, u\\(_1\\) = 25\u00a0ms\\(^{-1}\\), u\\(_2\\) = -\u00a010\u00a0ms\\(^{-1}\\)(opp. direction), v\\(_{1, 2}\\) = 12.8ms\\(^{-1}\\)\nFrom the principle of conservation of momentum\nm\\(_1\\) x\u00a0u\\(_1\\) +\u00a0m\\(_2\\) x\u00a0u\\(_2\\) =\u00a0v\\(_{1, 2}\\)(\u00a0m\\(_1\\) +\u00a0m\\(_2\\))\n(80 x 25) + (m\\(_2\\) x (-10)) = 12.8(80 +\u00a0m\\(_2\\))\n2000 - 10m\\(_2\\) = 1024 + 12.8m\\(_2\\)\n12.8m\\(_2\\) +\u00a010m\\(_2\\) = 2000 - 1024 = 976\n22.8m\\(_2\\) = 976\nm\\(_2\\) = \\(\\frac{976}{22.8}\\) = 42.8 kg\u00a0\u2248 43 kg to the nearest whole number.",
+    "year": "2024"
+  },
+  {
+    "number": "750",
+    "text": "In how many ways can 12 people be seated on a bench if only 5 spaces are available?",
+    "options": {
+      "A": "95040",
+      "B": "11880",
+      "C": "792",
+      "D": "495"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72140?exam_type=waec&type=obj&page=150",
+    "correct_answer": "A",
+    "explanation": "\\(_5^{12}\\)C = \\(\\frac{12!}{(12 - 5)!5!}\\) =\u00a0\\(\\frac{12!}{(12 - 5)!5!}\\) = 792 ways\nBut 5! = 5 x 4 x 3 x 2 x 1 = 120\nThe number of ways = 120 x 792 = 95040 ways",
+    "year": "2024"
+  },
+  {
+    "number": "751",
+    "text": "In triangle XYZ, |XY| = 10cm, |YZ| = 9 cm and |XZ| = 7 cm. If XZY = \\(\\alpha\\), find the value of cos \\(\\alpha\\).",
+    "options": {
+      "A": "\\(\\frac{11}{15}\\)",
+      "B": "\\(\\frac{17}{35}\\)",
+      "C": "\\(\\frac{5}{21}\\)",
+      "D": "\\(\\frac{7}{32}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72141?exam_type=waec&type=obj&page=151",
+    "correct_answer": "C",
+    "explanation": "Using, cos \\(\\alpha\\) = \\(\\frac{ b^2 + c^2 - a^2}{2bc}\\)\ncos \\(\\alpha\\) = \\(\\frac{ 9^2 + 7^2 - (10)^2}{2 \\times 9 \\times 7}\\)\n=\u00a0\u00a0\\(\\frac{ 130 - 100}{126}\\) =\u00a0\u00a0\\(\\frac{30}{126}\\) = \\(\\frac{5}{21}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "752",
+    "text": "If y\\(^2\\) + 2xy - 8 = 0, find \\(\\frac{dy}{dx}\\)",
+    "options": {
+      "A": "\\(\\frac{- y}{y + x}\\)",
+      "B": "\\(\\frac{2y + y}{y}\\)",
+      "C": "\\(\\frac{2y - x}{-y}\\)",
+      "D": "\\(\\frac{y}{2y - x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72142?exam_type=waec&type=obj&page=151",
+    "correct_answer": "A",
+    "explanation": "y\\(^2\\) + 2xy - 8 = 0\n\\(\\frac{dy}{dx}\\) = 2y\\(\\frac{dy}{dx}\\) + 2y + 2x\\(\\frac{dy}{dx}\\) = 0\n= 2y\\(\\frac{dy}{dx}\\) + 2x\\(\\frac{dy}{dx}\\) = -2y\n\\(\\frac{dy}{dx}\\) =\u00a0\\(\\frac{-2y}{2(y + x)}\\) =\u00a0\\(\\frac{- y}{y + x}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "753",
+    "text": "The mean of four numbers is 5 and the mean of another three numbers is 12. Find the mean of the seven numbers.",
+    "options": {
+      "A": "10",
+      "B": "9",
+      "C": "8",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72143?exam_type=waec&type=obj&page=151",
+    "correct_answer": null,
+    "explanation": "If the mean of 4 numbers is 5, then the sum of the four nos = 4 x 5 = 20\nIf the mean of 3 numbers is 12, then the sum of the three nos = 3 x 12 = 36\nsum of the seven nos = 20 + 36 = 56\nthe mean(\\(\\overline{x}\\)) = \\(\\frac{56}{7}\\) = 8",
+    "year": "2024"
+  },
+  {
+    "number": "754",
+    "text": "Find, correct to the nearest degree, the acute angle between 3x - y - 5 = 0, and 7x - y - 3 = 0",
+    "options": {
+      "A": "10\\(^0\\)",
+      "B": "11\\(^0\\)",
+      "C": "24\\(^0\\)",
+      "D": "27\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72144?exam_type=waec&type=obj&page=151",
+    "correct_answer": "A",
+    "explanation": "3x - y - 5 = 0, and 7x - y - 3 = 0\nRearrange both equations to\u00a0the slope-intercept form\ny = 3x - 5\ny = 7x - 3\nSo that, m\\(_1\\) = 3, and\u00a0m\\(_2\\) = 7\nTan \\(\\theta\\) = \\(\\frac{m_2 - m_1}{1 +\u00a0m_1 m_2}\\)\n\\(\\theta\\) = tan\\(^{-1}\\)[\\(\\frac{m_2 - m_1}{1 +\u00a0m_1 m_2}\\)] =\u00a0tan\\(^{-1}\\)[\\(\\frac{7\u00a0- 3}{1 + 7 \\times 3}\\)]\n\\(\\theta\\) =\u00a0tan\\(^{-1}\\)[\\(\\frac{4}{22}\\)] = 10.3\u00a0\u2248 10\u00ba\nThus, the acute angle between the two lines is approximately\u00a010\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "755",
+    "text": "The gradient of a curve is given by 3x\\(^2\\) - 8x + 2. If the curve passes through P(0, 4), find the equation of the curve.",
+    "options": {
+      "A": "y = x\\(^3\\) - 4x\\(^2\\) + 2x + 4",
+      "B": "y = x\\(^3\\) - 4x\\(^2\\) + 2x + 2",
+      "C": "y = 3x\\(^3\\) - 4x\\(^2\\) + 2x + 4",
+      "D": "y = 3x\\(^3\\) - 4x\\(^2\\) + 2x - 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72145?exam_type=waec&type=obj&page=151",
+    "correct_answer": "A",
+    "explanation": "The gradient of a curve is given by 3x\\(^2\\) - 8x + 2. P(0, 4)\n\\(\\frac{dy}{dx}\\) =\u00a03x\\(^2\\) - 8x + 2\n\\(\\int\\)\\(\\frac{dy}{dx}\\) = \\(\\int\\)[3x\\(^2\\) - 8x + 2]\ny = \\(\\frac{3x^2}{3} - \\frac{8x^2}{2} + 2x +\u00a0c\\)\ny = x\\(^3\\) - 4x\\(^2\\) + 2x + c\nx = 0, y = 4\n4 =\u00a0 \\(\\frac{3 \\times 0^2}{3} - \\frac{8 \\times 0^2}{2} + 2 \\times 0\u00a0+ c\\)\nc = 4.\nThus, y =\u00a0x\\(^3\\) - 4x\\(^2\\) + 2x + 4",
+    "year": "2024"
+  },
+  {
+    "number": "756",
+    "text": "Given that y = 2x - 1 and\u00a0\u0394x = 0.1, find\u00a0\u0394 y",
+    "options": {
+      "A": "0.20",
+      "B": "0.15",
+      "C": "0.10",
+      "D": "0.05"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72146?exam_type=waec&type=obj&page=152",
+    "correct_answer": "A",
+    "explanation": "Given the function y = 2x \u2212 1 and\u00a0 \u0394 x = 0.1.\n\u0394y = f(x -\u00a0\u0394x) - f(x) = [(2(x + 0.1) \u2212 1) \u2212 (2x \u2212 1)]\n\u0394y = 2x + 0.2 - 1 - 2x + 1 = 0.2.",
+    "year": "2024"
+  },
+  {
+    "number": "757",
+    "text": "The scores of some students in a class test are 4, 6, 1, 8, 9, 5, and 2. Calculate, correct to one decimal place, the mean deviation of their scores.",
+    "options": {
+      "A": "2.3",
+      "B": "2.7",
+      "C": "5.0",
+      "D": "5.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72147?exam_type=waec&type=obj&page=152",
+    "correct_answer": "A",
+    "explanation": "The scores of some students in a class test are 4, 6, 1, 8, 9, 5, and 2\nM.D = \\(\\frac{\\sum {|x - \\overline{x}|}}{n}\\)\n\\(\\overline{x}\\) = \\(\\frac{4 + 6 + 1 + 8 + 9 + 5 + 2}{7}\\) = \\(\\frac{35}{7}\\) = 5\nxx - \\(\\overline{x}\\)|x - \\(\\overline{x}\\)|44 - 5 = - 1166 - 5 = 1111 - 5 = - 4488 - 5 = 3399 - 5 = 4455 - 5 = 0022 - 5 = - 33\n\\(\\sum {|x - \\overline{x}|}\\) = 16\nM.D = \\(\\frac{\\sum {|x - \\overline{x}|}}{n}\\) = \\(\\frac{16}{7}\\) = 2.2857\u00a0\u2248 2.3",
+    "year": "2024"
+  },
+  {
+    "number": "758",
+    "text": "The line x + y + 4 = 0 makes an angle of \\(\\theta\\)\u00a0with the x-axis. Find the value of \\(\\theta\\)",
+    "options": {
+      "A": "315\\(^0\\)",
+      "B": "225\\(^0\\)",
+      "C": "135\\(^0\\)",
+      "D": "45\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72148?exam_type=waec&type=obj&page=152",
+    "correct_answer": "A",
+    "explanation": "The line x + y + 4 = 0\ny = - x - 4 (in the slope-intercept form)\nm = -1\nBut, Tan \\(\\theta\\) = - 1 = slope/gradient\n\\(\\theta\\) = tan\\(^{-1}\\)(-1) = - 45\u00ba\nBut, tan -45\u00ba is in the fourth quadrant, since the line made an angle with the x-axis, the positive value = 360 - 45 = 315\\(^0\\)",
+    "year": "2024"
+  },
+  {
+    "number": "759",
+    "text": "The parents of 7 out of every 10 students in a class are farmers. If 12 students were selected at random, find the probability\u00a0that the parents of 8 of them will be farmers.",
+    "options": {
+      "A": "0.0078",
+      "B": "0.0231",
+      "C": "0.0780",
+      "D": "0.2311"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72149?exam_type=waec&type=obj&page=152",
+    "correct_answer": "D",
+    "explanation": "P(farmer parent) = \\(\\frac{7}{10}\\) = 0.7\nP(non- framer parent) = 1 - 0.7 = 0.3\nUsing, \\(_x^nC p^x q^{n - r}\\)\nfor 12 students, the\u00a0probability\u00a0that 8 of their parents will be farmers is:\nP\\(_8\\) =\u00a0 \\(_x^nC p^x q^{n - r}\\) =\u00a0 \\(_8^{12}C (0.7^8\u00a0(0.3)^{12\u00a0- 8}\\)\nP\\(_8\\) = \\(\\frac{12!}{8!4!}\\)(0.7)\\(^8\\)(0.3)\\(^4\\) = 0.2311",
+    "year": "2024"
+  },
+  {
+    "number": "760",
+    "text": "In a truth table, if p is true and q is false, which of the following notations is false",
+    "options": {
+      "A": "[(p\u00a0\u21d2 q)\u00a0^ q]\u00a0\u21d2 q",
+      "B": "[(p\u00a0\u21d2 q)\u00a0^ q]\u00a0\u21d4\u00a0q",
+      "C": "[(p\u00a0\u21d2 q)\u00a0^ q]\u00a0^\u00a0q",
+      "D": "[(p\u00a0\u21d2 q)\u00a0^ q] v\u00a0~\u00a0q"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72150?exam_type=waec&type=obj&page=152",
+    "correct_answer": "C",
+    "explanation": "ppp\u00a0\u21d2 q(p \u21d2 q) \u2227 q[(p \u21d2 q) \u2227 q] \u21d2 q[(p \u21d2 q) \u2227 q] \u21d4 q[(p \u21d2 q) \u2227 q] \u2227 q[(p \u21d2 q) \u2227 q] \u2228 \u223c qTFFFTTFT\nFrom the truth table above,\u00a0[(p \u21d2 q) \u2227 q] \u2227 q is FALSE.",
+    "year": "2024"
+  },
+  {
+    "number": "761",
+    "text": "Find the sum of the first 20 terms of the sequences, -7, - 3, 1, . . . . .",
+    "options": {
+      "A": "620",
+      "B": "660",
+      "C": "690",
+      "D": "1240"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/72151?exam_type=waec&type=obj&page=153",
+    "correct_answer": "A",
+    "explanation": "-7, - 3, 1, . .\nT\\(_1\\) = -7, d = -3 - (-7) = -3 + 7 = 4\nS\\(_{20}\\) = \\(\\frac{n}{2}[2a + (n - 1)d]\nS\\(_{20}\\) = \\(\\frac{20}{2}[2(-7)\u00a0+ (20\u00a0- 1)4]\n= 10[ -14 + 19(4)] = 10[62] = 620",
+    "year": "2024"
+  }
+]

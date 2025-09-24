@@ -1,0 +1,701 @@
+[
+  {
+    "number": "1705",
+    "text": "The area under a force-time graph represents--------",
+    "options": {
+      "A": "change in kinetic energy",
+      "B": "change in momentum",
+      "C": "change in work done",
+      "D": "change in internal energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63057?exam_type=waec&type=obj&page=341",
+    "correct_answer": "B",
+    "explanation": "It is a graph that represents the force that acts on a body in a certain amount of time.Force on the object is represented by the y-axis and time taken by the object is represented by the y axis.The area under the curve indicates the\u00a0impulse, the change in momentum that the object undergoes.",
+    "year": "2022"
+  },
+  {
+    "number": "1706",
+    "text": "From the principle of flotation, a body sinks in a fluid until it displace a quantity equal to its own?",
+    "options": {
+      "A": "density",
+      "B": "mass",
+      "C": "weight",
+      "D": "volume"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63059?exam_type=waec&type=obj&page=342",
+    "correct_answer": "C",
+    "explanation": "Archimede's Principle states that\u00a0a body immersed in a fluid experiences an upthrust equal to the weight of the fluid displaced, and this is fundamental to the equilibrium of a body floating in still water.",
+    "year": "2022"
+  },
+  {
+    "number": "1707",
+    "text": "The length of a simple pendulum is increased by a factor of four. By what factor is its period increase?",
+    "options": {
+      "A": "0.5\\(\\pi\\)",
+      "B": "2",
+      "C": "2\\(\\pi\\)",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63060?exam_type=waec&type=obj&page=342",
+    "correct_answer": "B",
+    "explanation": "The period of a simple pendulum is doubled,\u00a0when its length is made four times.",
+    "year": "2022"
+  },
+  {
+    "number": "1708",
+    "text": "The linear expansivity, \\(\\alpha\\), and cubic expansivity, \\(\\gamma\\), of a material are related by the equation?",
+    "options": {
+      "A": "\\(\\gamma\\)=a",
+      "B": "\\(\\gamma\\)=3\\(\\alpha\\)",
+      "C": "\\(\\gamma\\)=2a",
+      "D": "\\(\\gamma\\)=\\(\\frac{1}{3} \\alpha \\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63066?exam_type=waec&type=obj&page=342",
+    "correct_answer": "B",
+    "explanation": "cubic and linear expansivity are related by this equation.\u00a0\u03b3=3\u03b1.",
+    "year": "2022"
+  },
+  {
+    "number": "1709",
+    "text": "Suppose three identical steel balls Q, R, and S, are placed on an undulating ground as illustrated in the diagram above. Which of the balls is/are in neutral equilibrium?",
+    "options": {
+      "A": "S only",
+      "B": "Q only",
+      "C": "R only",
+      "D": "Q and S only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63072?exam_type=waec&type=obj&page=342",
+    "correct_answer": "C",
+    "explanation": "A body is in neutral equilibrium when, upon receiving a slight displacement, it tends to come to rest in its new position, e.g.,\u00a0a ball rolling on a horizontal surface, or a cone resting on its curved surface.\nBall R: Positioned in a trough between two crests. If displaced slightly, it will move to a new position and remain there, showing it is in neutral equilibrium",
+    "year": "2022"
+  },
+  {
+    "number": "1710",
+    "text": "Which of the illustrated graphs above represents a body moving with uniform retardation?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63073?exam_type=waec&type=obj&page=342",
+    "correct_answer": "D",
+    "explanation": "If a body moves with uniform retardation, the velocity-time graph is\u00a0a straight line.",
+    "year": "2022"
+  },
+  {
+    "number": "1711",
+    "text": "The correct relationship between the displacement, s, of a particle initially at rest in a linear motion and the time, t, is?",
+    "options": {
+      "A": "s \\(\\alpha\\) t\\(^{-2}\\)",
+      "B": "s \\(\\alpha\\) t\\(^{-1}\\)",
+      "C": "s \\(\\alpha\\) t",
+      "D": "s \\(\\alpha\\) t\\(^{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63076?exam_type=waec&type=obj&page=343",
+    "correct_answer": "D",
+    "explanation": "Mathematically;\u00a0 S = vt + \\(\\frac{1}{2}\\)\u00a0at\\(^2\\)\n: S\u00a0\u221d\u00a0t\\(^2\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1712",
+    "text": "The joule is equivalent to?",
+    "options": {
+      "A": "Kg m\\(^{2}\\) s\\(^{-1}\\)",
+      "B": "Kg\\(^{2}\\) m s\\(^{-2}\\)",
+      "C": "Kg m\\(^{2}\\) s\\(^{-2}\\)",
+      "D": "Kg m s\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63078?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "Joule as\u00a0the unit of work done or energy used.\nForce = mass \u00d7 accelerationWork = Force \u00d7 DistanceWork = mass x acceleration x distance\nJoule = kg \u00d7 \\(\\frac{m}{s^2}\\) \u00d7 m\n\u2192 kg m\\(^2\\) s\\(^{-2}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1713",
+    "text": "Which of the following statement(s) is/are correct about a fixed mass of gas compressed in an inexpansible\u00a0container;\nI. The average speed of the\u00a0molecules increases\nII. The temperature of the gas increases\nIII. The molecules hit the walls of the container more often than before the compression",
+    "options": {
+      "A": "I only",
+      "B": "I and II only",
+      "C": "I, II, and III only",
+      "D": "I and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63085?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "The kinetic-molecular theory of gases assumes that ideal gas molecules:\n(1) are constantly moving;\n(2) have negligible volume;\n(3) have negligible intermolecular forces;\n(4) undergo perfectly elastic collisions; and\n(5) have an average kinetic energy proportional to the ideal gas's absolute temperature.",
+    "year": "2022"
+  },
+  {
+    "number": "1714",
+    "text": "An example of a mechanical wave is---------",
+    "options": {
+      "A": "water waves",
+      "B": "radio waves",
+      "C": "x-rays",
+      "D": "light rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63087?exam_type=waec&type=obj&page=343",
+    "correct_answer": "A",
+    "explanation": "A mechanical wave is a wave that is an oscillation of matter.\nA sound wave is a\u00a0mechanical wave\u00a0that propagates along or through a medium by particle-to-particle interaction.\nSound waves, water waves and seismic waves are some examples of mechanical waves\u00a0mechanical wave.",
+    "year": "2022"
+  },
+  {
+    "number": "1715",
+    "text": "Which of the following descriptions of the image formed by a plane mirror is not correct. the image is----",
+    "options": {
+      "A": "erect and of the same size as the object",
+      "B": "laterally inverted and of the same size as the object",
+      "C": "erect and bigger than the object",
+      "D": "virtual and if the same size"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63091?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "Images formed by plane mirrors are\u00a0virtual, upright, left-right reversed, the same distance from the mirror as the object's distance, and the same size as the object.",
+    "year": "2022"
+  },
+  {
+    "number": "1716",
+    "text": "The efficiency of a wheel and axle is 100% and the ratio of their radii is 5:1. calculate the effort required to lift a load of mass 20kg using this machine, [g = 10 m s\\(^{-2}\\)]",
+    "options": {
+      "A": "20N",
+      "B": "25N",
+      "C": "40N",
+      "D": "100N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63094?exam_type=waec&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "VR = 5:1 or 5\nLoad = 20kg or 200N\nMA =\u00a0\\(\\frac{200}{E}\\)\nEfficiency% = \\(\\frac{MA}{VR} * 100\\)\n100% =\u00a0\\(\\frac{200}{5E} * 100\\)\n5E = 200\nE = 40",
+    "year": "2022"
+  },
+  {
+    "number": "1717",
+    "text": "A freely suspended compass needle on the earth's surface settles in a plane called----------",
+    "options": {
+      "A": "geographic meridian",
+      "B": "magnetic meridian",
+      "C": "magnetic declination",
+      "D": "isoganals"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63275?exam_type=waec&type=obj&page=344",
+    "correct_answer": "B",
+    "explanation": "The magnetic meridian is\u00a0an equivalent imaginary line connecting the magnetic south and north poles\u00a0and can be taken as the horizontal component of magnetic force lines along the surface of the earth. Therefore, a compass needle will be parallel to the magnetic meridian.",
+    "year": "2022"
+  },
+  {
+    "number": "1718",
+    "text": "An object is placed at different distances, u, from a converging lens of focal\u00a0length, 15.0cm. For what value of u does the lens act\u00a0as a microscope?",
+    "options": {
+      "A": "u = 15cm only",
+      "B": "u = 30cm only",
+      "C": "M < 15cm only",
+      "D": "u > 30cm only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63282?exam_type=waec&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "For a converging lens to act as a simple microscope, the object must be placed at a distance less than one focal length.",
+    "year": "2022"
+  },
+  {
+    "number": "1719",
+    "text": "The periodic rise and fall in the intensity of sound produced whn two notes of nearly equal frequencies are sounded together is called?",
+    "options": {
+      "A": "doppler effect",
+      "B": "beat",
+      "C": "interference",
+      "D": "resonance"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63284?exam_type=waec&type=obj&page=344",
+    "correct_answer": "B",
+    "explanation": "beat, in physics,\u00a0the pulsation caused by the combination of two waves of slightly different frequencies.",
+    "year": "2022"
+  },
+  {
+    "number": "1720",
+    "text": "The power of the lens is +2.5D. What is the radius of the curvature?",
+    "options": {
+      "A": "2.5 cm",
+      "B": "25.0 cm",
+      "C": "40.0 cm",
+      "D": "80.0 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63286?exam_type=waec&type=obj&page=344",
+    "correct_answer": "D",
+    "explanation": "The power of a lens is defined as the reciprocal of its focal length in metres:\nP = \\(\\frac{100}{f}\\)\u00a0\u2192 2.5 =\u00a0\\(\\frac{100}{f}\\)\nwhere P is the power in\u00a0diopters\u00a0and f is the focal length in metres.\n2.5 * f = 100\nf =\u00a0\\(\\frac{100}{2.5}\\)\nf = 40\nWhere f =\u00a0\\(\\frac{r}{2}\\)\nradius of the curvature[r] = f * 2\u00a0\u2192 40 * 2\nr = 80cm",
+    "year": "2022"
+  },
+  {
+    "number": "1721",
+    "text": "The reason for having a large number of turns in the coil of a moving coil\u00a0galvanometer is to--------",
+    "options": {
+      "A": "make the deflection of the needle proportional to the current",
+      "B": "increase the sensitivity of the galvanometer",
+      "C": "decrease the magnetic flux produced by the magnet",
+      "D": "make the permanent magnet stronger"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63290?exam_type=waec&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "Sensitivity of a galvanometer increases\u00a0when number of turns, area of coil and magnetic field increase",
+    "year": "2022"
+  },
+  {
+    "number": "1722",
+    "text": "Current is passed through two parallel conductors in the same direction. If the conductors are placed near each other, they will------------------",
+    "options": {
+      "A": "move in a circle",
+      "B": "repel each other",
+      "C": "remain stationary",
+      "D": "attract each other"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63296?exam_type=waec&type=obj&page=345",
+    "correct_answer": "D",
+    "explanation": "Two conductors with current flowing in the same direction will attract.",
+    "year": "2022"
+  },
+  {
+    "number": "1723",
+    "text": "The period of a 10 kHz radio wave traveling at 10\\(^{8}\\) ms\\(^{-1}\\) is--",
+    "options": {
+      "A": "3.0 x  10\\(^{-5}\\)s",
+      "B": "1.0 x 10\\(^{-4}\\) s",
+      "C": "1.0 x 10\\(^{4}\\)s",
+      "D": "3.0 x 10\\(^{4}\\)s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63299?exam_type=waec&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "The relation between period and frequency isthat one is the inverse of the other.\nBy definition:\nFrequency = 1/period.\nor\nperiod = 1/frequency\u00a0\u2192 1/ 10,000\nperiod =\u00a00.0001 or\u00a01.0 x 10\\(^{-4}\\) s",
+    "year": "2022"
+  },
+  {
+    "number": "1724",
+    "text": "The magnetic material produced from the chemical combination of metal oxides and has a very high resistance to electric current is called",
+    "options": {
+      "A": "ferrite substance",
+      "B": "paramagnetic substance",
+      "C": "ferromagnetic substance",
+      "D": "diamagnetic substance"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63301?exam_type=waec&type=obj&page=345",
+    "correct_answer": "A",
+    "explanation": "Ferrite magnets are non-conductive aferromagnetic ceramic compounds derived from iron oxides such as Haematite (Fe203) or Magnetite (Fe304) and other metal oxides such as Barium and Strontium.\nFerrite is a polycrystal, sintered material with\u00a0high electrical resistivity. The high resistance of ferrite makes eddy current losses extremely low at high frequencies.",
+    "year": "2022"
+  },
+  {
+    "number": "1725",
+    "text": "A body of mass, M, moving with velocity, V, has a wavelength, X, associated with it. This phenomenon is called----------",
+    "options": {
+      "A": "photoelectric effect",
+      "B": "heisenberg's uncertainty principle",
+      "C": "compton effect",
+      "D": "wave-particles paradox"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63320?exam_type=waec&type=obj&page=345",
+    "correct_answer": "D",
+    "explanation": "De Broglie equation, \u03bb = h/mv, is used to describe the wave properties of matter, which suggests that matter can behave as a wave or particles, thereby leading to the wave-particle paradox.",
+    "year": "2022"
+  },
+  {
+    "number": "1726",
+    "text": "Which of the following statements about a straight current-carrying wire placed in a uniform magnetic field is correct? The wire experiences ---------------",
+    "options": {
+      "A": "maximum motor force if the current reverses its direction",
+      "B": "no motor force of it is parallel to the field",
+      "C": "no motor force if it is perpendicular to the field",
+      "D": "a motor force with constant direction if either the current or the magnetic field is reversed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63323?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "The greatest force is experienced when the conductor is at right angle to the field.\nI.e at perpendicular or \u00d8 = 90\u00b0",
+    "year": "2022"
+  },
+  {
+    "number": "1727",
+    "text": "Three cells each of emf, 1.0 V, and internal resistance, 2 \\(\\Omega\\), are connected in parallel across a 3\\(\\Omega\\)\u00a0 resistor. Determine the current in the resistor.",
+    "options": {
+      "A": "0.90A",
+      "B": "0.39A",
+      "C": "0.30A",
+      "D": "0.01A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63324?exam_type=waec&type=obj&page=346",
+    "correct_answer": "C",
+    "explanation": "Given Data: Emf = 1v, r = 2 ohms, R = 3 ohms, I = ?\n3 resistance in parallel = \\(\\frac{1}{r_1}\\) + \\(\\frac{1}{r_2}\\) +\u00a0\\(\\frac{1}{r_3}\\)\n\\(\\frac{1}{r_T}\\)=\u00a0\\(\\frac{1}{2}\\) +\u00a0\\(\\frac{1}{2}\\) +\u00a0\\(\\frac{1}{2}\\)\n\\(\\frac{1}{r_T}\\) =\u00a0\\(\\frac{1+1+1}{2}\\)\n\\(\\frac{1}{r_T}\\) =\u00a0\\(\\frac{3}{2}\\)\ncross multiply\nr\\(_T\\) =\u00a0\\(\\frac{2}{3}\\) or 0.67\nE = I(R+r)\n1 = I(3+0.67)\n1 = I(3.67)\n1\u00a0\u00f7 3.67 = I\n0.27 = I\n: I\u00a0\u2248 0.30A",
+    "year": "2022"
+  },
+  {
+    "number": "1728",
+    "text": "Which of the following statements about electric potential energy is not correct?",
+    "options": {
+      "A": "The electric potential energy of a positively charged particle increases when it moves to a point of higher potential",
+      "B": "The electric potential energy of a negatively charged particle increases when it moves to a point of lower potential",
+      "C": "The electric potential energy of a positively charged particle decreases when it moves to a point of higher potential",
+      "D": "The work done in taking a charged particle around a closed path in an electric field is zero."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63332?exam_type=waec&type=obj&page=346",
+    "correct_answer": "C",
+    "explanation": "The potential energy for a positive charge increases when it moves against an electric field(from lower potential to higher potential),\nAnd decreases when it moves with the electric field((from higher potential to lower potential);\nThe opposite is true for a negative charge. Unless the unit charge crosses a changing magnetic field, its potential at any given point does not depend on the path taken.",
+    "year": "2022"
+  },
+  {
+    "number": "1729",
+    "text": "A galvanometer with a full-scale deflection of 20 mA is Converted to read 8 K by connecting a 395 \\(\\Omega\\)\u00a0resistor in series with it. Determine the internal resistance of the galvanometer",
+    "options": {
+      "A": "2.5\\(\\Omega\\)",
+      "B": "5.0\\(\\Omega\\)",
+      "C": "8.0\\(\\Omega\\)",
+      "D": "10.0\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63335?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "r = resistance of the galvanometer\nl\u00a0= current through galvanometer = 20mA or 0.02A\nV1\u00a0= p.d across the\u00a0galvanometer = I X r\u00a0= 0.02\u00a0X r\n: V1 = 0.02r\nV2 =\u00a0 p.d across the\u00a0 multiplier = 8\u00a0- 0.02r\nR = resistance of the multiplier = 395\u03a9\nwhere R = \\(\\frac{V}{I}\\)\n--> 395\u00a0= \\(\\frac{8\u22120.02r}{0.02}\\)\nCROSS MULTIPLY\n8\u22120.02r = 395 * 0.02\n8\u22120.02r = 7.9\n-->\u00a00.02r = 8\u00a0- 7.9\n\u2234 r = \\(\\frac{0.1}{0.02}\\)\n= 5\u03a9",
+    "year": "2022"
+  },
+  {
+    "number": "1730",
+    "text": ".An inductor of inductance 10 H is connected across an a.c\u00a0circuit source of 50 V, 100 Hz. What is the current in the circuit? [\\(\\pi\\) = 3.14]",
+    "options": {
+      "A": "0.200A",
+      "B": "0.070A",
+      "C": "0.050A",
+      "D": "0.008A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63338?exam_type=waec&type=obj&page=346",
+    "correct_answer": "D",
+    "explanation": "Given Data: L = 10, V = 50, F = 100, I = ?\nInductive Reactance [X\\(_L\\)] = 2\\(\\pi\\)FL\u00a0\u2192 2 * 3.14 * 100 * 10\nX\\(_L\\) =\u00a06,280\nCurrent[I] = \\(\\frac{V}{X_L}\\)\u00a0\u2192\u00a0\\(\\frac{50}{6280}\\)\nI =\u00a00.0079\n\u2248 0.008A",
+    "year": "2022"
+  },
+  {
+    "number": "1731",
+    "text": "The speed of fast-moving neutrons in a nuclear reactor can be reduced by using?",
+    "options": {
+      "A": "graphite rods",
+      "B": "concrete shield",
+      "C": "iron rods",
+      "D": "boron rods"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63342?exam_type=waec&type=obj&page=347",
+    "correct_answer": "A",
+    "explanation": "Moderation is the process of the reduction of the initial high speed (high kinetic energy) of the free neutron.\nSince energy is conserved, this reduction of the neutron speed takes place by transfer of energy to a material called a moderator.\nThere are several different types of moderating materials, and each have places where they are used more effectively.\nTypically-used moderator materials include\u00a0heavy water, light water, and graphite.",
+    "year": "2022"
+  },
+  {
+    "number": "1732",
+    "text": "In a series R-L-C circuit at resonance, impedance is----",
+    "options": {
+      "A": "maximum",
+      "B": "minimum",
+      "C": "capacitive",
+      "D": "inductive"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63346?exam_type=waec&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "This is because, at resonance, the reactive components (inductive and capacitive reactance) cancel each other out, resulting in only the resistive component contributing to the impedance.",
+    "year": "2022"
+  },
+  {
+    "number": "1733",
+    "text": "A lamp is rated 240 V, 60 W. Determine the resistance of the lamp when lit?",
+    "options": {
+      "A": "120\\(\\Omega\\)",
+      "B": "240\\(\\Omega\\)",
+      "C": "540\\(\\Omega\\)",
+      "D": "960\\(\\Omega\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63347?exam_type=waec&type=obj&page=347",
+    "correct_answer": "D",
+    "explanation": "P = 60w, V = 240v, R = ?\nP = \\(\\frac{V^2}{R}\\)\n: 60 =\u00a0\\(\\frac{240^2}{R}\\)\n\u2192 R * 60 = 57,600\nR =\u00a0\\(\\frac{57,600}{60}\\)\nR = 960\\(\\Omega\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1734",
+    "text": "One major reason why electrical appliances in homes are normally earthed is that the-----------",
+    "options": {
+      "A": "person touching the appliance is safe from electric shock",
+      "B": "appliances are maintained at a higher p.d. than the earth",
+      "C": "appliances are maintained at a lower p.d. than the earth",
+      "D": "appliances are maintained at the same p.d. with that of the earth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63352?exam_type=waec&type=obj&page=347",
+    "correct_answer": "A",
+    "explanation": "Earthing of an electrical appliance meant\u00a0the outer metallic case of appliance is connected with earth, wire which is welded to the end of a copper rod and it is burned in the ground. It save the appliance during short-circuiting by passing Excessive current to earth.",
+    "year": "2022"
+  },
+  {
+    "number": "1735",
+    "text": "In doping an intrinsic semiconductor to produce a p-type semiconductor,",
+    "options": {
+      "A": "the semiconductor is heated up",
+      "B": "a donor element is added",
+      "C": "an acceptor element is added",
+      "D": "the semiconductor is conducted to a battery"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63354?exam_type=waec&type=obj&page=347",
+    "correct_answer": "C",
+    "explanation": "If the dominant impurity atoms are ACCEPTOR\u00a0type in the semiconductor, it will have a majority of holes over the electrons [p-type].",
+    "year": "2022"
+  },
+  {
+    "number": "1736",
+    "text": "Arrange the following radiations in order of increasing ionization of air.\nI. Alpha\nIl. Gamma\nIIl. Beta",
+    "options": {
+      "A": "I < III < II",
+      "B": "II < I < III",
+      "C": "II < III < I",
+      "D": "I < II"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63361?exam_type=waec&type=obj&page=348",
+    "correct_answer": "C",
+    "explanation": "Alpha particles are highly ionising\u00a0because of their double positive charge, large mass (compared to a\u00a0beta particle) and because they are relatively slow.\nThey can cause multiple ionisations within a very small distance.\nAnd\u00a0the gamma radiation has the least ionising power.",
+    "year": "2022"
+  },
+  {
+    "number": "1737",
+    "text": "If the kinetic energy of an electron is 100 eV, what is the wavelength of the de-Broglie wave associated with it? [h = 6.6 x 10\\(^{-34}\\) J s, e = 1.6 x 10\\(^{-19}\\)C, m\\(_{e}\\), = 9.1 x 10\\(^{-31}\\)\u00a0kg]",
+    "options": {
+      "A": "1.22 x 10\\(^{-10}\\)m",
+      "B": "4.10 x 10\\(^{-10}\\)m",
+      "C": "3.90 x 10\\(^{-10}\\)m",
+      "D": "5.50 x 10\\(^{-14}\\)m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63368?exam_type=waec&type=obj&page=348",
+    "correct_answer": "A",
+    "explanation": "de broglie wavelength formula in terms of kinetic energy:\n\u03bb = \\(\\frac{h}{\\sqrt{2mE}}\\)\n\u03bb = \\(\\frac{6.6 \\times 10^{-34}}{\\sqrt{2 \\times 9.1 \\times10^{-31} \\times100\\times 1.6 \\times 10^{-19}}}\\)\n\u03bb =\u00a01.22 x 10\\(^{-10}\\)m\nNOTE; E = 100eV = 100 x 1.6 x 10\\(^{-19}\\)J",
+    "year": "2022"
+  },
+  {
+    "number": "1738",
+    "text": "Gamma rays are produced when?",
+    "options": {
+      "A": "high velocity electrons are abruptly stopped in metals",
+      "B": "energy changes occur within the nuclei of atoms",
+      "C": "energy changes occur within the electronic structure of atoms",
+      "D": "electrons are deflected in very strong\u00a0magnetic fields"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63375?exam_type=waec&type=obj&page=348",
+    "correct_answer": "B",
+    "explanation": "Gamma raysareproducedin the disintegration of radioactive atomic nuclei and in the decay of certain subatomic particles.\nGamma radiation is emitted by excited nucleior other processes involving subatomic particles;\nit often accompanies alpha or beta radiation, as a nucleus emitting those particles may be left in an excited (higher-energy) state.",
+    "year": "2022"
+  },
+  {
+    "number": "1739",
+    "text": "The half-life of a radioactive substance is 15 hours. If at some instance, the sample has a mass of 512 g, calculate the time it will take \\(\\frac{7}{8}\\) of the sample to decay",
+    "options": {
+      "A": "15 hours",
+      "B": "30 hours",
+      "C": "45 hours",
+      "D": "60 hours"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63378?exam_type=waec&type=obj&page=348",
+    "correct_answer": "C",
+    "explanation": "Initial Mass: 512 g,Mass Decayed: \\(\\frac{7}{8}\\)\u00a0of 512 = 448g, Remaining mass = 512 - 448 = 64g\nUsing, N(t) = No(\\(\\frac{1}{2}\\))\\(^{\\frac{T}{T1/2}}\\)\n\\(\\frac{N(t)}{No}\\) =\u00a0(\\(\\frac{1}{2}\\))\\(^{\\frac{T}{T1/2}}\\)\n\\(\\frac{64}{512}\\) =\u00a0\\(\\frac{1}{8}\\) =\u00a0\u00a0(\\(\\frac{1}{2}\\))\\(^{\\frac{T}{15}}\\)\n\\(\\frac{1}{8}\\) = (\\(\\frac{1}{2}\\))\\(^3\\) =\u00a0\u00a0(\\(\\frac{1}{2}\\))\\(^{\\frac{T}{15}}\\)\nequating coefficient\n3 = \\(\\frac{T}{15}\\)\nT = 3 x 15 = 45hours.",
+    "year": "2022"
+  },
+  {
+    "number": "1740",
+    "text": "When the direction of vibration of the particles of a medium is perpendicular to the direction of propagation of a wave, the wave is said to be--------",
+    "options": {
+      "A": "longitudinal",
+      "B": "transverse",
+      "C": "mechanical",
+      "D": "a sound wave"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63381?exam_type=waec&type=obj&page=348",
+    "correct_answer": "B",
+    "explanation": "In physics, a transverse wave is a wave whose oscillations are perpendicular to the direction of the wave's advance.\nThis is in contrast to a longitudinal wave which travels in the direction of its oscillations. Water waves are an example of transverse wave.",
+    "year": "2022"
+  },
+  {
+    "number": "1741",
+    "text": "A hunter fires a gun at a point 408 m away from a cliff. If he hears an echo 2.4 s later, determine the speed of the sound wave",
+    "options": {
+      "A": "340 ms\\(^{-1}\\)",
+      "B": "380 m s\\(^{-1}\\)",
+      "C": "400 m s \\(^{-1}\\)",
+      "D": "680 m s\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63388?exam_type=waec&type=obj&page=349",
+    "correct_answer": "A",
+    "explanation": "speed of the sound wave = \\(\\frac{distance * 2}{time}\\)\n=\u00a0\\(\\frac{408 * 2}{2.4}\\)\n:\u00a0speed of the sound wave =\u00a0340 ms\\(^{-1}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1742",
+    "text": "The distance between the fixed points of a mercury-in-glass thermometer is 30 cm. Determine the temperature when the mercury level is 10.5 cm above the lower fixed point",
+    "options": {
+      "A": "28.6\u00baC",
+      "B": "30.0 \u00baC",
+      "C": "35.0 \u00baC",
+      "D": "40.5 \u00baC"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63391?exam_type=waec&type=obj&page=349",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{10.5-0}{30-0}\\) =\u00a0\\(\\frac{c-0}{100-0}\\)\n\\(\\frac{10.5}{30}\\) =\u00a0\\(\\frac{c}{100}\\)\ncross multiply:\n10.5 * 100 = 30c\n35.0 \u00baC = c",
+    "year": "2022"
+  },
+  {
+    "number": "1743",
+    "text": "Which of the following statements-about electromagnetic waves is not correct?",
+    "options": {
+      "A": "They carry energy as they travel through space",
+      "B": "They travel with the speed of light",
+      "C": "They are longitudinal",
+      "D": "The electric and magnetic fields are at right angles to each other"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63393?exam_type=waec&type=obj&page=349",
+    "correct_answer": "C",
+    "explanation": "All electromagnetic waves are:\ntransverse waves; can travel through a vacuum ;travel at exactly the same speed in a vacuum, the speed of light, 300,000,000 m/s.transfer energy from one place to another;can be reflected;can be refracted .The oscillations of and are perpendicular to each other and are in the same phase.",
+    "year": "2022"
+  },
+  {
+    "number": "1744",
+    "text": "The diameter of a brass ring at 30 \u00b0C is 50.0 cm. To what temperature must this ring be heated to increase its diameter to 50.29 cm? [ linear expansivity of brass = 1.9 x 10\\(^{-5}\\) K\\(^{-1}\\)]",
+    "options": {
+      "A": "152.6 \u00b0C",
+      "B": "182.6 \u00b0C",
+      "C": "306.1 \u00b0C",
+      "D": "335.3 \u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63395?exam_type=waec&type=obj&page=349",
+    "correct_answer": "D",
+    "explanation": "Area expansivity(\u00df) = \\(\\frac{ A_2 - A_1}{ A_1(\u03b8_2 -\u00a0\u03b8_1})\\)\nArea = \\(\\frac{\\pi d^2}{4}\\)\n\\(d_1\\) = 50.0cm, \\(d_2\\) = 50.29cm, \\(\u03b8_1\\) = 30\u00baC,\u00a0\u00a0\\(\u03b8_2\\) = ? and\u00a0\u00df = 2\u03b1\n\\(2 \\times\u00a01.9 \\times\u00a010^{-5}\\) = \u00a0\\(\\frac{50.29^2 - 50^2}{ 50^2(\u00a0\u03b8_2 - 30)}\\)\n\\(\u03b8_2 - 30\\) =\u00a0 \u00a0\\(\\frac{50.29^2 - 50^2}{ 50^2(2 \\times 1.9 \\times10^{-5})}\\)\n\\(\u03b8_2\\) = 30 +\u00a0\u00a0\\(\\frac{50.29^2 - 50^2}{ 50^2(2 \\times 1.9 \\times10^{-5})}\\) =\u00a0335.3 \u00b0C\nnote : \\(\\frac{\\pi}{4}\\) cancels out.",
+    "year": "2022"
+  },
+  {
+    "number": "1745",
+    "text": "Which of the following concepts is a method of heat transfer that does not require a\u00a0material medium?",
+    "options": {
+      "A": "Conduction",
+      "B": "Diffusion",
+      "C": "Convection",
+      "D": "Radiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63399?exam_type=waec&type=obj&page=349",
+    "correct_answer": "D",
+    "explanation": "Radiation\u00a0is energy that comes from a source and travels through space and may be able to penetrate various materials.\nLight, radio, and microwaves are good examples",
+    "year": "2022"
+  },
+  {
+    "number": "1746",
+    "text": "Which of the folowing statements about light travelling from one material medium to\u00a0another is not correct?",
+    "options": {
+      "A": "Its wavelength does not change",
+      "B": "It bends away from the normal if the speed is lower in the first material",
+      "D": "Its frequency changes."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63401?exam_type=waec&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "Refraction occurs when light travels from one medium to another which changes the speed at which the light travels.\nThis causes light to bend upon incidence with the interface of a new material.\nAngle of refraction is smaller than angle of incidence\u00a0when light ray travels from rarer medium to denser medium.\nI.e\u00a0\u00a0light can either refract towards the normal(when slowing down while crossing the boundary) or away from the normal\u00a0(when speeding up while crossing the boundary).\nWhen light undergoes refraction,\u00a0its frequency remains the same.",
+    "year": "2022"
+  },
+  {
+    "number": "1747",
+    "text": "The engine of a car provides a forward force of 1240 N and the total resistive force on the car is 800N. If the mass of the car is 1220 kg, determine the distance the car has to travel from the rest before acquiring a speed of 4 m s\\(^{-1}\\).",
+    "options": {
+      "A": "44.0 m",
+      "B": "22.2 m",
+      "C": "11.1 m",
+      "D": "5.5 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63405?exam_type=waec&type=obj&page=350",
+    "correct_answer": "B",
+    "explanation": "Acceleration[a] = \\(\\frac{[forward - resistive]force}{mass}\\)\na =\u00a0\\(\\frac{1240-800}{1220}\\)\u00a0\u2192\u00a0\\(\\frac{440-800}{1220}\\)\na = 0.36m/s\\(^2\\),\u00a0 v = 4m/s, s = ?\nSecond equation of motion:\ns is distanceu is initial velocityv is final velocitya is acceleration\nv\\(^2\\) = u\\(^2\\) + 2as\n4\\(^2\\) = 0\\(^2\\) + 2 * 0.36 * s\n16 =\u00a0 0.72s\n22.2m = s",
+    "year": "2022"
+  },
+  {
+    "number": "1748",
+    "text": "A quantity of water at 0 \u00b0C is heated to 30 \u00b0C. For each degree rise in temperature, its density will---------",
+    "options": {
+      "A": "rise steadily",
+      "B": "fall steadily",
+      "C": "fall and then rises",
+      "D": "rise and then falls"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63409?exam_type=waec&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "When water is heated,\u00a0the density rises and falls steadily, remember the anomalous expansion of water.",
+    "year": "2022"
+  },
+  {
+    "number": "1749",
+    "text": "A small object of mass 50 g is released from a point\u00a0A. Determine the velocity of the object when it reaches a point B, a vertical distance of 30m below A. [g = 10 ms\\(^{-2}\\)",
+    "options": {
+      "A": "1.5 ms\\(^{-1}\\)",
+      "B": "6.0 m s\\(^{-1}\\)",
+      "C": "17.3 m s\\(^{-1}\\)",
+      "D": "24.5 m s\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63410?exam_type=waec&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "v = ?, u = 0, a = 10, s = 30\nV\u00b2 = U\u00b2+2asV\u00b2 = 0 + 2 * 10 *\u00a030V\u00b2 = 0 + 600V = \u221a600V = 24.5m/s",
+    "year": "2022"
+  },
+  {
+    "number": "1750",
+    "text": "Molecules move in random motion within a liquid. The total internal energy of the liquid depends on all of the following except its?",
+    "options": {
+      "A": "temperature",
+      "B": "mass",
+      "C": "specific heat capacity",
+      "D": "melting point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63411?exam_type=waec&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "Internal energy is affected by factors such as\u00a0pressure, volume, and temperature.\nAll of the variables in this list are state functions. Mass, volume, pressure, temperature, density, and entropy are all examples of state functions.",
+    "year": "2022"
+  },
+  {
+    "number": "1751",
+    "text": "The viscosity of a fluid depends on the following factors except the?",
+    "options": {
+      "A": "relative motion between the layers of the fluid",
+      "B": "nature of the material of the fluid",
+      "C": "surface area of the fluid in contact",
+      "D": "normal reaction in the fluid"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63414?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "The viscosity of a material is affected by\u00a0temperature, pressure, nature of fluid, velocity gradient",
+    "year": "2022"
+  },
+  {
+    "number": "1752",
+    "text": "Using venier calipers, which of the following\u00a0readings gives the correct measurement for the length of a rod?",
+    "options": {
+      "A": "4.1 cm",
+      "B": "4.13cm",
+      "C": "125 cm",
+      "D": "1254 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63416?exam_type=waec&type=obj&page=351",
+    "correct_answer": "B",
+    "explanation": "Vernier calipers commonly used in industry provide a precision to\u00a00.01 mm (10 micrometres), or 0.01cm or one thousandth of an inch.\nUsually, it is the total length of the main scale. Vernier calipers, generally, have a range of\u00a0300 mm\n300 millimeters equal\u00a030.0 centimeters\u00a0(300mm = 30.0cm).",
+    "year": "2022"
+  },
+  {
+    "number": "1753",
+    "text": "The basic principle of operation of a beam balance is------------------",
+    "options": {
+      "A": "Hooke's law",
+      "B": "Archimedes principle",
+      "C": "law of flotation",
+      "D": "principle of moments"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63418?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "Hooke's Law states that\u00a0the extension of a spring is proportional to the load that is applied to it. A variety of materials obey this law as long as the load does not exceed the material's elastic limit.\nArchimede's Principle states that\u00a0a body immersed in a fluid experiences an upthrust equal to the weight of the fluid displaced, and this is fundamental to the equilibrium of a body floating in still water.\nWhen a body floats in a liquid, the weight of the liquid displaced by its immersed part is equal to the total weight of the body. This is the law of floatation.\nThe Principle of Moments states that\u00a0when a body is balanced, the total clockwise moment about a point equals the total anticlockwise moment about the same point.",
+    "year": "2022"
+  },
+  {
+    "number": "1754",
+    "text": "In which of the following situations is friction not useful?",
+    "options": {
+      "A": "Operation of a grinding machine",
+      "B": "Walking",
+      "C": "Application of brakes",
+      "D": "Moving piston in a sleeve"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/63420?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "friction,\u00a0force that resists the sliding or rolling of one solid object over another.\nExamples of friction in our daily life\nDriving of a a vehicle on a surface.Applying brakes to stop a moving vehicle.Skating.Walking on the road.",
+    "year": "2022"
+  }
+]

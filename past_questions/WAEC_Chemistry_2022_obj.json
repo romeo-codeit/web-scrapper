@@ -1,0 +1,700 @@
+[
+  {
+    "number": "1424",
+    "text": "The by-product of fermentation of sugar is",
+    "options": {
+      "A": "carbon(IV) oxide.",
+      "B": "ethanoic acid.",
+      "C": "propanol",
+      "D": "propan-1, 2, 3- triol."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65791?exam_type=waec&type=obj&page=285",
+    "correct_answer": "A",
+    "explanation": "Ethanol fermentation, also called alcoholic fermentation, is a biological process which converts sugars such as glucose, fructose, and sucrose into cellular energy, producing ethanol and carbon dioxide as by-products",
+    "year": "2022"
+  },
+  {
+    "number": "1425",
+    "text": "Which of the following sugars is a product of the condensation of monosaccharides?",
+    "options": {
+      "A": "galactose",
+      "B": "maltose",
+      "C": "glucose",
+      "D": "fructose"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65792?exam_type=waec&type=obj&page=285",
+    "correct_answer": "B",
+    "explanation": "Maltose is produced by the enzymatic hydrolysis of starch (a homopolysaccharide) catalyzed by the enzyme amylase.",
+    "year": "2022"
+  },
+  {
+    "number": "1426",
+    "text": "The cleansing effect of soap is low in acidic water because of",
+    "options": {
+      "A": "the formation of unionized fatty acid.",
+      "B": "increase in the pH of the soap molecules.",
+      "C": "anti-biodegradable effect of hydrogen ions",
+      "D": "the hardness of the acidic water."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65793?exam_type=waec&type=obj&page=286",
+    "correct_answer": "A",
+    "explanation": "Soaps cannot be used in acidic condition because they lose their cleansing effect due to the formation of long chain fatty acids",
+    "year": "2022"
+  },
+  {
+    "number": "1427",
+    "text": "The following compounds are condensation polymers except",
+    "options": {
+      "A": "nylon",
+      "B": "protein",
+      "C": "starch",
+      "D": "polyethene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65794?exam_type=waec&type=obj&page=286",
+    "correct_answer": "D",
+    "explanation": "Condensation polymers are any kind of polymers whose process of polymerization involves a condensation reaction.",
+    "year": "2022"
+  },
+  {
+    "number": "1428",
+    "text": "What amount of electricity is required to deposit one mole of aluminium from a solution of AlCl3?",
+    "options": {
+      "A": "One Faraday",
+      "B": "One ampere",
+      "C": "Three Faradays",
+      "D": "Three amperes"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65795?exam_type=waec&type=obj&page=286",
+    "correct_answer": "C",
+    "explanation": "AlCl3 \u2192 Al3+ + 3Cl-At cathode:Al3+ + 3e- \u2192 Al3 mole of electrons corresponds 3 F chargeSo, required charge =3 F",
+    "year": "2022"
+  },
+  {
+    "number": "1429",
+    "text": "Which of the following compounds would react rapidly with bromine?",
+    "options": {
+      "A": "Benzene",
+      "B": "Hexane",
+      "C": "Hexene",
+      "D": "Hexanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65796?exam_type=waec&type=obj&page=286",
+    "correct_answer": "C",
+    "explanation": "The addition of bromine to most alkenes is so fast that when bromine is added dropwise to a solution of the alkene the red bromine color disappears almost immediately. In fact, this discharge of color is a useful qualitative test for alkenes.",
+    "year": "2022"
+  },
+  {
+    "number": "1430",
+    "text": "Alkanols can be manufactured from alkenes by the initial reaction of alkenes with",
+    "options": {
+      "A": "bromine in tetrachloromethane",
+      "B": "concentrated tetraoxosulphate(VI) acid",
+      "C": "aqueous potassium tetraoxomanganate(VII).",
+      "D": "sodium hydroxide solution."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65797?exam_type=waec&type=obj&page=286",
+    "correct_answer": "B",
+    "explanation": "An alkene reacts with conc. H2SO4 to yield an alkyl hydrogen tetraoxosulphate (VI). The compound formed undergoes hydrolysis when boiled with water to yield an alcohol.",
+    "year": "2022"
+  },
+  {
+    "number": "1431",
+    "text": "Which of the following statements about the standard hydrogen electrode is not correct?",
+    "options": {
+      "A": "The hydrogen gas is at a pressure of 1 atmosphere",
+      "B": "A solution containing 1 mol dm-3 of H+ (aq) ions is used",
+      "C": "A platinum electrode is used",
+      "D": "The temperature is kept at 20 \u00b0C"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65798?exam_type=waec&type=obj&page=287",
+    "correct_answer": "D",
+    "explanation": "The standard hydrogen electrode consists of hydrogen gas at 25oC",
+    "year": "2022"
+  },
+  {
+    "number": "1432",
+    "text": "If 60 g of M combines with 24 g of oxygen, what would the empirical formula of the oxide be?\n( molar mass of M = 120, O = 16)",
+    "options": {
+      "A": "MO",
+      "B": "MO\\(_{2}\\)",
+      "C": "MO\\(_{3}\\)",
+      "D": "MO\\(_{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65799?exam_type=waec&type=obj&page=287",
+    "correct_answer": "C",
+    "explanation": "Data obtained from the questionM = 60 gO = 24 gEmpirical formula =?How to determine the empirical formulaDivide by their molar massM = 60\u00f7120 = 0.5O = 24 \u00f716 = 1.5Divide by the smallestM = 0.5\u00f70.5 = 1O = 1.5 \u00f70.5 = 3Thus, the empirical formula of the oxide is MO\u2083",
+    "year": "2022"
+  },
+  {
+    "number": "1433",
+    "text": "The products of the electrolysis of dilute sodium chloride using carbon electrodes are\n\nAnode Cathode",
+    "options": {
+      "A": "chlorine and sodium.",
+      "B": "oxygen and hydrogen.",
+      "C": "chlorine and hydrogen.",
+      "D": "hydrogen and oxygen."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65800?exam_type=waec&type=obj&page=287",
+    "correct_answer": "B",
+    "explanation": "Oxygen is produced at the anode and hydrogen is produced at the cathode in dilute NaCl",
+    "year": "2022"
+  },
+  {
+    "number": "1434",
+    "text": "Determine the quantity of electricity used when a current of 0.20 amperes is passed through an electrolytic cell for 60 minutes.",
+    "options": {
+      "A": "12C",
+      "B": "120C",
+      "C": "360C",
+      "D": "720C"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65801?exam_type=waec&type=obj&page=287",
+    "correct_answer": "D",
+    "explanation": "Q =Itt = 60 * 60=3600I = 0.20Q=0.20 * 3600Q= 720C",
+    "year": "2022"
+  },
+  {
+    "number": "1435",
+    "text": "Oxochlorate(I) acid is used as a bleaching agent because it is",
+    "options": {
+      "A": "a weak acid",
+      "B": "a reducing agent.",
+      "C": "an oxidizing agent",
+      "D": "a strong acid."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65802?exam_type=waec&type=obj&page=287",
+    "correct_answer": "C",
+    "explanation": "HOCl is unstable and decomposes to release oxygen which oxidizes the dye to form a colourless compound.",
+    "year": "2022"
+  },
+  {
+    "number": "1436",
+    "text": "The IUPAC name for CH\\(_{3}\\)CHCH\\(_{3}\\)CHCLCHCH\\(_{3}\\)CH\\(_{2}\\)CH\\(_{3}\\) is",
+    "options": {
+      "A": "2, 4 - dimethyl - 3 - chlorohexane",
+      "B": "3, 5 - dimethyl - 4 - chlorohexane",
+      "C": "4 - chloro - 3, 5 - dirnethylhexane",
+      "D": "3 - chloro - 2, 4 - dimethylhexane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65803?exam_type=waec&type=obj&page=288",
+    "correct_answer": "D",
+    "explanation": "- Recognise the functional group in the compound. This will determine the suffix of the name\n- Find the longest continuous carbon chain that contains the functional group (it won't always be a straight chain) and count the number of carbon atoms in this chain. This number will determine the prefix (the beginning) of the compound's name\n- Number the carbons in the longest carbon chain (Important: If the molecule is not an alkane (i.e. has a functional group) you need to start numbering so that the functional group is on the carbon with the lowest possible number). Start with the carbon at the end closest to the functional group.\n- Look for any branched groups:Name them by counting the number of carbon atoms in the branched group and referring to Table 4.6, these groups will all end in -yl.Note the position of the group on the main carbon chain. If there is more than one of the same type of branched group then both numbers must be listed (e.g. 2,4 -) and one of the prefixes listed in Table 4.7 must be used. Important: If the molecule is an alkane the branched group must be on the carbon with the lowest possible number.The branched groups must be listed before the name of the main chain in alphabetical order (ignoring di/tri/tetra).If there are no branched groups this step can be ignored.\n- For the alkyl halides the halogen atom is treated in much the same way as branched groups:To name them take the name of the halogen atom (e.g. iodine) and replace the -ine with -o (e.g. iodo)Give the halogen atom a number to show its position on the carbon chain. If there is more than one halogen atom the numbers should be listed and a prefix should be used (e.g. 3,4-diiodo- or 1,2,2-trichloro-). See Table 4.7 for a list of the prefixes.The halogen atoms must be listed before the name of the main chain in alphabetical order (ignore di/tri/tetra).If there are no halogen atoms this step can be ignored.- Combine the elements of the name into a single word in the following order:branched groups/halogen atoms in alphabetical order (ignoring prefixes)prefix of main chainname ending according to the functional group and its position on the longest carbon chain.",
+    "year": "2022"
+  },
+  {
+    "number": "1437",
+    "text": "A colourless gas with a pungent smell is evolved when dilute hydrochloric acid is added to a sample of a salt. The gas evolved could turn",
+    "options": {
+      "A": "acidified K\\(_{2}\\)Cr\\(_{2}\\)O\\(_{7}\\) solution colourless",
+      "B": "acidified KMnO\\(_{4}\\) solution colourless",
+      "C": "Fe(NO\\(_{3}\\))\\(_{2}\\) solution green",
+      "D": "Pb(NO\\(_{3}\\))\\(_{2}\\) paper black"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65804?exam_type=waec&type=obj&page=288",
+    "correct_answer": "B",
+    "explanation": "If the potassium manganate(VII) solution is acidified with dilute sulfuric acid, the purple solution becomes colourless.\nThe salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is Na\\(_2\\)SO\\(_3\\)\nNa\\(_2\\)SO\\(_3\\)(s)\u00a0 +\u00a0 HCl(aq)\u00a0 \u2192\u00a0 NaCl(aq)\u00a0 +\u00a0 H\\(_2\\)O(l)\u00a0 \u00a0+\u00a0 SO\\(_2\\)(g)\nWhen SO\\(_2\\) gas which is colourless with a pungent smell, reacts with acidified KMnO\\(_4\\), it becomes decolorized from purple colour.",
+    "year": "2022"
+  },
+  {
+    "number": "1438",
+    "text": "If 5.0 g of marble reacts with 25.0 cm3 hydrochloric acid, which of the following combinations has the fastest reaction rate?",
+    "options": {
+      "A": "Marble chips and 2.0 mol dm\\(^{-3}\\) HCl\\(_{(aq)}\\)",
+      "B": "Marble chips and 2.5 mol dm\\(^{-3}\\) HCl\\(_{(aq)}\\)",
+      "C": "Powdered marble and 2.5 mol dm\\(^{-3}\\) HCl\\(_{(aq)}\\)",
+      "D": "Powdered marble and 2.0 mol dm\\(^{-3}\\) HCl\\(_{(aq)}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65805?exam_type=waec&type=obj&page=288",
+    "correct_answer": "C",
+    "explanation": "Powdered marble reacts more rapidly with HCl than the chips of marble because:Surface area of powdered marble is more that of chips of marble and hence there is more collisions between the molecules of reactantsNumber of molecules increases.Energy of activation decreasesMarble chips will not react with HCl",
+    "year": "2022"
+  },
+  {
+    "number": "1439",
+    "text": "Increasing the temperature generally",
+    "options": {
+      "A": "decreases the solubility of a solid in a liquid but increases the solubility of a gas in a liquid.",
+      "B": "increases the solubility of a solid in a liquid but decreases the solubility of a gas in a liquid.",
+      "C": "increases the solubility of both a solid and a gas in a liquid",
+      "D": "decreases the solubility of both a solid and a gas in a liquid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65806?exam_type=waec&type=obj&page=288",
+    "correct_answer": "B",
+    "explanation": "-The solubility of gases in liquids decreases with increasing temperature. Conversely, adding heat to the solution provides thermal energy that overcomes the attractive forces between the gas and the solvent molecules, thereby decreasing the solubility of the gas-The solubility of most solid or liquid solutes increases with increasing temperature",
+    "year": "2022"
+  },
+  {
+    "number": "1440",
+    "text": "A white precipitate was formed when BaCl\\(_{2(aq)}\\) was added to an aqueous solution\nof a salt X. The precipitate dissolved in dilute HCl with rapid effervescence. Salt X is likely to contain",
+    "options": {
+      "A": "SO\\(_{4}\\) \\(^{2-}\\) ions",
+      "B": "SO\\(_{3}\\) \\(^{2-}\\) ions",
+      "C": "NO\\(_{3}\\)- ions",
+      "D": "CO\\(_{3}\\) \\(^{2-}\\)- ions"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65807?exam_type=waec&type=obj&page=288",
+    "correct_answer": "B",
+    "explanation": "A salt that forms a white precipitate (ppt) with BaCl2 and is soluble in HCl is a\u00a0sulphite (SO3\\(^{2-}\\)) salt.\nA salt that forms a white precipitate with BaCl\u2082 and is insoluble in HCl is a\u00a0sulphate (SO\u2084\u00b2\u207b), specifically a salt containing the sulfate anion, such as sodium sulfate (Na\u2082SO\u2084).",
+    "year": "2022"
+  },
+  {
+    "number": "1441",
+    "text": "Before a reaction could take place, there should be",
+    "options": {
+      "A": "ionization of reactant particles",
+      "B": "breakage of bonds of products",
+      "C": "ionization of product particles"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65808?exam_type=waec&type=obj&page=289",
+    "correct_answer": "C",
+    "explanation": "Activation energy must be achieved before reaction begin. This is because in any chemical reaction, chemical bonds in the reactants are broken, and new bonds in the products are formed",
+    "year": "2022"
+  },
+  {
+    "number": "1442",
+    "text": "Consider the following reaction equation:\nCaO + SiO\\(_{2}\\) ------> CaSiO\\(_{3}\\)\nSilicon(IV) oxide is acting as",
+    "options": {
+      "A": "a basic oxide",
+      "B": "a reducing agent",
+      "C": "an acidic oxide",
+      "D": "an oxidizing agent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65809?exam_type=waec&type=obj&page=289",
+    "correct_answer": "C",
+    "explanation": "Silicon dioxide is an acidic oxide. It will react with strong bases to form silicate salts, SiO\\(_{2}\\) is acidic oxide because Si is non-metal. Oxides of non-metals are acidic in nature.",
+    "year": "2022"
+  },
+  {
+    "number": "1443",
+    "text": "Which of the following acids would form normal salt only?",
+    "options": {
+      "A": "Tetraoxosulphate(VI) acid",
+      "B": "Trioxonitrate(V) acid",
+      "C": "Tetraoxophosphate(V) acid",
+      "D": "Trioxosulphate(IV) acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65810?exam_type=waec&type=obj&page=289",
+    "correct_answer": "B",
+    "explanation": "Normal salts are formed when all the replaceable hydrogen ions in the acid have been completely replaced by metallic ions. Trioxonitrate(V) acid, HNO\\(_3\\) has only one replaceable hydrogen ion(monobasic),\u00a0that can be replaced by a metallic ion or ammonium ion. Thus, it cannot form an acidic nor basis salt or any other type aside normal salt.",
+    "year": "2022"
+  },
+  {
+    "number": "1444",
+    "text": "What is the partial pressure of oxygen at s.t.p. in a gaseous mixture containing 100 cm3 of oxygen and 900 cm3 of nitrogen gas?",
+    "options": {
+      "A": "1.0 atm",
+      "B": "0.1 atm",
+      "C": "9.0 atm",
+      "D": "0.9 atm"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65811?exam_type=waec&type=obj&page=289",
+    "correct_answer": "B",
+    "explanation": "Partial pressure is found by Dalton's Law:Px = PTotal ( nx / nTotal )wherePx = partial pressure of gas xPTotal = total pressure of all gasesnx = number of moles of gas xnTotal = number of moles of all gases\nStep 1Find PTotalStandard pressure is 1 atm.\nStep 2Add up the number of moles of the component gases to find nTotalnTotal = noxygen + nnitrogennTotal = 100 + 900nTotal =1000cm3\nStep 3Now you have all the information needed to plug the values into the equation and solve for PoxygenP-oxygen = PTotal ( n-oxygen / nTotal )oxygen = 1 atm ( 100 / 1000 )oxygen= 0.1atm",
+    "year": "2022"
+  },
+  {
+    "number": "1445",
+    "text": "Graphite is used as a dry lubricant due to the presence of",
+    "options": {
+      "A": "mobile electrons",
+      "B": "free electrons",
+      "C": "octahedral structures",
+      "D": "layered structures"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65812?exam_type=waec&type=obj&page=289",
+    "correct_answer": "D",
+    "explanation": "Graphite is an excellent dry lubricant. This is because its layered structure allows one layer to slide over another easily. It is non-volatile and not sticky.",
+    "year": "2022"
+  },
+  {
+    "number": "1446",
+    "text": "Which of the following gases is alkaline?",
+    "options": {
+      "A": "NO\\(_{2}\\)",
+      "B": "CO\\(_{2}\\)",
+      "C": "NH\\(_{3}\\)",
+      "D": "N\\(_{2}\\)O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65813?exam_type=waec&type=obj&page=290",
+    "correct_answer": "C",
+    "explanation": "Alkaline gases are any gaseous compounds that form an alkali (or basic) solution with a pH greater than 7 when dissolved in water. Ammonia is the most common alkaline gas",
+    "year": "2022"
+  },
+  {
+    "number": "1447",
+    "text": "Which of the following statements about an equilibrium system is correct?",
+    "options": {
+      "A": "Forward and backward reactions occur \nat the same rate",
+      "B": "The concentrations of reactants must \nequal that of the products",
+      "C": "The concentrations of, reactants and products can be changed by adding a catalyst,",
+      "D": "The concentrations of reactants and \nproducts are not affected by a change in temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65814?exam_type=waec&type=obj&page=290",
+    "correct_answer": "A",
+    "explanation": "Equilibrium is a state of a system where there is no observable change in the properties of the system with respect to time",
+    "year": "2022"
+  },
+  {
+    "number": "1448",
+    "text": "Consider the following reaction equation\nN\\(_{2}\\)(g) + 3H\\(_{2(g)}\\)\u00a0\u00a0\u21cc 2NH3(g)\u00a0\u2206H = -92kJ\nIncreasing the temperature of the reaction would",
+    "options": {
+      "A": "shift the equilibrium to the right",
+      "B": "increase the yield of ammonia",
+      "C": "decrease the amount of hydrogen",
+      "D": "decrease the yield of ammonia"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65815?exam_type=waec&type=obj&page=290",
+    "correct_answer": "D",
+    "explanation": "In this case, an increase in in temperature will cause the equilibrium position to shift to the left thereby decreasing the yield of ammonia.",
+    "year": "2022"
+  },
+  {
+    "number": "1449",
+    "text": "When air in a syringe is compressed such that there is no change in temperature, the",
+    "options": {
+      "A": "air liquefies",
+      "B": "pressure increases",
+      "C": "intermolecular space increases",
+      "D": "density decreases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65816?exam_type=waec&type=obj&page=290",
+    "correct_answer": "B",
+    "explanation": "Since the temperature of air remain constant.So, it is a isothermal process.PV=KThis eq. shows that on increasing pressure, the volume gets reduced and vice-versa.Since the syringe is slowly compressed, volume is decreasing.Therefore, the pressure inside the syringe will increases because the molecules now hit the syringe walls more frequently.",
+    "year": "2022"
+  },
+  {
+    "number": "1450",
+    "text": "Which of the following statements about liquids is/are true?\n\nI. Liquids maintain their volume at constant temperature.\nII. Liquids have fixed shape\nIII. Liquids do not diffuse\nIV. Change in pressure affects volume of liquids",
+    "options": {
+      "A": "I only",
+      "B": "IV only",
+      "C": "I and IV only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65817?exam_type=waec&type=obj&page=290",
+    "correct_answer": "A",
+    "explanation": "A liquid is a nearly incompressible fluid that conforms to the shape of its container but retains a (nearly) constant volume independent of pressure",
+    "year": "2022"
+  },
+  {
+    "number": "1451",
+    "text": "A hydrogen chloride gas reacted with oxygen gas to yield water and chlorine gas. The mole ratio of the hydrogen chloride gas to water is",
+    "options": {
+      "A": "1:3",
+      "B": "2:1",
+      "C": "3:1",
+      "D": "4:1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65818?exam_type=waec&type=obj&page=291",
+    "correct_answer": "B",
+    "explanation": "4HCl + O\\(_{2}\\) -- 2Cl\\(_{2}\\) + 2H\\(_{2}\\)O4:2 = 4/22:1",
+    "year": "2022"
+  },
+  {
+    "number": "1452",
+    "text": "What number of moles of oxygen would exert a pressure of 10 atm at 320 K in an 8.2 dm\\(^{3}\\) cylinder?\n[R=0.082 atm dm\\(^{-3}\\) mol\\(^{-1}\\) K\\(^{-1}\\)]",
+    "options": {
+      "A": "0.32",
+      "B": "1.52",
+      "C": "3.13",
+      "D": "31.25"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65819?exam_type=waec&type=obj&page=291",
+    "correct_answer": "C",
+    "explanation": "P = 10atm, T= 320K, V= 8.2dm\\(^{3}\\)PV =nRTn = P * V/R * T10 * 8.2/0.082 * 320= 82/26.24n = 3.13",
+    "year": "2022"
+  },
+  {
+    "number": "1453",
+    "text": "If 50 cm\\(^{3}\\) of a saturated solution of KNO\\(_{3}\\) at 40 \u00b0C contained 5.05 g of the salt, its solubility at the same temperature would be\n[KNO\\(_{3}\\) = 101]",
+    "options": {
+      "A": "1.0 mol dm\\(^{-3}\\)",
+      "B": "1.5 mol dm\\(^{-3}\\)",
+      "C": "2.0 mol dm\\(^{-3}\\)",
+      "D": "5.0 mol dm\\(^{-3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65820?exam_type=waec&type=obj&page=291",
+    "correct_answer": "A",
+    "explanation": "V= 50cm\\(^{3}\\)Mass= 5.05gRelative molecular mass of KNO\\(_{3}\\)\u00a0= (39+14+(3*16)) = 101Convert 50cm\\(^{3}\\) to dm\\(^{3}\\) which is1000cm\u00b3 = 1dm\\(^{3}\\)50cm\u00b3 = 50*1/1000= 0.05dm\\(^{3}\\)Moles = mass/ molar mass= 5.05/101 =0.05moleSolubility= mole/volumeSolubility=0.05mol/0.05dm\\(^{3}\\)Solubility=1.0mol/dm_\\(^{3}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1454",
+    "text": "Which of the following elements would displace copper from a solution of copper ions?",
+    "options": {
+      "A": "silver",
+      "B": "gold",
+      "C": "lead",
+      "D": "mercury"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65872?exam_type=waec&type=obj&page=291",
+    "correct_answer": "C",
+    "explanation": "The reactivity series allows us to predict how metals react. A more reactive metal displaces a less reactive metal from a compound. Lead is more reactive metal than copper hence, copper is displaced from copper solution by lead.",
+    "year": "2022"
+  },
+  {
+    "number": "1455",
+    "text": "What is the percentage composition of carbon\nin Ca(HCO3)\\(_{2}\\) ?\n[ Ca = 40.0, 0= 16.0, C = 12.0, H= 1.0]",
+    "options": {
+      "A": "22.2%",
+      "B": "14.8%",
+      "C": "7.4%",
+      "D": "3.7%"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65873?exam_type=waec&type=obj&page=291",
+    "correct_answer": "B",
+    "explanation": ". % of C in Ca(HCO3)2Molar mass of Ca(HCO3)2 = 40+(1+12+(16*3))2=40+(13+48)2=40+122=162C/Ca(HCO3)2 x 100=12 * 2/162 * 100=14.8%",
+    "year": "2022"
+  },
+  {
+    "number": "1456",
+    "text": "Which of the following bond types is intermolecular?",
+    "options": {
+      "A": "Covalent bond",
+      "B": "Hydrogen bond",
+      "C": "Ionic bond",
+      "D": "Metallic bond"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65874?exam_type=waec&type=obj&page=292",
+    "correct_answer": "B",
+    "explanation": "Hydrogen bond is an intermolecular force which arises when hydrogen is covalently linked to elements like nitrogen, oxygen and fluorine.",
+    "year": "2022"
+  },
+  {
+    "number": "1457",
+    "text": "The maximum number of covalent bonds formed by nitrogen is",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65875?exam_type=waec&type=obj&page=292",
+    "correct_answer": "D",
+    "explanation": "Nitrogen has three unpaired electrons and one lone pair of electrons; therefore, it can form three covalent bonds and one coordinate bond. E.g ammonium ion.",
+    "year": "2022"
+  },
+  {
+    "number": "1458",
+    "text": "The IUPAC name of the compound CH3CH(CH3)CHCH2 is",
+    "options": {
+      "A": "2 - methyl but - 1 - ene",
+      "B": "2 - methyl but - 2 - ene",
+      "C": "3 - methyl but - 1 - ene",
+      "D": "3 - methyl but - 2 - ene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65876?exam_type=waec&type=obj&page=292",
+    "correct_answer": "C",
+    "explanation": "- Recognise the functional group in the compound. This will determine the suffix of the name\n- Find the longest continuous carbon chain that contains the functional group (it won't always be a straight chain) and count the number of carbon atoms in this chain. This number will determine the prefix (the beginning) of the compound's name\n- Number the carbons in the longest carbon chain (Important: If the molecule is not an alkane (i.e. has a functional group) you need to start numbering so that the functional group is on the carbon with the lowest possible number). Start with the carbon at the end closest to the functional group.\n- Look for any branched groups:Name them by counting the number of carbon atoms in the branched group and referring to Table 4.6, these groups will all end in -yl.Note the position of the group on the main carbon chain. If there is more than one of the same type of branched group then both numbers must be listed (e.g. 2,4 -) and one of the prefixes listed in Table 4.7 must be used. Important: If the molecule is an alkane the branched group must be on the carbon with the lowest possible number.The branched groups must be listed before the name of the main chain in alphabetical order (ignoring di/tri/tetra).If there are no branched groups this step can be ignored.\n- For the alkyl halides the halogen atom is treated in much the same way as branched groups:To name them take the name of the halogen atom (e.g. iodine) and replace the -ine with -o (e.g. iodo)Give the halogen atom a number to show its position on the carbon chain. If there is more than one halogen atom the numbers should be listed and a prefix should be used (e.g. 3,4-diiodo- or 1,2,2-trichloro-). See Table 4.7 for a list of the prefixes.The halogen atoms must be listed before the name of the main chain in alphabetical order (ignore di/tri/tetra).If there are no halogen atoms this step can be ignored.\n- Combine the elements of the name into a single word in the following order:branched groups/halogen atoms in alphabetical order (ignoring prefixes)prefix of main chainname ending according to the functional group and its position on the longest carbon chain.",
+    "year": "2022"
+  },
+  {
+    "number": "1459",
+    "text": "Ionization energy increases across the period in the periodic table because",
+    "options": {
+      "A": "atomic number increases",
+      "B": "effective nuclear charge increases",
+      "C": "mass number decreases",
+      "D": "screening effect decreases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65877?exam_type=waec&type=obj&page=292",
+    "correct_answer": "B",
+    "explanation": "As the nuclear charge increases, its attraction for the outermost electron increases and so more energy is required to remove the outermost electron. Hence, the ionization energy increases.",
+    "year": "2022"
+  },
+  {
+    "number": "1460",
+    "text": "Which of the following properties indicate that an element is a metal. It\n\nI. reacts with oxygen to form an acidic oxide\nII. forms ionic chlorides\nIII. has variable oxidation states\nIV. displaces hydrogen from dilute HCl",
+    "options": {
+      "A": "I and III only",
+      "B": "I and II only",
+      "C": "II and IV only",
+      "D": "I, II, III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65878?exam_type=waec&type=obj&page=292",
+    "correct_answer": "C",
+    "explanation": "- Ionization behaviour; The atoms of non-metals usually have four to seven valence electrons. They have a great tendency to ionize by accepting electrons to form negative ions.\n- Reaction with acids; A metal which is more electro positive than hydrogen readily displaces the hydrogen ion, H+, from an acid.",
+    "year": "2022"
+  },
+  {
+    "number": "1461",
+    "text": "The electron configuration of carbon atom in its excited state is",
+    "options": {
+      "A": "1s\\(^{2}\\)2s\\(^{2}\\)2px\\(^{1}\\)2py\\(^{1}\\)",
+      "C": "1s\\(^{2}\\)2s\\(^{1}\\)2px\\(^{1}\\)2py\\(^{1}\\)2pz\\(^{1}\\)",
+      "D": "1s\\(^{1}\\)2s\\(^{2}\\)2px\\(^{1}\\)2py\\(^{1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65879?exam_type=waec&type=obj&page=293",
+    "correct_answer": "C",
+    "explanation": "- So any electron configuration in which the last electron (again, the valence electron) is in a higher energy orbital, this element is said to be in an excited state.\n- When a carbon atom becomes excited by absorbing energy, one of its 2s electrons is promoted into the 2p sublevel.",
+    "year": "2022"
+  },
+  {
+    "number": "1462",
+    "text": "An oxide has the following properties. It\n\nI. is a white powder\nII. reacts with HCI.\nIII. reacts with NaOH\nIV. is insoluble in water\nThe oxide is",
+    "options": {
+      "A": "alkaline",
+      "B": "amphoteric",
+      "C": "acidic",
+      "D": "neutral"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65880?exam_type=waec&type=obj&page=293",
+    "correct_answer": "B",
+    "explanation": "An amphoteric oxide is an oxide that can act as either an acid or base in a reaction to produce a salt and water.",
+    "year": "2022"
+  },
+  {
+    "number": "1463",
+    "text": "Which of the following statements about atoms of a metal is correct? They",
+    "options": {
+      "A": "readily accept electrons",
+      "B": "are soft",
+      "C": "are held together by covalent bond",
+      "D": "are held together by a sea of electron cloud"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65881?exam_type=waec&type=obj&page=293",
+    "correct_answer": "D",
+    "explanation": "Metals are effectively lots of positively charged ions with a cloud/sea of delocalised electrons. This means the electrons are free to move throughout the metal, and is also why metals can conduct electricity as the electrons can move. The more delocalised electrons a metal has, the stronger it will be held together.",
+    "year": "2022"
+  },
+  {
+    "number": "1464",
+    "text": "The atom with the electron configuration\n1s\\(^{2}\\)2s\\(^{2}\\)2p63s\\(^{2}\\)3p\\(^{6}\\)3d\\(^{10}\\)4s\\(^{2}\\)4p\\(^{4}\\) is in",
+    "options": {
+      "A": "period 4, p- block",
+      "B": "period 3, p- block",
+      "C": "period 4, d- block",
+      "D": "period 3, d- block"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65882?exam_type=waec&type=obj&page=293",
+    "correct_answer": "A",
+    "explanation": "Selenium is a chemical element with the symbol Se and atomic number 34. It is a non-metal",
+    "year": "2022"
+  },
+  {
+    "number": "1465",
+    "text": "Electropositivity of elements across the periodic table normally",
+    "options": {
+      "A": "remains constant down the group",
+      "B": "increases across the period",
+      "C": "decreases across the period",
+      "D": "decreases down the group"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65883?exam_type=waec&type=obj&page=293",
+    "correct_answer": "C",
+    "explanation": "Electropositivity is known to increase down groups and decrease across periods in the modern periodic table (i.e., electropositivity decreases from left to right and it increases from up to down).",
+    "year": "2022"
+  },
+  {
+    "number": "1466",
+    "text": "Consider the following table\n\n\n\nSubstitute\nMeltig point /\u00a0\u00baC\nBoiling\u00a0 point / \u00baC\n\n\nP\n- 78\n-25\n\n\nQ\n- 8\n40\n\n\nR\n\u00a0- 6\n150\n\n\nS\n44\n280\n\n\n\n\nWhich of the substances is a liquid at room temperature and rapidly evaporates on exposure to air?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65884?exam_type=waec&type=obj&page=294",
+    "correct_answer": "B",
+    "explanation": "Q has slightly lower boiling point which when expose to air may evaporate rapidly.",
+    "year": "2022"
+  },
+  {
+    "number": "1467",
+    "text": "Which of the following oxides is amphoteric?",
+    "options": {
+      "A": "Carbon(II) oxide",
+      "B": "Nitrogen(IV) oxide",
+      "C": "Lead(II) oxide",
+      "D": "Calcium oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65885?exam_type=waec&type=obj&page=294",
+    "correct_answer": "C",
+    "explanation": "Aluminium oxide is an amphoteric oxide. With sodium hydroxide solution, it produces water and sodium aluminate (NaAlO2). The other common examples of amphoteric oxides include SnO, ZnO, and PbO. Al2O3 is an amphoteric oxide.",
+    "year": "2022"
+  },
+  {
+    "number": "1468",
+    "text": "Which of the following processes occur during fractional distillation of petroleum?",
+    "options": {
+      "A": "Condensation and diffusion",
+      "B": "Diffusion and evaporation",
+      "C": "Diffusion and sublimation",
+      "D": "Evaporation and condensation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65886?exam_type=waec&type=obj&page=294",
+    "correct_answer": "D",
+    "explanation": "Fractional distillation is a series of processes of evaporation and condensation at a number of points in a vertical column.",
+    "year": "2022"
+  },
+  {
+    "number": "1469",
+    "text": "If the molar mass of X(HCO3)\\(_{2}\\) is 162 g mol\\(^{-1}\\), determine the relative atomic mass of X.\n[H = 1.0, C = 12.0, 0 = 16.0]",
+    "options": {
+      "A": "40",
+      "B": "48",
+      "C": "61",
+      "D": "101"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65887?exam_type=waec&type=obj&page=294",
+    "correct_answer": "A",
+    "explanation": "Molar mass of X(HCO3)2 = X+(1+12+(16*3))2=162=X + (13+48)2=162X + 122=162X=162-122X=40",
+    "year": "2022"
+  },
+  {
+    "number": "1470",
+    "text": "Charcoal is used in the decolourization of sugar because of its",
+    "options": {
+      "A": "absorption property.",
+      "B": "amorphous property.",
+      "C": "oxidizing property.",
+      "D": "adsorption property."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65888?exam_type=waec&type=obj&page=294",
+    "correct_answer": "D",
+    "explanation": "Wood charcoal is used to decolourise sugar because it has a highly porous structure, providing a large surface area for adsorption. Therefore, it adsorbs coloured material from sugar.",
+    "year": "2022"
+  },
+  {
+    "number": "1471",
+    "text": "The first definition of an element was made by",
+    "options": {
+      "A": "J. Dalton.",
+      "B": "A. Lavoisier.",
+      "C": "R. Boyle.",
+      "D": "J. J. Thompson."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65889?exam_type=waec&type=obj&page=295",
+    "correct_answer": "C",
+    "explanation": "The word element was first given by Rebert Boyle. It is defined as the simplest chemical substance that cannot be broken down during a chemical reaction",
+    "year": "2022"
+  },
+  {
+    "number": "1472",
+    "text": "Which of the following scientists formulated the law of conservation of mass?",
+    "options": {
+      "A": "Lavoisier",
+      "B": "J. Dalton",
+      "C": "R. Boyle",
+      "D": "J. Proust"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65890?exam_type=waec&type=obj&page=295",
+    "correct_answer": "A",
+    "explanation": "Law of conservation of mass was given by Antoine Lavoisier in 1744. According to this law, \"Matter can neither be created nor destroyed in a chemical reaction\".",
+    "year": "2022"
+  },
+  {
+    "number": "1473",
+    "text": "Which of the following sketches is a graphical representation of Boyle's law?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/65891?exam_type=waec&type=obj&page=295",
+    "correct_answer": "C",
+    "explanation": "Boyles law states that the volume of a given mass of gas is inversely proportional to pressure at constant temperature.",
+    "year": "2022"
+  }
+]

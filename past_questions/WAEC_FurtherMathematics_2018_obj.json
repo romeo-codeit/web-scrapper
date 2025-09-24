@@ -1,0 +1,562 @@
+[
+  {
+    "number": "41",
+    "text": "Simplify \\(\\frac{\\sqrt{3}}{\\sqrt{3} -1} + \\frac{\\sqrt{3}}{\\sqrt{3} + 1}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "3",
+      "C": "\\(2\\sqrt{3}\\)",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50307?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\sqrt{3}}{\\sqrt{3} - 1} + \\frac{\\sqrt{3}}{\\sqrt{3} + 1}\\)\n= \\(\\frac{\\sqrt{3}(\\sqrt{3} + 1) + \\sqrt{3}(\\sqrt{3} - 1)}{(\\sqrt{3} - 1)(\\sqrt{3} + 1)}\\)\n= \\(\\frac{3 + \\sqrt{3} + 3 - \\sqrt{3}}{3 + \\sqrt{3} - \\sqrt{3} - 1}\\)\n= \\(\\frac{6}{2} = 3\\)",
+    "year": "2018"
+  },
+  {
+    "number": "42",
+    "text": "Find the domain of \\(g(x) = \\frac{4x^{2} - 1}{\\sqrt{9x^{2} + 1}}\\)",
+    "options": {
+      "A": "\\({x : x \\in R, x = \\frac{1}{2}}\\)",
+      "B": "\\(x: x \\in R, x\\neq \\frac{1}{3}\\)",
+      "C": "\\(x : x \\in R, x = \\frac{1}{3}\\)",
+      "D": "\\(x: x \\in R\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50314?exam_type=waec&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "The domain of a function refers to the regions where the function is defined or has a value on a particular region.\n\\(\\frac{4x^{2} - 1}{\\sqrt{9x^{2} + 1}}\\) has a domain defined on all set of real numbers because the function is defined on the set of real numbers when the denominator \\(\\sqrt{9x^{2} + 1} \\geq 0\\).\n\\(\\sqrt{9x^{2} + 1} \\geq 0 \\implies 9x^{2} + 1 \\geq 0\\) which because of the square sign has a value for all values of x, be it negative or positive.",
+    "year": "2018"
+  },
+  {
+    "number": "43",
+    "text": "Given that \\(f(x) = 3x^{2} -\u00a0 12x + 12\\) and \\(f(x) = 3\\), find the values of x.",
+    "options": {
+      "A": "1, 3",
+      "B": "-1, -3",
+      "C": "1, -3",
+      "D": "-1, 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50316?exam_type=waec&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = 3x^{2} - 12x + 12\\) and \\(f(x) = 3\\)\n\\(\\therefore f(x) = 3 = 3x^{2} - 12x + 12 \\implies 3x^{2} - 12x + 12 - 3 = 0\\)\n\\(3x^{2} - 12x + 9 = 0; 3x^{2} - 9x - 3x + 9 = 0\\)\n\\(3x(x - 3) - 3(x - 3) = (3x - 3)(x - 3) = 0\\)\n3x - 3 = 0 or x - 3 = 0\n\\(x = 1 or 3\\)",
+    "year": "2018"
+  },
+  {
+    "number": "44",
+    "text": "A binary operation * is defined on the set of real numbers, by \\(a * b = \\frac{a}{b} + \\frac{b}{a}\\). If \\((\\sqrt{x} + 1) * (\\sqrt{x} - 1) = 4\\), find the value of x.",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50317?exam_type=waec&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "\\((\\sqrt{x} + 1) * (\\sqrt{x} - 1) = 4\u00a0 \\implies\u00a0 \\frac{\\sqrt{x} + 1}{\\sqrt{x} - 1} + \\frac{\\sqrt{x} - 1}{\\sqrt{x} + 1} = 4\\)\n\\(\\frac{(\\sqrt{x} + 1)(\\sqrt{x} + 1) + (\\sqrt{x} - 1)(\\sqrt{x} - 1)}{(\\sqrt{x} - 1)(\\sqrt{x} + 1)}\\)\n= \\(\\frac{x + 2\\sqrt{x} + 1 + x - 2\\sqrt{x} + 1}{x - 1} \\implies \\frac{2x + 2}{x - 1} = 4\\)\n\\(2x + 2 = 4x - 4\u00a0 \\therefore 4x - 2x = 2x = 2 + 4= 6\\)\n\\(x = 3\\)",
+    "year": "2018"
+  },
+  {
+    "number": "45",
+    "text": "If \\(4x^{2} + 5kx + 10\\) is a perfect square, find the value of k.",
+    "options": {
+      "A": "\\(\\frac{5\\sqrt{10}}{4}\\)",
+      "B": "\\(4\\sqrt{10}\\)",
+      "C": "\\(5\\sqrt{10}\\)",
+      "D": "\\(\\frac{4\\sqrt{10}}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50318?exam_type=waec&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "\\(4x^{2} + 5kx + 10 = (2x + \\sqrt{10})^{2}\\)\nExpanding the right hand side equation, we have\n\\(4x^{2} + 4x\\sqrt{10} + 10\\)\nComparing with the left hand side, we have\n\\(5k = 4\\sqrt{10}\u00a0 \\implies k = \\frac{4}{5}\\sqrt{10}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "46",
+    "text": "If the polynomial \\(f(x) = 3x^{3} - 2x^{2} + 7x + 5\\) is divided by (x - 1), find the remainder.",
+    "options": {
+      "A": "-17",
+      "B": "-7",
+      "C": "5",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50320?exam_type=waec&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "\\(f(x) = 3x^{3} - 2x^{2} + 7x + 5\\).\n\\(x - 1 = 0, x = 1\\)\n\\(f(1) = 3(1)^{3} - 2(1)^{2} + 7(1) + 5 = 13\\)",
+    "year": "2018"
+  },
+  {
+    "number": "47",
+    "text": "\\(P = {1, 3, 5, 7, 9}, Q = {2, 4, 6, 8, 10, 12}, R = {2, 3, 5, 7, 11}\\) are subsets of \\(U = {1, 2, 3, ... , 12}\\). Which of the following statements is true?",
+    "options": {
+      "A": "\\(Q \\cap R = \\varnothing\\)",
+      "B": "\\(R \\subset P\\)",
+      "C": "\\((R \\cap P) \\subset (R \\cap U)\\)",
+      "D": "\\(n(P' \\cap R) = 2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50329?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "All the statements are false except option C.\n\\(R \\cap P = {3, 5, 7} and R \\cap U = {2, 3, 5, 7, 11}\\)\n\\(\\therefore (R \\cap P) \\subset (R \\cap U)\\)",
+    "year": "2018"
+  },
+  {
+    "number": "48",
+    "text": "If \\(\\log_{3}a - 2 = 3\\log_{3}b\\), express a in terms of b.",
+    "options": {
+      "A": "\\(a = b^{3} - 3\\)",
+      "B": "\\(a = b^{3} - 9\\)",
+      "C": "\\(a = 9b^{3}\\)",
+      "D": "\\(a = \\frac{b^{3}}{9}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50331?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "\\(\\log_{3}a - 2 = 3\\log_{3}b\\)\nUsing the laws of logarithm, we know that \\( 2 = 2\\log_{3}3 = \\log_{3}3^{2}\\)\n\\(\\therefore \\log_{3}a - \\log_{3}3^{2} = \\log_{3}b^{3}\\)\n= \\(\\log_{3}(\\frac{a}{3^{2}}) = \\log_{3}b^{3} \u00a0 \\implies\u00a0 \\frac{a}{9} = b^{3}\\)\n\\(\\implies a = 9b^{3}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "49",
+    "text": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(2x^{2} - 5x + 6 = 0\\), find the equation whose roots are \\((\\alpha + 1)\\) and \\((\\beta + 1)\\).",
+    "options": {
+      "A": "\\(2x^{2} - 9x + 15 = 0\\)",
+      "B": "\\(2x^{2} - 9x + 13 = 0\\)",
+      "C": "\\(2x^{2} - 9x - 13 = 0\\)",
+      "D": "\\(2x^{2} - 9x - 15 = 0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50339?exam_type=waec&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "Note: Given the sum of the roots and its product, we can get the equation using the formula:\n\\(x^{2} - (\\alpha + \\beta)x + (\\alpha\\beta) = 0\\). This will be used later on in the course of our solution.\nGiven equation: \\(2x^{2} - 5x + 6 = 0; a = 2, b = -5, c = 6\\).\n\\(\\alpha + \\beta = \\frac{-b}{a} = \\frac{-(-5)}{2} = \\frac{5}{2}\\)\n\\(\\alpha\\beta = \\frac{c}{a} = \\frac{6}{2} = 3\\)\nGiven the roots of the new equation as \\((\\alpha + 1)\\) and \\((\\beta + 1)\\), their sum and product will be\n\\((\\alpha + 1) + (\\beta + 1) = \\alpha + \\beta + 2 = \\frac{5}{2} + 2 = \\frac{9}{2} = \\frac{-b}{a}\\)\n\\((\\alpha + 1)(\\beta + 1) = \\alpha\\beta + \\alpha + \\beta + 1 = 3 + \\frac{5}{2} + 1 = \\frac{13}{2} = \\frac{c}{a}\\)\nThe new equation is given by: \\(x^{2} - (\\frac{-b}{a})x + (\\frac{c}{a}) = 0\\)\n= \\(x^{2} - (\\frac{9}{2})x + \\frac{13}{2} = 2x^{2} - 9x + 13 = 0\\)",
+    "year": "2018"
+  },
+  {
+    "number": "50",
+    "text": "Resolve \\(\\frac{3x - 1}{(x - 2)^{2}}, x \\neq 2\\) into partial fractions.",
+    "options": {
+      "A": "\\(\\frac{x}{2(x - 2)} - \\frac{5}{(x - 2)^{2}}\\)",
+      "B": "\\(\\frac{5}{(x - 2)} + \\frac{x}{2(x - 2)^{2}}\\)",
+      "C": "\\(\\frac{1}{2(x - 2)} + \\frac{5x}{2(x- 2)^{2}}\\)",
+      "D": "\\(\\frac{-1}{2(x - 2)} + \\frac{8x}{2(x - 2)^{2}}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50343?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{3x - 1}{(x - 2)^{2}} = \\frac{A}{(x - 2)} + \\frac{Bx}{(x - 2)^{2}}\\)\n\\(\\frac{3x - 1}{(x - 2)^{2}} = \\frac{A(x - 2) + Bx}{(x - 2)^{2}}\\)\nComparing, we have\n\\(3x - 1 = Ax - 2A + Bx\u00a0 \\implies -2A = -1;\u00a0 A + B = 3\\)\n\\(\\therefore A = \\frac{1}{2}; B = \\frac{5}{2}\\)\n= \\(\\frac{1}{2(x - 2)} + \\frac{5x}{2(x - 2)^{2}}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "51",
+    "text": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} + 5x + n = 0\\), such that \\(\\alpha\\beta = 2\\), find the value of n.",
+    "options": {
+      "A": "-4",
+      "B": "-2",
+      "C": "2",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50346?exam_type=waec&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "An equation can be written as \\(x^{2} - (\\alpha + \\beta)x + (\\alpha\\beta) = 0\\)\nMaking the coefficient of \\(x^{2}\\) = 1 in the given equation, we have\n\\(x^{2} + \\frac{5}{2}x + \\frac{n}{2} = 0\\)\nComparing, we have \\(\\alpha\\beta = \\frac{n}{2} = 2 \\implies n = 4\\)",
+    "year": "2018"
+  },
+  {
+    "number": "52",
+    "text": "Solve \\(\\log_{2}(12x - 10) = 1 + \\log_{2}(4x + 3)\\).",
+    "options": {
+      "A": "4.75",
+      "B": "4.00",
+      "C": "1.75",
+      "D": "1.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50351?exam_type=waec&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "\\(\\log_{2}(12x - 10) = 1 + \\log_{2}(4x + 3)\\)\nRecall, \\( 1 = \\log_{2}2\\), so\n\\(\\log_{2}(12x - 10) = \\log_{2}2 + \\log_{2}(4x + 3)\\)\n= \\(\\log_{2}(12x - 10) = \\log_{2}(2(4x + 3))\\)\n\\(\\implies (12x - 10) = 2(4x + 3) \\therefore 12x - 10 = 8x + 6\\)\n\\(12x - 8x = 4x = 6 + 10 = 16 \\implies x = 4\\)",
+    "year": "2018"
+  },
+  {
+    "number": "53",
+    "text": "Find the coefficient of \\(x^{3}\\) in the binomial expansion of \\((x - \\frac{3}{x^{2}})^{9}\\).",
+    "options": {
+      "A": "324",
+      "B": "252",
+      "C": "-252",
+      "D": "-324"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50361?exam_type=waec&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "\\(x - \\frac{3}{x^{2}} = x - 3x^{-2}\\)\nLet the power on x be t, so that the power on \\(x^{-2}\\) = 9 - t\n\\((x)^{t}(x^{-2})^{9 - t} = x^{3}\u00a0 \\implies t - 18 + 2t = 3\\)\n\\(3t = 3 + 18 = 21 \\therefore t = 7\\)\nTo obtain the coefficient of \\(x^{3}\\), we have\n\\(^{9}C_{7}(x)^{7}(3x^{-2))^{2} = \\frac{9!}{(9 - 7)! 7!}(x)^{7}(9x^{-4})\\)\n= \\(\\frac{9 \\times 8 \\times 7!}{7! 2!} \\times 9(x^{3}) = 324x^{3}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "54",
+    "text": "The general term of an infinite sequence 9, 4, -1, -6,... is \\(u_{r} = ar + b\\). Find the values of a and b.",
+    "options": {
+      "A": "a = 5, b = 14",
+      "B": "a = -5, b = 14",
+      "C": "a = 5, b = -14",
+      "D": "a = -5, b = -14"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50362?exam_type=waec&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "The terms of the sequence can be written as : \\(u_{r} = ar + b\\) in this case, being that they have a regular common difference for each of the r terms.\nWe can rewrite the sequence as \\(a + b, 2a + b, 3a + b,...\\) where a is the common difference of the sequence and b is a given constant gotten by solving\n\\(a + b = 9\\) or \\(2a + b = 4\\) or any other one.\nThe common difference here is 4 - 9 = -1 - 4 = -5.\n\\(-5 + b = 9 \\implies b = 9 + 5 = 14\\)\n\\(\\therefore\\) The equation can be written as \\(u_{r} = -5r + 14\\).",
+    "year": "2018"
+  },
+  {
+    "number": "55",
+    "text": "If \\(\\begin{vmatrix}\u00a0 k & k \\\\ 4 & k \\end{vmatrix} + \\begin{vmatrix}\u00a0 2 & 3 \\\\ -1 & k \\end{vmatrix} = 6\\), find the value of the constant k, where k > 0.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50363?exam_type=waec&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{vmatrix} k & k \\\\ 4 & k \\end{vmatrix} + \\begin{vmatrix}\u00a0 2 & 3 \\\\ -1 & k \\end{vmatrix} = 6\\)\n\\(\\begin{vmatrix} k & k \\\\ 4 & k \\end{vmatrix} = (k^{2} - 4k)\\)\n\\(\\begin{vmatrix}\u00a0 2 & 3 \\\\ -1 & k \\end{vmatrix} = (2k + 3)\\)\n\\(\\therefore (k^{2} - 4k) + (2k + 3) = k^{2} - 2k + 3 = 6\\)\n\\(k^{2} - 2k - 3 = 0\\), factorising, we have \\(k + 1 = 0\\) or \\(k - 3 = 0\\)\nSince k > 0, k = 3.",
+    "year": "2018"
+  },
+  {
+    "number": "56",
+    "text": "How many numbers greater than 150 can be formed from the digits 1, 2, 3, 4, 5 without repetition?",
+    "options": {
+      "A": "91",
+      "B": "191",
+      "C": "291",
+      "D": "391"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50364?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "Note that every 4- digit and 5- digit numbers formed is greater than 150. Therefore, \\(^{5}P_{5} + ^{5}P_{4} = \\frac{5!}{(5 - 5)!} + \\frac{5!}{(5 - 4)!} = 120 + 120 = 240\\) numbers are greater than 150 already.\nAmong the 3- digit numbers, the numbers 123, 124, 125, 132, 134, 135, 142, 143 and 145 are removed from the ones that meet the criterion so we have:\n\\(^{5}P_{3} - 9 = \\frac{5!}{(5 - 3)!} = 60 - 9 = 51 \\implies 240 + 51 = 291\\) numbers are greater than 150.",
+    "year": "2018"
+  },
+  {
+    "number": "57",
+    "text": "The first term of a Geometric Progression (GP) is \\(\\frac{3}{4}\\), If the product of the second and third terms of the sequence is 972, find its common ratio.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50365?exam_type=waec&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "Recall, the terms of a GP is given by \\(T_{n} = ar^{n - 1}\\)\nGiven, \\(T_{1} = a = \\frac{3}{4}\\) and \\(T_{2} \\times T_{3} = ar \\times ar^{2} = 972\\)\n\\(\\implies \\frac{3}{4}r \\times \\frac{3}{4}r^{2} = \\frac{9}{16}r^{3} = 972\\)\n\\(r^{3} = \\frac{972 \\times 16}{9} = 1728\u00a0 \\implies r = \\sqrt[3]{1728} = 12\\)",
+    "year": "2018"
+  },
+  {
+    "number": "58",
+    "text": "If \\(\\sin\\theta = \\frac{3}{5}, 0\u00b0 < \\theta < 90\u00b0\\), evaluate \\(\\cos(180 - \\theta)\\).",
+    "options": {
+      "A": "\\(\\frac{4}{5}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(\\frac{-3}{5}\\)",
+      "D": "\\(\\frac{-4}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50366?exam_type=waec&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "Given \\(\\sin \\theta = \\frac{3}{5}\u00a0 \\implies opp = 3, hyp = 5\\)\nUsing Pythagoras' Theorem, we have \\( adj = \\sqrt{5^{2} - 3^{2}} = \\sqrt{16}\u00a0 = 4\\)\n\\(\\therefore \\cos \\theta = \\frac{4}{5}, 0\u00b0 < \\theta < 90\u00b0\\)\nIn the quadrant where \\(180\u00b0 - \\theta\\) lies is the 2nd quadrant and here, only \\(\\sin \\theta = +ve\\).\n\\(\\therefore \\cos (180 - \\theta) = -ve = \\frac{-4}{5}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "59",
+    "text": "Find the radius of the circle \\(x^{2} + y^{2} - 8x - 2y + 1 = 0\\).",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "4",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50367?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "Given the equation of the circle \\(x^{2} + y^{2} - 8x - 2y + 1 = 0\\).\nThe equation of a circle is given as \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding, we have \\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2} \\equiv x^{2} - 2ax + y^{2} - 2by = r^{2} - a^{2} - b^{2}\\)\nComparing the RHS of the equation above with the equation rewritten as \\(x^{2} + y^{2} - 8x - 2y = -1\\), we have\n\\(-2a = -8; -2b = -2 \\implies a = 4, b = 1\\)\n\\(\\therefore r^{2} - 4^{2} - 1^{2} = -1 \\implies r^{2} = -1 + 16 + 1 = 16\\)\n\\(r = \\sqrt{16} = 4\\)",
+    "year": "2018"
+  },
+  {
+    "number": "60",
+    "text": "In how many ways can the letters of the word 'ELECTIVE' be arranged?",
+    "options": {
+      "A": "336",
+      "B": "1680",
+      "C": "6720",
+      "D": "20160"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50368?exam_type=waec&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "The word has 8 letters with one letter repeated 3 times, therefore we have:\n\\(\\frac{8!}{3!} = 6720\\) ways.",
+    "year": "2018"
+  },
+  {
+    "number": "61",
+    "text": "If the determinant of the matrix \\(\\begin{pmatrix} 2 & x \\\\ 3 & 5 \\end{pmatrix} = 13\\), find the value of x.",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50369?exam_type=waec&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{pmatrix} 2 & x \\\\ 3 & 5 \\end{pmatrix} = 13\\)\n\\(\\begin{vmatrix} 2 & x \\\\ 3 & 5 \\end{vmatrix} = (2 \\times 5) - (3 \\times x) = 13\\)\n\\(10 - 3x = 13 \\implies -3x = 3; x = -1\\)",
+    "year": "2018"
+  },
+  {
+    "number": "62",
+    "text": "Express \\(\\frac{13}{4}\\pi\\) radians in degrees.",
+    "options": {
+      "A": "495\u00b0",
+      "B": "225\u00b0",
+      "C": "585\u00b0",
+      "D": "135\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50370?exam_type=waec&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "\\(180\u00b0 = \\pi radian\\)\n\\(\\frac{13}{4}\\pi = \\frac{13}{4} \\times 180\u00b0 = 585\u00b0\\)",
+    "year": "2018"
+  },
+  {
+    "number": "63",
+    "text": "Find the equation to the circle \\(x^{2} + y^{2} - 4x - 2y = 0\\) at the point (1, 3).",
+    "options": {
+      "A": "2y - x -5 = 0",
+      "B": "2y + x - 5 = 0",
+      "C": "2y + x + 5 = 0",
+      "D": "2y - x + 5 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50371?exam_type=waec&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "We are given the equation \\(x^{2} + y^{2} - 4x - 2y = 0\\)\n\\(y = x^{2} + y^{2} - 4x - 2y \\)\nUsing the method of implicit differentiation,\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2x + 2y\\frac{\\mathrm d y}{\\mathrm d x} - 4 - 2\\frac{\\mathrm d y}{\\mathrm d x}\\)\nFor the tangent, \\(\\frac{\\mathrm d y}{\\mathrm d x} = 0\\),\n\\(\\therefore 2x + 2y\\frac{\\mathrm d y}{\\mathrm d x} - 4 - 2\\frac{\\mathrm d y}{\\mathrm d x} = 0\\)\n\\((2y - 2)\\frac{\\mathrm d y}{\\mathrm d x} = 4 - 2x \\implies\u00a0\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{4 - 2x}{2y - 2}\\)\nAt (1, 3), \\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{4 - 2(1)}{2(3) - 2} = \\frac{2}{4} = \\frac{1}{2}\\)\nEquation: \\(\\frac{y - 3}{x - 1} = \\frac{1}{2} \\implies 2y - 6 = x - 1\\)\n= \\(2y - x - 6 + 1 = 2y - x - 5 = 0\\)",
+    "year": "2018"
+  },
+  {
+    "number": "64",
+    "text": "Given that \\(y = x(x + 1)^{2}\\), calculate the maximum value of y.",
+    "options": {
+      "A": "-2",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50372?exam_type=waec&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "To find the maximum value, we can use the second derivative test where, given \\(f(x)\\), the second derivative < 0, makes it a maximum value.\n\\(x(x + 1)^{2} = x(x^{2} + 2x + 1) = x^{3} + 2x^{2} + x\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} + 4x + 1 = 0\\)\nSolving, we have \\( x = \\frac{-1}{3}\\) or \\(-1\\).\n\\(\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} = 6x + 4\\)\nWhen \\(x = \\frac{-1}{3},\u00a0\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} = 2 > 0\\)\nWhen \\(x = -1,\u00a0\\frac{\\mathrm d^{2} y}{\\mathrm d x^{2}} = -2 < 0\\)\nAt maximum value of x being -1, \\(y = -1(-1 + 1)^{2} = 0\\)",
+    "year": "2018"
+  },
+  {
+    "number": "65",
+    "text": "The midpoint of M(4, -1) and N(x, y) is P(3, -4). Find the coordinates of N.",
+    "options": {
+      "A": "(2, -3)",
+      "B": "(2, -7)",
+      "C": "(-1, -3)",
+      "D": "(-10, -7)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50373?exam_type=waec&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "Given \\(M(4, -1)\\) and \\(N(x, y)\\) with midpoint \\(P(3, -4)\\).\n\\(\\implies \\frac{4 + x}{2} = 3; \\frac{-1 + y}{2} = -4\\)\n\\(\\therefore x = 2; y = -7\\)\nN = (2, -7)",
+    "year": "2018"
+  },
+  {
+    "number": "66",
+    "text": "Find the stationary point of the curve \\(y = 3x^{2} - 2x^{3}\\).",
+    "options": {
+      "A": "(1, 0)",
+      "B": "(-1, 0)",
+      "C": "(1, 1)",
+      "D": "(-1, -1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50374?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "\\(y = 3x^{2} - 2x^{3}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x - 6x^{2} = 0 \\implies 6x(1 - x) =\u00a00\\)\n\\(x = 0, 1\\), when x = 1, y = 0.\nwhen x = 1, y = 0.\nThe stationary point is (1, 0)",
+    "year": "2018"
+  },
+  {
+    "number": "67",
+    "text": "Evaluate \\(\\int_{\\frac{1}{2}}^{1} \\frac{x^{3} - 4}{x^{3}} \\mathrm {d} x\\).",
+    "options": {
+      "A": "-5.5",
+      "B": "-2.0",
+      "C": "2.0",
+      "D": "5.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50375?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "\\(\\int_{\\frac{1}{2}}^{1} \\frac{x^{3} - 4}{x^{3}} \\mathrm {d} x \\equiv \\int_{\\frac{1}{2}}^{1} 1 - \\frac{4}{x^{3}} \\mathrm {d} x\\).\n=\u00a0\\(\\int_{\\frac{1}{2}}^{1} 1 - 4x^{-3} \\mathrm {d} x\\).\n= \\(\\left. x - \\frac{4x^{-2}}{-2}\\right |_{\\frac{1}{2}}^{1} = \\left. x + \\frac{2}{x^{2}}\\right |_{\\frac{1}{2}}^{1}\\)\n= \\((1 + 2) - (\\frac{1}{2} + 8) = 3 - 8.5 = -5.5\\)",
+    "year": "2018"
+  },
+  {
+    "number": "68",
+    "text": "Calculate the standard deviation of 30, 29, 25, 28, 32 and 24.",
+    "options": {
+      "A": "2.0",
+      "B": "2.8",
+      "C": "3.0",
+      "D": "3.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50376?exam_type=waec&type=obj&page=14",
+    "correct_answer": "B",
+    "explanation": "\\(x\\)\\(x - \\mu\\)\\((x - \\mu)^{2}\\)24-41625-3928002911302432416\\(\\sum\\) = 16846\n\\(\\mu = \\frac{24+25+28+29+30+32}{6} = \\frac{168}{8} = 28\\)\n\\(S.D = \\sqrt{\\frac{\\sum{(x - \\mu)^{2}}}{n}} = \\sqrt{\\frac{46}{6}}\\)\n= \\(\\sqrt{7.67} \\approxeq 2.8\\)",
+    "year": "2018"
+  },
+  {
+    "number": "69",
+    "text": "Evaluate\u00a0\\(\\int_{-1}^{1} (x + 1)^{2}\\mathrm {d} x\\).",
+    "options": {
+      "A": "\\(\\frac{8}{3}\\)",
+      "B": "\\(\\frac{7}{3}\\)",
+      "C": "\\(\\frac{5}{3}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50377?exam_type=waec&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "\\(\\int_{-1}^{1} (x + 1)^{2}\\mathrm {d} x \\equiv \\int_{-1}^{1} (x^{2} + 2x + 1)\\mathrm {d} x\\)\n= \\(\\left. \\frac{x^{3}}{3} + x^{2} + x \\right |_{-1}^{1}\\)\n= \\((\\frac{1^{3}}{3} + 1^{2} + 1) - (\\frac{(-1)^{3}}{3} + (-1)^{2} + (-1)\\))\n= \\(\\frac{7}{3} + \\frac{1}{3} = \\frac{8}{3}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "70",
+    "text": "Out of 70 schools, 42 of them can be attended by boys and 35 can be attended by girls. If a pupil is selected at random from these schools, find the probability that he/ she is from a mixed school.",
+    "options": {
+      "A": "\\(\\frac{1}{11}\\)",
+      "B": "\\(\\frac{1}{10}\\)",
+      "C": "\\(\\frac{1}{6}\\)",
+      "D": "\\(\\frac{1}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50378?exam_type=waec&type=obj&page=14",
+    "correct_answer": "B",
+    "explanation": "Let the number of mixed schools be S\nThe number of boys only = 42 - S\nThe number of girls only = 35 - S\n(42 - S) + S + (35 - S) = 77 - S = 70\n\\(\\implies\\) S = 7\n\\(Probability = \\frac{7}{70} = \\frac{1}{10}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "71",
+    "text": "The marks scored by 4 students in Mathematics and Physics are ranked as shown in the table below\n\n\n\nMathematics\n3\n4\n2\n1\n\n\nPhysics\n4\n3\n1\n2\n\n\n\nCalculate the Spearmann's rank correlation coefficient.",
+    "options": {
+      "A": "0.2",
+      "B": "0.5",
+      "C": "0.6",
+      "D": "0.7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50379?exam_type=waec&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "Maths (x)Rank \\(r_{x}\\)Physics (y)Rank \\(r_{y}\\)\\(d = |r_{x} - r_{y}|\\)\\(d^{2}\\)324111413211231411142311Total4\n\\(\\rho = 1 - \\frac{6\\sum{d^{2}}}{n(n^{2} - 1)}\\)\n\\( 1 - \\frac{6 \\times 4}{4(4^{2} - 1)} = 1 - \\frac{24}{60}\\)\n= \\(1 - 0.4 = 0.6\\)",
+    "year": "2018"
+  },
+  {
+    "number": "72",
+    "text": "Given that \\(a = i - 3j\\) and \\(b = -2i + 5j\\) and \\(c = 3i - j\\), calculate \\(|a - b + c|\\).",
+    "options": {
+      "A": "\\(\\sqrt{13}\\)",
+      "B": "\\(3\\sqrt{13}\\)",
+      "C": "\\(6\\sqrt{13}\\)",
+      "D": "\\(9\\sqrt{13}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50380?exam_type=waec&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "Given \\(a = i - 3j; b = -2i + 5j; c = 3i - j\\)\n\\(a- b + c = (1 - (-2) + 3)i + (-3 - 5 + (-1))j = 6i - 9j\\)\n\\(|a - b + c| = \\sqrt{6^{2} + (-9)^{2}} = \\sqrt{36 + 81} = \\sqrt{117}\\)\n\\(= \\sqrt{9 \\times 13} = 3\\sqrt{13}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "73",
+    "text": "What is the probability of obtaining a head and a six when a fair coin and and a die are tossed together?",
+    "options": {
+      "A": "\\(\\frac{1}{12}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50381?exam_type=waec&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "\\(\\text{p(a head and a six)} = \\text{p(a head)} + \\text{p(a six)}\\)\n= \\(\\frac{1}{2} + \\frac{1}{6} = \\frac{2}{3}\\).\nHint: Probability of A and B occurring should be greater than probability A or B happening.",
+    "year": "2018"
+  },
+  {
+    "number": "74",
+    "text": "If \\(\\overrightarrow{OX} = \\begin{pmatrix} -7 \\\\ 6 \\end{pmatrix}\\) and \\(\\overrightarrow{OY} = \\begin{pmatrix} 16 \\\\ -11 \\end{pmatrix}\\), find \\(\\overrightarrow{YX}\\).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 9 \\\\ -5 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -23 \\\\ -5 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 9 \\\\ 17 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -23 \\\\ 17 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50382?exam_type=waec&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "\\(\\overrightarrow{OY} \\equiv -\\overrightarrow{YO}\\)\nAlso, \\(\\overrightarrow{YO} + \\overrightarrow{OX} = \\overrightarrow{YX}\\)\n\\(\\therefore\u00a0\\overrightarrow{YO} = -\\overrightarrow{OY} = - \\begin{pmatrix} 16 \\\\\u00a0 -11\u00a0 \\end{pmatrix} = \\begin{pmatrix} -16 \\\\ 11\u00a0 \\end{pmatrix}\\)\n\\(\\overrightarrow{YX} = \\begin{pmatrix}\u00a0 -16 \\\\ 11\u00a0 \\end{pmatrix}\u00a0 + \\begin{pmatrix}\u00a0 -7\u00a0 \\\\\u00a0 6 \u00a0 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix}\u00a0 -23\u00a0 \\\\\u00a0 17\u00a0 \\end{pmatrix}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "75",
+    "text": "A body of mass 28g, initially at rest is acted upon by a force, F Newtons. If it attains a velocity of \\(5.4ms^{-1}\\) in 18 seconds, find the value of F.",
+    "options": {
+      "A": "0.0082N",
+      "B": "0.0084N",
+      "C": "0.082N",
+      "D": "0.084N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50383?exam_type=waec&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "\\(F = mass \\times acceleration\\) but \\(accl = \\frac{v - u}{t}\\)\n\\(\\therefore F = m(\\frac{v - u}{t})\\)\n\\(Mass = 28g = 0.028kg\\)\n\\(v = 5.4 ms^{-1}; u = 0; t = 18secs\\)\n\\(\\therefore F = 0.028(\\frac{5.4 - 0}{18}) = 0.028 \\times 0.3 = 0.0084N\\)",
+    "year": "2018"
+  },
+  {
+    "number": "76",
+    "text": "Find the angle between forces of magnitude 7N and 4N if their resultant has a magnitude of 9N.",
+    "options": {
+      "A": "39.45\u00b0",
+      "B": "73.40\u00b0",
+      "C": "75.34\u00b0",
+      "D": "106.60\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50384?exam_type=waec&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "\\(F_{1} = 7i + 0j\\)\n\\(F_{2} = (4\\cos\\theta)i + (4\\sin\\theta)j\\)\n\\(9 = \\sqrt{(7 + 4\\cos\\theta)^{2} + (4\\sin\\theta)^{2}}\\)\n\\(9^{2} = (7 + 4\\cos\\theta)^{2} + (4\\sin\\theta)^{2} \\implies 81 = 49 + 56\\cos\\theta + 16\\cos^{2}\\theta + 16\\sin^{2}\\theta\\)\n\\(81 = 49 + 56\\cos\\theta + 16(\\cos^{2}\\theta + \\sin^{2}\\theta)\\)\nRecall, \\(\\cos^{2}\\theta + \\sin^{2}\\theta = 1\\)\n\\(81 = 49 + 56\\cos\\theta + 16 \\implies 81 - 49 -16 = 56\\cos\\theta\\)\n\\(16 = 56\\cos\\theta \\implies \\cos\\theta = \\frac{16}{56} = 0.2857\\)\n\\(\\theta = \\cos^{-1} 0.2857\u00a0 = 73.40\u00b0\\)",
+    "year": "2018"
+  },
+  {
+    "number": "77",
+    "text": "Find the constant term in the binomial expansion \\((2x^{2} + \\frac{1}{x})^{9}\\)",
+    "options": {
+      "A": "84",
+      "B": "168",
+      "C": "336",
+      "D": "672"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50385?exam_type=waec&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "Let the power of \\(2x^{2}\\) be t and the power of \\(\\frac{1}{x} \\equiv x^{-1}\\) = 9 - t.\n\\((2x^{2})^{t}(x^{-1})^{9 - t} = x^{0}\\)\nDealing with x alone, we have\n\\((x^{2t})(x^{-9 + t}) = x^{0} \\implies 2t - 9 + t = 0\\)\n\\(3t - 9 = 0 \\therefore t = 3\\)\nThe binomial expansion is then,\n\\(^{9}C_{3} (2x^{2})^{3}(x^{-1})^{6} = \\frac{9!}{(9-3)! 3!} \\times 2^{3}\\)\n= 84 x 8\n= 672",
+    "year": "2018"
+  },
+  {
+    "number": "78",
+    "text": "A particle starts from rest and moves through a distance \\(S = 12t^{2} - 2t^{3}\\) metres in time t seconds. Find its acceleration in 1 second.",
+    "options": {
+      "A": "24\\(ms^{-2}\\)",
+      "B": "18\\(ms^{-2}\\)",
+      "C": "12\\(ms^{-2}\\)",
+      "D": "10\\(ms^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50386?exam_type=waec&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{\\mathrm d s(t)}{\\mathrm d t} = v(t)\\) and \\(\\frac{\\mathrm d v(t)}{\\mathrm d t} = a(t)\\)\n\\(\\therefore v(t) = \\frac{\\mathrm d (12t^{2} - 2t^{3})}{\\mathrm d t} = 24t - 6t^{2}\\)\n\\(\\frac{\\mathrm d (24t - 6t^{2})}{\\mathrm d t} = 24 - 12t = a(t)\\)\n\\(a(1) = 24 - 12(1) = 24 - 12 = 12ms^{-2}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "79",
+    "text": "A car is moving at 120\\(kmh^{-1}\\). Find its speed in \\(ms^{-1}\\).",
+    "options": {
+      "A": "33.3\\(ms^{-1}\\)",
+      "B": "66.6\\(ms^{-1}\\)",
+      "C": "99.9\\(ms^{-1}\\)",
+      "D": "120.0\\(ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50387?exam_type=waec&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "\\(120 kmh^{-1} = \\frac{120 \\times 1000}{3600} = \\frac{100}{3} = 33.3ms^{-1}\\)",
+    "year": "2018"
+  },
+  {
+    "number": "80",
+    "text": "Two functions f and g are defined on the set of real numbers by \\(f : x \\to x^{2} + 1\\) and \\(g : x \\to x - 2\\). Find f o g.",
+    "options": {
+      "A": "\\(x^{2} + 4x - 5\\)",
+      "B": "\\(x^{2} - 4x + 5\\)",
+      "C": "\\(x^{2} - 1\\)",
+      "D": "\\(x - 1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50388?exam_type=waec&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "\\(f(x) = x^{2} + 1\\)\u00a0 and\u00a0 \\(g(x) = x - 2\\)\n\\(f o g = f(g(x)) = f(x - 2) = (x - 2)^{2} + 1 \\)\n= \\(x^{2} - 4x + 4 + 1 = x^{2} - 4x + 5\\)",
+    "year": "2018"
+  }
+]

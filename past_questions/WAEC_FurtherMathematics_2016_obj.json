@@ -1,0 +1,561 @@
+[
+  {
+    "number": "81",
+    "text": "If \\(P = {x : -2 < x < 5}\\) and \\(Q = {x : -5 < x < 2}\\) are subsets of \\(\\mu = {x : -5 \\leq x \\leq 5}\\), where x is a real number, find \\((P \\cup Q)\\).",
+    "options": {
+      "A": "\\({x : -5 < x < 5}\\)",
+      "B": "\\({x : -5 \\leq x \\leq 5}\\)",
+      "C": "\\({x : -5 \\leq x < 5}\\)",
+      "D": "\\({x : -5 < x \\leq 5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50389?exam_type=waec&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "\\(P = {x : -2 < x < 5}\\) and \\(Q = {x:\u00a0 -5 < x < 2}\\)\n\\((P \\cup Q) = {x : -5 < x < 5}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "82",
+    "text": "Express \\(\\frac{8 - 3\\sqrt{6}}{2\\sqrt{3} + 3\\sqrt{2}}\\) in the form \\(p\\sqrt{3} + q\\sqrt{2}\\).",
+    "options": {
+      "A": "\\(7\\sqrt{3} - \\frac{17\\sqrt{2}}{3}\\)",
+      "B": "\\(7\\sqrt{2} - \\frac{17\\sqrt{3}}{3}\\)",
+      "C": "\\(-7\\sqrt{2} + \\frac{17\\sqrt{3}}{3}\\)",
+      "D": "\\(-7\\sqrt{3} - \\frac{17\\sqrt{2}}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50390?exam_type=waec&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "Given \\(\\frac{8 - 3\\sqrt{6}}{2\\sqrt{3} + 3\\sqrt{2}}\\),\nfirst, we rationalise\u00a0 by multiplying through with \\(2\\sqrt{3} - 3\\sqrt{2}\\) (the inverse of the denominator).\n\\((\\frac{8 - 3\\sqrt{6}}{2\\sqrt{3} + 3\\sqrt{2}})(\\frac{2\\sqrt{3} - 3\\sqrt{2}}{2\\sqrt{3} - 3\\sqrt{2}})\\)\n= \\(\\frac{16\\sqrt{3} - 24\\sqrt{2} - 18\\sqrt{2} + 18\\sqrt{3}}{4(3) - 6\\sqrt{6} + 6\\sqrt{6} - 9(2)}\\)\n= \\(\\frac{34\\sqrt{3} - 42\\sqrt{2}}{-6} = 7\\sqrt{2} - \\frac{17\\sqrt{3}}{3}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "83",
+    "text": "An operation * is defined on the set, R, of real numbers by \\(p * q = p + q + 2pq\\). If the identity element is 0, find the value of p for which the operation has no inverse.",
+    "options": {
+      "A": "\\(\\frac{-1}{2}\\)",
+      "B": "\\(0\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "\\(2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50391?exam_type=waec&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "Given the formula for p * q as: \\(p + q + 2pq\\) and its identity element is 0, such that if, say, t is the inverse of p, then\n\\(p * t = 0\\), then \\(p + t + 2pt = 0\u00a0 \\therefore p + (1 + 2p)t = 0\\)\n\\(t = \\frac{-1}{1 + 2p}\\) is the formula for the inverse of p and is undefined on R when\n\\(1 + 2p) = 0\\) i.e when \\(2p = -1; p = \\frac{-1}{2}\\).",
+    "year": "2016"
+  },
+  {
+    "number": "84",
+    "text": "Consider the statements:\np : Musa is short\nq : Musa is brilliant\nWhich of the following represents the statement \"Musa is short but not brilliant\"?",
+    "options": {
+      "A": "\\(p \\vee q\\)",
+      "B": "\\(p \\vee \\sim q\\)",
+      "C": "\\(p \\wedge \\sim q\\)",
+      "D": "\\(p \\wedge q\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50392?exam_type=waec&type=obj&page=17",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2016"
+  },
+  {
+    "number": "85",
+    "text": "If \\(f(x) = \\frac{4}{x} - 1, x \\neq 0\\), find \\(f^{-1}(7)\\).",
+    "options": {
+      "A": "\\(\\frac{-3}{7}\\)",
+      "B": "\\(0\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(4\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50393?exam_type=waec&type=obj&page=17",
+    "correct_answer": "C",
+    "explanation": "\\(f(x) = \\frac{4}{x} - 1\\). Let y = f(x)\n\\(y = \\frac{4 - x}{x}\u00a0 \\implies xy + x = 4\\)\n\\(x(y + 1) = 4\u00a0 \\therefore\u00a0 x = \\frac{4}{y + 1}\\)\n\\(f^{-1}(7) = \\frac{4}{7 + 1} = \\frac{1}{2}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "86",
+    "text": "If \\(y = 4x - 1\\), list the range of the domain \\({-2 \\leq x \\leq 2}\\), where x is an integer.",
+    "options": {
+      "A": "{-9, -1, 2,3, 4}",
+      "B": "{-9, -2, 0, 1, 7}",
+      "C": "{-5, -4, -3, -2}",
+      "D": "{-9, -5, -1, 3, 7}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50394?exam_type=waec&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "The elements of x are {-2, -1, 0, 1, 2}\n\\(y = 4x - 1\\) = 4(-2) - 1 = -9; 4(-1) - 1 = -5; 4(0) - 1 = -1; 4(1) - 1 = 3; 4(2) - 1 = 7.\nThe range of x is {-9, -5, -1, 3 7}.",
+    "year": "2016"
+  },
+  {
+    "number": "87",
+    "text": "Factorize completely: \\(x^{2} + x^{2}y + 3x - 10y + 3xy - 10\\).",
+    "options": {
+      "A": "(x + 2)(x + 5)(y + 1)",
+      "B": "(x + 2)(x - 5)(y + 1)",
+      "C": "(x - 2)(x + 5)(y + 1)",
+      "D": "(x - 2)(x - 5)(y + 1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50395?exam_type=waec&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "\\(x^{2} + x^{2}y + 3x - 10y + 3xy -10\\)\n= \\(x^{2} + x^{2}y + 3x + 3xy - 10y - 10\u00a0 = x^{2}(1 + y) + 3x(1 + y) - 10(y + 1)\\)\n= \\((x^{2} + 3x - 10)(y + 1)\\)\n= \\((x^{2} + 3x - 10) = x^{2} - 2x + 5x - 10\\)\n= \\(x(x - 2) + 5(x - 2) = (x - 2)(x +5)\\)\n\\(\\therefore x^{2} + x^{2}y + 3x - 10y + 3xy -10 = (x - 2)(x + 5)(y + 1)\\).",
+    "year": "2016"
+  },
+  {
+    "number": "88",
+    "text": "If the solution set of \\(x^{2} + kx - 5 = 0\\) is (-1, 5), find the value of k.",
+    "options": {
+      "A": "-6",
+      "B": "-4",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50396?exam_type=waec&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "Given x = (-1, 5) for the equation \\(x^{2} + kx - 5 = 0\\)\n\\(x = -1 \\implies x + 1 = 0\\); \\(x = 5 \\implies x - 5 = 0\\)\n\\((x + 1)(x - 5) = 0\\), expanding,\n\\(x^{2} - 5x + x - 5 = 0 \u00a0 \\therefore\u00a0 x^{2} - 4x -\u00a0 5 = 0\\)\n\\(\\therefore\\) k = -4.",
+    "year": "2016"
+  },
+  {
+    "number": "89",
+    "text": "The remainder when \\(x^{3}\u00a0 - 2x + m\\) is divided by \\(x - 1\\) is equal to the remainder when \\(2x^{3} + x - m\\) is divided by \\(2x + 1\\). Find the value of m.",
+    "options": {
+      "A": "\\(\\frac{-7}{8}\\)",
+      "B": "\\(\\frac{-3}{8}\\)",
+      "C": "\\(\\frac{1}{8}\\)",
+      "D": "\\(\\frac{5}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50397?exam_type=waec&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "The remainder theorem states that if f(x) is divided by (x - a), the remainder is f(a).\n\\(f(x) = x^{3} - 2x + m\\) divided by (x - 1), so that a = 1.\nRemainder = \\(f(1) = 1^3 - 2(1) + m = -1 + m\\)\n\\(f(x) = 2x^{3} + x - m\\) divided by (2x + 1), so that a = \\(\\frac{-1}{2}\\)\n\\(f(\\frac{-1}{2}) = 2(\\frac{-1}{2}^{3}) + (\\frac{-1}{2}) - m = \\frac{-3}{4} - m\\)\n\\(\\implies m - 1 = \\frac{-3}{4} - m\\), collecting like terms,\n\\(2m = \\frac{1}{4} \\therefore m = \\frac{1}{8}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "90",
+    "text": "If (2t - 3s)(t - s) = 0, find \\(\\frac{t}{s}\\).",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\) or \\(1\\)",
+      "B": "\\(\\frac{3}{2}\\) or \\(-1\\)",
+      "C": "\\(\\frac{-3}{2}\\) or \\(-1\\)",
+      "D": "\\(\\frac{-3}{2}\\) or \\(1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50398?exam_type=waec&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "\\((2t - 3s)(t - s) = 0 \\implies (2t - 3s) = \\text{0 or} (t - s) = 0\\)\n\\(2t - 3s = 0 \\implies 2t = 3s \\therefore \\frac{t}{s} = \\frac{3}{2}\\)\n\\(t - s = 0 \\implies t = s\u00a0 \\therefore\u00a0 \\frac{t}{s} = 1\\)\n\\(\\frac{t}{s} = \\frac{3}{2} or 1\\)",
+    "year": "2016"
+  },
+  {
+    "number": "91",
+    "text": "Solve for x in the equation \\(5^{x} \\times 5^{x + 1} = 25\\).",
+    "options": {
+      "A": "\\(-2\\)",
+      "B": "\\(\\frac{-1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50399?exam_type=waec&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "\\(5^{x} \\times 5^{x+1} = 25\\)\n\\(5^{x} \\times 5^{x+1} = 5^{2}\\)\n\\(5^{x+x+1} = 5^{2}\\), equating powers,\n\\(2x + 1 = 2 \\implies 2x = 1\\)\n\\(\\therefore x = \\frac{1}{2}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "92",
+    "text": "If \\(\\log_{10}y + 3\\log_{10}x \\geq \\log_{10}x\\), express y in terms of x.",
+    "options": {
+      "A": "\\(y \\geq \\frac{1}{x}\\)",
+      "B": "\\(y \\leq \\frac{1}{x}\\)",
+      "C": "\\(y \\leq \\frac{1}{x^{2}}\\)",
+      "D": "\\(y \\geq \\frac{1}{x^{2}}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50400?exam_type=waec&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "\\(\\log_{10}y + 3\\log_{10}x \\geq \\log_{10}x\\)\n\\(\\implies \\log_{10}y \\geq \\log_{10}x - 3 \\log_{10}x \\)\n\\(\\log_{10}y \\geq -2\\log_{10}x = \\log_{10}y \\geq \\log_{10}x^{-2}\\)\n\\(\\log_{10}y \\geq \\log_{10}(\\frac{1}{x^{2}}) \\implies y \\geq \\frac{1}{x^{2}}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "93",
+    "text": "Simplify \\(\\frac{^{n}P_{5}}{^{n}C_{5}}\\).",
+    "options": {
+      "A": "80",
+      "B": "90",
+      "C": "110",
+      "D": "120"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50401?exam_type=waec&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{^{n}P_{5}}{^{n}C_{5}} = \\frac{n!}{(n-5)!}\u00a0\u00f7 \\frac{n!}{(n-5)!5!}\\)\n= \\(\\frac{n!}{(n-5)!} \\times \\frac{(n-5)!5!}{n!} = 5! = 120\\)",
+    "year": "2016"
+  },
+  {
+    "number": "94",
+    "text": "Given n = 3, evaluate \\(\\frac{1}{(n-1)!} - \\frac{1}{(n+1)!}\\)",
+    "options": {
+      "A": "\\(12\\)",
+      "B": "\\(2\\frac{1}{2}\\)",
+      "C": "\\(2\\)",
+      "D": "\\(\\frac{11}{24}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50402?exam_type=waec&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "n = 3, \\(\\frac{1}{(n-1)!} - \\frac{1}{(n+1)!} = \\frac{1}{(3-1)!} - \\frac{1}{(3+1)!}\\)\n= \\(\\frac{1}{2} - \\frac{1}{24} = \\frac{12 -1}{24}\\)\n= \\(\\frac{11}{24}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "95",
+    "text": "Find the coefficient of \\(x^{3}\\) in the expansion of \\([\\frac{1}{3}(2 + x)]^{6}\\).",
+    "options": {
+      "A": "\\(\\frac{135}{729}\\)",
+      "B": "\\(\\frac{149}{729}\\)",
+      "C": "\\(\\frac{152}{729}\\)",
+      "D": "\\(\\frac{160}{729}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50403?exam_type=waec&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "\\([\\frac{1}{3}(2 + x)]^{6} = (\\frac{2}{3} + \\frac{x}{3})^{6}\\)\nThe coefficient of \\(x^{3}\\) is\n\\(^{6}C_{3}(\\frac{2}{3})^{3}(\\frac{1}{3})^{3}x^{3} = (\\frac{6!}{3!3!})(\\frac{8}{27})(\\frac{1}{27})x^{3}\\)\n= \\(\\frac{160}{729}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "96",
+    "text": "Find the fourth term in the expansion of \\((3x - y)^{6}\\).",
+    "options": {
+      "A": "\\(-540x^{3}y^{3}\\)",
+      "B": "\\(-540x^{4}y^{2}\\)",
+      "C": "\\(-27x^{3}y^{3}\\)",
+      "D": "\\(540x^{4}y^{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50404?exam_type=waec&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "Listing out in order, the terms of this expansion have coefficients: \\(^{6}C_{6}, ^{6}C_{5}, ^{6}C_{4}, ^{6}C_{3}, ^{6}C_{2}, ^{6}C_{1}, ^{6}C_{0}\\)\nThe 4th term = \\(^{6}C_{3}(3x)^{3}(-y)^{3}\u00a0 = 20 \\times 27x^{3} \\times -y^{3}\\)\n= \\(-540x^{3}y^{3}\\).",
+    "year": "2016"
+  },
+  {
+    "number": "97",
+    "text": "The 3rd and 6th terms of a geometric progression (G.P.) are \\(\\frac{8}{3}\\) and \\(\\frac{64}{81}\\) respectively, find the common ratio.",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{4}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50405?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "\\(T_{n} = ar^{n-1}\\) (for a geometric progression)\n\\(T_{3} = ar^{3-1} = ar^{2} = \\frac{8}{3}\\)\n\\(T_{6} = ar^{6-1} = ar^{5} = \\frac{64}{81}\\)\nDividing \\(T_{6}\\) by \\(T_{3}\\),\n\\(\\frac{ar^{5}}{ar^{2}} = \\frac{\\frac{64}{81}}{\\frac{8}{3}} \\implies r^{3} = \\frac{8}{27}\\)\n\\(\\therefore r = \\sqrt[3]{\\frac{8}{27}} = \\frac{2}{3}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "98",
+    "text": "Given that \\(-6, -2\\frac{1}{2}, ..., 71\\) is a linear sequence , calculate the number of terms in the sequence.",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50406?exam_type=waec&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "\\(T_{n} = a + (n - 1)d\\) (for a linear or arithmetic progression)\nGiven: \\(T_{n} = 71, a = -6, d = -2\\frac{1}{2} - (-6) = 3\\frac{1}{2}\\)\n\\(\\implies 71 = -6 + (n - 1)\\times 3\\frac{1}{2}\\)\n\\(71 = -6 + 3\\frac{1}{2}n - 3\\frac{1}{2} = -9\\frac{1}{2} + 3\\frac{1}{2}n\\)\n\\(71 + 9\\frac{1}{2} = 3\\frac{1}{2}n\u00a0 \\implies\u00a0 n = \\frac{80\\frac{1}{2}}{3\\frac{1}{2}}\\)\n\\(= 23\\)",
+    "year": "2016"
+  },
+  {
+    "number": "99",
+    "text": "If \\(\\begin{vmatrix}\u00a0 m-2 & m+1 \\\\ m+4 & m-2 \\end{vmatrix} = -27\\), find the value of m.",
+    "options": {
+      "A": "\\(3\\frac{8}{9}\\)",
+      "B": "\\(3\\)",
+      "C": "\\(2\\frac{1}{2}\\)",
+      "D": "\\(2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50407?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{vmatrix} m-2 & m+1 \\\\ m+4 & m-2 \\end{vmatrix} = -27\\)\n\\((m^{2} - 4m + 4) - (m^{2} + 5m + 4) = -27\\)\n\\(-9m = -27 \\implies m = 3\\)",
+    "year": "2016"
+  },
+  {
+    "number": "100",
+    "text": "If \\(P = \\begin{pmatrix} 1 & 2 \\\\ 5 & 1 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} 0 & 1 \\\\ 1 & 3 \\end{pmatrix}\\), find PQ.",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 5 & 1 \\\\ 16 & 5 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 2 & 16 \\\\ 1 & 10 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 2 & 7 \\\\ 1 & 8 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 2 & 5 \\\\ -1 & -8 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50408?exam_type=waec&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{pmatrix} 1 & 2 \\\\ 5 & 1 \\end{pmatrix} \\begin{pmatrix} 0 & 1 \\\\ 1 & 3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 1\\times 0 + 2\\times 1 & 1\\times 1 + 2\\times3 \\\\ 5\\times0 + 1\\times1 &\u00a0 5\\times1 + 1\\times 3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 2 & 7 \\\\ 1 & 8 \\end{pmatrix}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "101",
+    "text": "Evaluate \\(\\cos 75\u00b0\\), leaving the answer in surd form.",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{2}}{2}(\\sqrt{3} + 1)\\)",
+      "B": "\\(\\frac{\\sqrt{2}}{4}(\\sqrt{3} - 1)\\)",
+      "C": "\\(\\frac{\\sqrt{2}}{4}(\\sqrt{3} + 1)\\)",
+      "D": "\\(\\frac{\\sqrt{2}}{2}(\\sqrt{3} - 1)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50409?exam_type=waec&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "\\(\\cos(a + b) = \\cos a\\cos b - \\sin a\\sin b\\)\n\\(\\cos75\u00b0 = \\cos(30 + 45) = (\\cos30)(\\cos45) - (\\sin30)(\\sin45)\\)\n= \\((\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{2}}{2}) - (\\frac{1}{2} \\times \\frac{\\sqrt{2}}{2})\\)\n= \\(\\frac{\\sqrt{6} - \\sqrt{2}}{4}\\)\n= \\(\\frac{\\sqrt{2}(\\sqrt{3} - 1)}{4}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "102",
+    "text": "Given that \\(\\tan x = \\frac{5}{12}\\), and \\(\\tan y = \\frac{3}{4}\\), Find \\(\\tan (x + y)\\).",
+    "options": {
+      "A": "\\(\\frac{16}{33}\\)",
+      "B": "\\(\\frac{33}{56}\\)",
+      "C": "\\(\\frac{33}{16}\\)",
+      "D": "\\(\\frac{56}{33}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50410?exam_type=waec&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "\\(\\tan (x + y) = \\frac{\\tan x + \\tan y}{1 - \\tan x\\tan y}\\)\n\\(\\tan x = \\frac{5}{12} ; \\tan y = \\frac{3}{4}\\)\n\\(\\tan (x + y) = \\frac{\\frac{5}{12} + \\frac{3}{4}}{1 - (\\frac{5}{12} \\times \\frac{3}{4}})\\)\n= \\(\\frac{\\frac{14}{12}}{\\frac{33}{48}}\\)\n= \\(\\frac{56}{33}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "103",
+    "text": "Find the equation of the line which passes through (-4, 3) and parallel to line y =\u00a0 2x + 5.",
+    "options": {
+      "A": "y = 2x + 11",
+      "B": "y = 3x - 5",
+      "C": "y = 2x - 11"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50411?exam_type=waec&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "The gradient of the line y = 2x + 5 ;\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2\\)\n\\(\\frac{y - 3}{x - (-4)} = \\frac{y-3}{x+4} = 2\\)\n\\(y - 3 = 2(x + 4) \\implies y = 2x + 11\\)",
+    "year": "2016"
+  },
+  {
+    "number": "104",
+    "text": "Points E(-2, -1) and F(3, 2) are the ends of the diameter of a circle. Find the equation of the circle.",
+    "options": {
+      "A": "\\(x^{2} + y^{2} - 5x + 3 = 0\\)",
+      "B": "\\(x^{2} + y^{2} - 2x - 6y - 13 = 0\\)",
+      "C": "\\(x^{2} + y^{2} - x + 5y - 6 = 0\\)",
+      "D": "\\(x^{2} + y^{2} - x - y - 8 = 0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50412?exam_type=waec&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "Given the endpoints of the diameter |EF|, the midpoint is the centre of the circle\n= \\((\\frac{-2 + 3}{2} , \\frac{-1 + 2}{2}) = (\\frac{1}{2} , \\frac{1}{2})\\)\nThe radius is the distance from the centre to any point on the circle. Using \\((\\frac{1}{2}, \\frac{1}{2})\\) and \\((3, 2)\\);\n\\(r^{2} = (3 - \\frac{1}{2})^{2} + (2 - \\frac{1}{2})^{2} = \\frac{25}{4} + \\frac{9}{4}\\)\n\\(r^{2} = \\frac{34}{4}\\)\nThe equation of a circle is given as:\n\\((x - a)^{2} + (y - b)^{2} = r^{2}\\), (a, b) as the centre of the circle.\n\\(= (x - \\frac{1}{2})^{2} + (y - \\frac{1}{2})^{2} = \\frac{34}{4}\\)\n\\(x^{2} - x + \\frac{1}{4} + y^{2} - y + \\frac{1}{4} = \\frac{17}{2}\\)\n= \\(x^{2} - y^{2} - x - y - 8 = 0\\)",
+    "year": "2016"
+  },
+  {
+    "number": "105",
+    "text": "The lines \\(2y + 3x - 16 = 0\\) and \\(7y - 2x - 6 = 0\\) intersect at point P. Find the coordinates of P.",
+    "options": {
+      "A": "(4, 2)",
+      "B": "(4, -2)",
+      "C": "(-4, 2)",
+      "D": "(-4, -2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50413?exam_type=waec&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "The point of intersection for the two lines exists at the point where the two lines are equal to each other. Make anyone of the variables the subject of the formula and equate the two lines to each other and solve for the coordinates of the point of intersection.\nGiven lines \\(2y + 3x - 16 = 0\\) and \\(7y - 2x - 6 = 0\\) , making x the subject of the formula:\nLine 1 : \\(2y + 3x - 16 = 0 \\implies 3x = 16 - 2y\\)\n\\(\\therefore x = \\frac{16}{3} - \\frac{2}{3}y\\)\nLine 2 : \\(7y - 2x - 6 = 0 \\implies -2x = 6 - 7y\\)\n\\(\\therefore x = \\frac{7}{2}y - 3\\)\nEquating them together and solving, we have:\n\\(\\frac{16}{3} - \\frac{2}{3}y = \\frac{7}{2}y - 3\u00a0 \\implies \\frac{16}{3} + 3 = \\frac{7}{2}y + \\frac{2}{3}y\\)\n\\(\\frac{25}{3} = \\frac{25}{6}y \\therefore y = 2\\)\nPutting y = 2 in the equation \\(3x = 16 - 2y\\), we have\n\\(3x = 16 - 2(2) = 16 - 4 = 12 \\implies x = 4\\)\nThe coordinate of P is (4, 2).",
+    "year": "2016"
+  },
+  {
+    "number": "106",
+    "text": "Find \\(\\lim\\limits_{x \\to 3} \\frac{2x^{2} + x - 21}{x - 3}\\).",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "7",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50414?exam_type=waec&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "\\(\\lim\\limits_{x \\to 3} \\frac{2x^{2} + x - 21}{x - 3}\\)\n\\(2x^{2} + x - 21 = 2x^{2} - 6x + 7x - 21 \\) (by factorizing)\n= \\((2x + 7)(x - 3)\\)\n\\(\\therefore \\lim\\limits_{x \\to 3} \\frac{2x^{2} + x - 21}{x - 3} \\equiv \\lim\\limits_{x \\to 3} \\frac{(2x+7)(x-3)}{x-3}\\)\n\\(\\lim\\limits_{x \\to 3} (2x + 7)\u00a0 = 2(3) + 7 = 13\\)",
+    "year": "2016"
+  },
+  {
+    "number": "107",
+    "text": "Find the gradient to the normal of the curve \\(y = x^{3} - x^{2}\\) at the point where x = 2.",
+    "options": {
+      "A": "\\(\\frac{-1}{8}\\)",
+      "B": "\\(\\frac{1}{8}\\)",
+      "C": "\\(\\frac{-1}{24}\\)",
+      "D": "\\(1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50415?exam_type=waec&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "Given : \\(y = x^{3} - x^{2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} - 2x\\)\n\\(\\therefore\u00a0 \\text{The gradient of the tangent at point (x = 2)} = 3(2^{2}) - 2(2) \\)\n= \\(12 - 4 = 8\\)\nRecall, the tangent and the normal are perpendicular to each other and the product of the gradients of perpendicular lines = -1.\n\\(\\implies \\text{the gradient of the normal} = \\frac{-1}{8}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "108",
+    "text": "Find the minimum value of \\(y = 3x^{2} - x - 6\\).",
+    "options": {
+      "A": "\\(-6\\frac{1}{6}\\)",
+      "B": "\\(-6\\frac{1}{12}\\)",
+      "C": "\\(-6\\)",
+      "D": "\\(0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50416?exam_type=waec&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "\\(3x^{2} - x - 6 = y\\)\n\\(a = 3, b = -1, c = -6\\)\nMinimum value of x = \\(\\frac{-b}{2a} = \\frac{-(-1)}{6} = \\frac{1}{6}\\)\n\\(y(\\frac{1}{6}) = 3(\\frac{1}{6}^{2}) - \\frac{1}{6} - 6 = -6\\frac{1}{12}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "109",
+    "text": "The radius of a circle increases at a rate of 0.5\\(cms^{-1}\\). Find the rate of change in the area of the circle with radius 7cm. \\([\\pi = \\frac{22}{7}]\\)",
+    "options": {
+      "A": "11\\(cm^{2}s^{-1}\\)",
+      "B": "22\\(cm^{2}s^{-1}\\)",
+      "C": "33\\(cm^{2}s^{-1}\\)",
+      "D": "44\\(cm^{2}s^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50417?exam_type=waec&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "With radius = 7cm, \\(Area = \\pi r^{2} = \\frac{22}{7} \\times 7^{2}\\)\n= \\(154cm^{2}\\)\nThe next second, radius = 7.5cm, \\(Area = \\pi r^{2} = \\frac{22}{7} \\times 7.5^{2}\\)\n= \\(176cm^{2}\\)\nChange in area = \\((176 - 154)cm^{2} = 22cm^{2}\\)\n\\(\\therefore\\) The rate of increase = \\(22cm^{2}s^{-1}\\)\nOR\n\\(Area (A) = \\pi r^{2} \\implies \\frac{\\mathrm d A}{\\mathrm d r} = 2\\pi r\\)\nGiven \\(\\frac{\\mathrm d r}{\\mathrm d t} = 0.5\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d r} \\times \\frac{\\mathrm d r}{\\mathrm d t} = \\frac{\\mathrm d A}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = 2\\pi r \\times 0.5 = 2 \\times \\frac{22}{7} \\times 7 \\times 0.5\\)\n= \\(22cm^{2}s^{-1}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "110",
+    "text": "Find an expression for y given that \\(\\frac{\\mathrm d y}{\\mathrm d x} = x^{2}\\sqrt{x}\\)",
+    "options": {
+      "A": "\\(\\frac{1x^{\\frac{2}{7}}}{7} + c\\)",
+      "B": "\\(\\frac{2x^{\\frac{3}{2}}}{7} + c\\)",
+      "C": "\\(\\frac{2x^{\\frac{7}{2}}}{7} + c\\)",
+      "D": "\\(\\frac{1x^{\\frac{7}{2}}}{7} + c\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50418?exam_type=waec&type=obj&page=22",
+    "correct_answer": "C",
+    "explanation": "\\(x^{2}\\sqrt{x} \\equiv x^{2}. x^{\\frac{1}{2}} = x^{\\frac{5}{2}}\\)\n\\(\\implies \\frac{\\mathrm d y}{\\mathrm d x} = x^{\\frac{5}{2}}\\)\n\\(y = \\int x^{\\frac{5}{2}} \\mathrm d x\\)\n= \\(\\frac{x^{\\frac{5}{2} + 1}}{\\frac{5}{2} + 1} + c\\)\n= \\(\\frac{2x^{\\frac{7}{2}}}{7} + c\\)",
+    "year": "2016"
+  },
+  {
+    "number": "111",
+    "text": "Given that \\(n = 10\\) and \\(\\sum d^{2} = 20\\), calculate the Spearman's rank correlation coefficient.",
+    "options": {
+      "A": "0.121",
+      "B": "0.733",
+      "C": "0.879",
+      "D": "0.979"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50419?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "The Spearman's correlation coefficient \\(\\rho\\) is given as:\n\\(\\rho = 1 - \\frac{6\\sum d^{2}}{n(n^{2} - 1)}\\)\n= \\(\\rho = 1 - \\frac{6 \\times 20}{10(10^{2} - 1)}\\)\n= \\(1 - \\frac{120}{990} = \\frac{870}{990}\\)\n= \\(0.879\\)",
+    "year": "2016"
+  },
+  {
+    "number": "112",
+    "text": "Find the variance of 11, 12, 13, 14 and 15.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "\\(\\sqrt{2}\\)",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50420?exam_type=waec&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "\\(Variance (\\sigma^{2}) = \\frac{\\sum (x - \\mu)^2}{n}\\)\nThe mean \\((\\mu)\\) of the data = \\(\\frac{11 + 12 + 13 + 14 + 15}{5} = \\frac{65}{5} = 13\\)\n\\(x\\)\\((x - \\mu)\\)\\((x - \\mu)^{2}\\)11-2412-11130014111524Total10\n\\(\\sigma^{2} = \\frac{10}{5} = 2\\)",
+    "year": "2016"
+  },
+  {
+    "number": "113",
+    "text": "A fair coin is tossed 3 times. Find the probability of obtaining exactly 2 heads.",
+    "options": {
+      "A": "\\(\\frac{1}{8}\\)",
+      "B": "\\(\\frac{3}{8}\\)",
+      "C": "\\(\\frac{5}{8}\\)",
+      "D": "\\(\\frac{7}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50421?exam_type=waec&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "Let the probability of getting a head = p = \\(\\frac{1}{2}\\) and that of tail = q = \\(\\frac{1}{2}\\)\n\\((p + q)^{3} = p^{3} + 3p^{2}q + 3pq^{2} + q^{3}\\)\nIn the equation above, \\(p^{3}\\) and \\(q^{3}\\) are the probabilities of 3 heads and 3 tails respectively\nwhile, \\(p^{2}q\\) and \\(pq^{2}\\) are the probabilities of 2 heads and one tail and 2 tails and one head respectively.\nProbability of exactly 2 heads = \\(3p^{2}q = 3(\\frac{1}{2})^{2}(\\frac{1}{2})\\)\n= \\(\\frac{3}{8}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "114",
+    "text": "A box contains 14 white balls and 6 black balls. Find the probability of first drawing a black ball and then a white ball without replacement.",
+    "options": {
+      "A": "0.21",
+      "B": "0.22",
+      "C": "0.30",
+      "D": "0.70"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50422?exam_type=waec&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "The probability of picking a black ball = \\(\\frac{6}{6 + 14} = \\frac{6}{20}\\)\nProbability of a white ball without replacement = \\(\\frac{14}{19}\\)\nProbability of a black ball and then white without replacement = \\(\\frac{6}{20} \\times \\frac{14}{19} = \\frac{21}{95} = 0.22\\)",
+    "year": "2016"
+  },
+  {
+    "number": "115",
+    "text": "Given that \\(r = 3i + 4j\\) and \\(t = -5i + 12j\\), find the acute angle between them.",
+    "options": {
+      "A": "14.3\u00b0",
+      "B": "55.9\u00b0",
+      "C": "59.5\u00b0",
+      "D": "75.6\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50423?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "\\(\\overrightarrow{r} . \\overrightarrow{t} = |\\overrightarrow{r}||\\overrightarrow{t}|\\cos \\theta\\)\n\\(\\overrightarrow{r} . \\overrightarrow{t} = (3i + 4j) . (-5i + 12j) = -15 + 48 = 33\\)\n\\(|\\overrightarrow{r}| = \\sqrt{3^{2} + 4^{2}} = \\sqrt{25} = 5\\)\n\\(|\\overrightarrow{t}| = \\sqrt{(-5)^{2} + 12^{2}| = \\sqrt{169} = 13\\)\n\\(\\cos \\theta = \\frac{\\overrightarrow{r} . \\overrightarrow{t}}{|\\overrightarrow{r}||\\overrightarrow{t}|}\\)\n\\(\\cos \\theta = \\frac{33}{5 \\times 13} = \\frac{33}{65}\\)\n\\(\\theta = \\cos^{-1} {\\frac{33}{65}} \\approxeq 59.5\u00b0\\)",
+    "year": "2016"
+  },
+  {
+    "number": "116",
+    "text": "Find the unit vector in the direction of \\(-2i + 5j\\).",
+    "options": {
+      "A": "\\(\\frac{1}{\\sqrt{29}}(2i + 5j)\\)",
+      "B": "\\(\\frac{1}{\\sqrt{29}}(-2i + 5j)\\)",
+      "C": "\\(\\frac{1}{29}(2i - 5j)\\)",
+      "D": "\\(\\frac{1}{29}(-2i - 5j)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50424?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "The unit vector, \\(\\hat{n}\\)\u00a0is given by \\(\\hat{n} = \\frac{\\overrightarrow{r}}{|\\overrightarrow{r}|}\\)\n= \\(\\frac{(-2i + 5j)}{\\sqrt{(-2)^{2} + 5^{2}}} = \\frac{(-2i + 5j)}{\\sqrt{29}}\\)\n= \\(\\frac{1}{\\sqrt{29}}(-2i + 5j)\\)",
+    "year": "2016"
+  },
+  {
+    "number": "117",
+    "text": "A body of mass 10kg moving with a velocity of 5\\(ms^{-1}\\) collides with another body of mass 15kg moving in the same direction as the first with a velocity of 2\\(ms^{-1}\\). After collision, the two bodies move together with a common velocity v\\(ms^{-1}\\).",
+    "options": {
+      "A": "3.2",
+      "B": "5.3",
+      "C": "7.0",
+      "D": "8.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50425?exam_type=waec&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "Momentum of bodies with common velocity = \\(m_{1}v_{1} + m_{2}v_{2} = (m_{1} + m_{2})v\\)\n\\((10 \\times 5) + (15 \\times 2)\u00a0 = (10 + 15)v\\)\n\\(50 + 30 = 25v \\implies v = \\frac{80}{25} = 3.2ms^{-1}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "118",
+    "text": "A force 10N acts in the direction 060\u00b0 and another force 6N acts in the direction 330\u00b0. Find the y component of their resultant force.",
+    "options": {
+      "A": "\\((3 + 3\\sqrt{3})N\\)",
+      "B": "\\((-3 + 5\\sqrt{3})N\\)",
+      "C": "\\((5 + 3\\sqrt{3})N\\)",
+      "D": "\\((5 + 5\\sqrt{3})N\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50426?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "\\(F = F\\cos \\theta + F\\sin \\theta\\) (Resolving into its components)\n\\(10N = 10 \\cos 60,\u00a010 \\sin 60\\)\n\\(6N = 6 \\cos 330,\u00a06 \\sin 330\\)\n\\(R = F_{1} + F_{2} = (10 \\cos 60,\u00a010 \\sin 60) + (6 \\cos 330,\u00a06 \\sin 330)\\)\nThe y- component : \\(10 \\sin 60 + 6 \\sin 330 = 10 \\times \\frac{\\sqrt{3}}{2} + 6 \\times \\frac{-1}{2}\\)\n= \\((5\\sqrt{3} - 3)N\\)",
+    "year": "2016"
+  },
+  {
+    "number": "119",
+    "text": "A man of mass 80kg stands in a lift. If the lift moves upwards with acceleration 0.5\\(ms^{-2}\\), calculate the reaction from the floor of the lift on the man. \\([g = 10ms^{-2}]\\)",
+    "options": {
+      "A": "760N",
+      "B": "800N",
+      "C": "805N",
+      "D": "840N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50427?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "\\(\\text{Net force = Upward force - weight}\\)\n\\(ma = F - mg\u00a0 \\implies F = ma + mg \\)\n\\(F = (80 \\times 10) + (80 \\times 0.5) = 800 + 40 = 840N\\)",
+    "year": "2016"
+  },
+  {
+    "number": "120",
+    "text": "A ball falls from a height of 18m above the ground. Find the speed with which the ball hits the ground. \\([g = 10ms^{-2}]\\)",
+    "options": {
+      "A": "9\\(ms^{-1}\\)",
+      "B": "9.49\\(ms^{-1}\\)",
+      "C": "13.42\\(ms^{-1}\\)",
+      "D": "18.97\\(ms^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50428?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "Due to conservation of energy, K.E = P.E\n\\(\\frac{1}{2}mv^{2} = mgh\\)\n\\(\\implies m \\times 10 \\times 18 = \\frac{1}{2}mv^{2}\\)\n\\(v^{2} = 2 \\times 10 \\times 18 = 360\\)\n\\(v = \\sqrt{360} = 18.97ms^{-1}\\)",
+    "year": "2016"
+  }
+]

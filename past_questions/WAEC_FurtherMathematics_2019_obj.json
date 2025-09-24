@@ -1,0 +1,561 @@
+[
+  {
+    "number": "520",
+    "text": "Solve: 8\\(^{x - 2}\\) = 4\\(^{3x}\\)",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59651?exam_type=waec&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "8\\(^{x - 2}\\) = 4\\(^{3x}\\)\n2\\(^{3(x - 2)}\\) = 2\\(^{2(3x)}\\)\n2 \\(^{3x - 4}\\) = 2\\(^{6x}\\)\n2 \\(^{x - 4}\\)\u00a0 = 6\\(^x\\)\n\\(\\frac{-4x}{-4}\\) = \\(\\frac{4}{-4}\\)\nx = -1",
+    "year": "2019"
+  },
+  {
+    "number": "521",
+    "text": "Solve; \\(\\frac{P}{2} + \\frac{k}{3}\\) = 5 and 2p = k = 6 simultaneously",
+    "options": {
+      "A": "p = -6, k = -6",
+      "B": "p = -6, k = 6",
+      "C": "p = 6, k = 6",
+      "D": "p = 6, k = -6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59653?exam_type=waec&type=obj&page=105",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{P}{2} + \\frac{k}{3}\\) = 5\n\\(\\frac{3p + 2k}{6}\\) = 5\n2p + 3k = 30\n- 2p - k = 6\n\\(\\overline{\\frac{4k}{4} = \\frac{24}{4}}\\)\nk = 6\nFrom 2p - k = 6\n2p - 6 = 6\n\\(\\frac{2p}{2} = \\frac{12}{2}\\)\np = 6",
+    "year": "2019"
+  },
+  {
+    "number": "522",
+    "text": "Evaluate tan 75\\(^o\\); leaving the answer in surd form (radicals)",
+    "options": {
+      "A": "\\(\\sqrt{3 + 2}\\)",
+      "B": "\\(\\sqrt{3 + 1}\\)",
+      "C": "\\(\\sqrt{3 - 1}\\)",
+      "D": "\\(\\sqrt{3 - 2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59654?exam_type=waec&type=obj&page=105",
+    "correct_answer": "D",
+    "explanation": "Tan 75\\(^o\\) = Tan (45\\(^o\\) + 30\\(^o\\))\n= \\(\\frac{\\tan 45^o + \\tan 30^o}{1 - \\tan 45^o \\tan 30^o}\\)\n=\u00a0\\(\\frac{\\sqrt{3} + 1}{\\sqrt{3}\u00a0 - 1}\\)\nRATIONALIZE THE DENOMINATOR\n= \\(\\frac{\\sqrt{3} + 1}{\\sqrt{3}\u00a0 - 1}\\) X\u00a0\\(\\frac{\\sqrt{3} + 1}{\\sqrt{3}\u00a0 +1}\\)\n=\u00a0\\(\\frac{4 + 2\\sqrt{3}}{3\u00a0 - 1}\\)\n=\u00a0\\(\\frac{2(2\u00a0+ \\sqrt{3})}{2}\\)\n= 2\u00a0+ \\(\\sqrt{3}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "523",
+    "text": "Rationalize; \\(\\frac{1}{\\sqrt{2 + 1}}\\)",
+    "options": {
+      "A": "\\(\\sqrt{2}\\) - 1",
+      "B": "1 - \\(\\sqrt{2}\\)",
+      "C": "\\(\\frac{\\sqrt{2} - 1}{2}\\)",
+      "D": "\\(\\frac{1 - \\sqrt{2}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59655?exam_type=waec&type=obj&page=105",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1}{\\sqrt{2} + 1}\\) x \\(\\frac{\\sqrt{2} - 1}{\\sqrt{2} - 1}\\)\n= \\(\\frac{\\sqrt{2} - 1}{2 - 1}\\)\n= \\(\\frac{\\sqrt{2}\u00a0- 1}{1} = \\sqrt{2} - 1\\)",
+    "year": "2019"
+  },
+  {
+    "number": "524",
+    "text": "If \\(^nC_2\\) = 15, find the value of n",
+    "options": {
+      "A": "8",
+      "B": "7",
+      "C": "6",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59657?exam_type=waec&type=obj&page=105",
+    "correct_answer": "C",
+    "explanation": "\\(^nC_2\\) = 15\n\\(\\frac{n!}{(n - 3)! 2!}\\) = 15\n\\(\\frac{n(n - 1)(n - 2)!}{(n - 2)!2}\\) = 15\nn\\(^2\\) - n = 30\nn\\(^2\\) - n - 30 = 0\n(n - 6)(n + 5) = 0\nn = 6 or n = -5",
+    "year": "2019"
+  },
+  {
+    "number": "525",
+    "text": "An operation (*) is defined on the set T = {-1, 0, ...., 5} by x * y = x + y - xy. Which of the following operation(s) will give an image which is an element of T?\nI. 2(*)5\u00a0II. 3(*)5 III. 3(*)4",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and III only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59659?exam_type=waec&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "526",
+    "text": "Given that g ; x \\(\\to\\) 3x and f ; x \\(\\to\\) cos x. Find the value of\u00a0g\\(^o\\) f(20\\(^o\\))",
+    "options": {
+      "A": "0.50",
+      "B": "0.94",
+      "C": "2.60",
+      "D": "2.82"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59660?exam_type=waec&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "f(20\\(^o\\)) = cos 20\\(^o\\) = 0.9397\ng(0.9397) = 3(0.9397)\n= 2.82",
+    "year": "2019"
+  },
+  {
+    "number": "527",
+    "text": "A linear transformation is defined by T: (x, y) \\(\\to\\) (-x + y, -4y). Find the image, Q`, of Q(-3, 2) under T",
+    "options": {
+      "A": "Q`(5, -8)",
+      "B": "Q`(-8, 5)",
+      "C": "Q`(5, -3)",
+      "D": "Q`(-5, -8)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59663?exam_type=waec&type=obj&page=106",
+    "correct_answer": "A",
+    "explanation": "Q(3 -3, 2) = [-(-3) + 2, -4(2)]\n= (3 + 2, -8)\n= (5, -8)",
+    "year": "2019"
+  },
+  {
+    "number": "528",
+    "text": "If g : r \\(\\to\\) 5 - 2r, r is a real number, find the image of -3",
+    "options": {
+      "A": "13",
+      "B": "11",
+      "C": "-1",
+      "D": "-9"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59664?exam_type=waec&type=obj&page=106",
+    "correct_answer": "B",
+    "explanation": "g(-3) = 5 - 2(-3)\n= 5 + 6 = 11",
+    "year": "2019"
+  },
+  {
+    "number": "529",
+    "text": "Consider the following statements:\np: Birds fly\nq: The sky is blue\nr: The grass is green\nWhat is the symbolic representation\u00a0of \"If the grass is green and the sky is not blue, then the birds do not fly\"?",
+    "options": {
+      "A": "(r ^ p) \\(\\to\\) q",
+      "B": "(r ^ q) \\(\\to\\) p",
+      "C": "(r ^~ q) \\(\\to\\) ~p",
+      "D": "(r ~ ^ p) \\(\\to\\) q"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59666?exam_type=waec&type=obj&page=106",
+    "correct_answer": "C",
+    "explanation": "The symbolic representation of the statement \"If the grass is green and the sky is not blue, then the birds do not fly\" is: \\((r \\land \\neg q) \\rightarrow \\neg p\\)",
+    "year": "2019"
+  },
+  {
+    "number": "530",
+    "text": "Given that \\(\\frac{1}{x^2 - 4} = \\frac{p}{(x + 2)} + \\frac{Q}{(x - 2})\\)\nx \\(\\neq \\pm 2\\)\nFind the value of (P + Q)",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\)",
+      "B": "1",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59668?exam_type=waec&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{1}{x^2 - 4} = \\frac{P}{(x + 2)} + \\frac{Q}{(x - 2)}\\)\nI = p(x - 2) + Q(x + 2)\nLet x = 2\nI = P(2 - 2) + Q(2+ 2)\nI = -4Q\nQ = \\(\\frac{1}{4}\\)\nLet x = -2\nI = P(-2\u00a0 - 2) + Q(-2 + 2)\nI = -4p\nP = \\(\\frac{1}{-4}\\)\nPQQ = - \\(\\frac{1}{4} + \\frac{1}{4}\\)\n= 0",
+    "year": "2019"
+  },
+  {
+    "number": "531",
+    "text": "Find the sum of the first 20 terms of the sequence -7-3, 1, ......",
+    "options": {
+      "A": "620",
+      "B": "660",
+      "C": "690",
+      "D": "1240"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59669?exam_type=waec&type=obj&page=107",
+    "correct_answer": "A",
+    "explanation": "d = -3 - (-7) = 4\nS\\(_{20}\\) = \\(\\frac{20}{2}\\){2(-7) + (20 - 1) 4}\n= 10(- 14 + 76)\n= 620",
+    "year": "2019"
+  },
+  {
+    "number": "532",
+    "text": "Find the value of x for which 6\\(\\sqrt{4x^2 + 1}\\) = 13x, where x > 0",
+    "options": {
+      "A": "\\(\\frac{6}{5}\\)",
+      "B": "\\(\\frac{25}{24}\\)",
+      "C": "\\(\\frac{24}{25}\\)",
+      "D": "\\(\\frac{5}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59670?exam_type=waec&type=obj&page=107",
+    "correct_answer": "A",
+    "explanation": "\\(\\sqrt{4x^2 + 1}\\) = \\(\\frac{13x}{6}\\)\n4x\\(^2\\) + 1 = \\(\\frac{169x^2}{36}\\)\n4 + x\\(^2\\)\u00a0 = \\(\\frac{169x^2}{36}\\)\ncross multiply\n169x\\(^2\\) - 144x\\(^2\\) = 36\n25x\\(^2\\) = 36\nx\\(^2\\) = \\(\\frac{36}{25}\\)\n: x = \\(\\pm\\frac{6}{5}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "533",
+    "text": "Calculate the distance between points (-2, -5) and (-1, 3)",
+    "options": {
+      "A": "\\(\\sqrt{5}\\) units",
+      "B": "\\(\\sqrt{17}\\) units",
+      "C": "\\(\\sqrt{65}\\) units",
+      "D": "\\(\\sqrt{73}\\) units"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59671?exam_type=waec&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "distance = \\(\\sqrt{(3 - (-5)^2 + (-1 - (-2)^2)}\\)\n= \\(\\sqrt{8^2 + 1^2}\\)\n= \\(\\sqrt{65}\\) units",
+    "year": "2019"
+  },
+  {
+    "number": "534",
+    "text": "If P = \\(\\begin {pmatrix} 2 & 3\\\\\u00a0\u00a0-4 &\u00a01 \\end {pmatrix}\\), Q = \\(\\begin{pmatrix} 6 \\\\ 8 \\end {pmatrix}\\) and PQ = k \\(\\begin {pmatrix} 45\\\\\u00a0-20 \\end {pmatrix}\\). Find the value of k.",
+    "options": {
+      "A": "-\\(\\frac{5}{4}\\)",
+      "B": "-\\(\\frac{4}{5}\\)",
+      "C": "\\(\\frac{4}{5}\\)",
+      "D": "\\(\\frac{5}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59672?exam_type=waec&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "PQ = \\(\\begin {pmatrix} 2 & 3\\\\\u00a0-4 & 1\\end {pmatrix}\\)\u00a0= \\(\\begin {pmatrix} 6 \\\\\u00a08 \\end {pmatrix}\\) =\u00a0\\(\\begin {pmatrix} 36 \\\\\u00a0- 16\\end {pmatrix}\\)\n\\(\\begin {pmatrix} 36 \\\\\u00a0-16 \\end {pmatrix} \\) = k =\u00a0\\(\\begin {pmatrix} 45 \\\\\u00a0-20 \\end {pmatrix} \\)\nk = \\(\\frac{36}{45}\\)\n= \\(\\frac{4}{5}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "535",
+    "text": "The second and fourth terms of an exponential sequence (G.P) are \\(\\frac{2}{9}\\) and \\(\\frac{8}{81}\\) respectively. Find the sixth term of the sequence",
+    "options": {
+      "A": "\\(\\frac{81}{32}\\)",
+      "B": "\\(\\frac{9}{8}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{32}{729}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59674?exam_type=waec&type=obj&page=107",
+    "correct_answer": "D",
+    "explanation": "ar = \\(\\frac{2}{9}\\) .....(i)\nar\\(^3\\) = \\(\\frac{8}{81}\\) ......(ii)\n\\(\\frac{ar3}{ar} = \\frac{8}{81} \\times \\frac{9}{2}\\)\nr\\(^2 = \\frac{4}{9}\\)\nr = \\(\\sqrt{\\frac{4}{9}}\\)\n= \\(\\frac{2}{3}\\)\nar = \\(\\frac{2}{9}\\)\na(\\(\\frac{2}{3}\\)) = \\(\\frac{2}{9}\\)\na =\u00a0(\\(\\frac{2}{3}\\)) = \\(\\frac{2}{9}\\)\na = \\(\\frac{2}{9} \\times \\frac{3}{2}\\)\na = \\(\\frac{1}{3}\\)\nT\\(_r\\) = ar\\(^5\\) = (\\(\\frac{1}{3}\\))(\\(\\frac{2}{5}\\))\\(^5\\)\n= \\(\\frac{32}{729}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "536",
+    "text": "Point X and Y are on the same horizontal base as the foot of a building such that X is 96m due east of the building and Y is due west. If the angle of elevation of the top of that building from X is 30\\(^o\\) and that of Y is 50\\(^o\\), calculate the distance of Y from the base of the building.",
+    "options": {
+      "A": "30m",
+      "B": "32m",
+      "C": "42m",
+      "D": "50m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59676?exam_type=waec&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "h = 96 Tan 30\\(^o\\) = 55.425\nP = \\(\\frac{55.425}{Tan60^o}\\)\n= 32m",
+    "year": "2019"
+  },
+  {
+    "number": "537",
+    "text": "Find the coordinates of the point in the curve y = 3x\\(^2\\) - 2x - 5 where the tangent is parallel to the line y = - 5 = 8x",
+    "options": {
+      "A": "\\(\\begin{pmatrix} - \\frac{5}{3} &, 0 \\end {pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 0, & - \\frac{5}{3} \\end {pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 0, & \\frac{5}{3}  \\end {pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} \\frac{5}{3} &, 0 \\end {pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59677?exam_type=waec&type=obj&page=108",
+    "correct_answer": "D",
+    "explanation": "y = 8x + 5\nm = 8\ny = 3x\\(^2\\) - 2x - 5\n\\(\\frac{dy}{dx}\\) = 6x - 2x - 5\n\\(\\frac{6x}{6} = \\frac{10}{6}\\)\nx = \\(\\frac{5}{3}\\)\ny = 0",
+    "year": "2019"
+  },
+  {
+    "number": "538",
+    "text": "If the mean of 2, 5, (x + 1), (x + 2), 7 and 9 is 6, find the median.",
+    "options": {
+      "A": "6.5",
+      "B": "6.0",
+      "C": "5.5",
+      "D": "5.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59678?exam_type=waec&type=obj&page=108",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1 + 5 + x + 6 + x + 2 + 7 + 9}{6}\\) = 6\n26 + 2x = 36\n2x = 36 - 26\n2x = 10\nx = \\(\\frac{10}{2}\\) = 5\n2, 5, 6, 7, 7, 9\nMedian = \\(\\frac{6 + 7}{2}\\) = 6.5",
+    "year": "2019"
+  },
+  {
+    "number": "539",
+    "text": "Calculate the mean deviation of 5, 8, 2, 9 and 6",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59679?exam_type=waec&type=obj&page=108",
+    "correct_answer": "D",
+    "explanation": "xx - \\(\\bar{x}\\)(x - \\(\\bar{x}\\))58296-12-43012430\n\\(\\bar{x}\\) = \\(\\frac{30}{5}\\) = 6\n\\(\\sum |x - \\bar{x}|\\)\n= 10\nMean deviation = \\(\\frac{10}{5}\\)\n= 2",
+    "year": "2019"
+  },
+  {
+    "number": "540",
+    "text": "A particle starts from rest and moves\u00a0in a straight line such that its velocity, V ms\\(^{-1}\\), at time t second\u00a0is given by V = 3t\\(^2\\) - 6t. Calculate the acceleration in the 3rd second.",
+    "options": {
+      "A": "12m",
+      "B": "16m",
+      "C": "64m",
+      "D": "96m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59680?exam_type=waec&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "V = 3t\\(^2\\) - 6t\n\\(\\frac{ds}{dt} = 3t^2 - 6t\\)\ns = \\(\\int 3t^2 - 6t\\)\ns = \\(\\frac{3t^3}{3} - \\frac{6t^2}{2} + k\\)\ns = t\\(^3\\) - 3t\\(^2\\) + k\ns = 0, t = 0\ns = t\\(^3\\) - 3t\\(^2\\)\ns = 4\\(^3\\) - 3t\\(^2\\)\ns = 4\\(^3\\) - 3(4)\\(^2\\)\n= 64 - 48 = 16m",
+    "year": "2019"
+  },
+  {
+    "number": "541",
+    "text": "A particle starts from rest and moves\u00a0in a straight line such that its velocity, V ms\\(^{-1}\\), at time t second\u00a0is given by V = 3t\\(^2\\) - 6t. Calculate the acceleration in the 3rd second.",
+    "options": {
+      "A": "0 ms\\(^{-2}\\)",
+      "B": "3 ms\\(^{-2}\\)",
+      "C": "6 ms\\(^{-2}\\)",
+      "D": "9 ms\\(^{-2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59681?exam_type=waec&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "V = 3t\\(^2\\) - 6t\n\\(\\frac{dx}{dt}\\) = 6r - 6\nat t = 4\n\\(\\frac{dx}{dt}\\) = 6 x 4 - 6 = 24 - 6\n= 18\nat t = 3\n\\(\\frac{dy}{dt}\\) = 6 x 4 - 6\n= 24 - 6\n= 18\nat t = 3\n\\(\\frac{dx}{dt}\\) = 6 x 3 - 6 = 18 - 6\n= 12\n\\(\\frac{dy}{dt}\\) = 18 - 12\n= 6ms\\(^{-2}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "542",
+    "text": "Find the constant term in the\u00a0binomial expansion of (2x\\(^2\\) +\u00a0\u00a0\\(\\frac{1}{x^2}\\))\\(^4\\)",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "24",
+      "D": "42"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59682?exam_type=waec&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "6(2x\\(^2\\))\\(^2\\) (\\(\\frac{1}{x^2}\\))\\(^2\\)\n= 6 x 2\n= 12",
+    "year": "2019"
+  },
+  {
+    "number": "543",
+    "text": "Which of these inequalities is represented by the shaded portion of the graph?",
+    "options": {
+      "A": "2y + x - 3 < 0",
+      "B": "2y - x - 3 < 0",
+      "C": "2y - x + 3 < 0",
+      "D": "2y +  x +3 < 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59683?exam_type=waec&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "(0, 1.5), (-3, 0)\nm = \\(\\frac{0 - 1.5}{-3, 0}\\) = 0.5\n0.5 = \\(\\frac{y - 1.5}{-3.0}\\) = 0.5\ny = 0.5x + 1.5\n2y = x + 3\n2y - x - 3 < 0",
+    "year": "2019"
+  },
+  {
+    "number": "544",
+    "text": "A 35 N force acts on a body of mass 5 kg for 2 seconds. Calculate the change in momentum of the body.",
+    "options": {
+      "A": "70 kg ms\\(^{-1}\\)",
+      "B": "55 kg ms\\(^{-1}\\)",
+      "C": "50 kg ms\\(^{-1}\\)",
+      "D": "35 kg ms\\(^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59684?exam_type=waec&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "Change in momentum\n= F x t = 35N x 2\n= 70kg ms\\(^{-1}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "545",
+    "text": "Solve, correct to three significant figures, (0.3)\\(^x\\) =\u00a0\u00a0(0,5)\\(^8\\)",
+    "options": {
+      "A": "4.61",
+      "B": "4.606",
+      "C": "0.461",
+      "D": "0.0130"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59685?exam_type=waec&type=obj&page=109",
+    "correct_answer": "A",
+    "explanation": "(0,3)\\(^x\\) = (0.5)\\(^8\\)\nxlog 0,3 = 9 log 0.5\nx = \\(\\frac{8 \\log 0.5}{\\log 0.3}\\)\n= 4.606",
+    "year": "2019"
+  },
+  {
+    "number": "546",
+    "text": "Given that P and Q are\u00a0non-empty subsets of the universal set, U. Find P \\(\\cap\\) (Q U Q`).",
+    "options": {
+      "A": "p",
+      "B": "P`",
+      "C": "Q",
+      "D": "Q`"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59686?exam_type=waec&type=obj&page=110",
+    "correct_answer": "A",
+    "explanation": "P \\(\\cap\\) (Q U Q`)\nP \\(\\cap\\) U = P",
+    "year": "2019"
+  },
+  {
+    "number": "547",
+    "text": "Find the coefficient of the third term in the binomial expansion of [2x + \\(\\frac{3y}{4}\\)]\\(^3\\) in descending powers of x.",
+    "options": {
+      "A": "\\(\\frac{27}{64}\\)y\\(^2\\)",
+      "B": "\\(\\frac{27}{8}\\)y\\(^2\\)",
+      "C": "8y\\(^2\\)",
+      "D": "9y\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59687?exam_type=waec&type=obj&page=110",
+    "correct_answer": "B",
+    "explanation": "(2x + \\(\\frac{3y}{4}\\))\\(^3\\)\n= 3(2x) (\\(\\frac{3y}{4}\\))\\(^2\\)\n= \\(\\frac{27}{8}\\)y\\(^2\\)",
+    "year": "2019"
+  },
+  {
+    "number": "548",
+    "text": "Find the coordinates of the centre of the circle 3x\\(^2\\) + 3y\\(^2\\) - 6x + 9y - 5 = 0",
+    "options": {
+      "A": "(-3. \\(\\frac{9}{2}\\))",
+      "B": "(-1. \\(\\frac{3}{2}\\))",
+      "C": "(1, - \\(\\frac{3}{2}\\))",
+      "D": "(3. -\\(\\frac{9}{2}\\))"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59688?exam_type=waec&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{3x^2}{3} + \\frac{3y^2}{3} - \\frac{6x}{3} + \\frac{9y}{3} - \\frac{5}{3}\\) = 0\n2gx = -2x, 2 fy = 3y\ng = -1, f = \\(\\frac{3}{2}\\)\nCentre (1, - \\(\\frac{3}{2}\\))",
+    "year": "2019"
+  },
+  {
+    "number": "549",
+    "text": "Evaluate \\(\\int^9_0 \\sqrt{x} dx\\)",
+    "options": {
+      "A": "3",
+      "B": "9",
+      "C": "18",
+      "D": "27"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59689?exam_type=waec&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "\\(\\int^9_0 \\sqrt{x} dx\\)\n\\(\\frac{x^{\\frac{1}{2}} + 1}{\\frac{1}{2} + 1}\\) |\\(^9_0\\)\n\\(\\frac{2x^{\\frac{3}{2}}}{3}\\)|\\(^9_0\\)\n= \\(\\frac{2(9)^{\\frac{3}{2}}}{3}\\)\n= \\(\\frac{2(3)^3}{3}\\)\n= \\(\\frac{2 \\times 27}{3}\\)\n= 2 x 9\n= 18",
+    "year": "2019"
+  },
+  {
+    "number": "550",
+    "text": "The function f : x \\(\\to\\) x\\(^2\\) + px + q has turning point when x = -3 and remainder of -6 when divided by (x + 2). Find the value of q.",
+    "options": {
+      "A": "6",
+      "B": "2",
+      "C": "-2",
+      "D": "-8"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59690?exam_type=waec&type=obj&page=110",
+    "correct_answer": "B",
+    "explanation": "f (x) = x\\(^2\\) + px + q\n\\(\\frac{dy}{dx}\\) = 2x + p\n2x + p = 0\n2(-3) + p = 0\np = +6\nf(-2) = -2\\(^2\\) + p(-2) + q\n= -6 2p + q = -10\n-2(-16) + q = -10\n-12 + q = -10\nq = -10 + 12\n= 2",
+    "year": "2019"
+  },
+  {
+    "number": "551",
+    "text": "If y = (5 - x)\\(^{-3}\\), and \\(\\frac{dy}{dx}\\)",
+    "options": {
+      "A": "\\(\\frac{-15}{(5 - x)^4}\\)",
+      "B": "\\(\\frac{-3}{(5 - x)^4}\\)",
+      "C": "\\(\\frac{3}{(5 - x)^4}\\)",
+      "D": "\\(\\frac{15}{(5 - x)^4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59691?exam_type=waec&type=obj&page=111",
+    "correct_answer": "C",
+    "explanation": "y = (5 - x)\\(^{-3}\\)\n\\(\\frac{dy}{dx}\\) = -3(5 - x)\\(^{-4}\\)\n= \\(\\frac{-3}{(5 - x)^4}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "552",
+    "text": "Which of the following vectors is perpendicular to \\(\\begin{pmatrix} -1 & 3 \\end{pmatrix}\\)?",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -3 & 1 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 1 & 3 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 1 & -3 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 1 & 3 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59692?exam_type=waec&type=obj&page=111",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2019"
+  },
+  {
+    "number": "553",
+    "text": "Find correct to the nearest degree,5\u00a0the angle between p = 12i - 5j\u00a0and q = 4i +3j",
+    "options": {
+      "A": "59\\(^o\\)",
+      "B": "60\\(^o\\)",
+      "C": "75\\(^o\\)",
+      "D": "76\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59693?exam_type=waec&type=obj&page=111",
+    "correct_answer": "A",
+    "explanation": "Cos \\(\\theta\\) = \\(\\frac{4(12) +\u00a0(-5)(3)}{\\sqrt{12^2 + (-5)^2}\\sqrt{4^2 + 3^2}}\\)\nCos\\(\\theta\\) = \\(\\frac{48 - 15}{(\\sqrt{189})(\\sqrt{25})}\\)\n\\(\\theta = cos^{-1}\\) (\\(\\frac{33}{61.28}\\))\n\\(\\theta\\) = cos\\(^{-1}\\)0.5367\n\\(\\theta\\) = 59\\(^o\\)",
+    "year": "2019"
+  },
+  {
+    "number": "554",
+    "text": "Find\u00a0the area between line y =\u00a0x + 1 and the x-axis\u00a0from x = -2\u00a0to x = 0.",
+    "options": {
+      "A": "5 square units",
+      "B": "4 square units",
+      "C": "2 square units",
+      "D": "1 square unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59694?exam_type=waec&type=obj&page=111",
+    "correct_answer": "C",
+    "explanation": "\\(\\int^0_{-2} x + 1\\) x\\(^2 + x|^0_{-2}\\)\n0 - (2\\(^2 - 2\\))\n= 2 square units",
+    "year": "2019"
+  },
+  {
+    "number": "555",
+    "text": "How many numbers greater than 200 can be formed from the digits 1,2,3,4, 5 if no digit is to be repeated in any particular number?",
+    "options": {
+      "A": "50",
+      "B": "60",
+      "C": "288",
+      "D": "300"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59695?exam_type=waec&type=obj&page=111",
+    "correct_answer": "B",
+    "explanation": "No of ways\n= 4 x 5 x 3\n= 60 ways",
+    "year": "2019"
+  },
+  {
+    "number": "556",
+    "text": "The probabilities that John and Jane will pass an examination are 0.9 and 0.7 respectively. Find the probability that at least one of them will pass the examination.",
+    "options": {
+      "A": "0.28",
+      "B": "0.67",
+      "C": "0.72",
+      "D": "0.97"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59696?exam_type=waec&type=obj&page=112",
+    "correct_answer": "D",
+    "explanation": "(0.9 x 0.7) + (0.1 x\u00a00.7)\n= (0.9 x 0.3)\n= 0.63 + 0.07 + 0.27\n= 0.97",
+    "year": "2019"
+  },
+  {
+    "number": "557",
+    "text": "Given that X and Y are independent events such that P(X) = 0.5, P(Y) = m and P(X U Y) = 0.75, find the value of m.",
+    "options": {
+      "A": "0.6",
+      "B": "0.5",
+      "C": "0.3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59697?exam_type=waec&type=obj&page=112",
+    "correct_answer": "C",
+    "explanation": "P(X \\(\\cup\\) Y) = P(X)P(Y)\n0.15 = 0.5m\nm = \\(\\frac{0.015}{0.5}\\)\n= 0.3",
+    "year": "2019"
+  },
+  {
+    "number": "558",
+    "text": "A uniform beam, PQ. is 100 m long and weighs 35 N. It is placed on a support at a point 40 cm from P. If weights of 54 N and FN are attached at P and Q respectively in order to keep it in a horizontal position, calculate, correct to the nearest whole number, the value of F.",
+    "options": {
+      "A": "69",
+      "B": "60",
+      "C": "35",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59698?exam_type=waec&type=obj&page=112",
+    "correct_answer": "D",
+    "explanation": "54 x 40 = 35 x 10 + 60F\n160 = 350 + 60F\nF = \\(\\frac{1810}{60}\\)\n= 30N",
+    "year": "2019"
+  },
+  {
+    "number": "559",
+    "text": "Evaluate: \\(^{lim}_{x \\to 1}\u00a0\\begin{pmatrix} \\frac{1 - x}{x^2 - 3x + 2} \\end {pmatrix}\\)",
+    "options": {
+      "A": "-1",
+      "B": "- \\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59699?exam_type=waec&type=obj&page=112",
+    "correct_answer": "D",
+    "explanation": "Lim(\\(\\frac{1 - x}{x^2 - 3x + 2}\\))\n= \\(^{lim}_{x \\to 1}\u00a0\\begin{pmatrix} \\frac{1 - x}{x^2 - 3x + 2} \\end {pmatrix}\\)\n= \\(^{lim}_{x \\to 1}\u00a0\\begin{pmatrix} \\frac{x - 1}{(x\u00a0- 2)(x + 1)} \\end {pmatrix}\\)\n= \\(\\frac{-1}{1 - 2}\\)\n= \\(\\frac{-1}{-1}\\)\n= 1",
+    "year": "2019"
+  }
+]

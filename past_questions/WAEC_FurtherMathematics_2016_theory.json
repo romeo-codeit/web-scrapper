@@ -1,0 +1,137 @@
+[
+  {
+    "number": "64",
+    "text": "A binary operation \\(*\\) is defined on the set, R, of real numbers by \\(m * n = m + n + 2\\). Find the :\n(a) identity element under the operation ;\n(b) inverse of n under the operation .",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53702?exam_type=waec&type=theory&page=13",
+    "correct_answer": "(i) \\(m * n = m + n + 2\\)\nLet the identity element be e.\nThen \\(m * e = m + e + 2 = m\\)\n\\(e = -2\\)\n(ii) Let N be the inverse of n.\nThen \\(n * N = e\\)\n\\(n * N = n + N + 2 = -2\\)\n\\(n + N = -4 \\implies N = -4 - n\\)",
+    "explanation": "(i) \\(m * n = m + n + 2\\)\nLet the identity element be e.\nThen \\(m * e = m + e + 2 = m\\)\n\\(e = -2\\)\n(ii) Let N be the inverse of n.\nThen \\(n * N = e\\)\n\\(n * N = n + N + 2 = -2\\)\n\\(n + N = -4 \\implies N = -4 - n\\)",
+    "year": "2016"
+  },
+  {
+    "number": "65",
+    "text": "Given that (5, 2), (-4, k) and (2, 1) lie on a straight line, find the value of k.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53703?exam_type=waec&type=theory&page=13",
+    "correct_answer": "(5, 2), (-4, k), (2, 1)\nA straight line has constant gradient.\n\\(\\frac{k - 2}{-4 - 5} = \\frac{1 - k}{2 - (-4)}\\)\n\\(\\frac{k - 2}{-9} = \\frac{1 - k}{6}\\)\n\\(-9(1 - k) = 6(k - 2) \\implies -9 + 9k = 6k - 12\\)\n\\(9k - 6k = -12 + 9 \\implies 3k = -3\\)\n\\(k = -1\\)",
+    "explanation": "(5, 2), (-4, k), (2, 1)\nA straight line has constant gradient.\n\\(\\frac{k - 2}{-4 - 5} = \\frac{1 - k}{2 - (-4)}\\)\n\\(\\frac{k - 2}{-9} = \\frac{1 - k}{6}\\)\n\\(-9(1 - k) = 6(k - 2) \\implies -9 + 9k = 6k - 12\\)\n\\(9k - 6k = -12 + 9 \\implies 3k = -3\\)\n\\(k = -1\\)",
+    "year": "2016"
+  },
+  {
+    "number": "66",
+    "text": "(a) If \\(f(x + 2) = 6x^{2} + 5x - 8\\), find \\(f(5)\\).\n(b) Express \\(\\frac{7\\sqrt{2} + 3\\sqrt{3}}{4\\sqrt{2} - 2\\sqrt{3}}\\) in the form \\(p + q\\sqrt{r}\\), where p, q and r are rational numbers.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53704?exam_type=waec&type=theory&page=14",
+    "correct_answer": "(a) \\(f(x + 2) = 6x^{2} + 5x - 8\\)\n\\(f(5) \\implies x + 2 = 5\\)\n\\(\\therefore x = 3\\)\n\\(f(5) = f(3 + 2) = 6(3^{2}) + 5(3) - 8\\)\n= \\(54 + 15 - 8\\)\n= \\(61\\)\n(b) \\(\\frac{7\\sqrt{2} + 3\\sqrt{3}}{4\\sqrt{2} - 2\\sqrt{3}}\\)\nRationalizing, we multiply the numerator and denominator by \\(4\\sqrt{2} + 2\\sqrt{3}\\)\n\\((\\frac{7\\sqrt{2} + 3\\sqrt{3}}{4\\sqrt{2} - 3\\sqrt{3}})(\\frac{4\\sqrt{2} + 2\\sqrt{3}}{4\\sqrt{2} + 2\\sqrt{3}})\\)\n= \\(\\frac{28(2) + 14\\sqrt{6} + 12\\sqrt{6} + 6(3)}{16(2) - 4(3)}\\)\n= \\(\\frac{74 + 26\\sqrt{6}}{20}\\)\n= \\(3.7 + 1.3\\sqrt{6}\\)",
+    "explanation": "(a) \\(f(x + 2) = 6x^{2} + 5x - 8\\)\n\\(f(5) \\implies x + 2 = 5\\)\n\\(\\therefore x = 3\\)\n\\(f(5) = f(3 + 2) = 6(3^{2}) + 5(3) - 8\\)\n= \\(54 + 15 - 8\\)\n= \\(61\\)\n(b) \\(\\frac{7\\sqrt{2} + 3\\sqrt{3}}{4\\sqrt{2} - 2\\sqrt{3}}\\)\nRationalizing, we multiply the numerator and denominator by \\(4\\sqrt{2} + 2\\sqrt{3}\\)\n\\((\\frac{7\\sqrt{2} + 3\\sqrt{3}}{4\\sqrt{2} - 3\\sqrt{3}})(\\frac{4\\sqrt{2} + 2\\sqrt{3}}{4\\sqrt{2} + 2\\sqrt{3}})\\)\n= \\(\\frac{28(2) + 14\\sqrt{6} + 12\\sqrt{6} + 6(3)}{16(2) - 4(3)}\\)\n= \\(\\frac{74 + 26\\sqrt{6}}{20}\\)\n= \\(3.7 + 1.3\\sqrt{6}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "67",
+    "text": "When \\(f(x) = 2x^{3} + mx^{2} + nx + 11\\) is divided by \\(x^{2} + 5x + 1\\), the quotient is \\(2x - 5\\) and the remainder is \\(30x + 16\\). Find the values of m and n.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53705?exam_type=waec&type=theory&page=14",
+    "correct_answer": "To get f(x), multiply the divisor with the quotient and add the remainder.\n\\(2x^{3} + mx^{2} + nx + 11 = (x^{2} + 5x + 1)(2x - 5) + (30x + 16)\\)\n= \\(2x^{3} - 5x^{2} + 10x^{2} - 25x + 2x - 5 + 30x + 16\\)\n= \\(2x^{3} + 5x^{2} + 7x + 11\\)\nTherefore, m = 5 and n = 7.",
+    "explanation": "To get f(x), multiply the divisor with the quotient and add the remainder.\n\\(2x^{3} + mx^{2} + nx + 11 = (x^{2} + 5x + 1)(2x - 5) + (30x + 16)\\)\n= \\(2x^{3} - 5x^{2} + 10x^{2} - 25x + 2x - 5 + 30x + 16\\)\n= \\(2x^{3} + 5x^{2} + 7x + 11\\)\nTherefore, m = 5 and n = 7.",
+    "year": "2016"
+  },
+  {
+    "number": "68",
+    "text": "The probabilities that Ago, Sulley and Musa will gain admission to a certain university are \\(\\frac{4}{5}, \\frac{3}{4}\\) and \\(\\frac{2}{3}\\) respectively. Find the probability that :\n(a) none of them will gain admission ;\u00a0\n(b) only Ago and Sulley will gain admission.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53706?exam_type=waec&type=theory&page=14",
+    "correct_answer": "\\(p(Ago) = \\frac{4}{5} ; p(Sulley) = \\frac{3}{4} ; p(Musa) = \\frac{2}{3}\\)\n(a) p(none admitted) = \\(p(Ago') \\times p(Sulley') \\times p(Musa')\\)\n= \\(\\frac{1}{5} \\times \\frac{1}{4} \\times \\frac{1}{3}\\)\n= \\(\\frac{1}{60}\\)\n(b) p(Ago and Sulley admitted only) = \\(p(Ago) \\times p(Sulley) \\times p(Musa')\\)\n= \\(\\frac{4}{5} \\times \\frac{3}{4} \\times \\frac{1}{3}\\)\n= \\(\\frac{1}{5}\\)",
+    "explanation": "\\(p(Ago) = \\frac{4}{5} ; p(Sulley) = \\frac{3}{4} ; p(Musa) = \\frac{2}{3}\\)\n(a) p(none admitted) = \\(p(Ago') \\times p(Sulley') \\times p(Musa')\\)\n= \\(\\frac{1}{5} \\times \\frac{1}{4} \\times \\frac{1}{3}\\)\n= \\(\\frac{1}{60}\\)\n(b) p(Ago and Sulley admitted only) = \\(p(Ago) \\times p(Sulley) \\times p(Musa')\\)\n= \\(\\frac{4}{5} \\times \\frac{3}{4} \\times \\frac{1}{3}\\)\n= \\(\\frac{1}{5}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "69",
+    "text": "The mean of the numbers 1, 4, k, (k + 4) and 11 is (k + 1). Calculate the :\n(a) value of k ;\n(b) standard deviation.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53713?exam_type=waec&type=theory&page=14",
+    "correct_answer": "(a) \\(\\frac{1 + 4 + k + (k + 4) + 11}{5} = k + 1\\)\n\\(\\frac{2k + 20}{5} = k + 1\\)\n\\(2k + 20 = 5(k + 1) \\implies 2k + 20 = 5k + 5\\)\n\\(20 - 5 = 5k - 2k \\implies 15 = 3k\\)\n\\(k = 5\\)\n(b) Mean \\(\\bar{x} = 6\\)\nMark(x)freq (f)fx\\(x^{2}\\)\\(fx^{2}\\)1111141416165152525919818111111121121530244\n\\(\\sigma = \\sqrt{\\frac{\\sum fx^{2}}{\\sum f} - (\\frac{\\sum fx}{\\sum f})^{2}}\\)\n= \\(\\sqrt{\\frac{244}{5} - (\\frac{30}{5})^{2}}\\)\n= \\(\\sqrt{48.8 - 36}\\)\n= \\(\\sqrt{12.8} = 3.58\\)",
+    "explanation": "(a) \\(\\frac{1 + 4 + k + (k + 4) + 11}{5} = k + 1\\)\n\\(\\frac{2k + 20}{5} = k + 1\\)\n\\(2k + 20 = 5(k + 1) \\implies 2k + 20 = 5k + 5\\)\n\\(20 - 5 = 5k - 2k \\implies 15 = 3k\\)\n\\(k = 5\\)\n(b) Mean \\(\\bar{x} = 6\\)\nMark(x)freq (f)fx\\(x^{2}\\)\\(fx^{2}\\)1111141416165152525919818111111121121530244\n\\(\\sigma = \\sqrt{\\frac{\\sum fx^{2}}{\\sum f} - (\\frac{\\sum fx}{\\sum f})^{2}}\\)\n= \\(\\sqrt{\\frac{244}{5} - (\\frac{30}{5})^{2}}\\)\n= \\(\\sqrt{48.8 - 36}\\)\n= \\(\\sqrt{12.8} = 3.58\\)",
+    "year": "2016"
+  },
+  {
+    "number": "70",
+    "text": "(a) A body of mass 3kg moves with a velocity of 8ms\\(^{-1}\\). It collides with a second body moving in the same direction with a velocity of 5ms\\(^{-1}\\). After collision, the bodies move together with a velocity of 6ms\\(^{-1}\\). Find the mass of the second body.\n(b) If the second body in (a) moves with a velocity of 5ms\\(^{-1}\\) in the opposite direction as that of the 3kg body with a velocity of 8ms\\(^{-1}\\), find, correct to two decimal places, the common velocity of the two bodies if they move together after collision.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53717?exam_type=waec&type=theory&page=14",
+    "correct_answer": "(a)\nMomentum before collision = Momentum after collision.\n\\(((3 \\times 8) + 5m)\u00a0= (3 + m) \\times 6\\)\n\\(24 + 5m = 18 + 6m\\)\n\\(24 - 18 = 6m - 5m \\implies m = 6kg\\)\n(b)\nMomentum before collision = Momentum after collision\n\\((3 \\times 8) - (5 \\times 6) = (3 + 6)v\\)\n\\(-6 =9v\\)\n\\(\\implies v = -0.67ms^{-1}\\)\nThe bodies move in the direction of the second body.",
+    "explanation": "(a)\nMomentum before collision = Momentum after collision.\n\\(((3 \\times 8) + 5m)\u00a0= (3 + m) \\times 6\\)\n\\(24 + 5m = 18 + 6m\\)\n\\(24 - 18 = 6m - 5m \\implies m = 6kg\\)\n(b)\nMomentum before collision = Momentum after collision\n\\((3 \\times 8) - (5 \\times 6) = (3 + 6)v\\)\n\\(-6 =9v\\)\n\\(\\implies v = -0.67ms^{-1}\\)\nThe bodies move in the direction of the second body.",
+    "year": "2016"
+  },
+  {
+    "number": "71",
+    "text": "Given that \\(p = \\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix}, q = \\begin{pmatrix} -1 \\\\ 2 \\end{pmatrix}\\) and \\(r = \\begin{pmatrix} 17 \\\\ 5 \\end{pmatrix}\\) and \\(r = \\alpha r + \\beta q\\), where \\(\\alpha\\) and \\(\\beta\\) are scalars, express q in terms of r and p.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53739?exam_type=waec&type=theory&page=15",
+    "correct_answer": "\\(p = \\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix};\u00a0q = \\begin{pmatrix} -1 \\\\ 2 \\end{pmatrix};\u00a0r = \\begin{pmatrix} 17 \\\\ 5 \\end{pmatrix}\\)\n\\(r = \\alpha p + \\beta q\\)\n\\(\\begin{pmatrix} 17 \\\\ 5 \\end{pmatrix} = \\alpha (\\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix}) + \\beta (\\begin{pmatrix} -1 \\\\ 2 \\end{pmatrix}\\)\n\\(17 = 5\\alpha - \\beta ... (1); 5 = 3\\alpha + 2\\beta .... (2)\\)\n\\((1) \\times 2 : 34 = 10\\alpha - 2\\beta ... (3)\\)\n\\((3) + (2) : 39 = 13\\alpha \\implies \\alpha = 3\\)\n\\(5 = 3(3) + 2\\beta \\implies 2 \\beta = 5 - 9 = -4\\)\n\\(\\beta = -2\\)\n\\(r = 3p - 2q \\implies 2q = 3p - r\\)\n\\(q = \\frac{1}{2} (3p - r)\\)",
+    "explanation": "\\(p = \\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix};\u00a0q = \\begin{pmatrix} -1 \\\\ 2 \\end{pmatrix};\u00a0r = \\begin{pmatrix} 17 \\\\ 5 \\end{pmatrix}\\)\n\\(r = \\alpha p + \\beta q\\)\n\\(\\begin{pmatrix} 17 \\\\ 5 \\end{pmatrix} = \\alpha (\\begin{pmatrix} 5 \\\\ 3 \\end{pmatrix}) + \\beta (\\begin{pmatrix} -1 \\\\ 2 \\end{pmatrix}\\)\n\\(17 = 5\\alpha - \\beta ... (1); 5 = 3\\alpha + 2\\beta .... (2)\\)\n\\((1) \\times 2 : 34 = 10\\alpha - 2\\beta ... (3)\\)\n\\((3) + (2) : 39 = 13\\alpha \\implies \\alpha = 3\\)\n\\(5 = 3(3) + 2\\beta \\implies 2 \\beta = 5 - 9 = -4\\)\n\\(\\beta = -2\\)\n\\(r = 3p - 2q \\implies 2q = 3p - r\\)\n\\(q = \\frac{1}{2} (3p - r)\\)",
+    "year": "2016"
+  },
+  {
+    "number": "72",
+    "text": "(a) Without using mathematical tables or calculator, evaluate \\(\\frac{\\frac{3}{2}\\log 27 - 3\\log 5\\sqrt{5}}{\\log 0.6}\\)\n(b) Two linear transformations A and B in the \\(O_{xy}\\) plane, are defined by :\n\\(A : (x, y)\u00a0 \u00a0(x + 2y, -x + y)\\)\n\\(B : (x, y)\u00a0 \u00a0(2x + 3y, x + 2y)\\).\n(i) Write down the matrices A and B; (ii) Find the image of the point P(-2, 2) under the linear transformation A followed by B.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53744?exam_type=waec&type=theory&page=15",
+    "correct_answer": "(a) \\(\\frac{\\frac{3}{2} \\log 27 - 3 \\log 5\\sqrt{5}}{\\log 0.6}\\)\n= \\(\\frac{\\frac{3}{2} \\log 3^{3} - 3 \\log 5^{\\frac{3}{2}}}{\\log (\\frac{3}{5})}\\)\n= \\(\\frac{\\frac{2}{3} \\times 3 \\log ^3 - 3 \\times \\frac{3}{2} \\log 5}{\\log 3 - log 5}\\)\n= \\(\\frac{\\frac{9}{2}(\\log 3 - \\log 5)}{\\log 3 - \\log 5}\\)\n= \\(\\frac{9}{2} = 4\\frac{1}{2}\\)\n(b)(i) \\(A = \\begin{pmatrix} 1 & 2 \\\\ -1 & 1 \\end{pmatrix}, B = \\begin{pmatrix} 2 & 3 \\\\ 1 & 2 \\end{pmatrix}\\)\n(ii) Transformation of A followed by B is BA.\n\\(BA =\u00a0\\begin{pmatrix} 2 & 3 \\\\ 1 & 2 \\end{pmatrix} \\begin{pmatrix} 1 & 2 \\\\ -1 & 1 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -1 & 7 \\\\ -1 & 4 \\end{pmatrix}\\)\nImage of (-2, 2) is given by\n\\(\\begin{pmatrix} -1 & 7 \\\\ -1 & 4 \\end{pmatrix} \\begin{pmatrix} -2 \\\\ 2 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 16 \\\\ 10 \\end{pmatrix}\\)",
+    "explanation": "(a) \\(\\frac{\\frac{3}{2} \\log 27 - 3 \\log 5\\sqrt{5}}{\\log 0.6}\\)\n= \\(\\frac{\\frac{3}{2} \\log 3^{3} - 3 \\log 5^{\\frac{3}{2}}}{\\log (\\frac{3}{5})}\\)\n= \\(\\frac{\\frac{2}{3} \\times 3 \\log ^3 - 3 \\times \\frac{3}{2} \\log 5}{\\log 3 - log 5}\\)\n= \\(\\frac{\\frac{9}{2}(\\log 3 - \\log 5)}{\\log 3 - \\log 5}\\)\n= \\(\\frac{9}{2} = 4\\frac{1}{2}\\)\n(b)(i) \\(A = \\begin{pmatrix} 1 & 2 \\\\ -1 & 1 \\end{pmatrix}, B = \\begin{pmatrix} 2 & 3 \\\\ 1 & 2 \\end{pmatrix}\\)\n(ii) Transformation of A followed by B is BA.\n\\(BA =\u00a0\\begin{pmatrix} 2 & 3 \\\\ 1 & 2 \\end{pmatrix} \\begin{pmatrix} 1 & 2 \\\\ -1 & 1 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -1 & 7 \\\\ -1 & 4 \\end{pmatrix}\\)\nImage of (-2, 2) is given by\n\\(\\begin{pmatrix} -1 & 7 \\\\ -1 & 4 \\end{pmatrix} \\begin{pmatrix} -2 \\\\ 2 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 16 \\\\ 10 \\end{pmatrix}\\)",
+    "year": "2016"
+  },
+  {
+    "number": "73",
+    "text": "(a)(i) Write down the expansion of \\((1 + x)^{7}\\) in ascending powers of x.\n(ii) If the coefficients of the fifth, sixth and seventh terms in the expansion in (a)(i) above form a linear sequence(A.P), find the common difference of the A.P.\n(b) Using the trapezium rule with ordinates at 1, 2, 3, 4 and 5, calculate, correct to two decimal places,\u00a0\n\\(\\int_{1}^{5} \\sqrt{(2x + 8x^{2})} \\mathrm {d} x\\).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53747?exam_type=waec&type=theory&page=15",
+    "correct_answer": "(a)(i) Using the Paschal triangle,\n\\((1 + x)^{7} = 1 + 7x + 21x^{2} + 35x^{3} + 35x^{4} + 21x^{5} + 7x^{6} + x^{7}\\)\n(ii) \\(T_{5} = 35 ; T_{6} = 21 ; T_{7} = 7\\)\n\\(d = T_{6} - T_{5} = 21 - 35 = -14\\)\n(b) \\(\\int_{1}^{5} \\sqrt{(2x + 8x^{2})} \\mathrm {d} x\\)\nx12345\\(2x\\)246810\\(8x^{2}\\)83272128200\\(2x + 8x^{2}\\)103678136210\\(\\sqrt{2x + 8x^{2}}\\)3.1626.08.83211.66214.491\nh = 1\n\\(y_{1} = 3.162, y_{2} = 6.0 , y_{3} = 8.832 , y_{4} = 11.662 , y_{5} = 14.491\\)\n\\(y_{1} + y_{5} = 3.162 + 14.491 = 17.653\\)\n\\(y_{2} + y_{3} + y_{4} = 6.0 + 8.832 + 11.662 = 26.494\\)\n\\(\\int_{1}^{5} \\sqrt{(2x + 8x^{2})} \\mathrm {d} x = \\frac{1}{2}[y_{1} + y_{5} + 2(y_{2} + y_{3} + y_{4})]\\)\n= \\(\\frac{1}{2} [17.653 + 2(26.494)]\\)\n= \\(\\frac{1}{2} [70.641]\\)\n= \\(35.3205 \\approxeq 35.32\\)",
+    "explanation": "(a)(i) Using the Paschal triangle,\n\\((1 + x)^{7} = 1 + 7x + 21x^{2} + 35x^{3} + 35x^{4} + 21x^{5} + 7x^{6} + x^{7}\\)\n(ii) \\(T_{5} = 35 ; T_{6} = 21 ; T_{7} = 7\\)\n\\(d = T_{6} - T_{5} = 21 - 35 = -14\\)\n(b) \\(\\int_{1}^{5} \\sqrt{(2x + 8x^{2})} \\mathrm {d} x\\)\nx12345\\(2x\\)246810\\(8x^{2}\\)83272128200\\(2x + 8x^{2}\\)103678136210\\(\\sqrt{2x + 8x^{2}}\\)3.1626.08.83211.66214.491\nh = 1\n\\(y_{1} = 3.162, y_{2} = 6.0 , y_{3} = 8.832 , y_{4} = 11.662 , y_{5} = 14.491\\)\n\\(y_{1} + y_{5} = 3.162 + 14.491 = 17.653\\)\n\\(y_{2} + y_{3} + y_{4} = 6.0 + 8.832 + 11.662 = 26.494\\)\n\\(\\int_{1}^{5} \\sqrt{(2x + 8x^{2})} \\mathrm {d} x = \\frac{1}{2}[y_{1} + y_{5} + 2(y_{2} + y_{3} + y_{4})]\\)\n= \\(\\frac{1}{2} [17.653 + 2(26.494)]\\)\n= \\(\\frac{1}{2} [70.641]\\)\n= \\(35.3205 \\approxeq 35.32\\)",
+    "year": "2016"
+  },
+  {
+    "number": "74",
+    "text": "(a) If \\(^{k}P_{2} = 72\\), find the value of k.\n(b) Solve the equation : \\(2\\cos^{2} \\theta - 5\\cos \\theta = 3; 0\u00b0 \\leq \\theta \\leq 360\u00b0\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53758?exam_type=waec&type=theory&page=15",
+    "correct_answer": "(a) \\(^{k}P_{2} = \\frac{k!}{(k - 2)!}\\)\n= \\(\\frac{k (k - 1) (k - 2)!}{(k - 2)!} = 72\\)\n\\(k(k - 1) = 72 \\implies k^{2} - k - 72 = 0\\)\n\\(k^{2} - 9k + 8k - 72 = 0 \\implies (k - 9)(k + 8) = 0\\)\n\\(k = \\text{-8 or 9} \\implies k = 9\\) (since k cannot be negative).\n(b) \\(2\\cos^{2} \\theta - 5\\cos \\theta = 3\\)\n\\(2\\cos^{2} \\theta - 5\\cos \\theta - 3 = 0\\)\n\\(2\\cos^{2} \\theta - 6\\cos \\theta + \\cos \\theta - 3 = 0\\)\n\\(2\\cos \\theta (\\cos \\theta - 3) + 1(\\cos \\theta - 3) = 0\\)\n\\((2\\cos \\theta + 1)(\\cos \\theta - 3) = 0\\)\n\\(2 \\cos \\theta + 1 = 0 \\implies 2\\cos \\theta = -1\\)\n\\(\\cos \\theta = -0.5 \\implies \\theta = \\cos^{-1} (-0.5) = 120\u00b0, 240\u00b0\\)\n\\(\\cos \\theta - 3 = 0 \\implies \\cos \\theta = 3\\) (has no solution).",
+    "explanation": "(a) \\(^{k}P_{2} = \\frac{k!}{(k - 2)!}\\)\n= \\(\\frac{k (k - 1) (k - 2)!}{(k - 2)!} = 72\\)\n\\(k(k - 1) = 72 \\implies k^{2} - k - 72 = 0\\)\n\\(k^{2} - 9k + 8k - 72 = 0 \\implies (k - 9)(k + 8) = 0\\)\n\\(k = \\text{-8 or 9} \\implies k = 9\\) (since k cannot be negative).\n(b) \\(2\\cos^{2} \\theta - 5\\cos \\theta = 3\\)\n\\(2\\cos^{2} \\theta - 5\\cos \\theta - 3 = 0\\)\n\\(2\\cos^{2} \\theta - 6\\cos \\theta + \\cos \\theta - 3 = 0\\)\n\\(2\\cos \\theta (\\cos \\theta - 3) + 1(\\cos \\theta - 3) = 0\\)\n\\((2\\cos \\theta + 1)(\\cos \\theta - 3) = 0\\)\n\\(2 \\cos \\theta + 1 = 0 \\implies 2\\cos \\theta = -1\\)\n\\(\\cos \\theta = -0.5 \\implies \\theta = \\cos^{-1} (-0.5) = 120\u00b0, 240\u00b0\\)\n\\(\\cos \\theta - 3 = 0 \\implies \\cos \\theta = 3\\) (has no solution).",
+    "year": "2016"
+  },
+  {
+    "number": "75",
+    "text": "The table shows the distribution of marks scored by some students in a test.\n\n\n\nMarks\n1-10\n11-20\n21-30\n31-40\n41-50\n51-60\n61-70\n71-80\n81-90\n91-100\n\n\nNo. of students\n3\n17\n41\n85\n97\n115\n101\n64\n21\n6\n\n\n\n(a)(i) Construct a cumulative frequency table for the distribution ; (ii) Draw a cumulative frequency curve for the distribution.\n(b) Use the curve to estimate the :\n(i) number of students who scored marks between 32 and 74 ; (ii) pass mark, if 18% of the students failed ; (iii) lowest mark for distinction, if 8% of the students passed with distinction.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53765?exam_type=waec&type=theory&page=15",
+    "correct_answer": "(a)(i)\nMarks(x)LimitsFrequencyCum freq(\\(\\sum f\\))1 - 100.5 - 10.53311 - 2010.5 - 20.5172021 - 3020.5 - 30.5416131 - 4030.5 - 40.58514641 - 5040.5 - 50,59724351 - 6050.5 - 60.511535861 - 7060.5 - 70.510145971 - 8070.5 - 80.56452381 - 9080.5 - 90.52154491 - 10090.5 - 100.56550\n(ii)\n(b)(i) Those who scored less and equal to 32 marks = 75\nThose who scored greater and equal to 74 = 508\nTherefore those that scored between 32 and 74 = 508 - 75 = 433.\n(ii) 18% of 550 = 99\n18% failed, the number that passed = 550 - 99 = 451.\n(iii) 8% passed with distinction, so 92% did not get distinction.\n92% of 550 = 506.\nLowest mark for distinction = 74.",
+    "explanation": "(a)(i)\nMarks(x)LimitsFrequencyCum freq(\\(\\sum f\\))1 - 100.5 - 10.53311 - 2010.5 - 20.5172021 - 3020.5 - 30.5416131 - 4030.5 - 40.58514641 - 5040.5 - 50,59724351 - 6050.5 - 60.511535861 - 7060.5 - 70.510145971 - 8070.5 - 80.56452381 - 9080.5 - 90.52154491 - 10090.5 - 100.56550\n(ii)\n(b)(i) Those who scored less and equal to 32 marks = 75\nThose who scored greater and equal to 74 = 508\nTherefore those that scored between 32 and 74 = 508 - 75 = 433.\n(ii) 18% of 550 = 99\n18% failed, the number that passed = 550 - 99 = 451.\n(iii) 8% passed with distinction, so 92% did not get distinction.\n92% of 550 = 506.\nLowest mark for distinction = 74.",
+    "year": "2016"
+  },
+  {
+    "number": "76",
+    "text": "(a) Two Mathematics books, 5 different Physics books and 3 different Chemistry are to be arranged on a shelf. How many arrangements are possible if ;\n(i) books on the same subject must stand together?\u00a0 (ii) only the Physics books must stand together?\n(b) In a certain community, 13 out of every 20 persons speak English. If 8 persons are selected at random from the community, find, correct to three significant figures, the probability that at least 3 of them speak English.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53766?exam_type=waec&type=theory&page=16",
+    "correct_answer": "(a) 2M, 5P, 3C.\n(i) Tie same books together\nMaths books can be arranged within themselves in 2! ways, Physics books can be arranged in 5! ways, Chemistry books in 3! ways.\nThe three sets of subjects can be arranged in 3! ways.\n\\(\\therefore\\) Total arrangements = 3!2!5!3!\n= \\(6 \\times 2 \\times 120 \\times 6 = \\text{8640 ways}\\).\n(ii) Tie Physics books together.\nThere are 1 + 2 + 3 = 6 books to be arranged in 6! ways.\nThe Physics books can be arranged in 5! ways.\n\\(\\therefore\\) Total arrangement = \\(6!5! = 720 \\times 120 = \\text{86,400 ways}\\)\n(b) p(English speaking) = p = \\(\\frac{13}{20}\\); p(non- English speaking) = q = \\(\\frac{7}{20}\\)\n8 persons selected,\n\\((p + q)^{8} = p^{8} + 8p^{7}q + 28p^{6}q^{2} + 56p^{5}q^{3} + 70p^{4}q^{4} + 56p^{3}q^{5} + 28p^{2}q^{6} + 8pq^{7} + q^{8}\\)\np(at least 3 speak English) = 1 - [none + one + two].\n= \\(1 - [q^{8} + 8pq^{7} + 28p^{2}q^{6}]\\)\n= \\(1 - [(0.35)^{8} + 8(0.65)(0.35)^{2} + 28(0.65)^{2}(0.35)^{2}]\\)\n= \\(1 - [0.0002252 + 0.003346 + 0.1131]\\)\n= \\(1 - 0.001488 = 0.98512\\)\n\\(\\approxeq 0.985\\) (3 sig. figs).",
+    "explanation": "(a) 2M, 5P, 3C.\n(i) Tie same books together\nMaths books can be arranged within themselves in 2! ways, Physics books can be arranged in 5! ways, Chemistry books in 3! ways.\nThe three sets of subjects can be arranged in 3! ways.\n\\(\\therefore\\) Total arrangements = 3!2!5!3!\n= \\(6 \\times 2 \\times 120 \\times 6 = \\text{8640 ways}\\).\n(ii) Tie Physics books together.\nThere are 1 + 2 + 3 = 6 books to be arranged in 6! ways.\nThe Physics books can be arranged in 5! ways.\n\\(\\therefore\\) Total arrangement = \\(6!5! = 720 \\times 120 = \\text{86,400 ways}\\)\n(b) p(English speaking) = p = \\(\\frac{13}{20}\\); p(non- English speaking) = q = \\(\\frac{7}{20}\\)\n8 persons selected,\n\\((p + q)^{8} = p^{8} + 8p^{7}q + 28p^{6}q^{2} + 56p^{5}q^{3} + 70p^{4}q^{4} + 56p^{3}q^{5} + 28p^{2}q^{6} + 8pq^{7} + q^{8}\\)\np(at least 3 speak English) = 1 - [none + one + two].\n= \\(1 - [q^{8} + 8pq^{7} + 28p^{2}q^{6}]\\)\n= \\(1 - [(0.35)^{8} + 8(0.65)(0.35)^{2} + 28(0.65)^{2}(0.35)^{2}]\\)\n= \\(1 - [0.0002252 + 0.003346 + 0.1131]\\)\n= \\(1 - 0.001488 = 0.98512\\)\n\\(\\approxeq 0.985\\) (3 sig. figs).",
+    "year": "2016"
+  },
+  {
+    "number": "77",
+    "text": "Four vectors \\(r = \\alpha i + \\beta j\\), where \\(\\alpha \\text{ and } \\beta\\) are constants, \\(s = 2i -j, m = 3i + 2j\\) and \\(n = i + j\\) are such that the magnitude of r is three times as s and is parallel to the vactor (m - n).\n(a) Find the values of \\(\\alpha\\) and \\(\\beta\\).\n(b) Calculate the magnitude and direction of (r - s).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53767?exam_type=waec&type=theory&page=16",
+    "correct_answer": "(a) \\(r = \\alpha i + \\beta j ; s = 2i - j\\)\n\\(|r| = \\sqrt{\\alpha^{2} + \\beta^{2}} ; |s| = \\sqrt{2^{2} + (-1)^{2}} = \\sqrt{5}\\)\n\\(|r| = 3|s| = 3\\sqrt{5}\\)\n\\(\\implies \\alpha^{2} + \\beta^{2} = (3\\sqrt{5})^{2} = 45 .... (1)\\)\n\\(m = 3i + 2j ; n = i + j\\)\n\\((m - n) = (3i + 2j) - (i + j) = 2i + j\\)\n\\(r\\) is parallel to \\((m - n)\\), hence, they both have the same gradient.\n\\(\\frac{\\beta}{\\alpha} = \\frac{1}{2} \\implies \\alpha = 2\\beta\\)\nPut \\(\\alpha = 2\\beta\\) in (1),\n\\((2\\beta)^{2} + \\beta^{2} = 45 \\implies 5\\beta^{2} = 45\\)\n\\(\\beta^{2} = 9 \\implies \\beta = 3\\)\n\\(\\alpha = 2\\beta = 2(3) = 6\\)\n\\(r = 6i + 3j\\).\n(b) \\(r = 6i + 3j ; s = 2i - j\\)\n\\((r - s) = (6i + 3j) - (2i - j) = 4i + 4j\\)\n\\(|r - s| = \\sqrt{4^{2} + 4^{2}} = \\sqrt{32} = 4\\sqrt{2}\\)\n\\(Direction : \\tan \\theta = \\frac{4}{4} = 1\\)\n\\(\\theta = 45\u00b0\\)\n(r - s) makes an angle of 45\u00b0 with the x- axis.",
+    "explanation": "(a) \\(r = \\alpha i + \\beta j ; s = 2i - j\\)\n\\(|r| = \\sqrt{\\alpha^{2} + \\beta^{2}} ; |s| = \\sqrt{2^{2} + (-1)^{2}} = \\sqrt{5}\\)\n\\(|r| = 3|s| = 3\\sqrt{5}\\)\n\\(\\implies \\alpha^{2} + \\beta^{2} = (3\\sqrt{5})^{2} = 45 .... (1)\\)\n\\(m = 3i + 2j ; n = i + j\\)\n\\((m - n) = (3i + 2j) - (i + j) = 2i + j\\)\n\\(r\\) is parallel to \\((m - n)\\), hence, they both have the same gradient.\n\\(\\frac{\\beta}{\\alpha} = \\frac{1}{2} \\implies \\alpha = 2\\beta\\)\nPut \\(\\alpha = 2\\beta\\) in (1),\n\\((2\\beta)^{2} + \\beta^{2} = 45 \\implies 5\\beta^{2} = 45\\)\n\\(\\beta^{2} = 9 \\implies \\beta = 3\\)\n\\(\\alpha = 2\\beta = 2(3) = 6\\)\n\\(r = 6i + 3j\\).\n(b) \\(r = 6i + 3j ; s = 2i - j\\)\n\\((r - s) = (6i + 3j) - (2i - j) = 4i + 4j\\)\n\\(|r - s| = \\sqrt{4^{2} + 4^{2}} = \\sqrt{32} = 4\\sqrt{2}\\)\n\\(Direction : \\tan \\theta = \\frac{4}{4} = 1\\)\n\\(\\theta = 45\u00b0\\)\n(r - s) makes an angle of 45\u00b0 with the x- axis.",
+    "year": "2016"
+  },
+  {
+    "number": "78",
+    "text": "A particle is projected vertically upwards from the ground with speed \\(30ms^{-1}\\). Calculate the :\n(a) maximum height reached by the particle;\n(b) time taken by the particle to return to the ground;\n(c) time(s) taken for the particle to attain a height of 40m above the ground. [Take \\(g = 10ms^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/53768?exam_type=waec&type=theory&page=16",
+    "correct_answer": "v = 0 m/s ; u = 30 m/s ; s = ? ; g = 10 m/s\\(^{2}\\).\n(a) For maximum height, we use the formula\n\\(v^{2} = u^{2} - 2gs\\)\n\\(s = \\frac{u^{2} - v^{2}}{2g}\\)\n= \\(\\frac{30^{2} - 0^{2}}{2(10)}\\)\n= \\(\\frac{900}{20} = 45m\\)\n(b) Time to reach highest point:\n\\(v = u - gt \\implies t = \\frac{u - v}{g}\\)\n\\(t = \\frac{30 - 0}{10} = 3s\\)\nIf the particle took 3s to get to the maximum height,\nTime to reach the ground = 2(3) = 6s.\n(c) From a height 40m above the ground, we use\n\\(s = ut - \\frac{1}{2} gt^{2}\\)\n\\(40 = 30t - 5t^{2}\\)\n\\(5t^{2} - 30t + 40 = 0\\)\n\\(5t^{2} - 20t - 10t + 40 = 0 \\implies 5t(t - 4) - 10(t - 4) = 0\\)\n\\((5t - 10)(t - 4) = 0 \\implies \\text{2s and 4s}\\)\n\\(\\therefore\\) At times 2s and 4s, the height attained = 40m.",
+    "explanation": "v = 0 m/s ; u = 30 m/s ; s = ? ; g = 10 m/s\\(^{2}\\).\n(a) For maximum height, we use the formula\n\\(v^{2} = u^{2} - 2gs\\)\n\\(s = \\frac{u^{2} - v^{2}}{2g}\\)\n= \\(\\frac{30^{2} - 0^{2}}{2(10)}\\)\n= \\(\\frac{900}{20} = 45m\\)\n(b) Time to reach highest point:\n\\(v = u - gt \\implies t = \\frac{u - v}{g}\\)\n\\(t = \\frac{30 - 0}{10} = 3s\\)\nIf the particle took 3s to get to the maximum height,\nTime to reach the ground = 2(3) = 6s.\n(c) From a height 40m above the ground, we use\n\\(s = ut - \\frac{1}{2} gt^{2}\\)\n\\(40 = 30t - 5t^{2}\\)\n\\(5t^{2} - 30t + 40 = 0\\)\n\\(5t^{2} - 20t - 10t + 40 = 0 \\implies 5t(t - 4) - 10(t - 4) = 0\\)\n\\((5t - 10)(t - 4) = 0 \\implies \\text{2s and 4s}\\)\n\\(\\therefore\\) At times 2s and 4s, the height attained = 40m.",
+    "year": "2016"
+  }
+]

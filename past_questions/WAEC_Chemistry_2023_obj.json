@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1474",
+    "text": "The vapour density of an organic compound with the molecular formula \\(C_2H_4O_2\\), is\n[H=1.0, C=12.0, O= 16.0]",
+    "options": {
+      "A": "40",
+      "B": "120",
+      "C": "65",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69495?exam_type=waec&type=obj&page=295",
+    "correct_answer": "D",
+    "explanation": "Molar mass of \\(C_2H_4O_2\\),= (12 \u00d7 2) + (1 \u00d7 4) + (16 \u00d7 2)= 60 g/molVapour density = RMM/2=60/2=30",
+    "year": "2023"
+  },
+  {
+    "number": "1475",
+    "text": "The following statements are correct except",
+    "options": {
+      "A": "energy is released when liquids change to solids.",
+      "B": "carbon atoms in gaseous methane are further apart than those in solid diamond.",
+      "C": "there is large decrease in the volume of a solid metal when pressure is applied to it.",
+      "D": "particles move faster in the gaseous state than in the liquid state."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69496?exam_type=waec&type=obj&page=295",
+    "correct_answer": "C",
+    "explanation": "In general, solids are relatively incompressible compared to liquids and gases. When pressure is applied to a solid, there is typically only a small change in volume. Solids have tightly packed particles with strong intermolecular forces, making them less responsive to changes in pressure. Liquids and gases, on the other hand, can undergo larger volume changes in response to pressure.",
+    "year": "2023"
+  },
+  {
+    "number": "1476",
+    "text": "Which of the following reactions represents the hydrolysis of an alkanoate?",
+    "options": {
+      "A": "\\(CH_3COOH + OH^- \u21ccH^+\u21cc CH_3COO^- + H_2O\\)",
+      "B": "\\(CH_3COOH + C_2H_5OH \u21ccH^+\u21cc CH_3COOC_2H_5 + H_2O\\)",
+      "C": "\\(CH_3COOC_2H_5 + H_2O \u21ccH^+\u21cc CH_3COO^- + CH_3CH_2OH\\)",
+      "D": "\\(CH_3COOCH_2CH_3 + H_2O \u21ccH^+\u21cc CH_3COOH + CH_3CH_2OH\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69497?exam_type=waec&type=obj&page=296",
+    "correct_answer": "D",
+    "explanation": "The hydrolysis of an alkanoate is the reaction of an alkanoate with water to form a carboxylic acid and an alcohol. The correct reaction is:\\(CH_3COOC_2H_5 + H_2O \u21ccH^+\u21cc CH_3COOH\u00a0+ CH_3CH_2OH\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1477",
+    "text": "The following steps are scientific methods except",
+    "options": {
+      "A": "experimentation",
+      "B": "problem identification",
+      "C": "Analysis",
+      "D": "Open-mindedness"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69498?exam_type=waec&type=obj&page=296",
+    "correct_answer": "D",
+    "explanation": "From the given options, \"Open-mindedness\" is not a specific step in the scientific method. Open-mindedness is a general mindset that scientists should have throughout the entire process. It involves being receptive to new ideas, evidence, and interpretations, which helps scientists avoid biases and reach more accurate conclusions.",
+    "year": "2023"
+  },
+  {
+    "number": "1478",
+    "text": "Alkenes can be manufactured by",
+    "options": {
+      "A": "the combustion of alkanes.",
+      "B": "the cracking of hydrocarbons.",
+      "C": "polymerization reactions.",
+      "D": "addition of hydrogen to unsaturated vegetable oils."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69499?exam_type=waec&type=obj&page=296",
+    "correct_answer": "B",
+    "explanation": "Cracking is a chemical process in which larger hydrocarbon molecules are broken down into smaller and more useful ones. This process is commonly used in petroleum refining to convert heavy hydrocarbons into lighter fractions, including alkenes. During cracking, high-temperature and/or catalytic conditions are applied to break the long carbon chains of hydrocarbons into shorter ones. This process produces a mixture of products, including alkenes, which are unsaturated hydrocarbons containing carbon-carbon double bonds.",
+    "year": "2023"
+  },
+  {
+    "number": "1479",
+    "text": "The formation of a bond between hydrogen and a highly electronegative atom results in",
+    "options": {
+      "A": "polarity",
+      "B": "electrovalent bond.",
+      "C": "dipole",
+      "D": "metallic bond"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69500?exam_type=waec&type=obj&page=296",
+    "correct_answer": "A",
+    "explanation": "The formation of a bond between hydrogen and a highly electronegative atom results in polarity because the electronegative atom will attract the shared pair of electrons more than the hydrogen atom, creating a dipole with a partial negative charge on the electronegative atom and a partial positive charge on the hydrogen atom.",
+    "year": "2023"
+  },
+  {
+    "number": "1480",
+    "text": "Which of the elements in the table below would react more readily with chlorine?\n\u00a0 \u00a0 \u00a0\u00a0\n\n\n\n\nElement\n\n\nIonization energy (KJ \\(mol^{-1} \\times\u00a010^{-3}\\))\n\n\n\nW\n12.0\n\n\nX\n21.0\n\n\nY\n106.0\n\n\nZ\n200.0",
+    "options": {
+      "A": "Y and Z only",
+      "B": "X and Z only",
+      "C": "W and X only",
+      "D": "W and Z only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69501?exam_type=waec&type=obj&page=296",
+    "correct_answer": "C",
+    "explanation": "Among the given elements, W has the lowest ionization energy (\\(12.0 KJ mol^{-1} x 10^{-3})\\), indicating that it would be more likely to react with chlorine. X has a higher ionization energy \\((21.0 KJ mol^{-1} x 10^{-3})\\), so it would be less reactive with chlorine compared to W.Based on ionization energy values, the elements that would react more readily with chlorine are W and X.",
+    "year": "2023"
+  },
+  {
+    "number": "1481",
+    "text": "Which of the following properties does not give evidence of the kinetic theory of matter?",
+    "options": {
+      "A": "Diffusion",
+      "B": "Melting",
+      "C": "Polymerization",
+      "D": "Evaporation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69502?exam_type=waec&type=obj&page=297",
+    "correct_answer": "C",
+    "explanation": "Polymerization is a process in which small molecules combine to form larger molecules. This process is not consistent with the kinetic theory of matter because it does not involve the movement of particles. The particles in a polymer are not moving randomly. They are bonded together in a fixed structure.Therefore, the property that does not give evidence of the kinetic theory of matter is polymerization.",
+    "year": "2023"
+  },
+  {
+    "number": "1482",
+    "text": "Dilute trioxonitrate (V) acid does not produce hydrogen when it reacts with metals because",
+    "options": {
+      "A": "it reacts with the product.",
+      "B": "it is highly corrosive.",
+      "C": "there is no visible reaction.",
+      "D": "it is a strong oxidizing agent."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69503?exam_type=waec&type=obj&page=297",
+    "correct_answer": "D",
+    "explanation": "Dilute trioxonitrate (V) acid does not produce hydrogen when it reacts with metals because it is a strong oxidizing agent.Trioxonitrate (V) acid, also known as nitric acid, is a strong oxidizing agent. This means that it can easily oxidize metals, which means that it can remove electrons from metals. When nitric acid oxidizes a metal, it forms salt and water. The salt does not contain hydrogen, so no hydrogen gas is produced",
+    "year": "2023"
+  },
+  {
+    "number": "1483",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "Addition reactions occur between alkanes and chlorine.",
+      "B": "Butane has a lower boiling point than propane.",
+      "C": "Pentane has five isomers.",
+      "D": "An alkane with 49 carbon atoms contains 100 hydrogen atoms"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69504?exam_type=waec&type=obj&page=297",
+    "correct_answer": "D",
+    "explanation": "The general formula for alkanes is \\(C_nH_{2n}+2\\). For an alkane with 49 carbon atoms (n = 49), the number of hydrogen atoms can be calculated as follows:Number of hydrogen atoms (H) = 2n + 2Number of hydrogen atoms (H) = 2 * 49 + 2Number of hydrogen atoms (H) = 98 + 2Number of hydrogen atoms (H) = 100So, an alkane with 49 carbon atoms contains 100 hydrogen atoms.",
+    "year": "2023"
+  },
+  {
+    "number": "1484",
+    "text": "A mixture containing two salts of different solubility can be separated by",
+    "options": {
+      "A": "chromatography.",
+      "B": "crystallization.",
+      "C": "distillation.",
+      "D": "evaporation."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69505?exam_type=waec&type=obj&page=297",
+    "correct_answer": "B",
+    "explanation": "Crystallization is a separation technique that exploits differences in the solubilities of components in a solution. When a solution is allowed to cool or evaporate under controlled conditions, one of the salts may begin to crystallize out of the solution before the other due to its lower solubility. This process can be used to separate the salts based on their differing solubilities and crystal formation.",
+    "year": "2023"
+  },
+  {
+    "number": "1485",
+    "text": "Species that occur in a reaction pathway but not in the overall reaction are known as",
+    "options": {
+      "A": "Reactants",
+      "B": "Inhibitors",
+      "C": "Products",
+      "D": "Intermediates"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69506?exam_type=waec&type=obj&page=297",
+    "correct_answer": "D",
+    "explanation": "In a chemical reaction, intermediates are the chemical species that are formed during the reaction but are subsequently consumed in further steps, leading to the final products. They are transient species that exist momentarily during the reaction process and are not present in the initial reactants or the final products of the overall reaction.",
+    "year": "2023"
+  },
+  {
+    "number": "1486",
+    "text": "How many moles are there in 3.0 g of \\(O_2\\)? [O = 16.0]",
+    "options": {
+      "A": "0.0093 moles.",
+      "B": "0.0930 moles.",
+      "C": "0.0625 moles.",
+      "D": "0.6250 moles."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69507?exam_type=waec&type=obj&page=298",
+    "correct_answer": "B",
+    "explanation": "Number of moles = Mass / Molar massGiven that the molar mass of oxygen \\(O_2\\) is 32.0 g/mol (2 \u00d7 16.0 g/mol), you can calculate the number of moles:Number of moles = 3.0 g / 32.0 g/mol = 0.09375 molesRounded to four significant figures, the number of moles in 3.0 g of O2 is approximately 0.0938 moles.Therefore, the closest answer choice is:0.0930 moles.",
+    "year": "2023"
+  },
+  {
+    "number": "1487",
+    "text": "Which of the following equimolar solutions has the highest conductivity?",
+    "options": {
+      "A": "\\(H_2SO{_4(aq)}\\)",
+      "B": "\\(NaOH{_(aq)}\\)",
+      "C": "\\(H_2CO{_3(aq)}\\)",
+      "D": "\\(CH_3COOH{_4(aq)}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69508?exam_type=waec&type=obj&page=298",
+    "correct_answer": "A",
+    "explanation": "\\(H_2SO_4\\)(aq) is a strong acid that dissociates into two hydrogen ions (H+) and one sulfate ion \\(SO4^{2-}\\)\u00a0when dissolved in water. This leads to a higher concentration of ions in the solution, resulting in higher conductivity.",
+    "year": "2023"
+  },
+  {
+    "number": "1488",
+    "text": "The pair of compounds that belongs to the same homologous series is",
+    "options": {
+      "A": "\\(C_2H_6\\) and \\(C_4H_{10}\\)",
+      "B": "\\(C_3H_8\\) and \\(C_3H_6\\)",
+      "C": "\\(C_2H_4\\) and \\(C_4H_{10}\\)",
+      "D": "\\(C_4H_{10}\\) and \\(C_5H_{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69509?exam_type=waec&type=obj&page=298",
+    "correct_answer": "A",
+    "explanation": "In the given options, \\(C_2H_6\\) (ethane) and \\(C_4H_{10}\\) (butane) both belong to the same homologous series, as they have the same alkane functional group \\(C_nH_{2n}+2\\) and differ by a \\(CH_2\\) group:\\(C_2H_6\\): Ethane\\(C_4H_{10}\\): ButaneBoth of these compounds are members of the alkane homologous series.",
+    "year": "2023"
+  },
+  {
+    "number": "1489",
+    "text": "Which of the following equations does not illustrate correctly one of the reactions of chlorine?",
+    "options": {
+      "A": "\\(Ca(OH)_2 + Cl_2 \u2192 CaOCl_2 + H_2O\\)",
+      "B": "\\(Cl_2 + 2NaF \u2192 2NaCl + F_2\\)",
+      "C": "\\(Cl_2 + 2NaOH \u2192 NaCl + NaClO + H_2O\\)",
+      "D": "\\(H_2S + Cl_2 \u2192 2HCl + S\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69510?exam_type=waec&type=obj&page=298",
+    "correct_answer": "B",
+    "explanation": "The equation \\(Cl_2 + 2NaF \u2192 2NaCl + F_2\\) does not illustrate correctly one of the reactions of chlorine.In this reaction, chlorine reacts with sodium fluoride to form sodium chloride and fluorine gas. However, this reaction is not possible because fluorine is a much more reactive element than chlorine. When chlorine and fluorine react, they form a compound called chlorine trifluoride (\\(ClF_3)\\), which is a very powerful oxidizing agent.",
+    "year": "2023"
+  },
+  {
+    "number": "1490",
+    "text": "The salt solution formed firm a reaction between ethanoic acid and sodium hydroxide solution would be",
+    "options": {
+      "A": "amphoteric.",
+      "B": "neutral",
+      "C": "basic",
+      "D": "acidic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69511?exam_type=waec&type=obj&page=298",
+    "correct_answer": "C",
+    "explanation": "Ethanoic acid is a weak acid, while sodium hydroxide is a strong base. When these two substances react, they neutralize each other, forming salt and water. The salt is a compound of the cation from the base and the anion from the acid. In this case, the salt is sodium ethanoate, which is a basic salt.",
+    "year": "2023"
+  },
+  {
+    "number": "1491",
+    "text": "The separation technique that is suitable for separating iodine from tetrachloromethane is",
+    "options": {
+      "A": "solvent extraction",
+      "B": "decantation",
+      "C": "fractional distillation",
+      "D": "filtration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69512?exam_type=waec&type=obj&page=299",
+    "correct_answer": "A",
+    "explanation": "Solvent extraction, also known as liquid-liquid extraction, is a technique used to separate substances based on their differential solubilities in two immiscible liquids. In this case, since iodine and tetrachloromethane have different solubilities in certain solvents, you can use solvent extraction to selectively dissolve one of the substances while leaving the other behind. Iodine is a non-polar molecule, while tetrachloromethane is a polar molecule. This means that iodine will dissolve in a non-polar solvent, while tetrachloromethane will dissolve in a polar solvent",
+    "year": "2023"
+  },
+  {
+    "number": "1492",
+    "text": "Consider the following reaction equation:\n\\(2SO_3(g) \u2192 2SO_2(g) + O_2\\)(g)\n\u2206H = +198 kJ/mol\nWhich of the following statements about the reaction is correct?",
+    "options": {
+      "A": "198 kJ of energy is given off",
+      "B": "The reaction is exothermic",
+      "C": "The reaction container would feel warm.",
+      "D": "198 kJ of energy is absorbed"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69513?exam_type=waec&type=obj&page=299",
+    "correct_answer": "D",
+    "explanation": "A positive value of \u2206H (+198 kJ mol^-1) indicates that the reaction is endothermic, meaning it requires an input of energy to proceed. In this case, the reaction absorbs 198 kJ of energy per mole of reactants to convert 2 moles of \\(SO_3\\) into 2 moles of \\(SO_2\\) and 1 mole of \\(O_2\\). This means that the reaction container would need to be supplied with energy, and it would feel cooler rather than warmer.",
+    "year": "2023"
+  },
+  {
+    "number": "1493",
+    "text": "Arrange the following compounds in decreasing order of their boiling points: \\(NH_3\\), HF, \\(SiH_4\\), \\(CH_4\\)",
+    "options": {
+      "A": "HF,\\(NH_3\\), \\(SiH_4\\), \\(CH_4\\)",
+      "B": "\\(CH_4\\), \\(SiH_4\\), HF, \\(NH_3\\),",
+      "C": "\\(NH_3\\),\\(CH_4\\), \\(SiH_4\\), HF",
+      "D": "\\(CH_4\\), \\(SiH_4\\), \\(NH_3\\), HF"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69514?exam_type=waec&type=obj&page=299",
+    "correct_answer": "A",
+    "explanation": "The correct order of boiling points of the compounds \\(NH_3\\), HF, \\(SiH_4\\), and \\(CH_4\\) is HF, \\(NH_3\\), \\(SiH_4\\), \\(CH_4\\).The correct order of boiling points of the compounds \\(NH_3\\), HF, \\(SiH_4\\), and \\(CH_4\\) is HF, \\(NH_3\\), \\(SiH_4\\), \\(CH_4\\).The boiling point of a compound is the temperature at which the vapor pressure of the liquid is equal to the atmospheric pressure. The stronger the intermolecular forces, the higher the boiling point.",
+    "year": "2023"
+  },
+  {
+    "number": "1494",
+    "text": "Copper (II) ions are able to participate in co-ordinate covalent bonding because they",
+    "options": {
+      "A": "are coloured",
+      "B": "are positively charged",
+      "C": "have vacant d-orbital",
+      "D": "have unpaired electrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69515?exam_type=waec&type=obj&page=299",
+    "correct_answer": "C",
+    "explanation": "Copper (II) ions have vacant d-orbitals. This means that they can accept a pair of electrons from a donor atom. When a copper (II) ion accepts a pair of electrons, it forms a co-ordinate covalent bond with the donor atom.",
+    "year": "2023"
+  },
+  {
+    "number": "1495",
+    "text": "What takes place at the cathode during electrolysis?",
+    "options": {
+      "A": "Anions lose electrons",
+      "B": "Anions are oxidized",
+      "C": "Cations are oxidized",
+      "D": "Cations are discharged."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69516?exam_type=waec&type=obj&page=299",
+    "correct_answer": "D",
+    "explanation": "Cations are discharged at the cathode during electrolysis.Electrolysis is the process of using an electric current to cause a chemical reaction to take place. The cathode is the negative electrode in an electrolytic cell. It is where cations (positively charged ions) are discharged",
+    "year": "2023"
+  },
+  {
+    "number": "1496",
+    "text": "Carbon is deposited in the exhaust pipes of cars because of",
+    "options": {
+      "A": "presence of additives in petrol",
+      "B": "incomplete combustion of petrol",
+      "C": "presence of carbon in petrol",
+      "D": "contamination of petrol with diesel"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69517?exam_type=waec&type=obj&page=300",
+    "correct_answer": "B",
+    "explanation": "Carbon is deposited in the exhaust pipes of cars primarily because of incomplete combustion of petrol. When the fuel (petrol) is burned in the engine's combustion chamber, ideally, it should be fully oxidized, resulting in the production of carbon dioxide (CO2) and water vapor. However, in real-world conditions, the combustion process may not be perfect, and some of the carbon in the petrol may not fully burn. As a result, carbon particles are formed and get carried through the exhaust system.",
+    "year": "2023"
+  },
+  {
+    "number": "1497",
+    "text": "Which of the following laws or theory cannot be explained by the application of the kinetic theory of gases?",
+    "options": {
+      "A": "Dalton's atomic theory",
+      "B": "Charle's law",
+      "C": "Boyle's law",
+      "D": "Gay- Lussac's law"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69518?exam_type=waec&type=obj&page=300",
+    "correct_answer": "A",
+    "explanation": "Dalton's atomic theory cannot be explained by the application of the kinetic theory of gases because it deals with the atomic-level structure and behavior of matter, which is beyond the scope of the kinetic theory's focus on the macroscopic behavior of gas particles. The other laws (Charles' law, Gay-Lussac's law, and Boyle's law) can be well understood and explained by the kinetic theory of gases, as they relate to the macroscopic properties and behaviors of gases and their constituent particles.",
+    "year": "2023"
+  },
+  {
+    "number": "1498",
+    "text": "How many unpaired electrons are present in \\(_{26}Fe^{3+}\\)?",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69519?exam_type=waec&type=obj&page=300",
+    "correct_answer": "D",
+    "explanation": "There are 5 unpaired electrons present in \\(_{26}Fe^{3+}\\).The atomic number of iron is 26, so it has 26 electrons. When iron loses 3 electrons to form \\(Fe^{3+}\\), it loses 2 from the s orbital and 1 from the d orbital. This leaves 5 unpaired electrons in the d orbital.The electron configuration of \\(Fe^{3+}\\) is [Ar]3d5. The 5 d electrons are all unpaired because Hund's rule states that electrons will occupy degenerate orbitals singly before they pair up. This is because unpaired electrons have a lower energy than paired electrons.",
+    "year": "2023"
+  },
+  {
+    "number": "1499",
+    "text": "A consequence of global warming is",
+    "options": {
+      "A": "air pollution",
+      "B": "High Humidity",
+      "C": "flooding",
+      "D": "Water pollution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69520?exam_type=waec&type=obj&page=300",
+    "correct_answer": "C",
+    "explanation": "Flooding is a major consequence of global warming because as the Earth's ice caps and glaciers melt, sea levels rise. This can cause flooding in coastal areas and low-lying islands. For example, in 2019, the Netherlands experienced its worst flooding in decades, with over 10,000 homes damaged and thousands of people evacuated.",
+    "year": "2023"
+  },
+  {
+    "number": "1500",
+    "text": "Going down group II in the periodic table normally",
+    "options": {
+      "A": "ionization energy increases",
+      "B": "melting point increases",
+      "C": "shielding effect decreases",
+      "D": "electronegativity increases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69521?exam_type=waec&type=obj&page=300",
+    "correct_answer": "B",
+    "explanation": "Melting point increases. This is because the atoms become larger as you go down the group, which means that the metallic bonds between them become stronger.",
+    "year": "2023"
+  },
+  {
+    "number": "1501",
+    "text": "The primary component of natural gas",
+    "options": {
+      "A": "ethane",
+      "B": "methane",
+      "C": "butane",
+      "D": "propane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69522?exam_type=waec&type=obj&page=301",
+    "correct_answer": "B",
+    "explanation": "Natural gas is a fossil fuel primarily composed of hydrocarbon gases. The primary component of natural gas is methane, which typically makes up a significant portion of the gas mixture. Methane is a simple hydrocarbon with one carbon atom and four hydrogen atoms (CH4). It is the main component of natural gas, often accounting for over 90% of its composition.",
+    "year": "2023"
+  },
+  {
+    "number": "1502",
+    "text": "The gas that is less dense than air is",
+    "options": {
+      "A": "nitrogen",
+      "B": "chlorine",
+      "C": "Carbon(IV) oxide",
+      "D": "Oxygen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69523?exam_type=waec&type=obj&page=301",
+    "correct_answer": "A",
+    "explanation": "The density of a gas is directly proportional to its molar mass. This means that gases with a lower molar mass will be less dense than gases with a higher molar mass. Nitrogen (N2) has a molar mass of 28 g/mol, which is less than that of air (approximately 29 g/mol), making it less dense than air.",
+    "year": "2023"
+  },
+  {
+    "number": "1503",
+    "text": "The periodic property that is used to determine whether a covalent molecule is polar or not is",
+    "options": {
+      "A": "atomic radius",
+      "B": "ionization energy",
+      "C": "electron affinity",
+      "D": "electronegativity"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69524?exam_type=waec&type=obj&page=301",
+    "correct_answer": "D",
+    "explanation": "The periodic property that is used to determine whether a covalent molecule is polar or not is electronegativity.Electronegativity is a measure of the ability of an atom to attract electrons in a chemical bond. The greater the electronegativity of an atom, the more strongly it will attract electrons.",
+    "year": "2023"
+  },
+  {
+    "number": "1504",
+    "text": "If \\(100^3\\) of a saturated solution of sodium tetraoxosulphate (VI) at 30\u00b0 C contains 10.5 g of the salt, what would be its solubility at this temperature? [(\\(Na_2SO_4\\) = 142]",
+    "options": {
+      "A": "2.15 mol dm-3",
+      "B": "0.74 mol dm-3",
+      "C": "0.60 mol dm-3",
+      "D": "0.57 mol dm-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69525?exam_type=waec&type=obj&page=301",
+    "correct_answer": "B",
+    "explanation": "Molar mass of Na2SO4 = 2(Na) + S + 4(O) = 2(23.0 g/mol) + 32.1 g/mol + 4(16.0 g/mol) = 46.0 g/mol + 32.1 g/mol + 64.0 g/mol = 142.1 g/molNow, we can calculate the number of moles of Na2SO4 in the solution:Number of moles = Mass of the salt / Molar massNumber of moles = 10.5 g / 142.1 g/mol \u2248 0.0739 molNext, we need to find the volume of the saturated solution, given as 100 cm\u00b3, and convert it to liters:Volume of solution = 100 cm\u00b3 = 100 cm\u00b3 / 1000 cm\u00b3/dm\u00b3 = 0.1 dm\u00b3Finally, we can calculate the solubility in mol/dm\u00b3:Solubility = Number of moles / Volume of solutionSolubility = 0.0739 mol / 0.1 dm\u00b3 \u2248 0.739 mol/dm\u00b3Rounded to two decimal places, the solubility of sodium tetraoxosulphate (VI) at 30\u00b0C is approximately 0.74 mol/dm\u00b3.Therefore, the correct option is:0.74 mol dm-3.Solubility = 10.5 g / 100 cm3 * 142 g/mol = 0.739 mol/dm3",
+    "year": "2023"
+  },
+  {
+    "number": "1505",
+    "text": "A compound that could be dried by using conc. tetraoxosulphate (VI) acid and not by calcium oxide is likely to be",
+    "options": {
+      "A": "a deliquescent salt",
+      "B": "a neutral salt",
+      "C": "an alkaline gas",
+      "D": "an acid anhydride"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69526?exam_type=waec&type=obj&page=301",
+    "correct_answer": "D",
+    "explanation": "The compound that could be dried by using conc. tetraoxosulphate (VI) acid and not calcium oxide is an acid anhydride.Acid anhydrides are compounds that can react with water to form acids. When acid anhydrides are exposed to air, they will absorb water from the air and become hydrated. This can make them difficult to dry with calcium oxide, which is a base.",
+    "year": "2023"
+  },
+  {
+    "number": "1506",
+    "text": "Which of the statements about gases is not correct?",
+    "options": {
+      "A": "Gases have low densities compared to solids and liquids of equal mass.",
+      "B": "The total kinetic energy of the gas is not affected by collision",
+      "C": "Molecules of the gas are in constant motion",
+      "D": "Gases are highly soluble in water at high temperatures"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69527?exam_type=waec&type=obj&page=302",
+    "correct_answer": "D",
+    "explanation": "The statement that is not correct about gases is Gases are highly soluble in water at high temperatures.Gases are not highly soluble in water at high temperatures. The solubility of gases in water decreases as the temperature increases. This is because the kinetic energy of the gas molecules increases as the temperature increases. The increased kinetic energy of the gas molecules makes it more difficult for them to be dissolved in water.",
+    "year": "2023"
+  },
+  {
+    "number": "1507",
+    "text": "Determine the volume of 0.100 mol of HCl in \\(0.250 mol dm^3\\) of solution.",
+    "options": {
+      "A": "\\(200cm^3\\)",
+      "B": "\\(100cm^3\\)",
+      "C": "\\(20cm^3\\)",
+      "D": "\\(400cm^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69528?exam_type=waec&type=obj&page=302",
+    "correct_answer": "D",
+    "explanation": "Molarity = 0.100 mol / 0.250 mol dm3= 0.100 mol / 0.250 dm3 * 1000 cm3/dm3= 400 cm3Volume (V) = Amount (n) / Concentration (C)Given that the amount of HCl is 0.100 mol and the concentration of the solution is 0.250 mol/dm\u00b3, you can calculate the volume:Volume (V) = 0.100 mol / 0.250 mol/dm\u00b3 = 0.4 dm\u00b3Since 1 dm\u00b3 is equal to 1000 cm\u00b3, you can convert the volume from dm\u00b3 to cm\u00b3:Volume (V) = 0.4 dm\u00b3 \u00d7 1000 cm\u00b3/dm\u00b3 = 400 cm\u00b3Therefore, the volume of 0.100 mol of HCl in a 0.250 mol/dm\u00b3 solution is 400 cm\u00b3.",
+    "year": "2023"
+  },
+  {
+    "number": "1508",
+    "text": "Positive ions in a sea of electrons are found in",
+    "options": {
+      "A": "covalent bonds",
+      "B": "metallic bonds",
+      "C": "dative bonds",
+      "D": "ionic bonds"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69529?exam_type=waec&type=obj&page=302",
+    "correct_answer": "B",
+    "explanation": "In metallic bonding, positive metal ions (cations) are surrounded by a \"sea\" of delocalized electrons that move freely throughout the metal lattice. This arrangement creates a cohesive force that holds the metal atoms together. The mobile electrons contribute to the unique properties of metals, such as high electrical and thermal conductivity, malleability, and ductility.",
+    "year": "2023"
+  },
+  {
+    "number": "1509",
+    "text": "An element X has two isotopes, \\(^{65}X_{30}\\)\u00a0and \\(^{66}X_{30}\\) with relative abundance of 60 % and 40% respectively. The relative atomic mass of X is",
+    "options": {
+      "A": "66.00",
+      "B": "65.50",
+      "C": "65.00",
+      "D": "65.40"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69530?exam_type=waec&type=obj&page=302",
+    "correct_answer": "D",
+    "explanation": "Isotope \\(^{65}X_{30}\\) (with a mass of 65 and an abundance of 60%):Relative mass contribution = (65 * 60%) = 39.00Isotope \\(^{66}X_{30}\\) (with a mass of 66 and an abundance of 40%):Relative mass contribution = (66 * 40%) = 26.40Now, add the relative mass contributions of both isotopes:Relative atomic mass \\(A_r\\) = 39.00 + 26.40 = 65.40So, the relative atomic mass of element X is 65.40. The correct option is:65.40",
+    "year": "2023"
+  },
+  {
+    "number": "1510",
+    "text": "Which of the following statements about the collision theory is correct?",
+    "options": {
+      "A": "Ineffective collision brings about chemical reaction",
+      "B": "All collisions bring about reactions",
+      "C": "The rate of reaction is proportional to the number of effective collisions",
+      "D": "Collision of molecules will split the molecules to react"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69531?exam_type=waec&type=obj&page=302",
+    "correct_answer": "C",
+    "explanation": "The rate of reaction is proportional to the number of effective collisions. This means that if the number of collisions increases, the rate of reaction will also increase. These successful collisions are known as effective collisions. The rate of reaction is directly proportional to the number of effective collisions between reactant molecules. In other words, the more frequent and successful the collisions, the faster the rate of the reaction.",
+    "year": "2023"
+  },
+  {
+    "number": "1511",
+    "text": "Which of the following elements has its valence electrons in the s-orbital?",
+    "options": {
+      "A": "Aluminum",
+      "B": "Phosphorus",
+      "C": "Sodium",
+      "D": "Carbon"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69532?exam_type=waec&type=obj&page=303",
+    "correct_answer": "C",
+    "explanation": "Sodium is an alkali metal, and its atomic number is 11. This means that it has 11 electrons, and its electron configuration is \\(1s^2 2s^2 2p^6 3s^1\\). The valence electrons are the electrons in the outermost shell, which in this case is the 3s orbital.",
+    "year": "2023"
+  },
+  {
+    "number": "1512",
+    "text": "Petrochemistry is an example of",
+    "options": {
+      "A": "applied chemistry",
+      "B": "Biochemistry",
+      "C": "Pure chemistry",
+      "D": "Environmental chemistry"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69533?exam_type=waec&type=obj&page=303",
+    "correct_answer": "A",
+    "explanation": "Applied chemistry refers to the practical application of chemical principles and techniques to solve real-world problems and create useful products. Petrochemistry is a branch of applied chemistry that deals specifically with the chemical processes and transformations involved in the extraction, refining, and processing of petroleum and its derivatives",
+    "year": "2023"
+  },
+  {
+    "number": "1513",
+    "text": "The molecule that has a non-polar covalent bond is",
+    "options": {
+      "A": "HCl",
+      "B": "\\(NH_3\\)",
+      "C": "\\(Cl_2\\)",
+      "D": "\\(H_2O\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69534?exam_type=waec&type=obj&page=303",
+    "correct_answer": "C",
+    "explanation": "In \\(Cl_2\\), the two chlorine atoms are identical and have the same electronegativity. Since both atoms have the same electronegativity, the electrons in the covalent bond are shared equally, resulting in a non-polar covalent bond. The molecule does not have a significant separation of charge and lacks a permanent dipole moment.",
+    "year": "2023"
+  },
+  {
+    "number": "1514",
+    "text": "The reduction half equation of the following reaction is:\n\\(Zn_{(s)}\u00a0+ CuSO_{4(aq)} \u2192 ZnSO_{4(aq)}\u00a0+ Cu_{(s)}\\)",
+    "options": {
+      "A": "\\(Zn_{(s)} \u2192 Zn^{2+}_{(aq)} + 2e^-\\)",
+      "B": "\\(CuSO_{4(s)} + H_2O_{(l)}\\) \u2192 \\(Cu^{2+}_{(aq)}\\) + \n \\(SO_{4(aq)}^{2-}\\)",
+      "C": "\\(Cu^{2+}_{(aq)} + 2e^- \u2192 Cu_{(s)}\\)",
+      "D": "\\(Cu^{2+}_{(aq)} + e^- \u2192 Cu_{(s)}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69540?exam_type=waec&type=obj&page=303",
+    "correct_answer": "C",
+    "explanation": "The reduction half equation for the given reaction is:\\(Cu^{2+}_{(aq)} + 2e^- \u2192 Cu_{(s)}\\)In the overall reaction, copper(II) ions (\\(Cu^{2+})\\) gain two electrons (2e^-) and get reduced to form solid copper (Cu) metal. This is the reduction half-reaction in the redox reaction between zinc (Zn) and copper(II) sulfate (\\(CuSO_4)\\).",
+    "year": "2023"
+  },
+  {
+    "number": "1515",
+    "text": "Why are \\(H_2SO_4\\) and \\(CaCl_2\\), not suitable for drying ammonia gas? They",
+    "options": {
+      "A": "are poisonous.",
+      "B": "pollute the gas",
+      "C": "are corrosive",
+      "D": "react with the gas"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69542?exam_type=waec&type=obj&page=303",
+    "correct_answer": "D",
+    "explanation": "\\(H_2SO_4\\) and \\(CaCl_2\\) are not suitable for drying ammonia gas because they react with the gas.Ammonia is a basic gas, and both \\(H_2SO_4\\)\u00a0and \\(CaCl_2\\)\u00a0are acidic. When these two substances react, they form salts that contain ammonia. This can contaminate the ammonia gas and make it unusable.In addition, \\(H_2SO_4\\)\u00a0is a corrosive substance, and \\(CaCl_2\\)\u00a0can be harmful to breathe in. Therefore, it is not safe to use these substances to dry ammonia gas.",
+    "year": "2023"
+  },
+  {
+    "number": "1516",
+    "text": "Isoelectronic species have the same number of",
+    "options": {
+      "A": "ions",
+      "B": "electrons",
+      "C": "protons",
+      "D": "neutrons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69544?exam_type=waec&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "The term \"isoelectronic\" comes from the Greek words \"iso\" meaning \"equal\" and \"electron\" meaning \"electron\". Isoelectronic species are atoms, molecules, or ions that have the same number of electrons.\u00a0have the same number of electrons because they have the same electron configuration. The electron configuration of an atom is the arrangement of electrons in the atom's orbitals. The electron configuration of an atom determines the chemical properties of the atom.",
+    "year": "2023"
+  },
+  {
+    "number": "1517",
+    "text": "Which of the following gases has the lowest rate of diffusion?\n[H=1.0, C=12.0, N = 14.0, O= 16.0]",
+    "options": {
+      "A": "Nitrogen",
+      "B": "methane",
+      "C": "Ammonia",
+      "D": "Oxygen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69545?exam_type=waec&type=obj&page=304",
+    "correct_answer": "D",
+    "explanation": "The rate of diffusion of a gas is inversely proportional to the square root of its molar mass (Graham's law). This means that gases with a higher molar mass will diffuse more slowly than gases with a lower molar mass. Given the molar masses of the gases in the options, Oxygen (O=16.0) has the highest molar mass and therefore the lowest rate of diffusion",
+    "year": "2023"
+  },
+  {
+    "number": "1518",
+    "text": "An example of a crystalline substance that does not possess water of crystallization is",
+    "options": {
+      "A": "potassium trioxonitrate (V)",
+      "B": "sodium tetraoxosulphate (VI).",
+      "C": "iron (II) tetraoxosulphate (VI)",
+      "D": "sodium trioxocarbonate (IV)."
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69548?exam_type=waec&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "The chemical formula for sodium tetraoxosulphate (VI) is \\(Na_2SO_4\\). It is also known as sodium sulfate. This compound does not have any water molecules as part of its crystal structure, making it anhydrous. So, it is an example of a crystalline substance that does not possess water of\u00a0crystallization.",
+    "year": "2023"
+  },
+  {
+    "number": "1519",
+    "text": "The best indicator to use for the titration of ethanoic acid with sodium hydroxide is",
+    "options": {
+      "A": "methyl orange",
+      "B": "phenolphthalein",
+      "C": "screened methyl orange",
+      "D": "methyl red"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69550?exam_type=waec&type=obj&page=304",
+    "correct_answer": "B",
+    "explanation": "Phenolphthalein is an indicator that is commonly used in acid-base titrations. It is colorless in acidic solutions (pH below 8.2) and turns pink or magenta in alkaline solutions (pH above 10). In the titration of ethanoic acid (acetic acid) with sodium hydroxide (a strong base), the pH will change from acidic to alkaline as the acid is neutralized by the base",
+    "year": "2023"
+  },
+  {
+    "number": "1520",
+    "text": "The relative molar mass of a gaseous hydrocarbon is 30. Determine its vapour density.",
+    "options": {
+      "A": "45",
+      "B": "30",
+      "C": "15",
+      "D": "60"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69552?exam_type=waec&type=obj&page=304",
+    "correct_answer": "C",
+    "explanation": "Vapour density = Relative molar mass / 2Vapour density = 30 / 2 = 15Therefore, the vapour density of the gaseous hydrocarbon is 15.",
+    "year": "2023"
+  },
+  {
+    "number": "1521",
+    "text": "Thermal cracking of alkanes usually",
+    "options": {
+      "A": "is an exothermic process",
+      "B": "produces only small alkanes",
+      "C": "involves decomposition",
+      "D": "requires hydrogen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69553?exam_type=waec&type=obj&page=305",
+    "correct_answer": "C",
+    "explanation": "Thermal cracking is a process used in the petroleum industry to break down long-chain alkanes (hydrocarbons) into smaller, more useful hydrocarbons. It involves the decomposition of high-molecular-weight hydrocarbons, such as heavy crude oil fractions or long-chain alkanes, into lower-molecular-weight hydrocarbons, like smaller alkanes and alkenes. During thermal cracking, high temperatures and sometimes pressure are applied to the feedstock (such as crude oil or natural gas) to initiate the decomposition reactions.",
+    "year": "2023"
+  },
+  {
+    "number": "1522",
+    "text": "How many grammes of NaOH(s) would be needed to produce 100.0 cm3 of a 0.20 mol dm-3 NaOH, (aq)? [NaOH = 40.0]",
+    "options": {
+      "A": "800.0g",
+      "B": "0.02 g",
+      "C": "20.0 g",
+      "D": "0.80 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69554?exam_type=waec&type=obj&page=305",
+    "correct_answer": "D",
+    "explanation": "Amount (in moles) = Molarity \u00d7 VolumeAmount (in moles) = 0.20 mol/dm\u00b3 \u00d7 100.0 cm\u00b3 / 1000 cm\u00b3/dm\u00b3 = 0.020 molesNow, we can calculate the mass using the formula:Mass = Amount \u00d7 Molar MassMass = 0.020 moles \u00d7 40.0 g/mol = 0.80 gSo, the correct answer is:0.80 g",
+    "year": "2023"
+  },
+  {
+    "number": "1523",
+    "text": "How many moles of copper would be deposited by passing 1 Faraday of electricity through a \\(CuCl_2\\) solution?",
+    "options": {
+      "A": "2 moles",
+      "B": "0.5moles",
+      "C": "0.025moles",
+      "D": "1 mole"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/69555?exam_type=waec&type=obj&page=305",
+    "correct_answer": "B",
+    "explanation": "1 Faraday of electricity is equal to the charge of 1 mole of electrons, which is 96,485 coulombs. The reduction of copper(II) ions in solution to copper metal requires 2 electrons per ion, so 1 Faraday of electricity will deposit 0.5 moles of copper.1 Faraday * (2 electrons/Cu ion) / (1 mole electrons/96,485 coulombs) * (1 mole Cu/2 electrons) = 0.5 moles Cu",
+    "year": "2023"
+  }
+]

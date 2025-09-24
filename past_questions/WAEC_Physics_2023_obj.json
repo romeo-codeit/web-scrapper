@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1755",
+    "text": "Which of the following statements about the properties of the electric field produced by charged parallel plates is not correct?",
+    "options": {
+      "A": "The electric field in the region outside the parallel plate is zero, except for the edge effects",
+      "B": "The magnitude of the electric field strength at any point between the plates, except near the edges, depends on the magnitude of the charge on each plate.",
+      "C": "The magnitude of the electric field strength at any point between the plates is directly proportional to the magnitude of the charge on each plate.",
+      "D": "The electric field is uniform everywhere in the space between the parallel plates"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69351?exam_type=waec&type=obj&page=351",
+    "correct_answer": "C",
+    "explanation": "The magnitude of the electric field strength at any point between the plates is not directly proportional to the magnitude of the charge on each plate. Instead, it is directly proportional to the charge density (charge per unit area) on the plates. Therefore, if the charge on the plates is increased while keeping the area of the plates constant, the electric field strength will increase. However, if the area of the plates is also increased such that the charge density remains constant, the electric field strength will not change.",
+    "year": "2023"
+  },
+  {
+    "number": "1756",
+    "text": "The diagram above\u00a0illustrates a mode of vibration of a wire of length 125 cm. The speed of the waves along the wire is 120 ms-1. Use the diagram to answer questions 2\u00a0and 3. Determine the wavelength of the waves.",
+    "options": {
+      "A": "1.00m",
+      "B": "0.75m",
+      "C": "0.25m",
+      "D": "0.50m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69352?exam_type=waec&type=obj&page=352",
+    "correct_answer": "D",
+    "explanation": "Number of cycles, n = \\(2\\frac{1}{2} = \\frac{5}{2}\\)\nLength = n\u03bb\n\u03bb = \\(\\frac{Length}{n}\\)\u00a0 =\u00a0 \\(\\frac{125}{\\frac{5}{2}}\\)\nTherefore,\u00a0\u03bb = 50cm = 0.50m.",
+    "year": "2023"
+  },
+  {
+    "number": "1757",
+    "text": "The diagram above\u00a0illustrates a mode of vibration of a wire of length 125 cm. The speed of the waves along the wire is 120 ms-1. Use the diagram to answer questions 2\u00a0and 3.\nDetermine the frequency of the waves",
+    "options": {
+      "A": "240Hz",
+      "B": "24Hz",
+      "C": "192Hz",
+      "D": "286Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69354?exam_type=waec&type=obj&page=352",
+    "correct_answer": "A",
+    "explanation": "v = 120m/s,\u00a0\u03bb = 0.50m, f = ?\nv = f\u03bb\nf = \\(\\frac{v}{\u03bb} = \\frac{120}{0.50}\\)\nTherefore, = 240Hz.",
+    "year": "2023"
+  },
+  {
+    "number": "1758",
+    "text": "Which of the following diagrams correctly illustrates the mode of oscillation of air in a tube for the first overtone?\n( The diagrams above are meant to help you in answering this question)",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69355?exam_type=waec&type=obj&page=352",
+    "correct_answer": "B",
+    "explanation": "The diagram above is a full wavelength and the length of an open pipe during first overtone equals one wavelength i.e. l = \u03bb",
+    "year": "2023"
+  },
+  {
+    "number": "1759",
+    "text": "The process of producing electric current by a changing magnetic field is referred to as",
+    "options": {
+      "A": "magnet induction",
+      "B": "electromagnetic induction",
+      "C": "flux linkage",
+      "D": "electrostatic induction."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69356?exam_type=waec&type=obj&page=352",
+    "correct_answer": "B",
+    "explanation": "The process of producing electric current by a changing magnetic field is referred to aselectromagnetic induction.Electromagnetic induction is a phenomenon in which a voltage is generated in a conductor when it is exposed to a changing magnetic field. This voltage can then be used to drive an electric current.",
+    "year": "2023"
+  },
+  {
+    "number": "1760",
+    "text": "In a controlled thermal fission reactor, the use of control rods will not affect the",
+    "options": {
+      "A": "energy generated in the nuclear reactor",
+      "B": "rate of production of the neutrons.",
+      "C": "speed of the neutrons released on fission.",
+      "D": "amount of radiation produced in the nuclear reactor."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69357?exam_type=waec&type=obj&page=352",
+    "correct_answer": "C",
+    "explanation": "In a controlled thermal fission reactor, control rods are used to absorb excess neutrons and thus control the rate of the nuclear reaction. They do not affect the speed of the neutrons released on fission. The speed of the neutrons is determined by the nature of the fission process itself, not by the control rods.",
+    "year": "2023"
+  },
+  {
+    "number": "1761",
+    "text": "A body starts with an initial velocity of 20 m/s and moves with a uniform acceleration, a, for 15 seconds. Which of the following equations represents the distance, S, traveled?",
+    "options": {
+      "A": "300 + 56\\(\\frac{a}{2}\\)",
+      "B": "300 + \\(\\frac{225a}{2}\\)",
+      "C": "300 + \\(\\frac{225}{2a}\\)",
+      "D": "300a + \\(\\frac{225}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69358?exam_type=waec&type=obj&page=353",
+    "correct_answer": "B",
+    "explanation": "u = 20 ms-1, t = 15 s\\(S = ut + 1/2 at^2\\)S = 20(15) + \\(\\frac{1}{2}\u00d7 a \u00d7 15^2\\)\u2234 S = 300 + 225\\(\\frac{a}{2}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1762",
+    "text": "In a mass spectrometer, an ion of charge, q, and mass, m, moving in a path of radius, r, in a field of flux density, B, has a speed of",
+    "options": {
+      "A": "\\(\\frac{qBr}{m}\\)",
+      "B": "\\(\\frac{mr}{qB}\\)",
+      "C": "\\(\\frac{qm}{Br}\\)",
+      "D": "\\(\\frac{mq}{r}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69359?exam_type=waec&type=obj&page=353",
+    "correct_answer": "A",
+    "explanation": "F = qvB ( force on moving charge in a magnetic field) F = \\(\\frac{mv^2}{r}\\)\nequating F\nqvB =\u00a0 \\(\\frac{mv^2}{r}\\)\nqB =\u00a0\u00a0 \\(\\frac{mv}{r}\\)\nqBr = mv\nTherefore, v =\u00a0\u00a0 \\(\\frac{qBr}{m}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1763",
+    "text": "Increasing the frequency of a sound wave produces a sound with",
+    "options": {
+      "A": "higher pitch",
+      "B": "longer wavelength",
+      "C": "more overtones",
+      "D": "reduced loudness"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69361?exam_type=waec&type=obj&page=353",
+    "correct_answer": "A",
+    "explanation": "The pitch of a sound is determined by its frequency. Higher frequencies correspond to higher pitches. For example, a high-pitched sound like a whistle has a higher frequency than a low-pitched sound like a drum.",
+    "year": "2023"
+  },
+  {
+    "number": "1764",
+    "text": "A planet has mass, M, and radius R, If the universal gravitational constant is G, what is the expression for the escape velocity of an object on the planet?",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{GR}}{2}\\)",
+      "B": "\\(\\frac{\\sqrt{2GM}}{R}\\)",
+      "C": "\\(\\frac{\\sqrt{2G}}{R}\\)",
+      "D": "\\(\\frac{\\sqrt{GM}}{R}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69364?exam_type=waec&type=obj&page=353",
+    "correct_answer": "B",
+    "explanation": "The expression for the escape velocity \\(v_e\\) of an object from a planet of mass M and radius R using the universal gravitational constant G is:\n\\(v_e = \\frac{\\sqrt{2GM}}{R}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1765",
+    "text": "An atom in an excited state is one whose",
+    "options": {
+      "A": "electrons are in the conduction band.",
+      "B": "potential energy is minimum.",
+      "C": "potential energy is maximum.",
+      "D": "electrons have moved to a higher energy level."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69366?exam_type=waec&type=obj&page=353",
+    "correct_answer": "D",
+    "explanation": "An atom in an excited state is one whoseelectrons have moved to a higher energy level.In an atom, electrons are typically found in specific energy levels or orbitals. When an electron absorbs energy, it can move from a lower energy level to a higher energy level, which is referred to as an excited state. In this higher energy state, the electron is farther from the nucleus and has more potential energy. When the electron returns to its lower energy level, it emits the excess energy as electromagnetic radiation, often in the form of visible light. This is what gives rise to the characteristic spectral lines observed in spectroscopy.",
+    "year": "2023"
+  },
+  {
+    "number": "1766",
+    "text": "The most appropriate value of fuse for a kettle rated 220 V, 1.06 kW is",
+    "options": {
+      "A": "3A",
+      "B": "6A",
+      "C": "5A",
+      "D": "4A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69368?exam_type=waec&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "V = 220V, P = 1.60KW = 1060W, I = ?\nP = IV\nI = \\(\\frac{P}{V} = \\frac{1060}{220}\\)\n\u2248 5A.",
+    "year": "2023"
+  },
+  {
+    "number": "1767",
+    "text": "A 100 kg device is pulled up a plane inclined at 30\u00b0 to the horizontal with a force of 1000 N. If the coefficient of friction between the device and the surface is 0.25, determine the total force opposing the motion.\n[ g = 10 ms-2]",
+    "options": {
+      "A": "283.5N",
+      "B": "975.0N",
+      "C": "216.5N",
+      "D": "716.5N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69369?exam_type=waec&type=obj&page=354",
+    "correct_answer": "D",
+    "explanation": "The forces opposing the motion of the device are \"mgsin \u03b8\" and \"\u03bcN\" where N is the normal reactionFrom the diagram, on resolving to components, N = mgcos \u03b8Total opposing force = mgsin \u03b8 + \u03bcmgcos \u03b8 = mg(sin \u03b8 + \u03bccos \u03b8)= 100 \u00d7 10 \u00d7 (sin 30\u00b0\u00a0+ 0.25 \u00d7 cos 30\u00b0)= 1000 \u00d7 (0.5 + 0.2165)= 1000 \u00d7 0.7165= 716.5 N",
+    "year": "2023"
+  },
+  {
+    "number": "1768",
+    "text": "A solenoid is constructed by winding an insulated copper on a long test tube. A constant direct current is passed through the solenoid. Which of the following actions will not increase the strength of the magnetic field of the solenoid? Inserting a",
+    "options": {
+      "A": "steel rod in the test tube",
+      "B": "Nickel rod in the test tube",
+      "C": "Brass rod in the test tube",
+      "D": "Soft iron rod in the test tube"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69372?exam_type=waec&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "Inserting abrass rodin the test tube will not increase the strength of the magnetic field of the solenoid.The strength of the magnetic field inside a solenoid depends on factors such as the number of turns of wire, the current passing through it, and the core material within the solenoid. Materials with high permeability, like soft iron and steel, can enhance the strength of the magnetic field when inserted into the solenoid. Nickel, which also has some ferromagnetic properties, would have a similar effect.However, brass is not a ferromagnetic material; it does not enhance the magnetic field strength when inserted into the solenoid. In fact, it might even slightly reduce the magnetic field strength due to its non-magnetic properties.",
+    "year": "2023"
+  },
+  {
+    "number": "1769",
+    "text": "The following statements are advantages of a solid dielectric material between the plates of a capacitor except that",
+    "options": {
+      "A": "the maximum potential difference the capacitor can withstand is increased.",
+      "B": "it increases the electrical conduction of the capacitor.",
+      "C": "the capacitance of the capacitor of given dimensions is much greater than that of the plates in a vacuum.",
+      "D": "it keeps the plates at a fixed separation."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69373?exam_type=waec&type=obj&page=354",
+    "correct_answer": "B",
+    "explanation": "The statement that isnotan advantage of a solid dielectric material between the plates of a capacitor is:it increases the electrical conduction of the capacitor.In fact, one of the primary advantages of using a solid dielectric material between the plates of a capacitor is that itreduces electrical conductionbetween the plates. Dielectric materials are insulators, and they prevent the flow of electric current between the plates, thus increasing the capacitor's ability to store charge.",
+    "year": "2023"
+  },
+  {
+    "number": "1770",
+    "text": "Which of the following devices is used to compare the relative magnitudes of charges on two given bodies?",
+    "options": {
+      "A": "Ebonite rod",
+      "B": "Proof Plane",
+      "C": "Gold Leaf Electroscope",
+      "D": "Electrophorus"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69375?exam_type=waec&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "The device used to compare the relative magnitudes of charges on two given bodies is agold leaf electroscope.A gold leaf electroscope consists of two thin gold leaves that are attached to a metal rod inside a glass or plastic enclosure. When a charged object is brought near the metal rod, it induces a charge on the leaves. The leaves, being like charges, repel each other and spread apart. By observing the degree to which the leaves separate, you can compare the relative magnitudes of charges on different bodies. This makes a gold leaf electroscope a valuable tool for demonstrating the presence and relative strength of electric charges.",
+    "year": "2023"
+  },
+  {
+    "number": "1771",
+    "text": "The instrument used to measure relative humidity is a",
+    "options": {
+      "A": "Hygrometer",
+      "B": "Barometer",
+      "C": "Hydrometer",
+      "D": "Manometer"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69376?exam_type=waec&type=obj&page=355",
+    "correct_answer": "A",
+    "explanation": "The instrument used to measure relative humidity is a hygrometer. Relative humidity is the amount of moisture in the air compared to the maximum amount of moisture the air could hold at the same temperature. A hygrometer is a device used for measuring the moisture content in the atmosphere, soil, or confined spaces.",
+    "year": "2023"
+  },
+  {
+    "number": "1772",
+    "text": "A ball of mass 0.8 kg is dropped from a height, H. Just before hitting the ground, its velocity is 5.0 m/s. Determine H.\n[g = 10 ms-2]",
+    "options": {
+      "A": "1.25m",
+      "B": "4.00m",
+      "C": "6.25m",
+      "D": "1.60m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69378?exam_type=waec&type=obj&page=355",
+    "correct_answer": "A",
+    "explanation": "u = 0, g = 10 \\(ms^2\\), v = 5 m/s, h = ?From \\(v^2 = u^2 + 2gh\\)\u21d2 \\(5^2 = 0^2 + 2 \u00d7 10 \u00d7 h\\)25 = 0 + 20h25 = 20h\nTherefore, h = \\(\\frac{25}{20}\\) = 1.25m",
+    "year": "2023"
+  },
+  {
+    "number": "1773",
+    "text": "The following statements are observations made about a towing vehicle and a bus that is being towed\nI. The force exerted on the bus by the towing vehicle is of the same magnitude as the force that the bus exerts on the road.\nII. The force exerted on the bus by the towing vehicle is of the same magnitude as the force exerted on the towing vehicle by the bus.\nIII. The towing vehicle exerts a force on the bus greater than the force exerted by the bus on the towing vehicle.\nIV. The towing vehicle exerts a force on the bus that is the same as the force the road exerts on the towing vehicle.\nWhich of the following statements is/are correct?",
+    "options": {
+      "A": "II, III and IV",
+      "B": "II only",
+      "C": "I, II and III only",
+      "D": "I only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69379?exam_type=waec&type=obj&page=355",
+    "correct_answer": "B",
+    "explanation": "According to Newton's third law of motion, the force exerted on the bus by the towing vehicle is of the same magnitude as the force exerted on the towing vehicle by the bus (Statement II). The other statements are not necessarily true.",
+    "year": "2023"
+  },
+  {
+    "number": "1774",
+    "text": "Which of the following statements about a ferromagnetic material is correct? It",
+    "options": {
+      "A": "has a high susceptibility.",
+      "B": "attracts non-magnetic materials.",
+      "C": "has low relative permeability.",
+      "D": "repels other magnetic materials."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69381?exam_type=waec&type=obj&page=355",
+    "correct_answer": "A",
+    "explanation": "The correct statement about a ferromagnetic material is:It has a high susceptibility.Ferromagnetic materials are characterized by having a high susceptibility, which means they are strongly attracted to magnetic fields. When placed in a magnetic field, ferromagnetic materials become magnetized and can themselves exhibit strong magnetic properties, attracting other magnetic materials. Ferromagnetic materials, such as iron, nickel, and cobalt, are commonly used in the construction of permanent magnets and electromagnets due to their strong response to magnetic fields.",
+    "year": "2023"
+  },
+  {
+    "number": "1775",
+    "text": "The type of mirror used by dentists to inspect the teeth of patients is a",
+    "options": {
+      "A": "Plane mirror",
+      "B": "cylindrical mirror",
+      "C": "concave mirror",
+      "D": "convex mirror"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69382?exam_type=waec&type=obj&page=355",
+    "correct_answer": "C",
+    "explanation": "The type of mirror used by dentists to inspect the teeth of patients is aconcave mirror.Concave mirrors are curved inwards and produce a magnified image of the object placed within its focus and pole. This is why dentists use concave mirrors to examine teeth, as it allows them to see the teeth in more detail.",
+    "year": "2023"
+  },
+  {
+    "number": "1776",
+    "text": "In an RLC series circuit at resonance, the voltages across the resistor and the inductor are 30 V and 40 V respectively. Determine the voltage across the capacitor.",
+    "options": {
+      "A": "50V",
+      "B": "30V",
+      "C": "70V",
+      "D": "40V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69383?exam_type=waec&type=obj&page=356",
+    "correct_answer": "D",
+    "explanation": "At resonance, the inductive reactance is equal to the capacitive reactance. This means that the voltage across the inductor is also equal to the voltage across the capacitor.Therefore, the voltage across the capacitor is 40 V.",
+    "year": "2023"
+  },
+  {
+    "number": "1777",
+    "text": "The diagram above illustrates a velocity-time graph. Determine the distance between X and Y.",
+    "options": {
+      "A": "80.0m",
+      "B": "160.0m",
+      "C": "40.0m",
+      "D": "10.0m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69384?exam_type=waec&type=obj&page=356",
+    "correct_answer": "B",
+    "explanation": "Distance between X and Y is the area of rectangular portion of the velocity-time graph.XY = 40 \u00d7 (8 - 4) = 40 \u00d7 4\u2234 XY = 160 m",
+    "year": "2023"
+  },
+  {
+    "number": "1778",
+    "text": "A sound of frequency 512 Hz reaches a listener 100 m away. If the sound travels in air at s.t.p., what is its wavelength?\n[speed of sound in air = 331 m/s]",
+    "options": {
+      "A": "1.550m",
+      "B": "0,646m",
+      "C": "5.120m",
+      "D": "0.195m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69385?exam_type=waec&type=obj&page=356",
+    "correct_answer": "B",
+    "explanation": "f = 512Hz, V = 331m/s\u03bb\u00a0 = ?\nV = f\u03bb\n\u03bb= \\(\\frac{v}{f} = \\frac{331}{512}\\)\n\u03bb= 0.646m.",
+    "year": "2023"
+  },
+  {
+    "number": "1779",
+    "text": "A charge of 10 C is transferred across a potential difference of 220 V. Determine the work done.",
+    "options": {
+      "A": "22J",
+      "B": "2200J",
+      "C": "210J",
+      "D": "230J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69386?exam_type=waec&type=obj&page=356",
+    "correct_answer": "B",
+    "explanation": "The work done in moving a charge across a potential difference is given by the formula W = QV, where W is the work done, Q is the charge and V is the potential difference. Substituting the given values, we get W = 10 C * 220 V = 2200 J. Hence, the work done is 2200 J.",
+    "year": "2023"
+  },
+  {
+    "number": "1780",
+    "text": "The ratio of maximum range to maximum height of a projectile is 4. Determine the angle of projection.",
+    "options": {
+      "A": "\\(30^0\\)",
+      "B": "\\(60^0\\)",
+      "C": "\\(45^0\\)",
+      "D": "\\(0^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69391?exam_type=waec&type=obj&page=356",
+    "correct_answer": "C",
+    "explanation": "Maximum Range R = \\(\\frac{u^2sin2\\theta}{g}\\)\nmaximum height H = \\(\\frac{u^2sin^2\\theta}{2g}\\)\nBut R : H = 4\n\\(\\frac{u^2sin2\\theta}{g}\\) :\u00a0 \\(\\frac{u^2sin^2\\theta}{2g}\\) = 4\n\\(\\frac{u^2sin2\\theta}{g}\u00a0\\times\\frac{2g}{u^2sin^2\\theta}\\) = 4\n\\(\\frac{2sin2\\theta}{sin^2\\theta}\\) = 4\nsince 2sin\u0398 = 2sin\u0398cos\u0398\n\\(\\frac{2 \\times 2sin\\theta cos\\theta}{sin^2\\theta}\\) = 4\n\\(\\frac{4sin\\theta cos\\theta}{sin^2\\theta}\\) = 4\n\\(\\frac{sin\\theta cos\\theta}{sin^2\\theta}\\) = 1\n\\(\\frac{cos\\theta}{sin\\theta}\\) = 1\n\\(\\frac{sin\\theta}{cos\\theta}\\) = 1\n\\(tan \\theta\\) = 1\n\\(\\theta = tan^{-1}1\\) = 45\u00b0",
+    "year": "2023"
+  },
+  {
+    "number": "1781",
+    "text": "The range of wavelengths of the infrared waves in an electromagnetic spectrum is \\(10^{-3}\\) m\u00a0 to \\(10^{-6}\\)m. The wavelength of the radiation is",
+    "options": {
+      "A": "longer than  \\(10^{-6} m\\).",
+      "B": "shorter than  \\(10^{-6} m\\).",
+      "C": "shorter than \\(10^{3} m\\).",
+      "D": "longer than  \\(10^{3} m\\)."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69394?exam_type=waec&type=obj&page=357",
+    "correct_answer": "A",
+    "explanation": "The range of wavelengths for infrared waves is given as \\(10^{-3}\\) m\u00a0 to \\(10^{-6}\\)m. This means that the wavelength of the radiation is longer than \\(10^{-6} m\\) but shorter than \\{10^{-3} m\\). Therefore, the only correct option is that the wavelength is longer than \\(10^{-6} m\\).",
+    "year": "2023"
+  },
+  {
+    "number": "1782",
+    "text": "An electron moves from an energy level of -8.6 eV to another level of -3.5 eV. Determine the frequency of the absorbed radiation. [1 eV = 1.6 \u00d7 \\(10^{19}\\) J, h = 6.6 \u00d7 \\(10^{34}\\) Js]",
+    "options": {
+      "A": "\\( 2.93\u00a0\\times 10^{15}\\)Hz",
+      "B": "\\( 3.59\u00a0\\times 10^{16}\\)Hz",
+      "C": "\\( 5.39\u00a0\\times 10^{15}\\)Hz",
+      "D": "\\( 1.24\u00a0\\times 10^{15}\\)Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69398?exam_type=waec&type=obj&page=357",
+    "correct_answer": "D",
+    "explanation": "h = \\( 6.6 \\times 10^{-34}\\)Js, 1eV =\u00a0 \\( 1.6 \\times 10^{-19}\\)J, \\(E_1\\)\u00a0= - 8.6eV, \\(E_2\\)\u00a0= - 3.5eV, f = ?\n\u0394E = hf\nf = \\(\\frac{\u0394E}{h}\\)\n\u0394E =\u00a0 \\(E_2\\) -\u00a0\u00a0\\(E_1\\) = - 3.5eV - (- 8.6eV) = 5.1eV\nbut 5.1eV = 5.1 X\u00a0\\( 1.6 \\times 10^{-19}\\) =\u00a0\\( 8.16\u00a0\\times 10^{-19}\\)J\nf =\u00a0 \\(\\frac{8.16\u00a0\\times 10^{-19}}{\u00a06.6 \\times 10^{-34}}\\)\nTherefore, f =\u00a0 \\( 1.24\u00a0\\times 10^{15}\\)Hz",
+    "year": "2023"
+  },
+  {
+    "number": "1783",
+    "text": "A liquid is left in an open dish. After several days, there is less liquid in the dish. Which of the following statements explains this observation? The",
+    "options": {
+      "A": "most energetic molecules leave the surface and escape into the air.",
+      "B": "least energetic molecules leave the surface and escape into air.",
+      "C": "most energetic molecules leave the surface and return.",
+      "D": "least energetic molecules leave the surface and return."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69401?exam_type=waec&type=obj&page=357",
+    "correct_answer": "A",
+    "explanation": "The statement that explains the observation is:The most energetic molecules leave the surface and escape into the air.This phenomenon is known as evaporation. In a liquid, molecules have varying energies, and the molecules with higher kinetic energies (the most energetic ones) are more likely to overcome the attractive forces within the liquid and transition into the gaseous phase. These molecules escape from the surface of the liquid into the air, gradually reducing the amount of liquid in the open dish. Evaporation is a process that occurs continuously as long as there is a liquid exposed to the air.",
+    "year": "2023"
+  },
+  {
+    "number": "1784",
+    "text": "The specific latent heat of vapourization of lead is 8.7 \u00d7 \\(10^5 Jkg_1\\). This means that 8.7 \u00d7 \\(10^5\\) J of thermal energy is required to change",
+    "options": {
+      "A": "a given mass of molten lead to vapour at constant temperature and pressure.",
+      "B": "1 kg of molten lead to vapour at constant temperature and pressure.",
+      "C": "1 kg of solid lead to vapour at constant temperature and pressure.",
+      "D": "1 kg of molten lead to vapour for every degree rise in temperature."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69402?exam_type=waec&type=obj&page=357",
+    "correct_answer": "B",
+    "explanation": "The specific latent heat of vaporization of lead is the amount of thermal energy required to change 1 kg of molten lead to vapor at constant temperature and pressure.",
+    "year": "2023"
+  },
+  {
+    "number": "1785",
+    "text": "A car, P, with a velocity of 30 m/s\u00a0is traveling in the same direction as a car, Q, with a velocity of 20 m/s. The velocity of P relative to Q is",
+    "options": {
+      "A": "\\(50ms^1\\)",
+      "B": "\\(45ms^1\\)",
+      "C": "\\(20ms^1\\)",
+      "D": "\\(10ms^1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69403?exam_type=waec&type=obj&page=357",
+    "correct_answer": "D",
+    "explanation": "\\(v_P\u00a0= 30 ms^{-1}\\), \\(v_Q = 20 ms^{-1}\\)\\(v_P = v_Q + v_{P/Q}\\)\\(v_{P/Q} = v_P - v_Q\\) = 30 - 20\u2234 \\(v_{P/Q} = 10 ms^{-1}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1786",
+    "text": "When a light-weight body and a massive body are acted upon by the same force for the same period of time, the",
+    "options": {
+      "A": "massive body has a higher momentum.",
+      "B": "massive body builds up a higher velocity.",
+      "C": "lighter body has a higher momentum.",
+      "D": "momenta of both bodies remain the same."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69404?exam_type=waec&type=obj&page=358",
+    "correct_answer": "D",
+    "explanation": "When a lightweight body and a massive body are acted upon by the same force for the same time, themomenta of both bodies remain the same.Given that the momenta of both the heavy and light bodies are the same, it follows that the light body possesses a higher velocity compared to the heavy body.",
+    "year": "2023"
+  },
+  {
+    "number": "1787",
+    "text": "A cell of emf 2 V has an internal resistance of 0.5 \u03a9. A current of 0.4 A passes through an external resistor, P. Determine the resistance of P.",
+    "options": {
+      "A": "4.5\u03a9",
+      "B": "5\u03a9",
+      "C": "1\u03a9",
+      "D": "4\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69406?exam_type=waec&type=obj&page=358",
+    "correct_answer": "A",
+    "explanation": "E = 2V, r = 0.5\u03a9, I = 0.4A, P = ?\nE = I( R + r )\nR = \\(\\frac{ E}{I} - r \\)\nR =\u00a0 \\(\\frac{ 2}{0.4} - 0.5\\)\nR = 5 - 0.5 = 4.5\u03a9",
+    "year": "2023"
+  },
+  {
+    "number": "1788",
+    "text": "The diagram above illustrates a hot metal suspended at the centre of a closed uniform box. Thermometers E, F, G and H are placed in contact with four sides of the box. Which of the thermometers would register the highest temperature?",
+    "options": {
+      "A": "G",
+      "B": "F",
+      "C": "H",
+      "D": "E"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69407?exam_type=waec&type=obj&page=358",
+    "correct_answer": "D",
+    "explanation": "Thermometer E would register the highest temperature since the hot metal is suspended from its side.",
+    "year": "2023"
+  },
+  {
+    "number": "1789",
+    "text": "A direct current cannot pass through a parallel plate capacitor because",
+    "options": {
+      "A": "the plates are non-conducting.",
+      "B": "the dielectric between the plates is non-conducting.",
+      "C": "there is a leakage of charge from the plates.",
+      "D": "the plates have equal but opposite charges."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69409?exam_type=waec&type=obj&page=358",
+    "correct_answer": "B",
+    "explanation": "A direct current (DC) cannot pass through a parallel plate capacitor becausethe dielectric between the plates is non-conducting.In a parallel plate capacitor, two conductive plates are separated by a dielectric material (usually an insulator). When a voltage (potential difference) is applied across the plates, it creates an electric field between them, which stores electrical energy in the form of electric potential. The dielectric material between the plates is a non-conducting material, which means it does not allow the flow of electric current. Therefore, in a DC circuit, where current is the flow of charge over time, current cannot flow through the dielectric. Instead, the dielectric serves to store energy in the electric field between the plates without allowing the passage of charge.",
+    "year": "2023"
+  },
+  {
+    "number": "1790",
+    "text": "The sagging of overhead electrical wires is caused by",
+    "options": {
+      "A": "radiation of heat.",
+      "B": "rough handling.",
+      "C": "gravitational attraction",
+      "D": "Linear expansion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69410?exam_type=waec&type=obj&page=358",
+    "correct_answer": "D",
+    "explanation": "The sagging of overhead electrical wires is caused bylinear expansion.Linear expansion is the tendency of materials to expand in length when they are heated. When overhead electrical wires are heated by the sun, they expand and sag.",
+    "year": "2023"
+  },
+  {
+    "number": "1791",
+    "text": "The property of a body that determines the direction of heat flow when the body is in contact with another body is the",
+    "options": {
+      "A": "Heat capacity",
+      "B": "mass",
+      "C": "Power",
+      "D": "Temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69412?exam_type=waec&type=obj&page=359",
+    "correct_answer": "D",
+    "explanation": "The property of a body that determines the direction of heat flow when the body is in contact with another body is thetemperature.Heat naturally flows from a body at a higher temperature to a body at a lower temperature. Temperature is a measure of the average kinetic energy of the particles in a substance. When two objects at different temperatures come into contact, heat energy tends to transfer from the warmer object to the cooler one until they reach thermal equilibrium (they are at the same temperature). This is known as the second law of thermodynamics, which describes the direction of heat flow.",
+    "year": "2023"
+  },
+  {
+    "number": "1792",
+    "text": "The colours of the visible light region of the electromagnetic spectrum that have the shortest and longest wavelengths respectively are",
+    "options": {
+      "A": "red and blue.",
+      "B": "indigo and violet",
+      "C": "violet and red.",
+      "D": "yellow and blue."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69413?exam_type=waec&type=obj&page=359",
+    "correct_answer": "C",
+    "explanation": "The colors of the visible light spectrum with the shortest and longest wavelengths respectively are:Violet and red.Violet light has the shortest wavelength among visible colors, while red light has the longest wavelength. The visible light spectrum, in order of increasing wavelength, goes from violet to blue, green, yellow, orange, and finally red.",
+    "year": "2023"
+  },
+  {
+    "number": "1793",
+    "text": "A ball, P, is released from the roof of a building at the same time as another ball, Q, is thrown vertically upward from the base of the building. Which of the following statements is correct?",
+    "options": {
+      "A": "The acceleration of P is greater than that of Q and both are in the same direction.",
+      "B": "The acceleration of P is less than that of Q and both are in the same direction.",
+      "C": "The acceleration of P is equal to that of Q and both are in the same direction.",
+      "D": "The acceleration of P is equal to that of Q and are in opposite directions."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69414?exam_type=waec&type=obj&page=359",
+    "correct_answer": "C",
+    "explanation": "The correct statement is:The acceleration of P is equal to that of Q and both are in the same direction.When ball P is released from the roof of the building, it falls freely under the influence of gravity. Similarly, when ball Q is thrown vertically upward, it initially moves upward but is also under the influence of gravity, which acts to slow it down and eventually makes it fall back down.Both balls, P and Q, are subjected to the same acceleration due to gravity (assuming no other forces are acting on them), which is approximately 9.8 m/s\u00b2 near the surface of the Earth, and this acceleration acts in the downward direction. Therefore, the acceleration of P is equal to the acceleration of Q, and both are in the same direction, which is downward.",
+    "year": "2023"
+  },
+  {
+    "number": "1794",
+    "text": "A lead bullet of mass 0.05 kg is fired with a speed of 200 m/s\u00a0into a lead block of mass 0.95 kg at rest. Given that the lead block moves after the impact, determine its kinetic energy.",
+    "options": {
+      "A": "150J",
+      "B": "200J",
+      "C": "50J",
+      "D": "100J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69419?exam_type=waec&type=obj&page=359",
+    "correct_answer": "C",
+    "explanation": "\\(M_{bullet}\\) = 0.05kg, \\(V_{bullet}\\) = 200m/s, \\(M_{block}\\) = 0.95kg and \\(V_{block}\\) = 0\nfor an inelastic collision\n\\(M_{bullet} \\times\u00a0V_{bullet}\u00a0+\u00a0M_{block}\u00a0\\times V_{block}\u00a0= \u00a0(M_{bullet}\u00a0+\u00a0\u00a0M_{block})\\)v\n0.05 x 200 + 0.95 x 0 = ( 0.05 + 0.95)v\n10 + 0 = v\nv = 10m/s\nK.E of the block = \\(\\frac{1}{2}mv^2\\)\nK . E =\u00a0 \\(\\frac{1}{2} \\times(0.05 + 0.95) \\times10^2\\) ( bullet now part of the block)\nK . E =\u00a0 \\(\\frac{1}{2} \\times1 \\times100\\)\n= 50J",
+    "year": "2023"
+  },
+  {
+    "number": "1795",
+    "text": "In the Rutherford scattering experiment, a beam of alpha particles was fired at a thin gold film and few of the particles were deflected considerably. This shows that the nucleus of an atom",
+    "options": {
+      "A": "is positively charged and is concentrated in a tiny volume",
+      "B": "contains protons and electrons distributed in a tiny volume.",
+      "C": "is concentrated in a tiny volume and contains alpha particles.",
+      "D": "is distributed in a tiny volume and emits alpha particles."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69420?exam_type=waec&type=obj&page=359",
+    "correct_answer": "A",
+    "explanation": "The Rutherford scattering experiment showed that the nucleus of an atom:is concentrated in a tiny volume and is positively charged.In the experiment, when alpha particles were fired at a thin gold foil, most of the alpha particles passed straight through, but a few were deflected considerably. This result led Rutherford to conclude that the positive charge of the atom is concentrated in a small, dense nucleus at the center of the atom. The fact that some alpha particles were deflected strongly indicated that there was a positively charged nucleus within the atom. This experiment was crucial in developing our understanding of atomic structure and led to the model of the atom with a central nucleus containing protons and neutrons, surrounded by electrons.",
+    "year": "2023"
+  },
+  {
+    "number": "1796",
+    "text": "What is the name given to the force of attraction between the nucleons in the nucleus of an atom?",
+    "options": {
+      "A": "Gravitational force.",
+      "B": "Electrostatic force.",
+      "C": "Magnetic force.",
+      "D": "Nuclear force."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69421?exam_type=waec&type=obj&page=360",
+    "correct_answer": "D",
+    "explanation": "The force of attraction between the nucleons (protons and neutrons) in the nucleus of an atom is called thenuclear forceorstrong nuclear force. This force is responsible for holding the protons and neutrons together in the nucleus despite the electrostatic repulsion between positively charged protons. It is one of the fundamental forces in nature and plays a crucial role in the stability of atomic nuclei.",
+    "year": "2023"
+  },
+  {
+    "number": "1797",
+    "text": "When an electron jumps directly from an orbit of n = 4 to n = 2,",
+    "options": {
+      "A": "a photon is absorbed",
+      "B": "a photon is emitted",
+      "C": "two photons are emitted.",
+      "D": "two photons are absorbed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69422?exam_type=waec&type=obj&page=360",
+    "correct_answer": "B",
+    "explanation": "When an electron jumps directly from an orbit of n = 4 to n = 2,a photon is emitted.This is a typical scenario in atomic physics where an electron transitions from a higher energy level (orbit) to a lower energy level. During this transition, the electron loses energy, and this energy is emitted in the form of a photon. The energy of the emitted photon corresponds to the energy difference between the two energy levels, as described by the quantization of energy levels in the Bohr model of the atom.",
+    "year": "2023"
+  },
+  {
+    "number": "1798",
+    "text": "Two objects, A and B, accelerate from rest at uniform rates. B accelerates twice as much as Compared to A, B travels",
+    "options": {
+      "A": "at the same distance as A",
+      "B": "six times as far.",
+      "C": "two times as far",
+      "D": "three times as far"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69423?exam_type=waec&type=obj&page=360",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2023"
+  },
+  {
+    "number": "1799",
+    "text": "Two objects, A and B, accelerate from rest at uniform rates. B accelerates twice as much as Compared to A, B travels",
+    "options": {
+      "A": "at the same distance as",
+      "B": "six times as far.",
+      "C": "two times as far.",
+      "D": "three times as far."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69424?exam_type=waec&type=obj&page=360",
+    "correct_answer": "C",
+    "explanation": "Acceleration of A = a\nAcceleration of B = 2a (given)\nthen: \\( S_A = 0 \\times t + \\frac{1}{2}at^2 = \\frac{1}{2}at^2\\)\n\\( S_B\u00a0= 0 \\times t + \\frac{1}{2} \\times2at^2 = at^2\\)\n\\(t^2 = t^2\u00a0\u21d2 \\frac{2S_A}{a} = \\frac{S_B}{a}\\)\n\u21d2 \\(2S_A = S_B\\) ( as a cancels out)",
+    "year": "2023"
+  },
+  {
+    "number": "1800",
+    "text": "Which part of the human eye performs the same function as the diaphragm in a lens camera?",
+    "options": {
+      "A": "Choroid",
+      "B": "Retina",
+      "C": "Iris",
+      "D": "Cornea"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69426?exam_type=waec&type=obj&page=360",
+    "correct_answer": "C",
+    "explanation": "The part of the human eye that performs a function similar to the diaphragm in a camera lens is the Iris.Just like the diaphragm in a camera lens controls the amount of light entering the camera, the iris in the eye controls the amount of light that enters the eye by adjusting the size of the pupil. It can contract or expand to regulate the size of the pupil in response to varying light conditions, thus controlling the amount of light that reaches the retina at the back of the eye.",
+    "year": "2023"
+  },
+  {
+    "number": "1801",
+    "text": "Which of the following equations is not a correct mirror formula? [The symbols have their usual meanings]",
+    "options": {
+      "A": "N = \\(\\frac{360}{\\theta}\\) - 1",
+      "B": "\\(\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}\\)",
+      "C": "m = \\(\\frac{v}{u}\\)",
+      "D": "f = \\(\\frac{1}{D}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69429?exam_type=waec&type=obj&page=361",
+    "correct_answer": "D",
+    "explanation": "The equation f = \\(\\frac{1}{D}\\) is not a correct mirror formula",
+    "year": "2023"
+  },
+  {
+    "number": "1802",
+    "text": "Which of the following devices is associated with alternating currents only?",
+    "options": {
+      "A": "Step-up transformer",
+      "B": "Induction coil",
+      "C": "Moving coil galvanometer",
+      "D": "Lead-acid accumulator"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69430?exam_type=waec&type=obj&page=361",
+    "correct_answer": "A",
+    "explanation": "The device associated with alternating currents (AC) only from the provided options is the step-up transformer. Step-up transformers are specifically designed to work with alternating currents and are used to increase voltage levels in AC systems.",
+    "year": "2023"
+  },
+  {
+    "number": "1803",
+    "text": "The conclusive test for magnetism in a steel bar suspended horizontally at its midpoint is when the bar",
+    "options": {
+      "A": "always settles in the magnetic N-S direction.",
+      "B": "is repelled by a magnet.",
+      "C": "always settles in the magnetic E-W direction",
+      "D": "is attracted by a magnet."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69431?exam_type=waec&type=obj&page=361",
+    "correct_answer": "A",
+    "explanation": "The conclusive test for magnetism in a steel bar suspended horizontally at its midpoint is when the baralways settles in the magnetic N-S (North-South) direction.",
+    "year": "2023"
+  },
+  {
+    "number": "1804",
+    "text": "The purpose of commutators in a direct current motor is to",
+    "options": {
+      "A": "reverse the direction of the current after every half rotation",
+      "B": "increase the number of rotations per second",
+      "C": "enable a uniform couple to act on the coil.",
+      "D": "increase the efficiency of the motor."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/69433?exam_type=waec&type=obj&page=361",
+    "correct_answer": "A",
+    "explanation": "The purpose of commutators in a direct current (DC) motor is toreverse the direction of the current after every half rotation.",
+    "year": "2023"
+  }
+]

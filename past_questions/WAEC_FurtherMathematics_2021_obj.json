@@ -1,0 +1,533 @@
+[
+  {
+    "number": "599",
+    "text": "Simplify ( \\(\\frac{1}{2 -\u00a0\u221a3}\\) +\u00a0\\(\\frac{2}{2 +\u00a0\u221a3}\\) )\\(^{-1}\\)",
+    "options": {
+      "A": "\\(\\frac{-1}{33}\\)(6 +\u00a0\u221a3)",
+      "B": "\\(\\frac{-1}{33}\\)(6\u00a0-\u00a0\u221a3)",
+      "C": "\\(\\frac{1}{33}\\)(6\u00a0+\u00a0\u221a3)",
+      "D": "\\(\\frac{1}{33}\\)(6\u00a0-\u00a0\u221a3)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61583?exam_type=waec&type=obj&page=120",
+    "correct_answer": "C",
+    "explanation": "( \\(\\frac{1}{2 -\u00a0\u221a3}\\) +\u00a0\\(\\frac{2}{2 +\u00a0\u221a3}\\) )\\(^{-1}\\)\n= \\(\\frac{2 +\u00a0\u221a3 + 2(2 -\u00a0\u221a3)}{(2 -\u00a0\u221a3)(2 +\u00a0\u221a3)}\\)\n=\u00a02 +\u00a0\u221a3 + 4 -\u00a02\u221a3\n= (6\u00a0-\u00a0\u221a3)\\(^{-1}\\)\n=\u00a0\\(\\frac{1}{6\u00a0-\u00a0\u221a3}\\)\n=\u00a0\\(\\frac{6 +\u00a0\u221a3}{6\u00a0-\u00a0\u221a3\u00a0 *\u00a0 6 +\u00a0\u221a3}\\)\n=\u00a0\\(\\frac{6 + \u221a3}{33}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "600",
+    "text": "For what range of values of x is x\\(^2\\) - 2x - 3\u00a0\u2264 0",
+    "options": {
+      "A": "{x: -1\u00a0\u2264 x\u00a0\u2264 3}",
+      "B": "{ x: -3\u00a0\u2264 x\u00a0\u2264 1}",
+      "C": "{ x: -3\u00a0\u2264 x\u00a0\u2264 -1}",
+      "D": "{ x: 1\u00a0\u2264 x\u00a0\u2264 3}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61584?exam_type=waec&type=obj&page=120",
+    "correct_answer": "A",
+    "explanation": "Let\u00a0 x\\(^2\\) - 2x - 3 =\u00a00;\n(x+1)(x-3) = 0\nThe zeros of the function are x = -1 and 3\nThe solution set is { x: -1\u00a0\u2264 x\u00a0\u2264 3}",
+    "year": "2021"
+  },
+  {
+    "number": "601",
+    "text": "Given that M =\u00a0\\(\\begin{pmatrix} 3 & 2\u00a0\\\\ -1 & 4\u00a0\\end{pmatrix}\\) and N =\u00a0\\(\\begin{pmatrix} 5\u00a0& 6\u00a0\\\\ -2\u00a0& -3\u00a0\\end{pmatrix}\\), calculate (3M - 2N)",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 1 & 6 \\\\ 1 & 18 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -1 & -6 \\\\ 1 & 18 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 1 & 6 \\\\ -1 & -18 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -1 & -6 \\\\ -1 & -18 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61585?exam_type=waec&type=obj&page=121",
+    "correct_answer": "B",
+    "explanation": "3M = 3 \\(\\begin{pmatrix} 3 & 2\u00a0\\\\ -1 & 4\u00a0\\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 9\u00a0& 6\u00a0\\\\ -3\u00a0& 12\u00a0\\end{pmatrix}\\)\n2N = 2 \\(\\begin{pmatrix} 5\u00a0& 6\u00a0\\\\ -2\u00a0& -3\u00a0\\end{pmatrix}\\)\n=\u00a0\\(\\begin{pmatrix} 10\u00a0& 12\u00a0\\\\ -4\u00a0& -6\u00a0\\end{pmatrix}\\)\n(3M - 2N) =\u00a0\\(\\begin{pmatrix} 9\u00a0& 6\u00a0\\\\ -3\u00a0& 12\u00a0\\end{pmatrix}\\) -\u00a0\\(\\begin{pmatrix} 10\u00a0& 12\u00a0\\\\ -4\u00a0& -6\u00a0\\end{pmatrix}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "602",
+    "text": "Simplify \\(\\frac{1}{3}\\) log8 +\u00a0\\(\\frac{1}{3}\\) log 64 - 2 log6",
+    "options": {
+      "A": "log \\(\\frac{2}{7}\\)",
+      "B": "log 2",
+      "C": "log \\(\\frac{2}{9}\\)",
+      "D": "log 9"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61586?exam_type=waec&type=obj&page=121",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{1}{3}\\) log8 +\u00a0\\(\\frac{1}{3}\\) log 64 - 2 log6\n= log 2 + log 4 - log 36\n= log\u00a0\\(\\frac{8}{36}\\)\n= log\u00a0\\(\\frac{2}{9}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "603",
+    "text": "Solve (\\(\\frac{1}{9}\\))\\(^{x + 2}\\) = 243\\(^{x -\u00a02}\\)",
+    "options": {
+      "A": "\\(\\frac{7}{5}\\)",
+      "B": "\\(\\frac{6}{7}\\)",
+      "C": "\\(\\frac{-7}{6}\\)",
+      "D": "\\(\\frac{-6}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61587?exam_type=waec&type=obj&page=121",
+    "correct_answer": "B",
+    "explanation": "(\\(\\frac{1}{9}\\))\\(^{x + 2}\\) = 243\\(^{x -\u00a02}\\)\n3\\(^{-2(x + 2)}\\) =\u00a0\u00a03\\(^{5(x -\u00a02)}\\);\n-2(x+2) = 5(x - 2)\n-2x -4 = 5x - 10\n-7x = -6\nx =\u00a0\u00a0\\(\\frac{6}{7}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "604",
+    "text": "g(x) = 2x + 3 and f(x) = 3x\\(^2\\) - 2x + 4\nfind f {g (-3)}.",
+    "options": {
+      "A": "37",
+      "B": "1",
+      "C": "-3",
+      "D": "-179"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61588?exam_type=waec&type=obj&page=121",
+    "correct_answer": "A",
+    "explanation": "g(-3) = 2(-3) + 3 = -6 + 3 = -3\nF(-3) = 3 (-3)\\(^2\\) - 2(-3) + 4\n= 27 + 6 + 4 = 37",
+    "year": "2021"
+  },
+  {
+    "number": "605",
+    "text": "Using binomial expansion of ( 1 + x)\\(^6\\) = 1 + 6x + 15x\\(^2\\) + 20x\\(^3\\) + 6x\\(^5\\) + x)\\(^6\\), find, correct to three decimal places, the value of (1.998))\\(^6\\)",
+    "options": {
+      "A": "63.616",
+      "B": "63.167",
+      "C": "62.628",
+      "D": "62.629"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61589?exam_type=waec&type=obj&page=121",
+    "correct_answer": "B",
+    "explanation": "Put 1 + (0.998) = 1 + x;\nx =\u00a0(0.998)\nHence; 1 + 6(0.998) + 15(0.998)(0.998)\\(^2\\) + 20(0.998)\\(^3\\) + 15(0.998)\\(^4\\) + 6(0.998)\\(^5\\) +\u00a0(0.998)\\(^6\\)\n= 1 + 5.988 + 14.790 + 19.880 + 14.880 + 5.940 + 0.990\n\u2248 63.167",
+    "year": "2021"
+  },
+  {
+    "number": "606",
+    "text": "In how many ways can 8 persons be seated on a bench if only three seats are available?",
+    "options": {
+      "A": "100",
+      "B": "125",
+      "C": "336",
+      "D": "427"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61590?exam_type=waec&type=obj&page=122",
+    "correct_answer": "C",
+    "explanation": "\\(^3{P}_3\\) = \\(\\frac{8!}{8-3}!\\)\n= \\(\\frac{(8 * 7 * 6 * 5)!}{5!}\\)\n= 336",
+    "year": "2021"
+  },
+  {
+    "number": "607",
+    "text": "If\u00a0\u03b1 and\u00a0\u03b2 are the roots of 3x\\(^2\\) - 7x + 6 = 0, find \\(\\frac{1}{\u03b1}\\) +\u00a0\\(\\frac{1}{\u03b2}\\)",
+    "options": {
+      "A": "\\(\\frac{7}{6}\\)",
+      "B": "\\(\\frac{7}{3}\\)",
+      "C": "\\(\\frac{14}{5}\\)",
+      "D": "\\(\\frac{14}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61591?exam_type=waec&type=obj&page=122",
+    "correct_answer": "A",
+    "explanation": "3x\\(^2\\) - 7x + 6 = 0\n\u03b1 +\u00a0\u03b2 =\u00a0\\(\\frac{7}{3}\\);\n\u03b1\u03b2 = 2;\n\\(\\frac{1}{\u03b1}\\) +\u00a0\\(\\frac{1}{\u03b2}\\) =\u00a0\\(\\frac{\u03b1\u00a0+\u03b2}{\u03b1\u03b2}\\)\n\\(\\frac{7}{3}\\) \u00f7\u00a02\n=\u00a0\\(\\frac{7}{6}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "608",
+    "text": "If f(x) = 4x\\(^3\\) + px\\(^2\\) + 7x - 23 is divided by (2x -5), the remainder is 7. find the value of p",
+    "options": {
+      "A": "-7.0",
+      "B": "-8.0",
+      "C": "-9.6",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61592?exam_type=waec&type=obj&page=122",
+    "correct_answer": "B",
+    "explanation": "f(x) = 4x\\(^3\\) + px\\(^2\\) + 7x - 23\nIf f(x)\u00a0is divided by (2x -5), the remainder is f(\\(\\frac{5}{2}\\))\nf\\(\\frac{5}{2}\\) = 4\\(\\frac{5}{2}\\)\\(^3\\) + p\\(\\frac{5}{2}\\)\\(^2\\) + 7\\(\\frac{5}{2}\\) - 23\nHence;\n=\u00a0\\(\\frac{125}{8}\\) +\u00a0\\(\\frac{25}{4}\\) p +\u00a0\\(\\frac{35}{2}\\) - 23\n28 = 250 + 250p + 70 - 92\n25p = -200;\u00a0 p = -8.0",
+    "year": "2021"
+  },
+  {
+    "number": "609",
+    "text": "For what value of k is 4x\\(^2\\) - 12x + k, a perfect square?",
+    "options": {
+      "A": "-9",
+      "B": "\\(\\frac{-9}{4}\\)",
+      "C": "\\(\\frac{9}{4}\\)",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61593?exam_type=waec&type=obj&page=122",
+    "correct_answer": "D",
+    "explanation": "4x\\(^2\\) - 12x + k;\na = 4, b = -12, c = k.\nFor perfect square\u00a0 b\\(^2\\) = 4ac\n(-12)\\(^2\\) = 4 * 4 * k;\n144 = 16k\nk = 144\\16\nk = 9",
+    "year": "2021"
+  },
+  {
+    "number": "610",
+    "text": "A binary operation * is defined on the set of real numbers, R, by\nP * q = \\(\\frac{q^2 - p^2}{2pq}\\). Find 3 * 2",
+    "options": {
+      "A": "\\(\\frac{13}{12}\\)",
+      "B": "\\(\\frac{5}{12}\\)",
+      "C": "-\\(\\frac{5}{12}\\)",
+      "D": "\\(\\frac{-1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61595?exam_type=waec&type=obj&page=122",
+    "correct_answer": null,
+    "explanation": "P * q = \\(\\frac{q^2 - p^2}{2pq}\\).\n3 * 2 (where p = 3, q = 2)\ni.e 3 *2 =\u00a0 \\(\\frac{3^2 - 2^2}{2 *3 * 2}\\)\n=\u00a0 \\(\\frac{4\u00a0- 9}{12}\\)\n=\u00a0\\(\\frac{-5}{12}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "611",
+    "text": "Find the inverse of\u00a0\u00a0\\(\\begin{pmatrix} 4\u00a0& 2\u00a0\\\\ -3\u00a0& -2\u00a0\\end{pmatrix}\\)",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 1\u00a0& 1\u00a0\\\\ -1.5\u00a0& -2\u00a0\\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 1\u00a0& -1\u00a0\\\\ 1.5\u00a0& -2\u00a0\\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -2\u00a0& 1\u00a0\\\\ 1.5\u00a0& 1\u00a0\\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -2\u00a0& -1\u00a0\\\\ 1.5\u00a0& 1\u00a0\\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61649?exam_type=waec&type=obj&page=123",
+    "correct_answer": "A",
+    "explanation": "Let A =\u00a0\u00a0\\(\\begin{pmatrix} 4\u00a0& 2\u00a0\\\\ -3\u00a0& -2\u00a0\\end{pmatrix}\\);\n|A| = -8 - (-6) = -8 + 6\n|A| = -2\nA\\(^{-1}\\) = \\(\\frac{1}{-2}\\) =\u00a0\u00a0\\(\\begin{pmatrix} -2\u00a0& 2-\u00a0\\\\ 3\u00a0& 4\u00a0\\end{pmatrix}\\)\n=\u00a0\\(\\begin{pmatrix} 1 & 1 \\\\ -1.5 & -2 \\end{pmatrix}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "612",
+    "text": "Given that P = { x: 0\u00a0\u2264 x\u00a0\u2264 36, x is a factor of 36 divisible by 3} and Q\u00a0= { x: 0\u00a0\u2264 x\u00a0\u2264 36, x is an even number and a perfect square}, find P n Q.",
+    "options": {
+      "A": "{1,4,9,36}",
+      "B": "{3,9.36}",
+      "C": "{9,36}",
+      "D": "{36}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61650?exam_type=waec&type=obj&page=123",
+    "correct_answer": "D",
+    "explanation": "P = {3,6,9,12,18,36};\u00a0 \u00a0 \u00a0 Q = { 4,36}\nP n Q = {36}",
+    "year": "2021"
+  },
+  {
+    "number": "613",
+    "text": "A body of\u00a0mass 15kg is placed\u00a0on a smooth\u00a0plane\u00a0which is\u00a0inclined\u00a0at\u00a060\u00b0 to the horizontal. If the box is at rest,\ncalculate the normal reaction to the plane. [ Take g = 10m/s\\(^2\\) ]",
+    "options": {
+      "A": "129.9N",
+      "B": "75N",
+      "C": "60.0N",
+      "D": "7.5N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61651?exam_type=waec&type=obj&page=123",
+    "correct_answer": "B",
+    "explanation": "Let\u00a0 the normal reaction be R\nR = Wcos\u00f8 = mgcos\u00f8\n= 15 * 10cos 60\u00b0\n= 150 * 0.5000\n= 75N",
+    "year": "2021"
+  },
+  {
+    "number": "614",
+    "text": "A fair die is tossed 60 times and the results are recorded in the table\n\n\n\nNumber of die\n1\n2\n3\n4\n5\n6\n\n\nFrequency\n15\n10\n14\n2\n8\n11\n\n\n\nFind the probability of obtaining a prime number.",
+    "options": {
+      "A": "\\(\\frac{7}{30}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{7}{15}\\)",
+      "D": "\\(\\frac{8}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61652?exam_type=waec&type=obj&page=123",
+    "correct_answer": "D",
+    "explanation": "Prime number in the experiment are 2,3 and 5 with frequencies 10,14 and 8\nP(obtaining a prime number) =\u00a0\\(\\frac{10+14+8}{60}\\)\n=\u00a0\\(\\frac{32}{60}\\) or\u00a0\\(\\frac{8}{15}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "615",
+    "text": "If 2y\\(^2\\) + 7 = 3y - xy, find\u00a0\\(\\frac{dy}{dx}\\)",
+    "options": {
+      "A": "\\(\\frac{-y}{4x+y-3}\\)",
+      "B": "\\(\\frac{y}{4x+y-3}\\)",
+      "C": "\\(\\frac{y}{4x+x-3}\\)",
+      "D": "\\(\\frac{ -y}{4y+ x -3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61655?exam_type=waec&type=obj&page=123",
+    "correct_answer": "D",
+    "explanation": "2y\\(^2\\) + 7 = 3y - xy, find\u00a0\\(\\frac{dy}{dx}\\)\n4y\\(\\frac{dy}{dx}\\) + 0 = 3\u00a0\\(\\frac{dy}{dx}\\) - (x\\(\\frac{dy}{dx}\\) + y)\n{4y+ x - 3}\\(\\frac{dy}{dx}\\) = - y\n= \\(\\frac{-y}{4y + x - 3}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "616",
+    "text": "Three forces, F\\(_1\\) (8N, 030\u00b0),\u00a0F\\(_2\\) (10N, 150\u00b0 ) and\u00a0F\\(_3\\) ( KN, 240\u00b0 )are in equilibrium. Find the value of N",
+    "options": {
+      "A": "5\u221a3",
+      "B": "6\u221a2",
+      "C": "6\u221a3",
+      "D": "9\u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61662?exam_type=waec&type=obj&page=124",
+    "correct_answer": "C",
+    "explanation": "F\\(_1\\) (8N, 030\u00b0),\u00a0F\\(_2\\) (10N, 150\u00b0 ) and\u00a0F\\(_3\\) ( KN, 240\u00b0 )\nResolving the forces into x and y component\nF\\(_x\\) = 8 cos 30 - 10cos 150 - N cos 240\nF\\(_y\\) = 8 sin 30 + 10 sin 150 - N sin 240\nFor equilibrium, the sum of the forces in both x and y directions must be zero\nF\\(_x\\) = 4\\(\\sqrt{3}\\) - 5\\(\\sqrt{3}\\) - \\(\\frac{N}{2}\\)\u00a0\u00a0= 0,\u00a0 -\u00a0\\(\\sqrt{3}\\) =\u00a0\\(\\frac{N}{2}\\), so, N = - 2\\(\\sqrt{3}\\)\nF\\(_y\\) = 4 + 5 -\u00a0\\(\\frac{N\\sqrt{3}}{2}\\)\u00a0= 0, so, 9 =\u00a0\\(\\frac{N\\sqrt{3}}{2}\\), 18 = N\\(\\sqrt{3}\\), N = 6\\(\\sqrt{3}\\)\nThus, the value of N =\u00a06\\(\\sqrt{3}\\).",
+    "year": "2021"
+  },
+  {
+    "number": "617",
+    "text": "In\u00a0\u25b3PQR,\u00a0\\(\\overline{PQ}\\) = 5i - 2j and\u00a0\\(\\overline{QR}\\) = 4i + 3j. Find\u00a0\\(\\overline{RP}\\).",
+    "options": {
+      "A": "-i - 5j",
+      "B": "-9 - j",
+      "C": "i + 5j",
+      "D": "-9i + j"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61664?exam_type=waec&type=obj&page=124",
+    "correct_answer": "A",
+    "explanation": "\\(\\overline{PQ}\\) = 5i - 2j;\u00a0\u00a0\\(\\overline{QR}\\) = 4i + 3j\n\\(\\overline{RP}\\) =\u00a0\\(\\overline{PQ}\\) -\u00a0\\(\\overline{QR}\\)\n=\u00a05i - 2j - [4i + 3j] =\u00a0\u00a05i - 2j -\u00a04i -\u00a03j\n= i - 5j",
+    "year": "2021"
+  },
+  {
+    "number": "618",
+    "text": "A stone is thrown vertically upward and distance, S metres after t seconds is given by\u00a0S = 12t + \\(\\frac{5}{2t^2}\\) - t\\(^3\\).\nCalculate the maximum height reached.",
+    "options": {
+      "A": "418.5m",
+      "B": "56.0m",
+      "C": "31.5m",
+      "D": "30.0m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61666?exam_type=waec&type=obj&page=124",
+    "correct_answer": "C",
+    "explanation": "S = 12t + \\(\\frac{5}{2t^2}\\) - t\\(^3\\);\nds/dt =\u00a0 12 + 5t - 3t\\(^2\\)\nAt max height ds/dt = 0\ni.e 12 + 5t - 3t\\(^2\\)\n(3t + 4)(t -3) = 0;\nt = -4/3 or 3\nHmax =\u00a012[3]\u00a0+ \\(\\frac{5}{2[3]^2}\\) - 3\\(^3\\)\n= 36 + 45/2 - 27\n= 31.5m",
+    "year": "2021"
+  },
+  {
+    "number": "619",
+    "text": "A stone is thrown vertically upward and distance, S metres after t seconds is given by\u00a0S = 12t + \\(\\frac{5}{2t^2}\\) - t\\(^3\\).\nCalculate the distance travelled in the third second.",
+    "options": {
+      "A": "5.5m",
+      "B": "14.5m",
+      "C": "26.0m",
+      "D": "30.0m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61668?exam_type=waec&type=obj&page=124",
+    "correct_answer": "A",
+    "explanation": "From\u00a0\u00a0S = 12t + \\(\\frac{5}{2t^2}\\) - t\\(^3\\);\nDistance traveled in 2 seconds\nS = 12[2]\u00a0+ \\(\\frac{5}{2[2]^2}\\) - 2\\(^3\\).\n= 24 + 10 - 8 = 26m\nDistance traveled in 3\u00a0seconds\nS = 12[3]\u00a0+ \\(\\frac{5}{2[3]^2}\\) - 3\\(^3\\)\n= 36 + 22.5 -\u00a027 = 31.5m\nDistance traveled in the 3rd second\n=\u00a031.5m -\u00a026m\n: S = 5.5m",
+    "year": "2021"
+  },
+  {
+    "number": "620",
+    "text": "Given that F\\(^1\\)(x) = x\\(^3\\)\u00a0\u221ax, find f(x)",
+    "options": {
+      "A": "\\(\\frac{2x^{9/2}}{9}\\) + c",
+      "B": "2\\(x^{\\frac{9}{2}}\\) + c",
+      "C": "\\(\\frac{2x^{\\frac{5}{2}}}{5}\\)",
+      "D": "x\\(^4\\) + c"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61669?exam_type=waec&type=obj&page=124",
+    "correct_answer": "A",
+    "explanation": "F1 (x) = x\\(^3\\)\u00a0\u221ax = x\\(^{7/2}\\)\nF(x) =\u00a0\\(\\frac{x^{7/2 +1}}{7/2 + 1}\\) + c\n=\u00a0\\(\\frac{x^{9/2}}{9/2}\\)\n=\u00a0\\(\\frac{2x^{9/2}}{9}\\) + c",
+    "year": "2021"
+  },
+  {
+    "number": "621",
+    "text": "If ( 1- 2x)\\(^4\\) = 1 + px + qx\\(^2\\) - 32x\\(^3\\) + 16\\(^4\\), find the value of (q - p)",
+    "options": {
+      "A": "-32",
+      "B": "-16",
+      "C": "16",
+      "D": "32"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61671?exam_type=waec&type=obj&page=125",
+    "correct_answer": "D",
+    "explanation": "( 1- 2x)\\(^4\\) = 1 + px + qx\\(^2\\) - 32x\\(^3\\) + 16\\(^4\\)\ncompared with:\u00a0\u00a01 -\u00a08x + 24x\\(^2\\) - 32x\\(^3\\) + 16\\(^4\\)\nq = 24 and p = -8\n(q - p) = 24 - [-8] = 32",
+    "year": "2021"
+  },
+  {
+    "number": "622",
+    "text": "If sin x = \\(\\frac{12}{13}\\) and sin y =\u00a0\\(\\frac{4}{5}\\), where x and y are acute angles, find\u00a0 cos (x + y)",
+    "options": {
+      "A": "\\(\\frac{48}{65}\\)",
+      "B": "\\(\\frac{13}{15}\\)",
+      "C": "\\(\\frac{-33}{65}\\)",
+      "D": "\\(\\frac{-48}{65}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61675?exam_type=waec&type=obj&page=125",
+    "correct_answer": "C",
+    "explanation": "From Pythagoras'\u00a0theorem\nwhen sin x = \\(\\frac{12}{13}\\), cos x =\u00a0\\(\\frac{5}{13}\\)\nUsing cos (x + y) = cosx cosy\u00a0- sinxsiny\n\\(\\frac{5}{13}\\) *\u00a0\\(\\frac{3}{5}\\) -\u00a0\\(\\frac{12}{13}\\) *\u00a0\\(\\frac{4}{5}\\)\n=\u00a0\\(\\frac{-33}{65}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "623",
+    "text": "The first term of an AP is 4 and the sum of the first three terms is 18. Find the product of the first three terms",
+    "options": {
+      "A": "292",
+      "B": "272",
+      "C": "192",
+      "D": "172"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61679?exam_type=waec&type=obj&page=125",
+    "correct_answer": "C",
+    "explanation": "Using the sum of an AP, S\\(_n\\) = \\(\\fra{n}{2}\\) [ 2a + (n - 1)d]\nS\\(_3\\) = \\(\\fra{3}{2}\\) [ 2a + (3\u00a0- 1)d]\n18 = \\(\\fra{3}{2}\\) [ 2a +\u00a02d]\n2a + 2d = 12\na = 4\n2(4) + 2d = 18 --> 8 + 2d = 12\n2d = 4; d = 2\na = 4: a + d\n=\u00a0 4 + 2 = 6\na + 2d = 4 + 2]2]\n= 8\nproduct of the terms = 4 * 6 * 8 = 192",
+    "year": "2021"
+  },
+  {
+    "number": "624",
+    "text": "A committee consists of 6 boys and 4 girls. In how many ways can a sub-committee consisting of 3 boys and 2 girls be formed if one particular boy and one particular girl must be on the sub-committee?",
+    "options": {
+      "A": "120",
+      "B": "80",
+      "C": "56",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61683?exam_type=waec&type=obj&page=125",
+    "correct_answer": "D",
+    "explanation": "The required committee can be formed in\n(a boy and a girl are already part of the committee so we need two more boys and a girl).\n\\(^{5}C_{2}\\) *\u00a0\\(^{3}C_{1}\\) = \\(\\frac{5 * 4*3*2*1}{3*\u00a02 * 2*1}\\) * \\(\\frac{\u00a03* 2* 1}{\u00a02 * 1}\\)\n10\u00a0 * 3\u00a0= 30ways.",
+    "year": "2021"
+  },
+  {
+    "number": "625",
+    "text": "If \u221a5 cosx + \u221a15sinx = 0, for 0\u00b0 < x < 360\u00b0, find the values of x.",
+    "options": {
+      "A": "30\u00b0 and 150\u00b0",
+      "B": "150\u00b0 and 210\u00b0",
+      "C": "150\u00b0 and 330\u00b0",
+      "D": "210\u00b0 and 330\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61688?exam_type=waec&type=obj&page=125",
+    "correct_answer": "C",
+    "explanation": "\u221a5 cosx + \u221a15sinx = 0;\n\u221a5 (cosx + \u221a3sinx) = 0\ncosx = -sinx\u221a3;\u00a0 \\(\\frac{sinx}{cos}\\) = \\(\\frac{-1}{\u221a3}\\)\ntanx =\u00a0 \\(\\frac{-1}{\u221a3}\\);\u00a0 x =\u00a0150\u00b0 or\u00a0330\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "626",
+    "text": "If 2i +pj and 4i -2j are perpendicular, find the value of p.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61689?exam_type=waec&type=obj&page=126",
+    "correct_answer": "C",
+    "explanation": "(2i + pi) (4i - 2j) =0\n2 x 4 - p x 2=0 ;\n8-2p = 0;\u00a0 \u00a02p-8;\np=4",
+    "year": "2021"
+  },
+  {
+    "number": "627",
+    "text": "Consider the following statements:\nX: Benita is polite\ny: Benita is neat\nz: Benita is intelligent\nWhich of the following symbolizes the statement: \"Benita is neat if and only if she is neither polite nor intelligent\"?",
+    "options": {
+      "A": "y\u27fa ~x v z",
+      "B": "y\u27fa ~x v ~z",
+      "C": "y\u27fa ~x ^ ~z",
+      "D": "y\u27fa ~x ^ z"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61690?exam_type=waec&type=obj&page=126",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "628",
+    "text": "A bag contains 8 red, 4 blue and 2 green identical balls. Two balls are drawn randomly from the bag without replacement. Find the probability that the balls drawn are red and blue.\nA. 12/91 B. C. D.",
+    "options": {
+      "A": "12/91",
+      "B": "16/91",
+      "C": "30/91",
+      "D": "32/91"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61691?exam_type=waec&type=obj&page=126",
+    "correct_answer": null,
+    "explanation": "Total balls = 8+4+2= 14\nn(R) = 8, n (B) =4, n(G) = 2\nWithout replacement, it is p(RB) or p(BR)\n= (8/14 x 4/13) + (4/14 + 8/13) = 16/91 + 16/91\n= 32/91",
+    "year": "2021"
+  },
+  {
+    "number": "629",
+    "text": "The gradient ofy= 3x\\(^2\\)\u00a0+ 11x + 7 at P(x.y)\u00a0is -1. Find the coordinates of P.",
+    "options": {
+      "A": "(-3, -2)",
+      "B": "(-2,-3)",
+      "C": "(-2,3)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61692?exam_type=waec&type=obj&page=126",
+    "correct_answer": "B",
+    "explanation": "y= 3x\\(^2\\) + 11x +7;\ndy/dx = 6x + 11= -1;\n6x = -12;\nx=-2\ny=\u00a0 3x\\(^2\\) + 11x + 7\nAt x-2,\ny= 3(-2)\\(^2\\) +11(-2) + 7\n= 12 - 22 + 7= -3\np(x, y) = (-2,-3)",
+    "year": "2021"
+  },
+  {
+    "number": "630",
+    "text": "Find the equation of the normal to the curve y= 2x\\(^2\\) - 5x + 10 at P(1, 7).",
+    "options": {
+      "A": "y+x-3 =0",
+      "B": "y-x+6=0",
+      "C": "y - x - 6=0",
+      "D": "y -x+ 3 =0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61693?exam_type=waec&type=obj&page=126",
+    "correct_answer": "C",
+    "explanation": "From y= 2x- 5x 10 ; dy/dx= 4x-5\nBut at (1, 7); m\\(_1\\) = (dy/dx)\\(_{1,7}\\)\n= 4(1) - 5 = -1\nUsing m\\(_1\\)m\\(_2\\),= -1; m\\(_2\\) = 1.\nGradient m\\(_2\\), of normal at (1,7) is 1.\nUsing y - y\\(_1\\) = m(x - x\\(_1\\))\ny - 7 = 1(x - 1) ;\ny - 7 = x - 1\ny - x\u00a0- 6 = 0",
+    "year": "2021"
+  },
+  {
+    "number": "631",
+    "text": "Find the value of the derivative of y = 3x\\(^2\\) (2x +1) with respect to x at the point x = 2.",
+    "options": {
+      "A": "72",
+      "B": "84",
+      "C": "96",
+      "D": "120"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61694?exam_type=waec&type=obj&page=127",
+    "correct_answer": "B",
+    "explanation": "y 3x\\(^2\\) (2x +1) = 6x\\(^3\\) + 3x\\(^2\\)\ndy/dx = 18x\\(^2\\)\u00a0+ 6x\nAt x = 2, 18(2)\\(^2\\) + 6(2)\n= 72 + 12 = 84",
+    "year": "2021"
+  },
+  {
+    "number": "632",
+    "text": "Find the radius of the circle 2x\\(^2\\) - 4x + 2y\\(^2\\) - 6y -2 = 0.",
+    "options": {
+      "A": "\\(\\frac{17}{4}\\)",
+      "B": "\\(\\frac{17}{2}\\)",
+      "C": "\\(\\frac{17}{\\sqrt{2}}\\)",
+      "D": "\\(\\frac{\\sqrt{17}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61695?exam_type=waec&type=obj&page=127",
+    "correct_answer": "D",
+    "explanation": "2x\\(^3\\)\u00a0- 4x + 2y\\(^2\\) - 6y - 2 = 0\nDivide through by 2: x\\(^2\\)\u00a0- 2x + y\\(^2\\) -3y -1 = 0\nx\\(^2\\) -2x + y\\(^2\\)\u00a0- 3y = 1\nx\\(^2\\) -2x + 1 + y\\(^2\\)\u00a0- 3y + \\(\\frac{9}{4}\\)\n= 1+ 1 + \\(\\frac{9}{4}\\)\n= (x- 1)\\(^2\\) (y - 3/2)\\(^2\\)\n= \\(\\sqrt{\\frac{17}{4}}\\)\nr = \\(\\frac{\\sqrt{17}}{2}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "633",
+    "text": "Given that f: x --> x\\(^2\\) - x + 1 is defined on the\u00a0Set Q = { x : 0\u00a0\u2264 x < 20, x is a multiple of 5}. find the set of range of F.",
+    "options": {
+      "A": "{21, 91, 221}",
+      "B": "{21, 91, 221, 381}",
+      "C": "{1,21, 91, 221}",
+      "D": "{1,21, 91, 221,381}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61696?exam_type=waec&type=obj&page=127",
+    "correct_answer": "A",
+    "explanation": "multiples of 5 less than 20 = 5, 10 and 15\n= [\u00a05, 10 and 15 ]x\\(^2\\) - x + 1\nx\\(^2\\) - x + 1\nwhen x = 5\n5\\(^2\\) - 5\u00a0+ 1; 25 - 5 + 1 --> 21\nwhen x = 10\n10\\(^2\\) - 10\u00a0+ 1\n100 - 9 = 91\nwhen x = 15\n15\\(^2\\) - 15\u00a0+ 1\n225 - 15 + 1 = 211",
+    "year": "2021"
+  },
+  {
+    "number": "634",
+    "text": "If \\(\\frac{15 - 2x}{(x+4)(x-3)}\\) = \\(\\frac{R}{(x+4)}\\) + \\(\\frac{9}{(x-3)}\\), find the value of R",
+    "options": {
+      "A": "\\(\\frac{-32}{7}\\)",
+      "B": "\\(\\frac{-23}{7}\\)",
+      "C": "\\(\\frac{23}{7}\\)",
+      "D": "\\(\\frac{32}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61697?exam_type=waec&type=obj&page=127",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{15 - 2x}{(x+4)(x-3)}\\) = \\(\\frac{R}{(x+4)}\\) + \\(\\frac{9}{(x-3)}\\)\n15 - 2x = R(x - 3) + 9(x +4)\nPut x = -4, we have 15 -2(-4) = -7R\n23 = -7R;\nR = \\(\\frac{-23}{7}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "635",
+    "text": "The table shows the distribution of marks obtained by some students in a test\n\n\n\nMarks\n0-9\n10-19\n20-29\n30-39\n40-49\n\n\nFrequency\n4\n12\n16\n6\n2\n\n\n\nWhat is the upper class boundary of the upper quartile class?",
+    "options": {
+      "A": "49.5",
+      "B": "39.5",
+      "C": "29.5",
+      "D": "19.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61698?exam_type=waec&type=obj&page=127",
+    "correct_answer": "C",
+    "explanation": "\u00a3f = 4 + 12 + 16 + 6 +2 = 40\nUpper quartile class\n= 3/4 of 40 = 30th position\nCounting from the distribution table to the 30th position,\nthe upper class boundary is 29.5",
+    "year": "2021"
+  },
+  {
+    "number": "636",
+    "text": "The table shows the distribution of marks obtained by some students in a test\n\n\n\nMarks\n0-9\n10-19\n20-29\n30-39\n40-49\n\n\nFrequency\n4\n12\n16\n6\n2\n\n\n\n\u00a0\nFind the modal class mark.",
+    "options": {
+      "A": "4.5",
+      "B": "14.5",
+      "C": "24.5",
+      "D": "34.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/61699?exam_type=waec&type=obj&page=128",
+    "correct_answer": "C",
+    "explanation": "Modal class 20 - 29\nModal class mark = \\(\\frac{20+29}{2}\\)\n=\u00a0\\(\\frac{49}{2}\\)\n= 24.5",
+    "year": "2021"
+  }
+]

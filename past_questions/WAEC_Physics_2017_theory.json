@@ -1,0 +1,110 @@
+[
+  {
+    "number": "13",
+    "text": "A particle is dropped from a vertical height h and falls freely for a time t. With the aid of a sketch, explain how h varies with \\(t^2\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52881?exam_type=waec&type=theory&page=3",
+    "correct_answer": "The sketch shows that the height decreases heavily with time (t\\(^2\\))",
+    "explanation": "The sketch shows that the height decreases heavily with time (t\\(^2\\))",
+    "year": "2017"
+  },
+  {
+    "number": "14",
+    "text": "A particle is projected horizontally at 15ms\\(^{-1}\\) from a height of 20m. Calculate the horizontal distance covered by the particle just before hitting the ground. [g= 10ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52882?exam_type=waec&type=theory&page=3",
+    "correct_answer": "Let R represent the horizontal distance covered at time t.\nUsing h = ut + \\(\\frac{1}{2}gt^2\\)\nbut U\\(_v\\) = 0\nh = \\(\\frac{1}{2} gt^{2}\\)\n20 = \\(\\frac{1}{2} \\times 10 \\times t^2\\)\n20 = 5t\\(^2\\)\nt\\(^2\\) = \\(\\frac{20}{5}\\) = 4\nt = 2s\nRange(R) = U\\(_x\\) x t\n= 15 x 2\n= 30m\nor\nR = u x \\(\\sqrt{\\frac{2h}{g}}\\)\n= 15 x \\(\\sqrt{\\frac{2 \\times 20}{10}}\\)\n= 15 x \\(\\sqrt{4}\\)\n= 15 x 2\n= 30m",
+    "explanation": "Let R represent the horizontal distance covered at time t.\nUsing h = ut + \\(\\frac{1}{2}gt^2\\)\nbut U\\(_v\\) = 0\nh = \\(\\frac{1}{2} gt^{2}\\)\n20 = \\(\\frac{1}{2} \\times 10 \\times t^2\\)\n20 = 5t\\(^2\\)\nt\\(^2\\) = \\(\\frac{20}{5}\\) = 4\nt = 2s\nRange(R) = U\\(_x\\) x t\n= 15 x 2\n= 30m\nor\nR = u x \\(\\sqrt{\\frac{2h}{g}}\\)\n= 15 x \\(\\sqrt{\\frac{2 \\times 20}{10}}\\)\n= 15 x \\(\\sqrt{4}\\)\n= 15 x 2\n= 30m",
+    "year": "2017"
+  },
+  {
+    "number": "15",
+    "text": "List three phenomena which can be explained by the molecular theory of matter.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52883?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(i) Osmosis\n(ii) Brownian motion\n(iii) Diffusion\n(iv) Capilarity\n(v) Viscosity",
+    "explanation": "(i) Osmosis\n(ii) Brownian motion\n(iii) Diffusion\n(iv) Capilarity\n(v) Viscosity",
+    "year": "2017"
+  },
+  {
+    "number": "16",
+    "text": "A spiral spring has a length of 14cm when a force of 4N is hung on it. A force of 6N extends the spring by 4cm. Calculate the unstretched length of the spring",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52884?exam_type=waec&type=theory&page=4",
+    "correct_answer": "Using hookes law\n\\(\\frac{F_1}{e_1} = \\frac{F_2}{e_2}\\)\nbut e\\(_1\\) = l\\(_1\\) = l\\(_o\\)\n\\(\\frac{F_1}{l_1 - l_o}\\) = \\(\\frac{F_2}{e_2}\\)\n\\(\\frac{4}{14 - \\_o}\\) = \\(\\frac{6}{4}\\); \u00a0\u00a0 16 = 6(14 - \\(_o\\))\n14 = 84 - 6\\(l_o\\);\u00a0 16 - 84 = -6\\(l_o\\)\n\\(l_o = \\frac{-68}{-6}\\) = 11.33cm",
+    "explanation": "Using hookes law\n\\(\\frac{F_1}{e_1} = \\frac{F_2}{e_2}\\)\nbut e\\(_1\\) = l\\(_1\\) = l\\(_o\\)\n\\(\\frac{F_1}{l_1 - l_o}\\) = \\(\\frac{F_2}{e_2}\\)\n\\(\\frac{4}{14 - \\_o}\\) = \\(\\frac{6}{4}\\); \u00a0\u00a0 16 = 6(14 - \\(_o\\))\n14 = 84 - 6\\(l_o\\);\u00a0 16 - 84 = -6\\(l_o\\)\n\\(l_o = \\frac{-68}{-6}\\) = 11.33cm",
+    "year": "2017"
+  },
+  {
+    "number": "17",
+    "text": "(a) State two factors on which surface tension depends.\n(b) How can mosquito larvae be made to sink in stagnant water?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52885?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a)(i) Purity of liquid\n(ii) Temperature of liquid\n(iii) Nature / type of liquid.\n(b) Mosquito larvae can be made to sink by the addition of any of;\n(i) Detergent / Soap\n(ii) Alcohol\n(iii) Heat\n(iv) Camphor .",
+    "explanation": "(a)(i) Purity of liquid\n(ii) Temperature of liquid\n(iii) Nature / type of liquid.\n(b) Mosquito larvae can be made to sink by the addition of any of;\n(i) Detergent / Soap\n(ii) Alcohol\n(iii) Heat\n(iv) Camphor .",
+    "year": "2017"
+  },
+  {
+    "number": "18",
+    "text": "List three advantages of fluorescent tubes over filament bulbs.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52886?exam_type=waec&type=theory&page=4",
+    "correct_answer": "Advantages of flourescent tubes over filament bulbs are;\n(i) They produce less heat\n(ii) They last longer\n(iii) They are brighter\n(iv) They consume less electrical energy",
+    "explanation": "Advantages of flourescent tubes over filament bulbs are;\n(i) They produce less heat\n(ii) They last longer\n(iii) They are brighter\n(iv) They consume less electrical energy",
+    "year": "2017"
+  },
+  {
+    "number": "19",
+    "text": "List three advantages of p - n junetion diode over diode valve.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52887?exam_type=waec&type=theory&page=4",
+    "correct_answer": "The advantages of P \u2013 n; junction diode over diode valves are:\n(i) It is not bulky\n(ii) It does not need time to warm up\n(iii) It is cheaper to manufacture in large quantities.\n(iv) It needs low voltage to operate.",
+    "explanation": "The advantages of P \u2013 n; junction diode over diode valves are:\n(i) It is not bulky\n(ii) It does not need time to warm up\n(iii) It is cheaper to manufacture in large quantities.\n(iv) It needs low voltage to operate.",
+    "year": "2017"
+  },
+  {
+    "number": "20",
+    "text": "(a) State two deductions that can be made from a displacement-time graph.\n(b) If the distance beween two equal masses is doubled and their individual masses are also doubled, what would happen to the force between them? Support your answer quantitatively.\n(c) State two factors that affect the maximum height attained by a bullet fired from a gun.\n(d) State two practical examples of mechanical resonance. A body is released from rest at the top of a plane inclined at 30\u00b0 to the horizontal and 4.0 m high. If the coefficient of friction between the body and the plane is 0.3, calculate the time the body takes to reach the bottom of the plane.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52888?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a) From a displacement - time graph, the following can be deduced\n(i) Uniform velocity\n(ii) Instantaneous velocity\n(iii) Initial displacement\n(b) The force would remain the same Gram\u00a0 =\\(F_2 = \\frac{Gmm}{r^2}\\)\nF\\(_2\\) = \\(\\frac{G2m \\times 2m}{(2r)^2}\\)\n=\\(\\frac{G4m^2}{4r^2}\\)\n= \\(\\frac{Gm^2}{r^2}\\)\n= \\(\\frac{Gmm}{r^2}\\)\n\\(F_1 = F_2\\)\n(c)Factors that affect maximum height of a bullet include\n(i) Initial velocity / speed\n(ii) Acceleration due to gravity\n(iii) Angle of projection\n(iv) Air resistance\n(d)Practical examples of mechanical resonance include:\n(i) Shattering of glass due to high pitch note.\n(ii) Throwing of 2 paper rider from a vibrating stretched string\n(iii) Collapse of a bridge by matching soldiers\n(iv) Car bodies rattle (at very high speed)\n(e)\nacceleration = g sin \\(\\theta\\)\u00a0 \u2013 \\(\\mu\\) cos \\(\\theta\\)\na =10 x sin 30 \u2013 0.3 x 10 x cos30\n=10 x 0.5 \u20130.3 x 10 x 0.8660\n= 5 \u2013 2.598\n= 2.4m/s\\(^2\\)\nDistance covered, s = \\(\\frac{4}{\\sin30}\\)\n= \\(\\frac{4}{0.5}\\)\n= 8m\nUsing S = Ut + \\(\\frac{1}{2}\\)at\\(^2\\)\n8 =\\(\\frac{1}{2}\\) x 2.4 x r\\(^2\\)\n8 = 1.2\\(t^2\\)\n\\(r^2\\) = \\(\\frac{8}{1.2}\\)\n= 2.58s",
+    "explanation": "(a) From a displacement - time graph, the following can be deduced\n(i) Uniform velocity\n(ii) Instantaneous velocity\n(iii) Initial displacement\n(b) The force would remain the same Gram\u00a0 =\\(F_2 = \\frac{Gmm}{r^2}\\)\nF\\(_2\\) = \\(\\frac{G2m \\times 2m}{(2r)^2}\\)\n=\\(\\frac{G4m^2}{4r^2}\\)\n= \\(\\frac{Gm^2}{r^2}\\)\n= \\(\\frac{Gmm}{r^2}\\)\n\\(F_1 = F_2\\)\n(c)Factors that affect maximum height of a bullet include\n(i) Initial velocity / speed\n(ii) Acceleration due to gravity\n(iii) Angle of projection\n(iv) Air resistance\n(d)Practical examples of mechanical resonance include:\n(i) Shattering of glass due to high pitch note.\n(ii) Throwing of 2 paper rider from a vibrating stretched string\n(iii) Collapse of a bridge by matching soldiers\n(iv) Car bodies rattle (at very high speed)\n(e)\nacceleration = g sin \\(\\theta\\)\u00a0 \u2013 \\(\\mu\\) cos \\(\\theta\\)\na =10 x sin 30 \u2013 0.3 x 10 x cos30\n=10 x 0.5 \u20130.3 x 10 x 0.8660\n= 5 \u2013 2.598\n= 2.4m/s\\(^2\\)\nDistance covered, s = \\(\\frac{4}{\\sin30}\\)\n= \\(\\frac{4}{0.5}\\)\n= 8m\nUsing S = Ut + \\(\\frac{1}{2}\\)at\\(^2\\)\n8 =\\(\\frac{1}{2}\\) x 2.4 x r\\(^2\\)\n8 = 1.2\\(t^2\\)\n\\(r^2\\) = \\(\\frac{8}{1.2}\\)\n= 2.58s",
+    "year": "2017"
+  },
+  {
+    "number": "21",
+    "text": "(a) Define stable equilibrium as applied to a rigid body.\n(b) Sketch a block and tackle system of pulleys with a velocity ratio of 3.\n(c) At the beginning of a race, a tyre of volume 8.0 x 10\\(^{-4}\\) at 20\u00b0C-has a gas pressure of 4.5 x 10\\(^5\\) Pa. Calculate the temperature of the gas in the tyre at the end of the race if the pressure has risen to 4.6 x 1 0\\(^5\\) Pa.\n(d)(i)\n\n\n\n\u00a0\n\nIce point\n273k\n\n\n\u00a0\n373k\nSteam point\n\n\n\n\nResistance/\\(\\Omega\\)\n\n5.67\n7.75\n\n\n\nPressure/Pa\n\n7.13 x 10\\(^4\\)\n9.74 x 10\\(^4\\)\n\n\n\n\nThe table above shows readings of the resistance and pressure of a platinum resistance thermometer and a constant-volume gas thermometer respectively, when immersed in the same liquid bath. Use this data to determine the temperature of the bath on the: (\\(\\alpha\\)) resistance thermometer; (\\(\\beta\\)) gas thermometer\n(ii) By what percentage is the temperature measured on the platinum resistance thermometer in error?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52890?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a) A body is said to be in stable equillibrium if it tends to return to its original position after being slightly displaced.\n(b)\ni.e. V.R = Number of pulleys in the system\nV.R = 3\n(c) \\(P_1 = 4.5 \\times 10^5\\)Pa; \\(_2 = 4.6 \\times 10^5\\)Pa\nT\\(_1\\) = 20\\(^{o}\\) + 273 = 293k\nT\\(_2\\) = ?\n\\(\\frac{P_1}{T_1} = \\frac{P_2}{T_2}; \\frac{4.5 \\times 10^5}{293} = \\frac{4.6 \\times 10^5}{T_2}\\)\n\\(T_2 = \\frac{4.6 \\times 10^5 \\times 293}{4.5 \\times 10^5}\\)\n\\(T_2\\) = 299.5k or 26.5\\(^o\\)C\n(d) \\(\\alpha\\) Resistance thermometer\n\\(\\frac{a}{b} = \\frac{c}{d}; \\frac{R \\theta - 5.67}{7.75 - 5.67} = \\frac{R - 273}{373 - 273}\\)\n\\(\\frac{R \\theta - 5.67}{1,88} = \\frac{R - 273}{100}\\)\n\\(\\beta\\) Gas thermometer\n\\(\\frac{a}{b} = \\frac{c}{d}; \\frac{G\\theta - (7.13) x 10^4}{(9.74 - 7.13) \\times 10^4} = \\frac{G - 273}{373 - 273}\\)\n\\(\\frac{G\\theta - 7.13}{2.16} = \\frac{G - 273}{100}\\)",
+    "explanation": "(a) A body is said to be in stable equillibrium if it tends to return to its original position after being slightly displaced.\n(b)\ni.e. V.R = Number of pulleys in the system\nV.R = 3\n(c) \\(P_1 = 4.5 \\times 10^5\\)Pa; \\(_2 = 4.6 \\times 10^5\\)Pa\nT\\(_1\\) = 20\\(^{o}\\) + 273 = 293k\nT\\(_2\\) = ?\n\\(\\frac{P_1}{T_1} = \\frac{P_2}{T_2}; \\frac{4.5 \\times 10^5}{293} = \\frac{4.6 \\times 10^5}{T_2}\\)\n\\(T_2 = \\frac{4.6 \\times 10^5 \\times 293}{4.5 \\times 10^5}\\)\n\\(T_2\\) = 299.5k or 26.5\\(^o\\)C\n(d) \\(\\alpha\\) Resistance thermometer\n\\(\\frac{a}{b} = \\frac{c}{d}; \\frac{R \\theta - 5.67}{7.75 - 5.67} = \\frac{R - 273}{373 - 273}\\)\n\\(\\frac{R \\theta - 5.67}{1,88} = \\frac{R - 273}{100}\\)\n\\(\\beta\\) Gas thermometer\n\\(\\frac{a}{b} = \\frac{c}{d}; \\frac{G\\theta - (7.13) x 10^4}{(9.74 - 7.13) \\times 10^4} = \\frac{G - 273}{373 - 273}\\)\n\\(\\frac{G\\theta - 7.13}{2.16} = \\frac{G - 273}{100}\\)",
+    "year": "2017"
+  },
+  {
+    "number": "22",
+    "text": "(a) What is a wavefront?\n(b) (i) State two practical uses of glass prisms.\n(ii) List two factors that determine the deviation of a ray of light travelling from air into a triangular glass prism.\n(iii) Sketch a graph to illustrate the variation of the angle of deviation d, with that of incidence, i, for a ray of light travelling from air into a triangular glass prism. Indicate on the graph the point at which the angle of incidence equal to the angle of emergence e.\n\u00a0\n(c) (i) Draw and label a diagram of an astronomical telescope in normal adjustment.\n(ii) The angular magnification of an astronomical telescope in normal adjustment is 5. If the focal length of the objective is 100cm, calculate the:\n(\\(\\alpha\\)) focal length of the eyepiece;\n(\\(\\beta\\)) length of the telescope.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52892?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a) A Wavefront is a surface over which particles vibrate in the same phase.\n(b)(i) Glass prisms are used practically for\n(I) changing direction of light I dispersion\n(II) viewing distant objects (Binoculars)\n(III) determing refractive index of glass\n(IV) viewing objects over obstacles (periscope)\n(ii) The factors include:\n(I) Angle of incidence\n(II) refractive index of the prism\n(III) refracting angle of the prism\n(iii)\n(c)\n(ii) (\\(alpha\\)) Magnifiation = \\(\\frac{F_o}{F_e}\\); 5 = \\(\\frac{100}{Fe}\\)\nfe = 20cm\n(\\(\\beta\\)) length of telescope = \\(F_o + F_e = 100 + 20\\)\n= 120cm",
+    "explanation": "(a) A Wavefront is a surface over which particles vibrate in the same phase.\n(b)(i) Glass prisms are used practically for\n(I) changing direction of light I dispersion\n(II) viewing distant objects (Binoculars)\n(III) determing refractive index of glass\n(IV) viewing objects over obstacles (periscope)\n(ii) The factors include:\n(I) Angle of incidence\n(II) refractive index of the prism\n(III) refracting angle of the prism\n(iii)\n(c)\n(ii) (\\(alpha\\)) Magnifiation = \\(\\frac{F_o}{F_e}\\); 5 = \\(\\frac{100}{Fe}\\)\nfe = 20cm\n(\\(\\beta\\)) length of telescope = \\(F_o + F_e = 100 + 20\\)\n= 120cm",
+    "year": "2017"
+  },
+  {
+    "number": "23",
+    "text": "(i) What is dielectric?\n(ii) A parallel plate capacitor consists of two plates each of area 9.6 x 10\\(^{-2}\\)m\\(^2\\), separated by a dielectric of thickness 2.25 x 10\\(^{-3}\\) and dielectric constant 900. Calculate the capacitance of the capacitor. [ \\(\\varepsilon_o\\) = permittivity of free space = 8.85 x 10\\(^{-12}\\)Fm\\(^{-1}\\)]\n(b) (i) Which of the following devices has a higher resistance; an ammeter or a voltmeter? Give a reason for your answer.\n(ii)\n\n\nThe resistance of the voltmeter in the circuit diagram illustrated above is 800\\(\\Omega\\), Calculate the voltmeter reading.\n(c)\n\nA battery of negligible internal resistance is connected to a set of resistors as illustrated in the circuit diagram above. Determine the equivalent resistance of the circuit.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52894?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a)(i) A dielectric is an insulating material (solid, liquid or gas) separating the two plates of a capacitor.\n(ii) Using C = \\(\\frac{\\xi_1.\\xi_oA}{d} = \\frac{900 \\times 8.85 \\times 10^{-12} \\times 9.6 \\times 10^{-3}}{2.25 \\times 10^{-4}}\\)\n= 3.4 x 10\\(^{-7}\\)\n(b)(i) A voltmeter has a higher resistance. Reason: A voltmeter is connected inparallel in a circuit to allow passage of minimal current through it; hence the circuit current is not significantly affected.\n(ii)\n\\(\\frac{1}{R_1} = \\frac{1}{400} + \\frac{1}{400}\\)\u00a0\u00a0\u00a0 \\(R_1 = 200\\Omega\\)\n\\(\\frac{1}{R_2} = \\frac{1}{800} + \\frac{1}{800}\\)\u00a0\u00a0\u00a0 \\(R_1 = 400\\Omega\\)\nRT= 200 + 400 = 600\\(\\Omega\\)\nI = \\(\\frac{V_T}{R_T} = \\frac{6}{600}\\) = 0.01A\nVoltmeter reading\n= Pd across R\\(_2\\)\n= 0.01A\nVoltmeter reading = Pd across R\\(_2\\)\n= 0.01 x 400 = 4v\n(c)\n\\(\\frac{1}{R_p} = \\frac{1}{2} + \\frac{1}{2} = \\frac{1 + 1}{2} = \\frac{2}{2}\\)\nNote: This catadation is for the two resistors in parallel.\nR\\(_T = 2 + 1 + 2 = 5\\Omega\\)",
+    "explanation": "(a)(i) A dielectric is an insulating material (solid, liquid or gas) separating the two plates of a capacitor.\n(ii) Using C = \\(\\frac{\\xi_1.\\xi_oA}{d} = \\frac{900 \\times 8.85 \\times 10^{-12} \\times 9.6 \\times 10^{-3}}{2.25 \\times 10^{-4}}\\)\n= 3.4 x 10\\(^{-7}\\)\n(b)(i) A voltmeter has a higher resistance. Reason: A voltmeter is connected inparallel in a circuit to allow passage of minimal current through it; hence the circuit current is not significantly affected.\n(ii)\n\\(\\frac{1}{R_1} = \\frac{1}{400} + \\frac{1}{400}\\)\u00a0\u00a0\u00a0 \\(R_1 = 200\\Omega\\)\n\\(\\frac{1}{R_2} = \\frac{1}{800} + \\frac{1}{800}\\)\u00a0\u00a0\u00a0 \\(R_1 = 400\\Omega\\)\nRT= 200 + 400 = 600\\(\\Omega\\)\nI = \\(\\frac{V_T}{R_T} = \\frac{6}{600}\\) = 0.01A\nVoltmeter reading\n= Pd across R\\(_2\\)\n= 0.01A\nVoltmeter reading = Pd across R\\(_2\\)\n= 0.01 x 400 = 4v\n(c)\n\\(\\frac{1}{R_p} = \\frac{1}{2} + \\frac{1}{2} = \\frac{1 + 1}{2} = \\frac{2}{2}\\)\nNote: This catadation is for the two resistors in parallel.\nR\\(_T = 2 + 1 + 2 = 5\\Omega\\)",
+    "year": "2017"
+  },
+  {
+    "number": "24",
+    "text": "(a) (i) What is nuclear fission?\n(ii) State the function of each of the following ma-terials in a nuclear fision reactor:\n(\\(\\alpha\\)) graphite, (\\(\\beta\\)) boron rods; (\\(\\gamma\\)) liquid sodium\n(b) The table below gives some of the energy levels of a hydrogen atom.\n\n\n\nn\n1\n2\n3\n4\n5\n\\(\\infty\\)\n\n\nE\\(_n\\)/\\_eV\\)\n-13.60\n-3.39\n-1.51\n-0.85\n-0.54\n0.00\n\n\n\n\n(i) Draw the energy level diagram for the atom.\n(ii) Determine the wavelength of the photon emitted when the atom goes from the energy state n = 3 to the ground state. [h = 6.6 x 10\\(^{-34}\\) Js, c = 3 x 10\\(^{8}\\)ms\\(^{-1}\\), e = 1.6 x 10\\(^{-19}\\)]\n(c) A piece of ancient bone from an excavation site showed \\(^{14}_{6}\\)C activity of 9.5 disintegrations per minute per 1.0x10\\(^{-3}\\)kg. If a bone specimen from a living creature shows \\(^{14}_{6}\\)C activity of 12.0 disintegrations per minute per 1.0 x 1 0\\(^{-3}\\), determine the age of the ancient bone. [Half - life of \\(^{14}_{6}\\)C = 5572 years].",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/52904?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a)(i) Nuclear Fission is the splitting up of a heavy nucleus into lighter nuclei with release of a huge amount of energy and neutrons.\n(ii) (\\(\\alpha\\)) graphite; (\\(\\beta\\)) Boron rods; (\\(\\gamma\\) )Liquid sodium\nMaterialFunctionGraphiteSlows down high energetic neutrons in the reaction chamber.Boron rodsTo absorb excess neutrons so as to control fission rateLiquid sodiumExtraction / conduction of excess heat from the reaction chamber.\n(b)(i) E\\(_n\\), n = \\(\\alpha\\) ----------------------------------\u00a0 0.eV\nE\\(_4\\), n = 5 ---------------------------------------------------- - 0.54eV\nE\\(_3\\), n = 4 ---------------------------------------------------- - 0.85eV\nE\\(_2\\), n = 3 ---------------------------------------------------- 1.51eV\nE\\(_1\\), n = 2 ------------------------------------------------------ 3.39eV\n(ii) Using \\(\\lambda\\) = \\(\\frac{hc}{\\Delta E}\\)\n= \\(\\frac{6.6 \\times 10^{-34} \\times 3.0 \\times 10^8}{(-1.51 - ( - 13.60)) \\times 1.6 \\times 10^{-19}}\\)\n= 1.02 x 10\\(^{-7}\\)m\n(c) \\(\\lambda\\) = \\(\\frac{0.693}{ T^{\\frac{1}{2}}}\\) = \\(\\frac{0.693}{5572}\\)\n= 0.0001244 years\\(^{-1}\\)\nN = Noe\\(^{- \\lambda t}\\)\ne\\(^{0.0001244t}\\) = 1.2632\n0.0001244t = 0.234\nt = 1878 years",
+    "explanation": "(a)(i) Nuclear Fission is the splitting up of a heavy nucleus into lighter nuclei with release of a huge amount of energy and neutrons.\n(ii) (\\(\\alpha\\)) graphite; (\\(\\beta\\)) Boron rods; (\\(\\gamma\\) )Liquid sodium\nMaterialFunctionGraphiteSlows down high energetic neutrons in the reaction chamber.Boron rodsTo absorb excess neutrons so as to control fission rateLiquid sodiumExtraction / conduction of excess heat from the reaction chamber.\n(b)(i) E\\(_n\\), n = \\(\\alpha\\) ----------------------------------\u00a0 0.eV\nE\\(_4\\), n = 5 ---------------------------------------------------- - 0.54eV\nE\\(_3\\), n = 4 ---------------------------------------------------- - 0.85eV\nE\\(_2\\), n = 3 ---------------------------------------------------- 1.51eV\nE\\(_1\\), n = 2 ------------------------------------------------------ 3.39eV\n(ii) Using \\(\\lambda\\) = \\(\\frac{hc}{\\Delta E}\\)\n= \\(\\frac{6.6 \\times 10^{-34} \\times 3.0 \\times 10^8}{(-1.51 - ( - 13.60)) \\times 1.6 \\times 10^{-19}}\\)\n= 1.02 x 10\\(^{-7}\\)m\n(c) \\(\\lambda\\) = \\(\\frac{0.693}{ T^{\\frac{1}{2}}}\\) = \\(\\frac{0.693}{5572}\\)\n= 0.0001244 years\\(^{-1}\\)\nN = Noe\\(^{- \\lambda t}\\)\ne\\(^{0.0001244t}\\) = 1.2632\n0.0001244t = 0.234\nt = 1878 years",
+    "year": "2017"
+  }
+]

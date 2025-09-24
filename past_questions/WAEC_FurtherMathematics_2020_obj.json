@@ -1,0 +1,548 @@
+[
+  {
+    "number": "560",
+    "text": "A binary operation * is defined on the set of real number, R, by x*y = x\\(^2\\) - y\\(^2\\) + xy, where x, \\(\\in\\)\u00a0 R. Evaluate (\\(\\sqrt{3}\\))*(\\(\\sqrt{2}\\))\n\u00a0\n\\({\\color{red}2x} \\times 3\\)",
+    "options": {
+      "A": "1 - \\(\\sqrt{6}\\)",
+      "B": "\\(\\sqrt{6}\\) - 1",
+      "C": "\\(\\sqrt{6}\\)",
+      "D": "1 + \\(\\sqrt{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59824?exam_type=waec&type=obj&page=112",
+    "correct_answer": "D",
+    "explanation": "x*y = x\\(^2\\) - y\\(^2\\) + xy\n(\\(\\sqrt{3}\\))*(\\(\\sqrt{2}\\)) = (\\(\\sqrt{3}\\))\\(^2\\) - (\\(\\sqrt{2}\\))\\(^2\\) + \\(\\sqrt{3}\\) x \\(\\sqrt{2}\\)\n= 3 - 2 + \\(\\sqrt{6}\\)\n= 1 + \\(\\sqrt{6}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "561",
+    "text": "Find the inverse of \\(\\begin{pmatrix} 3 & 5 \\\\ 1 & 2 \\end{pmatrix}\\)",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 5 & 1 \\\\ -3 & 2 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 2 & -5 \\\\ -1 & 3 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -5 & 2 \\\\ -1 & 3 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 5 & 1 \\\\ 2 & 3 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59827?exam_type=waec&type=obj&page=113",
+    "correct_answer": "B",
+    "explanation": "Let A =\u00a0\\(\\begin{pmatrix} 3 & 5 \\\\ 1 & 2 \\end{pmatrix}\\)\n|A| = (3 x 2 - 5 x 1)\n= 6 - 5\n= 1\nA\\(^{-1}\\) =\u00a0\\(\\begin{pmatrix} 2 & -5 \\\\ -1 & 3 \\end{pmatrix}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "562",
+    "text": "If cos x = -0.7133, find the values of x between 0\\(^o\\) and 360\\(^o\\)",
+    "options": {
+      "A": "44.5\\(^o\\)\u00a0, 224.5\\(^o\\)",
+      "B": "123.5\\(^o\\)\u00a0, 190.5\\(^o\\)",
+      "C": "135.5\\(^o\\)\u00a0, 213.5\\(^o\\)",
+      "D": "135.5\\(^o\\)\u00a0, 224.5\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59828?exam_type=waec&type=obj&page=113",
+    "correct_answer": "D",
+    "explanation": "cos x = -0.7133\nx = cos \\(^{-1}\\)(0.7133)\n= 44.496\\(^o\\)\nx = 180 - 44.495\\(^o\\)\nx = 135.5\\(^o\\)\nand x = 180\\(^o\\)\u00a0 + 44.495\\(^o\\)\n= 224.5\\(^o\\)",
+    "year": "2020"
+  },
+  {
+    "number": "563",
+    "text": "If \\(\\int^3_0(px^2 + 16)dx\\) = 129. Find the value of p.",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "7",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59829?exam_type=waec&type=obj&page=113",
+    "correct_answer": "A",
+    "explanation": "\\(\\int^3_0(px^2 + 16)\\) = 129\n\\(\\frac{px^2 + 1}{0 + 3} + 16x|^3_0 = 129\\)\n\\(\\frac{px^3}{3} + 16x|^3_0 = 129\\)\n(\\(\\frac{p(3)^3}{3} + 16(3)\\)) - 0 = 129\n9p + 48 = 129\n9p = 129 - 48\n\\(\\frac{9p}{9} = \\frac{81}{9}\\)\np = 9",
+    "year": "2020"
+  },
+  {
+    "number": "564",
+    "text": "If\u00a0 \\(\\begin{pmatrix} p+q & 1\\\\ 0 & p-q \\end {pmatrix}\\) = \\(\\begin{pmatrix} 2 & 1 \\\\ 0 & 8 \\end{pmatrix}\\)\nFind\u00a0the values of p and q",
+    "options": {
+      "A": "p = 5, q = 3",
+      "B": "p = 5, q = -3",
+      "C": "p = -5, q = -3",
+      "D": "p = -5, q = 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59831?exam_type=waec&type=obj&page=113",
+    "correct_answer": "B",
+    "explanation": "p + q = 2\np - q = 8\n\\(\\overline{\\frac{2p}{2} = \\frac{10}{2}}\\)\np = 5\nfrom p + q = 2\n5 + q = 2\nq = 2 - 5\n= -3",
+    "year": "2020"
+  },
+  {
+    "number": "565",
+    "text": "Given that X\u00a0\u00a0: R \\(\\to\\) R is defined by x = \\(\\frac{y + 1}{5 - y}\\) , y \\(\\in\\) R, find the domain of x.",
+    "options": {
+      "A": "{y : y \\(\\in\\) R, y \\(\\neq\\) 0}",
+      "B": "{y : y \\(\\in\\) R, y \\(\\neq\\) 1}",
+      "C": "{y : y \\(\\in\\) R, y \\(\\neq\\) 5}",
+      "D": "{y : y \\(\\in\\) R, y \\(\\neq\\) 7}"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59832?exam_type=waec&type=obj&page=113",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "566",
+    "text": "Simplify; \\(\\frac{\\sqrt{5} + 3}{4 - \\sqrt{10}}\\)",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)\\(\\sqrt{5}\\) + \\(\\frac{5}{6}\\sqrt{2}\\) + 2",
+      "B": "\\(\\frac{2}{3}\\)\\(\\sqrt{5}\\) + \\(\\frac{5}{6}\\sqrt{2}\\) + \\(\\frac{1}{2}\\sqrt{10}\\)",
+      "C": "\\(\\frac{2}{3}\\)\\(\\sqrt{5}\\) + \\(\\frac{5}{6}\\sqrt{2}\\) + \\(\\frac{1}{2}\\sqrt{10}\\) + 2",
+      "D": "\\(\\frac{2}{3}\\)\\(\\sqrt{5}\\) - \\(\\frac{5}{6}\\sqrt{2}\\) + \\(\\frac{1}{2}\\sqrt{10}\\) + 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59834?exam_type=waec&type=obj&page=114",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{(\\sqrt{5} + 3)(4 + \\sqrt{10})}{(4 - \\sqrt{10})(4 + \\sqrt{10})}\\)\n= \\(\\frac{4\\sqrt{5} + \\sqrt{50} + 12 + 3\\sqrt{10}}{4^2 - (\\sqrt{10})^2}\\)\n= \\(\\frac{4\\sqrt{5} + 5\\sqrt{2} + 12 + 3\\sqrt{10}}{16 - 10}\\)\n= \\(\\frac{4 \\sqrt{5}}{6} +\u00a0\\frac{5 \\sqrt{2}}{6}\u00a0+ \\frac{12}{6} + \\frac{3\\sqrt{10}}{6}\\)\n= \\(\\frac{2}{3}\\)\\(\\sqrt{5}\\) + \\(\\frac{5}{6}\\sqrt{2}\\) + \\(\\frac{1}{2}\\sqrt{10}\\) + 2",
+    "year": "2020"
+  },
+  {
+    "number": "567",
+    "text": "If \\(\\frac{6x + k}{2x^2 + 7x - 15}\\)\u00a0 = \\(\\frac{4}{x + 5} - \\frac{2}{2x - 3}\\). Find the value of k.",
+    "options": {
+      "A": "- 21",
+      "B": "- 22",
+      "C": "- 24",
+      "D": "- 25"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59835?exam_type=waec&type=obj&page=114",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{6x + k}{2x^2 + 7x - 15} = \\frac{4}{x + 5} - \\frac{2}{2x - 3}\\)\n6x + k = 4 (2x - 3) - 2(x + 5)\n6x + k = 8x - 12 - 2x - 10\n6x + k = 6x - 22\nk = - 22",
+    "year": "2020"
+  },
+  {
+    "number": "568",
+    "text": "Differentiate \\(\\frac{x}{x + 1}\\) with respect to x.",
+    "options": {
+      "A": "\\(\\frac{x}{x + 1}\\)",
+      "B": "\\(\\frac{-1}{x + 1}\\)",
+      "C": "\\(\\frac{1 - x}{(x + 1)^2}\\)",
+      "D": "\\(\\frac{1}{(x + 1)^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59839?exam_type=waec&type=obj&page=114",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{d}{dx}(\\frac{x }{x + 1}\\)) = \\(\\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^2}\\)\nu = x, \\(\\frac{du}{dx}\\) = 1, v = x + 1, \\(\\frac{dv}{dx}\\) = 1\n= \\(\\frac{(x + 1)(1) - x (1)}{(x + 1)^2}\\)\n= \\(\\frac{x + 1 - x}{(x + 1)^2}\\)\n= \\(\\frac{1}{(x + 1)^2}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "569",
+    "text": "Given that 2x + 3y - 10 = 0 and 3x = 2y - 11, calculate the value of (x - y).",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "- 3",
+      "D": "- 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59840?exam_type=waec&type=obj&page=114",
+    "correct_answer": "D",
+    "explanation": "2x + 3y = 10 .......1\n3x - 2y = -11 ........2\n4x + 6y = 20\n9x - 6y = -33\n\\(\\overline{\\frac{13x}{13} = \\frac{-13}{13}}\\), x = 1\nfrom\n2x + 3y = 10\n2(-1) + 3y = 10\n-2 + 3y = 10\n3y = 10 + 2\n\\(\\frac{3y}{3} = \\frac{12}{3}\\), y = 4\nx - y = -1 - 4\n= - 5",
+    "year": "2020"
+  },
+  {
+    "number": "570",
+    "text": "If V = plog\\(_x\\), (M + N), express N in terms of X, P, M and V",
+    "options": {
+      "A": "N = X\\(^{\\frac{v}{p}}\\) - M",
+      "B": "N = X\\(^{\\frac{p}{v}}\\) - M",
+      "C": "N = X\\(^{\\frac{v}{p}}\\) + M",
+      "D": "N = X\\(^{\\frac{p}{v}}\\) + M"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59841?exam_type=waec&type=obj&page=114",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{v}{p} = \\frac{p}{p} log _x(M + N)\\)\n\\(\\log_x(M + N) = \\frac{v}{p}\\)\n\\(x^{\\frac{v}{p}} = M + N\\)\nN = X\\(^{\\frac{v}{p}}\\) - M",
+    "year": "2020"
+  },
+  {
+    "number": "571",
+    "text": "Determine the coefficient of x\\(^3\\) in the binomial expansion of ( 1 + \\(\\frac{1}{2}\\)x)",
+    "options": {
+      "A": "\\(\\frac{5}{8}\\)",
+      "B": "\\(\\frac{5}{6}\\)",
+      "C": "\\(\\frac{5}{4}\\)",
+      "D": "\\(\\frac{5}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59842?exam_type=waec&type=obj&page=115",
+    "correct_answer": "C",
+    "explanation": "(1 + \\(\\frac{1}{2} x )^5\\)\n1(1)\\(^3\\)(\\(\\frac{1}{2} x)^0\\) - 5(1)\\(^4\\)(\\(\\frac{1}{2} x)^1\\)\n+ 10 (10)\\(^3\\)(\\(\\frac{1}{2} x )^2\\) + 10(1)\\(^2\\) (\\(\\frac{1}{2} x\\))\\(^3\\)\nCoefficient of x\\(^3\\)\n10(\\(\\frac{1}{2} x)^3\\) = \\(\\frac{10}{8} x^3\\) =\n= \\(\\frac{5}{4}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "572",
+    "text": "Given that P = {x : 1 \\(\\geq\\) x\u00a0\\(\\geq\\) 6} and Q = {x : 2 < x < 10}. Where x are integers, find n(p \\(\\cap\\) Q)",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59843?exam_type=waec&type=obj&page=115",
+    "correct_answer": "A",
+    "explanation": "P = {1, 2, 3, 4, 5, 6}\nQ = {3, 4 , 5, 6, 7, 8, 9}\nP \\(\\cap\\) Q = {3, 4, 5, 6}\nn(P \\(\\cup\\) Q) = 4",
+    "year": "2020"
+  },
+  {
+    "number": "573",
+    "text": "If X = \\(\\frac{3}{5}\\) and cos y = \\(\\frac{24}{25}\\), where X and Y are acute, find the value of cos (X + Y).",
+    "options": {
+      "A": "\\(\\frac{117}{125}\\)",
+      "B": "\\(\\frac{24}{25}\\)",
+      "C": "\\(\\frac{3}{5}\\)",
+      "D": "\\(\\frac{7}{25}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59844?exam_type=waec&type=obj&page=115",
+    "correct_answer": "C",
+    "explanation": "Cos (x + y)\n= cos x cos y - sin x sin y\ncos (x + y) = \\(\\frac{4}{5} \\times \\frac{24}{25} - \\frac{3}{5} \\times \\frac{7}{25}\\)\n= \\(\\frac{96}{125} - \\frac{21}{125} = \\frac{96 - 21}{125}\\)\n= \\(\\frac{75}{125}\\)\n= \\(\\frac{3}{5}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "574",
+    "text": "Find the median of the numbers 9,7, 5, 2, 12,9,9, 2, 10, 10, and 18.",
+    "options": {
+      "A": "7",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59845?exam_type=waec&type=obj&page=115",
+    "correct_answer": "B",
+    "explanation": "Rearrange;\n2, 2, 5, 7, 9, 9, 9, 10, 10, 11, 12, 18\nMedian = 9",
+    "year": "2020"
+  },
+  {
+    "number": "575",
+    "text": "Calculate the probability that the product of two numbers selected at random with replacement from the set {-5,-2,4, 8} is positive",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59846?exam_type=waec&type=obj&page=115",
+    "correct_answer": "B",
+    "explanation": "x -5 -2\u00a0 4 8\n-5 25 10 -20 -40\n-2 10 4 -8 -16\n4 10 4 -8 -16\n4 -20 -8 16 32\n8 -40 -16 32 64\nPr(Two numbers is positive) = \\(\\frac{8}{16}\\)\n= \\(\\frac{1}{2}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "576",
+    "text": "Find the angle between i +\u00a05j and 5i - J",
+    "options": {
+      "A": "0\\(^o\\)",
+      "B": "45\\(^o\\)",
+      "C": "60\\(^o\\)",
+      "D": "90\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59847?exam_type=waec&type=obj&page=116",
+    "correct_answer": "D",
+    "explanation": "a = i + 5j and b = 5i - j\ncos\\(\\theta\\) = \\(\\frac{a.b}{|a|.|b|}\\)\n= \\(\\frac{(1 \\times 5) + (5x - 1)}{(\\sqrt{1^2 + 5^2}) (5^2 + (-1))^2}\\)\n= \\(\\frac{5 - 5}{\\sqrt{26}\\times \\sqrt{26}}\\) = 0\nx = cos\\(^{-1}\\)(0), x = 90\\(^o\\)",
+    "year": "2020"
+  },
+  {
+    "number": "577",
+    "text": "Given that F = 3i - 12j, R = 7i + 5j and N = pi + qj are forces acting on a body, if the body is in equilibrium. find the values of p and q.",
+    "options": {
+      "A": "p=-10, q=7",
+      "B": "p=-10, q=-7",
+      "C": "p=10, q=- 7",
+      "D": "p-10, q=7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59848?exam_type=waec&type=obj&page=116",
+    "correct_answer": "C",
+    "explanation": "If the body is in equilibrium then\nF + R = N\n3i - 12j + 7i + 5j = pi + qj\n10i - 7j = pi + qj\np = 10, q = -7",
+    "year": "2020"
+  },
+  {
+    "number": "578",
+    "text": "A stone was dropped from the top of a building 40m high. Find, correct to one decimal place, the time it\u00a0took the stone to reach the ground. [Take g = 9.8ms\\(^{-2}\\)]",
+    "options": {
+      "A": "2.9.seconds",
+      "B": "2.8 seconds",
+      "C": "2.6 seconds",
+      "D": "1.4 seconds"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59849?exam_type=waec&type=obj&page=116",
+    "correct_answer": "A",
+    "explanation": "s = \\(\\frac{1}{2}gt^2\\)\n40 = \\(\\frac{1}{2} \\times 9.8\u00a0\\times t^2\\)\n\\(\\frac{80}{9.8} = t^2\\)\nt = \\(\\sqrt{8.16326}\\)\nt\u22482.9\u00a0secs",
+    "year": "2020"
+  },
+  {
+    "number": "579",
+    "text": "In which of the following series can be the formula S = \\(\\frac{a}{1 - r}\\)\u00a0where a is the first\u00a0term and r is the common ratio, be used to find the sum of all the terms?",
+    "options": {
+      "A": "4 + 8 + 16 + 32 + ...",
+      "B": "\\(\\frac{1}{2}\\) + 2 \\(\\frac{1}{2}\\) + 12\\(\\frac{1}{2}\\) + 62 \\(\\frac{1}{2}\\) + ..",
+      "C": "\\(\\frac{4}{81}\\) + \\(\\frac{2}{27}\\) + \\(\\frac{1}{9}\\) + \\(\\frac{1}{6}\\) + ...",
+      "D": "128 + 64 + 32 + 16 + ..."
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59850?exam_type=waec&type=obj&page=116",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "580",
+    "text": "If the binomial expansion of (1 + 3x)\\(^6\\) is used to evaluate (0.97)\\(^6\\), find the value of x.",
+    "options": {
+      "A": "0.03",
+      "B": "0.01",
+      "C": "- 0.01",
+      "D": "- 0.03"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59851?exam_type=waec&type=obj&page=116",
+    "correct_answer": "C",
+    "explanation": "(1 + 3x )\\(^6\\) = (0.97)\\(^6\\)\n1 + 3x = 0.97\n3x = 0.97.1\n\\(\\frac{3x}{3} = \\frac{0.03}{3}\\)\nx = -0.01",
+    "year": "2020"
+  },
+  {
+    "number": "581",
+    "text": "Find the nth term of the linear sequence (A.P) (5y + 1), (\u00a02y + 1), (1- y),...",
+    "options": {
+      "A": "(8 + 3n)y + 1",
+      "B": "8y + 3n + 1",
+      "C": "(8 - 3n)y + 1",
+      "D": "8y - 3n + 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59852?exam_type=waec&type=obj&page=117",
+    "correct_answer": "C",
+    "explanation": "Tn = a + (n - 1)d\nTn = 5y + 1 (n - 1) -3y\nTn = 5y + 1 - 3ny + 3y\nTn = 8y - 3ny + 1\nTn = (8 - 3n) y + 1",
+    "year": "2020"
+  },
+  {
+    "number": "582",
+    "text": "A circle with centre (5,-4) passes through the point (5, 0). Find its equation.",
+    "options": {
+      "A": "x\\(^2\\) + y\\(^2\\) + 10x + 8y + 25 =0",
+      "B": "x\\(^2\\) + y\\(^2\\) +10x - 8y - 25 = 0",
+      "C": "x\\(^2\\) + y\\(^2\\) - 10x + 8y + 25 =0",
+      "D": "x\\(^2\\) + y\\(^2\\) -10x - 8y - 25 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59853?exam_type=waec&type=obj&page=117",
+    "correct_answer": "C",
+    "explanation": "(x - h)\\(^2\\) + (y - k)\\(^2\\)\u00a0= r\\(^2\\)\nx\\(^2\\) - 2hx + y\\(^2\\) - 2ky + h\\(^2\\) + k\\(^2\\) = r\\(^2\\)\nx\\(^2\\) - 2(3)x + y\\(^2\\) - 2(-4) y + 5\\(^2\\) + (-4)\\(^2\\) = r\\(^2\\)\nx\\(^2\\) - 10x + y\\(^2\\) + 8y + 25 + 16 = r\\(^2\\)\nx\\(^2\\) - 10x + y\\(^2\\) + 8y + 41 = r\\(^2\\)\nat point (5,0)\n5\\(^2\\) - 10(5) + 0\\(^2\\) + 8(0) + 41 = r\\(^2\\)\n25 - 50 + 41 = r\\(^2\\)\n16 = r\\(^2\\)\nr = \\(\\sqrt{16}\\)\n= 4\nx\\(^2\\) + y\\(^2\\) - 10x + 8y + 25 = 0",
+    "year": "2020"
+  },
+  {
+    "number": "583",
+    "text": "Calculate, correct to two decimal places, the area enclosed by the line 3x - 5y + 4 = 0 and the axes.",
+    "options": {
+      "A": "0.50 square units",
+      "B": "0.51 square units",
+      "C": "0.53 square units",
+      "D": "0.54 square units"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59854?exam_type=waec&type=obj&page=117",
+    "correct_answer": null,
+    "explanation": "Area = \\(\\frac{1}{2} \\times 1.33 \\times 0.8\\)\n= 0.53 square unit",
+    "year": "2020"
+  },
+  {
+    "number": "584",
+    "text": "In how many ways can the letters of the word MEMBER be arranged?",
+    "options": {
+      "A": "720",
+      "B": "360",
+      "C": "180",
+      "D": "90"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59855?exam_type=waec&type=obj&page=117",
+    "correct_answer": "C",
+    "explanation": "No. of ways = \\(\\frac{6!}{2!2!}\\)\n= \\(\\frac{6 \\times 5 \\times 4\u00a0\\times 3 \\times 2!}{2 \\times 1 \\times 2!}\\)\n= 180 ways",
+    "year": "2020"
+  },
+  {
+    "number": "585",
+    "text": "Which of the following is not an equation of a circle?",
+    "options": {
+      "A": "3x\\(^2\\) +3y\\(^2\\) + 5x + 7y =5",
+      "B": "x\\(^2\\) + y\\(^2\\) + 5x + 4y = 0",
+      "C": "5x\\(^2\\) + 5y\\(^2\\) - 16 = 0",
+      "D": "x\\(^2\\) - y\\(^2\\) + 3x - 5y = 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59856?exam_type=waec&type=obj&page=117",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2020"
+  },
+  {
+    "number": "586",
+    "text": "A function f defined by f : x -> x\\(^2\\) + px + q is such that f(3) = 6 and f(3) = 0. Find the value of q.",
+    "options": {
+      "A": "- 9",
+      "B": "- 6",
+      "C": "15",
+      "D": "21"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59857?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "f(x) = x\\(^3\\) + px + q\nf(3) 3\\(^2\\) + 3pf + q = 6\nf\\(^{1}\\)(x) = 2x + p\nf\\(^1\\)(3) = 2(3) + p = 0\np = -6\nfrom 9 + 3p + q = 6\n9 + 3(-6) + q = 6\n9 - 18 + q = 6\n-9 + q = 6\nQ = 6 + 9\n= 15",
+    "year": "2020"
+  },
+  {
+    "number": "587",
+    "text": "In what interval is the function f : x -> 2x - x\\(^2\\) increasing?",
+    "options": {
+      "A": "x = 1",
+      "B": "x < 1",
+      "C": "x > 1",
+      "D": "0 < x < 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59859?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "2x - x\\(^2\\) > 0\n0 > x\\(^2\\) - 2x\nx\\(^2\\) - 2x < 0\nx(x - 2) < 0\nx > 1",
+    "year": "2020"
+  },
+  {
+    "number": "588",
+    "text": "A force of 230N acts in its direction\u00a0065\\(^o\\). Find its horizontal component.",
+    "options": {
+      "A": "208.5N",
+      "B": "197.2N",
+      "C": "118.5N",
+      "D": "97.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59861?exam_type=waec&type=obj&page=118",
+    "correct_answer": "D",
+    "explanation": "Horizontal component = 230 cos 64\n= 97.2N",
+    "year": "2020"
+  },
+  {
+    "number": "589",
+    "text": "Calculate the variance of \\(\\sqrt{2}\\), (1 + \\(\\sqrt{2}\\)) and (2 + \\(\\sqrt{2}\\))",
+    "options": {
+      "A": "0",
+      "B": "\\(\\sqrt{\\frac{2}{3}}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59862?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "x(x - \\(\\bar{x}\\))(x - \\(\\bar{x}\\))\\(\\sqrt{2}\\)1 + \\(\\sqrt{2}\\)2 + \\(\\sqrt{2}\\)-101101\\(\\overline{2}\\)\nvariance = \\(\\frac{\\sum(x - \\bar{x})^2}{n}\\)\n= \\(\\frac{2}{3}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "590",
+    "text": "A three-digit odd number less than 500 is to be formed from 1,2,3,4 and 5. If repetition of digits is allowed, in how many ways can this be done?",
+    "options": {
+      "A": "125",
+      "B": "75",
+      "C": "60",
+      "D": "36"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59864?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "To find the number of three-digit odd numbers less than 500 that can be formed using the digits 1, 2, 3, 4, and 5 with repetition allowed, we follow these steps:\nIdentify the conditions:Three-digit number: The number must have three digits.Odd number: The last digit must be odd.Less than 500: The first digit must be less than 5.\nChoose the last digit:The last digit (which determines if the number is odd) can be one of the odd digits: 1, 3, or 5. Thus, there are\\(3 \\text{ options for the last digit.}\\)\nChoose the first digit:The first digit must be less than 5. Therefore, it can be one of the digits: 1, 2, 3, or 4. Thus, there are\\(4 \\text{ options for the first digit.}\\)\nChoose the middle digit.The middle digit can be any of the digits: 1, 2, 3, 4, or 5 (since repetition is allowed). Thus, there are\\(5 \\text{ options for the middle digit.}\\)\nCalculate the total combinations:Now we multiply the number of choices for each digit:\\(\\text{Total combinations} = (\\text{options for first digit}) \\times (\\text{options for middle digit}) \\times (\\text{options for last digit})\\)\\(\\text{Total combinations} = 4 \\times 5 \\times 3 = 60\\)The number of three-digit odd numbers less than 500 that can be formed is 60.",
+    "year": "2020"
+  },
+  {
+    "number": "591",
+    "text": "The variables x and y are such that y =2x\\(^3\\) - 2x\\(^2\\) - 5x + 5. Calculate the corresponding change in y and x changes from\u00a02.00 to 2.05.",
+    "options": {
+      "A": "0.58",
+      "B": "0.95",
+      "C": "1.48",
+      "D": "1.95"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59865?exam_type=waec&type=obj&page=119",
+    "correct_answer": "A",
+    "explanation": "When x = 2\ny = 2(2)\\(^3\\) - 2(2)\\(^2\\)\n-5(2) + 5\ny = 16 - 8 - 10 + 5\ny = 3\nwhen x = 2.05\ny = 2(2.105)\\(^3\\) - 2(2.05)\\(^2\\)\n- 5(2.05) + 5\ny = 17.23 - 8.405 - 10.25 + 5\ny = 3.575 - 3\nDifference = 3.575 - 3\n= 0.58",
+    "year": "2020"
+  },
+  {
+    "number": "592",
+    "text": "A bag contains 5 red and 5 blue identical balls. Three balls are selected at random without replacement. Determine the probability of selecting balls alternating in color.",
+    "options": {
+      "A": "\\(\\frac{7}{18}\\)",
+      "B": "\\(\\frac{5}{18}\\)",
+      "C": "\\(\\frac{5}{36}\\)",
+      "D": "\\(\\frac{1}{36}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59866?exam_type=waec&type=obj&page=119",
+    "correct_answer": "C",
+    "explanation": "probability of selecting three balls with alternating colours = probability of selecting a blue ball (without replacement) x probability of selecting a red ball (without replacement) x probability of selecting a blue ball (without replacement)\nIn this case, we will be using the first instance (both would give the same answer since the number of blue and red balls are equal)\nfirst: probability of selecting a red ball (without replacement) = \\(\\frac{5}{10}\\) = \\(\\frac{1}{2}\\)\nsecond: the probability of selecting a blue ball (without replacement) = \\(\\frac{5}{9}\\)\nthird: probability of selecting a red ball (without replacement) = \\(\\frac{4}{8}\\) = \\(\\frac{1}{2}\\)\nTherefore, the probability of selecting three balls with alternating colours = \\(\\frac{1}{2}\\) x \\(\\frac{5}{9}\\) x \\(\\frac{1}{2}\\)\n= \\(\\frac{5}{36}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "593",
+    "text": "The distance(s) in metres covered by a particle in motion at any time, t\u00a0seconds, is given by S =120t - 16t\\(^2\\).\u00a0Find in metres, the distance covered by the body before coming to rest.",
+    "options": {
+      "A": "220",
+      "B": "222",
+      "C": "223",
+      "D": "225"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59867?exam_type=waec&type=obj&page=119",
+    "correct_answer": "D",
+    "explanation": "s = 120t - 16t\\(^2\\) - 16t\\(^2\\)\n\\(\\frac{ds}{dt} = 120 - 32t\\)\n120 - 32t = 0\n\\(\\frac{32t}{32}\\) = \\(\\frac{120}{32}\\)\nt = 3.75\ns = 120(3.75) - 16(3.75)\\(^2\\)\n= 450 - 225\n= 225",
+    "year": "2020"
+  },
+  {
+    "number": "594",
+    "text": "P(3,4) and Q(-3, -4) are two points in a plane. Find the gradient of the line that is normal to the line PQ.",
+    "options": {
+      "A": "\\(\\frac{4}{3}\\)",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{-3}{4}\\)",
+      "D": "\\(\\frac{-4}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59868?exam_type=waec&type=obj&page=119",
+    "correct_answer": "B",
+    "explanation": "Gradient = \\(\\frac{-4 - 4}{-3 - 3}\\)\n= \\(\\frac{-8}{6}\\)\n= \\(\\frac{4}{3}\\)\nNormal = -(\\(\\frac{1}{\\frac{1}{4}}\\))\n= \\(\\frac{-3}{4}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "595",
+    "text": "Find the unit vector in the direction opposite\u00a0to the resultant of forces.\u00a0\u00a0F\\(_1\\) = (-2i - 3j) and F\\(_2\\)\u00a0= (5i - j)",
+    "options": {
+      "A": "\\(\\frac{1}{5}\\)(-3i - 4j)",
+      "B": "\\(\\frac{1}{5}\\)(-3i + 4j)",
+      "C": "\\(\\frac{1}{5}\\)(3i - 4j)",
+      "D": "\\(\\frac{1}{5}\\)(3i + 4j)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59872?exam_type=waec&type=obj&page=119",
+    "correct_answer": "C",
+    "explanation": "Resultant\n(- 2i - 3j) + (5i - j)\n= 3i - 4j\nUnit vector\n= \\(\\frac{3i - 4j}{|3i - 4j|} = \\frac{3i - 4j}{\\sqrt{3i } + (-4)}\\)\n= \\(\\frac{3i - 4j}{\\sqrt{25}}\\)\n= \\(\\frac{3i - 4j}{5}\\)",
+    "year": "2020"
+  },
+  {
+    "number": "596",
+    "text": "If the sum of the roots of 2x\\(^2\\) + 5mx + n = 0 is 5, find the value of m.",
+    "options": {
+      "A": "- 2.5",
+      "B": "- 2.0",
+      "C": "2.0",
+      "D": "2.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59874?exam_type=waec&type=obj&page=120",
+    "correct_answer": "B",
+    "explanation": "Sum of roots = \\(\\frac{-a}{b}\\)\n= \\(\\frac{-5m}{2}\\) = 5\n\\(\\frac{-5m}{m} = \\frac{10}{-5}\\)\nm = -2",
+    "year": "2020"
+  },
+  {
+    "number": "597",
+    "text": "If log 5(\\(\\frac{125x^3}{\\sqrt[ 3 ] {y}}\\) is expressed in the\u00a0values of p, q\u00a0and k respectively.",
+    "options": {
+      "A": "3, \\(\\frac{-1}{3}\\), 5",
+      "B": "\\(\\frac{-1}{3}\\), 3, 5",
+      "C": "3, \\(\\frac{-1}{3}\\), 3",
+      "D": "3, \\(\\frac{-1}{3}\\), 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59876?exam_type=waec&type=obj&page=120",
+    "correct_answer": "D",
+    "explanation": "log\\(_5\\) (\\(\\frac{125x^3}{\\sqrt[3] {y}}\\))\n= \\(\\log_5 125 x^3 - \\log _1 x^3 - log_5 y\\frac{1}{3}\\)\n= \\(3 log_5 5 + 3 log_5 x - \\frac{1}{3} log _5 y\\)\n= 3, - \\(\\frac{1}{3}\\), 3",
+    "year": "2020"
+  },
+  {
+    "number": "598",
+    "text": "Consider the statements:\nx: Birds fly\ny:\u00a0 The sky is blue\nWhich of the following statements can be represented as x \\(\\to\\)\u00a0y?",
+    "options": {
+      "A": "When birds fly, the sky is blue",
+      "B": "Birds fly if and only if the sky is blue?",
+      "C": "Either the bird is flying or the sky is blue.",
+      "D": "When the sky is blue, the bird flies."
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/59879?exam_type=waec&type=obj&page=120",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2020"
+  }
+]
