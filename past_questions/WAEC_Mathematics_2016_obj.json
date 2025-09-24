@@ -8,8 +8,9 @@
       "C": "5",
       "D": "4"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46039?exam_type=waec&type=obj&page=272",
     "correct_answer": "D",
-    "explanation": "23",
+    "explanation": "x\nx\nx\n1\no\n2\n1\no\no\n2\n1\no\n2\n2\n2\n2\n2",
     "year": "2016"
   },
   {
@@ -21,8 +22,9 @@
       "C": "\\(\\frac{1}{10}\\)",
       "D": "1\\(\\frac{7}{10}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46042?exam_type=waec&type=obj&page=272",
     "correct_answer": "C",
-    "explanation": "(\\(\\frac{3}{4} - \\frac{2}{3}\\)) x 1\\(\\frac{1}{5}\\)",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -34,8 +36,9 @@
       "C": "8.66",
       "D": "3.87"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46046?exam_type=waec&type=obj&page=272",
     "correct_answer": "B",
-    "explanation": "Note that \\(\\frac{10\\sqrt{3}}{\\sqrt{5}} = \\frac{10\\sqrt{3}}{\\sqrt{5}} \\times - \\frac{\\sqrt{5}}{\\sqrt{5}}\\)",
+    "explanation": "2\n2",
     "year": "2016"
   },
   {
@@ -47,8 +50,9 @@
       "C": "180cm",
       "D": "225cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46056?exam_type=waec&type=obj&page=273",
     "correct_answer": "C",
-    "explanation": "d \\(\\alpha\\) t",
+    "explanation": "2\n2\n2\n2\n2",
     "year": "2016"
   },
   {
@@ -60,6 +64,7 @@
       "C": "Joseph is a Nigerian footballer therefore he is a good footballer",
       "D": "Joseph plays good football therefore he is a Nigerian footballer"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46076?exam_type=waec&type=obj&page=273",
     "correct_answer": "C",
     "explanation": "",
     "year": "2016"
@@ -73,8 +78,9 @@
       "C": "8cm2",
       "D": "8cm2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46078?exam_type=waec&type=obj&page=273",
     "correct_answer": "B",
-    "explanation": "On a map, 1cm represents 5km. Then it follows that 1cm",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2",
     "year": "2016"
   },
   {
@@ -86,8 +92,9 @@
       "C": "3n",
       "D": "3n + 1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46096?exam_type=waec&type=obj&page=273",
     "correct_answer": "B",
-    "explanation": "\\(\\frac{3^{n - 1} \\times 27^{n + 1}}{81^{n}}\\)",
+    "explanation": "2",
     "year": "2016"
   },
   {
@@ -99,8 +106,9 @@
       "C": "D12,000.00",
       "D": "D16,000.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46097?exam_type=waec&type=obj&page=273",
     "correct_answer": "A",
-    "explanation": "A = P + 1",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -112,8 +120,9 @@
       "C": "21x2 - x + 12 = 0",
       "D": "21x2 + 7x - 4 = 0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46098?exam_type=waec&type=obj&page=274",
     "correct_answer": "A",
-    "explanation": "Let x = \\(\\frac{4}{3}\\), x =  -\\(\\frac{3}{7}\\)",
+    "explanation": "2\n2",
     "year": "2016"
   },
   {
@@ -125,8 +134,9 @@
       "C": "3, -7",
       "D": "-3, -7"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46100?exam_type=waec&type=obj&page=274",
     "correct_answer": "C",
-    "explanation": "\\(\\frac{y^2 - 9y + 18}{y^2 + 4y - 21}\\)",
+    "explanation": "2\n2",
     "year": "2016"
   },
   {
@@ -138,8 +148,9 @@
       "C": "7",
       "D": "17"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46103?exam_type=waec&type=obj&page=274",
     "correct_answer": "C",
-    "explanation": "2x + y = 7...(1)",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -151,8 +162,9 @@
       "C": "\\(\\frac{3x + 1}{ x(1 - x)}\\)",
       "D": "\\(\\frac{x - 1}{ x(1 - x)}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46106?exam_type=waec&type=obj&page=274",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\frac{2}{1 - x} - \\frac{1}{x}\\) = \\(\\frac{2x - 1(1 - x)}{x(1 - x)}\\)= \\(\\frac{2x - 1\u00a0+ x}{x(1 - x)}\\)= \\(\\frac{3x - 1}{x(1 - x)}\\)",
     "year": "2016"
   },
   {
@@ -164,8 +176,9 @@
       "C": "s = \\(\\frac{nrp}{mr + m^2}\\)",
       "D": "s = \\(\\frac{nrp}{nr + m^2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46107?exam_type=waec&type=obj&page=274",
     "correct_answer": "D",
-    "explanation": "P = S + \\(\\frac{sm^2}{nr}\\)",
+    "explanation": "2",
     "year": "2016"
   },
   {
@@ -177,8 +190,9 @@
       "C": "(3x + y)(x - 7y)",
       "D": "(3x - y)(2x + 7y)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46109?exam_type=waec&type=obj&page=275",
     "correct_answer": "A",
-    "explanation": "(2x + 3y)",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2",
     "year": "2016"
   },
   {
@@ -190,8 +204,9 @@
       "C": "3.6cm",
       "D": "7.0cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46112?exam_type=waec&type=obj&page=275",
     "correct_answer": "B",
-    "explanation": "Curved surface area of cylinder = 2\\(\\pi\\)rh",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -203,8 +218,9 @@
       "C": "6",
       "D": "8"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46113?exam_type=waec&type=obj&page=275",
     "correct_answer": "A",
-    "explanation": "Volume of pyramid = \\(\\frac{1}{3}\\)lbh",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -216,21 +232,23 @@
       "C": "\\(\\frac{3}{2}\\)",
       "D": "\\(\\frac{5}{3}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46117?exam_type=waec&type=obj&page=275",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Let: (x1, y1) = (1, 2)(x2, y2) = (5, 8)The gradient m of \\(\\bar{PQ}\\) is given bym = \\(\\frac{y_2 y_1}{x_2 - x_1}\\)= \\(\\frac{8 - 2}{5 - 1}\\)= \\(\\frac{6}{4}\\)= \\(\\frac{3}{2}\\)",
     "year": "2016"
   },
   {
     "number": "1375",
-    "text": "A straight line passes through the point P(1,2) and Q\r\n(5,8). Calculate the length PQ",
+    "text": "A straight line passes through the point P(1,2) and Q\n(5,8). Calculate the length PQ",
     "options": {
       "A": "\\(4\\sqrt{11}\\)",
       "B": "\\(4\\sqrt{10}\\)",
       "C": "\\(2\\sqrt{17}\\)",
       "D": "\\(2\\sqrt{13}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46119?exam_type=waec&type=obj&page=275",
     "correct_answer": "D",
-    "explanation": "|PQ| = \\(\\sqrt{(x_2 - X- 1) + (y_2 - y_1)^2}\\)",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -242,8 +260,9 @@
       "C": "60o",
       "D": "69o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46120?exam_type=waec&type=obj&page=276",
     "correct_answer": "D",
-    "explanation": "sin 60",
+    "explanation": "o\no\n-1\no\no",
     "year": "2016"
   },
   {
@@ -255,21 +274,23 @@
       "C": "60",
       "D": "65"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46123?exam_type=waec&type=obj&page=276",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Number of students in the club is10 + 24 + 8 + 5 + 3 = 50",
     "year": "2016"
   },
   {
     "number": "1378",
-    "text": "\\(\\begin{array}{c|c} \r\nAge(years) & 13 & 14 & 15 & 16 & 17 \\\\ \r\n\\hline \r\nFrequency & 10 & 24 & 8 & 5 & 3\r\n\\end{array}\\)\r\nFind the median age",
+    "text": "\\(\\begin{array}{c|c} \nAge(years) & 13 & 14 & 15 & 16 & 17 \\\\ \n\\hline \nFrequency & 10 & 24 & 8 & 5 & 3\n\\end{array}\\)\nFind the median age",
     "options": {
       "A": "13",
       "B": "14",
       "C": "15",
       "D": "16"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46126?exam_type=waec&type=obj&page=276",
     "correct_answer": "B",
-    "explanation": "Median = \\(\\frac{N}{2}\\)th age",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -281,8 +302,9 @@
       "C": "105o",
       "D": "110o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46153?exam_type=waec&type=obj&page=276",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "In the diagram above, \\(x_1\\) = 50\u00ba(angles in alternate segment)\\(x_1\\) = \\(x_2\\)(base angles of isos. \\(\\Delta\\))< UXY + \\(x_2\\) + 50\u00ba\u00a0= 180\u00ba(sum of angles on a straight line)< UXY + 50\u00ba\u00a0+ 50\u00ba\u00a0= 180\u00ba< UXY + 100\u00ba\u00a0= 180\u00ba< UXY = 180\u00ba\u00a0- 100\u00ba= 80\u00ba",
     "year": "2016"
   },
   {
@@ -294,8 +316,9 @@
       "C": "67o",
       "D": "89o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46170?exam_type=waec&type=obj&page=276",
     "correct_answer": "B",
-    "explanation": "In In the diagram given, \\(\\alpha\\) = 22",
+    "explanation": "o\no\no\no\no\no\no\no\no",
     "year": "2016"
   },
   {
@@ -307,8 +330,9 @@
       "C": "40",
       "D": "72"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46171?exam_type=waec&type=obj&page=277",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no",
     "year": "2016"
   },
   {
@@ -320,6 +344,7 @@
       "C": "7.5m",
       "D": "9.0m"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46172?exam_type=waec&type=obj&page=277",
     "correct_answer": "C",
     "explanation": "",
     "year": "2016"
@@ -333,8 +358,9 @@
       "C": "34o",
       "D": "27o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46173?exam_type=waec&type=obj&page=277",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "1\no\no\no\n1\n2\n1\n2\no\no\no\no\no\no\no",
     "year": "2016"
   },
   {
@@ -346,8 +372,9 @@
       "C": "72o",
       "D": "60o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46174?exam_type=waec&type=obj&page=277",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "In the diagram, < TUQ + 60o(corresp. angles)< QTU = 48o (alternate angles)< QU + 60o + 48o = 180o(sum of angles of a \\(\\Delta\\))< TQU = 180o - 108o= 72o",
     "year": "2016"
   },
   {
@@ -359,8 +386,9 @@
       "C": "75o",
       "D": "60o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46175?exam_type=waec&type=obj&page=277",
     "correct_answer": "C",
-    "explanation": "In \\(\\Delta\\) UXT, tan\\(\\alpha\\) = \\(\\frac{1}{\\sqrt{3}}\\)",
+    "explanation": "-1\no\n-1\no\no\no\no",
     "year": "2016"
   },
   {
@@ -372,8 +400,9 @@
       "C": "Le 3,600,000.00",
       "D": "Le 4,500,000.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46180?exam_type=waec&type=obj&page=278",
     "correct_answer": "C",
-    "explanation": "sectoral angle representing food",
+    "explanation": "o\no\no",
     "year": "2016"
   },
   {
@@ -385,8 +414,9 @@
       "C": "\\(\\frac{5}{18}\\)",
       "D": "\\(\\frac{2}{3}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46191?exam_type=waec&type=obj&page=278",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\begin{array}{c|c}& 1 & 2 & 3 & 4 & 5 & 6 \\\\\\hline1 & 1,1 & 1,2 & 1,3 & 1,4 & 1,5 & 1,6 \\\\ \\hline 2 & 2,1 & 2,2 & 2,3 & 2,4 & 2,5 & 2,6 \\\\ \\hline 3 & 3,1 & 3,2 & 3,3 & 3,4 & 3,5 & 3,6 \\\\ \\hline 4 & 4,1 & 4,2 & 4,3 & 4,4 & 4,5 & 4,6 \\\\ 5 & 5,1 & 5,2 & 5,3 & 5,4 & 5,5 & 5,6 \\\\ \\hline 6 & 6,1 & 6,2 & 6,3 & 6,4 & 6,5 & 6,6\\end{array}\\)From the table above, event space, n(E) = 6sample space, n(S) = 36Hence, probability sum of scores is at least 10, is;\\(\\frac{n(E)}{n(S)}\\)= \\(\\frac{6}{36}\\)= \\(\\frac{1}{6}\\)",
     "year": "2016"
   },
   {
@@ -398,8 +428,9 @@
       "C": "13",
       "D": "11"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46193?exam_type=waec&type=obj&page=278",
     "correct_answer": "C",
-    "explanation": "First, arrange the marks in order of magnitude; 3, 4, 5, 7, 10, 13, 14, 16",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -411,8 +442,9 @@
       "C": "8.67",
       "D": "11"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46196?exam_type=waec&type=obj&page=278",
     "correct_answer": "D",
-    "explanation": "Log",
+    "explanation": "2\n2\n2\n5\n2\n2",
     "year": "2016"
   },
   {
@@ -424,8 +456,9 @@
       "C": "3",
       "D": "6"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46199?exam_type=waec&type=obj&page=278",
     "correct_answer": "C",
-    "explanation": "Volume of sphere = Volume of cylinder",
+    "explanation": "3",
     "year": "2016"
   },
   {
@@ -437,8 +470,9 @@
       "C": "1,980",
       "D": "2,000"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46203?exam_type=waec&type=obj&page=279",
     "correct_answer": "D",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2016"
   },
   {
@@ -450,8 +484,9 @@
       "C": "81cm2",
       "D": "27cm2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46204?exam_type=waec&type=obj&page=279",
     "correct_answer": "C",
-    "explanation": "Area of \\(\\Delta\\) QNP = \\(\\frac{1}{2} \\times 9 \\times 6 \\) = 27cm",
+    "explanation": "2\n2",
     "year": "2016"
   },
   {
@@ -463,8 +498,9 @@
       "C": "55o",
       "D": "42o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46207?exam_type=waec&type=obj&page=279",
     "correct_answer": "B",
-    "explanation": "Perimeter of a sector",
+    "explanation": "o",
     "year": "2016"
   },
   {
@@ -476,8 +512,9 @@
       "C": "{e, f, g}",
       "D": "{e, f, g}"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46208?exam_type=waec&type=obj&page=279",
     "correct_answer": "A",
-    "explanation": "From the venn diagram given,",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -489,8 +526,9 @@
       "C": "3",
       "D": "4"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46209?exam_type=waec&type=obj&page=279",
     "correct_answer": "B",
-    "explanation": "First, reduce 20(mod 9) to its simplest form in mod 9; 9 x 2 + 2 = 2(mod 9)",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -502,8 +540,9 @@
       "C": "\\(\\frac{1}{p - 2r}\\)",
       "D": "\\(\\frac{2p}{p - 2r}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46211?exam_type=waec&type=obj&page=280",
     "correct_answer": "A",
-    "explanation": "\\(\\frac{(p - r)^2 - r^2}{2p^2 - 4pr}\\)",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -515,8 +554,9 @@
       "C": "60o",
       "D": "80o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46213?exam_type=waec&type=obj&page=280",
     "correct_answer": "A",
-    "explanation": "In the diagram, < RPQ = 80",
+    "explanation": "o\no\no\no\no",
     "year": "2016"
   },
   {
@@ -528,8 +568,9 @@
       "C": "\\(\\frac{20}{81}\\)",
       "D": "\\(\\frac{5}{9}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46215?exam_type=waec&type=obj&page=280",
     "correct_answer": "C",
-    "explanation": "n(red balls) = 5",
+    "explanation": "1\n2",
     "year": "2016"
   },
   {
@@ -541,8 +582,9 @@
       "C": "4",
       "D": "8"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46218?exam_type=waec&type=obj&page=280",
     "correct_answer": "A",
-    "explanation": "Y = x",
+    "explanation": "2\n2",
     "year": "2016"
   },
   {
@@ -554,8 +596,9 @@
       "C": "11, 15, 19",
       "D": "13, 21, 34"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46219?exam_type=waec&type=obj&page=280",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "0, 1, 1, 2, 3, 5, 8.\n0 + 1 = 1\n1+ 1 = 21+ 2 = 3\n2 + 3 = 5\n3 + 5 = 8\n5 + 8 = 13\n8 + 13 = 21\n13 + 21 = 34",
     "year": "2016"
   },
   {
@@ -567,8 +610,9 @@
       "C": "27.5",
       "D": "28.0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46222?exam_type=waec&type=obj&page=281",
     "correct_answer": "B",
-    "explanation": "Lower quartile,",
+    "explanation": "1",
     "year": "2016"
   },
   {
@@ -580,8 +624,9 @@
       "C": "18",
       "D": "12"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46223?exam_type=waec&type=obj&page=281",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "o\no\no\no",
     "year": "2016"
   },
   {
@@ -593,8 +638,9 @@
       "C": "5 - \\(\\frac{n}{2}\\)",
       "D": "\\(\\frac{n}{2}\\) + 5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46225?exam_type=waec&type=obj&page=281",
     "correct_answer": "D",
-    "explanation": "Halima's age = n years old",
+    "explanation": "",
     "year": "2016"
   },
   {
@@ -606,8 +652,9 @@
       "C": "17cm",
       "D": "12cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46226?exam_type=waec&type=obj&page=281",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "o\no",
     "year": "2016"
   },
   {
@@ -619,8 +666,9 @@
       "C": "7.51m",
       "D": "7.15m"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46227?exam_type=waec&type=obj&page=281",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "o\no",
     "year": "2016"
   },
   {
@@ -632,6 +680,7 @@
       "C": "m = p + n",
       "D": "n = m + p"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46229?exam_type=waec&type=obj&page=282",
     "correct_answer": "D",
     "explanation": "",
     "year": "2016"

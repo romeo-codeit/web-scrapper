@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1757",
+    "text": "Multiply 3.4 x 10\\(^{-5}\\) by 7.1 x 10\\(^8\\) and leave the answer in standard form.",
+    "options": {
+      "A": "2.414 x 10\\(^2\\)",
+      "B": "2.414 x 10\\(^3\\)",
+      "C": "2.414 x 10\\(^4\\)",
+      "D": "2.414 x 10\\(^5\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71740?exam_type=waec&type=obj&page=352",
+    "correct_answer": "C",
+    "explanation": "3.4 x 10\\(^{-5}\\) by 7.1 x 10\\(^8\\) = ( 3.4 x 7.1) x 10\\(^{-5 + 8}\\)\n= 24.14 x 10\\(^3\\)\n= 2.414 x 10\\(^4\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1758",
+    "text": "Given that P = {p: 1< p < 20}, where p is an integer and R = {r : 0 \\(\\leq\\) r \\(\\leq\\) 25, where r is a multiple of 4}. Find P \u2229\u00a0R",
+    "options": {
+      "A": "{4, 8, 10, 16}",
+      "B": "{4, 8, 12, 16}",
+      "C": "{4, 8, 12, 16, 20}",
+      "D": "{4, 8, 12, 16, 20, 24}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71747?exam_type=waec&type=obj&page=352",
+    "correct_answer": "B",
+    "explanation": "P = {p:1 < p < 20}\nThen,\u00a0 P = { 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19}\nR = { r : 0 \\(\\leq\\) 25, r is a multiple of 4 }\nThen R = { 0, 4, 8, 12, 16, 20, 24}\nThus, P\u00a0\u2229 R = {4, 8, 12, 16}",
+    "year": "2024"
+  },
+  {
+    "number": "1759",
+    "text": "The first term of an Arithmetic Progression (A.P) is 2 and the last term is 29. If the common difference is 3, how many terms are in the A.P.?",
+    "options": {
+      "A": "8",
+      "B": "9",
+      "C": "10",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71749?exam_type=waec&type=obj&page=352",
+    "correct_answer": "C",
+    "explanation": "T\\(_n\\) = 29, a = 2, d = 3 and n = ?\nT\\(_n\\) = a + (n - 1 ) d\n29 = 2 + (n - 1) x 3\n29 = 2 +\u00a0 3n - 3\n3n = 29 + 3 - 2 = 30\nn = \\(\\frac{30}{3}\\) = 10",
+    "year": "2024"
+  },
+  {
+    "number": "1760",
+    "text": "Express in index form: log\\(_a^x\\) + log\\(_a^y\\) = 3",
+    "options": {
+      "A": "x + y = 3",
+      "B": "xy = 3",
+      "C": "xy = a\\(^3\\)",
+      "D": "x + y = a\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71751?exam_type=waec&type=obj&page=352",
+    "correct_answer": "C",
+    "explanation": "According to the laws of logarithms:\u00a0 log\\(_a^x\\) + log\\(_a^y\\) = 3\n= log\\(_a^{xy}\\) =3 and this in index form\n= xy = a\\(^3\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1761",
+    "text": "Simplify: (2p - q)\\(^2\\) - (p + q)\\(^2\\)",
+    "options": {
+      "A": "3p(p - 2q)",
+      "B": "2p(p - 3q)",
+      "C": "3p(2p - q)",
+      "D": "2p(3p - q)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71756?exam_type=waec&type=obj&page=353",
+    "correct_answer": "A",
+    "explanation": "(2p - q)\\(^2\\) - (p + q)\\(^2\\)\nUsing the difference of two squares\n(2p - q)\\(^2\\) - (p + q)\\(^2\\)\u00a0 = ( 2p - q + p + q)(2p - q - (p + q))\n= 3p(2p - q - p - q) = 3p(p - 2q)",
+    "year": "2024"
+  },
+  {
+    "number": "1762",
+    "text": "If (3 - 4\\(\\sqrt{2}\\))(1 + 3\\(\\sqrt{2}\\)) = a + b\\(\\sqrt{2}\\),\u00a0 find the value of b",
+    "options": {
+      "A": "-5",
+      "B": "5",
+      "C": "-21",
+      "D": "21"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71760?exam_type=waec&type=obj&page=353",
+    "correct_answer": "B",
+    "explanation": "(3 - 4\\(\\sqrt{2}\\))(1 + 3\\(\\sqrt{2}\\)) = a + b\\(\\sqrt{2}\\),\n3 + 9\\(\\sqrt{2} -\u00a04\\sqrt{2} - (4\\sqrt{2} \\times 3\\sqrt{2}) = a + b\\sqrt{2}\\)\n3 + 5\\(\\sqrt{2} - (4 \\times 3\\sqrt{2} \\times\u00a0\\sqrt{2}) = a + b\\sqrt{2}\\)\n3 + 5\\(\\sqrt{2} - (12 \\times 2) = a + b\\sqrt{2}\\)\n3 + 5\\(\\sqrt{2} - 24 = a + b\\sqrt{2}\\)\n-21 + 5\\(\\sqrt{2}\\)\u00a0= a + b\\(\\sqrt{2}\\)\nComparing both sides, we have b = 5",
+    "year": "2024"
+  },
+  {
+    "number": "1763",
+    "text": "Find the sum for which $ 1,250.00 will amount to $ 2,031.25 at 12.5% per annum simple interest.",
+    "options": {
+      "A": "2 years",
+      "B": "3 years",
+      "C": "4 years",
+      "D": "5 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71762?exam_type=waec&type=obj&page=353",
+    "correct_answer": "D",
+    "explanation": "Simple interest = Amount - Principal = $(2,031.25 - 1,250) = $ 781.25\nS.I = \\(\\frac{\\text{PRT}}{100}\\)\n781.25 = \\(\\frac{1250\u00a0\\times 12.5 \\times\u00a0T}{100}\\)\nT = \\(\\frac{781.25 \\times 100}{1250 \\times 12.5}\\) = 5 years.",
+    "year": "2024"
+  },
+  {
+    "number": "1764",
+    "text": "If log\\(_3^{2x - 1}\\) = 5, find the value of x",
+    "options": {
+      "A": "8",
+      "B": "16",
+      "C": "64",
+      "D": "122"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71765?exam_type=waec&type=obj&page=353",
+    "correct_answer": "D",
+    "explanation": "log\\(_3^{2x - 1}\\) = 5\u00a0in index form becomes\u00a0 3\\(^5\\) = 2x - 1\n2x - 1 = 243\n2x = 243 + 1 = 244\nx = \\(\\frac{244}{2}\\) = 122",
+    "year": "2024"
+  },
+  {
+    "number": "1765",
+    "text": "The population of a town increases by 3% every year. In the year 2000, the population was 3000. Find the population in the year 2003.",
+    "options": {
+      "A": "3,182",
+      "B": "3,278",
+      "C": "6,591",
+      "D": "7,515"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71769?exam_type=waec&type=obj&page=353",
+    "correct_answer": "B",
+    "explanation": "Using P\\(_n\\) = P\\(_o\\)(1 + \\frac{r}{100})^n\\)\nP\\(_n\\) = 3000(1 + \\frac{3}{100})^3\\)\n= 3000(1.03)\\(^3\\) = 3278",
+    "year": "2024"
+  },
+  {
+    "number": "1766",
+    "text": "A\u00a0 trader gave a change of # 540.00 instead of # 570.00 to a customer. Caculate the percentage error.",
+    "options": {
+      "A": "5\\(\\frac{5}{19}\\)%",
+      "B": "5\\(\\frac{5}{9}\\)%",
+      "C": "5\\(\\frac{7}{19}\\)%",
+      "D": "5\\(\\frac{7}{9}\\)%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71772?exam_type=waec&type=obj&page=354",
+    "correct_answer": "A",
+    "explanation": "% error = \\(\\frac{\\text{Error}}{\\text{Actual value}}\\) x 100%\nError = #570 - #540 = #30\n% error = \\(\\frac{30}{570}\\) x 100%\n= \\(\\frac{100}{19}\\)% = 5\\(\\frac{5}{19}\\)%",
+    "year": "2024"
+  },
+  {
+    "number": "1767",
+    "text": "The interior angle of a regular polygon is 168\u00ba. Find the number of sides of the polygon.",
+    "options": {
+      "A": "24",
+      "B": "30",
+      "C": "15",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71773?exam_type=waec&type=obj&page=354",
+    "correct_answer": "B",
+    "explanation": "Nos of sides of a regular polygon is given by:\u00a0 \\(\\frac{(n - 2) \\times 180}{\\text{n}}\\) = One interior angle of the polygon.\nwhere n = number of sides of the polygon\n168 =\u00a0\\(\\frac{(n - 2) \\times 180}{\\text{n}}\\)\nCross multiplying, we have:\n168n = 180n - 360\n168n - 180n = - 360\n- 12n = - 360\nn = \\(\\frac{-360}{-12}\\) = 30.",
+    "year": "2024"
+  },
+  {
+    "number": "1768",
+    "text": "If 3x - 2y = - 5 and x + 2y = 9, find the value of \\(\\frac{x - y}{x + y}\\)",
+    "options": {
+      "A": "\\(\\frac{5}{3}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(\\frac{-3}{5}\\)",
+      "D": "\\(\\frac{-5}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71774?exam_type=waec&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "Solving\u00a03x - 2y = -5 and x + 2y = 9 simultaneously using elimination method\n3x - 2y = - 5 ----------- (i)\nx + 2y = 9 ----------- (ii)\n4x = 4\nx = 1\nput x = 1 into eqn ---(ii)\nx + 2y = 9 becomes\u00a0 1 + 2y = 9\n2y = 9 - 1 = 8\ny = \\(\\frac{8}{2}\\) = 4\nx = 1 and y = 4\nTherefore,\u00a0\\(\\frac{x - y}{x + y}\\) =\u00a0\\(\\frac{1\u00a0- 4}{1\u00a0+ 4}\\) =\u00a0\\(\\frac{- 3}{5}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1769",
+    "text": "A variable W varies partly as M and Partly inversely as P. Which of the following correctly represents the relation with k\\(_1\\) and k\\(_2\\) constants?",
+    "options": {
+      "A": "W = \\(\\frac{k_1M}{k_2P}\\)",
+      "B": "W = (\\(k_1 + k_2\\))\\(\\frac{\\text{M}}{\\text{P}}\\)",
+      "C": "W =\u00a0k\\(_1\\)M +\u00a0 \\(\\frac{k_2}{P}\\)",
+      "D": "W =\u00a0(k\\(_1 +\u00a0k_2\\))M + P"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71775?exam_type=waec&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "W \u221d M\u00a0 and\u00a0W \u221d \\(\\frac{1}{P}\\)\nIf a variable\u00a0W varies partly as\u00a0M and partly inversely as\u00a0P, the relationship can be expressed as:\nW =\u00a0k\\(_1\\)M +\u00a0 \\(\\frac{k_2}{P}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1770",
+    "text": "A cylindrical metallic barrel of height 2.5m and radius 0.245 is closed at one end. Find, correct to one decimal place, the total surface area of the barrel (Take\u00a0\u03c0 = \\(\\frac{22}{7}\\))",
+    "options": {
+      "A": "2.1 m\\(^2\\)",
+      "B": "3.5 m\\(^2\\)",
+      "C": "4.0 m\\(^2\\)",
+      "D": "9.4 m\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71776?exam_type=waec&type=obj&page=354",
+    "correct_answer": "C",
+    "explanation": "The total surface area A\u00a0of a closed cylindrical barrel (closed at one end), is given by:A = \u03c0r\\(^2\\) + 2\u03c0rh =\u00a0\u03c0r(r + 2h)\nBUT, r = 0.245m, h = 2.5m\nA =\u00a0 \\(\\frac{22}{7}\\) x 0.245( 0.245 + 2 x 2.5)\nA = 0.77(5.245) = 4.038650m\\(^2\\)\u00a0\u2248 4.0m\\(^2\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1771",
+    "text": "Make R the subject of the relation V =\u00a0\u03c0l(R\\(^2\\) - r\\(^2\\))",
+    "options": {
+      "A": "R = \\(\\sqrt{\\frac{V}{\u03c0l} +\u00a0r^2}\\)",
+      "B": "R = \\(\\sqrt{\\frac{V}{\u03c0l} -\u00a0r^2}\\)",
+      "C": "R = \\(\\sqrt{V -\u00a0\u03c0lr^2}\\)",
+      "D": "R = \\(\\sqrt{V +\u00a0\u03c0lr^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71777?exam_type=waec&type=obj&page=355",
+    "correct_answer": "A",
+    "explanation": "V =\u00a0\u03c0l(R\\(^2\\) - r\\(^2\\))\nDivide both sides by\u00a0\u03c0l\n\\(\\frac{V}{\u03c0l}\\) = (R\\(^2\\) - r\\(^2\\))\nR\\(^2\\) =\u00a0\\(\\frac{V}{\u03c0l}\\) +\u00a0r\\(^2\\)\nTake the square root of both sides\nR = \\(\\sqrt{\\frac{V}{\u03c0l}\u00a0+\u00a0r^2}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1772",
+    "text": "Consider the following statements:\nm = Edna is respectful\nn = Edna is brilliant,\nIf m\u00a0\u21d2 n, which of the following is valid?",
+    "options": {
+      "A": "\u00acn \u21d2 \u00acm.",
+      "B": "\u00acm \u21d2 \u00acn.",
+      "C": "n \u21d2 \u00acm.",
+      "D": "m \u21d2 n."
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71778?exam_type=waec&type=obj&page=355",
+    "correct_answer": "A",
+    "explanation": "Given: m: Edna is respectful, n: Edna is brilliant\nFrom the implication\u00a0 m \u21d2 n:\na) Contra-positive: If Edna is not brilliant (\u00acn), then she is not respectful (\u00acm):\u00a0\u00acn \u21d2 \u00acm\nb)\u00a0Direct: If Edna is respectful (m), then she is brilliant (n)\nc)\u00a0Invalid: If Edna is brilliant (n), we cannot conclude she is respectful (m)\nThus, the valid conclusion is: \u00acn \u21d2 \u00acm.",
+    "year": "2024"
+  },
+  {
+    "number": "1773",
+    "text": "A number is added to both the numerator and the denominator of the\u00a0fraction \\(\\frac{1}{8}\\) if the result is \\(\\frac{1}{2}\\), find the number.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71779?exam_type=waec&type=obj&page=355",
+    "correct_answer": "D",
+    "explanation": "Let the number added to the fraction\u00a0\\(\\frac{1}{8}\\) be y\nSo,\u00a0\\(\\frac{1 + y }{8 + y}\\) =\u00a0\\(\\frac{1}{2}\\)\ncross multiply\n8 + y = 2 + 2y\n2y - y = 8 - 2\ny = 6.",
+    "year": "2024"
+  },
+  {
+    "number": "1774",
+    "text": "Gifty, Justina, and Frank shared 60 oranges in the ratio 5: 3: 7 respectively. How many oranges did Justina receive?",
+    "options": {
+      "A": "16",
+      "B": "12",
+      "C": "20",
+      "D": "28"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71780?exam_type=waec&type=obj&page=355",
+    "correct_answer": "B",
+    "explanation": "Total oranges = 60, total ratio = 5 + 3 + 7 = 15\nJustina\"s shared of the 60 oranges =\u00a0\\(\\frac{3}{15}\\) x 60 = 12",
+    "year": "2024"
+  },
+  {
+    "number": "1775",
+    "text": "Find the quadratic equation whose roots are\u00a0\\(\\frac{2}{3}\\) and - 1",
+    "options": {
+      "A": "3x\\(^2\\) - x - 2 = 0",
+      "B": "3x\\(^2\\) + x + 2 = 0",
+      "C": "3x\\(^2\\) + x - 2 = 0",
+      "D": "3x\\(^2\\) + x - 1 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71787?exam_type=waec&type=obj&page=355",
+    "correct_answer": "C",
+    "explanation": "The roots are\u00a0\\(\\frac{2}{3}\\) and - 1\nUsing x\\(^2\\) - (\u03b1 + \u03b2)x +\u00a0 \u03b1\u03b2 = 0\n\u03b1 + \u03b2\u00a0=\u00a0\u00a0\\(\\frac{2}{3}\\)\u00a0+ (-1) =\u00a0\u00a0\\(\\frac{2}{3}\\)\u00a0- 1 =\u00a0\u00a0\\(\\frac{-1}{3}\\)\n\u03b1\u03b2 =\u00a0\\(\\frac{2}{3}\\) x (-1) =\u00a0\\(\\frac{-2}{3}\\)\nx\\(^2\\) - (\\(\\frac{-1}{3}\\)\u00a0)x +\u00a0 (\\(\\frac{-2}{3}\\))\u00a0= 0\nmultiply through by 3\n3x\\(^2\\) + x - 2 = 0",
+    "year": "2024"
+  },
+  {
+    "number": "1776",
+    "text": "A piece of rod of length 44 m is cut to form a rectangular shape such that the ratio of the length to the breadth is 7: 4. Find the breath.",
+    "options": {
+      "A": "8m",
+      "B": "14m",
+      "C": "16m",
+      "D": "24m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71795?exam_type=waec&type=obj&page=356",
+    "correct_answer": "A",
+    "explanation": "Perimeter of a rectangle = 2(L + B) = length of rod = 44 m\nThe ratio of length to breadth = 7: 4\nThat is, \\(\\frac{L}{B}\\) =\u00a0 \\(\\frac{7}{4}\\)\nSo, L = \\(\\frac{7B}{4}\\)\nPerimeter of a rectangle = 2(\\(\\frac{7B}{4}\\)+ B) = 44\nDivide through by 2\n(\\(\\frac{7B}{4}\\)+ B) = 22\n(\\(\\frac{11B}{4}\\)+ B) = 22\ncross multiply\n11B = 22 x 4 = 88\nB =\u00a0(\\(\\frac{88}{11}\\) = 8m.",
+    "year": "2024"
+  },
+  {
+    "number": "1777",
+    "text": "In the diagram above, \\(\\overline{MN}\u00a0||\u00a0\\overline{KL}\\), \\(\\overline{ML}\\) and \\(\\overline{KN}\\) intersect at X. |\\(\\overline{MN}\\)| = 12cm, |\\(\\overline{MX}\\)| = 10cm and |\\(\\overline{MN}\\)| = 9cm. If the area of\u00a0\\(\\triangle\\) MXN is 16cm\\(^2\\), calculate the area of\u00a0\\(\\triangle\\) LXK",
+    "options": {
+      "A": "9cm\\(^2\\)",
+      "B": "8cm\\(^2\\)",
+      "C": "10cm\\(^2\\)",
+      "D": "12cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71797?exam_type=waec&type=obj&page=356",
+    "correct_answer": "A",
+    "explanation": "\\(\\overline{MN} || \\overline{KL}\\), \\(\\triangle\\) LXK is similar to \\(\\triangle\\)MXN\nSo, the ratio of the areas of the two similar triangles equals\u00a0the square of the ratio of their corresponding sides\nTherefore, \\(\\frac{ Area of \\triangle MXN}{Area of \\triangle LXK} = \\frac{12^2}{9^2}\\)\n\\(\\frac{16}{Area of \\triangle LXK} = \\frac{144}{81}\\)\nArea of \\(\\triangle\\)LXK =\u00a0 \\(\\frac{ 16 \\times 81}{144} = 9cm^2\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1778",
+    "text": "A ladder 15 m long\u00a0leans against a vertical pole, making an angle of 72\u00ba with the horizontal. Calculate, correct to one decimal place, the distance between the foot of the ladder and the pole.",
+    "options": {
+      "A": "15.8 m",
+      "B": "14.3 m",
+      "C": "4.9 m",
+      "D": "4.6 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71801?exam_type=waec&type=obj&page=356",
+    "correct_answer": "D",
+    "explanation": "Cos 72\u00ba = \\(\\frac{d}{15}\\)\nd = Cos 72 x 15 = 4.63 m\u00a0\u2248 4.6m",
+    "year": "2024"
+  },
+  {
+    "number": "1779",
+    "text": "In the diagram above, O is the centre of the circle. If | \\(\\overline{OA}\\) = 25 cm and |\\(\\overline{AB}\\) = 40 cm, find |\\(\\overline{OH}\\)|",
+    "options": {
+      "A": "15 cm",
+      "B": "20 cm",
+      "C": "25 cm",
+      "D": "30 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71802?exam_type=waec&type=obj&page=356",
+    "correct_answer": "A",
+    "explanation": "Line OH divides Line AB into two halves, therefore, Line AH = Line HB = 20cm\nConsidering \\(\\triangle\\) AOH\n(\\(\\overline{OH})^2\\) = 25\\(^2\\) - 20\\(^2\\) = 625 - 400 = 225\nTaking the square root of both sides\n(\\(\\overline{OH}\\) = \\(\\sqrt{225}\\) = 15 cm",
+    "year": "2024"
+  },
+  {
+    "number": "1780",
+    "text": "A car valued at $ 600,000.00 depreciates by 10% each year. What will be the value of the car at the end of two years?",
+    "options": {
+      "A": "$ 120,000.00",
+      "B": "$ 480,000.00",
+      "C": "$ 486,000.00",
+      "D": "$ 540,000.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71803?exam_type=waec&type=obj&page=356",
+    "correct_answer": "C",
+    "explanation": "Using P\\(_n\\) = P\\(_o\\)(1 - \\(\\frac{r}{100})^n\\)\n= 600,000(1 - \\(\\frac{10}{100})^2\\)\n= 600,000(0.90)\\(^2\\) = $486,000.00",
+    "year": "2024"
+  },
+  {
+    "number": "1781",
+    "text": "Given that P is 25 m on a bearing of 330\u00ba from Q, how far south of P is Q?",
+    "options": {
+      "A": "25.2 m",
+      "B": "21.7 m",
+      "C": "19.8 m",
+      "D": "18.5 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71804?exam_type=waec&type=obj&page=357",
+    "correct_answer": "B",
+    "explanation": "Sin 60\u00ba = \\(\\frac{d}{25}\\)\nd = Sin 60\u00ba x 25 = 21.6506m\u00a0\u2248 21.7m",
+    "year": "2024"
+  },
+  {
+    "number": "1782",
+    "text": "The length and breadth of a cuboid\u00a0are 15 cm and 8 cm respectively. If the volume of the cuboid\u00a0is 1560 cm\\(^3\\), calculate the total surface area.",
+    "options": {
+      "A": "976cm\\(^2\\)",
+      "B": "838cm\\(^2\\)",
+      "C": "792cm\\(^2\\)",
+      "D": "746cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71805?exam_type=waec&type=obj&page=357",
+    "correct_answer": "B",
+    "explanation": "Volume of a cuboid = LBH = 1560cm\\(^2\\)\nV = 15 x 8 x H = 1560\nH = \\(\\frac{1560}{15 \\times 8}\\) = 13cm\nTotal surface area of a cuboid = 2(LB + LH + BH)\n= 2((15 x 8) + ( 15 x 13) + ( 8 x 13))\n= 2(120 + 195 + 104) = 2(419) = 838 cm\\(^2\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1783",
+    "text": "The number 1621 was subtracted from 6244 in base x. If the result was 4323, find x.",
+    "options": {
+      "A": "Seven",
+      "B": "Eight",
+      "C": "Nine",
+      "D": "Ten"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71806?exam_type=waec&type=obj&page=357",
+    "correct_answer": "A",
+    "explanation": "Given that \\( 6244_x - 1621_x = 4323_x \\), find the value of \\( x \\).\n{Step 1: Convert to decimal:}\\[6244_x = 6x^3 + 2x^2 + 4x + 4\\]\\[1621_x = 1x^3 + 6x^2 + 2x + 1\\]\\[4323_x = 4x^3 + 3x^2 + 2x + 3\\]\nf{Step 2: Set up the equation:}\\[(6x^3 + 2x^2 + 4x + 4) - (1x^3 + 6x^2 + 2x + 1) = 4x^3 + 3x^2 + 2x + 3\\]\n{Step 3: Simplify the left side:}\\[(6x^3 - 1x^3) + (2x^2 - 6x^2) + (4x - 2x) + (4 - 1) = 5x^3 - 4x^2 + 2x + 3\\]\n{Step 4: Set the equation:}\\[5x^3 - 4x^2 + 2x + 3 = 4x^3 + 3x^2 + 2x + 3\\]\n{Step 5: Combine like terms:}\\[5x^3 - 4x^3 - 4x^2 - 3x^2 + 2x - 2x + 3 - 3 = 0\\]\\[x^3 - 7x^2 = 0\\]\n{Step 6: Factor the equation:}\\[x^2(x - 7) = 0\\]\n{Step 7: Solutions:}\\[x = 7 \\quad (\\text{valid}), \\quad x = 0 \\quad (\\text{not valid})\\]\n\\Thus, the base \\( x \\) is 7",
+    "year": "2024"
+  },
+  {
+    "number": "1784",
+    "text": "Factorize completely: 27x\\(^2\\) - 48y\\(^2\\)",
+    "options": {
+      "A": "3(3x + 4y)(3x - 4y)",
+      "B": "3(3x + 4y)(3x + 4y)",
+      "C": "3(9x - 16y)(9x + 16y)",
+      "D": "3(9x - 16y)(9x - 16y)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71822?exam_type=waec&type=obj&page=357",
+    "correct_answer": "A",
+    "explanation": "27x\\(^2\\) - 48y\\(^2\\) = 3(9x\\(^2\\) - 16y\\(^2\\))\ndifference of two squares\n3((3x)\\(^2\\) - (4y)\\(^2\\)) = 3((3x - 4y)(3x + 4y))",
+    "year": "2024"
+  },
+  {
+    "number": "1785",
+    "text": "For what values of x is \\(\\frac{x - 3}{4}\\) + \\(\\frac{x + 1}{8}\\) \\(\\geq\\) 2 ?",
+    "options": {
+      "A": "x \\(\\geq\\) 5",
+      "B": "x \\(\\geq\\) 6",
+      "C": "x \\(\\geq\\) 7",
+      "D": "x \\(\\geq\\) 8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71823?exam_type=waec&type=obj&page=357",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{x - 3}{4}\\) + \\(\\frac{x + 1}{8}\\) \\(\\geq\\) 2\nmultiply through by the LCM of 4, 8, and 1 = 8\n8(\\(\\frac{x - 3}{4}\\)) + 8(\\(\\frac{x + 1}{8}\\)) \\(\\geq\\) 8 x 2\n2(x - 3) + (x + 1)\u00a0\\(\\geq\\) 16\n2x - 6 + x + 1\u00a0\\(\\geq\\) 16\n3x - 5\u00a0\\(\\geq\\) 16\n3x\u00a0\\(\\geq\\) 16 + 5 = 21\nx\u00a0\\(\\geq\\) \\(\\frac{21}{3}\\)\nx\u00a0\\(\\geq\\) 7",
+    "year": "2024"
+  },
+  {
+    "number": "1786",
+    "text": "In the diagram above, < SQR = 52\u00ba and < PRT = 16\u00ba. Find the value of the angle marked y",
+    "options": {
+      "A": "64\\(^0\\)",
+      "B": "68\\(^0\\)",
+      "C": "112\\(^0\\)",
+      "D": "128\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71824?exam_type=waec&type=obj&page=358",
+    "correct_answer": "C",
+    "explanation": "<RQS + <QRS + RSQ = 180\u00ba\n52\u00ba + 16\u00ba + <RSQ = 180\u00ba\n<RSQ = 180 - 52 - 16 = 112\u00ba\nBut <RSQ = y ( exterior angle of a cyclic quad.)\nTherefore, y = 112\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1787",
+    "text": "In the diagram above, JKL is a tangent to the circle GHIK at K.",
+    "options": {
+      "A": "93\u00ba",
+      "B": "55\u00ba",
+      "C": "42\u00ba",
+      "D": "23\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71826?exam_type=waec&type=obj&page=358",
+    "correct_answer": "B",
+    "explanation": "\\(\\angle\\)KGL = 87\u00ba (exterior angle of a cyclic quadrilateral)\n\\(\\angle\\)KGL + \\(\\angle\\)GLK + \\(\\angle\\)LKG = 180\u00ba\n87\u00ba + x + 38\u00ba = 180\u00ba\nx = 180 - 87 - 38 = 55\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1788",
+    "text": "A cone and a cylinder are of equal volume. The base radius of the cone is twice the radius of the cylinder. What is the ratio of the height of the cylinder to that of the cone?",
+    "options": {
+      "A": "5: 4",
+      "B": "4: 3",
+      "C": "3: 2",
+      "D": "3: 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71827?exam_type=waec&type=obj&page=358",
+    "correct_answer": "B",
+    "explanation": "Vol of cylinder = \\(\\pi\\)r\\(^2\\)H = vol of cone = \\(\\frac{1}{3}\\)\\(\\pi\\)r\\(^2\\)h\nH = height of cylinder and h = height\u00a0of cone\nLet y = radius of cylinder = y, then radius of cone = 2y\n\\(\\pi\\)y\\(^2\\)H =\u00a0\\(\\frac{1}{3}\\)\\(\\pi\\)(2y)\\(^2\\)h\ny\\(^2\\)H\u00a0 =\u00a0\u00a0\\(\\frac{1}{3}\\)4y\\(^2\\)h\u00a0 ( \\(\\pi\\) cancels out and cross multiplying)\nThe ratio of the height of the cylinder to that of the cone = \\(\\frac{\\text{H}}{\\text{h}}\\) = \\(\\frac{4y^2}{3y^2}\\)\n= \\(\\frac{4}{3}\\) = 4: 3\u00a0(y\\(^2\\) cancels out )",
+    "year": "2024"
+  },
+  {
+    "number": "1789",
+    "text": "Find, correct to the nearest\u00a0\u200b\u200b\u200b\u200b\u200b\u200bwhole number, the value of h in the diagram above.",
+    "options": {
+      "A": "15 m",
+      "B": "22 m",
+      "C": "23 m",
+      "D": "18 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71828?exam_type=waec&type=obj&page=358",
+    "correct_answer": "C",
+    "explanation": "From the diagram on the right-hand side above,\nx\\(^2\\) = 20\\(^2\\) - 19\\(^2\\) = 39 ( from Pythagoras theorem)\nx = \\(\\sqrt{39}\\) = 6.245m\nAs can be seen from\u00a0\u00a0the diagram on the right-hand side above,\nh = x + 17 = 6.245 + 17 = 23.245 m\u00a0\u2248 23 m(to the nearest whole number)",
+    "year": "2024"
+  },
+  {
+    "number": "1790",
+    "text": "The gradient of the line joining the points P(2, -8) and Q(1, y) is -4. Find the value of y",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "-4",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71829?exam_type=waec&type=obj&page=358",
+    "correct_answer": "C",
+    "explanation": "P(2, -8) and Q(1, y)\nGradient of slope(m) = \\(\\frac{y_2 - y_1}{x_2 - x_1}\\)\n- 4 = \\(\\frac{y - (-8))}{1 - 2}\\)\n-4 = \\(\\frac{y + 8}{- 1}\\)\ncross multiplying\n4 = y + 8\ny = 4 - 8 = -4",
+    "year": "2024"
+  },
+  {
+    "number": "1791",
+    "text": "In the diagram above, \\(\\overline{PQ}\\) || \\(\\overline{RS}\\), \\(\\angle\\)WYZ = 44\u00ba and\u00a0\\(\\angle\\)WXY = 50\u00ba. Find\u00a0\\(\\angle\\)WTX",
+    "options": {
+      "A": "65\u00ba",
+      "B": "68\u00ba",
+      "C": "86\u00ba",
+      "D": "90\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71830?exam_type=waec&type=obj&page=359",
+    "correct_answer": "C",
+    "explanation": "\\(\\angle\\)XWY =\u00a0\u00a0\\(\\angle\\)ZYW = 44\u00ba (alternate\u00a0\u00a0\\(\\angle\\)s)\nConsidering \\(\\triangle\\)WTX\n\\(\\angle\\)W +\u00a0\u00a0\\(\\angle\\)T +\u00a0\u00a0\\(\\angle\\)X = 180\u00ba\n44\u00a0 +\u00a0\u00a0\\(\\angle\\)T + 50 = 180\n\\(\\angle\\)T = 180 - 44 - 50 = 86\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1792",
+    "text": "The perimeter of a rectangular garden is 90 m. If the width is 7 m less than the length, find\u00a0the length of the garden.",
+    "options": {
+      "A": "19 m",
+      "B": "23 m",
+      "C": "24 m",
+      "D": "26 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71831?exam_type=waec&type=obj&page=359",
+    "correct_answer": "D",
+    "explanation": "Let the length of the garden be x, then, the width = x - 7\nperimeter of rectangle = 2(L + B) = 90 m\n= 2(x + x - 7) = 90\n= 2x - 7 = 45 ( after dividing through by 2)\n= 2x = 45 + 7 = 52\nx = \\(\\frac{52}{2}\\) = 26 m\nThus, the length of the rectangular garden = 26 m.",
+    "year": "2024"
+  },
+  {
+    "number": "1793",
+    "text": "Four of the angles of a hexagon sum up to 420\u00ba. If the remaining angles are equal, find the value of each of the angles.",
+    "options": {
+      "A": "60\\(^O\\)",
+      "B": "100\\(^O\\)",
+      "C": "120\\(^O\\)",
+      "D": "150\\(^O\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71832?exam_type=waec&type=obj&page=359",
+    "correct_answer": "D",
+    "explanation": "Hexagon = 6 sides\nSum of interior angles of a regular hexagon = (n - 2)180 = (6 - 2)180 = 4 x 180 = 720\u00ba\nBut 4 of these angles sum up to 420\u00ba and the remaining ones are equal.\nLet the remaining two that are equal = 2x\nSuM of the angles = 420 + 2x = 720\u00ba\n2x = 720 - 420 = 300\nx = \\(\\frac{300}{2}\\) = 150\u00ba\nThus, the value of each of the remaining angles = 150\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1794",
+    "text": "Find the value of x in the diagram above.",
+    "options": {
+      "A": "120\u00ba",
+      "B": "100\u00ba",
+      "C": "60\u00ba",
+      "D": "150\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71834?exam_type=waec&type=obj&page=359",
+    "correct_answer": "A",
+    "explanation": "\\(\\angle\\)N +\u00a0\\(\\angle\\)P +\u00a0\\(\\angle\\)M = 180 ( sum of angles in \\(\\triangle\\) NPM)\n65\u00ba + 55\u00ba +\u00a0\\(\\angle\\)M = 180\n\\(\\angle\\)M = 180 - 65 - 55 = 60\u00ba\nx +\u00a0\\(\\angle\\)M = 180(opp interior angles of parallel lines are supplementary)\nx = 180 - 60 = 120\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1795",
+    "text": "The following are the masses (in kg) of members in a club: 59, 44, 53, 49, 57, 40, 48, and 50. Calculate the mean mass.",
+    "options": {
+      "A": "44 kg",
+      "B": "50 kg",
+      "C": "40 kg",
+      "D": "53 kg"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71842?exam_type=waec&type=obj&page=359",
+    "correct_answer": "B",
+    "explanation": "Mean(\\(\\overline{x}\\)) = \\(\\frac{\\sum{x}}{n}\\)\nMean(\\(\\overline{x}\\)) = \\(\\frac{ 59 + 44 + 53 + 57 + 49 + 40 + 48 + 50}{8}\\)\nMean(\\(\\overline{x}\\)) = \\(\\frac{397}{8}\\)\u00a0\u2248 50 kg",
+    "year": "2024"
+  },
+  {
+    "number": "1796",
+    "text": "The following are the masses (in kg) of members in a club: 59, 44, 53, 49, 57, 40, 48, and 50. Calculate the variance of the distribution.",
+    "options": {
+      "A": "35",
+      "B": "36",
+      "C": "40",
+      "D": "50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71845?exam_type=waec&type=obj&page=360",
+    "correct_answer": "A",
+    "explanation": "Variance(s\\(^2\\)) = \\(\\frac{\\sum{(x - \\overline{x})^2}}{n}\\)\nBut mean = 50 (from question 39 same information)\nxx - \\(\\overline{x}\\)(x - \\(\\overline{x})^2\\)5998144- 63653395774949- 1140-1010048- 245000\n\\(\\sum{(x - \\overline{x})^2}\\) = 280\nVariance(s\\(^2\\)) = \\(\\frac{\\sum{(x - \\overline{x})^2}}{n}\\) = \\(\\frac{280}{8}\\) = 35",
+    "year": "2024"
+  },
+  {
+    "number": "1797",
+    "text": "Two opposite sides of a rectangle are (5x + 3) m and (2x + 9) m. If an adjacent side is (6x - 7) m, find in m\\(^2\\), the area of the rectangle.",
+    "options": {
+      "A": "45",
+      "B": "65",
+      "C": "125",
+      "D": "165"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71852?exam_type=waec&type=obj&page=360",
+    "correct_answer": "B",
+    "explanation": "Opposite sides of a rectangle are equal, then (5x + 3) = (2x + 9)\n5x - 2x = 9 - 3\n3x = 6\nx = \\(\\frac{6}{3}\\) = 2.\nPut x = 2 in either (5x + 3) or (2x + 9) = 13m\nAdjacent side (6x - 7) (given) also put x = 2 into it, 6(2) - 7 = 5\nArea of rectangle = length x breadth(width) = 13 x 5 = 65 m\\(^2\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1798",
+    "text": "A die is tossed once. Find the probability of getting a prime number.",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71855?exam_type=waec&type=obj&page=360",
+    "correct_answer": "A",
+    "explanation": "Sample space = { 1, 2, 3, 4, 5, 6}\nPrime numbers = ( 2, 3, and 5)\nPr(prime Nos) = \\(\\frac{\\text{number of required outcome}}{\\text{total possible outcome}} = \\(\\frac{3}{6}\\) = \\(\\frac{1}{2}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1799",
+    "text": "The area of a sector of a circle with radius 7cm is 51.3 cm\\(^2\\). Calculate, correct to the nearest whole number, the angle of the sector. (Take \\(\\pi\\) = \\(\\frac{22}{7}\\))",
+    "options": {
+      "A": "60\\(^0\\)",
+      "B": "120\\(^0\\)",
+      "C": "150\\(^0\\)",
+      "D": "150\\(^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71859?exam_type=waec&type=obj&page=360",
+    "correct_answer": "B",
+    "explanation": "Area of a sector = \\(\\frac{\\theta}{360}\\) x \\(\\pi\\) r\\(^2\\)\n51.3 =\u00a0\\(\\frac{\\theta}{360}\\) x\u00a0\\(\\frac{22}{7}\\) x 7 x 7\n\\(\\theta\\) = \\(\\frac{51.3 \\times\u00a0360}{22 \\times\u00a07}\\) = 119.9\u00a0\u2248 120\u00ba to the nearest whole number.",
+    "year": "2024"
+  },
+  {
+    "number": "1800",
+    "text": "A cliff on the bank of a river 87 m high. A boat on the river is 22 m away from the cliff. Calculate, correct to the nearest degree, the angle of depression of the boat from the top of the cliff.",
+    "options": {
+      "A": "76\\(^o\\)",
+      "B": "64\\(^o\\)",
+      "C": "36\\(^o\\)",
+      "D": "24\\(^o\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71874?exam_type=waec&type=obj&page=360",
+    "correct_answer": "A",
+    "explanation": "From the figure above, using SOH CAH TOA\nTan\\(\\alpha\\) = \\(\\frac{\\text{opposite}}{\\text{adjacent}}\\)\nTan\\(\\alpha\\) = \\(\\frac{87}{22}\\) = 3.9545\n\\(\\alpha\\) = Tan\\(^{-1}\\)(3.9545) = 76\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1801",
+    "text": "In the diagram \\(\\overline{TU}\\) is a tangent to the circle SPQR at P. If \\(\\angle\\)PTS = 44\u00ba,\u00a0\\(\\angle\\)SQP = 35\u00ba, find\u00a0\\(\\angle\\)PST",
+    "options": {
+      "A": "101\u00ba",
+      "B": "125\u00ba",
+      "C": "130\u00ba",
+      "D": "135\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71879?exam_type=waec&type=obj&page=361",
+    "correct_answer": "A",
+    "explanation": "\\(\\angle\\)SPT = 35\u00ba (alternate segment)\nFrom \\(\\triangle\\)TSP\n44 + \\(\\angle\\)SPT +\u00a0\\(\\angle\\)PST = 180\u00ba (sum of angles in a triangle)\n\\(\\angle\\)PST = 180 - 44 - 35 = 101\u00ba",
+    "year": "2024"
+  },
+  {
+    "number": "1802",
+    "text": "The probability that Amaka\u00a0will pass an examination is \\(\\frac{3}{7}\\) and that\u00a0Bala\u00a0will pass is\u00a0\\(\\frac{4}{9}\\). Find the probability that both will pass the examination.",
+    "options": {
+      "A": "\\(\\frac{2}{21}\\)",
+      "B": "\\(\\frac{4}{21}\\).",
+      "C": "\\(\\frac{5}{21}\\)",
+      "D": "\\(\\frac{9}{21}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71882?exam_type=waec&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "Pr(Amaka passes) =\u00a0\\(\\frac{3}{7}\\), Pr(Bala passes) =\u00a0\\(\\frac{4}{9}\\).\nPr(both Amaka and Bala pass the exam) =\u00a0\u00a0\\(\\frac{3}{7}\\) x\u00a0\\(\\frac{4}{9}\\) =\u00a0\\(\\frac{4}{21}\\).",
+    "year": "2024"
+  },
+  {
+    "number": "1803",
+    "text": "Which of the following points lies on the line 3x - 8y = 11?",
+    "options": {
+      "A": "(1, 1)",
+      "B": "(1, -1)",
+      "C": "(-1, 1)",
+      "D": "(-1, -1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71885?exam_type=waec&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "If a point lies on a particular line. It will satisfy the equation of the line.\nTest the points given in the options any that satisfy the equation of the line, is the point.\nThus, the point(1, -1) lies on the line 3x - 8y = 11\nThat is, putting x = 1 and y = -1 into 3x - 8y to see if the result will equal 11\n3(1) - 8(-1) = 11.",
+    "year": "2024"
+  },
+  {
+    "number": "1804",
+    "text": "Find the range of the following set of numbers: 28, 29, 39, 38, 33, 37, 26, 20, 15, and 25.",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "25",
+      "D": "27"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71888?exam_type=waec&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "Range = max. value - min. value\nmax. value = 39, min.value = 15\nRange = max. value - min. value = 39 - 15 = 24.",
+    "year": "2024"
+  },
+  {
+    "number": "1805",
+    "text": "The fourth and eighth terms of an Arithmetic Progression are 16 and 40 respectively. Find the common difference.",
+    "options": {
+      "A": "- 6",
+      "B": "6",
+      "C": "-2",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71889?exam_type=waec&type=obj&page=361",
+    "correct_answer": "B",
+    "explanation": "T\\(_n\\) = a + (n - 1)d\nT\\(_4\\) = a + 3d = 16 - - - - - - - - - - - - - - (i)\nT\\(_8\\) = a + 7d = 40 - - - - - - - - - - - - - - -(ii)\nSolving simultaneously using the elimination method(subtract eqn (i) from eqn(ii)\n4d = 24\nd = \\(\\frac{24}{4}\\) = 6\nThus, the common difference = 6.",
+    "year": "2024"
+  },
+  {
+    "number": "1806",
+    "text": "For what values of y is \\(\\frac{y + 2}{8y^2 - 10y\u00a0 +\u00a0 3}\\) not defined?",
+    "options": {
+      "A": "\\(\\frac{-3}{4}\\),  \\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{-3}{4}\\), \\(\\frac{-1}{2}\\)",
+      "C": "\\(\\frac{3}{4}\\), \\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{3}{4}\\), \\(\\frac{-1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/71890?exam_type=waec&type=obj&page=362",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{y + 2}{8y^2 - 10y + 3}\\) not defined when the denominator is equal to zero\n8y\\(^2\\) - 10y + 3 = 0 using factorization method\n8y\\(^2\\) - 6y - 4y + 3 = 0\n2y(4y - 3) - 1(4y - 3) = 0\n(4y - 3)(2y - 1) = 0\n4y - 3 = 0 or 2y - 1 = 0\nHence, y = \\(\\frac{3}{4}\\) or \\(\\frac{1}{2}\\)",
+    "year": "2024"
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "number": "456",
+    "text": "(a) Mr Sarfo borrowed $25,000 from Afiak\u00a0financial services at 21% simple interest per annum for 3 years if he was able to pay back the loan in two years at equal yearly installments how much did he pay each year?\n(b) Two consecutive numbers are such that the sum of thrice the smaller and twice the larger is 17.\nfind correct through three significant figures the smaller number as a percentage of the sum of the two numbers",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61467?exam_type=waec&type=theory&page=92",
+    "correct_answer": "(a) interests = \\(\\frac{25000 *3 * 21}{100}\\)\n=\u00a0$ 15750.00\namount paid =\u00a025000 +\u00a015750\n=\u00a0$40,750.00\namounts paid by year = 40750.00 /\u00a02\n= $ 20375.00\n(b) let's be consecutive numbers be X and X + 1\n3X + 2(X + 1) = 17\n3X + 2X + 2 = 17\n5x =\u00a015\nx =\u00a03\nsome of the numbers =\u00a03 + 4 =\u00a07\nPercentage = \\(\\frac{3}{7}\\) * 100\n= 42.857 or 42.9%",
+    "explanation": "(a) interests = \\(\\frac{25000 *3 * 21}{100}\\)\n=\u00a0$ 15750.00\namount paid =\u00a025000 +\u00a015750\n=\u00a0$40,750.00\namounts paid by year = 40750.00 /\u00a02\n= $ 20375.00\n(b) let's be consecutive numbers be X and X + 1\n3X + 2(X + 1) = 17\n3X + 2X + 2 = 17\n5x =\u00a015\nx =\u00a03\nsome of the numbers =\u00a03 + 4 =\u00a07\nPercentage = \\(\\frac{3}{7}\\) * 100\n= 42.857 or 42.9%",
+    "year": "2021"
+  },
+  {
+    "number": "457",
+    "text": "A man\u00a0left town am at 10:00 AM and traveled by car to town N at an average speed of 72 km/h.\nHe spent 2hours\u00a0for a meeting and returned through town M\u00a0by bus at an average speed of 40KM/H.\u00a0\nIf the distance covered by the bus was 2km longer than that of the car and he\u00a0arrived at town M\u00a0at 1 :55PM.\ncalculate distance from M to N.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61469?exam_type=waec&type=theory&page=92",
+    "correct_answer": "Time spent traveling = 3 hours 55 minutes - 2 hours\n= 1hr 55mins\nLet x be the distance from M - N\nand t , time spent from M - N\nThen t = x / 72\nReturn time = (23 / 12) - t\n(23 / 12) - t = (x + 2) / 40\n(23 / 12) - ( x / 72) =\u00a0 (x + 2) / 40\n\\(\\frac{138 - x}{9}\\) =\u00a0\\(\\frac{x + 2}{5}\\)\n690 - 5x = 9x + 18\n14x = 672\nx = 48km",
+    "explanation": "Time spent traveling = 3 hours 55 minutes - 2 hours\n= 1hr 55mins\nLet x be the distance from M - N\nand t , time spent from M - N\nThen t = x / 72\nReturn time = (23 / 12) - t\n(23 / 12) - t = (x + 2) / 40\n(23 / 12) - ( x / 72) =\u00a0 (x + 2) / 40\n\\(\\frac{138 - x}{9}\\) =\u00a0\\(\\frac{x + 2}{5}\\)\n690 - 5x = 9x + 18\n14x = 672\nx = 48km",
+    "year": "2021"
+  },
+  {
+    "number": "458",
+    "text": "The points X, Y and Z are located such that Y is 15 km south of X, Z is 20 km\u00a0from X on a bearing of 270\".\nCalculate, correct: (a) two significant figures, |YZ|\n(b) The nearest degree, the bearing of\u00a0Y from Z",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61470?exam_type=waec&type=theory&page=92",
+    "correct_answer": "|YZ|\\(^2\\) = 15\\(^2\\) + 20\\(^2\\)\n= 225 + 400 = 625\nYZ =\u00a0\u221a625\nYZ = 25\n(b) tan\u03b8 = \\(\\frac{15}{20}\\)\ntan\u00a0\u03b8 = 0.75\n\u03b8 =\u00a0tan-1\u00a0(0.75)\n= 36.87\u00b0\nBearing of Y from Z = (90 +\u00a036.87)\u00b0 = 126.87\u00b0\n= 127\u00b0",
+    "explanation": "|YZ|\\(^2\\) = 15\\(^2\\) + 20\\(^2\\)\n= 225 + 400 = 625\nYZ =\u00a0\u221a625\nYZ = 25\n(b) tan\u03b8 = \\(\\frac{15}{20}\\)\ntan\u00a0\u03b8 = 0.75\n\u03b8 =\u00a0tan-1\u00a0(0.75)\n= 36.87\u00b0\nBearing of Y from Z = (90 +\u00a036.87)\u00b0 = 126.87\u00b0\n= 127\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "459",
+    "text": "In the diagram, \\(\\overline{AD}\\) is a diameter of a circle with Centre O. If ABD is a triangle in a semi-circle \u2220OAB=34\",\nfind: (a) \u2220OBD\u00a0(b) \u2220OCB",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61485?exam_type=waec&type=theory&page=92",
+    "correct_answer": "\u2220OAB = \u2220OBA=34\u00b0\n\u2220ABD = 90\n\u2220OBD = \u2220ABD - \u22200BA = 90 - 34 = 56\nFrom triangle OBC\n\u2220BOC + \u2220OBC + \u2220OCB = 180\u00b0\n\u2220BOD = \u22202OAB = 68\u00b0\n= 68\u00b0 + 90\u00b0 + \u22200CB = 180\n\u2220OCB = 180 - 158 = 22",
+    "explanation": "\u2220OAB = \u2220OBA=34\u00b0\n\u2220ABD = 90\n\u2220OBD = \u2220ABD - \u22200BA = 90 - 34 = 56\nFrom triangle OBC\n\u2220BOC + \u2220OBC + \u2220OCB = 180\u00b0\n\u2220BOD = \u22202OAB = 68\u00b0\n= 68\u00b0 + 90\u00b0 + \u22200CB = 180\n\u2220OCB = 180 - 158 = 22",
+    "year": "2021"
+  },
+  {
+    "number": "460",
+    "text": "(a) A man shared his property among his\u00a0children as follows:\n\n\n\n\nChild's name\n\nAnn\nAfia\nKojo\nNuno\n\nAkom\n\n\n\n\n\u00a0 Percentage share\n\n5\n15\n10\n45\n\n25\n\n\n\n\nRepresent the information on a pie chart\n\u00a0\n(b) A box contains 5 red, 3 green and 4 blue identical beads. Calculate the probability th a girl takes away two red beads, one after the other, from the box.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61489?exam_type=waec&type=theory&page=92",
+    "correct_answer": "(a) pie chart above.\nChild's NamePercentage Share (%)Angle(\u00b0)Ann55/100 * 360\" = 18Afia1515/100 x 360\u00b0 = 54Kojo1010/100 x 360\u00b0 = 36Nuno4545/100 x 360\u00b0 = 162Akosua2525/100 x 360\u00b0 = 90Total100360\n(b) P(1st red) = 5/12\nP(2nd red) = 4/11\nProbability (two red beads) = 5/12 * 4/11\n= 5/33 (Accept 0.1515)",
+    "explanation": "(a) pie chart above.\nChild's NamePercentage Share (%)Angle(\u00b0)Ann55/100 * 360\" = 18Afia1515/100 x 360\u00b0 = 54Kojo1010/100 x 360\u00b0 = 36Nuno4545/100 x 360\u00b0 = 162Akosua2525/100 x 360\u00b0 = 90Total100360\n(b) P(1st red) = 5/12\nP(2nd red) = 4/11\nProbability (two red beads) = 5/12 * 4/11\n= 5/33 (Accept 0.1515)",
+    "year": "2021"
+  },
+  {
+    "number": "461",
+    "text": ".(a) In a class of 80 students,\\(\\frac{3}{4}\\) study Biology and \\(\\frac{3}{5}\\) study Physics.\nIf each student studies at least one of the subjects: (i) draw a Venn diagram to represent this information\n(ii) how many students study both subjects\n(iii) find the fraction of the class that study Biology but not Physics.\n(b) Johnson and Jocatol Ltd. owned a business office with floor measuring 15m\u00a0by 8 m which was to be carpeted.\nThe cost of carpeting was Gh\u00a2 890.00 per square\u00a0metre.\u00a0If a total of GH 216,120.00 was spent on painting and carpeting,\u00a0how much was the\u00a0cost of painting?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61495?exam_type=waec&type=theory&page=93",
+    "correct_answer": "x = students that study both\n(ii)\u00a060- x + x + 48-x=80\nx = 108-80\n= 28\n(iii) Fraction --> (60-28)/80\n= 32/80 or 2/5\n(b) Area of floor= 15x8= 120m\\(^2\\)\nCost of carpeting=\u00a0120 x GHC 890\n= GHC106,800.00\nCost of paining = GHC(216,120 - 106,800)\n= GHC109,320.00",
+    "explanation": "x = students that study both\n(ii)\u00a060- x + x + 48-x=80\nx = 108-80\n= 28\n(iii) Fraction --> (60-28)/80\n= 32/80 or 2/5\n(b) Area of floor= 15x8= 120m\\(^2\\)\nCost of carpeting=\u00a0120 x GHC 890\n= GHC106,800.00\nCost of paining = GHC(216,120 - 106,800)\n= GHC109,320.00",
+    "year": "2021"
+  },
+  {
+    "number": "462",
+    "text": "(a) Copy and complete the table of values for the relation y=2x\\(^2\\) - x - 2 for 4 \u2264 x \u2264 4.\n\n\n\nx\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n\n\ny\n\u00a0\n19\n\u00a0\n\u00a0\n-2\n\u00a0\n\u00a0\n\u00a0\n26\n\n\n\n\u00a0(b) Using a scale of 2 cm to 1 unit on the x-axis and 2 cm to 5 units on the y-axis, draw the graph of\u00a0 y = 2x\\(^2\\) - x - 2 for 4 \u2264 x \u2264 4.\n(c) On the same axes, draw the graph of y = 2x + 3.\n(d) Use the graph to find the: (i) roots of the equation 2x-3r-5 0; (i) range of values of x for which 2x\\(^2\\) -x - 2<0.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61504?exam_type=waec&type=theory&page=93",
+    "correct_answer": "x-4-3-2-101234y341981-2-141326\nSEE THE GRAPH ABOVE\n(c) Straight line graph of y = 2x + 3\n(d) The roots of 2x\\(^2\\) -3x - 5 = 0 are x = -1\u00b10.1 or\u00a0 2.5\u00b10.1\n(ii) The range of values of x for which - x - 2 <\u00a0 0 is (-0.7\u00b10.1) < x < (1.3\u00b10.1)",
+    "explanation": "x-4-3-2-101234y341981-2-141326\nSEE THE GRAPH ABOVE\n(c) Straight line graph of y = 2x + 3\n(d) The roots of 2x\\(^2\\) -3x - 5 = 0 are x = -1\u00b10.1 or\u00a0 2.5\u00b10.1\n(ii) The range of values of x for which - x - 2 <\u00a0 0 is (-0.7\u00b10.1) < x < (1.3\u00b10.1)",
+    "year": "2021"
+  },
+  {
+    "number": "463",
+    "text": ".(a) In APQR, \u2220PQR= 90\u00b0. If its area is 216cm\\(^2\\) and |PQ|:|QR| is 3:4, find |PR|.\n(b) The present ages of a man and his son are 47 years and 17 years respectively. In how many years would the man's age be twice that of his son?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61505?exam_type=waec&type=theory&page=93",
+    "correct_answer": "(a) \\(\\frac{1}{2}\\)IPQ||gr|= 216\n\\(\\frac{|PQ|}{|QR|}\\) =\u00a0\\(\\frac{3}{4}\\)\nPQ= \\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\) * \\(\\frac{3}{4}\\)|QR|||QR| = 216\n|QR|\\(^2\\) = \\(\\frac{216 * 4 * 2}{3}\\)\n|QR|= \u221a576 = 24cm\n|PQ| =\\(\\frac{3}{4}\\) x 24 =18cm\n|PR| = \u221a(24\\(^2\\) + 18\\(^2\\))\u00a0= 30cm\n(b) Let m be the number of years:\n47 + m =2(17+m)\n47 + m = 34 + 2m\n2m - m = 47 - 34\nm = 13 years",
+    "explanation": "(a) \\(\\frac{1}{2}\\)IPQ||gr|= 216\n\\(\\frac{|PQ|}{|QR|}\\) =\u00a0\\(\\frac{3}{4}\\)\nPQ= \\(\\frac{3}{4}\\)\n\\(\\frac{1}{2}\\) * \\(\\frac{3}{4}\\)|QR|||QR| = 216\n|QR|\\(^2\\) = \\(\\frac{216 * 4 * 2}{3}\\)\n|QR|= \u221a576 = 24cm\n|PQ| =\\(\\frac{3}{4}\\) x 24 =18cm\n|PR| = \u221a(24\\(^2\\) + 18\\(^2\\))\u00a0= 30cm\n(b) Let m be the number of years:\n47 + m =2(17+m)\n47 + m = 34 + 2m\n2m - m = 47 - 34\nm = 13 years",
+    "year": "2021"
+  },
+  {
+    "number": "464",
+    "text": "In the diagram, \\(\\overline{PQ//RS}\\) is a trapezium with QR//PS. U and T are points on \\(\\overline{PS}\\) such that \\(\\overline{|PU|}\\) = 5 cm,\n\\(\\overline{|QU|}\\) = 12 cm and \u2220PUQ= \u2220STR =90\u00b0. If the area of PQR = 20 cm\\(^2\\),\ncalculate, correct to the nearest whole number, the:\n(a) perimeter; (b) area; of the trapezium",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61507?exam_type=waec&type=theory&page=93",
+    "correct_answer": "(a) Area of\u25b3PQR = \\(\\frac{1}{2}\\) * b *\u00a012 = 20\nb = \\(\\frac{2 x 20}{12}\\)\u00a0= 3.33cm\n|QR| = |UT| = 3.33cm\nIPQ| = \u221a(12\\(^2\\) + 5\\(^2\\))\\(^2\\)\u00a0= 13cm\nIRT| = |QU| = 12cm\nFrom\u25b3RTS\nsin 50\u00b0= \\(\\frac{12}{|RS|}\\)\n|RS| = \\(\\frac{12}{sin 50\u00b0}\\) = 15.6649 cm\n|TS| =\u00a0\\(\\frac{12}{tan\u00a050\u00b0}\\) = 10.069cm\nPerimeter = 13 + 3.33 + 15.6649 + 18.399\n= 50.3939cm = 50cm (nearest whole number)\n(b)Area= \\(\\frac{1}{2}\\) (3.33+ 18.4004)12\n6 (21.7304) = 130.3824cm\\(^2\\)\n= 130 cm\\(^2\\) (nearest whole number)",
+    "explanation": "(a) Area of\u25b3PQR = \\(\\frac{1}{2}\\) * b *\u00a012 = 20\nb = \\(\\frac{2 x 20}{12}\\)\u00a0= 3.33cm\n|QR| = |UT| = 3.33cm\nIPQ| = \u221a(12\\(^2\\) + 5\\(^2\\))\\(^2\\)\u00a0= 13cm\nIRT| = |QU| = 12cm\nFrom\u25b3RTS\nsin 50\u00b0= \\(\\frac{12}{|RS|}\\)\n|RS| = \\(\\frac{12}{sin 50\u00b0}\\) = 15.6649 cm\n|TS| =\u00a0\\(\\frac{12}{tan\u00a050\u00b0}\\) = 10.069cm\nPerimeter = 13 + 3.33 + 15.6649 + 18.399\n= 50.3939cm = 50cm (nearest whole number)\n(b)Area= \\(\\frac{1}{2}\\) (3.33+ 18.4004)12\n6 (21.7304) = 130.3824cm\\(^2\\)\n= 130 cm\\(^2\\) (nearest whole number)",
+    "year": "2021"
+  },
+  {
+    "number": "465",
+    "text": "(a) A cottage is on a bearing of 200\u00b0 and 110\u00b0 from Dogbe's and Manu's farms respectively. If Dogbe walked 5 km and Manu 3 km from the cottage to their farms, find, correct to: (i) two significant figures, the distance between the two farms, (ii) the nearest degree, the bearing of Manu's farm from Dogbe's.\n(b) A ladder 10 m long leaned against a vertical wall xm high. The distance between the wall and the foot of the ladder is 2 m longer than the height of the wall.\nCalculate the value of x",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61561?exam_type=waec&type=theory&page=93",
+    "correct_answer": "diagram above(i)\n(i) Distance between Manu and Dogbe's farm =\u221a(3\\(^2\\)+5\\(^2\\))\n= 5.83km\u00a0or\u00a05.8 km\n(i) tan\u00d8\u00a0= 0.6\n\u00d8= tan\\(^{-1}\\) (O.6)\n= 30.96\u00b0\nBearing = 30.96\u00b0+200\u00b0 =230.96\n= 231\u00b0 (nearest degree)\n(b) x\\(^2\\) + (x+2)\\(^2\\) = 10\\(^2\\)\n2x\\(^2\\) + 4x - 96 = 0\n(x-6) (x+8) = 0\nx = 6,x = -8\n: x = 6cm",
+    "explanation": "diagram above(i)\n(i) Distance between Manu and Dogbe's farm =\u221a(3\\(^2\\)+5\\(^2\\))\n= 5.83km\u00a0or\u00a05.8 km\n(i) tan\u00d8\u00a0= 0.6\n\u00d8= tan\\(^{-1}\\) (O.6)\n= 30.96\u00b0\nBearing = 30.96\u00b0+200\u00b0 =230.96\n= 231\u00b0 (nearest degree)\n(b) x\\(^2\\) + (x+2)\\(^2\\) = 10\\(^2\\)\n2x\\(^2\\) + 4x - 96 = 0\n(x-6) (x+8) = 0\nx = 6,x = -8\n: x = 6cm",
+    "year": "2021"
+  },
+  {
+    "number": "466",
+    "text": "The table shows the distribution of the number of hours per day spent in studying by 50 students.\n\n\n\n\nNumber of hours per day\n\n4\n5\n6\n7\n8\n9\n10\n11\n\n\n\nNumber of students\n\n5\n7\n5\n9\n12\n4\n3\n5\n\n\n\nCalculate, correct to two decimal places,\nthe: (a) mean; (b) standard deviation.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61562?exam_type=waec&type=theory&page=94",
+    "correct_answer": "xffxfx\\(^2\\)4520805735175653018079634418129676894363241033030011555605\u00a3f = 50\u00a3fx = 365\u00a3fx\\(^2\\) = 2,873\n(a) Mean(\\(\\overline{x}\\)) = \\(\\frac{365}{50}\\) = 7.30 (2 d.p.)\n(b) Standard deviation =\u00a0\u221a(\\(\\frac{2873}{50}\\)) - (7.3)\\(^2\\)\n= \u221a4.17\n= 2.0421\n= 2.04 (2 d.p.)",
+    "explanation": "xffxfx\\(^2\\)4520805735175653018079634418129676894363241033030011555605\u00a3f = 50\u00a3fx = 365\u00a3fx\\(^2\\) = 2,873\n(a) Mean(\\(\\overline{x}\\)) = \\(\\frac{365}{50}\\) = 7.30 (2 d.p.)\n(b) Standard deviation =\u00a0\u221a(\\(\\frac{2873}{50}\\)) - (7.3)\\(^2\\)\n= \u221a4.17\n= 2.0421\n= 2.04 (2 d.p.)",
+    "year": "2021"
+  },
+  {
+    "number": "467",
+    "text": "In the diagram, PQRS is a circle. \\(\\overline{|PQ|}\\) = \\(\\overline{|QS|}\\). \u2220SPR = 26\u00b0 and the interior angles of PQS are in the ratio 2:3 :3.\nCalculate:\u00a0(i) PQR; (ii)\u00a0RPQ;\u00a0(iii) PRQ\n(b) The coordinates of two points P and Q in a\u00a0plane\u00a0are (7, 3) and (5, x) respectively, where X is a real number.\nIf |PQ| = 29units, find the value of x.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61563?exam_type=waec&type=theory&page=94",
+    "correct_answer": "(a)(i) \u2220PSQ = \u2220QPS\n\u2220PQS = \\(\\frac{2}{8}\\) x 180\u00b0\n=45\u00b0\n\u2220SPQ = \u2220PSQ\n=\u00a0\\(\\frac{3}{8}\\) x 180 = 67.5\u00b0\n\u2220SQR = \u2220SPR= 26\u00b0\n\u2220PQR = \u2220PQS + \u2220SQR\n= 45\u00b0+ 26\u00b0\n= 71\u00b0\n(ii) \u2220RPQ = \u2220SPQ - \u2220SPR\n= 67.5\u00b0- 26\u00b0\n= 41.5\u00b0\n(iii) \u2220PRQ = 180\u00b0 - 41.5\u00b0 - 71\u00b0\n= 67.5\u00b0\n(b) |PQ| = \\(\\sqrt{ (x_2 - x_1)^2 + (y_2 - y_1)^2}\\)\n29 =\u00a0 \\(\\sqrt{ (5\u00a0- 7)^2 + (x\u00a0- 3)^2}\\)\nTake the square of both sides\n\\(29^2\\) = \\(-2)^2 + (x - 3)^2\n841 = 4 + x\\(^2\\) - 6x + 9\n841 =\u00a0 x\\(^2\\) - 6x + 13\n0 =\u00a0 x\\(^2\\) - 6x + 13 - 841\nx\\(^2\\) - 6x - 828 = 0\nUsing the formula method\nwhere a = 1, b = -6, and c = -828\nx = 31.93095 or - 25.93095\nTherefore x\u2248 31. 93 or x = - 25.93",
+    "explanation": "(a)(i) \u2220PSQ = \u2220QPS\n\u2220PQS = \\(\\frac{2}{8}\\) x 180\u00b0\n=45\u00b0\n\u2220SPQ = \u2220PSQ\n=\u00a0\\(\\frac{3}{8}\\) x 180 = 67.5\u00b0\n\u2220SQR = \u2220SPR= 26\u00b0\n\u2220PQR = \u2220PQS + \u2220SQR\n= 45\u00b0+ 26\u00b0\n= 71\u00b0\n(ii) \u2220RPQ = \u2220SPQ - \u2220SPR\n= 67.5\u00b0- 26\u00b0\n= 41.5\u00b0\n(iii) \u2220PRQ = 180\u00b0 - 41.5\u00b0 - 71\u00b0\n= 67.5\u00b0\n(b) |PQ| = \\(\\sqrt{ (x_2 - x_1)^2 + (y_2 - y_1)^2}\\)\n29 =\u00a0 \\(\\sqrt{ (5\u00a0- 7)^2 + (x\u00a0- 3)^2}\\)\nTake the square of both sides\n\\(29^2\\) = \\(-2)^2 + (x - 3)^2\n841 = 4 + x\\(^2\\) - 6x + 9\n841 =\u00a0 x\\(^2\\) - 6x + 13\n0 =\u00a0 x\\(^2\\) - 6x + 13 - 841\nx\\(^2\\) - 6x - 828 = 0\nUsing the formula method\nwhere a = 1, b = -6, and c = -828\nx = 31.93095 or - 25.93095\nTherefore x\u2248 31. 93 or x = - 25.93",
+    "year": "2021"
+  },
+  {
+    "number": "468",
+    "text": "(a) On Sam's first birthday celebration, his grandfather deposited an amount of S 1,000.00 in a bank compound at 4 % interest annually.\nFind how much is in the account if Sam is 4 years old.\n(b) In the diagram above, ABCD are points on the circle centre O. If |AB| = |BC| and \u2220ADC= 50\u00b0, find \u2220BAD.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/61564?exam_type=waec&type=theory&page=94",
+    "correct_answer": "(a) Amount at end of the 2nd year = \\(\\frac{104}{100}\\) x $1000\n= $1,040.00\nAmount at end of 3rd year =\u00a0\\(\\frac{104}{100}\\) x $1040\n= $1,081.60\nAmount at end of 4th year = \\(\\frac{104}{100}\\) x $1081.6\n= $1,124.86\n(b) \u2220ADC + \u2220DCA+ \u2220CAD = 180\u00b0\n50\u00b0 + 90\u00b0+ \u2220CAD = 180\u00b0\n\u2220CAD = (180 - 140)\u00b0\n= 40\n\u2220ADC + \u2220ABC = 180\u00b0\n50\u00b0\u00a0+ \u2220ABC = 180\u00b0\n\u2220ABC =130\u00b0\n\u2220BAC+ \u2220BCA + \u2220ABC = 180\u00b0\nBut \u2220BAC = \u2220BCA\n2\u2220BAC+ \u2220130\u00b0 = 180\u00b0\n2 \u2220BAC=50\u00b0\n\u2220BAC = 25\u00b0\n\u2220BAD = \u2220CAD + \u2220BAC\n= 40\u00b0+25\u00b0\u00a0 = 65\u00b0",
+    "explanation": "(a) Amount at end of the 2nd year = \\(\\frac{104}{100}\\) x $1000\n= $1,040.00\nAmount at end of 3rd year =\u00a0\\(\\frac{104}{100}\\) x $1040\n= $1,081.60\nAmount at end of 4th year = \\(\\frac{104}{100}\\) x $1081.6\n= $1,124.86\n(b) \u2220ADC + \u2220DCA+ \u2220CAD = 180\u00b0\n50\u00b0 + 90\u00b0+ \u2220CAD = 180\u00b0\n\u2220CAD = (180 - 140)\u00b0\n= 40\n\u2220ADC + \u2220ABC = 180\u00b0\n50\u00b0\u00a0+ \u2220ABC = 180\u00b0\n\u2220ABC =130\u00b0\n\u2220BAC+ \u2220BCA + \u2220ABC = 180\u00b0\nBut \u2220BAC = \u2220BCA\n2\u2220BAC+ \u2220130\u00b0 = 180\u00b0\n2 \u2220BAC=50\u00b0\n\u2220BAC = 25\u00b0\n\u2220BAD = \u2220CAD + \u2220BAC\n= 40\u00b0+25\u00b0\u00a0 = 65\u00b0",
+    "year": "2021"
+  }
+]

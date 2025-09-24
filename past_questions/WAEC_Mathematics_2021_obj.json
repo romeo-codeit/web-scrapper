@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1610",
+    "text": "correct 0.007985 to three significant figures.",
+    "options": {
+      "A": "0.0109",
+      "B": "0.0800",
+      "C": "0.00799",
+      "D": "0.008"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61137?exam_type=waec&type=obj&page=322",
+    "correct_answer": "C",
+    "explanation": "To round to three significant figures, look at the fourth significant figure. It's a 5 , so round up or round down if below 5.To round to two significant figures, look at the third significant figure. It's an 8 , so round up.",
+    "year": "2021"
+  },
+  {
+    "number": "1611",
+    "text": "Simplify: (11\\(_{two}\\))\\(^2\\)",
+    "options": {
+      "A": "1001\\(_2\\)",
+      "B": "1101\\(_2\\)",
+      "C": "101\\(_2\\)",
+      "D": "10001\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61138?exam_type=waec&type=obj&page=323",
+    "correct_answer": "A",
+    "explanation": "(11\\(_{two}\\))\\(^2\\) =\u00a0(11\\(_2\\) \\(\\times\\)\u00a0(11\\(_2\\))\n= \\({1 \\times 2^1 +\u00a01 \\times 2^0} \\times ({1 \\times 2^1 +\u00a01 \\times 2^0})\\)\n= \\({1 \\times 2\u00a0+\u00a01 \\times 1} \\times ({1 \\times 2\u00a0+\u00a01 \\times 1})\\)\n= \\({2 +\u00a01} \\times ({2\u00a0+ 1})\\)\n= 3 \\(\\times\\)\u00a03\n= 9\\(_{10}\\) or\n1001\\(_2\\) from\n2924 r122 r021 r00 r1",
+    "year": "2021"
+  },
+  {
+    "number": "1612",
+    "text": "Solve: 2\\(^{\\sqrt{2x + 1}}\\) = 32",
+    "options": {
+      "A": "13",
+      "B": "24",
+      "C": "12",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61139?exam_type=waec&type=obj&page=323",
+    "correct_answer": "C",
+    "explanation": "2\\(^{\\sqrt{2x + 1}}\\) = 32\n2\\(^{\\sqrt{2x + 1}}\\) = 2\\(^5\\)\n\\(\\sqrt{2x + 1}\\) = 5\nsquare both sides\n2x + 1 = 5\\(^2\\)\n2x + 1 = 25\n2x = 25 - 1\n2x = 24\nx = \\(\\frac{24}{2}\\)\nx = 12",
+    "year": "2021"
+  },
+  {
+    "number": "1613",
+    "text": "If log\\(_{10}\\) 2 = m and\u00a0log\\(_{10}\\) 3\u00a0= n, find\u00a0log\\(_{10}\\) 24 in terms of m and n.",
+    "options": {
+      "A": "3m + n",
+      "B": "m + 3n",
+      "C": "4mn",
+      "D": "3mn"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61140?exam_type=waec&type=obj&page=323",
+    "correct_answer": "A",
+    "explanation": "log\\(_{10}\\) 24 =\u00a0log\\(_{10}\\) 8 \\(\\times\\)\u00a0log\\(_{10}\\) 3\nwhere\u00a0log\\(_{10}\\) 8 = 3\u00a0log\\(_{10}\\) 2 = 3 \\(\\times\\) m\nand\u00a0log\\(_{10}\\) 3 = n\n:\u00a0log\\(_{10}\\) 24 = 3m + n",
+    "year": "2021"
+  },
+  {
+    "number": "1614",
+    "text": "Find the 5th term of the sequence 2,5,10,17....?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "36",
+      "D": "26"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61141?exam_type=waec&type=obj&page=323",
+    "correct_answer": "D",
+    "explanation": "Simply add odd number starting from '3' to the next number\n2\n2 + 3 = 5\n5 + 5 = 10\n10 + 7 = 17\n17 + 9 = 26\nThe fifth term = 26",
+    "year": "2021"
+  },
+  {
+    "number": "1615",
+    "text": "if p = {-3<x<1} and Q = {-1<x<3}, where x is a real number, find P n Q.",
+    "options": {
+      "A": "0",
+      "B": "-3, -2, -1, 0 and 1",
+      "C": "-2, -1 and 0",
+      "D": "-1, 0 and 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61142?exam_type=waec&type=obj&page=323",
+    "correct_answer": "A",
+    "explanation": "p = {-3<x<1} = {-2,-1 and 0}\nQ = {-1<x<3} = {0,1 and 2}\nP n Q = {0} or\u00a0\u00a0{-1<x<1}",
+    "year": "2021"
+  },
+  {
+    "number": "1616",
+    "text": "Factorize 6pq-3rs-3ps+6qr",
+    "options": {
+      "A": "3(r -p)(2q + s)",
+      "B": "3(p + r)( 2q - 2q - s)",
+      "C": "3(2q - s)(p + r)",
+      "D": "3(r - p)(s - 2q)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61143?exam_type=waec&type=obj&page=324",
+    "correct_answer": "C",
+    "explanation": "6pq-3rs-3ps+6qr = 3 (2pq - rs - ps + 2qr)\n= 3 ({2pq + 2qr} {-ps - rs})\n= 3 (2q{ p + r} -s{p + r})\n= 3 ({2q - s}{p + r})",
+    "year": "2021"
+  },
+  {
+    "number": "1617",
+    "text": "What number should be subtracted from the sum of 2 \\(\\frac{1}{6}\\) and 2\\(\\frac{7}{12}\\) to give\u00a03\\(\\frac{1}{4}\\)?",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "1\\(\\frac{1}{2}\\)",
+      "C": "1\\(\\frac{1}{6}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61144?exam_type=waec&type=obj&page=324",
+    "correct_answer": "B",
+    "explanation": "The sum of 2 \\(\\frac{1}{6}\\) and 2\\(\\frac{7}{12}\\)\n=\u00a0\\(\\frac{13}{6}\\) +\u00a0\\(\\frac{31}{12}\\)\n=\u00a0 \\(\\frac{13 \\times 2 + 31}{12}\\)\n=\u00a0\\(\\frac{26 + 31}{12}\\)\n=\u00a0\\(\\frac{57}{12}\\)\nWhat should be subtracted from\u00a0\\(\\frac{57}{12}\\) to give\u00a03\\(\\frac{1}{4}\\)\n\\(\\frac{57}{12}\\) - y =\u00a0\u00a03\\(\\frac{1}{4}\\)\n: y =\u00a0\\(\\frac{57}{12}\\) - 3\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{57}{12}\\) - \\(\\frac{13}{4}\\)\ny =\u00a0\\(\\frac{57 - 3 \\times 13}{12}\\) =\u00a0\u00a0\\(\\frac{57 - 39}{12}\\)\ny =\u00a0\u00a0\\(\\frac{18}{12}\\)\ny =\u00a0\u00a0\\(\\frac{3}{2}\\) or 1\\(\\frac{1}{2}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1618",
+    "text": "Mensah is 5 years old and joyce is thrice as old as mensah. In how many years will joyce be twice as old as Mensah?",
+    "options": {
+      "A": "3 years",
+      "B": "10 years",
+      "C": "5 years",
+      "D": "15 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61146?exam_type=waec&type=obj&page=324",
+    "correct_answer": "C",
+    "explanation": "Mensah\u2019s age is 5. Thus,\nJoyce\u2019s age is 15 (5*3=15)\nThe difference between their ages is 10 (15\u20135=10)\nAs we ought to find how many years Joyce\u2019s age will be twice of Mensah\u2019s age, we should write down the following :\n15+X=2*(5+X)\n15+X=10+2X lets add (-10-X) to both sides of the equation and\n15+X-10-X = 10+2X-10-X\n5=X \u2014-> X=5\nAfter 5 years Joyce\u2019s age will be 20 (15+5=20)\nAfter 5 years Mensah\u2019s age will be 10 (5+5=10)\nAfter 5 years Joyce will be twice as old as Mensah (10*2=20)",
+    "year": "2021"
+  },
+  {
+    "number": "1619",
+    "text": "If 16 * 2\\(^{(x + 1)}\\) = 4\\(^x\\) * 8\\(^{(1 - x)}\\), find the value of x.",
+    "options": {
+      "A": "-4",
+      "B": "4",
+      "C": "1",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61153?exam_type=waec&type=obj&page=324",
+    "correct_answer": "D",
+    "explanation": "16 * 2\\(^{(x + 1)}\\) = 4\\(^x\\) * 8\\(^{(1 - x)}\\)\n= 2\\(^4\\)\u00a0* 2\\(^{(x + 1)}\\) = 2\\(^{2x}\\) * 2\\(^{3(1 - x)}\\)\n--> 4 + x + 1\u00a0= 2x + 3 - 3x\ncollect like terms\n--> x - 2x + 3x = 3 - 1 - 4\n--> 2x = -2\n--> x = -1",
+    "year": "2021"
+  },
+  {
+    "number": "1620",
+    "text": "The circumference of a circular track is 9km. A cyclist rides round it a number of times and stops after covering a distance of 302km. How far is the cyclist from the starting point?",
+    "options": {
+      "A": "5km",
+      "B": "6km",
+      "C": "7km",
+      "D": "3km"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61155?exam_type=waec&type=obj&page=324",
+    "correct_answer": "A",
+    "explanation": "Circumference of the circular track = 9km\nDistance covered = 302km\nNumber of complete circles or revolutions from the starting point = 302/9 =33 circles and additional 5km.\nSo, the distance of the cyclist from the starting point would be 5km",
+    "year": "2021"
+  },
+  {
+    "number": "1621",
+    "text": "Simplify 2\u221a7- \\(\\frac{14}{\u221a7} + \\frac{7}{\u221a21}\\)",
+    "options": {
+      "A": "\\(\\frac{\u221a21}{21}\\)",
+      "B": "7\\(\\frac{\u221a21}{21}\\)",
+      "C": "\\(\\frac{\u221a21}{3}\\)",
+      "D": "3\u221a21"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61165?exam_type=waec&type=obj&page=325",
+    "correct_answer": "C",
+    "explanation": "2\u221a7-\u00a0 \\(\\frac{14}{\u221a7} + \\frac{7}{\u221a21}\\)\nL.C.M is\u00a0\u221a21\n\\(\\frac{\u221a21 * 2\u221a7\u00a0\u00a0- \u221a3 *14\u00a0 + 7}{\u221a21}\\)\n=\\(\\frac{2 * 7\u221a3 - 14\u221a3 + 7}{\u221a21}\\)\n=\u00a0\\(\\frac{14\u221a3 - 14\u221a3 + 7}{\u221a21}\\)\n=\\(\\frac{7}{\u221a21}\\)\nor\n\\(\\frac{7 \\times \u221a21}{\u221a21 \\times \u221a21}\\)\n=\u00a0\\(\\frac{7 \\times \u221a21}{21}\\) or\u00a0\u00a0\\(\\frac{\u221a21}{3}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1622",
+    "text": "If 4x+2y=16\u00a0and\u00a06x-2y=4\u00a0,\u00a0find the value\u00a0of (y-x).",
+    "options": {
+      "A": "8",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61192?exam_type=waec&type=obj&page=325",
+    "correct_answer": "B",
+    "explanation": "Using elimination method:\n4x+2y=16 * 6 --> 24x +12y=96 ... eqn iii\n6x-2y=4\u00a0 * 4 --> 24x - 8y = 16 ... eqn iv\nSubtract eqn iv from iii\n20y = 80\ny = 4\nSubst. y for 4 in 4x + 2y = 16\n--> 4x + 2(4) = 16\n--> 4x = 16 - 8\n--> 4x = 8\n--> x = 2\n: The value\u00a0of (y-x) is 4 - 2 = 2",
+    "year": "2021"
+  },
+  {
+    "number": "1623",
+    "text": "In the diagram, \u2220ABC\u00a0and \u2220BCD\u00a0are\u00a0right angles,\u00a0\u2220BAD = t and\u00a0\u2220EDF = 70\u00b0. Find the value of t.",
+    "options": {
+      "A": "70\u00b0",
+      "B": "165\u00b0",
+      "C": "140\u00b0",
+      "D": "110\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61196?exam_type=waec&type=obj&page=325",
+    "correct_answer": "D",
+    "explanation": "Vertically opp angles are equal\u00a0\u2220CDE = 70\u00b0\nSum of interior angles in a quadilateral = 360\u00b0\n(90 + 90 + 70 + t)\u00b0 = 360\u00b0\nt\u00b0 = 360\u00b0 - 250\u00b0\nt\u00b0 = 110\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "1624",
+    "text": "The sum of the interior angles of a regular polygon with k sides is (3k-10) right angles. Find the size of the exterior angle?",
+    "options": {
+      "A": "60\u00b0",
+      "B": "40\u00b0",
+      "C": "90\u00b0",
+      "D": "120\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61197?exam_type=waec&type=obj&page=325",
+    "correct_answer": "A",
+    "explanation": "In a polygon with n sides, the sum of the angles =\n(n - 2)180, where n = the number of sides.\nIn our problem, n = k.\nSo, we have:\n(3k - 10)90 = (k - 2)180\n270k - 900 = 180k - 360\nSimplifying:\n90k = 540\nk = 6. So, we have a regular hexagon.\nNow, each exterior angle = 360/n\nWe have: 360/6 = 60\nConclusion: Each exterior angle is 60 degrees.",
+    "year": "2021"
+  },
+  {
+    "number": "1625",
+    "text": "make u the subject in x =\\(\\frac{2u-3}{3u +\u00a02}\\)",
+    "options": {
+      "A": "u = \\(\\frac{2x + 3}{3x - 2}\\)",
+      "B": "u = \\(\\frac{2x - 3}{3x - 2}\\)",
+      "C": "u = \\(\\frac{2x + 3}{2 - 3x}\\)",
+      "D": "u = \\(\\frac{2x + 3}{3x + 2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61200?exam_type=waec&type=obj&page=325",
+    "correct_answer": "C",
+    "explanation": "x =\\(\\frac{2u-3}{3u +\u00a02}\\)\ncross multiply\nx(3u + 2) = 2u - 3\n3ux + 2x = 2u - 3\ncollect like terms of u\n2x + 3 = 2u - 3ux\n\\(\\frac{2x + 3}{2 - 3x}\\) = u",
+    "year": "2021"
+  },
+  {
+    "number": "1626",
+    "text": "A trader paid import duty of 38 kobo in the naira on the cost of an engine. If a total of #22,800.00 was paid as import duty, calculate the cost of the engine.",
+    "options": {
+      "A": "#60,000.00",
+      "B": "#120,000.00",
+      "C": "#24,000.00",
+      "D": "#18,000.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61202?exam_type=waec&type=obj&page=326",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "1627",
+    "text": "The height of an equilateral triangle of side is 10 3\u221a cm. calculate its perimeter.",
+    "options": {
+      "A": "20cm",
+      "B": "60cm",
+      "C": "40cm",
+      "D": "30cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61207?exam_type=waec&type=obj&page=326",
+    "correct_answer": "B",
+    "explanation": "Height of an equilateral triangle, h = a\\(\\frac{\u221a3}{2}\\), where a is the side of the equilateral triangle.\n10\u221a3 =\u00a0a\\(\\frac{\u221a3}{2}\\)\ncross multiply--> 2 *\u00a010\u221a3 = a\u221a3\n\u221a3 strikes\u00a0\u221a3 on both sides\n20 = a\nThe perimeter of an equilateral triangle is:P = 3a\nP = 3 * 20 = 60cm\nP = 30\u221a3",
+    "year": "2021"
+  },
+  {
+    "number": "1628",
+    "text": "In\u00a0\u25b3LMN, |LM| = 6cm,\u00a0\u2220LNM = x and sin x = sin x = \\(\\frac{3}{5}\\).\nFind the area of\u00a0\u25b3LMN",
+    "options": {
+      "A": "60cm\\(^2\\)",
+      "B": "48cm\\(^2\\)",
+      "C": "24cm\\(^2\\)",
+      "D": "30cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61208?exam_type=waec&type=obj&page=326",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "1629",
+    "text": "consider the statements:\nP =\u00a0All students offering Literature(L) also offer History(H);\nQ = Students offering History(H) do not offer Geography(G).\nWhich of the Venn diagram correctly illustrate the two statements?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61226?exam_type=waec&type=obj&page=326",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "1630",
+    "text": "Find The quadratic Equation Whose Roots Are -2q And 5q.",
+    "options": {
+      "A": "3x\\(^2\\) + 3qx\u00a0- 10q\\(^2\\)",
+      "B": "x\\(^2\\) + 3qx\u00a0+ 10q\\(^2\\)",
+      "C": "x\\(^2\\) - 3qx\u00a0+ 10q\\(^2\\)",
+      "D": "x\\(^2\\) - 3qx\u00a0- 10q\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61232?exam_type=waec&type=obj&page=326",
+    "correct_answer": "D",
+    "explanation": "x\\(^2\\) - (sum of roots)x + (products of roots) = 0\nx\\(^2\\) - (-2q +\u00a05q) + (-2q * 5q) = 0\nx\\(^2\\) -(3q) + (-10q\\(^2\\)) = 0\nx\\(^2\\) -3q -\u00a010q\\(^2\\) = 0",
+    "year": "2021"
+  },
+  {
+    "number": "1631",
+    "text": "if tan\u03b8 = \\(frac{3}{4}\\), 180\u00b0 < \u03b8 < 270\u00b0, find the value of cos\u03b8.",
+    "options": {
+      "A": "\\(\\frac{4}{5}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "-\\(\\frac{4}{5}\\)",
+      "D": "-\\(\\frac{3}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61240?exam_type=waec&type=obj&page=327",
+    "correct_answer": "C",
+    "explanation": "tan\u03b8 = \\(frac{3}{4}\\)\u00a0\u2192\u00a0tan\u03b8\u00a0= 0.75\n\u03b8 = tan\\(^{-1}\\)[0.75]\u00a0\u2192\u00a036.8698\u00b0\ncos\u03b8\u00a0= cos[36.8698\u00b0]\n\u2192 0.800 or\u00a0 \\(frac{4}{5}\\)\nHowever; in the third quadrant Cosine is negative\ni.e -\\(frac{4}{5}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1632",
+    "text": "If\u00a0 \\(\\frac{2}{x-3}\\) - \\(\\frac{3}{x-2}\\) =\u00a0\\(\\frac{p}{(x-3)(x -2)}\\), find p.",
+    "options": {
+      "A": "5 - x",
+      "B": "- (x + 5)",
+      "C": "13 - x",
+      "D": "- (5x - 13)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61247?exam_type=waec&type=obj&page=327",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{2}{x-3}\\) - \\(\\frac{3}{x-2}\\)\n=\u00a0\\(\\frac{2(x -2) -3(x - 3)}{(x-3)(x -2)}\\)\n=\u00a0\\(\\frac{2x -4\u00a0-3x\u00a0+\u00a09}{(x-3)(x -2)}\\)\n=\u00a0\\(\\frac{5 - x}{(x-3)(x -2)}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1633",
+    "text": "The diagonal of a rhombus are 12cm and 5cm. calculate its perimeter",
+    "options": {
+      "A": "26cm",
+      "B": "24cm",
+      "C": "17cm",
+      "D": "34cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61251?exam_type=waec&type=obj&page=327",
+    "correct_answer": "A",
+    "explanation": "Perimeter of a Rhombus = 4L or 2\u221a( d1\\(^2\\) + d2\\(^2\\))\nP = 2\u221a(12\\(^2\\) + 5\\(^2\\))\nP =\u00a0 2\u221a(144 + 25)\nP =\u00a0 2\u221a169 = 2 * 13\nP = 26cm",
+    "year": "2021"
+  },
+  {
+    "number": "1634",
+    "text": "In the diagram,\u00a0\u25b3XYZ is produced to T. if |XY| = |ZY| and\u00a0\u2220XYT = 40\u00b0, find\u00a0\u2220XZT",
+    "options": {
+      "A": "110\u00b0",
+      "B": "130\u00b0",
+      "C": "140\u00b0",
+      "D": "180\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61273?exam_type=waec&type=obj&page=327",
+    "correct_answer": "A",
+    "explanation": "Isosceles Triangle. Two equal sides. Two equal angles ;\n\u2220 X =\u00a0\u2220 Z\n\u2220Y +\u00a0\u2220X + Z = 180\u00a0 --> 40\u00b0 +\u00a0\u2220X +\u00a0\u2220X\u00a0= 180\u00b0\n\u22202X = 180\u00b0 - 40\u00b0 = 140\u00b0\n\u2220X = 70\u00b0, i.e\u00a0\u2220X = 70 and\u00a0\u2220Z\u00a0= 70\u00b0.\nThe exterior angle of triangle is the sum of two opposite internal angles\n:\u00a0\u2220X + \u2220Y =\u2220XZT\n=70\u00b0 + 40\u00b0 = 110\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "1635",
+    "text": "A solid brass cube is melted and\u00a0recast as a solid cone of height h and base radius r. If the height of the cube is h, find r in terms of h.",
+    "options": {
+      "A": "r = h",
+      "B": "r = \u221a\\(\\frac{3h^2}{\u03c0}\\)",
+      "C": "r = \u03c0h",
+      "D": "r = h \u221a\\(\\frac{3}{h}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61299?exam_type=waec&type=obj&page=327",
+    "correct_answer": "B",
+    "explanation": "Volume of cube = H. H. H. = H\\(^3\\)\nthe volume of a cone is,V=\\(\\frac{1}{3}\\)\u03c0r\\(^2\\)h.\nVolume of cube =\u00a0the volume of a cone\nH\\(^3\\) =\\(\\frac{1}{3}\\)\u03c0r\\(^2\\)h.\n\\(\\frac{3{H}^3}{\u03c0h}\\)=r\\(^2\\)\n\u221a\\(\\frac{3{H}^3}{\u03c0h}\\) = r\nh \u221a\\(\\frac{3H^2}{\u03c0}\\) = r",
+    "year": "2021"
+  },
+  {
+    "number": "1636",
+    "text": "Which of the following is not an exterior angle of a regular polygon?",
+    "options": {
+      "A": "66\u00b0",
+      "B": "72\u00b0",
+      "C": "24\u00b0",
+      "D": "15\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61308?exam_type=waec&type=obj&page=328",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "1637",
+    "text": "From a point T, a man moves 12km due west and then moves 12km due south to another point Q. Calculate the bearing of T from Q.",
+    "options": {
+      "A": "225\u00b0",
+      "B": "315\u00b0",
+      "C": "045\u00b0",
+      "D": "135\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61312?exam_type=waec&type=obj&page=328",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2021"
+  },
+  {
+    "number": "1638",
+    "text": "In the diagram, O\u00a0is the centre of the circle PQRS, \u2220PQR = 72\u00b0 and OR is\u00a0parallel to PS. Find\u00a0\u2220 OPS.",
+    "options": {
+      "A": "18\u00b0",
+      "B": "108\u00b0",
+      "C": "54\u00b0",
+      "D": "36\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61348?exam_type=waec&type=obj&page=328",
+    "correct_answer": "D",
+    "explanation": "Angle at the centre O is twice the angle at the circumference.\ni.e O = 72\u00b0 * 2 = 144\u00b0\n\u2220OPS = 180 - 144 = 36\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "1639",
+    "text": "A trapezium of parellel sides 10cm and 21cm and height 8cm is inscribed in a circle of radius 7cm. calculate the area of the region not covered by the trapezium.\n\u03c0 =\\(\\frac{22}{7}\\)",
+    "options": {
+      "A": "84cm\\(^2\\)",
+      "B": "80cm\\(^2\\)",
+      "C": "30cm\\(^2\\)",
+      "D": "94cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61356?exam_type=waec&type=obj&page=328",
+    "correct_answer": "C",
+    "explanation": "Area of circle =\u00a0\u03c0r\\(^2\\) = \\(\\frac{22}{7}\\)\u00a0* 7\\(^2\\) = 154cm\\(^2\\)\nArea o Trapezium =\u00a0\\(\\frac{(a + b) h}{2}\\) =\u00a0\\(\\frac{(10 + 21)8}{2}\\) = 124cm\\(^2\\)\nArea of the region not covered = Area of (Circle - Trapezium)\n= 154 - 124\n= 30cm\\(^2\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1640",
+    "text": "Find, correct to two decimal, the mean of 1\\(\\frac{1}{2}\\), 2\\(\\frac{2}{3}\\), 3\\(\\frac{3}{4}\\), 4\\(\\frac{4}{5}\\), and 5\\(\\frac{5}{6}\\).",
+    "options": {
+      "A": "3.71",
+      "B": "3.70",
+      "C": "3.69",
+      "D": "3.72"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61365?exam_type=waec&type=obj&page=328",
+    "correct_answer": "A",
+    "explanation": "The mean = sum of\u00a01\\(\\frac{1}{2}\\), 2\\(\\frac{2}{3}\\), 3\\(\\frac{3}{4}\\), 4\\(\\frac{4}{5}\\), and 5\\(\\frac{5}{6}\\) divided by their quantity.\nMean = ( 1\\(\\frac{1}{2}\\) + 2\\(\\frac{2}{3}\\) +\u00a03\\(\\frac{3}{4}\\) +\u00a04\\(\\frac{4}{5}\\) +\u00a0and 5\\(\\frac{5}{6}\\) ) / 5\n=\u00a03.708 or 3.71( 2 d.p )",
+    "year": "2021"
+  },
+  {
+    "number": "1641",
+    "text": "A cyclist moved at a speed of Xkm/h for 2 hours. He then increased his\u00a0speed\u00a0by 2 km/h\u00a0for the next 3 hours.\nIf the total distance covered is 36 km, calculate his initials speed.",
+    "options": {
+      "A": "12km/h",
+      "B": "3km/h",
+      "C": "4km/h",
+      "D": "6km/h"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61373?exam_type=waec&type=obj&page=329",
+    "correct_answer": "D",
+    "explanation": "Speed = \\(\\frac{\\text{Distance}}{\\text{Time}}\\)\nFrom the first statement, speed = xkm/h, t = 2hrs\nTherefore, distance = 2xkm\nFrom the second statement, speed = x + 2 ( since speed increased by 2km/h) and t = 3hrs\ndistance = 3 X\u00a0(x + 2) = 3x + 6\nBut total distance = 36km(given)\nTotal distance = 2x + 3x + 6 = 36 i.e.\u00a0(dist. from the first statement + dist. from the second statement)\n5x + 6 = 36\n5x = 36 - 6 = 30\nx = (initial speed) = \\(\\frac{30}{5}\\) = 6Km/h\ncheck = total distance = 36 = 2x + 3x + 6 = 12 + 18 + 6 = 36.",
+    "year": "2021"
+  },
+  {
+    "number": "1642",
+    "text": "find the value of (x+y)",
+    "options": {
+      "A": "215\u00b0",
+      "B": "70\u00b0",
+      "C": "135\u00b0",
+      "D": "145\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61422?exam_type=waec&type=obj&page=329",
+    "correct_answer": "A",
+    "explanation": "sum of angle in a straight line = 180\u00b0\n35 + m = 180\nm = 180 - 35 = 145\u00b0\nCorresponding angles are congruent i.e equal to each other\nAngle X and M are congruent = 145\nsum of angle in a straight line = 180\u00b0\n110 + n\u00a0= 180\nm = 180 - 110\u00a0= 70\u00b0\nAngle Y and N are congruent = 70\u00b0\n\\(\\therefore\\) ( x + y) = ( 145 + 70)\u00b0\n(x + y) = 215\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "1643",
+    "text": "In the diagram, \\(\\overline{MP}\\) is a tangent to the circle NQR,\u00a0\u2220NQR,\u00a0\u2220PNQ = 64 and |\u00a0\\(\\overline{RQ}\\) | =\u00a0|\u00a0\\(\\overline{RN}\\) |. Find the angle market t.",
+    "options": {
+      "A": "130\u00b0",
+      "B": "115\u00b0",
+      "C": "58\u00b0",
+      "D": "68\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61423?exam_type=waec&type=obj&page=329",
+    "correct_answer": "C",
+    "explanation": "Alternate segments\u00a0are equal : R\u00b0 = 64\u00b0\nAn isosceles triangle has two angles ( Q\u00b0 & N\u00b0 ) equal as A\u00b0\nR\u00b0 + A\u00b0 + A\u00b0 = 180\u00b0\n2A\u00b0= 180 - 64\n2A\u00b0 = 116\u00b0\nA = \\(\\frac{116}{2}\\)\nA = 58.\n: Q\u00b0 = 58, N\u00b0 = 58 and T\u00b0 = 58\nAs\u00a0Alternate segments\u00a0are equal: T = Q",
+    "year": "2021"
+  },
+  {
+    "number": "1644",
+    "text": "find the first quartile of 7,8,7,9,11,8,7,9,6 and 8.",
+    "options": {
+      "A": "8.5",
+      "B": "7.0",
+      "C": "7.5",
+      "D": "8.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61424?exam_type=waec&type=obj&page=329",
+    "correct_answer": "B",
+    "explanation": "Rearrange data in increasing order: 6,7,7,7,8,8,8,9,9 and 11\nFirst quartile (ungrouped data) = \\(\\frac{n + 1}{4}\\)th value\n=\u00a0\\(\\frac{11}{4}\\)\n= 2.75th value\n=\u00a0\\(\\frac{7 + 7}{2}\\)\n= 7.0",
+    "year": "2021"
+  },
+  {
+    "number": "1645",
+    "text": "In the diagram, PQRS is a circle. find the value of x.",
+    "options": {
+      "A": "50\u00b0",
+      "B": "30\u00b0",
+      "C": "80\u00b0",
+      "D": "100\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61425?exam_type=waec&type=obj&page=329",
+    "correct_answer": "A",
+    "explanation": "Opp. angles in a cyclic quadrilateral always add up to 180\u00b0\n\u2220P +\u00a0\u2220R &\u00a0\u2220Q +\u00a0\u2220S = 180\nx + x+y = 180\n2x + y = 180... i\n2y - 30 + x = 180\n2y + x = 180 + 30\nx + 2y = 210 ... ii\nElimination method:\n(2x + y = 180) * 1 -->\u00a02x + y = 180\n(x + 2y = 210) * 2 --> 2x + 4y = 420\nSubtracting both equations\n- 3y = - 240\ny = 80\u00b0\nusing eqn i\n2x + y = 180\n2x + 80 = 180\n2x = 100\nx = 50\u00b0",
+    "year": "2021"
+  },
+  {
+    "number": "1646",
+    "text": "A cone has a base radius of 8cm and height 11cm. calculate , correct to 2d.p, the curved surface area",
+    "options": {
+      "A": "341.98cm\\(^2\\)",
+      "B": "276.57cm\\(^2\\)",
+      "C": "201.14cm\\(^2\\)",
+      "D": "477.71cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61426?exam_type=waec&type=obj&page=330",
+    "correct_answer": "A",
+    "explanation": "Where l\\(^2\\) = h\\(^2\\) + r\\(^2\\)\nl\\(^2\\) = 11\\(^2\\) + 8\\(^2\\)\nl =\u221a185\nl =\u00a013.60cm\nThe formula of CSA of Cone is\u03c0rl\n\\(\\frac{22}{7}\\) * 8 * 13.60\n=\u00a0341.979 or\u00a0341.98 (2d.p)",
+    "year": "2021"
+  },
+  {
+    "number": "1647",
+    "text": "Given that sin x = \\(\\frac{3}{5}\\), 0\u00a0\u2264 x\u00a0\u2264 90, evaluate (tan x + 2cosx)",
+    "options": {
+      "A": "2\\(\\frac{11}{20}\\)",
+      "B": "2\\(\\frac{7}{20}\\)",
+      "C": "\\(\\frac{11}{20}\\)",
+      "D": "\\(\\frac{1}{20}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61427?exam_type=waec&type=obj&page=330",
+    "correct_answer": "B",
+    "explanation": "Sin x = \\(\\frac{opp}{hyp}\\)\nsinx =\u00a0\\(\\frac{3}{5}\\)\nusing Pythagoras' theorem\nhyp\\(^2\\) = opp\\(^2\\) + adj\\(^2\\)\nadj\\(^2\\) = 5\\(^2\\) -\u00a03\\(^2\\) = 25 - 9\nadj\\(^2\\) = 16\nadj =\u221a16\nadj = 4.\ntanx =\u00a0\\(\\frac{opp}{adj}\\)\n=\u00a0\\(\\frac{3}{4}\\)\ncosx =\u00a0\\(\\frac{adj}{hyp}\\)\n=\u00a0\\(\\frac{4}{5}\\)\n(tanx + 2cosx) =\u00a0\\(\\frac{3}{4}\\) + 2(\\(\\frac{4}{5}\\))\n=\u00a0\\(\\frac{15 + 32}{20}\\)\n=\u00a0\\(\\frac{47}{20}\\) or\n2 \\(\\frac{7}{20}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1648",
+    "text": "In the diagram, line \\(\\overline{EC}\\)\u00a0is a diameter of the circle ABCDE.\nIf angle ABC equals 158\u00b0, find \u2220ADE",
+    "options": {
+      "A": "112",
+      "B": "90",
+      "C": "68",
+      "D": "22"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61429?exam_type=waec&type=obj&page=330",
+    "correct_answer": "C",
+    "explanation": "In the given diagram;\n<EBC = 90\u00ba (< in a semi-circle)\n< ABE = 158\u00ba - 90\u00ba = 68\u00ba\n\\(\\therefore\\) < ADE = 68\u00ba ( <s in same segment)",
+    "year": "2021"
+  },
+  {
+    "number": "1649",
+    "text": "Height(cm)\n160\n161\n162\n163\n164\n\n165\n\n\n\nNo. of players\n4\n6\n3\n7\n8\n9\n\n\n\nthe table shows the height of 37 players of a basketball team calculates correct to one decimal place the mean height of the players.",
+    "options": {
+      "A": "163.0",
+      "B": "162.0",
+      "C": "160.0",
+      "D": "165.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61430?exam_type=waec&type=obj&page=330",
+    "correct_answer": "A",
+    "explanation": "\u2211fx = (160 * 4) +\u00a0(161\u00a0*\u00a06) +\u00a0(162\u00a0* 3) +\u00a0(163\u00a0* 7) +\u00a0(164\u00a0* 8) + (165\u00a0* 9)\n=640 + 966\u00a0+\u00a0486 +\u00a01,141 +\u00a01,312 +\u00a01,485\n=\u00a06,030\n\u2211f = 4 + 6 +\u00a03 + 7 + 8 + 9\n= 37\n= \\(\\frac{\u2211fx}{\u2211f}\\)\n= \\(\\frac{6030}{37}\\)\n=\u00a0162.97 or 163",
+    "year": "2021"
+  },
+  {
+    "number": "1650",
+    "text": "\\(\\overline{XY}\\) is a line segments with the coordinates X (- 8,- 12) and Y(p,q).\u00a0if the midpoint of\u00a0\\(\\overline{XY}\\) \u00a0is (-4,-2) find the coordinates of Y.",
+    "options": {
+      "A": "(-6,-2)",
+      "B": "(0,8)",
+      "C": "(4,10)",
+      "D": "(0,4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61431?exam_type=waec&type=obj&page=330",
+    "correct_answer": "B",
+    "explanation": "The formula for midpoint= \\(\\frac{x_1\u00a0+ x_2}{2}\\), \\(\\frac{y_1\u00a0+ y_2}{2}\\)\n(-4,-2) = (x,y)\nx =\\(\\frac{x_1\u00a0+ x_2}{2}\\)\n-4 =\u00a0\\(\\frac{-8 +\u00a0p}{2}\\)\n-4 * 2 =-8 +\u00a0p\n-8 + 8 = p\n: p = 0\ny =\\(\\frac{y_1\u00a0+ y_2}{2}\\)\n-2\u00a0=\u00a0\\(\\frac{-12\u00a0+\u00a0q}{2}\\)\n-2 * 2 =\u00a0-12\u00a0+\u00a0q\n-4 + 12 = q\n: q = 8",
+    "year": "2021"
+  },
+  {
+    "number": "1651",
+    "text": "500 tickets were sold for a concert tickets for adults and children were sold at $4.50\u00a0and $3.00\u00a0 respectively if the total receipts for the concerts was $1987.50 how many tickets for adults were sold?",
+    "options": {
+      "A": "325",
+      "B": "235",
+      "C": "175",
+      "D": "400"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61459?exam_type=waec&type=obj&page=331",
+    "correct_answer": "A",
+    "explanation": "A for Adults\nC for children\na + c = 500\nc = 500 - a\n4.5a + 3c = 1987.50\nwhere\u00a0c = 500 - a\n4.5a + 3(500 - a) =\u00a01987.50\n4.5a - 3a =\u00a01987.50 - 1500\n1.5a =\u00a0487.5\na =\u00a0487.5 / 1.5\na =\u00a0325\u00a0tickets\nc = 500 - a\nc = 500 - 325\nc = 175 tickets\nCheck:\nfrom\u00a04.5a + 3c\n4.5 (325) =\u00a01,462.5\n+\n3(175) =\u00a0525",
+    "year": "2021"
+  },
+  {
+    "number": "1652",
+    "text": "The distance d\u00a0between two\u00a0villages east more than 18 KM\u00a0but not more than\u00a023KM.\nwhich of these inequalities represents the\u00a0statements?",
+    "options": {
+      "A": "18 \u2264 d\u00a0\u2264 23",
+      "B": "18 < d\u00a0< 23",
+      "C": "18 \u2264 d\u00a0< 23",
+      "D": "18 < d\u00a0\u2264 23"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61460?exam_type=waec&type=obj&page=331",
+    "correct_answer": "D",
+    "explanation": "distance d\u00a0more than 18 KM = d > 18 0r 18 < d\ndistance d but not more than 23\u00a0KM = d\u00a0\u2264 23\nMathematically; 18 < d\u00a0\u2264 23",
+    "year": "2021"
+  },
+  {
+    "number": "1653",
+    "text": "The pie chart represents the distribution of fruits on display in the shop if there are 60 apples on display how many oranges are there?",
+    "options": {
+      "A": "80",
+      "B": "270",
+      "C": "120",
+      "D": "90"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61461?exam_type=waec&type=obj&page=331",
+    "correct_answer": "D",
+    "explanation": "Total angles = 360\u00b0\n100 + 60 + 80 + M = 360\nM = 360 - 240 = 120\nOrange (M) = 120\u00b0 and F ( fruits in total)\nFor Apples:\n\\(\\frac{80}{360} \\times F\\) = 60\nF =\u00a0\\(\\frac{60 \\times 360}{80}\\)\nF = 270 fruits in total\nFor Orange\n= \\(\\frac{120}{360} \\times 270\\)\n= 90 oranges",
+    "year": "2021"
+  },
+  {
+    "number": "1654",
+    "text": "A box contains 40 identical balls of which 10\u00a0are red and 12 are blue. if a ball is selected at random from the box what is the probability that it is neither red nor blue?",
+    "options": {
+      "A": "\\(\\frac{9}{20}\\)",
+      "B": "\\(\\frac{3}{10}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{11}{20}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61462?exam_type=waec&type=obj&page=331",
+    "correct_answer": "A",
+    "explanation": "Total number = 40\nnumber of red = 10\nPr (R) = \\(\\frac{10}{40}\\)\nPr(blue) = \\(\\frac{12}{40}\\)probability (neither red nor blue)= 1 - \\(\\frac{10}{40}\\) -\u00a0 \\(\\frac{12}{40}\\)= \\(\\frac{40 -12 -10}{40}\\)= \\(\\frac{18}{40}\\) or\u00a0 \\(\\frac{9}{20}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1655",
+    "text": "A fair die is tossed twice what is the probability of\u00a0get a sum of at least 10.",
+    "options": {
+      "A": "\\(\\frac{5}{36}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "\\(\\frac{5}{18}\\)",
+      "D": "\\(\\frac{1}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61463?exam_type=waec&type=obj&page=331",
+    "correct_answer": "D",
+    "explanation": "\\(\\begin{array}{c|c}& 1 & 2 & 3 & 4 & 5 & 6 \\\\\\hline1 & 1,1 & 1,2 & 1,3 & 1,4 & 1,5 & 1,6 \\\\ \\hline 2 & 2,1 & 2,2 & 2,3 & 2,4 & 2,5 & 2,6 \\\\ \\hline 3 & 3,1 & 3,2 & 3,3 & 3,4 & 3,5 & 3,6 \\\\ \\hline 4 & 4,1 & 4,2 & 4,3 & 4,4 & 4,5 & 4,6 \\\\ 5 & 5,1 & 5,2 & 5,3 & 5,4 & 5,5 & 5,6 \\\\ \\hline 6 & 6,1 & 6,2 & 6,3 & 6,4 & 6,5 & 6,6\\end{array}\\)From the table above, event space, n(E) = 6sample space, n(S) = 36Hence, probability sum of scores is at least 10, is;\\(\\frac{n(E)}{n(S)}\\)= \\(\\frac{6}{36}\\)= \\(\\frac{1}{6}\\)",
+    "year": "2021"
+  },
+  {
+    "number": "1656",
+    "text": "A man will be (x+10)years old in 8years time. If 2years ago he was 63 years., find the value of x",
+    "options": {
+      "A": "55",
+      "B": "63",
+      "C": "57",
+      "D": "67"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61464?exam_type=waec&type=obj&page=332",
+    "correct_answer": "B",
+    "explanation": "A man will be (x+10) years old in 8years time.\nAs at today, he is x + 2\u00a0years of age.\nThe man was 63 years old 2 years ago, so he is 63+2=65 now.\n8 years from now, he will be 65+8=73.He will be (x+10) years old when he is 73. Sox+10=73x=73-10=63",
+    "year": "2021"
+  },
+  {
+    "number": "1657",
+    "text": "The equation of a line is given as 3 x - 5y =\u00a07. Find its gradient (slope)",
+    "options": {
+      "A": "\\(\\frac{5}{3}\\).",
+      "B": "\\(\\frac{3}{5}\\).",
+      "C": "\\(\\frac{-3}{5}\\).",
+      "D": "\\(\\frac{-5}{3}\\)."
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61465?exam_type=waec&type=obj&page=332",
+    "correct_answer": "B",
+    "explanation": "the form y=mx+c\nwhere m is the gradient and c is the y-intercept.\nthe equation to gives 5y=3x - 7.\ndivide both side by 5 the coefficient of y\u00a0\u2192\u00a0\\(\\frac{3}{5}\\)x -\u00a0\\(\\frac{7}{5}\\)\ncomparing this with the general equation y=mx+c,\nyou can see that m= the gradient= \\(\\frac{3}{5}\\).",
+    "year": "2021"
+  },
+  {
+    "number": "1658",
+    "text": "For what value of x is\u00a0\\(\\frac{4 - 2x}{x + 1}\\) undefined.",
+    "options": {
+      "A": "2",
+      "B": "-1",
+      "C": "1",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/61466?exam_type=waec&type=obj&page=332",
+    "correct_answer": "B",
+    "explanation": "A rational expression is undefinedwhen the denominator is equal to zero.\nwhen x = -1\nThe denominator in this equation : x + 1\n--> -1 + 1 = 0\nThis\u00a0expression is undefined\u00a0when x = -1",
+    "year": "2021"
+  }
+]

@@ -1,0 +1,701 @@
+[
+  {
+    "number": "1706",
+    "text": "In the diagram, O is the center of the circle QRS and\u00a0\u2220SQR = 28\u00b0. Find \u2220ORS.",
+    "options": {
+      "A": "\\(56^0\\)",
+      "B": "\\(28^0\\)",
+      "C": "\\(76^0\\)",
+      "D": "\\(62^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68888?exam_type=waec&type=obj&page=342",
+    "correct_answer": "D",
+    "explanation": "\u2220SOR = 2 \u00d7 28\u00b0\u00a0= 56\u00b0\u00a0(angle at the centre is twice the angle at the circumference)From \u2206SOR|OS| = |OR| (radii)So, \u2206SOR is isosceles.\n\u2220ORS = \\(\\frac{180^0 -\u00a0 56^0}{2} = \\frac{124^0}{2}\\)\u00a0 \u00a0 ( base angles of isosceles triangle are equal)\n\u2234 \u2220ORS = 62\u00b0",
+    "year": "2023"
+  },
+  {
+    "number": "1707",
+    "text": "Solve\u00a0 \\(1 + \\sqrt[3]{ x - 3} = 4\\)",
+    "options": {
+      "A": "30",
+      "B": "6",
+      "C": "12",
+      "D": "66"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68889?exam_type=waec&type=obj&page=342",
+    "correct_answer": "A",
+    "explanation": "\\(1 + \\sqrt\u00a0[3]{x-3} = 4\\)\n= \\(\\sqrt[3]{x - 3} = 4 - 1\\)\n\\(\\sqrt[3]{x - 3} = 3 \\)\ntake the cube of both sides\n= x - 3 = 27x = 27 + 3\u2234 x = 30",
+    "year": "2023"
+  },
+  {
+    "number": "1708",
+    "text": "The angle of a sector of a circle of radius 3.4 cm is 115\u00b0. Find the area of the sector.\n\\((Take \\pi = \\frac{22}{7})\\)",
+    "options": {
+      "A": "\\(11.6cm^2\\)",
+      "B": "\\(12.7cm^2\\)",
+      "C": "\\(10.2cm^2\\)",
+      "D": "\\(9.4cm^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68921?exam_type=waec&type=obj&page=342",
+    "correct_answer": "A",
+    "explanation": "\\(\\theta\u00a0= 115\u00b0 , radius = 3.4cm^2\\)\nArea of a sector = \\(\\frac{\\theta}{360} \\times \\pi r^2\\)\n= \\(\\frac{115}{360} \\times \\frac{22}{7} \\times 3.4\\times 3.4\\)\n= \\(\\frac{29246.4}{2520}\\)\n= \\(11.6cm^2\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1709",
+    "text": "There are 30 students in a class. 15 study woodwork and 13 study metal work. 6 study neither of the 2 subjects. How many student study woodwork but not metal work?",
+    "options": {
+      "A": "13",
+      "B": "11",
+      "C": "5",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68936?exam_type=waec&type=obj&page=342",
+    "correct_answer": "B",
+    "explanation": "Using the venn diagram above\n\u03bc = 30n(W) = 15n(M) = 13\\(n(W \u222a M)^1 = 6\\)Let x = number of students that study both woodwork and metalworki.e. n(W \u2229 M) = xNumber of students that study only woodwork,\\(n(W \u2229 M^1)\\) = \\(15 - x\\)Number of students that study only metalwork, \\(n(W^1 \u2229 M)\\) = \\(13 - x \\)Bringing all together,\\(n(W \u2229 M^1)\\) +\\( n(W^1 \u2229 M)\\) + \\(n(W \u2229 M)\\) + \\(n(W \u222a M)^1\\) = \\(\u03bc\\)\u2234 (15 - x) + (13 - x) + x + 6 = 30\u21d2 34 - x = 30\u21d2 34 - 30 = x\u2234 x = 4\\(n(W \u2229 M^1)\\) = \\(15 - 4 = 11\\)\u2234 The number of students that study woodwork but not metalwork is 11.",
+    "year": "2023"
+  },
+  {
+    "number": "1710",
+    "text": "Mr Manu is 4 times as old as his son, Adu. 7 years ago the sum of their ages was 76. How old is Adu?",
+    "options": {
+      "A": "22years",
+      "B": "12years",
+      "C": "18years",
+      "D": "15 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68955?exam_type=waec&type=obj&page=342",
+    "correct_answer": "C",
+    "explanation": "Let Mr Manu be x years old and Adu be y years old.\nBut Mr Manu is four times as old as Adu then, x = 4y.\n7 years ago, the sum of their ages was 76.\n( x - 7) + ( y - 7) = 76\nx + y - 14 = 76\nx + y = 76 + 14 = 90\nBut x = 4y\nTherefore, 4y + y = 90\n5y = 90\ny = \\(\\frac{90}{5}\\)\ny = 18\nTherefore Adu is 18 years old.",
+    "year": "2023"
+  },
+  {
+    "number": "1711",
+    "text": "The angle of elevation of the top of a building from a point Z on the ground is 50\u00b0. If the height of the building is 124 m, find the distance from Z to the foot of the building.",
+    "options": {
+      "A": "147.78m",
+      "B": "104.05m",
+      "C": "161.87m",
+      "D": "192.91m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68966?exam_type=waec&type=obj&page=343",
+    "correct_answer": "B",
+    "explanation": "From the diagram above; Tan\\(\\theta = \\frac{opp}{adj}\\)\ntan50\u00b0 = \\(\\frac{124}{d}\\)\nd = \\(\\frac{124}{tan50}\\)\ntherefore, d = 104.05m",
+    "year": "2023"
+  },
+  {
+    "number": "1712",
+    "text": "One-third of the sum of two numbers is 12, twice their difference is 12. Find the numbers.",
+    "options": {
+      "A": "22 and 14",
+      "B": "20 and 16",
+      "C": "21 and 15",
+      "D": "23 and 13"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68974?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "Let the two numbers be x and y\n\\(\\frac{1}{3}( x + y) = 12\\)\nthen x + y = 36 ..........i\n2( x - y) = 12\nx - y = 6 ............ii\nadd equations i and ii\n2x = 42\nx = 21, put x = 21 into equation i\nx + y = 36\n21 + y = 36\ny = 36 - 21 = 15\ntherefore the numbers are 21 and 15",
+    "year": "2023"
+  },
+  {
+    "number": "1713",
+    "text": "In the diagram above,\u00a0M, N, R are points on the circle centre O. \u2220ORN = 48\u00b0\u00a0and \u2220RNM = 124\u00b0. Find \u2220OMN.",
+    "options": {
+      "A": "\\(58^0\\)",
+      "B": "\\(64^0\\)",
+      "C": "\\(48^0\\)",
+      "D": "\\(76^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68980?exam_type=waec&type=obj&page=343",
+    "correct_answer": "D",
+    "explanation": "Reflex \u2220MOR = 2 \u00d7 124\u00b0\u00a0= 248\u00b0\u00a0(angle at the centre is twice the angle at the circumference)\u2220MOR = 360\u00b0\u00a0- 248\u00b0\u00a0= 112\u00b0\u00a0(sum of angle at a point is 360\u00b0)\u2220OMN = 360\u00b0\u00a0- (124\u00b0+ 48\u00b0\u00a0+ 112\u00b0) (sum of angles in a quadrilateral is 360\u00b0)= 360\u00b0\u00a0- 284\u00b0\u2234 \u2220OMN = 76\u00b0",
+    "year": "2023"
+  },
+  {
+    "number": "1714",
+    "text": "Simplify \\(3\\sqrt{12} + 10\\sqrt{3} - \\frac{6}{\\sqrt{3}}\\)",
+    "options": {
+      "A": "10\\(\\sqrt{3}\\)",
+      "B": "18\\(\\sqrt{3}\\)",
+      "C": "14\\(\\sqrt{3}\\)",
+      "D": "7\\(\\sqrt{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68987?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "\\(3\\sqrt{12} + 10\\sqrt{3} - \\frac{6}{\\sqrt{3}}\\)\n= \\(3\\sqrt{4\\times3} + 10\\sqrt{3} - \\frac{6}{\\sqrt{3}}\\)\n= \\(6\\sqrt{3} + 10\\sqrt{3} - \\frac{6}{\\sqrt{3}}\\)\ntreating\u00a0 like a fraction, then\n= \\(\\frac{18 + 30 - 6}{\\sqrt{3}}\\)\n= \\(\\frac{42}{\\sqrt{3}}\\)\nrationalizing\n= \\(14\\sqrt{3}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1715",
+    "text": "For what value of x is\u00a0 \\(\\frac{ x^2 + 2 }{ 10x^2 - 13x\u00a0- 3}\\)\u00a0 is undefined?.",
+    "options": {
+      "A": "\\(\\frac{1}{5}, \\frac{3}{2}\\)",
+      "B": "\\(\\frac{-1}{5}, \\frac{3}{2}\\)",
+      "C": "\\(\\frac{1}{5}, \\frac{-3}{2}\\)",
+      "D": "\\(\\frac{-1}{5}, \\frac{-3}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/68999?exam_type=waec&type=obj&page=343",
+    "correct_answer": "B",
+    "explanation": "The fraction\u00a0 \\(\\frac{ x^2 + 2 }{ 10x^2 - 13x\u00a0- 3}\\)\u00a0 is undefined when the denominator is equal to zero\n\\(then\u00a0 10x^2 - 13x\u00a0- 3 = 0\\)\nby factorisation,\u00a0 \\(10x^2 - 13x\u00a0- 3\\) = 0 becomes \\( 10x^2 - 15x +2x -3\\) = 0\n\\(5x(2x\u00a0- 3) + 1(2x - 3) = 0\\)\n\\((5x + 1)(2x - 3) = 0\\)\n\\(then, x = \\frac{-1}{5}\\) or \\(\\frac{3}{2}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1716",
+    "text": "Express \\(413_7\\) to base 5",
+    "options": {
+      "A": "\\(2311_5\\)",
+      "B": "\\(1131_5\\)",
+      "C": "\\(1311_5\\)",
+      "D": "\\(2132_5\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69012?exam_type=waec&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "\\(413_7\\) to base 5\nconvert first to base 10\n\\(417_7 = 4 \u00d7 7^2 + 1 \u00d7 7^1 + 3 \u00d7 7^0\\)= 4 \u00d7 49 + 1 \u00d7 7 + 3 \u00d7 1= 196 + 7 + 3\n= \\(206_{10}\\)\nconvert this result to base 5\n5206541R158R151R30R1\n\\(\u2234 413_7 = 1311_5\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1717",
+    "text": "Evaluate, correct to three decimal place \\(\\frac{4.314 \u00d7 0.000056}{0.0067}\\)",
+    "options": {
+      "A": "0.037",
+      "B": "0.004",
+      "C": "0.361",
+      "D": "0.036"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69033?exam_type=waec&type=obj&page=344",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{4.314 \u00d7 0.000056}{0.0067}\\)\n\\(\\frac{0.000242}{0.0067}\\)\n=\u00a00.036 ( to 3 decimal places)",
+    "year": "2023"
+  },
+  {
+    "number": "1718",
+    "text": "The interior angle of a regular polygon is 6 times its exterior angle find the number of sides of the polygon.",
+    "options": {
+      "A": "12",
+      "B": "15",
+      "C": "10",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69037?exam_type=waec&type=obj&page=344",
+    "correct_answer": "D",
+    "explanation": "each interior angle of a polygon\u00a0= \\(\\frac{(n - 2)\\times 180}{n}\\) where n = no of side of a polygon\neach exterior angle of a polygon\u00a0= \\(\\frac{360}{n}\\)\nthen\u00a0 \\(\\frac{(n - 2)\\times 180}{n}\\) = 6\\(\\times\\) \\(\\frac{360}{n}\\)\n= (n - 2) 180 = 2160\n= 180n - 360 = 2160\n= 180n = 2160 + 360\n= 180n = 2520\ntherefore, n = \\(\\frac{2520}{180}\\) = 14.",
+    "year": "2023"
+  },
+  {
+    "number": "1719",
+    "text": "Solve \\(2^{5x} \\div 2^x = \\sqrt[5]{2^{10}}\\)",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{5}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69048?exam_type=waec&type=obj&page=344",
+    "correct_answer": "B",
+    "explanation": "\\(2^{5x} \\div 2^x = \\sqrt[5]{2^{10}}\\)\napplying the laws of indices\n\\(2^{5x - x} = 2^{10(1/5)}\\)\n\\(2^{4x} = 2^{10(1/5)}\\)\n\\(2^{4x} = 2^2\\)Equating the powersthen 4x = 2\ntherefore, x = \\(\\frac{2}{4}\\) = \\(\\frac{1}{2}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1720",
+    "text": "If \\(log_a 3\\)\u00a0= m and\u00a0\\(log_a 5\\) = p, find \\(log_a 75\\)",
+    "options": {
+      "A": "\\(m^2 + p \\)",
+      "B": "2m + p",
+      "C": "m + 2p",
+      "D": "\\(m + p^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69057?exam_type=waec&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "Given: \\(log_a 3\\) = m and \\(log_a 5\\) = p\\(log_a 75\\) = \\(log_a (3 \u00d7 25)\\)= \\(log_a (3 \u00d7 5^2)\\)= \\(log_a 3 + log_a 5^2\\)=\u00a0\\(log_a 3 + 2log_a 5\\)Since \\(log_a 3\\) = m and \\(log_a 5\\) = p\u2234 \\(log_a 75\\) = m + 2p",
+    "year": "2023"
+  },
+  {
+    "number": "1721",
+    "text": "Find the roots of the equations: \\(3m^2 - 2m - 65 = 0\\)",
+    "options": {
+      "A": "\\(( -5, \\frac{-13}{3})\\)",
+      "B": "\\(( 5, \\frac{-13}{3})\\)",
+      "C": "\\(( 5, \\frac{13}{3})\\)",
+      "D": "\\(( -5, \\frac{13}{3})\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69069?exam_type=waec&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "Find the roots of the equations: \\(3m^2 - 2m - 65 = 0\\)\n= \\( m^2 - 15m + 13m - 65 = 0\\)\n= 3m(m - 5) + 13( m - 5) = 0\n( m - 5)(3m + 13) = 0\nm-5 = 0 or 3m + 13 = 0\ntherefore, m = 5 or \\(\\frac{-13}{3}\\)\ntherefore the roots of the quadratic equation = ( 5, \\(\\frac{-13}{3})\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1722",
+    "text": "A student measured the height of a pole as 5.98 m which is less than the actual height. If the percentage error is 5%, find correct to two d.p the actual height of the pole.",
+    "options": {
+      "A": "6.29m",
+      "B": "7.67m",
+      "C": "7.18m",
+      "D": "6.65m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69076?exam_type=waec&type=obj&page=345",
+    "correct_answer": "A",
+    "explanation": "%error=5%, measured height\u00a0= 5.98m\nlet the actual height\u00a0= y\nerror=x\u00a0- 5.98 (since 'y' is more than 5.98)\n%error = \\(\\frac{error}{actual height}\\times 100%\\)\n5% =\u00a0 \\(\\frac{y\u00a0- 5.98}{y}\\times 100%\\)\n\\(\\frac{5}{100} = \\frac{y\u00a0- 5.98}{y}\\)\n5y\u00a0= 100(y\u00a0- 5.98)\n5y\u00a0= 100y\u00a0- 598\n5y\u00a0- 100y\u00a0= - 598\n-95y\u00a0= - 598\ny = \\(\\frac{-598}{-95}\\)\ny = 6.29m( to\u00a02 d.p).",
+    "year": "2023"
+  },
+  {
+    "number": "1723",
+    "text": "The radius and height of a solid cylinder is 8 cm and 14 cm respectively. Find, correct to two d.p the total surface area.\n(Take \\(\\pi = \\frac{22}{7})\\)",
+    "options": {
+      "A": "\\(1,106.29cm^2\\)",
+      "B": "\\(1,016.29cm^2\\)",
+      "C": "\\(1,106.89cm^2\\)",
+      "D": "\\(1,206.27cm^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69101?exam_type=waec&type=obj&page=345",
+    "correct_answer": "A",
+    "explanation": "radius = 8cm , height = 14cm\u00a0 and \\(\\pi = \\frac{22}{7}\\)\ntotal surface area of a solid cylinder =\\( 2\u03c0rh+2\u03c0r^2\\) =\u00a02\u03c0r( h + r )\n\\( 2 \\times \\frac{22}{7} \\times 8( 8 + 14)\\)\n\\( 2 \\times \\frac{22}{7} \\times 8 \\times 22\\)\n\\(\\frac{7744}{7}\\)\n= \\(1,106.29cm^2\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1724",
+    "text": "Find the value of a in the equation: cos (a + 14)\u00b0\u00a0= sin (4a + 6)\u00b0",
+    "options": {
+      "A": "15",
+      "B": "17",
+      "C": "14",
+      "D": "21"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69104?exam_type=waec&type=obj&page=345",
+    "correct_answer": "C",
+    "explanation": "cos (a + 14)\u00b0\u00a0= sin (4a + 6)\u00b0Recall, cos \u03b8 = sin (90 - \u03b8)\u21d2 sin (90 - (a + 14)) = sin (4a + 6)\u21d2 sin (90 - a - 14) = sin (4a + 6)\u21d2 sin (76 - a) = sin (4a + 6)\u21d2 76 - a = 4a + 6\u21d2 76 - 6 = 4a + a\u21d2 70 = 5a\n\\(a = \\frac{70}{5}\\)\ntherefore, a = 14",
+    "year": "2023"
+  },
+  {
+    "number": "1725",
+    "text": "The radius of a sphere is 3 cm. Find, in terms of \u03c0, its volume.",
+    "options": {
+      "A": "\\(30\\pi cm^3\\)",
+      "B": "\\(108\\pi cm^3\\)",
+      "C": "\\(27\\pi cm^3\\)",
+      "D": "\\(36\\pi cm^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69106?exam_type=waec&type=obj&page=345",
+    "correct_answer": "D",
+    "explanation": "Given that radius = 3cm.\nvolume of sphere = \\(\\frac{4}{3}\\times\\pi\\times r^3\\)\n= \\(\\frac{4}{3}\\times\\pi\\times 3^3\\)\n=\u00a0\\(\\frac{4}{3}\\times\\pi\\times 27\\)\n= \\(4\\times\\pi\\times9\\)\n= \\(36\\pi cm^3\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1726",
+    "text": "m:n = \\(2\\frac{1}{3} : 1\\frac{1}{5}\\) and n : q = \\(1\\frac{1}{2} : 1\\frac{1}{3}\\), find q : m.",
+    "options": {
+      "A": "35 : 18",
+      "B": "16 : 35",
+      "C": "18 : 35",
+      "D": "35 : 16"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69108?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "m:n = \\(2\\frac{1}{3} : 1\\frac{1}{5}\\) = m : n = \\(\\frac{7}{3} : \\frac{6}{5}\\)\n\\(\\frac{7}{3} : \\frac{6}{5}\\) =\u00a0 \\(\\frac{7}{3} \\div\u00a0\\frac{6}{5}\\)\n\\(\\frac{m}{n}\\) =\u00a0 \\(\\frac{7}{3} \\times\u00a0\\frac{5}{6}\\)\n\\(\\frac{m}{n}\\) =\u00a0 \\(\\frac{35}{18}\\) = m =\u00a0 \\(\\frac{35n}{18}\\)\nn : q\u00a0= \\(1\\frac{1}{2} : 1\\frac{1}{3}\\) =\u00a0 \\(\\frac{3}{2} : \\frac{4}{3}\\)\n\\(\\frac{n}{q}\\) =\u00a0\u00a0 \\(\\frac{3}{2} \\times\\frac{3}{4}\\)\n\\(\\frac{n}{q}\\) =\u00a0 \\(\\frac{9}{8}\\) = q =\u00a0 \\(\\frac{8n}{9}\\)\nq : m =\u00a0\u00a0 \\(\\frac{8n}{9}\\) :\u00a0\u00a0 \\(\\frac{35n}{18}\\)\n\\(\\frac{q}{m}\\) =\u00a0 \\(\\frac{8n}{9}\u00a0\\div \\frac{35n}{18}\\)\n\\(\\frac{q}{m}\\) =\u00a0 \\(\\frac{8n}{9}\\times\\frac{18}{35n}\\)\n=\\(\\frac{q}{m} = \\frac{16}{35}\\) = q : m = 16 : 35",
+    "year": "2023"
+  },
+  {
+    "number": "1727",
+    "text": "make x the subject of the relation \\(y = \\frac{ax^3 - b}{3z}\\)",
+    "options": {
+      "A": "x = \\(\\sqrt[3]\u00a0\\frac{ax^3 - b}{3z}\\)",
+      "B": "x = \\(\\sqrt[3]\u00a0\\frac{3yz - b}{a}\\)",
+      "C": "x = \\(\\sqrt[3]\u00a0\\frac{3yz + b}{a}\\)",
+      "D": "x = \\(\\sqrt[3]\u00a0\\frac{3yzb}{a}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69114?exam_type=waec&type=obj&page=346",
+    "correct_answer": "C",
+    "explanation": "\\(y = \\frac{ax^3 - b}{3z}\\)\ncross multiply\n\\(ax^3 - b\\) = 3yz\n\\(ax^3\\) = 3yz + b\ndivide both sides by a\n\\(x^3\u00a0= \\frac{3yz + b}{a}\\)\ntake cube root of both sides\ntherefore, x = \\(\\sqrt[3]\u00a0\\frac{3yz + b}{a}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1728",
+    "text": "An empty cylindrical tank is 140 cm in diameter. If 200 litres of water was poured into the tank. Calculate, correct to the nearest centimeter, the height of the water in the tank. (\\(Take \\pi = \\frac{22}{7})\\)",
+    "options": {
+      "A": "91cm",
+      "B": "7cm",
+      "C": "13cm",
+      "D": "57cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69120?exam_type=waec&type=obj&page=346",
+    "correct_answer": "C",
+    "explanation": "given that diameter = 140cm\u00a0\u21d2radius = 70cm,\u00a0volume of cylinder = 200litres = \\(200,000cm^3\\)\nvolume of cylinder = base area times height = \\(\\pi r^2h\\)\n\\( 200,000cm^3 = \\frac{22}{7} \\times 70 \\times 70 \\times h\\)\n\\(200,000 = \\frac{107,800h}{7}\\)\ncross multiply\n1,400,000 = 107,800h\n\\( h = \\frac{1,400,000}{107,800}\\)\n= 13cm\u00a0(to the nearest cm).",
+    "year": "2023"
+  },
+  {
+    "number": "1729",
+    "text": "Arrange the following in ascending order of magnitude \\(110_{two}, 31_{eight}, 42_{five}\\)",
+    "options": {
+      "A": "\\(110_{two}, 31_{five}, 42_{eight}\\)",
+      "B": "\\(42_{five}, 110_{two}, 31_{eight}\\)",
+      "C": "\\(42_{five}, 31_{eight}, 110_{two}\\)",
+      "D": "\\(110_{two}, 42_{five}, 31_{eight}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69124?exam_type=waec&type=obj&page=346",
+    "correct_answer": "D",
+    "explanation": "Converting each number to base 10\\(110_{two} = 1 \u00d7 2^2 + 1 \u00d7 2^1 + 0 \u00d7 2^0\\)= 1 \u00d7 4 + 1 \u00d7 2 + 0 \u00d7 1= 4 + 2 + 0= \\(6_{ten}\\)\\(31_{eight} = 3 \u00d7 8^1 + 1 \u00d7 8^0\\)= 3 \u00d7 8 + 1 \u00d7 1= 24 + 1= \\(25_{ten}\\)\\(42_{five} = 4 \u00d7 5^1 + 2 \u00d7 5^0\\)= 4 \u00d7 5 + 2 \u00d7 1= 20 + 2= \\(22_{ten}\\)Hence, \\(31_{eight} > 42_{five} > 110_{two}\\)In ascending order, \\(110_{two}, 42_{five}, 31_{eight}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1730",
+    "text": "A number is chosen at random from 40 and 50 inclusive. Find the probability that the number is prime.",
+    "options": {
+      "A": "\\(\\frac{8}{11}\\)",
+      "B": "\\(\\frac{3}{11}\\)",
+      "C": "\\(\\frac{4}{11}\\)",
+      "D": "\\(\\frac{5}{11}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69126?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "Total numbers from 40 to 50inclusive= 11 (40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50).Prime numbers between 40 and 50 (inclusive) are 41, 43, and 47.There are 3 prime numbers in this range.\ntherefore, Pr(prime numbers) = \\(\\frac{3}{11}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1731",
+    "text": "John was facing S35\u00b0E. If he turned 90\u00b0\u00a0in the anticlockwise direction, find his new direction.",
+    "options": {
+      "A": "S55\u00b0E.",
+      "B": "S35\u00b0W.",
+      "C": "N55\u00b0E.",
+      "D": "N35\u00b0W."
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69129?exam_type=waec&type=obj&page=347",
+    "correct_answer": "C",
+    "explanation": "Consider |NS|\u03b8 = 180\u00b0\u00a0- (90\u00b0\u00a0+ 35\u00b0) (sum of angles on a straight line is 180\u00b0)= 180\u00b0\u00a0- 90\u00b0\u00a0- 35\u00b0= 90\u00b0\u00a0- 35\u00b0= 55\u00b0\u2234 His new bearing is N55\u00b0E.",
+    "year": "2023"
+  },
+  {
+    "number": "1732",
+    "text": "A line L passing through the point (6, -13) is parallel to the line which passes through (7, 4) and (-3, 9). Find the equation of the line L.",
+    "options": {
+      "A": "y = \\(\\frac{1}{2}x - 10\\)",
+      "B": "y = \\(\\frac{-1}{2}x + 10\\)",
+      "C": "y = \\(\\frac{-1}{2}x - 10\\)",
+      "D": "y = \\(\\frac{1}{2}x +10\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69141?exam_type=waec&type=obj&page=347",
+    "correct_answer": "C",
+    "explanation": "(7, 4) and (-3, 9) = (\\( y_1 , x_1)(y_2 , x_2)\\)\nslope\\( m_1\\) of the points(7, 4) and (-3, 9) = \\(\\frac{ y_2 - y_1}{ x_2 - x_1}\\)\n\\( m_1\u00a0= \\frac{ 9 - 4}{ -3 - 7} = \\frac{5}{-10} = \\frac{-1}{2}\\)\n\\( m_1 = m_2\\) ( condition for parallelism)Since the line L passes through the point (6, -13) and is parallel to the points (7, 4) and (-3, 9)\n\\(\\frac{-1}{2} = \\frac{ y - (-\u00a013)}{x - 6}\\)\n= \\(\\frac{-1}{2} = \\frac{ y + 13}{x - 6}\\)\n= \\(\\frac{-1}{2}( x - 6) = y + 13\\)\n\\(\\frac{-1}{2}x +\u00a03\u00a0= y + 13\\)\n=\u00a0\\(\\frac{-1}{2}x +\u00a03 - 13 = y\\)\n\u2234 y = \\(\\frac{-1}{2}x - 10\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1733",
+    "text": "A bag contains 4 white marbles and 3 blue\u00a0marbles. Another bag contains 5 red and 6 blue marbles. If a marble is picked at random from each bag, find the probability that they are of the same colour.",
+    "options": {
+      "A": "\\(\\frac{9}{11}\\)",
+      "B": "\\(\\frac{18}{77}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{11}{12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69143?exam_type=waec&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "1st bag \u2192 4 W, 3 B = 7 marbles2nd bag \u2192 5 R, 6 B = 11 marblesThe only possible way of picking marbles of the same colour is to pick a blue marble from each bag\ntherefore, Pr( same colour) = \\(\\frac{3}{7}\\times \\frac{6}{11}\u00a0= \\frac{18}{77}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1734",
+    "text": "The truth set of \\(8 + 2x - x^2\\) = 0 is {p, q}. Evaluate p + q.",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "-6",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69149?exam_type=waec&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "\\(8 + 2x - x^2 = 0\\)\\(8 +\u00a04x -\u00a02x - x^2 = 0\\)4(2 +\u00a0x) -\u00a0x(2 +\u00a0x) = 0(4 -\u00a0x)(2 +\u00a0x) = 04 -\u00a0x = 0 or 2 +\u00a0x = 0x = 4 or x =-\u00a02So, p = 4 and q = -2\u2234 p + q = 2",
+    "year": "2023"
+  },
+  {
+    "number": "1735",
+    "text": "The bar chart represents the distribution of marks scored by students in an economics examination. Use the bar chart to answer questions 30\u00a0to 32\n\nIf the failed mark was 4, what is the probability that a student selected at random passed?",
+    "options": {
+      "A": "0.36",
+      "B": "0.74",
+      "C": "0.52",
+      "D": "0.64"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69152?exam_type=waec&type=obj&page=347",
+    "correct_answer": "D",
+    "explanation": "Total number of students = total frequency = 3 + 6 + 9 + 1 + 12 + 7 + 5 + 10 = 53Since the failed mark was 4,Total number of students that passed = 12 + 7 + 5 + 10 = 34Pr( passed) = \\(\\frac{34}{53}\\) = 0. 64",
+    "year": "2023"
+  },
+  {
+    "number": "1736",
+    "text": "What percentage of the students scored at most 5 marks?",
+    "options": {
+      "A": "58.5%",
+      "B": "63.2%",
+      "C": "38.3%",
+      "D": "41.5%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69153?exam_type=waec&type=obj&page=348",
+    "correct_answer": "A",
+    "explanation": "Number of students that scoredat most5 marks = 12 + 1 + 9 + 6 + 3 = 31% of student = \\(\\frac{31}{53} \\times 100%\\) = 58.5%",
+    "year": "2023"
+  },
+  {
+    "number": "1737",
+    "text": "How many students scored at least 3 marks?",
+    "options": {
+      "A": "44",
+      "B": "52",
+      "C": "38",
+      "D": "18"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69154?exam_type=waec&type=obj&page=348",
+    "correct_answer": "A",
+    "explanation": "Number of students that scoredat least3 marks = 9 + 1 + 12 + 7 + 5 + 10 = 44",
+    "year": "2023"
+  },
+  {
+    "number": "1738",
+    "text": "Factorize completely: \\(x^2 - (y + z)^2\\)",
+    "options": {
+      "A": "(x - y - z)(x - y - z)",
+      "B": "(x + y + z)(x - y - z)",
+      "C": "(x + y + z)(x + y - z)",
+      "D": "(x + y - z)(x - y + z)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69155?exam_type=waec&type=obj&page=348",
+    "correct_answer": "B",
+    "explanation": "\\(x^2 - (y + z)^2\\)\nUsing difference of two squares (\\(a^2 - b^2 = (a + b)(a - b)|)\u21d2 (x + (y + z))(x - (y + z))\u21d2 (x + y + z)(x - y - z)",
+    "year": "2023"
+  },
+  {
+    "number": "1739",
+    "text": "An equilateral triangle has a side 2 cm. Calculate the height of the triangle.",
+    "options": {
+      "A": "5cm",
+      "B": "\\(\\sqrt5\\)cm",
+      "C": "3cm",
+      "D": "\\(\\sqrt{ 3}\\)cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69159?exam_type=waec&type=obj&page=348",
+    "correct_answer": "D",
+    "explanation": "using Pythagoras theorem\nH = \\(\\sqrt{ 2^2 - 1^2}\\)\n=\u00a0 \\(\\sqrt{ 4\u00a0- 1}\\)\n=\u00a0 \\(\\sqrt3\\)cm",
+    "year": "2023"
+  },
+  {
+    "number": "1740",
+    "text": "Mrs Kebeh stands at a distance of 110 m away from a building of vertical height 58 m. If Kebeh is 2 m tall, find the angle of elevation of the top of the building from her eye.",
+    "options": {
+      "A": "\\(27^0\\)",
+      "B": "\\(28^0\\)",
+      "C": "\\(20^0\\)",
+      "D": "\\(26^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69160?exam_type=waec&type=obj&page=348",
+    "correct_answer": "A",
+    "explanation": "Tan\\(\\theta = \\frac{opp}{adj}\\)\nTan\\(\\theta = \\frac{56}{110}\\)\n\\(\\theta = tan^1(0.5091)\\)\ntherefore, \\(\\theta\\) = 27\u00b0 ( to the nearest degree)",
+    "year": "2023"
+  },
+  {
+    "number": "1741",
+    "text": "Consider the statements:\np: Siah is from Foya.\nq: Foya is in Lofa.\nWrite in symbolic for the statement: \"If Siah is from Foya, then Foya is in Lofa\"",
+    "options": {
+      "A": "~q \u21d4 p",
+      "B": "q \u21d2 p",
+      "C": "p \u21d2 q",
+      "D": "p \u21d4 q"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69161?exam_type=waec&type=obj&page=349",
+    "correct_answer": "C",
+    "explanation": "The symbolic form for the statement \"If Siah is from Foya, then Foya is in Lofa\" is:p \u21d2 qThis is read as \"p implies q\". It means that if p is true, then q must also be true.In other words, if Siah is from Foya, then Foya must be in Lofa.",
+    "year": "2023"
+  },
+  {
+    "number": "1742",
+    "text": "Write the name of a triangle with the vertices (1, -3), (6, 2) and (0,4)?",
+    "options": {
+      "A": "Scalene triangle",
+      "B": "Isosceles triangle",
+      "C": "Right -angle triangle",
+      "D": "Equilateral triangle"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69163?exam_type=waec&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "Let A = (1, -3), B = (6, 2) and C = (0,4)\n\\(d =\\sqrt{ (y_2 - y_1)^2 + (x_2 - x_1)^2}\\)|AB| = \\(\\sqrt{(2 - (-3))^2 + (6 - 1)^2}\\)= \\(\\sqrt{(2 + 3)^2 + (6 - 1)^2}\\)= \\(\\sqrt{5^2 + 5^2}\\)= \\(\\sqrt{25 + 25}\\)= \\(\\sqrt50\\)= 5\\(\\sqrt2\\)\u00a0units|BC| = \\(\\sqrt{(4 - 2)^2 + (0 - 6)^2}\\)= \\(\\sqrt{2^2 + (-6)^2}\\)= \\(\\sqrt{4 + 36}\\)= \\(\\sqrt40\\)= 2\\(\\sqrt10\\)\u00a0 units|AC| = \\(\\sqrt{(4 - (-3)^2 + (0 - 1)^2}\\)= \\(\\sqrt{(4 + 3)^2 + (0 - 1)^2}\\)= \\(\\sqrt{7^2 + (-1)^2}\\)= \\(\\sqrt{49 + 1}\\)= \\(\\sqrt50\\)= 5\\(\\sqrt{2}\\)\u00a0 unitsSince two sides are equal (|AB| = |AC|), then the triangle is Isosceles.",
+    "year": "2023"
+  },
+  {
+    "number": "1743",
+    "text": "The price of a shoe was decreased by 22%. If the new price is $27.3. what is the original price.",
+    "options": {
+      "A": "$62.30",
+      "B": "$42.30",
+      "C": "$72.00",
+      "D": "$35.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69166?exam_type=waec&type=obj&page=349",
+    "correct_answer": "D",
+    "explanation": "Let x = original price\nA decrease of 22% = (100-22)% = 78% of the original\u00a0price.\n78% of x = 27.30\n= \\(\\frac{78x}{100} = 27.30\\)\n78x = 2730\nthen, x = \\(\\frac{2730}{78}\\)\nx =\u00a0 35\nTherefore, the original price of the shoe was\u00a0 $35.00.",
+    "year": "2023"
+  },
+  {
+    "number": "1744",
+    "text": "In the diagram, NR is a diameter, \u2220MNR = x\u00b0\u00a0and, \u2220SRN = (5x + 20)\u00b0. Find the value of 2x.",
+    "options": {
+      "A": "\\(42^0\\)",
+      "B": "\\(35^0\\)",
+      "C": "\\(20^0\\)",
+      "D": "\\(90^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69167?exam_type=waec&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "\u2220RMN = 90\u00b0\u00a0(angles in a semicircle is a right angle)\u2220SRN = \u2220RMN + \u2220MNR (ext. angle of a \u2206 is equal to the sum of two opp. int. angles)\u21d2 5x + 20 = 90 + x\u21d2 5x - x = 90 - 20\u21d2 4x = 70\nx = \\(\\frac{70}{4}\\)\n= 17.4\u00b0\ntherefore, 2x = 2\\(\\times17.5\\) = 35\u00b0",
+    "year": "2023"
+  },
+  {
+    "number": "1745",
+    "text": "Solve: \\(log_3 x + log_3 (x - 8) = 2\\)",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "9",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69168?exam_type=waec&type=obj&page=349",
+    "correct_answer": "C",
+    "explanation": "\\(log_3 x + log_3 (x - 8) = 2\\)\n\\(log_3 x(x - 8) = log_39\\) since 2 =\u00a0\u00a0\u00a0\\(log_39\\)\n\\(log_3\\) cancels out\n\u21d2 x(x - 8) = 9\u21d2 \\(x^2 - 8x = 9\\)\u21d2 \\(x^2 - 8x - 9 = 0\\)\u21d2 \\(x^2 - 9x + x - 9 = 0\\)\u21d2 x(x - 9) + 1(x - 9) = 0\u21d2 (x - 9)(x + 1) = 0\u21d2 x = 9 or x = -1Since we can't have a log of negative numbers,\u2234 x = 9.",
+    "year": "2023"
+  },
+  {
+    "number": "1746",
+    "text": "Find the quadratic equation whose roots are \\(\\frac{2}{3} and \\frac{- 3}{4}\\)",
+    "options": {
+      "A": "\\(12y^2 - y - 6 = 0\\)",
+      "B": "\\(12y^2 - y + 6 = 0\\)",
+      "C": "\\(12y^2 + y - 6 = 0\\)",
+      "D": "\\(y^2 + y - 6 = 0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69169?exam_type=waec&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "Let p = \\(\\frac{2}{3}\\) and q =\u00a0\u00a0\\(\\frac{- 3}{4}\\)\nusing (y - p)(y - q) = 0\n= ( y -\u00a0 \\(\\frac{2}{3})\\)( y - (\\(\\frac{- 3}{4}))\u00a0= 0\\)\n=\u00a0 (\\( y -\u00a0 \\frac{2}{3})( y +\u00a0\\frac{3}{4})\\) = 0\n\\( y^2 +\u00a0\\frac{3}{4}y - \\frac{2}{3}y - \\frac{6}{12} = 0 \\)\n\\( y^2 + \\frac{1}{12}y - \\frac{1}{2}\\) = 0\n= multiply through by the l. c. m of 3 and 4 = 12\n\u2234 the quadratic equation is\u00a0 \\(12y^2 + y - 6 = 0\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1747",
+    "text": "The length of the diagonal of a square is 12 cm. Calculate the area of the square.",
+    "options": {
+      "A": "\\(36 cm^2\\)",
+      "B": "\\(48 cm^2\\)",
+      "C": "\\(72 cm^2\\)",
+      "D": "\\(18 cm^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69170?exam_type=waec&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "Let each side be l, then area = \\(l^2\\)\nUsing Pythagoras theorem\n\\(l^2 + l^2 = 12^2\\)\\(2l^2 = 144\\)\ndivide both sides by 2\\(l^2 = 72\\)\nTherefore, the Area of the square is \\(72 cm^2\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1748",
+    "text": "In the diagram above, O is the centre of a circle NST. |NT| = |ST| and \u2220NTS = 36\u00b0. Find the measure of the angle marked t.",
+    "options": {
+      "A": "\\(72^0\\)",
+      "B": "\\(54^0\\)",
+      "C": "\\(36^0\\)",
+      "D": "\\(108^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69171?exam_type=waec&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "t = \u2220NTS (the angle between a tangent and a chord is equal to\u00a0the angle in the alternate segment).\nTherefore,\u00a0 t = 36\u00b0",
+    "year": "2023"
+  },
+  {
+    "number": "1749",
+    "text": "Find the value of m in the diagram above.",
+    "options": {
+      "A": "\\(40^0\\)",
+      "B": "\\(50^0\\)",
+      "C": "\\(130^0\\)",
+      "D": "\\(140^0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69172?exam_type=waec&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "\u2220EHI = \u2220DEH = 40\u00b0\u00a0(alternate angles are equal)\u2220BEH = 90\u00b0\u00a0(given)\u2220BED = 90\u00b0\u00a0- 40\u00b0\u00a0= 50\u00b0\u2220BEF = 180\u00b0\u00a0- 50\u00b0\u00a0= 130\u00b0\u00a0(sum of angles on a straight line is 180o)\u2220BEF = \u2220ABE = 130\u00b0\u00a0(alternate angles are equal)\u2234 m = 130\u00b0",
+    "year": "2023"
+  },
+  {
+    "number": "1750",
+    "text": "Find the gradient of the line passing through the points \\((\\frac{1}{2},\u00a0 \\frac{- 1}{3})\u00a0 and\u00a0 ( 3 , \\frac{2}{3})\\)",
+    "options": {
+      "A": "\\(\\frac{2}{5}\\)",
+      "B": "\\(\\frac{5}{2}\\)",
+      "C": "\\(\\frac{2}{7}\\)",
+      "D": "\\(\\frac{7}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69173?exam_type=waec&type=obj&page=350",
+    "correct_answer": "A",
+    "explanation": "Gradient(slope) m = \\(\\frac{ y_2 - y_1}{ x_2 - x_1}\\)\nthe points are\u00a0 \\((\\frac{1}{2},\u00a0 \\frac{- 1}{3})\u00a0 and\u00a0 ( 3 , \\frac{2}{3})\\)\nm = \\(\\frac{\\frac{2}{3} - (\\frac{-1}{3})}{3\u00a0- \\frac{1}{2}}\\)\n=\u00a0 \\(\\frac{\\frac{2}{3} +\u00a0\\frac{1}{3}}{3\u00a0- \\frac{1}{2}}\\)\n= \\(1 \\div\\frac{5}{2}\\) = \\(1\\times\\frac{2}{5}\\)\nTherefore, m = \\(\\frac{2}{5}\\)",
+    "year": "2023"
+  },
+  {
+    "number": "1751",
+    "text": "A notebook of length 15 cm was measured to be 16.8 cm, calculate, correct to two d.p, the percentage error in the measurement.",
+    "options": {
+      "A": "12.00%",
+      "B": "11.71%",
+      "C": "10.71%",
+      "D": "11.21%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69174?exam_type=waec&type=obj&page=351",
+    "correct_answer": "A",
+    "explanation": "Error = 16.8 - 15 = 1.8cm\n% error = \\(\\frac{error}{ Actual value}\\times 100%\\)\n=\u00a0 \u00a0 \u00a0 \\(\\frac{1.8}{ 15}\\times100%\\)\n=\u00a0 \\(0.12\\times100%\\)\n=\u00a0 \u00a012.00%",
+    "year": "2023"
+  },
+  {
+    "number": "1752",
+    "text": "If 2x - 3y = -11 and 3x + 2y = 3, evaluate \\( (y - x)^2\\)",
+    "options": {
+      "A": "16",
+      "B": "25",
+      "C": "9",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69175?exam_type=waec&type=obj&page=351",
+    "correct_answer": "A",
+    "explanation": "2x - 3y = -11 --- (i)3x + 2y = 3 --- (ii)Multiply equation (i) by 3 and equation (ii) by 26x - 9y = -33 --- (iii)6x + 4y = 6 --- (iv)Subtract equation (iii) from (iv)13y = 39\ny = \\(\\frac{39}{13}\\) = 3\nsubstitute (3) for y in equation (ii)3x + 2(3) = 33x + 6 = 33x = 3 - 63x = -3x\u00a0 = \\(\\frac{-3}{3}\\) = - 1\nNow,\\((y - x)^2 = (3 - (-1))^2\\)= \\((3 + 1)^2\\)= \\(4^2\\)= 16",
+    "year": "2023"
+  },
+  {
+    "number": "1753",
+    "text": "The diagonals of a rhombus are 16 cm and 12 cm find the length of the side.",
+    "options": {
+      "A": "20cm",
+      "C": "14cm",
+      "D": "10cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69176?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "In a rhombus, the diagonals are perpendicular bisectors of each other, and they bisect the angles of the rhombus. This means that a rhombus is essentially made up of four congruent right-angled triangles.We can use the Pythagorean theorem to find the length of one side of the rhombus (s)\\(s^2 = 8^2 + 6^2\\)\\(s^2 = 64 + 36\\)\\(s^2 = 100\\)s = \\(\\sqrt{100}\\)s =10 cmSo, the length of each side of the rhombus is 10 cm.",
+    "year": "2023"
+  },
+  {
+    "number": "1754",
+    "text": "M varies jointly as the square of n and square root of q. If M = 24 when n = 2 and q = 4, find M when n = 5, q = 9.",
+    "options": {
+      "A": "288",
+      "B": "400",
+      "C": "300",
+      "D": "225"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69178?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "\\(M\u00a0\u221d n^2\\sqrt{q}\\)\n\\(M = Kn^2\\sqrt{q}\\)\nK = \\(\\frac{M}{n^2\\sqrt{q}}\\)\nK =\u00a0\\(\\frac{24}{2^2\\sqrt4}\\)\nk = \\(\\frac{24}{8} = 3\\)\nNow, let's find M when\u00a0 n = 5 and q = 9\nM = \\(Kn^2\\sqrt{q}\\)\nM = \\( 3\\times5^2\\sqrt9\\)\n\\(M = 3\\times25\\times3\\)\nTherefore, M = 225.",
+    "year": "2023"
+  },
+  {
+    "number": "1755",
+    "text": "Find the mean deviation of assets of numbers: 14, 15, 16, 17, 18, and 19.",
+    "options": {
+      "A": "2.5",
+      "B": "1.7",
+      "C": "1.5",
+      "D": "3.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/69180?exam_type=waec&type=obj&page=351",
+    "correct_answer": "C",
+    "explanation": "x\u0304 = \\(\\frac{ 14 + 15 + 16 +17 + 18 + 19}{6} = \\frac{99}{6}\\) = 16.5\nM . D = \\(\\frac{ (14 - 16.5) + (15 - 16.5) + (16 - 16.5) + (17 - 16.5) + (18 - 16. 5) + (19 - 16.5) }{ 6}\\)\nM.D = \\(\\frac{(-2.5) + (-1.5) + (-0.5) + (0.5) + (1.5) + (2.5)}{6}\\)\nTaking the\u00a0absolute value of the deviations\nM.D = \\(\\frac{2.5 + 1.5 + 0.5 + 0.5 + 1.5 + 2.5}{6}\\)\nM.D = \\(\\frac{9}{6}\\) = 1.5",
+    "year": "2023"
+  }
+]

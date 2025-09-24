@@ -1,0 +1,659 @@
+[
+  {
+    "number": "1659",
+    "text": "Evaluate, correct to four significant figures, (573.06 x 184.25).",
+    "options": {
+      "A": "105600.00",
+      "B": "105622.00",
+      "C": "105500.00",
+      "D": "105632.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64420?exam_type=waec&type=obj&page=332",
+    "correct_answer": "A",
+    "explanation": "573.06 x 184.25 =\u00a0105,586.305\n1,05600.00 to four significant figure\nWhat are the Rules for significant figures?\nSignificant Figures\nAll non-zero numbers ARE significant.Zeros between two non-zero digits ARE significant.Leading zeros are NOT significant.Trailing zeros to the right of the decimal ARE significant.Trailing zeros in a whole number with the decimal shown ARE significant.",
+    "year": "2022"
+  },
+  {
+    "number": "1660",
+    "text": "Change 432\\(_{five}\\)\u00a0\u00a0to a number in base three.",
+    "options": {
+      "A": "10100\\(_{three}\\)",
+      "B": "11100\\(_{three}\\)",
+      "C": "11101\\(_{three}\\)",
+      "D": "10110\\(_{three}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64425?exam_type=waec&type=obj&page=332",
+    "correct_answer": "B",
+    "explanation": "Convert from base 5 to base 10\n432\\(_{five}\\) =\u00a0 (4 x 5\\(^2\\)) + (3 x 5\\(^1\\)) + (2 x 5\\(^0\\))\n= (4 x 25) + (3 x 5) + (2 x 1)\n= 100 + 15 + 2\n= 117\\(_{ten}\\)\nThen convert from base 10 to base 3\n3117339 r 0313 r 034 r 131 r 10 r 1\nSelecting the remainders from bottom to top:\n117\\(_{ten}\\) =\u00a011100\\(_{three}\\)\nHence;\u00a0432\\(_{five}\\) =\u00a0\u00a011100\\(_{three}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1661",
+    "text": "Given that A and B are sets such that n(A) = 8, n(B)=12 and n(AnB) =3, find n(AuB).",
+    "options": {
+      "A": "15",
+      "B": "17",
+      "C": "20",
+      "D": "23"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64431?exam_type=waec&type=obj&page=333",
+    "correct_answer": "B",
+    "explanation": "n(AuB) = n(A) + n(B) -\u00a0 n(AnB)\nn(AuB) = 8 + 12 - 3\n= 17",
+    "year": "2022"
+  },
+  {
+    "number": "1662",
+    "text": "If \u221a24 + \u221a96 - \u221a600 = y\u221a6, find the value of y",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "-2",
+      "D": "-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64448?exam_type=waec&type=obj&page=333",
+    "correct_answer": "D",
+    "explanation": "\u221a24 +\u221a96 -\u221a600 = y\u221a6\nconvert all to basic surds\n\u221a24 = 2\u221a6\n\u221a96 = 4\u221a6\n-\u221a600 = -10\u221a6\n2\u221a6 + 4\u221a6 - 10\u221a6 = -4\u221a6\nvalue of y = -4",
+    "year": "2022"
+  },
+  {
+    "number": "1663",
+    "text": "Evaluate 23 x 54 (mod 7)",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64451?exam_type=waec&type=obj&page=333",
+    "correct_answer": "B",
+    "explanation": "23 x 54 = 1242\nIn mod 7;\n1242\u00a0\u00f7 7 = 177\u00a0R 3\nHence; 1242\u00a0\u2261 3",
+    "year": "2022"
+  },
+  {
+    "number": "1664",
+    "text": "If 4\\(^{3x}\\) = 16\\(^{x+1}\\), find the value\u00a0of x",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64454?exam_type=waec&type=obj&page=333",
+    "correct_answer": "A",
+    "explanation": "4\\(^{3x}\\) = 4\\(^{2(x+1)}\\)\n3x = 2x + 2\n3x - 2x = 2\nx = 2",
+    "year": "2022"
+  },
+  {
+    "number": "1665",
+    "text": "A weaver bought a bundle of grass for $ 50.00 from which he made 8 mats. If each mat was sold for $ 15.00, find the percentage profit.",
+    "options": {
+      "A": "240%",
+      "B": "140%",
+      "C": "120%",
+      "D": "40%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64465?exam_type=waec&type=obj&page=333",
+    "correct_answer": "B",
+    "explanation": "cost price = $50\nSelling price = 15 * 8 = $120\npercentage profit = \\(\\frac{sp-cp}{cp}\\) * 100\u00a0\u2192\u00a0 \\(\\frac{120-50}{50}\\) * 100\npercentage profit = 70 * 2\u00a0\u2192 140%",
+    "year": "2022"
+  },
+  {
+    "number": "1666",
+    "text": "Find the 17term of the Arithmetic Progression (A.P):-6,-1,4",
+    "options": {
+      "A": "-91",
+      "B": "-86",
+      "C": "74",
+      "D": "79"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64499?exam_type=waec&type=obj&page=334",
+    "correct_answer": "C",
+    "explanation": "common difference d =\u00a0 -1\u00a0- [-6]\u00a0\u2192 -1\u00a0+ 6\nd = 5; a = -6\nT\\(_n\\) = a + (n-1)d\n: T\\(_{17}\\) = -6 + (17 - 1) 5\n\u2192 -6 + (16)5\n\u2192 -6 + 80 = 74",
+    "year": "2022"
+  },
+  {
+    "number": "1667",
+    "text": "M varies directly as n and inversely as the square of p. If M= 3 when n = 2 and p = 1, find M in terms of n and p.",
+    "options": {
+      "A": "\\(\\frac{3n}{2p^2}\\)",
+      "B": "\\(\\frac{2n}{3p^2}\\)",
+      "C": "\\(\\frac{2n}{3p}\\)",
+      "D": "\\(\\frac{3n^2}{2p^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64504?exam_type=waec&type=obj&page=334",
+    "correct_answer": "A",
+    "explanation": "M = \\(\\frac{nk}{p^2}\\)\nk \u2192\u00a0 \\(\\frac{mp^2}{n}\\) =\u00a0 \\(\\frac{3x1^2}{2}\\)\nk =\u00a0 \\(\\frac{3}{2}\\)\n:\u00a0\u00a0m = \\(\\frac{3xn}{2p^2}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1668",
+    "text": "If a = 3 and b = -7, find the value of\u00a0\\(\\frac{5b+(a+b)^2}{(a-b)^2}\\)",
+    "options": {
+      "A": "0.51",
+      "B": "0.91",
+      "C": "-0.19",
+      "D": "-0.51"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64510?exam_type=waec&type=obj&page=334",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{5b+(a+b)^2}{(a-b)^2}\\)\n= \\(\\frac{5 * -7\u00a0+(3+ -7)^2}{(3- -7)^2}\\)\n=\u00a0\u00a0\\(\\frac{-35 + 16}{10^2}\\)\n=\u00a0\u00a0\\(\\frac{-19}{100}\\) or -0.19",
+    "year": "2022"
+  },
+  {
+    "number": "1669",
+    "text": "Three boys shared D 10,500.00 in the ratio 6:7:8. Find the largest share.",
+    "options": {
+      "A": "4000",
+      "B": "5000",
+      "C": "4500",
+      "D": "3500"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64513?exam_type=waec&type=obj&page=334",
+    "correct_answer": "A",
+    "explanation": "Total proportion is 6+7+8 = 21\n\\(\\frac{6 *\u00a010500}{21}\\) = 3000\n\\(\\frac{7 *\u00a010500}{21}\\) = 3500\n\\(\\frac{8 *\u00a010500}{21}\\) = 4000\nThe largest share is 4000",
+    "year": "2022"
+  },
+  {
+    "number": "1670",
+    "text": "The length of a piece of stick is 1.75 m. A boy measured it as 1.80 m. Find the percentage\u00a0error",
+    "options": {
+      "A": "4\\(\\frac{4}{7}\\)",
+      "B": "2\\(\\frac{6}{7}\\)",
+      "C": "2\\(\\frac{7}{9}\\)",
+      "D": "4\\(\\frac{7}{9}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64519?exam_type=waec&type=obj&page=334",
+    "correct_answer": "B",
+    "explanation": "Error = 1.80 - 1.75 = 0.05\n%error = \\(\\frac{error}{original length}\\)\n=\u00a0 \\(\\frac{0.05 *\u00a0100}{1.75}\\)\n= 2.85 or\u00a0\u00a02\\(\\frac{6}{7}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1671",
+    "text": "If 5x + 3y=4 and 5x-3y= 2, what is the value of (25x\\(^2\\) -9y\\(^2\\))?",
+    "options": {
+      "A": "20",
+      "B": "16",
+      "C": "2",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64804?exam_type=waec&type=obj&page=335",
+    "correct_answer": "D",
+    "explanation": "5x + 3y=4\n5x-3y= 2\nUsing elimination method\n5x + 3y=4\u00a0\u2192\u00a0 \u00a0 5x + 3y=4\n-[5x-3y= 2]\u00a0\u2192 -5x +3y= -2\n6y = 2\ny \u2192 1/3 and x = 3/5\nsolving\u00a0(25x\\(^2\\) -9y\\(^2\\))\n25 * [3/5]\\(^2\\) -9 * [1/3]\\(^2\\)\n25 * \\(\\frac{9}{25}\\) - 9\u00a0\\(\\frac{1}{9}\\)\n9 - 1 = 8",
+    "year": "2022"
+  },
+  {
+    "number": "1672",
+    "text": "Mary has $ 3.00 more than Ben but $ 5.00 less than Jane. If Mary has $ x, how much does Jane and Ben have altogether?",
+    "options": {
+      "A": "$(2x-8)",
+      "B": "$(2x+8)",
+      "C": "$(2x-2)",
+      "D": "$(2x+2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64806?exam_type=waec&type=obj&page=335",
+    "correct_answer": "D",
+    "explanation": "Mary(m),\nBen(b)\nJane(j)\nm = b +3\nm = j - 5\nwhere m = x\nb = x\u00a0- 3 and j = x + 5\nb+ j \u2192 x - 3 + x + 5\n= 2x +2\nJane and Ben have $(2x+2)",
+    "year": "2022"
+  },
+  {
+    "number": "1673",
+    "text": "Consider the statements:\np: Stephen is intelligent\nq: Stephen is good at Mathematics\nIf p\u21d2q, which of the following is a valid conclusion?",
+    "options": {
+      "A": "If Stephen is good at Mathematics, then he is intelligent",
+      "B": "If Stephen is not good at Mathematics, then he is not intelligent",
+      "C": "If Stephen is not intelligent, then he is not good at Mathematics",
+      "D": "If Stephen is not good at Mathematics, then he is intelligent"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64807?exam_type=waec&type=obj&page=335",
+    "correct_answer": "B",
+    "explanation": "If p\u00a0implies (\u2192) q\nthen not (~) q\u00a0\u2192 not (~) p\nOption B",
+    "year": "2022"
+  },
+  {
+    "number": "1674",
+    "text": "What value of p will make (x\\(^2\\) - 4x + p) a perfect square?",
+    "options": {
+      "A": "-2",
+      "B": "16",
+      "C": "4",
+      "D": "-8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64810?exam_type=waec&type=obj&page=335",
+    "correct_answer": "C",
+    "explanation": "(x\\(^2\\) - 4x + p)\nUse the coefficient of the middle variable(-4x)\n= (\\(\\frac{-4}{2}\\))\\(^2\\)\n= (-2)\\(^2\\)\n= 4",
+    "year": "2022"
+  },
+  {
+    "number": "1675",
+    "text": ".Find the value of x such that \\(\\frac{1}{x}\\) +\\(\\frac{4}{3x}\\) -\u00a0\\(\\frac{5}{6x}\\) + 1 = 0",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{-3}{2}\\)",
+      "D": "\\(\\frac{-7}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64815?exam_type=waec&type=obj&page=335",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{1}{x}\\) +\\(\\frac{4}{3x}\\) -\u00a0\\(\\frac{5}{6x}\\) + 1 = 0using 6x as\u00a0lcm\n\u2192\u00a0\\(\\frac{6+8-5+6x}{6x}\\)\n\u2192\u00a0\\(\\frac{9+6x}{6x}\\) = 0\n9+6x = 0\n6x = -9\nx = \\(\\frac{-9}{6}\\) \u00a0or\u00a0\\(\\frac{-3}{2}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1676",
+    "text": "Make t the subject of k =\u00a0\\(m \\sqrt \\frac{t-p}{r}\\)",
+    "options": {
+      "A": "\\(\\frac{k^2r + p}{m^2}\\)",
+      "B": "\\(\\frac{k^2r + pm^2}{m^2}\\)",
+      "C": "\\(\\frac{k^2r - p}{m^2}\\)",
+      "D": "\\(\\frac{k^2r + p^2}{m^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64820?exam_type=waec&type=obj&page=336",
+    "correct_answer": "B",
+    "explanation": "square both sides to remove the square root\nk\\(^2\\) = m\\(^2\\) \\(\\frac{t-p}{r}\\)\n\\(\\frac{k^2r}{m^2}\\) = t - p\nt =\u00a0\\(\\frac{k^2r}{m^2}\\) + p\nt = \\(\\frac{k^2r + pm^2}{m^2}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1677",
+    "text": "An exterior angle of a regular polygon is 22.5\u00b0. Find the number of sides.",
+    "options": {
+      "A": "13",
+      "B": "14",
+      "C": "15",
+      "D": "16"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64822?exam_type=waec&type=obj&page=336",
+    "correct_answer": "D",
+    "explanation": "The sum of exterior angles of a polygon is 360\u00b0\n\\(\\frac{360}{22.5}\\) = 16 sides",
+    "year": "2022"
+  },
+  {
+    "number": "1678",
+    "text": "In the diagram, \u2220POQ = 150\u00a0and the radius of the circle PSQR\u00a0is 4.2cm. [take\u00a0\u03c0 = 22/7]\nWhat is the length of the minor arc?",
+    "options": {
+      "A": "11cm",
+      "B": "15.4cm",
+      "C": "17.64cm",
+      "D": "23.10cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64823?exam_type=waec&type=obj&page=336",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{\u03b8}{360}\\)\u00a0 *\u00a02 *\u00a0\u03c0 *\u00a0r \u2192\u00a0\\(\\frac{150 *\u00a02 *\u00a022\u00a0*\u00a04.2}{360 x 7}\\)\n= 11cm",
+    "year": "2022"
+  },
+  {
+    "number": "1679",
+    "text": "Find the area of the sector OPSQ",
+    "options": {
+      "A": "15.40cm\\(^2\\)",
+      "B": "17.64cm\\(^2\\)",
+      "C": "23.10cm\\(^2\\)",
+      "D": "32.34cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64825?exam_type=waec&type=obj&page=336",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{\u03b8}{360}\\)\u00a0 *\u03c0 * r\\(^2\\)\u00a0\u2192\u00a0\\(\\frac{210 *\u00a022 *\u00a04.2 *\u00a04.2}{360 *\u00a07}\\)\n\\(\\frac{1617}{50}\\) = 32.34cm\\(^2\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1680",
+    "text": "A ladder 6m long leans against a vertical wall at an angle 53\u00ba to the horizontal. How high up the wall does the ladder reach?",
+    "options": {
+      "A": "3.611m",
+      "B": "4.521m",
+      "C": "4.792m",
+      "D": "3.962m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64826?exam_type=waec&type=obj&page=336",
+    "correct_answer": "C",
+    "explanation": "Sin \u03b8 = \\(\\frac{opp}{hyp}\\)\u00a0\u2192\u00a0\\(\\frac{x}{6}\\)\ncross multiply:\nsin53\u00ba * 6 = x\n0.7986 * 6\n4.792m",
+    "year": "2022"
+  },
+  {
+    "number": "1681",
+    "text": "A cylinder, opened at one end, has a radius of 3.5cm and height 8cm. calculate the total surface area",
+    "options": {
+      "A": "126.5cm\\(^2\\)",
+      "B": "165.0cm\\(^2\\)",
+      "C": "212.0cm\\(^2\\)",
+      "D": "214.5cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64827?exam_type=waec&type=obj&page=337",
+    "correct_answer": "D",
+    "explanation": "The surface area of an open-top cylinder =\u00a0\u03c0r(r + 2h),\nwhere 'r' is the radius and 'h' is the height of the cylinder.\n= \\(\\frac{22}{7}\\) * 3.5 (3.5 + 2 * 8)\n= 11 (3.5 + 16)\u00a0\u2192 11 (19.5)\n= 214.5cm\\(^2\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1682",
+    "text": "In the diagram, \u2220ZWZY and WYX are right angles. Find the perimeter of WXYZ.",
+    "options": {
+      "A": "30cm",
+      "B": "32cm",
+      "C": "35cm",
+      "D": "37cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64828?exam_type=waec&type=obj&page=337",
+    "correct_answer": "B",
+    "explanation": "In \u0394WYZ:\nhyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\nhyp\\(^2\\) =3\\(^2\\) + 4\\(^2\\)\u00a0\u2192 9 + 16\nhyp\\(^2\\) = 25\nhyp = 5\nIn\u00a0\u00a0\u0394WXY:\nhyp\\(^2\\) = adj\\(^2\\) + opp\\(^2\\)\nhyp\\(^2\\) = 12\\(^2\\) + 5\\(^2\\) = 144 +25\nhyp\\(^2\\) = 169\nhyp = 13\nthe perimeter of WXYZ. = 3+4+12+13\u00a0\u2192 32cm",
+    "year": "2022"
+  },
+  {
+    "number": "1683",
+    "text": "The length of a rectangle is 10 cm. If its perimeter is 28 cm, find the area",
+    "options": {
+      "A": "30cm\\(^2\\)",
+      "B": "40cm\\(^2\\)",
+      "C": "60cm\\(^2\\)",
+      "D": "80cm\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64829?exam_type=waec&type=obj&page=337",
+    "correct_answer": "B",
+    "explanation": "perimeter = 2( length +\u00a0breadth)\n\u2192 28 = 2 (10+ b)\n14 - 10 = b\nb = 4\nArea = length x breadth\n10 x 4\u00a0\u2192 40cm\\(^2\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1684",
+    "text": "A boy 1.4 m tall, stood 10m away from a tree of height 12 m. Calculate, correct to the nearest degree, the angle of elevation of the top of the tree from the boy's eyes.",
+    "options": {
+      "A": "70\u00ba",
+      "B": "47\u00ba",
+      "C": "19\u00ba",
+      "D": "8\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64834?exam_type=waec&type=obj&page=337",
+    "correct_answer": "B",
+    "explanation": "The angle of elevation\n= Tan\u00a0\u03b8= \\(\\frac{opp}{adj}\\)\nTan \u03b8 =\u00a0\\(\\frac{12- 1.4}{10}\\)\nTan\u00a0\u03b8 =\u00a0\u00a0\\(\\frac{10.6}{10}\\)\n\u03b8 = Tan\\(^{-1}\\)(1.06)\n\u03b8\u00a0\u2248 47\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "1685",
+    "text": "Given that sin (5x-28)\u00b0 = cos (3x-50)\", 0\u00b0\u2264 x \u2264 90\u00b0, find the value of x.",
+    "options": {
+      "A": "39",
+      "B": "21",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64835?exam_type=waec&type=obj&page=337",
+    "correct_answer": "B",
+    "explanation": "using the trial method by inserting each option in the equation.\nInserting 21\u00ba:\u00a0sin([5 x 21] - 28) = cos([3 x 21] - 50)\nsin(105 - 28) = cos (63 - 50)\nsin 77\u00ba = cos 13\u00ba\nwhere:\nsin 77\u00ba\u00a0= 0.9744\ncos 13\u00ba =\u00a0 0.9744",
+    "year": "2022"
+  },
+  {
+    "number": "1686",
+    "text": "In the diagram, MNR is a tangent to the circle centre O at N and \u2220NOS = 108\u00b0. Find\u00a0\u2220OSN",
+    "options": {
+      "A": "72\u00b0",
+      "B": "32\u00b0",
+      "C": "36\u00b0",
+      "D": "18\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64837?exam_type=waec&type=obj&page=338",
+    "correct_answer": "C",
+    "explanation": "The sum of angles in a triangle = 180\u00ba\n(180 - 108)\u00ba = 72\u00ba\nIsosceles triangle has\u00a0both two equal sides and two equal angles.\n\u2220OSN =\u00a0\u00a0\u2220SON\u00a0= \\(\\frac{72}{2}\\)\n= 36\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "1687",
+    "text": "Find\u00a0\u2220OSN",
+    "options": {
+      "A": "36\u00ba",
+      "B": "42\u00ba",
+      "C": "54\u00ba",
+      "D": "72\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64841?exam_type=waec&type=obj&page=338",
+    "correct_answer": "A",
+    "explanation": "The sum of angles in a triangle = 180\u00ba\n(180 - 108)\u00ba = 72\u00ba\nIsosceles triangle has\u00a0both two equal sides and two equal angles.\n\u2220OSN =\u00a0\\(\\frac{72}{2}\\)\n= 36\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "1688",
+    "text": "Mrs Gabriel is pregnant. The probability that she will give birth to a girl is 1/2 and with \u00a0blue eyes is 1/4. What is the probability that she will give birth to a girl with blue eyes?",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{8}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64842?exam_type=waec&type=obj&page=338",
+    "correct_answer": "C",
+    "explanation": "Girl = \\(\\frac{1}{2}\\)\nBlue eyes =\u00a0\\(\\frac{1}{4}\\)\nprobability that she will give birth to a girl with blue eyes:\u00a0\\(\\frac{1}{2}\\) x\u00a0\\(\\frac{1}{4}\\)\n=\u00a0\\(\\frac{1}{8}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1689",
+    "text": "The mean of a set of 10 numbers is 56. If the mean of the first nine numbers is 55, find the 10th number.",
+    "options": {
+      "A": "75",
+      "B": "65",
+      "C": "55",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64844?exam_type=waec&type=obj&page=338",
+    "correct_answer": "B",
+    "explanation": "10th number must be over 56 (as it increases the average)\n55 x 9 = 495 = sum of first 9 numbers\n56 x 10 = 560 = sum of all 10 numbers\n560 - 495 = 65 = 10th number",
+    "year": "2022"
+  },
+  {
+    "number": "1690",
+    "text": "Simplify \\(\\frac{2-18m^2}{1+3m}\\)",
+    "options": {
+      "A": "2[1+3m]",
+      "B": "2[1-3m]",
+      "C": "2[1-3m\\(^2\\)]",
+      "D": "2[1+3m\\(^2\\)]"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64847?exam_type=waec&type=obj&page=338",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{2-18m^2}{1+3m}\\) =\u00a0 \\(\\frac{2[1-9m^2]}{1+3m}\\)\n\\(\\frac{2[1-3m][1+3m]}{1+3m}\\)\n2[1-3m]",
+    "year": "2022"
+  },
+  {
+    "number": "1691",
+    "text": "In the diagram, triangle MNR is inscribed in circle MNR, and line PQ is a straight line.\u00a0\u2220MRN = 41 and = 141, find\u00a0\u2220QNR",
+    "options": {
+      "A": "39\u00ba",
+      "B": "80\u00ba",
+      "C": "110\u00ba",
+      "D": "141\u00ba"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64851?exam_type=waec&type=obj&page=339",
+    "correct_answer": "B",
+    "explanation": "The exterior angle theorem states that\u00a0the measure of each exterior angle of a triangle is equal to the sum of the opposite and non-adjacent interior angles.\n\u2220M = \u2220R + \u2220N\n\u2192 141 = 41 +\u00a0\u2220N\n\u2220N = 141 - 41 = 100\u00ba\n\u2220QNR = 180 - 100\u00a0\u2192 80\u00ba",
+    "year": "2022"
+  },
+  {
+    "number": "1692",
+    "text": "Solve \\(\\frac{y+2}{4}\\) -\u00a0\\(\\frac{y-1}{3}\\)\u00a0> 1",
+    "options": {
+      "A": "y < -10",
+      "B": "y < -2",
+      "C": "y < 2",
+      "D": "y < 10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64856?exam_type=waec&type=obj&page=339",
+    "correct_answer": "B",
+    "explanation": "multiply both sides by the LCM\n12 x \\(\\frac{y+2}{4}\\) -\u00a0 12 x \\(\\frac{y-1}{3}\\)\u00a0>12 x\u00a01\n3[y+2] - 4[y-1] > 12\n3y + 6 - 4y + 4 > 12\n-y + 2 > 12\n-y > 12 - 10\u00a0= 2\ny < -2",
+    "year": "2022"
+  },
+  {
+    "number": "1693",
+    "text": "The age (years) of some members in a singing group are: 12, 47, 49, 15, 43, 41, 13, 39, 43, 41 and 36.\nFind the lower quartile",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "15",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64857?exam_type=waec&type=obj&page=339",
+    "correct_answer": "C",
+    "explanation": "Rearranged: 12,13,15, 36, 39, 41, 41, 43, 43, 47 and 49\nLower quartile or First quartile = \\(\\frac{total number of items}{4}\\)\nIf odd: items numbers + 1 \u2192 \\(\\frac{11 items + 1}{4}\\)\n=\u00a0\\(\\frac{12}{4}\\)\nLower quartile = 3rd iems\u00a0\u219215",
+    "year": "2022"
+  },
+  {
+    "number": "1694",
+    "text": "The age (years) of some members in a singing group are: 12, 47, 49, 15, 43, 41, 13, 39, 43, 41 and 36.\nFind the mean",
+    "options": {
+      "A": "33.35",
+      "B": "35.54",
+      "C": "34.45",
+      "D": "36.44"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64858?exam_type=waec&type=obj&page=339",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{12 + 47 + 49 +\u00a015 +\u00a043 +\u00a041 +\u00a013 +\u00a039 +\u00a043 +\u00a041 +\u00a036}{11}\\)\n= \\(\\frac{379}{11}\\)\n= 34.45",
+    "year": "2022"
+  },
+  {
+    "number": "1695",
+    "text": "Find the correct to two decimal places, the volume of a sphere whose radius is 3cm. [Take\u00a0\u03c0 = \\(\\frac{22}{7}\\)]",
+    "options": {
+      "A": "72.57cm\\(^3\\)",
+      "B": "88.12cm\\(^3\\)",
+      "C": "10529cm\\(^3\\)",
+      "D": "113.14cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/64863?exam_type=waec&type=obj&page=339",
+    "correct_answer": "D",
+    "explanation": "Volume of sphere =\u00a0 \\(\\frac{4\u03c0r^3}{3}\\)\u00a0\u2192\u00a0\u00a0 \\(\\frac{4 x 22\u00a0 x 3^3}{3}\\)\n=\u00a0 \\(\\frac{792}{7}\\)\n= 113.14cm\\(^3\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1696",
+    "text": "The lengths of the parallel sides of a trapezium are 9cm and 12cm. If the area of the trapezium is 105cm\\(^2\\), find the perpendicular distance between the parallel sides.",
+    "options": {
+      "A": "5cm",
+      "B": "7cm",
+      "C": "10cm",
+      "D": "15cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65389?exam_type=waec&type=obj&page=340",
+    "correct_answer": "C",
+    "explanation": "Area of a trapezium = \\(\\frac{[a+b]h}{2}\\)\n105 =\u00a0\\(\\frac{[9+12]h}{2}\\)\u00a0\u2192 105 x 2 =21h\nh =\u00a0\\(\\frac{210}{21}\\)\u00a0\u2192 10cm",
+    "year": "2022"
+  },
+  {
+    "number": "1697",
+    "text": "Find the volume of a cone of radius 3.5cm and vertical height 12cm. [Take\u00a0\u03c0 = 22/7]",
+    "options": {
+      "A": "15.5cm\\(^3\\)",
+      "B": "21.0cm\\(^3\\)",
+      "C": "142cm\\(^3\\)",
+      "D": "154cm\\(^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65391?exam_type=waec&type=obj&page=340",
+    "correct_answer": "D",
+    "explanation": "volume of a cone =\u2153\u03c0\u00a0r2h\u00a0\u2192 \\(\\frac{1*22*3.5*3.5*12}{3*7}\\)\n= 154cm\\(^3\\)",
+    "year": "2022"
+  },
+  {
+    "number": "1698",
+    "text": "A local community has two newspapers: the morning tomes and the evening dispatch. The morning times is read\u00a0by 45% of the households.\u00a0\u00a0The Evening Dispatch is read by 60% of the households.\u00a0\u00a0Twenty percent of the households read both papers.\u00a0\u00a0What is the probability that a particular household reads at least one paper?",
+    "options": {
+      "A": "0.45",
+      "B": "0.65",
+      "C": "0.85",
+      "D": "0.95"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65392?exam_type=waec&type=obj&page=340",
+    "correct_answer": "C",
+    "explanation": "Note that the group that reads both papers is being counted twice.\n(percentages add up beyond 100%)\nLet M = those reading the Morning Times,\nE = those reading the Evening Dispatch\nP( M or E) = P(M) + P(E) \u2013 P(M and E)\n= 0.45 + 0.60 \u2013 0.20\n= 0.85",
+    "year": "2022"
+  },
+  {
+    "number": "1699",
+    "text": "A rectangle with width \\(\\frac{3}{4}\\)cm and area 3 \\(\\frac{3}{8}\\)cm\\(^2\\). Find the length",
+    "options": {
+      "A": "6cm",
+      "B": "4\\(\\frac{1}{2}\\)cm",
+      "C": "2 \\(\\frac{5}{8}\\)cm",
+      "D": "12cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65393?exam_type=waec&type=obj&page=340",
+    "correct_answer": "B",
+    "explanation": "The area of a rectangle =\u00a0length \u2715 width\n: Length = area\u00a0\u00f7 width\u00a0\u2192 3 \\(\\frac{3}{8}\\)\u00a0\u00f7 \\(\\frac{3}{4}\\)\n=\u00a0\\(\\frac{27}{8}\\) *\u00a0\\(\\frac{4}{3}\\)\n= 4\\(\\frac{1}{2}\\)cm",
+    "year": "2022"
+  },
+  {
+    "number": "1700",
+    "text": "The mean of two numbers x and y is 4. Find the mean of four numbers x, 2x, y and 2y",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65394?exam_type=waec&type=obj&page=340",
+    "correct_answer": "C",
+    "explanation": "Since the mean of the two numbers x and y is:\n\\(\\frac{x+y}{2}\\)\u00a0= 4\nx+y =2 * 4\nx+y = 8\nthen we get:\n\\(\\frac{x+2x+y+2y}{4}\\)\n=(\\(\\frac{3x+3y}{4}\\))\n= 3(\\(\\frac{x+y}{4}\\)) \u2192\u00a03(\\(\\frac{8}{4}\\))\n= 3 * 2\n= 6",
+    "year": "2022"
+  },
+  {
+    "number": "1701",
+    "text": "The straight line y = mx - 4 passes through the point(-4,16). Calculate the gradient of the line",
+    "options": {
+      "A": "-5",
+      "B": "-3",
+      "C": "3",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65395?exam_type=waec&type=obj&page=341",
+    "correct_answer": "A",
+    "explanation": "where x=-4 and y = 16,16 = -4m - 44m = -16 - 44m = -20M = -5",
+    "year": "2022"
+  },
+  {
+    "number": "1702",
+    "text": "If the equations x\\(^2\\) - 5x + 6 = 0 and x\\(^2\\) + px + 6 = 0 have the same roots, find the value of p.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "-5",
+      "D": "-6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65396?exam_type=waec&type=obj&page=341",
+    "correct_answer": "C",
+    "explanation": "If \"x\" is the same for both equations, then they are equivalent.\n(i.e., the equations have same\u00a0roots), then the equations are equivalent.\nThen p = -5",
+    "year": "2022"
+  },
+  {
+    "number": "1703",
+    "text": "A trader made a loss of 15% when an article was sold. Find the ratio of the selling price\u00a0\u00a0: cost price",
+    "options": {
+      "A": "3:20",
+      "B": "3:17",
+      "C": "17:20",
+      "D": "20:23"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65398?exam_type=waec&type=obj&page=341",
+    "correct_answer": "C",
+    "explanation": "Where the loss= (100-15)%\n= 85%Ratio = 85:100 or\u00a017:20",
+    "year": "2022"
+  },
+  {
+    "number": "1704",
+    "text": "Given that log\\(_3\\) 27 = 2x + 1, find the value of x.",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65401?exam_type=waec&type=obj&page=341",
+    "correct_answer": "B",
+    "explanation": "Recall that:\u00a0log\\(_3\\) 27\u00a0\u2192\u00a0log\\(_3\\)3\\(^3\\)\n3log\\(_3\\)3 \u2192\u00a03 * 1\n= 3\nThen\u00a0log\\(_3\\) 27 = 2x + 1\n\u2192 3 = 2x + 1\n3 - 1 = 2x\n2\u00a0= 2x\n1 = x",
+    "year": "2022"
+  },
+  {
+    "number": "1705",
+    "text": "Solve 6x\\(^2\\) = 5x - 1",
+    "options": {
+      "A": "x = 2,3",
+      "B": "x = 0,3",
+      "C": "x = \\(\\frac{1}{2}\\), \\(\\frac{1}{3}\\)",
+      "D": "x = \\(\\frac{1}{2}\\), \\(\\frac{-1}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/65404?exam_type=waec&type=obj&page=341",
+    "correct_answer": "C",
+    "explanation": "6x\\(^2\\) = 5x - 1\n\u2192\u00a06x\\(^2\\) -\u00a05x +\u00a01\u00a0= 0\nFactorization:\nfactors\u00a0are -3x and -2x\n6x\\(^2\\) - 3x\u00a0 -2x\u00a0 +\u00a01\u00a0= 0\n(6x\\(^2\\) - 3x) (-2x\u00a0 +\u00a01)\u00a0= 0\n3x(2x-1) -1(2x-1)\u00a0= 0\n(3x-1) (2x-1) = 0\nx = \\(\\frac{1}{2}\\), \\(\\frac{1}{3}\\)",
+    "year": "2022"
+  }
+]

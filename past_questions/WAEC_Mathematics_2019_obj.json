@@ -8,8 +8,9 @@
       "C": "0.00360",
       "D": "0.00359"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57092?exam_type=waec&type=obj&page=303",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "0,00 3597 = 0.00360 to 3 s.f",
     "year": "2019"
   },
   {
@@ -21,8 +22,9 @@
       "C": "-\\(\\frac{2}{5}\\)",
       "D": "-\\(\\frac{5}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57094?exam_type=waec&type=obj&page=303",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "(0.064)\\(^{- \\frac{1}{3}}\\)\n= (\\(\\frac{64}{1000}\\))\\(^{-\\frac{1}{3}}\\)\n= 3\\(\\sqrt{\\frac{1000}{64}}\\)\n= \\(\\frac{10}{4}\\)\n= \\(\\frac{5}{2}\\)",
     "year": "2019"
   },
   {
@@ -34,8 +36,9 @@
       "C": "y = -29",
       "D": "y = 29"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57098?exam_type=waec&type=obj&page=303",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\frac{y + 1}{2} - \\frac{2y - 1}{3}\\) = \\(\\frac{4}{1}\\)\n- \\(\\frac{3(y + 1) - 2(2y - 1)}{6} = \\frac{4}{1}\\)\n3y + 3 - 4y + 2 = 24\n- y + 5 = 24\n- y = 24 - 5 = 19\ny = - 19",
     "year": "2019"
   },
   {
@@ -47,8 +50,9 @@
       "C": "611",
       "D": "610"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57100?exam_type=waec&type=obj&page=303",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "(27.63)\\(^2\\) - (12.37)\\(^2\\)\n= (27.63 + 12.37)(27.63 - 12.37)\n= 40 x 15.26\n= 610",
     "year": "2019"
   },
   {
@@ -60,8 +64,9 @@
       "C": "19",
       "D": "21"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57102?exam_type=waec&type=obj&page=303",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "7 + y = 4 (mod 8)\ny = 4 - 7 (mod 8)\ny = -3 + 8 (mod 8)\ny = 5 + 8 (mod 8)\ny = 13",
     "year": "2019"
   },
   {
@@ -73,8 +78,9 @@
       "C": "{1, 2, 4, 6, 8, 10}",
       "D": "{1, 2, 3, 5, 7, 8, 9}"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57122?exam_type=waec&type=obj&page=304",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "T = {2, 3, 5, 7}\nM = {1, 3, 5, 7, 9}\n\\(\\mu\\) = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}\nT\\(^{\\prime}\\) = = {1, 4, 6, 8, 9, 10}\nM\\(^{\\prime}\\) = {2, 4, 6, 8, 10}\n(T\\(^{\\prime}\\) \\(\\cap\\) M\\(^{\\prime}\\)) = {4, 6, 8, 10}",
     "year": "2019"
   },
   {
@@ -86,8 +92,9 @@
       "C": "\\(\\frac{1}{3}\\)",
       "D": "-\\(\\frac{1}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57125?exam_type=waec&type=obj&page=304",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{\\log_3 9 - \\log_2 8}{\\log_3 9}\\)\n=\u00a0\\(\\frac{\\log_3 3^2\u00a0- \\log_2\u00a0 2^3}{\\log_3 3^2}\\)\n= \\(\\frac{2 -3}{2}\\)\n= \\(\\frac{-1}{2}\\)",
     "year": "2019"
   },
   {
@@ -99,8 +106,9 @@
       "C": "6",
       "D": "7"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57128?exam_type=waec&type=obj&page=304",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "23\\(_y\\) = 1111\\(_{\\text{two}}\\),\n2 x y\\(^1\\)\u00a0+ 3 x y\\(^0\\) = 1 x 2\\(^3\\) + 1 x 2\\(^1\\) + 1 x 2\\(^o\\)\n2y + 3 = 8 + 4 + 2 + 1\n2y + 3 = 15\n\\(\\frac{2y}{2}\\)\n\\(\\frac{12}{2}\\)\ny = 6",
     "year": "2019"
   },
   {
@@ -112,8 +120,9 @@
       "C": "6",
       "D": "8"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57150?exam_type=waec&type=obj&page=304",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "6, p, 14\n14 - p = p - 6\n14 + 6 = p - 6\n14 + 6 = p + p\n\\(\\frac{2p}{2}\\)\n= \\(\\frac{20}{2}\\)\np = 10",
     "year": "2019"
   },
   {
@@ -125,8 +134,9 @@
       "C": "4\\(\\sqrt{7} - 9 \\sqrt{2}\\)",
       "D": "4\\(\\sqrt{7} + \\sqrt{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57156?exam_type=waec&type=obj&page=304",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "2\\(\\sqrt{28} - 3\\sqrt{50} + \\sqrt{22}\\)\n4\\(\\sqrt{7} - 15\\sqrt{2} + 6\\sqrt{2}\\)\n6\\(\\sqrt{7} - 9\\sqrt{2}\\)",
     "year": "2019"
   },
   {
@@ -138,8 +148,9 @@
       "C": "\\(\\frac{3}{4}\\)",
       "D": "\\(\\frac{3}{5}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57161?exam_type=waec&type=obj&page=305",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "m = 2, n = 1\n\\(\\frac{3m^2 - 2n^2}{m^2 _ mn}\\)\n= \\(\\frac{3(2)^2 - 2(1)^2}{2^2 + 2(1)}\\)\n= \\(\\frac{12 - 2}{4 + 2} = \\frac{10}{6}\\)\n= \\(\\frac{5}{3}\\)",
     "year": "2019"
   },
   {
@@ -151,8 +162,9 @@
       "C": "H = \\(\\frac{p}{2y^2}\\)",
       "D": "H = \\(\\frac{p}{y^2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57165?exam_type=waec&type=obj&page=305",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "H \\(\\propto\\) \\(\\frac{p}{y^2}\\)\nH = \\(\\frac{pk}{y^2}\\)\n1 = \\(\\frac{8k}{2^2}\\)\nk = \\(\\frac{4}{8}\\)\n= \\(\\frac{1}{2}\\)\nH = \\(\\frac{p}{2y^2}\\)",
     "year": "2019"
   },
   {
@@ -164,8 +176,9 @@
       "C": "x = 1\\(\\frac{1}{2}\\) or x = -1\\(\\frac{1}{2}\\)",
       "D": "x = -1\\(\\frac{1}{2}\\) or x -2\\(\\frac{1}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57175?exam_type=waec&type=obj&page=305",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "4x\\(^2\\) - 16x + 15 = 0\n\\(4x^2\\) - 6x - 10x + 15 = 0\n2x(2x - 3) - 5(2x - 3) = 0\n(2x - 3)(2x - 5) = 0\nx = 1\\(\\frac{1}{2}\\) or x = 2\\(\\frac{1}{2}\\)",
     "year": "2019"
   },
   {
@@ -177,8 +190,9 @@
       "C": "\\(\\log_{10}^3\\)",
       "D": "2 \\(\\log_{10}^3\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57197?exam_type=waec&type=obj&page=305",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "log\\(_{10}\\) 6 - log\\(_{10}\\)3\\(^3\\) + log\\(_{10}\\) (\\(\\sqrt[3]{27}\\))\\(^2\\)\n= log\u00a0\\(_{10}\\) 6 - log\u00a0\\(_{10}\\) 27 + log\\(_{10}\\) 9\n= log\\(_{10}\\) \\(\\frac{6\u00a0 \\times 9}{27}\\)\n= log\\(_{10}\\)2",
     "year": "2019"
   },
   {
@@ -190,8 +204,9 @@
       "C": "12%",
       "D": "13%"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57203?exam_type=waec&type=obj&page=305",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "15 = (\\(\\frac{6,900 - C.P\u00a0\\times 100}{C.P}\\))\n15 C.P = 690000 - C.P 100\nC.P = \\(\\frac{690000}{115}\\)\nC.P = N6,000\n%profit = \\(\\frac{6,600 - 6,000}{6,000}\\) x 100\n= \\(\\frac{600}{6,000}\\) x 100\n= 10%",
     "year": "2019"
   },
   {
@@ -203,8 +218,9 @@
       "C": "-7",
       "D": "-12"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57206?exam_type=waec&type=obj&page=306",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "9p = 8q - 12\n9p = 2(4q) - 12\n9p = 2(3q) - 12\n9p = 6p - 12\n3p = -12\np = -4\n\\(\\frac{3 \\times -4}{4} = \\frac{4q}{4}\\)\nq = 13\npq = -3 x -4\n= 12",
     "year": "2019"
   },
   {
@@ -216,8 +232,9 @@
       "C": "y = \\(\\frac{3}{2}\\)",
       "D": "y = \\(\\frac{5}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57211?exam_type=waec&type=obj&page=306",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "(0.25)\\(^y\\) = 32\n2\\(^{-2y}\\) = 3\\(^{2}\\)\n2 - 2y = 5\ny = - \\(\\frac{5}{2}\\)",
     "year": "2019"
   },
   {
@@ -229,8 +246,9 @@
       "C": "\\(\\frac{2}{3}\\)",
       "D": "\\(\\frac{1}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57215?exam_type=waec&type=obj&page=306",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Total number of people in the lift = 8 boys + 4 girls\n= 12 people\nprobability that a boy comes out = \\(\\frac{8}{12}\\) = \\(\\frac{2}{3}\\)",
     "year": "2019"
   },
   {
@@ -242,8 +260,9 @@
       "C": "\\(\\frac{x - 2}{x + 4}\\)",
       "D": "\\(\\frac{x + 2}{x - 2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57221?exam_type=waec&type=obj&page=306",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{x^2 - 5x - 14}{x^2 - 9x + 14}\\)\n\\(\\frac{(x - 7)(x + 2)}{(x - 7)(x - 2)}\\)\n= \\(\\frac{x + 2}{x - 2}\\)",
     "year": "2019"
   },
   {
@@ -255,8 +274,9 @@
       "C": "-\\(\\frac{1}{3}\\)",
       "D": "-1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57223?exam_type=waec&type=obj&page=306",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "P\\(^2\\) - p = 0\np(p - 1) = 0\np = 0 or p = 1",
     "year": "2019"
   },
   {
@@ -268,8 +288,9 @@
       "C": "4.0 cm",
       "D": "2.0 cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57228?exam_type=waec&type=obj&page=307",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "165 = 2 x \\(\\frac{22}{7}\\) x \\(\\frac{7}{2}\\) x h + 2 x \\(\\frac{22}{7}\\) x \\(\\frac{7}{2}\\) x \\(\\frac{7}{2}\\)\n165 = 22h + 77\n\\(\\frac{22h}{22} = \\frac{88}{22}\\)\nheight = 4cm",
     "year": "2019"
   },
   {
@@ -281,8 +302,9 @@
       "C": "90",
       "D": "48"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57238?exam_type=waec&type=obj&page=307",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "2\\(^a\\) = \\(\\sqrt{64}\\)\n2\\(^a\\) = 8\n2\\(^a\\) = 2\\(^3\\)\na = 3\nb = 3\\(^a\\)\nb = 3 x 3 = 9\na\\(^2\\) + b\\(^2\\) = 3\\(^2\\) + 9\\(^2\\)\n= 9 + 81 = 90",
     "year": "2019"
   },
   {
@@ -294,8 +316,9 @@
       "C": "20 cm",
       "D": "13 cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57253?exam_type=waec&type=obj&page=307",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Tan 52\\(^o\\) = \\(\\frac{32}{\\text{|XZ|}}\\)\n|XZ| = \\(\\frac{32}{Tan 52^o}\\)\n= 25cm",
     "year": "2019"
   },
   {
@@ -307,8 +330,9 @@
       "C": "0.9",
       "D": "0.6"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57255?exam_type=waec&type=obj&page=307",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "log\\(_x\\)2 = 0.3\nlog\\(_x\\)8 =\u00a0 log\\(_x\\)2\\(^3\\) = 3 log\\(_x\\)2\n= 3 x 0.3\n= 0.9",
     "year": "2019"
   },
   {
@@ -320,8 +344,9 @@
       "C": "4.4 cm",
       "D": "2.2 cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57257?exam_type=waec&type=obj&page=307",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Length = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r\n= \\(\\frac{72}{360} \\times 2 \\frac{22}{7} \\times \\frac{0.5}{3.5}\\)\n= 4.4",
     "year": "2019"
   },
   {
@@ -333,8 +358,9 @@
       "C": "\\(\\frac{al}{2l - h}\\)",
       "D": "\\(\\frac{al}{2 - h}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57261?exam_type=waec&type=obj&page=308",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "lb = \\(\\frac{1}{2} (a + b)h\n2lb = ah + bh\n2lb - bh = ah\n\\(\\frac{b(2l - h)}{2l - h} = \\frac{ah}{2l - h}\\)\nb = \\(\\frac{ah}{2l - h}\\)",
     "year": "2019"
   },
   {
@@ -346,8 +372,9 @@
       "C": "$125,000.00",
       "D": "$120,000.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57268?exam_type=waec&type=obj&page=308",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\frac{8}{100} \\times x + 117,760 = x\\)\nx - \\(\\frac{8x}{100} = 117,760\n\\(\\frac{92x}{100} = 117,760\\)\nx = \\(\\frac{117,760 \\times 100}{92}\\)\nSelling price = N128,000",
     "year": "2019"
   },
   {
@@ -359,8 +386,9 @@
       "C": "96\\(^o\\)",
       "D": "156\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57272?exam_type=waec&type=obj&page=308",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "L = \\(\\frac{\\theta}{360} \\times 2 \\pi r\\)\n22 = \\(\\frac{\\theta}{360} \\times 2 \\times \\frac{22}{7} \\times 15\\)\n\\(\\theta = \\frac{22 \\times 360 \\times 7}{2 \\times 22 \\times 15}\\)\n\\(\\theta\\) = 84\\(^o\\)",
     "year": "2019"
   },
   {
@@ -372,8 +400,9 @@
       "C": "30x cm\\(^2\\)",
       "D": "15x cm\\(^2\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57274?exam_type=waec&type=obj&page=308",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "New are = (2 x 15) x (2 x \\(x\\))\n= 60cm\\(^2\\)",
     "year": "2019"
   },
   {
@@ -385,8 +414,9 @@
       "C": "140\\(^o\\)",
       "D": "160\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57313?exam_type=waec&type=obj&page=308",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "S\\(O\\)T = 180\\(^o\\) - (50 + 50)\n= 80\\(^o\\)\nP\\(Q\\)R = 80\\(^o\\)\n= \\(\\frac{360^o - 160^o}{2}\\) = 100\\(^o\\)",
     "year": "2019"
   },
   {
@@ -398,8 +428,9 @@
       "C": "2(x - y)(x + y)",
       "D": "2(x - y)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57320?exam_type=waec&type=obj&page=309",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "(2x + 2y)(x - y) + (2x - 2y)(x - y)\n2(x + y)(x - y) + 2(x - y)(x + y)\n4(x - y)(x + y)",
     "year": "2019"
   },
   {
@@ -411,8 +442,9 @@
       "C": "40\\(^o\\)",
       "D": "30\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57323?exam_type=waec&type=obj&page=309",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "3\\(x^o\\) + 2\\(x^o\\) + 4\\(x^o\\) + 3\\(x^o\\) + 6\\(x^o\\) = 540\\(^o\\)\n\\(\\frac{18x^o}{18} = \\frac{540^o}{18}\\)\n\\(x^o\\) = 30\\(^o\\)\nSmallest angle = 2 x 30\\(^o\\) = 60\\(^o\\)",
     "year": "2019"
   },
   {
@@ -424,8 +456,9 @@
       "C": "\\(\\frac{7}{20}\\)",
       "D": "\\(\\frac{12}{25}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57331?exam_type=waec&type=obj&page=309",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "(\\(\\frac{2}{5} \\times \\frac {3}{5}) + (\\frac{3}{5} \\times \\frac{2}{5})\\)\n\\(\\frac{6}{25} + \\frac{6}{25} = \\frac{12}{25}\\)",
     "year": "2019"
   },
   {
@@ -437,8 +470,9 @@
       "C": "3x - 4y +23 = 0",
       "D": "3x - 4y - 23 = 0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57338?exam_type=waec&type=obj&page=309",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{3}{4} = \\frac{y + 5}{x - 1}\\)\n3(x - 1) = 4(y + 5)\n3x - 3 = 4y + 20\n3x - 4y - 23 = 0",
     "year": "2019"
   },
   {
@@ -450,8 +484,9 @@
       "C": "10m",
       "D": "7m"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57361?exam_type=waec&type=obj&page=309",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "H\\(^2\\) = 8\\(^2\\) + 6\\(^2\\) + 6\\(^2\\)\nH\\(^2\\) = 64 + 36 = 100\nH = \\(\\sqrt{100}\\) = 10m",
     "year": "2019"
   },
   {
@@ -463,8 +498,9 @@
       "C": "\\(\\frac{4}{3}\\)",
       "D": "\\(\\frac{2}{3}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57365?exam_type=waec&type=obj&page=310",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "y\\(^2\\) = 3\\(^2\\) + 4\\(^2\\)\ny\\(^2\\) = 9 + 16\ny = \\(\\sqrt{25}\\)\n= 5\n\\(\\frac{\\cos x}{2 \\sin x} = \\frac{4}{5} + 2 \\times \\frac{3}{5}\\)\n= \\(\\frac{4}{5} \\times \\frac{5}{6}\\)\n= \\(\\frac{2}{3}\\)",
     "year": "2019"
   },
   {
@@ -476,8 +512,9 @@
       "C": "16\\(^o\\)",
       "D": "15\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57369?exam_type=waec&type=obj&page=310",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Sin\\(\\theta = \\frac{20}{75}\\)\n\\(\\theta = sin^{-1} (\\frac{20}{75})\\)\n= 15\\(^o\\)",
     "year": "2019"
   },
   {
@@ -489,8 +526,9 @@
       "C": "44 cm",
       "D": "80 cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57378?exam_type=waec&type=obj&page=310",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Z\\({O}\\)T = 2 x 70\\(^o\\) 140\\(^o\\)\nLength = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r\n\\(\\frac{140^o}{360} \\times\u00a02 \\times\u00a0\\frac{22}{7}\\) x 18\n= 44cm",
     "year": "2019"
   },
   {
@@ -502,8 +540,9 @@
       "C": "52\\(^o\\)",
       "D": "18\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57379?exam_type=waec&type=obj&page=310",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\u2220QRT = \u2220SRT = 52 (opposite angles)\n\u2220SRT = y = 52 (alternate angles)\ny = 52\\(^o\\)",
     "year": "2019"
   },
   {
@@ -515,8 +554,9 @@
       "C": "55\\(^o\\)",
       "D": "48\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57380?exam_type=waec&type=obj&page=310",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "x = 180\\(^o\\) - (52\\(^o\\) + 70\\(^o\\))\n= 180\\(o\\) - 122\\(^o\\)\n= 58\\(^o\\)",
     "year": "2019"
   },
   {
@@ -528,8 +568,9 @@
       "C": "3.5",
       "D": "2.6"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57381?exam_type=waec&type=obj&page=311",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "x24789(\\(\\bar{x} - \\bar{x}\\))-4-2124(\\(\\bar{x} - \\bar{x})^2\\)164149_________\\(\\sum (x - x)^2\\) = 34\n\\(\\bar{x} = \\frac{2 + 4 + 7 + 8 + 9}{5} = 6\nvariance = \\(\\frac{34}{5}\\)\n= 6.8",
     "year": "2019"
   },
   {
@@ -541,8 +582,9 @@
       "C": "19",
       "D": "17"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57382?exam_type=waec&type=obj&page=311",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "a + 3d = 37\n-20 + 3d = 37\n3d = 37 + 20 = 57\nd = \\(\\frac{57}{3}\\)\n= 19",
     "year": "2019"
   },
   {
@@ -554,8 +596,9 @@
       "C": "75\\(^o\\)",
       "D": "55\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57383?exam_type=waec&type=obj&page=311",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "50\\(^o\\) + m = 105\\(^o\\) (exterior angle of \\(\\triangle\\)\nm = 105\\(^o\\) - 50\\(^o\\)\nm = 55\\(^o\\)",
     "year": "2019"
   },
   {
@@ -567,8 +610,9 @@
       "C": "75\\(^o\\)",
       "D": "130\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57384?exam_type=waec&type=obj&page=311",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "E\\(G\\)R = 50\\(^o\\)\u00a0 (Alternative angles)\nn + 55\\(^o\\) + 50\\(^o\\) = 180\\(^o\\)\u00a0 (Sum of angles on a straight line)\nn = 180\\(^o\\) - 105\\(^o\\)\nn = 75\\(^o\\)",
     "year": "2019"
   },
   {
@@ -580,8 +624,9 @@
       "C": "\\(\\frac{1}{3}\\)",
       "D": "\\(\\frac{1}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57385?exam_type=waec&type=obj&page=311",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Pr(green) = \\(\\frac{6}{5 + 6 + 7}\\)\n= \\(\\frac{6}{18}\\)\n= \\(\\frac{1}{3}\\)",
     "year": "2019"
   },
   {
@@ -593,8 +638,9 @@
       "C": "70",
       "D": "40"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57386?exam_type=waec&type=obj&page=312",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "No of fruits = x\n\\(\\frac{80}{360}\\) x \\(x\\) = 60\nx = \\(\\frac{60 \\times 360}{80}\\) x 270\n= 90",
     "year": "2019"
   },
   {
@@ -606,21 +652,23 @@
       "C": "13",
       "D": "8"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57391?exam_type=waec&type=obj&page=312",
     "correct_answer": "C",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2019"
   },
   {
     "number": "1558",
-    "text": "The following are scores obtained by some students in a test.\u00a0Find the median score\u00a0\r\n\u00a0\n\n\n\n8\n18\n10\n14\n18\n11\n13\n\n\n14\n13\n17\n15\n8\n16\n13",
+    "text": "The following are scores obtained by some students in a test.\u00a0Find the median score\u00a0\n\u00a0\n\n\n\n8\n18\n10\n14\n18\n11\n13\n\n\n14\n13\n17\n15\n8\n16\n13",
     "options": {
       "A": "14.5",
       "B": "14.0",
       "C": "13.5",
       "D": "13.0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57394?exam_type=waec&type=obj&page=312",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(\\frac{13 + 14}{2}\\) = 13.5",
     "year": "2019"
   },
   {
@@ -632,8 +680,9 @@
       "C": "8",
       "D": "7"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57395?exam_type=waec&type=obj&page=312",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Mean = \\(\\frac{8\u00a0+ 18 +\u00a010 + 14 +\u00a018 +\u00a011 +\u00a013 +\u00a014 +\u00a013 +\u00a017 +\u00a015 +\u00a08 +\u00a016 +\u00a013}{14}\\)\nMean =\u00a0\\(\\frac{188}{14}\\)\nMean = 13.4\nNumber\u00a0above the mean is 7",
     "year": "2019"
   },
   {
@@ -645,8 +694,9 @@
       "C": "1.639 x 10\\(^{-1}\\)",
       "D": "1.639 x 10\\(^{-2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/57686?exam_type=waec&type=obj&page=312",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(\\frac{0.42 \\div 2.5}{0.5 \\times 2.05} = \\frac{0.168}{1.025}\\)\n= 1.639 x 10\\(^{-1}\\)",
     "year": "2019"
   }
 ]

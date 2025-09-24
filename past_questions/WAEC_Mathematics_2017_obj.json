@@ -8,8 +8,9 @@
       "C": "0.000041",
       "D": "0.0000407"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49905?exam_type=waec&type=obj&page=292",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "0.0000407 to 2 s.f\n0.000041 (2 s.f)",
     "year": "2017"
   },
   {
@@ -21,8 +22,9 @@
       "C": "a \\(\\alpha\\) z\\(^2\\)",
       "D": "x \\(\\alpha\\) \\(\\frac{1}{z^2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49907?exam_type=waec&type=obj&page=292",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(x \\propto \\frac{1}{y}\\), y \\(\\propto\\) z\nx = \\(\\frac{k}{y}\\)\ny = mz\nSince y = mz,\nx = \\(\\frac{k}{mz}\\), where k and m are constants. Hence,\nx \\(\\propto\\) \\(\\frac{1}{z}\\)",
     "year": "2017"
   },
   {
@@ -34,8 +36,9 @@
       "C": "\\(\\frac{4}{5}\\)",
       "D": "\\(\\frac{11}{15}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49929?exam_type=waec&type=obj&page=292",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\frac{3\\frac{1}{4} \\times 1\\frac{3}{5}}{11\\frac{1}{3} - 5 \\frac{1}{3}}\\) = \\(\\frac{\\frac{26}{5}}{\\frac{18}{3}}\\) = \\(\\frac{26}{5} \\div \\frac{18}{3}\\) =\u00a0 \\(\\frac{26}{5} \\times\u00a0 \\frac{3}{18}\\)\n= \\(\\frac{13}{15}\\)",
     "year": "2017"
   },
   {
@@ -47,8 +50,9 @@
       "C": "2 : 5",
       "D": "5 : 2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49931?exam_type=waec&type=obj&page=292",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Tunde: Ola \\(\\to\\) 1 : 2 ; Ola; Musa \\(\\to\\) 4 : 5\n\\(\\frac{1}{2}\\) x \\(\\frac{4}{5}\\)\n= \\(\\frac{2}{5}\\)",
     "year": "2017"
   },
   {
@@ -60,8 +64,9 @@
       "C": "ii and iii only",
       "D": "i, ii and iii"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49938?exam_type=waec&type=obj&page=293",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "M = {3, 4, 5, 6, 7,}, N = {9, 10, 11, 12}",
     "year": "2017"
   },
   {
@@ -73,8 +78,9 @@
       "C": "a - b + 1",
       "D": "b - a + 1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49948?exam_type=waec&type=obj&page=293",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(\\frac{\\log 7 \\times \\log 10}{\\log 2}\\)\nlog 7 x log 10 \\(\\div\\) log 2\na + 1 - b\na - b + 1",
     "year": "2017"
   },
   {
@@ -86,8 +92,9 @@
       "C": "8",
       "D": "9"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49951?exam_type=waec&type=obj&page=293",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "x = \\(\\frac{2}{3}\\) and y = - 6\nxy - \\(\\frac{y}{x}\\)\n\\(\\frac{2}{3} - (6)^2 - (-6) \\div \\frac{2}{3}\\)\n= -4 - (6) x \\(\\frac{3}{2}\\)\n= -4 - (-6) x \\(\\frac{3}{2}\\)\n= -4 - (-9)\n= -4 + 9\n= 5",
     "year": "2017"
   },
   {
@@ -99,8 +106,9 @@
       "C": "\\(\\frac{3}{5}\\)",
       "D": "\\(\\frac{4}{5}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49954?exam_type=waec&type=obj&page=293",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\frac{1}{5x} + \\frac{1}{x}\\)= 3\n\\(\\frac{1 + 5}{5x}\\) = 3\n6 = 15x\nx = \\(\\frac{6}{15}\\)\n= \\(\\frac{2}{5}\\)",
     "year": "2017"
   },
   {
@@ -112,8 +120,9 @@
       "C": "N2,020.00",
       "D": "N2,040.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49957?exam_type=waec&type=obj&page=293",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Let a girl's share = x + 20\n4x + 5(x + 20) = 18,100\n4x + 5x + 100 = 18,100\n9x + 100 = 18,100\n9x = 18,000\nx = \\(\\frac{18,000}{9}\\)\nx = 2,000\n\\(\\therefore\\) Each boy gets N(2,000 + 20)\n= N2,020.",
     "year": "2017"
   },
   {
@@ -125,8 +134,9 @@
       "C": "7x - 2",
       "D": "x - 5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49963?exam_type=waec&type=obj&page=294",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(7x^2 + 33x - 10\\)\n\\(7x^2 + 35x - 2x - 10\\)\n7x (x + 5) - 2 (x + 5)\n(7x - 2) (x + 5)",
     "year": "2017"
   },
   {
@@ -138,8 +148,9 @@
       "C": "-\\(\\frac{8}{9}\\) <  x <\\(\\frac{5}{9}\\)",
       "D": "-\\(\\frac{7}{9}\\) <  x <\\(\\frac{8}{9}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49984?exam_type=waec&type=obj&page=294",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "\\(\\frac{3}{4}\\) (3x - 2) < \\(\\frac{1}{2}\\);\u00a0\\(\\frac{3}{4}\\) (3x - 2) > - \\(\\frac{1}{4}\\)\n3(3x - 2) < 2; 3(3x - 2) > -1\n9x - 6 < 2; 9x - 6 > -1\n9x < 8; 9x > 5\nx < \\(\\frac{5}{9}\\); x > \\(\\frac{8}{9}\\)",
     "year": "2017"
   },
   {
@@ -151,8 +162,9 @@
       "C": "4x - r",
       "D": "2x - 2p - r"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49987?exam_type=waec&type=obj&page=294",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "3x - (p - x) - ( r - p)\n= 3x - p + x - r + p\n= 4x - r",
     "year": "2017"
   },
   {
@@ -164,8 +176,9 @@
       "C": "65\\(^o\\)",
       "D": "115\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49990?exam_type=waec&type=obj&page=294",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "lac = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r\n7.5 = \\(\\frac{\\theta}{360}\\) x 2 x \\(\\frac{22}{7}\\) x 7.5\n7.5 = \\(\\frac{330\\theta}{2520}\\)\n\\(\\theta\\) = \\(\\frac{7.5}{0.1309}\\)\n\\(\\theta\\) = 57.29\n\\(\\theta\\) = 57 \\(^o\\)",
     "year": "2017"
   },
   {
@@ -177,8 +190,9 @@
       "C": "16 cm",
       "D": "20 cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49992?exam_type=waec&type=obj&page=294",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Volume of a cylinder = \\(\\pi r^2h\\)\n40\\(\\pi cm^3\\) = \\(\\pi. 4^2h\\)\n40\\(cm^3\\) = 16h\nh = 2.5cm/sec\nIn 4 seconds, 2.5cm x 4\n= 10cm",
     "year": "2017"
   },
   {
@@ -190,8 +204,9 @@
       "C": "8.10 litres",
       "D": "9.55 litres"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49995?exam_type=waec&type=obj&page=295",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Vol of a cubiod = L x b x h\nv = 13cm\u00a0 x 10cm x 70cm\n= 9100cm\nSince it is half-filled = \\(\\frac{9100}{2}\\)cm\n= 4550cm\n4550cm \\(\\to\\) 4.55 litres",
     "year": "2017"
   },
   {
@@ -203,8 +218,9 @@
       "C": "5.0cm",
       "D": "9.0cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/49998?exam_type=waec&type=obj&page=295",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "T.S.A of hemisphere = 3\\(\\pi r^2\\)\nvol of hemisphere = \\(\\frac{2}{3} \\pi r^3\\)\n3\\(\\pi r^2\\) = \\(\\frac{2}{3} \\pi r^3\\)\n3 = \\(\\frac{2}{3}r\\)\n9 = 2r\nr = \\(\\frac{9}{2}\\)\nr = 4.5cm",
     "year": "2017"
   },
   {
@@ -216,8 +232,9 @@
       "C": "opposite angles are equal",
       "D": "opposite angles are reflex angles"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50000?exam_type=waec&type=obj&page=295",
     "correct_answer": "C",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2017"
   },
   {
@@ -229,8 +246,9 @@
       "C": "\\(\\frac{1}{2}\\)",
       "D": "1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50001?exam_type=waec&type=obj&page=295",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Gradient = m = \\(\\frac{y_2 - y_1}{x_2 - x_1}\\)\n= \\(\\frac{-2 -1}{2 + 1}\\)\n= \\(\\frac{-3}{3}\\)\n= -1",
     "year": "2017"
   },
   {
@@ -242,8 +260,9 @@
       "C": "4 units",
       "D": "2 units"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50002?exam_type=waec&type=obj&page=295",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\sqrt{(x_2 - x_1)^2 + (y_2 - Y_1)^2}\\)\n= \\(\\sqrt{(2 - 2)^2 + (5 - 3)^2}\\)\n= \\(\\sqrt{0^2 + 2^2}\\)\n= \\(\\sqrt{4}\\)\n= 2 units",
     "year": "2017"
   },
   {
@@ -255,8 +274,9 @@
       "C": "N 50\\(^o\\) E",
       "D": "N 40\\(^o\\) E"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50005?exam_type=waec&type=obj&page=296",
     "correct_answer": "B",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2017"
   },
   {
@@ -268,8 +288,9 @@
       "C": "\\(\\sqrt{3}\\)",
       "D": "-2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50014?exam_type=waec&type=obj&page=296",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "From the figure above, tan30\u00ba = \\(\\frac{1}{\\sqrt3}\\) and tan60\u00ba = \\(\\sqrt{3}\\)\nso \\(\\frac{tan60 - 1}{1 - tan30}\\)\n= \\(\\frac{\\sqrt{3}}{1}\\div(1 - (\\frac{1}{\\sqrt{3}}\\)))\n= \\(\\frac{\\sqrt{3} - 1}{1}\\div\\frac{\\sqrt{3} - 1}{\\sqrt3}\\)\n= \\(\\frac{\\sqrt{3} - 1}{1}\\times \\frac{\\sqrt3}{\\sqrt{3} - 1}\\) = \\(\\sqrt{3}\\)",
     "year": "2017"
   },
   {
@@ -281,8 +302,9 @@
       "C": "8.7 years",
       "D": "8 . 3 years"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50023?exam_type=waec&type=obj&page=296",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "x = 10 ; 10 = \\(\\frac{x}{25}\\)\nx = 250\nx = \\(\\frac{250 + 12.4}{26}\\)\nx = 10.09\nx = 10.1 years",
     "year": "2017"
   },
   {
@@ -294,8 +316,9 @@
       "C": "n",
       "D": "n + 2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50025?exam_type=waec&type=obj&page=296",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Assuming the numbers\u00a01 + nn =100 were added in base n + 1\nnn11 00\nn + 1 = n +1 and n + 1 in base n + 1 = 10, write 0 and carry 1, which will be added to the second n, resulting in another n + 1 in base n + 1 = 10.\nSo, putting the result together 1 + nn = 100 provided, the addition was carried out in base n + 1.",
     "year": "2017"
   },
   {
@@ -307,8 +330,9 @@
       "C": "4 \\(\\sqrt{2}\\)",
       "D": "4\\(\\sqrt{3} + 4\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50027?exam_type=waec&type=obj&page=296",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "\\(\\sqrt{2}(\\sqrt{6} + 2\\sqrt{2}) - 2\\sqrt{3}\\)\n\\(\\sqrt{12}\\) + 2 x 2 - 2\\(\\sqrt{3}\\)\n2 \\(\\sqrt{3}\\) - 2 \\(\\sqrt{3}\\) + 4\n= 4",
     "year": "2017"
   },
   {
@@ -320,8 +344,9 @@
       "C": "octagon",
       "D": "hexagon"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50029?exam_type=waec&type=obj&page=297",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Sum of all exterior angles is 360\\(^o\\)\n360\\(^o\\) (30\\(^o\\) - 40\\(^o\\))\n360 - (130\\(^o\\))\n230\\(^o\\)\nremaining is 46\\(^o\\) = \\(\\frac{230}{46}\\) = 5\n5 + 3 = 8 sides; Octagon",
     "year": "2017"
   },
   {
@@ -333,8 +358,9 @@
       "C": "\\(a^2b - ab^2\\)",
       "D": "\\(ab^2 - a^2b\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50112?exam_type=waec&type=obj&page=297",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{a^2 b^4 - b^2 a^4}{ab(a + b)}\\) = \\(\\frac{a^2 b^2(b^2 - a^2)}{ab(a + b)}\\)\n= \\(\\frac{ab [(b - a) (b + a)]}{a + b}\\)\n= ab(b - a)\n= \\(ab^2 - a^2b\\)",
     "year": "2017"
   },
   {
@@ -346,8 +372,9 @@
       "C": "-\\(\\frac{1}{15}\\)",
       "D": "\\(\\frac{1}{9}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50121?exam_type=waec&type=obj&page=297",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "a = \\(\\frac{2}{3}\\), d =\u00a0\\(\\frac{7}{15}\\) -\u00a0\\(\\frac{2}{3}\\)\n= 7 - 10\n= \\(\\frac{-3}{15}\\)\nd = - \\(\\frac{-1}{5}\\)\nT6 = a + 5d\n= \\(\\frac{2}{3}\\) + 5(\\(\\frac{-1}{5}\\)\n= \\(\\frac{2}{3}\\) - 1\n= \\(\\frac{2 - 3}{3}\\)\n= \\(\\frac{-1}{3}\\)",
     "year": "2017"
   },
   {
@@ -359,8 +386,9 @@
       "C": "\\(6x^2 + x - 2 = 0\\)",
       "D": "\\(6x^2 + x + 2 = 0\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50122?exam_type=waec&type=obj&page=297",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "(x + \\(\\frac{1}{2}\\)) (n - \\(\\frac{2}{3}\\))\n\\(x^2 - \\frac{2}{3^x} + \\frac{x}{2} - \\frac{1}{3}\\)\n\\(6x^2 - 4n + 3n - 2 = 0\\)\n\\(6x^2 - x - 2 = 0\\)",
     "year": "2017"
   },
   {
@@ -372,8 +400,9 @@
       "C": "x = \\(\\frac{12}{y} - 2d^2\\)",
       "D": "x = \\(\\frac{12}{2d^2 + y}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50125?exam_type=waec&type=obj&page=297",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "d = \\(\\sqrt{\\frac{6}{x} - \\frac{y}{2}}\\)\n\\(d^2 = \\frac{6}{x} - \\frac{y}{2}\\)\n\\(2xd^2 = 12 - xy\\)\n\\(2xd^2 + xy = 12\\)\nx = \\(\\frac{12}{2d^2 + y}\\)",
     "year": "2017"
   },
   {
@@ -385,8 +414,9 @@
       "C": "\\(\\sim\\)p \\(\\iff\\)  \\(\\sim\\)q",
       "D": "q \\(\\iff\\) \\(\\sim\\)p"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50126?exam_type=waec&type=obj&page=298",
     "correct_answer": "D",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2017"
   },
   {
@@ -398,8 +428,9 @@
       "C": "\\(\\frac{1}{2t}\\)",
       "D": "t"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50130?exam_type=waec&type=obj&page=298",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "t = \\(2^{-x} = \\frac{1}{2^{x}}\\)\n\\(\\implies 2^{x} =\\frac{1}{t}\\)\n\\(2^{x+1} = 2^{x} \\times 2^{1}\\)\n= \\(\\frac{1}{t} \\times 2 = \\frac{2}{t}\\)",
     "year": "2017"
   },
   {
@@ -411,8 +442,9 @@
       "C": "\\(\\frac{2}{9}\\)",
       "D": "\\(\\frac{3}{8}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50132?exam_type=waec&type=obj&page=298",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Total = 8 + 12 + 4\n= 24\n\\(\\frac{8}{24} \\times (\\frac{12}{24} + \\frac{4}{24}\\))\n= \\(\\frac{1}{3} \\times (\\frac{1}{2} + \\frac{1}{6}\\))\n= \\(\\frac{1}{3} \\times \\frac{3 + 1}{6}\\)\n\\(\\frac{1}{3} \\times \\frac{4}{6} = \\frac{2}{9}\\)",
     "year": "2017"
   },
   {
@@ -424,8 +456,9 @@
       "C": "N4,500.00",
       "D": "N4,600.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50135?exam_type=waec&type=obj&page=298",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "P = \\(\\frac{100l}{RT} = \\frac{100 \\times 500}{5 \\times 2.5} = \\frac{50,000}{12.5}\\)\n= 4,000\nAnnual interest is \\(\\frac{500}{5}\\) = 100\nfor 6 year = 4,000 + 100 + 100 + 100 + 100 + 100 + 100\n= N 4,600",
     "year": "2017"
   },
   {
@@ -436,8 +469,9 @@
       "B": "3.4",
       "D": "4.2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50138?exam_type=waec&type=obj&page=298",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "x = \\(\\frac{2 + 3 + 3 + 4 + 5 + 5+ 5+ 7 + 7 + 9}{10}\\)\n=\\(\\frac{50}{10}\\)\n= 5\nVariance = \\(\\frac{\\sum{(x - x})^2}{N}\\)\n\\(\\frac{9 + 4+ 4+ 1 + 4 + 4 + 16}{10}\\)\n= \\(\\frac{42}{10}\\)\n= 4.2",
     "year": "2017"
   },
   {
@@ -449,8 +483,9 @@
       "C": "50.29\\(m^2\\)",
       "D": "82.50\\(m^2\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50142?exam_type=waec&type=obj&page=299",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Area of path = Area of (pond+path) - Area of pond\nThe area of the pond with the path: The radius = (4 + 2.5)m = 6.5m\nArea = \\(\\pi \\times r^{2}\\) = \\(\\frac{22}{7} \\times 6.5^{2} \\approxeq 132.79m^{2}\\)\nArea of the pond = \\(\\frac{22}{7} \\times 4^{2} \\approxeq 50.29m^{2}\\)\nArea of the path\u00a0 = (132.79 - 50.29)m^{2} = 82.50m^{2}\\)",
     "year": "2017"
   },
   {
@@ -462,8 +497,9 @@
       "C": "3",
       "D": "4"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50148?exam_type=waec&type=obj&page=299",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "(n \\(\\oplus\\) 4) \\(\\oplus\\) 3 = 0 (mod 5)\n(3 \\(\\oplus\\) 4) \\(\\oplus\\) 3\n12 \\(\\oplus\\) 3 = 15 (mod 5)\n(5 x 3 + 0) = 0 (mod 5)",
     "year": "2017"
   },
   {
@@ -475,8 +511,9 @@
       "C": "29\\(^o\\)",
       "D": "34\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50152?exam_type=waec&type=obj&page=299",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "SOT = 2 x 46 (< at the centre is twice < at circumference)\u00a0= 92\n2x + 92 = 180( sum of\nx = \\(\\frac{180- 92}{2}\\) = 44\u00ba\n< STO = 44\u00ba\u00a0- 29\u00ba\n= 15\\(^o\\)",
     "year": "2017"
   },
   {
@@ -488,8 +525,9 @@
       "C": "100\\(^o\\)",
       "D": "120\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50155?exam_type=waec&type=obj&page=299",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "<POX = <POQ; <ROY = QOR\n2 <POQ + 2 <ROY = 180\n2(<POQ = <ROY) = 180\n<POQ + <ROY = 90",
     "year": "2017"
   },
   {
@@ -501,8 +539,9 @@
       "C": "90\\(^o\\)",
       "D": "100\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50157?exam_type=waec&type=obj&page=299",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "In <WZX\u00a0= 90\\(^o\\)\u00a0 < subtends In a semi O\n<ZXW = 33\u00ba <s in same segment\n<ZWX\u00a0= 180\u00ba - (90\\(^o\\)\u00a0 + 33\u00ba)\n= 57\u00ba",
     "year": "2017"
   },
   {
@@ -514,8 +553,9 @@
       "C": "133\\(^o\\)",
       "D": "143\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50161?exam_type=waec&type=obj&page=300",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "< SQP = 180 - (90 + 33)\u00a0 < on a ----\n= 180 - (123)\n= 57\\(^o\\)\nTherefore, (m + n) = 123\\(^o\\)",
     "year": "2017"
   },
   {
@@ -527,8 +567,9 @@
       "C": "1",
       "D": "2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50171?exam_type=waec&type=obj&page=300",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Median is \\(\\frac{n}{2} = \\frac{6}{2}\\)\n= 3\nMedian = 3",
     "year": "2017"
   },
   {
@@ -540,8 +581,9 @@
       "C": "2.0",
       "D": "2.5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50174?exam_type=waec&type=obj&page=300",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "First quartile = \\(\\frac{n}{4} = \\frac{60}{4}\\) = 15\nThe 15th value is 2",
     "year": "2017"
   },
   {
@@ -553,8 +595,9 @@
       "C": "\\(\\frac{5}{9}\\)",
       "D": "\\(\\frac{7}{9}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50180?exam_type=waec&type=obj&page=300",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "28 - x + x + 25 - x = 45\n53 - x = 45\nx = 53 - 45\nx = 8\nchemistry only = 28 - 8\n= 20\nProbability = \\(\\frac{20}{45}\\)\n= \\(\\frac{4}{9}\\)",
     "year": "2017"
   },
   {
@@ -566,8 +609,9 @@
       "C": "140\\(^o\\)",
       "D": "150\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50182?exam_type=waec&type=obj&page=300",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "< TSR = 180 - (80 + 50)\n= 180 - (130)\n= 50\\(^o\\)\n< QPR = < TSR corresponding < s\n< NPR + QPR = < NPR\n180\\(^o\\) - < QPR = < NPR\n180\\(^o\\) - 50 = < NPR\n< NPR = 130\\(^o\\)",
     "year": "2017"
   },
   {
@@ -579,8 +623,9 @@
       "C": "51.34\\(^o\\)",
       "D": "53.13\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50186?exam_type=waec&type=obj&page=301",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Tan \\(x^o = \\frac{100m}{80}\\)\nTan \\(x^o = Tan^{-1} 1.25\\)\nx = 51.34\\(^o\\)",
     "year": "2017"
   },
   {
@@ -592,8 +637,9 @@
       "C": "90\\(\\sqrt{2}\\)",
       "D": "120\\(\\sqrt{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50187?exam_type=waec&type=obj&page=301",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(60^2 + x^2 + x^2\\)\n\\(360^2 = 2x^2\\)\n\\(x^2\\) = 1800\nx = \\(\\sqrt{1800}\\)\nx = 42.4264\nx = 42.4264\nperimeter = 4x\n= 4 x 42.4264\n= 169.7056\n= 120\\(\\sqrt{2}\\)\n= 120\\(\\sqrt{2}\\)",
     "year": "2017"
   },
   {
@@ -605,8 +651,9 @@
       "C": "44\\(^o\\)",
       "D": "34\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50188?exam_type=waec&type=obj&page=301",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "2x + m = 180\nx + m = 112\nx = 122 - m\n2(112 - m) + m = 180\n224 - 2m + m = 180\n224 - m = 180\n224 - 180 = m\nm = 44\\(^o\\)",
     "year": "2017"
   },
   {
@@ -618,8 +665,9 @@
       "C": "-2.3",
       "D": "-2.5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50189?exam_type=waec&type=obj&page=301",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Find the minimum value of y is the point where the base of the curve corresponds to the value of y i.e. at -2.1",
     "year": "2017"
   },
   {
@@ -631,8 +679,9 @@
       "C": "48\\(^o\\)",
       "D": "66\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/50190?exam_type=waec&type=obj&page=301",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "RSP = 90 < substance in semi a circle\nRPS = 180 - (90 + 24)\n= 180 - (114)\n= 66\nTPS = 180 - 66\n= 114\nRST = 24\n< STR = 180 - (114 + 24)\n= 180 - 138\n= 42\\(^o\\)",
     "year": "2017"
   }
 ]

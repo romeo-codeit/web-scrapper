@@ -8,8 +8,9 @@
       "C": "50.28",
       "D": "30.63"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58214?exam_type=waec&type=obj&page=313",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "75.0785-35.624\n--------------\n40.4545\n+9.83\n-------------\n50.28 to 2d.p",
     "year": "2020"
   },
   {
@@ -21,8 +22,9 @@
       "C": "{2, 3, 4, 6, 8}",
       "D": "{1, 2, 3, 4, 6, 8}"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58215?exam_type=waec&type=obj&page=313",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "\\(\\mu\\) = {1, 2, 3, 4..., 10}\nX = {1, 2, 3, 4, 5, 6}\nY = {1, 2, 3, 4, 6, 8}\nTherefore;\nX \\(\\cap\\) Y =\u00a0{1, 2, 3, 4, 6}",
     "year": "2020"
   },
   {
@@ -34,8 +36,9 @@
       "C": "\\(\\frac{3}{8}\\)",
       "D": "\\(\\frac{1}{4}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58218?exam_type=waec&type=obj&page=313",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "[(\\(\\frac{16}{9}\\))\\(^{\\frac{-3}{2}}\\) x 16\\(^{\\frac{-3}{4}}\\)]\\(^{\\frac{1}{3}}\\)\n=\u00a0[(\\(\\frac{9}{16}\\))]\\(^{\\frac{3}{2}}\\) x [(\\(\\frac{1}{16}\\))\\(^{\\frac{3}{4}}\\)]\\(^{\\frac{1}{3}}\\)\n= [(\\(\\sqrt{\\frac{9}{16}}\\))\\(^3\\) x (4\\(\\sqrt{\\frac{1}{16}})^3\\)]\\(^{\\frac{1}{3}}\\)\n= [(\\(\\frac{3}{4})^3 \\times (\\frac{1}{2})^3\\)]\\(^\\frac{1}{3}\\)\n(\\(\\frac{27}{64} \\times \\frac{1}{8}\\))\\(^\\frac{1}{3}\\) = \\({3}\\sqrt{\\frac{27}{64}\u00a0\\times \\frac{1}{8}}\\)\n= \\(\\frac{3}{4} \\times \\frac{1}{2}\\) = \\(\\frac{3}{8}\\)",
     "year": "2020"
   },
   {
@@ -47,8 +50,9 @@
       "C": "log10\\(^{9}\\)",
       "D": "log10\\(^{6}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58223?exam_type=waec&type=obj&page=313",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "1 + 2log\\(_{10}^3\\)\n= log\\(_{10}^{10} + log_{10}^{3^2}\\)\n= log\\(_{10}^{10} + log_{10}^{9}\\)\n= log\\(_{10}^{10 \\times 90}\\) = log\\(_{10}^{90}\\)",
     "year": "2020"
   },
   {
@@ -60,8 +64,9 @@
       "C": "6",
       "D": "5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58247?exam_type=waec&type=obj&page=313",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "012 + 01 = 01\n101\\(_2\\) + 12\\(_y\\) = 23\\(_5\\)\n1 x 2\\(^o\\) + 0 x 2\\(^o\\) + 1 x2\\(^2\\) + 1 x y\\(^o\\) + 2 x y\\(^1\\) = 3 x 5\\(^o\\) + 3 x 5\\(^1\\)\n1 + 4 + 1 + 2y = 3 + 15\n6 + 2y = 18\n2y = 18 - 6\n\\(\\frac{2y}{2} = \\frac{12}{2}\\)\ny = 6",
     "year": "2020"
   },
   {
@@ -73,8 +78,9 @@
       "C": "N490,000.00",
       "D": "N500,000.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58249?exam_type=waec&type=obj&page=314",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "S.I = \\(\\frac{x \\times 2 \\times 5}{100}\\) = 0.1x\nA = P + S.I\n550,000 = x + 0.1x\n\\(\\frac{550,000}{1.1} = \\frac{1.1x}{1.1}\\)\nx = N500,000",
     "year": "2020"
   },
   {
@@ -86,8 +92,9 @@
       "C": "1\\(\\frac{1}{5}\\)",
       "D": "\\(\\frac{1}{5}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58254?exam_type=waec&type=obj&page=314",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(\\frac{\\sqrt{3} + \\sqrt{5}}{\\sqrt{5}}\\)\u00a0 = x + y\\(\\sqrt{15}\\)\ncross multiply to have:\u00a0\\(\\sqrt{3}\\) +\u00a0\\(\\sqrt{5}\\) =\u00a0 x\\(\\sqrt{5}\\) + 5y\\(\\sqrt{3}\\)\nCollect like roots :\u00a0\u00a0 x\\(\\sqrt{5}\\) =\u00a0\u00a0\\(\\sqrt{5}\\)\u00a0\u2192 x = 1\n5y\\(\\sqrt{3}\\) =\u00a0\u00a0\\(\\sqrt{3}\\)\u00a0\u2192 y = \\(\\frac{1}{5}\\)\n\u2234 ( x + y ) = 1 +\u00a0\\(\\frac{1}{5}\\)\n=\u00a01\\(\\frac{1}{5}\\)",
     "year": "2020"
   },
   {
@@ -99,8 +106,9 @@
       "C": "20",
       "D": "16"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58265?exam_type=waec&type=obj&page=314",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "2(\\(x^2 - y^3\\))\n= 2(\\(3^2 - (-1)^3\\))\n= 2(9 - (-1))\n= 2 x 10 = 20",
     "year": "2020"
   },
   {
@@ -112,8 +120,9 @@
       "C": "x = 1 and y = 4",
       "D": "x = 4 and y = 1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58273?exam_type=waec&type=obj&page=314",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "3x - 2y = 10 - - x 3\nx + 3y = 7 ---x 2\n------------------------\n9x - 6y = 30\n2x + 6y = 14\n-------------------------\n\\(\\frac{11x}{11} \\frac{44}{11}\\)\nx = 4\nFrom x + 3y = 7\n3y = 7 - 4\n\\(\\frac{3y}{3}\\) = \\(\\frac{3}{3}\\)\ny = 1",
     "year": "2020"
   },
   {
@@ -125,8 +134,9 @@
       "C": "~ x \\(\\to\\) ~ y",
       "D": "y \\(\\to\\) x"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58289?exam_type=waec&type=obj&page=314",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "x\u2192y means \"if x is true, then\u00a0y is true.\"\nThe contrapositive of\u00a0x\u2192y is \u223cy \u2192 \u223cx, which is logically equivalent to the original implication.",
     "year": "2020"
   },
   {
@@ -138,8 +148,9 @@
       "C": "8",
       "D": "16"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58292?exam_type=waec&type=obj&page=315",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "T\\(_5\\) = ar\\(^4\\)\n\\(\\frac{48}{3} = \\frac{3r^4}{3}\\)\n16 = r\\(^4\\)\nr = \\(4\\sqrt{16}\\)\n= 2",
     "year": "2020"
   },
   {
@@ -151,8 +162,9 @@
       "C": "x > \\(\\frac{-7}{27}\\)",
       "D": "x < \\(\\frac{-7}{27}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58296?exam_type=waec&type=obj&page=315",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{1}{3}\\)(5 - 3x) < \\(\\frac{2}{5}\\)(3 - 7x)\n5(5 - 3x) < 6(3 - 7x)\n25 - 15x < 18 - 42x\n- 15x + 42x < 18 - 25\n\\(\\frac{27x}{27}\\) < \\(\\frac{-7}{27}\\)\nx < \\(\\frac{-7}{27}\\)",
     "year": "2020"
   },
   {
@@ -164,8 +176,9 @@
       "C": "m = \\(\\frac{y - k^2}{k^2 + 1}\\)",
       "D": "m = \\(\\frac{y - k^2}{1 - k^2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58298?exam_type=waec&type=obj&page=315",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "k = \\(\\sqrt{\\frac{m - y}{m + 1}}\\)\nk\\(^2\\) = \\(\\frac{m\u00a0 - y}{m + 1}\\)\nk\\(^2\\)m + k\\(^2\\) = m - y\nk\\(^2\\) + y = m - k\\(^2\\)m\n\\(\\frac{k^2 + y}{1 - k^2}\\) = m\\(\\frac{(1 - k^2)}{1 - k^2}\\)\nm = \\(\\frac{y + k^2}{1 - k^2}\\)",
     "year": "2020"
   },
   {
@@ -177,8 +190,9 @@
       "C": "3x\\(^2\\)  + x - 1 = 0",
       "D": "6x\\(^2\\)  - x - 1 = 0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58300?exam_type=waec&type=obj&page=315",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "x = \\(\\frac{1}{2}\\) and x = \\(\\frac{-1}{3}\\)\n(2x - 1) = 0 and (3x + 1) = 0\n(2x - 1) (3x + 1) = 0\n6x\\(^2\\) - x - 1 = 0",
     "year": "2020"
   },
   {
@@ -190,8 +204,9 @@
       "C": "x = \\(\\frac{3y}{z}\\)",
       "D": "x = \\(\\frac{3y}{2z}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58302?exam_type=waec&type=obj&page=315",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "\\(x\\) x \\(\\frac{y}{z}\\)\nx = \\(\\frac{ky}{z}\\)\n15 = \\(\\frac{10k}{4}\\)\n\\(\\frac{60}{10}\\) = k = 6\nTherefore; x = \\(\\frac{6y}{z}\\)",
     "year": "2020"
   },
   {
@@ -203,8 +218,9 @@
       "C": "11:00 am",
       "D": "10:00 am"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58303?exam_type=waec&type=obj&page=316",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Let x be the time\nThen 72x + 48x = 240\n\\(\\frac{120}{120} \\times \\frac{240}{120}\\)\nx = 2hrs\n9:00 + 2hrs = 11:00 am",
     "year": "2020"
   },
   {
@@ -216,8 +232,9 @@
       "C": "140 cm\\(^2\\)",
       "D": "83 cm\\(^2\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58304?exam_type=waec&type=obj&page=316",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Total = 2(LB + BH + LH)\nSurface area\n= 2(7 x 5 + 5 x 4 + 7 x 4)\n= 2(35 + 20 + 28)\n= 2(83)\n= 166cm\\(^2\\)",
     "year": "2020"
   },
   {
@@ -229,8 +246,9 @@
       "C": "57",
       "D": "68"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58305?exam_type=waec&type=obj&page=316",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "x + 68\\(^o\\)\u00a0 + 246\\(^o\\) = 360\\(^o\\)\nx + 314\\(^o\\) = 360\\(^o\\)\nx = 360\\(^o\\) - 314\\(^o\\)\nx = 46\\(^o\\)",
     "year": "2020"
   },
   {
@@ -242,8 +260,9 @@
       "C": "y = \\(\\frac{3}{2} x\\)",
       "D": "y = \\(\\frac{-2}{3} x\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58306?exam_type=waec&type=obj&page=316",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "2y = 3(x - 2)\n\\(\\frac{2y}{2} = \\frac{3x}{2} - \\frac{6}{2}\\)\ny = \\(\\frac{3}{2}x - 3\\)\nm = \\(\\frac{3}{2}\\)\n\\(\\frac{y - y_1}{x - x_1}\\) = m\n\\(\\frac{y - 3}{x - 2} = \\frac{3}{2}\\)\n2y - 6 = 3x - 6\n\\(\\frac{2y}{2} = \\frac{3x}{2}\\)\ny = \\(\\frac{3}{2}\\)x",
     "year": "2020"
   },
   {
@@ -255,8 +274,9 @@
       "C": "{-3, -11}",
       "D": "{-3, 0}"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58307?exam_type=waec&type=obj&page=316",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "6x(x + 1) = 0\nWhen 6x = 0 and\nx + 1 = 0\nx = 0 and x = -1\n(0, -1)",
     "year": "2020"
   },
   {
@@ -268,8 +288,9 @@
       "C": "5y\\(^2 - 16y - 330 = 0\\)",
       "D": "5y\\(^2 + 24y - 324 = 0\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58308?exam_type=waec&type=obj&page=317",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Man = x, Son = y\nx = 5y\n(x + 4)(y + 4) = 350\n(5y + 4)(y + 4) = 340\n5y\\(^2\\) + 20y + 4y + 16 - 240 = 0\n5y\\(^2\\) + 24y - 324 = 0",
     "year": "2020"
   },
   {
@@ -281,8 +302,9 @@
       "C": "\\(\\frac{a^2 - b^2 + ac}{ab}\\)",
       "D": "\\(\\frac{a^2 - b^2 - ac}{ab}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58309?exam_type=waec&type=obj&page=317",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{a}{b} - \\frac{b}{a} - \\frac{c}{b}\\)\n\\(\\frac{a^2 - b^2-\u00a0ac}{ab}\\)",
     "year": "2020"
   },
   {
@@ -294,8 +316,9 @@
       "C": "\\(\\sqrt{3}\\)",
       "D": "\\(\\frac{1}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58311?exam_type=waec&type=obj&page=317",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "ZT = \\(\\sqrt{6^2 - 3^2}\\)\nZT = \\(\\sqrt{27}\\) = \\(3\\sqrt{3}\\)\ntan (< XZT) =\u00a0 \\(\\frac{3}{3\\sqrt{3}}\\)\n= - \\(\\frac{1}{\\sqrt{3}}\\)",
     "year": "2020"
   },
   {
@@ -307,8 +330,9 @@
       "C": "52.40\\(^o\\)",
       "D": "51.32\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58312?exam_type=waec&type=obj&page=317",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Tan \\(\\theta\\) = \\(\\frac{13.6}{10}\\)\n= tan\\(^{-1}\\)(1.36)\n\\(\\theta\\) = 53.67\\(^o\\)",
     "year": "2020"
   },
   {
@@ -320,8 +344,9 @@
       "C": "\u20a6(10x + y)",
       "D": "\u20a610(x + y)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58314?exam_type=waec&type=obj&page=317",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Selling Price for each = \u20a6x +\u00a0\u20a6y\n= 10(\u20a6x +\u00a0\u20a6y)",
     "year": "2020"
   },
   {
@@ -333,8 +358,9 @@
       "C": "Third only",
       "D": "Second only"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58315?exam_type=waec&type=obj&page=318",
     "correct_answer": "C",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2020"
   },
   {
@@ -346,8 +372,9 @@
       "C": "8cm",
       "D": "7cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58316?exam_type=waec&type=obj&page=318",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Volume = \\(\\frac{1}{3}\\) x 9 x 5 x h\n105 = \\(\\frac{1}{3}\\) x 9 x 5 x h\n\\(\\frac{105}{15} = \\frac{15h}{15}\\)\nh = 7cm",
     "year": "2020"
   },
   {
@@ -359,8 +386,9 @@
       "C": "24",
       "D": "18"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58317?exam_type=waec&type=obj&page=318",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Exterior\u00a0angle = 180\\(^o\\) - 168\\(^o\\)\nNumber of sides = \\(\\frac{360^o}{12}\\)\n= 30\\(^o\\)",
     "year": "2020"
   },
   {
@@ -372,8 +400,9 @@
       "C": "120\\(^o\\)",
       "D": "90\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58325?exam_type=waec&type=obj&page=318",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "2x = 3x - 50 alternate angle\n50\\(^o\\) = 3x - 2x\n50\\(^o\\) = x\n< NPQ = (3x - 50)\\(^o\\)\n= 3(50)\\(^o\\) - 50\n= 150 - 50 = 100\\(^o\\)",
     "year": "2020"
   },
   {
@@ -385,8 +414,9 @@
       "C": "25\\(^o\\)",
       "D": "22\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58330?exam_type=waec&type=obj&page=318",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "L = \\(\\frac{\\theta}{360^o}\\) = 2\\(\\pi\\)\n\\(\\frac{55}{36} = \\frac{\\theta}{360^o}\u00a0\\times 2 \\times \\frac{22}{7} \\times 3.5\\)\n\\(\\theta = \\frac{360 \\times 55 \\times 44 \\times 0.5}{3 \\times 44 \\times 0.5}\\)\n= \\(\\theta = 25^o\\)",
     "year": "2020"
   },
   {
@@ -398,8 +428,9 @@
       "C": "80 cm\\(^2\\)",
       "D": "120 cm\\(^2\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58331?exam_type=waec&type=obj&page=319",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Area PTRS = 10cm x 8cm\n= 80cm",
     "year": "2020"
   },
   {
@@ -411,8 +442,9 @@
       "C": "68\\(^o\\)",
       "D": "42\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58333?exam_type=waec&type=obj&page=319",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "< O\\(Q\\)P = 48\\(^o\\) (base angles of isoceles \\(\\triangle\\))\nm = 48\\(^o\\) + 48\\(^o\\) = 96\\(^o\\) (exterior angle of a \\(\\triangle\\))",
     "year": "2020"
   },
   {
@@ -424,8 +456,9 @@
       "C": "355,000",
       "D": "250,000"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58335?exam_type=waec&type=obj&page=319",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Angle of Men = 360\\(^o\\) - (120 + 169)\n= 360\\(^o\\) - 289\\(^o\\) = 71\\(^o\\)\nNo. of men \\(\\frac{71}{360}\\) x 1800,000\n= 355,000",
     "year": "2020"
   },
   {
@@ -437,8 +470,9 @@
       "C": "5",
       "D": "0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58337?exam_type=waec&type=obj&page=319",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "xx - \\(\\overline{x}\\))\\(^2\\)(x - \\(\\overline{x}\\))\\(^2\\)152117261829-60-45-3-83601625964\\(\\sum (x - \\overline{x})^2\\) = 150\nStandard deviation = \\(\\sqrt{\\frac{ \\sum (x - \\overline{x})^2}{n} }\\)\n= \\(\\frac{150}{6}\\)\n= \\(\\sqrt{25}\\)\n= 5",
     "year": "2020"
   },
   {
@@ -450,8 +484,9 @@
       "C": "540\\(^o\\)",
       "D": "550\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58344?exam_type=waec&type=obj&page=319",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Sum = (5 - ) 180\\(^o\\)\n= (5 - 2) 180\\(^o\\)\u00a0 = 3 x 180\\(^o\\)\n= 540\\(^o\\)",
     "year": "2020"
   },
   {
@@ -463,8 +498,9 @@
       "C": "905 cm\\(^3\\)",
       "D": "906 cm\\(^3\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58347?exam_type=waec&type=obj&page=320",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Volume of sphere = \\(\\frac{4}{3}\\)\\(\\pi\\)r\\(^3\\)\ndiameter = 12cm\u00a0\u21d2 r = 6cm\nV. of sphere =\u00a0 \\(\\frac{4}{3}\\) x\u00a0 \\(\\frac{22}{7}\\) x 6\\(^3\\) \\(\\approxeq\\) 905cm\\(^3\\)",
     "year": "2020"
   },
   {
@@ -476,8 +512,9 @@
       "C": "\\(\\frac{1}{3}\\)",
       "D": "\\(\\frac{1}{4}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58349?exam_type=waec&type=obj&page=320",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "No. of red = 5\nNo. of blue = 4\nNo. of green = 3\nTotal = 12\nPr(Green) = \\(\\frac{3}{12} = \\frac{1}{4}\\)",
     "year": "2020"
   },
   {
@@ -489,8 +526,9 @@
       "C": "\\(\\frac{5}{6}\\)",
       "D": "\\(\\frac{103}{132}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58355?exam_type=waec&type=obj&page=320",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Pr(RR) = \\(\\frac{5}{12}\\) = \\(\\frac{5}{12} \\times \\frac{5}{12} = \\frac{25}{144}\\)",
     "year": "2020"
   },
   {
@@ -502,8 +540,9 @@
       "C": "90\\(^o\\)",
       "D": "100\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58361?exam_type=waec&type=obj&page=320",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "x + y + m + z\u00a0= 180\u00ba\nbut m = \\(\\frac{1}{2}\\)(x + y + z)\n2m = ( x + y + z )\nThus ( x + y + z) + m = 180\u00ba\n(2m) + m = 180\u00ba\n3m = 180\u00ba\nm = \\(\\frac{180\u00ba}{3}\\) = 60\u00ba",
     "year": "2020"
   },
   {
@@ -515,8 +554,9 @@
       "C": "1",
       "D": "\\(\\frac{1}{2}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58365?exam_type=waec&type=obj&page=320",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Gradient = \\(\\frac{y_2 - y_ 1}{x_2 - x_1}\\)\n= \\(\\frac{5.20 - 3.90}{6.85 - 6.20}\\)\n= \\(\\frac{1.3}{0.5}\\)\n= 2",
     "year": "2020"
   },
   {
@@ -528,8 +568,9 @@
       "C": "75\\(^o\\)",
       "D": "60\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58373?exam_type=waec&type=obj&page=321",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "m + n + 90\\(^o\\) + 180\\(^o\\) (sum of angle in a \\(\\triangle\\))\nm + n = 180\\(^o\\) - 90\\(^o\\)\nm + n =90\\(^o\\)",
     "year": "2020"
   },
   {
@@ -541,8 +582,9 @@
       "C": "SAS",
       "D": "SSA"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58381?exam_type=waec&type=obj&page=321",
     "correct_answer": "D",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2020"
   },
   {
@@ -554,8 +596,9 @@
       "C": "$656.25",
       "D": "$616.25"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58402?exam_type=waec&type=obj&page=321",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(\\frac{20}{100}\\) x \\(x\\) = \\(x - 525\\)\n\\(\\frac{x}{5} = x\\) - 535\nx = 5x - 2625\n\\(\\frac{4x}{4} = \\frac{2625}{4}\\)\nx = $656.25",
     "year": "2020"
   },
   {
@@ -567,8 +610,9 @@
       "C": "23",
       "D": "9"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58406?exam_type=waec&type=obj&page=321",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Q\\(_3\\) - Q\\(_1\\) = 7\nQ\\(_3\\) - 16 = 7\nQ\\(_3\\) - 7 + 16\n= 23",
     "year": "2020"
   },
   {
@@ -580,8 +624,9 @@
       "C": "(2.0, 8.0) and (-1.5, 2.5)",
       "D": "(2.0, 7.5) and (-1.5, 2.5)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58411?exam_type=waec&type=obj&page=321",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "The point of intersection are\u00a0(2.0, 9.0) and (-1.5, 2.0)",
     "year": "2020"
   },
   {
@@ -593,8 +638,9 @@
       "C": "y = 9.0",
       "D": "y = 9.5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58413?exam_type=waec&type=obj&page=322",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "If x = -2.5\ny = 8.5",
     "year": "2020"
   },
   {
@@ -606,8 +652,9 @@
       "C": "7",
       "D": "-7"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58417?exam_type=waec&type=obj&page=322",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "x + 2 = 0\nx -2\nx\\(^2\\) = px - 10 = 0\n(-2)\\(^2\\) - 2p - 10 = 0\n4 - 2p - 10 = 0\n\\(\\frac{-2p}{-2} = \\frac{6}{-2}\\) \\(\\to\\) p = -3",
     "year": "2020"
   },
   {
@@ -619,8 +666,9 @@
       "C": "113\\(^o\\)",
       "D": "106\\(^o\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58465?exam_type=waec&type=obj&page=322",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "L\\(N\\)M = 180\\(^o\\) - (74\\(^o\\) + 39\\(^o\\))\n180\\(^o\\) - 113\\(^o\\)\n= 67\\(^o\\)\nL\\(^O\\)\nM = x = 2 x 67\\(^o\\)\n= 134\\(^o\\)",
     "year": "2020"
   },
   {
@@ -632,8 +680,9 @@
       "C": "5",
       "D": "4"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/58619?exam_type=waec&type=obj&page=322",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "4x = 7 (mod 9)\n4x = 7 + 9 (mod 9)\n\\(\\frac{4x}{4} = \\frac{16}{4}\\) (mod 9)\nx = 4",
     "year": "2020"
   }
 ]

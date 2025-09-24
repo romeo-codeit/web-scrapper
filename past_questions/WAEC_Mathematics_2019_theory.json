@@ -1,0 +1,245 @@
+[
+  {
+    "number": "417",
+    "text": "(a) Solve the inequality: \\(\\frac{1 + 4x}{2}\\) -\\(\\frac{5 + 2x}{7}\\) < x -2\n\n(b) If x: y = 3: 5, find the value of \\(\\frac{2x^2 - y^2}{y^2 - x^2}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56420?exam_type=waec&type=theory&page=84",
+    "correct_answer": "(a) majority of the candidates multiplied through by the L.C.M which is 14 to arrive at 7(1+4x) - 2(5+2x) < 14(x - 2) and when simplified yielded 10x < -25 x -2\\(\\frac{1}{2}\\)\n(b) it was expected that they express x = \\(\\frac{3y}{5}\\) or y = \\(\\frac{5x}{3}\\)\u00a0 and thereafter, substitute into the given expression to have \\(\\frac{2x^2 - y^2}{y^2 - x^2} = \\frac{2x^2 - (\\frac{5x}{3})^2}{(\\frac{5x}{3})^2 - x^2} = \\frac{x^(2 - \\frac{25}{9})}{x^2(\\frac{25}{9} - 1)} = \\frac{-7}{16}\\)",
+    "explanation": "(a) majority of the candidates multiplied through by the L.C.M which is 14 to arrive at 7(1+4x) - 2(5+2x) < 14(x - 2) and when simplified yielded 10x < -25 x -2\\(\\frac{1}{2}\\)\n(b) it was expected that they express x = \\(\\frac{3y}{5}\\) or y = \\(\\frac{5x}{3}\\)\u00a0 and thereafter, substitute into the given expression to have \\(\\frac{2x^2 - y^2}{y^2 - x^2} = \\frac{2x^2 - (\\frac{5x}{3})^2}{(\\frac{5x}{3})^2 - x^2} = \\frac{x^(2 - \\frac{25}{9})}{x^2(\\frac{25}{9} - 1)} = \\frac{-7}{16}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "418",
+    "text": "The second, fourth and sixth terms of an Arithmetic Progression (AP.) are x - 1, x + 1 and 7 respectively. Find the:\n(a) common difference;\n(b) first term;\n(c) value of x.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56421?exam_type=waec&type=theory&page=84",
+    "correct_answer": "(a) The second term is a + d= x - 1 while the fourth term is a + 3d = x + 1. Subtracting the second term from the fourth term yielded 2d = 2 so that d = 1.\n(b). Substituting for d in the expression for the sixth term to get a + 5d\u00a0= 7; a + 5(1) = 7\u00a0and solving for a to obtain a = 2.\n(c). Substituted for a and d in the expression for the second term( a + d\u00a0 = x - 1)\u00a0and found x = 2 + 1 + 1 = 4.",
+    "explanation": "(a) The second term is a + d= x - 1 while the fourth term is a + 3d = x + 1. Subtracting the second term from the fourth term yielded 2d = 2 so that d = 1.\n(b). Substituting for d in the expression for the sixth term to get a + 5d\u00a0= 7; a + 5(1) = 7\u00a0and solving for a to obtain a = 2.\n(c). Substituted for a and d in the expression for the second term( a + d\u00a0 = x - 1)\u00a0and found x = 2 + 1 + 1 = 4.",
+    "year": "2019"
+  },
+  {
+    "number": "419",
+    "text": "(a) If logo a = 1.3010 and log\\(_{10}\\)b - 1.4771. find the value of ab\n\u00a0\n(b)\n\n\nIn the diagram. O is the centre of the circle,< ACB = 39\\(^o\\) and < CBE = 62\\(^o\\). Find: (i) the interior angle AOC;\n(ii) angle BAC.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56422?exam_type=waec&type=theory&page=84",
+    "correct_answer": "(a) finding a = 10\\(^{1.3010}\\) and b = 10\\(^{1.4771}\\)\nThen, ab = 10\\(^{1.3010}\\) x 10\\(^{1.4771}\\) = 10\\(^{2.4771}\\) = 599.9\n(b)(i) they were expected to find < ABC = 180\u00b0 - 62\u00b0 = 118\u00b0\nExterior < AOC a 2 x 118\u00b0 - 236\u00b0 (< at centre is twice angle at the circumference)\nInterior < AOC = 360\u00b0 - 236\u00b0 = 124\u00b0(angle at a point) as required.\n(b)(ii) < BAC in 180\u00b0 - 39\u00b0 - 118\u00b0 = 23\u00b0 (sum of angles of a triangle)",
+    "explanation": "(a) finding a = 10\\(^{1.3010}\\) and b = 10\\(^{1.4771}\\)\nThen, ab = 10\\(^{1.3010}\\) x 10\\(^{1.4771}\\) = 10\\(^{2.4771}\\) = 599.9\n(b)(i) they were expected to find < ABC = 180\u00b0 - 62\u00b0 = 118\u00b0\nExterior < AOC a 2 x 118\u00b0 - 236\u00b0 (< at centre is twice angle at the circumference)\nInterior < AOC = 360\u00b0 - 236\u00b0 = 124\u00b0(angle at a point) as required.\n(b)(ii) < BAC in 180\u00b0 - 39\u00b0 - 118\u00b0 = 23\u00b0 (sum of angles of a triangle)",
+    "year": "2019"
+  },
+  {
+    "number": "420",
+    "text": "(a) Without using mathematical tables or calculator, simplify: \\(\\frac{log_28 + \\log_216 - 4 \\log_22}{\\log_416}\\)\n\n(b) If 1342\\(_{five}\\) - 241\\(_{five}\\) = x\\(_{ten}\\), find the value of x.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56424?exam_type=waec&type=theory&page=84",
+    "correct_answer": "(a) \\(\\frac{\\log_28 + \\log_216 - 4\\log_22}{\\log_416}\\) = \\(\\frac{\\log_22^3 + \\log_2 2^4 - 4\\log_22}{\\log_44^2}\\)\n= \\(\\frac{3 \\log_2 2 + 4\\log_22 - 4 \\log_2^2}{2 \\log 4^4}\\)\nBut log\\(_2\\) 2 = \\(\\log_44 = 1\\)\nThen, \\(\\frac{\\log_28+\\log_216 - 4 \\log_2^2}{\\log_416}\\) = \\(\\frac{3 + 4 - 4}{2}\\) = 1\\(\\frac{1}{2}\\)\n(b) Subtract 241\\(_{five}\\) to get 1101\\(_{five}\\). Thereafter, converting to base ten to find the value of x = (5\\(^3\\) x 1) + (5\\(^2\\) x 1 + (5\\(^1\\) x 0) + (5\\(^o\\) x 1) = 125 + 25 + 0 + 1 = 151\n(b) They subtracted 241\\(_{five}\\) from 1342\\(_{five}\\) to get 1101\\(_{five}\\). Thereafter, converting to base ten to find the value of x = (5\\(^3\\) x 1) + (5\\(^2\\) x 1) + (5\\(^1\\) x 0) + (5\u00b0x 1) = 125 + 25 + + 1 = 151.",
+    "explanation": "(a) \\(\\frac{\\log_28 + \\log_216 - 4\\log_22}{\\log_416}\\) = \\(\\frac{\\log_22^3 + \\log_2 2^4 - 4\\log_22}{\\log_44^2}\\)\n= \\(\\frac{3 \\log_2 2 + 4\\log_22 - 4 \\log_2^2}{2 \\log 4^4}\\)\nBut log\\(_2\\) 2 = \\(\\log_44 = 1\\)\nThen, \\(\\frac{\\log_28+\\log_216 - 4 \\log_2^2}{\\log_416}\\) = \\(\\frac{3 + 4 - 4}{2}\\) = 1\\(\\frac{1}{2}\\)\n(b) Subtract 241\\(_{five}\\) to get 1101\\(_{five}\\). Thereafter, converting to base ten to find the value of x = (5\\(^3\\) x 1) + (5\\(^2\\) x 1 + (5\\(^1\\) x 0) + (5\\(^o\\) x 1) = 125 + 25 + 0 + 1 = 151\n(b) They subtracted 241\\(_{five}\\) from 1342\\(_{five}\\) to get 1101\\(_{five}\\). Thereafter, converting to base ten to find the value of x = (5\\(^3\\) x 1) + (5\\(^2\\) x 1) + (5\\(^1\\) x 0) + (5\u00b0x 1) = 125 + 25 + + 1 = 151.",
+    "year": "2019"
+  },
+  {
+    "number": "421",
+    "text": "The cost of dinner for a group of tourist is partly constant and partly varies as the number of tourists present. It costs $740.00 when 20 tourists were present and $960.00 when the number of tourists increased by 10. Find the cost of the dinner when only 15 tourists were present.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56429?exam_type=waec&type=theory&page=85",
+    "correct_answer": "Let C be the cost and n the number of tourists. then C = x + ny. Where x and y are constants\n740 = x + 20y...........(1)\n960 = x + 30y.............(2)\nSolving (1) and (2) simultaneously will yield x = 300 and y = 22.\nThen, C = 300 + 22n.\nIf we substitute 15 for n this implies that C = 300 + (22 x 15)= $630.00",
+    "explanation": "Let C be the cost and n the number of tourists. then C = x + ny. Where x and y are constants\n740 = x + 20y...........(1)\n960 = x + 30y.............(2)\nSolving (1) and (2) simultaneously will yield x = 300 and y = 22.\nThen, C = 300 + 22n.\nIf we substitute 15 for n this implies that C = 300 + (22 x 15)= $630.00",
+    "year": "2019"
+  },
+  {
+    "number": "422",
+    "text": "(a) Fred bought a car for $5,600.00 and later sold it at 90% of the cost price. He spent $1,310.00 out of the amount received and invested the rest at 6% per annum simple interest. Calculate the interest earned in 3 years.\n(b) Solve the equations 2\\(^x\\)(4\\(^{-7}\\)) = 2 and 3\\(^{-x}\\)(9\\(^{2y}\\)) = 3 simultaneously.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56430?exam_type=waec&type=theory&page=85",
+    "correct_answer": "(a) Selling price = \\(\\frac{90 \\times 5600}{100}\\) = $5,040.00. Thereafter, to obtain the amount invested = 5,040 - 1310\u00a0 = $3,730.00\nThe interest amount invested is \\(\\frac{3730 \\times 6 \\times 3}{100}\\) = $671.40\n(b) 2\\(^x\\)(2\\(^{-14}\\)) = 2. This will be simplified and solved for x to get x = 15.Similarly, 3\\(^{-x}\\)(3\\(^{4y}\\)) = 3 and this will yield -x + 4y = 1.\nSubstituting for x and solving for y yielded y = 4.",
+    "explanation": "(a) Selling price = \\(\\frac{90 \\times 5600}{100}\\) = $5,040.00. Thereafter, to obtain the amount invested = 5,040 - 1310\u00a0 = $3,730.00\nThe interest amount invested is \\(\\frac{3730 \\times 6 \\times 3}{100}\\) = $671.40\n(b) 2\\(^x\\)(2\\(^{-14}\\)) = 2. This will be simplified and solved for x to get x = 15.Similarly, 3\\(^{-x}\\)(3\\(^{4y}\\)) = 3 and this will yield -x + 4y = 1.\nSubstituting for x and solving for y yielded y = 4.",
+    "year": "2019"
+  },
+  {
+    "number": "423",
+    "text": "NOT DRAWN TO SCALE\nIn the diagram, is a chord of a circle with centre 0. 22.42 cm and the perimeter of triangle MON is 55.6 cm. Calculate, correct to the nearest degree. < MON.\n(b) T is equidistant from P and Q. The bearing of P from T is 60\\(^o\\) and the bearing of Q from T is 130\\(^o\\).\n(i) Illustrate the information on a diagram.\n(ii) Find the bearing of Q from P.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56437?exam_type=waec&type=theory&page=85",
+    "correct_answer": "(a) Using length of chord = 2r sin (\\(\\frac{\\theta}{2}\\)) = 22.42 and simplifying sin(\\(\\frac{\\theta}{2}\\)) = \\(\\frac{22.42}{33.18}\\) = 0.6757\nTaking the sine inverse of 0.6757 to obtain \\(\\frac{\\theta}{2}\\) = 42.51\\(^o\\) and multiplying through to get \\(\\theta\\) = 58.02\\(^o\\) = 885\\(^o\\)\n(b(i), the expected diagram is\n(b)(ii) since T is equidistant from P and Q, then ITPI = ITQI. Using sum of the angles in a triangle. 70\u00b0 + x + x = 180\u00b0 and solving for x.\nx = 55\u00b0. Therefore. the bearing of Q from P = 270\u00b0 \u2014 30\u00b0 \u2014 55\u00b0 = 185\u00b0.",
+    "explanation": "(a) Using length of chord = 2r sin (\\(\\frac{\\theta}{2}\\)) = 22.42 and simplifying sin(\\(\\frac{\\theta}{2}\\)) = \\(\\frac{22.42}{33.18}\\) = 0.6757\nTaking the sine inverse of 0.6757 to obtain \\(\\frac{\\theta}{2}\\) = 42.51\\(^o\\) and multiplying through to get \\(\\theta\\) = 58.02\\(^o\\) = 885\\(^o\\)\n(b(i), the expected diagram is\n(b)(ii) since T is equidistant from P and Q, then ITPI = ITQI. Using sum of the angles in a triangle. 70\u00b0 + x + x = 180\u00b0 and solving for x.\nx = 55\u00b0. Therefore. the bearing of Q from P = 270\u00b0 \u2014 30\u00b0 \u2014 55\u00b0 = 185\u00b0.",
+    "year": "2019"
+  },
+  {
+    "number": "424",
+    "text": "The ages of a group of athletes are as follows: 18, 16. 18,20, 17, 16, 19, 17, 18, 17 and 13. (a) Find the range of the distribution.\n(b) Draw a frequency distribution table for the data.\n(c) What is the median age?\n(d) Calculate, correct to two decimal places, the;\n(i) mean age:\n(ii) standard deviation.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56455?exam_type=waec&type=theory&page=85",
+    "correct_answer": "(a) The range;\u00a0 20 - 15 = 5.\n(b) They drew the frequency distribution table as\n\\(\\sum\\) f = 11\\(\\sum\\) fx = 191\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \\(\\sum\\)f\\(^2\\) = 3337\nAge(x)TallyFreq(f)Com.Freqfxfx\\(^2\\)151617181920IIIIIIIIIII12331113691011153251541920225512867972361400\n(c) Median age as 17.\n(d)(i) Mean = \\(\\frac{\\sum fx}{\\sum f}\\) = \\(\\frac{191}{11}\\) = 17.3636\n(d)(ii). The standard deviation was \\(\\sqrt{\\frac{2227}{11} - (\\frac{191}{11})^2}\\)\n= \\(\\sqrt{1.8677}\\) = 1.37(correct to two decimal places)",
+    "explanation": "(a) The range;\u00a0 20 - 15 = 5.\n(b) They drew the frequency distribution table as\n\\(\\sum\\) f = 11\\(\\sum\\) fx = 191\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 \\(\\sum\\)f\\(^2\\) = 3337\nAge(x)TallyFreq(f)Com.Freqfxfx\\(^2\\)151617181920IIIIIIIIIII12331113691011153251541920225512867972361400\n(c) Median age as 17.\n(d)(i) Mean = \\(\\frac{\\sum fx}{\\sum f}\\) = \\(\\frac{191}{11}\\) = 17.3636\n(d)(ii). The standard deviation was \\(\\sqrt{\\frac{2227}{11} - (\\frac{191}{11})^2}\\)\n= \\(\\sqrt{1.8677}\\) = 1.37(correct to two decimal places)",
+    "year": "2019"
+  },
+  {
+    "number": "425",
+    "text": "A survey of 40 students showed that 23 students study Mathematics, 5 study Mathematics and Physics, 8 study Chemistry and Mathematics, 5 study Physics and Chemistry and 3 study all the three subjects. The number of students who study Physics only is twice the number who study Chemistry only.\n(a) Find the number of students who study:\n(i) only Physics.\n(ii) only one subject\nb) What is the probability that a student selected at random studies exactly 2 subjects?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56459?exam_type=waec&type=theory&page=85",
+    "correct_answer": "Let \\(\\mu\\) = 40 n(M) = 23, n(M \\(\\cup\\) P) = 5, n(M \\(\\cup\\) C) = 8, n(P \\(\\cup\\) C) = 5, n(M \\(\\cup\\) P \\(\\cup\\) C) = 3, n(C) only = x and n(P) only = 2x\n(a)(i) We have 13 + 2 + 3 + 5 + x + 2 + 2x = 40 and solving for x will yield x = 5, so that the number of students that studied only Physics = 2(5) = 10\n(a)(ii) The number of students that studied only one subject is 13 + 10 + 5 = 28\n(b) The probability that a student selected at random studies exactly two subjects = \\(\\frac{5 + 2 + 2}{40} = \\frac{9}{48}\\) or 0.225",
+    "explanation": "Let \\(\\mu\\) = 40 n(M) = 23, n(M \\(\\cup\\) P) = 5, n(M \\(\\cup\\) C) = 8, n(P \\(\\cup\\) C) = 5, n(M \\(\\cup\\) P \\(\\cup\\) C) = 3, n(C) only = x and n(P) only = 2x\n(a)(i) We have 13 + 2 + 3 + 5 + x + 2 + 2x = 40 and solving for x will yield x = 5, so that the number of students that studied only Physics = 2(5) = 10\n(a)(ii) The number of students that studied only one subject is 13 + 10 + 5 = 28\n(b) The probability that a student selected at random studies exactly two subjects = \\(\\frac{5 + 2 + 2}{40} = \\frac{9}{48}\\) or 0.225",
+    "year": "2019"
+  },
+  {
+    "number": "426",
+    "text": "a) A twenty - kilogram bag of rice is consumed by m number of boys in 10 days. When four more boys joined them, the same quantity of rice lasted only 8 days. If the rate of consumption is the same, find the value of m.\n(b) If \\(\\frac{5}{6}\\) of a number is 10 greater than \\(\\frac{1}{3}\\) of it. find the number\n(c) Find the equation of the line which passes through the points (2, \\(\\frac{1}{2}\\)) and (-1, -\\(\\frac{1}{2}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56463?exam_type=waec&type=theory&page=86",
+    "correct_answer": "(a) it will take 1 boy 10m days and when 4 more boys are added, it will take 8(m + 4) days. Since the rate of consumption was the same, then 10m = 8m + 32 and when solves, m = 16\n(b) Let x be the number. so that \\(\\frac{5}{6}\\)x = 10 + \\(\\frac{1}{2}\\)x and multiplying through by 6 to get 5x = 60 + 2x. This was solved to get x = 20\n(c) Let the gradient be m = \\(\\frac{\\frac{1}{2} - (\\frac{1}{2})}{2 - (-1)} = \\frac{2}{3}\\). The equation of the lines is y - y\\(_1\\) = m(x - x\\(_1\\)). Sunstituting for x\\(_1\\) and y\\(_1\\)\ny - (\\(\\frac{-1}{2}\\)) = \\(\\frac{1}{2}\\)(x - (-1)) and this can be simplified to y = \\(\\frac{1}{3}x - \\frac{1}{6}\\) or 2x - 6y - 1 = 0",
+    "explanation": "(a) it will take 1 boy 10m days and when 4 more boys are added, it will take 8(m + 4) days. Since the rate of consumption was the same, then 10m = 8m + 32 and when solves, m = 16\n(b) Let x be the number. so that \\(\\frac{5}{6}\\)x = 10 + \\(\\frac{1}{2}\\)x and multiplying through by 6 to get 5x = 60 + 2x. This was solved to get x = 20\n(c) Let the gradient be m = \\(\\frac{\\frac{1}{2} - (\\frac{1}{2})}{2 - (-1)} = \\frac{2}{3}\\). The equation of the lines is y - y\\(_1\\) = m(x - x\\(_1\\)). Sunstituting for x\\(_1\\) and y\\(_1\\)\ny - (\\(\\frac{-1}{2}\\)) = \\(\\frac{1}{2}\\)(x - (-1)) and this can be simplified to y = \\(\\frac{1}{3}x - \\frac{1}{6}\\) or 2x - 6y - 1 = 0",
+    "year": "2019"
+  },
+  {
+    "number": "427",
+    "text": "A ladder 11m\u00a0long leans against a vertical wall at an angle of 75\\(^o\\) to the ground. The ladder is the pushed 0.2 m up the wall.\n(a) Illustrate the information in a diagram.\n(b) Find correct to the nearest whole number, the:\n(i) new angle which the ladder makes with the ground:\n(ii) distance the foot of the ladder has moved from its original position.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56476?exam_type=waec&type=theory&page=86",
+    "correct_answer": "(a)\u00a0The required diagram was\n(b)(i) we have sin 75\\(^o\\) = \\(\\frac{x}{11}\\) and this will give x = 10.625m. Since the ladder has moved up by 0.2 , the new point where the ladder touches the wall is 0.2 + 10.625 = 10.825m.\nThen sin\\(\\theta\\) = \\(\\frac{10.825}{11}\\)\nSin\\(\\theta\\) = 0.9841 and \\(\\theta\\) = sin\\(^{-1}\\)(0.9841) = 79.77\\(^o\\) = 80\\(^o\\)\n(b)(ii) Cos 75\\(^o\\) = \\(\\frac{y}{11}\\) so that y = 2.2847m\nSimilarity, cos 79.77 = \\(\\frac{q}{11}\\) and q = 1.9536m. Therefore, the distance the ladder was dragged = 2.8470 - 1.9536 = 0.8934m = 1m",
+    "explanation": "(a)\u00a0The required diagram was\n(b)(i) we have sin 75\\(^o\\) = \\(\\frac{x}{11}\\) and this will give x = 10.625m. Since the ladder has moved up by 0.2 , the new point where the ladder touches the wall is 0.2 + 10.625 = 10.825m.\nThen sin\\(\\theta\\) = \\(\\frac{10.825}{11}\\)\nSin\\(\\theta\\) = 0.9841 and \\(\\theta\\) = sin\\(^{-1}\\)(0.9841) = 79.77\\(^o\\) = 80\\(^o\\)\n(b)(ii) Cos 75\\(^o\\) = \\(\\frac{y}{11}\\) so that y = 2.2847m\nSimilarity, cos 79.77 = \\(\\frac{q}{11}\\) and q = 1.9536m. Therefore, the distance the ladder was dragged = 2.8470 - 1.9536 = 0.8934m = 1m",
+    "year": "2019"
+  },
+  {
+    "number": "428",
+    "text": "(a) Copy and complete the table of values for the relation y = 4x\\(^2\\) - 8x - 21, for -2.0 \\(\\leq\\) x \\(\\leq\\) 4.0\u00a0\n\n\n\nx\n-2.0\n-1.5\n-1.0\n0.5\n0.0\n0.5\n1.0\n\u00a01.5\n2.0\n2.5\n3.0\n3.5\n4.0\n\n\ny\n11\n\u00a0\n-9\n\u00a0\n-21\n-24\n\u00a0\n\u00a0\n-21\n\u00a0\n-9\n0\n\u00a0\n\n\n\n\u00a0\n(b) Using a scale of 2cm to 1 unit on the x-axis and 2cm to 5 units on the y-axis, draw the graph for the relation y = 4x\\(^2\\) - 8x - 21\n(ii) Use the graph to find the solution set of\u00a0\n(\\(\\alpha\\)) 4x\\(^2\\) - 8x = 3;\n(\\(\\beta\\)) 4x\\(^2\\) - 7x - 21 = 0",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56478?exam_type=waec&type=theory&page=86",
+    "correct_answer": "(a) They completed the table of values as shown\nx-2.0-1.5-1.00.50.00.51.01.52.02.53.03.54.0y110-9-16-21-24-25-24-21-16-9011\n(b)(i) The graph\n(b)(ii)(\\(\\alpha\\), deduce that 4x\\(^2\\) - 8x - 21 = 3 - 21 so that y = -18. From the graph, the point of intersection of y = -18 and y = 4x\\(^2\\) - 8x - 21 was atx = {-0.35 \\(\\pm\\) 0.1, 2.3 \\(\\pm\\) 0.1}\n(b)(ii)(\\(\\beta\\)), the equation\u00a04x\\(^2\\) - 8x - 21 = 0 which can be written as\u00a04x\\(^2\\) - x - 7x - 21 = -x. This implies that\u00a04x\\(^2\\) - 8x - 21 = -x.\nBut, y =\u00a04x\\(^2\\) - 8x - 21 so that y = -x, Next was to draw the line y = -x and from the graph, the point of intersection with the curve y =\u00a04x\\(^2\\) - 8x - 21 was at x = {3.3 \\(\\pm\\) 0.1, -1.6 \\(\\pm\\) 0.1}",
+    "explanation": "(a) They completed the table of values as shown\nx-2.0-1.5-1.00.50.00.51.01.52.02.53.03.54.0y110-9-16-21-24-25-24-21-16-9011\n(b)(i) The graph\n(b)(ii)(\\(\\alpha\\), deduce that 4x\\(^2\\) - 8x - 21 = 3 - 21 so that y = -18. From the graph, the point of intersection of y = -18 and y = 4x\\(^2\\) - 8x - 21 was atx = {-0.35 \\(\\pm\\) 0.1, 2.3 \\(\\pm\\) 0.1}\n(b)(ii)(\\(\\beta\\)), the equation\u00a04x\\(^2\\) - 8x - 21 = 0 which can be written as\u00a04x\\(^2\\) - x - 7x - 21 = -x. This implies that\u00a04x\\(^2\\) - 8x - 21 = -x.\nBut, y =\u00a04x\\(^2\\) - 8x - 21 so that y = -x, Next was to draw the line y = -x and from the graph, the point of intersection with the curve y =\u00a04x\\(^2\\) - 8x - 21 was at x = {3.3 \\(\\pm\\) 0.1, -1.6 \\(\\pm\\) 0.1}",
+    "year": "2019"
+  },
+  {
+    "number": "429",
+    "text": "(a) The curved surface areas of two cones are equal. The base radius of one is 5 cm and its slant height is 12cm. calculate the height of the second cone if its base radius is 6 cm.\n(b) Given the matrices A = \\(\\begin{pmatrix} 2 & 5 \\\\ -1 & -3 \\end{pmatrix}\\) and B =\u00a0\\(\\begin{pmatrix} 3 & -2 \\\\ 4 & 1 \\end{pmatrix}\\), find:\n\u00a0\u00a0\n(i) BA;\u00a0\n(ii) the determinant of BA.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56479?exam_type=waec&type=theory&page=86",
+    "correct_answer": "(a) since the curved surface areas were the same, it was expected that they have 5 x 12\\(pi\\) = 6 \\(\\pi\\)l\u00a0and solving for the slant height to get l\u00a0= 10 cm.\nThen by the use of Pythagoras theorem, the height of the second cone is h\\(^2\\)\u00a0= 10\\(^2\\)\u00a0 - 6\\(^2\\)\u00a0 and when simplified will result in h = 8 cm.\n(b(i), they were to find BA = \\(\\begin{pmatrix} 3 & -2 \\\\4 & 1\\end{pmatrix}\\) \\(\\begin{pmatrix} 2 & 5 \\\\ -1 & -3\\end{pmatrix}\\) =\u00a0\\(\\begin{pmatrix} 8 & 21 \\\\ 7 & 17 \\end{pmatrix}\\)\n(b)(ii), the determinant of BA =\u00a0(8 x 17) - (21 x 7) = 136 - 147 = -11",
+    "explanation": "(a) since the curved surface areas were the same, it was expected that they have 5 x 12\\(pi\\) = 6 \\(\\pi\\)l\u00a0and solving for the slant height to get l\u00a0= 10 cm.\nThen by the use of Pythagoras theorem, the height of the second cone is h\\(^2\\)\u00a0= 10\\(^2\\)\u00a0 - 6\\(^2\\)\u00a0 and when simplified will result in h = 8 cm.\n(b(i), they were to find BA = \\(\\begin{pmatrix} 3 & -2 \\\\4 & 1\\end{pmatrix}\\) \\(\\begin{pmatrix} 2 & 5 \\\\ -1 & -3\\end{pmatrix}\\) =\u00a0\\(\\begin{pmatrix} 8 & 21 \\\\ 7 & 17 \\end{pmatrix}\\)\n(b)(ii), the determinant of BA =\u00a0(8 x 17) - (21 x 7) = 136 - 147 = -11",
+    "year": "2019"
+  },
+  {
+    "number": "430",
+    "text": "(a) Given that 110\\(_x\\) - 40\\(_{five}\\). find the value of x\n(b) Simplify \\(\\frac{15}{\\sqrt{75}} + \\(\\sqrt{108}\\) + \\(\\sqrt{432}\\), leaving the answer in the form a\\(\\sqrt{b}\\), where a and b are positive integers.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56486?exam_type=waec&type=theory&page=86",
+    "correct_answer": "(a)110\\(_x\\) - 40\\(_{5}\\)\n1 x\u00a0 \\(x^2}\\) + 1 x \\(x^1\\) + 0 x \\(x^o\\)\nx = 4 x 5\\(^1\\) + 0 x 5\\(^o\\)\nx\\(^2\\) + x = 4 x 5 + 0\nx\\(^2\\) + x - 20 = 0\n(x - 4)(x + 5) = 0\nx - 4 = 0 or x + 5 = 0\nx = 4 or x = -5\nx = 4\n(b) Simplify \\(\\frac{15}{\\sqrt{75}}\\)\u00a0\u00a0+ \\(\\sqrt{108}\\) + \\(\\sqrt{432}\\)\n= \\(\\frac{15}{\\sqrt{25 \\times 3}}\\)\u00a0 + \\(\\sqrt{36 \\times 3}\\)\n= \\(\\frac{15}{5 \\sqrt{3}\\) + 6\\(\\sqrt{3}\\) + 12\\(\\sqrt{3}\\)\n= \\(\\frac{15 \\sqrt{3}}{15 \\times \\sqrt{3} \\times \\sqrt{3}}\\) + 18\\(\\sqrt{3}\\)\n= \\(\\frac{15\\sqrt{3}}{15}\\) + 18\\(\\sqrt{3}\\)\n\\(\\sqrt{3}\\) + 18\\(\\sqrt{3}\\) = 19\\(\\sqrt{3}\\)",
+    "explanation": "(a)110\\(_x\\) - 40\\(_{5}\\)\n1 x\u00a0 \\(x^2}\\) + 1 x \\(x^1\\) + 0 x \\(x^o\\)\nx = 4 x 5\\(^1\\) + 0 x 5\\(^o\\)\nx\\(^2\\) + x = 4 x 5 + 0\nx\\(^2\\) + x - 20 = 0\n(x - 4)(x + 5) = 0\nx - 4 = 0 or x + 5 = 0\nx = 4 or x = -5\nx = 4\n(b) Simplify \\(\\frac{15}{\\sqrt{75}}\\)\u00a0\u00a0+ \\(\\sqrt{108}\\) + \\(\\sqrt{432}\\)\n= \\(\\frac{15}{\\sqrt{25 \\times 3}}\\)\u00a0 + \\(\\sqrt{36 \\times 3}\\)\n= \\(\\frac{15}{5 \\sqrt{3}\\) + 6\\(\\sqrt{3}\\) + 12\\(\\sqrt{3}\\)\n= \\(\\frac{15 \\sqrt{3}}{15 \\times \\sqrt{3} \\times \\sqrt{3}}\\) + 18\\(\\sqrt{3}\\)\n= \\(\\frac{15\\sqrt{3}}{15}\\) + 18\\(\\sqrt{3}\\)\n\\(\\sqrt{3}\\) + 18\\(\\sqrt{3}\\) = 19\\(\\sqrt{3}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "431",
+    "text": "(a)\n\nIn the diagram. \\(\\over{Rs}\\) and \\(\\over{RT}\\) are tangent to the circle with centre O, < TUS = 68\\(^o\\), < SRT = x and < UTO\u00a0 = y. Find the value of x.\n\u00a0\n(b) Two tanks A and B are filled to capacity with diesel. Tank A holds 600 litres diesel more than tank B. If 100 litres of diesel was pumped cut of each tank, tank A would then contain 3 times as much as tank B. Find the capacity of each tank.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/56488?exam_type=waec&type=theory&page=87",
+    "correct_answer": "(a). < SOT = 2\u00a0 < SOT = 2 x 68\u00b0 =136.\nObserve that < OSR = < OTR = 90\\(^o\\)\nSo that < OSR + x + < OTR + < SOT = 360\\(^o\\). Next is to substitute and simplified to get x + 316\\(o\\) = 360\\(o\\) so that x = 44\\(o\\)\n(b) If we let capacity of tank A = a and capacity of tank B = b, then\na = 600 + b......(1)\na - 100 = 3(b - 100)\na = 3b - 200........(2)\nSubstituting (2) into (1) yielded 3b - 200 = 600 + b and solving for b, b = 400.\nTherefore. Capacity of tank B = 400litres\nSubstituting b in (1) yielded A = 600 + 400 = 1000\nCapacity of A =1000.",
+    "explanation": "(a). < SOT = 2\u00a0 < SOT = 2 x 68\u00b0 =136.\nObserve that < OSR = < OTR = 90\\(^o\\)\nSo that < OSR + x + < OTR + < SOT = 360\\(^o\\). Next is to substitute and simplified to get x + 316\\(o\\) = 360\\(o\\) so that x = 44\\(o\\)\n(b) If we let capacity of tank A = a and capacity of tank B = b, then\na = 600 + b......(1)\na - 100 = 3(b - 100)\na = 3b - 200........(2)\nSubstituting (2) into (1) yielded 3b - 200 = 600 + b and solving for b, b = 400.\nTherefore. Capacity of tank B = 400litres\nSubstituting b in (1) yielded A = 600 + 400 = 1000\nCapacity of A =1000.",
+    "year": "2019"
+  },
+  {
+    "number": "432",
+    "text": "(a) Find the equation of the line which passes through the points A(-2, 7) and B(2, -3)\n(b) Given that \\(\\frac{5b - a}{8b + 3a} = \\frac{1}{5}\\) = find, correct to two decimal places, the value \\(\\frac{a}{b}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/57871?exam_type=waec&type=theory&page=87",
+    "correct_answer": "(a) A(-2, 7), B(2, -3)\nm = \\(\\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-3 - 7}{2 - (-2)} = \\frac{10}{4}\\)\n\\(\\frac{-5}{2} = \\frac{y - 7}{x + 2}\\)\n-5(x + 3) = 2(y - 7)\n-5x - 10 = 2y - 14\n2y - 14 + 10 + 5x = 0\n2y - 14 + 10 + 5x = 0\n2y + 5x - 4 = 0\n(b) \\(\\frac{5b - a}{8b + 3a} = \\frac{1}{5}\\)\n5(5b - a) = 1(1)(8b + 3a)\n25b - 5a = 8b + 3a\n25b - 8b = 3a + 5a\n17b = 8a\n\\(\\frac{a}{b} = \\frac{17}{8}\\)\n\\(\\frac{a}{b}\\) = 2.13 to 2 d.p",
+    "explanation": "(a) A(-2, 7), B(2, -3)\nm = \\(\\frac{y_2 - y_1}{x_2 - x_1} = \\frac{-3 - 7}{2 - (-2)} = \\frac{10}{4}\\)\n\\(\\frac{-5}{2} = \\frac{y - 7}{x + 2}\\)\n-5(x + 3) = 2(y - 7)\n-5x - 10 = 2y - 14\n2y - 14 + 10 + 5x = 0\n2y - 14 + 10 + 5x = 0\n2y + 5x - 4 = 0\n(b) \\(\\frac{5b - a}{8b + 3a} = \\frac{1}{5}\\)\n5(5b - a) = 1(1)(8b + 3a)\n25b - 5a = 8b + 3a\n25b - 8b = 3a + 5a\n17b = 8a\n\\(\\frac{a}{b} = \\frac{17}{8}\\)\n\\(\\frac{a}{b}\\) = 2.13 to 2 d.p",
+    "year": "2019"
+  },
+  {
+    "number": "433",
+    "text": "(a) Ali and Yusif\u00a0shared N420.000.00 in the ratio 3.,; 5 : 8 respectively. Find the sum of Ali\u00a0and\u00a0Yusuf's shares\n(b) Solve:\u00a02(\\(\\frac{1}{8}\\))\\(^x\\) = 32\\(^{x - 1}\\).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/57950?exam_type=waec&type=theory&page=87",
+    "correct_answer": "Total ratio = 3 + 5 + 8 = 26\nAli's share is \\(\\frac{3}{16}\\) x N420,000\n= N78,000\nYusuf's\u00a0share\u00a0is \\(\\frac{8}{16}\\) x N420,000\n= N210,000\nSum of Ali's share + Yusuf's share\n= N78,750 + N210,000\n= N288,750\n(b) 2(\\(\\frac{1}{8}\\))\\(^2\\) = 32\\(^{x - 1}\\)\n2\\(^{1}\\) x 2\\(^{3x}\\) = 2\\(^{5x - 5}\\)\n2\\(^{1 - 3x}\\) = 2\\(^{5x - 5}\\)\n1 - 3x = 5x - 5\n-3x - 5x = -5 -1\n-8x = -6\nx = \\(\\frac{-6}{-8}\\)\n= \\(\\frac{3}{4}\\)",
+    "explanation": "Total ratio = 3 + 5 + 8 = 26\nAli's share is \\(\\frac{3}{16}\\) x N420,000\n= N78,000\nYusuf's\u00a0share\u00a0is \\(\\frac{8}{16}\\) x N420,000\n= N210,000\nSum of Ali's share + Yusuf's share\n= N78,750 + N210,000\n= N288,750\n(b) 2(\\(\\frac{1}{8}\\))\\(^2\\) = 32\\(^{x - 1}\\)\n2\\(^{1}\\) x 2\\(^{3x}\\) = 2\\(^{5x - 5}\\)\n2\\(^{1 - 3x}\\) = 2\\(^{5x - 5}\\)\n1 - 3x = 5x - 5\n-3x - 5x = -5 -1\n-8x = -6\nx = \\(\\frac{-6}{-8}\\)\n= \\(\\frac{3}{4}\\)",
+    "year": "2019"
+  },
+  {
+    "number": "434",
+    "text": "In the diagram, PQRS is a quadrilateral, < PQR = < PRS = 90\\(^o\\), |PQ| =3cm, |QR| = 4cm and |PS| = 13 cm. Find the area of the quadrilateral.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58025?exam_type=waec&type=theory&page=87",
+    "correct_answer": "In \\(\\triangle\\)PQR\n|PR|\\(^2\\) = |PQ|\\(^2\\)\u00a0 + |QR|\\(^2\\)\n= 3\\(^2\\)\u00a0 + 4\\(^2\\)\n|PR|\\(^2\\)\u00a0 = 9 + 16\n|PR| = \\(\\sqrt{25}\\) = 5cm\nIn \\(\\triangle\\)PRS\n|PS|\\(^2\\)\u00a0 = |PR|\\(^2\\)\u00a0 + |RS|\\(^2\\)\n13\\(^2\\)\u00a0 = 5\\(^2\\)\u00a0 + |RS|\\(^2\\)\n169 =25 + |RS|\\(^2\\)\n|RS|\\(^2\\)\u00a0 = 169 - 25\n= 144\n|RS| = \\(\\sqrt{144}\\) = 12cm\nArea of quadrilateral PQRS = Area of \\(\\triangle\\)PQR\u00a0+ Area of \\(\\triangle\\)PQR + Area of \\(\\triangle\\)PRS\n= (\\(\\frac{1}{2} \\times 3 \\times 4\\)) + (\\(\\frac{1}{2} \\times 12 \\times 5\\))\n= 6cm\\(^2\\) + 30cm\\(^2\\)\n= 36cm\\(^2\\)",
+    "explanation": "In \\(\\triangle\\)PQR\n|PR|\\(^2\\) = |PQ|\\(^2\\)\u00a0 + |QR|\\(^2\\)\n= 3\\(^2\\)\u00a0 + 4\\(^2\\)\n|PR|\\(^2\\)\u00a0 = 9 + 16\n|PR| = \\(\\sqrt{25}\\) = 5cm\nIn \\(\\triangle\\)PRS\n|PS|\\(^2\\)\u00a0 = |PR|\\(^2\\)\u00a0 + |RS|\\(^2\\)\n13\\(^2\\)\u00a0 = 5\\(^2\\)\u00a0 + |RS|\\(^2\\)\n169 =25 + |RS|\\(^2\\)\n|RS|\\(^2\\)\u00a0 = 169 - 25\n= 144\n|RS| = \\(\\sqrt{144}\\) = 12cm\nArea of quadrilateral PQRS = Area of \\(\\triangle\\)PQR\u00a0+ Area of \\(\\triangle\\)PQR + Area of \\(\\triangle\\)PRS\n= (\\(\\frac{1}{2} \\times 3 \\times 4\\)) + (\\(\\frac{1}{2} \\times 12 \\times 5\\))\n= 6cm\\(^2\\) + 30cm\\(^2\\)\n= 36cm\\(^2\\)",
+    "year": "2019"
+  },
+  {
+    "number": "435",
+    "text": "Three red balls, five green balls, and a number of blue balls are put together in a sack. One ball is picked at\u00a0random from the sack. If the probability of picking a red ball is \\(\\frac{1}{6}\\) find;\n(a) The number of blue balls in the sack\u00a0\n(b) the probability of picking a green ball",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58027?exam_type=waec&type=theory&page=87",
+    "correct_answer": "(a) Let number of blue\u00a0balls = n\nTotal number of balls = 3 + 5 + n\n= 8 + n\np(red ball) = \\(\\frac{\\text{no. of red balls}}{\\text{Total no. of balls}}\\)\n\\(\\frac{1}{6} = \\frac{3}{8 + n}\\)\n8 + n = 18\nn + 18 - 8 = 10\nnumber of blue balls = 10\n(b) P(green ball) = \\(\\frac{\\text{No. of green balls}}{\\text{Total no. of balls}}\\)\n= \\(\\frac{5}{3 + 5 + 10}\\)\n= \\(\\frac{5}{18}\\)\n= 0.2778",
+    "explanation": "(a) Let number of blue\u00a0balls = n\nTotal number of balls = 3 + 5 + n\n= 8 + n\np(red ball) = \\(\\frac{\\text{no. of red balls}}{\\text{Total no. of balls}}\\)\n\\(\\frac{1}{6} = \\frac{3}{8 + n}\\)\n8 + n = 18\nn + 18 - 8 = 10\nnumber of blue balls = 10\n(b) P(green ball) = \\(\\frac{\\text{No. of green balls}}{\\text{Total no. of balls}}\\)\n= \\(\\frac{5}{3 + 5 + 10}\\)\n= \\(\\frac{5}{18}\\)\n= 0.2778",
+    "year": "2019"
+  },
+  {
+    "number": "436",
+    "text": "The force of attraction F, between two bodies, varies directly as the product of their masses, \\(m_1\\) and m\\(_2\\) and inversely as the square of the distance, d, between them. Given that F = 20N, when m\\(_1\\) = 25kg, m\\(_2\\) = 10kg and d = 5m, find:\n(I) an expression for F in terms of m\\(_1\\), m\\(_2\\) and d;\n(ii) the distance, d for F = 30N, m\\(_1\\) = 7.5kg and m\\(_2\\) = 4kg\n\u00a0\n(b) Find the value of x in the diagram",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58032?exam_type=waec&type=theory&page=88",
+    "correct_answer": "F \\(\\infty\\) \\(\\frac{m_1m_ 2}{d^2}\\)\nF = \\(\\frac{km_1m_2}{d^2}\\)\n20 = \\(\\frac{k(25)(10)}{(25)}\\)\n\\(\\frac{10k}{10} = \\frac{20}{10}\\)\nk = 2\n(i) F = \\(\\frac{2m_1m_2}{d_2}\\)\n(ii) Since F = \\(\\frac{2m_1m_2}{d_2}\\)\n30 = \\(\\frac{2(7.5)(4)}{d^2}\\)\n30 \\(\\frac{60}{d^2}\\)\nd\\(^2\\) = \\(\\frac{60}{30}\\)\nd\\(^2\\) = 2\nd = \\(\\sqrt{2}\\)m\n(b) Sum of angles = (n - 2) 180\n= (5 - 2) 180\n= 540\\(^o\\)\nx + x + 20 + x + 60 + x + 40 + x + 80 = 540\n5x + 200 = 540\n5x = 540 - 200\n\\(\\frac{5x}{5} = \\frac{340}{5}\\)\nx = 68\\(^o\\)",
+    "explanation": "F \\(\\infty\\) \\(\\frac{m_1m_ 2}{d^2}\\)\nF = \\(\\frac{km_1m_2}{d^2}\\)\n20 = \\(\\frac{k(25)(10)}{(25)}\\)\n\\(\\frac{10k}{10} = \\frac{20}{10}\\)\nk = 2\n(i) F = \\(\\frac{2m_1m_2}{d_2}\\)\n(ii) Since F = \\(\\frac{2m_1m_2}{d_2}\\)\n30 = \\(\\frac{2(7.5)(4)}{d^2}\\)\n30 \\(\\frac{60}{d^2}\\)\nd\\(^2\\) = \\(\\frac{60}{30}\\)\nd\\(^2\\) = 2\nd = \\(\\sqrt{2}\\)m\n(b) Sum of angles = (n - 2) 180\n= (5 - 2) 180\n= 540\\(^o\\)\nx + x + 20 + x + 60 + x + 40 + x + 80 = 540\n5x + 200 = 540\n5x = 540 - 200\n\\(\\frac{5x}{5} = \\frac{340}{5}\\)\nx = 68\\(^o\\)",
+    "year": "2019"
+  },
+  {
+    "number": "437",
+    "text": "The data shows the marks obtained by students in a biology test\n\n\n\n52\n56\n25\n56\n68\n73\n66\n64\n56\n48\n\n\n20\n39\n9\n50\n46\n54\n54\n40\n50\n96\n\n\n36\n44\n18\n97\n65\n21\n60\n44\n54\n32\n\n\n92\n49\n37\n94\n72\n88\n89\n35\n59\n34\n\n\n15\n88\n53\n16\n84\n52\n72\n46\n60\n42\n\n\n\n(a) Construct a frequency distribution table\u00a0 using the class interval 0 - 9, 10 - 19, 19, 20, 29...\u00a0\n(b) Draw a cumulative frequency curve for the distribution\u00a0\n(c) Use the graph to estimate the;\n(i) median\n(ii) Percentage of students who scored at least 66 marks, correct to the nearest whole number.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58053?exam_type=waec&type=theory&page=88",
+    "correct_answer": "ClassIntervalsClassBoundariesFrequencyCumulativeFrequency0 - 90.5 - 9.51110 - 199.5 - 19.53420 - 2919.5 - 29.53730 - 3929.5 - 39.561340 - 492139.5 - 49.582150 - 5949.5 - 59.5123360 - 6959.5 - 69.563970 - 7969.5 -\u00a0 79.534280 - 8979.5 - 89.544690 - 9989.5 - 99.5450\\(\\sum f = 50\\)\n(b)\n(c) (I) Mean mark = 49.9\n(ii) Percentage of at least 66 mark = \\(\\frac{13}{50} \\times 100\\)%\n= 26%",
+    "explanation": "ClassIntervalsClassBoundariesFrequencyCumulativeFrequency0 - 90.5 - 9.51110 - 199.5 - 19.53420 - 2919.5 - 29.53730 - 3929.5 - 39.561340 - 492139.5 - 49.582150 - 5949.5 - 59.5123360 - 6959.5 - 69.563970 - 7969.5 -\u00a0 79.534280 - 8979.5 - 89.544690 - 9989.5 - 99.5450\\(\\sum f = 50\\)\n(b)\n(c) (I) Mean mark = 49.9\n(ii) Percentage of at least 66 mark = \\(\\frac{13}{50} \\times 100\\)%\n= 26%",
+    "year": "2019"
+  },
+  {
+    "number": "438",
+    "text": "(a) Solve the inequality \\(\\frac{1}{3}x - \\frac{1}{4} (x + 2) \\geq 3x - 1\\frac{1}{3}\\)\n\u00a0\n(b)\n\nIn the diagram, ABC is right-angled triangle on a horizontal ground. |AD| is a vertical tower. < BAC = 90\\(^o\\), < ACB = 35\\(^o\\), < ABD = 52\\(^o\\) and |BC| = 66cm.\nFind, correct to two decimal places:\n(I) the height of the tower\u00a0\n(ii) the angle of elevation of the top of the tower from C",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58067?exam_type=waec&type=theory&page=88",
+    "correct_answer": "\\(\\frac{1}{3}x - \\frac{1}{4}(x + 2) \\geq 3x -1\\frac{1}{3}\\)\n\\(\\frac{1}{3}x - \\frac{(x + 2)}{12} \\geq 3x - \\frac{4}{3}\\)\n\\(\\frac{4x - 3x - 6}{12} \\geq 3x - \\frac{4}{3}\\)\n\\(\\frac{x - 6}{12} \\geq \\frac{3x}{1} - \\frac{4}{3}\\)\n\\(\\frac{x - 6}{12} \\geq \\frac{9x - 4}{3}\\)\n3(x - 6) \\(\\geq\\) 12(9x - 4)\n3x - 18 \\(\\geq\\) 108x - 48\n3x - 108x \\(\\geq\\) -48 + 18\n\\(\\frac{-105x}{-105}\u00a0\\geq \\frac{-30}{-105}\\)\nx \\(\\geq \\frac{10}{35}\\)\nx \\(\\geq\\) \\(\\frac{2}{7}\\)\n(b)(i)\nC\\(B\\)A = 108\\(^o\\) - (90\\(^o\\) + 35\\(^o\\))\n= 180\\(^o\\) - 125\\(^o\\) = 55\\(^o\\)\nsin35\\(^o\\) = \\(\\frac{|AB|}{66}\\)\n|AB| = 66 x sin30\\(^o\\)\n|AB| = 37.856m\ncos 35\\(^o\\) = \\(\\frac{|AC|}{66}\\)\n|AC| = 66 x cos35\\(^o\\)\n|AC| = 55.06m\nTan52\\(^o\\) = \\(\\frac{|AD|}{37.856}\\)\n|AD| = 37.856 x Tan52\\(^o\\)\n= 48.45m the height of the tower to 2d.p\n(ii) Tan A\\(C\\)D = \\(\\frac{48.453}{54.06}\\)\n=0.8962\nA\\(C\\)D = tan\\(^{-1}\\)0.8962\n= 41.867\\(^o\\)\nAngle of elevation of the tower from\nC = 35\\(^o\\) + 41.867\\(^o\\)\n= 76.87\\(^o\\) to 2d.p",
+    "explanation": "\\(\\frac{1}{3}x - \\frac{1}{4}(x + 2) \\geq 3x -1\\frac{1}{3}\\)\n\\(\\frac{1}{3}x - \\frac{(x + 2)}{12} \\geq 3x - \\frac{4}{3}\\)\n\\(\\frac{4x - 3x - 6}{12} \\geq 3x - \\frac{4}{3}\\)\n\\(\\frac{x - 6}{12} \\geq \\frac{3x}{1} - \\frac{4}{3}\\)\n\\(\\frac{x - 6}{12} \\geq \\frac{9x - 4}{3}\\)\n3(x - 6) \\(\\geq\\) 12(9x - 4)\n3x - 18 \\(\\geq\\) 108x - 48\n3x - 108x \\(\\geq\\) -48 + 18\n\\(\\frac{-105x}{-105}\u00a0\\geq \\frac{-30}{-105}\\)\nx \\(\\geq \\frac{10}{35}\\)\nx \\(\\geq\\) \\(\\frac{2}{7}\\)\n(b)(i)\nC\\(B\\)A = 108\\(^o\\) - (90\\(^o\\) + 35\\(^o\\))\n= 180\\(^o\\) - 125\\(^o\\) = 55\\(^o\\)\nsin35\\(^o\\) = \\(\\frac{|AB|}{66}\\)\n|AB| = 66 x sin30\\(^o\\)\n|AB| = 37.856m\ncos 35\\(^o\\) = \\(\\frac{|AC|}{66}\\)\n|AC| = 66 x cos35\\(^o\\)\n|AC| = 55.06m\nTan52\\(^o\\) = \\(\\frac{|AD|}{37.856}\\)\n|AD| = 37.856 x Tan52\\(^o\\)\n= 48.45m the height of the tower to 2d.p\n(ii) Tan A\\(C\\)D = \\(\\frac{48.453}{54.06}\\)\n=0.8962\nA\\(C\\)D = tan\\(^{-1}\\)0.8962\n= 41.867\\(^o\\)\nAngle of elevation of the tower from\nC = 35\\(^o\\) + 41.867\\(^o\\)\n= 76.87\\(^o\\) to 2d.p",
+    "year": "2019"
+  },
+  {
+    "number": "439",
+    "text": "(a) Copy and complete the table of values for y = 2 cos x + 3 sin x for 0\\(^o\\) \\(\\geq\\) x\u00a0 \\(\\geq\\) 360\\(^o\\)\u00a0\n\n\n\nx\n0\\(^o\\)\n60\\(^0\\)\n120\\(^o\\)\n180\\(^o\\)\n240\\(^o\\)\n300\\(^o\\)\n360\\(^o\\)\n\n\ny\n2.0\n\u00a0\n\u00a0\n\u00a0\n- 3.6\n\u00a0\n\u00a0\n\n\n\n\u00a0\n(b) Using a scale of 2cm to 60\\(^o\\) on the x-axis and 2cm to 1 unit in the y-axis, draw the graph of y = 2 cos x + 3 sin x for 0\\(^o\\) \\(\\geq\\) 360\\(^o\\)\u00a0\n\u00a0\n(c) Using the graph,\u00a0\n(i) Solve 2 cos x + 3 sin x = -1\n(ii) Find, correct to one decimal place, the value of y when x = 342\\(^o\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58147?exam_type=waec&type=theory&page=88",
+    "correct_answer": "(a) When x = 60\\(^o\\)\ny = 2cos 60\\(^o\\) + 3sin 60\\(^o\\)\ny = 3.6\nWhen x = 120\\(^o\\)\ny = 2 cos 120\\(^o\\) + 3 sin 180\\(^o\\)\ny = 1.6\nWhen x = 180\\(^o\\)\ny = 2 cos 180\\(^o\\) + 3 sin 180\\(^o\\)\ny = 2\nWhen x = 300\\(^o\\)\ny = 2 cos 300\\(^o\\) + 3 sin 300\\(^o\\)\ny = 1.6\nwhen x = 360\\(^o\\)\ny = 2 cos 360\\(^o\\) + 3 sin 360\\(^o\\)\ny = 2\n(b)\n(c)(i) 1555.5\\(^o\\), 318\\(^o\\)\n(ii) When x = 3.42\\(^o\\), y = 0.9\\(^o\\)",
+    "explanation": "(a) When x = 60\\(^o\\)\ny = 2cos 60\\(^o\\) + 3sin 60\\(^o\\)\ny = 3.6\nWhen x = 120\\(^o\\)\ny = 2 cos 120\\(^o\\) + 3 sin 180\\(^o\\)\ny = 1.6\nWhen x = 180\\(^o\\)\ny = 2 cos 180\\(^o\\) + 3 sin 180\\(^o\\)\ny = 2\nWhen x = 300\\(^o\\)\ny = 2 cos 300\\(^o\\) + 3 sin 300\\(^o\\)\ny = 1.6\nwhen x = 360\\(^o\\)\ny = 2 cos 360\\(^o\\) + 3 sin 360\\(^o\\)\ny = 2\n(b)\n(c)(i) 1555.5\\(^o\\), 318\\(^o\\)\n(ii) When x = 3.42\\(^o\\), y = 0.9\\(^o\\)",
+    "year": "2019"
+  },
+  {
+    "number": "440",
+    "text": "A woman bought 130 kg of tomatoes for 52,000.00. She sold half of the tomatoes at a profit of 30%. The rest of the tomatoes began to go bad, she then reduced the selling price per kg by 12%. Calculate:\n(a) the new selling price per kg;\n(ii) the percentage profit on the entire sales if she threw away 5 kg of bad tomatoes.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58164?exam_type=waec&type=theory&page=88",
+    "correct_answer": "(a) Weight of full tomatoes\u00a0= 130kg\nWeight of half tomatoes = \\(\\frac{130}{2}\\) = 65kg\nCost price of half tomatoes = \\(\\frac{N52,000}{2}\\)\n= N26,000\nProfit = \\(\\frac{S.P - C.P}{C.P}\\) x 100\n30 = \\(\\frac{(S.P - 26,000)}{25,000}\\) x 100\nS.P = N7800 + N26,000\nS.P = N7,800 + N26,000\nS.P of half tomatoes = N33,800\nSelling price per kg = \\(\\frac{33,800}{65}\\)\n= N520 per\u00a0 kg\nReduction in selling price = 12%\n= \\(\\frac{12}{100}\\) x 520 = N62.40k per kg\nNew selling price per kg\n= N520 - N62.40k\n= N457.60k\n(b) 5kg is thrown\u00a0away remaining 60kg\nThe selling price of entire 60kg\n= 60 x N457.60k = N27,456\nThe entire selling price\nN33,800 + N27,456\n= N61,256\n% profit = \\(\\frac{(61.256 - 50,000)}{52,000}\\) x 100\n= 17.8%",
+    "explanation": "(a) Weight of full tomatoes\u00a0= 130kg\nWeight of half tomatoes = \\(\\frac{130}{2}\\) = 65kg\nCost price of half tomatoes = \\(\\frac{N52,000}{2}\\)\n= N26,000\nProfit = \\(\\frac{S.P - C.P}{C.P}\\) x 100\n30 = \\(\\frac{(S.P - 26,000)}{25,000}\\) x 100\nS.P = N7800 + N26,000\nS.P = N7,800 + N26,000\nS.P of half tomatoes = N33,800\nSelling price per kg = \\(\\frac{33,800}{65}\\)\n= N520 per\u00a0 kg\nReduction in selling price = 12%\n= \\(\\frac{12}{100}\\) x 520 = N62.40k per kg\nNew selling price per kg\n= N520 - N62.40k\n= N457.60k\n(b) 5kg is thrown\u00a0away remaining 60kg\nThe selling price of entire 60kg\n= 60 x N457.60k = N27,456\nThe entire selling price\nN33,800 + N27,456\n= N61,256\n% profit = \\(\\frac{(61.256 - 50,000)}{52,000}\\) x 100\n= 17.8%",
+    "year": "2019"
+  },
+  {
+    "number": "441",
+    "text": "(a) The third and sixth terms of a Geometric Progression (G.P) are and \\(\\frac{1}{4}\\) and \\(\\frac{1}{32}\\)\u00a0respectively.\nFind:\n(i) the first term and the common ratio;\n(ii) the seventh term.\n(b) Given that 2 and -3\u00a0are the roots of the equation ax\\(^2\\)\u00a0\u00b1 bx + c = 0, find the values of a, b and c.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58166?exam_type=waec&type=theory&page=89",
+    "correct_answer": "(a) (i) ar\\(^2\\) = \\(\\frac{1}{4}\\) ........(i)\nar\\(^5\\) = \\(\\frac{1}{32}\\) ........(ii)\n\\(\\frac{ar^5}{ar^2} = \\frac{1}{32} \\div \\frac{1}{4}\\)\nr\\(^3\u00a0= \\frac{1}{32} \\times \\frac{4}{1}\\)\nr\\(^3\u00a0= \\frac{1}{32} \\times \\frac{4}{1}\\)\nr\\(^3 = 2^{-3} = (\\frac{1}{2})^3\\)\nr = \\(\\frac{1}{2}\\)\nSince ar\\(^2\\) = \\(\\frac{1}{4}\\)\na(\\(\\frac{1}{2}\\))\\(^2\\) = \\(\\frac{1}{4}\\)\na = 1\nThe first term is 1 ad the common ratio is \\(\\frac{1}{2}\\)\n(ii) T\\(_7\\) = ar\\(^6\\) = 1 x (\\(\\frac{1}{2}\\))\\(^6\\)\nThe seventh term = \\(\\frac{1}{64}\\)\n(b) x = 2 and x = -3\na(2)\\(^2\\) + b(2) + c = 0\n4a + 2b + c = 0\n4a + 2b + c = 0.....(i)\na(-3)\\(^2\\) + b(-3) + c = 0\n9a - 3b + c = 0.......(ii)\nSolving eq.(i) and (ii)\n4a + 2b + c = 0\n-(9a - 3b + c) = 0\n-5a + 5b = 0\n(x - 2)(x + 3) = 0\nx\\(^2\\) + 3x - 2x - 6 = 0\nx\\(^2\\) + x - 6 = 0\na = 1, b = 1, c = -6",
+    "explanation": "(a) (i) ar\\(^2\\) = \\(\\frac{1}{4}\\) ........(i)\nar\\(^5\\) = \\(\\frac{1}{32}\\) ........(ii)\n\\(\\frac{ar^5}{ar^2} = \\frac{1}{32} \\div \\frac{1}{4}\\)\nr\\(^3\u00a0= \\frac{1}{32} \\times \\frac{4}{1}\\)\nr\\(^3\u00a0= \\frac{1}{32} \\times \\frac{4}{1}\\)\nr\\(^3 = 2^{-3} = (\\frac{1}{2})^3\\)\nr = \\(\\frac{1}{2}\\)\nSince ar\\(^2\\) = \\(\\frac{1}{4}\\)\na(\\(\\frac{1}{2}\\))\\(^2\\) = \\(\\frac{1}{4}\\)\na = 1\nThe first term is 1 ad the common ratio is \\(\\frac{1}{2}\\)\n(ii) T\\(_7\\) = ar\\(^6\\) = 1 x (\\(\\frac{1}{2}\\))\\(^6\\)\nThe seventh term = \\(\\frac{1}{64}\\)\n(b) x = 2 and x = -3\na(2)\\(^2\\) + b(2) + c = 0\n4a + 2b + c = 0\n4a + 2b + c = 0.....(i)\na(-3)\\(^2\\) + b(-3) + c = 0\n9a - 3b + c = 0.......(ii)\nSolving eq.(i) and (ii)\n4a + 2b + c = 0\n-(9a - 3b + c) = 0\n-5a + 5b = 0\n(x - 2)(x + 3) = 0\nx\\(^2\\) + 3x - 2x - 6 = 0\nx\\(^2\\) + x - 6 = 0\na = 1, b = 1, c = -6",
+    "year": "2019"
+  },
+  {
+    "number": "442",
+    "text": "(a) Given that sin y = \\(\\frac{8}{17}\\) find the value of \\(\\frac{tan y}{1 + 2 tan y}\\)\n(b) An amount of N300,000.00 was shared among Otobo, Ada and Adeola. Otobo received N60,000.00, Ada received \\(\\frac{5}{10}\\) of the remainder, while the rest went to Adeola. In what ratio was the money shared?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58167?exam_type=waec&type=theory&page=89",
+    "correct_answer": "x\\(^2\\) = 172\\(^2\\) - 8\\(^2\\)\nx\\(^2\\) = 289 - 64\nx\\(^2\\) = 225\nx = \\(\\sqrt{225}\\)\nx = 15\ntan y \\(\\frac{8}{15}\\)\n1 + 2 tan y = 1 + 2(\\(\\frac{8}{15}\\))\n= \\(\\frac{1}{1} + \\frac{6}{15}\\)\n= \\(\\frac{15 + 16}{15} = \\frac{31}{15}\\)\n\\(\\frac{\\tan y}{1 + 2 \\tan y}\\)\n= \\(\\frac{8}{15} \\div \\frac{31}{15}\\)\n= \\(\\frac{8}{15} \\times \\frac{15}{31} = \\frac{8}{31}\\)\n(b) Otobo shares = N60,000\nRemainder = N300,000 - N60,000\n= N240,000\nAda's share = \\(\\frac{5}{12}\\) x N240,0000\n= N100,000\nAdeola's share =;\n= 300,000 - N160,000 = N140,000\nRatio of the money is\nOtobo : Ada : Adeola\n60,000 : 100,000 : 140,000\n60 : 100 : 140\n6 : 10 : 14\n3 : 5 : 7",
+    "explanation": "x\\(^2\\) = 172\\(^2\\) - 8\\(^2\\)\nx\\(^2\\) = 289 - 64\nx\\(^2\\) = 225\nx = \\(\\sqrt{225}\\)\nx = 15\ntan y \\(\\frac{8}{15}\\)\n1 + 2 tan y = 1 + 2(\\(\\frac{8}{15}\\))\n= \\(\\frac{1}{1} + \\frac{6}{15}\\)\n= \\(\\frac{15 + 16}{15} = \\frac{31}{15}\\)\n\\(\\frac{\\tan y}{1 + 2 \\tan y}\\)\n= \\(\\frac{8}{15} \\div \\frac{31}{15}\\)\n= \\(\\frac{8}{15} \\times \\frac{15}{31} = \\frac{8}{31}\\)\n(b) Otobo shares = N60,000\nRemainder = N300,000 - N60,000\n= N240,000\nAda's share = \\(\\frac{5}{12}\\) x N240,0000\n= N100,000\nAdeola's share =;\n= 300,000 - N160,000 = N140,000\nRatio of the money is\nOtobo : Ada : Adeola\n60,000 : 100,000 : 140,000\n60 : 100 : 140\n6 : 10 : 14\n3 : 5 : 7",
+    "year": "2019"
+  },
+  {
+    "number": "443",
+    "text": "In the diagram, \\(\\overline{RT}\\) and \\(\\overline{RT}\\)\u00a0are tangent to the circle with centre\u00a0O. < TUS = 68 \u00b0, < SRT = x, and < UTO = y. Find the value of x.\u00a0\n\u00a0\n(b) Two tanks A and B am filled to capacity with diesel. Tank A holds 600 litres of diesel more than tank B. If 100 litres of diesel was pumped out of each tank, tank A would then contain 3 times as much diesel as tank B. Find the capacity of each tank.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/58175?exam_type=waec&type=theory&page=89",
+    "correct_answer": "T\\(O\\)S = 68\\(^o\\) x 2\n= 136\\(^o\\)\n(Angle at centre is twice angle at circumference)\nT\\(R\\) = 180\\(^o\\) - (90 + 68\\(^o\\))\n= 180\\(^o\\)\u00a0 - 158\\(^o\\)\n= 22\\(^o\\)\nx = 2 x T\\(R\\)O = 2 x 22\\(^o\\) = 44\\(^o\\)\n(b) Let the capacity of Tank B = x litres\nCapacity of Tank A = x + 600 litres\nIf 100 litres is pumoed out of each tank then,\n(x\u00a0+ 600) - 100 = 3(x - 100)\nx + 500 = 3x - 300\n500 + 300 = 3x - x\n\\(\\frac{800}{2} = \\frac{2x}{x}\\)\nx = 400 litres\nCapacity of Tank A = 400 + 600\n= 1,000 litres\nCapacity of Tank B = 400 litres",
+    "explanation": "T\\(O\\)S = 68\\(^o\\) x 2\n= 136\\(^o\\)\n(Angle at centre is twice angle at circumference)\nT\\(R\\) = 180\\(^o\\) - (90 + 68\\(^o\\))\n= 180\\(^o\\)\u00a0 - 158\\(^o\\)\n= 22\\(^o\\)\nx = 2 x T\\(R\\)O = 2 x 22\\(^o\\) = 44\\(^o\\)\n(b) Let the capacity of Tank B = x litres\nCapacity of Tank A = x + 600 litres\nIf 100 litres is pumoed out of each tank then,\n(x\u00a0+ 600) - 100 = 3(x - 100)\nx + 500 = 3x - 300\n500 + 300 = 3x - x\n\\(\\frac{800}{2} = \\frac{2x}{x}\\)\nx = 400 litres\nCapacity of Tank A = 400 + 600\n= 1,000 litres\nCapacity of Tank B = 400 litres",
+    "year": "2019"
+  }
+]

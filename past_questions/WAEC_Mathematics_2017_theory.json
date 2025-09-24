@@ -3,104 +3,117 @@
     "number": "14",
     "text": "(a) If \\((y - 1)\\log_{10}4 = y\\log_{10}16\\), without using Mathematics tables or calculator, find the value of y.\n(b) When I walk from my house at 4km/h, I will get to my office 30mins later than when I walk at 5km/h. Calculate the distance between my house and office.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52324?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) \\((y - 1)\\log_{10} 4 = y\\log_{10} 16\\)\n\\((y - 1)\\log_{10} 4 = y \\log_{10} 4^{2}\\)\n\\((y - 1)\\log_{10} 4 = 2y\\log_{10} 4\\)\nEquating both sides, we have\n\\(y - 1 = 2y \\implies -1 = 2y - y\\)\n\\(\\therefore y = -1\\)\n(b) Let the distance from my house to the office = c.\nAt 4km/h, the time taken to get to the office from the house = \\(\\frac{c}{4} hr\\)\nAt 5km/h, the time taken to get to the office from the house = \\(\\frac{c}{5} hr\\)\n\\(\\frac{c}{4} = \\frac{c}{5} + \\frac{30}{60}\\)\n\\(\\frac{c}{4} - \\frac{c}{5} = \\frac{1}{2}\\)\n\\(\\frac{c}{20} = \\frac{1}{2} \\implies c = 10km\\)",
+    "explanation": "(a) \\((y - 1)\\log_{10} 4 = y\\log_{10} 16\\)\n\\((y - 1)\\log_{10} 4 = y \\log_{10} 4^{2}\\)\n\\((y - 1)\\log_{10} 4 = 2y\\log_{10} 4\\)\nEquating both sides, we have\n\\(y - 1 = 2y \\implies -1 = 2y - y\\)\n\\(\\therefore y = -1\\)\n(b) Let the distance from my house to the office = c.\nAt 4km/h, the time taken to get to the office from the house = \\(\\frac{c}{4} hr\\)\nAt 5km/h, the time taken to get to the office from the house = \\(\\frac{c}{5} hr\\)\n\\(\\frac{c}{4} = \\frac{c}{5} + \\frac{30}{60}\\)\n\\(\\frac{c}{4} - \\frac{c}{5} = \\frac{1}{2}\\)\n\\(\\frac{c}{20} = \\frac{1}{2} \\implies c = 10km\\)",
     "year": "2017"
   },
   {
     "number": "15",
     "text": "(a) Solve the equation : \\(\\frac{2}{3}(3x - 5) - \\frac{3}{5}(2x - 3) = 3\\)\n(b)\u00a0\nIn the diagram, < STQ = m, < TUQ = 80\u00b0, < UPQ = r, < PQU = n and < RQT = 88\u00b0. Find the value of (m + n).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52326?exam_type=waec&type=theory&page=3",
+    "correct_answer": "(a) \\(\\frac{2}{3}(3x - 5) - \\frac{3}{5}(2x - 3) = 3\\)\n\\(\\frac{10(3x - 5) - 9(2x - 3)}{15} = 3\\)\n\\(30x - 50 - 18x + 27 = 3 \\times 15 = 45\\)\n\\(12x = 45 + 23 = 68\\)\n\\(x = \\frac{68}{12}\u00a0 = 5\\frac{2}{3}\\)\n(b) \\(n + r = 80\u00b0 .... (1)\\)\n\\(180\u00b0 - m + r = 88\u00b0 .... (2)\\)\nFrom (1), r = 80\u00b0 - n.\nPutting into (2), we have\n\\(180 - m + 80 - n = 88 \\implies\u00a0 - m - n = 88 - 260 = - 172\u00b0\\)\n\\(-(m + n) = - 172 \\implies m + n = 172\u00b0\\).",
+    "explanation": "(a) \\(\\frac{2}{3}(3x - 5) - \\frac{3}{5}(2x - 3) = 3\\)\n\\(\\frac{10(3x - 5) - 9(2x - 3)}{15} = 3\\)\n\\(30x - 50 - 18x + 27 = 3 \\times 15 = 45\\)\n\\(12x = 45 + 23 = 68\\)\n\\(x = \\frac{68}{12}\u00a0 = 5\\frac{2}{3}\\)\n(b) \\(n + r = 80\u00b0 .... (1)\\)\n\\(180\u00b0 - m + r = 88\u00b0 .... (2)\\)\nFrom (1), r = 80\u00b0 - n.\nPutting into (2), we have\n\\(180 - m + 80 - n = 88 \\implies\u00a0 - m - n = 88 - 260 = - 172\u00b0\\)\n\\(-(m + n) = - 172 \\implies m + n = 172\u00b0\\).",
     "year": "2017"
   },
   {
     "number": "16",
     "text": "(a) The angle of depression of a point P on the ground from the top T of a building is 23.6\u00b0. If the distance from P to the foot of the building is 50m, calculate, correct to the nearest metre, the height if the building.\n(b)\u00a0\nIn the diagram, \\(PT // SU, QS // TR, /SR/ = 6cm\\)\u00a0and \\(/RU/ = 10 cm\\). If the area of \\(\\Delta TRU = 45 cm^{2}\\), calculate the area of the trapezium QTUS.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52329?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a)\n\\(< P = 23.6\u00b0\\) (Alternate angle)\n\\(\\tan 23.6 = \\frac{x}{50}\\)\n\\(x = 50\\tan 23.6\\)\n= \\(50 \\times 0.4369\\)\n= \\(21.845 m \\approxeq 22 m\\) (to the nearest metre)\n(b) Given that \\(\\Delta TRU = 45cm^{2}\\)\n\\(\\implies \\frac{1}{2}(bh) = 45\\)\n\\(10h\u00a0= 45 \\times 2 = 90\\)\n\\(h\u00a0= 9cm\\)\nArea of trapezium = \\(\\frac{1}{2}(a + b)h\\), where \\(a = 6cm; b = 10 + 6 = 16cm; h = 9cm\\)\n= \\(\\frac{1}{2}(6 + 16) \\times 9\\)\n= \\(11 \\times 9\\)\n= \\(99 cm^{2}\\)",
+    "explanation": "(a)\n\\(< P = 23.6\u00b0\\) (Alternate angle)\n\\(\\tan 23.6 = \\frac{x}{50}\\)\n\\(x = 50\\tan 23.6\\)\n= \\(50 \\times 0.4369\\)\n= \\(21.845 m \\approxeq 22 m\\) (to the nearest metre)\n(b) Given that \\(\\Delta TRU = 45cm^{2}\\)\n\\(\\implies \\frac{1}{2}(bh) = 45\\)\n\\(10h\u00a0= 45 \\times 2 = 90\\)\n\\(h\u00a0= 9cm\\)\nArea of trapezium = \\(\\frac{1}{2}(a + b)h\\), where \\(a = 6cm; b = 10 + 6 = 16cm; h = 9cm\\)\n= \\(\\frac{1}{2}(6 + 16) \\times 9\\)\n= \\(11 \\times 9\\)\n= \\(99 cm^{2}\\)",
     "year": "2017"
   },
   {
     "number": "17",
     "text": "If the sixth term of an Arithmetic Progression (A.P) is 37 and the sum of the first six terms is 147, find the\u00a0\n(a) first term;\u00a0\n(b) sum of the first fifteen terms.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52333?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a) \\(T_{n} = a + (n - 1)d\\) (For an AP series)\n\\(T_{6} = 37 = a + (6 - 1) d = a + 5d\\)\n\\(a + 5d = 37 .... (1)\\)\n\\(S_{n} = \\frac{n}{2}(2a + (n - 1) d)\\)\nor\n\\(S_{n} = \\frac{n}{2}(a + l)\\) where a = first term; and l = last term.\nSince, we are given the sum of the first 6 terms and also given the sixth term which is the last term in the sum, we can use the second formula where the sixth term is the last term in this case.\n\\(S_{6} = 147 = \\frac{6}{2} (a + 37)\\)\n\\(147 = 3(a + 37) \\implies 147 = 3a + 111 \\)\n\\(3a = 147 - 111 = 36 \\implies a = 12\\)\n(b) From equation (1) above,\n\\(a + 5d = 37\\)\n\\(12 + 5d = 37\\)\n\\(5d = 37 - 12 = 25\\)\n\\(d = 5\\)\n\\(S_{15} = \\frac{15}{2} (2(12) + (15 - 1)(5))\\)\n\\(\\frac{15}{2} (24 + 70) = \\frac{15}{2} (94)\\)\n= \\(15 \\times 47\\)\n= \\(705\\).",
+    "explanation": "(a) \\(T_{n} = a + (n - 1)d\\) (For an AP series)\n\\(T_{6} = 37 = a + (6 - 1) d = a + 5d\\)\n\\(a + 5d = 37 .... (1)\\)\n\\(S_{n} = \\frac{n}{2}(2a + (n - 1) d)\\)\nor\n\\(S_{n} = \\frac{n}{2}(a + l)\\) where a = first term; and l = last term.\nSince, we are given the sum of the first 6 terms and also given the sixth term which is the last term in the sum, we can use the second formula where the sixth term is the last term in this case.\n\\(S_{6} = 147 = \\frac{6}{2} (a + 37)\\)\n\\(147 = 3(a + 37) \\implies 147 = 3a + 111 \\)\n\\(3a = 147 - 111 = 36 \\implies a = 12\\)\n(b) From equation (1) above,\n\\(a + 5d = 37\\)\n\\(12 + 5d = 37\\)\n\\(5d = 37 - 12 = 25\\)\n\\(d = 5\\)\n\\(S_{15} = \\frac{15}{2} (2(12) + (15 - 1)(5))\\)\n\\(\\frac{15}{2} (24 + 70) = \\frac{15}{2} (94)\\)\n= \\(15 \\times 47\\)\n= \\(705\\).",
     "year": "2017"
   },
   {
     "number": "18",
     "text": "Out of 120 customers in a shop, 45 bought both bags and shoes. If all the customers bought either bags or shoes and 11 more customers bought shoes than bags:\n(a) Illustrate the this information in a diagram;\n(b) find the number of customers who bought shoes;\n(c) calculate the probability that a customer selected at random bought bags.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52336?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a)\n(b) \\(x + 45 + x + 11 = 120 \\implies 2x + 56 = 120\\)\n\\(2x = 120 - 56 = 64\\)\n\\(x = 32\\)\nTherefore, the number of customers that bought bags = 32.\n(b) the number of customers that bought shoes = 11 + 32 + 45 = 88.\n(c) \\(P(\\text{a random customer bought bags}) = \\frac{\\text{no of customers that bought bags}}{\\text{total no of customers}}\\)\nNo of customers that bought bags = 32 + 45 = 77\n\\(P(\\text{customer bought bag}) = \\frac{77}{120}\\).",
+    "explanation": "(a)\n(b) \\(x + 45 + x + 11 = 120 \\implies 2x + 56 = 120\\)\n\\(2x = 120 - 56 = 64\\)\n\\(x = 32\\)\nTherefore, the number of customers that bought bags = 32.\n(b) the number of customers that bought shoes = 11 + 32 + 45 = 88.\n(c) \\(P(\\text{a random customer bought bags}) = \\frac{\\text{no of customers that bought bags}}{\\text{total no of customers}}\\)\nNo of customers that bought bags = 32 + 45 = 77\n\\(P(\\text{customer bought bag}) = \\frac{77}{120}\\).",
     "year": "2017"
   },
   {
     "number": "19",
     "text": "(a) A manufacturing company requires 3 hours of direct labour to process N87.00 worth of raw materials. If the company uses N30,450.00 worth of raw materials, what amount should it budget at N18.25 per hour?\n(b) An investor invested Nx in bank M at the rate of 6% simple interest per annum and Ny in bank N at the rate of 8% simple interest per annum. If a total of N8,000,000.00 was invested in the two banks and the investor received a total of N2,320,000.00 as interest from the two banks after 4 years, calculate the:\n(i) values of x and y\n(ii) interest paid by the second bank.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52338?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a) Worth of raw materials = N30,450.00\nWorth of raw material to get processed materials = N87.00\nAmount of raw material to get processed material = \\(\\frac{30,450}{87}\\)\nTime required for direct labour = 3 hours\nAmount that will be budgeted for direct labour at N18.25 per hour =\n\\(3 \\times 18.25 \\times \\frac{30,450}{87}\\)\n= \\(\\frac{1667137.5}{87}\\)\n= N19,162.50\n(b) Total amount invested \\(N(x + y) = N8,000,000 ....(1)\\)\nInterest from bank M = \\(\\frac{x \\times 4 \\times 6}{100} = 0.24x\\)\nInterest from bank N = \\(\\frac{y \\times 4\u00a0\\times 8}{100} = 0.32y\\)\n\\(0.24x + 0.32y = 2,320,000 .... (2)\\)\n(i) Multiplying (1) by 0.24 in order to eliminate x, we have\n\\(0.24(x + y) = 0.24(8,000,000.00)\\)\n\\(0.24x + 0.24y = 1,920,000.00 .... (3)\\)\n(2) - (3) : \\(0.32y - 0.24y = 2,320,000 - 1,920,000 = 400,000\\)\n\\(0.08y = 400,000 \\implies y = \\frac{400,000}{0.08} = N5,000,000\\)\n\\(x = 8,000,000 - y\\)\n= \\(8,000,000 - 5,000,000\\)\n= \\(N3,000,000\\)\nTherefore, x = N3,000,000 and y = N5,000,000.\n(ii) Interest paid by bank N = 0.32y\n= \\(0.32 \\times N5,000,000\\)\n= \\(N1,600,000\\)",
+    "explanation": "(a) Worth of raw materials = N30,450.00\nWorth of raw material to get processed materials = N87.00\nAmount of raw material to get processed material = \\(\\frac{30,450}{87}\\)\nTime required for direct labour = 3 hours\nAmount that will be budgeted for direct labour at N18.25 per hour =\n\\(3 \\times 18.25 \\times \\frac{30,450}{87}\\)\n= \\(\\frac{1667137.5}{87}\\)\n= N19,162.50\n(b) Total amount invested \\(N(x + y) = N8,000,000 ....(1)\\)\nInterest from bank M = \\(\\frac{x \\times 4 \\times 6}{100} = 0.24x\\)\nInterest from bank N = \\(\\frac{y \\times 4\u00a0\\times 8}{100} = 0.32y\\)\n\\(0.24x + 0.32y = 2,320,000 .... (2)\\)\n(i) Multiplying (1) by 0.24 in order to eliminate x, we have\n\\(0.24(x + y) = 0.24(8,000,000.00)\\)\n\\(0.24x + 0.24y = 1,920,000.00 .... (3)\\)\n(2) - (3) : \\(0.32y - 0.24y = 2,320,000 - 1,920,000 = 400,000\\)\n\\(0.08y = 400,000 \\implies y = \\frac{400,000}{0.08} = N5,000,000\\)\n\\(x = 8,000,000 - y\\)\n= \\(8,000,000 - 5,000,000\\)\n= \\(N3,000,000\\)\nTherefore, x = N3,000,000 and y = N5,000,000.\n(ii) Interest paid by bank N = 0.32y\n= \\(0.32 \\times N5,000,000\\)\n= \\(N1,600,000\\)",
     "year": "2017"
   },
   {
     "number": "20",
     "text": "(a) Copy and complete the table of values for the equation \\(y = 2x^{2} - 7x - 9\\) for \\(-3 \\leq x \\leq 6\\).\n\n\n\nx\n-3\n-2\n-1\n0\n1\n2\n3\n4\n5\n6\n\n\ny\n\u00a0\n13\n\u00a0\n-9\n-14\n\u00a0\n-12\n\u00a0\n6\n\u00a0\n\n\n\n(b) Using scales of 2cm to 1 unit on the x- axis and 2cm to 4 units on the y- axis, draw the graphs of \\(y = 2x^{2} - 7x - 9\\) for \\(-3 \\leq x \\leq 6\\).\n(c) Use the graph to estimate the :\n(i) roots of the equation \\(2x^{2} - 7x = 26\\);\n(ii) coordinates of the minimum point of y;\n(iii) range of values for which \\(2x^{2} - 7x < 9\\).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52341?exam_type=waec&type=theory&page=4",
+    "correct_answer": "(a)\nx-3-2-10123456y30130-9-14-15-12-5621\n(b)\n(c) (i) From the graph, the roots of the equation 2x\\(^2\\) - 7x = 26 can be obtained by drawing a line through y = 17 to meet the curve 2x\\(^2\\) - 7x - 9.\nThe roots of the equation 2x\\(^2\\) - 7x = 26 : -2.2 and 5.8.\n(ii) The coordinates of the minimum point of y : 1.8, -15.\n(iii) The range of values for which 2x\\(^{2}\\) - 7x < 9 : - 0.9 < x < 4.5.",
+    "explanation": "(a)\nx-3-2-10123456y30130-9-14-15-12-5621\n(b)\n(c) (i) From the graph, the roots of the equation 2x\\(^2\\) - 7x = 26 can be obtained by drawing a line through y = 17 to meet the curve 2x\\(^2\\) - 7x - 9.\nThe roots of the equation 2x\\(^2\\) - 7x = 26 : -2.2 and 5.8.\n(ii) The coordinates of the minimum point of y : 1.8, -15.\n(iii) The range of values for which 2x\\(^{2}\\) - 7x < 9 : - 0.9 < x < 4.5.",
     "year": "2017"
   },
   {
     "number": "21",
     "text": "Marks\n1\n2\n3\n4\n5\n\n\nNumber of students\nm + 2\nm - 1\n2m - 3\nm + 5\n3m - 4\n\n\n\nThe table shows the distribution of marks scored by some students in a test.\n(a) If the mean mark is \\(3\\frac{6}{23}\\), find the value of m.\n(b) Find the : (i) interquartile range\n(ii) probability of selecting a student who scored at least 4 marks in the test.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52355?exam_type=waec&type=theory&page=5",
+    "correct_answer": "Mark (x)12345TotalFrequency (f)m + 2m - 12m - 3m + 53m - 48m - 1fxm + 22m - 26m - 94m + 2015m - 2028m - 9\n(a) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n\\(\\frac{75}{23} = \\frac{28m - 9}{8m - 1}\\)\n\\(75(8m - 1) = 23(28m - 9) \\implies 600m - 75 = 644m - 207\\)\n\\(-75 + 207 = 644m - 600m\\)\n\\(132 = 44m \\implies m = 3\\)\n(b)(i) Interquartile range = Third quartile - First quartile\nFrequency = 8(3) - 1 = 24 - 1 = 23\n\\(Q_{3} = \\frac{3}{4} \\times 23 = 17.25th\\) position = 4\n\\(Q_{1} = \\frac{1}{4} \\times 23 = 5.75th\\) position = 2\nInterquartile range : 4 - 2 = 2\n(ii) P(at least 4 marks) = \\(\\frac{(m + 5 + 3m - 4)}{23} = \\frac{4m + 1}{23}\\)\n= \\(\\frac{4(3) + 1}{23} \\)\n= \\(\\frac{13}{23}\\)",
+    "explanation": "Mark (x)12345TotalFrequency (f)m + 2m - 12m - 3m + 53m - 48m - 1fxm + 22m - 26m - 94m + 2015m - 2028m - 9\n(a) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n\\(\\frac{75}{23} = \\frac{28m - 9}{8m - 1}\\)\n\\(75(8m - 1) = 23(28m - 9) \\implies 600m - 75 = 644m - 207\\)\n\\(-75 + 207 = 644m - 600m\\)\n\\(132 = 44m \\implies m = 3\\)\n(b)(i) Interquartile range = Third quartile - First quartile\nFrequency = 8(3) - 1 = 24 - 1 = 23\n\\(Q_{3} = \\frac{3}{4} \\times 23 = 17.25th\\) position = 4\n\\(Q_{1} = \\frac{1}{4} \\times 23 = 5.75th\\) position = 2\nInterquartile range : 4 - 2 = 2\n(ii) P(at least 4 marks) = \\(\\frac{(m + 5 + 3m - 4)}{23} = \\frac{4m + 1}{23}\\)\n= \\(\\frac{4(3) + 1}{23} \\)\n= \\(\\frac{13}{23}\\)",
     "year": "2017"
   },
   {
     "number": "22",
     "text": "(a) PQ is a tangent to a circle RST at the point S. PRT is a straight line, < TPS = 34\u00b0 and < TSQ = 65\u00b0.\n(i) Illustrate the information in a diagram;\u00a0 (ii)\u00a0 find the value of : (a) < RTS ; (b) < SRP.\n(b)\u00a0\nIn the diagram, /VZ/ = /YZ/, < YXZ = 20\u00b0 and < ZVY = 52\u00b0. Calculate the size of < WYZ.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52358?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(ii) (a) < RTS = 65\u00b0 - 34\u00b0 (exterior angles of triangle PST)\n= 31\u00b0\n(ii) (b) < SRP = 65\u00b0 (angles in alternate segment are equal)\n\\(\\therefore < SRP = 180\u00b0 - 65\u00b0 = 115\u00b0\\).\n(b)\nIf < XYZ = 128\u00b0\nthen < XZY = 128\u00b0 + 20\u00b0 = 148\u00b0\n< XZV = 180\u00b0 - 148\u00b0 = 32\u00b0\n< YVZ = < VYZ = 52\u00b0 (Isoceles triangle)\n< WYZ = 52\u00b0 - 32\u00b0 = 20\u00b0",
+    "explanation": "(ii) (a) < RTS = 65\u00b0 - 34\u00b0 (exterior angles of triangle PST)\n= 31\u00b0\n(ii) (b) < SRP = 65\u00b0 (angles in alternate segment are equal)\n\\(\\therefore < SRP = 180\u00b0 - 65\u00b0 = 115\u00b0\\).\n(b)\nIf < XYZ = 128\u00b0\nthen < XZY = 128\u00b0 + 20\u00b0 = 148\u00b0\n< XZV = 180\u00b0 - 148\u00b0 = 32\u00b0\n< YVZ = < VYZ = 52\u00b0 (Isoceles triangle)\n< WYZ = 52\u00b0 - 32\u00b0 = 20\u00b0",
     "year": "2017"
   },
   {
     "number": "23",
     "text": "(a) Given that \\(\\sin x = \\frac{5}{13}, 0\u00b0 < x < 90\u00b0\\), find \\(\\frac{\\cos x - 2\\sin x}{2\\tan x}\\).\n(b) A ladder, LA, leans against a vertical pole at a point L which is 9.6metres above the groung. Another ladder, LB, 12 metres long, leans on the opposite side of the pole and at the same point L. If A and B are 10 metres apart and on the same straight line as the foot of the pole, calculate, correct to 2 significant figures, the :\n(i) length of ladder LA\u00a0 (ii) angle which LA makes with the ground.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52375?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a) \\(\\sin x = \\frac{5}{13}\\)\nUsing SOHCAHTOA, then Opp = 5 and Hyp = 13\n\\(13^{2} = 5^{2} + Adj^{2}\\)\n\\(169 = 25 + Adj^{2}\\)\n\\(Adj = \\sqrt{169 - 25} = \\sqrt{144} = 12\\)\n\\(\\cos x = \\frac{12}{13}\\)\n\\(\\tan x = \\frac{5}{12}\\)\n\\(\\frac{\\cos x - 2\\sin x}{2\\tan x} = \\frac{\\frac{12}{13} - 2(\\frac{5}{13})}{2(\\frac{5}{12})}\\)\n= \\(\\frac{\\frac{2}{13}}{\\frac{5}{6}}\\)\n= \\(\\frac{12}{65}\\)\n(b)\nTaking \\(\\Delta LPB\\),\nUsing Pythagoras theorem, \\(/BP/^{2} = /BL/^{2} - /LP/^{2}\\)\n\\(i.e. /BP/ = \\sqrt{12^{2} - 9.6^{2}}\\)\n= \\(\\sqrt{144 - 92.16} = \\sqrt{51.84} = 7.2m\\)\n\\(/PA/ = 10m - 7.2m = 2.8m\\)\n\\(/LA/^{2} = x^{2}\\)\n\\(x^{2} = /LP/^{2} + /PA/^{2}\\)\n\\(x^{2} = 9.6^{2} + 2.8^{2}\\)\n= \\(92.16 + 7.84\\)\n\\(x^{2} = 100 \\implies x = 10m\\)\n(ii) \\(\\tan \\theta_{y} = \\frac{9.6}{2.8} = 3.4286\\)\n\\(\\theta_{y} = \\tan^{-1} (3.4286) \\approxeq 74\u00b0\\)",
+    "explanation": "(a) \\(\\sin x = \\frac{5}{13}\\)\nUsing SOHCAHTOA, then Opp = 5 and Hyp = 13\n\\(13^{2} = 5^{2} + Adj^{2}\\)\n\\(169 = 25 + Adj^{2}\\)\n\\(Adj = \\sqrt{169 - 25} = \\sqrt{144} = 12\\)\n\\(\\cos x = \\frac{12}{13}\\)\n\\(\\tan x = \\frac{5}{12}\\)\n\\(\\frac{\\cos x - 2\\sin x}{2\\tan x} = \\frac{\\frac{12}{13} - 2(\\frac{5}{13})}{2(\\frac{5}{12})}\\)\n= \\(\\frac{\\frac{2}{13}}{\\frac{5}{6}}\\)\n= \\(\\frac{12}{65}\\)\n(b)\nTaking \\(\\Delta LPB\\),\nUsing Pythagoras theorem, \\(/BP/^{2} = /BL/^{2} - /LP/^{2}\\)\n\\(i.e. /BP/ = \\sqrt{12^{2} - 9.6^{2}}\\)\n= \\(\\sqrt{144 - 92.16} = \\sqrt{51.84} = 7.2m\\)\n\\(/PA/ = 10m - 7.2m = 2.8m\\)\n\\(/LA/^{2} = x^{2}\\)\n\\(x^{2} = /LP/^{2} + /PA/^{2}\\)\n\\(x^{2} = 9.6^{2} + 2.8^{2}\\)\n= \\(92.16 + 7.84\\)\n\\(x^{2} = 100 \\implies x = 10m\\)\n(ii) \\(\\tan \\theta_{y} = \\frac{9.6}{2.8} = 3.4286\\)\n\\(\\theta_{y} = \\tan^{-1} (3.4286) \\approxeq 74\u00b0\\)",
     "year": "2017"
   },
   {
     "number": "24",
     "text": "(a) It takes 8 students two- thirds of an hour to fill 12 tanks with water. How many tanks of water will 4 students fill in one- third of an hour at the same rate?\n(b) A chord, 20 cm long, is 12 cm from the centre of the circle. Calculate, correct to one decimal place, the :\n(i) angle subtended by the chord at the centre of the circle;\n(ii) perimeter of the minor segment cut off by the chord.\u00a0 [Take \\(\\pi = 3.142\\)].",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52385?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a) \\(Time = \\frac{2}{3} hour = \\frac{2}{3} \\times 60 = 40 mins\\)\n4 students will take \\(\\frac{8 \\times 40}{4} = 80 minutes\\)\n\\(Time = \\frac{1}{3} hour = \\frac{1}{3} \\times 60 = 20 minutes\\)\nIt will take 20 minutes to fill \\(\\frac{12 \\times 20}{80} = 3 tanks\\)\n(b)\n\\(\\tan (\\frac{\\theta}{2}) = \\frac{10}{12}\\)\n\\(\\frac{\\theta}{2} = \\tan^{-1} (0.8337) = 39.8\u00b0\\)\n\\(\\theta = 39.8\u00b0 \\times 2 = 79.6\u00b0\\)\n(ii) Perimeter of minor segment = Length of chord + length of arc\nBut \\(r^{2} = 12^{2} + 10^{2}\\)\n= \\(144 + 100 = 244\\)\n\\(r = \\sqrt{244} = 15.62 cm\\)\nLength of arc = \\(\\frac{79.6}{360} \\times 2 \\times 3.142 \\times 15.62 = 21.71cm\\)\nPerimeter of minor segment = 20 + 21.71 = 41.71cm",
+    "explanation": "(a) \\(Time = \\frac{2}{3} hour = \\frac{2}{3} \\times 60 = 40 mins\\)\n4 students will take \\(\\frac{8 \\times 40}{4} = 80 minutes\\)\n\\(Time = \\frac{1}{3} hour = \\frac{1}{3} \\times 60 = 20 minutes\\)\nIt will take 20 minutes to fill \\(\\frac{12 \\times 20}{80} = 3 tanks\\)\n(b)\n\\(\\tan (\\frac{\\theta}{2}) = \\frac{10}{12}\\)\n\\(\\frac{\\theta}{2} = \\tan^{-1} (0.8337) = 39.8\u00b0\\)\n\\(\\theta = 39.8\u00b0 \\times 2 = 79.6\u00b0\\)\n(ii) Perimeter of minor segment = Length of chord + length of arc\nBut \\(r^{2} = 12^{2} + 10^{2}\\)\n= \\(144 + 100 = 244\\)\n\\(r = \\sqrt{244} = 15.62 cm\\)\nLength of arc = \\(\\frac{79.6}{360} \\times 2 \\times 3.142 \\times 15.62 = 21.71cm\\)\nPerimeter of minor segment = 20 + 21.71 = 41.71cm",
     "year": "2017"
   },
   {
     "number": "25",
     "text": "(a) Using completing the square method, solve, correct to 2 decimal places, the equation \\(3y^{2} - 5y + 2 = 0\\).\n(b) Given that \\(M = \\begin{pmatrix} 1 & 2 \\\\ 4 & 3 \\end{pmatrix}, N = \\begin{pmatrix} m & x \\\\ n & y \\end{pmatrix}\\) and \\(MN = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}\\), find the matrix N.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52406?exam_type=waec&type=theory&page=5",
+    "correct_answer": "(a) \\(3y^{2} - 5y + 2 = 0\\)\n\\(\\frac{3y^{2}}{3} - \\frac{5y}{3} = \\frac{-2}{3}\\)\n\\(y^{2} - \\frac{5}{3}y = \\frac{-2}{3}\\)\n\\(\\frac{1}{2} of \\frac{-5}{3} = \\frac{-5}{6}\\)\n\\(y^{2} - \\frac{5}{3}y + (-\\frac{5}{6})^{2} = \\frac{-2}{3} + (\\frac{-5}{6})^{2}\\)\n\\((y\u00a0- (\\frac{5}{6}))^{2} = \\frac{1}{36}\\)\nTaking square root of both sides,\n\\(\\sqrt{(y - (\\frac{5}{6}))^{2}} = \\sqrt{\\frac{1}{36}}\\)\n\\(y - \\frac{5}{6} =\\pm {\\frac{1}{6}}\\)\n\\(y = \\frac{5}{6} \\pm \\frac{1}{6}\\)\n\\(y = \\frac{5}{6} + \\frac{1}{6} = 1.00\\) or \\(y = \\frac{5}{6} - \\frac{1}{6} = \\frac{2}{3} = 0.67\\).\n(b)\u00a0 \\(M = \\begin{pmatrix} 1 & 2 \\\\ 4 & 3 \\end{pmatrix}, N = \\begin{pmatrix} m & x \\\\ n & y \\end{pmatrix}\\)\n\\(MN = \\begin{pmatrix} m + 2n & x + 2y \\\\ 4m + 2n & 4x + 2y \\end{pmatrix} = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}\\)\n\\(m + 2n = 2 ... (1)\\)\n\\(4m + 2n = 3 ... (2)\\)\nMultiplying (1) by 4, we have\n\\(4m + 8n = 8 ... (3)\\)\n(3) - (1) : \\(8n - 2n = 8 - 2 = 6\\)\n\\(6n = 6 \\implies n = 1\\)\n\\(m + 2n = m + 2(1) = m + 2 = 2\\)\n\\(m = 2 - 2 = 0\\)\n\\(x + 2y = 1 ... (1)\\)\n\\(4x + y = 4 ... (2)\\)\nMultiply (1) by 4,\n\\(4x + 8y = 4 ... (3)\\)\n(3) - (2) : \\(8y - y = 4 - 4 = 0\\)\n\\(\\implies y = 0\\)\n\\(x + 2y = x + 2(0) = x + 0 = 1\\)\n\\(x = 1 - 0 = 1\\)\n\\(\\therefore N = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\).",
+    "explanation": "(a) \\(3y^{2} - 5y + 2 = 0\\)\n\\(\\frac{3y^{2}}{3} - \\frac{5y}{3} = \\frac{-2}{3}\\)\n\\(y^{2} - \\frac{5}{3}y = \\frac{-2}{3}\\)\n\\(\\frac{1}{2} of \\frac{-5}{3} = \\frac{-5}{6}\\)\n\\(y^{2} - \\frac{5}{3}y + (-\\frac{5}{6})^{2} = \\frac{-2}{3} + (\\frac{-5}{6})^{2}\\)\n\\((y\u00a0- (\\frac{5}{6}))^{2} = \\frac{1}{36}\\)\nTaking square root of both sides,\n\\(\\sqrt{(y - (\\frac{5}{6}))^{2}} = \\sqrt{\\frac{1}{36}}\\)\n\\(y - \\frac{5}{6} =\\pm {\\frac{1}{6}}\\)\n\\(y = \\frac{5}{6} \\pm \\frac{1}{6}\\)\n\\(y = \\frac{5}{6} + \\frac{1}{6} = 1.00\\) or \\(y = \\frac{5}{6} - \\frac{1}{6} = \\frac{2}{3} = 0.67\\).\n(b)\u00a0 \\(M = \\begin{pmatrix} 1 & 2 \\\\ 4 & 3 \\end{pmatrix}, N = \\begin{pmatrix} m & x \\\\ n & y \\end{pmatrix}\\)\n\\(MN = \\begin{pmatrix} m + 2n & x + 2y \\\\ 4m + 2n & 4x + 2y \\end{pmatrix} = \\begin{pmatrix} 2 & 1 \\\\ 3 & 4 \\end{pmatrix}\\)\n\\(m + 2n = 2 ... (1)\\)\n\\(4m + 2n = 3 ... (2)\\)\nMultiplying (1) by 4, we have\n\\(4m + 8n = 8 ... (3)\\)\n(3) - (1) : \\(8n - 2n = 8 - 2 = 6\\)\n\\(6n = 6 \\implies n = 1\\)\n\\(m + 2n = m + 2(1) = m + 2 = 2\\)\n\\(m = 2 - 2 = 0\\)\n\\(x + 2y = 1 ... (1)\\)\n\\(4x + y = 4 ... (2)\\)\nMultiply (1) by 4,\n\\(4x + 8y = 4 ... (3)\\)\n(3) - (2) : \\(8y - y = 4 - 4 = 0\\)\n\\(\\implies y = 0\\)\n\\(x + 2y = x + 2(0) = x + 0 = 1\\)\n\\(x = 1 - 0 = 1\\)\n\\(\\therefore N = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\).",
     "year": "2017"
   },
   {
     "number": "26",
     "text": "(a) The operation (*) is defined on the set of real numbers, R, by \\(x * y = \\frac{x + y}{2}, x, y \\in R\\).\n(i) Evaluate \\(3 * \\frac{2}{5}\\).\n(ii) If \\(8 * y = 8\\frac{1}{4}\\), find the value of y.\n(b) In \\(\\Delta ABC, \\overline{AB} = \\begin{pmatrix} -4 \\\\ 6 \\end{pmatrix}\\) and \\(\\overline{AC} = \\begin{pmatrix} 3 \\\\ -8 \\end{pmatrix}\\). If P is the midpoint of \\(\\overline{AB}\\), express \\(\\overline{CP}\\) as a column vector.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52423?exam_type=waec&type=theory&page=6",
+    "correct_answer": "(a) (i) \\(3 * \\frac{2}{5} = \\frac{3 + \\frac{2}{5}}{2}\\)\n= \\(\\frac{\\frac{17}{5}}{2}\\)\n= \\(\\frac{17}{10}\\)\n(ii) \\(8 * y = 8\\frac{1}{4}\\)\n\\(\\frac{8 + y}{2} = \\frac{33}{4}\\)\n\\(66 = 32 + 4y \\implies 4y = 66 - 32 = 34\\)\n\\(y = \\frac{34}{4} = 8.5\\)\n(b) \\(\\overrightarrow{AP}\u00a0 = \\frac{1}{2}(\\overrightarrow{AB})\\)\n= \\(\\frac{1}{2} \\begin{pmatrix} -4 \\\\ 6 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}\\)\nMidpoint = \\(\\overrightarrow{AP} + \\overrightarrow{PC} = \\overrightarrow{AC}\\)\n\\(\\overrightarrow{PC} = \\overrightarrow{AC} - \\overrightarrow{AP}\\)\n= \\(\\begin{pmatrix} 3 \\\\ -8 \\end{pmatrix} - \\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 5 \\\\ -11 \\end{pmatrix}\\)\n\\(\\overrightarrow{CP} = -1 \\times \\begin{pmatrix} 5 \\\\ -11 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -5 \\\\ 11 \\end{pmatrix}\\)",
+    "explanation": "(a) (i) \\(3 * \\frac{2}{5} = \\frac{3 + \\frac{2}{5}}{2}\\)\n= \\(\\frac{\\frac{17}{5}}{2}\\)\n= \\(\\frac{17}{10}\\)\n(ii) \\(8 * y = 8\\frac{1}{4}\\)\n\\(\\frac{8 + y}{2} = \\frac{33}{4}\\)\n\\(66 = 32 + 4y \\implies 4y = 66 - 32 = 34\\)\n\\(y = \\frac{34}{4} = 8.5\\)\n(b) \\(\\overrightarrow{AP}\u00a0 = \\frac{1}{2}(\\overrightarrow{AB})\\)\n= \\(\\frac{1}{2} \\begin{pmatrix} -4 \\\\ 6 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}\\)\nMidpoint = \\(\\overrightarrow{AP} + \\overrightarrow{PC} = \\overrightarrow{AC}\\)\n\\(\\overrightarrow{PC} = \\overrightarrow{AC} - \\overrightarrow{AP}\\)\n= \\(\\begin{pmatrix} 3 \\\\ -8 \\end{pmatrix} - \\begin{pmatrix} -2 \\\\ 3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 5 \\\\ -11 \\end{pmatrix}\\)\n\\(\\overrightarrow{CP} = -1 \\times \\begin{pmatrix} 5 \\\\ -11 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -5 \\\\ 11 \\end{pmatrix}\\)",
     "year": "2017"
   }
 ]

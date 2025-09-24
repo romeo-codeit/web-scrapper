@@ -1,0 +1,119 @@
+[
+  {
+    "number": "469",
+    "text": "(a) Given that (7 -2x), 9, (5x + 17) are consecutive terms of a Geometric Progression (G. P) with common ratio, r>0, find the values of x.\n(b) Two positive numbers are in the ratio 3:4. The sum of thrice the first number and twice the second is 68. Find the smaller number.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65854?exam_type=waec&type=theory&page=94",
+    "correct_answer": "(a) r =\\(\\frac{9}{7-2x}\\)\nr = \\(\\frac{5x+1}{7-2x}\\)\n\\(\\frac{9}{7-2x}\\)\u00a0= \\(\\frac{5x+1}{7-2x}\\)\n9x9=(7-2x) (5x +17)\n81 = 35x + 119 - 10x\\(^2\\) - 34x\n10x\\(^2\\) - x - 38\n(x -2)(10x+19) = 0\nx = 2,\u00a0 x = \\(\\frac{19}{10}\\)\nx = 2\n(b) Let the integers be x and y\nx:y= 3:4\n\\(\\frac{x}{y}\\) =\u00a0\\(\\frac{3}{4}\\)\nx = \\(\\frac{3y}{4}\\)\n3x\u00a0+ 2y=68\n3(\u00a0\\(\\frac{3}{4}\\)y)+ 2y = 68\n\\(\\frac{9}{4}\\)y + 2y = 68\n9y + 8y = 272\n17y = 272\ny= 16\nx =\u00a0\\(\\frac{3}{4}\\) * 16\u00a0\u219212",
+    "explanation": "(a) r =\\(\\frac{9}{7-2x}\\)\nr = \\(\\frac{5x+1}{7-2x}\\)\n\\(\\frac{9}{7-2x}\\)\u00a0= \\(\\frac{5x+1}{7-2x}\\)\n9x9=(7-2x) (5x +17)\n81 = 35x + 119 - 10x\\(^2\\) - 34x\n10x\\(^2\\) - x - 38\n(x -2)(10x+19) = 0\nx = 2,\u00a0 x = \\(\\frac{19}{10}\\)\nx = 2\n(b) Let the integers be x and y\nx:y= 3:4\n\\(\\frac{x}{y}\\) =\u00a0\\(\\frac{3}{4}\\)\nx = \\(\\frac{3y}{4}\\)\n3x\u00a0+ 2y=68\n3(\u00a0\\(\\frac{3}{4}\\)y)+ 2y = 68\n\\(\\frac{9}{4}\\)y + 2y = 68\n9y + 8y = 272\n17y = 272\ny= 16\nx =\u00a0\\(\\frac{3}{4}\\) * 16\u00a0\u219212",
+    "year": "2022"
+  },
+  {
+    "number": "470",
+    "text": "Given that y =(\\(\\frac{pr}{m} - p^2r\\))\\(^{\\frac{-3}{2}}\\)\u00a0\n(a) make r the subject;\n(b) find the value of r when y = -8, m = 1 and p = 3.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65855?exam_type=waec&type=theory&page=94",
+    "correct_answer": "(a)\u00a0y =(\\(\\frac{pr}{m} - p^2r\\))\\(^{\\frac{-3}{2}}\\)\ny = (\\(\\frac{pr - mrp^2}{m})^\\frac{-3}{2}\\)\ny = [\\(\\frac{m}{pr - mrp^2}]^\\frac{3}{2}\\)\n\\(y^\\frac{2}{3} = \\frac{m}{r(p - mp^2)}\\)\nr = \\(\\frac{m}{y^\\frac{2}{3}[p - mp^2]}\\)\nb) Given y = -8, m = 1 p = 3\nr = \\(\\frac{m}{y^\\frac{2}{3}[p - mp^2]}\\)\nr = \\(\\frac{1}{(-8)^\\frac{2}{3}[ 3\u00a0- (1)3^2]}\\)\nr = \\(\\frac{1}{(-2)^2[3\u00a0- 9]}\\)\nr = \\(\\frac{1}{[4][-6]}\\) = \\(\\frac{-1}{24}\\)",
+    "explanation": "(a)\u00a0y =(\\(\\frac{pr}{m} - p^2r\\))\\(^{\\frac{-3}{2}}\\)\ny = (\\(\\frac{pr - mrp^2}{m})^\\frac{-3}{2}\\)\ny = [\\(\\frac{m}{pr - mrp^2}]^\\frac{3}{2}\\)\n\\(y^\\frac{2}{3} = \\frac{m}{r(p - mp^2)}\\)\nr = \\(\\frac{m}{y^\\frac{2}{3}[p - mp^2]}\\)\nb) Given y = -8, m = 1 p = 3\nr = \\(\\frac{m}{y^\\frac{2}{3}[p - mp^2]}\\)\nr = \\(\\frac{1}{(-8)^\\frac{2}{3}[ 3\u00a0- (1)3^2]}\\)\nr = \\(\\frac{1}{(-2)^2[3\u00a0- 9]}\\)\nr = \\(\\frac{1}{[4][-6]}\\) = \\(\\frac{-1}{24}\\)",
+    "year": "2022"
+  },
+  {
+    "number": "471",
+    "text": "A chord subtends an angle of 72\u00ba\u00a0at the centre of a circle of radius 24.5m. Calculate the perimeter of the minor segment. [Take \u03c0 = \\(\\frac{22}{7}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65856?exam_type=waec&type=theory&page=95",
+    "correct_answer": "From \u0394OKB\nsin 36\u00b0 =\u00a0\\(\\frac{|KB|}{24.5}\\)\n|KB| =\u00a00.5878 x 24.5\n=14.4011m\nOr\nLength of arc = \\(\\frac{72}{360} * 2 *{\\frac{22}{7}}\u00a0* 24.7\\)\n=30.8m\nPerimeter = 2(14.4011) + 30.8\n= 59.6022\n= 59.6m",
+    "explanation": "From \u0394OKB\nsin 36\u00b0 =\u00a0\\(\\frac{|KB|}{24.5}\\)\n|KB| =\u00a00.5878 x 24.5\n=14.4011m\nOr\nLength of arc = \\(\\frac{72}{360} * 2 *{\\frac{22}{7}}\u00a0* 24.7\\)\n=30.8m\nPerimeter = 2(14.4011) + 30.8\n= 59.6022\n= 59.6m",
+    "year": "2022"
+  },
+  {
+    "number": "472",
+    "text": "In the diagram, BCDE is a circle with centre\nA. \u2220BCD = (2x + 40)\u00b0, \u2220BAD = (5x - 35)\u00ba, \u2220BED = (2y+ 10)\u00b0 and \u2220ADC=40\". Find:\n(a) the values of x and y;",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65857?exam_type=waec&type=theory&page=95",
+    "correct_answer": "(a) 2x + 40 + 2y + 10 = 180\u00b0...(1)\n2x + 2y = 130\nx + y = 65\u00ba\n5x - 35 = 2(2y+ 10) ... (2)\n5x - 35 = 4y +20\n5x - 4y = 55\n5x - 4(5-x) = 55\n5x - 260 + 4x =55\n9x = 315\nx = 35\u00b0\ny= 65 - 35\ny=30\u00b0\n\u2220ABC + [2 x \u00ba35 + 40] + [5(35)-350)] + 40\u00b0 =360\u00ba\n\u2220ABC + 110 + 140\u00b0+ 40\u00ba = 360\n\u2220ABC + 290\u00b0 = 360\u00b0\n\u2220ABC = 70\u00b0",
+    "explanation": "(a) 2x + 40 + 2y + 10 = 180\u00b0...(1)\n2x + 2y = 130\nx + y = 65\u00ba\n5x - 35 = 2(2y+ 10) ... (2)\n5x - 35 = 4y +20\n5x - 4y = 55\n5x - 4(5-x) = 55\n5x - 260 + 4x =55\n9x = 315\nx = 35\u00b0\ny= 65 - 35\ny=30\u00b0\n\u2220ABC + [2 x \u00ba35 + 40] + [5(35)-350)] + 40\u00b0 =360\u00ba\n\u2220ABC + 110 + 140\u00b0+ 40\u00ba = 360\n\u2220ABC + 290\u00b0 = 360\u00b0\n\u2220ABC = 70\u00b0",
+    "year": "2022"
+  },
+  {
+    "number": "473",
+    "text": "a) Given that m = tan 30\u00ba and n = tan 45\u00ba, simplify, without using calculator, \\(\\frac{ m - n}{mn}\\), leaving the answer in the form p + \\(\\sqrt{q}\\)\nb) There are 20 women in a\u00a0bus. 15 of them wear glasses and 10 wear wristwatches. If a woman is chosen at random from the bus, find the probability\u00a0that she wears both glasses and wristwatches.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65858?exam_type=waec&type=theory&page=95",
+    "correct_answer": "a) m = tan 60\u00ba = \\(\\frac{\\sqrt{3}}{3}\\), n = tan 45\u00ba = 1\n\\(\\frac{ m - n}{mn}\\), = \\(\\frac{\\frac{\\sqrt{3}}{3}\u00a0- 1}{\\frac{\\sqrt{3}}{3}(1)}\\)\n=\u00a0 \\(\\frac{\\frac{\\sqrt{3} - 3}{3}}{\\frac{\\sqrt{3}}{3}}\\)\n=\u00a0\u00a0 \\(\\frac{\\sqrt{3} - 3}{3}\\) X\u00a0\\(\\frac{3}{\\sqrt{3}}\\) =\u00a0 \\(\\frac{\\sqrt{3} - 3}{\\sqrt{3}}\\)\n=\u00a0\\(\\frac{\\sqrt{3} - 3}{\\sqrt{3}}\\) x\u00a0\u00a0\\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)\n=\u00a0\u00a0\\(\\frac{3 - 3\\sqrt{3}}{3}\\) = 1 - \\(\\sqrt{3}\\)\nb) see the diagram above..\nLet the number of women wearing both wristwatches and glasses be x\n15 - x + x + 10 - x = 20\n25 - x = 20\nx = 5\nTherefore, the number of women wearing wrist watches only = 10 - x = 10 - 5 = 5\nand number of women wearing glasses only = 15 - x = 15 - 5 = 10\nPr(both) = \\(\\frac{5}{20}\\) = \\(\\frac{1}{4}\\) = 0.25",
+    "explanation": "a) m = tan 60\u00ba = \\(\\frac{\\sqrt{3}}{3}\\), n = tan 45\u00ba = 1\n\\(\\frac{ m - n}{mn}\\), = \\(\\frac{\\frac{\\sqrt{3}}{3}\u00a0- 1}{\\frac{\\sqrt{3}}{3}(1)}\\)\n=\u00a0 \\(\\frac{\\frac{\\sqrt{3} - 3}{3}}{\\frac{\\sqrt{3}}{3}}\\)\n=\u00a0\u00a0 \\(\\frac{\\sqrt{3} - 3}{3}\\) X\u00a0\\(\\frac{3}{\\sqrt{3}}\\) =\u00a0 \\(\\frac{\\sqrt{3} - 3}{\\sqrt{3}}\\)\n=\u00a0\\(\\frac{\\sqrt{3} - 3}{\\sqrt{3}}\\) x\u00a0\u00a0\\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)\n=\u00a0\u00a0\\(\\frac{3 - 3\\sqrt{3}}{3}\\) = 1 - \\(\\sqrt{3}\\)\nb) see the diagram above..\nLet the number of women wearing both wristwatches and glasses be x\n15 - x + x + 10 - x = 20\n25 - x = 20\nx = 5\nTherefore, the number of women wearing wrist watches only = 10 - x = 10 - 5 = 5\nand number of women wearing glasses only = 15 - x = 15 - 5 = 10\nPr(both) = \\(\\frac{5}{20}\\) = \\(\\frac{1}{4}\\) = 0.25",
+    "year": "2022"
+  },
+  {
+    "number": "474",
+    "text": "The graph shows the relation of the form y = mx\\(^2\\) + nx + r, where m, n and r are constants.\nUsing the graph:\n(a) state the scale used on both axes; (b) find the values of m, n and r; (c) find the gradient of the line through P and Q; (d) state the range of values of x for which y > Q.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65860?exam_type=waec&type=theory&page=95",
+    "correct_answer": "(a) x-axis: 2 cm to 2 units or 1 cm to 1 unit\ny-axis: 2 cm to 10 units or 1 cm to 5 units\n(b) x = -2, x = 4\n(x+2)(x-4) = 0\nx\\(^2\\)\u00a0-4x + 2x -8 = 0\nx\\(^2\\)\u00a0-2x - 8 = 0\ny = 8 + 2x - x(curve has a max. point)\nm = -1,n = 2, r =8\n(c) P(-5,-27),Q(3,5)\nGradient = \\(\\frac{5+27}{3+5}\\)\n= \\(\\frac{32}{8}\\)\n= 4\n(d) Range: {x:-2 < x < 4)",
+    "explanation": "(a) x-axis: 2 cm to 2 units or 1 cm to 1 unit\ny-axis: 2 cm to 10 units or 1 cm to 5 units\n(b) x = -2, x = 4\n(x+2)(x-4) = 0\nx\\(^2\\)\u00a0-4x + 2x -8 = 0\nx\\(^2\\)\u00a0-2x - 8 = 0\ny = 8 + 2x - x(curve has a max. point)\nm = -1,n = 2, r =8\n(c) P(-5,-27),Q(3,5)\nGradient = \\(\\frac{5+27}{3+5}\\)\n= \\(\\frac{32}{8}\\)\n= 4\n(d) Range: {x:-2 < x < 4)",
+    "year": "2022"
+  },
+  {
+    "number": "475",
+    "text": "(a) A man purchased 180 copies of a book at N250.00 each. He sold y copies at N300.00 each and the rest at a discount of 5 kobo in the Naira of the cost price.\nIf he made a profit of N7,125.00, find the value of y.\n(b) A trader bought x bags of rice at a cost C = 24x + 103 and sold them at a price, S = \\(\\frac{x^2}{20} - 33x\\).\nFind the expression for the profit (i) If 20 bags of rice were sold,\n(ii) calculate the percentage profit.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65864?exam_type=waec&type=theory&page=95",
+    "correct_answer": "(a) Total cost 180 x 250\n=N45,000.00\nTotal selling price = 300y + (180-y) x\u00a0250 x\u00a0\\(\\frac{95}{100}\\)\n300y + 42750 -237.5y\n= 62.5y + 42750\nProfit =\u00a0 62.5y + 42750 -4500\n7125 =\u00a062.5y - 2250\n9375 = 62.5y\ny = 150\n(b)) Profit = \\(\\frac{x^2}{20} - 33x\\) (24x+ 103)\n9x - \\(\\frac{x^2}{20}\\) -\u00a0103\n(ii) Cost = 24(20) +103 = 583.00\nSelling Price =33(20) -\u00a0 \\(\\frac{20^2}{20}\\) = 640\nPercentage profit = \\(\\frac{640-583}{583}\\) x 100%\n= 9.78%",
+    "explanation": "(a) Total cost 180 x 250\n=N45,000.00\nTotal selling price = 300y + (180-y) x\u00a0250 x\u00a0\\(\\frac{95}{100}\\)\n300y + 42750 -237.5y\n= 62.5y + 42750\nProfit =\u00a0 62.5y + 42750 -4500\n7125 =\u00a062.5y - 2250\n9375 = 62.5y\ny = 150\n(b)) Profit = \\(\\frac{x^2}{20} - 33x\\) (24x+ 103)\n9x - \\(\\frac{x^2}{20}\\) -\u00a0103\n(ii) Cost = 24(20) +103 = 583.00\nSelling Price =33(20) -\u00a0 \\(\\frac{20^2}{20}\\) = 640\nPercentage profit = \\(\\frac{640-583}{583}\\) x 100%\n= 9.78%",
+    "year": "2022"
+  },
+  {
+    "number": "476",
+    "text": "Item\nfood & drinks\nfuel\nrent\nbuilding project\neducation\nsavings\n\n\nPercentage%\n35\n7.5\n1.0\n15\n17.5\nx\n\n\n\nThe table shows the monthly expenditure (in percentages) of Mr. Okafor's salary.\n(a) Calculate the percentage of Mr. Okafor's salary that was\u00a0put into savings.\n(b) Illustrate the information on a pie chart.\n(c) If Mr. Okafor's annual gross salary is\u00a0$28,800.00 and he pays tax of 12%.\nCalculate; (i) his monthly tax; (ii) the amount saved each month.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65866?exam_type=waec&type=theory&page=96",
+    "correct_answer": "(a) 35 + 7.5 + 10 + 15 + 17.5 + x = 100\n85 + x = 100.x = 100 - 85\nx = 15\nitems%degreefood & drinks35\\(\\frac{35}{100} * 360\\) = 126\u00bafuel7.5\\(\\frac{7.5}{100} * 360\\) = 27\u00barent10\\(\\frac{10}{100} * 360\\) = 36\u00babuilding project15\\(\\frac{15}{100} * 360\\) = 54\u00baeducation17.5\\(\\frac{17.5}{100} * 360\\) = 63\u00basavings15\\(\\frac{15}{100} * 360\\) = 54\u00ba\n(c) income tax =\u00a0\\(\\frac{12}{100} * 28,800\\) = $3,456.00\nMonthly tax =\u00a0\\(\\frac{3456}{12}\\) = $288.00\n(ii) Monthly net salary =\u00a0\\(\\frac{1}{12} \u00a0(288 - 3456)\\) = $2,112.00\nAmount saved each month =\u00a0\\(\\frac{15}{100} * 2112\\) = $316.80",
+    "explanation": "(a) 35 + 7.5 + 10 + 15 + 17.5 + x = 100\n85 + x = 100.x = 100 - 85\nx = 15\nitems%degreefood & drinks35\\(\\frac{35}{100} * 360\\) = 126\u00bafuel7.5\\(\\frac{7.5}{100} * 360\\) = 27\u00barent10\\(\\frac{10}{100} * 360\\) = 36\u00babuilding project15\\(\\frac{15}{100} * 360\\) = 54\u00baeducation17.5\\(\\frac{17.5}{100} * 360\\) = 63\u00basavings15\\(\\frac{15}{100} * 360\\) = 54\u00ba\n(c) income tax =\u00a0\\(\\frac{12}{100} * 28,800\\) = $3,456.00\nMonthly tax =\u00a0\\(\\frac{3456}{12}\\) = $288.00\n(ii) Monthly net salary =\u00a0\\(\\frac{1}{12} \u00a0(288 - 3456)\\) = $2,112.00\nAmount saved each month =\u00a0\\(\\frac{15}{100} * 2112\\) = $316.80",
+    "year": "2022"
+  },
+  {
+    "number": "477",
+    "text": "(a) Copy and complete the table of values for y = 3Sinx + 7Cosx for 0\u00b0\n\n\n\nx\u00ba\n0\n20\n40\n60\n80\n100\n120\n140\n160\n180\n\n\ny\n7.0\n\u00a0\n\u00a0\n\u00a0\n4.2\n\u00a0\n-0.9\n\u00a0\n\u00a0\n\u00a0\n\n\n\n\u00a0\n(b) Using a scale of 2cm to 20\u00b0 on the x-axis and 2cm to 2 units on the y-axis, draw the graph of y = 3Sinx + 7Cosx for\u00a00\u00b0\n(c) Using the graph, find the;\n(i) value of y when x= 150\u00b0,\n(i) range of values of x for which y > 0.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65867?exam_type=waec&type=theory&page=96",
+    "correct_answer": "x\u00ba020406080100120140160180y7.07.67.36.14.21.7-0.9-3.4-5.67.0\n(b)\n(C)(i) From the graph, When x is 150\u00b0 y = -4.6\u00b10.2\n(ii) Range of value of x for which y > is x: 0\u00ba\u00a0\u2264 x\u00a0\u2264 113",
+    "explanation": "x\u00ba020406080100120140160180y7.07.67.36.14.21.7-0.9-3.4-5.67.0\n(b)\n(C)(i) From the graph, When x is 150\u00b0 y = -4.6\u00b10.2\n(ii) Range of value of x for which y > is x: 0\u00ba\u00a0\u2264 x\u00a0\u2264 113",
+    "year": "2022"
+  },
+  {
+    "number": "478",
+    "text": "Age\n3\n4\n5\n6\n7\n8\n9\n10\n\n\nNo. of children\n2\n6\n5\nx\n6\n9\n8\n5\n\n\n\nThe table shows the distribution of ages of a number of children in a school. If the mean of the distribution is 7, find the;\n(a) value of x, (b) standard deviation of their ages.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65868?exam_type=waec&type=theory&page=96",
+    "correct_answer": "Mean =\u00a0 \\(\\frac{\\sum fx}{ \\sum f}\\) =\u00a0\u00a0(3x2) +(4x6) + (5x5) +\u00a0(6x) + (7x6) + (8x9) + (9x8) + (10x5)\u00a0 \u00f7\u00a0(2 + 6 + 5 + x + 6 + 9 + 8 + 5)\n7 = (291 + 6x)\u00a0\u00f7 (41+x)\n7(41+x) = 291 + 6x\n287 + 7x = 291 + 6x\nx = 4\n(b)\nAge(x in yrs)No.of childFx\\(^2\\)321846965512564144762948957698648105500\u03a3f = 45\u03a3fx\\(^2\\) = 2401\nStandard deviation = \\(\\sqrt \\frac{196}{45}\u00a0= \\sqrt 4.3555\\)\n= 2.087",
+    "explanation": "Mean =\u00a0 \\(\\frac{\\sum fx}{ \\sum f}\\) =\u00a0\u00a0(3x2) +(4x6) + (5x5) +\u00a0(6x) + (7x6) + (8x9) + (9x8) + (10x5)\u00a0 \u00f7\u00a0(2 + 6 + 5 + x + 6 + 9 + 8 + 5)\n7 = (291 + 6x)\u00a0\u00f7 (41+x)\n7(41+x) = 291 + 6x\n287 + 7x = 291 + 6x\nx = 4\n(b)\nAge(x in yrs)No.of childFx\\(^2\\)321846965512564144762948957698648105500\u03a3f = 45\u03a3fx\\(^2\\) = 2401\nStandard deviation = \\(\\sqrt \\frac{196}{45}\u00a0= \\sqrt 4.3555\\)\n= 2.087",
+    "year": "2022"
+  },
+  {
+    "number": "479",
+    "text": "(a)\u00a0In the diagram,\u00a0O is the centre of the circle XYZ. angle\u00a0ZXO=34\u00a0\u00b0 and angle\u00a0XOY=146\u00a0\u00b0 . Find angle OYZ.\u00a0\n(b) The exterior angles of a polygon are 42, 38,57, x, (x+ y)\u00b0. (2x- 15)\u00b0 and (3x -y)\u00ba? If x is 7 less than y, find the values of x and y.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65869?exam_type=waec&type=theory&page=96",
+    "correct_answer": "(a)\u00a0\u2220XYZ = \\(\\frac{1}{2}\\)\u00a0(146) = 73\u00ba\n\u2220OZX = 34\u00ba\n\u2220OZY = 73 - 34\n\u2220OYZ =\u00a0\u2220OZY\u00a0= 39\n(b) x = y - 7\n42 + 38 + 57 + x + x +\u00a0y + 2x - 15 + 3x - y = 360\n122\u00b0+7x = 360\u00b0 7x 238\u00b0\nx = 34\n: 34 = y - 7\n34 + 7 = y\n41 = y",
+    "explanation": "(a)\u00a0\u2220XYZ = \\(\\frac{1}{2}\\)\u00a0(146) = 73\u00ba\n\u2220OZX = 34\u00ba\n\u2220OZY = 73 - 34\n\u2220OYZ =\u00a0\u2220OZY\u00a0= 39\n(b) x = y - 7\n42 + 38 + 57 + x + x +\u00a0y + 2x - 15 + 3x - y = 360\n122\u00b0+7x = 360\u00b0 7x 238\u00b0\nx = 34\n: 34 = y - 7\n34 + 7 = y\n41 = y",
+    "year": "2022"
+  },
+  {
+    "number": "480",
+    "text": "(a) The probability that an athlete will not win any of three races is 1/4.If the athlete runs in all the races, what is the probability that the athlete will win;\n(i) only the second race; (ii) all the three races; (ii) only two of the races?\n(b) A cone with perpendicular height 24cm has a volume of 1200cm\\(^3\\). Find the volume of a cone with same base radius and height 84cm. [Take pi = \\(\\frac{22}{7}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65870?exam_type=waec&type=theory&page=96",
+    "correct_answer": "9(a)(i)\np = \\(\\frac{1}{4}\\),\np = 1 -\u00a0\\(\\frac{1}{4}\\)\np =\u00a0\\(\\frac{3}{4}\\)\n=\u00a0\\(\\frac{3}{64}\\)\n= 0.04687\u00a0\u2248 0.05\n(ii) p(winning all) =\u00a0\\(\\frac{3}{4}\\) *\u00a0\\(\\frac{3}{4}\\) *\u00a0\\(\\frac{3}{4}\\)\n=\u00a0\\(\\frac{27}{64}\\) = 0.422\n(iii) p(winning two)\n= (\\(\\frac{3}{4}\\) * \\(\\frac{3}{4}\\) * \\(\\frac{1}{4}\\)) + (\\(\\frac{3}{4}\\) *\u00a0\\(\\frac{1}{4}\\) * \\(\\frac{3}{4}\\)) + (\\(\\frac{1}{4}\\) * \\(\\frac{3}{4}\\) * \\(\\frac{3}{4}\\))\n=\u00a0\\(\\frac{9}{64}\\) +\u00a0\\(\\frac{9}{64}\\) +\u00a0\\(\\frac{9}{64}\\)\n=\u00a0\\(\\frac{27}{64}\\) = 0.4218\n= 0.42\n(b)\u00a0Volume of a cone = 1/3\u03c0r\\(^2\\)h\n1200 =\u00a0\\(\\frac{1}{3}\\) *\u00a0\\(\\frac{22}{7}\\) * r\\(^2\\) * 24\nr\\(^2\\) = \\(\\frac{1200 * 3 * 7}{22 * 24}\\)\nr\\(^2\\) =\u00a0\\(\\frac{25200}{528}\\)\nr\\(^2\\) = 47.727\nr = \\(\\sqrt 47.727\\)\nr =\u00a0 6.9085cm\nVolume of a cone with same radius and height 84cm:\nv =\u00a0\u00a0\\(\\frac{1}{3}\\) *\u00a0\u00a0\\(\\frac{22}{7}\\) * (6.9085)\\(^2\\) * 84\n=\u00a0\\(\\frac{1}{3}\\) *\u00a0\u00a0\\(\\frac{22}{7}\\) * 47.727\u00a0* 84\nvolume = 4200cm\\(^3\\)",
+    "explanation": "9(a)(i)\np = \\(\\frac{1}{4}\\),\np = 1 -\u00a0\\(\\frac{1}{4}\\)\np =\u00a0\\(\\frac{3}{4}\\)\n=\u00a0\\(\\frac{3}{64}\\)\n= 0.04687\u00a0\u2248 0.05\n(ii) p(winning all) =\u00a0\\(\\frac{3}{4}\\) *\u00a0\\(\\frac{3}{4}\\) *\u00a0\\(\\frac{3}{4}\\)\n=\u00a0\\(\\frac{27}{64}\\) = 0.422\n(iii) p(winning two)\n= (\\(\\frac{3}{4}\\) * \\(\\frac{3}{4}\\) * \\(\\frac{1}{4}\\)) + (\\(\\frac{3}{4}\\) *\u00a0\\(\\frac{1}{4}\\) * \\(\\frac{3}{4}\\)) + (\\(\\frac{1}{4}\\) * \\(\\frac{3}{4}\\) * \\(\\frac{3}{4}\\))\n=\u00a0\\(\\frac{9}{64}\\) +\u00a0\\(\\frac{9}{64}\\) +\u00a0\\(\\frac{9}{64}\\)\n=\u00a0\\(\\frac{27}{64}\\) = 0.4218\n= 0.42\n(b)\u00a0Volume of a cone = 1/3\u03c0r\\(^2\\)h\n1200 =\u00a0\\(\\frac{1}{3}\\) *\u00a0\\(\\frac{22}{7}\\) * r\\(^2\\) * 24\nr\\(^2\\) = \\(\\frac{1200 * 3 * 7}{22 * 24}\\)\nr\\(^2\\) =\u00a0\\(\\frac{25200}{528}\\)\nr\\(^2\\) = 47.727\nr = \\(\\sqrt 47.727\\)\nr =\u00a0 6.9085cm\nVolume of a cone with same radius and height 84cm:\nv =\u00a0\u00a0\\(\\frac{1}{3}\\) *\u00a0\u00a0\\(\\frac{22}{7}\\) * (6.9085)\\(^2\\) * 84\n=\u00a0\\(\\frac{1}{3}\\) *\u00a0\u00a0\\(\\frac{22}{7}\\) * 47.727\u00a0* 84\nvolume = 4200cm\\(^3\\)",
+    "year": "2022"
+  },
+  {
+    "number": "481",
+    "text": "(a) The diameter of a cylinder closed at both ends is 7cm. If the total surface area is 209cm\\(^2\\), calculate the height. [Take pi = 22/7].\n(b) The points X and Y, 19m apart are on the same side of a tree. The angles of elevation of the top, T, of the tree from X and Y on the horizontal ground with the foot of the tree are 43\u00ba and 38\u00b0 respectively.\n(i) Illustrate the information in a diagram. (ii) Find, correct to one decimal place, the height of the tree.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/65871?exam_type=waec&type=theory&page=97",
+    "correct_answer": "209 = 2 * \\(\\frac{22}{7}\\) *\u00a0\\((\\frac{7}{2})^2\\) + 2 *\u00a0\\(\\frac{22}{7}\\) *\u00a0\\(\\frac{7}{2}\\) * h\n209 = 77 + 22h\n132 = 22h\nh = 6cm\n(b) tan 43\u00ba =\u00a0\\(\\frac{h}{y}\\)\n0.9125y = h ...[i]\ntan 38\u00ba =\u00a0\\(\\frac{h}{y+19}\\)\n0.7813(y+19) = h ...[ii]\n0.7813(y+19) =\u00a00.9125y\n0.7813y + 14.8447 = 0.93257\n14.8447 = 0.1512y\ny= 98.1792\n= 98.2m\nh = 0.9325 x 98.1792\n= 91.55\n=91.6m",
+    "explanation": "209 = 2 * \\(\\frac{22}{7}\\) *\u00a0\\((\\frac{7}{2})^2\\) + 2 *\u00a0\\(\\frac{22}{7}\\) *\u00a0\\(\\frac{7}{2}\\) * h\n209 = 77 + 22h\n132 = 22h\nh = 6cm\n(b) tan 43\u00ba =\u00a0\\(\\frac{h}{y}\\)\n0.9125y = h ...[i]\ntan 38\u00ba =\u00a0\\(\\frac{h}{y+19}\\)\n0.7813(y+19) = h ...[ii]\n0.7813(y+19) =\u00a00.9125y\n0.7813y + 14.8447 = 0.93257\n14.8447 = 0.1512y\ny= 98.1792\n= 98.2m\nh = 0.9325 x 98.1792\n= 91.55\n=91.6m",
+    "year": "2022"
+  }
+]

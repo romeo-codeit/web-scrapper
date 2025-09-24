@@ -3,104 +3,117 @@
     "number": "27",
     "text": "(a) Without using Mathematical tables or calculators, evaluate \\(\\frac{0.09 \\times 1.21}{3.3 \\times 0.00025}\\), leaving the answer in standard form (Scientific Notation).\n(b) A principal of GH\u00a25,600 was deposited for 3 years at compound interest. If the interest earned was\u00a0GH\u00a21,200, find, correct to 3 significant figures, the interest rate per annum.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52442?exam_type=waec&type=theory&page=6",
+    "correct_answer": "(a) \\(\\frac{0.09 \\times 1.21}{3.3 \\times 0.00025} = \\frac{9 \\times 10^{-2} \\times 121 \\times 10^{-2}}{33 \\times 10^{-1} \\times 25 \\times 10^{-5}}\\)\n= \\(\\frac{33 \\times 10^{-4}}{25 \\times 10^{-6}}\\)\n= \\(1.32 \\times 10^{2}\\)\n(b) Amount, A = Principal + Interest\n=\u00a0GH\u00a2(5,600 + 1,200)\n=\u00a0GH\u00a26,800\nCompound Interest formula : \\(A = P(1 + \\frac{r}{100})^{3}\\)\n\\(6,800 = 5,600(1 + \\frac{r}{100})^{3}\\)\n\\((1 + \\frac{r}{100})^{3} = \\frac{6800}{5600} = 1.214\\)\n\\(1 + \\frac{r}{100} = \\sqrt[3]{1.214} = 1.06686\\)\n\\(\\frac{r}{100} = 1.06686 - 1 = 0.06686\\)\n\\(r = 0.06686 \\times 100 = 6.686 \\approxeq 6.69\\) (3 significant figures)",
+    "explanation": "(a) \\(\\frac{0.09 \\times 1.21}{3.3 \\times 0.00025} = \\frac{9 \\times 10^{-2} \\times 121 \\times 10^{-2}}{33 \\times 10^{-1} \\times 25 \\times 10^{-5}}\\)\n= \\(\\frac{33 \\times 10^{-4}}{25 \\times 10^{-6}}\\)\n= \\(1.32 \\times 10^{2}\\)\n(b) Amount, A = Principal + Interest\n=\u00a0GH\u00a2(5,600 + 1,200)\n=\u00a0GH\u00a26,800\nCompound Interest formula : \\(A = P(1 + \\frac{r}{100})^{3}\\)\n\\(6,800 = 5,600(1 + \\frac{r}{100})^{3}\\)\n\\((1 + \\frac{r}{100})^{3} = \\frac{6800}{5600} = 1.214\\)\n\\(1 + \\frac{r}{100} = \\sqrt[3]{1.214} = 1.06686\\)\n\\(\\frac{r}{100} = 1.06686 - 1 = 0.06686\\)\n\\(r = 0.06686 \\times 100 = 6.686 \\approxeq 6.69\\) (3 significant figures)",
     "year": "2016"
   },
   {
     "number": "28",
     "text": "(a) Solve : \\(7(x + 4) - \\frac{2}{3}(x - 6) \\leq 2[x - 3(x + 5)]\\)\n(b) A transport company has a total of 20 vehicles made up of tricycle and taxicabs. Each tricycle carries 2 passengers while each taxicab carries four passengers. If the 20 vehicles carry a total of 66 passengers at a time, how many tricycles does the company have?",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52443?exam_type=waec&type=theory&page=6",
+    "correct_answer": "(a) \\(7(x + 4) - \\frac{2}{3}(x - 6) \\leq 2[x - 3(x + 5)]\\)\nMultiply through by 3 to clear the fraction :\n\\(21(x + 4) - 2(x - 6) \\leq 6[x - 3(x + 5)]\\)\n\\(21x + 84 - 2x + 12 \\leq 6x - 18x - 90\\)\n\\(19x + 96 \\leq -12x - 90\\)\n\\(19x + 12x \\leq -90 - 96\\)\n\\(31x \\leq - 186\\)\nHence, \\(x \\leq -6\\).\n(b) Let : t represent number of tricycles; and b represent number of taxicabs\nThen \\(t + b = 20 ... (1)\\)\n\\(2t + 4b = 66 .... (2)\\)\nFrom (1), b\u00a0= 20 - t. Put that into eqtn (2), we have:\n\\(2t + 4(20 - t) = 2t + 80 - 4t = 66\\)\n\\(80 - 66 = 14 = 2t \\)\n\\(t = 7\\)\nThe transport company has 7 tricycles.",
+    "explanation": "(a) \\(7(x + 4) - \\frac{2}{3}(x - 6) \\leq 2[x - 3(x + 5)]\\)\nMultiply through by 3 to clear the fraction :\n\\(21(x + 4) - 2(x - 6) \\leq 6[x - 3(x + 5)]\\)\n\\(21x + 84 - 2x + 12 \\leq 6x - 18x - 90\\)\n\\(19x + 96 \\leq -12x - 90\\)\n\\(19x + 12x \\leq -90 - 96\\)\n\\(31x \\leq - 186\\)\nHence, \\(x \\leq -6\\).\n(b) Let : t represent number of tricycles; and b represent number of taxicabs\nThen \\(t + b = 20 ... (1)\\)\n\\(2t + 4b = 66 .... (2)\\)\nFrom (1), b\u00a0= 20 - t. Put that into eqtn (2), we have:\n\\(2t + 4(20 - t) = 2t + 80 - 4t = 66\\)\n\\(80 - 66 = 14 = 2t \\)\n\\(t = 7\\)\nThe transport company has 7 tricycles.",
     "year": "2016"
   },
   {
     "number": "29",
     "text": "(a)\u00a0\nIn the diagram, < RTS = 28\u00b0, < VRM = 46\u00b0, MQ is a tangent to the circle VRSTU at the point R. Find < VUS.\n(b) A cylinder tin, 7cm high, is closed at one end. If its total surface area is 462\\(cm^{2}\\), calculate its radius. [Take \\(\\pi = \\frac{22}{7}\\)].",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52450?exam_type=waec&type=theory&page=6",
+    "correct_answer": "(a)\nIn the diagram above, \\(\\alpha = 28\u00b0\\) (angles in alternate segment)\n\\(46\u00b0 + \\beta + \\alpha = 180\u00b0\\) (angles on a straight line)\n\\(46\u00b0 + \\beta + 28\u00b0 = 74\u00b0 + \\beta = 180\u00b0\\)\n\\(\\beta = 180\u00b0 - 74\u00b0 = 106\u00b0\\)\n\\(x + \\beta = 180\u00b0\\) (opposite angles of a cyclic quadrilateral)\n\\(x + 106\u00b0 = 180\u00b0\\)\n\\(x = 180\u00b0 - 106\u00b0 = 74\u00b0\\)\nHence, < VUS = 74\u00b0.\n(b) Total surface area = curved surface area + area of closed end\n= \\(2\\pi rh + \\pi r^{2}\\)\n= \\(\\pi r(2h + r)\\)\n\\(462 = \\frac{22r}{7}((2 \\times 7) + r)\\)\n\\(\\frac{462 \\times 7}{22} = r(14 + r)\\)\n\\(147 = 14r + r^{2}\\)\n\\(r^{2} + 14r - 147 = 0\\)\n\\(r^{2} - 7r + 21r - 147 = 0\\)\n\\(r(r - 7) + 21(r - 7) = 0\\)\n\\((r + 21)(r - 7) = 0\\)\n\\(r = \\text{-21 or 7}\\)\nThe radius cannot be negative, therefore, r = 7 cm.",
+    "explanation": "(a)\nIn the diagram above, \\(\\alpha = 28\u00b0\\) (angles in alternate segment)\n\\(46\u00b0 + \\beta + \\alpha = 180\u00b0\\) (angles on a straight line)\n\\(46\u00b0 + \\beta + 28\u00b0 = 74\u00b0 + \\beta = 180\u00b0\\)\n\\(\\beta = 180\u00b0 - 74\u00b0 = 106\u00b0\\)\n\\(x + \\beta = 180\u00b0\\) (opposite angles of a cyclic quadrilateral)\n\\(x + 106\u00b0 = 180\u00b0\\)\n\\(x = 180\u00b0 - 106\u00b0 = 74\u00b0\\)\nHence, < VUS = 74\u00b0.\n(b) Total surface area = curved surface area + area of closed end\n= \\(2\\pi rh + \\pi r^{2}\\)\n= \\(\\pi r(2h + r)\\)\n\\(462 = \\frac{22r}{7}((2 \\times 7) + r)\\)\n\\(\\frac{462 \\times 7}{22} = r(14 + r)\\)\n\\(147 = 14r + r^{2}\\)\n\\(r^{2} + 14r - 147 = 0\\)\n\\(r^{2} - 7r + 21r - 147 = 0\\)\n\\(r(r - 7) + 21(r - 7) = 0\\)\n\\((r + 21)(r - 7) = 0\\)\n\\(r = \\text{-21 or 7}\\)\nThe radius cannot be negative, therefore, r = 7 cm.",
     "year": "2016"
   },
   {
     "number": "30",
     "text": "Scores\n1\n2\n3\n4\n5\n6\n\n\nFrequency\n25\n30\nx\n28\n40\n32\n\n\n\nThe table shows the outcome when a die is thrown a number of times. If the probability of obtaining a 3 is 0.225;\n(a) How many times was the die thrown?\n(b) Calculate the probability that a trial chosen at random gives a score of an even number or a prime number.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52454?exam_type=waec&type=theory&page=6",
+    "correct_answer": "(a) From the table, \\(\\sum f = x + 155\\)\nP(obtaining a 3) = \\(\\frac{\\text{no of times a 3 was obtained}}{\\sum f}\\)\n\\(\\frac{x}{x + 155} = 0.225\\)\n\\(x = 0.255x + (155 \\times 0.225)\\)\n\\(x - 0.225x = 34.875 \\)\n\\(0.775x = 34.875\\)\n\\(x = \\frac{39.875}{0.775}\\)\n\\(x = 45\\)\n\\(\\sum f = 155 + x = 155 + 45 = 200\\)\nHence, the die was thrown 200 times.\n(b) Set of even numbers = {2, 4, 6}\nSet of prime numbers = {2, 4, 5}\nTherefore, \\(N \\cup M = (2, 3, 4,\u00a05, 6)\\)\n\\(n(N \\cup M) = 30 + 45 + 28 + 40 + 32 = 175\\)\n\\(P(N \\cup M) = \\frac{175}{200} = 0.875\\)",
+    "explanation": "(a) From the table, \\(\\sum f = x + 155\\)\nP(obtaining a 3) = \\(\\frac{\\text{no of times a 3 was obtained}}{\\sum f}\\)\n\\(\\frac{x}{x + 155} = 0.225\\)\n\\(x = 0.255x + (155 \\times 0.225)\\)\n\\(x - 0.225x = 34.875 \\)\n\\(0.775x = 34.875\\)\n\\(x = \\frac{39.875}{0.775}\\)\n\\(x = 45\\)\n\\(\\sum f = 155 + x = 155 + 45 = 200\\)\nHence, the die was thrown 200 times.\n(b) Set of even numbers = {2, 4, 6}\nSet of prime numbers = {2, 4, 5}\nTherefore, \\(N \\cup M = (2, 3, 4,\u00a05, 6)\\)\n\\(n(N \\cup M) = 30 + 45 + 28 + 40 + 32 = 175\\)\n\\(P(N \\cup M) = \\frac{175}{200} = 0.875\\)",
     "year": "2016"
   },
   {
     "number": "31",
     "text": "(a)\u00a0\u00a0\nIn the diagram, PQST is a parallelogram, PR is a straight line, |TS| = 8cm, |SM| = 6cm and area of triangle PSR = \\(36 cm^{2}\\). Find the value of |QR|.\n(b) A tree and a flagpole are on the same horizontal ground. A bird on top of the tree observes the top and bottom of the flagpole below it at angle of 45\u00b0 and 60\u00b0 respectively. If the tree is 10.65m high, calculate, correct to 3 significant figures, the height of the flagpole.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52460?exam_type=waec&type=theory&page=7",
+    "correct_answer": "(a)\nIn the diagram above, area of \\(\\Delta PSR = \\frac{1}{2} \\times |PR| \\times 6\\)\n\\(36 = \\frac{1}{2} \\times |PR| \\times 6\\)\n\\(36 = 3 \\times |PR|\\)\n\\(|PR| = 12 cm\\)\nBut |PQ| = |TS| = 8cm (opp. sides of a parallelogram)\nHence, |QR| = |PR| - |PQ| = 12 - 8 = 4cm.\n(b)\nIn the diagram above, \\(\\beta = 60\u00b0\\) (alternate angles)\n\\(\\tan \\beta = \\frac{10.65}{|QB|}\\)\n\\(|QB| = \\frac{10.65}{\\tan 60}\\)\n= \\(\\frac{10.65}{1.732} = 6.149m\\)\n|PO| = |QB| = 6.149m (opp. sides of a rectangle)\nIn \\(\\Delta POT, \\tan 45 = \\frac{|TO|}{6.149}\\)\n\\(|TO| = \\tan 45 \\times 6.149 = 1 \\times 6.149 = 6.149m\\)\n|OB| = |PQ| = 10.65m (opp sides of a rectangle)\n\\(h = |OB| - |OT| \\)\n= \\(10.65 - 6.149\\)\n= \\(4.501 m \\approxeq 4.50m\\) (3 sig. figs)\nHence, the height of the flagpole = 4.50m",
+    "explanation": "(a)\nIn the diagram above, area of \\(\\Delta PSR = \\frac{1}{2} \\times |PR| \\times 6\\)\n\\(36 = \\frac{1}{2} \\times |PR| \\times 6\\)\n\\(36 = 3 \\times |PR|\\)\n\\(|PR| = 12 cm\\)\nBut |PQ| = |TS| = 8cm (opp. sides of a parallelogram)\nHence, |QR| = |PR| - |PQ| = 12 - 8 = 4cm.\n(b)\nIn the diagram above, \\(\\beta = 60\u00b0\\) (alternate angles)\n\\(\\tan \\beta = \\frac{10.65}{|QB|}\\)\n\\(|QB| = \\frac{10.65}{\\tan 60}\\)\n= \\(\\frac{10.65}{1.732} = 6.149m\\)\n|PO| = |QB| = 6.149m (opp. sides of a rectangle)\nIn \\(\\Delta POT, \\tan 45 = \\frac{|TO|}{6.149}\\)\n\\(|TO| = \\tan 45 \\times 6.149 = 1 \\times 6.149 = 6.149m\\)\n|OB| = |PQ| = 10.65m (opp sides of a rectangle)\n\\(h = |OB| - |OT| \\)\n= \\(10.65 - 6.149\\)\n= \\(4.501 m \\approxeq 4.50m\\) (3 sig. figs)\nHence, the height of the flagpole = 4.50m",
     "year": "2016"
   },
   {
     "number": "32",
     "text": "(a) Find the sum of the Arithmetic Progression (AP) 1, 3, 5,..., 101.\n(b) Out of the 95 travellers interviewed, 7 travelled by bus and train only, 3 by train and car only and 8 travelled by all 3 means of transport. The number, x, of travellerswho travelled by bus only was equal to the number who travelled by bus and car only. If 47 people travelled by bus and 30 by train :\n(i) represent this information in a Venn diagram;\n(ii) calculate the\u00a0\n(1) value of x ; (2) number who travelled by at least two means.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52464?exam_type=waec&type=theory&page=7",
+    "correct_answer": "(a)\n(b)(i) From the Venn diagram,\nx + x + 7 + 8 = n(B)\n2x + 15 = 47\n2x = 47 - 15 = 32\nx = 16\n(ii) Number of people who travelled by at least 2 means\n= 16 + 7 + 8 + 3 = 34",
+    "explanation": "(a)\n(b)(i) From the Venn diagram,\nx + x + 7 + 8 = n(B)\n2x + 15 = 47\n2x = 47 - 15 = 32\nx = 16\n(ii) Number of people who travelled by at least 2 means\n= 16 + 7 + 8 + 3 = 34",
     "year": "2016"
   },
   {
     "number": "33",
     "text": "(a) Using the method of completing the square, solve, correct to 2 decimal places, \\(\\frac{x - 2}{4} = \\frac{x + 2}{2x}\\).\n(b)\u00a0\nIn the diagram, PQRST is a circle with centre O. If PS is a diameter, RS//QT, and < QTS = 52\u00b0, find :\n(i) < SQT ; (ii) < PQT.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52466?exam_type=waec&type=theory&page=7",
+    "correct_answer": "(a) \\(\\frac{x - 2}{4} = \\frac{x + 2}{2x}\\)\n\\(2x(x - 2) = 4(x + 2)\\)\n\\(2x^{2} - 4x = 4x + 8\\)\n\\(2x^{2} - 4x - 4x - 8 = 2x^{2} - 8x - 8 = 0\\)\nDivide through by 2, we have\n\\(x^{2} - 4x - 4 = 0\\)\n\\(x^{2} - 4x = 4\\)\nTaking the square of \\(\\frac{b}{2}\\) and add to both sides,\n\\(x^{2} - 4x + (-2)^{2} = 4 + (-2)^{2}\\)\n\\((x - 2)^{2} = 8\\)\n\\(x - 2 = \\pm {\\sqrt{8}}\\)\n\\(x = 2 \\pm \\sqrt{8}\\)\n\\(x = 2 \\pm 2.828\\)\n\\(x = 4.828\\) or \\(x = -0.828\\).\nHence, x = 4.83 or -0.83 (2 decimal place).\n(b)(i)\nIn the diagram above, < QRS = 180\u00b0 - 52\u00b0 = 128\u00b0 (opp. angles of a cyclic quadrilateral).\n\\(x_{1} = x_{2}\\) (base angles of isosceles triangle)\n\\(x_{1} + x_{2} + 128\u00b0 = 180\u00b0\\) (sum of angles of a triangle)\n\\(2x_{2} = 180\u00b0 - 128\u00b0 = 52\u00b0\\)\n\\(x_{2} = 26\u00b0\\)\nHence, < SQT = 26\u00b0.\n(ii) < PQS = 90\u00b0 (angles in a semi-circle)\nHence, < PQT = 90\u00b0 - 26\u00b0 = 64\u00b0.",
+    "explanation": "(a) \\(\\frac{x - 2}{4} = \\frac{x + 2}{2x}\\)\n\\(2x(x - 2) = 4(x + 2)\\)\n\\(2x^{2} - 4x = 4x + 8\\)\n\\(2x^{2} - 4x - 4x - 8 = 2x^{2} - 8x - 8 = 0\\)\nDivide through by 2, we have\n\\(x^{2} - 4x - 4 = 0\\)\n\\(x^{2} - 4x = 4\\)\nTaking the square of \\(\\frac{b}{2}\\) and add to both sides,\n\\(x^{2} - 4x + (-2)^{2} = 4 + (-2)^{2}\\)\n\\((x - 2)^{2} = 8\\)\n\\(x - 2 = \\pm {\\sqrt{8}}\\)\n\\(x = 2 \\pm \\sqrt{8}\\)\n\\(x = 2 \\pm 2.828\\)\n\\(x = 4.828\\) or \\(x = -0.828\\).\nHence, x = 4.83 or -0.83 (2 decimal place).\n(b)(i)\nIn the diagram above, < QRS = 180\u00b0 - 52\u00b0 = 128\u00b0 (opp. angles of a cyclic quadrilateral).\n\\(x_{1} = x_{2}\\) (base angles of isosceles triangle)\n\\(x_{1} + x_{2} + 128\u00b0 = 180\u00b0\\) (sum of angles of a triangle)\n\\(2x_{2} = 180\u00b0 - 128\u00b0 = 52\u00b0\\)\n\\(x_{2} = 26\u00b0\\)\nHence, < SQT = 26\u00b0.\n(ii) < PQS = 90\u00b0 (angles in a semi-circle)\nHence, < PQT = 90\u00b0 - 26\u00b0 = 64\u00b0.",
     "year": "2016"
   },
   {
     "number": "34",
     "text": "(a)\u00a0\nIn the diagram, < KLM = x, < LMK = y, < KJH = r and < KGF = 110\u00b0. If 2x = r = y, find the value of x.\n(b) Ten boys and twelve girls collected donations for a project. The total amount collected by the boys was N600.00 gretaer than that collected by the girls. If the average collection of the boys was N100.00 greater than the average collection of the girls, how much was collected by the two groups?",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52467?exam_type=waec&type=theory&page=7",
+    "correct_answer": "(a)\nIn the diagram above, \\(\\theta = y\\) (vertically opposite angles)\n\\(\\alpha = 180\u00b0 - 110\u00b0 = 70\u00b0\\) (angles on a straight line)\nThus, \\(\\beta = \\theta + \\alpha\\) (sum of interior opp. angles)\n\\(\\beta = y + 70\u00b0 ..... (1)\\)\n\\(x + r + \\beta = 180\u00b0 ..... (2)\\)\nBut 2x = r = y\nHence, \\(x + 2x + (2x + 70) = 5x + 70 = 180\\)\n\\(5x = 180 - 70 = 110\\)\n\\(x = 22\u00b0\\)\n(b) Let Nx represent the donation collected by the girls. Then, the donation collected by the boys = N(x + 600).\nAlso, let y represent the average collection, \\(x_{g}\\), of the girls. Then the average collection, \\(x_{b}\\), of the boys = N(y + 100).\nThus, \\(x_{g} = \\frac{x}{12} = y\\)\n\\(x = 12y ... (1)\\)\n\\(x_{b} = \\frac{x + 600}{10} = y + 100\\)\n\\(x + 600 = 10(y + 100) .... (2)\\)\nSubstitute 12y for x in (2) :\n\\(12y + 600 = 10y + 1000\\)\n\\(12y - 10y = 1000 - 600 \\)\n\\(2y = 400 \\implies y = 200\\)\nFrom (1), \\(x = 12y\\)\n\\(\\therefore x = 12 \\times 200 = N2,400\\).\nThus, the girls collected N2,400\nThe boys collected N2,400 + N600 = N3000\nTotal = N(2,400 + 3,000) = N5,400",
+    "explanation": "(a)\nIn the diagram above, \\(\\theta = y\\) (vertically opposite angles)\n\\(\\alpha = 180\u00b0 - 110\u00b0 = 70\u00b0\\) (angles on a straight line)\nThus, \\(\\beta = \\theta + \\alpha\\) (sum of interior opp. angles)\n\\(\\beta = y + 70\u00b0 ..... (1)\\)\n\\(x + r + \\beta = 180\u00b0 ..... (2)\\)\nBut 2x = r = y\nHence, \\(x + 2x + (2x + 70) = 5x + 70 = 180\\)\n\\(5x = 180 - 70 = 110\\)\n\\(x = 22\u00b0\\)\n(b) Let Nx represent the donation collected by the girls. Then, the donation collected by the boys = N(x + 600).\nAlso, let y represent the average collection, \\(x_{g}\\), of the girls. Then the average collection, \\(x_{b}\\), of the boys = N(y + 100).\nThus, \\(x_{g} = \\frac{x}{12} = y\\)\n\\(x = 12y ... (1)\\)\n\\(x_{b} = \\frac{x + 600}{10} = y + 100\\)\n\\(x + 600 = 10(y + 100) .... (2)\\)\nSubstitute 12y for x in (2) :\n\\(12y + 600 = 10y + 1000\\)\n\\(12y - 10y = 1000 - 600 \\)\n\\(2y = 400 \\implies y = 200\\)\nFrom (1), \\(x = 12y\\)\n\\(\\therefore x = 12 \\times 200 = N2,400\\).\nThus, the girls collected N2,400\nThe boys collected N2,400 + N600 = N3000\nTotal = N(2,400 + 3,000) = N5,400",
     "year": "2016"
   },
   {
     "number": "35",
     "text": "The weight (in kg) of 50 contestants at a competition is as follows:\n65 66 67 66 64 66 65 63 65 68 64 62 66 64 67 65 64 66 65 67 65 67 66 64 65 64 66 65 64 65 66 65 64 65 63 63 67 65 63 64 66 64 68 65 63 65 64 67 66 64.\n(a) Construct a frequenct table for the discrete data.\n(b) Calculate, correct to 2 decimal places, the;\n(i) mean ; (ii) standard deviation of the data.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52471?exam_type=waec&type=theory&page=7",
+    "correct_answer": "(a)\nWeight (kg)Frequency621635641265146610676682\n(b) Using an assumed mean of 65kg\n\\(x\\)\\(f\\)\\(fx\\)\\(d = x - A\\)\\(fd\\)\\(fd^{2}\\)62162-3-39635315-2-10206412768-1-12126514910000661066011010676402212246821363618\\(\\sum\\) =503253393\n(i) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{3253}{50}\\)\n= 65.06 kg\n(ii) \\(SD = \\sqrt{\\frac{\\sum fd^{2}}{\\sum f} - (\\frac{\\sum fd^{2}}{\\sum f})^{2}}\\)\n\\(SD = \\sqrt{\\frac{93}{50} - (\\frac{3}{50})^{2}}\\)\n= \\(\\sqrt{\\frac{93}{50} - \\frac{9}{2500}}\\)\n= \\(\\sqrt{\\frac{4650 - 9}{2500}}\\)\n= \\(\\sqrt{\\frac{4641}{2500}}\\)\n= \\(1.3625 \\approxeq 1.36\\) (2 d.p.)",
+    "explanation": "(a)\nWeight (kg)Frequency621635641265146610676682\n(b) Using an assumed mean of 65kg\n\\(x\\)\\(f\\)\\(fx\\)\\(d = x - A\\)\\(fd\\)\\(fd^{2}\\)62162-3-39635315-2-10206412768-1-12126514910000661066011010676402212246821363618\\(\\sum\\) =503253393\n(i) Mean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{3253}{50}\\)\n= 65.06 kg\n(ii) \\(SD = \\sqrt{\\frac{\\sum fd^{2}}{\\sum f} - (\\frac{\\sum fd^{2}}{\\sum f})^{2}}\\)\n\\(SD = \\sqrt{\\frac{93}{50} - (\\frac{3}{50})^{2}}\\)\n= \\(\\sqrt{\\frac{93}{50} - \\frac{9}{2500}}\\)\n= \\(\\sqrt{\\frac{4650 - 9}{2500}}\\)\n= \\(\\sqrt{\\frac{4641}{2500}}\\)\n= \\(1.3625 \\approxeq 1.36\\) (2 d.p.)",
     "year": "2016"
   },
   {
     "number": "36",
     "text": "Using ruler and a pair of compasses only,\u00a0\n(a) construct :\u00a0\n(i) \\(\\Delta\\)XYZ such that |XY| = 10cm, < XYZ = 30\u00b0 and < YXZ = 45\u00b0.\n(ii) locus, \\(l_{1}\\), of points equidistant from Y and Z.\n(iii) locus, \\(l_{2}\\), of points parallel to XY through Z.\n(b) Locate M, the point of intersection of \\(l_{1}\\) and \\(l_{2}\\).\n(c) Measure < ZMY.",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52473?exam_type=waec&type=theory&page=8",
+    "correct_answer": "(a), (b)\n(c) < ZMY = 120\u00b0.",
+    "explanation": "(a), (b)\n(c) < ZMY = 120\u00b0.",
     "year": "2016"
   },
   {
     "number": "37",
     "text": "(a) If \\(\\frac{3p + 4q}{3p - 4q} = 2\\), find \\(p : q\\).\n(b)\u00a0\u00a0\nThe diagram shows the cross section of a bridge with a semi-circular hollow in the middle. If the perimeter of the cross section is 34 cm, calculate the :\n(i) length PQ; (ii) area of the cross section.\u00a0\n[Take \\(\\pi = \\frac{22}{7}\\)].",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52475?exam_type=waec&type=theory&page=8",
+    "correct_answer": "(a) \\(\\frac{3p + 4q}{3p - 4q} = 2\\)\n\\(3p + 4q = 2(3p - 4q)\\)\n\\(3p + 4q = 6p - 8q\\)\n\\(3p - 6p = - 8q - 4q\\)\n\\(-3p = - 12q\\)\n\\(p = 4q\\)\n\\(\\frac{p}{q} = \\frac{4}{1}\\)\n\\(\\therefore p : q = 4 : 1\\).\n(b)(i)\nPerimeter of cross- section = 4 + x + 4 + 2 + y + 2\ni.e 34 = 12 + x + y\nx + y = 22 ..... (1)\nFrom the diagram, |PQ| = |UR| (opp. sides of a rectangle)\ni.e. x = 2 + d + 2\nx - 4 = d ..... (2)\nFrom (1), y = 22 - x is the circumference of the semi-circle.\n\\(22 - x = \\frac{2\\pi r}{2} = \\pi r\\)\n\\(r = \\frac{d}{2} \\)\n\\(22 - x = \\frac{22}{7} \\times \\frac{(x - 4)}{2}\\)\n\\(154 - 7x = 11x - 44\\)\n\\(154 + 44 = 11x + 7x \\)\n\\(198 = 18x\\)\n\\(x = \\frac{198}{18} = 11 m\\)\nHence, |PQ| = 11 m.\n(ii) Area of cross section = Area of rectangle PQRU - area of semi-circle\nArea of rectangle = \\(11 \\times 4 = 44 m^{2}\\)\nArea of semi-circle = \\(\\frac{\\pi r^{2}}{2} \\)\n= \\(\\frac{22}{7} \\times (\\frac{(11 - 4)}{2})^{2} \\times \\frac{1}{2}\\)\n= \\(19.25 m^{2}\\)\nArea of cross section = \\(44 - 19.25 = 24.75 m^{2}\\).",
+    "explanation": "(a) \\(\\frac{3p + 4q}{3p - 4q} = 2\\)\n\\(3p + 4q = 2(3p - 4q)\\)\n\\(3p + 4q = 6p - 8q\\)\n\\(3p - 6p = - 8q - 4q\\)\n\\(-3p = - 12q\\)\n\\(p = 4q\\)\n\\(\\frac{p}{q} = \\frac{4}{1}\\)\n\\(\\therefore p : q = 4 : 1\\).\n(b)(i)\nPerimeter of cross- section = 4 + x + 4 + 2 + y + 2\ni.e 34 = 12 + x + y\nx + y = 22 ..... (1)\nFrom the diagram, |PQ| = |UR| (opp. sides of a rectangle)\ni.e. x = 2 + d + 2\nx - 4 = d ..... (2)\nFrom (1), y = 22 - x is the circumference of the semi-circle.\n\\(22 - x = \\frac{2\\pi r}{2} = \\pi r\\)\n\\(r = \\frac{d}{2} \\)\n\\(22 - x = \\frac{22}{7} \\times \\frac{(x - 4)}{2}\\)\n\\(154 - 7x = 11x - 44\\)\n\\(154 + 44 = 11x + 7x \\)\n\\(198 = 18x\\)\n\\(x = \\frac{198}{18} = 11 m\\)\nHence, |PQ| = 11 m.\n(ii) Area of cross section = Area of rectangle PQRU - area of semi-circle\nArea of rectangle = \\(11 \\times 4 = 44 m^{2}\\)\nArea of semi-circle = \\(\\frac{\\pi r^{2}}{2} \\)\n= \\(\\frac{22}{7} \\times (\\frac{(11 - 4)}{2})^{2} \\times \\frac{1}{2}\\)\n= \\(19.25 m^{2}\\)\nArea of cross section = \\(44 - 19.25 = 24.75 m^{2}\\).",
     "year": "2016"
   },
   {
     "number": "38",
     "text": "(a) Copy and complete the table of values, correct to one decimal place, for the relation \\(y = 3\\sin x + 2\\cos x\\) for \\(0\u00b0 \\leq x \\leq 360\u00b0\\).\n\n\n\nx\n0\u00b0\n30\u00b0\n60\u00b0\n90\u00b0\n120\u00b0\n150\u00b0\n180\u00b0\n210\u00b0\n240\u00b0\n270\u00b0\n300\u00b0\n330\u00b0\n360\u00b0\n\n\ny\n\u00a0\n\u00a0\n\u00a0\n3.0\n1.6\n\u00a0\n-2.0\n\u00a0\n-3.6\n-3.0\n\u00a0\n\u00a0\n2.0\n\n\n\n(b) Using scales of 2cm to 30\u00b0mon the x- axis and 2cm to 1 unit on the y- axis, draw the graph of the relation \\(y = 3\\sin x + 2\\cos x\\) for \\(0\u00b0\\leq x \\leq 360\u00b0\\).\n(c) Use the graph to solve :\n(i) \\(3\\sin x + 2\\cos x = 0\\)\n(ii) \\(2 + 2\\cos x + 3\\sin x = 0\\).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52478?exam_type=waec&type=theory&page=8",
+    "correct_answer": "(a)\nx0\u00b030\u00b060\u00b090\u00b0120\u00b0150\u00b0180\u00b0210\u00b0240\u00b0270\u00b0300\u00b0330\u00b0360\u00b0y2.03.23.63.01.6-0.2-2.0-3.2-3.6-3.0-1.60.22.0\n(b)\n(c)(i) The equation, \\(3\\sin x + 2\\cos x = 0\\) has solution where the curve cuts the x- axis, i.e. at A(x = 147\u00b0) and B(x = 325.5\u00b0).\n(ii)First, rearrange \\(2 + 2\\cos x + 3\\sin x = 0\\) to have the main graph content \\(3\\sin x + 2\\cos x\\) on one side of the equation; i.e. \\(3\\sin x + 2\\cos x = -2\\).\nAdd the line \\(y = -2\\) to the graph. The line intersects the curve at the points (x = 180\u00b0) and (x = 292.5\u00b0). Hence, these are the solutions.",
+    "explanation": "(a)\nx0\u00b030\u00b060\u00b090\u00b0120\u00b0150\u00b0180\u00b0210\u00b0240\u00b0270\u00b0300\u00b0330\u00b0360\u00b0y2.03.23.63.01.6-0.2-2.0-3.2-3.6-3.0-1.60.22.0\n(b)\n(c)(i) The equation, \\(3\\sin x + 2\\cos x = 0\\) has solution where the curve cuts the x- axis, i.e. at A(x = 147\u00b0) and B(x = 325.5\u00b0).\n(ii)First, rearrange \\(2 + 2\\cos x + 3\\sin x = 0\\) to have the main graph content \\(3\\sin x + 2\\cos x\\) on one side of the equation; i.e. \\(3\\sin x + 2\\cos x = -2\\).\nAdd the line \\(y = -2\\) to the graph. The line intersects the curve at the points (x = 180\u00b0) and (x = 292.5\u00b0). Hence, these are the solutions.",
     "year": "2016"
   },
   {
     "number": "39",
     "text": "(a) Find the equation of a straight line which passes through the point (2, -3) and is parallel to the line \\(2x + y = 6\\).\n(b) The operation \\(\\Delta\\) is defined on the set T = {2, 3, 5, 7} by \\(x \\Delta y = (x + y + xy) mod 8\\).\n(i) Construct modulo 8 table for the operation \\(\\Delta\\) on the set T.\n(ii) Use the the table to find: (a) \\(2 \\Delta (5 \\Delta 7)\\) ; (b) \\(2 \\Delta n = 5 \\Delta 7\\).",
     "options": {},
-    "correct_answer": null,
-    "explanation": "",
+    "answer_url": "https://myschool.ng/classroom/mathematics/52481?exam_type=waec&type=theory&page=8",
+    "correct_answer": "(a) First, change the given linear equation to the gradient- intercept form:\n\\(2x + y = 6 \\implies y = 6 - 2x\\)\nThus, \\(m_{1} = -2, c = 6\\). Thus, for a line to be parallel, the gradient \\(m_{2} = -2\\) (condition for parallelism).\nUsing \\(y - y_{1} = m(x - x_{1})\\), we have\n\\(y - (-3) = -2(x - 2)\\)\n\\(y + 3 = - 2x + 4\\)\n\\(2x + y = 4 - 3 = 1\\)\nThus, the line passing through (2, -3) parallel to 2x + y = 6 is 2x + y = 1.\n(b) (i)\n\\(\\Delta\\)235720317337775173777777\n(ii) (a) \\(2 \\Delta (5 \\Delta 7) = 2 \\Delta 7 = 7\\)\n(b) \\(2 \\Delta n = 5 \\Delta 7\\)\n\\(2 \\Delta n = 7\\)\nBy comparison, n = 7.",
+    "explanation": "(a) First, change the given linear equation to the gradient- intercept form:\n\\(2x + y = 6 \\implies y = 6 - 2x\\)\nThus, \\(m_{1} = -2, c = 6\\). Thus, for a line to be parallel, the gradient \\(m_{2} = -2\\) (condition for parallelism).\nUsing \\(y - y_{1} = m(x - x_{1})\\), we have\n\\(y - (-3) = -2(x - 2)\\)\n\\(y + 3 = - 2x + 4\\)\n\\(2x + y = 4 - 3 = 1\\)\nThus, the line passing through (2, -3) parallel to 2x + y = 6 is 2x + y = 1.\n(b) (i)\n\\(\\Delta\\)235720317337775173777777\n(ii) (a) \\(2 \\Delta (5 \\Delta 7) = 2 \\Delta 7 = 7\\)\n(b) \\(2 \\Delta n = 5 \\Delta 7\\)\n\\(2 \\Delta n = 7\\)\nBy comparison, n = 7.",
     "year": "2016"
   }
 ]

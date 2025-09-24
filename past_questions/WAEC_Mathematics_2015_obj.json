@@ -8,8 +8,9 @@
       "C": "15",
       "D": "18"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45694?exam_type=waec&type=obj&page=263",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "use\u00a0trial and error method,\nBy substituting any of x = 2, 5, 15, 18\u00a0 into\u00a07 + x = 4 (mod 9)\nany value of x that gives\u00a0 7 + x = 4 (mod 9) is the correct value of x\nIn this case, x = 15.",
     "year": "2015"
   },
   {
@@ -21,8 +22,9 @@
       "C": "m = 0, n = 1",
       "D": "m = 1, n = 1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45695?exam_type=waec&type=obj&page=263",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": ".",
     "year": "2015"
   },
   {
@@ -34,8 +36,9 @@
       "C": "N150,000.00",
       "D": "N100,000.00"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45696?exam_type=waec&type=obj&page=263",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "N1.00 = $0.075N X\u00a0= $15,000X = \\(\\frac{1.00 \\times 15000}{0.075}\\)= N200,000.00",
     "year": "2015"
   },
   {
@@ -47,8 +50,9 @@
       "C": "-\\(\\frac{1}{2}\\)",
       "D": "-1"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45697?exam_type=waec&type=obj&page=264",
     "correct_answer": "B",
-    "explanation": "\\(\\frac{27^x \\times 3^{1 - x}}{9^{2x}} = 1\\)",
+    "explanation": "",
     "year": "2015"
   },
   {
@@ -60,8 +64,9 @@
       "C": "50",
       "D": "63"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45699?exam_type=waec&type=obj&page=264",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "GIVEN: 2, 5, 10, 17, 26,.\nThe numbers are increasing by odd value.\n1st term = 2\n2nd term = 5\n3rd term = 10\n4th term = 17\n5th term = 26\n6th term = 37\n7th term = 50\nAlways add 2 to the difference between the two preceding numbers and add this to\u00a0the later number to get the next term.",
     "year": "2015"
   },
   {
@@ -73,8 +78,9 @@
       "C": "12",
       "D": "24"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45704?exam_type=waec&type=obj&page=264",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "If logx 64 = 3, then \\(64 = x^3\\)\\(4^3 = x^3\\)Since the indices are equal,x = 4Hence, x log\\(_2\\)8= 4(3.log\\(_2\\)2)= where\u00a0log\\(_2\\)2 = 1(1)= 12 X 1\n= 12",
     "year": "2015"
   },
   {
@@ -86,8 +92,9 @@
       "C": "2y\\(^\\frac{1}{3}\\)",
       "D": "2y\\(^-3\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45705?exam_type=waec&type=obj&page=264",
     "correct_answer": "A",
-    "explanation": "If 2",
+    "explanation": "n\n2\nn\nn",
     "year": "2015"
   },
   {
@@ -99,8 +106,9 @@
       "C": "(3a - 4b)(2x + 3y)",
       "D": "(2a + 3b)(4x -3y)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45706?exam_type=waec&type=obj&page=264",
     "correct_answer": "B",
-    "explanation": "6ax - 12by - 9ay + 8bx",
+    "explanation": "",
     "year": "2015"
   },
   {
@@ -112,8 +120,9 @@
       "C": "4x2 + 13x - 12 = 0",
       "D": "4x2 + 13x + 12 = 0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45707?exam_type=waec&type=obj&page=265",
     "correct_answer": "C",
-    "explanation": "Let x = \\(\\frac{3}{4}\\) or x = -4",
+    "explanation": "2",
     "year": "2015"
   },
   {
@@ -125,8 +134,9 @@
       "C": "\\(\\frac{5}{16}\\)",
       "D": "- \\(\\frac{37}{48}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45708?exam_type=waec&type=obj&page=265",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "If m = 4, n = 9, r = 16,then \\(\\frac{m}{n}\\) - 1\\(\\frac{7}{9}\\) + \\(\\frac{n}{r}\\)= \\(\\frac{4}{9}\\) - \\(\\frac{16}{9}\\) + \\(\\frac{9}{16}\\)= \\(\\frac{64 - 256\u00a0+ 81}{144}\\)= \\(\\frac{-111}{144}\\)= - \\(\\frac{37}{48}\\)",
     "year": "2015"
   },
   {
@@ -138,8 +148,9 @@
       "C": "7",
       "D": "6"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45711?exam_type=waec&type=obj&page=265",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Let the given positive number be xThen\u00a0x + 42 = \\(x^2\\)0 = \\(x^2\\) - x - 42or \\(x^2\\) - x - 42 = 0\\(x^2\\) - 7x + 6x - 42 = 0x(x - 7) + 6(x - 7) = 0= (x + 6)(x - 7) = 0x = -6 or x = 7Hence, x = 7",
     "year": "2015"
   },
   {
@@ -151,8 +162,9 @@
       "C": "x2 - 3x - 3 = 0",
       "D": "x2 +  3x - 1 = 0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45712?exam_type=waec&type=obj&page=265",
     "correct_answer": "B",
-    "explanation": "Given; y = x",
+    "explanation": "2\n2\n2\n2",
     "year": "2015"
   },
   {
@@ -164,8 +176,9 @@
       "C": "4.0cm",
       "D": "4.5cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45724?exam_type=waec&type=obj&page=265",
     "correct_answer": "B",
-    "explanation": "Using V = \\(\\frac{3}{1} \\pi r^2h\\),",
+    "explanation": "2\n2",
     "year": "2015"
   },
   {
@@ -177,8 +190,9 @@
       "C": "3\\(\\frac{1}{2}\\)m",
       "D": "1\\(\\frac{3}{4}\\)m"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45741?exam_type=waec&type=obj&page=266",
     "correct_answer": "C",
-    "explanation": "Volume of rectangular tank = L x B x H",
+    "explanation": "3\n2",
     "year": "2015"
   },
   {
@@ -190,8 +204,9 @@
       "C": "60o",
       "D": "80o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45754?exam_type=waec&type=obj&page=266",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "In the diagram above,\n\u2220MNO = 140\u00b0 and angles on a straight line is 180\u00b0\n:\u00a0\u2220NMO = (180 - 140)\u00b0 = 40\u00b0\nHence;\u00a0\u2220POM = 40\u00b0 ( alternate angle\u00a0\u2220S)",
     "year": "2015"
   },
   {
@@ -203,8 +218,9 @@
       "C": "108o",
       "D": "102o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45757?exam_type=waec&type=obj&page=266",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "In the diagram; 108\u00b0 + x + x = 180\u00b0 (sum of angle in a triangle)\n108\u00b0 + 2x = 180\u00b0x = 180\u00b0 - 108\u00b0= 72\u00b0\nx = \\(\\frac{72^o}{2}\\)= 36\u00b0\n(Angle between tangent and a chord through the point of contact)\nHence, angle PTN = 90 + 36\n= 126\u00b0",
     "year": "2015"
   },
   {
@@ -216,8 +232,9 @@
       "C": "96o",
       "D": "48o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45767?exam_type=waec&type=obj&page=266",
     "correct_answer": "B",
-    "explanation": "In the diagram; a = b = 48",
+    "explanation": "o\no\no\no\no",
     "year": "2015"
   },
   {
@@ -229,8 +246,9 @@
       "C": "57o",
       "D": "37o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45775?exam_type=waec&type=obj&page=266",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "In the diagram given, < PRT = 3\\(^o\\) (Change in same segment)< TPR = 90\\(^o\\) (angle in a semicircle)Hence, < PTR = 180\\(^o\\) - (90 + 33)\\(^o\\)= 180\\(^o\\) - 123\\(^o\\)= 57\\(^o\\)",
     "year": "2015"
   },
   {
@@ -242,21 +260,23 @@
       "C": "38o",
       "D": "33o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45785?exam_type=waec&type=obj&page=267",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "In the diagram,\u00a0 < TRS = \\(\\frac{76^o}{2}\\) = 38\\(^o\\)Hence, angle PRS = 33\\(^o\\) + 38\\(^o\\)= 71\\(^o\\)",
     "year": "2015"
   },
   {
     "number": "1332",
-    "text": "\\(\\begin{array}{c|c}\r\nx & 0 & 1\\frac{1}{4} & 2 & 4\\\\\r\n\\hline\r\ny & 3\u00a0& 5\\frac{1}{2} & &\r\n\\end{array}\\)\r\nThe table given shows some values for a linear graph. Find the gradient of the line",
+    "text": "\\(\\begin{array}{c|c}\nx & 0 & 1\\frac{1}{4} & 2 & 4\\\\\n\\hline\ny & 3\u00a0& 5\\frac{1}{2} & &\n\\end{array}\\)\nThe table given shows some values for a linear graph. Find the gradient of the line",
     "options": {
       "A": "1",
       "B": "2",
       "C": "3",
       "D": "4"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45788?exam_type=waec&type=obj&page=267",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "Let: (\\(x_1, y_1\\)) = (0, 3)(\\(x_2, y_2\\)) = (\\(\\frac{5}{4}, \\frac{11}{2}\\))Using gradient, m = \\(\\frac{y_2 - y_2}{x_2 - x_1}\\)= \\(\\frac{\\frac{11}{2} - 3}{\\frac{5}{4} - 0}\\)= \\(\\frac{11 - 6}{2} \\div\u00a0\\frac{5}{4}\\)= \\(\\frac{5}{2} \\div\u00a0\\frac{5}{4}\\)= \\(\\frac{5}{2} \\times \\frac{4}{5}\\)= 2",
     "year": "2015"
   },
   {
@@ -268,8 +288,9 @@
       "C": "63o",
       "D": "65o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45809?exam_type=waec&type=obj&page=267",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "In the diagram given,tan\\(\\alpha\\) = \\(\\frac{1}{0.5}\\) = 2\\(\\alpha\\) = tan - 1(2) = 63.43\u00ba= 63\u00ba",
     "year": "2015"
   },
   {
@@ -281,8 +302,9 @@
       "C": "923.76m",
       "D": "1,600.00m"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45810?exam_type=waec&type=obj&page=267",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "In \\(\\bigtriangleup\\)KBC, sin 30 = \\(\\frac{800}{IKCI}\\)IKCL = \\(\\frac{800}{sin30^o}\\)= \\(\\frac{800}{0.5}\\)= 1600m",
     "year": "2015"
   },
   {
@@ -294,8 +316,9 @@
       "C": "60o",
       "D": "75o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45811?exam_type=waec&type=obj&page=267",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "In a school with students' population 810, the sectoral angle for a class of 72 students is= \\(\\frac{72}{810}\\) x 360\u00ba= 32\u00ba",
     "year": "2015"
   },
   {
@@ -307,8 +330,9 @@
       "C": "64",
       "D": "65"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45817?exam_type=waec&type=obj&page=268",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Third quartile Q3 = \\(\\frac{3}{4}\\)NthAlternatively:Split the score into equal quarters\n44, 47, 48, 49, 50,\u00a0 \u00a0 \u00a0 \u00a0 51, 52, 53, 53, 54,\u00a0 \u00a0 \u00a0 \u00a0 \u00a058, 59, 60, 61, 63,\u00a0 \u00a0 \u00a065, 67, 70, 73, 75.\nThird quartile Q3 = [63 + 65] / 2 = 64",
     "year": "2015"
   },
   {
@@ -320,8 +344,9 @@
       "C": "6.6",
       "D": "7.0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45822?exam_type=waec&type=obj&page=268",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "To calculate themean of grouped data,\n- First step \u00a0to determine the midpoint (x) of each interval or class.\n0 - 4\u00a0\u25ba2\n5 - 9\u00a0\u00a0\u25ba 7\n10 - 14\u00a0\u00a0\u25ba12\nThese midpoints must then be multiplied by the frequencies of the corresponding classes:\n2 X 2 = 4\n1 X 7 = 7\n2 X 12 = 24\nMean = ( 24 + 7 + 4)\u00a0\u00f7 ( 2 + 1 + 2 )\n: Mean = 7",
     "year": "2015"
   },
   {
@@ -333,8 +358,9 @@
       "C": "\\(\\frac{1}{30}\\)",
       "D": "\\(\\frac{1}{60}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45827?exam_type=waec&type=obj&page=268",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "Pr(Ebou did not hit the target) = 1 - \\(\\frac{3}{4}\\) = \\(\\frac{1}{4}\\) = Pr(E'),\u00a0\u00a0Pr(Omar did not hit the target) = 1 - \\(\\frac{4}{5}\\) = \\(\\frac{1}{5}\\) = Pr(O')\nHence the probability that only Kebba will hit the target= Pr(K) x\u00a0Pr(E')\u00a0x Pr(O')= \\(\\frac{2}{3} \\times \\frac{1}{4} \\times \\frac{1}{5}\\)= \\(\\frac{1}{30}\\)",
     "year": "2015"
   },
   {
@@ -346,6 +372,7 @@
       "C": "6cm",
       "D": "8cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45834?exam_type=waec&type=obj&page=268",
     "correct_answer": "D",
     "explanation": "",
     "year": "2015"
@@ -359,8 +386,9 @@
       "C": "(25 - n)years",
       "D": "(30 + n)years"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45852?exam_type=waec&type=obj&page=268",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Let Tom's present age\u00a0be x.Then x = 25 - nIf Tom is 5 years younger than Bade, then Bade's present age is x + 5 = 25 - n + 5= (30 - n)",
     "year": "2015"
   },
   {
@@ -372,8 +400,9 @@
       "C": "1\\(\\frac{1}{3}\\)",
       "D": "1\\(\\frac{2}{3}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45859?exam_type=waec&type=obj&page=269",
     "correct_answer": "C",
-    "explanation": "",
+    "explanation": "\\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{3}}\\) = \\(\\frac{\\sqrt{2} + \\sqrt{3}}{\\sqrt{3}}\\) x \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)= \\(\\frac{\\sqrt{2} \\times \\sqrt{3} + \\sqrt{3} \\times \\sqrt{3}}{\\sqrt{3} \\times \\sqrt{3}}\\)= \\(\\frac{\\sqrt{6} + 3}{3}\\)= \\(\\frac{3 + \\sqrt{6}}{3}\\)= Hence, (m + n) = 1 + \\(\\frac{1}{3}\\)= 1\\(\\frac{1}{3}\\)",
     "year": "2015"
   },
   {
@@ -385,8 +414,9 @@
       "C": "55o",
       "D": "60o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45861?exam_type=waec&type=obj&page=269",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "In the diagram, QOR + 2m(vertically opposite angles)So, m + 90\u00b0\u00a0+ 2m = 180\u00b0(angles on str. line)3m = 180\u00b0 - 90\u00b03m = 90\u00b0m = \\(\\frac{90^o}{3}\\)= 30\u00b0substituting 30\u00b0\u00a0for m in2m + 4n = 200\u00b0 gives2 x 30\u00b0\u00a0+ 4n = 200\u00b060\u00b0\u00a0+ 4n = 200\u00b04n = 200\u00b0 - 60\u00b0= 140\u00b0n = \\(\\frac{140\u00b0}{4}\\)= 35\u00b0",
     "year": "2015"
   },
   {
@@ -398,8 +428,9 @@
       "C": "K = \\(\\frac{H(T^2 + 1)}{T}\\)",
       "D": "K = \\(\\frac{H(T - 1)}{T}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45862?exam_type=waec&type=obj&page=269",
     "correct_answer": "A",
-    "explanation": "T = \\(\\sqrt{\\frac{TK - H}{K - H}}\\)",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2",
     "year": "2015"
   },
   {
@@ -411,8 +442,9 @@
       "C": "Ogive",
       "D": "Histogram"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45864?exam_type=waec&type=obj&page=269",
     "correct_answer": "D",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2015"
   },
   {
@@ -424,8 +456,9 @@
       "C": "3.0",
       "D": "2.5"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45900?exam_type=waec&type=obj&page=269",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "Diagonal |AC| = (2x + 1)cmIn the diagram,area of \\(\\Delta\\)ABCis \\(\\frac{110}{2}\\) = \\(\\frac{1}{2}\\) x |AC| x |HB|55 = \\(\\frac{1}{2}\\) x (2x + 1) x 1055 = (2x + 1)555 = 10x + 555 - 5 = 10x50 = 10xx = \\(\\frac{50}{10}\\)= 5.0",
     "year": "2015"
   },
   {
@@ -437,8 +470,9 @@
       "C": "\\(\\frac{5x + 4y - xy}{2xy}\\)",
       "D": "\\(\\frac{4x - 5y + xy}{2xy}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45906?exam_type=waec&type=obj&page=270",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "\\(\\frac{3x - y}{xy} -\u00a0\\frac{2x + 3y}{2xy} + \\frac{1}{2}\\)= \\(\\frac{2(3x - y) - 1(2x + 3y) + xy}{2xy}\\)= \\(\\frac{6x - 2y - 2x - 3y + xy}{2xy}\\)= \\(\\frac{4x - 5y + xy}{2xy}\\)",
     "year": "2015"
   },
   {
@@ -450,8 +484,9 @@
       "C": "\\(\\frac{2}{3}\\)",
       "D": "\\(\\frac{4}{5}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45919?exam_type=waec&type=obj&page=270",
     "correct_answer": "B",
-    "explanation": "Let x represent the entire farmland",
+    "explanation": "",
     "year": "2015"
   },
   {
@@ -463,8 +498,9 @@
       "C": "33\\(\\frac{1}{2}\\)km",
       "D": "45km"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45934?exam_type=waec&type=obj&page=270",
     "correct_answer": "A",
-    "explanation": "R \\(\\alpha\\) D",
+    "explanation": "2\n2\n2\n2\n2",
     "year": "2015"
   },
   {
@@ -476,8 +512,9 @@
       "C": "25% profit",
       "D": "25% loss"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45942?exam_type=waec&type=obj&page=270",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "Cost price CP of the 100 oranges = \\(\\frac{100}{5}\\) x N40.00selling price SP of the 100 oranges = \\(\\frac{100}{20}\\) x N120= N600.00so, profit or loss per cent= \\(\\frac{SP - CP}{CP}\\) x 100%= \\(\\frac{600 - 800}{800}\\) x 100%= \\(\\frac{-200}{800}\\) x 100%Hence, loss per cent = 25%",
     "year": "2015"
   },
   {
@@ -489,8 +526,9 @@
       "C": "P' \\(\\cap\\) Q \\(\\cap\\) R",
       "D": "(P \\(\\cap\\) Q)'  \\(\\cap\\) R"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45951?exam_type=waec&type=obj&page=270",
     "correct_answer": "A",
-    "explanation": "No official explanation is available for this question at this time. Please check contributions posted by others below. If you can provide an explanation to help other student learn, please",
+    "explanation": "click here",
     "year": "2015"
   },
   {
@@ -502,8 +540,9 @@
       "C": "-3",
       "D": "-4"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45958?exam_type=waec&type=obj&page=271",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "\\(\\frac{1}{4}\\)p + 3p = 10...(1)2p - \\(\\frac{1}{3}\\)q = 7...(2)Multiply equation (2) by 3 to clear fraction3 x 2p - 3 x \\(\\frac{1}{3}\\)q = 3 x 76p - q = 216p - 21 = q....(3)substituting 6p - 21 for q in (1)\\(\\frac{1}{4}\\)p + 3(6p - 21) = 10...(4)Multiply equation (4) by 4 to clear fraction4 x \\(\\frac{1}{4}\\)p + 4 x 3(6p - 21) = 4 x 10p + 12(6p - 21) = 40p + 72p - 25273p = 292p = \\(\\frac{292}{73}\\)= 4",
     "year": "2015"
   },
   {
@@ -515,8 +554,9 @@
       "C": "2.5",
       "D": "3.0"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45963?exam_type=waec&type=obj&page=271",
     "correct_answer": "B",
-    "explanation": "mean = \\(\\bar{x}\\) = \\(\\frac{\\sum x}{n}\\)",
+    "explanation": "",
     "year": "2015"
   },
   {
@@ -528,8 +568,9 @@
       "C": "5.7m2",
       "D": "5.9m2"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/45982?exam_type=waec&type=obj&page=271",
     "correct_answer": "A",
-    "explanation": "",
+    "explanation": "2\n2\n2\n2",
     "year": "2015"
   },
   {
@@ -541,8 +582,9 @@
       "C": "120o",
       "D": "144o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46003?exam_type=waec&type=obj&page=271",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
     "year": "2015"
   },
   {
@@ -554,8 +596,9 @@
       "C": "\\(\\frac{4}{13}\\)",
       "D": "\\(\\frac{1}{26}\\)"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46009?exam_type=waec&type=obj&page=271",
     "correct_answer": "C",
-    "explanation": "Two word mathematics is first rewritten as mathematics, since every letter of mathematics appears once in the english alphabet.",
+    "explanation": "",
     "year": "2015"
   },
   {
@@ -567,8 +610,9 @@
       "C": "16cm",
       "D": "15cm"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46027?exam_type=waec&type=obj&page=272",
     "correct_answer": "B",
-    "explanation": "",
+    "explanation": "2\n2\n2\n2\n2",
     "year": "2015"
   },
   {
@@ -580,8 +624,9 @@
       "C": "112o",
       "D": "124o"
     },
+    "answer_url": "https://myschool.ng/classroom/mathematics/46028?exam_type=waec&type=obj&page=272",
     "correct_answer": "D",
-    "explanation": "",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no\no",
     "year": "2015"
   }
 ]
