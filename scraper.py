@@ -54,6 +54,7 @@ async def get_answer_and_explanation(session, answer_url, semaphore):
                         correct_answer = answer_h5.text.replace('Correct Answer:', '').replace('Option', '').strip()
 
                 year = None
+                year = None
                 breadcrumb_items = soup.find_all('li', class_='breadcrumb-item')
                 if len(breadcrumb_items) > 3:
                     year_text_tag = breadcrumb_items[3].find('a')
@@ -169,7 +170,7 @@ def sanitize_filename(filename):
 async def main():
     parser = argparse.ArgumentParser(description="Scrape past exam questions from myschool.ng")
     parser.add_argument("subject_name", type=str, nargs='?', default=None, help="The name of the subject to scrape (e.g., 'Mathematics').")
-    parser.add_argument("--exam_type", type=str, choices=['waec', 'jamb'], help="The type of exam (waec or jamb).")
+    parser.add_argument("--exam_type", type=str, choices=['waec', 'jamb', 'neco'], help="The type of exam (waec, jamb, or neco).")
     parser.add_argument("--start_year", type=int, default=2010, help="The starting year for scraping.")
     parser.add_argument("--end_year", type=int, default=2024, help="The ending year for scraping.")
     parser.add_argument("--strict", action='store_true', help="If set, only save questions that have both options and a correct answer.")
