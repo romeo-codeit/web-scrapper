@@ -54,13 +54,13 @@ async def get_answer_and_explanation(session, answer_url, semaphore):
                         correct_answer = answer_h5.text.replace('Correct Answer:', '').replace('Option', '').strip()
 
                 year = None
-                year = None
-                breadcrumb_items = soup.find_all('li', class_='breadcrumb-item')
-                if len(breadcrumb_items) > 3:
-                    year_text_tag = breadcrumb_items[3].find('a')
-                    if year_text_tag:
-                        year_text = year_text_tag.text.strip()
-                        year = ''.join(filter(str.isdigit, year_text))
+                # Find any 'a' tag that contains the exam type and a year
+                year_pattern = re.compile(r'(?:NECO|WAEC|JAMB)\s*(\d{4})')
+                year_tag = soup.find('a', string=year_pattern)
+                if year_tag:
+                    match = year_pattern.search(year_tag.text)
+                    if match:
+                        year = match.group(1)
 
                 return correct_answer, explanation, year, answer_url
         except (aiohttp.ClientError, asyncio.TimeoutError) as e:
