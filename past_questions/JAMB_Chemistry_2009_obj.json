@@ -1,0 +1,702 @@
+[
+  {
+    "number": "505",
+    "text": "A mixture of sugar and sulphur can be separated by?",
+    "options": {
+      "A": "dissolution in water, evapouration and filtration",
+      "B": "filtration, evaporation and dissolution in water",
+      "C": "dissolution in water, filtration and evaporation",
+      "D": "evaporation, dissolution in water and filtration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4283?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "Sulfur is\u00a0insoluble in water but sugar is soluble.\nHence; dissolution of sugar to have sulfur as the only insoluble solid.\nFiltration:\u00a0The filtrate is the liquid that passes through the filtration filter.\u00a0Meanwhile, the residue is the solid that remains on the filtration filter.\nEvaporation: water as part of the\u00a0filtrate changes\u00a0into a gas to leave\u00a0sugar as residue.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "506",
+    "text": "Which of the following is a physical change?",
+    "options": {
+      "A": "Freezing ice cream",
+      "B": "dissolving calcium in water",
+      "C": "burning kerosene",
+      "D": "Exposing white phosphorus to air"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4286?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "A",
+    "explanation": "Freezing is a physical change.\u00a0It involves a liquid changing states to a solid. Thus, freezing a substance will not change its chemical identity, but its state.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "507",
+    "text": "The percentage of water of crystallization in ZnSO\\(_4\\).7H\\(_2\\)O is?\n[Zn = 65, S = 32, O = 16, H = 1]",
+    "options": {
+      "A": "33%",
+      "B": "44%",
+      "C": "55%",
+      "D": "87%"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4287?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "B",
+    "explanation": "molar mass of water [7H\\(_2\\)O] = 7[ 2 * 1 + 16]\u00a0\u2192 7 * 18 = 126g/mol\nmolar mass of\u00a0ZnSO\\(_4\\).7H\\(_2\\)O = [65 * 1] + [32 * 1] + [16 * 4] +\u00a07[ 2 * 1 + 16]\n\u2192 65 + 32 + 64 + 126 = 287g/mol\npercentage of water of crystallization = \\(\\frac{mass of water of crystallization}{mass of hydrated compound} * 100%\\)\n\u2192 \\(\\frac{126}{287} * 100\\) =\u00a043.9\n\u2248 44%\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "508",
+    "text": "0.0075 mole of calcium trioxocarbonate (IV) is added to 0.015 mole of a solution of hydrochloric acid. The volume of gas evolved at s.t.p is?\n[Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "options": {
+      "A": "224cm3",
+      "B": "168cm3",
+      "C": "112cm3",
+      "D": "100cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4291?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "B",
+    "explanation": "1mole of gas at STP = 22.4dm\\(^3\\)0.0075 mole of CaCO3 \u00a0= xdm\\(^3\\)\ncross multiply;\nwhere 22.4dm\\(^3\\) = 22400cm\\(^3\\)\nx * 1 = 0.0075 * 22400 \u2192 168cm\\(^3\\)\nthe gas CO2 which evolved was gotten from CaCO3 so we use the number of moles of CaCO3 only\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "509",
+    "text": "A gas exerts pressure on its container because?",
+    "options": {
+      "A": "the molecules of a gas collide with the walls of the container",
+      "B": "some of the molecules are moving faster than others",
+      "C": "of the collisions of the molecules with each other",
+      "D": "of the mass of the molecules of the gas"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4293?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "A",
+    "explanation": "Gas pressure is\u00a0the name given to the force exerted by gas particles colliding with the wall of their container.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "510",
+    "text": "The basic assumption in the kinetic theory of gases that the collisions of the gaseous molecules are perfectly elastic implies that the?",
+    "options": {
+      "A": "forces of attraction and repulsion are in equilibrium",
+      "B": "gaseous molecules can occupy any available space",
+      "C": "gaseous molecules will continue their motion indefinitely",
+      "D": "gases can be compressed"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4294?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "C",
+    "explanation": "An elastic\u00a0collision\u00a0is an encounter between two bodies in which the total kinetic energy of the two bodies remains the same.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "511",
+    "text": "If an atom is represented as \\( _{11}^{23}X \\), which of the following deduction is correct?",
+    "options": {
+      "A": "it contains 12 protons",
+      "B": "it forms a covalent chloride",
+      "C": "its atomic number is 23",
+      "D": "it is an alkali metal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4296?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "Sodium has atomic / proton number of 11 and belongs to Group 1[alkali metals] on the periodic table\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "512",
+    "text": "Cathode rays causes an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays?",
+    "options": {
+      "A": "are positively charged",
+      "B": "are negatively charged",
+      "C": "have mass",
+      "D": "travel in straight lines"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4297?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "Cathode rays travel in a straight line and can cast sharp shadows.\nCathode rays are negatively charged.\nElectric field and magnetic field deflect cathode rays.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "513",
+    "text": "Which quantum number divides shells into orbitals?",
+    "options": {
+      "A": "principal",
+      "B": "Arzimuthal",
+      "C": "Magnetic",
+      "D": "Spin"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4299?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "B",
+    "explanation": "The principal quantum number, n,\u00a0describes the energy of an electron and the most probable distance of the electron from the nucleus.\nIn other words, it refers to the size of the orbital and the energy level an electron is placed in.\nThe\u00a0azimuthal quantum number\u00a0is a quantum number for an atomic orbital that determines its orbital angular momentum and describes the shape of the orbital.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "514",
+    "text": "The type of bonding in \\({Cu(NH_3)_4}^2\\)+ is?",
+    "options": {
+      "A": "coordinate covalent",
+      "B": "electrovalent",
+      "C": "metallic",
+      "D": "covalent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4300?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "A",
+    "explanation": "\\({Cu(NH_3)_4}^2\\)+: The bonding in this ion consists ofcoordinate covalent bondswith all bonding electrons supplied by the nitrogen atom.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "515",
+    "text": "The mixture of gases used in a photographer's flash tube is?",
+    "options": {
+      "A": "argon and krypton",
+      "B": "krypton and xenon",
+      "C": "helium and argon",
+      "D": "argon and xenon"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4301?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "B",
+    "explanation": "krypton and xenon for high-speed pictures\u00a0in a photographer's flash tube\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "516",
+    "text": "When sodium trioxocarbonate (IV) decahydrate loses its water of crystallization to the atmosphere, the process is?",
+    "options": {
+      "A": "deliquescence",
+      "B": "efflorescence",
+      "C": "hygroscopic",
+      "D": "effervesecence"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4303?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "efflorescence, spontaneous loss of water by a hydrated salt, e.g\u00a0\u00a0Sodium trioxocarbonate (IV) decahydrate\u00a0\\(Na_2CO_3.\u00a010H_2O)\\) also\u00a0known as washing soda\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "517",
+    "text": "Water can be obtained as the only product during the?",
+    "options": {
+      "A": "combustion of hydrocarbons",
+      "B": "neutraliization of an acid by base",
+      "C": "combustion of hydrogen",
+      "D": "electrolysis of brine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4304?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "C",
+    "explanation": "In flame of pure hydrogen burning in air, the hydrogen (H2) reacts with oxygen (O2) to form\u00a0water \\(H_2O\\)\u00a0with the release of energy.\nHydrocarbon combustion\u00a0refers to the chemical reaction where a\u00a0hydrocarbon\u00a0reacts with oxygen to create carbon dioxide, water, and heat.\nThe electrolysis of brine yields\u00a0chlorine, hydrogen and sodium hydroxide.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "518",
+    "text": "If 10.5g of lead (II) trioxonitrate (V) is dissolved in 20cm3 of distilled water at 18oC, the solubility of the solute in mol dm-3 is\n[Pb = 207, N = 14, O = 16]",
+    "options": {
+      "A": "1.60",
+      "B": "5.25",
+      "C": "16.00",
+      "D": "525.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4307?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "519",
+    "text": "For a given solute, the concentration of its saturated solution in different solvents are",
+    "options": {
+      "A": "the same at the same temperature",
+      "B": "different at the same temperature",
+      "C": "the same at different temperature",
+      "D": "constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4308?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "520",
+    "text": "The major source of oxides of nitrogen is from the burning of",
+    "options": {
+      "A": "coal",
+      "B": "wood",
+      "C": "fuel",
+      "D": "chlrofluorocarbons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4309?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "521",
+    "text": "The acid used in electrolysis of water is dilute?",
+    "options": {
+      "A": "HNO3",
+      "B": "CH3COOH",
+      "C": "H2SO4",
+      "D": "HCl"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4311?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "C",
+    "explanation": "The electrolyte is dilute\u00a0sulfuric\u00a0acid (= acidified\u00a0water) which, during\u00a0electrolysis\u00a0is split into hydrogen and oxygen gases.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "522",
+    "text": "What volume of 1.5M solution of KOH would contain 0.045 moles",
+    "options": {
+      "A": "67.50 cm3",
+      "B": "30.00 cm3",
+      "C": "6.75 cm3",
+      "D": "3.00 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4312?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "523",
+    "text": "The salt formed from a reaction between citric acid and sodium hydroxide in solution will be?",
+    "options": {
+      "A": "acidic",
+      "B": "basic",
+      "C": "complex",
+      "D": "neutral"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4314?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "Citric acid has 3 carboxyl groups, therefore, when reacts with NaOH, there is a simple salification reaction that will produce the\u00a0trisodium citrate /\u00a0sodiumcitrate.\nTrisodium citrate isa tribasic salt of citric acid. It is produced by complete neutralization of citric acid with high purity sodium hydroxide or carbonate and subsequent crystallization and dehydration.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "524",
+    "text": "The colour changes observed when testing for reducing agents using acidified potassium heptaoxodichromate (VI) solution is?",
+    "options": {
+      "A": "yellow to purple",
+      "B": "orange to green",
+      "C": "green to orange",
+      "D": "purple to yellow"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4315?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "Reducing agent like SO\\(_2\\).\nSulphur dioxide\u00a0gas (SO\\(_2\\)) is bubbled through\u00a0acidified potassium\u00a0dichromate. The orange solution turns green.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "525",
+    "text": "The oxidation state of Cr in K\\(_2\\)Cr\\(_2\\)O\\(_7\\) is?",
+    "options": {
+      "A": "+7",
+      "B": "+6",
+      "C": "+5",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4317?exam_type=jamb&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "Potassium dichromate,\u00a0K\\(_2\\)Cr\\(_2\\)O\\(_7\\)\n\u2192 [1\u00a0* 2] + [Cr * 2] + [-2\u00a0* 7] = 0\n\u2192 2\u00a0+ 2Cr -\u00a014\u00a0= 0\n\u2192 2Cr = 12\n\u2192Cr = \\(\\frac{12}{2}\\) \u2192 6\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "526",
+    "text": "Which of the following metals is purified commercially by electrolysis?",
+    "options": {
+      "A": "Zn",
+      "B": "Fe",
+      "C": "Sn",
+      "D": "Cu"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4318?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "Electrolysis is used extensively\u00a0in metallurgical processes, such as in extraction (electrowinning) or purification (electrorefining) of metals from ores or compounds and in deposition of metals from solution (electroplating).\nCopper\u00a0is purified by\u00a0electrolysis\u00a0. Electricity is passed through solutions containing\u00a0copper\u00a0compounds, such as\u00a0copper(II) sulfate.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "527",
+    "text": "What current will deposit 3.25g of zinc in 2hrs?\n[Zn = 65, F = 96500 mol-]",
+    "options": {
+      "A": "3.25A",
+      "B": "2.00A",
+      "C": "1.34A",
+      "D": "0.67A"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4320?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "528",
+    "text": "C(s) + H2O(g) \u2192 H2(g) + CO2(g)\n\u0394G for the reaction above at 1300k is -43KJ. At this temperature, the reaction is?",
+    "options": {
+      "A": "not feasible",
+      "B": "at equilibrium",
+      "C": "feasible",
+      "D": "exothermic"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4321?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "C",
+    "explanation": "For a reaction to be feasible,\u0394G has to be negative.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "529",
+    "text": "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth - to - mouth to each other at room temperature. The entropy in the mixture of gases is likely to?",
+    "options": {
+      "A": "remain unchange",
+      "B": "increase",
+      "C": "decrease",
+      "D": "change"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4322?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "B",
+    "explanation": "When two or more gases are mixed together at constant volume, there is an increase in entropy.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "530",
+    "text": "In the diagram above, which of the curves represents the evolution of oxygen with time in the equation 2KClO3(s) \u2192 2KCl(s) + 3O2(g)?",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "R"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4323?exam_type=jamb&type=obj&page=106",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "531",
+    "text": "A catalyst increase the rate of a chemical reaction by providing a path that?",
+    "options": {
+      "A": "raise the activiation energy",
+      "B": "increase the temperature",
+      "C": "lowers the activation energy",
+      "D": "increase the concentration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4324?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "The rate of a reaction can be increased by adding a suitable catalyst.\nA catalyst is a substance which increases the rate of a chemical reaction but it is not used up (remains chemically unchanged at the end).\nIt provides an alternative reaction pathway of lower activation energy.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "532",
+    "text": "CuO(s) + H\\(_2\\)(g) \u2194 Cu(s) + H\\(_2\\)O(g)\nWhat is the effect of increasing the pressure on the equilibrium reaction above?",
+    "options": {
+      "A": "The equilibrium is shifted to the left",
+      "B": "The equilibrium is shifted to the right",
+      "C": "There is no effect",
+      "D": "More H2(g) is produced"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4325?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "When amount / volume of gaseous reactants equal\u00a0amount / volume of gaseous products, the change in pressure has no effect on the equilibrium position.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "533",
+    "text": "The equilibrium of an endothermic reaction which proceeds with an increase in volume can be shifted in the reverse direction by",
+    "options": {
+      "A": "increasing the temperature and decreasing the pressure",
+      "B": "increasing the pressure and increasing the temperature",
+      "C": "decreasing the temperature and increasing the pressure",
+      "D": "decreasing the pressure and decreasing the temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4326?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "534",
+    "text": "The oxidation of ammonia in excess air produces?",
+    "options": {
+      "A": "NO",
+      "B": "N2O",
+      "C": "NO2",
+      "D": "N2O4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4327?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "A",
+    "explanation": "In the presence of heated platinum catalyst, ammonia reacts with excess air to produce nitrogen (II) oxide, NO, (instead of nitrogen) and water.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "535",
+    "text": "Hydrogen sulphide gas can act as?",
+    "options": {
+      "A": "an oxidizing agent",
+      "B": "a dehydrating agent",
+      "C": "a bleaching agent",
+      "D": "a precipitating agent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4328?exam_type=jamb&type=obj&page=107",
+    "correct_answer": "D",
+    "explanation": "When\u00a0Hydrogen sulphide gas is bubbled through solutions of such metals, the colored sulphides are precipitated.\nHydrogen sulphide\u00a0is a also strong reducing agent.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "536",
+    "text": "The gasification of coke is used for the manufacturing of?",
+    "options": {
+      "A": "producer gas",
+      "B": "natural gas",
+      "C": "synthetic gas",
+      "D": "industrial gas"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4329?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "C",
+    "explanation": "Gasification is a process that converts biomass- or fossil fuel-based carbonaceous materials into synthetic gases\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "537",
+    "text": "The gas that is most useful in protecting humans against solar radiation is?",
+    "options": {
+      "A": "chlorine",
+      "B": "ozone",
+      "C": "carbon (IV) oxide",
+      "D": "hydrogen sulphide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4340?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "B",
+    "explanation": "The ozone layer in the stratosphere\u00a0absorbs a portion of the radiation from the sun, preventing it from reaching the planet's surface.\nMost importantly, it absorbs the portion of UV light called UVB.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "538",
+    "text": "Which of the following allotrope of carbon is a constituent of a lead pencil?",
+    "options": {
+      "A": "Graphite",
+      "B": "Diamond",
+      "C": "Lampblack",
+      "D": "Soot"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4341?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "A",
+    "explanation": "When an element exists in more than one crystalline form, those forms are called allotropes; the two most common allotropes of carbon are\u00a0diamond and graphite.\nGraphite is used in\u00a0pencils and lubricants. It is a good conductor of heat and electricity. Its high conductivity makes it useful in electronic products such as electrodes, batteries, and solar panels.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "539",
+    "text": "which of the following metals will show the highest metallic character?",
+    "options": {
+      "A": "Zinc",
+      "B": "Copper",
+      "C": "Barium",
+      "D": "Calcium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4342?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "C",
+    "explanation": "The\u00a0reactivity series\u00a0of metals, also known as the activity series, refers to the arrangement of metals in the descending order of their reactivities.\nNa > Ca > Mg > Al > Zn > Fe > Sn > Pb > Cu > Ag.\nConsidering\u00a0metallic property which increases down the group, barium will be ranked calcium\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "540",
+    "text": "Copper metal dissolves in concentrated trioxonitrate (V) acid with the resultant evolution of?",
+    "options": {
+      "A": "CO2",
+      "B": "SO2",
+      "C": "NO2",
+      "D": "CO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4343?exam_type=jamb&type=obj&page=108",
+    "correct_answer": "C",
+    "explanation": "Oxidation of Copper turnings\u00a0with concentrated trioxonitrate (V) acid\u00a0wil\nCu + 4HNO\\(_3\\)\u00a0\u2192 CuNO\\(_3\\)\u00a0+ 2H\\(_2\\)O +2NO\\(_2\\).\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "541",
+    "text": "The type of iron that is best suited for welding, making nails, chains and iron rods is?",
+    "options": {
+      "A": "pig iron",
+      "B": "wrought iron",
+      "C": "cast iron",
+      "D": "iron pyrites"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4344?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "uses\u00a0of wrought iron\nIt is used to make decor items like table base, candle holder, curtain rods etc.It is used in making pipes.It is used in making fences and gates.It is used in making nuts, bolts, rivets etc.It is used in making chains.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "542",
+    "text": "In the electrolytic extraction of aluminum, the function of the molten cryolite is to",
+    "options": {
+      "A": "precipitate aluminium hdroxide",
+      "B": "lower the melting point of aluminium oxide",
+      "C": "act as a raw materials",
+      "D": "act as a solvent"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4345?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "B",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "543",
+    "text": "One of the products of the thermal decomposition of sodium trioxonitrate (V) is?",
+    "options": {
+      "A": "sodium",
+      "B": "nitrogen",
+      "C": "sodium dioxonitrate (III)",
+      "D": "sodium oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4346?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "544",
+    "text": "A cracking process in petroleum refining can be represented by",
+    "options": {
+      "A": "heptane to heptene",
+      "B": "heptane to 3-methylhexane",
+      "C": "heptane to propene and butane",
+      "D": "heptane to 2,3,3-trimethybutane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4347?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "545",
+    "text": "Which of the following molecules has two other positional isomers?",
+    "options": {
+      "A": "CH3CH2Br",
+      "B": "CH3CHBrCH3",
+      "C": "CBr2F2",
+      "D": "CH2CHBrCH2Br"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4348?exam_type=jamb&type=obj&page=109",
+    "correct_answer": "D",
+    "explanation": "Positional isomers, also known as position isomers, are\u00a0molecules with the same molecular formula and the same functional groups, but where the functional groups are in different positions on the carbon chain.\u00a0This type of structural isomerism results in molecules with distinct properties despite having the same overall chemical composition.\nIn Option D, the compound\u00a0 CH\\(_2\\)CHBrCH\\(_2\\)Br (1,2- dibromopropane) has two other isomers with itself as 1,1-dibromopropane and 2,2-dibromopropane. Hence, it is the correct answer.",
+    "year": "2009"
+  },
+  {
+    "number": "546",
+    "text": "Which of the following class of compounds can exist as dipolar ions in solution?",
+    "options": {
+      "A": "Alkanoic acid",
+      "B": "Fatty acids",
+      "C": "Dialkanoic acids",
+      "D": "Amino acids"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4349?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "547",
+    "text": "Lucas reagent is used to test for?",
+    "options": {
+      "A": "alkanes",
+      "B": "alkanoic acids",
+      "C": "alkanols",
+      "D": "amines"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4456?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "Lucas' reagent is a solution of anhydrous zinc chloride in concentrated hydrochloric acid. This solution is usedto classify alcohols.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "548",
+    "text": "A compound commonly used for sterilization and preservation of specimens and food is",
+    "options": {
+      "A": "ethanol",
+      "B": "benzene",
+      "C": "ether",
+      "D": "ammonia"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4457?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "549",
+    "text": "An organic compound reacted with bromine water to give a colourless solution. The compound is probably an?",
+    "options": {
+      "A": "alkene",
+      "B": "alkanal",
+      "C": "alkyl",
+      "D": "alkanone"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4458?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "A",
+    "explanation": "Alkenes react in the cold with pure liquid bromine, or with a solution of bromine in an organic solvent like tetrachloromethane. The double bond breaks, and a bromine atom becomes attached to each carbon. The bromine loses its original red-brown colour to give a colourless liquid.\nAlkynes also react with bromine, decolorising it though not as immediate as alkenes.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "550",
+    "text": "Which of the following hydrocarbons is mainly used as fuel?",
+    "options": {
+      "A": "Methylene",
+      "B": "Ethylene",
+      "C": "Methane",
+      "D": "Ethyne"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4459?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "551",
+    "text": "The molecular formula of a common organic laboratory anaesthetic is",
+    "options": {
+      "A": "CHCl3",
+      "B": "CHI3",
+      "C": "CCl4",
+      "D": "CHF3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4460?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "A",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "552",
+    "text": "The simplest branched-chain hydrocarbon is",
+    "options": {
+      "A": "ethane",
+      "B": "ethene",
+      "C": "propane",
+      "D": "butane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4461?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "D",
+    "explanation": "The smallest branched alkane is isobutane. Notice that isobutane has the same molecular formula, C4H10, as n-butane but has a different structural formula.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "553",
+    "text": "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have?",
+    "options": {
+      "A": "a single bond",
+      "B": "a double bond",
+      "C": "a triple bond",
+      "D": "an ionic bond"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4462?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "B",
+    "explanation": "In chemistry, an alkene is\u00a0a hydrocarbon containing a carbon\u2013carbon double bond. Alkene is often used as synonym of olefin, that is, any hydrocarbon containing one or more double bonds.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "1731",
+    "text": "If the relative atomic\u00a0mass of an element is not a whole number, it can be deduced that the element is?",
+    "options": {
+      "A": "Naturally radioactive",
+      "B": "abundant in nature",
+      "C": "a transition metal",
+      "D": "an isotopic mixture"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/44097?exam_type=jamb&type=obj&page=347",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  }
+]

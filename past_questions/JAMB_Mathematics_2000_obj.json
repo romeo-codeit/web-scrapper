@@ -1,0 +1,562 @@
+[
+  {
+    "number": "32",
+    "text": "Let P = {1, 2, u, v, w, x}; Q = {2, 3, u, v, w, 5, 6, y} and R = {2, 3, 4, v, x, y}.\n\nDetermine (P-Q) \u2229 R",
+    "options": {
+      "A": "{1, x}",
+      "B": "{x y}",
+      "C": "{x}",
+      "D": "\u0278"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/552?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "P = {1,2,u,v,w,x}Q = {2,3,u,v,w,5,6,y}R = {2,3,4,v,x,y}P - Q = {1,x}(P - Q) \u2229 R = {1,x} \u2229 {2,3,4,v,x,y} = {x}\nNB: The set P\u2212Qconsists of elements that are in P\u00a0but not in Q.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "33",
+    "text": "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?",
+    "options": {
+      "A": "480,000",
+      "B": "249,696",
+      "C": "249,600",
+      "D": "244,800"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/554?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "1st year, Population = 240,000 x (\\(\\frac{2}{100}\\)) = 4800.Being the 2nd year population = 240,000 +\u00a04800 = 244800.Increase in Pop. in 2nd year = 244800 x (\\(\\frac{2}{100}\\)) = 4896Jan 2000, Pop. = 244800 + 4896 = 249,696\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "34",
+    "text": "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively.",
+    "options": {
+      "A": "1, -2",
+      "B": "-2, 1",
+      "C": "\\(\\frac{-2}{5}\\), 1",
+      "D": "2, 3/5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/555?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.\nUse \u00a0\\(\\sqrt{3}-2\\sqrt{2}\\) as the conjugate for Rationalization\n\\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) X\u00a0 \\(\\frac{(\\sqrt{3}-2\\sqrt{2})}{(\\sqrt{3}-2\\sqrt{2})}\\)\n\\(\\frac{6 - 4\\sqrt{6} - \\sqrt{6} + 4}{3 - 2\\sqrt{6} + 2\\sqrt{6} - 8}\\)\n=\\(\\frac{10 - 5\\sqrt{6}}{-5}\\)\n= -2 + \\(\\sqrt{6}\\) =\u00a0\\(m +n\\sqrt{6}\\)\n\u2234 m = -2 and n = 1\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "35",
+    "text": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
+    "options": {
+      "A": "8",
+      "B": "24",
+      "C": "62",
+      "D": "86"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/556?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "x = no. of ppl that like none.no. of ppl that like both Traditional and Modern music, which is equal to 3xModern Music\u00a0= 60 - 3xTraditional Music\u00a0= 50 - 3x60-3x + 50 - 3x + 3x + x\u00a0 = 94110 - 3x + x = 94-2x = 94 - 110=>-2x = -16,\nthis x = 8.Members that like only one music:= 60 - 3x + 50 - 3x= 60 - 3[8] + 50 - 3[8]= 60 - 24 + 50 - 24= 36 + 26 = 62\nMembers that like only one type of music = 62\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "36",
+    "text": "Evaluate \\(\\frac{(2.813 \\times\u00a010^{-3} \\times\u00a01.063)}{(5.637 \\times\u00a010^{-2})}\\) reducing each number to two significant figures and leaving your answer in two significant figures.",
+    "options": {
+      "A": "0.056",
+      "B": "0.055",
+      "C": "0.054",
+      "D": "0.54"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/562?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{2.813 \\times 10^{-3} \\times 1.063}{5.637 \\times 10^{-2}}\\)\n= \\(\\frac{0.002813 \\times 1.063}{0.05637}\\)\n\\(\\approxeq \\frac{0.0028 \\times 1.1}{0.056}\\)\n= \\(0.055\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "37",
+    "text": "A man wishes to keep his money in a savings deposit at 25% compound interest so that after three years he can buy a car for N150,000. How much does he need to deposit?",
+    "options": {
+      "A": "N112,000.50",
+      "B": "N96,000.00",
+      "C": "N85,714.28",
+      "D": "N76,800.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/564?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "n\n3\n3\n3\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "38",
+    "text": "If 314\\(_{10}\\)\u00a0- 256\\(_7\\)\u00a0= 340\\(_x\\), find x.",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/567?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "\\(314_{10} - 256_7 = 340_x\\)Convert 2567 and 340x to base 10, such that:314 - 139 = 3x\\(^2\\) + 4x=> \\(3x^2\\) + 4x - 175 = 0 (quadratic)Factorising, (x - 7) (3x + 25) = 0,either x = 7 or x = -25/3 ( but x cannot be negative)Therefore, x = 7.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "39",
+    "text": "Simplify \\(\\frac{3(2^{n+1}) - 4(2^{n-1})}{2^{n+1} - 2^n}\\)",
+    "options": {
+      "A": "2n+1",
+      "B": "2n-1",
+      "C": "4",
+      "D": "1/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/573?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "Start by expanding \\(\\frac{3(2^{n+1}) - 4(2^{n-1})}{2^{n+1} - 2^n}\\):\n\\(\\frac{3 \\times\u00a02^n \\times\u00a02^1 - 2^2 \\times\u00a02^n \\times\u00a02^{-1}}{2^n \\times\u00a02 - 2^n}\\)\nNUMERATOR : 2\\(^n\\) (\u00a0\u00a03\\(^1\\) X 2\\(^1\\)\u00a0 -\u00a0 2\\(^2\\)\u00a0X 2\\(^{-1}\\) )\n--> 2\\(^n\\) ( 3 X 2 \u2014 4 X \\(\\frac{1}{2}\\) )\n--> 2\\(^n\\) ( 6 - 2 )\n--> 2\\(^n\\) (4)\nDENOMINATOR : 2\\(^n\\) ( 2\\(^1\\)\u00a0 -\u00a0 1\u00a0)\n--> 2\\(^n\\)\u00a0(\u00a02 - 1)\n--> 2\\(^n\\)\n\u21d2\u00a0\\(\\frac{2^n ( 4)}{2^n}\\)\n= 4\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "40",
+    "text": "If \\(P344_{6} - 23P2_{6} = 2PP2_{6}\\), find the value of the digit P.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/576?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "Convert everything to base 10 and collect like terms, such that\n\\(210P - 42P = 434 + 406\\)\n\\(168P = 840\\)\n\\(P = 840/168 = 5\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "41",
+    "text": "A binary operation * is defined by a * b = a\\(^b\\). If a * 2 = 2 - a, find the possible values of a.",
+    "options": {
+      "A": "1, -1",
+      "B": "1, 2",
+      "C": "2, -2",
+      "D": "1, -2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/579?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "a * b = a\\(^b\\)\na * 2 = a\\(^2\\) = 2 - a\na\\(^2\\) + a\u00a0- 2 = 0\na\\(^2\\) + 2a - a - 2 = 0\na(a+2) - 1(a+2) = 0\n(a-1)(a+2) = 0\na = 1, -2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "42",
+    "text": "The 3rd term of an A.P is 4x - 2y and the 9th term is 10x - 8y. Find the common difference.",
+    "options": {
+      "A": "19x - 17y",
+      "B": "8x - 4y",
+      "C": "x - y",
+      "D": "2x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/582?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "n = 3, U\\(_3\\) = 4x - 2y,U\\(_n\\) = a + (n-1)d,4x - 2y = a + 2d... (1)U\\(_9\\) = 10x - 8y,10x - 8y = a + 8d... (2)Solving (1) and (2),\nsubtract eqn i\u00a0from iia-a + 8d - 2d = 10x -4x - 8y- (-2y)6d = 6x - 8y+ 2y.6d= 6x - 6y6d = 6( x-y)\nd = x - y\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "43",
+    "text": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity",
+    "options": {
+      "A": "p",
+      "B": "p -1",
+      "C": "p/(p-1)",
+      "D": "p/(p+1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/719?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "If P\\(^{-1}\\) is the inverse of P and O is the identity, Then P\\(^{-1}\\) * P = P * P\\(^{-1}\\) = 0i.e. P\\(^{-1}\\) + P - P\\(^{-1}\\).P = 0P\\(^{-1}\\) - P\\(^{-1}\\).P = -PP\\(^{-1}\\)(1 - P) = -PP\\(^{-1}\\) =\\(\\frac{-P}{(P-1)}\\)= \\(\\frac{P}{(P-1)}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "44",
+    "text": "Evaluate (\\(\\frac{1}{2} - \\frac{1}{4} + \\frac{1}{8} - \\frac{1}{16}\u00a0+ ...) -1\\)",
+    "options": {
+      "A": "2/3",
+      "B": "zero",
+      "C": "-2/3",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/720?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "S\\(_{\u221e}\\)\u00a0= \\(\\frac{\\text{a}}{(1-r)}\\), where a = \\(\\frac{1}{2}\\), r = -\\(\\frac{1}{2}\\).S\\(_{\u221e}\\)\u00a0= \\(\\frac{\\frac{1}{2}}{1 - \\frac{-1}{2}}\\)\u00a0 = \\(\\frac{\\frac{1}{2}}{\\frac{3}{2}}\\) = \\(\\frac{1}{2}\\) x \\(\\frac{2}{3}\\)\\(\\frac{1}{3}\\) - 1 = -\\(\\frac{2}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "45",
+    "text": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax\\(^3\\)\u00a0+ bx\\(^2\\) + cx - 1, find a, b, c in that order.",
+    "options": {
+      "A": "-1/2, 1., 1/2",
+      "B": "1/2, 1, 1/2",
+      "C": "1/2, 1, -1/2",
+      "D": "1/2, -1, 1/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/721?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "This is a polynomial of the 3rd order, thus x should have three answers. Use the factors given to get values of x as 1, -1 and -2.Form three equations, and carry out elimination and subsequent substitution to get a = -1/2, b = 1, and c = 1/2\nEquate each factor to zero to get the values of x\nx-1 = 0, x = 1\nx +1 = 0, x = -1\nx - 2 = 0, x = 2\nsubstitute these value of x in the given equation\n\\(ax^3\u00a0+ bx^2\\) + cx - 1\nwhen x = 1\n\\(ax^3\u00a0+ bx^2\\)\u00a0+ cx - 1\u00a0= a + b + c - 1= 0 ------------------------(1)\nwhen x = -1\n\\(ax^3\u00a0+ bx^2\\)\u00a0+ cx - 1 = -a + b - c - 1 = 0-------------------------(2)\nwhen x = 2\n\\(ax^3\u00a0+ bx^2\\)\u00a0+ cx - 1 = 8a + 4b + 2c - 1 = 0 ----------------------(3)\nadd equations 1 and 2\na + b + c - 1= 0\n+\u00a0 -a + b - c - 1 = 0\nb = 1\nput b\u00a0= 1 into equation (1)\na + b + c - 1= 0 = a + 1 + c -1 = 0\na = - c\nput a = - c into equation(3)\n8a + 4b + 2c - 1 = 0,\n-8c + 4 + 2c - 1 = 0 ( b = 1 remember)\n-6c = -3\nc = \\(\\frac{-3}{-6}\\) = \\(\\frac{1}{2}\\)\nput c =\u00a0\\(\\frac{1}{2}\\) and b = 1 into equation (1)\na + b + c - 1= 0\na + 1 +\u00a0\u00a0\\(\\frac{1}{2}\\) - 1 = 0\na +\u00a0\u00a0\\(\\frac{1}{2}\\) = 0\nthen a = \u00a0\\(\\frac{-1}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "46",
+    "text": "A trader realizes 10x - x\\(^2\\) naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/722?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "y = 10x - x\\(^2\\)dy/dx = 10 - 2xAs dy/dx = 0,10 - 2x = 02x = 10x = 5\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "47",
+    "text": "Solve the inequality 2 - x > x\\(^2\\).",
+    "options": {
+      "A": "x < -2 or x > 1",
+      "B": "x > 2 or x< -1",
+      "C": "-1 < x < 2",
+      "D": "-2 < x < 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/723?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "2 - x > x\\(^2\\)\n2 - x - x\\(^2\\) > 0\n(x+2)(x-1) < 0\nEither (x + 2) > 0 and\u00a0(x - 1) <\u00a00.\nx + 2 > 0 \\(\\implies\\) x > -2.\n-2 < x < 1\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "48",
+    "text": "If \u03b1 and \u03b2 are the roots of the equation 3x\\(^2\\) + 5x - 2 = 0, find the value of 1/\u03b1 + 1/\u03b2",
+    "options": {
+      "A": "-5/3",
+      "B": "-2/3",
+      "C": "1/2",
+      "D": "5/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/787?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "1/\u03b1 + 1/\u03b2 = \u03b2+\u03b1/\u03b1\u03b23x\\(^2\\) + 5x - 2 = 0x\\(^2\\) + 5x/3 - 2/3 = 0\u03b1\u03b2 = -2/3\u03b2+\u03b1 = -5/3\nThus; \u03b2+\u03b1/\u03b1\u03b2 = -5/3\u00a0\u00f7 \u00a0-2/3 = 5/2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "49",
+    "text": "A frustrum of pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. Find the height of the pyramid from which the frustrum was obtained.",
+    "options": {
+      "A": "8.0 m",
+      "B": "8.4 m",
+      "C": "9.0 m",
+      "D": "10.0 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/788?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "The lateral view of the frustrum\n\\(\\tan \\theta = \\frac{6}{1.5} = 4\\)\n\\(\\theta = \\tan^{-1} 4 = 75.96\u00b0\\)\nExtending to the full height of the pyramid, we have\nThe height of the pyramid which formed the frustrum = (6 + x)m,\n\\(\\tan 75.96 = \\frac{6 + x}{2.5}\\)\n\\(6 + x = 2.5 \\times 4 = 10.0\\)\n\\(\\therefore \\text{The height of the pyramid} = 10.0m\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "50",
+    "text": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 50\u00b0, find angle UST.",
+    "options": {
+      "A": "310\u00b0",
+      "B": "130\u00b0",
+      "C": "80\u00b0",
+      "D": "50\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/789?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "See\u00a0 Figure above.Since ST is parallel to UV => angle< U\u00a0= 50\u00b0(alternate to <S.Angle UST = 180\u00b0 - 50\u00b0 = 130\u00b0 (angle on a straight line)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "51",
+    "text": "An equilateral triangle of side \u221a3cm is inscribed in a circle. Find the radius of the circle.",
+    "options": {
+      "A": "2/3 cm",
+      "B": "2 cm",
+      "C": "1 cm",
+      "D": "3 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/791?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "Since the inscribed triangle is equilateral, therefore the angles at all the points = 60\u00b0\nUsing the formula for inscribed circle,\n2R = \\(\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C}\\)\nwhere R = radius of the circle; a, b and c are the sides of the triangle.\n\u21d2 2R = \\(\\frac{\\sqrt{3}}{\\sin 60}\\)\n2R = \\(\\frac{\\sqrt{3}}{\\frac{\\sqrt{3}}{2}}\\)\n2R = 2\nR = 1cm\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "52",
+    "text": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.",
+    "options": {
+      "A": "-\\(\\frac{4}{3}\\)",
+      "B": "-\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{4}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/792?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "Grad of 3y = 4x - 1y = \\(\\frac{4x}{3}\\) - \\(\\frac{1}{3}\\)Grad = \\(\\frac{4}{3}\\)Grad of Ky = x + 3y = \\(\\frac{\\text{x}}{\\text{k}}\\) + \\(\\frac{3}{4}\\)Grad = \\(\\frac{1}{\\text{k}}\\)Since the two lines are perpendicular,\\(\\frac{1}{\\text{k}}\\)\u00a0= -\\(\\frac{3}{4}\\)-3k = 4k = -\\(\\frac{4}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "53",
+    "text": "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is",
+    "options": {
+      "A": "A straight line",
+      "B": "a circle",
+      "C": "the bisector of angle PXQ",
+      "D": "the perpendicular bisector of PQ"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/793?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "A\u00a0perpendicular bisector always divides a line segment through its midpoint. The term bisect itself means dividing equally or uniformly.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "54",
+    "text": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "4",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/794?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "55",
+    "text": "A predator moves in a circle of radius \u221a2 centre (0,0), while a prey moves along the line y = x. If 0 \\(\\leq\\) x \\(\\leq\\) 2, at which point(s) will they meet?",
+    "options": {
+      "A": "(1,1) only",
+      "B": "(1,1) and (1,2)",
+      "C": "(0,0) and (1,1)",
+      "D": "(\u221a2,\u221a2) only"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/795?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "56",
+    "text": "Find the value of \\(\\int^{\\pi}_{0}\\frac{cos^{2}\\theta-1}{sin^{2}\\theta}d\\theta\\)",
+    "options": {
+      "A": "\u03c0",
+      "B": "\u03c0/2",
+      "C": "-\u03c0/2",
+      "D": "-\u03c0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/796?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "\\(\\int^{\\pi}_{0}\\frac{cos^{2}\\theta-1}{sin^{2}\\theta}d\\theta\\)\n= \\(\\int^{\\pi}_{0}\\frac{-sin^{2}\\theta}{sin^{2}\\theta}\\)\u00a0= \\(\\int^{\\pi}_{0}d\\theta = -\\pi\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "57",
+    "text": "If y = 2xcos2x\u00a0- sin2x, find \\(\\frac{dy}{dx}\\) when x = \\(\\frac{\u03c0}{4}\\)",
+    "options": {
+      "A": "\u03c0",
+      "B": "-\u03c0",
+      "C": "\\(\\frac{\u03c0}{2}\\)",
+      "D": "-\\(\\frac{\u03c0}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/833?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "y = 2x cos2x - sin2x\\(\\frac{dy}{dx}\\) = 2 cos2x +(-2x. 2sin2x) - 2cos2x= 2 cos2x - 2x sin2x - cos2x= -2x 2sin2x= -4\u00a0x (\\(\\frac{\u03c0}{4}\\)) sin2 x (\\(\\frac{\u03c0}{4}\\))= -(\u03c0) x 1 = -\u00a0\u03c0\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "58",
+    "text": "A bowl is designed by revolving completely the area enclosed by y = x2 - 1, y = 3 and x \u2265 0 around the y-axis. What is the volume of this bowl?",
+    "options": {
+      "A": "7\u03c0 cubic units",
+      "B": "15\u03c0/2 cubic units",
+      "C": "8\u03c0 cubic units",
+      "D": "17\u03c0/2 cubic units"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/834?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "\u222b30 \u03c0(y+1) dy = \u03c0[y2 + y30= \u03c0(9/2 + 3) = 15\u03c0/2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "59",
+    "text": "If the volume of a hemisphere is increasing at a steady rate of 18\u03c0 m\\(^{3}\\) s\\(^{-1}\\), at what rate is its radius changing when its is 6m?",
+    "options": {
+      "A": "2.50m/s",
+      "B": "2.00 m/s",
+      "C": "0.25 m/s",
+      "D": "0.20 m/s"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/835?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "\\(V = \\frac{2}{3} \\pi r^{3}\\)\nGiven: \\(\\frac{\\mathrm d V}{\\mathrm d t} = 18\\pi m^{3} s^{-1}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d t} = \\frac{\\mathrm d V}{\\mathrm d r} \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} = 2\\pi r^{2}\\)\n\\(18\\pi = 2\\pi r^{2} \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d r}{\\mathrm d t} = \\frac{18\\pi}{2\\pi r^{2}} = \\frac{9}{r^{2}}\\)\nThe rate of change of the radius when r = 6m,\n\\(\\frac{\\mathrm d r}{\\mathrm d t} = \\frac{9}{6^{2}} = \\frac{1}{4}\\)\n= \\(0.25 ms^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "60",
+    "text": "X and Y are two events. The probability of X or Y is 0.7 and that of X is 0.4. If X and Y are independent, find the probability of Y.",
+    "options": {
+      "A": "0.30",
+      "B": "0.50",
+      "C": "0.57",
+      "D": "1.80"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/926?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "61",
+    "text": "If the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1047?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "Mean = \\(\\frac{{0 + (x+2) + (3x+6) + (4x+8)}}{4}\\) = 4=> 0 + (x+2) + (3x+6) + (4x+8) = 168x + 16 = 16x = 0Now prepare a table showing the deviation of each of 0, (x+2), (3x+6), and (4x+8). Adding the deviations will give 12.Thus M.D = \\(\\frac{12}{4}\\) = 3\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "62",
+    "text": "In how many ways can the word MATHEMATICS be arranged?",
+    "options": {
+      "A": "11!/(9! 2!)",
+      "B": "11!/(9! 2! 2!)",
+      "C": "11!/(2! 2! 2!)",
+      "D": "11!/(2! 2!)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1050?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "Number of letter in MATHEMATICS = 11Number of letter M = 2Number of letter T\u00a0= 2Number of letter A = 2Arrangement = 11!/(2! 2! 2!) ways\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "63",
+    "text": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f).\n\nIf a pie chart is used to depict the data, the angle corresponding to 4 is?",
+    "options": {
+      "A": "10\u00b0",
+      "B": "16\u00b0",
+      "C": "40\u00b0",
+      "D": "60\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1058?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "64",
+    "text": "If U = {x : x is an integer and 1 \\(\\leq\\) x \\(\\leq\\) 20}\nE1 = {x : x is a multiple of 3}\nE2 = {x : x is a multiple of 4}\nand an integer is picked at random from U, find the probability that it is not in E2",
+    "options": {
+      "A": "3/4",
+      "B": "3/10",
+      "C": "1/4",
+      "D": "1/20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1077?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "U = {1, 2, 3, 4, 5,..., 20}E1 = {3, 6, 9, 12, 15, 18}E2 = {4, 8, 12, 16, 20}P(E\\(_2\\)) = \\(\\frac{5}{20}\\)P(not E\\(_2\\)) = 1 - (\\(\\frac{5}{20}\\)) = \\(\\frac{15}{20} = \\frac{3}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "65",
+    "text": "The variance of x, 2x, 3x, 4x and 5x is",
+    "options": {
+      "A": "x\u221a2",
+      "B": "2x2",
+      "C": "x2",
+      "D": "3x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1083?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "66",
+    "text": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5",
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "12",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1106?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "67",
+    "text": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
+    "options": {
+      "A": "15",
+      "B": "28",
+      "C": "30",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1107?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "68",
+    "text": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?",
+    "options": {
+      "A": "y =  \\(\\frac{3x^2}{2}\\) + 2x",
+      "B": "y = (3x2)/2 + x",
+      "C": "y = 3x2 + (x/2)",
+      "D": "y = 3x2 +2x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1110?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "Hints:1. Integrate the given first derivative of f(x) at the boundaries, (0,0)Then solve accordingly to get f(x) = y = \\(\\frac{3x^2}{2}\\) + 2x\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "69",
+    "text": "The expression ax2 + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, c respectively?",
+    "options": {
+      "A": "1, 3, 1",
+      "B": "1, 2, 1",
+      "C": "2, 1, 1",
+      "D": "1, 1, 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1112?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "At x = 1, substituting x = 1 in the equation: ax2 + bx + c = 5;f(1) => a + b + c = 5 .....(1)Taking the first derivative of f(x) in the original equation gives dy/dx = 2ax + b = 2x + 1 (given)....(2)From (2),=> b = 1, and 2ax = 2x, => a = 1. ( comparing coefficients)substituting into (1) 1 + 1 + c = 5, => c = 5 - 2 = 3Thus a = 1, b = 1 and c = 3\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "466",
+    "text": "Evaluate 5-3log52 x 22log23",
+    "options": {
+      "A": "8",
+      "B": "11/8",
+      "C": "2/5",
+      "D": "1/8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10410?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "B",
+    "explanation": "-3log52\n2log23\ni\n5\n5\n-3\n-3\np\n-3log52\n5\n-3\np\nii\n2log23\n5\n2\n2\nq\n22log23\nq\n2\ni x ii\n-3\n1\n23\n1\n8\n9\n8\n1\n8\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "467",
+    "text": "In the diagram above, if \u2220RPS = 50o, \u2220RPQ = 30o and PQ = QR, find the value of \u2220PRS.",
+    "options": {
+      "A": "80o",
+      "B": "70o",
+      "C": "60o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10411?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "B",
+    "explanation": "o\n^\no\n^\n^\no\no\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  }
+]

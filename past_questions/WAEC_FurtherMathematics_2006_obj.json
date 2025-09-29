@@ -1,0 +1,562 @@
+[
+  {
+    "number": "480",
+    "text": "\\(P = {x : 1 \\leq x \\leq 6}\\) and \\(Q = {x : 2 < x < 9}\\) where \\(x \\in R\\), find \\(P \\cap Q\\).",
+    "options": {
+      "A": "\\({x : 2 \\leq x \\leq 6}\\)",
+      "B": "\\({x : 2 \\leq x < 6}\\)",
+      "C": "\\({x : 2 < x < 6}\\)",
+      "D": "\\({x : 2 < x \\leq 6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51808?exam_type=waec&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "481",
+    "text": "Solve the inequality \\(2x^{2} + 5x - 3 \\geq 0\\).",
+    "options": {
+      "A": "\\(x \\leq -3\\) or \\(x \\geq \\frac{1}{2}\\)",
+      "B": "\\(x < -\\frac{1}{2}\\) or \\(x \\geq 3\\)",
+      "C": "\\(-3 \\leq x \\leq \\frac{1}{2}\\)",
+      "D": "\\(-\\frac{1}{2} \\leq x \\leq 3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51811?exam_type=waec&type=obj&page=97",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "482",
+    "text": "Simplify \\(\\sqrt{(\\frac{-1}{64})^{\\frac{-2}{3}}}\\).",
+    "options": {
+      "A": "-4",
+      "B": "\\(-\\frac{1}{4}\\)",
+      "C": "\\(\\frac{1}{8}\\)",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51885?exam_type=waec&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "\\((\\frac{-1}{64})^{\\frac{-2}{3}} = -64^{\\frac{2}{3}}\\)\n\\((-4^{3})^{\\frac{2}{3}} = -4^{2} = 16\\)\n\\(\\therefore \\sqrt{(\\frac{-1}{64})^{\\frac{-2}{3}} = \\sqrt{16} = 4\\)",
+    "year": "2006"
+  },
+  {
+    "number": "483",
+    "text": "A binary operation\u00a0\u2666 is defined on the set R, of real numbers by \\(a\u00a0\u2666 b = \\frac{ab}{4}\\). Find the value of \\(\\sqrt{2}\u00a0\u2666 \\sqrt{6}\\).",
+    "options": {
+      "A": "\\(\\sqrt{3}\\)",
+      "B": "\\(\\frac{3\\sqrt{2}}{4}\\)",
+      "C": "\\(\\frac{\\sqrt{3}}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{2}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51886?exam_type=waec&type=obj&page=97",
+    "correct_answer": "C",
+    "explanation": "\\(a\u00a0\u2666 b = \\frac{ab}{4}\\)\n\\(\\sqrt{2}\u00a0\u2666 \\sqrt{6} = \\frac{\\sqrt{2} \\times \\sqrt{6}}{4} = \\frac{\\sqrt{12}}{4}\\)\n= \\(\\frac{2\\sqrt{3}}{4} \\)\n= \\(\\frac{\\sqrt{3}}{2}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "484",
+    "text": "If \\((x - 3)\\) is a factor of \\(2x^{3} + 3x^{2} - 17x - 30\\), find the remaining factors.",
+    "options": {
+      "A": "(2x - 5)(x - 2)",
+      "B": "(2x - 5)(x + 2)",
+      "C": "(2x + 5)(x - 2)",
+      "D": "(2x + 5)(x + 2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51888?exam_type=waec&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "Divide \\(2x^{3} + 3x^{2} - 17x - 30\\) by \\((x - 3)\\). You get \\(2x^{2} + 9x + 10\\).\nFactorizing, we have \\(2x^{2} + 9x + 10 = 2x^{2} + 4x + 5x + 10\\)\n\\(2x(x + 2) + 5(x + 2)\\)\n= \\((2x + 5)(x + 2)\\)",
+    "year": "2006"
+  },
+  {
+    "number": "485",
+    "text": "Two functions f and g are defined by \\(f : x \\to 3x - 1\\) and \\(g : x \\to 2x^{3}\\), evaluate \\(fg(-2)\\).",
+    "options": {
+      "A": "-49",
+      "B": "-47",
+      "C": "-10",
+      "D": "-9"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51890?exam_type=waec&type=obj&page=97",
+    "correct_answer": "A",
+    "explanation": "\\(g : x \\to 2x^{3}\\)\n\\(g(-2) = 2(-2^{3}) = 2(-8) = -16\\)\n\\(f : x \\to 3x - 1\\)\n\\(f(-16) = 3(-16) -1 = -48 - 1 = - 49\\)",
+    "year": "2006"
+  },
+  {
+    "number": "486",
+    "text": "Given that \\(\\frac{1}{8^{2y - 3y}} = 2^{y + 2}\\).",
+    "options": {
+      "A": "\\(\\frac{1}{5}\\)",
+      "B": "\\(\\frac{7}{8}\\)",
+      "C": "1",
+      "D": "\\(1\\frac{1}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51892?exam_type=waec&type=obj&page=98",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{1}{8^{2y - 3y}} = \\frac{1}{8^{-y}} = 8^{y}\\)\n\\(8^{y} = 2^{y + 2} \\implies (2^{3})^{y} = 2^{y + 2}\\)\n\\(3y = y + 2 \\implies 2y = 2\\)\n\\(y = 1\\)",
+    "year": "2006"
+  },
+  {
+    "number": "487",
+    "text": "Given that \\((\\sqrt{3} - 5\\sqrt{2})(\\sqrt{3} + \\sqrt{2}) = p + q\\sqrt{6}\\), find q.",
+    "options": {
+      "A": "4",
+      "B": "-4",
+      "C": "-5",
+      "D": "-7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51896?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "\\((\\sqrt{3} - 5\\sqrt{2})(\\sqrt{3} + \\sqrt{2}) = 3 + \\sqrt{6} - 5\\sqrt{6} - 10\\)\n= \\(-7 - 4\\sqrt{6} = p + q\\sqrt{6}\\)\n\\(\\therefore q = -4\\)",
+    "year": "2006"
+  },
+  {
+    "number": "488",
+    "text": "If \\(f(x) = \\frac{1}{2 - x}, x \\neq 2\\), find \\(f^{-1}(-\\frac{1}{2})\\).",
+    "options": {
+      "A": "4",
+      "B": "0",
+      "C": "-2",
+      "D": "-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51902?exam_type=waec&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = \\frac{1}{2 - x}, x \\neq 2\\)\n\\(f(y)\u00a0= \\frac{1}{2 - y}\\)\n\\(x = \\frac{1}{2 - y}\\) (Let x = f(y))\n\\(2x - xy = 1 \\implies y = \\frac{2x - 1}{x}\\)\n\\(\\therefore f^{-1}(x) = \\frac{2x - 1}{x}\\)\n\\(f^{-1}(-\\frac{1}{2}) = \\frac{2(-\\frac{1}{2}) - 1}{-\\frac{1}{2}}\\)\n= \\(-2 \\times -2 = 4\\)",
+    "year": "2006"
+  },
+  {
+    "number": "489",
+    "text": "Find the coefficient of \\(x^{4}\\) in the binomial expansion of \\((1 - 2x)^{6}\\).",
+    "options": {
+      "A": "320",
+      "B": "240",
+      "C": "-320",
+      "D": "-240"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51911?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "\\((1 - 2x)^{6} = ^{6}C_{0}(1^{6}) + ^{6}C_{1}(1^{5})(-2x^{1})\u00a0 + ^{6}C_{2}(1^{4})(-2x^{2}) + ^{6}C_{3}(1^{3})(-2x^{3}) + ^{6}C_{4}(1^{2})(-2x^{4}) + ...\\)\n\\(\\text{The coefficient of} x^{4} = 15 \\times 16 = 240\\)",
+    "year": "2006"
+  },
+  {
+    "number": "490",
+    "text": "Find the equation of the line passing through (0, -1) and parallel to the y- axis.",
+    "options": {
+      "A": "y = -1",
+      "B": "y = 0",
+      "C": "x = 0",
+      "D": "x = -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51916?exam_type=waec&type=obj&page=98",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "491",
+    "text": "The roots of the equation \\(2x^{2} + kx + 5 = 0\\) are \\(\\alpha\\) and \\(\\beta\\), where k is a constant. If \\(\\alpha^{2} + \\beta^{2} = -1\\), find the values of k.",
+    "options": {
+      "A": "\\(\\pm 16\\)",
+      "B": "\\(\\pm 8\\)",
+      "C": "\\(\\pm 4\\)",
+      "D": "\\(\\pm 2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51928?exam_type=waec&type=obj&page=99",
+    "correct_answer": "C",
+    "explanation": "\\(2x^{2} + kx + 5 = 0\\)\n\\(\\alpha + \\beta = \\frac{-b}{a} = \\frac{-k}{2}\\)\n\\(\\alpha \\beta = \\frac{c}{a} = \\frac{5}{2}\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\alpha + \\beta)^{2} - 2\\alpha \\beta\\)\n\\(-1 = (\\frac{-k}{2})^{2} - 2(\\frac{5}{2})\\)\n\\(-1 = \\frac{k^{2}}{4} - 5 \\implies \\frac{k^{2}}{4} = 4\\)\n\\(k^{2} = 16 \\therefore k = \\pm 4\\)",
+    "year": "2006"
+  },
+  {
+    "number": "492",
+    "text": "Find the sum of the exponential series \\(96 + 24 + 6 +...\\)",
+    "options": {
+      "A": "144",
+      "B": "128",
+      "C": "72",
+      "D": "64"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51929?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "\\(S_{\\infty} = \\frac{a}{1 - r}\\) (for an exponential series)\n\\(r = \\frac{24}{96} = \\frac{6}{24} = \\frac{1}{4}\\)\n\\(S_{\\infty} = \\frac{96}{1 - \\frac{1}{4}} = \\frac{96}{\\frac{3}{4}}\\)\n= \\(\\frac{96 \\times 4}{3} = 128\\)",
+    "year": "2006"
+  },
+  {
+    "number": "493",
+    "text": "Evaluate \\(\\log_{0.25} 8\\)",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "\\(-\\frac{2}{3}\\)",
+      "D": "\\(-\\frac{3}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51931?exam_type=waec&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "\\(\\log_{0.25} 8 = x\\)\n\\(8 = 0.25^{x}\\)\n\\(2^{3} = (2^{-2})^{x} \\implies 3 = -2x\\)\n\\(x = -\\frac{3}{2}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "494",
+    "text": "Evaluate \\(\\lim \\limits_{x \\to 1} \\frac{1 - x}{x^{2} - 3x + 2}\\)",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "0",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51935?exam_type=waec&type=obj&page=99",
+    "correct_answer": "A",
+    "explanation": "\\(\\lim \\limits_{x \\to 1} \\frac{1 - x}{x^{2} - 3x + 2}\\)\n\\(\\frac{1 - x}{x^{2} - 3x + 2} = \\frac{-(x - 1)}{(x - 1)(x - 2)}\\)\n= \\(\\frac{-1}{x - 2}\\)\n\\(\\lim \\limits_{x \\to 1} \\frac{1 - x}{x^{2} - 3x + 2} = \\lim \\limits_{x \\to 1} \\frac{-1}{x - 2}\\)\n= \\(\\frac{-1}{1 - 2} = \\frac{-1}{-1} = 1\\)",
+    "year": "2006"
+  },
+  {
+    "number": "495",
+    "text": "The mean age of n men in a club is 50 years. Two men aged 55 and 63 years left the club, and the mean age reduced by 1 year. Find the value of n.",
+    "options": {
+      "A": "30",
+      "B": "20",
+      "C": "18",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51940?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "Let the sum of the men's ages be f, so that\n\\(\\frac{f}{n} = 50 .... (1)\\)\nAlso, \\(\\frac{f - (55 + 63)}{n - 2} = 50 - 1 = 49 .... (2)\\)\nFrom (1), \\(f = 50n\\)\nFrom (2), \\(f - 118 = 49(n - 2) = 49n - 98\\)\n\\(f = 49n - 98 + 118 = 49n + 20\\)\n\\(\\therefore f = 50n = 49n + 20\\)\n\\(50n - 49n = n = 20\\)",
+    "year": "2006"
+  },
+  {
+    "number": "496",
+    "text": "A committee of 4 is to be selected from a group of 5 men and 3 women. In how many ways can this be done if the chairman of the committee must be a man?",
+    "options": {
+      "A": "15",
+      "B": "40",
+      "C": "70",
+      "D": "175"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51943?exam_type=waec&type=obj&page=100",
+    "correct_answer": "D",
+    "explanation": "From the five(5) men viable for the position of the chairman, one of them must be selected.\nThis implies;\u00a04 men\u00a0and 3 women are open for committee membership.\n7 C\\(_3\\) = \\(\\frac{7!}{3!(7 - 3)!}\\) =\n\\(\\frac{7\u22c56\u22c55\u22c54\u22c53\u22c52\u22c51}{3.2.1 \\times 4.3.2.1}\\)\n= 35 \\(\\times\\) 5 = 175",
+    "year": "2006"
+  },
+  {
+    "number": "497",
+    "text": "Simplify \\(\\frac{^{n}P_{4}}{^{n}C_{4}}\\)",
+    "options": {
+      "A": "24",
+      "B": "18",
+      "C": "12",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51945?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "\\(^{n}P_{4} = \\frac{n!}{(n - 4)!}\\)\n\\(^{n}C_{4} = \\frac{n!}{(n - 4)! 4!}\\)\n\\(\\frac{^{n}P_{4}}{^{n}C_{4}} = \\frac{n!}{(n - 4)!}\u00a0\u00f7 \\frac{n!}{(n - 4)! 4!}\\)\n= \\(4! = 24\\)",
+    "year": "2006"
+  },
+  {
+    "number": "498",
+    "text": "Which of the following is a singular matrix?",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 2 & 1 \\\\ 3 & 2 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 3 & 8 \\\\ 5 & 16 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 0 & 1 \\\\ 1 & 0 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51946?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "499",
+    "text": "Simplify \\(8^{n} \\times 2^{2n} \\div 4^{3n}\\)",
+    "options": {
+      "A": "\\(2^{-n}\\)",
+      "B": "\\(2^{1 - n}\\)",
+      "C": "\\(2^{n}\\)",
+      "D": "\\(2^{n + 1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51948?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "\\(8^{n} \\times 2^{2n} \\div 4^{3n} = 2^{3n} \\times 2^{2n} \\div 2^{6n}\\)\n\\(2^{2n + 3n - 6n}\\)\n= \\(2^{-n}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "500",
+    "text": "The area of a sector of a circle is 3\\(cm^{2}\\). If the sector subtends an angle of 1.5 radians at the centre, calculate the radius of the circle.",
+    "options": {
+      "A": "1 cm",
+      "B": "\\(\\sqrt{2}\\) cm",
+      "C": "2 cm",
+      "D": "4 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51949?exam_type=waec&type=obj&page=100",
+    "correct_answer": "C",
+    "explanation": "The area of sector in radians = \\(\\frac{r^{2} \\theta}{2}\\)\n\\(3 cm^{2} = \\frac{1.5 \\times r^{2}}{2}\\)\n\\(r^{2} = \\frac{3 \\times 2}{1.5} = 4\\)\n\\(r = 2 cm\\)",
+    "year": "2006"
+  },
+  {
+    "number": "501",
+    "text": "A particle of mass 2.5 kg is moving at a speed of 12 m/s. If a force of magnitude 10 N acts against it, find how long it takes to come to rest.",
+    "options": {
+      "A": "1.5 s",
+      "B": "3.0 s",
+      "C": "4.0 s",
+      "D": "6.0 s"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51952?exam_type=waec&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "\\(F = ma \\)\n\\(10 = 2.5a \\implies a = 4 ms^{-2}\\)\nSince it is a retarding movement, then \\(a = -4 ms^{-2}\\).\n\\(v = u + at; v = 0 ms^{-1}, u = 12 ms^{-1}\\)\n\\(0 = 12 + (-4t) \\implies 0 = 12 - 4t\\)\n\\(4t = 12 \\implies t = 3 s\\)",
+    "year": "2006"
+  },
+  {
+    "number": "502",
+    "text": "Age(in years)\n1 - 5\n6 - 10\n11 - 15\n\n\nFrequency\n3\n5\n2\n\n\n\nCalculate the standard deviation of the distribution.",
+    "options": {
+      "A": "1.10",
+      "B": "2.36",
+      "C": "3.50",
+      "D": "7.50"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51957?exam_type=waec&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "Age(years)Freq(f)Mid-value(x)fx\\(d = (x - \\bar{x})\\)\\(d^{2}\\)\\(fd^{2}\\)1 - 5339- 4.520.2560.756 - 1058400.50.251.2511 - 15213265.530.2560.5\\(\\sum =\\)1075122.5\n\\(Mean (\\bar {x}) = \\frac{\\sum fx}{\\sum f} = \\frac{75}{10} = 7.5\\)\n\\(SD = \\sqrt{\\frac{\\sum fd^{2}}{\\sum f}}\\)\n= \\(\\sqrt{\\frac{122.5}{10}}\\)\n= \\(\\sqrt{12.25} = 3.50\\)",
+    "year": "2006"
+  },
+  {
+    "number": "503",
+    "text": "In a firing contest, the probabilities that Kojo and Kwame hit the target are \\(\\frac{2}{5}\\) and \\(\\frac{1}{3}\\) respectively. What is the probability that none of them hit the target?",
+    "options": {
+      "A": "\\(\\frac{1}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{3}{5}\\)",
+      "D": "\\(\\frac{4}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51958?exam_type=waec&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "504",
+    "text": "The equation of the line of best fit for variables x and y is \\(y = 19.33 + 0.42x\\), where x is the independent variable. Estimate the value of y when x = 15.",
+    "options": {
+      "A": "18.91",
+      "B": "19.75",
+      "C": "25.63",
+      "D": "38.23"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51962?exam_type=waec&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "\\(y = 19.33 + 0.42x\\)\n\\(\\text{The value of y when x = 15} = 19.33 + (0.42 \\times 15)\\)\n= \\(19.33 + 6.30\\)\n= 25.63",
+    "year": "2006"
+  },
+  {
+    "number": "505",
+    "text": "Find the coordinates of the point on the curve \\(y = x^{2} + 4x - 2\\), where the gradient is zero.",
+    "options": {
+      "A": "(-2, 10)",
+      "B": "(-2, 2)",
+      "C": "(-2, -2)",
+      "D": "(-2, -6)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51963?exam_type=waec&type=obj&page=101",
+    "correct_answer": "D",
+    "explanation": "\\(y = x^{2} + 4x - 2\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2x + 4 = 0\\)\n\\(2x = -4 \\implies x = -2\\)\n\\(y(-2) = (-2^{2}) + 4(-2) - 2 = 4 - 8 - 2 = -6\\)\n\\(\\therefore (x, y) = (-2, -6)\\)",
+    "year": "2006"
+  },
+  {
+    "number": "506",
+    "text": "Find the least value of the function \\(f(x) = 3x^{2} + 18x + 32\\).",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "-3",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51964?exam_type=waec&type=obj&page=102",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = 3x^{2} + 18x + 32\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x + 18 = 0\\)\n\\(6x = -18 \\implies x = -3\\)\n\\(f(-3) = 3(-3^{2}) + 18(-3) + 32 = 27 - 54 + 32 = 5\\)",
+    "year": "2006"
+  },
+  {
+    "number": "507",
+    "text": "A force of 32 N is applied to an object of mass m kg which is at rest on a smooth horizontal surface. If the acceleration produced is 8\\(ms^{-2}\\), find the value of m.",
+    "options": {
+      "A": "12",
+      "B": "16",
+      "C": "6",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51965?exam_type=waec&type=obj&page=102",
+    "correct_answer": "D",
+    "explanation": "\\(F = ma\\)\n\\(32 = 8m \\implies m = 4 kg\\)",
+    "year": "2006"
+  },
+  {
+    "number": "508",
+    "text": "Given that \\(\\begin{pmatrix} 1 & -3 \\\\ 1 & 4 \\end{pmatrix} \\begin{pmatrix} -6 \\\\ P \\end{pmatrix} = \\begin{pmatrix} 3 \\\\ -26 \\end{pmatrix}\\), find the value of P.",
+    "options": {
+      "A": "-8",
+      "B": "-5",
+      "C": "4",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51968?exam_type=waec&type=obj&page=102",
+    "correct_answer": "D",
+    "explanation": "\\(\\begin{pmatrix} 1 & -3 \\\\ 1 & 4 \\end{pmatrix} \\begin{pmatrix} -6 \\\\ P \\end{pmatrix} = \\begin{pmatrix} 3 \\\\ -26 \\end{pmatrix}\\)\n\\(\\implies (1 \\times -6) + (-3 \\times P) = 3\\)\n\\(-6 - 3P = 3 \\implies -3P = 9\\)\n\\(P = -3\\)",
+    "year": "2006"
+  },
+  {
+    "number": "509",
+    "text": "Find the coordinates of the centre of the circle \\(4x^{2} + 4y^{2} - 5x + 3y - 2 = 0\\).",
+    "options": {
+      "A": "\\((\\frac{-5}{4}, \\frac{3}{4})\\)",
+      "B": "\\((\\frac{3}{8}, -\\frac{5}{8})\\)",
+      "C": "\\((\\frac{5}{8}, -\\frac{3}{8})\\)",
+      "D": "\\((\\frac{5}{4}, -\\frac{3}{4})\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51972?exam_type=waec&type=obj&page=102",
+    "correct_answer": "C",
+    "explanation": "Equation : \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding : \\(x^{2} + y^{2} - 2ax - 2by + a^{2} + b^{2} = r^{2}\\)\nGiven, \\(4x^{2} + 4y^{2} - 5x + 3y - 2 = 0\\)\nDivide through by 4 to make the coefficient of \\(x^{2}\\) and \\(y^{2}\\) to be 1.\n\\(x^{2} + y^{2} - \\frac{5}{4}x + \\frac{3}{4}y - \\frac{1}{2} = 0\\)\nComparing, \\(2a = \\frac{5}{4} \\implies a = \\frac{5}{8}\\)\n\\(2b = -\\frac{3}{4} \\implies b = -\\frac{3}{8}\\)\n\\((a, b) = (\\frac{5}{8}, -\\frac{5}{8})\\)",
+    "year": "2006"
+  },
+  {
+    "number": "510",
+    "text": "A and B are two independent events such that \\(P(A) = \\frac{2}{5}\\) and \\(P(A \\cap B) = \\frac{1}{15}\\). Find \\(P(B)\\).",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{1}{6}\\)",
+      "D": "\\(\\frac{2}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51974?exam_type=waec&type=obj&page=102",
+    "correct_answer": "C",
+    "explanation": "For independent events A and B, \\(P(A \\cap B) = P(A) \\times P(B)\\)\n\\(\\frac{1}{15} = \\frac{2}{5} \\times P(B)\\)\n\\(P(B) = \\frac{1}{15} \\div \\frac{2}{5}\\)\n\\(P(B) = \\frac{1}{6}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "511",
+    "text": "The parallelogram PQRS has vertices P(-2, 3), Q(1, 4), R(2, 6) and S(-1,5). Find the coordinates of the point of intersection of the diagonals.",
+    "options": {
+      "A": "\\((-1, 5)\\)",
+      "B": "\\((-\\frac{1}{2}, 3\\frac{1}{2})\\)",
+      "C": "\\((0, 4\\frac{1}{2})\\)",
+      "D": "\\((1\\frac{1}{2}, 5)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51978?exam_type=waec&type=obj&page=103",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "512",
+    "text": "Find, in surd form, the value of \\(\\cos 165\\).",
+    "options": {
+      "A": "\\(\\frac{1}{4}(\\sqrt{6} + \\sqrt{2})\\)",
+      "B": "\\(\\frac{1}{4}(\\sqrt{6} - \\sqrt{2})\\)",
+      "C": "\\(-\\frac{1}{4}(\\sqrt{6} - \\sqrt{2})\\)",
+      "D": "\\(-\\frac{1}{4}(\\sqrt{6} + \\sqrt{2})\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51987?exam_type=waec&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "\\(\\cos 165 = -\\cos (180 - 165) = -\\cos 15\\)\n\\(\\cos 15 = \\cos (45 - 30)\\)\n\\(\\cos (x - y) = \\cos x \\cos y + \\sin x \\sin y\\)\n\\(\\cos (45 - 30) = \\cos 45 \\cos 30 + \\sin 45 \\sin 30\\)\n= \\((\\frac{\\sqrt{2}}{2})(\\frac{\\sqrt{3}}{2}) + (\\frac{\\sqrt{2}}{2})(\\frac{1}{2})\\)\n= \\(\\frac{1}{4}(\\sqrt{6} + \\sqrt{2})\\)\n\\(\\therefore \\cos 165 = -\\frac{1}{4}(\\sqrt{6} + \\sqrt{2})\\)",
+    "year": "2006"
+  },
+  {
+    "number": "513",
+    "text": "The mean and median of integers x, y, z and t are 5 and z respectively. If x < y < z < t and y = 4, find (x + t).",
+    "options": {
+      "A": "12",
+      "B": "11",
+      "C": "10",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51991?exam_type=waec&type=obj&page=103",
+    "correct_answer": "A",
+    "explanation": "\\(Mean : \\frac{x + 4 + z + t}{4} = 5 \\implies x + 4 + z + t = 20\\)\n\\(\\implies x + z + t = 16 ... (1)\\)\n\\(Median : \\frac{4 + z}{2} = z \\implies 4 + z = 2z\\)\n\\(4 = z\\)\nFrom 1,\n\\(\\implies x + 4 + t = 16 \\)\n\\(x + t = 12\\)",
+    "year": "2006"
+  },
+  {
+    "number": "514",
+    "text": "If \\(a = \\begin{pmatrix} 3 \\\\ 2 \\end{pmatrix}\\) and \\(b = \\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}\\), find a vector c such that \\(4a + 3c = b\\).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 3 \\\\ -1 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -5 \\\\ -1 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -5 \\\\ 1 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -5 \\\\ -9 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51992?exam_type=waec&type=obj&page=103",
+    "correct_answer": "B",
+    "explanation": "\\(4 \\begin{pmatrix} 3 \\\\ 2 \\end{pmatrix} + 3 \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} 12 \\\\ 8 \\end{pmatrix} + \\begin{pmatrix} 3x \\\\ 3y \\end{pmatrix} = \\begin{pmatrix} -3 \\\\ 5 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} 3x \\\\ 3y \\end{pmatrix} = \\begin{pmatrix} -3 - 12 \\\\ 5 - 8 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} 3x \\\\ 3y \\end{pmatrix} = \\begin{pmatrix} -15 \\\\ -3 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} -5 \\\\ -1 \\end{pmatrix}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "515",
+    "text": "A lift moving upwards with a uniform acceleration of 5\\(ms^{-2}\\) carries a body of mass p kg. If the reaction on the floor is 480 N, find the value of p. [Take g = \\(10 ms^{-2}\\)].",
+    "options": {
+      "A": "32",
+      "B": "36",
+      "C": "48",
+      "D": "64"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51994?exam_type=waec&type=obj&page=103",
+    "correct_answer": "A",
+    "explanation": "Reacting force -\u00a0Weight =\u00a0Net force\nR = W + ma = mg + ma\n480 = 10p + 5p\n480 = 15p\np = 32 kg",
+    "year": "2006"
+  },
+  {
+    "number": "516",
+    "text": "Calculate, correct to one decimal place, the angle between 5i + 12j and -2i + 3j.",
+    "options": {
+      "A": "54.8\u00b0",
+      "B": "56.3\u00b0",
+      "C": "66.4\u00b0",
+      "D": "76.3\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51996?exam_type=waec&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "\\(a . b = |a||b|\\cos \\theta\\)\n\\((5i + 12j).(2i + 3j) = -10 + 36 = 26\\)\n\\(26 = |5i + 12j||-2i + 3j|\\cos \\theta\\)\n\\(|5i + 12j| = \\sqrt{5^{2} + 12^{2}} = \\sqrt{25 + 144} = 13\\)\n\\(|2i + 3j| = \\sqrt{2^{2} + 3^{2}} = \\sqrt{4 + 9} = \\sqrt{13}\\)\n\\(26 = 13(\\sqrt{13})\\cos \\theta\\)\n\\(\\cos \\theta = \\frac{26}{13\\sqrt{13}} = 0.5547\\)\n\\(\\theta = 56.3\u00b0\\)",
+    "year": "2006"
+  },
+  {
+    "number": "517",
+    "text": "A particle is projected vertically upwards from a height 45 metres above the ground with a velocity of 40 m/s. How long does it take it to hit the ground? [Take g = \\(10 ms^{-2}\\)].",
+    "options": {
+      "A": "1s",
+      "B": "3s",
+      "C": "7s",
+      "D": "9s"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51997?exam_type=waec&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "518",
+    "text": "Two forces, each of magnitude 16 N, are inclined to each other at an angle of 60\u00b0. Calculate the magnitude of their resultant.",
+    "options": {
+      "A": "16 N",
+      "B": "\\(16 \\sqrt{3}\\) N",
+      "C": "18 N",
+      "D": "\\(18 \\sqrt{3}\\) N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51998?exam_type=waec&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "519",
+    "text": "ABCD is a square. Forces of magnitude 14N, 4N, 2N and \\(2\\sqrt{2} N\\) act along the sides AB, BC, CD and DA respectively. Find in Newtons, the magnitude of the resultant of the forces.",
+    "options": {
+      "A": "14.11",
+      "B": "13.81",
+      "C": "12.06",
+      "D": "11.05"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51999?exam_type=waec&type=obj&page=104",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  }
+]

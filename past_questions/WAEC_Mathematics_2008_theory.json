@@ -1,0 +1,119 @@
+[
+  {
+    "number": "131",
+    "text": "(a) Without using calculator or tables, find the value of \\(\\log 3.6\\) given that \\(\\log 2 = 0.3010, \\log 3 = 0.4771\\) and \\(\\log 5 = 0.6990\\).\n(b) If all numbers in the equation \\(\\frac{y}{y + 101} = \\frac{11}{10010}\\) are in base two, solve for y.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52935?exam_type=waec&type=theory&page=27",
+    "correct_answer": "(a) \\(\\log 3.6 = \\log (\\frac{18}{5})\\)\n\\(\\log 18 - \\log 5 = \\log (2 \\times 3^{2}) - \\log 5\\)\n\\(\\log 2 + \\log 3^{2} - \\log 5 = \\log 2 + 2\\log 3 - \\log 5\\)\n= \\(0.3010 + 2(0.4771) - 0.6990\\)\n= \\(0.3010 + 0.9542 - 0.6990\\)\n= \\(0.5562\\).\n(b) \\(\\frac{y}{y + 101} = \\frac{11}{10010}\\)\u00a0 (all in base 2)\nCross multiplying,\n\\(11(y + 101) = 10010y\\)\n\\(11y + 1111 = 10010y\\)\n\\(10010y - 11y = 1111\\)\n\\(1111y = 1111\\)\n\\(y = 1\\).",
+    "explanation": "(a) \\(\\log 3.6 = \\log (\\frac{18}{5})\\)\n\\(\\log 18 - \\log 5 = \\log (2 \\times 3^{2}) - \\log 5\\)\n\\(\\log 2 + \\log 3^{2} - \\log 5 = \\log 2 + 2\\log 3 - \\log 5\\)\n= \\(0.3010 + 2(0.4771) - 0.6990\\)\n= \\(0.3010 + 0.9542 - 0.6990\\)\n= \\(0.5562\\).\n(b) \\(\\frac{y}{y + 101} = \\frac{11}{10010}\\)\u00a0 (all in base 2)\nCross multiplying,\n\\(11(y + 101) = 10010y\\)\n\\(11y + 1111 = 10010y\\)\n\\(10010y - 11y = 1111\\)\n\\(1111y = 1111\\)\n\\(y = 1\\).",
+    "year": "2008"
+  },
+  {
+    "number": "132",
+    "text": "(a) Solve the inequality : \\(\\frac{2}{5}(x - 2) - \\frac{1}{6}(x + 5) \\leq 0\\).\n(b) Given that P = \\(\\frac{x^{2} - y^{2}}{x^{2} + xy}\\),\n(i) express P in its simplest form ; (ii) find the value of P if x = -4 and y = -6.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52936?exam_type=waec&type=theory&page=27",
+    "correct_answer": "(a) \\(\\frac{2}{5}(x - 2) - \\frac{1}{6}(x + 5) \\leq 0\\)\nMultiplying through by the LCM of 5 and 6 (i.e 30)\n\\(12(x - 2) - 5(x + 5) \\leq 0\\)\n\\(12x - 24 - 5x - 25 \\leq 0\\)\n\\(7x - 49 \\leq 0 \\implies 7x \\leq 49\\)\n\\(x \\leq 7\\).\n(b) (i) \\(\\frac{x^{2} - y^{2}}{x^{2} + xy}\\)\nP = \\(\\frac{(x - y)(x + y)}{x (x + y)}\\)\nP = \\(\\frac{x - y}{x}\\)\n(ii) When x = -4, y = -6\n\\(P = \\frac{-4 - (-6)}{-4}\\)\n\\(P = \\frac{2}{-4}\\)\n\\(P = - \\frac{1}{2}\\)",
+    "explanation": "(a) \\(\\frac{2}{5}(x - 2) - \\frac{1}{6}(x + 5) \\leq 0\\)\nMultiplying through by the LCM of 5 and 6 (i.e 30)\n\\(12(x - 2) - 5(x + 5) \\leq 0\\)\n\\(12x - 24 - 5x - 25 \\leq 0\\)\n\\(7x - 49 \\leq 0 \\implies 7x \\leq 49\\)\n\\(x \\leq 7\\).\n(b) (i) \\(\\frac{x^{2} - y^{2}}{x^{2} + xy}\\)\nP = \\(\\frac{(x - y)(x + y)}{x (x + y)}\\)\nP = \\(\\frac{x - y}{x}\\)\n(ii) When x = -4, y = -6\n\\(P = \\frac{-4 - (-6)}{-4}\\)\n\\(P = \\frac{2}{-4}\\)\n\\(P = - \\frac{1}{2}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "133",
+    "text": "The table below shows how a man spends his income in a month.\n\n\n\nItems\nAmount Spent\n\n\nFood\nN4500\n\n\nHouse Rent\nN3000\n\n\nProvisions\nN2500\n\n\nElectricity\nN2000\n\n\nTransportation\nN5000\n\n\nOthers\nN3000\n\n\n\n(a) Represent the information on a pie chart.\n(b) What percentage of his income is spent on transportation?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52937?exam_type=waec&type=theory&page=27",
+    "correct_answer": "ItemAmount Spent (N)Food4,500House Rent3,000Provisions2,500Electricity2,000Transportation5,000Others3,000Total20,000\nItems in degrees :\nFood :\u00a0\\(\\frac{4500}{20000} \\times 360\u00b0 =\u00a0 81\u00b0\\)\nHouse rent :\u00a0\\(\\frac{3000}{20000} \\times 360\u00b0 = 54\u00b0\\)\nProvisions : \\(\\frac{2500}{20000} \\times 360\u00b0 = 45\u00b0\\)\nElectricity : \\(\\frac{2000}{20000} \\times 360\u00b0 = 36\u00b0\\)\nTransportation : \\(\\frac{5000}{20000} \\times 360\u00b0 = 90\u00b0\\)\nOthers : \\(\\frac{3000}{20000} \\times 360\u00b0 = 54\u00b0\\)\n(a) Pie chart :\n(b) Percentage of his income spent on transportation :\n\\(\\frac{5000}{20000} \\times 100% = 25%\\)",
+    "explanation": "ItemAmount Spent (N)Food4,500House Rent3,000Provisions2,500Electricity2,000Transportation5,000Others3,000Total20,000\nItems in degrees :\nFood :\u00a0\\(\\frac{4500}{20000} \\times 360\u00b0 =\u00a0 81\u00b0\\)\nHouse rent :\u00a0\\(\\frac{3000}{20000} \\times 360\u00b0 = 54\u00b0\\)\nProvisions : \\(\\frac{2500}{20000} \\times 360\u00b0 = 45\u00b0\\)\nElectricity : \\(\\frac{2000}{20000} \\times 360\u00b0 = 36\u00b0\\)\nTransportation : \\(\\frac{5000}{20000} \\times 360\u00b0 = 90\u00b0\\)\nOthers : \\(\\frac{3000}{20000} \\times 360\u00b0 = 54\u00b0\\)\n(a) Pie chart :\n(b) Percentage of his income spent on transportation :\n\\(\\frac{5000}{20000} \\times 100% = 25%\\)",
+    "year": "2008"
+  },
+  {
+    "number": "134",
+    "text": "(a) A pentagon is such that one of its exterior sides is 60\u00b0. Two others are (90 - m)\u00b0 each while the remaining angles are (30 + 2m)\u00b0 each. Find the value of m.\n(b)\u00a0\nIn the diagram, PQR is a straight line, \\(\\overline{QR} = \\sqrt{3} cm\\) and \\(\\overline{SQ} = 2 cm\\). Calculate, correct to one decimal place, < PQS.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52938?exam_type=waec&type=theory&page=27",
+    "correct_answer": "The sum of exterior angles = 360\u00b0\n\\(60\u00b0 + 2(90 - m)\u00b0 + 2(30 + 2m)\u00b0 = 360\u00b0\\)\n\\(60\u00b0 + 180\u00b0 - 2m\u00b0 + 60\u00b0 + 4m\u00b0 = 360\u00b0\\)\n\\(300\u00b0 + 2m = 360\u00b0\\)\n\\(\\implies 2m = 360\u00b0 - 300\u00b0 = 60\u00b0\\)\n\\(m = 30\u00b0\\)\n(b)\nIn \\(\\Delta QRS, \\cos Q = \\frac{\\sqrt{3}}{2}\\)\n\\(\\cos Q = 0.8660 \\implies Q = 30\u00b0\\)\n\\(\\therefore < SQR = 30\u00b0^\\)\n\\(< PQS = 180\u00b0 - 30\u00b0 \\)\u00a0 (angles on a straight line = 180\u00b0)\n\\(< PQS = 150\u00b0\\)",
+    "explanation": "The sum of exterior angles = 360\u00b0\n\\(60\u00b0 + 2(90 - m)\u00b0 + 2(30 + 2m)\u00b0 = 360\u00b0\\)\n\\(60\u00b0 + 180\u00b0 - 2m\u00b0 + 60\u00b0 + 4m\u00b0 = 360\u00b0\\)\n\\(300\u00b0 + 2m = 360\u00b0\\)\n\\(\\implies 2m = 360\u00b0 - 300\u00b0 = 60\u00b0\\)\n\\(m = 30\u00b0\\)\n(b)\nIn \\(\\Delta QRS, \\cos Q = \\frac{\\sqrt{3}}{2}\\)\n\\(\\cos Q = 0.8660 \\implies Q = 30\u00b0\\)\n\\(\\therefore < SQR = 30\u00b0^\\)\n\\(< PQS = 180\u00b0 - 30\u00b0 \\)\u00a0 (angles on a straight line = 180\u00b0)\n\\(< PQS = 150\u00b0\\)",
+    "year": "2008"
+  },
+  {
+    "number": "135",
+    "text": "(a) A rectangular field is l metres long and b metres wide. Its perimeter is 280 metres. If the length is two and a half times the breadth, find the values of l and b.\n(b) The base of a pyramid is a 4.5 metres rectangle. The height of the pyramid is 4 metres. Calculate its volume.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52941?exam_type=waec&type=theory&page=27",
+    "correct_answer": "(a) Perimeter of a rectangle = 2(l + b)\n\\(2l + 2b = 280\\)\nBut l = 2.5b,\n\\(2(2.5b) + 2b = 280 \\implies 7b = 280\\)\n\\(b = 40 m\\)\n\\(\\therefore l = 2.5(40) \\)\n= \\(100 m\\)\n(b) Volume of pyramid = \\(\\frac{1}{3}l \\times b \\times h\\)\n= \\(\\frac{1}{3}(4.5) \\times 2.5 \\times 4 \\)\n= \\(15 m^{3}\\).",
+    "explanation": "(a) Perimeter of a rectangle = 2(l + b)\n\\(2l + 2b = 280\\)\nBut l = 2.5b,\n\\(2(2.5b) + 2b = 280 \\implies 7b = 280\\)\n\\(b = 40 m\\)\n\\(\\therefore l = 2.5(40) \\)\n= \\(100 m\\)\n(b) Volume of pyramid = \\(\\frac{1}{3}l \\times b \\times h\\)\n= \\(\\frac{1}{3}(4.5) \\times 2.5 \\times 4 \\)\n= \\(15 m^{3}\\).",
+    "year": "2008"
+  },
+  {
+    "number": "136",
+    "text": "(a) If \\(2^{x + y} = 16\\) and \\(4^{x - y} = \\frac{1}{32}\\), find the value of x and y.\n(b) P, Q and R are related in such a way that \\(P \\propto \\frac{Q^{2}}{R}\\). When P = 36, Q = 3 and R = 4. Calculate Q when P = 200 and R = 2.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52944?exam_type=waec&type=theory&page=28",
+    "correct_answer": "(a) \\(2^{x + y} = 16 \\implies 2^{x + y} = 2^{4}\\)\n\\(\\implies x + y = 4 ..... (1)\\)\n\\(4^{x - y} = \\frac{1}{32} \\implies (2^{2})^{(x - y)} = 2^{-5}\\)\n\\(\\implies 2x - 2y = -5 .... (2)\\)\nFrom (1), x = 4 - y.\n\\(\\therefore 2(4 - y) - 2y = -5\\)\n\\(8 - 2y - 2y = -5 \\implies -4y = - 5 - 8 = -13\\)\n\\(y = \\frac{13}{4}\\)\n\\(x = 4 - \\frac{13}{4} \\)\n= \\(\\frac{3}{4}\\)\n(b) \\(P \\propto \\frac{Q^{2}}{R}\\)\n\\(\\implies P = \\frac{kQ^{2}}{R}\\)\n\\(k = \\frac{PR}{Q^{2}}\\)\n\\(k = \\frac{36 \\times 4}{9} = 16\\)\n\\(\\implies P = \\frac{16Q^{2}}{R}\\)\n\\(Q^{2} = \\frac{PR}{k}\\)\n\\(Q^{2} = \\frac{200 \\times 2}{16}\\)\n\\(Q^{2} = 25\\)\n\\(Q = \\pm 5\\).",
+    "explanation": "(a) \\(2^{x + y} = 16 \\implies 2^{x + y} = 2^{4}\\)\n\\(\\implies x + y = 4 ..... (1)\\)\n\\(4^{x - y} = \\frac{1}{32} \\implies (2^{2})^{(x - y)} = 2^{-5}\\)\n\\(\\implies 2x - 2y = -5 .... (2)\\)\nFrom (1), x = 4 - y.\n\\(\\therefore 2(4 - y) - 2y = -5\\)\n\\(8 - 2y - 2y = -5 \\implies -4y = - 5 - 8 = -13\\)\n\\(y = \\frac{13}{4}\\)\n\\(x = 4 - \\frac{13}{4} \\)\n= \\(\\frac{3}{4}\\)\n(b) \\(P \\propto \\frac{Q^{2}}{R}\\)\n\\(\\implies P = \\frac{kQ^{2}}{R}\\)\n\\(k = \\frac{PR}{Q^{2}}\\)\n\\(k = \\frac{36 \\times 4}{9} = 16\\)\n\\(\\implies P = \\frac{16Q^{2}}{R}\\)\n\\(Q^{2} = \\frac{PR}{k}\\)\n\\(Q^{2} = \\frac{200 \\times 2}{16}\\)\n\\(Q^{2} = 25\\)\n\\(Q = \\pm 5\\).",
+    "year": "2008"
+  },
+  {
+    "number": "137",
+    "text": "(a) Solve, correct to two decimal places, the equation \\(4x^{2} = 11x + 21\\).\n(b) A man invests\u00a0\u00a31500 for two years at compound interest. After one year, his money amounts to\u00a0\u00a31560. Find the :\n(i) rate of interest ; (ii) interest for the second year.\n(c) A car costs N300,000.00. It depreciates by 25% in the first year and 20% in the second year. Find its value after 2 years.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52957?exam_type=waec&type=theory&page=28",
+    "correct_answer": "(a) \\(4x^{2} = 11x + 21 \\implies 4x^{2} - 11x - 21 = 0\\)\n\\(a = 4, b = - 11 , c = -21\\)\n\\(x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}\\)\n\\(x = \\frac{-(-11) \\pm \\sqrt{(-11)^{2} - 4(4)(-21)}}{2(4)}\\)\n\\(x = \\frac{11 \\pm \\sqrt{121 + 336}}{8}\\)\n\\(x = \\frac{11 \\pm \\sqrt{457}}{8}\\)\n\\(x = \\frac{11 \\pm 21.378}{8}\\)\n\\(x = \\frac{11 + 21.378}{8}\\) or \\(x = \\frac{11 - 21.378}{8}\\)\n\\(x = \\frac{32.378}{8}\\) or \\(x = \\frac{-10.378}{8}\\)\\\n\\(x = \\text{4.047\u00a0or -1.297}\\)\n\\(x \\approxeq \\text{4.05\u00a0or -1.30}\\).(2 decimal place).\n(b) (i) \\(I = \\frac{PRT}{100}\\)\n\\(I =\u00a0\u00a3(1560 - 1500) =\u00a0\u00a360\\)\n\\(60 = \\frac{1500 \\times R \\times 1}{100}\\)\n\\(60 = 15R \\implies R = 4%\\)\n(ii) Interest for the second year\n= \\(\\frac{1560 \\times 4 \\times 1}{100}\\)\n= \\(\u00a362.40\\)\n(c)\nInitial price of the car\\(N300,000.00\\)Depreciation after first year (25%)\\(\\frac{25}{100} \\times 300,000 = N75,000\\)Value after 1st yearN225,000.00Depreciation after 2nd year(20%)\\(\\frac{20}{100} \\times 225,000 = N45,000\\)Value after 2nd yearN180,000.00",
+    "explanation": "(a) \\(4x^{2} = 11x + 21 \\implies 4x^{2} - 11x - 21 = 0\\)\n\\(a = 4, b = - 11 , c = -21\\)\n\\(x = \\frac{-b \\pm \\sqrt{b^{2} - 4ac}}{2a}\\)\n\\(x = \\frac{-(-11) \\pm \\sqrt{(-11)^{2} - 4(4)(-21)}}{2(4)}\\)\n\\(x = \\frac{11 \\pm \\sqrt{121 + 336}}{8}\\)\n\\(x = \\frac{11 \\pm \\sqrt{457}}{8}\\)\n\\(x = \\frac{11 \\pm 21.378}{8}\\)\n\\(x = \\frac{11 + 21.378}{8}\\) or \\(x = \\frac{11 - 21.378}{8}\\)\n\\(x = \\frac{32.378}{8}\\) or \\(x = \\frac{-10.378}{8}\\)\\\n\\(x = \\text{4.047\u00a0or -1.297}\\)\n\\(x \\approxeq \\text{4.05\u00a0or -1.30}\\).(2 decimal place).\n(b) (i) \\(I = \\frac{PRT}{100}\\)\n\\(I =\u00a0\u00a3(1560 - 1500) =\u00a0\u00a360\\)\n\\(60 = \\frac{1500 \\times R \\times 1}{100}\\)\n\\(60 = 15R \\implies R = 4%\\)\n(ii) Interest for the second year\n= \\(\\frac{1560 \\times 4 \\times 1}{100}\\)\n= \\(\u00a362.40\\)\n(c)\nInitial price of the car\\(N300,000.00\\)Depreciation after first year (25%)\\(\\frac{25}{100} \\times 300,000 = N75,000\\)Value after 1st yearN225,000.00Depreciation after 2nd year(20%)\\(\\frac{20}{100} \\times 225,000 = N45,000\\)Value after 2nd yearN180,000.00",
+    "year": "2008"
+  },
+  {
+    "number": "138",
+    "text": "The ages, in years, of 50 teachers in a school are given below :\n21 37 49 27 49 42 26 33 46 40 50 29 23 24 29 31 36 22 27 38 30 26 42 39 34 23 21 32 41 46 46 31 33 29 28 43 47 40 34 44 26 38 34 49 45 27 25 33 39 40\n(a) Form a frequency distribution table of the data using the intervals : 21 - 25, 26 - 30, 31 - 35 etc.\n(b) Draw the histogram of the distribution\u00a0\n(c) Use your histogram to estimate the mode\n(d) Calculate the mean age.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52958?exam_type=waec&type=theory&page=28",
+    "correct_answer": "ClassIntervalTallyClassmark(x)Freq(f)\\(fx\\)21 - 25IIII||23716126 - 30|||||||||281130831 - 35||||||||33929736 - 40||||||||38934241 - 45|||||43625846 - 50|||||||488384\\(\\sum\\)501750\n(b)\n(c) Mode : \\(L_{1} + (\\frac{f_{0} - f_{1}}{2f_{0} - f_{1} - f_{2}})t\\)\nWhere \\(L_{1}\\) = lower class boundary of modal class = 25.5\n\\(f_{0}\\) = frequency of modal class = 11\n\\(f_{1}\\) = frequency of pre-modal class = 7\n\\(f_{2}\\) = frequency of post modal class = 9\n\\(t\\) = interval mark = 5.\nMode : \\(25.5 + (\\frac{11 - 7}{22 - 7 - 9})\\times 5 = 25.5 + 3.3\\)\n= 28.8.\n(d) Mean : \\(\\frac{\\sum fx}{\\sum f} = \\frac{1750}{50}\\)\n= 35.",
+    "explanation": "ClassIntervalTallyClassmark(x)Freq(f)\\(fx\\)21 - 25IIII||23716126 - 30|||||||||281130831 - 35||||||||33929736 - 40||||||||38934241 - 45|||||43625846 - 50|||||||488384\\(\\sum\\)501750\n(b)\n(c) Mode : \\(L_{1} + (\\frac{f_{0} - f_{1}}{2f_{0} - f_{1} - f_{2}})t\\)\nWhere \\(L_{1}\\) = lower class boundary of modal class = 25.5\n\\(f_{0}\\) = frequency of modal class = 11\n\\(f_{1}\\) = frequency of pre-modal class = 7\n\\(f_{2}\\) = frequency of post modal class = 9\n\\(t\\) = interval mark = 5.\nMode : \\(25.5 + (\\frac{11 - 7}{22 - 7 - 9})\\times 5 = 25.5 + 3.3\\)\n= 28.8.\n(d) Mean : \\(\\frac{\\sum fx}{\\sum f} = \\frac{1750}{50}\\)\n= 35.",
+    "year": "2008"
+  },
+  {
+    "number": "139",
+    "text": "(a) The triangle ABC has sides AB = 17m, BC = 12m and AC = 10m. Calculate the :\n(i) largest angle of the triangle ; (ii) area of the triangle.\n(b) From a point T on a horizontal ground, the angle of elevation of the top R of a tower RS, 38m high is 63\u00b0. Calculate, correct to the nearest metre, the distance between T and S.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52960?exam_type=waec&type=theory&page=28",
+    "correct_answer": "(a) (i)\n\\(\\cos C = \\frac{a^{2} + b^{2} - c^{2}}{2ab}\\)\n\\(\\cos C = \\frac{12^{2} + 10^{2} - 17^{2}}{2(12)(10)}\\)\n\\(\\cos C = \\frac{-45}{240} = -0.1875\\)\n\\(C = \\cos^{-1} (-0.1875)\\)\n= \\(100.81\u00b0\\)\n(ii) Area of \\(\\Delta ABC = \\frac{1}{2} ab \\sin C\\)\n= \\(\\frac{1}{2} \\times 12 \\times 10 \\times \\sin 100.81\\)\n= \\(60 \\times 0.9822\\)\n= \\(58.936 m^{2}\\)\n(b)\\(\\tan 63 = \\frac{38}{x}\\)\n\\(x = \\frac{38}{\\tan 63}\\)\n\\(x = 19.362 m\\)\n\\(\\approxeq 19 m\\)",
+    "explanation": "(a) (i)\n\\(\\cos C = \\frac{a^{2} + b^{2} - c^{2}}{2ab}\\)\n\\(\\cos C = \\frac{12^{2} + 10^{2} - 17^{2}}{2(12)(10)}\\)\n\\(\\cos C = \\frac{-45}{240} = -0.1875\\)\n\\(C = \\cos^{-1} (-0.1875)\\)\n= \\(100.81\u00b0\\)\n(ii) Area of \\(\\Delta ABC = \\frac{1}{2} ab \\sin C\\)\n= \\(\\frac{1}{2} \\times 12 \\times 10 \\times \\sin 100.81\\)\n= \\(60 \\times 0.9822\\)\n= \\(58.936 m^{2}\\)\n(b)\\(\\tan 63 = \\frac{38}{x}\\)\n\\(x = \\frac{38}{\\tan 63}\\)\n\\(x = 19.362 m\\)\n\\(\\approxeq 19 m\\)",
+    "year": "2008"
+  },
+  {
+    "number": "140",
+    "text": "(a) Using ruler and a pair of compasses only, construct :\n(i) a quadrilateral PQRS such that /PQ/ = 7 cm, < QPS = 60\u00b0, /PS/ = 6.5 cm, < PQR = 135\u00b0 and /QS/ = /QR/ ;\n(ii) locus, \\(l_{1}\\) of points equidistant from P and Q ;\n(iii) locus, \\(l_{2}\\) of points equidistant from P and S.\n(b)(i) Label the point T where \\(l_{1}\\) and \\(l_{2}\\) intersect. (ii) With center T and radius /TP/, construct a circle \\(l_{3}\\).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52961?exam_type=waec&type=theory&page=28",
+    "correct_answer": "",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "141",
+    "text": "(a)\u00a0\nIn the diagram, AB // CD and BC // FE. \\(\\stackrel\\frown{CDE} = 75\u00b0\\) and \\(\\stackrel\\frown{DEF} = 26\u00b0\\). Find the angles marked x and y.\n(b)\u00a0\nThe diagram shows a circle ABCD with centre O and radius 7 cm. The reflex angle AOC = 190\u00b0 and < DAO = 35\u00b0. Find :\n(i) < ABC ; (ii) < ADC.\n(c) Using the diagram in (b) above, calculate, correct to 3 significant figures, the length of : (i) arc ABC ; (ii) the chord AD. [Take \\(\\pi = 3.142\\)].",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52963?exam_type=waec&type=theory&page=29",
+    "correct_answer": "(a)105\u00b0 + 26\u00b0 + x = 180\u00b0\n131\u00b0 + x = 180\u00b0\nx = 180\u00b0 - 131\u00b0\n= 49\u00b0.\n131\u00b0 + x + 131\u00b0 + 360 - y = 360\u00b0\n131\u00b0 + 49\u00b0 + 131\u00b0 + 360 - y = 360\u00b0\n671\u00b0 - y = 360\u00b0\ny = 671\u00b0 - 360\u00b0\n= 311\u00b0.\n(b)(i) \\(\\stackrel\\frown{ABC} = \\frac{1}{2} \\stackrel\\frown{AOC} reflex\\)\n= \\(\\frac{1}{2} \\times 190\u00b0 = 95\u00b0\\)\n(ii) \\(\\stackrel\\frown{ADC} = \\frac{1}{2} \\stackrel\\frown{AOC}\\)\n= \\(\\frac{1}{2} (360\u00b0 - 190\u00b0)\\)\n= \\(\\frac{1}{2} \\times 170\u00b0\\)\n= 85\u00b0\n(c) (i) \\(\\stackrel\\frown{ABC} = \\frac{360 - 190}{360} \\times 2\\pi r\\)\n= \\(\\frac{170}{360} \\times 2 \\times 3.142 \\times 7\\)\n= \\(20.77 cm\\)\n\\(\\approxeq 20.8 cm\\) (3 significant figures)\n(ii) \\(AD = 2 \\times 7\\cos 35\\)\n= \\(14 \\times 0.8192\\)\n= \\(11.468 cm \\approxeq 11.5 cm\\) (3 significant figures)",
+    "explanation": "(a)105\u00b0 + 26\u00b0 + x = 180\u00b0\n131\u00b0 + x = 180\u00b0\nx = 180\u00b0 - 131\u00b0\n= 49\u00b0.\n131\u00b0 + x + 131\u00b0 + 360 - y = 360\u00b0\n131\u00b0 + 49\u00b0 + 131\u00b0 + 360 - y = 360\u00b0\n671\u00b0 - y = 360\u00b0\ny = 671\u00b0 - 360\u00b0\n= 311\u00b0.\n(b)(i) \\(\\stackrel\\frown{ABC} = \\frac{1}{2} \\stackrel\\frown{AOC} reflex\\)\n= \\(\\frac{1}{2} \\times 190\u00b0 = 95\u00b0\\)\n(ii) \\(\\stackrel\\frown{ADC} = \\frac{1}{2} \\stackrel\\frown{AOC}\\)\n= \\(\\frac{1}{2} (360\u00b0 - 190\u00b0)\\)\n= \\(\\frac{1}{2} \\times 170\u00b0\\)\n= 85\u00b0\n(c) (i) \\(\\stackrel\\frown{ABC} = \\frac{360 - 190}{360} \\times 2\\pi r\\)\n= \\(\\frac{170}{360} \\times 2 \\times 3.142 \\times 7\\)\n= \\(20.77 cm\\)\n\\(\\approxeq 20.8 cm\\) (3 significant figures)\n(ii) \\(AD = 2 \\times 7\\cos 35\\)\n= \\(14 \\times 0.8192\\)\n= \\(11.468 cm \\approxeq 11.5 cm\\) (3 significant figures)",
+    "year": "2008"
+  },
+  {
+    "number": "142",
+    "text": "(a) Copy and complete the table of values for \\(y = 3\\sin x + 2\\cos x\\) for \\(0\u00b0 \\leq x \\leq 360\u00b0\\).\n\n\n\nx\n0\u00b0\n60\u00b0\n120\u00b0\n180\u00b0\n240\u00b0\n300\u00b0\n360\u00b0\n\n\ny\n2.00\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n\u00a0\n2.00\n\n\n\n(b) Using a scale of 2 cm to 60\u00b0 on x- axis and 2 cm to 1 unit on the y- axis, draw the graph of \\(y = 3 \\sin x + 2 \\cos x\\) for \\(0\u00b0 \\leq x \\leq 360\u00b0\\).\n(c) Use your graph to solve the equation : \\(3 \\sin x + 2 \\cos x = 1.5\\).\n(d) Find the range of values of x for which \\(3\\sin x + 2\\cos x < -1\\).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52964?exam_type=waec&type=theory&page=29",
+    "correct_answer": "(a)\nx0\u00b060\u00b0120\u00b0180\u00b0240\u00b0300\u00b0360\u00b0\\(\\sin x\\)00.86600.86600-0.8660-0.86600\\(\\cos x\\)10.5-0.5-1-0.5-0.51\\(3\\sin x\\)02.5982.5980-2.598-2.5980\\(2\\cos x\\)21-1-2-1-12y23.5981.598-2-3.598-3.5982y2.003.601.60-2.00-3.60-3.602.00\n(b)\n(c) From graph, \\(x_{1} = 120 + \\frac{1}{5} \\times 15 = 120 + 3 = 123\u00b0\\)\n\\(x_{2} = 360\u00b0 - \\frac{2}{3} \\times 15 = 360 - 10 = 350\u00b0\\)\n(d) From graph, \\(180\u00b0 - 15 < x < 300 + \\frac{3}{5} \\times 15\\)\n\\(165\u00b0 < x < 300 + 9 = 165\u00b0 < x < 309\u00b0\\)",
+    "explanation": "(a)\nx0\u00b060\u00b0120\u00b0180\u00b0240\u00b0300\u00b0360\u00b0\\(\\sin x\\)00.86600.86600-0.8660-0.86600\\(\\cos x\\)10.5-0.5-1-0.5-0.51\\(3\\sin x\\)02.5982.5980-2.598-2.5980\\(2\\cos x\\)21-1-2-1-12y23.5981.598-2-3.598-3.5982y2.003.601.60-2.00-3.60-3.602.00\n(b)\n(c) From graph, \\(x_{1} = 120 + \\frac{1}{5} \\times 15 = 120 + 3 = 123\u00b0\\)\n\\(x_{2} = 360\u00b0 - \\frac{2}{3} \\times 15 = 360 - 10 = 350\u00b0\\)\n(d) From graph, \\(180\u00b0 - 15 < x < 300 + \\frac{3}{5} \\times 15\\)\n\\(165\u00b0 < x < 300 + 9 = 165\u00b0 < x < 309\u00b0\\)",
+    "year": "2008"
+  },
+  {
+    "number": "143",
+    "text": "(a) If 3, x, y, 18 are the terms of an Arithmetic Progression (A.P), find the values of x and y.\n(b)(i) The sum of the second and third terms of a grometric progression is six times the fourth term. Find the two possible values of the common ratio.\n(ii) If the second term is 8 and the common ratio is positive, find the first six terms.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52965?exam_type=waec&type=theory&page=29",
+    "correct_answer": "(a) 3, x, y, 18.\nNote : When given the consecutive terms of an A.P to be \\(a, b, c, d\\), then\n\\(\\frac{a + c}{2} = b ; \\frac{b + d}{2} = c\\).\n\\(\\therefore \\frac{3 + y}{2} = x \\implies 3 + y = 2x .... (1)\\)\nAlso, \\(\\frac{x + 18}{2} = y \\implies x + 18 = 2y ..... (2)\\)\nFrom (2), x = 2y - 18. Putting that in (1), we have\n\\(3 + y = 2(2y - 18) \\implies 3 + y = 4y - 36\\)\n\\(3 + 36 = 4y - y \\implies 3y = 39\\)\n\\(y = 13\\)\n\\(x = 2y - 18\\)\n\\(x = 2(13) - 18 = 26 - 18 = 8\\)\n\\((x, y) = (8, 13)\\).\n(b)(i) G.P\n\\(T_{2} = ar ; T_{3} = ar^{2} ; T_{4} = ar^{3}\\)\n\\(T_{2} + T_{3} = 6T_{4}\\)\n\\(ar + ar^{2} = 6ar^{3}\\)\n\\(6ar^{3} - ar^{2} - ar = 0\\)\n\\(6ar^{3} - 3ar^{2} + 2ar^{2} - ar = 0\\)\n\\(3ar^{2}(2r - 1) + ar(2r - 1) = 0\\)\n\\((3ar^{2} + ar)(2r - 1) = 0\\)\n\\(ar(3r + 1)(2r - 1) = 0\\)\n\\(\\implies 3r + 1 = 0 ; 2r - 1 = 0\\)\n\\(r = \\frac{-1}{3} ; r = \\frac{1}{2}\\)\n(ii) Since r is positive, then \\(r = \\frac{1}{2}\\).\n\\(T_{2} = ar = 8 \\implies \\frac{a}{2} = 8\\)\n\\(a = 16\\)\n\\(\\therefore \\text{The first 6 terms} = 16, 8, 4, 2, 1, \\frac{1}{2}\\)",
+    "explanation": "(a) 3, x, y, 18.\nNote : When given the consecutive terms of an A.P to be \\(a, b, c, d\\), then\n\\(\\frac{a + c}{2} = b ; \\frac{b + d}{2} = c\\).\n\\(\\therefore \\frac{3 + y}{2} = x \\implies 3 + y = 2x .... (1)\\)\nAlso, \\(\\frac{x + 18}{2} = y \\implies x + 18 = 2y ..... (2)\\)\nFrom (2), x = 2y - 18. Putting that in (1), we have\n\\(3 + y = 2(2y - 18) \\implies 3 + y = 4y - 36\\)\n\\(3 + 36 = 4y - y \\implies 3y = 39\\)\n\\(y = 13\\)\n\\(x = 2y - 18\\)\n\\(x = 2(13) - 18 = 26 - 18 = 8\\)\n\\((x, y) = (8, 13)\\).\n(b)(i) G.P\n\\(T_{2} = ar ; T_{3} = ar^{2} ; T_{4} = ar^{3}\\)\n\\(T_{2} + T_{3} = 6T_{4}\\)\n\\(ar + ar^{2} = 6ar^{3}\\)\n\\(6ar^{3} - ar^{2} - ar = 0\\)\n\\(6ar^{3} - 3ar^{2} + 2ar^{2} - ar = 0\\)\n\\(3ar^{2}(2r - 1) + ar(2r - 1) = 0\\)\n\\((3ar^{2} + ar)(2r - 1) = 0\\)\n\\(ar(3r + 1)(2r - 1) = 0\\)\n\\(\\implies 3r + 1 = 0 ; 2r - 1 = 0\\)\n\\(r = \\frac{-1}{3} ; r = \\frac{1}{2}\\)\n(ii) Since r is positive, then \\(r = \\frac{1}{2}\\).\n\\(T_{2} = ar = 8 \\implies \\frac{a}{2} = 8\\)\n\\(a = 16\\)\n\\(\\therefore \\text{The first 6 terms} = 16, 8, 4, 2, 1, \\frac{1}{2}\\)",
+    "year": "2008"
+  }
+]

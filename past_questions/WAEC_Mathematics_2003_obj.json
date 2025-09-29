@@ -1,0 +1,646 @@
+[
+  {
+    "number": "724",
+    "text": "Simplify \\(\\left(\\frac{3}{4} - \\frac{1}{3}\\right)\\times 4\\frac{1}{3}\\div 3\\frac{1}{4}\\)",
+    "options": {
+      "A": "\\(\\frac{5}{9}\\)",
+      "B": "\\(\\frac{5}{16}\\)",
+      "C": "\\(\\frac{8}{13}\\)",
+      "D": "\\(\\frac{16}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26570?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "\\((\\frac{3}{4} - \\frac{1}{3}) \\times 4\\frac{1}{3} \\div 3\\frac{1}{4}\\)\n= \\((\\frac{9 - 4}{12}) \\times \\frac{13}{3} \\div \\frac{13}{4}\\)\n= \\(\\frac{5}{12} \\times \\frac{13}{3} \\times \\frac{4}{13}\\)\n= \\(\\frac{5}{9}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "725",
+    "text": "The table below gives the distribution of marks obtained by a number of pupils in a class test.\nThe mode of the distribution is",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "8",
+      "D": "18"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26571?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "726",
+    "text": "The table below gives the distribution of marks obtained by a number of pupils in a class test.\nFind the median of the distribution",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26572?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "727",
+    "text": "The table below gives the distribution of marks obtained by a number of pupils in a class test.\nHow many pupils scored at least 2 marks?",
+    "options": {
+      "A": "12",
+      "B": "23",
+      "C": "37",
+      "D": "49"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26573?exam_type=waec&type=obj&page=146",
+    "correct_answer": "D",
+    "explanation": "= 12 + 18 + 11 + 8\n= 49 students",
+    "year": "2003"
+  },
+  {
+    "number": "728",
+    "text": "Interprete the inequality represented on the number line",
+    "options": {
+      "A": "-4< X \u2264 5",
+      "B": "-4 \u2264 x< 5",
+      "C": "-4\n\nD.\n            -4\u2264x\u22645",
+      "D": "-4\u2264x\u22645"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26574?exam_type=waec&type=obj&page=146",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "729",
+    "text": "A student bought 3 notebooks and 1 pen for N35. After misplacing these items, she again bought 2 notebooks and 2 pens, all of the same type for\nN30. What is the cost of a pen?",
+    "options": {
+      "A": "N5.00",
+      "B": "N7.50",
+      "C": "N10.00",
+      "D": "N15.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26575?exam_type=waec&type=obj&page=146",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "730",
+    "text": "Simplify \\(\\frac{4}{a-3}-\\frac{1}{a+2}\\)",
+    "options": {
+      "A": "\\(\\frac{3a+11}{(a-3)(a-2)}\\)",
+      "B": "\\(\\frac{3a+11}{(a+3)(a-2)}\\)",
+      "C": "\\(\\frac{3a+11}{(a+3)(a+2)}\\)",
+      "D": "\\(\\frac{3a+11}{(a-3)(a+2)}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26576?exam_type=waec&type=obj&page=146",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{4}{a-3}-\\frac{1}{a+3}\\)\n= \\(\\frac{4(a+2)-1(a-3)}{(a-3)(a+2)}\\)\n\\(\\frac{4a+8 -a +3}{(a-3)(a+2)}\\)\n=\u00a0\\(\\frac{3a+11}{(a-3)(a+2)}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "731",
+    "text": "Simplify \\(\\frac{4\\sqrt{18}}{\\sqrt{8}}\\)",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "6",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26577?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "732",
+    "text": "In the diagram, PQ/RT /RS/ =/QS/, \u2220QST= 70o and \u2220PQW = 55o \nFind the size of reflex \u2220WQS",
+    "options": {
+      "A": "235o",
+      "B": "290o",
+      "C": "305o",
+      "D": "325o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26578?exam_type=waec&type=obj&page=147",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no",
+    "year": "2003"
+  },
+  {
+    "number": "733",
+    "text": "Three men, Bedu, Bakre and Kofi shared' N500 in the ratio 3:2: x respectively. If Bedu\u2019s share is N150, find the value of x.",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26579?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "\\(5+x\\rightarrow 500\\\\3 \\rightarrow 150\\\\\u2234 3 \\times 500 = 150 \\times (5+x)\\\\1500 = 750 + 150x\\\\x=\\frac{750}{150}=5\\)",
+    "year": "2003"
+  },
+  {
+    "number": "734",
+    "text": "Simplify \\(\\left(1\\frac{2}{3}\\right)^2 - \\left(\\frac{2}{3}\\right)^2\\)",
+    "options": {
+      "A": "\\(2\\frac{1}{3}\\)",
+      "B": "\\(1\\frac{1}{3}\\)",
+      "C": "1",
+      "D": "\\(\\frac{3}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26580?exam_type=waec&type=obj&page=147",
+    "correct_answer": "A",
+    "explanation": "\\(\\left(1\\frac{2}{3}\\right)^2 - \\left(\\frac{2}{3}\\right)^2=\\left(\\frac{5}{3}\\right)^2 - \\left(\\frac{2}{3}\\right)^2\\)Difference of two squares\\(\\left(\\frac{5}{3}-\\frac{2}{3}\\right)\\left(\\frac{5}{3}+\\frac{2}{3}\\right)=\\left(\\frac{3}{3}\\right)\\left(\\frac{7}{3}\\right)\\\\\\frac{7}{3}=2\\frac{1}{3}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "735",
+    "text": "Find the value of x which satisfies the equation\n5(x-7)=7-2x",
+    "options": {
+      "A": "x =2",
+      "B": "x=4",
+      "C": "x=6",
+      "D": "x = 14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26581?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "5(x - 7) = 7 - 2x\n5x - 35 = 7 - 2x\n5x + 2x = 7 + 35\n7x = 42\nx = \\(\\frac{42}{7}\\)\n= 6",
+    "year": "2003"
+  },
+  {
+    "number": "736",
+    "text": "Evaluate \\(\\frac{log8}{log\\left(\\frac{1}{4}\\right)}\\)",
+    "options": {
+      "A": "-2",
+      "B": "\\(\\frac{-3}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26582?exam_type=waec&type=obj&page=148",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "737",
+    "text": "A pyramid of volume 120cm3 has a rectangular base which measures 5cm by 6cm. Calculate the height of the pyramid",
+    "options": {
+      "A": "5cm",
+      "B": "9cm",
+      "C": "12cm",
+      "D": "15cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26583?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "\\(V= \\frac{1}{3}\\hspace{1mm}base\\hspace{1mm}area\\hspace{1mm}\\times\\hspace{1mm}height\\\\120=\\frac{1}{3}\\times 5 \\times 6 \\times h; h = \\frac{120}{10}=12cm\\)",
+    "year": "2003"
+  },
+  {
+    "number": "738",
+    "text": "PQRS is a cyclic quadrilateral. If \u2220QPS = 75\u00b0, what is the size of \u2220QRS?",
+    "options": {
+      "A": "180o",
+      "B": "150o",
+      "C": "105o",
+      "D": "75o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26584?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "< QPS =\u00a075\u00b0\n< QRS = 180\u00b0 - 75\u00b0 = 105\u00b0 (opposite angles of a cyclic quadrilateral)",
+    "year": "2003"
+  },
+  {
+    "number": "739",
+    "text": "In the diagram, ZM is a straight line. Calculate the value of x.",
+    "options": {
+      "A": "27o",
+      "B": "30o",
+      "C": "35o",
+      "D": "37o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26585?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no",
+    "year": "2003"
+  },
+  {
+    "number": "740",
+    "text": "Find the value of x in the equation 3x\\(^2\\) - 8x - 3 = 0",
+    "options": {
+      "A": "\\(\\frac{1}{3},-3\\)",
+      "B": "\\(-\\frac{1}{3},-3\\)",
+      "C": "\\(-\\frac{1}{3},3\\)",
+      "D": "\\(\\frac{1}{3},3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26586?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "3x\\(^2\\) - 8x - 3 = 0\n3x\\(^2\\) - 9x + x - 3 = 0\n3x(x - 3) + 1(x - 3) = 0\n(3x + 1)(x - 3) = 0\n3x = -1 \\(\\implies\\) x = \\(-\\frac{1}{3}\\)\nor x = 3.",
+    "year": "2003"
+  },
+  {
+    "number": "741",
+    "text": "In\\( \u2206 PQR, P\\hat{Q}P = 84^\u00b0, |Q\\hat{P}R |= 43^\u00b0\\) and |PQ| = 5cm. Find /QR/ in cm, correct to 1 decimal place.",
+    "options": {
+      "A": "3.4",
+      "B": "4.3",
+      "C": "5.9",
+      "D": "6.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26587?exam_type=waec&type=obj&page=149",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "742",
+    "text": "Given, that \\(4P4_5 = 119_{10}\\), find the value of P",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26588?exam_type=waec&type=obj&page=149",
+    "correct_answer": "C",
+    "explanation": "\\(4P4_5 = 119_{10}\\)\n\\(4 \\times 5^2 + P \\times 5^1 + 4 \\times 5^0 = 119\\)\n\\(100 + 5P + 4 = 119\\)\n\\(5P = 119 - 104 = 15\\)\n\\(P = 3\\)",
+    "year": "2003"
+  },
+  {
+    "number": "743",
+    "text": "A ladder, 6m long, leans against a vertical wall at an angle 53o to the horizontal. How high up the wall does the ladder reach?",
+    "options": {
+      "A": "3.611m",
+      "B": "4.521m",
+      "C": "4.792m",
+      "D": "7.962m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26589?exam_type=waec&type=obj&page=149",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "744",
+    "text": "What is the size of angle x in the diagram",
+    "options": {
+      "A": "15o",
+      "B": "30o",
+      "C": "45o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26590?exam_type=waec&type=obj&page=149",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "745",
+    "text": "The four interior angles of a quadrilateral are (x + 20) o, (x+ 10) o (2x - 45) o and (x - 25) o. Find the value of x",
+    "options": {
+      "A": "60",
+      "B": "80",
+      "C": "100",
+      "D": "360"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26591?exam_type=waec&type=obj&page=149",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no\no",
+    "year": "2003"
+  },
+  {
+    "number": "746",
+    "text": "Calculate the value of y in the diagram",
+    "options": {
+      "A": "17",
+      "B": "34",
+      "C": "44",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26592?exam_type=waec&type=obj&page=150",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no",
+    "year": "2003"
+  },
+  {
+    "number": "747",
+    "text": "Out of 60 members of an Association, 15 are Doctors and 9 are Lawyers. If a member is selected at random from the Association, what is the probability that the member is neither a Doctor Nor a Lawyer",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{9}{10}\\)",
+      "C": "\\(\\frac{3}{20}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26593?exam_type=waec&type=obj&page=150",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "748",
+    "text": "Find the values of x for which \\( \\frac{1}{2x^2 - 13x +15} \\) is not defined,",
+    "options": {
+      "A": "5 or \\( \\frac{3}{2} \\)",
+      "B": "1 or \\( \\frac{15}{13} \\)",
+      "C": "2 or 15",
+      "D": "13 or 15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26594?exam_type=waec&type=obj&page=150",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "749",
+    "text": "In the diagram, \\(P\\hat{Q}S = 65^o, R\\hat{P}S = 40^o\\hspace{1mm}and\\hspace{1mm}Q\\hat{S}R=20^o\\hspace{1mm} Find\u00a0 \u00a0 P\\hat{S}Q\\)",
+    "options": {
+      "A": "85o",
+      "B": "60o",
+      "C": "55o",
+      "D": "45o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26595?exam_type=waec&type=obj&page=150",
+    "correct_answer": "C",
+    "explanation": "< QPS = < PRS = 65\u00b0 (angles in the same segment)\n< PSR + 40\u00b0 + 65\u00b0 = 180\u00b0\n< PSR + 105\u00b0 = 180\u00b0\n< PSR = 75\u00b0\n< PSR = < PSQ + < QSR\n75\u00b0 = < PSQ + 20\u00b0 \\(\\implies\\) < PSQ = 75\u00b0 - 20\u00b0 = 55\u00b0",
+    "year": "2003"
+  },
+  {
+    "number": "750",
+    "text": "Evaluate \\((111_{two})^2 - (101_{two})^2\\)",
+    "options": {
+      "A": "10two",
+      "B": "100two",
+      "C": "1100two",
+      "D": "11000two"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26596?exam_type=waec&type=obj&page=150",
+    "correct_answer": "D",
+    "explanation": "\\((111_{2})^2 - (101_{2})^2\\)\nDifference of two squares\n\\((111 - 101)(111 + 101)\\)\n= \\((10)(1100)\\)\n= \\(11000_{2}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "751",
+    "text": "Given that x \u2245 0.0102 correct to 3 significant figures, which of the following cannot be the actual value of x?",
+    "options": {
+      "A": "0.01014",
+      "B": "0.01021",
+      "C": "0.01015",
+      "D": "0.01016"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26597?exam_type=waec&type=obj&page=151",
+    "correct_answer": "A",
+    "explanation": "option A CANNOT BE BECAUSE THE LAST NUMBER BEFORE 1 CAN ONLY BE ROUNDED DOWN TO ZERO.",
+    "year": "2003"
+  },
+  {
+    "number": "752",
+    "text": "If \\(\\frac{3^{(1-n)}}{9^{-2n}}\\) = \\(\\frac{1}{9}\\) find n",
+    "options": {
+      "A": "\\(-\\frac{3}{2}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "-1",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26598?exam_type=waec&type=obj&page=151",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{3^{(1-n)}}{9^{-2n}}\\) =\\(\\frac{1}{9}\\)3\\(^{1-n}\\times 3^{-2(-2n)} = 3^{-2}\\)1 - n - 2(-2n) = -21 - n + 4n = -2n = -1",
+    "year": "2003"
+  },
+  {
+    "number": "753",
+    "text": "Which of the following is/are not the interior angle(s) of a regular polygon? I.108\u00b0\u00a0II. 116\u00b0 III. 120\u00b0",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26599?exam_type=waec&type=obj&page=151",
+    "correct_answer": "B",
+    "explanation": "Using the formula, \\((n - 2) \\times 180\u00b0\\) to get the sum of the interior angles. Then we can have\n\\((n - 2) \\times 180\u00b0 = 108n\\) ... (1)\n\\((n - 2) \\times 180\u00b0 = 116n\\) ... (2)\n\\((n - 2) \\times 180\u00b0 = 120n\\) ... (3)\nSolving the above given equations, where n is not a positive integer then that angle is not the interior for a regular polygon.\n(1): \\(180n - 360 = 108n \\implies 72n = 360\\)\n\\(n = 5\\) (regular pentagon)\n(2): \\(180n - 360 = 116n \\implies 64n = 360\\)\n\\(n = 5.625\\)\n(3): \\(180n\u00a0- 360 = 120n \\implies 60n = 360\\)\n\\(n = 6\\) (regular hexagon)\nHence, 116\u00b0 is not an angle of a regular polygon.",
+    "year": "2003"
+  },
+  {
+    "number": "754",
+    "text": "In a \u2206 XYZ, /YZ/ = 6cm YXZ = 60o and XYZ is a right angle. Calculate /XZ/in cm, leaving your answer in surd form",
+    "options": {
+      "A": "2\u221a3",
+      "B": "4\u221a3",
+      "C": "6\u221a3",
+      "D": "12\u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26600?exam_type=waec&type=obj&page=151",
+    "correct_answer": "B",
+    "explanation": "\\(sin \\theta = \\frac{opp}{hyp}\\)sin 60^o =\u00a0\\(\\frac{|YZ|}{|XZ|}=\\frac{6}{P}\\)P sin 60^o = 6P = \\(\\frac{6}{sin60^o}\\)=\\(\\frac{6}{\\sqrt{\\frac{3}{2}}}=4\\sqrt{3}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "755",
+    "text": "If \\(P = \\sqrt{QR\\left(1+\\frac{3t}{R}\\right)}\\), make R the subject of the formula.",
+    "options": {
+      "A": "\\(R = \\frac{3Qt}{P^2 - Q}\\)",
+      "B": "\\(R = \\frac{P^2 \u2013 3t}{Q+1}\\)",
+      "C": "\\(R = \\frac{P^2 + 3t}{Q - 1}\\)",
+      "D": "\\(R = \\frac{P^2-3Qt}{Q}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26601?exam_type=waec&type=obj&page=151",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "756",
+    "text": "From the Venn diagram below, how many elements are in P\u2229Q?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26602?exam_type=waec&type=obj&page=152",
+    "correct_answer": "B",
+    "explanation": "P \\(\\cap\\) Q = {f, e} = 2",
+    "year": "2003"
+  },
+  {
+    "number": "757",
+    "text": "From the Venn Diagram below, find Q' \u2229 R.",
+    "options": {
+      "A": "(e)",
+      "B": "(c, h)",
+      "C": "(c, g, h)",
+      "D": "(c, e, g, h)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26603?exam_type=waec&type=obj&page=152",
+    "correct_answer": "C",
+    "explanation": "Q' \u2229 RQ'\u00a0= U - QQ'\u00a0= {a, b, c, d, g, h, i}R = {c, e, h, g}Q' \u2229 R = {c, h, g}",
+    "year": "2003"
+  },
+  {
+    "number": "758",
+    "text": "The square root of a number is 2k. What is half of the number",
+    "options": {
+      "A": "\\(\\sqrt{\\frac{k}{2}}\\)",
+      "B": "\\(\\sqrt{k}\\)",
+      "C": "\\(\\frac{1}{2}k^2\\)",
+      "D": "2k2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26604?exam_type=waec&type=obj&page=152",
+    "correct_answer": "D",
+    "explanation": "Let the number be x.\n\\(\\sqrt{x} = 2k \\implies x = (2k)^2\\)\n= \\(4k^2\\)\n\\(\\frac{1}{2} \\times 4k^2 = 2k^2\\)",
+    "year": "2003"
+  },
+  {
+    "number": "759",
+    "text": "Given that p varies as the square of q and q varies inversely as the square root of r. How does p vary with r?",
+    "options": {
+      "A": "p varies as the square of r",
+      "B": "p varies as the square root of r",
+      "C": "p varies inversely as the square of r",
+      "D": "p varies inversely as r"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26605?exam_type=waec&type=obj&page=152",
+    "correct_answer": "D",
+    "explanation": "\\(p \\propto\u00a0q^2\\)\n\\(q\\propto\\frac{1}{\\sqrt{r}\\)\n\\(p = kq^2\\)\n\\(q = \\frac{c}{\\sqrt{r}}\\)\nwhere c and k are constants.\n\\(q^2 = \\frac{c^2}{r}\\)\n\\(p = \\frac{kc^2}{r}\\)\nIf k and c are constants, then kc\\(^2\\) is also a constant, say z.\n\\(p = \\frac{z}{r}\\)\np varies inversely as r.",
+    "year": "2003"
+  },
+  {
+    "number": "760",
+    "text": "The probabilities of a boy passing English and Mathematics test are x and y respectively. Find the probability of the boy failing both tests",
+    "options": {
+      "A": "1-(x-y)+xy",
+      "B": "1-(x+y)-xy",
+      "C": "1-(x+y)+xy",
+      "D": "1 - (x - y) + x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26606?exam_type=waec&type=obj&page=152",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "761",
+    "text": "The locus of points equidistant from two intersecting straight lines PQ and PR is",
+    "options": {
+      "A": "a circle centre P radius Q.",
+      "B": "a circle centre P radius PR",
+      "C": "the point of intersection of the perpendicular bisectors of PQ and PR",
+      "D": "the bisector of angle QPR"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26607?exam_type=waec&type=obj&page=153",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "762",
+    "text": "Find the equation whose roots are \\(-\\frac{2}{3}\\) and 3",
+    "options": {
+      "A": "3x2+11x-6=0",
+      "B": "3x2+7x+6=0",
+      "C": "3x2-11x-6=0",
+      "D": "3x2-7x-6=0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26609?exam_type=waec&type=obj&page=153",
+    "correct_answer": "D",
+    "explanation": "\\(x = -\\frac{2}{3} \\implies x + \\frac{2}{3} = 0\\)\n\\(x = 3 \\implies x - 3 = 0\\)\n\\(\\implies (x - 3)(x + \\frac{2}{3}) = 0\\)\n\\(x^2 - 3x + \\frac{2}{3}x - 2 = 0\\)\n\\(x^2 - \\frac{7}{3}x - 2 = 0\\)\n\\(3x^2 - 7x - 6 = 0\\)",
+    "year": "2003"
+  },
+  {
+    "number": "763",
+    "text": "Evaluate Cos 45o Cos 30o - Sin 45o Sin 30o leaving the answer in surd form",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{2}-1}{2}\\)",
+      "B": "\\(\\frac{\\sqrt{3}-\\sqrt{2}}{4}\\)",
+      "C": "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26610?exam_type=waec&type=obj&page=153",
+    "correct_answer": "D",
+    "explanation": "\\(cos45^o \\times cos30^o - sin45^o \\times sin30^o\\)\\(\\frac{1}{\\sqrt{2}}\\times \\frac{\\sqrt{3}}{2} - \\frac{1}{\\sqrt{2}}\\times \\frac{1}{2}\\)\\(\\frac{\\sqrt{3}}{2\\sqrt{2}}-\\frac{1}{2\\sqrt{2}}; = \\frac{\\sqrt{3}-1}{2\\sqrt{2}} = \\frac{\\sqrt{6}-\\sqrt{2}}{4}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "764",
+    "text": "In constructing an angle, Olu draws line OX. With centre O and a convenient radius, he draws an arc intersecting OX at P. With centre P and the same radius, he draws an arc intersecting the first arc at Q and finally joins OQ. What is the size of angle POQ so constructed?",
+    "options": {
+      "A": "90o",
+      "B": "75o",
+      "C": "60o",
+      "D": "45o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26611?exam_type=waec&type=obj&page=153",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "765",
+    "text": "In the diagram /PS/ = 9 cm, /OR/ = 5cm, \\(P\\hat{S}R = 63^o\\) and \\(S\\hat{P}Q = P\\hat{Q}R = 90^o\\). Find, correct to the nearest whole number, the area of the trapezium,",
+    "options": {
+      "A": "55cm2",
+      "B": "25cm2",
+      "C": "22cm2",
+      "D": "13cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26612?exam_type=waec&type=obj&page=153",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "766",
+    "text": "A right circular cone is such that its radius r is twice its height h. Find its volume in terms of h",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\pi h^2\\)",
+      "B": "\\(\\frac{1}{12}\\pi h^3\\)",
+      "C": "\\(\\frac{4}{3}\\pi h^2\\)",
+      "D": "\\(\\frac{4}{3}\\pi h^3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26613?exam_type=waec&type=obj&page=154",
+    "correct_answer": "D",
+    "explanation": "Volume of a cone = \\(\\frac{\\pi r^2 h}{3}\\)\nr = 2h.\nV = \\(\\frac{\\pi \\times (2h)^2 \\times h}{3}\\)\n= \\(\\frac{4}{3} \\pi h^3\\)",
+    "year": "2003"
+  },
+  {
+    "number": "767",
+    "text": "A man made a loss of 15% by selling an article for N595. Find the cost price of the article",
+    "options": {
+      "A": "N600.00",
+      "B": "N684.25",
+      "C": "N700.00",
+      "D": "N892.50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26614?exam_type=waec&type=obj&page=154",
+    "correct_answer": "C",
+    "explanation": "15% loss = N595\n\\(\\implies\\) (100 - 15)% of CP = N595\n85% of CP = N595\nCP = \\(\\frac{595 \\times 100}{85}\\)\n= N700.00",
+    "year": "2003"
+  },
+  {
+    "number": "768",
+    "text": "The bearing of P from Q is x, where 270o < x < 360o. Find the bearing of Q from P",
+    "options": {
+      "A": "(x - 90)o",
+      "B": "(x-270)o",
+      "C": "(x - 135)o",
+      "D": "(x - 180)o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26615?exam_type=waec&type=obj&page=154",
+    "correct_answer": "D",
+    "explanation": "Bearing of Q and P\\(180^{\\circ} \u2013 (360^{\\circ}-x)\\)180\\(^{\\circ}-360^{\\circ}\\)+x-180\\(^{\\circ}\\) + xx - 180\\(^{\\circ}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "769",
+    "text": "Which of the following is not a measure of dispersion?",
+    "options": {
+      "A": "Range",
+      "B": "Mean deviation",
+      "C": "Mean",
+      "D": "Standard deviation"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26616?exam_type=waec&type=obj&page=154",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  }
+]

@@ -1,0 +1,646 @@
+[
+  {
+    "number": "884",
+    "text": "Evaluate (0.13)\\(^3\\)correct to three significant figures",
+    "options": {
+      "A": "0.00219",
+      "B": "0.00220",
+      "C": "0.00300",
+      "D": "0.00390"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36156?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "885",
+    "text": "Simplify: 11011\\(_2\\) - 1101\\(_2\\)",
+    "options": {
+      "A": "101000\\(_2\\)",
+      "B": "1100\\(_2\\)",
+      "C": "1110\\(_2\\)",
+      "D": "1011\\(_2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36157?exam_type=waec&type=obj&page=177",
+    "correct_answer": "C",
+    "explanation": "11011\\(_2\\) - 1101\\(_2\\) = 1110\\(_2\\)",
+    "year": "2006"
+  },
+  {
+    "number": "886",
+    "text": "Simplify \\(\\frac{25 ^\\frac{2}{3} \\div 25 ^\\frac{1}{6}}{( \\frac{1}{5})^{-\\frac{7}{6}} \\times ( \\frac{1}{5})^{\\frac{1}{6}}}\\)",
+    "options": {
+      "A": "25",
+      "B": "\\(\\frac{1}{5}\\)",
+      "C": "1",
+      "D": "\\(\\frac{1}{25}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36158?exam_type=waec&type=obj&page=178",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{25 \\frac{2}{3} \\div 25 \\frac{1}{6}}{( \\frac{1}{5})^{-\\frac{7}{6}} \\times ( \\frac{1}{5})^{\\frac{1}{6}}}\\) = \\(\\frac{25^{4 - \\frac{1}{6}}}{(\\frac{1}{5})^{-7 + \\frac{1}{6}}}\\)= \\(\\frac{25^{\\frac{1}{2}}}{(\\frac{1}{5})^{-1}}\\)= \\(\\frac{(5^2)^{\\frac{1}{2}}}{(5^{-1})^{-1}}\\)= \\(\\frac{5}{5}\\)= 1",
+    "year": "2006"
+  },
+  {
+    "number": "887",
+    "text": "Simplify \\(\\frac{x - 4}{4} - \\frac{x - 3}{6}\\)",
+    "options": {
+      "A": "\\(\\frac{x - 18}{12}\\)",
+      "B": "\\(\\frac{x - 6}{12}\\)",
+      "C": "\\(\\frac{x - 18}{24}\\)",
+      "D": "\\(\\frac{x - 6}{24}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36159?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "888",
+    "text": "Given that y = 1 - \\(\\frac{2x}{4x - 3}\\), find the value of x for which y is undefined",
+    "options": {
+      "A": "3",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{-3}{4}\\)",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36160?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "889",
+    "text": "P is a point on the same plane with a fixed point A. If P moves such that it is always equidistant from A, the locus of P is",
+    "options": {
+      "A": "a straight line joining A and P",
+      "B": "the perpendicular bisector of AP",
+      "C": "a circle with centre A",
+      "D": "the triangle with centre P"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36161?exam_type=waec&type=obj&page=178",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "890",
+    "text": "A fair coin is tossed three times. Find the probability of getting two heads and one tail.",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{3}{8}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{1}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36162?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "891",
+    "text": "If 30% of y is equal to x, what in terms of x, is 30% of 3y?",
+    "options": {
+      "A": "\\(\\frac{x}{9}\\)",
+      "B": "\\(\\frac{x}{3}\\)",
+      "C": "x",
+      "D": "3x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36163?exam_type=waec&type=obj&page=179",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "892",
+    "text": "A baker used 40% of a 50kg bag of flour. If \\(\\frac{1}{8}\\) of the amount used was for the cake, how many kilogram of flour was used for the cake?",
+    "options": {
+      "A": "2\\(\\frac{1}{2}\\)",
+      "B": "6\\(\\frac{1}{2}\\)",
+      "C": "15\\(\\frac{3}{8}\\)",
+      "D": "17\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36164?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "893",
+    "text": "If tan y = 0.404, where y is acute, find cos 2y",
+    "options": {
+      "A": "0.035",
+      "B": "0.719",
+      "C": "0.808",
+      "D": "0.927"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36165?exam_type=waec&type=obj&page=179",
+    "correct_answer": "B",
+    "explanation": "-1\no\no\no",
+    "year": "2006"
+  },
+  {
+    "number": "894",
+    "text": "The ratio of boys to girls in a class is 5:3. Find the probability of selecting at random, a girl from the class",
+    "options": {
+      "A": "\\(\\frac{1}{8}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{3}{8}\\)",
+      "D": "\\(\\frac{3}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36166?exam_type=waec&type=obj&page=179",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "895",
+    "text": "\\(\\begin{array}{c|c} x & 1 & 4 & p \\\\ \\hline y & 0.5 & 1 & 2.5\\end{array}\\). The table above satisfies the relation  y = k\\(\\sqrt{x}\\), where k is a positive constant. Find the value of K.",
+    "options": {
+      "A": "0.5",
+      "B": "1",
+      "C": "1.5",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36167?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "896",
+    "text": "\\(\\begin{array}{c|c} x & 1 & 4 & p \\\\ \\hline y & 0.5 & 1 & 2.5\\end{array}\\). The table below satisfies the relation y =\u00a0k\\(\\sqrt{x}\\), where k is a positive constant. Find the value of P,",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "10",
+      "D": "25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36168?exam_type=waec&type=obj&page=180",
+    "correct_answer": "D",
+    "explanation": "From y = \\(\\frac{1}{2} \\sqrt{x}\\)when y = 2.5 or \\(\\frac{5}{2}\\), x = P\\(\\frac{5}{2} \\times \\frac{1}{2} \\sqrt{P}\\)\\(\\sqrt{P} = \\frac{10}{2} = 5\\)P = \\(5^2\\)= 25",
+    "year": "2006"
+  },
+  {
+    "number": "897",
+    "text": "What must be added to x2 - 3x to make it a perfect square?",
+    "options": {
+      "A": "\\(\\frac{9}{4}\\)",
+      "B": "\\(\\frac{9}{2}\\)",
+      "C": "6",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36169?exam_type=waec&type=obj&page=180",
+    "correct_answer": "A",
+    "explanation": "2",
+    "year": "2006"
+  },
+  {
+    "number": "898",
+    "text": "Given that (2x - 1)(x + 5) = 2x2 - mx - 5, what is the value of m",
+    "options": {
+      "A": "11",
+      "B": "5",
+      "C": "-9",
+      "D": "-10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36170?exam_type=waec&type=obj&page=180",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\n2",
+    "year": "2006"
+  },
+  {
+    "number": "899",
+    "text": "What is the place value of 9 in the number 3.0492?",
+    "options": {
+      "A": "\\(\\frac{9}{10000}\\)",
+      "B": "\\(\\frac{9}{1000}\\)",
+      "C": "\\(\\frac{9}{100}\\)",
+      "D": "\\(\\frac{9}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36171?exam_type=waec&type=obj&page=180",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "900",
+    "text": "If the simple interest on a sum of money invested at 3% per annum for 2\\(\\frac{1}{2}\\) years is N123, find the principal.",
+    "options": {
+      "A": "N676.50",
+      "B": "N820",
+      "C": "N1,640",
+      "D": "N4,920"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36172?exam_type=waec&type=obj&page=180",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "901",
+    "text": "A machine valued at N20,000 depreciates by 10% every year. What will be the value of the machine at the end of two years?",
+    "options": {
+      "A": "N16,200",
+      "B": "N1,4,200",
+      "C": "12,000",
+      "D": "8000."
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36176?exam_type=waec&type=obj&page=181",
+    "correct_answer": "A",
+    "explanation": "n\n2\n2",
+    "year": "2006"
+  },
+  {
+    "number": "902",
+    "text": "If 2x + y = 10, and y \\(\\neq\\) 0, which of the following is not a possible value of x?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "8",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36177?exam_type=waec&type=obj&page=181",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "903",
+    "text": "If x + y = 12 and 3x - y = 20, find the value of 2x - y",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "12",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36179?exam_type=waec&type=obj&page=181",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "904",
+    "text": "Which of these equations best describes the points of intersection of the curve and the line?",
+    "options": {
+      "A": "\\(x^2 + 5x - 6 = 0\\)",
+      "B": "x2 - 5x - 6 = 0",
+      "C": "x2  + x - 6 = 0",
+      "D": "x2 - x - 6 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36181?exam_type=waec&type=obj&page=181",
+    "correct_answer": "C",
+    "explanation": "2\n2",
+    "year": "2006"
+  },
+  {
+    "number": "905",
+    "text": "If loga270 - loga10 + loga \\(\\frac{1}{3}\\) = 2, what is the value of a?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36185?exam_type=waec&type=obj&page=181",
+    "correct_answer": "A",
+    "explanation": "a\na\na\na\na\na\na\na\na",
+    "year": "2006"
+  },
+  {
+    "number": "906",
+    "text": "a conical water-jug is 7cm in diameter and 6cm deep. find the volume of water it can hold. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "22cm2",
+      "B": "44cm3",
+      "C": "77cm3",
+      "D": "3082"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36187?exam_type=waec&type=obj&page=182",
+    "correct_answer": "C",
+    "explanation": "3",
+    "year": "2006"
+  },
+  {
+    "number": "907",
+    "text": "If p = [\\(\\frac{Q(R - T)}{15}\\)]\\(^ \\frac{1}{3}\\), make T the subject of the relation",
+    "options": {
+      "A": "T = R + \\(\\frac{P^3}{15Q}\\)",
+      "B": "T = R - \\(\\frac{15P^3}{Q}\\)",
+      "C": "T = R + \\(\\frac{P^3}{15Q}\\)",
+      "D": "T = 15R - \\(\\frac{Q}{P^3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36189?exam_type=waec&type=obj&page=182",
+    "correct_answer": "B",
+    "explanation": "3\n3",
+    "year": "2006"
+  },
+  {
+    "number": "908",
+    "text": "A seller allows 20% discount for cash payment on the marked price of his goods. What is the ratio of the cash payment to the marked price",
+    "options": {
+      "A": "1:4",
+      "B": "1:5",
+      "C": "3:4",
+      "D": "4:5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36190?exam_type=waec&type=obj&page=182",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "909",
+    "text": "The wheel of a tractor has a diameter 1.4m. What distance does it cover in 100 complete revolutions? [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "140m",
+      "B": "220m",
+      "C": "280m",
+      "D": "440m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36191?exam_type=waec&type=obj&page=182",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "910",
+    "text": "If p = {1, 3, 5, 7, 9} and Q = {2, 4, 6, 8, 10} are subsets of a universal set. U = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}. What are the elements of P1 \\(\\cap\\) Q1?",
+    "options": {
+      "A": "{1, 3, 5, 7, 9}",
+      "B": "[2, 4, 6, 8, 10}",
+      "C": "\\(\\varnothing\\)",
+      "D": "{1, 2, 6, 8, 10}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36192?exam_type=waec&type=obj&page=182",
+    "correct_answer": "C",
+    "explanation": "1\n1\n1",
+    "year": "2006"
+  },
+  {
+    "number": "911",
+    "text": "The values of three angles at a point are 3y - 45o, y + 25o and yo . Find the value of y.",
+    "options": {
+      "A": "40o",
+      "B": "58o",
+      "C": "68o",
+      "D": "76o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36193?exam_type=waec&type=obj&page=183",
+    "correct_answer": "D",
+    "explanation": "o\no",
+    "year": "2006"
+  },
+  {
+    "number": "912",
+    "text": "A rectangular carpet 2.5m long and 2.4m wide covers 5% of a rectangular floor. Calculate the area of the floor",
+    "options": {
+      "A": "30m2",
+      "B": "57m2",
+      "C": "120m2",
+      "D": "225m2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36194?exam_type=waec&type=obj&page=183",
+    "correct_answer": "C",
+    "explanation": "2",
+    "year": "2006"
+  },
+  {
+    "number": "913",
+    "text": "Which of the following is not a measure of centre tendency?",
+    "options": {
+      "A": "mean",
+      "B": "mode",
+      "C": "range",
+      "D": "median"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36197?exam_type=waec&type=obj&page=183",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "914",
+    "text": "The temperature in a chemical plant was -5oC at 2.00 am. The temperature fell by 6oC and then rose again by 7oC. What was the final temperature?",
+    "options": {
+      "A": "-6oC",
+      "B": "-4oC",
+      "C": "4oC",
+      "D": "8oC"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36199?exam_type=waec&type=obj&page=183",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no",
+    "year": "2006"
+  },
+  {
+    "number": "915",
+    "text": "Simplify \\(\\frac{20}{5\\sqrt{28} - 2 \\sqrt{63}}\\)",
+    "options": {
+      "A": "\\(\\frac{5\\sqrt{7}}{7}\\)",
+      "B": "\\(\\frac{5\\sqrt{5}}{7}\\)",
+      "C": "\\(\\frac{7\\sqrt{5}}{7}\\)",
+      "D": "\\(\\frac{7\\sqrt{7}}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36200?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "916",
+    "text": "A ladder 16m long leans against an electric pole. If the ladder makes an angle of 65o with the ground, how far up the electric pole does its top reach",
+    "options": {
+      "A": "6.8m",
+      "B": "14.5m",
+      "C": "17.7m",
+      "D": "34.3m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36201?exam_type=waec&type=obj&page=184",
+    "correct_answer": "B",
+    "explanation": "o",
+    "year": "2006"
+  },
+  {
+    "number": "917",
+    "text": "In the diagram, PQUV, PQTU, QRTU and QRST are parallelograms. |UV| = 4.8cm and the perpendicular distance between PR and VS is 5cm. Calculate the area of quadrilateral PRSV",
+    "options": {
+      "A": "96cm2",
+      "B": "72cm2",
+      "C": "60cm2",
+      "D": "24cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36202?exam_type=waec&type=obj&page=184",
+    "correct_answer": "C",
+    "explanation": "2",
+    "year": "2006"
+  },
+  {
+    "number": "918",
+    "text": "In the diagram, |QR| = 5cm, PQR = 60o and PSR = 45o. Find |PS|, leaving your answe in surd form.",
+    "options": {
+      "A": "4\\(\\sqrt{5}\\)cm",
+      "B": "3\\(\\sqrt{7}\\)cm",
+      "C": "4\\(\\sqrt{6}\\)cm",
+      "D": "5\\(\\sqrt{6}\\)cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36203?exam_type=waec&type=obj&page=184",
+    "correct_answer": "D",
+    "explanation": "o",
+    "year": "2006"
+  },
+  {
+    "number": "919",
+    "text": "In the diagram, \\(\\frac{PQ}{RS}\\), find xo + yo",
+    "options": {
+      "A": "360o",
+      "B": "300o",
+      "C": "270o",
+      "D": "180o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36204?exam_type=waec&type=obj&page=184",
+    "correct_answer": "D",
+    "explanation": "o\no",
+    "year": "2006"
+  },
+  {
+    "number": "920",
+    "text": "In the diagram, PR is a diameter of the circle centre O. RS is a tangent at R and QPR = 58o. Find < QRS",
+    "options": {
+      "A": "112o",
+      "B": "116o",
+      "C": "122o",
+      "D": "148o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36205?exam_type=waec&type=obj&page=184",
+    "correct_answer": "C",
+    "explanation": "o\no\no",
+    "year": "2006"
+  },
+  {
+    "number": "921",
+    "text": "In the diagram P, Q, R, S are points on the circle RQS = 30o. PRS = 50o and PSQ = 20o. What is the value of xo + yo?",
+    "options": {
+      "A": "260o",
+      "B": "130o",
+      "C": "100o",
+      "D": "80o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36206?exam_type=waec&type=obj&page=185",
+    "correct_answer": "B",
+    "explanation": "o\no\no",
+    "year": "2006"
+  },
+  {
+    "number": "922",
+    "text": "In the diagram, P, Q and R are three points in a plane such that the bearing of R from Q is 110o and the bearing of Q from P is 050o. Find angle PQR.",
+    "options": {
+      "A": "60o",
+      "B": "70o",
+      "C": "120o",
+      "D": "160o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36207?exam_type=waec&type=obj&page=185",
+    "correct_answer": "C",
+    "explanation": "1\n2\no\no\n2\n1\n2\no\no\no",
+    "year": "2006"
+  },
+  {
+    "number": "923",
+    "text": "In the diagram, the two circles have a common centre O. If the area of the larger circle is 100\\(\\pi\\) and that of the smaller circle is 49\\(\\pi\\), find x",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36209?exam_type=waec&type=obj&page=185",
+    "correct_answer": "B",
+    "explanation": "2\n2",
+    "year": "2006"
+  },
+  {
+    "number": "924",
+    "text": "In the diagram, PQR is a straight line, QRST is a parallelogram, < TPQ = 72o and < RST = 126o. What type of triangle is \\(\\bigtriangleup\\) PQT?",
+    "options": {
+      "A": "An equilateral triangle",
+      "B": "A right-angled triangle",
+      "C": "An isosceles triangle",
+      "D": "A scalene triangle"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36210?exam_type=waec&type=obj&page=185",
+    "correct_answer": "C",
+    "explanation": "< TSR = <RQT (opposite angles of a parallelogram are equal)\n< PQT = 180\u00ba - 126\u00ba = 54\u00ba\n<PTQ = 180\u00ba - 72\u00ba - 54\u00ba = 54\u00ba\nTherefore, Angle PTQ is isosceles.",
+    "year": "2006"
+  },
+  {
+    "number": "925",
+    "text": "How many pupils took the test?",
+    "options": {
+      "A": "36",
+      "B": "38",
+      "C": "39",
+      "D": "40"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36211?exam_type=waec&type=obj&page=185",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "926",
+    "text": "If the pass mark was 4. What percentage of the pupils failed the test?",
+    "options": {
+      "A": "20.0%",
+      "B": "37%",
+      "C": "62.5%",
+      "D": "80.0%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36212?exam_type=waec&type=obj&page=186",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "927",
+    "text": "The diagram shows an arc MN of a circle, centre O, with 10cm. If < MON = 72o. calculate the length of the arc, correct to three significant figures. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "6.28cm",
+      "B": "12.6cm",
+      "C": "22.6cm",
+      "D": "62.8cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36213?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "928",
+    "text": "In the diagram what is x + y in terms of z?",
+    "options": {
+      "A": "180o - z",
+      "B": "180o + z",
+      "C": "z - 180o",
+      "D": "z"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36214?exam_type=waec&type=obj&page=186",
+    "correct_answer": "A",
+    "explanation": "x + y + z = 180(sum of angles in a \\(\\bigtriangleup\\))x + y = 180 - z",
+    "year": "2006"
+  },
+  {
+    "number": "929",
+    "text": "In the diagram |XY| = 12cm, |XZ| = 9cm, |ZN| = 3cm and ZY||NM, calculate |MY|",
+    "options": {
+      "A": "3cm",
+      "B": "4cm",
+      "C": "5cm",
+      "D": "6cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36215?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  }
+]

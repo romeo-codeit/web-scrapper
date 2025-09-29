@@ -1,0 +1,646 @@
+[
+  {
+    "number": "74",
+    "text": "The height at which the atmosphere ceases to exist is about 80km. If the atmospheric pressure on the ground level is 760mmHg, the pressure at a height of 20km above the ground level is",
+    "options": {
+      "A": "380mmHg",
+      "B": "570mmHg",
+      "C": "190mmHg",
+      "D": "480mmHg"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1504?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "75",
+    "text": "A stone of mass 1kg is dropped from a height of 10m above the ground and falls freely under gravity. Its kinetic energy 5m above the ground is then equal to",
+    "options": {
+      "A": "its kinetic energy on the ground",
+      "B": "twice its initial potential energy",
+      "C": "its initial potential energy",
+      "D": "half its initial potential energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1505?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "76",
+    "text": "If a spherical metal bob of radius 3cm is fully immersed in a cylinder containing water and the water level rises by 1cm, what is the radius of the cylinder?",
+    "options": {
+      "A": "12cm",
+      "B": "1cm",
+      "C": "3cm",
+      "D": "6cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1506?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "3\n2\n2\n3\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "77",
+    "text": "The resultant of two forces acting on an object is maximum if the angle between them is",
+    "options": {
+      "A": "45\u00b0",
+      "B": "0\u00b0",
+      "C": "90\u00b0",
+      "D": "180\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1507?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "The resultant of two forces acting on an object is maximum when the angle between them is zero, during which the two\u00a0forces are parallel and pointing in the same direction\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "78",
+    "text": "I. The earth is not spherical but elliptical in shape\nII. Variation in latitude and longitude\nIII. Rotation of the earth on its axis\nIV. Variation in the density of the earth\n\nOn which combination of the above does the weight of an object vary on the earth's surface?",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "III and IV only",
+      "C": "I, II and III only",
+      "D": "I and II only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1508?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "The three main reasons why the weight of an object varies on the earth's surface is- The shape of the earth- Variation in Longitude and latitude-Rotation of the earth\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "79",
+    "text": "The efficiency of a machine is always less than 100% because the",
+    "options": {
+      "A": "work output is always greater than the work input",
+      "B": "load lifted is always greater than the effort applied",
+      "C": "effort applied is always greater than the load lifted",
+      "D": "velocity ratio is always greater than the mechanical advantage"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1509?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "In real-world machines, due to factors such as friction, deformation, and other losses, the mechanical advantage is always less than the velocity ratio:\nMA < VR\nThis means that the work output (useful work done) is always less than the work input (energy supplied), leading to efficiency being less than 100%.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "80",
+    "text": "Which of the following consists entirely of vector quantities?",
+    "options": {
+      "A": "Velocity, displacement and reaction",
+      "B": "Tension, magnetic flux and mass",
+      "C": "Displacement, impulse and power",
+      "D": "Work, pressure and moment"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1510?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "Velocity: Vector quantity (has both magnitude and direction).\nDisplacement: Vector quantity (change in position).\nReaction: Typically refers to a reaction force, which is a vector quantity.(OPTION A)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "81",
+    "text": "Ice cubes are added to a glass of warm water. The glass and water are cooled by",
+    "options": {
+      "A": "conduction only",
+      "B": "convection only",
+      "C": "conduction and convection",
+      "D": "convection and radiation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1511?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "C",
+    "explanation": "heat is transferred from the water to the ice/glass through direct contact(conduction)\u00a0additionally, there is some convective heat transfer within the water as warmer water rises and cooler water sinks.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "82",
+    "text": "A ray of light strikes a plane mirror at an angle of incidence of 35\u00b0. If the mirror is rotated through 10\u00b0, through what angle is the reflected ray rotated?",
+    "options": {
+      "A": "70\u00b0",
+      "B": "45\u00b0",
+      "C": "25\u00b0",
+      "D": "20\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1512?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "83",
+    "text": "The terrestrial telescope has one extra lens more than the astronomical telescope. The extra lens is for",
+    "options": {
+      "A": "improving the sharpness",
+      "B": "creating an inverted image",
+      "C": "magnification of the image",
+      "D": "erection of the image"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1513?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "The extra lens in the terrestrial telescope mounted at the middle between the objective lens and the eye piece is to re-invert the image so that it is upright.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "84",
+    "text": "The driving mirror of a car has a radius of curvature of 1m. A vehicle behind the car is 4m from the mirror. Find the image distance behind the mirror.",
+    "options": {
+      "A": "8/7",
+      "B": "4/9",
+      "C": "9/2",
+      "D": "4/7"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/2005?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "Thus if r = 1mf = 1/2 =\u00a0 0.5m\u2234 if U = - 4m (object behind mirror)f = 0.5m\n\\(\\frac{1}{u}\\) +\u00a0\\(\\frac{1}{v}\\) =\u00a0 \\(\\frac{1}{f}\\)\n-\\(\\frac{1}{4}\\) +\u00a0\\(\\frac{1}{v}\\) = \\(\\frac{1}{0.5}\\)\n\\(\\frac{1}{v}\\) = 2 +\u00a0\\(\\frac{1}{4}\\)\n\\(\\frac{1}{v}\\) =\u00a0\\(\\frac{1+ 8}{4}\\)\n\\(\\frac{1}{v}\\) =\u00a0\\(\\frac{9}{4}\\)\nv =\u00a0\\(\\frac{4}{9}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "85",
+    "text": "The pressure of a given mass of a gas changes from 300Nm\\(^{-2}\\) to 120Nm\\(^{-2}\\) while the temperature drops from 127\u00b0C to -73\u00b0C. The ratio of the final volume to the initial volume is",
+    "options": {
+      "A": "2 : 5",
+      "B": "5 : 4",
+      "C": "4 : 5",
+      "D": "5 : 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/2010?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "To find the ratio of the final volume to the initial volume of a gas when both pressure and temperature change, we can use theIdeal Gas Law, which states that\n\\(\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}\\)\nP\\(_1\\) = 300N/m\\(^2\\)\u00a0 \u00a0 \u00a0V\\(_1\\) =\u00a0 ?,\u00a0 \u00a0\u00a0V\\(_2\\) =\u00a0 ?,\u00a0 \u00a0\u00a0T\\(_1\\) =\u00a0127\u00b0C =127+273\u00a0= 400K,\u00a0\u00a0 T\\(_2\\)\u00a0 =\u00a0\u221273\u00b0C = \u221273 + 273 = 200K\nP\\(_2\\) = 120N/m\\(^2\\)\nUsing the Ideal Gas Law, we can rearrange it to find the ratio of volumes:\n=\u00a0\\(\\frac{V_2}{V_1} =\u00a0 \\frac{P_1T_2}{P_2T_1}\\)\n=\u00a0\u00a0\\(\\frac{V_2}{V_1} =\u00a0 \\frac{300 \\times 200}{120 \\times 400}\\) =\u00a0\u00a0\\(\\frac{5}{4}\\)\nTherefore,\u00a0\u00a0V\\(_2\\) :\u00a0\u00a0V\\(_1\\) = 5 : 4.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "86",
+    "text": "The thermometric substance of an absolute thermometer is",
+    "options": {
+      "A": "alcohol",
+      "B": "mercury",
+      "C": "helium",
+      "D": "platinum"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/2015?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "An absolute thermometer, such as a gas thermometer, often uses helium as its thermometric substance because it has favorable properties for measuring temperature accurately over a wide range. Helium behaves nearly ideally at low temperatures and pressures, making it suitable for measuring temperatures close to absolute zero.\nWhile mercury is useful for many traditional thermometers due to its liquid state and thermal properties, it is not suitable for absolute thermometers, which require a substance that can accurately measure extremely low temperatures and behave ideally across a wide range of conditions.\nThus,heliumis the correct choice for an absolute thermometer.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "87",
+    "text": "A plane sound wave of frequency 85.5Hz and velocity 342ms-1 is reflected from a vertical wall. At what distance from the wall does the wave have antinode?",
+    "options": {
+      "A": "2m",
+      "B": "4m",
+      "C": "1m",
+      "D": "3m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7244?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "-1\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "88",
+    "text": "A string is fastened tightly between two walls 24cm apart. The wavelength of the second overtone is",
+    "options": {
+      "A": "24cm",
+      "B": "16cm",
+      "C": "12cm",
+      "D": "8cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7245?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "0\n0\n0\n1\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "89",
+    "text": "A gas with initial volume of 2 X 10\\(^{-6}m^3\\) is allowed to expand to six times its initial value at constant pressure of 2 x 10\\(^5Nm^{-2}\\). The work done is?",
+    "options": {
+      "A": "2.0J",
+      "B": "4. 0 J",
+      "C": "12.0 J",
+      "D": "2.4 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7255?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "W = P\u0394V\u00a0=\u00a0\u00a02 x 10\\(^5\\) *\u00a0(12 x 10\\(^{-6}\\) -\u00a0\u00a02 x 10\\(^{-6}\\))=\u00a02 x 10\\(^5\\)\u00a0\u00a010\u00a0x 10\\(^{-6}\\)= 2.0J\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "90",
+    "text": "A cell of internal resistance r supplies current to a 6.0\u2126 resistor and its efficiency is 75%. Find the value of r.",
+    "options": {
+      "A": "4.5\u2126",
+      "B": "1.0\u2126",
+      "C": "8.0\u2126",
+      "D": "2.0\u2126"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7266?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "Efficiency = \\(\\frac{power output}{power input}\\)\u00a0= \\(\\frac{R}{R + r}\\)Given\nefficiency = 75% = 0.75, R = 6.0\u03a9, r = ?\nEfficiency =\u00a0 \\(\\frac{R}{R + r}\\)\n0.75 =\u00a0 \\(\\frac{6.0}{6.0\u00a0+ r}\\)\n0.75(6.0 + r) = 6.0\n4.5 + 0.75r = 6.0\n0.75r = 6.0 - 4.5 = 1.5\nr =\u00a0 \\(\\frac{1.5}{0.7}\\) = 2\u03a9\nThe internal resistance r\u00a0of the cell is2.0 ohms.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "91",
+    "text": "A resistance R is connected across the terminal of an electric cell of internal resistance 2\u2126 and the voltage was reduced to 3/5 of its nominal value.\nThe value of R is",
+    "options": {
+      "A": "3 \u2126",
+      "B": "2 \u2126",
+      "C": "1 \u2126",
+      "D": "6 \u2126"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7280?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "I = \\(\\frac{V}{R}\\)\u00a0 =\u00a0 \\(\\frac{E}{R+r}\\) , if r = 2\u2126V = \\(\\frac{3}{5}\\)E=> \\(\\frac{3E}{5R} = \\frac{E}{R+2}\\)i.e 3E(R+2) = 5RE3RE + 6E = 5RE ( the Es will cancel out)i.e 3R + 6 = 5R6 = 5R - 3R=> 2R\u00a0= 6 i.e R = \\(\\frac{6}{2}\\) = 3\u2126\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "92",
+    "text": "A student is at a height 4m above the ground during a thunderstorm. Given that the potential difference between the thundercloud and the ground is 10\\(^7\\)V, the electric field created by the storm is",
+    "options": {
+      "A": "\\(2.0\\times 10^6 NC^{-1}\\)",
+      "B": "\\(2.5\\times\u00a010^6 NC^{-1}\\)",
+      "C": "\\(1.0\\times\u00a010^7 NC^{-1}\\)",
+      "D": "\\(4.0\\times\u00a010^7 NC^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7286?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "E = \\(\\frac{V}{d}\\)\nE is the electric field (in volts per meter, V/m),V\u00a0is the potential difference (in volts, V),d\u00a0is the distance between the two points (in meters, m)Given:\u00a0 Potential difference V\u00a0= 10\\(^7\\)Height d = 4m\nThat is,\u00a0\u00a0 E = \\(\\frac{10^7}{4}\u00a0= 2.5\\times\u00a010^6 NC^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "93",
+    "text": "A working electric motor takes a current of 1.5 A when the p.d across it is 250V. If its efficiency is 80%, the power output is",
+    "options": {
+      "A": "300.0W",
+      "B": "469.0W",
+      "C": "133.0W",
+      "D": "4.8W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7292?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "Efficiency = \\(\\frac{\\text{power output}}{\\text{power Input}}\\)=> \\(\\frac{80}{100}\u00a0= \\frac{\\text{power output}}{1.5\\times\u00a0250}\\)i.e\u00a0 power output = \\(\\frac{1.5\\times250\\times80}{100}\\) = 300W\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "94",
+    "text": "The cost of running five 60 W lamps and four 100 W lamps for 20 hours if electrical energy cost #10.00 per kwh is",
+    "options": {
+      "A": "280.00",
+      "B": "160.00",
+      "C": "120.00",
+      "D": "140.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7298?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "Total power in watt = \\(60\\times5 + 4\\times100\\)= 300 + 400= 700WTotal power in kilo watt = 700/1000= 0.7kWUnit of electricity in kilowatt-hour= 0.7 * 20hrs= 14 okwhi.e If I kwh costs # 10.0014kwh = \\(10.00 \\times14\\) = #140\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "95",
+    "text": "In a Daniel cell, the depolarizer, positive and negative electrodes are respectively",
+    "options": {
+      "A": "copper sulphate, copper and zinc",
+      "B": "manganese dioxide, carbon and zinc",
+      "C": "sulphuric acid, lead oxide and lead",
+      "D": "potassium hydroxide, nickel and iron."
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/7308?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "4\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "96",
+    "text": "when a piece of rectangular glass block is inserted between two parallel capacitor,at constant plate area and distance of separation, the capacitance of the capacitor will",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "decrease then increase",
+      "D": "remain constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9032?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "When you insert a dielectric material (like glass) between the plates, the permittivity \u03b5\u00a0increases because the dielectric constant k of glass is greater than that of air or vacuum. The new capacitance when a dielectric is inserted is given\nC\u2032 = \\(\\frac{\\text{k\u03b5oA}}{\\text{d}}\\)\nwhere k\u00a0is the dielectric constant of the glass, and \u03b5\\(_0\\) is the permittivity of free space.\nSince k >1\u00a0for glass, inserting it increases the capacitance:\nC \u2032 = kC\nThus, with the glass block inserted, the capacitance C\u2032 will be greater than the original capacitance C.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "97",
+    "text": "The ratio of electrostatic force F\\(_E\\) to gravitational force F\\(_G\\) between two protons each of charge e and mass m, at a distance d is",
+    "options": {
+      "A": "\\(\\frac{e}{4\u03c0\u03b5_oGm}\\)",
+      "B": "\\(\\frac{e^2}{Gm^2}\\)",
+      "C": "\\(\\frac{Gm^2}{4\u03c0\u03b5_oe^2}\\)",
+      "D": "\\(\\frac{e^2}{4\u03c0\u03b5_oGm^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9033?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "Electrostatic force = F\\(_E\\)\u00a0= \\(\\frac{e^2}{4\u03c0\u03b5_od^2}\\)Gravitational force = F\\(_G\\) = \\(\\frac{Gm^2}{d^2}\\)\n\\(\\frac{F_E}{F_G}\\) = \\(\\frac{\\frac{e^2}{4\u03c0\u03b5_od^2}}{\\frac{Gm^2}{d^2}}\\)\u00a0\u00a0=\u00a0 \\(\\frac{e^2}{4\u03c0\u03b5_oGm^2}\\)\nNOTE: (d\\(^2\\)s canceled out)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "98",
+    "text": "A cell can supply current of 0.4 A and 0.2 A through a 4.0\u2126 and 10.0\u2126 resistors respectively.\nThis internal resistance of the cell is",
+    "options": {
+      "A": "2.0\u2126",
+      "B": "1.0\u2126",
+      "C": "2.5\u2126",
+      "D": "1.5\u2126"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9034?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "let the internal resistance of the cell = r,therefore E = I (R+r)(i) E = 0.4(4+r), (ii) E = 0.2 (10+r)therefore 0.4 (4+r)= 0.2 (10+r)1.6 + 0.4r = \\(2.0 \\times 0.2\\text{r}\\)0.4r - 0.2r = 2.0 - 1.6therefore 0.2r = 0.4 => r = \\(\\frac{0.4}{0.2}\\) = 2\u2126therefore r = 2\u2126\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "99",
+    "text": "The particles emitted when \\( ^{39}_{19}K \\text{ decay to } ^{39}_{19}K \\) is",
+    "options": {
+      "A": "gamma",
+      "B": "beta",
+      "C": "electron",
+      "D": "alpha"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9065?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "39\n19\n39\n19\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "100",
+    "text": "I. Low pressure.\nII. High pressure.\nIII. High p.d.\nIV. Low p.d.\nWhich combination of the above is true of the conduction of electricity through gases?",
+    "options": {
+      "A": "I and IV only",
+      "B": "I and III only",
+      "C": "II and IV only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9066?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "Electricity conduction through gases is usually done under low pressure (I) and high voltage (III). Thus OPTION B is correct.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "101",
+    "text": "The current through a resistor in an a.c circuit is given as 2 sin wt. Determine the d.c. equivalent of the current",
+    "options": {
+      "A": "\\(\\frac{1A}{\\sqrt{2}}\\)",
+      "B": "\\(\\sqrt{2}\\)A",
+      "C": "2 A",
+      "D": "2\\(\\sqrt{2}\\)A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9069?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "If I = 2 Sin wt; but in a.c. circuit current I = I\\(_0\\) Sin wt; thus comparing the two equations, it implies that I\\(_0\\) = 2A; Again, the root means square (I(rms)) of an a.c. current is the value of the d.c. current that will dissipate the same amount of heat in a given resistance as the a.c.and I(rms) = \\(\\frac{I_0}{\\sqrt{2}}\\)\u00a0= \\(\\frac{2.0A}{\\sqrt{2}}\\) = \\(\\sqrt{2}\\)A (by rationalizing the denominator\u00a0\\(\\frac{2.0A}{\\sqrt{2}}\\))\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "102",
+    "text": "The primary coil of a transformer has N turns and is connected to a 120 V a.c. power line. If the secondary coils has 1 000 turns and a terminal voltage of 1 200 volts, what is the value of N?",
+    "options": {
+      "A": "120",
+      "B": "100",
+      "C": "1 000",
+      "D": "1 200"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9097?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "For the transformer, V \u221d \u2229=> V s \u221d \u2229s; Vp \u221d \u2229p=> \\(\\frac{V_p}{V_s}\u00a0= \\frac{\u2229_p}{\u2229_s}\\),\u00a0 therefore \\(\\frac{120}{1200} = \\frac{\u2229_p}{1000}\\)therefore \u2229\\(_p\u00a0\\times\u00a01200 = 120\\times\u00a01000\\)\u2229\\(_p = 120\\times\\frac{1000}{1200}\\) = 100\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "103",
+    "text": "Which of the following metals will provide the greatest shield against ionizing radiation",
+    "options": {
+      "A": "Iron",
+      "B": "Manganese",
+      "C": "Alminium",
+      "D": "Lead"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9126?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "D = Lead:\nLead is highly effective at shielding against ionizing radiation, particularly gamma rays, due to its high density and atomic number.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "104",
+    "text": "The process of energy production in the sun is",
+    "options": {
+      "A": "nuclear fission",
+      "B": "nuclear fussion",
+      "C": "electron collision",
+      "D": "radioactive decay"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9147?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "The sun produces energy primarily through the nuclear fusion of hydrogen nuclei, a reaction that occurs at extremely high temperatures, around 10\\(^7\\) K.H\\(_1\\) + H\\(_1\\) \u2192 \\(_2\\)H\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "105",
+    "text": "At reasonance, the phase angle in an a.c. circuit is",
+    "options": {
+      "A": "90\u00b0",
+      "B": "60\u00b0",
+      "C": "0\u00b0",
+      "D": "180\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9171?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "At resonance in an a.c. circuit, during which the capacitive reactance X\\(_c\\) is equal to the inductive reactance X\\(_l\\),\u00a0the phase angle \u00d8 = 0\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "106",
+    "text": "The force on a current carrying conductor in a magnetic field is greatest when the",
+    "options": {
+      "A": "conductor makes an angle of 60\u00b0 with the field",
+      "B": "force is independent of the angles between the fields and the conductor",
+      "C": "conductor is parallel with the field",
+      "D": "conductor is at right angle with the field"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9190?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "The force on a current carrying conductor in a magnetic field is greatest when the conductor lies perpendicular in the magnetic field\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "107",
+    "text": "A transistor function mainly as a",
+    "options": {
+      "A": "switch and amplifier",
+      "B": "rectifier and an amplifier",
+      "C": "charge storer and an amplifier",
+      "D": "charge storer and a switch"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9211?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "Transistors are versatile components used in electronic circuits mainly for two purposes: they can act as electronic switches, controlling the flow of current in a circuit, and they can amplify electrical signals, making them essential in audio devices, radios, and various electronic applications. Thus, option A correctly describes the main functions of a transistor.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "108",
+    "text": "Energy losses through eddy currents are reduced by using",
+    "options": {
+      "A": "low resistance wires",
+      "B": "insulated soft iron wires",
+      "C": "few turns of wires",
+      "D": "high resistance wires"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9212?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "Eddy currents are loops of electric current induced in conductors by a changing magnetic field, leading to energy losses as heat. Using insulated soft iron wires helps minimize these losses by reducing electrical conductivity and preventing the flow of these currents through insulation.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "109",
+    "text": "A capacitor of 20 x 10\\(^{-12}\\)F and an inductor are joined in series. The value of the inductance that will give the circuit a resonance frequency of 200 kHz is",
+    "options": {
+      "A": "\\(\\frac{I}{16}\\) H",
+      "B": "\\(\\frac{I}{8}\\) H",
+      "C": "\\(\\frac{I}{64}\\) H",
+      "D": "\\(\\frac{I}{32}\\) H"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9217?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "Resonance\u00a0frequency in an a.c. circuit is given by F = \\(\\frac{1}{2\u03c0 \\sqrt{LC}}\\)therefore, \\(200\\times\u00a010^3\\) =\u00a0 \\(\\frac{1}{2\u03c0 \\sqrt{L\\times 20 \\times 10^{-12}}}\\)therefore (\\(200\\times\u00a010^3)^2\\)\u00a0 =\\(\\frac{1}{4 \\times\u00a0\u03c0^2 \\times\u00a0L \\times\u00a020 \\times\u00a010^{-12}}\\)THEREFORE,\u00a0 L = \\(\\frac{1}{4\\times10\\times\u00a0(200\\times\u00a010^3)^2 \\times 20\\times 10^{-12}}\\),\u00a0 \u00a0 \u00a0 (\u03c0\\(^2\\) \u00a0\u224810)Therefore L =\\(\\frac{1}{32}\\)H\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "110",
+    "text": "The magnetic force on a charged particle moving with velocity v is",
+    "options": {
+      "A": "proportional to both the magnitude of the charge and the velocity v",
+      "B": "independent of the magnitude of the charge",
+      "C": "proportional to the velocity v only",
+      "D": "proportional to the magnitude of the charge only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9502?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "160",
+    "text": "In the diagram above, which of the simple pendula will resonate with P when set into oscillation",
+    "options": {
+      "A": "T",
+      "B": "U",
+      "C": "R and T",
+      "D": "Q and R"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11815?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "The pendulum that will resonate with P is T. being of the same length and therefore of the same frequency.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "161",
+    "text": "The diagram above is a block and tackle pulley system in which an effort of 80N is use to lift a load of 240N. The efficiency of the machine is",
+    "options": {
+      "A": "60%",
+      "B": "50%",
+      "C": "40%",
+      "D": "33%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11818?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "Since the number of pulleys present is 6, it implies that the velocity ratio V.R = 6\nEfficiency = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\times \\frac{100}{1}\\)\n= \\(\\frac{Load}{Effort}\\times\\frac{1}{V.R}\\times\\frac{100}{1}\\)= \\(\\frac{240}{80}\u00a0\\times\\frac{1}{6}\u00a0\\times\\frac{100}{1}\\)= 50%\u2234 Efficiency = 50%\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "162",
+    "text": "If ray travelling in air is incident on a transparent medium as shown in the diagram, the refractive index of the medium is given as",
+    "options": {
+      "A": "cos\u03b1 / sin\u03b2",
+      "B": "sin\u03b1 / sin\u03b2",
+      "C": "cos\u03b2 / sin\u03b1",
+      "D": "sin\u03b2 / sin\u03b1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11828?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "\\(n = \\frac{sin\u00a0 i}{sin\u00a0 r}\\)\n\\(i = 90 - \\alpha\\)\n\\(\\therefore n = \\frac{sin 90 - \\alpha}{sin \\beta}\\)\n\u21d2 \\(n = \\frac{cos \\alpha}{sin \\beta}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "163",
+    "text": "In the diagram above , the current I is",
+    "options": {
+      "A": "3/8",
+      "B": "9/11",
+      "C": "11/9",
+      "D": "8/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11835?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "I = \\(\\frac{E}{R + r}\\)\nFor parallel of 5\u03a9 and 10\u03a9\\(\\frac{1}{R}\\) = \\(\\frac{1}{10}\\) + \\(\\frac{1}{5}\\) = \\(\\frac{1+2}{10}\\) = \\(\\frac{3}{10}\\)\u2234R = \\(\\frac{10}{3}\\)Total R = 3\\(\\frac{1}{3}\\)\u00a0+ 3 x 1 = 7\\(\\frac{1}{3}\\)\u2234I = 6\\(\\div\\) 7\\(\\frac{1}{3}\\) = \\(\\frac{6}{1}\\) x \\(\\frac{3}{22}\\) = \\(\\frac{18}{22}\\) = \\(\\frac{9}{11}\\)\u2234I = \\(\\frac{9}{11}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "164",
+    "text": "The diagram above shows two capacitors P and Q of capacitance 2\u03bcF and 4\u03bcF respectively connected to a d.c source. The ratio of energy stored in P to Q is",
+    "options": {
+      "A": "4:1",
+      "B": "2:1",
+      "C": "1:4",
+      "D": "1:2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11838?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "1\n2\n2\n1\n2\n2\n2\n1\n2\n2\n2\nP\nQ\nV2\n2V2\n1\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "165",
+    "text": "The diagram above shows the capacitors C1, C2 and C3 2\u03bcF, 6\u03bcF and 3\u03bcF respectively. The potential difference across C1, C2 and C3 respectively are",
+    "options": {
+      "A": "4V, 6V and 2V",
+      "B": "2V, 6V and 4V",
+      "C": "6V, 4V and 2V",
+      "D": "6V, 2V and 4V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11841?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "Q\nV\nQ\nC\n1\nQ\nC1\n2\nQ\nC\n3\nQ\nC3\n1\nC\n1\nC1\n1\nC2\n1\nC3\n1\n2\n1\n6\n1\n3\n=3+1+2_6\n6\n6\n-6\n-6\n-6\n1\nQ\nC1\n=12.0x10-62 x 10-6\n2\nQ\nC2\n=12.0x10-66 x 10-6\n3\nQ\nC3\n=12.0x10-63 x 10-6\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "166",
+    "text": "The diagram above shows a closed side 0.5m in a uniform electric field E in the direction shown by the arrows. What is the flux \u03a6 for the box?",
+    "options": {
+      "A": "0.5 E",
+      "B": "2.0 E",
+      "C": "0.2 E",
+      "D": "0.0 E"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11868?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "167",
+    "text": "In the circuit diagram above , the ammeter reads a current of 3A when R is 5\u03a9 and 6A when R is 2\u03a9. Determine the value of x",
+    "options": {
+      "A": "8\u03a9",
+      "B": "2\u03a9",
+      "C": "10\u03a9",
+      "D": "4\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11871?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "C",
+    "explanation": "for a parallel R and X, when R = 5\u03a9,\nEffective resistance R = \\(\\frac{5X}{5 + X}\\)\nand when R = 2\u03a9\nEffective resistance R = \\(\\frac{2X}{2 + X}\\)\nThus since E = I(R+r), and if r = 0 then E = IR\u2234(i) E = 3(\\(\\frac{5X}{(5+x)}\\)); (ii) E = 6(\\(\\frac{2X}{(2+x)}\\))\u22343(\\(\\frac{5X}{(5+X)}\\)) = 6(\\(\\frac{2X}{(2+X)}\\))=> (\\(\\frac{5X}{(5+X)}\\)) = 2(\\(\\frac{2x}{(2+X)}\\))\u2234 (\\(\\frac{5X}{(5+X)}\\)) = (\\(\\frac{4X}{(2+X)}\\))5x(2+x) = 4x(5+x)10x + 5x\\(^2\\) = 20x + 4x\\(^2\\)5x\\(^2\\) - 4x\\(^2\\) = 20x - 10x=> x\\(^2\\) = 10x\u2234x\\(^2\\) - 10x = 0x(x - 10) = 0\u2234 x = 0 or 10\u2234 x = 10\u03a9\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "168",
+    "text": "In the diagram above, determine the r.m.s current",
+    "options": {
+      "A": "31A",
+      "B": "48A",
+      "C": "60A",
+      "D": "80A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11875?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "r.m.s\nVr.m.s\nZ\nBut Z =\u221aR2+ XL2\n=\u221a42+ 32\n=\u221a16 + 9\n=\u221a25\nr.m.s\n240\n5\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  }
+]

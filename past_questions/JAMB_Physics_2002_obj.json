@@ -1,0 +1,660 @@
+[
+  {
+    "number": "111",
+    "text": "A copper cube weighs 0.25 N in air, 0.17N when completely immersed in paraffin oil and 0.15 N when completely immersed in water.The ratio of upthrust in oil to upthrust in water is",
+    "options": {
+      "A": "3 : 5",
+      "B": "4 : 5",
+      "C": "7 : 10",
+      "D": "13 : 10"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9561?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "Wt. in air = 0.25 NWt.in water = 0.15 NTherefore, lost in wt. in water = Upthrust in water= 0.25 - 0.15= 0.10 N.Wt. in paraffin oil = 0.17 N... loss in wt. in oil = upthrust in the oil = 0.25 - 0.17 = 0.08Ratio of upthrust in oil to upthrust in water= \\(\\frac{0.08}{0.10}\\) = \\(\\frac{8}{10}\\) = \\(\\frac{4}{5}\\) Or 4 : 5",
+    "year": "2002"
+  },
+  {
+    "number": "112",
+    "text": "A wheel and axle is used to raise a load of 500 N by the application of an effort of 250 N. If the radii of the wheel and the axle are 0.4 cm and 0.1 cm respectively, the efficiency of the machine is",
+    "options": {
+      "A": "20 %",
+      "B": "40 %",
+      "C": "50 %",
+      "D": "60 %"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9562?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "113",
+    "text": "The hydrostatic blood pressure difference between the head and the feet of a boy standing straight is 1.65 x 104 Nm-2. Find the height of the boy.\n[ Density of blood = 1.1 x 103 kgm-3, g = 10ms-2]",
+    "options": {
+      "A": "0.5 m",
+      "B": "0.6 m",
+      "C": "1.5 m",
+      "D": "2.0 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9563?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "[ Density of blood = 1.1 x 103 kgm-3, g = 10ms-2]Pressure = pgh, where p = density, h = the height, g = acceleration of free fall due to gravity1.6.5 x 104 = 1.1 x 103 x 10 x htherefore h = 1.65 x 104/1.1 x 103 x 10 = 1.5m",
+    "year": "2002"
+  },
+  {
+    "number": "114",
+    "text": "A body weighing 80N stands in an elevator that is about to move. The force exerted by floor on the body as the elevator moves upward with an acceleration of 5 ms-2 is\n[g = 10ms-2]",
+    "options": {
+      "A": "40 N",
+      "B": "80 N",
+      "C": "120 N",
+      "D": "160 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9671?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "W = Mg\nman's weight = 80N then his mass = \\(\\frac{80}{10}\\) = 8kg\nT = Mg + Ma = M( g + a) = 8(10 + 5) = 8 x 15 = 120N.",
+    "year": "2002"
+  },
+  {
+    "number": "115",
+    "text": "If the distance between two suspended masses 10kg each is tripled, the gravitational force of attraction between them is reduced by",
+    "options": {
+      "A": "one half",
+      "B": "one third",
+      "C": "one quarter",
+      "D": "one ninth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9672?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "1\n2\n2\n1\n2\n2\n2\n2\n2\n2\n2\n1\n2\n2\n2\n2\n2\n1",
+    "year": "2002"
+  },
+  {
+    "number": "116",
+    "text": "Two force each of 10N acts on a body, one towards the north and the other towards the east.\nThe magnitude and the direction of the resultant force are",
+    "options": {
+      "A": "20N, 45\u00b0E",
+      "B": "20N, 45\u00b0W",
+      "C": "10\u221a2N, 45\u00b0W",
+      "D": "10\u221a2N, 45\u00b0E"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9674?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "2 + 102",
+    "year": "2002"
+  },
+  {
+    "number": "117",
+    "text": "A particle in circular motion performs 30 oscillation in 6 seconds. Its angular velocity is",
+    "options": {
+      "A": "5 rad s-1",
+      "B": "6 rad s-1",
+      "C": "5\u03c0 rad s-1",
+      "D": "10\u03c0 rad s-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9675?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "-1",
+    "year": "2002"
+  },
+  {
+    "number": "118",
+    "text": "The effect of a particle in a fluid attaining its terminal velocity is that the",
+    "options": {
+      "A": "acceleration is maximum",
+      "B": "weight is equal to the retarding force",
+      "C": "buoyancy force is equal to the to the viscous retardind force",
+      "D": "buoyancy force is more than the weight of the fluid displaced"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9677?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "119",
+    "text": "A coin place below a rectangular  glass block of thickness 9cm and refractive index 1.5 is viewed vertically above the block. The apparent displacement of the coin is",
+    "options": {
+      "A": "3 cm",
+      "B": "5 cm",
+      "C": "6 cm",
+      "D": "8 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9678?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "120",
+    "text": "The radiator of a motor car is cooled by",
+    "options": {
+      "A": "radiation",
+      "B": "conduction",
+      "C": "convection",
+      "D": "radiation and conduction"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9679?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "121",
+    "text": "I. Temperature.\nII. Density of air molecules\nIII. Pressure\nIV. Pitch\nWhich of the above will affect the velocity of sound in the air",
+    "options": {
+      "A": "I and II only",
+      "B": "II and IV only",
+      "C": "I,II and IV only",
+      "D": "I,II,III nad IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9680?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "Airpressure has noeffecton speed ofsoundin an ideal gas because pressure and density both contribute tosound velocityequally, the two effects cancel each other out",
+    "year": "2002"
+  },
+  {
+    "number": "122",
+    "text": "Which of the following is a characteristics of stationary waves?",
+    "options": {
+      "A": "They are formed by two identical waves travelling in opposite directions",
+      "B": "they can be transverse or longitudinal",
+      "C": "The distance between two successive nodes is one wavelenght",
+      "D": "The antinode is a point of minimum displacement"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9681?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "They are produced\u00a0by the superposition of\u00a0two progressive identical waves travelling in opposite directions",
+    "year": "2002"
+  },
+  {
+    "number": "123",
+    "text": "To produce an enlarged and erect image with a concave mirror,the object must be positioned",
+    "options": {
+      "A": "at the principal focus",
+      "B": "beyond the centre  of curvature",
+      "C": "between the principal focus and the centre of the curvature",
+      "D": "between the principal focus and the pole"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9711?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "124",
+    "text": "the property that is propagated in a traveling wave is",
+    "options": {
+      "A": "frequency",
+      "B": "amplitude",
+      "C": "energy",
+      "D": "wave lenght"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9712?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "125",
+    "text": "Which of the following eye defects can be corrected using a cylindrical lens.",
+    "options": {
+      "A": "myopia",
+      "B": "Astigmatism",
+      "C": "Presbyopia",
+      "D": "Chromatic abiration"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9717?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "126",
+    "text": "The time rate of loss of heat by a body is proportional to the",
+    "options": {
+      "A": "difference in temprature between the body and its surroundings",
+      "B": "temperature of its surroundings",
+      "C": "ratio of the temperature of the body to that of its surroundings",
+      "D": "temperature of the body"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9718?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "127",
+    "text": "If tension is maintained on a stretched string of length 0.6m, such that its fundamental frequency of 220Hz is excited, determine the velocity of the transverse wave in the string.",
+    "options": {
+      "A": "528 ms-1",
+      "B": "264 ms-1",
+      "C": "132 ms-1",
+      "D": "66 ms-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9739?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "128",
+    "text": "A concave mirror of radius of curvature 40 cm forms a real image  twice as large  as the object.\nthe object distance is",
+    "options": {
+      "A": "10 cm",
+      "B": "30 cm",
+      "C": "40 cm",
+      "D": "60 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9740?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "129",
+    "text": "water is a poor thermometric liquid because it",
+    "options": {
+      "A": "is opaque",
+      "B": "is a poor conductor",
+      "C": "wets glass",
+      "D": "has low vapour pressure"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9752?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "Wet glass:\u00a0Water's ability to adhere to the glass can cause inaccuracies in readings due to meniscus formation and inconsistent surface tension.",
+    "year": "2002"
+  },
+  {
+    "number": "130",
+    "text": "a ray of light which strikes a glass slab from air at normal incidence passes through the slab",
+    "options": {
+      "A": "undeviated and undisplaced at a lower speed",
+      "B": "deviated and undisplaced at a lower speed",
+      "C": "deviated and displaced at a lower speed",
+      "D": "undeviated and displaced at a faster speed"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9753?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "The angle of refraction will be zero as the angle of incidence is zero in this case. This is a rule, that whenever a ray strikes perpendicularly or normally to a surface, no refraction will take place and hence the ray will pass through without deviating from its path.",
+    "year": "2002"
+  },
+  {
+    "number": "131",
+    "text": "blowing air over a liquid aids evaporation by",
+    "options": {
+      "A": "increasing its surface area",
+      "B": "decreasing its vapour pressure",
+      "C": "increasing its temperature",
+      "D": "decreasing its density"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9755?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "if you blow dry air over the glass you blow away this extra water vapor, thereby decreasing the amount of water vapor entering the glass.",
+    "year": "2002"
+  },
+  {
+    "number": "132",
+    "text": "The phenomenon that makes sound  persist when its source has been removed is known as",
+    "options": {
+      "A": "acoustic vibration",
+      "B": "rarefaction",
+      "C": "echo",
+      "D": "reverberation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9791?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "133",
+    "text": "the pressure of 3 moles of an ideal gas at a temperature of 27\u00b0C having a volume of 10-3m3 is",
+    "options": {
+      "A": "2.49 x 105-2",
+      "B": "7.47 x 105-2",
+      "C": "2.49 x 106-2",
+      "D": "7.47 x 106-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9792?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "-3\n-1\n-1\n-3\n6\n-2",
+    "year": "2002"
+  },
+  {
+    "number": "134",
+    "text": "Vibration in a stretched spring cannot be polarized because they are",
+    "options": {
+      "A": "stationary waves",
+      "B": "transverse waves",
+      "C": "longitudinal waves",
+      "D": "mechanical waves"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/9793?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "In longitudinal waves, such as sound waves in a liquid or gas, the displacement of the particles in the oscillation is always in the direction of propagation, so these waves do not exhibit polarization.",
+    "year": "2002"
+  },
+  {
+    "number": "169",
+    "text": "The diagram above show s the force-extension curve of a piece of wire. The energy stored when the wire is stretched from E to F is?",
+    "options": {
+      "A": "7.5 x 10-3J",
+      "B": "2.5 x 10-3J",
+      "C": "1.5 x 10-2J",
+      "D": "7.5 x 10-1J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11998?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "A",
+    "explanation": "The energy store is equal to the work done in stretching the wire from E to F given by the \\(\\frac{1}{2}\\)Fe\nwhere e = 0.10 - 0.50 = 0.05m.\nF = 0.2 + 0.1 = 0.3N\n=\u00a0\\(\\frac{1}{2}\\) x (0.2 +\u00a00.1) x (0.10 - 0.50) = 7.5 x 10\\(^{-3}\\)J",
+    "year": "2002"
+  },
+  {
+    "number": "170",
+    "text": "The diagram above shows the force (F) acting on an object through a distance (x). The work done on this object is expressed as",
+    "options": {
+      "A": "Fx J",
+      "B": "Fx/2 J",
+      "C": "Fx2 J",
+      "D": "F/x J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12002?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "1\n2",
+    "year": "2002"
+  },
+  {
+    "number": "171",
+    "text": "Calculate the refractive index of the material for the glass prism in the diagram above",
+    "options": {
+      "A": "\u221a2/2",
+      "B": "4/3",
+      "C": "\u221a2",
+      "D": "3/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12004?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "n = \\(\\frac{\\frac{A+D}{2}}{sin\\frac{A}{2}}\\)\nwhere A = the refracting angle of the prism(60\u00ba)D = angle of deviation of the ray (30\u00b0)\nn = \\(\\frac{\\frac{60+30}{2}}{sin\\frac{60}{2}}\\)\n= \\(\\frac{sin45}{sin30}\\)\nv = \\(\\frac{\\frac{1}{\\sqrt{2}}}{\\frac{1}{2}}\\)\\(\\frac{\\frac{\\sqrt{2}}{2}}{\\frac{1}{2}}\\)=\u00a0 \\(\\frac{\\sqrt{2}}{2}\\) x \\(\\frac{2}{1}\\) = \\(\\sqrt{2}\\)n = \\(\\sqrt{2}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "172",
+    "text": "From the diagram above, determine the value of the resistance X",
+    "options": {
+      "A": "6\u03a9",
+      "B": "9\u03a9",
+      "C": "12\u03a9",
+      "D": "15\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12008?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "D",
+    "explanation": "5\n2\n1\n2.5\n1\n3\n1\nx\n1\nx\n1\n2.5\n1\n3\n3-2.5\n7.5\n0.5\n7.5\n7.5\n0.5\n75\n5",
+    "year": "2002"
+  },
+  {
+    "number": "173",
+    "text": "The energy stored in a capacitor of capacitance 10\u03bcF carrying a charge of 100\u03bcC",
+    "options": {
+      "A": "5 x 104 J",
+      "B": "4 x 102 J",
+      "C": "4 x 10-3 J",
+      "D": "5 x 10-4 J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12032?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "D",
+    "explanation": "1\n2\n2\n1\n2\n1\n2\n2\n-6\n-6\n1\n2\n2\n=1(100 x 10-6)210 x 10-62\n=1100 x 10-1210 x 10-62\n1\n2\n-3\n-4",
+    "year": "2002"
+  },
+  {
+    "number": "174",
+    "text": "When connected to a mains of 250V, the fuse rating in the plug of an electric device of 1 KW is",
+    "options": {
+      "A": "2 A",
+      "B": "3 A",
+      "C": "4 A",
+      "D": "5 A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12033?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "1\nV",
+    "year": "2002"
+  },
+  {
+    "number": "175",
+    "text": "The eye controls the amount of light reaching the retina by adjusting the",
+    "options": {
+      "A": "cornea",
+      "B": "iris",
+      "C": "retina",
+      "D": "optic nerve"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12034?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "176",
+    "text": "An electric iron is rated 1000W, 230V. What is the resistance of its elements?",
+    "options": {
+      "A": "51.9\u03a9",
+      "B": "52.9\u03a9",
+      "C": "55.9\u03a9",
+      "D": "57.6\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12036?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "B",
+    "explanation": "2\nV2\nR\nV2\nR\n(230)2\nR\n(230)2\n1000",
+    "year": "2002"
+  },
+  {
+    "number": "177",
+    "text": "The electric field between two - point charges is shown in the diagram above. What types of charges are at X and Y?",
+    "options": {
+      "A": "Both X and Y are negative",
+      "B": "Both X and Y are positive",
+      "C": "X is positive  and Y is negative",
+      "D": "X is negative and Y is positive"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12037?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "178",
+    "text": "The electromagnetic wave that can produce a heating effect on the environment is",
+    "options": {
+      "A": "x -rays",
+      "B": "ultraviolet rays",
+      "C": "infrared rays",
+      "D": "gamma rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12038?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "Infrared rays\u00a0produce a high heating effect. All red-hot bodies such as a heated iron ball, flame, and fire are sources of infrared rays.",
+    "year": "2002"
+  },
+  {
+    "number": "179",
+    "text": "an electric cell with nominal voltage E has a resistance of 3\u03a9 connected across it. If the voltage falls to 0.6E, the internal resistance of the cell is",
+    "options": {
+      "A": "1\u03a9",
+      "B": "2\u03a9",
+      "C": "3\u03a9",
+      "D": "4\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12041?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "B",
+    "explanation": "IR = 0.6 X I ( R + r )\nI X 3 = 0.6 X I ( 3 + r )\n3I / 0.6I = 3 + r\n5 = 3 + r\nr = 2 ohms",
+    "year": "2002"
+  },
+  {
+    "number": "180",
+    "text": "\\(^{23}_{11}\\)Na + X\u00a0 \u2192 \\(^{20}_9\\)F + \\(^4_2\\)He\nWhat particle is X in the reaction above?",
+    "options": {
+      "A": "Alpha",
+      "B": "Beta",
+      "C": "Neurons",
+      "D": "Gamma"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12253?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "The particle in the reaction is a neutron\n\\(^{23}_{11}\\)Na + \\(^1_0\\)n\u00a0 \u2192 \\(^{20}_9\\)F + \\(^4_2\\)He",
+    "year": "2002"
+  },
+  {
+    "number": "181",
+    "text": "Pure silicon can be converted to a p-type by adding a controlled amount of",
+    "options": {
+      "A": "trivalent atoms",
+      "B": "tetravalent atoms",
+      "C": "pentavalent atoms",
+      "D": "hexavalent atoms"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12254?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "182",
+    "text": "The energy associated with the photon of a radio transmission at 3 x 105 Hz is\n[h = 6.63 x 10-34Js]",
+    "options": {
+      "A": "2.00 x 10-28J",
+      "B": "1.30 x 10-28J",
+      "C": "2.00 x 10- 29J",
+      "D": "1.30 x 10-29J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12255?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "-34\n5\n-29\n-28",
+    "year": "2002"
+  },
+  {
+    "number": "183",
+    "text": "The percentage of the original nuclei of the sample of a radioactive substance left after 5 half - lives is",
+    "options": {
+      "A": "8%",
+      "B": "5%",
+      "C": "3%",
+      "D": "1%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12256?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "C",
+    "explanation": "After 5 half-lives, the fraction of any radio-active substance left = (1/2)5 = 1/32Thus the percentage of the original nuclei = 1/32/1 x 100/1assuming the original amount is unity percentage left= 1/32 x 100/1 = 3.12 = 3%",
+    "year": "2002"
+  },
+  {
+    "number": "184",
+    "text": "From the generating station to each substation power is transmitted at a very high voltage so as to reduce",
+    "options": {
+      "A": "hysteresis loss",
+      "B": "eddy current loss",
+      "C": "magnetic flux leakage",
+      "D": "heating in the coils"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12257?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "D",
+    "explanation": "Power is transmitted at very high voltages primarily to reduce heating in the coils(cables).High Voltage: Lowers current, minimizing resistive (I\\(^2\\)R) losses, which cause heating.Eddy Currents: While they can be a concern in certain applications, such as transformers, they are not the primary issue in high-voltage transmission.",
+    "year": "2002"
+  },
+  {
+    "number": "185",
+    "text": "The particle that is responsible for the nuclear fission in a nuclear reactor is",
+    "options": {
+      "A": "neutron",
+      "B": "prton",
+      "C": "electron",
+      "D": "photon"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12258?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "235\n92",
+    "year": "2002"
+  },
+  {
+    "number": "186",
+    "text": "A transistor is used in the amplification of signals because it",
+    "options": {
+      "A": "controls the flow of current",
+      "B": "consumes a lot of power",
+      "C": "allows doping",
+      "D": "contains electron and hole carriers"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12259?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "187",
+    "text": "The carbon-granules microphone works on the principle of change in",
+    "options": {
+      "A": "inductance",
+      "B": "resistance",
+      "C": "capacitance",
+      "D": "voltage"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12260?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "188",
+    "text": "At what frequency would a capacitor of 2.5\u03bcF used in the radio circuit have a reactance\u00a0of 250\u03a9",
+    "options": {
+      "A": "\\(\\frac{\u03c0}{800}\\) Hz",
+      "B": "\\(\\frac{800}{\\pi}\\) Hz",
+      "C": "200\u03c0 Hz",
+      "D": "2000\u03c0 Hz"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12261?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "X\\(_c\\) = \\(\\frac{1}{2\\pi f c}\\)\nf = \\(\\frac{1}{ 2 \\pi f C}\\) = \\(\\frac{1}{\\pi \\times 2 \\times 250 \\times 2.5 \\times 10^{-6}}\\)\nf = \\(\\frac{1\\times 10^6}{ 1250 \\pi}\\)\nf = \\(\\frac{800}{\u03c0}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "189",
+    "text": "A current of 0.5 A flowing 3h Deposits 2g of metal during electrolysis. The quantity of the same metal that would be deposited by the currents of 1.5A flowing in 1h is",
+    "options": {
+      "A": "2g",
+      "B": "6g",
+      "C": "10g",
+      "D": "18g"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12262?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "From Faraday's Law, mass deposited during electrolysis is given by\\(M_1 = I_1t_1Z\\)=> Z = \\(\\frac{M_1}{(I_1t_1)}\\)\n\u21d2 Z =\\(\\frac{2}{0.5 \\times3}\\) = 1.333Kg/CFor a current of 1.5A flowing for 1h, the mass M, deposited is given by\\(M_2 = ZI_2T_2\\) = 1.333 x 1 x 1.5 = 2.0g\\(M_2\\)\u00a0= 2.0g\nnote: converting time to seconds here is not necessary.",
+    "year": "2002"
+  },
+  {
+    "number": "190",
+    "text": "Which of the following statements is true of the properties of a moving coil galvanometer?",
+    "options": {
+      "A": "THe coil has a small area",
+      "B": "There are strong hair springs to gives a large control panlel",
+      "C": "There is a strong permanent magnet to give  high magnetic flux",
+      "D": "it has a small number of turns of coil"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12263?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "C",
+    "explanation": "The galvanometer possesses a rectangular coil mounted on a soft iron core rotating on a magnetic field induced by a permanent magnet.",
+    "year": "2002"
+  },
+  {
+    "number": "191",
+    "text": "A bead travelling on a straight line wire is brought to rest at 0.2 by friction. If\u00a0the mass of the bead is 0.01kg and the coefficient of friction between the bead and the wire is 0.1, determine the work done by the friction\n[g = 10ms\\(^2\\)]",
+    "options": {
+      "A": "2 x 10\\(^{-4}\\)",
+      "B": "2 x 10\\(^{-3}\\)",
+      "C": "2 x 10\\(^{-1}\\)",
+      "D": "2 x 10\\(^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12264?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "Work done by friction = Friction force x displacement from the relation, f = \u03bcRwhere \u03bc = coefficient of friction ; R = normal reaction=> F = \u03bc mg (R\u00a0= mg)= 0.1 x 0.01 x 10\u2234 work done = F x displacement= 0.1 x 0.01 x 10 x 0.2= 0.002= 2 x 10\\(^{-3}\\)",
+    "year": "2002"
+  }
+]

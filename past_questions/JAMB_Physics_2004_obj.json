@@ -1,0 +1,254 @@
+[
+  {
+    "number": "233",
+    "text": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "options": {
+      "A": "armature coil should be made of silver",
+      "B": "commutator should be replaced with slip ring",
+      "C": "commutator should be replaced with split rings",
+      "D": "armature coil should be made of aluminium"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12786?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "234",
+    "text": "A radioisotope has a decay constant of 10\\(^{-7}\\)s\\(^{-1}\\). The average life of the radioisotope is",
+    "options": {
+      "A": "1.00 x 107s",
+      "B": "6.93 x 106s",
+      "C": "1.00 x 10-7s",
+      "D": "6.93 x 107s"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12787?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "Average life / Half life (T\\(_{\\frac{1}{2}}\\)) = ln2/\u03bb = 0.693/10\\(^{-7}\\)= 0.693 x 10\\(^7\\)= 6.93 x 10\\(^6\\)",
+    "year": "2004"
+  },
+  {
+    "number": "235",
+    "text": "An a.c circuit of e.m.f 12V has a resistor of resistance 8\u03a9 connected in series to an inductor of inductive reactance 16\u03a9 and a capacitor capacitive reactance 10\u03a9. The current flow in the circuit is",
+    "options": {
+      "A": "1.4A",
+      "B": "1.2A",
+      "C": "12.0A",
+      "D": "14.0A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12788?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "V\nZ\nBut z =\u221aR2+ (XL- XC)2\n=\u221a82+ (16 \u2013 10)2\n=\u221a64 + 36\n=\u221a100= 10\u03a9\nV\nZ\n12\n10",
+    "year": "2004"
+  },
+  {
+    "number": "236",
+    "text": "For semi conductor to have negative temperature coefficient of resistance implies that",
+    "options": {
+      "A": "their resistance decrease with temperature",
+      "B": "The resistance increase with temperature",
+      "C": "their resistance is constantly changing with temperature",
+      "D": "they have electrons and holes at high temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12789?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "The temperature coefficient of resistance is given by\n\u03b1 = \\(\\frac{\\text{Increase in resistance per\u00a0\u00baC rise in temp}}{\\text{resistance at 0\u00baC}}\\)\nAnd for metals where resistance increases with temperature rise, the temperature coefficient of resistance is positive; on the other hand, in semiconductors, where resistance decreases with temperature rise, the temperature coefficient of resistance is negative.",
+    "year": "2004"
+  },
+  {
+    "number": "237",
+    "text": "X  rays can be used in the study of crystal structure because they",
+    "options": {
+      "A": "have  a very long-reaching wavelength",
+      "B": "have extremely short wavelength",
+      "C": "are invisible",
+      "D": "are very fast"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12790?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "238",
+    "text": "A moving coil galvanometer has a full-scale deflection of 3A equivalent to 30o deflection. The sensitivity of the instrument is",
+    "options": {
+      "A": "33.0",
+      "B": "0.1",
+      "C": "90.0",
+      "D": "10.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12791?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "The sensitivity of a measuring instrument is given by deflection per unit current: and given that deflection = 30\u00ba; and current (I) = 3A: then the sensitivity of the meter = 30/3\u00a0= 10.0",
+    "year": "2004"
+  },
+  {
+    "number": "239",
+    "text": "The particle and wave nature of matter are demonstrated in the equation",
+    "options": {
+      "A": "\u03bb = hc/E",
+      "B": "\u03bb = h/P",
+      "C": "\u03bb = c/f",
+      "D": "\u03bb = 2 d sin \u03b8"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12792?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "B",
+    "explanation": "I wave - particle duality of matter, the momentum of sub-atomic particle is given by P = h/\u03bb where h = planck constant ; \u03bb = wave length=> \u03bb = h/P",
+    "year": "2004"
+  },
+  {
+    "number": "240",
+    "text": "In a reverse biased junction diode, current flows in by",
+    "options": {
+      "A": "positive holes alone",
+      "B": "majority carriers",
+      "C": "electron alone",
+      "D": "minority carriers"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12793?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "minority carriers",
+    "year": "2004"
+  },
+  {
+    "number": "241",
+    "text": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance XL and XC respectively are related as",
+    "options": {
+      "A": "XL = XC",
+      "B": "XL = 1/2XC",
+      "C": "XL = 1/XC",
+      "D": "XL = 2XC"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12795?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "L\nC\nL\nC",
+    "year": "2004"
+  },
+  {
+    "number": "242",
+    "text": "The binding energy of helium 4He is2\n[atomic mass of proton = 1.00783U,\natomic mass of neutron = 1.00867U]",
+    "options": {
+      "A": "4.033U",
+      "B": "2.017U",
+      "C": "0.033U",
+      "D": "0.330U"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12796?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "For helium4He,2",
+    "year": "2004"
+  },
+  {
+    "number": "243",
+    "text": "Flourescent tubes produces light by the",
+    "options": {
+      "A": "excitation of gas molecules",
+      "B": "conduction of solar energy",
+      "C": "refraction of light by gas molecules",
+      "D": "thermal agitation of electron in the tubes"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12797?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "244",
+    "text": "The energy stored in an inductor of inductance 5mH when a current of 6A flows through it is",
+    "options": {
+      "A": "9.0 x 10-3J",
+      "B": "9.0 x 10-2J",
+      "C": "1.4 x 10-2J",
+      "D": "1.8 x 10-3J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12798?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "1\n2\n2\n1\n2\n-3\n-2",
+    "year": "2004"
+  },
+  {
+    "number": "245",
+    "text": "Which of the following is an electrolyte?",
+    "options": {
+      "A": "Paraffin",
+      "B": "Sugar solution",
+      "C": "Grape fruit",
+      "D": "Alcohol"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12799?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "It has been scientifically proven that 100g of grapefruit contains 135g of potassium electrolyte.",
+    "year": "2004"
+  },
+  {
+    "number": "246",
+    "text": "A steady current of 2A flows in a coil of emf 12V for 0.4s. A back emf of 3V was induced during this period. The stored energy in the loop that can be utilized is",
+    "options": {
+      "A": "9.6J",
+      "B": "2.4J",
+      "C": "12.0J",
+      "D": "7.2J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12800?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "247",
+    "text": "The instrument used for securing a large number of similar charges by induction is called",
+    "options": {
+      "A": "electrophorus",
+      "B": "capacitor",
+      "C": "proof-plane",
+      "D": "electroscope"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12801?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "248",
+    "text": "If 16mA of current flows through a conductor in one second, the number of electron transported per seconds is \n[1 electronic charge = 1.6 x 10-19C]",
+    "options": {
+      "A": "1.00 x 1020",
+      "B": "2.56 x 10-18",
+      "C": "2.56 x -17",
+      "D": "1.00 x 1017"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12802?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "q\nt\n-3\n-2\n-19\n-19\n-2\n-19\n-2\n-2\n19\n17",
+    "year": "2004"
+  },
+  {
+    "number": "249",
+    "text": "Electrical appliances at home are normally earthed so that?",
+    "options": {
+      "A": "the appliances are maintained at a lower p.d than the earth",
+      "B": "both the a.c and d.c sources can be used",
+      "C": "a person touching the appliances is safe from electric shock",
+      "D": "the appliances are maintained at a higher p.d than the earth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12803?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "Earthing is used\u00a0to protect you from an electric shock. It does this by providing a path (a protective conductor) for a fault current to flow to earth. It also causes the protective device (either a circuit-breaker or fuse) to switch off the electric current to the circuit that has the fault.",
+    "year": "2004"
+  },
+  {
+    "number": "250",
+    "text": "Given three capacitors 0.3\u03bcF, 0.5\u03bcF and 0.2\u03bcF, the joint capacitance when arranged to give minimum capacitance is",
+    "options": {
+      "A": "0.1\u03bcF",
+      "B": "0.3\u03bcF",
+      "C": "1.0\u03bcF",
+      "D": "0.5\u03bcF"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12804?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "1\nC\n1\n0.3\n1\n0.5\n1\n0.2",
+    "year": "2004"
+  }
+]

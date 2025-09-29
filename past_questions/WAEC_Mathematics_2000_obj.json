@@ -1,0 +1,674 @@
+[
+  {
+    "number": "579",
+    "text": "Express \\(\\frac{7}{19}\\) as a percentage, correct to one decimal place",
+    "options": {
+      "A": "2.7%",
+      "B": "3.7%",
+      "C": "27.1%",
+      "D": "36.8%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26424?exam_type=waec&type=obj&page=116",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2000"
+  },
+  {
+    "number": "580",
+    "text": "Express 398753 correct to three significant figures",
+    "options": {
+      "A": "398000",
+      "B": "398700",
+      "C": "398800",
+      "D": "399000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26425?exam_type=waec&type=obj&page=116",
+    "correct_answer": "D",
+    "explanation": "398753 \\(\\approxeq\\) 399000 (to 3 s.f)",
+    "year": "2000"
+  },
+  {
+    "number": "581",
+    "text": "simplify \\(\\frac{10}{\\sqrt{32}}\\)",
+    "options": {
+      "A": "\\(\\frac{5}{4}\\sqrt{2}\\)",
+      "B": "\\(\\frac{4}{5}\\sqrt{2}\\)",
+      "C": "\\(\\frac{5}{16}\\sqrt{2}\\)",
+      "D": "\\(\\frac{16}{5}\\sqrt{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26426?exam_type=waec&type=obj&page=117",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{10}{\\sqrt{32}}\\) = \\(\\frac{10}{\\sqrt{16\\times 2}}\\)\u00a0 = \\(\\frac{10}{4\\sqrt{2}}\\)\\(\\frac{10\\times \\sqrt{2}}{4\\sqrt{2}\\times\\sqrt{2}}\\) = \\(\\frac{10\\sqrt{2}}{4\\times 2}\\) = \\(\\frac{5}{4}\\sqrt{2}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "582",
+    "text": "Find the missing number in the addition of the following numbers, in base seven\n\\(\\begin{matrix}\n4 & 3 & 2 & 1\\\\\n1 & 2 & 3 & 4\\\\\n* & * & * & *\\\\\n1&2&3&4&1\n\\end{matrix}\\)",
+    "options": {
+      "A": "3453",
+      "B": "5556",
+      "C": "6016",
+      "D": "13453"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26427?exam_type=waec&type=obj&page=117",
+    "correct_answer": "A",
+    "explanation": "4321\\(_7\\) + 1234\\(_7\\) = 5555\\(_7\\)\nMissing number = 12341\\(_7\\) - 5555\\(_7\\)\n= 3453\\(_7\\)",
+    "year": "2000"
+  },
+  {
+    "number": "583",
+    "text": "What fraction must be subtracted from the sum of \\(2\\frac{1}{6}\\) and \\(2\\frac{7}{12}\\) to give \\(3\\frac{1}{4}\\)?",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(1\\frac{1}{6}\\)",
+      "D": "\\(1\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26428?exam_type=waec&type=obj&page=117",
+    "correct_answer": "D",
+    "explanation": "\\(2\\frac{1}{6} + 2\\frac{7}{12}\\)\n= \\(\\frac{13}{6} + \\frac{31}{12}\\)\n= \\(\\frac{26 + 31}{12}\\)\n= \\(\\frac{57}{12} = \\frac{19}{4}\\)\n\\(\\frac{19}{4} - 3\\frac{1}{4}\\)\n= \\(\\frac{19}{4} - \\frac{13}{4}\\)\n= \\(\\frac{6}{4}\\)\n= \\(1\\frac{1}{2}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "584",
+    "text": "Simplify \\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}}\\times \\sqrt{\\frac{100}{81}}\\)",
+    "options": {
+      "A": "\\(\\frac{80}{243}\\)",
+      "B": "\\(\\frac{1}{64}\\)",
+      "C": "\\(\\frac{25}{6}\\)",
+      "D": "\\(\\frac{15}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26429?exam_type=waec&type=obj&page=117",
+    "correct_answer": "D",
+    "explanation": "\\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}}\\times \\sqrt{\\frac{100}{81}}\\)= \\(\\frac{1}{\\left(\\sqrt[4]{\\frac{16}{81}}\\right)^3}\\times \\frac{10}{9}\\)\n= \\(\\frac{1}{\\left(\\frac{2}{3}\\right)^3}\\times\\frac{10}{9}\\)= \\(\\frac{27}{8}\\times \\frac{10}{9} = \\frac{15}{4}\\)OR\nWe start with the expression:\\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}} \\times \\sqrt{\\frac{100}{81}}\\)\nFirst, simplify \\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}}\\):\\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}} = \\left(\\frac{81}{16}\\right)^{\\frac{3}{4}} = \\frac{81^{\\frac{3}{4}}}{16^{\\frac{3}{4}}}\\)Calculating \\(81^{\\frac{3}{4}}\\) and \\(16^{\\frac{3}{4}}\\):\\(81 = 3^4 \\implies 81^{\\frac{3}{4}} = 3^3\\) = 27\\(16 = 4^2 \\implies 16^{\\frac{3}{4}} = 4^{\\frac{3}{2}} = 2^3\\) = 8Thus,\\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}} = \\frac{27}{8}\\)\nNext, simplify \\(\\sqrt{\\frac{100}{81}}\\):\\(\\sqrt{\\frac{100}{81}} = \\frac{\\sqrt{100}}{\\sqrt{81}} = \\frac{10}{9}\\)\nNow, multiply the two results:\\(\\frac{27}{8} \\times \\frac{10}{9} = \\frac{27 \\times 10}{8 \\times 9} = \\frac{270}{72}\\)\nFinding the GCD of 270 and 72 gives:\\(\\frac{270 \\div 18}{72 \\div 18} = \\frac{15}{4}\\)\nThe final result is:\\(\\left(\\frac{16}{81}\\right)^{-\\frac{3}{4}} \\times \\sqrt{\\frac{100}{81}} = \\frac{15}{4}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "585",
+    "text": "Which of the following numbers is perfect cube?",
+    "options": {
+      "A": "350",
+      "B": "504",
+      "C": "950",
+      "D": "1728"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26430?exam_type=waec&type=obj&page=117",
+    "correct_answer": "D",
+    "explanation": "By trial and error method\n1728\u00a0is a perfect cube\nor try multiplying 3 same numbers based on the given options, or use the long division method, and group the divisors(same) in 3s.\ni.e., 12 x 12 x 12 = 1728, making 1728 a perfect cube.",
+    "year": "2000"
+  },
+  {
+    "number": "586",
+    "text": "If \\(104_x = 68\\), find the value of x",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26431?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "104\\(_x\\) = 681 \\(\\times x^2 +\u00a00 \\times x\u00a0+ 4 \\times x^0\\) = 68x\\(^2\\) = 68 - 4; x\\(^2\\) = 64x = \\(\\sqrt{64}\\) = 8\n(104\\(_x\\) change to base 10)",
+    "year": "2000"
+  },
+  {
+    "number": "587",
+    "text": "The ages of three men are in the ratio 3:4:5. If the difference between the ages of the oldest and youngest is 18 years, find the sum of the ages of the three men",
+    "options": {
+      "A": "45 years",
+      "B": "72 years",
+      "C": "108 years",
+      "D": "216 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26432?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "Given that the ages are in the ratio 3: 4: 5.\nLet the sum of their ages be t.\n\\(\\therefore\\) The youngest age = \\(\\frac{3}{12} t\\)\nThe eldest age = \\(\\frac{5}{12} t\\)\n\\(\\implies \\frac{5}{12} t - \\frac{3}{12} t = 18\\)\n\\(\\frac{2t}{12} = 18 \\implies t = \\frac{18 \\times 12}{2}\\)\nt = 108 years.\nThe sum of their ages = 108 years.",
+    "year": "2000"
+  },
+  {
+    "number": "588",
+    "text": "Given that \\(log_4 x\u00a0= -3\\), find x.",
+    "options": {
+      "A": "\\(\\frac{1}{81}\\)",
+      "B": "\\(\\frac{1}{64}\\)",
+      "C": "64",
+      "D": "81"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26433?exam_type=waec&type=obj&page=118",
+    "correct_answer": "B",
+    "explanation": "\\(\\log_4 x = -3\\)\n\\(x = 4^{-3}\\)\n= \\(\\frac{1}{64}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "589",
+    "text": "Given that the logarithm of a number is \\(\\bar{1}.8732\\), find, correct to 2 significant figures the square root of the number.",
+    "options": {
+      "A": "0.29",
+      "B": "0.75",
+      "C": "0.86",
+      "D": "0.93"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26434?exam_type=waec&type=obj&page=118",
+    "correct_answer": "C",
+    "explanation": "Let the number = d.\n\\(\\log d = \\bar{1}.8732\\)\n\\(\\log \\sqrt{d} = \\frac{\\bar{1}.8732}{2}\\)\n= \\(\\frac{\\bar{2} + 1.8732}{2}\\)\n= \\(\\bar{1}.9366\\)\n\\(\\therefore \\sqrt{d} = Antilog (\\bar{1}.9366)\\)\n= 0.86",
+    "year": "2000"
+  },
+  {
+    "number": "590",
+    "text": "A car moves at an average speed of 30kmh\\(^{-1}\\), how long does it take to cover 200 meters?",
+    "options": {
+      "A": "2.4 sec",
+      "B": "24 sec",
+      "C": "144 sec",
+      "D": "240 sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26435?exam_type=waec&type=obj&page=118",
+    "correct_answer": "B",
+    "explanation": "Speed = 30 kmh\\(^{-1}\\)\n= \\(\\frac{30 \\times 1000}{3600}\\)\n= \\(\\frac{25}{3} ms^{-1}\\)\nTime = \\(\\frac{Distance}{Speed}\\)\n= \\(\\frac{200}{\\frac{25}{3}}\\)\n= \\(\\frac{200 \\times 3}{25}\\)\n= 24 seconds",
+    "year": "2000"
+  },
+  {
+    "number": "591",
+    "text": "A man bought a television set on hire purchase for N25,000, out of which he paid N10,000, if he is allowed to pay the balance in eight equal installments, find the value of each installment.",
+    "options": {
+      "A": "N1250",
+      "B": "N1578",
+      "C": "N1875",
+      "D": "N3125"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26436?exam_type=waec&type=obj&page=119",
+    "correct_answer": "C",
+    "explanation": "Price of television = N25,000\nPaid N10, 000\nRemainder = N(25,000 - 10,000)\n= N15,000\nEight equal installments = \\(\\frac{15,000}{8}\\)\n= N1,875 per installment.",
+    "year": "2000"
+  },
+  {
+    "number": "592",
+    "text": "A tree is 8km due south of a building. Kofi is standing 8km west of the tree. How far is Kofi from the building?",
+    "options": {
+      "A": "4\u221a2km",
+      "B": "8km",
+      "C": "8\u221a2km",
+      "D": "16km"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26437?exam_type=waec&type=obj&page=119",
+    "correct_answer": "C",
+    "explanation": "\\(x^2 = 8^2 + 8^2\\)\n\\(x^2 = 64 + 64 = 128\\)\n\\(x = \\sqrt{128}\\)\n= \\(8\\sqrt{2}\\) km",
+    "year": "2000"
+  },
+  {
+    "number": "593",
+    "text": "A tree is 8km due south of a building. Kofi is standing 8km west of the tree. Find the bearing of Kofi from the building",
+    "options": {
+      "A": "315o",
+      "B": "270o",
+      "C": "225o",
+      "D": "135o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26438?exam_type=waec&type=obj&page=119",
+    "correct_answer": "C",
+    "explanation": "The bearing of Kofi\u00a0from the building = 180\u00b0 + 45\u00b0\n= 225\u00b0",
+    "year": "2000"
+  },
+  {
+    "number": "594",
+    "text": "Which of the following bearings is equivalent to S50\u00b0W?",
+    "options": {
+      "A": "040o",
+      "B": "130o",
+      "C": "220o",
+      "D": "230o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26439?exam_type=waec&type=obj&page=119",
+    "correct_answer": "D",
+    "explanation": "S50\u00b0W = 180\u00b0 + 50\u00b0\n= 230\u00b0",
+    "year": "2000"
+  },
+  {
+    "number": "595",
+    "text": "In the diagram, AB is a vertical pole and BC is horizontal. If |AC| = 10m and |BC| = 5m, calculate the angle of depression of C from A",
+    "options": {
+      "A": "63o",
+      "B": "60o",
+      "C": "45o",
+      "D": "27o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26440?exam_type=waec&type=obj&page=119",
+    "correct_answer": "B",
+    "explanation": "In triangle ABC, \\(\\frac{BC}{AC} = \\cos \\theta\\)\n\\(\\implies \\cos \\theta = \\frac{5}{10} = 0.5\\)\n\\(\\theta = \\cos^{-1} (0.5) = 60\u00b0\\)",
+    "year": "2000"
+  },
+  {
+    "number": "596",
+    "text": "The bar chart shows the distribution of marks scored by a group of students in a test. Use the chart to answer the question below\nHow many students scored 4 marks and above?",
+    "options": {
+      "A": "15",
+      "B": "11",
+      "C": "10",
+      "D": "17"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26441?exam_type=waec&type=obj&page=120",
+    "correct_answer": "D",
+    "explanation": "Students that scored 4 and above = 5 + 3 + 3 + 0 + 2 + 2 + 2\n= 17",
+    "year": "2000"
+  },
+  {
+    "number": "597",
+    "text": "The bar chart shows the distribution of marks scored by a group of students in a test. Use the chart to answer the question below\nHow many students took the test?",
+    "options": {
+      "A": "38",
+      "B": "32",
+      "C": "15",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26442?exam_type=waec&type=obj&page=120",
+    "correct_answer": "B",
+    "explanation": "2 + 3 + 4 + 5 + 6 + 3 +3 + 0 + 2 + 2 + 2 = 32",
+    "year": "2000"
+  },
+  {
+    "number": "598",
+    "text": "Calculate the standard deviation of the following marks; 2, 3, 6, 2, 5, 0, 4, 2",
+    "options": {
+      "A": "1.5",
+      "B": "1.7",
+      "C": "1.8",
+      "D": "1.9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26443?exam_type=waec&type=obj&page=120",
+    "correct_answer": "C",
+    "explanation": "x2362504224x - \\(\\bar{x}\\)-103-12-31-1\\((x - \\bar{x})^2\\)1091491126\nMean = \\(\\frac{24}{8} = 3\\)\nStandard deviation = \\(\\sqrt{\\frac{26}{8}}\\)\n= \\(\\sqrt{3.25}\\)\n= 1.802 \\(\\approx\\) 1.8",
+    "year": "2000"
+  },
+  {
+    "number": "599",
+    "text": "The probabilities that Kodjo and Adoga pass an examination are \\(\\frac{3}{4}\\) and \\(\\frac{3}{5}\\) respectively. Find the probability of both boys failing the examination",
+    "options": {
+      "A": "\\(\\frac{1}{10}\\)",
+      "B": "\\(\\frac{3}{10}\\)",
+      "C": "\\(\\frac{9}{20}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26444?exam_type=waec&type=obj&page=120",
+    "correct_answer": "A",
+    "explanation": "P(Kodjo passing) = \\(\\frac{3}{4}\\); P(Adoga passing) = \\(\\frac{3}{5}\\)\nP(Kodjo failing) = \\(\\frac{1}{4}\\); P(Adoga\u00a0failing) = \\(\\frac{2}{5}\\)\nP(both fail) = \\(\\frac{1}{4} \\times \\frac{2}{5}\\)\n= \\(\\frac{1}{10}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "600",
+    "text": "Which of the following statement is not true about a rectangle? I.Each diagonal cuts the rectangle into two congruent triangles. II. A rectangle has four lines of symmetry III. The diagonals intersect at right angles",
+    "options": {
+      "A": "I and II only",
+      "B": "III only",
+      "C": "II only",
+      "D": "II and III only"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26445?exam_type=waec&type=obj&page=120",
+    "correct_answer": "D",
+    "explanation": "The statement that is not true about a rectangle is: II and III only\nThe diagonals of a rectangle do not intersect at right angles. and does not have four lines of symmetry but two.",
+    "year": "2000"
+  },
+  {
+    "number": "601",
+    "text": "In the diagram, PQRS is a circle center O. PQR is a diameter and \u2220PRQ = 40\u00b0. Calculate \u2220QSR.",
+    "options": {
+      "A": "30o",
+      "B": "40o",
+      "C": "45o",
+      "D": "50o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26446?exam_type=waec&type=obj&page=121",
+    "correct_answer": "D",
+    "explanation": "< Q = < R (OQ = OR = radii)\n< QOR = 180\u00b0 - 2(40\u00b0) = 100\u00b0\n< QSR = < RPQ = \\(\\frac{1}{2}\\) < QOR\n= \\(\\frac{100}{2} = 50\u00b0\\)",
+    "year": "2000"
+  },
+  {
+    "number": "602",
+    "text": "Each side of a regular convex polygon subtends an angle of 30\u00b0\u00a0at its center. Calculate each interior angle",
+    "options": {
+      "A": "75o",
+      "B": "150o",
+      "C": "160o",
+      "D": "68o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26447?exam_type=waec&type=obj&page=121",
+    "correct_answer": "B",
+    "explanation": "From the figure above\nIn\u00a0\u25b3BOC, 2x + 30\u00ba = 180\u00ba\nTherefore, x = \\(\\frac{180\u00ba - 30\u00ba}{2}\\) = 75\u00ba\nEach interior angle = 2 times x = 2 x 75 = 150\u00ba\nOR\nTo calculate the interior angle of a regular convex polygon where each side subtends an angle of \\(30^\\circ\\) at the center, we follow these steps:\nDetermine the number of sides (n)The angle subtended at the center by each side is given as \\(30^\\circ\\). The total angle around a point is \\(360^\\circ\\).\n\\(n = \\frac{360^\\circ}{30^\\circ}\\) = 12So, the polygon has 12\u00a0sides.\nCalculate the interior angle.The formula for the interior angle A\u00a0of a regular polygon is:\n\\(A = \\frac{(n - 2) \\times 180^\\circ}{n}\\)\nSubstituting n = 12:\n\\(A = \\frac{(12 - 2) \\times 180^\\circ}{12} = \\frac{10 \\times 180^\\circ}{12} = \\frac{1800^\\circ}{12} = 150^\\circ\\)Each interior angle of the regular convex polygon is \\(150^\\circ\\).",
+    "year": "2000"
+  },
+  {
+    "number": "603",
+    "text": "If the interior angles of hexagon are 107\u00b0, 2x\u00b0, 150\u00b0, 95\u00b0, (2x-15)\u00b0\u00a0and 123\u00b0,\u00a0find x.",
+    "options": {
+      "A": "\\(57\\frac{1}{2}^{\\circ}\\)",
+      "B": "\\(65^{\\circ}\\)",
+      "C": "\\(106^{\\circ}\\)",
+      "D": "\\(120^{\\circ}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26448?exam_type=waec&type=obj&page=121",
+    "correct_answer": "B",
+    "explanation": "Sum of interior angle in a hexagon = (6 - 2) x 180\u00b0\n= 720\u00b0\n\\(\\therefore\\) 107\u00b0 + 2x\u00b0 + 150\u00b0 + 95\u00b0 + (2x - 15)\u00b0 + 123\u00b0 = 720\u00b0\n460 + 4x = 720 \\(\\implies\\) 4x = 720 - 460\n4x = 260\u00b0 \\(\\implies\\) x = 65\u00b0",
+    "year": "2000"
+  },
+  {
+    "number": "604",
+    "text": "In the diagram, POS and ROT are straight lines, OPQR is a parallelogram. |OS| = |OT| and \u2220OST = 50\u00b0. Calculate \u2220OPQ.",
+    "options": {
+      "A": "160o",
+      "B": "140o",
+      "C": "120o",
+      "D": "100o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26449?exam_type=waec&type=obj&page=121",
+    "correct_answer": "D",
+    "explanation": "< T = < S = 50\u00b0 (OS = OT)\n< SOT = 180\u00b0 - 2(50\u00b0) = 80\u00b0\n< ROP = 80\u00b0 (vertically opposite angle)\n\\(\\therefore\\) < OPQ = 180\u00b0 - 80\u00b0 = 100\u00b0 (adjacent angles)",
+    "year": "2000"
+  },
+  {
+    "number": "605",
+    "text": "Given that \\(x = -\\frac{1}{2}and \\hspace{1mm} y = 4 \\hspace{1mm} evaluate \\hspace{1mm} 3x^2y+xy^2\\)",
+    "options": {
+      "A": "-5",
+      "B": "-1",
+      "C": "4",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26450?exam_type=waec&type=obj&page=121",
+    "correct_answer": "A",
+    "explanation": "\\(x\u00a0= -\\frac{1}{2}\\), y = 43x\\(^2\\)y + xy\\(^2\\)3\\(\\left[-\\frac{1}{2}\\right]^2 \\times 4 + \\left(\\frac{-1}{2}\\right)(4)^2\\)3\\(\\times \\frac{1}{4} \\times 4 -\\frac{1}{2} \\times 16\\)3 - 8 = -5",
+    "year": "2000"
+  },
+  {
+    "number": "606",
+    "text": "Given that \\(27^{(1+x)}=9,)\\ find x",
+    "options": {
+      "A": "-3",
+      "B": "\\(\\frac{-1}{3}\\)",
+      "C": "\\(\\frac{5}{3}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26451?exam_type=waec&type=obj&page=122",
+    "correct_answer": "B",
+    "explanation": "\\(27^{(1+x)}\\) = 9\\(3^{3(1+x)} = 3^2\\)3(1+x) = 23 + 3x = 23x = -1\nx = \\(\\frac{-1}{3}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "607",
+    "text": "If x varies inversely as y and \\(x = \\frac{2}{3}\\) when y = 9, find the value of y when \\(x=\\frac{3}{4}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{18}\\)",
+      "B": "\\(\\frac{8}{81}\\)",
+      "C": "\\(\\frac{9}{2}\\)",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26452?exam_type=waec&type=obj&page=122",
+    "correct_answer": "D",
+    "explanation": "\\(x \\propto \\frac{1}{y}\\)\n\\(x = \\frac{k}{y}\\)\n\\(\\frac{2}{3} = \\frac{k}{9}\\)\n\\(3k = 18 \\implies k = 6\\)\n\\(x = \\frac{6}{y}\\)\nWhen y\u00a0= \\(\\frac{3}{4}\\),\nx = \\(\\frac{6}{\\frac{3}{4}}\\)\n= \\(\\frac{6 \\times 4}{3}\\)\n= 8",
+    "year": "2000"
+  },
+  {
+    "number": "608",
+    "text": "Given that (2x + 7) is a factor of \\(2x^2 + 3x - 14\\), find the other factor",
+    "options": {
+      "A": "x + 2",
+      "B": "2 - x",
+      "C": "x - 2",
+      "D": "x + 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26453?exam_type=waec&type=obj&page=122",
+    "correct_answer": "C",
+    "explanation": "\\(2x^2 + 3x - 14\\)\n\\(2x^2 + 7x - 4x - 14\\)\n\\(x(2x + 7) - 2(2x + 7)\\)\n= \\((x - 2)(2x + 7)\\)\nThe other factor = (x - 2).",
+    "year": "2000"
+  },
+  {
+    "number": "609",
+    "text": "Simplify \\(\\frac{1}{x-3}-\\frac{3(x-1)}{x^2 - 9}\\)",
+    "options": {
+      "A": "\\(\\frac{x-1}{x-3}\\)",
+      "B": "\\(\\frac{-2}{x+3}\\)",
+      "C": "\\(\\frac{x-1}{x+3}\\)",
+      "D": "\\(\\frac{4x}{x^2-9}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26454?exam_type=waec&type=obj&page=122",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{x-3}-\\frac{3(x-1)}{x^2 - 9}\\)\\(\\frac{1}{x-3}-\\frac{3(x-1)}{(x-3)(x+3)}\\)\\(\\frac{x+3-3x+3}{(x-3)(x+3)};\\frac{-2x+6}{(x-3)(x+3)}\\)\\(\\frac{-2(x-3)}{(x-3)(x+3)}=\\frac{-2}{x+3}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "610",
+    "text": "Form an inequality for a distance d\u00a0meters which is more than 18m, but not more than 23m",
+    "options": {
+      "A": "18 \u2264 d \u2264 23",
+      "B": "18 < d \u2264 23",
+      "C": "18 \u2264 d < 23",
+      "D": "d < 18 or d > 23"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26455?exam_type=waec&type=obj&page=122",
+    "correct_answer": "B",
+    "explanation": "more than means greater than WHILE\u00a0not more than means less than or equal to\ntherefore the answer is\u00a018 < d \u2264 23 meaning d is more than 8 but can be equal to or less than 23",
+    "year": "2000"
+  },
+  {
+    "number": "611",
+    "text": "Find the equation whose roots are -8 and 5",
+    "options": {
+      "A": "\\(x^2 + 13x + 40=0\\)",
+      "B": "\\(x^2 - 13x - 40=0\\)",
+      "C": "\\(x^2 - 3x +40=0\\)",
+      "D": "\\(x^2 + 3x - 40=0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26456?exam_type=waec&type=obj&page=123",
+    "correct_answer": "D",
+    "explanation": "Equation with roots -8 and 5: (x + 8)(x - 5) = 0\n\\(x^2 - 5x + 8x - 40 = 0\\)\n\\(x^2 + 3x - 40 = 0\\)",
+    "year": "2000"
+  },
+  {
+    "number": "612",
+    "text": "Make t the subject of formula \\(k = m\\sqrt{\\frac{t-p}{r}}\\)",
+    "options": {
+      "A": "\\(\\frac{rk^2 + p}{m^2}\\)",
+      "B": "\\(\\frac{rk^2+pm^2}{m^2}\\)",
+      "C": "\\(\\frac{rk^2-p}{m^2}\\)",
+      "D": "\\(\\frac{rk^2-p^2}{m^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26457?exam_type=waec&type=obj&page=123",
+    "correct_answer": "B",
+    "explanation": "\\(k = m\\sqrt{\\frac{t - p}{r}}\\)\n\\(\\frac{k}{m} = \\sqrt{\\frac{t - p}{r}}\\)\n\\((\\frac{k}{m})^2 = \\frac{t - p}{r}\\)\n\\(rk^2 = m^2 (t - p)\\)\n\\(\\therefore m^2 t = rk^2 + m^2 p\\)\n\\(t = \\frac{rk^2 + m^2 p}{m^2}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "613",
+    "text": "Solve the equation \\(3y^2\\) = 27y",
+    "options": {
+      "A": "y = o or 3",
+      "B": "y = 0 or 9",
+      "C": "y = -3 or 3",
+      "D": "y = 3 or 9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26458?exam_type=waec&type=obj&page=123",
+    "correct_answer": "B",
+    "explanation": "3y\\(^2\\) = 27y3y\\(^2\\) - 27y = 03y(y - 9) = 03y = 0 or y - 9 = 0y = 0 or y = 9y = 0 or 9",
+    "year": "2000"
+  },
+  {
+    "number": "614",
+    "text": "Find the value of x\u00a0such that the expression \\(\\frac{1}{x}+\\frac{4}{3x}-\\frac{5}{6x}+1\\) equals zero",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{-3}{2}\\)",
+      "D": "\\(\\frac{-7}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26459?exam_type=waec&type=obj&page=123",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{1}{x} + \\frac{4}{3x} - \\frac{5}{6x} + 1 = 0\\)\n\\(\\frac{6 + 8 - 5 + 6x}{6x} = 0\\)\n\\(\\frac{9 + 6x}{6x} = 0 \\implies 9 + 6x = 0\\)\n\\(6x = -9 \\implies x = \\frac{-3}{2}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "615",
+    "text": "Given that p varies directly as q while q varies inversely as r, which of the following statements is true?",
+    "options": {
+      "A": "r varies directly as p",
+      "B": "p varies inversely as r",
+      "C": "p varies directly as r",
+      "D": "q varies inversely as p"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26460?exam_type=waec&type=obj&page=123",
+    "correct_answer": "B",
+    "explanation": "P varies directly as q means p = kq some constant k\nq varies inversely as r means q = \\(\\frac{\\text{m}}{\\text{r}}\\) for some constant m\nSubstituting the expression for q into the equation for p:\np =\\(\\frac{\\text{km}}{\\text{r}}\\)\nThis shows that p varies inversely as r.",
+    "year": "2000"
+  },
+  {
+    "number": "616",
+    "text": "In the diagram, PQS is a circle with center O. RST is a tangent at S and \u2220SOP = 96o. Find \u2220PST",
+    "options": {
+      "A": "42o",
+      "B": "48o",
+      "C": "60o",
+      "D": "66o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26461?exam_type=waec&type=obj&page=124",
+    "correct_answer": "B",
+    "explanation": "In the given diagram,\n< PQS = \\(\\frac{1}{2}\\) x 96\u00ba = 48\u00ba ( <s at center = 2 x < at circumference)\nTherefore, < PST = 48\u00ba ( alternate segment).",
+    "year": "2000"
+  },
+  {
+    "number": "617",
+    "text": "A bicycle wheel of radius 42cm is rolled over a distance 66 meters. How many revolutions does it make?[Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "2.5",
+      "B": "5",
+      "C": "25",
+      "D": "50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26462?exam_type=waec&type=obj&page=124",
+    "correct_answer": "C",
+    "explanation": "circumference of the bicycle wheel\\(= 2\\pi r = 2 \\times \\frac{22}{7} \\times 42 =\u00a0264cm = 2.64m\\\\\\)Number of revolution\\(=\\frac{66}{2.64} = 25\\)",
+    "year": "2000"
+  },
+  {
+    "number": "618",
+    "text": "The height of\u00a0a pyramid on square base is 15cm. if the volume is 80cm^3, find the area of the square base.",
+    "options": {
+      "A": "8cm2",
+      "B": "9.6cm2",
+      "C": "16cm2",
+      "D": "25cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26463?exam_type=waec&type=obj&page=124",
+    "correct_answer": "C",
+    "explanation": "Volume of pyramid with square base = \\(\\frac{\\text{base area} \\times height}{3}\\)\n\\(80 = \\frac{\\text{base area} \\times 15}{3}\\)\n\\(80 = 5 \\times \\text{base area}\\)\n\\(\\text{Base area} = 16 cm^2\\)",
+    "year": "2000"
+  },
+  {
+    "number": "619",
+    "text": "A tap leaks at the rate of 2cm\\(^3\\) per seconds. How long will it take the tap to fill a container of 45 liters capacity? (1 liters = 1000cm\\(^3\\))",
+    "options": {
+      "A": "8 hours",
+      "B": "6hr 15min",
+      "C": "4hr 25min",
+      "D": "3hr"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26464?exam_type=waec&type=obj&page=124",
+    "correct_answer": "B",
+    "explanation": "Total capacity of the container = 45 liters = 45 x 1000\n= 45000 cm\\(^3\\)\nTime to fill the container = \\(\\frac{45000}{2}\\)\n= 22500 seconds\n= \\(\\frac{22500}{3600}\\)\n= 6 hr 15 mins",
+    "year": "2000"
+  },
+  {
+    "number": "620",
+    "text": "The length of the parallel sides of a trapezium are 5cm and 7cm. If its area is 120cm\\(^2\\), find the perpendicular distance between the parallel sides",
+    "options": {
+      "A": "5.0cm",
+      "B": "6.9cm",
+      "C": "10.0cm",
+      "D": "20.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26465?exam_type=waec&type=obj&page=124",
+    "correct_answer": "D",
+    "explanation": "Area of trapezium = \\(\\frac{1}{2} (a + b)h\\)\n\\(120 = \\frac{1}{2} (5 + 7) \\times h\\)\n\\(120 = 6h\\)\n\\(h = 20 cm\\)",
+    "year": "2000"
+  },
+  {
+    "number": "621",
+    "text": "The arc of a circle 50 cm long, subtends angle of 75\u00b0\u00a0at the center of the circle. Find correct to 3 significant figures, the radius of the circle. Take \\(\\pi = \\frac{22}{7}\\)",
+    "options": {
+      "A": "8.74cm",
+      "B": "38.2cm",
+      "C": "61.2cm",
+      "D": "76.4cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26466?exam_type=waec&type=obj&page=125",
+    "correct_answer": "B",
+    "explanation": "Length of arc = \\(\\frac{\\theta}{360} \\times 2\\pi r\\)\n\\(50 = \\frac{75}{360} \\times 2 \\times \\frac{22}{7} \\times r\\)\n\\(r = \\frac{50 \\times 360 \\times 7}{75 \\times 2 \\times 22}\\)\n\\(r = \\frac{420}{11}\\)\n= 38.18 cm \\(\\approxeq\\) 38.2 cm (3 sig. figs)",
+    "year": "2000"
+  },
+  {
+    "number": "622",
+    "text": "In the diagram, |PQ| = |PS| Which of the following statements is true?",
+    "options": {
+      "A": "\u2220QPS = QRS",
+      "B": "|PO| = |RO|",
+      "C": "QR||PS",
+      "D": "\u2220PQR=\u2220PSR"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26467?exam_type=waec&type=obj&page=125",
+    "correct_answer": "D",
+    "explanation": "The given figure is a kite.\nHere are the properties of a kite:\nTwo Pairs of Adjacent Sides: A kite has two pairs of adjacent sides that are equal in length.Diagonals: The diagonals of a kite are perpendicular to each other. One diagonal bisects the other.Symmetry: A kite has one line of symmetry, which runs along the longer diagonal.Angles: The angles between the unequal sides are equal. Specifically, the angles opposite the equal sides are also equal.\nTherefore,\u00a0\u2220PQR = \u2220PSR\u00a0 is correct.",
+    "year": "2000"
+  },
+  {
+    "number": "623",
+    "text": "The area of a circle is 38.5cm2. Find its diameter [take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "22cm",
+      "B": "14cm",
+      "C": "7cm",
+      "D": "6cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26468?exam_type=waec&type=obj&page=125",
+    "correct_answer": "C",
+    "explanation": "\\(\\pi r^2\\) = 38.5\\(\\frac{22}{7}\u00a0r^2\\) = 38.5r\\(^2\\) = \\(\\frac{38.5 \\times 7}{22}\\)r = \\(\\sqrt{12.25}\\) = 3.5diameter = 2r = 2 x 3.5 = 7cm",
+    "year": "2000"
+  },
+  {
+    "number": "624",
+    "text": "Find the volume (in cm\\(^3\\)) of the solid shown above",
+    "options": {
+      "A": "100cm3",
+      "B": "150cm3",
+      "C": "175cm3",
+      "D": "250cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26469?exam_type=waec&type=obj&page=125",
+    "correct_answer": "C",
+    "explanation": "Total volume = (5 x 5) x 5 + (5 x 5) x 2\n= 125 + 50\n= 175 cm\\(^3\\)",
+    "year": "2000"
+  },
+  {
+    "number": "625",
+    "text": "Solve the equation 3 + 5x - 2x\\(^2\\) = 0",
+    "options": {
+      "A": "\\(-\\frac{1}{2},-3\\)",
+      "B": "2, 3",
+      "C": "-2, 3",
+      "D": "\\(-\\frac{1}{2},3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26470?exam_type=waec&type=obj&page=125",
+    "correct_answer": "D",
+    "explanation": "3 + 5x - 2x\\(^2\\) = 03 + 6x - x - 2x\\(^2\\) = 03(1 + 2x) - x(1 + 2x) = 0(3 - x)(1+2x) = 03 - x = 0 or 1 + 2x = 0\nx = 3 or x = \\(\\frac{-1}{2}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "626",
+    "text": "If the simple interest on N2000 after 9 months is N60, at what rate per annum is the interest charged?",
+    "options": {
+      "A": "\\(2\\frac{1}{4}\\)%",
+      "B": "4%",
+      "C": "5%",
+      "D": "6%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26471?exam_type=waec&type=obj&page=126",
+    "correct_answer": "B",
+    "explanation": "\\(I = \\frac{PRT}{100}\\)\n\\(R = \\frac{100I}{PT}\\)\n\\(R\u00a0= \\frac{100 \\times 60}{2000 \\times \\frac{3}{4}}\\)\n\\(R = \\frac{6000}{1500}\\)\n= 4%",
+    "year": "2000"
+  }
+]

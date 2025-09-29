@@ -1,0 +1,703 @@
+[
+  {
+    "number": "319",
+    "text": "Which of the following equimolar solutions will have the highest pH?",
+    "options": {
+      "A": "CH3COOH",
+      "B": "NaOH",
+      "C": "HCl",
+      "D": "NH4OH"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2953?exam_type=jamb&type=obj&page=64",
+    "correct_answer": "B",
+    "explanation": "Equimolar solution implies all the aqueous solutions have the same concentration.\nThe pH scale ranges from 0 to 14, with 7 being neutral.\u00a0Values below 7 indicate acidity, and values above 7 indicate basicity. Among all the aqueous solutions we have in the option, NaOH has the highest value, thus it has the highest pH.\nNaOH is a strong base, meaning it completely dissociates into ions (Na+ and OH-) in water, resulting in a high concentration of hydroxide ions (OH-) and a high pH.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "320",
+    "text": "Which of the following ions require the largest quantity of electricity for discharge at an electrode?",
+    "options": {
+      "A": "4.0 moles of Cl-",
+      "B": "3.0 moles of Na+",
+      "C": "2.5 moles of Cu2+",
+      "D": "2.0 moles of Al3+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2954?exam_type=jamb&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "To get the\u00a0quantity of electricity for discharge at an electrode for each ions, we multiply the number of electrons by the number of moles, since 1 mole = 1F\n4.0 moles of Cl\\(^-\\)\u00a0 \u2192 1e\\(^-\\) x\u00a0 4 = 4F3.0 moles of Na\\(^+\\)\u00a0 \u2192 3e\\(^-\\) x 1 = 3F2.5 moles of Cu\\(^{2+}\\) \u2192 2e\\(^-\\) x 2.5 = 5F2.0 moles of Al\\(^{3+}\\)\u00a0 \u2192 3e\\(^-\\) x 2\u00a0 = 6F.\u00a0 The Ions that require the largest quantity of electricity for discharge at an electrode is the Al\\(^{3+}\\).\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "321",
+    "text": "Phenolphthalein in acidic solution is",
+    "options": {
+      "A": "red",
+      "B": "orange",
+      "C": "colourless",
+      "D": "yellow"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2955?exam_type=jamb&type=obj&page=65",
+    "correct_answer": "C",
+    "explanation": "Phenolphthalein, a common acid-base indicator, remains\u00a0colourless\u00a0in acidic solutions but turns pink in basic solutions.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "322",
+    "text": "When iron is exposed to moisture and it rusts, the value of \u0394G for the reaction is",
+    "options": {
+      "A": "neutral",
+      "B": "zero",
+      "C": "positive",
+      "D": "negative"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2956?exam_type=jamb&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "The rusting of iron is a spontaneous reaction, meaning it occurs naturally without external energy input, as iron oxidizes to form rust (iron oxide) when exposed to oxygen and moisture. Although, it is a slow process, but\u00a0\u00a0there is an increase\u00a0in entropy (\u0394S)\u00a0as well as the emission of heat which makes it a spontaneous reaction as the resulting change in Gibbs free energy will be negative.i.e\u00a0\u0394G = - ve\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "323",
+    "text": "In which of the following reactions can the oxidation number of the nitrogen be said to have increased?",
+    "options": {
+      "A": "2NO(g) + O2(g) \u2192 2NO2(g)",
+      "B": "2NO(g) + Cl2(g) \u2192 2NOCl(l)",
+      "C": "FeSO4(aq) + NO(g) \u2192 Fe(NO)SO4(s)",
+      "D": "NO(g) + Br2(l) \u2192 2NOBr(l)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2957?exam_type=jamb&type=obj&page=65",
+    "correct_answer": "A",
+    "explanation": "In option A, the oxidation number of Nitrogen increased from +2 to +4.\nIn Option B, the oxidation number of Nitrogen decreased from +2 to +1 (Bearing in mind that the O.N of chlorine in\u00a0hypochlorate, OCl\\(^-\\)\u00a0is\u00a0+1)\nIn Option C, the oxidation number of Nitrogen decreased from +2 to +1\nIn Option D, the oxidation number of Nitrogen decreased from +2 to +1\u00a0(Bearing in mind that the O.N of bromine in\u00a0hypobromate\u00a0OBr\\(^-\\)\u00a0is\u00a0+1)\nTherefore, the answer is option A\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "324",
+    "text": "2H\\(_2\\) + O\\(_2\\) \u2192 2H\\(_2\\)O\u00a0 \u00a0 \u0394H = - 571kJ\nIn the equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+    "options": {
+      "A": "-1142 kJ",
+      "B": "-571 kJ",
+      "C": "+1142 kJ",
+      "D": "-1713 kJ"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2958?exam_type=jamb&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "2H\\(_2\\) + O\\(_2\\) \u2192 2H\\(_2\\)O\u00a0\u00a0 \u0394H = -571kJ\nFor Hydrogen, Number of moles = \\(\\frac{mass}{Molar mass}\\)\nStoichiometrically,\u00a0 \u00a0 \u00a0 \u00a02\u00a0 \u00a0 =\u00a0 \u00a0\\(\\frac{mass}{2}\\)\nMass of Hydrogen = 2 x 2 = 4gIf 4.0g of Hydrogen burns in O\\(_2\\)\u00a0to produce - 571 kJ of energy\u2234\u00a012.0g\u00a0of Hydrogen will burn in O\\(_2\\) to produce\u00a0 x kJ of energyx\u00a0 =\u00a0 \\(\\frac{{12}\\times{- 571}}{4}\\)\n=\u00a0 - 1713kJ\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "325",
+    "text": "A concentrated solution containing H\\(^+\\), Cu\\(^{2+}\\), OH\\(^-\\) and Cl\\(^-\\) was electrolyzed using platinum electrodes.\nThe ion that will be discharged at the cathode is?",
+    "options": {
+      "A": "Cu2+",
+      "B": "Cl-",
+      "C": "H+",
+      "D": "OH-"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2959?exam_type=jamb&type=obj&page=65",
+    "correct_answer": "A",
+    "explanation": "In the electrolysis of a concentrated solution containing H\\(^+\\), Cu\\(^{2+}\\), OH\\(^-\\) and Cl\\(^-\\) ions using platinum electrodes, the\u00a0Cu\\(^{2+}\\) ions\u00a0will be discharged at the cathode.\nDuring electrolysis, ions migrate towards the oppositely charged electrode.\u00a0Positive ions (cations) like H\\(^+\\) and Cu\\(^{2+}\\) will be attracted to the negative electrode (cathode).\nAt the cathode, the ion that is easier to reduce (requires less energy to gain electrons) will be discharged first.\u00a0In this case, Cu\\(^{2+}\\) ions are more easily reduced to Cu(s) than H\\(^+\\) ions are to H\\(_2\\)(g).\nThe reaction at the cathode will be the reduction of Cu\\(^{2+}\\) ions: Cu\\(^{2+}\\)(aq) + 2e\\(^-\\) \u2192 Cu(s).\nAnode reaction:The reaction at the anode will be the oxidation of water: 2H\\(_2\\)O(l) \u2192 O\\(_2\\)(g) + 4H\\(^+\\)(aq) + 4e-\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "326",
+    "text": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time, it eventually produces a solution of",
+    "options": {
+      "A": "NaHSO4",
+      "B": "Na2SO3",
+      "C": "NaHSO3",
+      "D": "Na2SO4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2960?exam_type=jamb&type=obj&page=66",
+    "correct_answer": "B",
+    "explanation": "When sulphur dioxide (SO\u2082) reacts with a solution of sodium hydroxide (NaOH),\u00a0it forms sodium sulphite (Na\u2082SO\u2083) and water (H\u2082O).\u00a0The balanced chemical equation for this reaction is: SO\u2082(g) + 2NaOH(aq) \u2192 Na\u2082SO\u2083(aq) + H\u2082O(l).\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "327",
+    "text": "What is the correct IUPAC name for NO\\(_{2} ^{-}\\)?",
+    "options": {
+      "A": "Dioxonitrate (IV) ion",
+      "B": "Trioxonitrate (III) ion",
+      "C": "Trioxonitrate (IV) ion",
+      "D": "Dioxonitrate (III) ion"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2961?exam_type=jamb&type=obj&page=66",
+    "correct_answer": "D",
+    "explanation": "NO\\(_{2} ^{-}\\) = - 1\nNO\\(_{2}\\) = - 1\nN + (-2 x 2) = - 1\nN - 4 = - 1\nN = - 1 + 4 = + 3\nIUPAC\u00a0name of\u00a0NO\\(_{2} ^{-}\\) is dioxonitrate(III) ion\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "328",
+    "text": "What will happen if an aluminium spoon is used to stir a solution of iron (II) trioxonitrates (V)?",
+    "options": {
+      "A": "The spoon will be oxidized while the iron (II) ions will be reduced to the metal",
+      "B": "The spoon will increase in size",
+      "C": "The spoon will be reduced while the iron (II) ions will be oxidized",
+      "D": "The spoon will be reduced"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2962?exam_type=jamb&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "When an aluminum spoon reacts with a solution of iron(II) trioxonitrate(V) (Fe(NO3)2),\u00a0aluminum, being more reactive than iron, displaces iron from its compound, resulting in the formation of solid iron and aluminum nitrate solution.\nThe chemical reaction can be represented as: 2Al(s) + 3Fe(NO\\(_3\\))\\(_2\\)(aq) \u2192 3Fe(s) + 2Al(NO\\(_3\\))\\(_3\\)(aq)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "329",
+    "text": "The enzymes responsible for converting sucrose into two simple isomeric sugars is",
+    "options": {
+      "A": "maltase",
+      "B": "amylase",
+      "C": "invertase",
+      "D": "lactase"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2963?exam_type=jamb&type=obj&page=66",
+    "correct_answer": "C",
+    "explanation": "The enzyme that converts sucrose into two simple sugars, glucose and fructose, is called\u00a0sucrase (also known as invertase).\nSucrase is a specific enzyme that catalyzes the hydrolysis (breaking down with water) of sucrose, a disaccharide (a sugar made of two monosaccharides), into its two constituent monosaccharides (simple sugars): glucose and fructose.\u00a0Invertase is another name for sucrase, and it is important in plants for metabolizing sucrose into simpler sugars for growth and energy.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "330",
+    "text": "The decolourization of purple colour of tetraoxomanganate (VII) ion is a test for",
+    "options": {
+      "A": "alkenes",
+      "B": "alkanols",
+      "C": "alkanals",
+      "D": "alkanes"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2964?exam_type=jamb&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "Alkenes decolourize potassium permanganate (KMnO\\(_4\\)) solution, a reaction used as a test for unsaturation, with the purple color of KMnO\\(_4\\) changing to a brown precipitate or a colorless solution depending on reaction conditions.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "331",
+    "text": "Which of the following are structural isomers?",
+    "options": {
+      "A": "propanoic acid and propan-1, 2-diol",
+      "B": "Propanal and propanone",
+      "C": "Ethanoic acid and propanoic acid",
+      "D": "Ethan-1, 2-diol and ethanoic acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2965?exam_type=jamb&type=obj&page=67",
+    "correct_answer": "B",
+    "explanation": "Isomers are two or more compounds having the same molecular formula but different structural formula.\nAmong the options given, only propanal and propanone have the same number of C atoms, Hydrogen atoms and Oxygen atoms even though they have different structural formulas, their molecular formulas are the same, hence they are Isomers.\nPropanal\u00a0- CH\\(_3\\)CH\\(_2\\)CHO\u00a0\u21d2 C\\(_3\\)H\\(_6\\)O\nPropanone - CH\\(_3\\)COCH\\(_3\\) \u21d2 C\\(_3\\)H\\(_6\\)O\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "332",
+    "text": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate (IV) solution is used to remove",
+    "options": {
+      "A": "water",
+      "B": "basic impurities",
+      "C": "acidic impurities",
+      "D": "ethoxyethane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2966?exam_type=jamb&type=obj&page=67",
+    "correct_answer": "C",
+    "explanation": "In the purification of ethyl ethanoate (ethyl acetate), Na\u2082CO\u2083 (sodium carbonate) solution is used\u00a0to neutralize any residual acidic impurities, such as ethanoic acid, that may be present in the crude ester product.\nDuring the esterification reaction (the process of making ethyl ethanoate), some ethanoic acid (acetic acid) might remain unreacted or be formed as a byproduct.\nSodium carbonate is a base, and it reacts with acids.\u00a0When Na\u2082CO\u2083 solution is added to the ethyl ethanoate, it neutralizes the ethanoic acid, forming sodium ethanoate (a salt) and carbon dioxide (CO\u2082).\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "333",
+    "text": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open-chain alkane?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "One"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2968?exam_type=jamb&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "Let's consider an example:\nCycloalkane\u00a0\u2192\u00a0 Cyclopropane has the formula\u00a0 CH\\(_2\\)-CH\\(_2\\)-CH\\(_2\\) (when drawn in a cyclic form) = C\\(_3\\)H\\(_6\\)\nOpen chain alkane\u00a0\u2192 Propane has the formula\u00a0 CH\\(_3\\)CH\\(_2\\)CH\\(_3\\) (when drawn on a straight chain) = C\\(_3\\)H\\(_8\\)\nComparing the two formulas;\u00a0C\\(_3\\)H\\(_6\\) and\u00a0C\\(_3\\)H\\(_8\\), the difference in the hydrogen atoms is two.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "334",
+    "text": "Equal moles of ethyne and hydrogen iodide react to give",
+    "options": {
+      "A": "CH2 = CH2",
+      "B": "CH2 - CHI",
+      "C": "CH3 - CI",
+      "D": "CH2 = CHI"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2969?exam_type=jamb&type=obj&page=67",
+    "correct_answer": "D",
+    "explanation": "Whenever equal moles of ethyne and hydrogen iodide react, the triple bond in ethyne is broken down to double bond in order to accommodate the hydrogen iodide coming in because it is an addition reaction.\nLet's consider the reaction below:\nH - C\u00a0\u2261 C - H\u00a0 \u00a0+\u00a0 \u00a0HI\u00a0\u2192\u00a0 H\\(_2\\)-C=CHI\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "335",
+    "text": "A substance that is used as a ripening agent for fruits is",
+    "options": {
+      "A": "ethene",
+      "B": "propene",
+      "C": "methane",
+      "D": "butane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2970?exam_type=jamb&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "- Ethene is a plant hormone which causes fruit to ripen.\n- Ethene is used routinely within the food industry to\u00a0provide controlled ripening during storage and transport\u00a0or when fruit is displayed in shops, in sealed packages.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "336",
+    "text": "When water boilers are used for long period of time, the solid substances left behind as scale are",
+    "options": {
+      "A": "magnesium trioxosilicate (IV) and rust",
+      "B": "magnesium trioxosilicate (IV) and calcium tetraoxosulphate (VI)",
+      "C": "clay and magnesium troxosulphate (IV)",
+      "D": "clay and rust"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2971?exam_type=jamb&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "The solid substances left behind as scale when water boilers are used in boiling water for a long period of time will contain Magnesium trioxosilicate(IV) and rust which is an indication that the water is hard water(temporary hardness of water, which upon boiling, Calcium and magnesium trioxocarbonate(IV) are formed on the ring\u00a0). The rust can occur because of the presence of oxygen and water.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "337",
+    "text": "25cm\\(^3\\) of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air?",
+    "options": {
+      "A": "2,500 cm3",
+      "B": "1250 cm3",
+      "C": "125 cm3",
+      "D": "80 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2972?exam_type=jamb&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "Noble gases, primarily argon, make up about\u00a01%\u00a0of Earth's atmosphere, with argon being the most abundant at 0.934%.\nVolume of noble gases in air mixture = % composition of noble gas X Total volume of air mixture\n25cm\\(^3\\)\u00a0 \u00a0=\u00a0 1% X V\\(_T\\)\n25cm\\(^3\\)\u00a0 \u00a0=\u00a0 \\(\\frac{1}{100}\\times\u00a0{V_T}\\)\n25cm\\(^3\\)\u00a0 \u00a0=\u00a0 \\(\\frac{V_T}{100}\\)\nV\\(_T\\) = 25 X 100\n\u2234\u00a0 \u00a0\u00a0V\\(_T\\) = 2,500cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "338",
+    "text": "The solubility curve shows the variation of solute concentration with",
+    "options": {
+      "A": "volume",
+      "B": "temperature",
+      "C": "vapour density",
+      "D": "pressure"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2973?exam_type=jamb&type=obj&page=68",
+    "correct_answer": "B",
+    "explanation": "A solubility curve graphically represents how the solubility of a solute (a substance that dissolves in a solvent) changes with temperature, showing the maximum amount of solute that can dissolve at a given temperature.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "339",
+    "text": "The air around smelting industries is likely to contain",
+    "options": {
+      "A": "H2S, CO and N2",
+      "B": "CO2, SO3 and H2",
+      "C": "H2, SO2 and CO2",
+      "D": "SO2, N2 and CO2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2974?exam_type=jamb&type=obj&page=68",
+    "correct_answer": "C",
+    "explanation": "Smelting\u00a0is a process of applying heat and a chemical reducing agents\u00a0to an ore\u00a0to extract a desired product.\nThe reducing agent is commonly a fossil-fuel\u00a0source of carbon, such as carbon monoxide\u00a0from incomplete combustion of coke. The oxygen in the ore binds to carbon at high temperatures, as the chemical potential energy\u00a0of the bonds in carbon dioxide\u00a0(CO\\(_2\\)) is lower than that of the bonds in the ore. The main\u00a0industrial\u00a0uses include fossil\u00a0fuel\u00a0processing and ammonia\u00a0production. Emerging uses for\u00a0hydrogen\u00a0include the use offuelcells to generate electricity\nSulphide ores such as those commonly used to obtain copper, zinc or lead, are roasted\u00a0before smelting in order to convert the sulphides to oxides, which are more readily reduced to the metal. Roasting heats the ore in the presence of oxygen from air, oxidizing the ore and liberating the sulphur as SO\\(_2\\) gas.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "340",
+    "text": "Kerosene is commonly used to remove the red colour stain of palm oil from cloths because it",
+    "options": {
+      "A": "helps to spread the oil over a larger surface area",
+      "B": "react with the oil to form an odourless compound",
+      "C": "makes the oil evaporate easily by dissolving it",
+      "D": "helps to dilute the oil and reduce its colour"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2975?exam_type=jamb&type=obj&page=68",
+    "correct_answer": "C",
+    "explanation": "kerosene can be used to dissolve oil stains on fabric, especially old or stubborn ones, as it acts as a solvent to lift the oil from the fabric. It\u00a0is a petroleum-based product that has solvent properties, meaning it can dissolve or break down oil and grease.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "341",
+    "text": "The gas that is the most dangerous pollutant to human is",
+    "options": {
+      "A": "sulphur (IV) oxide",
+      "B": "carbon (IV) oxide",
+      "C": "nitrogen (II) oxide",
+      "D": "hydrogen sulphide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2976?exam_type=jamb&type=obj&page=69",
+    "correct_answer": "D",
+    "explanation": "While both SO\\(_2\\) and H\\(_2\\)S are dangerous pollutants, H\\(_2\\)S (hydrogen sulphide) is generally considered more dangerous to humans, especially at high concentrations, due to its rapid and potentially lethal effects on the respiratory system and central nervous system.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "342",
+    "text": "Natural water collected from rivers and ponds contain oxygen, carbon (IV) oxide and",
+    "options": {
+      "A": "nitrogen",
+      "B": "hydrogen",
+      "C": "chlorine",
+      "D": "sulphur",
+      "E": "oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2977?exam_type=jamb&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "Pond water does contain nitrogen, in various forms like ammonia, nitrite, and nitrate, which are essential nutrients for aquatic life and play a crucial role in the pond's ecosystem.\nNitrogen enters ponds through various sources, including rainfall, wind, run-off from land, and the decomposition of organic matter like leaves, twigs, and fish waste.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "343",
+    "text": "How many moles of limestone will be required to produce 5.6g of CaO?\n[Ca = 40, C = 12, O= 16]",
+    "options": {
+      "A": "0.20 mol",
+      "B": "0.10 mol",
+      "C": "1.12 mol",
+      "D": "0.56 mol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2978?exam_type=jamb&type=obj&page=69",
+    "correct_answer": "B",
+    "explanation": "CaCO\\(_3\\) \u2192 CaO + CO\\(_2\\)CaCO\\(_3\\) = 40 + 12 + (16 x 3) = 100,\nCaO = 40 + 16 = 5656g\u00a0of CaO was produced by 100g of CaCO\\(_3\\)\u2234 5.6g of CaO will be produced by(5.6 x 100)/56 = 10g of CaCO\\(_3\\)\nRecall that Number of moles = \\(\\frac{mass}{molar mass}\\)\n= \\(\\frac{10}{100}\\)\n= 0.10mole\nAlternatively,\nCaCO\\(_3\\)\u00a0 \u00a0 \u2192\u00a0 \u00a0CaO\u00a0 \u00a0+\u00a0 \u00a0CO\\(_2\\)\nn =\u00a0\\(\\frac{m}{M}\\)\nn =\u00a0\\(\\frac{5.6}{56}\\)\nn = 0.10 mole\nSince the ratio of the reactant to product is 1 : 1, and the number of mole of CaO is 0.10mole, therefore, the number of mole of\u00a0CaCO\\(_3\\) will also be 0.10 mole, according to Avogadro's law.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "344",
+    "text": "The shape of the hydrocarbon compound CH\\(_4\\) is",
+    "options": {
+      "A": "square planar",
+      "B": "planar",
+      "C": "linear",
+      "D": "tetrahedral"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2979?exam_type=jamb&type=obj&page=69",
+    "correct_answer": "D",
+    "explanation": "Methane (CH\\(_4\\)) has a\u00a0tetrahedral shape\u00a0with four equivalent C-H bonds and bond angles of 109.5 degrees.\nThe tetrahedral shape of methane can be explained using the Valence Shell Electron Pair Repulsion (VSEPR) theory, which states that electron pairs around an atom will arrange themselves to minimize repulsion.\u00a0The carbon atom in methane undergoes sp3 hybridization, meaning that it combines one s orbital and three p orbitals to form four equivalent sp3 hybrid orbitals.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "345",
+    "text": "Which of these properties gives a solid its definite shape?",
+    "options": {
+      "A": "strong intermolecular attraction",
+      "B": "high melting point",
+      "C": "high boiling point",
+      "D": "weak intermolecular attraction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2980?exam_type=jamb&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "In solids, the particles (atoms, molecules, or ions) are closely packed together due to strong intermolecular forces.\u00a0These forces are strong enough to overcome the thermal energy of the particles, preventing them from moving freely.\nStrong intermolecular forces of attraction are primarily responsible for the definite shapes and volumes of solids\u00a0because they hold the constituent particles in fixed positions.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "346",
+    "text": "Sugar is separated from its impurities by",
+    "options": {
+      "A": "precipitation",
+      "B": "crystallization",
+      "C": "distillation",
+      "D": "evaporation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2981?exam_type=jamb&type=obj&page=70",
+    "correct_answer": "B",
+    "explanation": "Sugar can be separated from its impurities in a solution primarily through\u00a0crystallization, a process that allows for the separation of pure solute (sugar) from the solvent (water). Separation by evaporation\u00a0method can lead to sugar charring.\nCharring of sugar is\u00a0a chemical change which occurs when sugar is heated, causing it to evaporate, become foggy due to water vapor, and ultimately produce a black, powdery substance called charcoal.\u00a0This process involves the breakdown of sugar molecules into carbon, water, and other volatile compounds.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "347",
+    "text": "The component of an atom that contributes least to its mass is the",
+    "options": {
+      "A": "proton",
+      "B": "nucleus",
+      "C": "neutron",
+      "D": "electron"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2982?exam_type=jamb&type=obj&page=70",
+    "correct_answer": "D",
+    "explanation": "The electron is indeed the sub-particle of an atom that contributes the least to its mass, as its mass is significantly smaller compared to protons and neutrons, which make up the nucleus and thus account for the majority of an atom's mass.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "348",
+    "text": "An element will readily form an electrovalent compound if its electron configuration is",
+    "options": {
+      "A": "2, 8, 1",
+      "B": "2, 8, 4",
+      "C": "2, 8, 8",
+      "D": "2, 8, 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3088?exam_type=jamb&type=obj&page=70",
+    "correct_answer": "A",
+    "explanation": "Alkali metals readily form electrovalent\u00a0bonds\u00a0because they have a single valence electron that they easily lose, becoming positively charged ions, and readily react with nonmetals to form ionic compounds.\nOnly option A has the electronic configuration that fits the description of alkali metals; 2, 8, 1\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "349",
+    "text": "A heterogenous mixture can be defined as any mixture",
+    "options": {
+      "A": "of a solute and a solvent",
+      "B": "whose composition is uniform",
+      "C": "whose composition is not uniform",
+      "D": "formed by solids and liquids"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3092?exam_type=jamb&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "Aheterogeneous mixtureis a mixture in which the composition is not uniform. It\u00a0consists of two or more phases. When oil and water are combined, they do not mix evenly, but instead form two separate layers. Other examples include;\nSoil (containing sand, pebbles, and organic matter).\nBlood (containing red blood cells, white blood cells, platelets, and plasma).\nSand and water.\nVegetable soup (you can see the different vegetables and broth) etc\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "350",
+    "text": "The pressure of 100cm\\(^3\\) of oxygen at 35\\(^0\\)C is 750mmHg. What will be the volume of gas if the pressure is reduced to 100mmHg without changing the temperature?",
+    "options": {
+      "A": "650 cm3",
+      "B": "850 cm3",
+      "C": "580 cm3",
+      "D": "750 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3100?exam_type=jamb&type=obj&page=70",
+    "correct_answer": "D",
+    "explanation": "Given:\nV\\(_1\\) = 100 cm\\(^3\\)\u00a0 \u00a0 T\\(_1\\) = 35\\(^0\\)C\u00a0+ 273 = 308K\u00a0 \u00a0 \u00a0 P\\(_1\\) = 750\u00a0mmHg\nV\\(_2\\) = ?\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0T\\(_2\\) = 35\\(^0\\)C + 273 = 308K\u00a0 \u00a0 \u00a0 \u00a0 P\\(_2\\) = 100\u00a0mmHg\nAccording to Boyle's law, the volume of a given mass of gas is inversely proportional to pressure, provided temperature remains constant.\nSince temperature remains unchanged, it means\u00a0T\\(_1\\) =\u00a0T\\(_2\\), invariably meaning that temperature remains constant.\nSo, applying Boyle's law,\u00a0\u00a0P\\(_1\\) V\\(_1\\) =\u00a0P\\(_2\\)V\\(_2\\) ( At constant temperature)\nV\\(_2\\) = \\(\\frac{{P_1}{V_1}}{P_2}\\)\nV\\(_2\\) = \\(\\frac{{750}\\times{100}}{100}\\)\nV\\(_2\\) = 750cm\\(^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "351",
+    "text": "I. Treatment of cancer\nII. Detection of leakages in water mains\nIII. Detection of the ages of ancient tools\nIV. Preparation of drugs\nWhich combination of the above refers to the uses of radioactive isotopes?",
+    "options": {
+      "A": "I and III",
+      "B": "I and II",
+      "C": "I, II and III",
+      "D": "I, II, III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3217?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "Radioactive isotopes are used in the preparation of drugs, specifically in the form of radiopharmaceuticals, which are drugs containing radioactive isotopes used for both diagnosis and treatment of various medical conditions such as treatment of cancer.\nAlso,\u00a0\u00a0radioactive isotopes, acting as tracers, are used to detect leaks in water mains, with gamma-emitting isotopes added to the water, and their accumulation in the soil around a leak detected by radiation detectors.\nRadioactive isotopes, particularly carbon-14, are used in a method called radiocarbon dating to determine the age of ancient tools and other organic materials, up to approximately 60,000 years old.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "352",
+    "text": "What is the valence shell electron configuration of the element with atomic number 17?",
+    "options": {
+      "A": "1s2 2s2 2p6 3s2 3p4",
+      "B": "1s2 2s2 2p6 3s2 3p5",
+      "C": "2s2 2p6",
+      "D": "3s2 3p5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3221?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "It's important to take note of\"valence shell\"used in the presentation of the question.\nElectronic configuration and valence shell electronic configuration are not the same.\u00a0Electronic configuration describes the arrangement of all electrons in an atom, while valence shell electronic configuration focuses specifically on the electrons in the outermost shell, which are the valence electrons.\nHence; Option D carries\u00a0the answer as specified\u00a0in the question.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "353",
+    "text": "The density of a certain gas is 1.98gdm\\(^{-3}\\) at s.t.p. What is the molecular mass of the gas?",
+    "options": {
+      "A": "44.0 g",
+      "B": "54.0 g",
+      "C": "26.0 g",
+      "D": "31.0 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3227?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "A",
+    "explanation": "Density = \\(\\frac{mass}{volume}\\)\nRecall that the molar volume of gases at s.t.p = 22.4 dm\\(^3\\)\u2234 1.98 = \\(\\frac{mass}{22.4}\\)Mass = 1.98 x 22.4\nMolecular mass\u00a0= 44.35g\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "354",
+    "text": "When pure aluminium metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
+    "options": {
+      "A": "Al2N",
+      "B": "Al2N2",
+      "C": "AlN",
+      "D": "Al2N3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3229?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "C",
+    "explanation": "When pure aluminum metal is heated to red-hot in the presence of nitrogen gas,\u00a0it undergoes a chemical reaction, forming aluminum nitride (AlN).\nThe reaction can be represented by the following balanced chemical equation: 2 Al(s) + N\u2082(g) \u2192 2 AlN(s).\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "355",
+    "text": "A dense white fume is formed when ammonia gas reacts with",
+    "options": {
+      "A": "O2(g)",
+      "B": "H2(g)",
+      "C": "Cl2(g)",
+      "D": "HCl(g)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3230?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "When ammonia (NH\\(_3\\)) gas reacts with hydrogen chloride (HCl) gas,\u00a0they form solid ammonium chloride (NH\\(_4\\)Cl), observable as white fumes or clouds.\nThe reaction is a neutralization reaction where ammonia, acting as a base, accepts a proton (H+) from the acid, hydrogen chloride.\nNH\\(_3\\)(g) + HCl(g) \u2192 NH\\(_4\\)Cl(s)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "356",
+    "text": "N\\(_2\\)(g) + 3H\\(_2\\)(g) \u2194 2NH\\(_3\\)(g) \u0394H = - 90 kJ\nIn the equation above, the yield of ammonia can be decreased by",
+    "options": {
+      "A": "increasing the pressure",
+      "B": "removing the ammonia as it is formed",
+      "C": "increase the temperature",
+      "D": "adding a catalyst"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3231?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "Increasing temperature in the Haber process decreases the yield of ammonia\u00a0because the forward reaction is exothermic, and Le Chatelier's principle states\u00a0that increasing temperature shifts the equilibrium position towards the endothermic (reverse) direction, reducing ammonia production.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "357",
+    "text": "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is",
+    "options": {
+      "A": "hydrogen bromide",
+      "B": "Sulphur (IV) oxide",
+      "C": "hydrogen sulphide",
+      "D": "ammonia"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3232?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "Concentrated tetraoxosulphate(VI) acid, a hygroscopic liquid is a very strong drying agent as it absorbs moisture from the air, and becomes diluted to about three times its original volume. It can be used to dry all gases except ammonia and Hydrogen sulphide.\nConsequently, for drying SO\u2082 gas,\u00a0concentrated sulphuric acid\u00a0(H\u2082SO\u2084) is a suitable drying agent, as it effectively absorbs water vapour without reacting with the sulphur dioxide. On the contrary,\u00a0concentrated sulphuric acid (H\u2082SO\u2084) cannot be used to dry hydrogen bromide (HBr) gas\u00a0because it is a strong oxidizing agent that will react with HBr, oxidizing it to bromine (Br\u2082) and sulphur dioxide (SO\u2082).\nAlso,\u00a0H\u2082S cannot be dried using concentrated tetraoxosulphate(VI) acid\u00a0(H\u2082SO\u2084) because it reacts with H\u2082S, producing water, sulphur dioxide, and elemental sulphur, thus failing to serve its purpose of drying.\nAmmonia cannot be dried using concentrated sulfuric acid (tetraoxosulphate(VI) acid)\u00a0because they react to form ammonium sulfate, a solid, rather than drying the ammonia.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "358",
+    "text": "NH\\(_4\\)Cl(s) \u21cc NH\\(_3\\)(g) + HCl(g)\nThe reaction above can only attain equilibrium if",
+    "options": {
+      "A": "a gaseous reactant is added",
+      "B": "one of the products is removed",
+      "C": "it is in a closed system",
+      "D": "it is an open system"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3234?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "In a closed system, as a reaction proceeds, the concentrations of reactants and products change until the system reaches a state where the forward and reverse reactions are occurring at the same rate.\nReactions in a closed system naturally tend towards a state of equilibrium, where the rates of the forward and reverse reactions are equal, and the net change in concentrations of reactants and products is zero.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "359",
+    "text": "The most suitable metal that can be used as lightning conductor is?",
+    "options": {
+      "A": "silver",
+      "B": "copper",
+      "C": "iron",
+      "D": "aluminium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3238?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "In reality,silveractually has an even higherelectrical conductivitythancopper, butsilveris too expensive to use.\nSilver is indeed the best conductor of electricity among common metals, surpassing even copper.\u00a0Despite silver's superior conductivity, copper is the preferred choice for lightning conductors because it offers a good balance ofconductivityandaffordability.\nCopper is a highly suitable metal for use in lightning conductors due to its excellent electrical conductivity and resistance to corrosion.\u00a0It is a very good conductor of electricity, meaning it allows electric charges to flow through it easily.\u00a0This is crucial for a lightning conductor to safely conduct the electrical energy from a lightning strike to the ground.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "360",
+    "text": "In the diagram above which of the curves illustrates Arrhenius' law?",
+    "options": {
+      "A": "Y",
+      "B": "Z",
+      "C": "R",
+      "D": "X"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3239?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "D",
+    "explanation": "The graphical representation of the Arrhenius equation, which describes the temperature dependence of reaction rates, involves\u00a0plotting the natural logarithm of the rate constant (ln k) against the inverse of the absolute temperature (1/T), resulting in a straight line with a slope of -Ea/R and a y-intercept of ln A.\n(See an example above)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "361",
+    "text": "The most abundant element on the earth's crust is",
+    "options": {
+      "A": "nitrogen",
+      "B": "hydrogen",
+      "C": "oxygen",
+      "D": "fluorine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3267?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "C",
+    "explanation": "-\u00a0The air in Earth's atmosphere is made up of approximately\u00a078 percent nitrogen\u00a0and 21 percent oxygen. Air also has small amounts of lots of other gases, too, such as carbon dioxide, neon, and hydrogen.\nHOWEVER;\n-\u00a0Earth's crust is made up of several elements: oxygen,\u00a046.6 percent\u00a0by weight; silicon, 27.7 percent; aluminum, 8.1 percent; iron, 5 percent; calcium, 3.6 percent; sodium, 2.8 percent, potassium, 2.6 percent, and magnesium, 2.1 percent.\n- This\u00a0implies that Oxygen is\u00a0the most abundant element\u00a0(by mass) in the Earth's crust, making up almost half of the crust's mass\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "362",
+    "text": "Metalloids are also referred to as",
+    "options": {
+      "A": "semi-metals",
+      "B": "metals",
+      "C": "colloids",
+      "D": "non-metals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3268?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "Metalloids are also known as\u00a0semi-metals.\nMetalloids are elements that exhibit properties intermediate between those of metals and non-metals.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "363",
+    "text": "The ores that can be concentrated by flotation are",
+    "options": {
+      "A": "nitride ores",
+      "B": "sulphide ores",
+      "C": "oxide ores",
+      "D": "non-metals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3269?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "B",
+    "explanation": "Flotation, a common ore concentration method, is primarily used for concentrating\u00a0sulphide ores like those containing copper, lead, and zinc.\nFlotation excels at separating valuable minerals from sulphide ores because the process relies on the selective wetting of sulphide minerals by oil, which allows them to attach to air bubbles and float to the surface.\u00a0Common examples of sulphide ores concentrated by flotation include galena (PbS), zinc blende (ZnS), and copper pyrites (CuFeS\\(_2\\)).\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "364",
+    "text": "The property used in the industrial preparation of nitrogen and oxygen from air is?",
+    "options": {
+      "A": "rate of diffusion",
+      "B": "density",
+      "C": "boiling point",
+      "D": "solubility"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3270?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "C",
+    "explanation": "Fractional distillation of liquefied air, with Nitrogen\u00a0distilling as a vapor at a lower boiling point of -196\u00b0C while O2 is left as a liquid.\nIn the industrial preparation of nitrogen and oxygen from air, the process of fractional distillation is used. This process separates the components of air based on their boiling points.\nThe boiling points of the main components of air are:\n- Nitrogen (N\\(_2\\)): -195.8\u00b0C\n- Oxygen (O\\(_2\\)): -182.96\u00b0C\nBy cooling air to extremely low temperatures, the components can be separated based on their boiling points, allowing for the production of high-purity nitrogen and oxygen.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "365",
+    "text": "In a flame test for calcium, the flame appears",
+    "options": {
+      "A": "green when viewed through a blue glass",
+      "B": "blue when viewed through a blue glass",
+      "C": "orange -red when viewed through a blue glass",
+      "D": "brick-red when viewed through a blue-glass"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3271?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "When aCalciumcompound is heldina non-luminous Bunsenflameand viewed directlywiththe naked eye, it is seen as brick red,then as\u00a0light green as seen through blue glass.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "366",
+    "text": "Which of the following alloys contain iron?",
+    "options": {
+      "A": "Duralumin and steel",
+      "B": "Brass and bronze",
+      "C": "Steel and permalloy",
+      "D": "Soft solder and duralumin"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3272?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "C",
+    "explanation": "Iron is not a primary component of duralumin, but it is the primary component of steel alloys.\u00a0Duralumin is primarily an aluminum alloy, while steel is primarily an iron alloy.\nIron is not a primary or defining component of either brass or bronze alloys;\u00a0brass is primarily a copper-zinc alloy, while bronze is primarily a copper-tin alloy.\nPermalloy is a nickel\u2013iron magnetic alloy, with about 80% nickel and20% iron content.\nIron is generally not present in soft solder alloys, which are typically composed of tin and lead, or tin with other metals like silver or copper.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "367",
+    "text": "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be",
+    "options": {
+      "A": "passed over heated copper (II) oxide",
+      "B": "bubbled through water",
+      "C": "bubbled through concentrated tetroxosulphate (VI) acid",
+      "D": "bubbled through sodium hydroxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/3273?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "Carbon(II) oxide is prepared from Carbon(IV) oxide by passing\u00a0CO\\(_2\\) through red-hot carbon. Most of the\u00a0CO\\(_2\\) becomes reduced to CO. However, the uncharged\u00a0CO\\(_2\\) is removed by passing the mixture through concentrated NaOH, in order to collect the pure CO over water.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "2386",
+    "text": "The IUPAC nomenclature for the hydrocarbon above is",
+    "options": {
+      "A": "1,2 - dimethylprop-2-ene",
+      "B": "1,1- dimethylprop-2-ene",
+      "C": "2-methylbut-3-ene",
+      "D": "3-methylbut-1-ene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/72272?exam_type=jamb&type=obj&page=478",
+    "correct_answer": "D",
+    "explanation": "The IUPAC nomenclature for the hydrocarbon \u00a0is\u00a0\u00a03-methylbut-1-ene.\nFirst, identify the longest C- chain. The longest 4 Carbon atoms\u00a0\u2192 But-1-ene (because of the double bond on C-1 which depicts an ethene)\nSecondly, the substituent functional group methyl\u00a0CH\\(_3\\)\u00a0\u2192 3-methyl (because the methyl is on C-3 with reference from where the double bond counts from)\nLastly, add up step 2 and 1\u00a0\u2192 3-methyl but-1-ene.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  }
+]

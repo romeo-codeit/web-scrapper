@@ -1,0 +1,660 @@
+[
+  {
+    "number": "104",
+    "text": "Without using tables, evaluate \\((343)^{\\frac{1}{3}} \\times (0.14)^{-1} \\times (25)^{-\\frac{1}{2}}\\)",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "8",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2874?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "\\((343)^{\\frac{1}{3}} \\times (0.14)^{-1} \\times (25)^{-\\frac{1}{2}}\\)\n= \\(\\sqrt[3]{343} \\times (\\frac{14}{100})^{-1} \\times (\\sqrt{25})^{-1}\\)\n= \\(7 \\times \\frac{100}{14} \\times \\frac{1}{5}\\)\n= 10.",
+    "year": "2002"
+  },
+  {
+    "number": "105",
+    "text": "In a school, 220 students offer Biology or Mathematics or both. 125 offer Biology and 110 mathematics. How many offer Biology but not Mathematics?",
+    "options": {
+      "A": "95",
+      "B": "80",
+      "C": "125",
+      "D": "110"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2875?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "106",
+    "text": "Simplify 52.4 - 5.7 - 3.45 - 1.75",
+    "options": {
+      "A": "41.4",
+      "B": "41.5",
+      "C": "42.1",
+      "D": "42.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2876?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "52.4 - 5.7 - 3.45 - 1.75\n= 52.4 - (5.7 + 3.45 + 1.75)\n= 52.4 - 10.90\n= 41.5",
+    "year": "2002"
+  },
+  {
+    "number": "107",
+    "text": "Simplify \\((\\sqrt{0.7} + \\sqrt{70})^{2}\\)",
+    "options": {
+      "A": "84.7",
+      "B": "70.7",
+      "C": "217.7",
+      "D": "168.7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2877?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "\\((\\sqrt{0.7} + \\sqrt{70})^{2}\\)\n= \\((\\sqrt{0.7} + \\sqrt{70})(\\sqrt{0.7} + \\sqrt{70})\\)\n= \\(0.7 + 2\\sqrt{0.7 \\times 70} + 70\\)\n= \\(0.7 + 14 + 70 \\)\n= 84.7",
+    "year": "2002"
+  },
+  {
+    "number": "108",
+    "text": "Evaluate: \\(\\frac{0.21 \\times 0.072 \\times 0.00054}{0.006 \\times 1.68 \\times 0.063}\\)",
+    "options": {
+      "A": "0.01286",
+      "B": "0.01285",
+      "C": "0.1286",
+      "D": "0.1285"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2878?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{0.21 \\times 0.072 \\times 0.00054}{0.006 \\times 1.68 \\times 0.063}\\)\n= \\(\\frac{9 \\times 10^{-10}}{7 \\times 10^{-8}}\\)\n= \\(1.2857 \\times 10^{-2}\\)\n= \\(0.012857 \\approxeq 0.01286\\) (to 4 s.f)",
+    "year": "2002"
+  },
+  {
+    "number": "109",
+    "text": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
+    "options": {
+      "A": "60",
+      "B": "50",
+      "C": "45",
+      "D": "36"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2879?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "110",
+    "text": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
+    "options": {
+      "A": "2x2 - 3x",
+      "B": "x2 - 3x",
+      "C": "x2 - 3x - 3",
+      "D": "x2 - 3x + 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2880?exam_type=jamb&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2",
+    "year": "2002"
+  },
+  {
+    "number": "111",
+    "text": "Find the derivative of \\(y = \\sin^{2} (5x)\\) with respect to x.",
+    "options": {
+      "A": "10 sin 5x cos 5x",
+      "B": "5 sin5x cos 5x",
+      "C": "2 sin 5x cos 5x",
+      "D": "15 sin 5x cos 5x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3335?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "\\(y = \\sin^{2} (5x)\\)\nLet u = sin 5x\n\\(\\frac{\\mathrm d u}{\\mathrm d x} = 5 \\cos 5x\\)\n\\(\\therefore y = u^{2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d u} = 2u\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2u . 5 \\cos 5x\\)\n= \\(10u \\cos 5x\\)\n= \\(10 \\sin 5x \\cos 5x\\)",
+    "year": "2002"
+  },
+  {
+    "number": "112",
+    "text": "The slope of the tangent to the curve y = 3x\\(^2\\) - 2x + 5 at the point (1, 6) is",
+    "options": {
+      "A": "4",
+      "B": "1",
+      "C": "6",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3337?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "y = 3x\\(^2\\) - 2x + 5\nSlope = \\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x - 2\\)\nAt x = 1,\nSlope : 6(1) - 2 = 4.",
+    "year": "2002"
+  },
+  {
+    "number": "113",
+    "text": "Evaluate \\(\\int \\sin 3x \\mathrm d x\\)",
+    "options": {
+      "A": "(2/3) cos 3x + c",
+      "B": "(1/3) cos 3x + c",
+      "C": "(-1/3) cos 3x + c",
+      "D": "(-2/3) cos 3x + c"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3338?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "\\(\\int \\sin 3x \\mathrm d x = - \\frac{\\cos 3x}{3} + c\\)\n= \\(-\\frac{1}{3} (\\cos 3x) + c\\)",
+    "year": "2002"
+  },
+  {
+    "number": "114",
+    "text": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?",
+    "options": {
+      "A": "2\u03c0",
+      "B": "5\u03c0",
+      "C": "\u03c0",
+      "D": "4\u03c0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3341?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "A",
+    "explanation": "Area of the circle (A) = \\(\\pi r^{2}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d r} = 2\\pi r\\)\n\\(r = 5cm\\); \\(\\frac{\\mathrm d r}{\\mathrm d t} = 0.2\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = \\frac{\\mathrm d A}{\\mathrm d r} . \\frac{\\mathrm d r}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = 2\\pi \\times 5 \\times 0.2 = 2\\pi\\)",
+    "year": "2002"
+  },
+  {
+    "number": "115",
+    "text": "If \\(y = x^2 - \\frac{1}{x}\\). find dy/dx",
+    "options": {
+      "A": "2x - (1/x2)",
+      "B": "2x + x2",
+      "C": "2x - x2",
+      "D": "2x + (1/x2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3342?exam_type=jamb&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "\\(y = x^{2} - \\frac{1}{x} = x^{2} - x^{-1}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2x - (- x^{-2})\\)\n= \\(2x + \\frac{1}{x^{2}}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "116",
+    "text": "Solve for x in the equation x\\(^3\\) - 5x\\(^2\\) - x + 5 = 0",
+    "options": {
+      "A": "1, - 1, or 5",
+      "B": "1, 1, or -5",
+      "C": "-1, 1, or -5",
+      "D": "1, 1, or 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3345?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "x\\(^3\\) - 5x\\(^2\\) - x + 5 = 0.\n\\(x^{2}(x - 5) - 1(x - 5) = 0\\)\n\\((x^2 - 1)(x - 5) = 0 \\implies (x - 1)(x + 1)(x - 5) = 0\\)\n\\(\\therefore x = 1, -1, 5\\)",
+    "year": "2002"
+  },
+  {
+    "number": "117",
+    "text": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+    "options": {
+      "A": "15 days",
+      "B": "12 days",
+      "C": "5 days",
+      "D": "9 days"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3351?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "The time (t) to do the work is inversely proportional to the number of workers (n).\n\\(\\implies t \\propto \\frac{1}{n}\\)\n\\(t = \\frac{k}{n}\\)\n\\(5 = \\frac{k}{45} \\implies k = 45 \\times 5 = 225\\)\n\\(\\therefore t = \\frac{225}{n}\\)\nFor 25 men, \\(t = \\frac{225}{25} = 9\\)\n\\(\\therefore\\) 25 men will do the work in 9 days.",
+    "year": "2002"
+  },
+  {
+    "number": "118",
+    "text": "Find the range of values of x for which \\(\\frac{(x+2)}{4}\\) -\\(\\frac{2x-3}{3}\\) < 4",
+    "options": {
+      "A": "x > -6",
+      "B": "x > -3",
+      "C": "x < 8",
+      "D": "x < 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3352?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{x + 2}{4} - \\frac{2x - 3}{3}\\) < 4\n\\(\\frac{3(x + 2) - 4(2x - 3)}{12}\\) < 4\n3x + 6 - 8x + 12 < 48\n18 - 5x < 48 \\(\\implies\\) - 5x < 48 - 18\n-5x < 30 \\(\\implies \\)x > - 6",
+    "year": "2002"
+  },
+  {
+    "number": "119",
+    "text": "Find the maximum value of y in the equation y = 1 - 2x - 3x\\(^2\\)",
+    "options": {
+      "A": "5/4",
+      "B": "5/3",
+      "C": "3/4",
+      "D": "4/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3354?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "\\(y = 1 - 2x - 3x^2\\)\nAt maximum\u00a0point, \\(\\frac{\\mathrm d y}{\\mathrm d x} = 0\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = -2 - 6x\\)\n\\(-2 - 6x = 0 \\implies -2 = 6x\\)\n\\(x = -\\frac{1}{3}\\)\nAt x = \\(-\\frac{1}{3}\\), y = \\(1 - 2(-\\frac{1}{3}) - 3(-\\frac{1}{3})^{2}\\)\n= \\(1 + \\frac{2}{3} - \\frac{1}{3}\\)\n= \\(\\frac{4}{3}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "120",
+    "text": "If the 9th term of an A.P is five times the 5th term, find the relationship between a and d.",
+    "options": {
+      "A": "2a + 2 = 0",
+      "B": "3a + 5d = 0",
+      "C": "a + 3d = 0",
+      "D": "a + 2d = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3356?exam_type=jamb&type=obj&page=24",
+    "correct_answer": "C",
+    "explanation": "\\(T_{n} = a + (n - 1) d\\) (nth term of an AP).\n\\(T_{9} = 5T_{5}\\)\n\\(a + 8d = 5(a + 4d) \\implies a + 8d = 5a + 20d\\)\n\\(5a - a + 20d - 8d = 0 \\implies 4a + 12d = 0\\)\n\\(a + 3d = 0\\)",
+    "year": "2002"
+  },
+  {
+    "number": "121",
+    "text": "Make r subject of the formula given that \\(\\frac{x}{r+a}=\\frac{a}{r}\\)",
+    "options": {
+      "A": "\\(\\frac{a^{2}}{(x-a)}\\)",
+      "B": "\\(\\frac{a^{2}}{(x+a)}\\)",
+      "C": "\\(\\frac{a}{x-a}\\)",
+      "D": "\\(\\frac{a}{x+a}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3358?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{x}{r + a} = \\frac{a}{r}\\)\n\\(\\implies rx = ar + a^{2}\\)\n\\(rx - ra = a^{2} \\implies r = \\frac{a^2}{x - a}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "122",
+    "text": "The inverse function f(x) = 3x + 4 is",
+    "options": {
+      "A": "(x-4)/3",
+      "B": "(x-5)/5",
+      "C": "(x+3)/4",
+      "D": "(x+4)/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3360?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "Let y = f(x).\n\\(y = 3x + 4 \\implies x = \\frac{y - 4}{3}\\)\nReplace y with x.\n\\(y = \\frac{x - 4}{3} \\)",
+    "year": "2002"
+  },
+  {
+    "number": "123",
+    "text": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3367?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "-2 is the solution implies x = -2.\n2x + 1 - 3c = 2c + 3x - 7\n2(-2) + 1 - 3c = 2c + 3(-2) - 7\n-4 + 1 - 3c = 2c - 6 - 7\n-3 + 13 = 2c + 3c \\(\\implies\\) c = 2.",
+    "year": "2002"
+  },
+  {
+    "number": "124",
+    "text": "The binary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4).",
+    "options": {
+      "A": "59",
+      "B": "19",
+      "C": "67",
+      "D": "38"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3369?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "\\(p \\ast q = pq + p + q\\)\n\\(2 \\ast (3 \\ast 4) \\)\n\\(3 \\ast 4 = 12 + 3 + 4 = 19\\)\n\\(2 \\ast 19 = 38 + 2 + 19 = 59\\)",
+    "year": "2002"
+  },
+  {
+    "number": "125",
+    "text": "The sum to infinity of the series: 1 + (1/3) + (1/9) + (1/27) + ... is",
+    "options": {
+      "A": "11/3",
+      "B": "10/3",
+      "C": "5/2",
+      "D": "3/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3370?exam_type=jamb&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "The series is geometric with common ratio \\(\\frac{1}{3}\\).\n\\(S_{\\infty} = \\frac{a}{1 - r}\\)\n= \\(\\frac{1}{1 - \\frac{1}{3}} \\)\n= \\(\\frac{1}{\\frac{2}{3}}\\)\n= \\(\\frac{3}{2}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "126",
+    "text": "If x varies directly as \u221an and x = 9 when n = 9, find x when n = (17/9)",
+    "options": {
+      "A": "4",
+      "B": "27",
+      "C": "\u221a3",
+      "D": "\u221a17"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3372?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "\\(x \\propto \\sqrt{n}\\)\n\\(x = k \\sqrt{n}\\)\n\\(9 = k \\sqrt{9} \\implies 9 = 3k\\)\n\\(k = 3\\)\n\\(x = 3 \\sqrt{n}\\)\nWhen n = 17/9,\n\\(x = 3 \\times \\sqrt{\\frac{17}{9}} = \\sqrt{17}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "127",
+    "text": "A chord of a circle subtends an angle of 120\u00b0\u00a0degrees at the centre of a circle of diameter 4\u221a3 cm. Calculate the area of the major sector.",
+    "options": {
+      "A": "4\u03c0 cm2",
+      "B": "32 \u03c0 cm2",
+      "C": "16 \u03c0 cm2",
+      "D": "8 \u03c0 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3374?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "Diameter = 4\\(\\sqrt{3}\\) cm\nradius = 2\\(\\sqrt{3}\\) cm\nArea of major sector = \\(\\frac{\\theta}{360} \\times \\pi r^{2}\\)\n\\(\\theta = 360 - 120 = 240\u00b0\\)\n= \\(\\frac{240}{360} \\times \\pi \\times 12\\)\n= \\(8\\pi cm^{2}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "128",
+    "text": "If tan \u03b8 = 4/3, calculate sin\\(^2\\) \u03b8 - cos\\(^2\\) \u03b8.",
+    "options": {
+      "A": "16/25",
+      "B": "24/25",
+      "C": "7/25",
+      "D": "9/25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3375?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "\\(\\tan \\theta = \\frac{opposite}{adjacent} = \\frac{4}{3}\\)\nHyp\\(^2\\) = 4\\(^2\\) + 3\\(^2\\)\nHyp = 5.\n\\(\\sin \\theta = \\frac{4}{5}; \\cos \\theta = \\frac{3}{5}\\)\n\\(\\sin^{2} \\theta - \\cos^{2} \\theta = \\frac{16}{25} - \\frac{9}{25}\\)\n= \\(\\frac{7}{25}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "129",
+    "text": "Find the equation of the set of points which are equidistant from the parallel lines x = 1 and x = 7",
+    "options": {
+      "A": "y = 3",
+      "B": "x = 3",
+      "C": "x = 4",
+      "D": "y = 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3376?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "The line equidistant from x = 1 and x = 7 is\n\\(x = \\frac{1 + 7}{2} \\implies x = 4\\)",
+    "year": "2002"
+  },
+  {
+    "number": "130",
+    "text": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume.",
+    "options": {
+      "A": "304\u03c0/3 cm3",
+      "B": "144\u03c0 cm3",
+      "C": "128\u03c0 cm3",
+      "D": "72\u03c0 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3377?exam_type=jamb&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "Volume of a frustrum with top of radius R and bottom r and height h = \\(\\frac{1}{3} \\pi (R^{2} + Rr + r^{2})\\)\nV = \\(\\frac{1}{3} \\pi \\times 4 \\times (6^2 + 6 \\times 4 + 4^2)\\)\n= \\(\\frac{304}{3} \\pi cm^{3}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "131",
+    "text": "The sum of the interior angles of a polygon is 20 right angles. How many sides does the polygon have?",
+    "options": {
+      "A": "12",
+      "B": "20",
+      "C": "40",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3378?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "A",
+    "explanation": "The formula for the sum of the interior angles of a regular polygon = (2n - 4) x 90\u00b0\nGiven: Sum = 20 right angles\n(2n - 4) x 90\u00b0 = 20 \\times 90\u00b0\n\u21d2 2n - 4 = 20\n2n = 24; n = 12.",
+    "year": "2002"
+  },
+  {
+    "number": "132",
+    "text": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
+    "options": {
+      "A": "(2, 0)",
+      "B": "(1, -2)",
+      "C": "(-1, -2)",
+      "D": "(1, 2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3379?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "2y = 4x - 8\u00a0\\(\\implies\\) y = 2x - 4.\nWhen x = 0, y = -4.\nWhen y = 0, x = 2.\nThe midpoint between (0, -4) and (2, 0) = \\((\\frac{0 + 2}{2}, \\frac{-4 + 0}{2})\\)\n= \\((1, -2)\\)",
+    "year": "2002"
+  },
+  {
+    "number": "133",
+    "text": "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45\u00b0. if the distance between the hunter and the tree is 10.4 m, find the height of the tree.",
+    "options": {
+      "A": "9.0 m",
+      "B": "12. 0 m",
+      "C": "8.8 m",
+      "D": "10.4 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3380?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "\\(\\tan 45 = \\frac{x}{10.4}\\) = 10.4m\n\\(height of the tree is equal to 1.6m + 10.4m=12m\\)",
+    "year": "2002"
+  },
+  {
+    "number": "134",
+    "text": "A solid hemisphere has a radius of 7 cm. Find the total surface area.",
+    "options": {
+      "A": "400 cm2",
+      "B": "462 cm2",
+      "C": "66 cm2",
+      "D": "308 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3381?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "Total surface area of hemisphere = half of TSA of sphere + circumference of circle\n= \\(2\\pi r^{2} + \\pi r^{2} = 3\\pi r^{2}\\)\n= \\( 3 \\times \\frac{22}{7} \\times 7^{2} = 462cm^{2}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "135",
+    "text": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
+    "options": {
+      "A": "-4",
+      "B": "4",
+      "C": "8",
+      "D": "-8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3382?exam_type=jamb&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "2y - ax + 4 = 0 \\(\\implies\\) 2y = ax - 4.\ny + (x/4) - 7 = 0 \\(\\implies\\) y = -x/4 + 7\nSlope of line 1 = a/2\nSlope of line 2 = -1/4\n-1/4 x a/2 = -1 (product of the slope of two perpendicular lines = -1)\na/8 = 1 \\(\\implies\\) a = 8.",
+    "year": "2002"
+  },
+  {
+    "number": "136",
+    "text": "The locus of a point P which is equidistant from two given points S and T is",
+    "options": {
+      "A": "the perpendicular bisector of ST",
+      "B": "the angle bisector of PS and ST",
+      "C": "a perpendicular to ST",
+      "D": "a line parallel to ST"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3383?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "The locus of a point P\u00a0that is equidistant from two points S\u00a0and T is theperpendicular bisectorof the segment ST. This means that every point on this line is the same distance from both S\u00a0and T, effectively dividing the segment into two equal parts and forming a right angle with it.",
+    "year": "2002"
+  },
+  {
+    "number": "137",
+    "text": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3384?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "\\(Mean: \\frac{7 + (-3) + 4 + (-2) + 5 + (-9) + 4 + 8 + (-6) + 12}{10} = \\frac{20}{10}\\)\n= 2",
+    "year": "2002"
+  },
+  {
+    "number": "138",
+    "text": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "6",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3385?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "Range = Highest value - Lowest value\n= (k + 6) - (k - 5)\n= 11",
+    "year": "2002"
+  },
+  {
+    "number": "139",
+    "text": "The probability of a student passing any exam is 2/3. If the student takes three exams, what is the probability that he will not pass any of them?",
+    "options": {
+      "A": "2/3",
+      "B": "4/9",
+      "C": "8/27",
+      "D": "1/27"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3388?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "P(not passing exam) = \\(1 - \\frac{2}{3} = \\frac{1}{3}\\)\nP(not passing any of the three exams) = \\(\\frac{1}{3} \\times \\frac{1}{3} \\times \\frac{1}{3}\\)\n= \\(\\frac{1}{27}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "140",
+    "text": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
+    "options": {
+      "A": "108\u00b0",
+      "B": "180\u00b0",
+      "C": "36\u00b0",
+      "D": "60\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3390?exam_type=jamb&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "Total:\u00a02 + 5 + 3 + 11 + 9 = 30\nCassava: \\(\\frac{3}{30} \\times 360\u00b0 = 36\u00b0\\)",
+    "year": "2002"
+  },
+  {
+    "number": "141",
+    "text": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
+    "options": {
+      "A": "120",
+      "B": "10",
+      "C": "20",
+      "D": "60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3393?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "To get the answer, we simply do\n\\(\\frac{5!}{(5 - 3)!}\\)\n= \\(\\frac{5 \\times 4 \\times 3 \\times 2 \\times 1}{2 \\times 1}\\)\n= 60",
+    "year": "2002"
+  },
+  {
+    "number": "142",
+    "text": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
+    "options": {
+      "A": "105",
+      "B": "100",
+      "C": "95",
+      "D": "110"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3395?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "Let the sum of the first five numbers and the sixth number be x and t respectively.\n\\(\\frac{x + t}{6} = 60 \\implies x + t = 360\\)\n\\(\\frac{x}{5} = 50 \\implies x = 250\\)\n\\(\\therefore t = 360 - 250 = 110\\)",
+    "year": "2002"
+  },
+  {
+    "number": "143",
+    "text": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
+    "options": {
+      "A": "13/6",
+      "B": "5/2",
+      "C": "7/6",
+      "D": "7/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/3396?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "x7314978Total\\(x - \\bar{x}\\)-1-561-10\\(|x - \\bar{x}|\\)15611014\nMean : \\(\\frac{7 + 3 + 14 + 9 + 7 + 8}{6} = \\frac{48}{6} = 8\\)\nMean deviation : \\(\\frac{\\sum |x - \\bar{x}|}{n} = \\frac{14}{6} = \\frac{7}{3}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "157",
+    "text": "In the diagram above , XZ is the diameter of the circle XZW, with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ",
+    "options": {
+      "A": "54 cm2",
+      "B": "45 cm2",
+      "C": "27 cm2",
+      "D": "75 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7728?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "Since radius = \\(\\frac{15}{2}\\) diameter = 2 * (\\(\\frac{15}{2}\\)) = 15cmXYZ is a right-angled triangle (since <Y = 90\u00ba )\u2234 15\\(^2\\) = 12\\(^2\\) + (YZ)\\(^2\\)225 = 144 = (YZ)\\(^2\\)225 - 144 = (YZ)\\(^2\\)81 = (YZ)\\(^2\\)\\(\\sqrt{81}\\) = YZ9 = YZArea of \u0394XYZ = \\(\\frac{1}{2}\\)bh(\\(\\frac{1}{2}\\)\u00a0x\u00a09 x\u00a0129 x\u00a06 = 54= 54cm\\(^2\\)",
+    "year": "2002"
+  },
+  {
+    "number": "158",
+    "text": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
+    "options": {
+      "A": "0.38",
+      "B": "0.13",
+      "C": "0.50",
+      "D": "0.25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7734?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "479",
+    "text": "In the diagram above, PST is a straight line, PQ = QS = RS. If \u2220RST = 72o, find x",
+    "options": {
+      "A": "36o",
+      "B": "18o",
+      "C": "72o",
+      "D": "24o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10927?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "72\n3\no",
+    "year": "2002"
+  },
+  {
+    "number": "480",
+    "text": "In the diagram above are two concentric circles of radii r and R respectively with center O. If r = 2/3R, express the area of the shaded portion in terms of \u03c0 and R",
+    "options": {
+      "A": "21/25\u03c0R2",
+      "B": "9/25\u03c0R2",
+      "C": "21/23\u03c0R2",
+      "D": "5/9\u03c0R2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10928?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n5\n9\n2",
+    "year": "2002"
+  },
+  {
+    "number": "481",
+    "text": "In the diagram above, a cylinder is summounted by a  hemisphere bowl. Calculate the volume of the solid.",
+    "options": {
+      "A": "180 \u03c0cm3",
+      "B": "162 \u03c0cm3",
+      "C": "216 \u03c0cm3",
+      "D": "198 \u03c0cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10929?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "2\n2\n3\n2\n3\u03c0r3\n2\n3\n2\n2\n3",
+    "year": "2002"
+  },
+  {
+    "number": "482",
+    "text": "The triangle PQR above is",
+    "options": {
+      "A": "an obtuse-angled triangle",
+      "B": "a scalene triangle",
+      "C": "an isosceles triangle",
+      "D": "an equilateral triangle"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10930?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "C",
+    "explanation": "o\no",
+    "year": "2002"
+  },
+  {
+    "number": "483",
+    "text": "No. of days\n1\n2\n3\n4\n5\n6\n\n\nNo. of students\n20\nx\n50\n40\n2x\n60\n\n\n\n\nThe distribution above shows the number of days a group of 260 students were absents from school in a particular term. How many students were absent for at least four days in the term",
+    "options": {
+      "A": "210",
+      "B": "40",
+      "C": "120",
+      "D": "160"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10931?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "20 + X + 50 + 40 + 2X + 60 = 2603X + 170 = 2603X = 260 - 1703x = 90x = 30Absent for at least 4 days\n456402x60\ni.e 40 + 2x + 60 = 40 + (2 x 30) + 60= 40 + 60 + 60= 160",
+    "year": "2002"
+  }
+]

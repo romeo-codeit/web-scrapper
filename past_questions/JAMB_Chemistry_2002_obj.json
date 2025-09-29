@@ -1,0 +1,660 @@
+[
+  {
+    "number": "179",
+    "text": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formula of the compound?\n[K = 39, Cl = 35.5, O = 16]",
+    "options": {
+      "A": "KClO4",
+      "B": "KClO",
+      "C": "KClO2",
+      "D": "KClO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1740?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "180",
+    "text": "The formula CH\\(_2\\)O for ethanoic acid is regarded as its",
+    "options": {
+      "A": "Molecular formula",
+      "B": "General formula",
+      "C": "Empirical formula",
+      "D": "Structural formula"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1741?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "The empirical formula is the simplest whole number ratio of the number of atoms of each element in a substance.\u00a0In the case of ethanoic acid, the ratio of atoms is 1:2:1, as shown by the empirical formula CH\\(_2\\)O.\nThe molecular formula for ethanoic acid is C\\(_2\\)H\\(_4\\)O\\(_2\\).",
+    "year": "2002"
+  },
+  {
+    "number": "181",
+    "text": "A little quantity of trichloromethane (b.pt 60\\(^0\\)C) was added to a large quantity of ethanol (b.pt 78\\(^0\\)C). The most probable boiling point of the resultant mixture is from",
+    "options": {
+      "A": "69 oC - 70 oC",
+      "B": "70 oC \u2013 74 oC",
+      "C": "82 oC \u2013 84 oC",
+      "D": "60 oC \u2013 78 oC"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1742?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "C",
+    "explanation": "Trichloromethane (Chloroform) being in smaller quantity and ethanol being in large quantity means trichloromethane is the impurity while the ethanol is the pure substance. As we know, impurities in pure substances tend to increase their boiling point. Consequently, if the boiling point of ethanol (pure substance) is 78\\(^0\\)C, with the introduction of impurity (trichloromethane), the boiling point will increase from 78\\(^0\\)C. Among the options, the only temperature range that has a boiling point higher than\u00a078\\(^0\\)C is option C (82\u00a0-\u00a084\\(^0\\)C).",
+    "year": "2002"
+  },
+  {
+    "number": "182",
+    "text": "The chromatography separation of ink is based on the ability of the components to",
+    "options": {
+      "A": "React with solvent",
+      "B": "React with each other",
+      "C": "Dissolve in each other in the column",
+      "D": "Move at different speeds in the column"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1743?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "D",
+    "explanation": "Chromatographyis a laboratory technique for the separation of a mixture into its components.\u00a0A mixture is dissolved in a mobile phase, which is a liquid or gas that flows through a stationary phase, which is a solid or liquid.\u00a0The components of the mixture separate as they travel through the stationary phase because they have different affinities for it.\nThe chromatography separation of ink is based on the ability of the components tomove at different speeds in the column.",
+    "year": "2002"
+  },
+  {
+    "number": "184",
+    "text": "In the reaction E+F \u2194 G+H, the backward reaction is favoured if the concentration of",
+    "options": {
+      "A": "F is increased",
+      "B": "E is increased",
+      "C": "E is reduced",
+      "D": "G is reduced"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1745?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "C",
+    "explanation": "Le\u00a0Chatelier's\u00a0principle states that\u00a0if adynamic equilibriumis disturbed by changing the conditions, the position of equilibrium shifts to counteract the change to reestablish an equilibrium.\nFor the backward reaction to be favoured(LHS) , the concentration of one of the reactants must be reduced. i.e either E or F must be reduced. However, from the option, option C happens to be the one that fits in, as E is the only reactant reduced.",
+    "year": "2002"
+  },
+  {
+    "number": "185",
+    "text": "What amount of mercury would be liberated if the same quantity of electricity that liberates 0.65g of zinc is applied?",
+    "options": {
+      "A": "2.01g",
+      "B": "1.00g",
+      "C": "4.02g",
+      "D": "8.04g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1746?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "Zn\\(^{2+}\\) + 2e\\(^-\\) \u2192 Zn2F will be liberated 65g of Zn, if 0.65gm of Zn is liberated, the quantity of electricity usedX = (0.65/65) X 2= 0.02F\u2234 Hg\\(^{2+}\\) + 2e\\(^-\\) \u2192 Hgi.e 2F \u2192 201gm of Hg\u2234 0.02 will liberatedY = \\(\\frac{0.02}{2}\\) X\u00a0201= 2.01g",
+    "year": "2002"
+  },
+  {
+    "number": "186",
+    "text": "Which of the following equations show that a reaction is in equilibrium?",
+    "options": {
+      "A": "\u0394G < O",
+      "B": "\u0394G = \u0394H \u2013 T\u0394S",
+      "C": "\u0394G > O",
+      "D": "\u0394G = O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1747?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "D",
+    "explanation": "If delta G standard is zero, the system is at equilibrium at standard conditions. This timethe rate of the forward and reverse reaction is the same, and the system is at equilibrium.",
+    "year": "2002"
+  },
+  {
+    "number": "187",
+    "text": "PCl5(g) \u2194 PCl3(g) + Cl2(g)\nIn the reaction above, a decrease in pressure will",
+    "options": {
+      "A": "Decelerate the reaction",
+      "B": "Increase the yield of PCl3",
+      "C": "Increase the yield of PCl5",
+      "D": "Accelerate the reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1748?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "First, calculate the total number of number of moles of gaseous species only, on both sides.\ni.e\u00a0 1 mole on the LHS\u00a0 while 2 moles on RHS.\nAn increase in pressure will favour the side with the lesser value of the total number of moles while a decrease in pressure will favour the side with the higher number of moles i.e the RHS. Hence,increasing the\u00a0yield of PCl\\(_3\\).",
+    "year": "2002"
+  },
+  {
+    "number": "188",
+    "text": "When H\\(_2\\)S is passed into a solution of iron (III) chloride, the solution turns",
+    "options": {
+      "A": "Pale green",
+      "B": "Pale red",
+      "C": "Brown",
+      "D": "Colourless"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1749?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "A reaction between Iron (iii) chloride and Hydrogen sulphide leads to the reaction\n2FeCl\\(_3\\)(aq) + H\\(_2\\)S(g) \u2192 2FeCl\\(_2\\)(aq) + 2HCl(aq) + S(s)\nThe colour change is from REDDISH BROWN to PALE GREEN.",
+    "year": "2002"
+  },
+  {
+    "number": "189",
+    "text": "The Arrhenius equation expresses the relationship between the speed of a reaction and its",
+    "options": {
+      "A": "Molecular collision",
+      "B": "Heat of reaction",
+      "C": "Catalyst",
+      "D": "Activation energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1750?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "D",
+    "explanation": "Above is the Arrhenius equation. It is a relationship between speed and activation energy.",
+    "year": "2002"
+  },
+  {
+    "number": "190",
+    "text": "When dissolved in water, NaOH flakes show",
+    "options": {
+      "A": "An endothermic  change",
+      "B": "An exothermic change",
+      "C": "A slow reaction",
+      "D": "A rapid reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1751?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "When sodium hydroxide dissolves in water,the process is exothermicbecause the breaking of the ionic bonds in sodium hydroxide releases heat.",
+    "year": "2002"
+  },
+  {
+    "number": "191",
+    "text": "Cu\\(_2\\)S(s) + O\\(_2\\)(g) \u2192 2CU(s) + SO\\(_2\\)(g)\nWhat is the change in the oxidation number of copper in the reaction above?",
+    "options": {
+      "A": "+1 to 0",
+      "B": "0 to +2",
+      "C": "+2 to +1",
+      "D": "0 to +1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1752?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "Sulphur atom in\u00a0Cu\\(_2\\)S is - 2. Thus,\u00a0Cu\\(_2\\)S = 0\n2Cu + S = 0\n2Cu + (-2) = 0\n2Cu\u00a0 =\u00a0 2\n\\(\\frac{2Cu}{2}\\) =\u00a0\u00a0\\(\\frac{2}{2}\\)\nCu = +1\nOn the RHS, Cu atom has an oxidation state of 0. Therefore, there is a change in oxidation number of Copper from +1 to 0",
+    "year": "2002"
+  },
+  {
+    "number": "192",
+    "text": "The product of the electrolysis of dilute sodium hydroxide using platinum electrodes are",
+    "options": {
+      "A": "Hydrogen and oxygen gases",
+      "B": "Water and hydrogen gas",
+      "C": "Water and sodium metal",
+      "D": "Sodium metal and oxygen gas"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1753?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "The products of the electrolysis of dilute sodium hydroxide using platinum electrodes are hydrogen H\\(_2\\) at the cathode and oxygen (O\\(_2\\) at the anode.\nThis is because the reduction and oxidation of water\u00a0occurs to produce hydrogen at the cathode and oxygen at the anode.",
+    "year": "2002"
+  },
+  {
+    "number": "193",
+    "text": "The solubility of a salt of molar mass 101g at 20oC is 0.34 mol dm-3. If 3.40g of the salt is dissolved completely in 250cm3 of water in a beaker, the resulting solution is",
+    "options": {
+      "A": "A suspension",
+      "B": "Saturated",
+      "C": "Unsaturated",
+      "D": "Supersaturated"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1754?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "C",
+    "explanation": "o\n3\n3",
+    "year": "2002"
+  },
+  {
+    "number": "194",
+    "text": "Tetraoxosulphate (VI) acid burns the skin by",
+    "options": {
+      "A": "Hydrolysis",
+      "B": "Hydration",
+      "C": "Heating",
+      "D": "Dehydration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1755?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "D",
+    "explanation": "Tetraoxosulphate (VI) acid is highly corrosive\u00a0and causes damage bytissue dehydrationand heat production. Dark-brownish colored burns are usually observed",
+    "year": "2002"
+  },
+  {
+    "number": "195",
+    "text": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
+    "options": {
+      "A": "Efflorescence",
+      "B": "Deliquescence",
+      "C": "Effervescence",
+      "D": "Fluorescence"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1756?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "A salt that contains water of crystallization is called a hydrated salt.\u00a0The water molecules attached to the salt are called water of crystallization.\u00a0When a hydrated salt is exposed to air, it can lose its water of crystallization through evaporation.\u00a0This process is calledefflorescence.",
+    "year": "2002"
+  },
+  {
+    "number": "196",
+    "text": "Three drops of a 1.0 mol dm-3 solution of NaOH are added to 20 cm3 of a solution of pH 8.4. The pH of the resulting solution will?",
+    "options": {
+      "A": "Close to that of pure water",
+      "B": "Unaltered",
+      "C": "Greater than 8.4",
+      "D": "Less than 8.4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1757?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "A strong base is one that fully dissociates to give ions in solution. Weak bases only partially dissociate in a solution,\nwhile the strong bases dissociate fully in a solution.Weak bases have pH 7.3 \u2013 10, strong ones have pH 10 \u2013 14.",
+    "year": "2002"
+  },
+  {
+    "number": "197",
+    "text": "25cm\\(^3\\) of a 0.2 mol dm\\(^3\\) solution of Na\\(_2\\)CO\\(_3\\) requires 20 cm\\(^3\\) of a solution of HCl for neutralization. The concentration of the HCl solution is",
+    "options": {
+      "A": "0.5 mol dm3",
+      "B": "0.6 mol dm3",
+      "C": "0.2 mol dm3",
+      "D": "0.4 mol dm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1758?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "First, write a balanced chemical equation or the reaction:\nNa\\(_2\\)CO\\(_3\\) +\u00a0 2HCl\u00a0\u2192\u00a0 2NaCl\u00a0 +\u00a0 \u00a0H\\(_2\\)O +\u00a0 CO\\(_2\\)\nFrom the balanced equation, we can deduce that N\\(_A\\) = 2\u00a0,\u00a0N\\(_B\\) = 1\nWe were also given from the question, C\\(_A\\) = ?\u00a0 C\\(_B\\) = 0.2 mol/dm\\(^3\\)\u00a0 V\\(_A\\) = 20cm\\(^3\\)\u00a0 V\\(_B\\) = 25 cm\\(^3\\)\nUsing the relationship,\u00a0 \u00a0\\(\\frac{C_A\u00a0 V_A}{C_B V_B}\\) = \\(\\frac{N_A}{N_B}\\)\nC\\(_A\\) =\u00a0\\(\\frac{C_B V_B N_A}{V_A N_B}\\)\nC\\(_A\\) =\u00a0\u00a0\\(\\frac{0.2 X 25 X 2}{20 X 1}\\)\u00a0 =\u00a0 0.5 mol/dm\\(^3\\)",
+    "year": "2002"
+  },
+  {
+    "number": "198",
+    "text": "The substance least considered as a source of environmental pollution is",
+    "options": {
+      "A": "Lead compounds",
+      "B": "Organophosphorous compounds",
+      "C": "Silicate minerals",
+      "D": "Uranium"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1759?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "Lead compounds,\u00a0Organophosphorous compounds, and Uranium are considered\u00a0as sources of\u00a0pollution to the environment while Silicate minerals such as quartz, beryl, feldspar etc causes little impactation\u00a0on the environment in terms of pollution.",
+    "year": "2002"
+  },
+  {
+    "number": "199",
+    "text": "The furring of kettles is caused by the presence in the water of?",
+    "options": {
+      "A": "Calcium tetraoxosulphate (VI)",
+      "B": "Calcium hydrogentrioxocarbonate (IV)",
+      "C": "Calcium hydroxide",
+      "D": "Calcium trioxocarbonate (IV)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/1760?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "The furring of kettles or boilers - this is as a result of the decomposition of \\(Ca(HCO_3)_2\\) into \\(CaCO_3\\), and this\\(CaCO_3\\)\u00a0coats the inside of a kettle or boiler used in heating water containing dissolved \\(Ca(HCO_3)_2\\).\nWhen a kettle has been used to boil temporary hard water for quite some time, the inner surfaces become coated with a white fur-like layer. This layer (furring of the kettle) is due to the gradual deposition of calcium trioxocarbonate(IV), from the decomposition of Calcium hydrogentrioxocarbonate\u00a0(IV).",
+    "year": "2002"
+  },
+  {
+    "number": "200",
+    "text": "The property which makes alcohol soluble in water is the",
+    "options": {
+      "A": "boiling point",
+      "B": "hydrogen bonding",
+      "C": "ionic character",
+      "D": "covalent nature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2129?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "B",
+    "explanation": "The property that makes alcohol soluble in water is\u00a0hydrogen bonding, which occurs between the hydroxyl group in alcohol and water molecules.\u00a0The hydroxyl group in alcohol is hydrophilic, meaning it's \"water-loving\".\u00a0This group forms hydrogen bonds with water molecules, which makes alcohol soluble in water.",
+    "year": "2002"
+  },
+  {
+    "number": "201",
+    "text": "Steam changes the colour of anhydrous cobalt (II) chloride from",
+    "options": {
+      "A": "blue to pink",
+      "B": "white to red",
+      "C": "white to green",
+      "D": "blue to white"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2130?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "Steam changes the color of anhydrous cobalt (II) chloride from\u00a0blue to pink.",
+    "year": "2002"
+  },
+  {
+    "number": "202",
+    "text": "The gas that gives brown colouration in brown ring test is",
+    "options": {
+      "A": "NO",
+      "B": "CO2",
+      "C": "NO2",
+      "D": "CO"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2131?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "In the brown ring test, nitric oxide (NO) is produced when acidified iron (II) sulphate reacts with dilute nitric acid.\u00a0The nitric oxide then reacts with iron (II) to form a complex ion, which creates a brown ring at the junction of the two liquids.",
+    "year": "2002"
+  },
+  {
+    "number": "203",
+    "text": "Ethanol can easily be produced by",
+    "options": {
+      "A": "fermentation of starch",
+      "B": "distillation of starch solution",
+      "C": "catalytic oxidation of methane",
+      "D": "destructive distillation of wood"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2132?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "Ethanol may be produced by eithersynthetic chemical method or by fermentation of carbohydrate (Starch).",
+    "year": "2002"
+  },
+  {
+    "number": "204",
+    "text": "Which of the following gives a precipitate when treated with NaOH solution?",
+    "options": {
+      "A": "AlCl3",
+      "B": "NH4CL",
+      "C": "CH3COONa",
+      "D": "Na2CO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2133?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "The reaction of aluminum chloride, AlCl\\(_3\\) and sodium hydroxide (NaOH) produces a white precipitate of aluminum hydroxide Al(OH)\\(_3\\).",
+    "year": "2002"
+  },
+  {
+    "number": "205",
+    "text": "An example of element that can catenate is",
+    "options": {
+      "A": "bromine",
+      "B": "nitrogen",
+      "C": "chlorine",
+      "D": "carbon"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2134?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "D",
+    "explanation": "Catenation is the ability of an atom to form chains and rings by sharing electrons with other atoms of the same element.\u00a0Carbon has a high tendency to catenate because of the strength of its C\u2013C bonds.\u00a0Carbon's least diffuse valence shell p orbital allows it to form longer p-p sigma bonded chains of atoms than heavier elements.",
+    "year": "2002"
+  },
+  {
+    "number": "206",
+    "text": "The reaction of an alkene with hydrogen in the presence of catalyst is",
+    "options": {
+      "A": "a substitution reaction",
+      "B": "an oxidation reaction",
+      "C": "a nucleophilic reaction",
+      "D": "an addition reaction"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2135?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "When an alkene reacts with hydrogen in the presence of a catalyst, the reaction is called\u00a0hydrogenation.\nHydrogenation is anaddition reactionthat occurs when hydrogen gas is added to an alkene's double bond in the presence of a metal catalyst.\u00a0The reaction results in the formation of an alkane, which is a saturated compound.\nThe reaction is also known as catalytic hydrogenation because a catalyst is required for it to occur.\u00a0The catalyst lowers the activation energy of the reactants, which increases the reaction rate.",
+    "year": "2002"
+  },
+  {
+    "number": "207",
+    "text": "The number of isomers formed by C\\(_6\\)H\\(_{14}\\) is",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2136?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "B",
+    "explanation": "The five structural isomers of C\\(_6\\)H\\(_{14}\\), also known as hexane, are:\nn-hexane:\u00a0Has only primary and secondary carbon atoms2-methylpentane:\u00a0Has a single tertiary carbon atom3-methylpentane:\u00a0Has a tertiary carbon atom2,2-dimethylbutane:\u00a0Has two tertiary carbon atoms2,3-dimethylbutane:\u00a0Has two tertiary carbon atoms.",
+    "year": "2002"
+  },
+  {
+    "number": "208",
+    "text": "Which of these pairs are synthetic and natural macromolecules respectively?",
+    "options": {
+      "A": "Haemoglobin and nylon, creatine and polyethylene",
+      "B": "Nylon and polyethlene, creatine and Haemoglobin",
+      "C": "Nylon and creatine, polyethylene and haemoglobin",
+      "D": "Creatine and Polyethylene, nylon and haemoglobin"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2137?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "A macromolecule is a very large molecule, usually with a diameter of 100 to 10,000 angstroms (10\u22125 to 10\u22123 mm).\nNylon is asynthetic macromoleculethat's made up of repeating subunits called monomers.\u00a0It's created through a condensation polymerization reaction between adipic acid and hexamethylene diamine.\nPolyethylene is asynthetic polymer,which means it's made by scientists and engineers from petroleum oil.\nCreatine is a non-protein compound that is derived fromamino acids, and is produced in the body by the liver, kidneys, and pancreas.\u00a0It is also found in protein-rich foods like meat, fish, and milk.\nHemoglobin is a natural organic(natural)macromolecule.",
+    "year": "2002"
+  },
+  {
+    "number": "209",
+    "text": "Ordinary glass is manufactured from silica, CaCO3 and",
+    "options": {
+      "A": "Na2CO3",
+      "B": "K2CO3",
+      "C": "K2SO4",
+      "D": "NaHCO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2138?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "A",
+    "explanation": "Ordinary glass is made from sand(silica), limestone(CaCO\\(_3\\) and soda ash, Na\\(_2\\)CO\\(_3\\).",
+    "year": "2002"
+  },
+  {
+    "number": "210",
+    "text": "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into",
+    "options": {
+      "A": "CH3CH2CH2CH3",
+      "B": "CH2 = CH - CH2CH3",
+      "C": "HC\u2261CH",
+      "D": "CH3 - C = C - CH3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2139?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "Whenethyneis passed through anammoniacalsolution ofcopper(I)chloride, a red-brown precipitate ofcopper(I) acetylide is produced. Terminal alkynes alsoreactto form a red-brown precipitate",
+    "year": "2002"
+  },
+  {
+    "number": "211",
+    "text": "The boiling of fat and aqueous caustic soda is referred to as",
+    "options": {
+      "A": "hydrolysis",
+      "B": "esterification",
+      "C": "acidification",
+      "D": "saponification"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2140?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "Saponificationis a process that involves the conversion of fat, oil, or lipid, into soap and alcohol by the action of aqueous alkali.",
+    "year": "2002"
+  },
+  {
+    "number": "212",
+    "text": "The most important use of hydrogen is in the",
+    "options": {
+      "A": "manufacture of ammonia",
+      "B": "manufacture of methyl alcohol",
+      "C": "manufacture of ethyl alcohol",
+      "D": "hydrogenation of oils"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2141?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "The most important use of hydrogen is theammonia synthesis or manufacture\u00a0of ammonia(Haber process). The use of hydrogen is extending quickly in fuel refinement, like the breaking down by hydrogen (hydrocracking), and in sulphur elimination.",
+    "year": "2002"
+  },
+  {
+    "number": "213",
+    "text": "which of the following polymers is suitable for packaging and electrical insulation?",
+    "options": {
+      "A": "polyamide",
+      "B": "polyethene",
+      "C": "polycarbonate",
+      "D": "polystyrene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2142?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "Polyvinyl Chloride (PVC) and polyethylene (PE)\u00a0are polymers that are used for both packaging and electrical insulation.\nPolyethylene or polyethene (PE)\u00a0is a\u00a0popular plastic used for insulating cables, wires, bushings, and transformer components.\u00a0PE has excellent insulation properties and high dielectric strength. However,\u00a0Polyethylene is a good choice for packaging because it's non-toxic, food safe, and can be customized into many shapes and sizes.\u00a0It's also resistant to chemicals, UV light, and moisture, and can be reused while polystyrene is a good choice for electrical insulation because it has low thermal conductivity and prevents the flow of electrical current. Since polystyrene can serve both purposes, it's a better answer compared to polyethene.",
+    "year": "2002"
+  },
+  {
+    "number": "214",
+    "text": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
+    "options": {
+      "A": "Cu",
+      "B": "Na",
+      "C": "Au",
+      "D": "Ag"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2143?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "When alkali metals react with Hydrochloric acids. hydrogen gas is usually produced. Hence, Sodium belongs to the group of Alkali metals.\nNa\u00a0 +\u00a0 HCl\u00a0\u00a0\u2192\u00a0 NaCl\u00a0 +\u00a0 H\\(_2\\)",
+    "year": "2002"
+  },
+  {
+    "number": "215",
+    "text": "The intermediate product formed when ethanol is progressively oxidized to ethanoic acid with potassium heptaoxodichromate (IV) is",
+    "options": {
+      "A": "butanal",
+      "B": "ethanal",
+      "C": "methanal",
+      "D": "propanal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2144?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "The complete oxidation of ethanol to ethanoic acid is a stepwise process that involves the following steps:\nEthanol is oxidized toethanalWater adds an oxygen atom to ethanalEthanoic acid is formed.",
+    "year": "2002"
+  },
+  {
+    "number": "216",
+    "text": "A rock sample was added to cold dilute HNO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The sample contains",
+    "options": {
+      "A": "Cl-",
+      "B": "NO3-",
+      "C": "SO32-",
+      "D": "SO42-"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2145?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "Sulphur dioxide reacts with potassium dichromate and sulphuric acid to produce\u00a0potassium sulphqqqqqqqqqqqqqqqate, chromium(III) sulfate and water and the solution turns fromorange to green.",
+    "year": "2002"
+  },
+  {
+    "number": "217",
+    "text": "Which of the following statement is true of a proton?",
+    "options": {
+      "A": "The mass of a proton is 1840 times the mass of electron",
+      "B": "the total mass of the protons in a particular nucleus is always half the nuclear size",
+      "C": "The mass of a proton is one - twelfth the molar mass of carbon",
+      "D": "The mass of a proton is 1.0008g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2146?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "A",
+    "explanation": "The mass of a proton is1.6726\u00d710\u221224 g, while the mass of a proton =\u00a01.00727 a . m. u. so OPTION A is correct because the mass of an electron is \\(\\frac{1}{1840}\\) of that of a proton, which is the same as say\u00a0the mass of a proton is 1840 times the mass of an electron.",
+    "year": "2002"
+  },
+  {
+    "number": "218",
+    "text": "Which of the following chloride would exhibit the least ionic character?",
+    "options": {
+      "A": "MgCl2",
+      "B": "CaCl2",
+      "C": "LiCl",
+      "D": "AlCl3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2147?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "D",
+    "explanation": "Though all the salts in the options are chloride salts but the focus should be on the Metals that formed the chlorides. In terms of reactivity, Group I\u00a0metals(Li) are the most reactive, followed by Group II(Mg and Ca) and then group III (Al). Therefore, AlCl\\(_3\\) would exhibit the least ionic character, as the ionic bond formed is not as strong as those found in other options.\nAlso, most importantly, according to Fajan's Rule, the\u00a0greater\u00a0the charge on the cation, the greater will be the covalent character in the bond. Since, LiClhas low charge on cation(Li+), it has the most ionic character, while AlCl\\(_3\\) has a very high charge on Cation Al\\(^{3+}\\), it will exhibit the least ionic character.",
+    "year": "2002"
+  },
+  {
+    "number": "219",
+    "text": "A fixed mass of gas has a volume of 92\\(cm^3\\) at 3\u00baC. What\u00a0will be its volume at 18\u00baC if the pressure remains constant?",
+    "options": {
+      "A": "15.3cm3",
+      "B": "87.3cm3",
+      "C": "552.0cm3",
+      "D": "97.0cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2148?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "D",
+    "explanation": "According to Charle's law,\n\\(\\frac{V_1}{T_1}\\) =\\(\\frac{V_2}{T_2}\\)T\\(_1\\) = 3+273 = 276K\u00a0 and\u00a0T\\(_2\\) = 18 + 273 = 291K\u2234 \\(\\frac{92}{276}\\) = \\(\\frac{V_2}{291}\\)V\\(_2\\) =\u00a0\u00a0\\(\\frac{92}{291}\\) X 276= 97.0\\(cm^3\\)",
+    "year": "2002"
+  },
+  {
+    "number": "220",
+    "text": "The processes which return carbon (IV) oxide to the atmosphere include",
+    "options": {
+      "A": "respiration, decay and combustion",
+      "B": "photosynthesis, respiration and transpiration",
+      "C": "ozone depletion, combustion and decay",
+      "D": "photosynthesis, decay and respiration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2149?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "A",
+    "explanation": "Carbon(IV) oxide is returned to the atmosphere through various processes including combustion(\u00a0Burning fossil fuels, wood, or gasoline releases carbon dioxide into the atmosphere), respiration (All living organisms, including plants and animals, release carbon dioxide when they breathe.\u00a0This process is also known as cellular respiration), and decay(when organisms die, the process of decomposition breaks down complex carbon compounds into simpler ones. This process releases CO\\(_2\\) into the atmosphere).\nConversely,Photosynthesis is a process that removes\u00a0CO\\(_2\\) from the atmosphere and uses it to create carbohydrates and oxygen.",
+    "year": "2002"
+  },
+  {
+    "number": "221",
+    "text": "The postulate of Dalton's atomic theory which still holds is that",
+    "options": {
+      "A": "atoms can neither be created nor destroyed",
+      "B": "the particles of the same element are exactly alike",
+      "C": "particles of different elements combine in simple whole number ratio",
+      "D": "all elemets are made of small indivisible particles"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2150?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "Two postulates of Dalton's atomic theory that are still considered correct today are:\nAtoms of different elements have different masses and properties:\u00a0This is considered the most fundamental and important postulate.Matter is neither created nor destroyed in a chemical reaction:\u00a0This postulate reflects the Law of Conservation of Mass.\nAtom of an element cannot be created, divided, destroyed, or split into smaller particles or transformed into atoms of other elements or transformed into other atoms in a chemical reaction. They are simply rearrangement of new compound. Dalton\u2019s atomic theory based this hypothesis on the law of conservation of mass and on centuries of experimental evidence.",
+    "year": "2002"
+  },
+  {
+    "number": "222",
+    "text": "\\(^{14}\\) \\(_6\\)C \u2192 X +\u00a0\u03b2\nX in the equation above represents",
+    "options": {
+      "A": "126C",
+      "B": "125B",
+      "C": "147N",
+      "D": "136C"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2151?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "146C \u2192 X +\u00a0\u03b2\u2192 X + 0-1e\u2192 147X",
+    "year": "2002"
+  },
+  {
+    "number": "223",
+    "text": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in vessel with a total pressure of 0.7 atmosphere, what is the partial pressure of oxygen in the mixture",
+    "options": {
+      "A": "0.44 atmosphere",
+      "B": "0.22 atmosphere",
+      "C": "0.55 atmosphere",
+      "D": "0.33 atmosphere"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2152?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "Parameters given:\nNumber of moles of Cyclopropane, N\\(_c\\) = 0.75 mole\nNumber of moles of Oxygen, N\\(_o\\) = 0.66\u00a0mole\nTotal pressure of mixture of gases, P\\(_T\\) = 0.70 atm\nPartial pressure of Oxygen in the mixture, P\\(_O\\) = ?\nUsing the formula,\u00a0\u00a0P\\(_O\\) = \\(\\frac{N_o}{{N_o} + {N_c}}\\) X\u00a0P\\(_T\\)\n=\u00a0\\(\\frac{0.66}{{0.66} + {0.75}}\\) X 0.70\n=\u00a0\\(\\frac{0.66}{1.41}\\) X 0.70\n= 0.3276\n= 0.33 atm",
+    "year": "2002"
+  },
+  {
+    "number": "1634",
+    "text": "In the diagram above, the curve that represents the production of oxgyen gas from the decomposition of KCIO3 in the presence of MnO2 catalyst is",
+    "options": {
+      "A": "R",
+      "B": "P",
+      "C": "S",
+      "D": "Q"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31608?exam_type=jamb&type=obj&page=327",
+    "correct_answer": "A",
+    "explanation": "The decomposition of KClO\\(_3\\) in the presence of MnO\\(_2\\) catalyst changes solid to gas, which is a sublimation process, as Oxygen gas is produced.\nMnO\\(_2\\)\n2KClO\\(_3\\)\u00a0 \u00a0 \u00a0 \u00a0\u2192\u00a0 \u00a0 2KCl\u00a0 +\u00a0 3O\\(_2\\)\nDecreasing the pressure on a solid causes it to turn into a gas\u00a0through a process called sublimation. Thus, the effect of pressure on solid is negligible. Consequently, from the curve given in the question, it means pressure is constant as the decomposition reaction proceeds to completion.Therefore, the curve is represented by R.",
+    "year": "2002"
+  },
+  {
+    "number": "1635",
+    "text": "The major product of the dehydration of the compound above is?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31610?exam_type=jamb&type=obj&page=327",
+    "correct_answer": "D",
+    "explanation": "The dehydration of tertiary alcohols is relatively simple and can be achieved by heating the alcohol to a high temperature or using a catalyst. The dehydrated product is a mixture of alkenes, with or without carbocation rearrangement. Recall that dehydration process involves removal of a molecule of water. As a result,the OH in the tertiary alcohol will combine with one atom of H from the CH\\(_3\\) attached to the C atom carrying the OH group, to form water, thereby introducing a C=C.\nThe product of dehydrating a tertiary alcohol is\u00a0an alkene. Therefore, option D is the correct answer.",
+    "year": "2002"
+  },
+  {
+    "number": "1636",
+    "text": "The compound above is",
+    "options": {
+      "A": "glycol",
+      "B": "primary alkanol",
+      "C": "secondary alkanol",
+      "D": "tertiary alkanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31611?exam_type=jamb&type=obj&page=328",
+    "correct_answer": "C",
+    "explanation": "A secondary alcohol is\u00a0an organic compound where a hydroxyl group (-OH) is attached to a carbon atom that is bonded to two other carbon atoms.",
+    "year": "2002"
+  }
+]

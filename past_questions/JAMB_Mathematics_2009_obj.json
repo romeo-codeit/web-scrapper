@@ -1,0 +1,632 @@
+[
+  {
+    "number": "401",
+    "text": "If 55\\(_x\\) + 52\\(_x\\)\u00a0= 77\\(_{10}\\)\u00a0find X",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9304?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "C",
+    "explanation": "5 \\(\\times\\) x\\(^1\\)\u00a0\u00a0+ 5\u00a0\\(\\times\\) x\\(^0\\)\u00a0+ 5\u00a0\\(\\times\\) x\\(^1\\)\u00a0+ 2\u00a0\\(\\times\\) x\\(^0\\)\u00a0= 77\n(change all\u00a0 to base 10)5x\u00a0+ 5\u00a0+ 5x\u00a0+ 2\u00a0= 7710x\u00a0+ 7 = 7710x\u00a0= 77-710x\u00a0= 70x = 70/10x = 7\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "402",
+    "text": "Simplify \\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}\\)",
+    "options": {
+      "A": "4",
+      "B": "41/6",
+      "C": "45/6",
+      "D": "51/6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9305?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "C",
+    "explanation": "\\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}\\)\n= 5\\(\\left(\\frac{1-9+6}{12}\\right)\\)= 5\\(\\left(\\frac{-2}{12}\\right)\\)= 4\\(\\left(\\frac{12-2}{12}\\right)\\)(Carry one from 5 and call it 12)= \\(4\\frac{10}{12}\\)= 4\\(\\frac{5}{6}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "403",
+    "text": "Evaluate \\(\\frac{81.81+99.44}{20.09+36.16}\\) correct to 3 significant figures.",
+    "options": {
+      "A": "6.24",
+      "B": "3.22",
+      "C": "2.78",
+      "D": "2.13"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9306?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\\\=\\frac{181.25}{56.25}\\\\=\\frac{18125}{5625}\\\\\\frac{29}{9}\\\\=3\\frac{2}{9}\\\\\u2245 3.22\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "404",
+    "text": "A man bought a second-hand photocopying machine for N34,000. He serviced it\u00a0at a cost of\u00a0N2,000 and then sold it at a\u00a0profit of 15%. What was the selling price?",
+    "options": {
+      "A": "N37,550",
+      "B": "N40,400",
+      "C": "N41,400",
+      "D": "N42,400"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9307?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "C",
+    "explanation": "C.P = N34000 + N2000 = N36000Gain = 100 + 15 = 115%S.P = \\(\\frac{115}{100}\\times \\frac{N3600}{1}\\)= N41400\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "405",
+    "text": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
+    "options": {
+      "A": "7/15",
+      "B": "8/15",
+      "C": "2/5",
+      "D": "4/5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9308?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "C",
+    "explanation": "Let his allowance = y.\n\\(Books = \\frac{y}{5}\\)\n\\(Remainder: y - \\frac{y}{5} = \\frac{4y}{5}\\)\n\\(Food: \\frac{1}{2} \\times \\frac{4y}{5} = \\frac{2y}{5}\\)\n\\(Contingencies: \\frac{4y}{5} - \\frac{2y}{5} = \\frac{2y}{5}\\)\nTherefore, he kept \\(\\frac{2}{5}\\) of his allowance for contingencies.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "406",
+    "text": "If log\\(_{10}\\)2 = 0.3010 and log\\(_{10}\\)7 = 0.8451, evaluate log\\(_{10}\\)280",
+    "options": {
+      "A": "3.4471",
+      "B": "2.4471",
+      "C": "1.4471",
+      "D": "1.4071"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9310?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "B",
+    "explanation": "Log 2 = 0.3010, Log 7 = 0.8451\u2234Log 280 = Log 28 x 10= Log 7x4x10=Log7 + Log4 + Log10= Log7 + Log2\\(^2\\)\u00a0+ Log10= Log7 + 2Log2 + Log10= 0.8451 + 2(0.3010) + 1= 0.8451 + 0.6020 + 1= 2.4471\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "407",
+    "text": "Simplify \\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\)",
+    "options": {
+      "A": "17-\u221a7",
+      "B": "4-\u221a7",
+      "C": "15+\u221a7",
+      "D": "7-\u221a7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9311?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}=\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\times \\frac{3-\\sqrt{7}}{3-\\sqrt{7}}\\\\=\\frac{(5+\\sqrt{7})(3-\\sqrt{7})}{3^2 - \\sqrt{7}^2}\\\\=\\frac{15-5\\sqrt{7}+3\\sqrt{7}-7}{9-7}\\\\=\\frac{8-2\\sqrt{7}}{2}\\)Factorize then divide by 2\\(=\\frac{2(4-\\sqrt{7}}{2}\\\\=4-\\sqrt{7}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "408",
+    "text": "If x = {n\\(^2\\)+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5},\nY = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x \\(\\cap\\) y.",
+    "options": {
+      "A": "{5,10}",
+      "B": "{5, 10, 15}",
+      "C": "{2, 5, 10}",
+      "D": "{5, 10, 15, 20}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9312?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "A",
+    "explanation": "X = {n(^2\\)+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}Implies X = {2, 5, 10, 17, 26} i.e. put n= 1, 2, 3, 4 and 5Y = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}Put X = 1, 2, 3, 4, and 5Y = {5, 10, 15, 20, 25}X \\(\\cap\\) Y = {2, 5, 10, 17, 26} \\(\\cap\\) {5, 10, 15, 20, 25}= {5, 10}\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "409",
+    "text": "I.S\u2229T\u2229W=S II. S \u222a T \u222a W = W\nIII. T \u2229 W = S\nIf S\u2282T\u2282W, which of the above statements are true?",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9313?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "A",
+    "explanation": "If S \\(\\subset\\) T \\(\\subset\\) W,\nS \\(\\cap\\) T \\(\\cap\\) W = S is true since S \\(\\cap\\) T = S and S \\(\\cap\\) W = S.\nS \\(\\cup\\) T \\(\\cup\\) W = W is also true. S \\(\\cup\\) T = T and T \\(\\cup\\) W = W.\nHowever, to say that T \\(\\cap\\) W = S is not very true mathematically. Instead, it is safe to say S \\(\\subset\\) (T \\(\\cap\\) W).\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "410",
+    "text": "If \\(p=\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t?",
+    "options": {
+      "A": "\\(\\frac{p^2 t}{s^3}\\)",
+      "B": "\\(\\frac{p^3 t}{s^3}\\)",
+      "C": "\\(\\frac{p^3 t}{s^2}\\)",
+      "D": "\\(\\frac{p^ t}{s^3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9314?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "A",
+    "explanation": "\\(p =\\sqrt{\\frac{rs^3}{t}}\\\\=p^2 =\\frac{rs^3}{t}\\\\tp^2 = rs^3\\\\r = \\frac{p^2 t}{s^3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "411",
+    "text": "A polynomial in x whose roots are 4/3 and -3/5 is?",
+    "options": {
+      "A": "15x2 - 11x \u2013 12",
+      "B": "15x2 + 11x \u2013 12",
+      "C": "12x2 - x \u2013 12",
+      "D": "12x2 + 11x \u2013 15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9315?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "A",
+    "explanation": "If 4/3 and -3/5 are roots of a polynomialImply x = 4/3 and - 3/53x = 4 and 5x = -3\u22343x-4 = 0 and 5x+3 = 0 are factors(3x-4)(5x+3) = 0 product of the factors15x2 + 9x \u2013 20x \u2013 12 = 0 By expansion15x2 - 11x \u2013 12 = 0\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "412",
+    "text": "Which of the following equations represent the graph above?",
+    "options": {
+      "A": "y = 2+7x+4x2",
+      "B": "y = 2-7x+4x2",
+      "C": "y = 2+7x-4x2",
+      "D": "y = 2-7x-4x2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9316?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "D",
+    "explanation": "x = -2 and x = 1/4x = -2 and 4x = 1x+2 and 4x-1(x+2)(4x-1) = 04x2 - x + 8x -2 = 04x2 + 7x \u2013 2 = 0 but y intercept is positive. Multiply the equation by -1-4x2 - 7x + 2 = 0\u2234y = 2 \u2013 7x \u2013 4x2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "413",
+    "text": "W is directly proportional to U. If W\u00a0= 5 when U = 3, find U when W = 2/7",
+    "options": {
+      "A": "6/35",
+      "B": "10/21",
+      "C": "21/10",
+      "D": "35/6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9317?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "A",
+    "explanation": "W \u221d UW = KUK = \\(\\frac{W}{U}\\)K = \\(\\frac{5}{3}\\)W = \\(\\frac{5}{3}U\\)\\(\\frac{2}{7} = \\frac{5}{3}\\)UU = \\(\\frac{2}{7} \\times \\frac{3}{5}\\)U = \\(\\frac{6}{35}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "414",
+    "text": "Determine the value of x for which (x\\(^2\\) - 1) > 0?",
+    "options": {
+      "A": "x < -1 or x > 1",
+      "B": "-1 < x < 1",
+      "C": "x > 0",
+      "D": "x < -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9318?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\) > 0(x+1)(x-1) > 0x = 1 or -1\nx < -1 or x\u00a0>\u00a01\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "415",
+    "text": "Find the range of values of x for which 3x - 7 \\(\\leq\\) 0 and x + 5 > 0?",
+    "options": {
+      "A": "-5 < x < \\(\\frac{7}{3}\\)",
+      "B": "-5 \\(\\leq\\) x \\(\\leq\\) \\(\\frac{7}{3}\\)",
+      "C": "-5 < x \\(\\leq\\) \\(\\frac{7}{3}\\)",
+      "D": "-5 \\(\\leq\\) x < \\(\\frac{7}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9319?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "C",
+    "explanation": "3x - 7 \\(\\leq\\) 0 and x + 5 > 03x \\(\\leq\\) 7 and x > -5x \\(\\leq\\) \\(\\frac{7}{3}\\)\u2234 Range -5 < x \\(\\leq\\) \\(\\frac{7}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "416",
+    "text": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is?",
+    "options": {
+      "A": "n(3n - 0.5)",
+      "B": "n(3n + 2)",
+      "C": "n(3n + 2.5)",
+      "D": "n(3n + 5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9320?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "B",
+    "explanation": "a = 5, d = 6, n = nSn = n/2(2a + (n-1)d)= n/2(2(5) + (n-1)6)= n/2(10 + 6n-6)= n/2(6n+4)= 6n2/2 + 4n/2= 32 + 2n= n(3n + 2)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "417",
+    "text": "Find to infinity, the sum of the sequence \\(1, \\frac{9}{10}, \\left(\\frac{9}{10}\\right)^2, \\left(\\frac{9}{10}\\right)^3,.....\\)",
+    "options": {
+      "A": "10",
+      "B": "9",
+      "C": "10/9",
+      "D": "9/10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9321?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "A",
+    "explanation": "a = 1, r =\\(\\frac{9}{10}\\)S\\(_n\\)\u00a0 = \\(\\frac{a}{1 - r}\\)S\\(_n\\) = \\(\\frac{1}{1-\\frac{9}{10}}\\)= 1\\(\\div \\frac{1}{10}\\)=1\\(\\times \\frac{10}{1}\\) = 10",
+    "year": "2009"
+  },
+  {
+    "number": "418",
+    "text": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
+    "options": {
+      "A": "-6",
+      "B": "-8",
+      "C": "-10",
+      "D": "-12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9322?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "C",
+    "explanation": "m * n = n - (m+2)= -5 - (3+2)= -5-5= -10\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "419",
+    "text": "A binary operation \u2297 defined on the set of integers is such that m\u2297n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0?",
+    "options": {
+      "A": "-5/4",
+      "B": "-5/6",
+      "C": "zero",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9323?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "A",
+    "explanation": "\\(m \\otimes n = m + n + mn\\)\nLet the inverse of -5 be n.\n\\(\\therefore -5 \\otimes\u00a0n\u00a0= 0\\)\n\\(-5 + n\u00a0+ (-5n) = 0\\)\n\\(n - 5n = 5 \\implies -4n = 5\\)\n\\(n = -\\frac{5}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "420",
+    "text": "If Q is\\( \\left[ \\begin{array}{cc}\n9 & -2 \\\\\n-7 & 4 \\\\\n\\end{array} \\right]\\) , then |Q| is?",
+    "options": {
+      "A": "-50",
+      "B": "-22",
+      "C": "22",
+      "D": "50"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9324?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "C",
+    "explanation": "Q = \\( \\left[ \\begin{array}{ccc}9 & -2 \\\\-7 & 4 \\\\\\end{array} \\right]\\)|Q| = 9x4 - (-2\u00a0x -7)= 36 - 14= 22\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "421",
+    "text": "If P \\(=\\left[\\begin{array}{cc}x+3 & x+2\\\\\nx+1 & x-1\\end{array}\\right]\\) evaluate x if |P| = -10",
+    "options": {
+      "A": "-5",
+      "B": "-2",
+      "C": "2",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9325?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "D",
+    "explanation": "\\(P=\\left[\\begin{array}{cc}x+3 & x+2\\\\x+1 & x-1\\end{array}\\right]\\) evaluate x if |P| = -10(x+3)(x-1) - {(x+1)(x+2)} = -10x2 - x + 3x - 3 - {x2 + 2x + x + 2} = -10x2 + 2x - 3 - {x2 + 3x + 2} = -10-x - 5 = -10-5 + 10 = x5 = x\u2234x = 5\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "422",
+    "text": "Find the acute angle between the straight lines y = x and y = \u221a3x",
+    "options": {
+      "A": "15o",
+      "B": "30o",
+      "C": "45o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9326?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "A",
+    "explanation": "1\n2\n-1\no\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "423",
+    "text": "A regular polygon has 150\u00ba\u00a0as the size of each interior angle. How many sides does it have?",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "9",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9327?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "A",
+    "explanation": "Sum of interior angles of a polygon = each interior \u2220 x n(n-2)180 = 150 x n180n - 360 = 150n180n-150n = 36030n = 360n = 360/30n = 12 sides\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "424",
+    "text": "In the figure above , TS//XY\u00a0and XY = TY, \u2220STZ = 34\u00b0, \u2220TXY = 47\u00b0, find the angle marked n?",
+    "options": {
+      "A": "47o",
+      "B": "52o",
+      "C": "56o",
+      "D": "99o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9328?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "B",
+    "explanation": "In \u0394 TYXXY = TY \u2234y =47\u00b0\u00a0base \u2220s of ISC\u0394But y+x+34+47 = 180 interioropposite \u2220s are supplementary47 + x + 34 + 47 = 180x + 128= 180x = 180- 128x = 52\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "425",
+    "text": "If the hypotenuse of a right-angled\u00a0isosceles triangle is 2cm. What is the area of the triangle?",
+    "options": {
+      "A": "1/\u221a2 cm2",
+      "B": "1 cm2",
+      "C": "\u221a2 cm2",
+      "D": "2\u221a2 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9329?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "B",
+    "explanation": "X\\(^2\\)\u00a0+ x\\(^2\\)\u00a0= 2\\(^2\\)2x\\(^2\\)\u00a0= 4x\\(^2\\)\u00a0= 4/2x\\(^2\\)\u00a0= 2x = +/-\u221a2Area of \u0394 = 1/2bh= 1/2 x \u221a2 x \u221a2= 2/2= 1 cm\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "426",
+    "text": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
+    "options": {
+      "A": "7cm",
+      "B": "9cm",
+      "C": "12cm",
+      "D": "24cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9330?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "x\\(^2\\)\u00a0+ 5\\(^2\\)\u00a0= 13\\(^2\\)x\\(^2\\)\u00a0+ 25 = 169x\\(^2\\)\u00a0= 144x = \u221a\u00a0144= 12Length of the chord AB = 2x2\\(\\times\\)12= 24cm\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "427",
+    "text": "Find the radius of a sphere whose surface area is 154 cm\\(^2\\)?",
+    "options": {
+      "A": "7.00 cm",
+      "B": "3.50 cm",
+      "C": "3.00 cm",
+      "D": "1.75 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9331?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "B",
+    "explanation": "Surface Area of a sphere = 4\\(\\pi\\)r\\(^2\\)\nS.A of a sphere = 154 = 4 x \\(\\frac{22}{7}\\) x\u00a0r\\(^2\\)\nr\\(^2\\) = \\(\\frac{154 \\times 7}{4 \\times 22}\\)\nr\\(^2\\) = \\(\\frac{49}{4}\\)\nr = \\(\\sqrt{\\frac{49}{4}}\\)\nr = \\(\\frac{7}{2}\\)\nr = 3.5cm.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "428",
+    "text": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
+    "options": {
+      "A": "x + y = 0",
+      "B": "x - y = 0",
+      "C": "x + y + k = 0",
+      "D": "x - y - k = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9332?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "B",
+    "explanation": "Locus of a particle which moves in the first quadrant so that it is equidistant from the linesX = 0 and Y = 0\u00a0are the x and y axes as the lines bisecting the angle between x and y axes.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "429",
+    "text": "What is the locus of\u00a0the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
+    "options": {
+      "A": "A circle of radius 4 cm and the center 0",
+      "B": "The perpendicular bisector of the chords",
+      "C": "A straight line passing through 0",
+      "D": "A circle of radius 6 cm and with center 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9333?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\)\u00a0+ 3\\(^3\\)\u00a0= 5\\(^2\\)x\\(^2\\)\u00a0+ 9 = 25x\\(^2\\)\u00a0= 25 \u2013 9x\\(^2\\)\u00a0= 16x = \u221a\u00a016= 4 cm\u2234 The locus is a circle of radius 4 cm with the center O\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "430",
+    "text": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is  23?",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9334?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "Gradient =y2- y1x2- x1\n23=4-pp-(-1)\n23=4-pp+1\np =105\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "431",
+    "text": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9335?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "B",
+    "explanation": "A(4,2) and B(1,r), AB = 3 units3 = \u221a (x2- x1)2 + (y2-y1)23 = \u221a (4-1)2 + (2-r)23 = \u221a 32 + (2-r)23 = \u221a 9 + 4 \u2013 4r + r23 = \u221a r2 - 4r + 139 = r2 - 4r + 13 By squaring both sidesr2 - 4r + 4 = 0(r-2)(r-2) = 0r = 2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "432",
+    "text": "If y = 3 cos 4x, dy/dx equals?",
+    "options": {
+      "A": "6 sin 8x",
+      "B": "-24 sin 4x",
+      "C": "12 sin 4x",
+      "D": "-12 sin 4x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9337?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "D",
+    "explanation": "y = 3 cos 4x\nApplying product rule:\n\\(\\frac{dy}{dx}\\) = u\\(\\frac{dv}{dx}\\) + v\\(\\frac{du}{dx}\\)\nWhere u = 3 and v = cos 4x\n\\(\\frac{du}{dx}\\) of 3 = 0 and\n\\(\\frac{dv}{dx}\\) of cos 4x = -4sin 4x\n\\(\\frac{dy}{dx}\\)\u00a0= 3 \\(\\times\\)\u00a0-4 sin 4x\u00a0 +\u00a0 \u00a0cos 4x \\(\\times\\) 0\n\\(\\frac{dy}{dx}\\) = -12 sin 4x\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "433",
+    "text": "Find the value of sin 45\u00b0\u00a0- cos 30\u00b0",
+    "options": {
+      "A": "\\(\\frac{2+\\sqrt{3}}{4}\\)",
+      "B": "\\(\\frac{\\sqrt{2}+\\sqrt{3}}{4}\\)",
+      "C": "\\(\\frac{\\sqrt{2}+\\sqrt{3}}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9358?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "D",
+    "explanation": "\\(Sin 45 - cos 30\\\\\\frac{\\sqrt{2}}{2}-\\frac{\\sqrt{3}}{2}\\\\=\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "434",
+    "text": "A cliff on the bank of a river is 300 meter high. if the angle of depression of a point on the opposite side of the river is 60\u00ba, find the width of the river?",
+    "options": {
+      "A": "100m",
+      "B": "75\u221a3 m",
+      "C": "100\u221a3m",
+      "D": "200\u221a3m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9359?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "Tan 60 =300x\nx =300Tan 60\nx =300\u221a3\nx = (300/\u221a3) x (\u221a3/\u221a3)\nx =300\u221a3.....3\nx = 100\u221a3\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "435",
+    "text": "If s = (2 + 3t)(5t - 4), find ds/dt when t = \\(\\frac{4}{5}\\) secs",
+    "options": {
+      "A": "0 units per sec",
+      "B": "15 units per sec",
+      "C": "22 unit per sec",
+      "D": "26 units per sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9360?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "x = (2+3t)(5t-4)Let u = 2+3t \u2234 \\(\\frac{\\text{du}}{\\text{dt}}\\) = 3and v = 5t-4 \u2234 \\(\\frac{\\text{dv}}{\\text{dt}}\\) = 5dx/dt = \\(\\frac{\\text{Vdu}}{\\text{dt}}\\) + \\(\\frac{\\text{Udv}}{\\text{dt}}\\)= (5t-4)3 + (2+3t)5= 15t - 12 + 10 + 15t= 30t - 2= 30 x \\(\\frac{4}{5}\\) - 2= 24 - 2= 22\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "436",
+    "text": "The distance traveled by a particle from a fixed point is given as s = (t\\(^3\\) - t\\(^2\\)\u00a0- t + 5)cm. Find the minimum distance that the particle can cover from the fixed point?",
+    "options": {
+      "A": "2.3 cm",
+      "B": "4.0 cm",
+      "C": "5.2 cm",
+      "D": "6.0 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9362?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "S = t\\(^3\\)\u00a0- t\\(^2\\)\u00a0- t + 5ds/dt = 3t\\(^2\\)\u00a0- 2t - 1As ds = 03t\\(^2\\)\u00a0- 2t - 1 = 0(3t+1)(t-1) = 0\u2234 t = 1 or -1/3At min pt t = 1S = t\\(^3\\)\u00a0- t\\(^2\\)\u00a0- t + 5\nput t = 1= 1\\(^3\\)\u00a0- \\1(^2\\)\u00a0- 1\u00a0+ 5= 1 - 1 - 1 + 5\n= 4\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "437",
+    "text": "Evaluate \u222bsec\\(^2\\)\u03b8 d\u03b8?",
+    "options": {
+      "A": "sec \u03b8 tan \u03b8 + k",
+      "B": "tan \u03b8 + k",
+      "C": "2sec \u03b8 + k",
+      "D": "sec \u03b8 + k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9363?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "\u222bsec2\u03b8 d\u03b8 = \u222b 1/cos2 d\u03b8\u222b(cos)-2 d\u03b8,let u = cos \u03b8\u2234\u222bu-2 = 1/u + c\u222bcos \u03b8 = sin \u03b8 + c\u222bsec-2\u03b8 = 1/u sin \u03b8 + c= (sin\u03b8 / cos\u03b8) + c= Tan \u03b8 + c\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "438",
+    "text": "No. of Days\n1\n2\n3\n4\n5\n6\n\n\nNo. of students\n20\n2x\n60\n40\nx\n50\n\n\n\n\nThe distribution above shows the number of days a group of 260 students were absent from school in a particular term. How many students were absent for at least four days in the term?",
+    "options": {
+      "A": "180",
+      "B": "120",
+      "C": "110",
+      "D": "40"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9364?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "20 + 2x + 60 + 40 + x + 50 = 260170 + 3x = 2603x = 260 - 1703x = 90x = 90/3 = 30At least 4 days4 days = 405 days = 306 days = 50Total = 120\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "439",
+    "text": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?",
+    "options": {
+      "A": "45",
+      "B": "50",
+      "C": "60",
+      "D": "75"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9365?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "Sectorial angle of apple100 + 100 + 115 + x = 30o315 + x = 360x = 360 - 315x = 45o360o represents 4001o represents 400 / 36045o represents (400/360) x (45/1)= 50 apples\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "440",
+    "text": "The probability of a student passing any examination is 2/3. If the students takes three examination, what is the probability that he will not pass any of them?",
+    "options": {
+      "A": "2/3",
+      "B": "4/9",
+      "C": "8/27",
+      "D": "1/27"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9366?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "D",
+    "explanation": "P(pass) = 2/3P(not pass) = 1 - 2/3 = 1/3P(not passing any of the 3 Exams) = 1/3 x 1/3 x 1/3= 1/27\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "441",
+    "text": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9390?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "C",
+    "explanation": "xffx531582166424kik\u2211f=10\u2211fx=55+k\nMean = \\(\\frac{\u2211fx}{\u2211f}\\)\n5.7 = \\(\\frac{55 + k}{10}\\)\n57 = 55 + kk = 57 - 55k = 2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "442",
+    "text": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2?",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "1.5",
+      "D": "2.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9407?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "x\u2234xx-\\(\\overline{X}\\)/x-\\(\\overline{X}\\)/x1-112x200x+12003x311\u2211/x-\\(\\overline{X}\\)/ = 2\nMean(\\(\\overline{X}\\)) = \\(\\frac{ x + 2x + x + 1 + 3x}{4}\\) = 2\n2 = \\(\\frac{7x + 1}{4}\\)\n8 =\u00a07x + 1\n7x = 8 - 1 = 7\nx = \\(\\frac{7}{7}\\) = 1\nMean deviation = \\(\\frac{\u2211(|\u00a0x - \\overline{X}|)}{n}\\)\nM.D = \\(\\frac{2}{4}\\) = \\(\\frac{1}{2}\\) = 0.5\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "443",
+    "text": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
+    "options": {
+      "A": "15",
+      "B": "28",
+      "C": "30",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9425?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "D",
+    "explanation": "= \\((^{5}C_{2} \\times\u00a0^{3}C_{1}) + (^{5}C_{1} \\times\u00a0^{3}C_{2})\\)\n= \\((10 \\times 3) + (5 \\times 3)\\)\n= 45.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "444",
+    "text": "In how many ways can 9 people be seated if 3 chairs are available?",
+    "options": {
+      "A": "720",
+      "B": "504",
+      "C": "336",
+      "D": "210"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9455?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "B",
+    "explanation": "To find the number of ways to seat 9 people in 3 chairs, we use the permutation formula:\n\\(P(n, r) = \\frac{n!}{(n - r)!}\\)\nwhere \\( n \\) is the total number of people and \\( r \\) is the number of chairs. Here, \\( n = 9 \\) and \\( r = 3 \\):\n\\(P(9, 3) = \\frac{9!}{(9 - 3)!} = \\frac{9!}{6!}\\)\nCalculating this, we have:\n\\(P(9, 3) = 9 \\times 8 \\times 7 = 504\\)\nThus, the number of ways to seat 9 people in 3 chairs is 504 ways\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "445",
+    "text": "Marks\n2\n3\n4\n5\n6\n7\n8\n9\n\n\nNo. of students\n3\n4\n1\n0\n4\n5\n2\n1\n\n\n\n\n\n\nThe table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
+    "options": {
+      "A": "35",
+      "B": "25",
+      "C": "720",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9491?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "Total number of students = 20\nMarksNo. of students506475829112\nPr(passing) = \\(\\frac{12}{20}\\)\n= \\(\\frac{3}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  }
+]

@@ -1,0 +1,688 @@
+[
+  {
+    "number": "459",
+    "text": "Chlorophyll obtained from green\u00a0leaves of plant can be shown to be composed of more than one coloured component by the technique of",
+    "options": {
+      "A": "crystallization",
+      "B": "hydrolysis",
+      "C": "chromatography",
+      "D": "sublimation"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4006?exam_type=jamb&type=obj&page=92",
+    "correct_answer": "C",
+    "explanation": "The chlorophyll from the green leaves of plant being a mixture can be separated by Chromatography into its different components. Chromatography has to do with the separation of coloured components.\u00a0chromatography \u00a0is used in industrial processes to purify materials, test trace amounts of contaminants, isolate chiral compounds, and quality control test products\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "460",
+    "text": "In countries where the temperature falls below 273K, salt is always sprinkled on the icy road in order to",
+    "options": {
+      "A": "lower the melting point of the ice",
+      "B": "increase the density of the ice",
+      "C": "make the ice impure",
+      "D": "raise the melting point of the ice"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4007?exam_type=jamb&type=obj&page=92",
+    "correct_answer": "A",
+    "explanation": "The presence of impurities in a substance lowers the melting point. Salt is added on icy roads to cause the ice to melt on time.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "461",
+    "text": "2Na(s) + 2H2O(l) \u2192 2NaOH(aq) + H2(g)\nFrom the equation above, calculate the mass of sodium hydroxide produced by 2.3g of sodium.\n[H = 1, O = 16, Na = 23]",
+    "options": {
+      "A": "0.40g",
+      "B": "0.80g",
+      "C": "4.00g",
+      "D": "8.00g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4011?exam_type=jamb&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "2Na(s) + 2H2O(l) \u2192 2NaOH(aq) + H2(g)Relative molecular mass of NaOH = 23 + 16 + 1 = 40smol-12 * 23g of sodium react with water to produce2 * 40g of NaOH\u2234 2.3g of sodium will react with water to produce(2.3 * 40 * 2)/(23 * 2) = 4.00g\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "462",
+    "text": "16.8 g of sodium hydrogen trioxocarbonate (IV) is completely decomposed by heat. Calculate the volume of carbon(IV) oxide given off at\u00a0s.t.p\n[Na 23, C = 12, O = 16, H = 1, Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "options": {
+      "A": "22.40 dm3",
+      "B": "11.20 dm3",
+      "C": "2.24 dm3",
+      "D": "1.12 dm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4019?exam_type=jamb&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "2NaHCO3(s) \u2192 Na2CO3(s) + H2O(l) + CO2Relative molecular mass of NaHCO3 = 23 +1 + 12 + 16 * 3 = 84gmol-12 * 84g of NaHCO3 will be liberated 22.4dm3 or CO2 at s.t.p16.8g of NaHCO3 will liberate\u00a0(16.8 * 22.4)/(2 * 84) = 2.24 dm3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "463",
+    "text": "300 cm3 of gas has a pressure of 800 mmHg. If the pressure is reduced to 650 mmHg, find its volume",
+    "options": {
+      "A": "243.75 cm3",
+      "B": "369.23 cm3",
+      "C": "738.46 cm3",
+      "D": "1733.36 cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4020?exam_type=jamb&type=obj&page=93",
+    "correct_answer": "B",
+    "explanation": "P1V1= P2V2800 * 300 = 650 * V2V2 = (800 * 300)/650 = 369.23 cm3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "464",
+    "text": "Diffusion is slowest in solid particles than in particles of liquid and gases because",
+    "options": {
+      "A": "solid particles have more kinetic energy than the particles of liquid and gases",
+      "B": "solid particles have less kinetic energy than the particles of liqiud and gases",
+      "C": "solid particles have less restriction in their movement than liquid and gas particles",
+      "D": "the particles in solids are far apart and the cohesive forces between them are negligible"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4021?exam_type=jamb&type=obj&page=93",
+    "correct_answer": "B",
+    "explanation": "Diffusion is faster in gases owing to their higher kinetic energy i.e increase in kinetic energy of molecules leads to increase in rate of diffusion.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "465",
+    "text": "The experiment that showed that atoms have tiny positively charged nucleus was first carried out by",
+    "options": {
+      "A": "Moseley",
+      "B": "Rutherford",
+      "C": "Millikan",
+      "D": "Dalton"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4022?exam_type=jamb&type=obj&page=93",
+    "correct_answer": "B",
+    "explanation": "The experiment that showed that atoms\u00a0have tiny positively charged nuclei\u00a0was first carried out by Rutherford.Rutherford's gold foil experimentshowed that the atom is mostly empty space with a tiny, dense, positively charged nucleus.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "466",
+    "text": "The atom of an element X is represented as \\(_z^yX\\). The basic chemical properties of X depends on the value of",
+    "options": {
+      "A": "Y",
+      "B": "Z",
+      "C": "Y - Z",
+      "D": "Z - Y"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4023?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "B",
+    "explanation": "The chemical properties of elements depend on their atomic numbers. The atomic number is represented by Z.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "467",
+    "text": "The diagram above represent the electron sub-level for",
+    "options": {
+      "A": "carbon",
+      "B": "nitrogen",
+      "C": "oxygen",
+      "D": "flourine"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4024?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "The number of arrows indicates the number of electrons. Since the atomic number of oxygen is 8, the element is oxygen.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "468",
+    "text": "In the periodic table, the electrical and thermal conductivities are properties of elements that",
+    "options": {
+      "A": "decrease across the period and increase down the group",
+      "B": "increase across the period and decrease down the group",
+      "C": "decrease across the period and down the group`",
+      "D": "increase acrosss the period and down the group"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4025?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "A",
+    "explanation": "In the periodic table, electrical and thermal conductivities of elements decrease across the period and increase down the group.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "469",
+    "text": "\\( _{11} ^{23}Na + _0^1n \u2192 _{11}^{24}Na \\)\nThe reaction above is an example of",
+    "options": {
+      "A": "nuclear fission",
+      "B": "nuclear fusion",
+      "C": "artificial transmutation",
+      "D": "beta decay"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4028?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "Artificial transmutation. It is an artificially induced nuclear reaction caused by the bombardment of a nucleus with subatomic particles or small nuclei. It is also called artififcial radioactivity.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "470",
+    "text": "Air boiled out of water as steam is richer in",
+    "options": {
+      "A": "nitrogen and oxygen",
+      "B": "carbon (IV) oxide and oxygen",
+      "C": "noble gases and carbon (IV) oxide",
+      "D": "oxygen and noble gases"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4029?exam_type=jamb&type=obj&page=94",
+    "correct_answer": "B",
+    "explanation": "Air boiled out of water as steam is richer in carbon(IV)oxide and oxygen.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "471",
+    "text": "In the course of purifying water for town supply the water is passed through large settlings tanks, containing sodium aluminate (III) to remove?",
+    "options": {
+      "A": "large particles",
+      "B": "germs",
+      "C": "fine particles",
+      "D": "odour"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4031?exam_type=jamb&type=obj&page=95",
+    "correct_answer": "C",
+    "explanation": "Potash alum [kAl(S\\({O}_4\\))\\(_2\\)] n sodium aluminate (ii) (NaHCO\\(_2\\)) are added to cause coagulation.\nAs \u00a0fine particles to clump together, forming large particles heavy enough to settle at the\u00a0bottom of the\u00a0tanks as impurities.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "472",
+    "text": "When a few drops of water is added to a blue anhydrous cobalt (II) chloride, the colour changes to",
+    "options": {
+      "A": "white",
+      "B": "pink",
+      "C": "red",
+      "D": "blue"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4032?exam_type=jamb&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "Blue anhydrous cobalt (II) chloride changes to pink in water.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "473",
+    "text": "The vulcanizer's solution is prepared by dissolving rubber in",
+    "options": {
+      "A": "ethanol",
+      "B": "kerosine",
+      "C": "benzene",
+      "D": "petrol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4034?exam_type=jamb&type=obj&page=95",
+    "correct_answer": "C",
+    "explanation": "Dissolved rubber in benzene makes the vulcanizer's solution.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "474",
+    "text": "117.0g of sodium chloride was dissolved in 1.0dm3 of distilled water at 25\u00b0C. Determine the solubility in mol dm-3 of sodium chloride at that temperature\n[Na = 23, Cl = 35.5]",
+    "options": {
+      "A": "1.0",
+      "B": "2.0",
+      "C": "3.0",
+      "D": "4.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4035?exam_type=jamb&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "Relative molecular mass of NaCl = 23 + 35.5 = 58.5 g/molNo. of mole of NaCl = 117/58.5 = 2.0\u00a0mol\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "475",
+    "text": "The uncovered raw food that is sold along major roads is likely to contain some amounts of",
+    "options": {
+      "A": "Pb",
+      "B": "Cu",
+      "C": "Ag",
+      "D": "Na"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4036?exam_type=jamb&type=obj&page=95",
+    "correct_answer": "A",
+    "explanation": "The uncovered raw food that is sold along major roads is likely to contain some amounts of lead(Pb).\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "476",
+    "text": "What is the pH of 0.001 mol dm-3 solution of sodium hydroxide",
+    "options": {
+      "A": "14",
+      "B": "13",
+      "C": "12",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4041?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "\\([H^+] [OH^-] = 10^{-14}\\)\\([H^+] = 10^{-14}/[OH^-] = 10^{-14}/(1 * 10^{-3}) = 10^{-11}\\)pH = -Log10[H+]= - Log10[10-11] = - 1 * -11 Log10[10-11] = 1 = -1 * -11 * 1 = 11\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "477",
+    "text": "The basicity of CH3COOH is",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4042?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "A",
+    "explanation": "The basicity of CH3COOH is 1. Which means it has just one ionizable ion.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "478",
+    "text": "0.05 mol dm-3 HCl is neutralized by 25 cm3 NaOH. If the volume of acid used is 32.00cm3, what is the concentration of the base",
+    "options": {
+      "A": "0.016 mol dm-3",
+      "B": "0.032 mol dm-3",
+      "C": "0.039 mol dm-3",
+      "D": "0.064 mol dm-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4045?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "HCl + NaOH \u2192 NaCl + H2OCAVA = NA/NB = (0.05 * 32)/(CB * 25)\u2234 CB = (0.05 * 32)/25 = 0.064 mol dm-3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "479",
+    "text": "Insoluble salts can be prepared by?",
+    "options": {
+      "A": "titrating an alkali against an appropriate acid",
+      "B": "reacting an acid with trioxocarbonate (IV) salt",
+      "C": "directing combination of the elements which make up the salt",
+      "D": "mixing two soluble compounds containing the metallic radical and the acidic radical"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4047?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "An insoluble salt can be preparedby a precipitation method through a double decomposition reaction.\nTwo soluble metal salts react with each other to form one soluble salt and one insoluble salt .\nLead nitrate solution and sodium chloride solution react to produce solid lead chloride , leaving soluble sodium nitrate in solution.\nThe lead chloride can be recovered by filtration.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "480",
+    "text": "The oxidation state of carbon in HCOOH is",
+    "options": {
+      "A": "-1",
+      "B": "+2",
+      "C": "+3",
+      "D": "zero"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4048?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "B",
+    "explanation": "HCOOHO.N of H + O.N of C + 2* O.N of oxygen ofH = 01 + X + 2X - 2 + 1 = 02 + X -4 = 0X = 4 - 2 = +2\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "481",
+    "text": "What is the IUPAC nomenclature of the compound NaCIO?",
+    "options": {
+      "A": "sodium oxochlorate (I)",
+      "B": "sodium chloro (I) oxide",
+      "C": "sodium monooxochlorate (II)",
+      "D": "sodium chloro (I) monoxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4050?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "A",
+    "explanation": "NaClO is sodium oxochlorate(I) in IUPAC nomenclature\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "482",
+    "text": "In recharging a lead-acid accumulator, the reaction at the cathode can be represented as",
+    "options": {
+      "A": "Pb2+(aq) + SO2-4(aq) \u2192PbSO4(s)",
+      "B": "Pb2+(aq) + 2e- \u2192Pb(s)",
+      "C": "Pb2+(aq) + 2H2O(l) \u2192 PbO2(s) + 4H+(aq) + 4e-",
+      "D": "Pb(s) \u2192 Pb2+(aq) + 2e-"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4055?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "B",
+    "explanation": "In lead acid ,lead dissociates at the cathode Pb2+(aq)\u00a0+ 2e-\u00a0\u2192Pb(s)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "483",
+    "text": "If a given quantity of electricity liberates 0.65g of Zn2+, what amount of Hg2+ would be liberated by the same quantity of current?\n[Zn = 65, Hg = 201]",
+    "options": {
+      "A": "1.00g",
+      "B": "2.01g",
+      "C": "4.02g",
+      "D": "8.04g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4057?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "B",
+    "explanation": "At the cathode, we have:\\(Zn^{2+} + 2e^- \u2192 Zn_{(s)}\\)Normally, we need2F \u2192 65gx \u2192 0.65x = 0.02FLet us check how much mercury will be deposited by 0.02F of electricity\\(Hg^{2+} + 2e^-(aq) \u2192 Hg_{(s)}\\)2F \u2192 201g\u2234 0.02F = xx = 2.01g\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "484",
+    "text": "\\(NH_{3(g)} + HCl_{(g)} \u2192 NH_4Cl_{(s)}\\)\nThe entropy change in the system above is",
+    "options": {
+      "A": "positive",
+      "B": "zero",
+      "C": "negative",
+      "D": "indeterminate"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4059?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "C",
+    "explanation": "\\(NH_{3(g)} + HCl_{(g)} \u2192 NH_4Cl_{(s)}\\)Reactant = 2 moles of gaseous moleculesProduct = 1 mole of gaseous moleculeEntropy change = 1 - 2 = -1 (negative)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "485",
+    "text": "Which of the following reaction is endothermic?",
+    "options": {
+      "A": "C(s) + O2(g) \u2192 CO2(g)",
+      "B": "CaO(s) + H2O(l) \u2192 Ca(OH)2(s)",
+      "C": "C(s) + H2O(g) \u2192 CO(g) + H2(g)",
+      "D": "HCl(aq) + NaOH(aq) \u2192 NaCl(aq) + H2O(l)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4063?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "C",
+    "explanation": "Water Gas is a mixture of carbon monoxide and hydrogen produced from synthesis gas.\\(H_2O + C --> H_2 + CO\\) (H=+131KJ/mol)An Endothermic process is any process which requires or absorbs thermal energy from its surroundings, usually in the form of heat.in Endothermic reaction \u2206H is positive.Therefore it is Endothermic\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "486",
+    "text": "A catalyst speeds up the rate of chemical reaction by",
+    "options": {
+      "A": "taking part in the reaction",
+      "B": "increasing the activation energy of the reaction",
+      "C": "lowering the activation energy of the reaction",
+      "D": "increasing the heat content"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4064?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "C",
+    "explanation": "Catalyst lowers the activation energy of reaction and hence speeds up the rate of chemical reaction.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "487",
+    "text": "The rate of a reaction usually decreases with a decrease in\u00a0the concentration of reactants because",
+    "options": {
+      "A": "kinetic energy decrease",
+      "B": "temperature increase",
+      "C": "speed increases",
+      "D": "reactants collision decrease"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4065?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "D",
+    "explanation": "Decrease in the concentration of reactants reduces the number of molecules that acquire effective collisions, and consequently reduces the reaction rate.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "488",
+    "text": "The substance that is used in the steel industry for the removal of carbon, sulphur and phosphorus impurities from pig iron is",
+    "options": {
+      "A": "oxygen",
+      "B": "chlorine",
+      "C": "nitrogen",
+      "D": "hydrogen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4066?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "The substance used in the steel industry for the removal of carbon, sulphur, and phosphorus impurities from pig iron isoxygen. This process is called \"oxidation\" and it occurs when oxygen reacts with the impurities in the pig iron, which then form oxides that can be easily removed.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "489",
+    "text": "Which of the following compounds of trioxonitrate (V) will decompose\u00a0to give dinitrogen (i) oxide and water when heated?",
+    "options": {
+      "A": "NaNO3",
+      "B": "Zn(NO3)2",
+      "C": "Cu(NO3)2",
+      "D": "NH4NO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4067?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "D",
+    "explanation": "\\(NH_4NO_3 \u2192 N_2O + 2H_2O\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "490",
+    "text": "When a solution of ammonium trioxocarbonate (IV) is added to a solution of an unknown salt, a white precipitate which is soluble in dilute hydrochloric acid but insoluble in ethanoic acid is formed. This indicates the presence of",
+    "options": {
+      "A": "Ca2+",
+      "B": "Na+",
+      "C": "Zn2+",
+      "D": "K+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4068?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "The test indicates the presence of \\(Ca_{2+}\\).\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "491",
+    "text": "Leads is used for making bullets and lead shots because of its",
+    "options": {
+      "A": "resistance to corrosion",
+      "B": "low melting point",
+      "C": "high density",
+      "D": "flexibility"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4069?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "C",
+    "explanation": "Lead is used for making bullets and lead shots because of its high density.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "492",
+    "text": "which of the following gives a precipitate when treated with NaOH solution?",
+    "options": {
+      "A": "AlCl3",
+      "B": "NH4Cl",
+      "C": "Na2CO3",
+      "D": "CH3COONa"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4071?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "A",
+    "explanation": "Sodium hydroxide reacts with aluminium chloride to form a precipitate; aluminium hydroxide ; AlCl3 (Alumunium chloride).\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "493",
+    "text": "The most common ores of iron include",
+    "options": {
+      "A": "haematite, malachite and limonite",
+      "B": "chalcocite, calamine and bornite",
+      "C": "magnetite, haematite and limonite",
+      "D": "magnetite, chalcocite and bornite"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4072?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "C",
+    "explanation": "The most common ores of iron are magnetic, haematite and limonite\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "494",
+    "text": "The type of isomerism shown by cis- and trans- isomers is",
+    "options": {
+      "A": "optical isomerism",
+      "B": "positional isomerism",
+      "C": "functional isomerism",
+      "D": "geometrical isomerism"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4074?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "The type of isomerism shown by the cis- and trans- isomers is geometrical isomerism",
+    "year": "2008"
+  },
+  {
+    "number": "495",
+    "text": "If the silver mirror test is positive, it indicates the presence of an",
+    "options": {
+      "A": "alkyne",
+      "B": "alkanol",
+      "C": "alkanone",
+      "D": "alkanal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4075?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "Alkanals give a positive result for the silver mirror test(Tollen's reagent).\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "496",
+    "text": "If glucose is heated with concentration tetraoxosulphate (VI) acid, it will be dehydrated to",
+    "options": {
+      "A": "carbon",
+      "B": "carbon (IV) oxide",
+      "C": "ethene",
+      "D": "ethanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4076?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "If glucose is heated with concentrated tetraoxosulphate(VI)acid, it will be dehydrated to carbon.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "497",
+    "text": "The IUPAC nomenclature for the structure above is",
+    "options": {
+      "A": "2, 3 - dichloro - 4, 4, 5 - trimethyl pent - 2 - ene",
+      "B": "4, 5 - dichloro - 2, 3 - dimethyl hex - 2 - ene",
+      "C": "2, 3 - dichloro - 4, 4 - dimethyl hex - 2- ene",
+      "D": "2, 3 dichloro - 2, 2 - dimethyl hex - 2 - ene"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4249?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "C",
+    "explanation": "The longest carbon chain in the compound is the hex-2-ene.\nCounting all the attachments, the IUPAC nomenclature of the compound is 2,3 - dichloro-4,4- dimethyl hex-2-ene.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "498",
+    "text": "A hydrocarbon X with a molar mass of 26 consists of 92.3% carbon. What is its molecular formular?",
+    "options": {
+      "A": "C2H2",
+      "B": "C3H3",
+      "C": "C4H4",
+      "D": "C5H5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4255?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "% of H2 = 100 - 92.3 = 7.7%mole = Carbon [92.3 / 12] = 7.7\nHydrogen [7.7 / 1] = 7.7\ndivide with the lowest:\nCarbon - 7.1 / 7.1 = 1\nHydrogen\u00a0 - 7.1 / 7.1 = 1\nempirical formula = CH\n(CH)n = 26(12 + 1)n = 26(13)n = 26n = 26/13 = 2\nmolecular formula = C\\(_2\\)H\\(_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "499",
+    "text": "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into",
+    "options": {
+      "A": "CH2 = CH - CH2 - CH3",
+      "B": "CH3 CH2 - C \u2261 CH",
+      "C": "CH3 CH2 CH2 CH3",
+      "D": "CH3 - C  C - CH3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4270?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "B",
+    "explanation": "Terminal alkynes react with ammoniacal copper(I)chloride to produce a red precipitate.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "500",
+    "text": "Reduction of nitroalkanes, nitrites and amides is a route for the preparation of",
+    "options": {
+      "A": "amines",
+      "B": "alkenes",
+      "C": "polymers",
+      "D": "detergents"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4272?exam_type=jamb&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "Reduction of nitroalkanes, nitrites and amides is a route for the preparation of amines\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "501",
+    "text": "Reduction of alkanones with LialH4 produces",
+    "options": {
+      "A": "primary alkanols",
+      "B": "secondary alkanols",
+      "C": "tertiary alkanols",
+      "D": "polyhydric alkanols"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4274?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "Reduction of alkanones with \\(LiAlH_4\\) produces secondary alkanols.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "502",
+    "text": "The product obtained when a mixture of benzene vapour and hydrogen are passed over nickel catalyst at 180\u00baC is",
+    "options": {
+      "A": "cyclohexane",
+      "B": "cyclopentane",
+      "C": "n- hexane",
+      "D": "n - pentane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4275?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "A",
+    "explanation": "When a mixture of benzene vapour and\u00a0hydrogen are passed over a nickel catalyst at 180\u00bac\u00a0cyclohexane will be produced\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "503",
+    "text": "Polyvinyl chloride is used in the production of",
+    "options": {
+      "A": "glass",
+      "B": "alloy",
+      "C": "pipes",
+      "D": "ceramics"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4276?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "Polyvinyl chloride is used in the production of pipes. Polyvinyl chloride (PVC) is an odorless and solid plastic. It is most commonly white but can also be colorless or amber. It can also come in the form of white powder or pellets. PVC is made from vinyl chloride. The chemical formula for vinyl chloride is \\(C_2H_3Cl\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "504",
+    "text": "Detergents are manufactured with straight hydrocarbon chains so as to make them",
+    "options": {
+      "A": "soluble",
+      "B": "biodegradable",
+      "C": "cheaper",
+      "D": "foamy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/4279?exam_type=jamb&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "The choice of straight hydrocarbon chains primarily serves the purpose of enhancing the biodegradability of the detergent, making it less harmful to the environment once it is washed away.Since unbranched (i.e., straight) chains are more prone to attack by bacteria, therefore in most of the detergents used these days, the branching is kept to be minimum so that the detergents become easily biodegradable.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "1645",
+    "text": "Use the diagram to answer this question. The gas that can be used to demonstrate the experiment is",
+    "options": {
+      "A": "hydrogen chloride",
+      "B": "hydrogen sulphide",
+      "C": "nitrogen(ll) oxide",
+      "D": "dinitrogen (l) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31652?exam_type=jamb&type=obj&page=329",
+    "correct_answer": "A",
+    "explanation": "Hydrogen chloride; main reason for using it to demonstrate fountain experiment because of its high solubility in water.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "1646",
+    "text": "Use the diagram to answer this question.The colour of the fountain water is",
+    "options": {
+      "A": "blue",
+      "B": "orange",
+      "C": "red",
+      "D": "yellow"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31653?exam_type=jamb&type=obj&page=330",
+    "correct_answer": "C",
+    "explanation": "fountain water has red colour.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "1647",
+    "text": "Choose the correct option from the structure above",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31657?exam_type=jamb&type=obj&page=330",
+    "correct_answer": "C",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  }
+]

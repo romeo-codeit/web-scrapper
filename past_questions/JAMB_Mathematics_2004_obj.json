@@ -1,0 +1,618 @@
+[
+  {
+    "number": "183",
+    "text": "An arc of a circle of length 22 cm subtends an angle of 3x\u00b0\u00a0at the center of the circle. Find the value of x if the diameter of the circle is 14 cm",
+    "options": {
+      "A": "60o",
+      "B": "120o",
+      "C": "180o",
+      "D": "30o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7948?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "Length of an arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r\n22 =\u00a0\\(\\frac{3x}{360}\\) x \\(\\frac{22}{7}\\) x 7\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(since D = 2r)\n22 x 7 x 360 = 3x X 22 X 7\nx = \\(\\frac{22 \\times 7 \\times 360}{3 \\times 22 \\times 7\\times 2}\\) = 60\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "184",
+    "text": "Find the value of \u03b1\\(^2\\) + \u03b2\\(^2\\) if \u03b1 + \u03b2 = 2 and the distance between points (1, \u03b1) and (\u03b2, 1) is 3 units",
+    "options": {
+      "A": "14",
+      "B": "3",
+      "C": "5",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7958?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "D",
+    "explanation": "PQ = \\(\\sqrt{(\u03b2 - 1)^{2} + (1 - \u03b1)^{2}}\\)3 = \\(\\sqrt{(\u03b2^{2} -2\u03b2^{2} + 1 + 1 - 2\u03b1 + \u03b1^{2})}\\)3 = \\(\\sqrt{(\u03b1^{2} + \u03b2^{2} - 2\u03b1 + 2\u03b2 + 2)}\\)3 = \\(\\sqrt{(\u03b1^{2} + \u03b2^{2} - 2(\u03b1 + \u03b2) + 2)}\\)3 = \\(\\sqrt{(\u03b1^{2} + \u03b2^{2} - 2 * 2 + 2)}\\)3 = \\(\\sqrt{(\u03b1^{2} + \u03b2^{2} - 2)}\\)9 = \\(\u03b1^{2} + \u03b2^{2} - 2)\\)\\(\u03b1^{2} + \u03b2^{2}\\) = 9 + 2\\(\u03b1^{2} + \u03b2^{2}\\) = 11\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "185",
+    "text": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+    "options": {
+      "A": "y = 90 - x",
+      "B": "y = 150 - x",
+      "C": "y = 60 - x",
+      "D": "y = 120 -x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7962?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "186",
+    "text": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm\\(^2\\), find the area of the trapezium PQRU",
+    "options": {
+      "A": "60 cm2",
+      "B": "72 cm2",
+      "C": "48 cm2",
+      "D": "24 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7974?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "B",
+    "explanation": "Area of parallelogram PQTU = base * height32 = 4 * hw = 32/4w = 8\u2234 = Area of Trapezium PQRU = (1/2)(4 + 14) *8= 1/2 * (18 * 8)= 72 cm\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "187",
+    "text": "Find the midpoint of the line joining P(-3, 5) and Q(5, -3).",
+    "options": {
+      "A": "(1, 1)",
+      "B": "(2, 2)",
+      "C": "(4, 4)",
+      "D": "(4, -4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7979?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "Mid point = \\(\\frac{(x_1 + x_2)}{2}\\) ; \\(\\frac{(y_1 + y_2)}{2}\\)=\u00a0\\(\\frac{(-3 + 5)}{2} ; \\frac{(5 - 3)}{2}\\)= \\(\\frac{2}{2}\\) ; \\(\\frac{2}{2}\\)= (1, 1)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "188",
+    "text": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+    "options": {
+      "A": "The diagonal QS",
+      "B": "the perpendicular bisector of PQ",
+      "C": "The diagonal PR",
+      "D": "side SR"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7981?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "189",
+    "text": "Find the value of x in the figure above",
+    "options": {
+      "A": "15\\(\\sqrt{6}\\)",
+      "B": "20\\(\\sqrt{6}\\)",
+      "C": "3\\(\\sqrt{6}\\)",
+      "D": "5\\(\\sqrt{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8012?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{X}{\\sin 45^\\circ} = \\frac{15}{\\sin 60^\\circ}\\)\n\\(X = \\frac{15 \\sin 45^\\circ}{\\sin 60^\\circ}\\)\n\\(X = \\frac{15 \\times \\left( \\frac{1}{\\sqrt{2}} \\right)}{\\sqrt{\\frac{3}{2}}}\\)\n\\(X = \\frac{15}{\\sqrt{2}} \\times \\frac{2}{\\sqrt{3}}\\)\n\\(X = \\frac{30}{\\sqrt{6}}\\)\n\\(X = \\frac{30}{\\sqrt{6}} \\times \\frac{\\sqrt{6}}{\\sqrt{6}} = \\frac{30\\sqrt{6}}{6} = 5\\sqrt{6}\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "190",
+    "text": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find \u2220PSO",
+    "options": {
+      "A": "45o",
+      "B": "55o",
+      "C": "35o",
+      "D": "40o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8035?exam_type=jamb&type=obj&page=38",
+    "correct_answer": "C",
+    "explanation": "xo = 35 + 20\u00a0(Exterior angle = sum of two interior opposite angles)x = 55o (\u2220 at the center twice \u2220 at circumference) y = 110o\u2220PSO = \u2220SPO (base \u2220S of 1sc \u0394 b/c PO = SO)\u2234 \u2220PSO = (180 - 110)/2= 35o\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "191",
+    "text": "The locus of a point which is 5 cm from the line LM is a",
+    "options": {
+      "A": "line distance 10 cm from LM and parallel to LM",
+      "B": "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+      "C": "line parallel to LM and 5 cm from LM",
+      "D": "pair of parallel lines on one side  of LM and parallel to LM"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8040?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "The locus of a point which is 5cm\u00a0from the line LM is a pair of lines on opposite sides of LM and parallel to it, each distance 5cm from LM.\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "192",
+    "text": "If y = 3 cos(\\(\\frac{x}{3}\\)), find \\(\\frac{dy}{dx}\\) when x = (\\(\\frac{3\u03c0}{2}\\))",
+    "options": {
+      "A": "1",
+      "B": "-3",
+      "C": "2",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8044?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "D",
+    "explanation": "y = 3cos(\\(\\frac{x}{3}\\))\\(\\frac{dy}{dx}\\) = 3x(\\(\\frac{1}{3}\\))x - sin (\\(\\frac{x}{3}\\))= - sin \\(\\frac{x}{3}\\)But x = \\(\\frac{3\u03c0}{2}\\) \u2234 -sin(\\(\\frac{x}{3}\\)) = -sin(\\(\\frac{3\u03c0}{6}\\))= -sin \\(\\frac{(3 \\times\u00a0180)}{6}\\)= - sin 90= -1\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "193",
+    "text": "Find the derivatives of (2 + 3x)(1 - x) with respect to x",
+    "options": {
+      "A": "6",
+      "B": "-3",
+      "C": "1 - 6x",
+      "D": "6x - 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8047?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "C",
+    "explanation": "y = (2 + 3x)(1\u00a0- x)y = 2 - 2x + 3x - 3x2y = 2 + x - 3x2dy/dx\u00a0= 1 - 6x\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "194",
+    "text": "What is the rate of change of the volume V\u00a0of a hemisphere with respect to its radius r when r = 2?",
+    "options": {
+      "A": "8\u03c0",
+      "B": "16\u03c0",
+      "C": "2\u03c0",
+      "D": "4\u03c0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8049?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "\\(V = \\frac{2}{3} \\pi r^{3}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} = 2\\pi r^{2}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} (r = 2) = 2\\pi (2)^{2}\\)\n= \\(8\\pi\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "195",
+    "text": "Find the derivatives of the function y = 2x\\(^2\\)(2x - 1) at the point x = -1?",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "-4",
+      "D": "-6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8054?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "y = 2x\\(^2\\)(2x - 1)\nexpand the bracket\ny = 4x\\(^3\\)\u00a0- 2x\\(^2\\)\n\\(\\frac{\\text{dy}}{\\text{dx}}\\) = 12x\\(^2\\)\u00a0- 4xat x = -1\\(\\frac{\\text{dy}}{\\text{dx}}\\)\u00a0= 12(-1)\\(^2\\)\u00a0- 4(-1)= 12 + 4= 16\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "196",
+    "text": "Evaluate \\(\\int_{1}^{3}(x^2 - 1)dx\\)",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(-\\frac{2}{3}\\)",
+      "C": "\\(-6\\frac{2}{3}\\)",
+      "D": "\\(6\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8056?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "\\(\\int_{1}^{3}(x^2 - 1)dx = \\left[\\frac{1}{3}x^2 - x\\right] ^{3}_{1}\\\\ =(9-3)-(\\frac{1}{3}-1)\\\\ =6-\\left(-\\frac{2}{3}\\right)\\\\ =6+\\frac{2}{3}=6\\frac{2}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "197",
+    "text": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white ball from the baskets is \\(\\frac{3}{7}\\), how many white balls were introduced?",
+    "options": {
+      "A": "12",
+      "B": "21",
+      "C": "28",
+      "D": "32"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8189?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "B",
+    "explanation": "Number of white balls = xNumber of red balls = 12Number of black balls = 16Total number of balls = 28 + xP(white balls) = 3/7But P(white balls) \\(= \\frac{x}{28+x}\\\\= \\frac{3}{7} = \\frac{x}{28+x}\\\\3(28 + x) = 7x\\\\84 + 3x = 7x\\\\7x - 3x = 84\\\\4x = 84\\\\x = 21\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "198",
+    "text": "find the mean deviation of 1, 2, 3 and 4",
+    "options": {
+      "A": "2.5",
+      "B": "2.0",
+      "C": "1.0",
+      "D": "1.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8190?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "199",
+    "text": "An unbiased die is rolled 100 times and the outcome is tabulated above.\nWhat is the probability of obtaining a 5?",
+    "options": {
+      "A": "1/5",
+      "B": "1/2",
+      "C": "1/6",
+      "D": "1/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8191?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "200",
+    "text": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
+    "options": {
+      "A": "6000 tonnes",
+      "B": "1500 tonnes",
+      "C": "1200 tonnes",
+      "D": "9000 tonnes"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8192?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "Sectorial angle of beans = 360 - (150 + 90 + 60)= 360 - 300= 60\u00baIf 150\u00ba\u00a0represents 3000 tonnes1\u00ba =\u00a0\\(\\frac{3000}{150}\\)60\u00ba\u00a0will represents (\\(\\frac{3000}{150}\\))\u00a0 x (\\(\\frac{60}{1}\\))= 1200 tonnes\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "201",
+    "text": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "options": {
+      "A": "25 ways",
+      "B": "10 ways",
+      "C": "15 ways",
+      "D": "20 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8193?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "The number of ways of selecting the debtors = \\(^5C_2\\) ways\n\\(^5C_2\\) = \\(\\frac{5!}{(5 - 2)!2!}\\)\n= \\(\\frac{5 . 4 . 3!}{(3!)2!}\\) = \\(\\frac{5.\u00a04}{2. 1}\\) = 10ways\n(3!s cancels ou)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "202",
+    "text": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "42",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8194?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "Let the number of students = xTotal age of the students = 15xTotal age including age of the teacher = 15x + 45Mean of their ages; (15x + 45)/(x + 1) = 1815x + 45 = 18(x + 1)15x + 45 = 18x + 1818x - 15x = 45 - 183x = 27x = 9\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "203",
+    "text": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
+    "options": {
+      "A": "9/35",
+      "B": "11/35",
+      "C": "4/7",
+      "D": "3/7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8195?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "204",
+    "text": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of Assembly",
+    "options": {
+      "A": "378 ways",
+      "B": "462 ways",
+      "C": "840 ways",
+      "D": "924 ways"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8196?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "The number of ways to choose 1 member from the house of assembly is:\\(\\binom{3}{1} = 3\\)\nThe number of ways to choose 5 members from the state commissioners is:\\(\\binom{9}{5}\\) = 126\nThus, the total number of ways to form the committee is:\\(\\text{Total ways} = \\binom{3}{1} \\times \\binom{9}{5}\\) = 3 \\(\\times\\) 126 = 378\nThe total number of ways to form the committee, including one member from the house of assembly, is 378 Ways.\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "205",
+    "text": "The weight of 10 pupils in a class are 15 kg, 16 kg, 17 kg, 18 kg, 16 kg, 17 kg, 17 kg, 17 kg, 18 kg, and 16 kg. What is the range of this distribution?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8197?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "206",
+    "text": "I. Rectangular bars of equal width\nII. The height of each rectangular bar is proportional to the frequency of the corresponding class interval.\nIII. Rectangular bars have common sides with no gaps in between\nA histogram is described completely by",
+    "options": {
+      "A": "I, II and III",
+      "B": "I and II",
+      "C": "II and III",
+      "D": "I and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8198?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "A",
+    "explanation": "A histogram is described by the following; Rectangular bars of equal widthII. The height of each rectangular bar is proportional\u00a0to the frequency of the corresponding class interval.III. Rectangular bars have common sides with no gaps in between.\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "207",
+    "text": "y\u00a0is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+    "options": {
+      "A": "2",
+      "B": "10",
+      "C": "1/5",
+      "D": "1/10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8199?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "y \u221d 1/xy = K/xK = xyK = (1/2) * 4 ( when y = 4 and x = 1/2)K = 2\u2234y = 2/x10 = 2/x (when y = 10)10x = 2x = 2/10x = 1/5\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "208",
+    "text": "What are\u00a0the integer\u00a0values of x which satisfy the inequality -1 < 3 -2x \\(\\leq\\) 5?",
+    "options": {
+      "A": "-1. 0, 1, 2",
+      "B": "-2, 1, 0 , -1",
+      "C": "0, 1, 2",
+      "D": "-1, 0, 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8200?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "-1 < 3 -2x and 3 - 2x \\(\\leq\\) 52x < 3 + 1 and -2x \\(\\leq\\) 5 - 32x < 4 and -2x \\(\\leq\\) 2x < 2 and x \\(\\geq\\) 2/-2 = x \\(\\geq\\) -1If -1 \\(\\leq\\) x < 2it implies that x = -1, 0, 1\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "209",
+    "text": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+    "options": {
+      "A": "27",
+      "B": "8",
+      "C": "78",
+      "D": "48"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8201?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "To find the sum of the first three terms of a geometric progression (G.P.) where the first term \\( a \\) and the fourth term \\( ar^3 \\) are given, we set up the following equations:\nGiven:- \\( a = 6 \\)- \\( ar^3 = 162 \\)\nFind the common ratio \\( r \\)\nFrom the equation for the fourth term:\n\\(ar^3\\) = 162\nSubstituting \\( a \\):\n\\(6r^3\\) = 162\nDividing both sides by 6:\n\\(r^3 = \\frac{162}{6}\\) = 27\nTaking the cube root:\nr = \\(\\sqrt[3]{27}\\) = 3\nFind the first three terms\nThe first three terms of the G.P. are:- First term: \\( a = 6 \\)- Second term: \\( ar = 6 \\cdot 3 = 18 \\)- Third term: \\( ar^2 = 6 \\cdot 3^2 = 6 \\cdot 9 = 54 \\)\nCalculate the sum of the first three terms\nThe sum \\( S \\) of the first three terms is:\nS = a + ar + ar\\(^2\\) = 6 + 18 + 54\nCalculating this:\nS = 6 + 18 + 54 = 78\nThe sum of the first three terms of the progression is \\( \\boxed{78} \\).\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "210",
+    "text": "If the operation * on the set of integers is defined by P\u00a0* Q\u00a0= \\(\\sqrt{PQ}\\), find the value of 4 * ( 8 * 32).",
+    "options": {
+      "A": "8",
+      "B": "3",
+      "C": "16",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8202?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "A",
+    "explanation": "\\(P\\times Q=\\sqrt{PQ}\\\\4\\times(8\\times32)=4\\times\\sqrt{8\\times32}\\\\=4\\times\\sqrt{256}\\\\=4\\times16\\\\=\\sqrt{4\\times16}\\\\=\\sqrt{64}\\\\=8\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "211",
+    "text": "Find the remainder when 3x3 + 5x2 - 11x + 4 is divided by x + 3",
+    "options": {
+      "A": "-4",
+      "B": "4",
+      "C": "1",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8203?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "C",
+    "explanation": "3\n2\n3\n2\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "212",
+    "text": "The nth term of two sequences are Qn = 3 . 2n - 2 and Um = 3 . 22m - 3. Find the product of Q2 and U2.",
+    "options": {
+      "A": "18",
+      "B": "12",
+      "C": "6",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8204?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "n\nn - 2\nm\n2m - 3\n2\n2\n2 - 2\n2(2) - 3\n0\n1\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "213",
+    "text": "Factorize completely ac - 2bc - a\\(^2\\) + 4b\\(^2\\)",
+    "options": {
+      "A": "(a - 2b)(c - a - 2b)",
+      "B": "(a - 2b)(c + a +2b)",
+      "C": "(a - 2b)(c - a + 2b)",
+      "D": "(a - 2b)(c + a - 2b)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8205?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "ac - 2bc - a\\(^2\\) + 4b\\(^2\\)ac - 2bc - (a\\(^2\\) - 4b\\(^2\\))ac - 2bc - (a\\(^2\\) -(2b)\\(^2\\))c(a - 2b) - {(a - 2b)(a + 2b)}(a - 2b)(c - (a + 2b))(a - 2b)(c - a - 2b)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "214",
+    "text": "Find the sum to infinity of the series 1/2 , 1/6, 1/18, .....",
+    "options": {
+      "A": "2/3",
+      "B": "1/3",
+      "C": "3/4",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8206?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "C",
+    "explanation": "\\(a=\\frac{1}{2}\\\\r=\\frac{\\frac{1}{6}}{\\frac{1}{2}}=\\frac{1}{6}\\times\\frac{2}{1}=\\frac{1}{3}\\\\S_\\infty\u00a0= \\frac{a}{1-r}\\\\S_\\infty\u00a0= \\frac{\\frac{1}{2}}{1-\\frac{1}{3}}\\\\=\\frac{\\frac{1}{2}}{\\frac{3}{2}}\\\\=\\frac{1}{2}\\times\\frac{3}{2}\\\\=\\frac{3}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "215",
+    "text": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
+    "options": {
+      "A": "96 cm",
+      "B": "324 cm",
+      "C": "36 cm",
+      "D": "144 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8207?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "\\(L \\propto T^2\\)\n\\(L = kT^2\\)\n\\(k = \\frac{L}{T^2}\\)\nwhen T = 4, L = 64.\n\\(k = \\frac{64}{4^2} = 4\\)\n\\(L = 4T^2\\)\nwhen T = 9,\n\\(L = 4 \\times 9^2 = 324cm\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "216",
+    "text": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction did the third teacher receive?",
+    "options": {
+      "A": "8/15",
+      "B": "11/25",
+      "C": "12/25",
+      "D": "13/25"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8208?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "D",
+    "explanation": "First teacher received \\(\\frac{2}{5}\\) \u2234Remainder \\(= 1 - \\frac{2}{5} = \\frac{3}{5}\\)2nd teacher received; \\(\\frac{2}{15} of \\frac{3}{5} = \\frac{2}{15} \\times \\frac{3}{5} = \\frac{2}{25}\\)3rd teacher will receive; \\(1-\\frac{2}{5}-\\frac{2}{25}=\\frac{25-10-2}{15}\\\\=\\frac{13}{25}\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "217",
+    "text": "If 6logx2 - 3logx3 = 3log50.2, find x.",
+    "options": {
+      "A": "8/3",
+      "B": "4/3",
+      "C": "3/4",
+      "D": "3/8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8209?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "6log\\(_x2\\) - 3log\\(_x3\\) = 3log\\(_50.2\\)= log\\(_x2^6\\) - 3log\\(_x3^3\\) = log\\(_5(0.2)^3\\)= logx(64/27) = log5(1/5)3logx(64/27) = log5(1/125)let logx(64/27) = y\u2234xy = 64/27and log5(1/125) = y\u2234 5y = 1/1255y = 125-15y = 5-3\u2234 y = -3substitute y = -3 in xy = 64/27implies x-3 = 64/271/x3 = 64/2764x3 = 27x3 = 27/64x3 = 3\u221a27/64x = 3/4\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "218",
+    "text": "Find P, if 4516 - P7 = 3056",
+    "options": {
+      "A": "627",
+      "B": "1167",
+      "C": "6117",
+      "D": "1427"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8210?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "6\n7\n6\n7\n6\n6\n7\n6\n6\n2\n1\n0\n10\n7\n7\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "219",
+    "text": "Given that \\(\\sqrt[3]{{4}}\\)\\(^{2x}\\) = 16, find the value of x",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8211?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "3\u221a42x = 16this implies that (3\u221a42x)3 = (16)342x = 42*342x = 46\u2234 2x = 6x = 3\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "220",
+    "text": "Evaluate \\(\\frac{\\frac{1}{10}\\times\\frac{2}{3}+\\frac{1}{4}}{\\frac{\\frac{1}{2}}{\\frac{3}{5}}-\\frac{1}{4}}\\)",
+    "options": {
+      "A": "\\(\\frac{7}{12}\\)",
+      "B": "\\(\\frac{19}{35}\\)",
+      "C": "\\(\\frac{2}{25}\\)",
+      "D": "\\(\\frac{19}{60}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8212?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "221",
+    "text": "The shaded region in the Venn diagram above is",
+    "options": {
+      "A": "Pc \u222a (Q \u2229 R)",
+      "B": "Pc \u2229 (Q \u222a R)",
+      "C": "P \u2229 Q",
+      "D": "Pc \u2229 (Q \u2229 R)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8213?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "The shaded portion shows the elements in Q and R, but not in P, Q n R n P'\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "222",
+    "text": "Simplify \\(\\frac{1}{\\sqrt{3}+2}\\) in the form \\(a+b\\sqrt{3}\\)",
+    "options": {
+      "A": "2 -\u221a3",
+      "B": "-2 - \u221a3",
+      "C": "2 + \u221a3",
+      "D": "-2 + \u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8214?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1}{\\sqrt{3}+2}\\)\n= \\(\\frac{1}{\\sqrt{3}+2}\\times \\frac{\\sqrt{3} - 2}{\\sqrt{3} - 2}\\)\n= \\(\\frac{\\sqrt{3}-2}{(\\sqrt{3})^{2} -2^{2}}\\)\n= \\(\\frac{\\sqrt{3}-2}{3-4}\\)\n= \\(\\frac{\\sqrt{3}-2}{1}\\) = -\\(\\sqrt{3}+2\\)\n= 2- \\(\\sqrt{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "223",
+    "text": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?",
+    "options": {
+      "A": "1 : 250 000",
+      "B": "1 : 25 000",
+      "C": "1 : 500",
+      "D": "1 : 5 000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8215?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "484",
+    "text": "The shadow of a pole 5\u221a3m high is 5m. Find the angle of elevation of the sun.",
+    "options": {
+      "A": "45o",
+      "B": "75o",
+      "C": "30o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11100?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "5\u221a3\n5\no\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "485",
+    "text": "The shaded area in the diagram above is represented by",
+    "options": {
+      "A": "{(x,y) : y - 3x < -6}",
+      "B": "{(x,y) : y + 3x < 6}",
+      "C": "{(x,y) : y + 3x < -6}",
+      "D": "{(x,y) : y - 3x < 6}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11101?exam_type=jamb&type=obj&page=97",
+    "correct_answer": "B",
+    "explanation": "Coordinates of the line are (x1 y1)(0,2) respectively and (x2 y2)(2,0) respectivelyGradient (m) of the line = (y2 - y1) / (x2 - x1) = (0-6) / (2-0) = -6/2= -3Equation of the line y-y1 = m(x-x1)y - 6 = -3(x - 0)y - 6 = -3xy + 3x = 6inequality; from the y axis, the shaded region is below the line\u2234 y + 3x \u2220 6 and line is a broken line\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  },
+  {
+    "number": "494",
+    "text": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV.",
+    "options": {
+      "A": "56 cm",
+      "B": "22 cm",
+      "C": "42 cm",
+      "D": "44 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11111?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "Each interior Angle of the polygon =(n-2)180_n\n=(6-2)180_6\no\no\n120\n2\no\n22\n7\n7\n1\nThere is an explanation video availablebelow.",
+    "year": "2004"
+  }
+]

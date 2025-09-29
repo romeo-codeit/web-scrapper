@@ -1,0 +1,137 @@
+[
+  {
+    "number": "151",
+    "text": "A particle is projected at an angle of 30\u00b0 to the horizontal with a speed of 250 ms\\(^{-1}\\). Calculate the;\n(a) total time of flight of the particle;\n(b) speed of the particle at its maximum height. [ g = 10 ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53636?exam_type=waec&type=theory&page=31",
+    "correct_answer": "(a) T = \\(\\frac{2Usin\\theta}{g} = \\frac{2 \\times 250 \\times sin 30}{10}\\)\n= 25s\n(b) Speed at h\\(_{\\text{max}} Ucos \\theta\\)\n= 250 cos 30\\(^o\\) = 216m/s",
+    "explanation": "(a) T = \\(\\frac{2Usin\\theta}{g} = \\frac{2 \\times 250 \\times sin 30}{10}\\)\n= 25s\n(b) Speed at h\\(_{\\text{max}} Ucos \\theta\\)\n= 250 cos 30\\(^o\\) = 216m/s",
+    "year": "2007"
+  },
+  {
+    "number": "152",
+    "text": "State;\n(a) the difference between plane polarized light and ordinary light;\n(b) two uses of polaroids.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53637?exam_type=waec&type=theory&page=31",
+    "correct_answer": "(a) In plane polarized light the vibration of the particles are confirmed to a single plane while in ordinary light, the particles vibrate in all planes perpendicular to the direction of propagation of the wave.\n(b) Uses of polaroids are:\n\u2014 stress analysis\n\u2014 measurement of concentration of sugar solution\n\u2014 used to eliminate sun glare\n\u2014 used in sun glasses to reduce the intensity of sunlight",
+    "explanation": "(a) In plane polarized light the vibration of the particles are confirmed to a single plane while in ordinary light, the particles vibrate in all planes perpendicular to the direction of propagation of the wave.\n(b) Uses of polaroids are:\n\u2014 stress analysis\n\u2014 measurement of concentration of sugar solution\n\u2014 used to eliminate sun glare\n\u2014 used in sun glasses to reduce the intensity of sunlight",
+    "year": "2007"
+  },
+  {
+    "number": "153",
+    "text": "Define\n(a) electrolysis;\n(b) electrolyte;\n(c) electrode.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53638?exam_type=waec&type=theory&page=31",
+    "correct_answer": "(a) Electrolysis is the process of decomposing certain solutions or liquids or molten substances into their component parts by the passage of electricity through them.\n(b) Electrolyte is the solution or liquid or molten substance which will conduct electricity and which can be decomposed into its component parts during electrolysis.\n(c) Electrodes are the conductors in contact with an electrolyte through which current enters or leaves the electrolyte.",
+    "explanation": "(a) Electrolysis is the process of decomposing certain solutions or liquids or molten substances into their component parts by the passage of electricity through them.\n(b) Electrolyte is the solution or liquid or molten substance which will conduct electricity and which can be decomposed into its component parts during electrolysis.\n(c) Electrodes are the conductors in contact with an electrolyte through which current enters or leaves the electrolyte.",
+    "year": "2007"
+  },
+  {
+    "number": "154",
+    "text": "Copper of thickness d is plated on the cathode of a copper voltameter. If the total surface area of the cathode is 60 cm\\(^2\\) and a steady current of 5.0 A is maintained in the voltameter for 1 hour. calculate the value of d. [density of copper = 8.9 x 10\\(^3\\)kg m\\(^{-3}\\) electro chemical equivalent of copper = 3.3 x 10\\(^{-7}\\) kg C\\(^{-1}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53639?exam_type=waec&type=theory&page=31",
+    "correct_answer": "Mass of Cu deposited = Area x thickness x density = electrochemical equivalent x current x time.\nThickness = \\(\\frac{\\text{electrochemical equivalent} \\times\u00a0 \\text{current} \\times \\text{time}}{Area \\times density}\\)\n= \\(\\frac{3.3 \\times 10^{-7} \\times 5 \\times 3600}{60 \\times 10^{-4} \\times 8.9 \\times 10^{3}}\\)\n= 1.1 x 10\\(^{-4}\\) m",
+    "explanation": "Mass of Cu deposited = Area x thickness x density = electrochemical equivalent x current x time.\nThickness = \\(\\frac{\\text{electrochemical equivalent} \\times\u00a0 \\text{current} \\times \\text{time}}{Area \\times density}\\)\n= \\(\\frac{3.3 \\times 10^{-7} \\times 5 \\times 3600}{60 \\times 10^{-4} \\times 8.9 \\times 10^{3}}\\)\n= 1.1 x 10\\(^{-4}\\) m",
+    "year": "2007"
+  },
+  {
+    "number": "155",
+    "text": "(a) Explain thermiopic emission\n(b) State two applications of electrical conduction through gases.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53640?exam_type=waec&type=theory&page=31",
+    "correct_answer": "(a) Thermionic emission is the release of electrons from the surface of heated mentals. It is a surface phenomenon and the rate of electron emission increases with temperature increase.\n(b) Applications of electrical conducting gases are:\n\u2014 indentification of gases\n\u2014 in advertising neon signs\n\u2014 in fluorescent tubes.",
+    "explanation": "(a) Thermionic emission is the release of electrons from the surface of heated mentals. It is a surface phenomenon and the rate of electron emission increases with temperature increase.\n(b) Applications of electrical conducting gases are:\n\u2014 indentification of gases\n\u2014 in advertising neon signs\n\u2014 in fluorescent tubes.",
+    "year": "2007"
+  },
+  {
+    "number": "156",
+    "text": "A wire of length 5.0 m and diameter 2.0 mm extends by 0.25 mm when a force of 50 N was used to stretch it from its end. Calculate the;\n(a) stress on the wire;\n(b) strain in, the wire. [\\(\\pi = 3.142\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53641?exam_type=waec&type=theory&page=32",
+    "correct_answer": "(a) Stress = \\(\\frac{Force}{Area} = \\frac{50}{3.142(1 \\times 10^{-3})^2}\\)\n(b) Strain = \\(\\frac{extension}{length} = \\frac{2.5 \\times 10^{-5}}{5}\\)\n= 5 x 10\\(^{-5}\\)",
+    "explanation": "(a) Stress = \\(\\frac{Force}{Area} = \\frac{50}{3.142(1 \\times 10^{-3})^2}\\)\n(b) Strain = \\(\\frac{extension}{length} = \\frac{2.5 \\times 10^{-5}}{5}\\)\n= 5 x 10\\(^{-5}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "157",
+    "text": "(a) List two factors that can affect the rate of diffusion\n(b) State two examples to illustrate the effects of surface tension.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53642?exam_type=waec&type=theory&page=32",
+    "correct_answer": "(a) Factors that can affect the rate of diffusion are:\n\u2014 Mass \u2014 Temperature \u2014 Density.\n(b) Effects of surface tension are:\n\u2014 needle gently placed on the surface of water floats\n\u2014 water skaters are able to walk on the surface of water\n\u2014 spilled mercury forms spherical droplets\n\u2014 soap bubbles are spherical in shape.",
+    "explanation": "(a) Factors that can affect the rate of diffusion are:\n\u2014 Mass \u2014 Temperature \u2014 Density.\n(b) Effects of surface tension are:\n\u2014 needle gently placed on the surface of water floats\n\u2014 water skaters are able to walk on the surface of water\n\u2014 spilled mercury forms spherical droplets\n\u2014 soap bubbles are spherical in shape.",
+    "year": "2007"
+  },
+  {
+    "number": "158",
+    "text": "State two effects to show (a) the existence of matter waves;\n(b) that radiation behaves like particles.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53643?exam_type=waec&type=theory&page=32",
+    "correct_answer": "a) Effects to show the existence of matter waves:\n- diffraction of electrons\n\u2014 diffraction on neutron from crystal surface\n\u2014 diffraction pattern by reflecting hydrogen and helium molecules from crystal surface.\n(b) Effects to show that radiation behaves like waves:\n\u2014 compton effect\n\u2014 photoelectric effect\n\u2014 black body radiation\n\u2014 emission/absorption spectra\n\u2014 quantization of radiation energy proposed by Planck.",
+    "explanation": "a) Effects to show the existence of matter waves:\n- diffraction of electrons\n\u2014 diffraction on neutron from crystal surface\n\u2014 diffraction pattern by reflecting hydrogen and helium molecules from crystal surface.\n(b) Effects to show that radiation behaves like waves:\n\u2014 compton effect\n\u2014 photoelectric effect\n\u2014 black body radiation\n\u2014 emission/absorption spectra\n\u2014 quantization of radiation energy proposed by Planck.",
+    "year": "2007"
+  },
+  {
+    "number": "159",
+    "text": "A stone projected horizontally from the top of a tower with a speed of 4 ms\\(^{-1}\\) lands on the level ground at a horizontal distance 25 m from the foot of the tower. Calculate the height of the tower. g = 10 ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53644?exam_type=waec&type=theory&page=32",
+    "correct_answer": "Range R = U\\(\\sqrt{\\frac{2H}{g}}\\)\nH = \\(\\frac{gR^2}{2u^2} = \\frac{10 \\times 25^2}{2 \\times 4^2}\\)\n= 195.3m",
+    "explanation": "Range R = U\\(\\sqrt{\\frac{2H}{g}}\\)\nH = \\(\\frac{gR^2}{2u^2} = \\frac{10 \\times 25^2}{2 \\times 4^2}\\)\n= 195.3m",
+    "year": "2007"
+  },
+  {
+    "number": "160",
+    "text": "Define (a) tensile Stress; (b) tensile strain; (c) yield point.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53645?exam_type=waec&type=theory&page=32",
+    "correct_answer": "(a) Tensile stress is the force per unit cross-sectional area of a wire or rod.\n(b) Tensile strain is the extension per unit length.\n(c) Yield point is a point on a load versus extension graph that represents the least force beyond which plastic deformation occurs.",
+    "explanation": "(a) Tensile stress is the force per unit cross-sectional area of a wire or rod.\n(b) Tensile strain is the extension per unit length.\n(c) Yield point is a point on a load versus extension graph that represents the least force beyond which plastic deformation occurs.",
+    "year": "2007"
+  },
+  {
+    "number": "161",
+    "text": "(a) State the conditions of equilibrium for a number of coplanar parallel forces.\n(b) A metre rule is found to balance horizontally at the 48 cm mark. When a body of mass 60 g is suspended at the 6 cm mark, the balance point is found to be at the 30 cm mark. Calculate the;\n(i) mass of the metre rule;\n(ii) distance of the balance point from the zero end, if the body were moved to the 13 cm mark.\n(c) a man pulls up a box of mass 70 kg using an inclined plane of effective length 5 m unto a platform 2.5 m high at a uniform speed. If the frictional force between the box and the plane is 1000 N;\n(i) draw a diagram to illustrate all the forces acting on the box while in motion;\n(ii) calculate the I. minimum effort applied in pulling up the box; II. velocity ratio of the plane, if it is inclined at 30\u00b0 to the horizontal; Ill. force ratio of the plane.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53646?exam_type=waec&type=theory&page=33",
+    "correct_answer": "(a) The sum of the clockwise moments about a point = the sum of the anticlockwise moments about the same point\n(b)(i)\nTake a moment about the fulcrum F\n60 x 24 = m x 18\nm = \\(\\frac{60 \\times 24}{18}\\)\n= 80g\n(ii)\nTake a momen about F, 60 x (\\(x\\) - 13) = 80 x (48 - \\(x\\))\n3(\\(x\\) - 13) = 4(48 - \\(x\\))\n3\\(x\\) - 39 = 192 - 4\\(x\\)\n7\\(x\\) = 231\n\\(x = \\frac{231}{7}\\) = 33cm\n(c)(i)\n(ii)\n(i) Minimum effort E = F + mgsin\\(\\theta\\) = 1000 + 700 sin \\(\\theta\\) = 1350N\n(ii) V.R = \\(\\frac{1}{sin \\theta} = \\frac{1}{sin 30}\\) = 2\n(ii) M.A = \\(\\frac{L}{E} = \\frac{700}{1350}\\) = 0.52",
+    "explanation": "(a) The sum of the clockwise moments about a point = the sum of the anticlockwise moments about the same point\n(b)(i)\nTake a moment about the fulcrum F\n60 x 24 = m x 18\nm = \\(\\frac{60 \\times 24}{18}\\)\n= 80g\n(ii)\nTake a momen about F, 60 x (\\(x\\) - 13) = 80 x (48 - \\(x\\))\n3(\\(x\\) - 13) = 4(48 - \\(x\\))\n3\\(x\\) - 39 = 192 - 4\\(x\\)\n7\\(x\\) = 231\n\\(x = \\frac{231}{7}\\) = 33cm\n(c)(i)\n(ii)\n(i) Minimum effort E = F + mgsin\\(\\theta\\) = 1000 + 700 sin \\(\\theta\\) = 1350N\n(ii) V.R = \\(\\frac{1}{sin \\theta} = \\frac{1}{sin 30}\\) = 2\n(ii) M.A = \\(\\frac{L}{E} = \\frac{700}{1350}\\) = 0.52",
+    "year": "2007"
+  },
+  {
+    "number": "162",
+    "text": "(a) Define the boiling point of a liquid.\n(b) With the aid of a sketch diagram, describe an experiment to determine the boiling point of a small quantity of a Iiquid\n(c) A piece of copper of mass 300 g at a temperature of 950\u00b0C is quickly transferred into a vessel of negligible thermal capacity containing 250 g of water at 25\u00b0C. If the final steady temperature of the mixture is 100\u00b0C, calculate the mass of water that will boil away. Especific heat capacity of copper = 4.0 x 10\\(^2\\) J kg\\(^{-1}\\)K\\(^{-1}\\)\u00a0 specific heat capacity of water = 4.2 x 10\\(^{3}\\) J kg\\(^{-1}\\)K\\(^{-1}\\) specific latent heat of vaporization of steam = 2.26 x 10\\(^6\\)J kg\\(^{-1}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53647?exam_type=waec&type=theory&page=33",
+    "correct_answer": "(a) Boiling point of a liquid is the temperature at which the saturated vapour pressure of the liquid is equal to the external atmospheric pressure.\n(b)\nAdd and trap a few drops of the liquid in the closed limb of the J-tube above the mercury. Insert into a beaker of water the J-tube, stirrer and thermometer. Heat the beaker and content and stir continuously. Then read and record the temperature at which the mercury levels in the two limbs are the same. Heat the beaker a little further and remove heat source. Also read and record the temperature at which the mercury levels are once again the same. The average of the two temperature values is the boiling point of the liquid.\n(c) Heat lost by copper = Heat gained by water\n0.3 x 400 (950 - 100) = 0.25 x 4200 x (100 - 25) + 2.26 x 10\\(^6\\) x m 102000\n= 78750 + 2.26 x 10\\(^6\\)m\nm = \\(\\frac{102000 \u2014 78750}{2.26 \\times 10^6}\\)\n= 0.0102876 kg or 10.3g",
+    "explanation": "(a) Boiling point of a liquid is the temperature at which the saturated vapour pressure of the liquid is equal to the external atmospheric pressure.\n(b)\nAdd and trap a few drops of the liquid in the closed limb of the J-tube above the mercury. Insert into a beaker of water the J-tube, stirrer and thermometer. Heat the beaker and content and stir continuously. Then read and record the temperature at which the mercury levels in the two limbs are the same. Heat the beaker a little further and remove heat source. Also read and record the temperature at which the mercury levels are once again the same. The average of the two temperature values is the boiling point of the liquid.\n(c) Heat lost by copper = Heat gained by water\n0.3 x 400 (950 - 100) = 0.25 x 4200 x (100 - 25) + 2.26 x 10\\(^6\\) x m 102000\n= 78750 + 2.26 x 10\\(^6\\)m\nm = \\(\\frac{102000 \u2014 78750}{2.26 \\times 10^6}\\)\n= 0.0102876 kg or 10.3g",
+    "year": "2007"
+  },
+  {
+    "number": "163",
+    "text": "(a)(i) What is a wave motion?\n(ii) State two differences between a radio wave and a sound wave.\n(b)(i) Given that you are provided with a tuning fork, a burette and other necessary apparatus, describe with the aid of a diagram, an experiment to determine the frequency of a note emitted by a source of sound. [assume the velocity of sound in air is known]\n(ii)State two precautions necessary to obtain accurate result in the experiment described in (b)(i) above\n(c) A pipe closed at one end is 100 cm long. If the air in the pipe is set into vibration and a fundamental note is produced, calculate the frequency of the note. [ velocity of sound in air = 340 ms\\(^{-1}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53648?exam_type=waec&type=theory&page=33",
+    "correct_answer": "(a)(i) A wave motion is a process of transferring a disturbance in form of K.E from one point to another in a medium without any transfer of the particles of the medium.\n(ii)\nRadio waveSound waveIt is electro-magnetic wave.It is a transverse waveRequires no medium for propagation.Has velocity equal to that of light.It is a mechanical waveIt is longitudinal waveRequires medium for propagation.Its velocity is less than that of light.\n(b) (i)\nFill the burette with water. Set the prongs of the fork into vibration and bring it near the open end of the burette, then gradually open the tap to run out some water, there-by increasing the length of the air column until a loud sound is heard. Measure and record the length L\\(_2\\) of the air column. Further run out the water while le vibrating tuning fork is still held over open end of the burette until a second loud sound is heard, then read and record the length\u00a0 L\\(_2\\) of the air column. Last repeat the experiment to obtain L L\\(_1\\) and L L\\(_2\\) again and find the mean values of L L\\(_1\\) and L L\\(_2\\). Obtain the frequency of the tuning fork using\nf = \\(\\frac{v}{2(L_2 - L_1)}\\)\nii) Precautions: - repeat the experiment to obtain nean values\n- tap tuning fork on a pad not on a hard surface\n- hold tuning fork over the burette to avoid contact\n- obtain two lengths of air column to remove rnd correction.\n(c) \\(f_o = \\frac{v}{4L} = \\frac{340}{4 \\times 100 \\times 10^{-2}}\\) = 851Hz",
+    "explanation": "(a)(i) A wave motion is a process of transferring a disturbance in form of K.E from one point to another in a medium without any transfer of the particles of the medium.\n(ii)\nRadio waveSound waveIt is electro-magnetic wave.It is a transverse waveRequires no medium for propagation.Has velocity equal to that of light.It is a mechanical waveIt is longitudinal waveRequires medium for propagation.Its velocity is less than that of light.\n(b) (i)\nFill the burette with water. Set the prongs of the fork into vibration and bring it near the open end of the burette, then gradually open the tap to run out some water, there-by increasing the length of the air column until a loud sound is heard. Measure and record the length L\\(_2\\) of the air column. Further run out the water while le vibrating tuning fork is still held over open end of the burette until a second loud sound is heard, then read and record the length\u00a0 L\\(_2\\) of the air column. Last repeat the experiment to obtain L L\\(_1\\) and L L\\(_2\\) again and find the mean values of L L\\(_1\\) and L L\\(_2\\). Obtain the frequency of the tuning fork using\nf = \\(\\frac{v}{2(L_2 - L_1)}\\)\nii) Precautions: - repeat the experiment to obtain nean values\n- tap tuning fork on a pad not on a hard surface\n- hold tuning fork over the burette to avoid contact\n- obtain two lengths of air column to remove rnd correction.\n(c) \\(f_o = \\frac{v}{4L} = \\frac{340}{4 \\times 100 \\times 10^{-2}}\\) = 851Hz",
+    "year": "2007"
+  },
+  {
+    "number": "164",
+    "text": "(a) With the aid of a simple diagram, explain how a step down transformer works.\n(b)(i) State three ways by which energy is lost in a transformer\n(ii) Mention how each of the losses in (b)(i) above can be minimized\n(c) A 95% efficient transformer is used to operate a lamp rated 60W, 220 V from a 4400 V a.c supply. Calculate the;\n(i) ratio of the number of turns in the primary coil to the number of turns in the secondary coil of the transformer\n(ii) current taken from the main circuit.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53649?exam_type=waec&type=theory&page=33",
+    "correct_answer": "(a)\nIf the primary coil is connected to an A.C source, the A.C passing through the coil sets up a changing ternating magnetic flux in the soft iron core. The secondary coil is linked with the changing flux which Juces an e.m.f in it. Since the number of turns in a secondary is less than that in the primary, the induced e.m.f is less than e.m.f in the primary. For s reason the A.C output is less than the A.0 in primary.\n(b)(i) Ways in which heat is lost in a transformer:\n- Eddy current\n- Flux leakages\n- Hysteresis losses\n- Copper or joules losses\n(ii)\nLossesMinimizing methodEddy current losses.Flux leakage,Hysteresis losses.Copper or joules losses.Laminating the core.Design an efficient core.Core made of soft magnetic material of soft iron.Using low resistance coil.\n(c) (i)\u00a0 \\(\\frac{N_s}{N_p} = \\frac{E_s}{E_p} = \\frac{220}{4400}\\)\n\\(N_p : N_s = 20 : 1\\)\n(ii) Efficiency = \\frac{output}{input} = \\frac{V_s \\times I_s}{V_p \\times I_p}\\)\n= \\(\\frac{95}{100} = \\frac{60}{4400 \\times I_p}\\)\n\\(I_p = \\frac{100 \\times 60}{95 \\times 440} = 0.014A\\)",
+    "explanation": "(a)\nIf the primary coil is connected to an A.C source, the A.C passing through the coil sets up a changing ternating magnetic flux in the soft iron core. The secondary coil is linked with the changing flux which Juces an e.m.f in it. Since the number of turns in a secondary is less than that in the primary, the induced e.m.f is less than e.m.f in the primary. For s reason the A.C output is less than the A.0 in primary.\n(b)(i) Ways in which heat is lost in a transformer:\n- Eddy current\n- Flux leakages\n- Hysteresis losses\n- Copper or joules losses\n(ii)\nLossesMinimizing methodEddy current losses.Flux leakage,Hysteresis losses.Copper or joules losses.Laminating the core.Design an efficient core.Core made of soft magnetic material of soft iron.Using low resistance coil.\n(c) (i)\u00a0 \\(\\frac{N_s}{N_p} = \\frac{E_s}{E_p} = \\frac{220}{4400}\\)\n\\(N_p : N_s = 20 : 1\\)\n(ii) Efficiency = \\frac{output}{input} = \\frac{V_s \\times I_s}{V_p \\times I_p}\\)\n= \\(\\frac{95}{100} = \\frac{60}{4400 \\times I_p}\\)\n\\(I_p = \\frac{100 \\times 60}{95 \\times 440} = 0.014A\\)",
+    "year": "2007"
+  },
+  {
+    "number": "165",
+    "text": "(a)(i) With the aid of a labelled diagram describe the mode of operation of a modern X-ray tube.\n(ii)State the energy transformations that take place during the operation of the X-ray tube.\n\u00a0\n(b) Define, as applied to X-rays, the following terms:\n(i) hardness;\n(ii) intensity.\n\u00a0\n(c) State (i) four uses of X-rays;\n(ii) one hazard of over-exposure to X-rays in a radiological laboratory.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53650?exam_type=waec&type=theory&page=33",
+    "correct_answer": "(a)(i)\nThermally generated electrons from the filament are accelerated through high P.d and focused by the focusing cathode to a target. The energy of the impending electrons is converted mostly into heat which conducted through the copper anode. A small percentage of the energy is converted into X-rays which are radiated from the target through the window.\n(ii) Energy transformation:\n(b)(i) Hardness is the strength or penetrating power of the x-ray.\n(ii) Intensity is the energy radiated per unit time per unit area.\n(c)(i) Uses of x-rays:\n- Cure of cancer\n- Radio therapy\n- Detection of fracture in bones\n- Radiography\n- In metals to detect defect and fractures\n- In agriculture to kill germs\n- Analytical tool in crystallography\n- To detect metallic weapons\n(ii) Hazzards of over-exposure to x-rays; causes\n- leukemia\n- tissue damage\n- cataracts\n- skin burn or cancer\n- genetic mutations with undesirable heredity\n- baldness\n- graying.",
+    "explanation": "(a)(i)\nThermally generated electrons from the filament are accelerated through high P.d and focused by the focusing cathode to a target. The energy of the impending electrons is converted mostly into heat which conducted through the copper anode. A small percentage of the energy is converted into X-rays which are radiated from the target through the window.\n(ii) Energy transformation:\n(b)(i) Hardness is the strength or penetrating power of the x-ray.\n(ii) Intensity is the energy radiated per unit time per unit area.\n(c)(i) Uses of x-rays:\n- Cure of cancer\n- Radio therapy\n- Detection of fracture in bones\n- Radiography\n- In metals to detect defect and fractures\n- In agriculture to kill germs\n- Analytical tool in crystallography\n- To detect metallic weapons\n(ii) Hazzards of over-exposure to x-rays; causes\n- leukemia\n- tissue damage\n- cataracts\n- skin burn or cancer\n- genetic mutations with undesirable heredity\n- baldness\n- graying.",
+    "year": "2007"
+  }
+]

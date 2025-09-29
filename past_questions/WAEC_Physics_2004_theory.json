@@ -1,0 +1,137 @@
+[
+  {
+    "number": "196",
+    "text": "In his first attempt, a long jumper took off from the spring board with a speed of 8 ms\\(^{-1}\\) at 30\u00b0 to the horizontal. He makes a second attempt with the same speed at 45\u00b0 to the horizontal. Given that the expression for the horizontal range of a projectile is \\(\\frac{u^2 sin 2\\theta}{g}\\) where all the symbols have their usual meanings, show that he gains a distance of 0.8576 m in his second attempt. [g = 10ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53948?exam_type=waec&type=theory&page=40",
+    "correct_answer": "1st Attempt R = \\(\\frac{U^2 sin 2 \\theta}{g} = \\frac{8^2 sin 60}{10} = 5.5424m\\)\n2nd Attempt R = \\(U^2sin 2 \\theta\\)\n= \\(\\frac{8^2sin 90}{10}\\) = 6.4m\nGain = 6.4 - 5.5425 = 0.8576m",
+    "explanation": "1st Attempt R = \\(\\frac{U^2 sin 2 \\theta}{g} = \\frac{8^2 sin 60}{10} = 5.5424m\\)\n2nd Attempt R = \\(U^2sin 2 \\theta\\)\n= \\(\\frac{8^2sin 90}{10}\\) = 6.4m\nGain = 6.4 - 5.5425 = 0.8576m",
+    "year": "2004"
+  },
+  {
+    "number": "197",
+    "text": "The diagram above illustrates the path ABC, in a vertical x z plane, of a bullet shot into the air at an angle above the horizontal. Copy the diagram, and, using arrows, indicate the relative magnitudes and directions of the vertical and horizontal components of the velocities of the bullet at the point A, B and C.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53949?exam_type=waec&type=theory&page=40",
+    "correct_answer": "",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "198",
+    "text": "(a) For a water voltameter, identify the;\n(i) electrolyte;\n(ii) electrodes;\n(iii) substances deposited on the electrodes\n(b)State the ratio of the volume of the substances deposited in (a) (iii) above",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53950?exam_type=waec&type=theory&page=40",
+    "correct_answer": "(a) (i) Electrolyte = dilute tetraoxosulphate (vi) acid\n(ii) Electrode = platinum\n(iii) Hydrogen and oxygen are deposited at the cathode and anode respectively.(b) Volume of hydrogen is twice that of oxygen.",
+    "explanation": "(a) (i) Electrolyte = dilute tetraoxosulphate (vi) acid\n(ii) Electrode = platinum\n(iii) Hydrogen and oxygen are deposited at the cathode and anode respectively.(b) Volume of hydrogen is twice that of oxygen.",
+    "year": "2004"
+  },
+  {
+    "number": "199",
+    "text": "A parallel beam of unpolarised light is incident on a plane glass surface at an angle of 58\\(^{o}\\) to the normal. If the reflected beam is completely polarised, calculate the refractive index of the glass.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53951?exam_type=waec&type=theory&page=40",
+    "correct_answer": "When i = 58\u00b0, r = 90' - 58\u00b0 = 32\u00b0\nn = \\(\\frac{sin i}{sin r}\\) = \\(\\frac{sin 58^o}{sin 32^o}\\)\n= 1.60",
+    "explanation": "When i = 58\u00b0, r = 90' - 58\u00b0 = 32\u00b0\nn = \\(\\frac{sin i}{sin r}\\) = \\(\\frac{sin 58^o}{sin 32^o}\\)\n= 1.60",
+    "year": "2004"
+  },
+  {
+    "number": "200",
+    "text": "State three methods of polarising an unpolarised light",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53952?exam_type=waec&type=theory&page=40",
+    "correct_answer": "Unpolarised light can be polarised.\n(i) By reflection\n(ii) By double refraction\n(iii) Polarising pile of plates\n(iv). Selective absorption by crystals.\n(v) Passing unpolarised light through a amid.",
+    "explanation": "Unpolarised light can be polarised.\n(i) By reflection\n(ii) By double refraction\n(iii) Polarising pile of plates\n(iv). Selective absorption by crystals.\n(v) Passing unpolarised light through a amid.",
+    "year": "2004"
+  },
+  {
+    "number": "201",
+    "text": "(a) Define diffusion\n(b) State Graham's law of diffusion",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53953?exam_type=waec&type=theory&page=41",
+    "correct_answer": "(a) Diffusion is the process by which substances mix with one another due to the random motion of their molecules.\n(b) Graham's law of diffusion states that the rate of diffusion of gases is inversely proportional to the square - root of their densities provided temperature remains constant.",
+    "explanation": "(a) Diffusion is the process by which substances mix with one another due to the random motion of their molecules.\n(b) Graham's law of diffusion states that the rate of diffusion of gases is inversely proportional to the square - root of their densities provided temperature remains constant.",
+    "year": "2004"
+  },
+  {
+    "number": "202",
+    "text": "A Spiral spring of natural length 20.00cm has a scale hanging freely in its lower end. When an object ass 40 g is placed in the pan. its length becomes cm. When the object is replaced with another of 60g, the length becomes 22.05cm. Calculate the mass scale pan. [g = 10 ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53954?exam_type=waec&type=theory&page=41",
+    "correct_answer": "Mg = Ke ; (m + 40)g = 1.80k .................. (i)\n(m + 60)g = 2.05K ................\u00a0 (ii)\n\\(\\frac{m + 40}{m + 60} = \\frac{1.80}{2.05}\\)\n1.80 (m + 60) = 2.05 (m + 40)\nm = \\(\\frac{26}{0.25} = 104g\\)",
+    "explanation": "Mg = Ke ; (m + 40)g = 1.80k .................. (i)\n(m + 60)g = 2.05K ................\u00a0 (ii)\n\\(\\frac{m + 40}{m + 60} = \\frac{1.80}{2.05}\\)\n1.80 (m + 60) = 2.05 (m + 40)\nm = \\(\\frac{26}{0.25} = 104g\\)",
+    "year": "2004"
+  },
+  {
+    "number": "203",
+    "text": "(a) Define Young's modulus\n(b) When a force of 50 N is applied to the free end of an elastic cord, an extension of 4 cm is produced in the cord. Calculate the work done on the cord.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53955?exam_type=waec&type=theory&page=41",
+    "correct_answer": "(a) Young's modulus is the ratio of tensile or compressive stress to tensile or compressive strain.(b) W = \\(\\frac{1}{2}\\)K = \\(\\frac{1}{T}\\) x 50 x 0.04 = 1.0J",
+    "explanation": "(a) Young's modulus is the ratio of tensile or compressive stress to tensile or compressive strain.(b) W = \\(\\frac{1}{2}\\)K = \\(\\frac{1}{T}\\) x 50 x 0.04 = 1.0J",
+    "year": "2004"
+  },
+  {
+    "number": "204",
+    "text": "(a) List two properties of cathode rays\n(b) Explain how the intensity and energy of cathode rays may be increased",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53956?exam_type=waec&type=theory&page=41",
+    "correct_answer": "(a) Properties of cathode rays: They are;\n(i) Negatively charged\n(ii) Possess energy\n(iii) Possess momentum\n(iv) Travel in straight lines in field free space.\n(v) Are deflected by electric and magnetic fields.\n(b) (i) The intensity of cathode rays can be increased by increasing the temperature of the cathode.\n(ii) The energy of cathode ray cen be increased by increasing the P.d between the anode and the cathode.",
+    "explanation": "(a) Properties of cathode rays: They are;\n(i) Negatively charged\n(ii) Possess energy\n(iii) Possess momentum\n(iv) Travel in straight lines in field free space.\n(v) Are deflected by electric and magnetic fields.\n(b) (i) The intensity of cathode rays can be increased by increasing the temperature of the cathode.\n(ii) The energy of cathode ray cen be increased by increasing the P.d between the anode and the cathode.",
+    "year": "2004"
+  },
+  {
+    "number": "205",
+    "text": "Give three observations in support of de Broglie's assumption that moving particles behave like waves.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53957?exam_type=waec&type=theory&page=41",
+    "correct_answer": "The observations are:\n(i) Photoelectric effect\n(ii) Electrons show refraction or reflection\n(iii) They have wavelength or frequency\n(iv) Electrons show diffraction patterns.\n(v) Compton effect\n(vi) Determination of molecular velocities in gases.",
+    "explanation": "The observations are:\n(i) Photoelectric effect\n(ii) Electrons show refraction or reflection\n(iii) They have wavelength or frequency\n(iv) Electrons show diffraction patterns.\n(v) Compton effect\n(vi) Determination of molecular velocities in gases.",
+    "year": "2004"
+  },
+  {
+    "number": "206",
+    "text": "(a) State two;\n(i) properties of x-rays\n(ii) reasons to show that x-rays are waves\n(iii) uses of x-rays other than those in medicine;\n(iv) hazards of x-rays.\n\u00a0\n(b) The potential difference between the cathode and target of an x-ray tube is 5.00 x 10\\(^4\\)V and the current in the tube is 2.00 x 10\\(^{-2}\\)A. Given that only one percent of the total energy supplied is emitted as x-radiation, determine the\u00a0 ospheric pressure.\n(i) maximum frequency of the emitted radiation\n(ii) rate at which heat is removed from the target in order to keep it at steady temperature. [Planck's constant, h = 6.63 x 10\\(^{-34}\\) Js, electronic charge e = 1.60 x 10\\(^{-19}\\) C]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53959?exam_type=waec&type=theory&page=42",
+    "correct_answer": "(a)(i) Properties of X-rays are:;\nThey (a) penetrates substance\n(b) travel in straight lines\n(c) are able to ionise gases.\n(d) affect photographic plate or paper making them to fogge\n(e) undergo reflection, or refraction, or polarization or diffraction etc.\n(ii) X-rays are electromagnetic waves with wave properties such as;\n- reflection\n- refraction\n- diffraction\n- polarisation\n- travel in straight line\n- cannot be deflected by magnetic or electric field.\n(iii) X - rays (a) used to ionise gases causing them to become conducting.\n(b) used in industries to locate fractures in machines and metal castings.\n(c) used to analyse crystal structure i.e. crystallography.\n(iv) X - rays are hazardous because they\n- kill mall organisms\n- cause leukaemia can damage riving tissues\n- cause genetic mutation\n- cause damage to cells of large animals.\n(b)(i) hf = eV\nf = \\(\\frac{eV}{h}\\)\nf = 1% of eV = \\(\\frac{1 \\times 1.60 \\times 10^{-17} \\times 5.00 \\times 10^4}{100 \\times 6.63 \\times 10^{-34}}\\) = 1.207 x 10\\(^7\\) Hz.\n(ii) Times rate at which heat is removed = 99% x I x V\n= \\(\\frac{99}{100}\\) x 2.00 x 10\\(^{-2}\\) x 5.00 x 10\\(^4\\)\n= 990W",
+    "explanation": "(a)(i) Properties of X-rays are:;\nThey (a) penetrates substance\n(b) travel in straight lines\n(c) are able to ionise gases.\n(d) affect photographic plate or paper making them to fogge\n(e) undergo reflection, or refraction, or polarization or diffraction etc.\n(ii) X-rays are electromagnetic waves with wave properties such as;\n- reflection\n- refraction\n- diffraction\n- polarisation\n- travel in straight line\n- cannot be deflected by magnetic or electric field.\n(iii) X - rays (a) used to ionise gases causing them to become conducting.\n(b) used in industries to locate fractures in machines and metal castings.\n(c) used to analyse crystal structure i.e. crystallography.\n(iv) X - rays are hazardous because they\n- kill mall organisms\n- cause leukaemia can damage riving tissues\n- cause genetic mutation\n- cause damage to cells of large animals.\n(b)(i) hf = eV\nf = \\(\\frac{eV}{h}\\)\nf = 1% of eV = \\(\\frac{1 \\times 1.60 \\times 10^{-17} \\times 5.00 \\times 10^4}{100 \\times 6.63 \\times 10^{-34}}\\) = 1.207 x 10\\(^7\\) Hz.\n(ii) Times rate at which heat is removed = 99% x I x V\n= \\(\\frac{99}{100}\\) x 2.00 x 10\\(^{-2}\\) x 5.00 x 10\\(^4\\)\n= 990W",
+    "year": "2004"
+  },
+  {
+    "number": "207",
+    "text": "(a) Define gravitational field intensity\n(b) In an experiment to determine the acceleration of free-fall due to gravity, g, using a simple pendulum of length I, six different values of I were used to obtain six corresponding values of period T. If a graph of I along the vertical axis is plotted against T\\(^2\\) on the horizontal axis;\n(i) make a sketch to show the nature of the graph,\n(ii) write down the equation that relates T, I and g hence obtain an expression for the slope of the graph\n(iii) given that the slope of the graph is 0.25, determine the value for g [Take \\(\\pi\\) = 3.142]\n(c) A stone, thrown horizontally from the top of a vertical wall with a velocity of 15 ms\\(^{-1}\\), hits the horizontal ground at a point 45m from the base of the wall. Calculate the\n(i) times of light of the stone\n(ii) height of the wall [g = 10ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53960?exam_type=waec&type=theory&page=42",
+    "correct_answer": "(a) The gravitational field intensity at any point on the earth's field is the gravitational force acting on a unit mass at that point\n(b)(i)\n(ii) A simple Pendulum of length L, swinging in a vertical plane at a small angle of displacement has a period T given as\n\\(T = 2 \\pi \\sqrt{\\frac{L}{g}}\\)\n\\(T^{2} = \\frac{4 \\pi^2L}{g}\\)\nL = \\(\\frac{gT^2}{4 \\pi^2}\\)\nSlope S of the graph I against \\(T^2 = \\frac{g}{4 \\pi^2}\\)\n(iii) g = 4\\(\\pi^2\\)S = 4(3.142)\\(^2\\) x 0.25 = 9.87m/s\\(^{2}\\)\n(c)(i) Time t = \\(\\frac{distance}{speed} = \\frac{45}{15}\\) = 3(s)\n(ii) Height h = \\(\\frac{1}{2} gt^2 = \\frac{1}{2} \\times 10 \\times 3^3 = 45m\\)",
+    "explanation": "(a) The gravitational field intensity at any point on the earth's field is the gravitational force acting on a unit mass at that point\n(b)(i)\n(ii) A simple Pendulum of length L, swinging in a vertical plane at a small angle of displacement has a period T given as\n\\(T = 2 \\pi \\sqrt{\\frac{L}{g}}\\)\n\\(T^{2} = \\frac{4 \\pi^2L}{g}\\)\nL = \\(\\frac{gT^2}{4 \\pi^2}\\)\nSlope S of the graph I against \\(T^2 = \\frac{g}{4 \\pi^2}\\)\n(iii) g = 4\\(\\pi^2\\)S = 4(3.142)\\(^2\\) x 0.25 = 9.87m/s\\(^{2}\\)\n(c)(i) Time t = \\(\\frac{distance}{speed} = \\frac{45}{15}\\) = 3(s)\n(ii) Height h = \\(\\frac{1}{2} gt^2 = \\frac{1}{2} \\times 10 \\times 3^3 = 45m\\)",
+    "year": "2004"
+  },
+  {
+    "number": "208",
+    "text": "Define upper fixed point and lower fixed point as used in thermometry\n(b) The electrical resistances of the element in a platinum restistance thermometer at 100\\(^o\\)C, 0\\(^o\\) and room temperature are 75.000, 63.000 and 64.992 \\(\\Omega\\) respectively. Use these data to determine the room temperature.\n(c) (i) State Boyle's law\n(ii) A uniform capillary tube, closed at one end contained dry air trapped by a thread of mecury 8.5 x 10\\(^{-2}\\)m long. When the tube was held horinzontally, the length of the air column was 5.0 x 10\\(^{-2}\\)m, when it was held vertically with the closed end downwards, the length was 4.5 x 10\\(^{-2}\\)m, Determine the value of the atmospheric pressure. [g = 10ms\\(^{-2}\\), density of mecury = 1.36 x 10\\(^4\\) kg m\\(^{-3}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53961?exam_type=waec&type=theory&page=42",
+    "correct_answer": "(a) Upper fixed point is the temperature of steam from boiling water at standard atmospheric pressure of 760 mmHg. Lower fixed point is the temperature of pure melting ice.\n(b) 75.000 \\(\\Omega\\) - 1000\\(o\\)C\n\\(\\frac{64.992 - 63.000}{75.000 - 63.000} = \\frac{R - 0}{100 - 0}; 64.992 \\Omega - R\\)\n\\(\\frac{1.992}{12.000 } = \\frac{R_1}{100}; 63.000 \\Omega - 0^oC\\)\n\\(R_1 = \\frac{1992 \\times 100}{12.000} = 16.6^oC\\)\n(c) (i) Boyle's law states that the volume of a fixed unit varies inversely as the pressure provided the temperature remains constant.\n(ii) At horizontal position pressure = A.P = H\nGas volume = 4.5 x 10\\(^{-2}\\) x cross sectional area of the tube A. But PV = Constant (Boyle's law)\nH x 5.0 x 10\\(^{-2}\\) x A = (H + 8.5 x 10\\(^{-2}\\)) x 4.5 x 10\\(^{-2}\\) x A\nH = \\(\\frac{8.5 \\times 10^{-2} \\times 4.5}{0.5} = 0.765mHg\\)\nA.P = hpg = 0.765 x 1.36 x 10\\(^4\\) x 10 = 1.04 x 10\\(^{5}\\)pa",
+    "explanation": "(a) Upper fixed point is the temperature of steam from boiling water at standard atmospheric pressure of 760 mmHg. Lower fixed point is the temperature of pure melting ice.\n(b) 75.000 \\(\\Omega\\) - 1000\\(o\\)C\n\\(\\frac{64.992 - 63.000}{75.000 - 63.000} = \\frac{R - 0}{100 - 0}; 64.992 \\Omega - R\\)\n\\(\\frac{1.992}{12.000 } = \\frac{R_1}{100}; 63.000 \\Omega - 0^oC\\)\n\\(R_1 = \\frac{1992 \\times 100}{12.000} = 16.6^oC\\)\n(c) (i) Boyle's law states that the volume of a fixed unit varies inversely as the pressure provided the temperature remains constant.\n(ii) At horizontal position pressure = A.P = H\nGas volume = 4.5 x 10\\(^{-2}\\) x cross sectional area of the tube A. But PV = Constant (Boyle's law)\nH x 5.0 x 10\\(^{-2}\\) x A = (H + 8.5 x 10\\(^{-2}\\)) x 4.5 x 10\\(^{-2}\\) x A\nH = \\(\\frac{8.5 \\times 10^{-2} \\times 4.5}{0.5} = 0.765mHg\\)\nA.P = hpg = 0.765 x 1.36 x 10\\(^4\\) x 10 = 1.04 x 10\\(^{5}\\)pa",
+    "year": "2004"
+  },
+  {
+    "number": "209",
+    "text": "(a) Explain;\n(i) wave motion\n(ii) stationary wave\u00a0\n(b)(i) List four physical properties of a wave\n(ii) Define amplitude and use it to distinguish between the node and antinode of a stationary wave\n(iii) List the factors on which the frequency of vibration in a stretched string depends\n(c) The equation, y = 5 sin (3x - 4t), where y is in millimeters, x is in meres and t is in seconds represents a wave motion . Determine the;\n(i) frequency\n(ii) period\n(iii) speed of the wave",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53962?exam_type=waec&type=theory&page=42",
+    "correct_answer": "a) (i) A wave motion is a disturbance which travels through a medium and transfers energy from one point to another without causing any permanent displacement of the medium itself.\n(ii) A stationary wave is a wave got when two progressive waves of equal amplitude and frequency or wavelength travelling in opposite direction are superimposed. In stationary wave nodes are pendulum of permanently at rest while antinodes are at maximum amplitude\nStationary wave along a string\n(b)(i) Physical properties of wave are: diffraction, refraction, reflection and.interference.\n(ii) Amplitude is the maximum displacement of a oscillating object from its equilibrium position. A node is a point on a stationary wave at zero amplitude while an antinode is a point at maximum amplitude.\n(iii) \u00a0Frequency of vibration on a stretch string depends on;\n- Tension on the string\n- Length of stretch string\n- Mass per unit length and density of the string\n(c) y = 5 sin (3x - 4t); y = A sin (\\(\\frac{2 \\pi x}{\\pi} \\times 2 \\pi ft\\))\n\\(\\frac{2 \\pi x}{\\pi}\\) = 3x\n\\(\\pi = \\frac{2 \\pi}{3}\\)m\u00a0 = 2\\(\\pi ft\\) = 4t\nf = \\(\\frac{2}{\\pi }\\)\n(i) = \\(\\frac{2}{\\pi}\\) = 0.64Hz\n(ii) T = \\(\\frac{1}{f}\\) = \\(\\frac{1}{0.64}\\) = 1.56(s)\n(iii) V = f\\(\\pi\\) = 0.64 x \\(\\frac{2 \\pi}{3} = 1.34\\)m/s",
+    "explanation": "a) (i) A wave motion is a disturbance which travels through a medium and transfers energy from one point to another without causing any permanent displacement of the medium itself.\n(ii) A stationary wave is a wave got when two progressive waves of equal amplitude and frequency or wavelength travelling in opposite direction are superimposed. In stationary wave nodes are pendulum of permanently at rest while antinodes are at maximum amplitude\nStationary wave along a string\n(b)(i) Physical properties of wave are: diffraction, refraction, reflection and.interference.\n(ii) Amplitude is the maximum displacement of a oscillating object from its equilibrium position. A node is a point on a stationary wave at zero amplitude while an antinode is a point at maximum amplitude.\n(iii) \u00a0Frequency of vibration on a stretch string depends on;\n- Tension on the string\n- Length of stretch string\n- Mass per unit length and density of the string\n(c) y = 5 sin (3x - 4t); y = A sin (\\(\\frac{2 \\pi x}{\\pi} \\times 2 \\pi ft\\))\n\\(\\frac{2 \\pi x}{\\pi}\\) = 3x\n\\(\\pi = \\frac{2 \\pi}{3}\\)m\u00a0 = 2\\(\\pi ft\\) = 4t\nf = \\(\\frac{2}{\\pi }\\)\n(i) = \\(\\frac{2}{\\pi}\\) = 0.64Hz\n(ii) T = \\(\\frac{1}{f}\\) = \\(\\frac{1}{0.64}\\) = 1.56(s)\n(iii) V = f\\(\\pi\\) = 0.64 x \\(\\frac{2 \\pi}{3} = 1.34\\)m/s",
+    "year": "2004"
+  },
+  {
+    "number": "210",
+    "text": "(a) (i) Explain electromotive force\n(ii) list two sources of electromotive force other than a chemical cell\n(b) A chemical cell of electromotive force, E, and internal resistance, r, is connected in series with an ammeter, a plug key a plug key and an external load of resistance R. A volumeter is connected across the cell. Draw a circuit diagram to illustrate the arrangement,\n(c) for the arrangement in (b) above, with the key opened and closed, the voltmeter readings are V\\(_o\\) and V respectively.\n(i) Explain the physical meanings of V\\(_o\\) and V\n(ii) Find an expression for the (I) current passing through the circuit (II) maximum power dissipated in the cell and external load respectively; (III) efficiency of the cell",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53964?exam_type=waec&type=theory&page=42",
+    "correct_answer": "(i) E.m.f is the work doone in taking a unit electric charge round a closed circuit. H is measured in volts.\n(ii) Other sources of e.m.f. are; solar cells, fuel cells, dynamo or electric generators, thermocouple etc.\n(b)\n(c) (i) In open circuit Vo e.m.f of the cell.\nIn closed circuit V terminal p.d of the cell.\n(ii) (a) I = \\(\\frac{E}{R + r}\\)\n(b) Maximum power dissipated in the cell occurs when the external resistance = the internal resistance of the cell i.e. R = r. Maximum power dissipated in the cell = IE\n= \\(\\frac{E}{R + r} \\times E = \\frac{E^2}{R + r} = \\frac{E^2}{2R}\\)\nMaximuim power dissipated in the external load\n= I\\(^2\\)R = \\(\\frac{E^2R}{(R + r)^2}\\)\n= \\(\\frac{E^2R}{4R^2} = \\frac{E^2}{4R}\\)\n(iii) Efficiency of the call = \\(\\frac{\\text{power output}}{\\text{power input}}\\) x 100%\n= \\(\\frac{2R}{E^2} \\times \\frac{E^2}{4R}\\) x 100% = 50%",
+    "explanation": "(i) E.m.f is the work doone in taking a unit electric charge round a closed circuit. H is measured in volts.\n(ii) Other sources of e.m.f. are; solar cells, fuel cells, dynamo or electric generators, thermocouple etc.\n(b)\n(c) (i) In open circuit Vo e.m.f of the cell.\nIn closed circuit V terminal p.d of the cell.\n(ii) (a) I = \\(\\frac{E}{R + r}\\)\n(b) Maximum power dissipated in the cell occurs when the external resistance = the internal resistance of the cell i.e. R = r. Maximum power dissipated in the cell = IE\n= \\(\\frac{E}{R + r} \\times E = \\frac{E^2}{R + r} = \\frac{E^2}{2R}\\)\nMaximuim power dissipated in the external load\n= I\\(^2\\)R = \\(\\frac{E^2R}{(R + r)^2}\\)\n= \\(\\frac{E^2R}{4R^2} = \\frac{E^2}{4R}\\)\n(iii) Efficiency of the call = \\(\\frac{\\text{power output}}{\\text{power input}}\\) x 100%\n= \\(\\frac{2R}{E^2} \\times \\frac{E^2}{4R}\\) x 100% = 50%",
+    "year": "2004"
+  }
+]

@@ -1,0 +1,590 @@
+[
+  {
+    "number": "144",
+    "text": "Evaluate \\(Log_{\\sqrt{2}}4 + Log_{\\frac{1}{2}}16 - Log_{4}32\\)",
+    "options": {
+      "A": "-5.5",
+      "B": "-2.5",
+      "C": "2.5",
+      "D": "5.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5901?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "B",
+    "explanation": "To evaluate the expression \\( \\log_{\\sqrt{2}} 4 + \\log_{\\frac{1}{2}} 16 - \\log_{4} 32 \\), we can simplify each term separately.\n1. Calculate \\( \\log_{\\sqrt{2}} 4 \\)\\(\\log_{\\sqrt{2}} 4 = \\frac{\\log_2 4}{\\log_2 \\sqrt{2}}\\)We know that \\( \\log_2 4 = 2 \\) (since \\( 2^2 = 4 \\)) and \\( \\log_2 \\sqrt{2} = \\log_2 2^{1/2} = \\frac{1}{2} \\).Thus,\\(log_{\\sqrt{2}} 4 = \\frac{2}{\\frac{1}{2}} = 4\\)\n2. Calculate \\( \\log_{\\frac{1}{2}} 16 \\)\\(\\log_{\\frac{1}{2}} 16 = \\frac{\\log_2 16}{\\log_2 \\frac{1}{2}}\\)We know that \\( \\log_2 16 = 4 \\) (since \\( 2^4 = 16 \\)) and \\( \\log_2 \\frac{1}{2} = \\log_2 2^{-1} = -1 \\).Thus,\\(\\log_{\\frac{1}{2}} 16 = \\frac{4}{-1} = -4\\)\n3. Calculate \\( \\log_{4} 32 \\)\\(\\log_{4} 32 = \\frac{\\log_2 32}{\\log_2 4}\\)We know that \\( \\log_2 32 = 5 \\) (since \\( 2^5 = 32 \\)) and \\( \\log_2 4 = 2 \\).Thus,\\(\\log_{4} 32 = \\frac{5}{2}\\)\nNow, we can substitute these results back into the original expression:\\(\\log_{\\sqrt{2}} 4 + \\log_{\\frac{1}{2}} 16 - \\log_{4} 32 = 4 - 4 - \\frac{5}{2}\\)\nCalculating this gives:\\(4 - 4 - \\frac{5}{2} = 0 - \\frac{5}{2} = -\\frac{5}{2}\\)\nThus, the final result is:\\(-\\frac{5}{2}\\) = - 2.5",
+    "year": "2003"
+  },
+  {
+    "number": "145",
+    "text": "Simplify 213\\(_4\\) x 23\\(_4\\)",
+    "options": {
+      "A": "103114",
+      "B": "103214",
+      "C": "122314",
+      "D": "132114"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5902?exam_type=jamb&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "You can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert.",
+    "year": "2003"
+  },
+  {
+    "number": "146",
+    "text": "In a class of 40 students, 32 offer mathematics, 24 offer Physics, and 4 offer neither Mathematics nor Physics. How many offer both Mat\nematics and Physics?",
+    "options": {
+      "A": "20",
+      "B": "16",
+      "C": "8",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5903?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "147",
+    "text": "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))\\(^{-1}\\)",
+    "options": {
+      "A": "1.43",
+      "B": "1.53",
+      "C": "3.14",
+      "D": "4.42"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5904?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "A",
+    "explanation": "\\((\\frac{1}{0.06} \\div \\frac{1}{0.042})^{-1}\\)\n= \\((\\frac{100}{6} \\div \\frac{1000}{42})^{-1}\\)\n= \\((\\frac{100}{6} \\times \\frac{42}{1000})^{-1}\\)\n= \\((\\frac{7}{10})^{-1}\\)\n= \\(\\frac{10}{7}\\)\n= 1.4285 \\(\\approxeq\\) 1.43.",
+    "year": "2003"
+  },
+  {
+    "number": "148",
+    "text": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
+    "options": {
+      "A": "N2,160.00",
+      "B": "N1, 620.00",
+      "C": "N630.00",
+      "D": "N360.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5905?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "C.P = N1800S.P = (270/5) x 40\u00a0= N2160.00Profit = S.P - C.P = N2160 - N1800 = N360.00",
+    "year": "2003"
+  },
+  {
+    "number": "149",
+    "text": "Simplify 1 - (7/3 x 5/4) + 3/5",
+    "options": {
+      "A": "-16/15",
+      "B": "-79/60",
+      "C": "-37/15",
+      "D": "-151/60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5906?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "\\(1 - (\\frac{7}{3} \\times \\frac{5}{4}) + \\frac{3}{5}\\)\n= \\(1 - \\frac{35}{12} + \\frac{3}{5}\\)\n= \\(\\frac{60 - 175 + 36}{60}\\)\n= \\(\\frac{-79}{60}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "150",
+    "text": "Simplify \\(\\frac{\\sqrt{98} - \\sqrt{50}}{\\sqrt{32}}\\)",
+    "options": {
+      "A": "3",
+      "B": "1",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5907?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{\\sqrt{98} - \\sqrt{50}}{\\sqrt{32}}\\)\u00a0= \\(\\frac{\\sqrt{49 \\times 2} - \\sqrt{25 \\times 2}}{\\sqrt{16 \\times 2}}\\)=> \\(\\frac{7\\sqrt{2} - 5\\sqrt{2}}{4\\sqrt{2}}\\) = \\(\\frac{2\\sqrt{2}}{4\\sqrt{2}}\\) = \\(\\frac{1}{2}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "151",
+    "text": "A cinema hall contains a certain number of people. If 22\\(\\frac{1}{2}\\)% are children, 47\\(\\frac{1}{2}\\)% are men and 84 are women, find the number of men in the hall.",
+    "options": {
+      "A": "63",
+      "B": "84",
+      "C": "113",
+      "D": "133"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5908?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "D",
+    "explanation": "45/2% + 95/2% = 70%100% - 70% = 30% (i.e women)=> 30% = 841% = 84/3095/2% = (84/30 x 95/2) = 133.",
+    "year": "2003"
+  },
+  {
+    "number": "152",
+    "text": "If \\(\\frac{9^{2x-1}}{27^{x+1}} = 1\\), find the value of x.",
+    "options": {
+      "A": "8",
+      "B": "5",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5909?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{9^{2x - 1}}{27^{x + 1}} = 1\\)\n\\(\\implies 9^{2x - 1} = 27^{x + 1}\\)\n\\((3^{2})^{2x - 1} = (3^{3})^{x + 1}\\)\n\\(2(2x - 1) = 3(x + 1) \\implies 4x - 2 = 3x + 3\\)\n\\(4x - 3x = 3 + 2 \\implies x = 5\\)",
+    "year": "2003"
+  },
+  {
+    "number": "153",
+    "text": "The sum of four numbers is 1214\\(_5\\). What is the average expressed in base five?",
+    "options": {
+      "A": "114",
+      "B": "141",
+      "C": "401",
+      "D": "411"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/5911?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "Convert to base 10, divide, and then re-convert to base 5.",
+    "year": "2003"
+  },
+  {
+    "number": "159",
+    "text": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P\u222aQ)c",
+    "options": {
+      "A": "{2, 10, 14, 22, 26}",
+      "B": "{0, 10, 14, 22, 26}",
+      "C": "{2,4, 14, 18, 26}",
+      "D": "{0, 2, 6, 22, 26}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7739?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "c",
+    "year": "2003"
+  },
+  {
+    "number": "160",
+    "text": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7747?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "\\(x\\propto \\frac{uv}{u+v}\\)\nx = \\(\\frac{kuv}{u+v}\\)\nK = \\(\\frac{x(u+v)}{uv}\\)\n\\(\\frac{3(3+1)}{3\\times1}\\)\n\\(\\frac{3\\times4}{3}\\)\nk\u00a0= 4\nx =\\(\\frac{4uv}{u+v}\\)\nx = \\(\\frac{4\\times 3\\times3}{3+3}\\)\nx = \\(\\frac{36}{6}\\)\nx = 6",
+    "year": "2003"
+  },
+  {
+    "number": "161",
+    "text": "Find the range of the value of x satisfying the inequalities 5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7",
+    "options": {
+      "A": "-3 \\(\\leq\\) x \\(\\leq\\) 3",
+      "B": "3 \\(\\leq\\) x \\(\\leq\\) 6",
+      "C": "-6 \\(\\leq\\) x \\(\\leq\\) 3",
+      "D": "-6 \\(\\leq\\) x \\(\\leq\\) -3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7748?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "C",
+    "explanation": "5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 75 + x \\(\\leq\\) 8X \\(\\leq\\) 8 \u2013 5X \\(\\leq\\) 3And 13 + x \\(\\geq\\) 7X \\(\\geq\\) 7 \u2013 13X \\(\\geq\\) -6Combining the two-6 \\(\\leq\\) x \\(\\leq\\) 3",
+    "year": "2003"
+  },
+  {
+    "number": "162",
+    "text": "The graph of the function y = x\\(^2\\) + 4 and a straight line PQ are drawn to solve the equation x\\(^2\\) - 3x + 2 = 0. What is the equation of PQ?",
+    "options": {
+      "A": "y = 3x - 2",
+      "B": "y = 3x + 2",
+      "C": "y = 3x - 4",
+      "D": "y = 3x + 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7751?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "x\\(^2\\) + 4 = x\\(^2\\) - 3x + 23x + 2 = y",
+    "year": "2003"
+  },
+  {
+    "number": "163",
+    "text": "The length a person can jump is inversely proportional to his weight. If a 20 kg person can jump 1.5 m, find the constant of proportionality",
+    "options": {
+      "A": "60",
+      "B": "30",
+      "C": "20",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7760?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "164",
+    "text": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+    "options": {
+      "A": "-5, -4",
+      "B": "-4,. -5",
+      "C": "4, 5",
+      "D": "5, 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7761?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "165",
+    "text": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7766?exam_type=jamb&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "To find the common ratio of the geometric progression with terms \\( n-2 \\), \\( n \\), and \\( n+3 \\), we use the property that the square of the middle term is equal to the product of the other two terms:\n\\(n^2 = (n - 2)(n + 3)\\)\nExpanding the right side gives:\n\\(n^2 = n^2 + 3n - 2n - 6\\)\nSimplifying leads to:\n\\(0 = n - 6 \\implies n = 6\\)\nThe terms of the progression are:\n- First term: \\( n - 2 = 4 \\)- Second term: \\( n = 6 \\)- Third term: \\( n + 3 = 9 \\)\nThe common ratio \\( r \\) is calculated as follows:\n\\(r = \\frac{n}{n-2} = \\frac{6}{4} = \\frac{3}{2}\\)\nWe can verify it with the third term:\n\\(r = \\frac{n+3}{n} = \\frac{9}{6} = \\frac{3}{2}\\)\nThus, the common ratio of the geometric progression is: \\(\\boxed{\\frac{3}{2}}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "166",
+    "text": "Triangle OPQ above is the solution of the inequalities",
+    "options": {
+      "A": "x + 1 \u2265 0, y + x \u2264 0, y - x \u2265 0",
+      "B": "y + x \u2264 0, y - x \u2265 0, x -1 \u2265 0",
+      "C": "x - 1 \u2264 0, y - x \u2265 o, y + x \u2265 0",
+      "D": "x - 1 \u2264 0, y + x \u2264 0, y - x \u2264 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7768?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "A",
+    "explanation": "Lines bounding \u0394 OPQOQ; y - x = 0y - x \u2265 0PQ; x + 1 = 0x + 1 \u2265 = 0PO; y + x = 0y + x \u2264 0\u2234 x + 1 \u2265 0, y + x \u2264 0, y - x \u2265 0",
+    "year": "2003"
+  },
+  {
+    "number": "167",
+    "text": "Factorize completely 4abx - 2axy -12b2x + 6bxy",
+    "options": {
+      "A": "2x(a - 3b)(2b - y)",
+      "B": "2x(3b - a)(2b - y)",
+      "C": "2x(a - 3b)(y - 2b)",
+      "D": "2x(2b - a)(3b - y)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7772?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "A",
+    "explanation": "2\n2",
+    "year": "2003"
+  },
+  {
+    "number": "168",
+    "text": "The sum of the first n terms of an arithmetic progression is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7775?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "D",
+    "explanation": "To find the number of terms \\(n\\) in the arithmetic progression (AP), we use the formula for the sum of the first \\(n\\) terms of an AP:\n\\(S_n = \\frac{n}{2} (a + l)\\)\nwhere:- \\(S_n\\) is the sum of the first \\(n\\) terms,- \\(a\\) is the first term,- \\(l\\) is the last term.\nGiven:- \\(S_n = 252\\)- \\(a = -16\\)- \\(l = 72\\)\nStep 1: Substitute the Known Values\nSubstituting the values into the sum formula:\n\\(252 = \\frac{n}{2} (-16 + 72)\\)\nStep 2: Simplify the Equation\nCalculate \\(-16 + 72\\):\n\\(-16 + 72 = 56\\)\nNow substitute this back into the equation:\n\\(252 = \\frac{n}{2} \\cdot 56\\)\nStep 3: Solve for \\(n\\)\nMultiply both sides by 2 to eliminate the fraction:\n\\(504 = n \\cdot 56\\)\nNow, divide both sides by 56:\n\\(n = \\frac{504}{56}\\) = 9\nThus, the number of terms in the series is: 9",
+    "year": "2003"
+  },
+  {
+    "number": "169",
+    "text": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm2, find the distance between the parallel sides",
+    "options": {
+      "A": "3 cm",
+      "B": "4 cm",
+      "C": "6 cm",
+      "D": "7 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7777?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "170",
+    "text": "The locus of a point P which moves on one side only of a straight line XY so that \u2220XPY = 90o is",
+    "options": {
+      "A": "a circle",
+      "B": "a semicircle",
+      "C": "an arc of a circle through X, Y",
+      "D": "the perpendicular bisector of XY"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7788?exam_type=jamb&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "171",
+    "text": "Find the slope of the curve y = 2x\\(^2\\) + 5x - 3 at (1, 4).",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7796?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "D",
+    "explanation": "y = 2x\\(^2\\) + 5x - 3dy/dx = 4x + 5= 4 + 5= 9",
+    "year": "2003"
+  },
+  {
+    "number": "172",
+    "text": "Evaluate \\(\\int^{3} _{2}(x^2 - 2x)dx\\)",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "4/3",
+      "D": "1/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7837?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "\\(\\int^{3} _{2}(x^2 - 2x)\\)dx\n=\\(\\left[\\frac{x^3}{3}-\\frac{2x^2}{2}\\right ]^{2}_{3}\\\\\\left[\\frac{x^3}{3}-x^2 + C\\right ]^{2}_{3}\\\\\\left[\\frac{3^3}{3}-3^2 + C \\right ]-\\left[\\frac{2^3}{3}-2^2 + C \\right ]\\\\9-9-\\left[\\frac{8}{3}-4 \\right ]\\)\n=\\(\\frac{-8}{3}\\) + 4\u00a0= \\(\\frac{4}{3}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "173",
+    "text": "If y = 3 sin(-4x), dy/dx is",
+    "options": {
+      "A": "12x cos (4x)",
+      "B": "-12x cos (-4x)",
+      "C": "-12 cos (-4x)",
+      "D": "12 sin (-4x)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7838?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "y = 3 sin(-4x)dy/dx = 3 x - 4 cos (-4x)= -12 cos (-4x)",
+    "year": "2003"
+  },
+  {
+    "number": "174",
+    "text": "Determine the maximum value of y = 3x2 - x3",
+    "options": {
+      "A": "zero",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7839?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "2\n3\n2\n2\n2\n2\n2\n2\n3\n2\n3",
+    "year": "2003"
+  },
+  {
+    "number": "175",
+    "text": "By\u00a0how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
+    "options": {
+      "A": "0.75",
+      "B": "0.50",
+      "C": "0.33",
+      "D": "0.17"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7840?exam_type=jamb&type=obj&page=35",
+    "correct_answer": "C",
+    "explanation": "\\(Mean = \\frac{30+56+31+55+43+44}{6}\\)\n=\u00a0\\(\\frac{259}{6}\\) = 43.167\nMedian = 30,31,43,44,55,56\u00a0 = \\(\\frac{43+44}{2}\\)\n=\\( \\frac{87}{2}\\) = 43.5\nMedian-mean = 43.5 - 43.17 = 0.33",
+    "year": "2003"
+  },
+  {
+    "number": "176",
+    "text": "The range of 4, 3, 11, 9, 6, 15, 19, 23, 27, 24,21 and 16 is",
+    "options": {
+      "A": "16",
+      "B": "21",
+      "C": "23",
+      "D": "24"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7841?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "177",
+    "text": "Find the mean of the distribution above",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7842?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "Mean = \\(\\frac{(0 \\times 1) + (1 \\times 2) + (2 \\times 2) + (3 \\times 1) + (4 \\times 9)}{1 + 2 + 2 + 1 + 9}\\)\n= \\(\\frac{(0 + 2 + 4 + 3 + 36)}{15}\\)\n= \\(\\frac{45}{15}\\) =3",
+    "year": "2003"
+  },
+  {
+    "number": "178",
+    "text": "On a\u00a0pie chart, there are four sectors of which three angles are 45\u00b0, 90\u00b0\u00a0and 135\u00b0. If the smallest sector represents N28.00, how much is the largest sector?",
+    "options": {
+      "A": "N96.00",
+      "B": "N84.00",
+      "C": "N48.00",
+      "D": "N42.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7843?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "B",
+    "explanation": "Let the 4th angle be = x\u2234 x + 45 + 90 + 135 = 360x + 270 = 360x = 360 - 270x = 90\u2234 smallest angle = 45o45o = N28.001o = 28.00/45135o = (28.00/45) * (135/1)= N84.00",
+    "year": "2003"
+  },
+  {
+    "number": "179",
+    "text": "If \\(^{n}P_{3} - 6(^{n}C_{4}) = 0\\), find the value of n.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7844?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "To solve the equation \\(^{n}P_{3} - 6(^{n}C_{4}) = 0\\), we start by using the formulas for permutations and combinations:\n\\(^{n}P_{r} = \\frac{n!}{(n-r)!}\\)\\(^{n}C_{r} = \\frac{n!}{r!(n-r)!}\\)\n### Step 1: Substitute the formulas\nFor \\(^{n}P_{3}\\):\n\\(^{n}P_{3} = \\frac{n!}{(n-3)!}\\)\nFor \\(^{n}C_{4}\\):\n\\(^{n}C_{4} = \\frac{n!}{4!(n-4)!}\\)\n### Step 2: Substitute into the equation\nThe equation becomes:\n\\(\\frac{n!}{(n-3)!} - 6 \\left(\\frac{n!}{4!(n-4)!}\\right) = 0\\)\n### Step 3: Factor out \\(n!\\)\nFactoring \\(n!\\) from both terms gives:\n\\(n! \\left(\\frac{1}{(n-3)!} - \\frac{6}{4!(n-4)!}\\right) = 0\\)\nSince \\(n! \\neq 0\\), we can simplify to:\n\\(\\frac{1}{(n-3)!} - \\frac{6}{4!(n-4)!} = 0\\)\n### Step 4: Simplify the second term\nRecall that \\(4! = 24\\), so:\n\\(\\frac{6}{4!(n-4)!} = \\frac{6}{24(n-4)!} = \\frac{1}{4(n-4)!}\\)\n### Step 5: Rewrite the equation\nThe equation now is:\n\\(\\frac{1}{(n-3)!} - \\frac{1}{4(n-4)!} = 0\\)\n### Step 6: Multiply through by \\(4(n-3)!(n-4)!\\)\nMultiplying through by \\(4(n-3)!(n-4)!\\) gives:\n\\(4(n-4)! - (n-3)! = 0\\)\n### Step 7: Rewrite \\((n-3)!\\)\nRecall that \\((n-3)! = (n-3)(n-4)!\\), so:\n\\(4(n-4)! - (n-3)(n-4)! = 0\\)\nStep 8: Factor out \\((n-4)!\\)\nFactoring out \\((n-4)!\\) gives:\n\\((n-4)! \\left(4 - (n-3)\\right) = 0\\)\nSince \\((n-4)! \\neq 0\\), we have:\n\\(4 - (n-3) = 0\\)\nSolving for \\(n\\):\n\\(n - 3 = 4 \\implies n = 7\\)\nThe value of \\(n\\) is:\n\\(\\boxed{7}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "180",
+    "text": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "18",
+      "D": "24"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7845?exam_type=jamb&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "\\(^{4}C_2 \\times ^{3}C_1\\)\n= \\(\\left(\\frac{4!}{(4-2)!2!}\\right)\\times\\left(\\frac{3!}{(3-1)!1!}\\right)\\)\n= \\(\\frac{4!}{2!2!}\\times \\frac{3!}{2!}\\)\n= \\(\\frac{4 \\times 3 \\times 2!}{2 \\times 1 \\times 2!} \\times \\frac{3 \\times 2!}{2!} = 18\\)",
+    "year": "2003"
+  },
+  {
+    "number": "181",
+    "text": "A bag contains 5 blacks balls and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and red balls are picked?",
+    "options": {
+      "A": "15/28",
+      "B": "13/28",
+      "C": "5/14",
+      "D": "3/14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7846?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "A",
+    "explanation": "Black balls = 5Red balls = 3P(B) = 5/8, P(R) = 3/8P( a Black and a Red) = black ball and red ball\u00a0or red ball\u00a0and black ball i.e BR + RB= (5/8) * (3/7) +\u00a0(3/8) * (5/7)= (15/56) + (15/56)= 30/56= 15/28",
+    "year": "2003"
+  },
+  {
+    "number": "182",
+    "text": "The result of tossing a fair die 120 times is summarized above. Find the value of x",
+    "options": {
+      "A": "19",
+      "B": "20",
+      "C": "21",
+      "D": "22"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7847?exam_type=jamb&type=obj&page=37",
+    "correct_answer": "B",
+    "explanation": "12 + 20 + x + 21 + x-1 +28 = 1202x + 80 = 1202x = 120 - 802x = 40x = 20",
+    "year": "2003"
+  },
+  {
+    "number": "486",
+    "text": "An aeroplane flies due north from airport P to Q and then flies due east R. If Q is equidistant from P and R, find the bearing of P and R",
+    "options": {
+      "A": "90o",
+      "B": "135o",
+      "C": "225o",
+      "D": "270o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11102?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "C",
+    "explanation": "o\no",
+    "year": "2003"
+  },
+  {
+    "number": "487",
+    "text": "An arc of a circle subtends an angle of 30\u00b0\u00a0on the circumference of a circle of radius 21cm. Find the length of the arc.",
+    "options": {
+      "A": "11cm",
+      "B": "22cm",
+      "C": "44cm",
+      "D": "66cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11104?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "\u03b8 = 30 x 2(\u2220 at center twice \u2220 at circumference)\u2234 \u03b8 = 60\u00b0Length of arc = \\(\\frac{\\theta}{360}\\times 2\\pi r\\)= \\(\\frac{60}{360}\\times 2 \\times \\frac{22}{7}\\times \\frac{21}{1}\\)\n= 22cm",
+    "year": "2003"
+  },
+  {
+    "number": "488",
+    "text": "Find the equation of the locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1).",
+    "options": {
+      "A": "4x + 2y = 5",
+      "B": "4x - 2y = 5",
+      "C": "2x + 2y = 5",
+      "D": "2x + y = 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11105?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "Locus of a point P(x,y) which is equidistant from Q(0,0) and R(2,1) is the perpendicular bisector of the straight line joining Q and RMid point QR = \\(\\frac{x_2 + x_1}{2}, \\frac{y_2 + y_1}{2}\\)= \\(\\frac{2 + 0}{2}, \\frac{1 + 0}{2}\\)\n= \\((1, \\frac{1}{2})\\)\nGradient of QR = \\(\\frac{y_{2} - y_{1}}{x_{2} - x_{1}}\\)\n= \\(\\frac{1 - 0}{2 - 0}\\)\n= \\(\\frac{1}{2}\\)\nGradient of PM = \\(\\frac{-1}{\\frac{1}{2}}\\)= -2Equation of PM\u00a0= y - y\\(_1\\) = m(x-x_\\(_1\\))i.e y - 1/2 = -2(x-1)2y - 1 = -4(x-1)2y - 1 = -4x + 42y + 4x = 5",
+    "year": "2003"
+  },
+  {
+    "number": "489",
+    "text": "In the diagram above, PQ is parallel to RS. What is the value of \u03b1 + \u03b2 + \u03b3?",
+    "options": {
+      "A": "360o",
+      "B": "200o",
+      "C": "180o",
+      "D": "90o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11106?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "490",
+    "text": "XYZ is a circle with center O\u00a0and a radius 7cm. Find the area of the shaded region.",
+    "options": {
+      "A": "84cm2",
+      "B": "77cm2",
+      "C": "38cm2",
+      "D": "14cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11107?exam_type=jamb&type=obj&page=98",
+    "correct_answer": "D",
+    "explanation": "\u03b8 = 45 x 2 (\u2220 at center twice \u2220 at \u03b8)\u03b8 = 90\u00b0Area of sector = \u03b8/360 x \u03c0r2= 90/360 x 22/7 x 7 x 7= 77/2cm\\(^2\\)Area of triangle = 1/2 ab sin \u03b8= 1/2 x 7 x 7 sin 90= 1/2 x 7 x 7 x 1= 49/2 cm\\(^{2}\\)Area of shaded region = 77/2 - 49/2\n= 28/2= 14cm\\(^2\\)",
+    "year": "2003"
+  },
+  {
+    "number": "491",
+    "text": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and \u2220SPR = 40\u00b0. Find \u2220PSQ",
+    "options": {
+      "A": "40o",
+      "B": "30o",
+      "C": "20o",
+      "D": "10o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11108?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "A",
+    "explanation": "R = P (base \u2220s of isc \u0394, ps = RS)\u2234R = 40\u00b0\u2220PSQ = R (\u2220s in alternate segment)\u2234\u2220PSQ = 40\u00b0",
+    "year": "2003"
+  },
+  {
+    "number": "492",
+    "text": "A triangle has vertices P(-1,6), Q(-3, -4) and R(1, -4).Find the midpoint of PQ and QR respectively.",
+    "options": {
+      "A": "(0,-2) and (-1, -4)",
+      "B": "(-1,0) and (-1,-1)",
+      "C": "(-2,1) and (0,1)",
+      "D": "(-2,1) and (-1,-4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11109?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "Midpoint of PQ \\(\\frac{x_2 + x_1}{2};\\frac{y_2 + y_1}{2}\\)=\\(\\frac{-1+(-3)}{2};\\frac{6-4}{2}\\)=\\(\\frac{-4}{2};\\frac{2}{2}\\)= -2, 1Midpoint of QR = \\(\\frac{x_2 + x_1}{2};\\frac{y_2 + y_1}{2}\\)\\(\\frac{-3+1}{2};\\frac{-4-4}{2}\\)\\(\\frac{-2}{2};\\frac{-8}{2}\\)-1, -4Midpoint of PQ and QR = (-2,1) and (-1,-4)",
+    "year": "2003"
+  },
+  {
+    "number": "493",
+    "text": "The histogram above shows the ages of the victims of a pollution. How many people were involved in the pollution?",
+    "options": {
+      "A": "15",
+      "B": "18",
+      "C": "20",
+      "D": "21"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/11110?exam_type=jamb&type=obj&page=99",
+    "correct_answer": "C",
+    "explanation": "agePeople10320430540650220",
+    "year": "2003"
+  }
+]

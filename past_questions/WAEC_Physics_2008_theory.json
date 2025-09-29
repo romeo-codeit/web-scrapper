@@ -1,0 +1,137 @@
+[
+  {
+    "number": "136",
+    "text": "A wire gradually stretched by loading it until it snaps.\n(a) Sketch a load-extension graph for the wire\n(b) Indicate on the graph the\n(i) elastic limit (E);\n(ii) yield point (Y);\n(iii) breaking point (B).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53535?exam_type=waec&type=theory&page=28",
+    "correct_answer": "",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "137",
+    "text": "In an electrolysis experiment, the ammeter records a steady current of 1 A. The mass of copper deposited in 30 minutes is 0.66 g. Calculate the error in the ammeter reading. [ Electrochemical equivalent of copper = 0.00033 g C\\(^{-1}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53536?exam_type=waec&type=theory&page=28",
+    "correct_answer": "I = \\(\\frac{M}{zt} = \\frac{0.66}{33 \\times 10^{-5} \\times 30 \\times 60}\\)\n= 1.11A\nError = 1.11 - 1 = 0.11A",
+    "explanation": "I = \\(\\frac{M}{zt} = \\frac{0.66}{33 \\times 10^{-5} \\times 30 \\times 60}\\)\n= 1.11A\nError = 1.11 - 1 = 0.11A",
+    "year": "2008"
+  },
+  {
+    "number": "138",
+    "text": "The horizontal component of the initial speed of a particle projected at 30\u00b0 to the horizontal is 50 m\\(^{-1}\\). If the acceleration of free fall due to gravity is 10 ms\\(^{-2}\\), determine its;\n(a) initial speed;\n(b) speed at the maximum height reached.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53537?exam_type=waec&type=theory&page=28",
+    "correct_answer": "(a) Horizontal component\n\\(U_x = U cos \\theta\\)\nU = \\(\\frac{U_x}{cos0} = \\frac{50}{cos 30^o}\\) = 57.7 m/s\n(b) At maximum height\n\\(v_y = O\\) and \\(V_x = U_x\\) = 50m/s\nV = \\(\\sqrt{V^2_x + V^2_v} = \\sqrt{50^2 + 0^2}\\)\n= 50m/s",
+    "explanation": "(a) Horizontal component\n\\(U_x = U cos \\theta\\)\nU = \\(\\frac{U_x}{cos0} = \\frac{50}{cos 30^o}\\) = 57.7 m/s\n(b) At maximum height\n\\(v_y = O\\) and \\(V_x = U_x\\) = 50m/s\nV = \\(\\sqrt{V^2_x + V^2_v} = \\sqrt{50^2 + 0^2}\\)\n= 50m/s",
+    "year": "2008"
+  },
+  {
+    "number": "139",
+    "text": "Explain plane polarized light",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53538?exam_type=waec&type=theory&page=28",
+    "correct_answer": "Plane polarized light is a light wave vibrations that occur only in one plane perpendicular to the direction of propagation of the light. Light is a transverse wave, that can be plane polarized by reflection from surfaces.",
+    "explanation": "Plane polarized light is a light wave vibrations that occur only in one plane perpendicular to the direction of propagation of the light. Light is a transverse wave, that can be plane polarized by reflection from surfaces.",
+    "year": "2008"
+  },
+  {
+    "number": "140",
+    "text": "A ball bearing falls through a viscous liquid\n(a) Using a labelled diagram of a tall vessel, show all the forces acting on it\n(b) When will it attain terminal velocity?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53539?exam_type=waec&type=theory&page=28",
+    "correct_answer": "(a)\n(b) Terminal velocity is attained when W = U + V",
+    "explanation": "(a)\n(b) Terminal velocity is attained when W = U + V",
+    "year": "2008"
+  },
+  {
+    "number": "141",
+    "text": "Use the diagram to answer question;\n\nCamphor is a chemical that sub-limes and interacts with water reducing the surface tension where it is put. Explain why the toy boat illustrated above would move forward with the camphor placed at the back of it but would be stationary before the placement of the camphor.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53548?exam_type=waec&type=theory&page=29",
+    "correct_answer": "At the initial state, F\\(_1\\) = F\\(_1\\) . Therefore their resultant equal zero. At the placement of camphor F\\(_1\\) becomes less than F\\(_2\\) . Their resultant (F\\(_2\\) - F\\(_1\\)) makes the toy boat to move forward.",
+    "explanation": "At the initial state, F\\(_1\\) = F\\(_1\\) . Therefore their resultant equal zero. At the placement of camphor F\\(_1\\) becomes less than F\\(_2\\) . Their resultant (F\\(_2\\) - F\\(_1\\)) makes the toy boat to move forward.",
+    "year": "2008"
+  },
+  {
+    "number": "142",
+    "text": "An electron of charge 1.60 x 10\\(^{-19}\\)C is accelerated under a potential difference of 1.0 x 10\\(^{5}\\) V. Calculate the energy of the electron in joules.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53549?exam_type=waec&type=theory&page=29",
+    "correct_answer": "Energy of electron = eV = 1.60 x 10\\(^{-19}\\) x 1.0 x 10\\(^{5}\\)\n= 1.60 x 1 0\\(^{-14}\\)J",
+    "explanation": "Energy of electron = eV = 1.60 x 10\\(^{-19}\\) x 1.0 x 10\\(^{5}\\)\n= 1.60 x 1 0\\(^{-14}\\)J",
+    "year": "2008"
+  },
+  {
+    "number": "143",
+    "text": "a) On what principle does lighting in a fluorescent tube operate?\n(b) State two factors which determine the colour of light produced in a fluorescent tube.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53551?exam_type=waec&type=theory&page=29",
+    "correct_answer": "(a) The princle on which lighting in a fluorescent operation is electrical discharge through a gas at low pressure and at high voltage.\n(b) The colour of light produced in a fluorescent tube depends on factors;\n(i) coating inside the tube; and (ii) the nature ype of gas in the tube.",
+    "explanation": "(a) The princle on which lighting in a fluorescent operation is electrical discharge through a gas at low pressure and at high voltage.\n(b) The colour of light produced in a fluorescent tube depends on factors;\n(i) coating inside the tube; and (ii) the nature ype of gas in the tube.",
+    "year": "2008"
+  },
+  {
+    "number": "144",
+    "text": "(a) Define electrolysis.\n(b) Classify each of the following substances as an electrolyte or a non-electrolyte\n(i) sugar solution;\n(ii) kerosene;\n(iii) alkaline solution\n(iv) lemon fruit juice.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53552?exam_type=waec&type=theory&page=29",
+    "correct_answer": "(a) Electrolysis is the process through which solutions or molten substance is broken down into their component parts by the passage of electric current.\n(b)\nElectrolytesNon-electrolytes- alkaline- lemon fruit juice- sugar solution- kerosene",
+    "explanation": "(a) Electrolysis is the process through which solutions or molten substance is broken down into their component parts by the passage of electric current.\n(b)\nElectrolytesNon-electrolytes- alkaline- lemon fruit juice- sugar solution- kerosene",
+    "year": "2008"
+  },
+  {
+    "number": "145",
+    "text": "(a) State Heisenberg's Uncertainty Principle.\n(b) State one phenomenon that can only be explained in terms of the wave nature of light.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53553?exam_type=waec&type=theory&page=29",
+    "correct_answer": "Heiscnberg's uncertainty principle states that it ipossible to determine with accuracy both the ion and the momentum of a particle simultaneously i.e;\u00a0 \\(\\Delta p.\\Delta x \\geq \\frac{h}{2} \\pi\\) .\n(b) The phenomenon that can only explained in terms of the wave nature of light are ference and diffraction.",
+    "explanation": "Heiscnberg's uncertainty principle states that it ipossible to determine with accuracy both the ion and the momentum of a particle simultaneously i.e;\u00a0 \\(\\Delta p.\\Delta x \\geq \\frac{h}{2} \\pi\\) .\n(b) The phenomenon that can only explained in terms of the wave nature of light are ference and diffraction.",
+    "year": "2008"
+  },
+  {
+    "number": "146",
+    "text": "(a) A particle moves on a straight path with an initial speed u and final speed v in time t. Show that the total distance X covered by the particle is given by\n\\(x = ut + \\frac{1}{2}at^2\\)\nwhere a is the magnitude of acceleration\n(b) State;\n(i) Newton's second law of motion\n(ii) the principle of conservation of energy\n(iii) the law of floatation.\n(c) Consider a balloon of mass 0.030 kg being inflated with a gas of density 0.54 kg m\\(^{-3}\\). What will be the volume of the balloon when it just begins to rise in air of density 1.29 kg m\\(^{-3}\\)? [ g = 10 ms\\(^{-2}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53554?exam_type=waec&type=theory&page=30",
+    "correct_answer": "a) Average velocity = \\(\\frac{u + u}{2}\\)\nFrom equation V = u + at\nAeverage velocity = \\(\\frac{u + u + at}{2}\\) = \\(u + \\frac{1}{2} at\\)\nDistance covered = Ave. vel. x time\nx = (u + \\(\\frac{1}{2}\\)at)t\nx = ut +s\n(b)i) Newton's second law of motion states that the of change of momentum is proportional to the lied force and takes place in tho direction of the force.\n(ii) The principle of conservation of energy es that energy is neither created nor destroyed can be changed from one form to another. The law of floatation states that an object wil t in a fluid when the upthrust exerted upon it by fluid in which it floats equals the weight of the\n(c) Mass of air displaced = mass of ballon on and contents V x density of A air\n= V x density of gas + content\nV x 1.29 = v x 0.54 + 0.030\nV = \\(\\frac{0.03}{0.75}\\) = 0.04m\\(^3}\\)",
+    "explanation": "a) Average velocity = \\(\\frac{u + u}{2}\\)\nFrom equation V = u + at\nAeverage velocity = \\(\\frac{u + u + at}{2}\\) = \\(u + \\frac{1}{2} at\\)\nDistance covered = Ave. vel. x time\nx = (u + \\(\\frac{1}{2}\\)at)t\nx = ut +s\n(b)i) Newton's second law of motion states that the of change of momentum is proportional to the lied force and takes place in tho direction of the force.\n(ii) The principle of conservation of energy es that energy is neither created nor destroyed can be changed from one form to another. The law of floatation states that an object wil t in a fluid when the upthrust exerted upon it by fluid in which it floats equals the weight of the\n(c) Mass of air displaced = mass of ballon on and contents V x density of A air\n= V x density of gas + content\nV x 1.29 = v x 0.54 + 0.030\nV = \\(\\frac{0.03}{0.75}\\) = 0.04m\\(^3}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "147",
+    "text": "(a) State two differences between boiling and evaporation.\n(b) A closed inexpansibie vessel contains air saturated with water vapour at 77\u00b0C. The total pressure in the vessel is 1007 mmHg. Calculate the new pressure in the vessel if the temperature is reduced 1.2 27\u00b0C. [ The s.v.p. of water at 77\u00b0C and 27\u00b0C respectively are 314 mmHg and 27 mmHg. Treat the air in the vessel as an ideal gas]\n(c) The lengtn of a zinc rod at 23\u00b0C is 200 m. Calculate the increase in length of the rod when its temperature rises to 33\u00b0C. [ expansivity of zinc = 2.6 x 10\\(^{-5}\\) K\\(^{-1}\\)]\n(d) Explain with there is no temperature change when a solid being heated changes into liquid at its melting point.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53555?exam_type=waec&type=theory&page=30",
+    "correct_answer": "a)\nBoilingEvaporationTakes place at a particular temperatureTakes place through-out the whole volume of the liquid.Takes place at a steady temperatureTakes place at all temperaturesTakes place only on the surface of the liquid.Can take place at reduced temperature.\n(b) \\(P_1 = 1007 - 314 = 693 mmH_g\\)\n\\(\\frac{P_1}{T_1} - \\frac{P_2}{T_2} = \\frac{693}{350} = \\frac{P_2}{300}\\)\n\\(p_2 = \\frac{963}{350} \\times \\frac{300}{1}\\) = 594 mmH\\(_g\\)\nPressure in vessel at 27\u00b0C = pressure of air + S.V.P of water at 27\u00b0C\n= 594 + 27 = 621mm Hg\n(c) \\(\\alpha = \\frac{L_2 - L_1}{L_1(\\theta_1 - \\theta_2)}\\)\n= 2.6 x 10-5 x 200 (33-23) = 0.052m\n(d) At the solid state the molecules are tightly bounded, therefore at the melting point the heat supplied is absorbed and used to break the bonds holding the molecules together.",
+    "explanation": "a)\nBoilingEvaporationTakes place at a particular temperatureTakes place through-out the whole volume of the liquid.Takes place at a steady temperatureTakes place at all temperaturesTakes place only on the surface of the liquid.Can take place at reduced temperature.\n(b) \\(P_1 = 1007 - 314 = 693 mmH_g\\)\n\\(\\frac{P_1}{T_1} - \\frac{P_2}{T_2} = \\frac{693}{350} = \\frac{P_2}{300}\\)\n\\(p_2 = \\frac{963}{350} \\times \\frac{300}{1}\\) = 594 mmH\\(_g\\)\nPressure in vessel at 27\u00b0C = pressure of air + S.V.P of water at 27\u00b0C\n= 594 + 27 = 621mm Hg\n(c) \\(\\alpha = \\frac{L_2 - L_1}{L_1(\\theta_1 - \\theta_2)}\\)\n= 2.6 x 10-5 x 200 (33-23) = 0.052m\n(d) At the solid state the molecules are tightly bounded, therefore at the melting point the heat supplied is absorbed and used to break the bonds holding the molecules together.",
+    "year": "2008"
+  },
+  {
+    "number": "148",
+    "text": "(a) The equation y = \\(\\alpha\\) sin (wt - kx) represents a plane wave travelling in a medium along the x-direction, being the displacement at the point x at time t.\n(i) Given that x is in metres and t is in seconds, state the units of k and w\n(ii) What physical quantity does \\(\\frac{W}{k}\\) represent? Justify your answer\n(iii) State whether the wave is travelling in the positive or negative x-direction.\n\u00a0\n(b)(i) What are beats?\n(ii) A sonometer wire has a frequency of 259 Hz. It is sounded alongside a tuning fork of frequency 256 Hz. Calculate the beat frequency\n(iii) The sonometer wire in (b)(ii) above is under a tension of 1200 N. If a metre of the wire has a mass of 0.03 kg, calculate the length l of the wire when it is vibrating in the fundamental mode.\n\u00a0\n(c) List two similarities between the human eye and the photographic camera.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53560?exam_type=waec&type=theory&page=30",
+    "correct_answer": "(a)(i) K is measured in m\\(^{-1}\\) and w rad s\\(^{-1}\\)\n(ii) \\(\\frac{w}{k}\\) represents speed of wave\nw = 2\\(\\pi\\)f; and\nk = \\(\\frac{2 \\pi}{\\pi}\\)\n\\(\\frac{w}{k} \\frac{2 \\pi f}{2 \\pi/\\lambda} = f\\lambda\\)\nBut V = f\\(\\lambda\\)\n(iii) The direction of travel of the wave :s in the positive x - direction.\n(b)(i) Beats are periodic rise and fall in amplitude of the sound produced when two notes of nearly equal frequencies are sounded together.\n(ii) Beat frequency = \\(f_1 - f_2\\)\n= 259 - 256 = 3Hz\n(iii) f = \\(\\frac{1}{2L} \\sqrt{T}{m}\\)\n259 = \\(\\frac{1}{2L} \\sqrt{\\frac{1200}{0.03}}\\)\nL = 0.386m\n(c) 1. Both have converging or convex lenses.\n2. Their interiors are black.\n3. Both form real, inverted, and diminished image.\n4. Images of objects are formed on the retina of the eye and the film of the camera.",
+    "explanation": "(a)(i) K is measured in m\\(^{-1}\\) and w rad s\\(^{-1}\\)\n(ii) \\(\\frac{w}{k}\\) represents speed of wave\nw = 2\\(\\pi\\)f; and\nk = \\(\\frac{2 \\pi}{\\pi}\\)\n\\(\\frac{w}{k} \\frac{2 \\pi f}{2 \\pi/\\lambda} = f\\lambda\\)\nBut V = f\\(\\lambda\\)\n(iii) The direction of travel of the wave :s in the positive x - direction.\n(b)(i) Beats are periodic rise and fall in amplitude of the sound produced when two notes of nearly equal frequencies are sounded together.\n(ii) Beat frequency = \\(f_1 - f_2\\)\n= 259 - 256 = 3Hz\n(iii) f = \\(\\frac{1}{2L} \\sqrt{T}{m}\\)\n259 = \\(\\frac{1}{2L} \\sqrt{\\frac{1200}{0.03}}\\)\nL = 0.386m\n(c) 1. Both have converging or convex lenses.\n2. Their interiors are black.\n3. Both form real, inverted, and diminished image.\n4. Images of objects are formed on the retina of the eye and the film of the camera.",
+    "year": "2008"
+  },
+  {
+    "number": "149",
+    "text": "(a) What is a magnetic field?\n(b) With the aid of a labelled diagram describe an experiment to show that a magnetic field exists around a straight wire carrying current.\n(c) A 40 \\(\\mu\\)F capacitor in series with a 40 Q resistor is connected to a 100 V, 50 Hz a.c. supply.\n(i) Draw a circuit diagram of the arrangement\n(ii) Calculate the: I. impedance in the circuit; II. current in the circuit III. potential difference across the capacitor.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53561?exam_type=waec&type=theory&page=30",
+    "correct_answer": "(a) A magnetic field is a region or space where a magnetic force is experienced.\n(b)\nConnect a straight wire to the circuit as shown above, sprinkle iron fillings on the cardboard paper round the straight wire; and tap gently. Then close the key and gently tap again, the iron fillings form a concentric circles round the wire. This shows that there is magnetic field round a current carrying conductor.\n(c)(i)\n\\(x_c = \\frac{1}{2 \\pi fc} = \\frac{1}{2 \\pi \\times 50(40 \\times 10^{-6})}\\)\n= 79.567\\(\\Omega\\)\nz = \\(\\sqrt{R^2 + X^2_c} = \\sqrt{40^2 + 79,580^2}\\)\n(ii) I = \\(\\frac{v}{2} = \\frac{100}{89.1} = 1.12A\\)\n(iii) V = IX\\(_c\\) = 1.12 x 79.567\n= 89.1V",
+    "explanation": "(a) A magnetic field is a region or space where a magnetic force is experienced.\n(b)\nConnect a straight wire to the circuit as shown above, sprinkle iron fillings on the cardboard paper round the straight wire; and tap gently. Then close the key and gently tap again, the iron fillings form a concentric circles round the wire. This shows that there is magnetic field round a current carrying conductor.\n(c)(i)\n\\(x_c = \\frac{1}{2 \\pi fc} = \\frac{1}{2 \\pi \\times 50(40 \\times 10^{-6})}\\)\n= 79.567\\(\\Omega\\)\nz = \\(\\sqrt{R^2 + X^2_c} = \\sqrt{40^2 + 79,580^2}\\)\n(ii) I = \\(\\frac{v}{2} = \\frac{100}{89.1} = 1.12A\\)\n(iii) V = IX\\(_c\\) = 1.12 x 79.567\n= 89.1V",
+    "year": "2008"
+  },
+  {
+    "number": "150",
+    "text": "(a)(i) State Einstein's equation of photoelectric effect\n(ii) What conservation principle does the equation represent?\n(b) List three applications of photocells\n(c) A photo emissive surface has a threshold frequency of 4.02 x 10\\(^{14}\\)Hz. If the surface is illuminated by light of frequency 5.0 x 10\\(^{15}\\)Hz, calculate the:\n(i) threshold wavelength;\n(ii) work function;\n(iii) kinetic energy of the emitted photoelectrons. [ c = 3.0 x 10\\(^{8}\\) ms\\(^{-1}\\), h = 6.63 x 10\\(^{-34}\\) Js]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/53603?exam_type=waec&type=theory&page=30",
+    "correct_answer": "(a)(i) E = W + K.E, where\nE = energy of incident radiation\nW = work function of metal\nK.E. = Kinetic energy of ejected electrons\n(ii) The equation represents the principle of conservation of energy.\n(b) Applications of photocells:\n1. for burglar alarm\n2. for television cameras\n3. automatic doors\n4. automatic street lighting\n5. automatic digital counters.\n(c)(i) V = \\(f_o\\lambda_o\\)\n\\(\\lambda_o = \\frac{v}{f_o} = \\frac{3 \\times10^8}{4.02 \\times 10^{14}}\\)\n= 7.46 x 10\\(^{-7}\\)m\n(ii) W = \\(hf_o = 6.63 \\times 10^{-34} \\times 4.02 \\times 10^{14}\\)\n= 2.67 x 10\\(^{-19}\\)J\n(iii) K.E. = \\(h (f - f_o) = 6.63 \\times10^{-34} (5.0 \\times 10^{15} - 4.02 \\times 10^{14})\\)\n= 3.05 x 10\\(^{-15}\\)J",
+    "explanation": "(a)(i) E = W + K.E, where\nE = energy of incident radiation\nW = work function of metal\nK.E. = Kinetic energy of ejected electrons\n(ii) The equation represents the principle of conservation of energy.\n(b) Applications of photocells:\n1. for burglar alarm\n2. for television cameras\n3. automatic doors\n4. automatic street lighting\n5. automatic digital counters.\n(c)(i) V = \\(f_o\\lambda_o\\)\n\\(\\lambda_o = \\frac{v}{f_o} = \\frac{3 \\times10^8}{4.02 \\times 10^{14}}\\)\n= 7.46 x 10\\(^{-7}\\)m\n(ii) W = \\(hf_o = 6.63 \\times 10^{-34} \\times 4.02 \\times 10^{14}\\)\n= 2.67 x 10\\(^{-19}\\)J\n(iii) K.E. = \\(h (f - f_o) = 6.63 \\times10^{-34} (5.0 \\times 10^{15} - 4.02 \\times 10^{14})\\)\n= 3.05 x 10\\(^{-15}\\)J",
+    "year": "2008"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "number": "70",
+    "text": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
+    "options": {
+      "A": "20.980",
+      "B": "20.351",
+      "C": "20.981",
+      "D": "20.352"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1114?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "71",
+    "text": "Simplify \\((\\sqrt[3]{64a^{3}})^{-1}\\)",
+    "options": {
+      "A": "4a",
+      "B": "1/8a",
+      "C": "8a",
+      "D": "1/4a"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1115?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "\\((\\sqrt[3]{64a^{3}})^{-1} = (\\sqrt[3]{(4a)^{3}})^{-1}\\)\n= \\((4a)^{-1} \\)\n= \\(\\frac{1}{4a}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "72",
+    "text": "Given that \\(p = 1 + \\sqrt{2}\\) and \\(q = 1 - \\sqrt{2}\\), evaluate \\(\\frac{p^{2} - q^{2}}{2pq}\\).",
+    "options": {
+      "A": "2(2+\u221a2)",
+      "B": "-2(2+\u221a2)",
+      "C": "2\u221a2",
+      "D": "-2\u221a2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1120?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{p^{2} - q^{2}}{2pq} = \\frac{(p + q)(p - q)}{2pq}\\)\n= \\(\\frac{(1 + \\sqrt{2} - (1 - \\sqrt{2}))(1 + \\sqrt{2} + 1 - \\sqrt{2})}{2(1 + \\sqrt{2})(1 - \\sqrt{2})}\\)\n= \\(\\frac{(2\\sqrt{2})(2)}{-2}\\)\n= \\(-2\\sqrt{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "73",
+    "text": "A car dealer bought a second-hand car for N250,000 and spent N70,000 refurbishing it. He then sold the car for N400,000. What is the percentage gain?",
+    "options": {
+      "A": "60%",
+      "B": "32%",
+      "C": "25%",
+      "D": "20%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1122?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "74",
+    "text": "If \\(x = \\frac{y}{2}\\),evaluate\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)",
+    "options": {
+      "A": "5/8",
+      "B": "5/2",
+      "C": "5/32",
+      "D": "5/16"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1126?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "\\(x = \\frac{y}{2} \\)\n\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)\n\\(\\frac{x^3}{y^3} + \\frac{1}{2} = (\\frac{y}{2})^{3} \\div y^{3} + \\frac{1}{2}\\)\n= \\(\\frac{y^{3}}{8} \\times \\frac{1}{y^3} + \\frac{1}{2}\\)\n= \\(\\frac{1}{8} + \\frac{1}{2}\\)\n= \\(\\frac{5}{8}\\)\n\\(\\frac{1}{2} - \\frac{x^2}{y^2} = \\frac{1}{2} - (\\frac{y}{2})^{2} \\div y^2)\\)\n= \\(\\frac{1}{2} - \\frac{y^2}{4} \\times \\frac{1}{y^2}\\)\n= \\(\\frac{1}{2} - \\frac{1}{4}\\)\n= \\(\\frac{1}{4}\\)\n\\(\\therefore\u00a0\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right) = \\frac{5}{8} \\div \\frac{1}{4}\\)\n= \\(\\frac{5}{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "75",
+    "text": "Find the principal which amounts to N5,500 at a simple interest in 5 years at 2% per annum.",
+    "options": {
+      "A": "N4,900",
+      "B": "N5,000",
+      "C": "N4,700",
+      "D": "N4,800"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1129?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "76",
+    "text": "Evaluate \\(\\frac{(0.14^2 \\times\u00a00.275)}{7(0.02)}\\) to 3 decimal places.",
+    "options": {
+      "A": "0.039",
+      "B": "0.385",
+      "C": "0.033",
+      "D": "0.038"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1132?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{(0.14)^{2} \\times 0.275}{7(0.02)} = \\frac{(0.14)^{2} \\times 0.275}{0.14}\\)\n= \\(0.14 \\times 0.275\\)\n= \\(0.0385 \\approxeq 0.039\\)\nNote: Embedded zeroes are counted just the same as non-zero digits and For the number of decimal places stated, count that number of digits to the right of the decimal and underline it.\nThe next number to its right is called the 'rounder decider'. If the 'rounder decider' is 5 or more, then round the previous digit up by 1\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "77",
+    "text": "Divide: \\(a^{3x} - 26a^{2x} + 156a^{x} - 216\\) by \\(a^{2x} - 24a^{x} + 108\\).",
+    "options": {
+      "A": "ax - 2",
+      "B": "ax + 2",
+      "C": "ax - 8",
+      "D": "ax - 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1134?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{a^{3x} - 26a^{2x} + 156a^{x} - 216}{a^{2x} - 24a^{x} + 108}\\)\nLet \\(a^{x} = z\\)\n\\(\\therefore = \\frac{z^{3} - 26z^{2} + 156z - 216}{z^{2} - 24y + 108} ... (i)\\)\nDividing (i) above, we get \\(z - 2\\)\n= \\(a^{x} - 2\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "78",
+    "text": "If two graphs y = px\\(^2\\) + q and y = 2x\\(^2\\) -1 intersect at x = 2, find the value of p in terms q.",
+    "options": {
+      "A": "\\(\\frac{q-8}{7}\\)",
+      "B": "\\(\\frac{7-q}{4}\\)",
+      "C": "\\(\\frac{8-q}{2}\\)",
+      "D": "\\(\\frac{7+q}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1149?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "\\(y = px^{2} + q ... (i)\\)\n\\(y = 2x^{2} - 1 ... (ii)\\)\nAt x = 2,\n(i): \\(y = p(2^{2}) + q = 4p + q\\)\n(ii): \\(y = 2(2^{2}) - 1 = 7\\)\n\\(\\therefore \\text{The coordinates of the point of intersection = (2, 7)}\\)\n(i): \\(7 = 4p + q \\implies p = \\frac{7 - q}{4}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "79",
+    "text": "Solve the equations\nm2 + n2 = 29\nm + n = 7",
+    "options": {
+      "A": "(2, 3) and ( 3, 5)",
+      "B": "(2, 5) and (5, 2)",
+      "C": "(5, 2) and ( 5, 3)",
+      "D": "(5, 3) and (3, 5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1151?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "80",
+    "text": "An operation * is defined on the set of real numbers by a*b = a + b + 1. If the identity elements is -1, find the inverse of the element 2 under *.",
+    "options": {
+      "A": "4",
+      "B": "zero",
+      "C": "-2",
+      "D": "-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1152?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "81",
+    "text": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
+    "options": {
+      "A": "zero",
+      "B": "half of the common difference",
+      "C": "double the common difference",
+      "D": "the common difference"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1153?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "6\n12\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "82",
+    "text": "Factorize 4x2 - 9y2 + 20x + 25",
+    "options": {
+      "A": "(2x -3y + 5)(2x - 3y - 5)",
+      "B": "(2x - 3y)(2x + 3y)",
+      "C": "(2x - 3y +5)(2x + 3y + 5)",
+      "D": "(2x + 5)(2x - 9y +5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1154?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "83",
+    "text": "A sector of a circle of radius 7.2cm which subtends an angle of 300\u00b0 at the centre is used to form a cone. What is the radius of the base of the cone?",
+    "options": {
+      "A": "8cm",
+      "B": "6cm",
+      "C": "9cm",
+      "D": "7cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1155?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "(r/L) = (\u03b8/360\u00b0)Given \u03b8 = 300, and L = 7.2cm,=> r = (300 x 7.2)/360r = 6cm\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "84",
+    "text": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30\u00b0",
+    "options": {
+      "A": "4\u221a3cm",
+      "B": "8cm",
+      "C": "8\u221a3cm",
+      "D": "4cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1156?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "C",
+    "explanation": "Hint: Make a sketch of an isosceles triangle\u00a0with\u00a0two of its sides and angles angles.\n: PQ (r)\u00a0\u00a0=\u00a0PR (q) = 8cm\n: R\u00b0 = Q\u00b0 = 30\u00b0\nSum of angles in a triangle = 180\u00b0\nP\u00b0 + Q\u00b0 + R\u00b0 = 180\u00b0\nP\u00b0 + 30\u00b0 + 30\u00b0 = 180\u00b0\nP\u00b0 = 180\u00b0 - 60\u00b0\np\u00b0 = 120\u00b0.\n: PQ = r, PR = q, QR = p\nUsing sine rule:\n\\(\\frac{p}{sinP}\\) =\u00a0\\(\\frac{q}{sinq}\\)\n\\(\\frac{p}{sin120\u00b0}\\) =\u00a0\\(\\frac{8}{sin30\u00b0}\\)\ncross multiply\np =\u00a0\\(\\frac{8 X\u00a0sin120\u00b0}{sin30\u00b0}\\)\np =\u00a0\\(\\frac{8 X \u221a3/2\u00a0}{1/2}\\)\np = 8\u221a3\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "85",
+    "text": "A straight line makes an angle of 30\u00b0 with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
+    "options": {
+      "A": "y = (x/10) + 5",
+      "B": "y = x + 5",
+      "C": "\u221a3y = - x + 5\u221a3",
+      "D": "\u221a3y = x + 5\u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1515?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "2\n1\n(X2- X1) = (5 - 0)/(0 -5\u221a3)= 5/5\u221a3 = 1/\u221a3Equation of PQ = y - y1= m (x -x1)y - 0 = 1/\u221a3 (x -(-5\u221a3))Thus: \u221a3y = x + 5\u221a3There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "86",
+    "text": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "3",
+      "D": "0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1518?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "The line joining (P, 4) and (6, -2).\nGradient: \\(\\frac{-2 - 4}{6 - P} = \\frac{-6}{6 - P}\\)\nThe line joining (2, P) and (-1, 3)\nGradient: \\(\\frac{3 - P}{-1 - 2} = \\frac{3 - P}{-3}\\)\nFor\u00a0perpendicular lines, the product of their gradient = -1.\n\\((\\frac{-6}{6 - P})(\\frac{3 - P}{-3}) = -1\\)\n\\(\\frac{6 - 2P}{6 - P} = -1 \\implies 6 - 2P = P - 6\\)\n\\(6 + 6 = P + 2P \\implies P = \\frac{12}{3} = 4\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "87",
+    "text": "Find the number of sides of a regular polygon whose interior angle is twice the exterior angle.",
+    "options": {
+      "A": "6",
+      "B": "2",
+      "C": "3",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/1526?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "88",
+    "text": "P(-6, 1) and Q(6, 6) are the two ends of the diameter of a given circle. Calculate the radius.",
+    "options": {
+      "A": "6.5 units",
+      "B": "13.0 units",
+      "C": "3.5 units",
+      "D": "7.0 units"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2121?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "PQ\\(^2\\)\u00a0= (x\\(_2\\) - x\\(_1\\))\\(^2\\)\u00a0\u00a0+ (y\\(_2\\) - y\\(_1\\))\\(^2\\)= 12\\(^2\\)\u00a0 + 5\\(^2\\)= 144 + 25= 169PQ = \\(\\sqrt{169}\\) = 13But PQ = diameter = 2r, r = \\(\\frac{\\text{PQ}}{2}\\) = 6.5 units\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "89",
+    "text": "The bearings of P and Q from a common point N are 020\u00b0 and 300\u00b0 respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+    "options": {
+      "A": "040\u00b0",
+      "B": "070\u00b0",
+      "C": "280\u00b0",
+      "D": "320\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2122?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "From the diagram above, <PNQ = 80\u00ba\nBut < PQN =\u00a0 <NPQ = 50\u00ba ( base <s of isosceles triangle PQN)\nTherefore, the bearing of P from Q = 070\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "90",
+    "text": "A cylindrical tank has a capacity of 3080 m3. What is the depth of the tank if the diameter of its base is 14 m?\n\n(Take pi = 22/7)",
+    "options": {
+      "A": "23 m",
+      "B": "25 m",
+      "C": "20 m",
+      "D": "22 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2123?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "3\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "91",
+    "text": "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k.",
+    "options": {
+      "A": "y = 4 \\(\\pm\\) k",
+      "B": "y = k \\(\\pm\\) 4",
+      "C": "y = 4 + k",
+      "D": "y = k - 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2124?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "The line y = 4 is a horizontal line in the Cartesian plane. The distance from any point( x, y) to this line is given by d = | y - 4| and this distance to be equal to k\n| y - 4 | = k\ncase1, y - 4 = k, y = k + 4\u00a0\u21d2 4 + k\ncase2, y - 4 = - k, y = - k + 4\u00a0\u21d2 4 - k\ncombining the two solutions above, we have y = 4 \\(\\pm\\) k\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "92",
+    "text": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
+    "options": {
+      "A": "\u03c0r/6",
+      "B": "\u03c0r/2",
+      "C": "\u03c0r/12",
+      "D": "\u03c0r/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2125?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "93",
+    "text": "If the gradient of the curve y = 2kx2 + x + 1 at x = 1 is 9, find k.",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2126?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "94",
+    "text": "Evaluate \\(\\int 2(2x - 3)^{\\frac{2}{3}} \\mathrm d x\\)",
+    "options": {
+      "A": "3/5(2x-3)5/3 + k",
+      "B": "6/5(2x-3)5/3 + k",
+      "C": "2x-3+k",
+      "D": "2(2x-3)+k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2127?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "\\(\\int 2(2x - 3)^{\\frac{2}{3}} \\mathrm d x\\)\nLet \\(u = 2x - 3\\)\n\\(\\mathrm d u = 2 \\mathrm d x\\)\n= \\(\\int u^{\\frac{2}{3}} \\mathrm d u\\)\n= \\(\\frac{u^{\\frac{5}{3}}}{\\frac{5}{3}} + k\\)\n= \\(\\frac{3}{5} (2x - 3)^{\\frac{5}{3}} + k\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "95",
+    "text": "Differentiate \\((2x+5)^{2} (x-4)\\) with respect to x.",
+    "options": {
+      "A": "4(2x+5)(x-4)",
+      "B": "4(2x+5)(4x-3)",
+      "C": "(2x+5)(2x-13)",
+      "D": "(2x+5)(6x-11)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2128?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "\\(y = (2x + 5)^{2} (x - 4)\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = (2x + 5)^{2} (1) + (x - 4)(2)(2)(2x + 5)\\)\n= \\((2x + 5)(2x + 5 + 4x - 16)\\)\n= \\((2x + 5)(6x - 11)\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "96",
+    "text": "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1",
+    "options": {
+      "A": "20(1/3) sq. units",
+      "B": "20(2/3) sq. units",
+      "C": "10(2/3) sq. units",
+      "D": "10(1/3) sq. units"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2550?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "Hint:y = 4 - x\\(^2\\)\u00a0and y = 2x + 1=> 4 - x2 = 2x + 1=> x2 + 2x - 3 = 0(x+3)(x-1) = 0thus x = 1\u00a0or x = -3.Integrating x\\(^2\\)\u00a0+ 2x - 3\n= 3x - x\\(^2\\) - \\(\\frac{x^3}{3}\\)\nfrom (1, to -3) : 3 (1) - 1\\(^2\\) - \\(\\frac{1^3}{3}\\)\u00a0 \u00a0-\u00a0 \u00a0\u00a03 (-3)\u00a0 -\u00a0 -3\\(^2\\) - \\(\\frac{-3^3}{3}\\)\n= \\(\\frac{5}{3}\\) + 9\nwill give 32/3 = 10 \\(\\frac{2}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "97",
+    "text": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
+    "options": {
+      "A": "12\u03c0",
+      "B": "4\u03c0",
+      "C": "24\u03c0",
+      "D": "8\u03c0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2559?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "3\n3\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "98",
+    "text": "If y = x sinx, find dy/dx when x = \u03c0/2.",
+    "options": {
+      "A": "-\u03c0/2",
+      "B": "-1",
+      "C": "1",
+      "D": "\u03c0/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2569?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "99",
+    "text": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
+    "options": {
+      "A": "square of sides p",
+      "B": "square of sides 2p",
+      "C": "square of sides (p/2)",
+      "D": "square of sides (p/4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2577?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "100",
+    "text": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. Find the square of the mode.",
+    "options": {
+      "A": "49",
+      "B": "121",
+      "C": "25",
+      "D": "64"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2810?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "101",
+    "text": "Given the scores: 4, 7, 8, 11, 13, 8 with corresponding frequencies: 3, 5, 2, 7, 2, 1 respectively. The mean score is",
+    "options": {
+      "A": "7.0",
+      "B": "8.7",
+      "C": "9.5",
+      "D": "11.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2867?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "102",
+    "text": "Teams P and Q are involved in a game of football. What is the probability that the game ends in a draw?",
+    "options": {
+      "A": "2/3",
+      "B": "1/2",
+      "C": "1/3",
+      "D": "1/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2868?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "In a football/soccer game, there are 3 possible outcomes: home win, draw, and away win. So, in this case, Pr(that the game ends in a draw)\u00a0=\\(\\frac{1}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "103",
+    "text": "If 6Pr = 6, find the value of 6Pr+1",
+    "options": {
+      "A": "30",
+      "B": "33",
+      "C": "35",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/2869?exam_type=jamb&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "r\n1\nr + 1\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "154",
+    "text": "Find the variance of 2, 6, 8, 6, 2 and 6",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "\u221a6",
+      "D": "\u221a5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7713?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "2\n2\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "155",
+    "text": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination",
+    "options": {
+      "A": "490",
+      "B": "495",
+      "C": "496",
+      "D": "498"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7715?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "Combination is the number (n) of ways of selecting a number of (m) of objects from n\\(^{12}C_{8} = \\frac{12!}{8!(12-8)!}\\\\=\\frac{12!}{8!4!}\\\\\\frac{(12\\times 11\\times 10\\times 9\\times 8\\times 7\\times 6\\times 5\\times 4\\times 3\\times 2\\times 1)}{8\\times 7\\times 6\\times 5\\times 4\\times 3\\times 2\\times 1 \\times 4 \\times 3 \\times 2 \\times 1}\\\\After\\hspace{1mm} cancelling \\hspace{1mm}out \\hspace{1mm}we\\hspace{1mm} have\\\\11\\times 5\\times 9 = 495 \\)\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "156",
+    "text": "Find the range of \\(\\frac{1}{6}\\), \\(\\frac{1}{3}\\), \\(\\frac{3}{2}\\), \\(\\frac{2}{3}\\), \\(\\frac{8}{9}\\), and \\(\\frac{4}{3}\\)",
+    "options": {
+      "A": "3/4",
+      "B": "5/6",
+      "C": "7/6",
+      "D": "4/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/7718?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{1}{6}\\), \\(\\frac{1}{3}\\), \\(\\frac{3}{2}\\), \\(\\frac{2}{3}\\), \\(\\frac{8}{9}\\) and \\(\\frac{4}{3}\\).L.C.M of the denominators = 36The fraction now becomes\\(\\frac{6}{36}\\), \\(\\frac{12}{36}\\),\u00a0\\(\\frac{54}{36}\\), \\(\\frac{24}{36}\\), \\(\\frac{32}{36}\\), and \\(\\frac{48}{36}\\).Highest fraction = \\(\\frac{54}{36}\\)Lowest fraction = \\(\\frac{6}{36}\\)Range = Highest - Lowest( \\(\\frac{54}{36}\\)) - ( \\(\\frac{6}{36}\\))= \\(\\frac{48}{36}\\)= \\(\\frac{4}{3}\\).",
+    "year": "2001"
+  },
+  {
+    "number": "476",
+    "text": "Triangle SPT is the solution of the linear inequalities",
+    "options": {
+      "A": "2y - x - 2 \u2264 0, y + 2x + 2 \u2265 0, -2 \u2264 x \u2264 - 1",
+      "B": "-2 \u2264 x \u2264 2, y \u2265 0, y + 2x + 2 \u2264 0, x \u2264 0",
+      "C": "2y - x - 2 \u2264 0, y + 2x + 2 \u2264 0, y \u2265 0, x \u2264 0",
+      "D": "2y - x - 2 \u2265 0, y + 2x + 2 \u2264 0, x \u2264 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10766?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "C",
+    "explanation": "The two major lines have their lower portions involved. Since there are no broken lines here,\\(\\leq\\) will hold for the two major lines\nthat is, 2y - x - 2 = 0 becomes 2y - x - 2 \\(\\leq\\) 0\ny + 2x + 2 = 0 becomes y + 2x + 2 \\(\\leq\\) 0\nTriangle SPT is located at the positive side of the y-axis, so y \\(\\geq\\) 0, and the negative side of the x-axis so, x \\(\\leq\\)\nTherefore, OPTION C is correct.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "477",
+    "text": "\u2297\nk\nl\nm\n\n\nk\nl\nm\nk\n\n\nl\nm\nk\nl\n\n\nm\nk\nl\nm\n\n\n\n\nThe identity element with respect to the multiplication shown in the table above is",
+    "options": {
+      "A": "o",
+      "B": "m",
+      "C": "l",
+      "D": "k"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10767?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "B",
+    "explanation": "An element e of the binary expression * is said to be the identity if for any a * e = a\nfrom the given table the identity element is m\ni.e K\u00a0\u2a01 m = k\nk \u2a01 m = k.\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  },
+  {
+    "number": "478",
+    "text": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
+    "options": {
+      "A": "3/25",
+      "B": "2/25",
+      "C": "1/5",
+      "D": "4/15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/10770?exam_type=jamb&type=obj&page=96",
+    "correct_answer": "A",
+    "explanation": "Number of yellow cars = 3Total number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25Fraction of yellow cars = 3/25\nThere is an explanation video availablebelow.",
+    "year": "2001"
+  }
+]

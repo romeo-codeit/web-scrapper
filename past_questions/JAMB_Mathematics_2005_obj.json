@@ -1,0 +1,590 @@
+[
+  {
+    "number": "224",
+    "text": "Find the value of m if 13m + 24m = 41m",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "5",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8216?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "m\nm\nm\n1\n0\n1\n0\n1\n0\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "225",
+    "text": "If 321\\(_4\\) is divided by 23\\(_4\\) and leaves a remainder r, what is the value of r?",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8217?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{321_4}{23_4}\\) = \\(\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\)\n= \\(\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\) = \\(\\frac{48+8+1}{8+3}\\) =\\(\\frac{57}{11}\\) = 5\\(\\hspace{1mm}remainder\\hspace{1mm}2\\)\n\u2234 r = 2\\(_{10}\\)\u00a0\u00a0 Now\\(\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\frac{4}{2}\\) = 2\\(\\frac{4}{0}\\) = 0\\(\\hspace{1mm}or\\hspace{1mm}2\\) \u2234 r = 2\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "226",
+    "text": "Simplify 3\\(\\frac{1}{2}\\) - (2\\(\\frac{1}{3}\\)\u00a0x 1\\(\\frac{1}{4}\\)) + \\(\\frac{3}{5}\\)",
+    "options": {
+      "A": "211/60",
+      "B": "21/60",
+      "C": "111/60",
+      "D": "11/60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8218?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "3\\(\\frac{1}{2}\\) - (2\\(\\frac{1}{3}\\)\u00a0x\u00a01\\(\\frac{1}{4}\\)) + \\(\\frac{3}{5}\\))= \\(\\frac{7}{2}\\) - (\\(\\frac{7}{3}\\)\u00a0x\u00a0\\(\\frac{5}{4}\\)) + \\(\\frac{3}{5}\\))= \\(\\frac{7}{2}\\) - \\(\\frac{35}{12}\\) + \\(\\frac{3}{5}\\)= L.C.M = 60= \\(\\frac{(210 - 175 + 36)}{60}\\)= \\(\\frac{71}{60}\\)= 1\\(\\frac{11}{60}\\)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "227",
+    "text": "If the interest on N150.00 for 2\\(\\frac{1}{2}\\) years is N4.50, find the interest on N250.00 for 6 months at the same rate",
+    "options": {
+      "A": "N1.50",
+      "B": "N7.50",
+      "C": "N15.00",
+      "D": "N18.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8219?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "A",
+    "explanation": "To find the interest on \\( N250.00 \\) for \\( 6 \\) months at the same rate, we follow these steps:\nCalculate the Interest Rate\nGiven: P = N150.00, T =\u00a02\\(\\frac{1}{2}\\) years and I =\u00a0N4.50\nUsing the formula for simple interest:\n\\(I = P \\times r \\times T\\)\nRearranging to find the interest rate \\( r \\):\n\\(r = \\frac{I}{P \\times T}\\)\nSubstituting the values:\n\\(r = \\frac{4.50}{150 \\times 2.5}\\)\nCalculating \\( P \\times T \\):\n\\(P \\times T = 150 \\times 2.5 = 375\\)\nNow, substituting back to find \\( r \\):\n\\(r = \\frac{4.50}{375} = 0.012\\)\nCalculate the Interest for \u00a0N250.00 \\) for 6 Months\nWe need to calculate the interest for: P =\u00a0N250.00, T = 6 months = 0.5yrs, r = 0.012\nUsing the interest formula again:\n\\(I = P \\times r \\times T\\)\nSubstituting the values:\n\\(I = 250 \\times 0.012 \\times 0.5\\)\n\\(I = 250 \\times 0.012 = 3\\)\nThen: \\(I = 3 \\times 0.5 = 1.50\\)\nThe interest on \\( N250.00 \\) for \\( 6 \\) months at the same rate is N1.5\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "228",
+    "text": "Three boys shared some oranges. The first received 1/3 of the oranges and the second received 2/3 of the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
+    "options": {
+      "A": "60",
+      "B": "54",
+      "C": "48",
+      "D": "42"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8220?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "st\n1\n3\n1\n3\n1\n3\n2x\n3\nnd\n2\n3\n2x\n3\n2\n3\n2x\n3\n4x\n3\nrd\n1\n3\n4x\n9\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "229",
+    "text": "Evaluate \\(\\frac{(81^{\\frac{3}{4}}-27^{\\frac{1}{3}})}{3 \\times 2^3}\\)",
+    "options": {
+      "A": "3",
+      "B": "1",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8221?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{81^{\\frac{3}{4}}-27^{\\frac{1}{3}}}{3 \\times 2^3}\\)\n= \\(\\frac{(3^{3-\\frac{3}{4}}-3^{3-\\frac{3}{4}})}{3\\times 2^3}\\)\n= \\(\\frac{3^3 - 3}{3 \\times 8}\\)\n= \\(\\frac{27-3}{24}\\\\=\\frac{24}{24}\\) =1\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "230",
+    "text": "If Log102 = 0.3010 and Log103 = 0.4771, evaluate Log104.5",
+    "options": {
+      "A": "0.9542",
+      "B": "0.6532",
+      "C": "0.4771",
+      "D": "0.3010"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8222?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "10\n10\n10\n10\n1\n2\n10\n9\n2\n10\n10\n10\n2\n10\n10\n10\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "231",
+    "text": "Simplify \\(\\frac{(\u221a12-\u221a3)}{(\u221a12+\u221a3)}\\)",
+    "options": {
+      "A": "zero",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{3}{5}\\)",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8223?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{(\\sqrt{12}-\\sqrt{3})}{(\\sqrt{12}+\\sqrt{3})}\\)\n= \\(\\frac{\\sqrt{4\\times 3} - \\sqrt{3}}{\\sqrt{4\\times 3}+\\sqrt{3}}\\)\n= \\(\\frac{2\\sqrt{3}-\\sqrt{3}}{2\\sqrt{3}+\\sqrt{3}}\\)\n= \\(\\frac{\\sqrt{3}}{3\\sqrt{3}}\\)\n= \\(\\frac{1}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "232",
+    "text": "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
+    "options": {
+      "A": "19",
+      "B": "16",
+      "C": "15",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8224?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "233",
+    "text": "If m = 3, p = -3, q = 7 and r = \\(\\frac{5}{2}\\), evaluate m(p+q+r)",
+    "options": {
+      "A": "19.50",
+      "B": "19.15",
+      "C": "18.95",
+      "D": "18.05"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8225?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "m = 3, p = -3, q = 7 and r = \\(\\frac{5}{2}\\)m(p+q+r) = 3(-3 + 7 + \\(\\frac{5}{2}\\))= 3(4 + \\(\\frac{5}{2}\\))= 3(4 + 2\\(\\frac{1}{2}\\))= 3 * 6\\(\\frac{1}{2}\\)= 3 * \\(13}{2}\\)= \\(\\frac{39}{2}\\)= 19.50\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "234",
+    "text": "A polynomial in x whose zeros are -2, -1 and 3 is",
+    "options": {
+      "A": "x3 - 7x + 6",
+      "B": "x3 + 7x - 6",
+      "C": "x3 + 7x + 6",
+      "D": "x3 - 7x - 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8226?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n3\n2\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "235",
+    "text": "The time taken to do a piece of work is inversely proportional to the number of men employed. If it takes 30 men to do a piece of work in 6 days, how many men are required to do the work in 4 days?",
+    "options": {
+      "A": "20",
+      "B": "35",
+      "C": "45",
+      "D": "60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8227?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "1\nN\nK\nN\n180\nN\n180\nN\n180\n4\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "236",
+    "text": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 42/3 and L = 54, find d in terms of W and L.",
+    "options": {
+      "A": "\\(\\sqrt{\\frac{42W}{5L}}\\)",
+      "B": "\\(\\sqrt{\\frac{6L}{42W}}\\)",
+      "C": "\\(\\frac{42W}{5L}\\)",
+      "D": "\\(\\frac{5L}{42W}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8292?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "237",
+    "text": "Find the range of values of x for which 7x - 3 > 25 + 3x",
+    "options": {
+      "A": "x >7",
+      "B": "x<7",
+      "C": "x>-7",
+      "D": "x<-7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8297?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "28\n4\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "238",
+    "text": "The diagram above is the graph of the function f(x). Determine\u00a0the range of values of x for which f(x) \\(\\leq\\) 0",
+    "options": {
+      "A": "x \\(\\leq\\) 2",
+      "B": "0 \\(\\leq\\) x \\(\\leq\\) 2",
+      "C": "-2 \\(\\leq\\) x \\(\\leq\\) 0, x \\(\\geq\\) 2",
+      "D": "x \\(\\leq\\) -2, 0 \\(\\leq\\) x \\(\\leq\\) 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8301?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "The graph of the function f(x) is a curve that starts at (-2,0) and ends at (2,0) with a peak at (0,1). The range of values of x for which f(x)\u00a0\u00a0\u2264\u00a00 is the interval where the function's graph is above or touches the x-axis. From the given graph, we can see that this interval is [-2, 2]. Therefore, the correct answer is\u00a0 x \\(\\leq\\) - 2, 0 \\(\\leq\\) x \\(\\leq\\) 2\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "239",
+    "text": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
+    "options": {
+      "A": "6",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8315?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "B",
+    "explanation": "7\n3\n7\n3\nn\n2\n4\n2\n21\n7\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "240",
+    "text": "Find the sum of the first 20 terms of the series 8, 12, 16, ....., 96",
+    "options": {
+      "A": "1400",
+      "B": "1040",
+      "C": "960",
+      "D": "920"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8317?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "8, 12, 16, .....96a = 8, d = 4, l = 96, n = 20\\(S_{20} = \\frac{n}{2}(2a + (n-1)d\\)\n\\(S_{20} = \\frac{20}{2}((2\\times 8) + (20-1)\\times 4)\\)\n\\(S_{20} = 10(16 + (19\\times 4)) = 10 \\times 92\\)\n=920\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "241",
+    "text": "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity element",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "-1",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8324?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "a * b = ab + 2(a + b + 1)let e be the identity element\u2234 a * e = e * a\u00a0= a\u2234 a * e = aae + 2(a + e + 1) = aae + 2a + 2e + 2 = aae + 2e = a - 2a = 2(a + 2)e = -a - 2e = -a-2\u00a0/ (a+2)e = -(a+2) / (a+2)e = -1\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "242",
+    "text": "Three straight lines EF, GH and LK interest at O as shown above. If \u2220KOF = 52o and \u2220LOH = 85o, calculate the size of \u2220EOG.",
+    "options": {
+      "A": "26o",
+      "B": "43o",
+      "C": "52o",
+      "D": "85o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8423?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "243",
+    "text": "The sum of the interior angle of a regular polygon is 1800o. Calculate the size of one exterior angle of the polygon",
+    "options": {
+      "A": "30o",
+      "B": "24o",
+      "C": "18o",
+      "D": "12o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8424?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "244",
+    "text": "In the diagram above, O is the center of the circle,\n\n\u2220UOT = 70\u00ba\u00a0and \u2220RST = 100\u00ba. Calculate \u2220RUO.",
+    "options": {
+      "A": "20o",
+      "B": "25o",
+      "C": "50o",
+      "D": "80o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8425?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "\u2220OUT = \u2220OTU = a (Base \u2220s of 180 \u0394)\u2234 a + a + 70 = 180o (sum of \u2220s of a \u0394)2a = 180o - 70o2a = 110oa = 55oBut \u2220RUT + \u2220RBT = 180o (opposite \u2220s of a Cyclic quad)\u2234 x + a = 100 = 180x + 55 + 100 = 180x = 180 - 155x = 25so \u2220RUO = x = 25o\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "245",
+    "text": "A sector of a circle has an area of 55 cm2. If the radius of the circle is 10 cm, calculate the angle of the sector\n[\u03c0 = 22/7]",
+    "options": {
+      "A": "45o",
+      "B": "63o",
+      "C": "75o",
+      "D": "90o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8426?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "Area of a sector = \\(\\frac{\\theta}{360}\\times \\pi r^2\\)\n55 = \\(\\frac{\\theta}{360}\\times \\frac{22}{7}\\times \\frac{10\\times 10}{1}\\)\n\\(\\theta = \\frac{360 \\times 55 \\times 7}{22 \\times 10 \\times 10}\\)\n\\(\\theta = 63^{\\circ}\\)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "246",
+    "text": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm",
+    "options": {
+      "A": "25 \u03c0cm2",
+      "B": "65 \u03c0cm2",
+      "C": "120 \u03c0cm2",
+      "D": "156 \u03c0cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8427?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\n5\n1\n13\n1\n2\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "247",
+    "text": "Two lines PQ and ST intersect at 75\u00b0. The locus of points equidistant from PQ and ST lies on the",
+    "options": {
+      "A": "perpendicular bisector of PQ",
+      "B": "perpendicular bisector of ST",
+      "C": "bisector of the angles between lines PQ and ST",
+      "D": "bisector of the angles between lines PT and QS"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8428?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "The locus of points equidistant from lines PQ\u00a0and ST lies on the angle\u00a0bisector\u00a0of the angles formed by the intersection of those lines.\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "248",
+    "text": "Find the equation of the perpendicular at the point (4,3) to the line y +  2x = 5",
+    "options": {
+      "A": "2y - x = 4",
+      "B": "y + 2x = 3",
+      "C": "y + 2x = 5",
+      "D": "2y - x = 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8456?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "1\n2\n1\n1\n1\n2\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "249",
+    "text": "A chord of a circle subtends an angle of 60o at the length of a circle of radius 14 cm. Find the length of the chord",
+    "options": {
+      "A": "7 cm",
+      "B": "14 cm",
+      "C": "21 cm",
+      "D": "28 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8462?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "Chord Length (L) = \\(2 \\times Radius \\times (sin \\frac{angle}{2})\\)\n= \\(2 \\times 14 \\times (sin \\frac{60}{2})\\)\n= \\( 28 \\times (sin 30)\\)\n= \\(28 \\times \\frac{1}{2}\\)\n= \\(14cm\\)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "250",
+    "text": "If sin \u03b8 = -1/2 for 0 < \u03b8 < 360o, the value of \u03b8 is",
+    "options": {
+      "A": "30o and 150o",
+      "B": "150o and 210o",
+      "C": "210o and 330o",
+      "D": "150o and 330o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8467?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "1\n2\n-1\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "251",
+    "text": "If y = (1 - 2x)\\(^3\\), find the value of dy/dx at x = -1",
+    "options": {
+      "A": "57",
+      "B": "27",
+      "C": "-6",
+      "D": "-54"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8478?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "y = (1 - 2x)\\(^3\\)let u = 1-2xdu/dx = -2\u2234y = u\\(^3\\)dy/du = 3u\\(^2\\)But dy/dx = du/dx * dy/du= -2 * 3u\\(^2\\)= -6u\\(^2\\)= -6(1-2x)\\(^2\\)At x = -1: dy/dx = -6(1 - 2(-1))\\(^2\\)dy/dx = -6(1 + 2)\\(^2\\)= -6 * 3\\(^2\\)= -6 * 9= -54\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "252",
+    "text": "Find the derivative of y = sin(2x\\(^3\\) + 3x - 4)",
+    "options": {
+      "A": "cos (2x3 + 3x - 4)",
+      "B": "-cos (2x3 + 3x - 4)",
+      "C": "(6x2 + 3) cos (2x3 + 3x - 4)",
+      "D": "-(6x2 + 3) cos (2x3 + 3x - 4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8483?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "y = sin (2x\\(^3\\) + 3x - 4)let u = 2x\\(^3\\) + 3x - 4\u2234du/dx = 6x\\(^2\\)y = sin udy/du = cos udy/dx = du/dx * dy/du\u2234dy/dx = (6x\\(^2\\) + 3) cos u= (6x\\(^2\\) + 3)cos(2x\\(^3\\) + 3x - 4)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "253",
+    "text": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?",
+    "options": {
+      "A": "36 \u03c0 cm2/sec",
+      "B": "18 \u03c0 cm2/sec",
+      "C": "6 \u03c0 cm2/sec",
+      "D": "3 \u03c0 cm2/sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8489?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "2\n1\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "254",
+    "text": "The maximum value of the function\nf(x) = 2 + x - x\\(^2\\) is",
+    "options": {
+      "A": "\\(\\frac{9}{4}\\)",
+      "B": "\\(\\frac{7}{4}\\)",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8497?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "f(x) = 2 + x - x2dy/dx = 1-2xAs dy/dx = 01-2x = 02x = 1x = 1/2At x = 1/2f(x) = 2 + x - x2= 2 + 1/2 -(1/2)2= 2 + 1/2 - 1/4= (8+2-1) / 4 = 9/4\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "255",
+    "text": "Find the area of the figure bounded by the given pair of curves y = x\\(^2\\) - x + 3 and y = 3",
+    "options": {
+      "A": "\\(\\frac{17}{6}\\)units (sq)",
+      "B": "\\(\\frac{7}{6}\\)units (sq)",
+      "C": "\\(\\frac{5}{6}\\)units (sq)",
+      "D": "\\(\\frac{1}{6}\\)units (sq)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8508?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "Area bounded byy = \\(x^2\\) - x + 3 and y = 3The intersection is given as \\(x^2\\) - x + 3 = 3\\(x^2\\) - x = 0x(x -1) = 0The graph is sketched between x= 0 and x = 1\\(\\int^{1}_{0}\\)\\(x^2\\) - x + 3)dx - \\(\\int^{1}_{0}\\)3dx = \\(\\int^{1}{0}(x^2\\) -\u00a0 x)dx[\\(\\frac{2x^3}{3} - \\frac{x^2}{2}\\)] = f(1) - f(0) = [\\(\\frac{2}{3} - \\frac{1}{2}\\)] - [0 - 0]= \\(\\frac{4 - 3}{6}\\) = \\(\\frac{1}{6}\\)unit(sq)\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "256",
+    "text": "Evaluate \\(\\int_0^{\\frac{\\pi}{2}}sin2xdx\\)",
+    "options": {
+      "A": "1",
+      "B": "zero",
+      "C": "-1/2",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8518?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "\\(\\int_0^{\\frac{\\pi}{2}}\\)sin 2x dx = [-1/2cos 2x + C]\\(_0^{\\frac{\\pi}{2}}\\)=[-1/2 cos 2 * \u03c0/2 + C] - [-1/2 cos 2 * 0]= [-1/2 cos \u03c0] - [-1/2 cos 0]= [-1/2x - 1] - [-1/2 * 1]= 1/2 -(-1/2) = 1/2 + 1/2 = 1\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "257",
+    "text": "The histogram above shows the distribution of monthly incomes of the workers in a company. How many workers earn more than N700.00?",
+    "options": {
+      "A": "16",
+      "B": "12",
+      "C": "8",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8533?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "Workers who earn above #700 = 4 + 6 + 2 = 12\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "258",
+    "text": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8535?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "o\no\no\n36\n360\no\n36\n360\n70\n1\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "259",
+    "text": "The table above shows that the scores of a group of students in a test. If the average score is 3.5, find the value of x",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8609?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "260",
+    "text": "The modal height and range of heights 1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20 are m and r, respectively. Find m+2r.",
+    "options": {
+      "A": "1.35",
+      "B": "1.65",
+      "C": "1.95",
+      "D": "3.00"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8610?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "1.35, 1.25, 1.35, 1.40, 1.35, 1.50, 1.35, 1.50, and 1.20Modal height = 1.35Range (r) = 1.50 - 1.20= 0.30\u2234m + 2r = 1.35 + 2(0.30)= 1.35 + 0.60= 1.95\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "261",
+    "text": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is \u221a2",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8611?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "262",
+    "text": "In how many ways can 6coloured chalks be arranged if 2 are same colour?",
+    "options": {
+      "A": "60",
+      "B": "120",
+      "C": "240",
+      "D": "360"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8612?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "263",
+    "text": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table",
+    "options": {
+      "A": "360",
+      "B": "720",
+      "C": "2520",
+      "D": "5040"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8613?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "264",
+    "text": "A box contains 5 blue balls, 3 red balls and 2 white balls. Two balls are selected from the box with replacement. Find the probability of obtaining two blue or two red balls",
+    "options": {
+      "A": "\\(\\frac{17}{50}\\)",
+      "B": "\\(\\frac{3}{25}\\)",
+      "C": "\\(\\frac{1}{50}\\)",
+      "D": "\\(\\frac{3}{250}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8614?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "Blue balls = 5Red balls = 3White balls = 2Total = 10P(Two blue) = 5/10 * 5/10 = 25/100P(Two Red) = 3/10 * 3/10 = 9/100\u2234P(Two blue or two red balls)= 25/100 + 9/100= 34/100= 17/50\nThere is an explanation video availablebelow.",
+    "year": "2005"
+  },
+  {
+    "number": "265",
+    "text": "What is the probability that an integer x,(1 \\(\\leq\\) x \\(\\leq\\) 20) chosen at random is divisible by both 2 and 3?",
+    "options": {
+      "A": "\\(\\frac{1}{20}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{3}{20}\\)",
+      "D": "\\(\\frac{7}{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8615?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "U = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20}A = {x/x is divisible by 2}A = {2,4,6,8,10,12,14,16,18,20}B = {x/x is divisible by 3}A \u2229 B = {6, 12, 18}P(Number divisible by both 2 and 3)= 3/20",
+    "year": "2005"
+  }
+]

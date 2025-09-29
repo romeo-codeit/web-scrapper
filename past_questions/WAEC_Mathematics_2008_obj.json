@@ -1,0 +1,296 @@
+[
+  {
+    "number": "978",
+    "text": "If x% of 240 equals 12, find x",
+    "options": {
+      "A": "x = 1",
+      "B": "x = 3",
+      "C": "x = 5",
+      "D": "x = 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36318?exam_type=waec&type=obj&page=196",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "979",
+    "text": "Evaluate \\(\\frac{(3.2)^2 - (4.8)^2}{3.2 + 4.8}\\)",
+    "options": {
+      "A": "-0.08",
+      "B": "-1.60",
+      "C": "-10.24",
+      "D": "-12.80"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36323?exam_type=waec&type=obj&page=196",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{(3.2)^2 - (4.8)^2}{3.2 + 1.8} = \\frac{(3.2 - 4.8)(3.2 + 4.8)}{(3.2 + 4.8)}\\)= 3.2 - 4.8= -1.60",
+    "year": "2008"
+  },
+  {
+    "number": "981",
+    "text": "Simplify \\(\\sqrt{50} + \\frac{10}{\\sqrt{2}}\\)",
+    "options": {
+      "A": "10",
+      "B": "10\\(\\sqrt{2}\\)",
+      "C": "20",
+      "D": "20\\(\\sqrt{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36326?exam_type=waec&type=obj&page=197",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "982",
+    "text": "P naira invested for 4 years  invested for 4 years at r% simple interest per annum yields 0.36 p naira interest. Find the value of r",
+    "options": {
+      "A": "1\\(\\frac{1}{9}\\)",
+      "B": "1\\(\\frac{4}{9}\\)",
+      "C": "9",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36327?exam_type=waec&type=obj&page=197",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "984",
+    "text": "A trader bought 100 tubers at 5 for N350.00. She sold them in sets of 4 for N290.00. Find her gain percent.",
+    "options": {
+      "A": "3.6%",
+      "B": "3.5%",
+      "C": "3.4%",
+      "D": "2.55"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36334?exam_type=waec&type=obj&page=197",
+    "correct_answer": "A",
+    "explanation": "Cost price, c.p = \\(\\frac{100}{5}\\) x N350 = N7000Selling price, s.p = \\(\\frac{100}{5}\\) x N290 = N7250%Gain = \\(\\frac{S.p - C.p}{C.p}\\) x 100%= \\(\\frac{7250 - 7000}{7000}\\) x 100% = \\(\\frac{250 \\times 100}{7000}\\)= 3.6% (approx.)",
+    "year": "2008"
+  },
+  {
+    "number": "985",
+    "text": "If p-2g + 1 = g + 3p and p - 2 = 0, find g",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36335?exam_type=waec&type=obj&page=197",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "986",
+    "text": "Simplify \\(\\frac{\\frac{1}{x} + \\frac{1}{y}}{x + y}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{x + y}\\)",
+      "B": "\\(\\frac{1}{xy}\\)",
+      "C": "x + y",
+      "D": "xy"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36336?exam_type=waec&type=obj&page=198",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "987",
+    "text": "Simplify 3\\(\\sqrt{27x^3y^9}\\)",
+    "options": {
+      "A": "9xy3",
+      "B": "3xy6",
+      "C": "3xy3",
+      "D": "9y3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36340?exam_type=waec&type=obj&page=198",
+    "correct_answer": "C",
+    "explanation": "3",
+    "year": "2008"
+  },
+  {
+    "number": "988",
+    "text": "Given that x = 2 and y = -\\(\\frac{1}{4}\\), evaluate \\(\\frac{x^2y - 2xy}{5}\\)",
+    "options": {
+      "A": "zero",
+      "B": "\\(\\frac{1}{5}\\)",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36341?exam_type=waec&type=obj&page=198",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "989",
+    "text": "Factorize 5y2 + 2ay - 3a2",
+    "options": {
+      "A": "(a - y)(5y - 3a)",
+      "B": "(y - a)(5y - 3a)",
+      "C": "(y - a)(5y + 3a)",
+      "D": "(y + a)(5y - 3a)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36343?exam_type=waec&type=obj&page=198",
+    "correct_answer": "D",
+    "explanation": "5y2 + 2ay - 3a2 = 5y2 + 5ay - 3a2= 5y(y + a) - 3a(y + a)= (y + a)(5y - 3a)",
+    "year": "2008"
+  },
+  {
+    "number": "990",
+    "text": "If 4y is 9 greater than the sum of y and 3x, by how much is y greater than x?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36353?exam_type=waec&type=obj&page=198",
+    "correct_answer": "A",
+    "explanation": "4y - 9 > y + 3x; 4y - y > 3x + 93y > 3(x + 3); y = > \\(\\frac{3(x + 3)}{3}\\)y > x + 3; y - 3 > xy is greater than x by 3",
+    "year": "2008"
+  },
+  {
+    "number": "991",
+    "text": "If p = \\(\\frac{3}{5} \\sqrt{\\frac{q}{r}}\\), express q in terms of p and r",
+    "options": {
+      "A": "\\(\\frac{9}{25} pr^2\\)",
+      "B": "\\(\\frac{9}{25} p^2r\\)",
+      "C": "\\(\\frac{25}{9} p^2r\\)",
+      "D": "\\(\\frac{25}{9} pr^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36354?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "2",
+    "year": "2008"
+  },
+  {
+    "number": "992",
+    "text": "Simplify: \\(\\frac{2x^2 - 5x - 12}{4x^2 - 9}\\)",
+    "options": {
+      "A": "\\(\\frac{x + 4}{2x + 3}\\)",
+      "B": "\\(\\frac{x + 4}{2x - 3}\\)",
+      "C": "\\(\\frac{x - 4}{2x + 3}\\)",
+      "D": "\\(\\frac{x - 4}{2x - 3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36355?exam_type=waec&type=obj&page=199",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{2x^2 - 5x - 12}{4x^2 - 9}\\) = \\(\\frac{2x^2 - 8x + 3x - 12}{(2x)^2 - 3^2}\\)= \\(\\frac{2x(x - 4) + 3(x - 4)}{(2x - 3)(2x + 3)} - \\frac{(x - 4) + (2x + 3)}{(2x - 3) (2x + 3)}\\)= \\(\\frac{x - 4}{2x - 3}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "993",
+    "text": "PQR is a sector of a circle centre O, radius 4cm. If PQR = 30o, find, correct to 3 significant figures, the area of sector PQR. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "4.19cm2",
+      "B": "8.38cm2",
+      "C": "10.5cm2",
+      "D": "20.9cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36358?exam_type=waec&type=obj&page=199",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2",
+    "year": "2008"
+  },
+  {
+    "number": "994",
+    "text": "If the volume of a cube is 343cm3, find the length of its side",
+    "options": {
+      "A": "3cm",
+      "B": "6cm",
+      "C": "7cm",
+      "D": "96cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36359?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "3\n3\n3",
+    "year": "2008"
+  },
+  {
+    "number": "995",
+    "text": "The angles of a quadrilateral are (x + 10)o, 2yo, 90o and (100 - y)o, Find y in terms of x",
+    "options": {
+      "A": "y = 160 + x",
+      "B": "y = 100 + x",
+      "C": "y = 160 - x",
+      "D": "y = x - 100"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36361?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "996",
+    "text": "If xo is obtuse, which of the following is true?",
+    "options": {
+      "A": "x . 90",
+      "B": "180 < x < 270",
+      "C": "x < 90",
+      "D": "90 < x < 180"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36362?exam_type=waec&type=obj&page=200",
+    "correct_answer": "D",
+    "explanation": "o\no",
+    "year": "2008"
+  },
+  {
+    "number": "997",
+    "text": "If tan x = 1, evaluate sin x + cos x, leaving your answer in the surd form",
+    "options": {
+      "A": "2\\(\\sqrt{2}\\)",
+      "B": "\\(\\frac{1}{2} \\sqrt{2}\\)",
+      "C": "\\(\\sqrt{2}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36363?exam_type=waec&type=obj&page=200",
+    "correct_answer": "C",
+    "explanation": "-1\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "998",
+    "text": "If cos (x + 25)o = sin 45o, find the value of x",
+    "options": {
+      "A": "20",
+      "B": "30",
+      "C": "45",
+      "D": "60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36364?exam_type=waec&type=obj&page=200",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "999",
+    "text": "If \\(2^n = 128\\), find the value of \\(2^{n - 1})(5^{n - 2})\\)",
+    "options": {
+      "A": "5(106)",
+      "B": "2(106)",
+      "C": "5(105)",
+      "D": "2(105)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36366?exam_type=waec&type=obj&page=200",
+    "correct_answer": "D",
+    "explanation": "\\(2^n\\) = 128\\(2^n = 2^7\\)n = 7(2\\(^{n - 1}\\))(5\\(^{n - 2}\\)), then,\u00a0\u00a0put n = 7\n=\u00a0(2\\(^{7\u00a0- 1}\\))(5\\(^{7\u00a0- 2}\\))\n= (\\(2^6\\))(\\(2^5\\))\n= \\(2^1 \\times 2^5 \\times 2^5\\)\n= 2 x (\\(2 \\times 5)^5\\)\n= 2(\\(10^5\\))",
+    "year": "2008"
+  },
+  {
+    "number": "1000",
+    "text": "If x \\(\\alpha\\) (45 + \\(\\frac{1}{2}y\\)), which of the following is true>?",
+    "options": {
+      "A": "x varies directly as y",
+      "B": "x varies inversely as y",
+      "C": "x is partly constant and partly varies as y",
+      "D": "x vries jointly as 45 and directly as y"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36367?exam_type=waec&type=obj&page=200",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "number": "401",
+    "text": "Simplify \\(\\frac{\\sqrt{3} + \\sqrt{48}}{\\sqrt{6}}\\)",
+    "options": {
+      "A": "\\(3\\sqrt{2}\\)",
+      "B": "\\(5\\sqrt{2}\\)",
+      "C": "\\(\\frac{5\\sqrt{2}}{2}\\)",
+      "D": "\\(\\frac{3\\sqrt{2}}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51472?exam_type=waec&type=obj&page=81",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{\\sqrt{3} + \\sqrt{48}}{\\sqrt{6}} = \\frac{\\sqrt{3} + 4\\sqrt{3}}{\\sqrt{6}}\\)\n\\(\\frac{5\\sqrt{3}}{\\sqrt{6} = \\frac{5\\sqrt{3} \\times \\sqrt{6}}{\\sqrt{6} \\times \\sqrt{6}}\\)\n\\(\\frac{5\\sqrt{18}{6} = \\frac{15\\sqrt{2}}{6}\\)\n= \\(\\frac{5\\sqrt{2}}{2}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "402",
+    "text": "Find the range of values of x for which \\(2x^{2} + 7x - 15 > 0\\).",
+    "options": {
+      "A": "\\(x < -\\frac{3}{2}\\) or \\(x > 5\\)",
+      "B": "\\(x < -5\\) or \\(x > \\frac{3}{2}\\)",
+      "C": "\\(-\\frac{3}{2} < x < 5\\)",
+      "D": "\\(-5 < x < \\frac{3}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51477?exam_type=waec&type=obj&page=81",
+    "correct_answer": "B",
+    "explanation": "\\(2x^{2} + 7x - 15 > 0 \\implies 2x^{2} - 3x + 10x - 15 > 0\\)\n\\(x(2x - 3) + 5(2x - 3) > 0\\)\n\\((x + 5)(2x - 3) > 0\\)\nFor their product to be positive, they are either both +ve or -ve.\n\\(x + 5 > 0 \\implies x > -5\\)\n\\(2x - 3 > 0 \\implies 2x > 3\\)\n\\(x > \\frac{3}{2}\\)\nCheck:\n\\(x > -5: x = -3\\)\n\\(2(-3)^{2}\u00a0+ 7(-3) - 15 = 18 - 21 - 15 = -18 < 0\\) (Not satisfied)\n\\(\\therefore x < -5\\)\n\\(x > \\frac{3}{2}: x = 2\\)\n\\(2(2^{2}) + 7(2) - 15 = 8 + 14 - 15 = 7 > 0\\) (Satisfied)",
+    "year": "2008"
+  },
+  {
+    "number": "403",
+    "text": "A function f is defined on R, the set of real numbers, by: \\(f : x \\to \\frac{x + 3}{x - 2}, x \\neq 2\\), find \\(f^{-1}\\).",
+    "options": {
+      "A": "\\(f^{-1} : x \\to \\frac{2x + 3}{x - 1}, x \\neq 1\\)",
+      "B": "\\(f^{-1} : x \\to \\frac{x + 3}{x + 2}, x \\neq -2\\)",
+      "C": "\\(f^{-1} : x \\to \\frac{x - 1}{2x + 3}, x \\neq -\\frac{3}{2}\\)",
+      "D": "\\(f^{-1}: x \\to \\frac{x - 2}{x + 3}, x \\neq -3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51491?exam_type=waec&type=obj&page=81",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = \\frac{x + 3}{x - 2}\\)\n\\(f(y) = \\frac{y + 3}{y - 2}\\)\nLet f(y) = x,\n\\(x = \\frac{y + 3}{y - 2}\\)\n\\(x(y - 2) = y + 3\\)\n\\(xy - y = 2x + 3 \\implies y(x - 1) = 2x + 3\\)\n\\(y = \\frac{2x + 3}{x - 1}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "404",
+    "text": "The sum of the first n terms of a linear sequence is \\(S_{n} = n^{2} + 2n\\). Find the common difference of the sequence.",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51504?exam_type=waec&type=obj&page=81",
+    "correct_answer": "D",
+    "explanation": "\\(S_{n} = \\frac{n}{2}(2a + (n - 1)d \\)\n\\(\\frac{n}{2}(2a + (n - 1) d = n^{2} + 2n\\)\n\\(n(2a + (n - 1) d = 2n^{2} + 4n\\)\n\\(2an + n^{2}d - nd = 2n^{2} + 4n\\)\nComparing the equations, d = 2 (coefficient of \\(n^{2}\\)).",
+    "year": "2008"
+  },
+  {
+    "number": "405",
+    "text": "The sum of the first n terms of a linear sequence is \\(S_{n} = n^{2} + 2n\\). Determine the general term of the sequence.",
+    "options": {
+      "A": "n + 1",
+      "B": "2n + 1",
+      "C": "3n + 1",
+      "D": "4n + 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51507?exam_type=waec&type=obj&page=81",
+    "correct_answer": "B",
+    "explanation": "\\(S_{n} = \\frac{n}{2}(2a + (n - 1) d = n^{2} + 2n\\)\n\\(n(2a + (n - 1) d = 2n^{2} + 4n\\)\n\\(2an + n^{2}d - nd = 2n^{2} + 4n\\)\n\\(n^{2}d = 2n^{2}\\)\n\\(d = 2\\)\n\\((2a - d) n = 4n\\)\n\\(2a - d = 4 \\implies 2a = 4 + d = 4 + 2 = 6\\)\n\\(a = 3\\)\n\\(T_{n} = a + (n - 1)d\\)\n= \\(3 + (n - 1)2 = 3 + 2n - 2 = 2n + 1\\)",
+    "year": "2008"
+  },
+  {
+    "number": "406",
+    "text": "If \\(f(x) = 2x^{2} - 3x - 1\\), find the value of x for which f(x) is minimum.",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\)",
+      "B": "\\(\\frac{4}{3}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51511?exam_type=waec&type=obj&page=82",
+    "correct_answer": "C",
+    "explanation": "\\(y\u00a0= 2x^{2} - 3x - 1\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 4x - 3 = 0\\) (At turning point)\n\\(4x = 3 \\implies x = \\frac{3}{4}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "407",
+    "text": "The polynomial \\(2x^{3} + x^{2} - 3x + p\\) has a remainder of 20 when divided by (x - 2). Find the value of constant p.",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "-6",
+      "D": "-8"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51513?exam_type=waec&type=obj&page=82",
+    "correct_answer": null,
+    "explanation": "Remainder for f(2) = 20.\n\\(f(2) = 2(2^{3}) + 2^{2} - 3(2) + p = 20\\)\n\\(16 + 4 - 6 + p = 20\\)\n\\(14 + p = 20\\)\n\\(p = 6\\)",
+    "year": "2008"
+  },
+  {
+    "number": "408",
+    "text": "If \\(2\\log_{4} 2 = x + 1\\), find the value of x.",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "0",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51516?exam_type=waec&type=obj&page=82",
+    "correct_answer": "C",
+    "explanation": "\\(2\\log_{4} 2 = x + 1\\)\n\\(\\log_{4} 2^{2} = \\log_{4} 4 = 1\\)\n\\(x + 1 = 1 \\implies x = 0\\)",
+    "year": "2008"
+  },
+  {
+    "number": "409",
+    "text": "Which of the following quadratic curves will not intersect with the x- axis?",
+    "options": {
+      "A": "\\(y = 2 - 4x - x^{2}\\)",
+      "B": "\\(y = x^{2} - 5x -1\\)",
+      "C": "\\(y = 2x^{2} - x - 1\\)",
+      "D": "\\(y = 3x^{2} - 2x + 4\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51518?exam_type=waec&type=obj&page=82",
+    "correct_answer": "D",
+    "explanation": "The criterion for the quadratic curve to intersect the x- axis is \\(b^{2} > 4ac\\).",
+    "year": "2008"
+  },
+  {
+    "number": "410",
+    "text": "What is the coordinate of the centre of the circle \\(5x^{2} + 5y^{2} - 15x + 25y - 3 = 0\\)?",
+    "options": {
+      "A": "\\((\\frac{15}{2}, -\\frac{25}{2})\\)",
+      "B": "\\((\\frac{3}{2}, -\\frac{5}{2})\\)",
+      "C": "\\((-\\frac{3}{2}, \\frac{5}{2})\\)",
+      "D": "\\((-\\frac{15}{2}, \\frac{25}{2})\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51521?exam_type=waec&type=obj&page=82",
+    "correct_answer": "B",
+    "explanation": "Equation for a circle: \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding, we have:\n\\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2}\\)\nGiven: \\(5x^{2} + 5y^{2} - 15x + 25y - 3 = 0\\)\nDivide through by 5,\n\\(= x^{2} + y^{2} - 3x + 5y - \\frac{3}{5} = 0\\)\nComparing, we have\n\\(- 2a = -3; a = \\frac{3}{2}\\)\n\\(-2b = 5; b = -\\frac{5}{2}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "411",
+    "text": "Evaluate \\(\\int_{1}^{2} (2 + 2x - 3x^{2}) \\mathrm {d} x\\).",
+    "options": {
+      "A": "-2",
+      "B": "2",
+      "C": "8",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51525?exam_type=waec&type=obj&page=83",
+    "correct_answer": "A",
+    "explanation": "\\(\\int_{1}^{2} (2 + 2x - 3x^{2}) \\mathrm {d} x\\)\n= \\((2x + x^{2} - x^{3})|_{1}^{2}\\)\n= \\((2(2) + 2^{2} - 2^{3}) - (2(1) + 1^{2} - 1^{3})\\)\n= \\(0 - 2 = -2\\)",
+    "year": "2008"
+  },
+  {
+    "number": "412",
+    "text": "A rectangle has a perimeter of 24m. If its area is to be maximum, find its dimension.",
+    "options": {
+      "A": "12, 12",
+      "B": "6, 6",
+      "C": "4, 8",
+      "D": "9, 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51526?exam_type=waec&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "\\(Perimeter = 2(l\u00a0+ b) = 24\\)\n\\(l + b = 12 \\implies l = 12 - b\\)\n\\(Area = (12 - b) \\times b = 12b - b^{2}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d b} = 12 - 2b = 0\\) (at maximum)\n\\(2b = 12 \\implies b = 6\\)\n\\(l = 12 - 6 = 6m\\)",
+    "year": "2008"
+  },
+  {
+    "number": "413",
+    "text": "Express \\(\\frac{7\\pi}{6}\\) radians in degrees.",
+    "options": {
+      "A": "315\u00b0",
+      "B": "210\u00b0",
+      "C": "105\u00b0",
+      "D": "75\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51530?exam_type=waec&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "\\(\\pi = 180\u00b0\\)\n\\(\\frac{7\\pi}{6} = \\frac{7 \\times 180}{6} \\)\n= \\(210\u00b0\\)",
+    "year": "2008"
+  },
+  {
+    "number": "414",
+    "text": "If \\(P = \\begin{pmatrix} 1 & -2 \\\\ 3 & 4 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} -2 & 3 \\\\ 1 & 0 \\end{pmatrix}\\), find PQ.",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 4 & 1 \\\\ -2 & 9 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -4 & 1 \\\\ 2 & 9 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -4 & 3 \\\\ -2 & 13 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -4 & 3 \\\\ -2 & 9 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51533?exam_type=waec&type=obj&page=83",
+    "correct_answer": "D",
+    "explanation": "\\(\\begin{pmatrix} 1\u00a0& -2\u00a0\\\\ 3\u00a0& 4\u00a0\\end{pmatrix}\u00a0\\(\\begin{pmatrix} -2\u00a0& 3\u00a0\\\\ 1\u00a0& 0\u00a0\\end{pmatrix}\\)\n=\\(\\begin{pmatrix} (1 \\times -2) + (-2 \\times 1)\u00a0& (1 \\times 3) + (-2 \\times 0)\u00a0\\\\ (3 \\times -2) + (4\u00a0\\times 1) & (3 \\times 3) + (4 \\times 0)\u00a0\\end{pmatrix}\\)\n=\u00a0\\(\\begin{pmatrix} -4 & 3\u00a0\\\\ -2 & 9 \\end{pmatrix}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "415",
+    "text": "Two statements are represented by p and q as follows:\np : He is brilliant; q : He is regular in class\nWhich of the following symbols represent \"He is regular in class but dull\"?",
+    "options": {
+      "A": "\\(q \\vee \\sim p\\)",
+      "B": "\\(q \\edge \\sim p\\)",
+      "C": "\\(\\sim q \\edge \\sim p\\)",
+      "D": "\\(\\sim q \\vee \\sim p\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51534?exam_type=waec&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "416",
+    "text": "Find the locus of points which is equidistant from P(4, 5) and Q(-6, -1).",
+    "options": {
+      "A": "3x - 5y + 13 = 0",
+      "B": "3x - 5y - 7 = 0",
+      "C": "5x - 3y + 7 = 0",
+      "D": "5x + 3y - 1 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51536?exam_type=waec&type=obj&page=84",
+    "correct_answer": "D",
+    "explanation": "Midpoint between P(4, 5) and Q(-6, -1) = \\(\\frac{4 - 6}{2}, \\frac{5 - 1}{2} = (-1, 2)\\)\nGradient of PQ = \\(\\frac{5 - (-1)}{4 - (-6)} = \\frac{3}{5}\\)\nGradient of line perpendicular to PQ = \\(\\frac{-1}{\\frac{3}{5}} = -\\frac{5}{3}\\)\n\\(line = \\frac{y - 2}{x + 1} = \\frac{-5}{3}\\)\n\\(3y - 6 = -5x - 5\\)\n\\(5x + 3y - 6 + 5 = 0 \\implies 5x + 3y - 1 = 0\\)",
+    "year": "2008"
+  },
+  {
+    "number": "417",
+    "text": "A binary operation ,*, is defined on the set R, of real numbers by \\(a * b = a^{2} + b + ab\\). Find the value of x for which \\(5 * x = 37\\).",
+    "options": {
+      "A": "7",
+      "B": "2",
+      "C": "-2",
+      "D": "-7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51538?exam_type=waec&type=obj&page=84",
+    "correct_answer": "B",
+    "explanation": "\\(a * b = a^{2} + b + ab\\)\n\\(5 * x = 5^{2} + x + 5x = 37\\)\n\\(25 + 6x = 37 \\implies 6x = 12\\)\n\\(x = 2\\)",
+    "year": "2008"
+  },
+  {
+    "number": "418",
+    "text": "Find the derivative of \\(3x^{2} + \\frac{1}{x^{2}}\\)",
+    "options": {
+      "A": "\\(6x + 2x^{2}\\)",
+      "B": "\\(6x + \\frac{1}{2x}\\)",
+      "C": "\\(6x - \\frac{2}{x^{3}}\\)",
+      "D": "\\(6x - \\frac{1}{2x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51541?exam_type=waec&type=obj&page=84",
+    "correct_answer": "C",
+    "explanation": "\\(y = 3x^{2} + \\frac{1}{x^{2}} \\equiv y = 3x^{2} + x^{-2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x - 2x^{-3}\\)\n= \\(6x - \\frac{2}{x^{3}}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "419",
+    "text": "The coefficient of the 5th term in the binomial expansion of \\((1 + kx)^{8}\\), in ascending powers of x is \\(\\frac{35}{8}\\). Find the value of the constant k.",
+    "options": {
+      "A": "2",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(-\\frac{1}{2}\\)",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51543?exam_type=waec&type=obj&page=84",
+    "correct_answer": "B",
+    "explanation": "\\((1 + kx)^{8} = ^{8}C_{0}(1^{8})(kx)^{0} + ^{8}C_{1}(1^{7})(kx)^{1} + ...\\)\nThe 5th term = \\(^{8}C_{5 - 1}(1^{4})(kx)^{4}\\)\n= \\(^{8}C_{4} (kx)^{4}\\)\n\\(\\implies 70k^{4} = \\frac{35}{8}\\)\n\\(k^{4} = \\frac{\\frac{35}{8}}{70}\\)\n\\(k^{4} = \\frac{1}{16}\\)\n\\(k = \\frac{1}{2}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "420",
+    "text": "Given that \\(f '(x) = 3x^{2} - 6x + 1\\) and f(3) = 5, find f(x).",
+    "options": {
+      "A": "\\(f(x) = x^{3} - 3x^{2} + x + 20\\)",
+      "B": "\\(f(x) = x^{3} - 3x^{2} + x + 31\\)",
+      "C": "\\(f(x) = x^{3} - 3x^{2} + x + 2\\)",
+      "D": "\\(f(x) = x^{3} - 3x^{2} + x - 13\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51549?exam_type=waec&type=obj&page=84",
+    "correct_answer": "C",
+    "explanation": "\\(f ' (x) = 3x^{2} - 6x + 1\\)\n\\(f(x) = \\int (3x^{2} - 6x + 1) \\mathrm {d} x\\)\n= \\(x^{3} - 3x^{2} + x + c\\)\n\\(f(3) = 5 = 3^{3} - 3(3^{2}) + 3 + c\\)\n\\(27 - 27 + 3 + c = 5 \\implies 3 + c = 5\\)\n\\(c = 2\\)\n\\(f(x) = x^{3} - 3x^{2} + x + 2\\)",
+    "year": "2008"
+  },
+  {
+    "number": "421",
+    "text": "Express \\(\\frac{1}{1 - \\sin 45\u00b0}\\) in surd form.",
+    "options": {
+      "A": "\\(2 + \\sqrt{2}\\)",
+      "B": "\\(2 + \\sqrt{3}\\)",
+      "C": "\\(2 - \\sqrt{2}\\)",
+      "D": "\\(1 + 2\\sqrt{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51554?exam_type=waec&type=obj&page=85",
+    "correct_answer": "A",
+    "explanation": "\\(\\sin 45 = \\frac{\\sqrt{2}}{2}\\)\n\\(\\frac{1}{1 - \\sin 45} = \\frac{1}{1 - \\frac{\\sqrt{2}}{2}}\\)\n\\(\\frac{2}{2 - \\sqrt{2}} = \\frac{4 +\u00a02\\sqrt{2}}{4 - 2}\\)\n= \\(2 +\u00a0\\sqrt{2}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "422",
+    "text": "If \\(\\begin{vmatrix} 4 & x \\\\ 5 & 3 \\end{vmatrix} = 32\\), find the value of x.",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "-2",
+      "D": "-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51558?exam_type=waec&type=obj&page=85",
+    "correct_answer": "D",
+    "explanation": "\\(\\begin{vmatrix} 4 & x \\\\ 5 & 3 \\end{vmatrix} = 12 - 5x = 32\\)\n\\(5x = 12 - 32 = -20\\)\n\\(x = -4\\)",
+    "year": "2008"
+  },
+  {
+    "number": "423",
+    "text": "If events A and B are independent and \\(P(A) = \\frac{7}{12}\\) and \\(P(A \\cap B) = \\frac{1}{4}\\), find P(B).",
+    "options": {
+      "A": "\\(\\frac{3}{7}\\)",
+      "B": "\\(\\frac{4}{7}\\)",
+      "C": "\\(\\frac{5}{7}\\)",
+      "D": "\\(\\frac{6}{7}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51563?exam_type=waec&type=obj&page=85",
+    "correct_answer": "A",
+    "explanation": "\\(P(A) = \\frac{7}{12}\\)\n\\(P(A \\cap B) = \\frac{1}{4} = P(A) \\times P(B)\\) (Independent events)\n\\(\\frac{1}{4}\u00a0\u00f7 \\frac{7}{12} = \\frac{1}{4} \\times \\frac{12}{7} \\)\n= \\(\\frac{3}{7}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "424",
+    "text": "Given that \\(\\overrightarrow{AB} = 5i + 3j\\) and \\(\\overrightarrow{AC} = 2i + 5j\\), find \\(\\overrightarrow{BC}\\).",
+    "options": {
+      "A": "-7i - 8j",
+      "B": "-3i + 2j",
+      "C": "3i - 2j",
+      "D": "3i + 8j"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51564?exam_type=waec&type=obj&page=85",
+    "correct_answer": "B",
+    "explanation": "\\(\\overrightarrow{BC} = \\overrightarrow{BA} + \\overrightarrow{AC}\\)\n\\(\\overrightarrow{BA} = - \\overrightarrow{AB} = -(5i + 3j)\\)\n= \\(-5i - 3j\\)\n\\(\\overrightarrow{BC} = (-5i - 3j) + (2i + 5j)\\)\n= \\(-3i + 2j\\)",
+    "year": "2008"
+  },
+  {
+    "number": "425",
+    "text": "The probability of Jide, Atu and Obu solving a given problem are \\(\\frac{1}{12}\\), \\(\\frac{1}{6}\\) and \\(\\frac{1}{8}\\) respectively. Calculate the probability that only one solves the problem.",
+    "options": {
+      "A": "\\(\\frac{1}{576}\\)",
+      "B": "\\(\\frac{55}{576}\\)",
+      "C": "\\(\\frac{77}{576}\\)",
+      "D": "\\(\\frac{167}{576}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51578?exam_type=waec&type=obj&page=85",
+    "correct_answer": "D",
+    "explanation": "\\(P(Jide) = \\frac{1}{12}; P(\\text{not Jide}) = \\frac{11}{12}\\)\n\\(P(Atu) = \\frac{1}{6}; P(\\text{not Atu}) = \\frac{5}{6}\\)\n\\(P(Obu) = \\frac{1}{8}; P(\\text{not Obu}) = \\frac{7}{8}\\)\n\\(P(\\text{only one of them}) = P(\\text{Jide not Atu not Obu}) + P(\\text{Atu not Jide not Obu}) + P(\\text{Obu not Jide not Atu})\\)\n= \\((\\frac{1}{12} \\times \\frac{5}{6} \\times \\frac{7}{8}) + (\\frac{1}{6} \\times \\frac{11}{12} \\times \\frac{7}{8}) + (\\frac{1}{8} \\times \\frac{11}{12} \\times \\frac{5}{6})\\)\n= \\(\\frac{35}{576} + \\frac{77}{576} + \\frac{55}{576}\\)\n= \\(\\frac{167}{576}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "426",
+    "text": "Two forces \\(F_{1} = (10N, 020\u00b0)\\) and \\(F_{2} = (7N, 200\u00b0)\\) act on a particle. Find the resultant force.",
+    "options": {
+      "A": "(3 N, 020\u00b0)",
+      "B": "(3 N, 200\u00b0)",
+      "C": "(17 N, 020\u00b0)",
+      "D": "(17 N, 200\u00b0)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51587?exam_type=waec&type=obj&page=86",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "427",
+    "text": "Marks\n2\n3\n4\n5\n6\n7\n8\n\n\nNo of students\n5\n7\n9\n6\n3\n6\n4\n\n\n\nThe table above shows the distribution of marks by some candidates in a test. What is the median score?",
+    "options": {
+      "A": "3.5",
+      "B": "4.0",
+      "C": "4.5",
+      "D": "5.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51591?exam_type=waec&type=obj&page=86",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "428",
+    "text": "Marks\n2\n3\n4\n5\n6\n7\n8\n\n\nNo of students\n5\n7\n9\n6\n3\n6\n4\n\n\n\nThe table above shows the distribution of marks by some candidates in a test. Find, correct to one decimal place, the mean of the distribution.",
+    "options": {
+      "A": "5.5",
+      "B": "5.3",
+      "C": "5.2",
+      "D": "4.7"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51598?exam_type=waec&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "Marks(\\(x\\)2345678TotalFrequency \\(f\\)579636440\\(fx\\)10213630184232189\nMean \\(\\bar{x} = \\frac{\\sum fx}{\\sum f} = \\frac{189}{40}\\)\n= \\(4.725 \\approxeq 4.7\\)",
+    "year": "2008"
+  },
+  {
+    "number": "429",
+    "text": "Marks\n2\n3\n4\n5\n6\n7\n8\n\n\nNo of students\n5\n7\n9\n6\n3\n6\n4\n\n\n\nThe table above shows the distribution of marks by some candidates in a test. If a student is selected at random, what is the probability that she scored at least 6 marks?",
+    "options": {
+      "A": "\\(\\frac{3}{40}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{13}{40}\\)",
+      "D": "\\(\\frac{27}{40}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51602?exam_type=waec&type=obj&page=86",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "430",
+    "text": "Express \\(r = (12, 210\u00b0)\\) in the form \\(a i + b j\\).",
+    "options": {
+      "A": "\\(6(-i + \\sqrt{3} j)\\)",
+      "B": "\\(6(-\\sqrt{3} i - j)\\)",
+      "C": "\\(6(i - \\sqrt{3} j)\\)",
+      "D": "\\(6(i + \\sqrt{3} j)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51607?exam_type=waec&type=obj&page=86",
+    "correct_answer": "B",
+    "explanation": "\\(F = F \\cos \\theta i + F \\sin \\theta j\\)\n\\(r = (12, 210\u00b0) = 12 \\cos 210 i + 12 \\sin 210 j\\)\n= \\(- 6\\sqrt{3} i - 6j\\)\n= \\(6(-\\sqrt{3} i - j)\\)",
+    "year": "2008"
+  },
+  {
+    "number": "431",
+    "text": "A test consists of 12 questions out of which candidates are to answer 10. If the first 6 are compulsory, in how many ways can each candidate select her questions?",
+    "options": {
+      "A": "40",
+      "B": "25",
+      "C": "15",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51608?exam_type=waec&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "The first 6 questions can only be selected in 1 way.\nThe remaining 4 questions can be selected in \\(^{6}C_{4}\\) ways.\n= \\(\\frac{6!}{(6 - 4)! 4!} = 15\\)",
+    "year": "2008"
+  },
+  {
+    "number": "432",
+    "text": "A body starts from rest and moves in a straight line with uniform acceleration of \\(5 ms^{-2}\\). How far, in metres, does it go in 10 seconds?",
+    "options": {
+      "A": "50 m",
+      "B": "250 m",
+      "C": "350 m",
+      "D": "500 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51611?exam_type=waec&type=obj&page=87",
+    "correct_answer": "B",
+    "explanation": "\\(s = ut + \\frac{1}{2} at^{2}\\)\n\\(u = 0, t = 10 secs, a = 5 ms^{-2}\\)\n\\(s = 0 + \\frac{1}{2} 5 \\times 10^{2}\\)\n\\(s = 250 m\\)",
+    "year": "2008"
+  },
+  {
+    "number": "433",
+    "text": "If n items are arranged two at a time, the number obtained is 20. Find the value of n.",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "40"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51618?exam_type=waec&type=obj&page=87",
+    "correct_answer": "A",
+    "explanation": "\\(^{n}P_{2} = \\frac{n!}{(n - 2)!} = 20 \\)\n\\(\\frac{n(n - 1)(n - 2)!}{(n - 2)!} = 20\\)\n\\(n(n - 1) = 20 \\implies n^{2} - n - 20 = 0\\)\n\\(n^{2} - 5n + 4n - 20 = 0\\)\n\\(n(n - 5) + 4(n - 5) = 0\\)\n\\(n = \\text{5 or -4}\\)\n\\(n = 5\\)",
+    "year": "2008"
+  },
+  {
+    "number": "434",
+    "text": "If \\(p = \\begin{pmatrix} 2 \\\\ -2 \\end{pmatrix} \\) and \\(q = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}\\), find \\(|q - \\frac{1}{2}p|\\).",
+    "options": {
+      "A": "\\(2\\sqrt{2}\\)",
+      "B": "\\(\\sqrt{13}\\)",
+      "C": "\\(5\\)",
+      "D": "\\(\\sqrt{29}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51620?exam_type=waec&type=obj&page=87",
+    "correct_answer": "D",
+    "explanation": "\\(p = \\begin{pmatrix} 2 \\\\ -2 \\end{pmatrix} , q = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}\\)\n\\(\\frac{1}{2}p = \\begin{pmatrix} 1 \\\\ -1 \\end{pmatrix}\\)\n\\(q - \\frac{1}{2}p = \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix} - \\begin{pmatrix} 1 \\\\ -1 \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 5 \\end{pmatrix}\\)\n\\(|q - \\frac{1}{2}p| = \\sqrt{2^{2} + 5^{2}} = \\sqrt{29}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "435",
+    "text": "Find the value of the constant k for which \\(a = 4 i\u00a0- k j\\) and \\(b = 3 i + 8 j\\) are perpendicular.",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "2",
+      "C": "3",
+      "D": "\\(\\frac{3}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51622?exam_type=waec&type=obj&page=87",
+    "correct_answer": "D",
+    "explanation": "For perpendicular vectors, their dot product = 0.\n\\((4i - kj). (3i + 8j) = 12 - 8k = 0\\)\n\\(8k = 12 \\implies k = \\frac{3}{2}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "436",
+    "text": "The initial and final velocities of an object of mass 5 kg are \\(u = \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix}\\) and \\(v = \\begin{pmatrix} 4 \\\\ 7 \\end{pmatrix}\\) respectively. Find the magnitude of its change in momentum.",
+    "options": {
+      "A": "25",
+      "B": "15",
+      "C": "\\(3\\sqrt{7}\\)",
+      "D": "\\(\\sqrt{10}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51623?exam_type=waec&type=obj&page=88",
+    "correct_answer": "A",
+    "explanation": "Change in momentum = m (v - u)\n= \\(5 \\times (\\begin{pmatrix} 4 \\\\ 7 \\end{pmatrix} - \\begin{pmatrix} 1 \\\\ 3 \\end{pmatrix})\\)\n= \\(5 \\times \\begin{pmatrix} 3 \\\\ 4 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 15 \\\\ 20 \\end{pmatrix}\\)\n\\(|m(v - u)| = \\sqrt{15^{2} + 20^{2}} = \\sqrt{625} = 25\\)",
+    "year": "2008"
+  },
+  {
+    "number": "437",
+    "text": "If \\(y = x^{2} - 6x + 11\\) is written in the form \\(y = a(x - h)^{2} + k\\), find the value of \\((a + h + k)\\).",
+    "options": {
+      "A": "-4",
+      "B": "-3",
+      "C": "0",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51625?exam_type=waec&type=obj&page=88",
+    "correct_answer": "D",
+    "explanation": "\\(y = x^{2} - 6x + 11\\)\n\\( y = a(x - h)^{2} + k\\)\n\\(a(x - h)^{2} + k = a(x^{2} - 2hx + h^{2}) + k\\)\n\\(ax^{2} - 2ahx + ah^{2} + k = x^{2} - 6x + 11\\)\nComparing, we have\n\\(a = 1\\)\n\\(2ah = 6 \\implies 2h = 6; h = 3\\)\n\\(ah^{2} + k = 11 \\implies (1 \\times 3^{2}) + k = 11\\)\n\\(9 + k = 11 \\implies k = 2\\)\n\\(\\therefore a + h + k = 1 + 3 + 2 = 6\\)",
+    "year": "2008"
+  },
+  {
+    "number": "438",
+    "text": "The distance between P(x, 7) and Q(6, 19) is 13 units. Find the values of x.",
+    "options": {
+      "A": "1 or -7",
+      "B": "1 or 7",
+      "C": "1 or 11",
+      "D": "5 or -5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51626?exam_type=waec&type=obj&page=88",
+    "correct_answer": "C",
+    "explanation": "\\(d = \\sqrt{(x_{1} - x_{2})^{2} + (y_{1} - y_{2})^{2}}\\)\n\\(13 = \\sqrt{(x - 6)^{2} + (7 - 19)^{2}}\\)\n\\(13^{2} = x^{2} - 12x + 36 + 144\\)\n\\(169 = x^{2} - 12x + 180\\)\n\\(x^{2} - 12x + 180 - 169 = 0 \\implies x^{2} - 12x + 11 = 0\\)\n\\((x - 1)(x - 11) = 0 \\implies x = \\text{1 or 11}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "439",
+    "text": "In the diagram above, forces P, Q and 50N are acting on a body at M. If the system is in equilibrium, calculate, in terms of \\(\\theta\\), the magnitude of P.",
+    "options": {
+      "A": "\\(\\frac{50 \\cos \\theta}{\\sin (\\theta + 45)\u00b0}\\)",
+      "B": "\\(\\frac{50 \\cos \\theta}{\\cos (\\theta + 45)\u00b0}\\)",
+      "C": "\\(\\frac{50 \\sin \\theta}{\\cos (\\theta + 45)\u00b0}\\)",
+      "D": "\\(\\frac{50 \\sin \\theta}{\\sin (\\theta + 45)\u00b0}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51627?exam_type=waec&type=obj&page=88",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  }
+]

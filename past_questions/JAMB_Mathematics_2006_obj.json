@@ -1,0 +1,632 @@
+[
+  {
+    "number": "266",
+    "text": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?",
+    "options": {
+      "A": "(33, 4)",
+      "B": "(22, 4)",
+      "C": "(33, 12)",
+      "D": "(12, 4)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8622?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "The mode (m) = 4.\nNo of students who scored 4 and above = 12 + 10 + 6 + 4 + 1 = 33.\n\\(\\therefore\\) (n, m) = (33, 4)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "267",
+    "text": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "30",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8623?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "The question will be answered in\\(^6C_4 = \\frac{6!}{(6-4)!4!}\\\\=\\frac{6!}{2!4!}\\\\=\\frac{6\\times5\\times4!}{2\\times1\\times4!}\\\\=15\\hspace{1mm}ways\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "268",
+    "text": "If the mean of five consecutive integers is 30, find the largest of the numbers",
+    "options": {
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "34"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8639?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "Let the consecutive numbers be a, a+1, a+2, a+3, a+4Mean = \\(\\frac{(a+a+1+a+2+a+3+a+4)}{5}\\)30 = \\(\\frac{5a+10}{5}\\)30\\( \\times 5 = 5a + 10\\)5a = 150 - 105a = 140a = 28\u2234 a + 4 = 28 + 4= 32\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "269",
+    "text": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/5, find the value of x",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8656?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "Black = 5White = 4Red = xTotal = 9+xP(red) = 2/5x / (9+x) = 2/55x = 2(9+x)5x = 18+2x5x-2 = 183x = 18x = 6\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "270",
+    "text": "Find the variance of 2x, 2x-1 and 2x+1",
+    "options": {
+      "A": "2/3",
+      "B": "2",
+      "C": "\u221a(2/3)",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8663?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "\\(\\sum x = 6x\\)\\(\\sum(x-\\bar{x})^2\\) = 2\\(\\bar{x} = \\frac{\\sum x}{n}\\)= \\(\\frac{6x}{3}\\)= 2xVariance = \\(\\frac{\\sum(x-\\bar{x})^2}{n}\\)= \\(\\frac{2}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "271",
+    "text": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?",
+    "options": {
+      "A": "3/20",
+      "B": "1/4",
+      "C": "2/5",
+      "D": "3/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8671?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "272",
+    "text": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
+    "options": {
+      "A": "N 28 000",
+      "B": "N 25 500",
+      "C": "N15 000",
+      "D": "N 12 500"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8682?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "273",
+    "text": "For what value of n is \\(^{n+1}C_3\\)\u00a0= 4(\\(^nC_3\\))?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8692?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "\\(^{n+1}C_3 = 4(^nC_3)\\\\\\frac{(n+1)!}{(n+1-3)!3!} = 4\\left(\\frac{n!}{(n-3)!3!}\\right)\\\\\\frac{(n+1)n!}{(n-2)(n-3)!}=4\\left(\\frac{n!}{n-3!}\\right)\\\\=\\frac{n+1}{n-2}=\\frac{4}{1}\\\\n+1 = 4(n-2)\\\\n+1 = 4n-8\\\\-3n = -9\\\\\\frac{-9}{-3}\\\\n=3\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "274",
+    "text": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
+    "options": {
+      "A": "y = x2 + 7x + 9",
+      "B": "y = x2 + 7x - 18",
+      "C": "y = x2 + 7x + 18",
+      "D": "y = x2 + 14x + 11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8694?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "B",
+    "explanation": "dy/dx = 2x + 7y = \u222b2x + 7y = x2 + 7x + C at (2,0)0 = 22 + 7(2) + C0 = 4 + 14 + C0 = 18 + CC = -18\u2234 The equation is y = x2 + 7x - 18\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "275",
+    "text": "Differentiate (x\\(^2\\) - \\(\\frac{1}{x}\\))\\(^2\\) with respect to x",
+    "options": {
+      "A": "4x3 - 4x - 2/x",
+      "B": "4x3 - 2 + 2/x3",
+      "C": "4x3 - 2 - 2/x3",
+      "D": "4x3 - 3x + 2/x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8696?exam_type=jamb&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "y =\u00a0(x\\(^2\\) - \\(\\frac{1}{x}\\))\\(^2\\)y = (x\\(^2\\) - \\(\\frac{1}{x}\\))(x\\(^2\\) - \\(\\frac{1}{x}\\))y = x\\(^4\\) - x - x + 1/x2y = x\\(^4\\) - 2x + 1/x2y = x\\(^4\\) - 2x + x-2dy/dx = 4x\\(^3\\)\u00a0- 2 - 2x\\(^-3\\)= 4x\\(^3\\)\u00a0- 2 - \\(\\frac{2}{x^3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "276",
+    "text": "Find the value of x for which the function 3x\\(^3\\)\u00a0- 9x\\(^2\\) is minimum",
+    "options": {
+      "A": "zero",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8697?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "y = 3x\\(^3\\)\u00a0- 9x\\(^2\\)\\(\\frac{dy}{dx}\\) = 9x\\(^2\\) - 18xAs \\(\\frac{dy}{dx}\\)\u00a0= 09x\\(^2\\) - 18x = 09x(x-2) = 09x = 0 which implies x = 0x - 2 = 0 implies x = 2\\(\\frac{d^2y}{dx^2}\\) = 18x - 18when x = 0\\(\\frac{d^2y}{dx^2}\\) > 0 \u2234 x is\u00a0minimumwhen x = 2, \\(\\frac{d^2y}{dx^2}\\)\u00a0= 18\u2234 the value > 0 x is minimum\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "277",
+    "text": "If dy/dx = x + cos x, find y",
+    "options": {
+      "A": "x2 - sin x + c",
+      "B": "x2 + sin x + c",
+      "C": "x2/2 - sin x + c",
+      "D": "x2/2 + sin x + c"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8713?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "1\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "278",
+    "text": "Differentiate (cos \u03b8 - sin \u03b8)\\(^2\\)",
+    "options": {
+      "A": "-2 cos 2\u03b8",
+      "B": "-2 sin2\u03b8",
+      "C": "1 - 2 cos 2\u03b8",
+      "D": "1 - 2 sin 2\u03b8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8727?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "A",
+    "explanation": "y = (cos\u03b8 - sin\u03b8)dy/dx = 2(cos\u03b8 - sin\u03b8)(-sin\u03b8 - cos\u03b8)dy/dx = 2(-cos\u03b8sin\u03b8 - cos2\u03b8 + sin2\u03b8)dy/dx = 2(- cos\\(^2\\)\u03b8 + sin\\(^2\\)\u03b8)= -2(cos\\(^2\\)\u03b8 - sin\\(^2\\)\u03b8)= -2(1 - 2sin\\(^2\\)\u03b8)= -2cos2\u03b8\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "279",
+    "text": "Evaluate \\(\\int_{-4}^0(1 - 2x)dx\\)",
+    "options": {
+      "A": "-16",
+      "B": "-20",
+      "C": "20",
+      "D": "10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8732?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "\\(\\int_{-4}^0(1 - 2x)\\)dx = \\([x - x^2]_{-4}^0\\)\u00a0= (0 - 0 + C) - (-4 - (-4)\\(^2\\) + C)= C - ( - 4 - 16 +C )= C - ( - 20 + C)= C + 20 - C= 20\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "280",
+    "text": "simplify \\(\\frac{\\frac{7}{9}-\\frac{2}{3}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\)",
+    "options": {
+      "A": "\\(\\frac{11}{12}\\)",
+      "B": "\\(\\frac{5}{6}\\)",
+      "C": "\\(\\frac{1}{5}\\)",
+      "D": "\\(\\frac{2}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8741?exam_type=jamb&type=obj&page=56",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "281",
+    "text": "If m:n = 13:11, find m\\(^2\\) - n\\(^2\\) : (m + n)\\(^2\\)",
+    "options": {
+      "A": "1:11",
+      "B": "1:13",
+      "C": "1:10",
+      "D": "1:12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8742?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "m : n = 13 : 11m\\(^2\\) - n\\(^2\\) :\u00a0(m +\u00a0n)2= 13\\(^2\\) - 11\\(^2\\) : (13 + 11)\\(^2\\)= 169 - 121 : 24\\(^2\\)= 48 : 576= 1 : 12\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "282",
+    "text": "Calculate the logarithm to base 9 of 3\\(^{-4}\\) x\u00a09\\(^2\\) x\u00a0(81)\\(^{-1}\\)",
+    "options": {
+      "A": "2",
+      "B": "zero",
+      "C": "-2",
+      "D": "-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8747?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "C",
+    "explanation": "\\(3^{-4}\\times 9^2 \\times 81^{-1}\\)=\\(log_9 (3^{-4}\\times 9^2 \\times 81^{-1})\\)= \\(log_9 \\left(\\frac{1}{3^4}\\times 9^2 \\times \\frac{1}{81}\\right)\\)= \\(log_9 \\left(\\frac{1}{81}\\times \\frac{81}{1}\\times \\frac{1}{81}\\right)\\)= \\(log_9 \\frac{1}{81}\\)= \\(log_9 \\frac{1}{9^2}\\)= \\(log_9 9^{-2}\\)= -2\\(log_9 9\\)- 2 \\(\\times 1\\)= -2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "283",
+    "text": "If (K2)\\(_6\\) * 3\\(_6\\) = 3\\(_5\\)(K4)\\(_5\\), what is the value of k?",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8753?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "(K2)\\(_6\\) * 3\\(_6\\) = 3\\(_5\\)(K4)\\(_5\\)\n(K*6\\(^1\\) + 2*6\\(^0\\))\u00a03*6\\(^0\\) = 3*5\\(^0\\)(K*5\\(^1\\)\u00a0+ 4*5\\(^0\\))\n3(6K + 2) = 3(5K + 4)\n6K + 2 = 5K + 4\n6K - 5K\u00a0= 4 - 2\nK = 2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "284",
+    "text": "In a small village of 500 people, 350 speak the local language while 200 speak pidgin English. What percentage of the population speak both.",
+    "options": {
+      "A": "30%",
+      "B": "10%",
+      "C": "50%",
+      "D": "14%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8827?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "285",
+    "text": "Find the tax on an income of N20,000 if no tax is paid on the first N10,000 and tax is paid at N50 in N1000 on the next N5000 and at N55 in N1000 on the remainder",
+    "options": {
+      "A": "N500",
+      "B": "N552",
+      "C": "N255",
+      "D": "N525"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8828?exam_type=jamb&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "st\nnd\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "286",
+    "text": "Evaluate \\(\\frac{2}{6-5\\sqrt{3}}\\)",
+    "options": {
+      "A": "\\(-\\left(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\right)\\)",
+      "B": "\\(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\)",
+      "C": "\\(-\\left(\\frac{12}{39}+\\frac{10\\sqrt{3}}{39}\\right)\\)",
+      "D": "\\(\\frac{12}{39}+\\frac{10\\sqrt{3}}{39}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8829?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2}{6-5\\sqrt{3}} = \\frac{2}{6-5\\sqrt{3}} \\times \\frac{6+5\\sqrt{3}}{6+5\\sqrt{3}}\\\\=\\frac{2(6+5\\sqrt{3})}{(6-5\\sqrt{3})(6+5\\sqrt{3})}\\\\=\\frac{12+10\\sqrt{3}}{36-25(3)}\\\\=\\frac{12+10\\sqrt{3}}{36-75}\\\\=\\frac{12+10\\sqrt{3}}{-39}\\\\=-\\left(\\frac{12}{39}+\\frac{10\\sqrt{3}}{39}\\right)\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "287",
+    "text": "Compute 1100112 + 111112",
+    "options": {
+      "A": "10010102",
+      "B": "10100102",
+      "C": "10001102",
+      "D": "10001002"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8830?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "288",
+    "text": "Simplify \\((25)^{\\frac{-1}{2}} \\times\u00a0(27)^{\\frac{1}{3}} + (121)^{\\frac{-1}{2}} \\times\u00a0(625)^{\\frac{-1}{4}}\\)",
+    "options": {
+      "A": "34/55",
+      "B": "9/11",
+      "C": "14/5",
+      "D": "3/275"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8831?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "(25)\\(^{\\frac{-1}{2}}\\) x (27)\\(^{\\frac{1}{3}}\\) + (121)\\(^{\\frac{-1}{2}}\\) x (625)\\(^{\\frac{-1}{4}}\\)5\\(^{2 \\times \\frac{-1}{2}}\\) x 3\\(^{3 \\times \\frac{1}{3}}\\) + 11\\(^{2 \\times \\frac{-1}{2}}\\) x 5\\(^{4 \\times \\frac{-1}{4}}\\)5\\(^{-1}\\) x 3\\(^1\\) x 11\\(^{-1}\\) x 5\\(^{-1}\\)\\(\\frac{1}{5} \\times\u00a0\\frac{3}{1} + \\frac{1}{11} \\times\u00a0\\frac{1}{5}\\)\\(\\frac{3}{5} + \\frac{1}{55} = \\frac{33+1}{55}\\)= \\(\\frac{34}{55}\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "289",
+    "text": "Convert 2232\\(_4\\) to base six",
+    "options": {
+      "A": "4506",
+      "B": "2546",
+      "C": "5536",
+      "D": "5406"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8832?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "1st convert to base 102232\\(_4\\) = 2 x 4\\(^3\\) + 2 x 4\\(^2\\) + 3 x 4\\(^1\\) + 2 x 4\\(^0\\)= 2 x 64 + 2 x 16 + 3 x 4 + 2 x 1= 128 + 32 + 12 + 2= 174 convert to base 66/1746/29 R 06/4 R 56/0 R 4= 450\\(_6\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "290",
+    "text": "In the diagram above, QR is the diameter of the semicircle QR. Find the area\u00a0of the figure to the nearest whole number. [\\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "89 cm2",
+      "B": "70 cm2",
+      "C": "90 cm2",
+      "D": "80 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8833?exam_type=jamb&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "Area of rectangle PQRS = \\(10 \\times 7 = 70cm^2\\)\nArea of semi-circle: \\(\\frac{\\pi r^{2}}{2}\\)\nr = \\(\\frac{7}{2} cm\\)\nArea of semi-circle = \\(\\frac{1}{2} \\times \\frac{22}{7} \\times \\frac{7}{2} \\times \\frac{7}{2}\\)\n= \\(\\frac{77}{4} = 19.25 cm^{2}\\)\nArea of figure = \\((70 + 19.25) cm^{2}\\)\n= 89.25 cm\\(^{2} \\approxeq\\) 89 cm\\(^{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "291",
+    "text": "If tan \u03b8 = 5/4, find sin2\u03b8 - cos2\u03b8.",
+    "options": {
+      "A": "5/4",
+      "B": "41/9",
+      "C": "9/41",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8834?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "5\n4\n2\n2\n2\n2\n2\n5\n\u221a41\n2\n4\n\u221a41\n2\n25\n41\n16\n41\n9\n41\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "292",
+    "text": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8835?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "D",
+    "explanation": "Gradient PQ, P(1,q) and Q(3,2)\\(=\\frac{(2-q)}{(3-1)} = \\frac{(2-q)}{2}\\)Gradient of RS : R(3,4) and S(5,2q)\\(= \\frac{(2q-4)}{(5-3)}= \\frac{(2q-4)}{2} = \\frac{2(q-2)}{2}\\)= q-2Since PQ and RS are parallel,their gradients\u00a0are equal\\(\u2234 \\frac{(2-q)}{2} = q-2\\)2-q = 2(q-2)2-q = 2q-42+4 = 2q+q6 = 3qq = 2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "293",
+    "text": "In triangle XYZ, \u2220XYZ = 15o, \u2220XZY = 45o and lXYl = 7 cm. Find lYZl.",
+    "options": {
+      "A": "14\u221a2 cm",
+      "B": "\\(7\\left(\\frac{\\sqrt{6}}{2}\\right)\\)",
+      "C": "7\u221a2 cm",
+      "D": "7 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8836?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "\u2220yxz = 180 - (45 + 15)= 180 - 60= 120oUsing sine rule\\(\\frac{x}{sinx}=\\frac{7}{sinz}\\)\\(\\frac{x}{sin 120}=\\frac{7}{sin 45}\\)x = \\(\\frac{7 sin 120}{sin45}\\)x = \\(\\frac{7sin(180-120)}{sin 45}\\)x = \\(\\frac{7 sin 60}{sin 45}=\\left(7\\left(\\frac{\\sqrt{3}}{2}\\right)\\div \\frac{1}{\\sqrt{2}}\\right)\\)x = \\(\\left(7\\left(\\frac{\\sqrt{3}}{2}\\right)\\div \\frac{1}{\\sqrt{2}}\\right)\\)x = 7\\(\\left(\\frac{\\sqrt{6}}{2}\\right)\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "294",
+    "text": "In the diagram above, find the value of x",
+    "options": {
+      "A": "55o",
+      "B": "50o",
+      "C": "45o",
+      "D": "40o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8854?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "295",
+    "text": "In\u00a0the diagram above, POQ is a diameter of the circle PQRS. If \u2220PSR = 145\u00b0, find x\u00b0",
+    "options": {
+      "A": "55o",
+      "B": "45o",
+      "C": "35o",
+      "D": "25o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8867?exam_type=jamb&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "\u2220PSQ = 90\u00b0\u00a0(\u2220 in semi circle)\u2220PSQ + \u2220QSR = 145\u00b090 + \u2220QSR = 145\u2220QSR = 145 - 90\u2220QSR = 55\u00b0BUt x\u00b0\u00a0= \u2220QSR (\u2220s in the same segment)\u2234x\u00b0\u00a0= 55\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "296",
+    "text": "What is the locus of points equidistant from the lines ax + by\u00a0+ c = 0?",
+    "options": {
+      "A": "A line bx - ay +q = 0",
+      "B": "A line ax - by +q = 0",
+      "C": "A line bx + ay +q = 0",
+      "D": "A line ax + by +q = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8876?exam_type=jamb&type=obj&page=60",
+    "correct_answer": "D",
+    "explanation": "The set of points equidistant from two parallel lines can be determined by the perpendicular distance from a point to each line.\nGiven the lines are of the form ax + by + k\\(_1\\) = 0 and ax + by + k\\(_2\\) = 0,\u00a0the locus of points equidistant from these lines is another line parallel to them.\nTo find this line, which represents the equation of the locus, we need to find the average\u00a0 k\\(_1\\) and\u00a0 k\\(_2\\), which we shall be denoted by q\nThis line will have the same coefficients for x and y as the original lines.\nThus, the equation of the locus is: ax + by + q = 0\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "297",
+    "text": "PQRSTW is a regular hexagon and QS intersects RT at V. Calculate \u2220TVS",
+    "options": {
+      "A": "120o",
+      "B": "90o",
+      "C": "30o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8895?exam_type=jamb&type=obj&page=60",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "298",
+    "text": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals",
+    "options": {
+      "A": "NQ",
+      "B": "1/4NQ",
+      "C": "2NQ",
+      "D": "1/2NQ"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8907?exam_type=jamb&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "Locus of point equidistant from points P and Q\u00a0is a perpendicular bisector of the straight joining P and Q\u2234PN = NQ\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "299",
+    "text": "In the diagram above, PQ = 10 cm, PS = 8 cm and \u2220PSR is 60o while \u2220SRQ is a right angle. Find SR",
+    "options": {
+      "A": "14 cm",
+      "B": "14\u221a3 cm",
+      "C": "10 cm",
+      "D": "10\u221a3 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/8983?exam_type=jamb&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "ST\n8\n1\n2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "300",
+    "text": "The solution set of the shaded area above is",
+    "options": {
+      "A": "y \u2265 0, y \u2265 x and y + x \u2264 4",
+      "B": "y \u2264 x, y + x \u2264 4",
+      "C": "y + x \u2265 4, y \u2264 x",
+      "D": "y \u2264 x, y + x \u2264 4 and y \u2265 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9008?exam_type=jamb&type=obj&page=60",
+    "correct_answer": "D",
+    "explanation": "y = x implies y \u2264 xy + x = 4 implies y = 4 \u2013 x\u2234y = 4 \u2013 x\u2234y \u2264 x, y + x \u2264 4 and y \u2265 0\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "301",
+    "text": "A binary operation \\(\\oplus\\)\u00a0defined on the set of real number is such that x\\(\\oplus\\)y = xy/6 for all x, y \u2208 R. Find the inverse of 20 under this operation when the identity element is 6",
+    "options": {
+      "A": "1/12",
+      "B": "10/3",
+      "C": "1/20",
+      "D": "9/5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9014?exam_type=jamb&type=obj&page=61",
+    "correct_answer": "D",
+    "explanation": "x \u2295 y = xy/6 = xe/6 = xxe = 6xe = 6x \u2295 y = xx1/6 where x1 = 20x x 20/6 = 6x = 36/20x = 9/5\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "302",
+    "text": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
+    "options": {
+      "A": "p varies directly as r3",
+      "B": "p varies inversely as r6",
+      "C": "p varies inversely as 6\u221aP",
+      "D": "p varies directly as r6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9035?exam_type=jamb&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "P \u221d 1/q3P = K/q3q3 = K/Pq = K/p1/3But q \u221d r2q = Kr2K/p1/3 = Kr2r2 = K/p1/3 x 1/Kr2 = 1/p1/3r = (1/p1/3)2r = 1/p1/6r \u221d 1/p1/6 = p = \\(\\frac{1}{r^6}\\)\u2234 p\u00a0varies inversely as\u00a0\\(r^6\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "303",
+    "text": "A binary operation * on the set of rational numbers is defined as \\(x \\ast\u00a0y = \\frac{x^2 - y^2}{2xy}\\). Find \\(-5 \\ast\u00a03\\)",
+    "options": {
+      "A": "\\(\\frac{-8}{15}\\)",
+      "B": "\\(\\frac{8}{15}\\)",
+      "C": "\\(\\frac{17}{15}\\)",
+      "D": "\\(\\frac{-17}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9036?exam_type=jamb&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "\\(x \\ast\u00a0y = \\frac{x^2 - y^2}{2xy}\\)=\\(\\frac{(x+y)(x-y)}{2xy}\\)-5 \\(\\ast 3 =\\frac{(-5+3)(-5-3)}{2(-5\\times3)}\\)=\\(\\frac{-2 \\times -8}{2(-5\\times3)}\\)=\\(\\frac{-8}{15}\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "304",
+    "text": "Find the value of k if the expression kx3 + x2 - 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "-10",
+      "D": "-8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9037?exam_type=jamb&type=obj&page=61",
+    "correct_answer": "C",
+    "explanation": "3\n2\n1\n2\n1\n2\n3\n1\n2\n2\n1\n2\n1\n2\n1\n8\n1\n4\n5\n2\nk\n8\n1\n4\n5\n2\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "305",
+    "text": "Solve the inequalities for which \\(\\frac{x+4}{3}-\\frac{x-3}{2} < 4\\)",
+    "options": {
+      "A": "x < 7",
+      "B": "x > -7",
+      "C": "x < -7",
+      "D": "x > 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9038?exam_type=jamb&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{x+4}{3}-\\frac{x-3}{2} < 4\\\\\\frac{(2(x+4))-(3(x-3))}{6}<4\\)2(x+4) \u2013 3(x-3) < 4 x 62x + 8 \u2013 3x+9 < 24-x + 17 < 24-x < 24 \u2013 17-x < 7x > -7\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "306",
+    "text": "The cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
+    "options": {
+      "A": "N1215",
+      "B": "N720",
+      "C": "N1620",
+      "D": "N810"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9039?exam_type=jamb&type=obj&page=62",
+    "correct_answer": "D",
+    "explanation": "Cost of removing a 6m\\(^2\\) room = N540Cost of renovating a 1m\\(^2\\) room = 540 / 6Cost of removing a 9m\\(^2\\) room= (540 / 6) * 9= N810\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "307",
+    "text": "The sum of the first n positive integers is",
+    "options": {
+      "A": "1/2 n(n-1)",
+      "B": "n(n+1)",
+      "C": "n(n-1)",
+      "D": "1/2 n(n+1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9040?exam_type=jamb&type=obj&page=62",
+    "correct_answer": "D",
+    "explanation": "Let the positive integers be 1, 2, ,3, 4, .....n\u2234 a = 1, d = 1 and n = nSn = n/2(2a + (n-1)d)= n/2 (2 + n \u2013 1)= 1/2n(n + 1)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "308",
+    "text": "If \\(T = 2\\pi \\sqrt{\\frac{l}{g}}\\), make g the subject of the formula",
+    "options": {
+      "A": "(4\u03c0 l2) / T",
+      "B": "(4\u03c02l) / T2",
+      "C": "(4\u03c02l2) / T2",
+      "D": "(2\u03c0\u221al) / T"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9041?exam_type=jamb&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "\\(T = 2\\pi \\sqrt{\\frac{l}{g}}\\)\n\\(\\frac{T}{2\\pi}\u00a0= \\sqrt{\\frac{l}{g}}\\)\n\\((\\frac{T}{2\\pi})^{2} = \\frac{l}{g}\\)\n\\(\\therefore g = \\frac{4 \\pi^{2} l}{T^{2}}\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "309",
+    "text": "If y = x\\(^2\\) - x - 12, find the range of values of x for which y \\( \\geq \\) 0",
+    "options": {
+      "A": "x < -3 0r x > 4",
+      "B": "x \\( \\leq \\) -3 or x \\( \\geq \\) 4",
+      "C": "-3 < x \\( \\geq \\) 4",
+      "D": "-3 \\( \\leq \\) x \\( \\leq \\) 4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9042?exam_type=jamb&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "y = x\\(^2\\) - x - 12= (x - 4)(x +\u00a03)\u2234 x = 4 or x = -3Checking the cases for y \\( \\geq \\) 0We check values on the range x - 4 \\(\\geq\\) 0; x + 3 \\(\\leq\\) 0; x - 4 \\(\\leq\\) 0 and x + 3 \\(\\geq\\) 0 for the range which satisfies the inequality x\\(^2\\) - x - 12 \\(\\geq\\) 0.\nWe find that the inequality is satisfied on the range x \\(\\leq\\) -3 and x \\(\\geq\\) 4.\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  },
+  {
+    "number": "310",
+    "text": "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1 - 2\\(^8\\)?",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "9",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9043?exam_type=jamb&type=obj&page=62",
+    "correct_answer": "D",
+    "explanation": "3, - 6, +12, -24a = 3, r = -2\\(Sn = \\frac{a(1-r^n)}{1-r}\\\\\u22341-2^8 = \\frac{3(1-(-2^{n}))}{1-(-2)}\\\\1-2^8 = \\frac{3(1-(-2^{n}))}{3}\\)1 - 2\\(^8\\) = 1 - (-2)\\(^n\\)Since\u00a01 - 2\\(^8\\) = 1 - (-2)\\(^n\\)\nThere is an explanation video availablebelow.",
+    "year": "2006"
+  }
+]

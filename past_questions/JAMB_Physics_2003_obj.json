@@ -1,0 +1,576 @@
+[
+  {
+    "number": "192",
+    "text": "On top of a spiral spring of the force constant 500Nm-1 is placed a mass of 5 x 10-3 kg. If the spring is compressed downwards by a length of 0.02m and then released, calculate the height to which the mass is projected",
+    "options": {
+      "A": "8 m",
+      "B": "4 m",
+      "C": "2 m",
+      "D": "1 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12265?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "C",
+    "explanation": "-1\n-3\n-2\n1\n2\n2\n1\n2\n2\n-3\n1\n2\n2\n-3\n-1",
+    "year": "2003"
+  },
+  {
+    "number": "193",
+    "text": "A test tube of radius 1.0cm is loaded to 8.8g. If is placed upright in water, find the depth to which it would sink",
+    "options": {
+      "A": "2.8cm",
+      "B": "5.2cm",
+      "C": "25.5cm",
+      "D": "28.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12266?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "To find the depth to which a test tube sinks when placed upright in water, we apply the principle of buoyancy.\nGiven:- Radius of the test tube, \\( r = 1.0 \\, \\text{cm} = 0.01 \\, \\text{m} \\)- Mass of the test tube, \\( m = 8.8 \\, \\text{g} = 0.0088 \\, \\text{kg} \\)- Density of water, \\( \\rho = 1000 \\, \\text{kg/m}^3 \\)- Acceleration due to gravity, \\( g = 10 \\, \\text{m/s}^2 \\)\nCalculate the weight of the test tubeThe weight \\( W \\) of the test tube is given by:\\(W = mg = 0.0088 \\, \\text{kg} \\times 10 \\, \\text{m/s}^2 = 0.088 \\, \\text{N}\\)\nCalculate the buoyant forceThe buoyant force \\( F_b \\) is given by:\\(F_b = \\rho g V_{\\text{displaced}} = \\rho g \\pi r^2 h\\)\nBut, the buoyant force is equal to the weight:\\(\\rho g \\pi r^2 h = W\\)Substituting the known values:\\(1000 \\times 10 \\times \\pi \\times (0.01)^2 \\times h = 0.088\\)\nSolve for \\( h \\)Rearranging gives:\\(h = \\frac{0.088}{1000 \\times 10 \\times \\pi \\times (0.01)^2}\\)\nCalculating:\\(h = \\frac{0.088}{1000 \\times 10 \\times \\pi \\times 0.0001} = \\frac{0.088}{3.142} \\approx 0.028 \\, \\text{m}\\)\u00a0\u2248 2.8cm",
+    "year": "2003"
+  },
+  {
+    "number": "194",
+    "text": "The length of piece of glass block was measured by means of a vernier calliper as shown above. The length of the glass block is",
+    "options": {
+      "A": "1.63 cm",
+      "B": "1.64 cm",
+      "C": "1.65 cm",
+      "D": "1. 66 cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12267?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "The length of the glass block\u00a0 = The main scale reading of the vernier calliper + the vernier scale reading\n= 1.6 + 0.04 = 1.64cm.",
+    "year": "2003"
+  },
+  {
+    "number": "195",
+    "text": "A hose of cross-sectional area 0.5m2 is used to discharge water from a water tanker at a velocity of 60ms-1 in 20s into a container. If the container is filled completely, the volume of the container is",
+    "options": {
+      "A": "240m3",
+      "B": "600m 3",
+      "C": "2400m 3",
+      "D": "6000m3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12268?exam_type=jamb&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "-1\n3\n-1\n3\n3\n3",
+    "year": "2003"
+  },
+  {
+    "number": "196",
+    "text": "If an object just begins to slide on a surface inclined at 30o to the horizontal,the coefficient of friction is",
+    "options": {
+      "A": "\u221a3",
+      "B": "\u221a3/2",
+      "C": "1/\u221a2",
+      "D": "1/\u221a3"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12269?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "o\no\n1\n\u221a3",
+    "year": "2003"
+  },
+  {
+    "number": "197",
+    "text": "Water does not drop through an open umbrella of silk materials unless the inside of the umbrella is touched. This is due to",
+    "options": {
+      "A": "capilarity",
+      "B": "osmotic pressure",
+      "C": "viscosity",
+      "D": "surface tension"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12270?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "198",
+    "text": "The stylus of a phonograph record exerts a force of 7.7 x 10\\(^{-2}\\)N on a groove of radius 10\\(^{-5}\\)m. Compute the pressure exerted by the stylus on the groove",
+    "options": {
+      "A": "2.45 x 108 Nm-2",
+      "B": "3.45 x 108 Nm-2",
+      "C": "4.90 x 108 Nm-2",
+      "D": "2.42 x 108 Nm-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12271?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "Pressure P = \\(\\frac{F}{A}\\);\u00a0 Pressure P\u00a0 = \\(\\frac{F}{\\pi r^2}\\)\n=\u00a0\\(\\frac{7.7 \\times 10^{-2}}{\\pi \\times 10^{-10}}\\)\n= 2.45 x 10\\(10^8\\)Nm\\(^{-2}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "199",
+    "text": "A piece of stone attached to one end of a string is whirled round in a horizontal circle and the string suddenly cuts. The stone will fly off in a direction",
+    "options": {
+      "A": "perpendicular to the circular path",
+      "B": "parallel to the circular path",
+      "C": "tangential to the circular path",
+      "D": "towards the center of the circle"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12272?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "A\nB\nC\nD",
+    "year": "2003"
+  },
+  {
+    "number": "200",
+    "text": "A 90cm uniform lever has a load of 30N suspended at 15cm from one of its ends. If the fulcrum is at the center of gravity, the force that must be applied at its other end to keep it in horizontal equilibrium is",
+    "options": {
+      "A": "15N",
+      "B": "20N",
+      "C": "30N",
+      "D": "60N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12273?exam_type=jamb&type=obj&page=40",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "201",
+    "text": "A satellite is in a parking orbit if its period is",
+    "options": {
+      "A": "less than the period of the earth",
+      "B": "more than the  period of the earth",
+      "C": "equal to the period of the earth",
+      "D": "the square of the period of the earth"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12274?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "202",
+    "text": "T\u00baC\n0\n5\n10\n15\n20\n40\n60\n\n\nS.V.P(mmHg)\n4.58\n6.51\n8.94\n12.67\n17.50\n55.10\n149.00\n\n\n\n\nThe table above shows the saturation vapour pressure against temperature in a certain town. If the vapour pressure in this town at 20oC is 10mmHg, what is the relative humidity?",
+    "options": {
+      "A": "170.0%",
+      "B": "57.0%",
+      "C": "17.5%",
+      "D": "10.0%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12275?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "R.H = \\(\\frac{Partial Pressure\u00a0 of\u00a0 \u00a0Water Vapour Present}{S.V.P\u00a0 \u00a0at\u00a0 \u00a0temperature of atmosphere}\\) x 100= \\(\\frac{10}{17.50}\\) x 100= 57.14%\u00a0\u00a0\u2248\u00a0\u00a057%",
+    "year": "2003"
+  },
+  {
+    "number": "203",
+    "text": "A turning fork of frequency 340Hz is vibrated just above a cylindrical tube of height 1.2m. If water is slowly poured into the tube, at what maximum height will resonance occur.\n[speed of sound in air = 340ms-1]",
+    "options": {
+      "A": "0.95m",
+      "B": "0.60m",
+      "C": "0.50m",
+      "D": "0.45m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12276?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "In vibration in a closed pipe/tube, the first resonance occurs at a position L = V/4f,When reading from the top of the tube,\nL\\(_1\\) = \\(\\frac{340}{4 \\times 340}\\) = 0.25m\n= 0.25mL\\(_2\\) = \\(\\frac{3V}{4f}\\)\nL\\(_2\\) =\u00a0\\(\\frac{3 \\times 340}{4 \\times 340}\\)\n= 0.75mL\\(_3\\) = \\(\\frac{5V}{4f}\\)\nL\\(_3\\) = \\(\\frac{5\\times 340}{4\\times 340}\\)\n= 1.25m\nHowever, the effective length of the tube is 1.2m. Thus reading from below, the first position of resonance will be 1.20 - 0.25m = 0.95m",
+    "year": "2003"
+  },
+  {
+    "number": "204",
+    "text": "By what factor will the size of an object placed 10cm from a convex lens be increased if the image is seen on a screen placed 25cm from the lens?",
+    "options": {
+      "A": "15.0",
+      "B": "2.5",
+      "C": "1.5",
+      "D": "0.4"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12277?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "1\nU\n1\nV\n1\nf\n1\n10\n1\n25\n1\nf\n1\nf\n50\n7\nf\nU-f\n=__50/710 -50/7\n\u2234 M =50/720/7\n50\n7\n7\n20",
+    "year": "2003"
+  },
+  {
+    "number": "205",
+    "text": "Thermal equilibrium between two object exist when",
+    "options": {
+      "A": "the temperature of both objects are equal",
+      "B": "the quantity of heat of both objects is the same",
+      "C": "the heat capacities of both objects are the same",
+      "D": "one object losses heat continuously to the other"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12278?exam_type=jamb&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "206",
+    "text": "An open pipe closed at one end produces its first fundamental note. If the velocity of sound in air is P and t the length of the pipe, the frequency of the note is",
+    "options": {
+      "A": "2v/t",
+      "B": "v/5t",
+      "C": "v/4t",
+      "D": "v/2t"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12279?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "\u03bb\n4\nV\n\u03bb\nV\n4L\nV\n4L",
+    "year": "2003"
+  },
+  {
+    "number": "207",
+    "text": "On a fairly cool rainy day when the temperature is 20oC, the length of a steel railroad track is 20m. What will be its length on a hot a dry day when the temperature is 40oC?\n[coefficient of linear expansion of steel = 11 x 10-6K-1]",
+    "options": {
+      "A": "20.013m",
+      "B": "20.009m",
+      "C": "20.004m",
+      "D": "20.002m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12280?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "-6\n-6\n-3\n-3",
+    "year": "2003"
+  },
+  {
+    "number": "208",
+    "text": "If an object is placed between two parallel plane mirrors with their reflecting surfaces facing each other, how many images of the object will be formed?",
+    "options": {
+      "A": "Infinite",
+      "B": "Eight",
+      "C": "Four",
+      "D": "Two"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12281?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "209",
+    "text": "The phenomenon where by the water droplets in the atmosphere combines with dust particles in the air to reduce visibility is",
+    "options": {
+      "A": "cloud",
+      "B": "mist",
+      "C": "hail",
+      "D": "fog"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12282?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "Fog is a weather phenomenon when water droplets condense in the air, often around dust or other particulate matter. This condensation significantly reduces visibility.Mist: Similar to fog, but generally has higher visibility.",
+    "year": "2003"
+  },
+  {
+    "number": "210",
+    "text": "At what position will an object be placed in front of a concave mirror in order to obtain an image at infinity?",
+    "options": {
+      "A": "At the pole of the mirror",
+      "B": "At the principal focus",
+      "C": "at the center of the curvature",
+      "D": "Between the principal focus and the center of curvature"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12283?exam_type=jamb&type=obj&page=42",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "211",
+    "text": "If the distance from a point source of sound is doubled, by what factor does the intensity decrease?",
+    "options": {
+      "A": "4.00",
+      "B": "2.00",
+      "C": "0.50",
+      "D": "0.25"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12284?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "1\nr2",
+    "year": "2003"
+  },
+  {
+    "number": "212",
+    "text": "A 2000W electric heater is used to heat a metal object of mass 5kg initially at 10oC. If a temperature rise of 30oC is obtained after 10min, the heat capacity of the material is",
+    "options": {
+      "A": "6.0 x 104JoC-1",
+      "B": "4.0 x 104JoC-1",
+      "C": "1.2 x 104JoC-1",
+      "D": "8.0 x 103JoC-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12285?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "mc\u0394T\u00a0= Pt\u00a0\u2192 5 x c x 30 = 2000 x 10 x 60\nc = \\(\\frac{1200000}{150}\\)\nc = 8000 = 8.0 x \\(10^3J/kg\u00baC^{-1}\\)\nBut, Heat capacity C = mass x specific heat capacity\nC = 5 x 8000 = 40000 = 4 x\u00a0(10^4J\u00baC^{-1}\\)\n(OR) C = \\(\\frac{2000* 10* 60*}{30}\\) = 40,000J\u00baC\\(^{-1}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "213",
+    "text": "If 1.2 x 10^6J of heat energy is given off in 1 sec from a vessel maintained at a temperature gradient of 30Km-1, the surface area of the vessel is\n[ thermal conductivity of the vessel = 400Wm-1K-1]",
+    "options": {
+      "A": "1.0 x 102m2",
+      "B": "9. 0 x 102m2",
+      "C": "1.0 x 103m2",
+      "D": "9.0 x 104m2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12286?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "Generally in thermal/heat conduction, if 1.2 x 106 J is the heat flow per seconds; 30KM-1 is the temperature gradient of the materials; and 400Wm-1K-1 the thermal conductivity of the material, then we have that:heat energy\u00a0\u00a0= thermal conductivity x temp. gradient x time x areai.e = 1.2 x 10^6= 400 x 30 x1x Area=> 400 x 30 x Area = 1.2 x 10^6\u2234 Area = (1.2 x 10^6)/(400 x 30)Area = 100m^2 or 1.0 x 10^2m2",
+    "year": "2003"
+  },
+  {
+    "number": "214",
+    "text": "A positive charged rod X is brought near as uncharged metal sphere Y and is then touched by a finger with X still in place. When the finger is removed, the result is that y has",
+    "options": {
+      "A": "no charge and a zero potential",
+      "B": "a positive charge and zero potential",
+      "C": "a negative charge and positive potential",
+      "D": "a negative charge and a negative potential"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12367?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "215",
+    "text": "In the diagram above, if each of the resistors can dissipate a maximum of 18W without becoming excessively heated, what is the maximum power the circuit can dissipate?",
+    "options": {
+      "A": "27W",
+      "B": "18W",
+      "C": "9W",
+      "D": "5W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12376?exam_type=jamb&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "2\n2\n18\n2\n1\nR\n1\n2\n1\n2\n2\n2",
+    "year": "2003"
+  },
+  {
+    "number": "216",
+    "text": "The operation of an optical fibre is based on the principal of",
+    "options": {
+      "A": "dispersion of light",
+      "B": "interference of light",
+      "C": "refraction of light",
+      "D": "polarization of light"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12379?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "217",
+    "text": "I the diagram above, what would happen to the current I, if another resistor, R2, is connected in parallel to R1?",
+    "options": {
+      "A": "It will increase because the equivalent resistance will increase",
+      "B": "It will decrease if R2 is greater than R1",
+      "C": "It will increase because the effective resistance will decrease",
+      "D": "It will decrease if R2 is less than R1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12385?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "218",
+    "text": "A wire of 5\u03a9 resistance is drawn out so that its new length is two times the original length. If the resistivity of the wire remains the same and the cross-sectional area is halved, the new resistance is",
+    "options": {
+      "A": "40\u03a9",
+      "B": "20\u03a9",
+      "C": "10\u03a9",
+      "D": "5\u03a9"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12405?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "Given:- Original resistance \\( R_1 = 5 \\, \\Omega \\)- The new length \\( L_2 = 2L_1 \\) (where \\( L_1 \\) is the original length)- The new cross-sectional area \\( A_2 = \\frac{1}{2} A_1 \\) (where \\( A_1 \\) is the original area)\nStep 1: Recall the formula for resistance\nThe resistance \\( R \\) of a wire is given by:\n\\(R = \\rho \\frac{L}{A}\\)\nwhere:- \\( \\rho \\) is the resistivity,- \\( L \\) is the length,- \\( A \\) is the cross-sectional area.\nStep 2: Calculate the new resistance\nThe new resistance \\( R_2 \\) can be calculated using the new length and new area:\n\\(R_2 = \\rho \\frac{L_2}{A_2}\\)\nSubstituting for \\( L_2 \\) and \\( A_2 \\):\n\\(R_2 = \\rho \\frac{2L_1}{\\frac{1}{2}A_1} = \\rho \\frac{2L_1 \\cdot 2}{A_1} = \\rho \\frac{4L_1}{A_1}\\)\nStep 3: Relate \\( R_1 \\) and \\( R_2 \\)\nFrom the original resistance \\( R_1 \\):\n\\(R_1 = \\rho \\frac{L_1}{A_1}\\)\nNow, we can express \\( R_2 \\) in terms of \\( R_1 \\):\n\\(R_2 = 4 \\left(\\rho \\frac{L_1}{A_1}\\right) = 4R_1\\)\nStep 4: Substitute the value of \\( R_1 \\)\nNow substitute \\( R_1 = 5 \\, \\Omega \\):\n\\(R_2 = 4 \\times 5 \\, \\Omega = 20 \\, \\Omega\\)\nTherefore, the\u00a0 new resistance is: \\(\\boxed{20 \\, \\Omega}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "219",
+    "text": "An electron of charge 1.6 x 10-19C is accelerated between two metal plates. If the kinetics energy of the electron is 4.8 x 10-17J, the potential difference between the plate is",
+    "options": {
+      "A": "30V",
+      "B": "40V",
+      "C": "300V",
+      "D": "400V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12407?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "In general, if a charged particle is accelerated between two metal plates/a region by a potential difference V volts, the work done on the charge, given by the product of the charge and the potential difference, is equal to the kinetic energy of the chargeThus eV = K.E1.6 x 10\\(^{-19}\\) x V = 4.8 x 10\\(^{-17}\\)\n\u2234 V = \\(\\frac{4.8 \\times 10^{-17}}{1.6 \\times 10^{-19}}\\)\n= 300V",
+    "year": "2003"
+  },
+  {
+    "number": "220",
+    "text": "A magnetic field is said to exist at a point if a force is",
+    "options": {
+      "A": "exerted on a stationary charge at the point",
+      "B": "exerted on a moving charge at the point",
+      "C": "deflected at the point",
+      "D": "strengthened at the point"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12408?exam_type=jamb&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "in motion",
+    "year": "2003"
+  },
+  {
+    "number": "221",
+    "text": "I It retains its magnetic much longer than steel.\nII It is more easily magnetized than steel\nIII It is more easily demagnetized than steel\nIV It produces a stronger magnet than steel \nWhich combination of the above makes iron preferable to steel in the making of electromagnets?",
+    "options": {
+      "A": "I and II only",
+      "B": "II and III only",
+      "C": "I, III, and IV only",
+      "D": "II, III and IV only"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12410?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "Iron (soft iron) is usually preferred to steel in the making of electromagnets because it is more easily magnetized and equally more easily demagnetized than [II, III and IV]",
+    "year": "2003"
+  },
+  {
+    "number": "222",
+    "text": "Which of the following pairs of light rays show the widest separation in the spectrum of white light",
+    "options": {
+      "A": "Blue and red",
+      "B": "Green and yellow",
+      "C": "Indigo and violet",
+      "D": "Orange and red"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12414?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "223",
+    "text": "The most suitable cell used for short interval switches in electric bells is a",
+    "options": {
+      "A": "lead- acid accumulator",
+      "B": "Daniel cell",
+      "C": "Leclanche cell",
+      "D": "nickel iron accumulator"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12416?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "224",
+    "text": "A ray incident on a glass prism undergoes minimum deviation when the",
+    "options": {
+      "A": "incident angle is equal to the angle of refraction",
+      "B": "refraction angle equals 90o",
+      "C": "incident angle equals 90o",
+      "D": "incident angle is equal to the angle of emergence"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12748?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no",
+    "year": "2003"
+  },
+  {
+    "number": "225",
+    "text": "The count rate of a radioactive material is 800 count/min. If the half-life of the material is 4 days, what would the count rate be in 16 days later",
+    "options": {
+      "A": "200 count / min",
+      "B": "100 count / min",
+      "C": "50 count / min",
+      "D": "25 count / min"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12749?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "1\n2\n4\n1\n16\n1\n16\n800\n1",
+    "year": "2003"
+  },
+  {
+    "number": "226",
+    "text": "A circuit has an area of 0.4m2 and consists of 50 loops of wire. If the loops are twisted and allowed to rotate at a constant angular velocity of 10 rad s-1 in a uniform magnetic field of 0.4T, the amplitude of the induced voltage is",
+    "options": {
+      "A": "8V",
+      "B": "16V",
+      "C": "20V",
+      "D": "80V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12750?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "The induced voltage \\(\\epsilon\\) in a coil = N* B* A * \\(\\omega\\)\nwhere:\u00a0N = number of loops (50 loops),B\u00a0= magnetic field strength (0.4 T),A\u00a0= area of the loop (0.4 m\\(^2\\)),\\(\\omega\\)\u00a0= angular velocity (10 rad/s)\n\\(\\epsilon\\) in a coil = N* B* A * \\(\\omega\\) = 50 x 0.4 x 0.4 x 10 = 80V\nTherefore,\u00a0the amplitude of the induced voltage is 80V",
+    "year": "2003"
+  },
+  {
+    "number": "227",
+    "text": "The force on a charge moving with velocity v in a magnetic field B is half of the maximum force when the angle between v and B is",
+    "options": {
+      "A": "90o",
+      "B": "45o",
+      "C": "30o",
+      "D": "0o"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12757?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "o\no\no",
+    "year": "2003"
+  },
+  {
+    "number": "228",
+    "text": "The maximum kinetic energy of the photoelectron emitted from a metal surface is 0.34eV. If the work function of the metal surface is 1.83eV,find the stopping potential.",
+    "options": {
+      "A": "2.17V",
+      "B": "1.49V",
+      "C": "1.09V",
+      "D": "0.34V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12759?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "(max)",
+    "year": "2003"
+  },
+  {
+    "number": "229",
+    "text": "When an alternating current given by I = 10sin (120\u03c0)t passes through a 12\u03a9 resistor, the power dissipated in the resistor is",
+    "options": {
+      "A": "1200W",
+      "B": "600W",
+      "C": "120W",
+      "D": "30W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12760?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "To find the power dissipated in a resistor due to an alternating current (AC), we use the formula for average power:\n\\(P = I_{\\text{rms}}^2 R\\)\nwhere:- \\( P \\) is the average power,- \\( I_{\\text{rms}} \\) is the root mean square (RMS) value of the current,- \\( R \\) is the resistance.\nThe current is given by:\u00a0 \\(I(t) = 10 \\sin(120\\pi t)\\)\nThe peak current is: \\(I_0 = 10 \\, \\text{A}\\)\nThe RMS value of a sinusoidal current is given by:\n\\(I_{\\text{rms}} = \\frac{I_0}{\\sqrt{2}} = \\frac{10}{\\sqrt{2}} = 5\\sqrt{2} \\, \\text{A} \\approx 7.07 \\, \\text{A}\\)\nUsing the resistance \\( R = 12 \\, \\Omega \\):\n\\(P = I_{\\text{rms}}^2 R\\)\nSubstituting the values:\n\\(P = (5\\sqrt{2})^2 \\cdot 12\\)\nCalculating \\( (5\\sqrt{2})^2 \\):\n\\((5\\sqrt{2})^2 = 25 \\cdot 2 = 50\\)\nNow substituting back into the power formula: \\(P = 50 \\cdot 12 = 600 \\, \\text{W}\\)\nThus, the power dissipated in the resistor is: \\(600 \\, \\text{W}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "230",
+    "text": "In a semi conductor junction diode, as the depletion or barrier layer is forward-biased, the layer",
+    "options": {
+      "A": "widens",
+      "B": "narrows",
+      "C": "remains constant",
+      "D": "widens then narrows"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12761?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "In a semiconductor junction diode, applying forward bias to the depletion or barrier layer causes the layer toB. narrow.\nThis occurs because the applied voltage lowers the potential barrier, facilitating the recombination of charge carriers and reducing the width of the depletion region.",
+    "year": "2003"
+  },
+  {
+    "number": "231",
+    "text": "The major difference between a pure semiconductor and a pure metal is that",
+    "options": {
+      "A": "metals are harder than semiconductor",
+      "B": "while resistance of metals decrease with temperature , the reverse is the case for semiconductor",
+      "C": "the resistance of metals increases with temperature, while for semiconductors, it is the reverse",
+      "D": "metals have forbidden gaps while semiconductors have not"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12762?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2003"
+  },
+  {
+    "number": "232",
+    "text": "When a nucleus is formed by bringing protons and neutrons together, the actual mass of the formed nucleus is less than the sum of the masses of the energy equivalent of this mass difference is the",
+    "options": {
+      "A": "lost energy",
+      "B": "work function",
+      "C": "binding energy",
+      "D": "stability energy"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/12763?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  }
+]

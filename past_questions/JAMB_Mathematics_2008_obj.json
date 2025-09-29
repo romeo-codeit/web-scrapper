@@ -1,0 +1,632 @@
+[
+  {
+    "number": "356",
+    "text": "Add 1101\\(_2\\),10111\\(_2\\) and 111\\(_2\\)",
+    "options": {
+      "A": "1110112",
+      "B": "1101102",
+      "C": "1010112",
+      "D": "1010102"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9257?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "1101\\(_2\\) + 10111\\(_2\\) + 111\\(_2\\) = 101011\\(_2\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "357",
+    "text": "If 125\\(_x\\) = 20\\(_{10}\\)\u00a0find x",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9258?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "125\\(_x\\)\u00a0= 20\\(_{10}\\)1 xX\\(^2\\)\u00a0+ 2 xX\\(^1\\)\u00a0+ 5xX\\(^0\\)\u00a0= 20X2 + 2X+ 5 = 20X\\(^2\\)\u00a0+ 2X- 15 = 0(X+ 5)(X- 3) = 0X+ 5 impliesX= -5X- 3 impliesX= 3ButXcannot be negative\u2234X= 3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "358",
+    "text": "Evaluate \\(\\frac{\\left(\\frac{3}{8}\\div\\frac{1}{2}+\\frac{1}{2}\\right)}{\\left(\\frac{1}{8}\\times\\frac{2}{3}+\\frac{1}{3}\\right)}\\)",
+    "options": {
+      "A": "1/4",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9259?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "359",
+    "text": "Express 123456 to 3 significant figures",
+    "options": {
+      "A": "123000",
+      "B": "124000",
+      "C": "125000",
+      "D": "126000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9260?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "A",
+    "explanation": "NB: This is a correction to the\u00a0solution in the video lesson.123456 \\(\\approxeq\\) 123000.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "360",
+    "text": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
+    "options": {
+      "A": "N3,000",
+      "B": "N600",
+      "C": "N300",
+      "D": "N150"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9261?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "A",
+    "explanation": "\\(I = \\frac{P \\times T \\times R}{100}\\\\=\\frac{7500 \\times 8 \\times 5}{100}\\\\=N3000\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "361",
+    "text": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase?",
+    "options": {
+      "A": "42%",
+      "B": "41%",
+      "C": "40%",
+      "D": "25%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9262?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "N85 - N60 = N25 increase\u2234percentage increase = \\(\\frac{25}{60}\\times \\frac{100}{1}\\) = \\(\\frac{125}{3}\\) = 41.67%= 42%\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "362",
+    "text": "simplify \\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\)",
+    "options": {
+      "A": "3/8",
+      "B": "2/3",
+      "C": "3/4",
+      "D": "3/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9263?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "\\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\)=\\(\\frac{1}{16^{\\frac{1}{2}}}\\times \\frac{1}{4^{\\frac{1}{2}}}\\times 27^{\\frac{1}{3}}\\)=\\(\\frac{1}{\\sqrt{16}} \\times \\frac{1}{\\sqrt{4}} \\times \\sqrt[3]{27}\\)=\\(\\frac{1}{4} \\times \\frac{1}{2} \\times \\frac{3}{1}\\)= \\(\\frac{3}{8}\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "363",
+    "text": "If log\\(_{x^{\\frac{1}{2}}}\\)64\u00a0 = 3, find the value of x",
+    "options": {
+      "A": "4",
+      "B": "16",
+      "C": "32",
+      "D": "64"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9264?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "B",
+    "explanation": "If\u00a0 log\\(_{x^{\\frac{1}{2}}}\\)64\u00a0= 3(X\\(^{\\frac{1}{2}})^3\\) = 64(X\\(^{\\frac{1}{2}})^3\\) = 4\\(^3\\)X\\(^{\\frac{1}{2}}\\) = 4X = 4\\(^2\\)X = 16\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "364",
+    "text": "If \\(\\frac{1+\\sqrt{2}}{1-\\sqrt{2}}\\) is expressed in the form of x+y\u221a2 find the values of x and y",
+    "options": {
+      "A": "(-3, -2)",
+      "B": "(-2, 3)",
+      "C": "(3,2)",
+      "D": "(2,-3)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9265?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1+\\sqrt{2}}{1-\\sqrt{2}} \\times \\frac{1+\\sqrt{2}}{1+\\sqrt{2}}\\)= \\(\\frac{1+(1+\\sqrt{2})+\\sqrt{2}(1+\\sqrt{2})}{1^2 - (\\sqrt{2})^2}\\)= \\(\\frac{(1+\\sqrt{2}+\\sqrt{2}+2)}{1-2}\\)= \\(\\frac{3+2\\sqrt{2}}{-1}\\)= - 3 - 2\\(\\sqrt{2}\\)\u2234 X and Y = -3 and -2\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "365",
+    "text": "If X = {n\\(^2\\) + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X\u2229Y.",
+    "options": {
+      "A": "{1,3}",
+      "B": "{5,10}",
+      "C": "\u2205",
+      "D": "{4,6}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9266?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "C",
+    "explanation": "X = {1,5,10}Y = {3,4,6}X\u2229Y = \u2205\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "366",
+    "text": "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books.\u00a0How many customers has he altogether?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "50",
+      "D": "60"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9267?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "n(M) only = 30-10 = 20n(E) only = 20-10 = 10n(M\u2229E) = 10\u2234M\u222aE = 20+10+10= 40\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "367",
+    "text": "Make Q the subject of formula when \\(L=\\frac{4}{3}M\\sqrt{PQ}\\)",
+    "options": {
+      "A": "\\(\\frac{9L^2}{16M^2P}\\)",
+      "B": "\\(\\frac{3L}{4M\\sqrt{P}}\\)",
+      "C": "\\(\\frac{\\sqrt{3L}}{4MP}\\)",
+      "D": "\\(\\frac{3L^2}{16M^2}P\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9268?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "\\(L=\\frac{4}{3}M\\sqrt{PQ}\\\\=\\frac{3}{4M} \\times L = \\sqrt{PQ}\\\\=\\left(\\frac{3L}{4M}\\right)^2=(\\sqrt{PQ})^2\\\\=\\frac{9L^2}{16M^2}=PQ\\\\=Q=\\frac{9L^2}{16M^2 P}\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "368",
+    "text": "If 2x\\(^2\\) - kx - 12 is divisible by x-4, Find the value of k.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9269?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "2x2 - kx - 12 is divisible by x-4implies x is a factor \u2234 x = 4f(4) implies 2(4)2 - k(4) - 12 = 032 - 4k - 12 = 0-4k + 20 = 0-4k = -20k = 5\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "369",
+    "text": "Factorize completely; (4x+3y)\\(^2\\) - (3x-2y)\\(^2\\)",
+    "options": {
+      "A": "(x+5y)(7x+y)",
+      "B": "(x+5y)(7x-y)",
+      "C": "(x-5y)(7x+y)",
+      "D": "(x-5y)(7x-y)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9270?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "(4x+3y)\\(^2\\) - (3x-2y)\\(^2\\)\nUsing the differences of two squares:\n(4x+3y+3x-2y)(4x+3y-(3x-2y))\n(4x+3y+3x-2y)(4x+3y-3x+2y)\n(x+5y)(7x+y)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "370",
+    "text": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
+    "options": {
+      "A": "30",
+      "B": "21",
+      "C": "16",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9271?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "(x \u2013 3) \u221d y2X-3 = Ky2K = X-3 / y2= 5-2/22= 2/4= 1/2\u2234X-3 = 1/2y2X-3 = 1/2 (6)2X-3 = 1/2 x 36/1X-3 = 18X = 21\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "371",
+    "text": "If p\u00a0varies inversely as the square of q and p\u00a0= 8 when q\u00a0= 4, find q\u00a0when p\u00a0= 8",
+    "options": {
+      "A": "\\(\\pm\\)16",
+      "B": "\\(\\pm\\)8",
+      "C": "\\(\\pm\\)4",
+      "D": "\\(\\pm\\)2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9272?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "p \u221d \\(\\frac{1}{q}\\)p = \\(\\frac{k}{q}\\)K = q\\(^2\\)p= 4\\(^2\\)(8)\u2234p\u00a0= 128/q32 = 128/qq\\(^2\\) = 128/32q\\(^2\\) = 4q = \u221a4 = \\(\\pm\\) 2\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "372",
+    "text": "Find the range of values of x which satisfy the inequalities 4x - 7 \\(\\leq\\) 3x and 3x - 4 \\(\\leq\\) 4x",
+    "options": {
+      "A": "-4 \\(\\leq\\) x \\(\\leq\\) 7",
+      "B": "-7 \\(\\leq\\) x \\(\\leq\\) 4",
+      "C": "x \\(\\geq\\) -7",
+      "D": "-7 \\(\\leq\\) x \\(\\leq\\) 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9273?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "A",
+    "explanation": "4X - 7 \\(\\leq\\) 3X and 3X - 4 \\(\\leq\\) 4X4X - 3X \\(\\leq\\) 7 and 3X - 4X \\(\\leq\\) 4X \\(\\leq\\) 7 and -X \\(\\leq\\) 4 = X \\(\\geq\\) -4Range -4 \\(\\leq\\) x \\(\\leq\\) 7\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "373",
+    "text": "Solve the quadratic inequalities x\\(^2\\) - 5x + 6 \u2265\u00a00",
+    "options": {
+      "A": "x \u2264 2, x \u2265 3",
+      "B": "x \u2264 3, x \u2265 2",
+      "C": "x \u2264 -2, x \u2265 -3",
+      "D": "x \u2264-3, x \u2265 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9274?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\)\u00a0- 5x + 6 = 0(X-2)(X-3) = 0X-2 = 0 implies X = 2X-3 = 0 implies X = 3\u2234 x \u2264 2, x \u2265 3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "374",
+    "text": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
+    "options": {
+      "A": "12",
+      "B": "4",
+      "C": "-12",
+      "D": "-24"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9275?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "U5 = 24, n = 5 and U11 = 96, n = 11Un = a + (n-1)d24 = a + (5-1)d imply 24 = a+4d .....eqn196 = a + (11-1)d imply 96 = a+10d ...eqn2eqn1 - eqn2 -72 = -6dd = 72/6 = 12but 24 = a+4d24 = a + 4(12)24 = a + 48a = 24-48a = -24\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "375",
+    "text": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
+    "options": {
+      "A": "commutative and close on the set of positive integers",
+      "B": "neither commutative nor closed on the set of positive integers",
+      "C": "commutative but not closed on the set of positive integers",
+      "D": "not cummutative but closed on the set of positive integers"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9276?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "B",
+    "explanation": "X * Y = 2X - 3Y + 22*3 = 2(2) - 3(3) + 2=4-9+2= -3But -3 does not belong to positive integer\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "376",
+    "text": "A binary operation on the real set of numbers excluding -1 is such that for all m, n \u2208 R, m\u0394n = m+n+mn. Find the identity element of the operation.",
+    "options": {
+      "A": "1",
+      "B": "zero",
+      "C": "-1/2",
+      "D": "-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9277?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "377",
+    "text": "In the diagram above, PQ//RS. The size of the angle marked x is?",
+    "options": {
+      "A": "100o",
+      "B": "80o",
+      "C": "50o",
+      "D": "30o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9278?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "B",
+    "explanation": "Exterior angle = sum of two interior opposite anglesy = 50\u00b0\u00a0(vert. opp \u2220s are equal)X = y + 30X = 50 + 30X = 80\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "378",
+    "text": "Find the exterior angle of a 12 sided regular polygon",
+    "options": {
+      "A": "12o",
+      "B": "24o",
+      "C": "25o",
+      "D": "30o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9279?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "Exterior angle = 360 / n= 360 / 12= 30o\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "379",
+    "text": "In the diagram above \u2220OPQ is?",
+    "options": {
+      "A": "90o",
+      "B": "53o",
+      "C": "36o",
+      "D": "26o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9280?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "B",
+    "explanation": "a = a(base \u2220s of Iss \u0394)\u2234 a+a+74 = 1802a + 74 = 1802a = 180-742a = 106a = 53\u2234\u2220OPQ = 53o\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "380",
+    "text": "Find the area of the figure above\n[\u03c0 = 22/7]",
+    "options": {
+      "A": "12.5 cm2",
+      "B": "75.0 cm2",
+      "C": "78.5 cm2",
+      "D": "84.8 cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9281?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "Area of the figure = Area of rect + area of the semicircle\\(=L \\times h + \\frac{1}{2}\\pi r^2\\)5 \\(\\times 15 + \\frac{1}{2} \\times \\frac{22}{7} \\times \\left(\\frac{5}{2}\\right)^2\\)=75+\\(\\frac{(22\\times 25)}{2\\times7}\\)=75 + 9\\(\\frac{23}{28}\\)=84.8cm\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "381",
+    "text": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle.",
+    "options": {
+      "A": "30o",
+      "B": "45o",
+      "C": "60o",
+      "D": "90o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9282?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "If a length of a chord is equal to the length of a radius in the same circle, the triangle formed y the chord and the radii is an equilateral triangle\u2234each angle = 60o\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "382",
+    "text": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters\n[\u03c0 = 22/7]",
+    "options": {
+      "A": "44,000 liters",
+      "B": "4,400 liters",
+      "C": "440 liters",
+      "D": "44 liters"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9283?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "A",
+    "explanation": "V = \u03c0r2h1m = 100cm14cm = 1400cm\\(\u2234V = \\frac{22}{7} \\times \\frac{100x100x1400}{1000}\\\\= 44, 000 liters\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "383",
+    "text": "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through?",
+    "options": {
+      "A": "(2,5)",
+      "B": "(5,2)",
+      "C": "(1,0)",
+      "D": "(0,1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9284?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "B",
+    "explanation": "X = \\(\\frac{6+4}{2}\\) = \\(\\frac{10}{2}\\) = 5Y = \\(\\frac{2+2}{2}\\) = \\(\\frac{4}{2}\\) =2\u2234\u00a0\u00a0X, Y = (5,2)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "384",
+    "text": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0",
+    "options": {
+      "A": "3/2",
+      "B": "2/3",
+      "C": "-2/3",
+      "D": "-3/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9285?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "B",
+    "explanation": "3X + 2Y + 1 = 02Y = -3X - 1\\(\\frac{-3}{2}X - \\frac{1}{2}\\)Gradient of 3X + 2Y +1 = 0 is -3/2Gradient of a line perpendicular to 3X + 2Y + 1 = 0\\(=-1 \\div \\frac{3}{2}\\)=-1 \\(\\times \\frac{-2}{3} = \\frac{2}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "385",
+    "text": "If sin\u03b8 = 3/5. Find Tan\u03b8",
+    "options": {
+      "A": "3/4",
+      "B": "3/5",
+      "C": "2/5",
+      "D": "1/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9286?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "A",
+    "explanation": "sin\u03b8 = 3/5x2 = 52 - 32\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "386",
+    "text": "Find the derivative of \\(y=\\frac{x^7 - x^5}{x^4}\\)",
+    "options": {
+      "A": "x(x2-1)",
+      "B": "3x(x2-1)",
+      "C": "3x2-1",
+      "D": "7x6-5x4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9288?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "C",
+    "explanation": "\\(y=\\frac{x^7 - x^5}{x^4}\\)y = \\(\\frac{x^7}{x^4} \\div \\frac{x^5}{x^4}\\)y = x\\(^3\\) - x\\(\\frac{dy}{dx}\\) = 3x\\(^2\\) - 1\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "387",
+    "text": "Differentiate sin x - x cos x",
+    "options": {
+      "A": "x cos x",
+      "B": "x sin x",
+      "C": "-x cos x",
+      "D": "-x sin x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9289?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "B",
+    "explanation": "sin x - x cos xdy/dx = cos x - [1.cos x + x -sin x]= co x - [cos x - x sin x]= cos x - cos x + x sin x= x sin x\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "388",
+    "text": "Find the minimum value of the function y = x(1+x)",
+    "options": {
+      "A": "-1/4",
+      "B": "-1/2",
+      "C": "1/4",
+      "D": "1/2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9290?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "A",
+    "explanation": "y = x(1+x)= x + x2dy/dx = 1 + 2xAs dy/dy \u2192 01 + 2x = 02x = -1X = -1/2Y = x(1+x)= -1/2(1 - 1/2) at x = -1/2= -1/2(1/2)= -1/4\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "389",
+    "text": "Evaluate \\(\\int_1 ^2(6x^2-2x)dx\\)",
+    "options": {
+      "A": "16",
+      "B": "13",
+      "C": "12",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9291?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "\\(\\int_1 ^2(6x^2-2x)\\)dx = \\(\\frac{6x^3}{3}-\\frac{2x^2}{2}]_1 ^2\\)= \\(2x^3 - x^2)_1^2\\)= [2(2)3 - (2)2] \u2013 [2(1)3 - (1)2]= [16-4] \u2013 [2-1]= 12 \u2013 1= 11\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "390",
+    "text": "Evaluate \\(\\int^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}} cos x dx\\)",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9292?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "C",
+    "explanation": "\\(\\int^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}} cos x dx = [sinx]^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}}\\\\=sin\\frac{\\pi}{2} - sin\\frac{-\\pi}{2}\\)= sin90 \u2013 sin-90= sin90 \u2013 sin270= 1 \u2013 (-1)= 1+1= 2\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "391",
+    "text": "On a pie chart there are six sectors of which four angles are 30\u00b0, 45\u00b0, 60\u00b0, 90\u00b0\u00a0and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles.",
+    "options": {
+      "A": "15o",
+      "B": "30o",
+      "C": "45o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9293?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "30 + 45 + 60 + 90 + 2x + x = 360\u00b0225 + 3x = 3603x = 360 - 2253x = 135x = 45\u00b0\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "392",
+    "text": "The bar chart above shows the number of times the word \"a, and , in, it, the ,to\" appear in a paragraph in a book.\nWhat is the ratio of the least frequent word to the most frequent word?",
+    "options": {
+      "A": "1/6",
+      "B": "1/3",
+      "C": "2/3",
+      "D": "3/4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9294?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "A",
+    "explanation": "Ratio of least to most = 2:12= 2/12= 1/6\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "393",
+    "text": "What is the mean of the data t, 2t-1, t-2, 2t\u00a0-1, 4t and 2t+2?",
+    "options": {
+      "A": "2t",
+      "B": "2t-1",
+      "C": "2/3t+1",
+      "D": "2t-1/3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9295?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "D",
+    "explanation": "\\(Mean = \\frac{t+2t-1+t-2+2t-1+4t+2t+2}{6}\\)Mean = \\(\\frac{12t-2}{6}\\)=\\(\\frac{2(6t-1)}{6}\\)=\\(\\frac{6t-1}{3}\\)=\\(\\frac{6t}{3}- \\frac{1}{3}\\)=2t-\\(\\frac{1}{3}\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "394",
+    "text": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9296?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "4, 4, 1, 0, 4, 4, 2, 0Arrange in ascending order:0, 0, 1, 1, 2, 4, 4, 4, 4Position of median = N+1 / 2 = 9+1 / 2 = 5thMedian = 2\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "395",
+    "text": "If x > 0, find the range of number x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x and 3x+1",
+    "options": {
+      "A": "3x+3",
+      "B": "3x+1",
+      "C": "2x+5",
+      "D": "2x+1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9297?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "x-3, 3x+2,x-1, 4x, 2x-1, x-2, 2x-2, 3x, 3x+1Range = 3x + 2\u00a0- (x-3)= 2x + 5\n(Assuming x = 1, since x > 0)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "396",
+    "text": "Find the mean deviation of 2, 4, 5, and 9",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "5",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9298?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "B",
+    "explanation": "X = 20/4= 5mean deviation = 8/4 = 2\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "397",
+    "text": "In how many ways can the letters of the word ACCEPTANCE be arranged?",
+    "options": {
+      "A": "\\(\\frac{10!}{(2!2!3!)}\\)",
+      "B": "\\(\\frac{10!}{( 2!3!)}\\)",
+      "C": "\\(\\frac{10!}{(2!2!)}\\)",
+      "D": "10!"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9299?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "A",
+    "explanation": "ACCEPTANCE = 10 LettersA = 2 lettersC = 3 lettersE = 2 lettersIt can be arranged in \\(\\frac{10!}{(2!3!2!)}\\) ways\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "398",
+    "text": "Find the number of ways of selecting 6 out of 10 subjects for an examination",
+    "options": {
+      "A": "128",
+      "B": "216",
+      "C": "215",
+      "D": "210"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9300?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "D",
+    "explanation": "\\(^{10}C_6 = \\frac{10!}{(10-6)!6!}\\)= \\(\\frac{10!}{4!6!}\\)=\\(\\frac{10\\times 9\\times 8 \\times 7 \\times 6!}{4\\times 3\\times 2\\times 1 \\times 6!}\\)= 210.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "399",
+    "text": "The probability of picking a letter T from the word OBSTRUCTION is?",
+    "options": {
+      "A": "1/11",
+      "B": "2/11",
+      "C": "3/11",
+      "D": "4/11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9301?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "B",
+    "explanation": "OBSTRUCTIONTotal possible outcome = 11Number of chance of getting T = 2P(picking T) = 2/11\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "400",
+    "text": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5?",
+    "options": {
+      "A": "3/10",
+      "B": "1/5",
+      "C": "1/6",
+      "D": "1/10"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/9302?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "B",
+    "explanation": "Total possible outcome12+18+x+30+2x+45 = 105+3x\u2234105+3x = 1503x = 150-1053x = 45x = 15P(obtaining 5) = \\(\\frac{2x}{(105+3x)}But x= 15\\)=\\(\\frac{2(15)}{(105+3(15))}\\)=\\(\\frac{30}{(105+45)}\\)=\\(\\frac{30}{150}\\)=\\(\\frac{1}{5}\\)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  }
+]

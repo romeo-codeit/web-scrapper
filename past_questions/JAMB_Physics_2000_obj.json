@@ -1,0 +1,674 @@
+[
+  {
+    "number": "38",
+    "text": "When a ship sails from salt water into fresh water, the fraction of its volume above the water surface will",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain the same",
+      "D": "increase then decrease"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/692?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "39",
+    "text": "I. Its velocity is constant\nII. No work is done on the body\nIII. It has constant acceleration directed away from the centre\nIV. The centripetal force is directed towards the centre\n\nWhich combination of the above is true of a body moving with constant speed in a circular track?",
+    "options": {
+      "A": "II and IV",
+      "B": "I and IV",
+      "C": "II and III",
+      "D": "I and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/693?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "The acceleration is not constant, i.e. its direction changes although the magnitude is constant (III is wrong), another thing that makes III wrong is the fact that the acceleration is not directed away from the centre but towards the centre.- No work is done on a body undergoing circular motion- Note that when a body is undergoing circular motion ], its velocity is not constant, i.e. the direction changes, although the magnitude is constant.- Since the acceleration is directed towards the centre, the centripetal force is directed towards the centre.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "40",
+    "text": "The velocity ratio of a machine is 5 and its efficiency is 75%. What effort would be needed to lift a load of 150N with the machine?",
+    "options": {
+      "A": "20N",
+      "B": "30N",
+      "C": "40N",
+      "D": "50N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/694?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "Efficiency = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\)75% = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\)\\(\\frac{75}{100} = \\frac{\\text{M.A}}{5}\\)M.A = \\(\\frac{75(5)}{100}\\) = 3.75But M.A = \\(\\frac{\\text{Load}}{\\text{Effort}}\\)3.75 = \\(\\frac{150}{\\text{Effort}}\\)Effort = \\(\\frac{150}{3.75}\\)Effort = 40N\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "41",
+    "text": "At a fixed point below a liquid surface, the pressure downwards is P1 and pressure upwards is P2. It can be deduced that?",
+    "options": {
+      "A": "P1 > P2",
+      "B": "P1 \u2265 P2",
+      "C": "P1 < P2",
+      "D": "P1 = P2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/695?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "As the temperature increases, the molecules in the gas move faster, impacting the gas's container more frequently and exerting a greater force. This increases the pressure. And similarly As the pressure goes up, the temperature also goes up. So the temperature and the pressure is directly proportional to each other. At a fixed point, temperature is kept constant. Hence, at this point, it can be deduced that \\(P_{1} = P_{2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "42",
+    "text": "If the force and the velocity on a system are each reduced simultaneously by half, the power of the system is",
+    "options": {
+      "A": "doubled",
+      "B": "reduced to a quarter",
+      "C": "reduced by half",
+      "D": "constant"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/696?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "TheRelation between Power,ForceandVelocityis given by the relation:\nP = F.V , thispoweris the product offorceandvelocity.\nTherefore,\u00a0The power of the system is reduced toone-quarterof its original value when both the force and the velocity are reduced by half.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "43",
+    "text": "A catapult used to hold a stone of mass 500g is extended by 20cm with an applied force F. If the stone leaves with a velocity of 40m/s, the value of F is",
+    "options": {
+      "A": "4.0 x 102N",
+      "B": "2.0 x 103N",
+      "C": "4.0 x 103N",
+      "D": "4.0 x 104N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/697?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "Given: mass of stone = 500g = 0.5kg, e = 20cm = 0.2m, velocity of stone on leaving the catapult = 40m/s\nThe potential energy stored in the catapult when extended =\u00a0the kinetic energy (KE) of the stone\n\\(\\frac{1}{2}\\)Fe = \\(\\frac{1}{2}\\)mv\\(^2\\)\nF x 0.2 = 0.5 x 40 x 40\nF =\u00a0\\(\\frac{800}{0.2}\\) = 4000 N = 4 x 10\\(^3\\) N",
+    "year": "2000"
+  },
+  {
+    "number": "44",
+    "text": "A stream is flowing at 0.75ms\\(^{-1}\\) and a boat heading perpendicular for the stream landed at the opposite bank at an angle of 30\u00b0. Calculate the velocity of the boat.",
+    "options": {
+      "A": "1.50ms-1",
+      "B": "1.00ms-1",
+      "C": "0.86ms-1",
+      "D": "0.65ms-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/698?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "Let the velocity of stream be Vs = 0.75m/s\nAngle at which the boat lands\u00a0\u03b8 = 30\u00ba\nthe velocity of the boat = Vb\n\\(\\frac{0.75}{V_b}\\) = Sin30\u00ba = 0.5\n\u2234 V\\(_b\\) =\u00a0\\(\\frac{0.75}{0.5}\\) = 1.5m/s\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "45",
+    "text": "A rope is being used to pull a mass of 10kg vertically upward. Determine the tension in the rope if, starting from rest, the mass acquires a velocity of 4ms\\(^{-1}\\) in 8s [g = 10ms\\(^{-2}\\)]",
+    "options": {
+      "A": "5N",
+      "B": "50N",
+      "C": "95N",
+      "D": "105N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/699?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "Tension = Force of gravity + acceleration force\n= mg + ma\n\\(a = \\frac{v - u}{t}\\)\n= \\(\\frac{4 - 0}{8}\\)\n= 0.5 ms\\(^{-2}\\)\nTension = (\\(10 \\times 10) + 10 \\times 0.5\\)\n= 100 + 5\n= 105N\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "46",
+    "text": "I. The frictional force is independent of the area of the surfaces in conduct\nII. The frictional force depends on the nature of the surfaces in contact\nIII. The frictional force depends on the speed of sliding\nIV. The frictional force is directly proportional to the normal reaction.\n\nWhich combination of the above is true of sliding friction?",
+    "options": {
+      "A": "I, III and IV",
+      "B": "I, II and IV",
+      "C": "I, II and III",
+      "D": "II, III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/700?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "LAWS OF SOLID FRICTION: Friction opposes the relative motion of two surfaces in contact. It is independent of the area of the surface of contact. It depends on the nature of the surface. It is proportional to normal reaction (R). It is independent of the relative velocity between the surfaces.\nTherefore, the true statements regarding sliding friction areI, II, and IV.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "47",
+    "text": "Total internal reflection occurs when light moves from?",
+    "options": {
+      "A": "a dense medium to a less dense medium",
+      "B": "air to water",
+      "C": "water to glass",
+      "D": "a less dense to a dense medium"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/701?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "A",
+    "explanation": "Total internal reflection (TIR) is the optical phenomenon in which waves arrive at the interface (boundary) from one medium to another (e.g., from water to air). that is from a more optically denser medium to a less optically denser medium.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "48",
+    "text": "A quantity of water at 0\u00b0C is heated to about 30\u00b0C. At each degree rise in temperature, its density will",
+    "options": {
+      "A": "rise steadily",
+      "B": "fall steadily",
+      "C": "fall then rise",
+      "D": "rise then fall"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/702?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "Water has a density of about 0.9998 g/cm\u00b3 at 0\u00b0C.\u00a0As water is heated from 0\u00b0C to 4\u00b0C, it actuallyincreasesin density until it reaches its maximum density at approximately 4\u00b0C.\u00a0\u00a0Once the temperature exceeds 4\u00b0C, the density starts todecreaseas the water continues to heat up towards 30\u00b0C.\nTherefore, The density will rise and fall.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "49",
+    "text": "I. Coherence\nII. Same frequency\nIII. Same wavelength\nIV. Same Intensity\n\nWhich of the conditions above are necessary to produce interference fringes?",
+    "options": {
+      "A": "I and III",
+      "B": "I, II and IV",
+      "C": "I, II and III",
+      "D": "II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/703?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "The necessary conditions to produce interference fringes areI (Coherence),II (Same Frequency), andIII (Same Wavelength). ConditionIV (Same Intensity)isnot necessary.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "50",
+    "text": "A boy observes a piece of stone at the bottom of a river 6.0m deep. If he looks from the surface of the river, what is the apparent distance of the stone from him? [Refractive Index of Water = 4/3]",
+    "options": {
+      "A": "8.0m",
+      "B": "5.5m",
+      "C": "5.0m",
+      "D": "4.5m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/704?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "51",
+    "text": "A thin wire with heavy weights attached to both ends is hung over a block of ice resting on two supports. If the wire cuts through the ice block while the block remains solid behind the wire, the process is called",
+    "options": {
+      "A": "condensation",
+      "B": "sublimation",
+      "C": "regelation",
+      "D": "fusion"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/705?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "Regelation occurs when ice is subjected to pressure, causing it to melt at the point of contact. When the pressure is removed, the melted water can refreeze. This phenomenon is commonly observed in scenarios where ice is under stress, such as when a wire is pulled through it with weights attached.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "52",
+    "text": "Dry\nDay 1 - 30\u00b0C | Day 2 - 29\u00b0C | Day 3 - 25\u00b0C\n\nWet\nDay 1 - 22\u00b0C | Day 2 - 22\u00b0C | Day 3 - 21\u00b0C\n\nThe reading above are for three consecutive days from a wet and dry bulb hygrometer. It can be concluded that the relative humidity for the three days",
+    "options": {
+      "A": "decreased steadily",
+      "B": "remained unchanged",
+      "C": "increased steadily",
+      "D": "was least on Day 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/706?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "123Dry30\u00b0C29\u00b0C25\u00b0CWet22\u00b0C22\u00b0C21\u00b0CDiff8\u00b0C7\u00b0C4\u00b0C\n\\(Relative Humidity \\propto \\frac{1}{temp}\\)\nHence,\u00a0There is a steady increase in the relative humidity between Day 1 and Day 3\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "53",
+    "text": "One end of a long wire is fixed while a vibrator is attached to the other end. When the vibrator is energized, the types of waves generated in the wire are",
+    "options": {
+      "A": "stationary and longitudinal",
+      "B": "stationary and transverse",
+      "C": "progressive and transverse",
+      "D": "progressive and longitudinal"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/707?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "The vibrator is fixed at the end of the rope, hence, it is stationary. Also,\u00a0the vibrator causes the end of the wire to move up and down (or side to side), creating disturbances that travel along the length of the wire. The displacement of the particles in the wire is perpendicular to the direction of wave propagation, which is characteristic of transverse waves\nTherefore, Option B is correct.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "54",
+    "text": "A metal of mass 0.5kg is heated to 100\u00b0C and then transferred to a well-lagged calorimeter of heat capacity 80JK-1 containing water of heat capacity 420JK-1 at 15\u00b0C. If the final steady temperature of the mixture is 25\u00b0C, find the specific heat capacity of the metal.",
+    "options": {
+      "A": "877Jkg-1K-1",
+      "B": "286Jkg-1K-1",
+      "C": "133Jkg-1K-1",
+      "D": "92Jkg-1K-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/708?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "-1\n-1\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "55",
+    "text": "The main reason for making the cover of a vacuum flask airtight is to prevent heat loss by",
+    "options": {
+      "A": "convection",
+      "B": "conduction",
+      "C": "radiation",
+      "D": "evaporation"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/709?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "The airtight stopper prevents heat loss by convection because it is tightly sealed.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "56",
+    "text": "A radio is operated by eight cells each of e.m.f. 2.0V connected in series. If two of the cells are wrongly connected, the net e.m.f. of the radio is",
+    "options": {
+      "A": "8V",
+      "B": "10V",
+      "C": "12V",
+      "D": "16V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/710?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "When cells are connected in series, their voltages add up. However, if two cells are connected in the wrong direction, they will subtract from the total e.m.f\nIf all cells were connected correctly, the total e.m.f. would be: Total E.M.F = 8 x 2.0V = 16V ( since no of cell = 8. and E.M.F of each cells = 2.0V)\nWhen two cells are connected in the reverse direction, their contributions effectively subtract from the total e.m.f\nContribution from 2 wrongly connected cell = 2 x 2.0v = 4V\nTherefore, Total E.M.F = 16 - 4 = 12V.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "57",
+    "text": "If a charged ion goes through combined electric and magnetic fields, the resultant emergent velocity of the ion is",
+    "options": {
+      "A": "E/B",
+      "B": "EB",
+      "C": "B/E",
+      "D": "E - B"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/711?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "The resultant emergent velocity of a charged ion moving through combined electric and magnetic fields can be derived from the condition where the electric force equals the magnetic force. This gives us the formula for the velocity v:\nq E = qvB\nv = \\(\\frac{E}{B}\\) (q will cancel out)\nNOTE:\u00a0\u00a0When both fields are present, for the ion to move without deflection, the electric force must equal the magnetic force.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "58",
+    "text": "A projection lantern is used to give the image of a slide on a screen. If the image is 24 times as large as the slide and the screen is 72.0m from the projecting lens, what is the position of the slide from the lens?",
+    "options": {
+      "A": "0.3m",
+      "B": "3.0m",
+      "C": "3.5m",
+      "D": "4.0m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/712?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "V = 72mU = ?, Magnification = 24But Magnification = V/U\u2234 24 = 72/UU = 72/24U = 3.0m\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "59",
+    "text": "An electron of charge 1.6 x 10-19C and mass 9.1 x 10-31kg is accelerated between two metal plates with a velocity of 4 x 107ms-1, the potential difference between the plates is",
+    "options": {
+      "A": "4.55 x 103V",
+      "B": "4.55 x 102V",
+      "C": "9.10 x 101V",
+      "D": "4.55 x 101V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/713?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n-31\n7\n2\n-19\n2\n3\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "60",
+    "text": "A cell of internal resistance 0.01\u2126 can be measured accurately using the",
+    "options": {
+      "A": "Ohm meter",
+      "B": "metre bridge",
+      "C": "potentiometer",
+      "D": "electroscope"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/714?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "A cell with internal resistance can be measured accurately using apotentiometer.\nA potentiometer is an instrument used to measure the potential difference (voltage) across a component without drawing any current. This is crucial because drawing current can affect the measurement due to the internal resistance of the cell.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "61",
+    "text": "What optical instrument can best be constructed with converging lenses of focal lengths 50cm and 5cm?",
+    "options": {
+      "A": "Compound microscope",
+      "B": "Galileo's telescope",
+      "C": "Terrestrial telescope",
+      "D": "Astronomical telescope"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/715?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "An astronomical telescope traditionally consists of two converging lenses with the objective having a longer focal length than the eyepiece. In this case, the 50 cm lens would serve as the objective, and the 5 cm lens as the eyepiece, which is a standard configuration for astronomical telescopes.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "62",
+    "text": "In a pure semiconductor, the number of electrons in the conduction band is",
+    "options": {
+      "A": "less than the number of holes in the valence band",
+      "B": "equal to the number of holes in the valence band",
+      "C": "greater than the number of holes in the valence band",
+      "D": "twice the number of holes in the valence band"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/716?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "In a pure (intrinsic) semiconductor, the number of electrons in the conduction band is equal to the number of holes in the valence band. This is because when an electron moves from the valence band to the conduction band, it leaves behind a hole.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "63",
+    "text": "In a thermonuclear reaction, the total initial mass is 5.02 x \\(10^{-{2}{7}}\\)kg and the total final mass is 5.01 x \\(10^{-{2}{7}}\\)kg. The energy released in the process is\n[c = 3.0 x \\(10^8\\) ms-1]",
+    "options": {
+      "A": "9.0 x 10-13J",
+      "B": "9.0 x 10-12J",
+      "C": "9.0 x 10-11J",
+      "D": "9.0 x 10-10J"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/717?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "In thermonuclear reactions,Energy = \u2206mC\\(^2\\)\u2206m = Change in MassC = Speed of light\u2234 5.02 x 10\\(^{-27}\\) - 5.01 x 10\\(^{-27}\\) x [3 x 10\\(^8\\)]\\(^2\\)0.01 x 10\\(^{-27}\\) x 9 x 10\\(^{16}\\)E = 9.0 x 10\\(^{-13}\\)J\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "64",
+    "text": "A gas would serve as an electrical conductor under",
+    "options": {
+      "A": "reduced pressure and high current",
+      "B": "increased magnetic field",
+      "C": "reduced pressure and reduced potential",
+      "D": "exposure to visible light"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/718?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "66",
+    "text": "An electric generator with a power output of 3.0KW at a voltage of 1.5KV distributes power along cables of resistance 20.0\u2126. The power loss in the cables is",
+    "options": {
+      "A": "80.0W",
+      "B": "40.0W",
+      "C": "10.0W",
+      "D": "0.1W"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1435?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "67",
+    "text": "If the frequency of an emitted x-ray is 1.6 x 10\\(^{16}\\)Hz, the accelerating potential is?\n[e = 1.6 x 10\\(^{19}\\)C, h = 6.63 x 10\\(^{-34}\\)Js]",
+    "options": {
+      "A": "6630.0V",
+      "B": "663.0V",
+      "C": "66.3V",
+      "D": "6.6V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1441?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "Energy imparted by the accelerating system = e x V, where V is the accelerating potential; and this energy is equal to the energy of the X-ray, give by hfe x V = hf\u2234 V = hf/e(6.63 x 10\\(^{-34}\\)\u00a0x 1.6 x 10\\(^{16}\\))/1.6 x 10\\(^{-19}\\)= 6.63 x 10 = 66.3V\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "68",
+    "text": "If the fraction of the atoms of a radioactive material left after 120years is 1/64, what is the half-life of the material?",
+    "options": {
+      "A": "24 years",
+      "B": "20 years",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1447?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "B",
+    "explanation": "6\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "69",
+    "text": "A certain radioactive source emits radiations that were found to be deflected by both magnetic and electric fields. The radiations are",
+    "options": {
+      "A": "beta rays",
+      "B": "gamma rays",
+      "C": "x-rays",
+      "D": "ultra-violet rays"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1450?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "When a radioactive source emits radiations that are deflected by both magnetic and electric fields, the radiations are likely to bebeta particles(\u03b2 particles).\nBeta particles(\u03b2):These are high-energy, high-speed electrons (\u03b2-) or positrons (\u03b2+). They are negatively or positively charged, respectively, and are deflected by both electric and magnetic fields due to their charge and lower mass compared to alpha particles.\nGamma rays (\u03b3): These are high-energy electromagnetic radiation and are neutral, meaning they are not deflected by electric or magnetic fields.\nAlpha particles (\u03b1): These are positively charged and consist of two protons and two neutrons. They are not significantly deflected by electric or magnetic fields due to their relatively large mass and low speed.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "70",
+    "text": "A 2H inductor has negligible resistance and is connected to a 50/\u03c0 Hz A.C. Supply. The reactance of the inductor is",
+    "options": {
+      "A": "200 \u2126",
+      "B": "50 \u2126",
+      "C": "100/\u03c0 \u2126",
+      "D": "25/\u03c0 \u2126"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1452?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "L\nL\nL\nL\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "71",
+    "text": "A cell of internal resistance 1\u2126 supplies current to an external resistor of 3\u2126. The efficiency of the cell is",
+    "options": {
+      "A": "25%",
+      "B": "33%",
+      "C": "50%",
+      "D": "75%"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1501?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "72",
+    "text": "A conductor of length 2m carries a current of 0.8A while kept in a magnetic field of magnetic flux density 0.5T. The maximum force acting on it is",
+    "options": {
+      "A": "0.2N",
+      "B": "0.8N",
+      "C": "3.2N",
+      "D": "8.0N"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1502?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "73",
+    "text": "Light of energy 5eV falls on a metal of work function 3eV and electrons are liberated. The stopping potential is",
+    "options": {
+      "A": "1.7V",
+      "B": "2.0V",
+      "C": "8.0V",
+      "D": "15.0V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/1503?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "For a photoemitted electron,eV = K.E.max, where V = stopping potential and K.E. = maximum kinetic energy of the photo emitted electron given by K.E. = Energy of incident rad - Work\u00a0function= 5ev - 3ev = 2ev\u2234 eV = 2eVV = 2eV/e = 2V\u2234 Stopping Potential = 2.0V\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "147",
+    "text": "The velocity y of a particle in a time t is given by the equation\ny = 10 + 2t\\(^2\\)\nFind the instantaneous acceleration after 5 seconds",
+    "options": {
+      "A": "60 ms-2",
+      "B": "20 ms-2",
+      "C": "15 ms-2",
+      "D": "10 ms-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11275?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "The velocity V = 10 + 2t\\(^2\\)But acceleration, a = dv/dtthus if V = 10 + 2t\\(^2\\)dv/dt = 4tAnd t = 5s then a = 4x5 = 20m/s\\(^2\\)\u2234 a = 20m/s\\(^2\\)\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "148",
+    "text": "A simple pendulum has a period of 17.0s. When the length is shorten by 1.5m, its period is 8.5s. Calculate the original length of the pendulum",
+    "options": {
+      "A": "4.0 m",
+      "B": "3.0 m",
+      "C": "2.0 m",
+      "D": "1.5 m"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11276?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "For a simple pendulum, the period T = 2\u03c0\u221a1/g\n\u2234 8.5 = k\u221a[1-1.5]...............[2]\n17\n8.5\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "149",
+    "text": "A sonometer wire is vibrating at frequency fo. If the tension in the wire is doubled while the length and the mass per unit length are kept constant, the new frequency of vibration is",
+    "options": {
+      "A": "fo/2",
+      "B": "2fo",
+      "C": "fo/\u221a2",
+      "D": "fo\u221a2"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11277?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "D",
+    "explanation": "For a vibrating sonometer wire, the frequencyF = l/2l \u221a(T/m)and if the length, l and mass per unit length, m, are constant, then Fo \u221d \u221aT => FoK\u221aT or Fo/\u221aT = K=> F1o/\u221aF1 = F2o/\u221aF2\u2234 F1o/\u221aT1 = F2o/\u221aT2\nthus F2 =F3x\u221a(2T1__\u221aT1\n=\n=Fox\u221a2 x \u221aT1\u221aT1\n\u2234F2 = Fo x \u221a2 = Fox\u221a2\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "150",
+    "text": "A travelling wave moving from left to right has an amplitude of 0.15m, a frequency of 550Hz and a wavelength of 0.01m. The equation describing the wave is",
+    "options": {
+      "A": "y = 0.15 sin 200\u03c0(x - 5.5t)",
+      "B": "y = 0.15 sin \u03c0(0.01x - 5.5t)",
+      "C": "y = 0.15 sin 5.5\u03c0(x - 200t)",
+      "D": "y = 0.15 sin \u03c0(550x - 0.01t)"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11700?exam_type=jamb&type=obj&page=30",
+    "correct_answer": "A",
+    "explanation": "2\u03c0\n\u03bb\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "151",
+    "text": "A transverse wave is applied to a string whose mass per unit length is 3 x 10-2kgm-1. If the string is under a tension 12N, the speed of the propagation of the wave is",
+    "options": {
+      "A": "5 ms-1",
+      "B": "20 ms-1",
+      "C": "30 ms-1",
+      "D": "40 ms-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11707?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "For transverse wave on stringvelocity V = \\(\\sqrt{\\frac{T}{M}}\\)where T is the tension, and M is the mass per unit length\u2234 for T = 12N and M = 3.0 x 10\\(^{-2}\\)kgm\\(^{-1}\\)V =\u00a0 \\(\\sqrt{\\frac{12}{3.0 \\times10^{-2}}}\\)V\u00a0 =\u00a0 \\(\\sqrt{\\frac{1200}{3}}\\) =\u00a0 \\(\\sqrt{400}\\)\u2234 V = 20m/s\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "152",
+    "text": "An engineer intends to deviate a light ray from its path by 120o through reflection from a plane mirror. Calculate the angle of incidence",
+    "options": {
+      "A": "60o",
+      "B": "40o",
+      "C": "30o",
+      "D": "20o"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11712?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "153",
+    "text": "The diagram above shows a maximum and minimum thermometer divided into three portions P, Q and R. Which of the following is true about the respective content of P,Q and R",
+    "options": {
+      "A": "Alcohol, mercury and alcohol",
+      "B": "Air, alcohol and mercury",
+      "C": "Mercury, alcohol and mercury",
+      "D": "Air, mercury and alcohol"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11716?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "The Six's maximum and minimum thermometer uses a liquid-filled bulb connected to a U-shaped tube with a mercury thread. As the liquid expands or contracts, the mercury moves, pushing the steel indexes to indicate the maximum and minimum temperatures, which can be reset using a magnet.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "154",
+    "text": "The diagram above shows two capacitors P and Q of capacitance 5\u03bcF and 10\u03bcF. Find the charges stored in P and Q respectively",
+    "options": {
+      "A": "2\u03bcC and 4\u03bcC",
+      "B": "4\u03bcC and 2\u03bcC",
+      "C": "100\u03bcC and 200\u03bcC",
+      "D": "200\u03bcC and 100\u03bcC"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11721?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "Since capacitance C = Q/V, => Q = CV\u2234 Qp = 5 x 10\\(^{-6}\\)\u00a0x 20= 100 x 10\\(^{-6}\\)\u00a0or 100\u03bcCQp = 10 x 10\\(^{-6}\\)\u00a0x 20= 200 x 10\\(^{-6}\\)\u00a0or 200\u03bcCCorrect option 100\u03bcC and 200\u03bcC\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "155",
+    "text": "In the diagram above a beam of white light travels from a rare to a dense medium. What colours of light do the rays a, b and c respectively represents?",
+    "options": {
+      "A": "red, green and blue",
+      "B": "Green, red and blue",
+      "C": "Yellow , blue and red",
+      "D": "Blue , yellow and red"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11730?exam_type=jamb&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "As the light enters the dense medium, the shorter wavelengths (blue and violet) bend more than the longer wavelengths (red and orange), resulting in the separation of the light into its component colors.\nBased on this, the correct representation\u00a0is:\n> Ray a represents the red\u00a0color\n> Ray b represents the green\u00a0color\n> Ray c represents the blue\u00a0color\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "156",
+    "text": "In the diagram above, the values of V1 and V2 are respectively",
+    "options": {
+      "A": "1V and 1/3V",
+      "B": "1/3V and 1V",
+      "C": "1/3V and 2/3V",
+      "D": "1V and 2/3V"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11737?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "Effective resistance in the circuit= 3 + 2 + 1 = 6\u03a9Current through the I = \\(\\frac{E}{(R+r)}\\)\u2234 I = \\(\\frac{2}{6}\\)=> V1 = I x R1 = \\(\\frac{2}{6}\\times\\frac{3}{1}\\) = 1V= V2 = I x R2 = \\(\\frac{2}{6}\\times\\frac{2}{1}\\) = \\(\\frac{2}{3}\\)V\u2234 we have 1V and \\(\\frac{2}{3}\\)V\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "157",
+    "text": "The correct position for a fuse in the diagram above is",
+    "options": {
+      "A": "between P and Q",
+      "B": "Q",
+      "C": "S",
+      "D": "P"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11739?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "In the provided circuit diagram, the correct position for a fuse is between the \"Line\" connection and the component labeled \"P\".\nThe purpose of a fuse is to protect the circuit and the connected device from excessive current flow that could potentially cause damage. By placing the fuse at position P, it will be in series with the \"live\" or \"hot\" wire, allowing it to interrupt the circuit if the current exceeds the fuse's rated capacity.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "158",
+    "text": "If current flows in the direction of the arrows in the solenoid above, the north pole is at",
+    "options": {
+      "A": "P",
+      "B": "Y",
+      "C": "X",
+      "D": "Q"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11743?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "In a solenoid, the north pole is determined using the right-hand grip rule: if the current flows in the direction of the arrows, the north pole is at the end where the thumb points when\u00a0the fingers follow the current. Therefore,\u00a0the north pole is at the end labeled Q.\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  },
+  {
+    "number": "159",
+    "text": "In the a.c circuit above, the current value is",
+    "options": {
+      "A": "0.58 A",
+      "B": "3.00 A",
+      "C": "4.00 A",
+      "D": "6.67 A"
+    },
+    "answer_url": "https://myschool.ng/classroom/physics/11745?exam_type=jamb&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "Impedance Z = \\(\\sqrt{R^2 + X^2}\\)=\u00a0\\(\\sqrt{(30)^2 + (40)^2}\\)\u2234 Z =\u00a0\\(\\sqrt{2500}\\) = 50\\(\\Omega\\)But current I = \\(\\frac{V}{Z}\\) = \\(\\frac{200}{50}\\) \u00a0= 4.00 A\nThere is an explanation video availablebelow.",
+    "year": "2000"
+  }
+]

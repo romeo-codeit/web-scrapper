@@ -1,0 +1,674 @@
+[
+  {
+    "number": "224",
+    "text": "What volume of oxygen is produced from the decomposition of 2 mole of KCIO3 at s.t.p?\n[Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "options": {
+      "A": "22.4 dm3",
+      "B": "33.6 dm3",
+      "C": "44.8 dm3",
+      "D": "67.2 dm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2226?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "D",
+    "explanation": "3\n2\n3\n3",
+    "year": "2003"
+  },
+  {
+    "number": "225",
+    "text": "Which of the following is physical change?",
+    "options": {
+      "A": "Burning kerosene",
+      "B": "Freezing ice cream",
+      "C": "Exposing white phosphorus",
+      "D": "Dissolving calcium in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2227?exam_type=jamb&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "Option A, C\u00a0and D are irreversible but option B is\u00a0reversible because the frozen ice cream can undergo melting and turn into liquid and vice versa, hence no new substance is formed.",
+    "year": "2003"
+  },
+  {
+    "number": "226",
+    "text": "What is the percentage by mass of oxygen in Al2(SO4)3. 2H2O?\n[Al = 27, S = 32, H = 1, O = 16]",
+    "options": {
+      "A": "14.29%",
+      "B": "25.39%",
+      "C": "50.79%",
+      "D": "59.25%"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2231?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "2\n4\n3\n2\n2",
+    "year": "2003"
+  },
+  {
+    "number": "227",
+    "text": "The filter in the cigarette reduces the nicotine content by",
+    "options": {
+      "A": "Burning",
+      "B": "Adsorption",
+      "C": "Evaporation",
+      "D": "Absorption"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2233?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "Thenicotine contentis a solute carried by the smoke (mobile phase) and it is removed bythe filter(stationary phase) byadsorption. Adsorption isthe process by which a solid holds molecules of a gas or liquid orsoluteas a thin film.",
+    "year": "2003"
+  },
+  {
+    "number": "228",
+    "text": "3Cu + pHNO3 \u21923Cu(NO)2 + 4H2 O + xNO\nIn the equation above, the values of p and x respectively are",
+    "options": {
+      "A": "1 and 3",
+      "B": "2 and 3",
+      "C": "6 and 2",
+      "D": "8 and 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2234?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "The examiner wishes to test your knowledge on\u00a0balancing of chemical equation.\nTo balance, calculate the total number of H atom on the RHS, and balance with one on the LHS, you'll discover it's 8. That would be the value of P.\nNext will be the number of moles of NO on the RHS, you'll discover it is 2.\nThus, P = 8 while X = 2\u00a0.",
+    "year": "2003"
+  },
+  {
+    "number": "229",
+    "text": "Neutral atoms of neon with atomic number 10 have the same number of electron as",
+    "options": {
+      "A": "O2+",
+      "B": "Ca2+",
+      "C": "K+",
+      "D": "Mg2+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2235?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "Neutral\u00a0atom\u00a0of Ne has 10 electrons. Similarly, Mg\\(^{2+}\\) has 12 protons(atomic number) and 10 electrons because\u00a0Mg\\(^{2+}\\) will donate or give out 2 electrons from the 12 and become reduced to 10 electrons. On the other hand, O\\(^{2+}\\), Ca\\(^{2+}\\), and K\\(^+\\) all have 6, 18 and 18 electrons respectively.",
+    "year": "2003"
+  },
+  {
+    "number": "230",
+    "text": "The noble gases owe their inactivity to",
+    "options": {
+      "A": "Octet configuration",
+      "B": "Cyclic shape",
+      "C": "Hexagonal shape",
+      "D": "Obtuse configuration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2236?exam_type=jamb&type=obj&page=46",
+    "correct_answer": "A",
+    "explanation": "Noble gases, also known as inert gases, are chemically inert because\u00a0their outer electron shells are completely filled with electrons. i.e their octet configuration",
+    "year": "2003"
+  },
+  {
+    "number": "231",
+    "text": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+    "options": {
+      "A": "Decrease",
+      "B": "Increase",
+      "C": "Remain constant",
+      "D": "Be zero"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2237?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "Kinetic energy is a measure of the motion of particles, and when temperature increases, the particles absorb energy and move faster.\u00a0This results in an increase in the kinetic energy of the particles.",
+    "year": "2003"
+  },
+  {
+    "number": "232",
+    "text": "I. H = 1S\\(^1\\) II. N = 1S\\(^2\\) 2S\\(^2\\)2P\\(^3\\)\u00a0 III. O = 1S\\(^2\\) 2S\\(^2\\)\u00a02P\\(^4\\) IV. Zn = 1S\\(^2\\)\u00a02S\\(^2\\)\u00a02P\\(^6\\) 3S\\(^2\\) 3P\\(^6\\) 4S\\(^2\\) 3d\\(^{10}\\)\nFrom the above, which of the following pairs is like to be paramagnetic?",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "I and IV",
+      "D": "III and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2238?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "Paramagnetic materials\u00a0are materials that tend to get weakly magnetized in the direction of the magnetizing field when placed in a magnetic field.\u00a0Paramagnetic elements are\u00a0elements that have at least one unpaired electron and are slightly attracted to magnetic fields.Examples: Copper, gold, antimony, bismuth, silver, lead, silicon, mercury, water, Oxygen, hydrogen, nitrogen, etc\nBy elimination method, options C and D are eliminated because of Zinc, which is diamagnetic as it has no unpaired electron. Between options A and B, both have H present with difference of Oxygen and Nitrogen, with Oxygen being more paramagnetic than Nitrogen because\u00a0molecular oxygen (O2) is paramagnetic\u00a0and is attracted to the magnet. In contrast, molecular nitrogen (N2) has no unpaired electrons and is diamagnetic; it is unaffected by the magnet.",
+    "year": "2003"
+  },
+  {
+    "number": "233",
+    "text": "A gas exerts pressure on its container because",
+    "options": {
+      "A": "some of its molecules are moving faster than others",
+      "B": "of the collision of the molecules with each other",
+      "C": "of the mass of the molecules of gas",
+      "D": "the molecules of a gas collide with the walls of the container"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2251?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "D",
+    "explanation": "A gas exerts pressure on the walls of the container as\u00a0the particles of gas move randomly in all directions at high speed. As a result, the particles hit each other and also hit the walls of the container with force. However, gases exert pressure on their containers\u00a0because the constant, random motion of gas molecules causes them to collide with the container walls, transferring momentum and resulting in a force, which is pressure.",
+    "year": "2003"
+  },
+  {
+    "number": "234",
+    "text": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes",
+    "options": {
+      "A": "negatively charged",
+      "B": "positvely charged",
+      "C": "neutral",
+      "D": "bipolar"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2252?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "When cathode rays are deflected onto the electrode of an electrometer, the instrument becomes\u00a0negatively charged.\u00a0Cathode rays are streams of fast-moving electrons that are negatively charged.\u00a0When they are deflected towards a positive electrode, it demonstrates that they are negatively charged.\u00a0This is because opposite charges attract each other.",
+    "year": "2003"
+  },
+  {
+    "number": "235",
+    "text": "The weakest attractive force that can be observed between two molecules is",
+    "options": {
+      "A": "ionic",
+      "B": "covalent",
+      "C": "coordinate covalent",
+      "D": "van der Waals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2253?exam_type=jamb&type=obj&page=47",
+    "correct_answer": "D",
+    "explanation": "The weakest attractive force between two molecules is the\u00a0London dispersion force, also known as an induced dipole-induced dipole attraction.\u00a0London dispersion forces are a type of van der Waal force, which are weak intermolecular forces that determine the physical and chemical properties of substances",
+    "year": "2003"
+  },
+  {
+    "number": "236",
+    "text": "A consequence of global warming is?",
+    "options": {
+      "A": "air pollution",
+      "B": "water pollution",
+      "C": "increased humudity",
+      "D": "flooding"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2254?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "As\u00a0global warming\u00a0continues to exacerbate sea level rise and extreme weather, our nation's floodplains are expected to grow.",
+    "year": "2003"
+  },
+  {
+    "number": "237",
+    "text": "Which of the following ions is acidic?",
+    "options": {
+      "A": "K+",
+      "B": "KNO3-",
+      "C": "S2-",
+      "D": "H3O+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2256?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "D",
+    "explanation": "Acids are substances which produces hydrogen ions (or protons) as the only positive ion when dissolved in water.\n\\(H_{3}O^{+} \\to 2H^{+} + OH^{-}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "238",
+    "text": "The structural component that makes detergent dissolve more quickly in water than soap is",
+    "options": {
+      "A": "-SO3- Na+",
+      "B": "-COO-Na-",
+      "C": "-SO4- Na+",
+      "D": "-COO-K+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2257?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "Soaps are made up of a fatty acid with a long alkyl chain and a '-COONa' group, while detergents are made up of a long alkyl chain and a '-SO3 Na\\(^+\\)\u00a0group.\u00a0The\u00a0polar sulfonate\u00a0in detergents makes them more soluble in hard water than soaps because it's less likely to bind to calcium and other ions in hard water.",
+    "year": "2003"
+  },
+  {
+    "number": "239",
+    "text": "A liquid that will dissolve fat is?",
+    "options": {
+      "A": "Hydrochloric acid",
+      "B": "Calcium hydroxide",
+      "C": "Kerosene",
+      "D": "Water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2258?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "C",
+    "explanation": "Organic solvents, such as\u00a0alcohol, chloroform, petroleum ether, and hexane, can dissolve fats and oils.\u00a0Other organic solvents that can dissolve fats include:\u00a0benzene, diethylether, and tetrachloromethane. Kerosene also falls within this category of non-polar solvents.\nFats are insoluble in water because they are hydrophobic and do not have polar bonds.\u00a0Water is a polar molecule, meaning that the oxygen atom has a partial negative charge and the hydrogen atoms have partial positive charges.",
+    "year": "2003"
+  },
+  {
+    "number": "240",
+    "text": "What mass of K2CrO4 is required to prepare 250cm3 of 0.020 mol dm3 solution?\n[K2CrO4 = 194.2g mol-1]",
+    "options": {
+      "A": "0.97g",
+      "B": "9.70g",
+      "C": "19.42g",
+      "D": "97.10g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2259?exam_type=jamb&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "-3\n2\n4\n-1\n3\n-3\n2\n4\n-1\n3\n-3\n2\n4\n-1\n3\n-3\n2\n4\n-3",
+    "year": "2003"
+  },
+  {
+    "number": "241",
+    "text": "Farmlands affected by crude-oil spillage can be decontaminated by",
+    "options": {
+      "A": "Adding acidic solution",
+      "B": "Using aerobic bacteria",
+      "C": "Pouring water on the affected water area",
+      "D": "Burning off the oil from the area"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2261?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "Biological methods use microorganisms, such as bacteria and fungi, to break down petroleum hydrocarbons.\u00a0You can till the contaminated soil. This allows for aerobic action that will break down the oil.\u00a0Wetting the contaminated soil with a bio-friendly detergent will help break down the oil faster. Hydrogen peroxide is also used to aid in breaking down the oil as the oxygen helps the microbes.",
+    "year": "2003"
+  },
+  {
+    "number": "242",
+    "text": "When 10g of sodium hydroxide is dissolved in 1000cm\\(^3\\)\u00a0of water, the sodium formed is approximately\n[Na = 23, H = 1, O = 16]",
+    "options": {
+      "A": "0.01 mol dm-3",
+      "B": "0.10 mol dm-3",
+      "C": "0.25 mol dm-3",
+      "D": "0.50 mol dm-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2262?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "Note that\u00a0 \u00a0Number of moles =\u00a0 \\(\\frac{mass}{Molar mass}\\)\nn =\u00a0\u00a0\\(\\frac{10}{40}\\) = 0.25 mol.\n\u21d2\u00a0 0.25 mol of Sodium hydroxide is dissolved in 1000cm\\(^3\\) = 1 dm\\(^3\\)\ni.e 0.25mol dm\\(^3\\)",
+    "year": "2003"
+  },
+  {
+    "number": "243",
+    "text": "A change in temperature of a saturated solution disturb the equilibrium between the",
+    "options": {
+      "A": "Dissolved solute and the solvent",
+      "B": "Solvent and undissolved solute",
+      "C": "Dissolved solute and undissolved  solute",
+      "D": "Dissolved solute and the solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2263?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "A saturated solution is one in which no more solute can be dissolved in a given amount of solvent at aspecified temperatureand pressure.",
+    "year": "2003"
+  },
+  {
+    "number": "244",
+    "text": "If an equilibrium reaction has \u0394H > 0, the reaction will proceed favourably in the forward direction at",
+    "options": {
+      "A": "High temperature",
+      "B": "Any temperature",
+      "C": "Low temperature",
+      "D": "Minimum temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2266?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "If \u0394H > 0, it simply means it is an endothermic reaction. However, in an endothermic reaction, the reaction will proceed favourably\u00a0if the temperature is increased.",
+    "year": "2003"
+  },
+  {
+    "number": "245",
+    "text": "The commonest feature of reactions at the anode is that",
+    "options": {
+      "A": "electrons are consumed",
+      "B": "oxidation is involved",
+      "C": "ions are reduced",
+      "D": "electrode dissolves"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2267?exam_type=jamb&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "The commonest feature of reactions at the anode is that\u00a0oxidation is involved, because electrons are being lost as the substance becomes positively charged.",
+    "year": "2003"
+  },
+  {
+    "number": "246",
+    "text": "Which of the following will change when a catalyst is added to a chemical reaction?",
+    "options": {
+      "A": "The activation energy",
+      "B": "The potential energy of the reactants",
+      "C": "The heat of the reaction",
+      "D": "the potential energy of the product"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2269?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "Adding a catalyst to a chemical reaction\u00a0lowers the activation energy.\nA catalyst speeds up a reaction by providing an alternative reaction pathway that requires less energy.\u00a0This is similar to how an escalator requires less energy to get to a destination than stairs.The catalyst does not change the energy of the reactants or products.\u00a0It also doesn't change the standard enthalpy change or the Gibbs energy of the reaction.",
+    "year": "2003"
+  },
+  {
+    "number": "247",
+    "text": "If y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct?",
+    "options": {
+      "A": "Y increases in oxidation number",
+      "B": "Y becomes reduced",
+      "C": "Z loses protons",
+      "D": "Z gains protons"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2270?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "An oxidizing agent is reduced in a chemical reaction, meaning it gains electrons and its oxidation state decreases.\u00a0An oxidizing agent, also known as an oxidant or oxidizer, is a substance that causes oxidation by accepting electrons from another compound, called the reducing agent.\u00a0This process is called reduction, and it makes the oxidizing agent more negative.",
+    "year": "2003"
+  },
+  {
+    "number": "248",
+    "text": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant?",
+    "options": {
+      "A": "2SO3(g) \u2194 2SO2(g) + O2(g)",
+      "B": "2CO2(g) \u2194 2CO(g) + O2(g)",
+      "C": "2H2(g) + O2(g) \u2194 2H2O(g)",
+      "D": "2NO(g) \u2194 N2(g) + O2(g)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2271?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "An increase in pressure will usually favour the side with a lesser value of total number of moles of gaseous substances, thereby causing the equilibrium position to shift. However, for the equilibrium position to shift to the right if the pressure is increased, it means the total number of moles of\u00a0the gaseous species on the RHS must be lesser than the total number of moles on the LHS. Consequently, option C is the only option having\u00a0 2moles of water on the RHS against 3moles on the LHS.",
+    "year": "2003"
+  },
+  {
+    "number": "249",
+    "text": "In the electrolysis of a concentrated solution of sodium chloride using electrodes, which of the following ions are discharged at the cathode and anode respectively?",
+    "options": {
+      "A": "Na+ and Cl-",
+      "B": "Na+ and OH-",
+      "C": "H+ and OH-",
+      "D": "H+ and Cl-"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2274?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "The electrolysis of sodium chloride solution, also known as brine, produces chlorine gas at the anode and hydrogen gas at the cathode.\u00a0Sodium hydroxide is also formed as a by-product, depending on the concentration of sodium chloride in water.\u00a0During the electrolysis of a concentrated sodium chloride solution,\u00a0hydrogen ions\u00a0are discharged at the cathode and chloride ions are discharged at the anode.",
+    "year": "2003"
+  },
+  {
+    "number": "250",
+    "text": "CO(g) + H2O(g) \u2192 CO2(g) + H2(g)\nFrom the reaction above, calculate the standard enthalpies of formation if CO2(g), H2O(g) and CO(g) in kJ mol-1 are -394, -242, and -110 respectively.",
+    "options": {
+      "A": "-262 kJ mol-1",
+      "B": "-42 kJ mol-1",
+      "C": "+42 kJ mol-1",
+      "D": "+262 kJ mol-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2511?exam_type=jamb&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "CO + H2O \u2192 CO2 + H2\u00a0 \u00a0 \u00a0DH = - 394 kJ mol-1\nThe equation for the standard enthalpy change of formation is\n\u0394Hreaction = \u0394H(products) \u2212 \u0394H(reactants)\n= - 394 - ( - 242 - 110)= - 394 - ( - 352)= - 394 + 352= - 42 kJ mol-1",
+    "year": "2003"
+  },
+  {
+    "number": "251",
+    "text": "When sugar is dissolved in tea, the reaction is always accomplished by",
+    "options": {
+      "A": "positive change in entropy",
+      "B": "negative entropy change",
+      "C": "no entropy change",
+      "D": "a minimum entropy change"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2512?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "The dissolution of sugar in tea is accompanied by positive change in entropy. When there is a change in the state of a substance from solid to liquid, there is an increase in entropy. In general, if a substance changes its structure from a condensed state to a less condensed state, then we say there is an increase in entropy.",
+    "year": "2003"
+  },
+  {
+    "number": "252",
+    "text": "Which of the following is an electrolyte?",
+    "options": {
+      "A": "Alcohol",
+      "B": "Sodium acetate solution",
+      "C": "Solid potassium hydroxide",
+      "D": "Mercury"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2513?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "B",
+    "explanation": "An electrolyte is a compound that dissociates into ions in an aqueous solution.\u00a0When sodium acetate is dissolved in water, it dissociates into sodium cations, Na\\(^+\\)\u00a0and acetate anions CH\\(_3\\)COO\\(^-\\). Sodium acetate is a strong electrolyte in an aqueous solution.",
+    "year": "2003"
+  },
+  {
+    "number": "253",
+    "text": "Chlorine gas is prepared in the laboratory by",
+    "options": {
+      "A": "adding concentrated hydrochloric acid to solid manganese (IV) oxide",
+      "B": "aciding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
+      "C": "dropping concentrated hydrochloric acid onto potassium tetraoxomanganate (VI) crystals",
+      "D": "aciding concentrated tetraoxosulphate (VI) acid to hydrochloric acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2514?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "Chlorine gas is prepared in the laboratory by adding\u00a0an oxidizing agent e.g. \\(MnO_2\\), \\(PbO_2\\), or \\(KMnO_4\\) on concentrated hydrochloric acid.\n\\(MnO_{2(s)}\\) + 4\\(HCl_{aq}\\)\u00a0 \u2192 \\(MnO_{2(aq)}\\) + 2\\(H_2O_{(l)}\\) +\u00a0\\(Cl_{2(g)}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "254",
+    "text": "Metals of the first transition series have special properties which are different from those of groups I and II elements because they have partially filled",
+    "options": {
+      "A": "s orbitals",
+      "B": "p orbitals",
+      "C": "d orbitals",
+      "D": "f orbitals"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2515?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "Transition elements (also known as transition metals) areelements that have partially filled d orbitals.",
+    "year": "2003"
+  },
+  {
+    "number": "255",
+    "text": "Hydrogen can be displaced from a hot alkaline solution by?",
+    "options": {
+      "A": "Fe",
+      "B": "Cu",
+      "C": "Ca",
+      "D": "Sn"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2516?exam_type=jamb&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "Amphoteric oxide reacts with both acid and\u00a0alkaline\u00a0and only amphoteric oxide\u00a0can displace hydrogen\u00a0from alkaline\u00a0solution\u00a0(Al, Pb, Sn and Zn).",
+    "year": "2003"
+  },
+  {
+    "number": "256",
+    "text": "Which of the following statements is true of sulphur (IV) oxide?",
+    "options": {
+      "A": "It forms tetraoxosulphate (VI) acid with water",
+      "B": "It is an odourless gas",
+      "C": "It is an acid hydride",
+      "D": "It forms white precipitate with acidified barium chloride"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2517?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "Sulphur(iv) oxide(SO\\(_2\\)) is an acid anhydride, meaning it's a non-metal oxide that reacts with water to form an acidic solution. It's also known as sulphurous anhydride.\u00a0sulphur dioxide (SO\\(_2\\))\u00a0is an acid anhydride, meaning it's a non-metal oxide that reacts with water to form an acidic solution.",
+    "year": "2003"
+  },
+  {
+    "number": "257",
+    "text": "The salt that will form a precipitate soluble in excess ammonia solution is",
+    "options": {
+      "A": "Ca(NO3)2",
+      "B": "Cu(NO3)2",
+      "C": "Mg(NO3)2",
+      "D": "Al(NO3)3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2518?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "When ammonia is added to a copper(II) nitrate solution, a pale blue precipitate of copper(II) hydroxide (Cu(OH)2) forms. The balanced equation for this reaction is\nCu(NO\\(_3\\))\\(_2\\)\u00a0 +\u00a0 2NH\\(_4\\)OH\u2192Cu(OH)2\u2193 +\u00a0 2NH\\(_4\\)NO\\(_3\\)\nExcess ammonia: When more ammonia is added, the precipitate dissolves and forms a deep blue solution of tetraammine copper(II) nitrate. The balanced equation for this reaction is\u00a0 \u00a0Cu(OH)2(s)+4NH3(aq)\u2212\u21c0\u21bd\u2212[Cu(NH3)4]+2(aq)+2OH\u2212(aq)\nThis happens because the addition of more ammonia causes the formation of a coordination complex cation of copper(II) bonded to four ammonia molecules. This shifts the solubility equilibrium of copper(II) hydroxide to the right, causing the precipitate to dissolve.",
+    "year": "2003"
+  },
+  {
+    "number": "258",
+    "text": "The metal that liberates hydrogen from cold water in bubbles only is?",
+    "options": {
+      "A": "Na",
+      "B": "K",
+      "C": "Ca",
+      "D": "Al"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2519?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "After a second or so, thecalciummetal begins to bubble vigorously as itreactswith thewater, producing hydrogen gas, and a cloudy white precipitate ofcalciumhydroxide.",
+    "year": "2003"
+  },
+  {
+    "number": "259",
+    "text": "Chlorine gas turns a damp starch-iodide paper",
+    "options": {
+      "A": "pink",
+      "B": "colourless",
+      "C": "red",
+      "D": "dark blue"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2520?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "Chlorine gas turns damp starch-iodide paper\u00a0blue-black.\nThe chlorine oxidizes the iodide ions on the paper into iodine, which then reacts with the starch to produce a blue-black compound.Chemical reaction: The chemical reaction is:\nCl\\(_2\\)(aq)\u00a0 \u00a0+ 2I\\(^\u2212\\)(aq) \u2192 I\\(_2\\)(aq) + 2Cl\\(^\u2212\\)(aq)",
+    "year": "2003"
+  },
+  {
+    "number": "260",
+    "text": "The modern process of manufacturing steel for iron is by",
+    "options": {
+      "A": "treatment with acids",
+      "B": "oxidation",
+      "C": "blast reduction",
+      "D": "treatment with alkanal"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2521?exam_type=jamb&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "Blast furnaces are the first step in the modern process of manufacturing steel from iron ore:\nBlast furnace:\u00a0Iron ore, coke, and limestone are used to produce pig iron in a blast furnace.Basic oxygen furnace (BOF):\u00a0The iron from the blast furnace is converted into steel in a BOF. Thus, the modern process of manufacturing steel from iron involves a process called \"blast reduction.\"",
+    "year": "2003"
+  },
+  {
+    "number": "261",
+    "text": "Ethene reacts with hydrogen bromide to give",
+    "options": {
+      "A": "CH2Br2",
+      "B": "CH3CH2Br",
+      "C": "C2H2Br2",
+      "D": "CHBr2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2522?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "When ethene, C\\(_2\\)H\\(_4\\)\u00a0reacts with hydrogen bromide (HBr),\u00a0the product is bromoethane (C\\(_2\\)H\\(_5\\)Br):\nC\\(_2\\)H\\(_4\\)\u00a0 \u00a0+\u00a0 \u00a0HBr\u00a0 \u2192\u00a0\u00a0C\\(_2\\)H\\(_5\\)Br\nThis reaction is an addition reaction where HBr adds across the double bond of ethene:\nThe double bond breaksA hydrogen atom attaches to one of the carbonsA bromine atom attaches to the other",
+    "year": "2003"
+  },
+  {
+    "number": "262",
+    "text": "How many isomers does pentane have?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2523?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "Isomers are chemical compounds with the same Molecular\u00a0formula but different structural formula\u00a0or\u00a0arrangements of atoms in the molecule.\nPentane, an organic compound with the chemical formula C\\(_5\\)H\\(_{12}\\), has three structural isomers:\nn-pentane:\u00a0A straight chain of five carbon atoms2-methylbutane:\u00a0A four-carbon chain with a methyl group branching off the second carbon atom2,2-dimethylpropane:\u00a0A three-carbon chain with two methyl groups branching off the middle carbon atom",
+    "year": "2003"
+  },
+  {
+    "number": "263",
+    "text": "The leachate of a certain plant ash is used in local soap making because it contains",
+    "options": {
+      "A": "sodium chloride and potassium hydroxide",
+      "B": "sodium hydroxide",
+      "C": "potassium hydroxide",
+      "D": "soluble carbonates and hydrogen carbonates"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2524?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "The leachate of certain plant ash, especially from hardwoods, is used in local soap making because it contains potassium hydroxide (KOH), which is a type of lye.\u00a0KOH is an alkaline substance that reacts with fats to produce soap through a process called saponification.\u00a0While sodium hydroxide (NaOH) is also used in soap making, KOH-based soaps are known to be softer and are often used in liquid soap formulations.",
+    "year": "2003"
+  },
+  {
+    "number": "264",
+    "text": "The formula for ethyl butanoate is",
+    "options": {
+      "A": "C3H7COOC2H5",
+      "B": "C2H5COOC3H7",
+      "C": "C4H9COOC2H5",
+      "D": "C2H5COOC4H9"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2525?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "Ethyl butyrate, also known as ethyl butanoate, or butyric ether, is an ester with the chemical formula CH\u2083CH\u2082CH\u2082COOCH\u2082CH\u2083.",
+    "year": "2003"
+  },
+  {
+    "number": "265",
+    "text": "The type of reaction that is peculiar to benzene is?",
+    "options": {
+      "A": "addition",
+      "B": "hydrolysis",
+      "C": "polymerization",
+      "D": "substitution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2526?exam_type=jamb&type=obj&page=53",
+    "correct_answer": "D",
+    "explanation": "Benzene undergoes substitution reaction whereby\u00a0one or more hydrogen atoms on the benzene ring is/are replaced by other atoms or groups of atoms. E.g CH\\(_3\\), OH, NO\\(_2\\), NH\\(_2\\) etc can be substituted to replace hydrogen atom.\nSubstitution reaction\u00a0is a reaction where one functional group is exchanged for another.\u00a0There are several types of substitution reactions, including nucleophilic, electrophilic, and free radical.\nA substitution reaction\u00a0is more peculiar to benzene compared to an addition reaction;\u00a0benzene primarily undergoes substitution reactions because addition reactions would disrupt its stable aromatic ring structure, causing it to lose its unique stability due to delocalized electrons.",
+    "year": "2003"
+  },
+  {
+    "number": "266",
+    "text": "Ethanol reacts with excess acidified K\\(_2\\)Cr\\(_2\\)O\\(_7\\) to produce",
+    "options": {
+      "A": "ethanedioic acid",
+      "B": "ethanal",
+      "C": "ethylethanoate",
+      "D": "ethanoic acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2527?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "When ethanol reacts with excess acidified potassium dichromate, it produces ethanoic. This reaction occurs in two steps:\nEthanol to ethanal: Ethanol is oxidized to ethanal.Ethanal to ethanoic acid: Ethanal is oxidized to ethanoic acid.Potassium dichromate is a strong oxidizing agent. During the reaction, the color changes from orange to green.",
+    "year": "2003"
+  },
+  {
+    "number": "267",
+    "text": "A compound contains 40.0% carbon 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula.\n[H = 1, C = 12, O = 16]",
+    "options": {
+      "A": "CH2O",
+      "B": "C3H6O3",
+      "C": "C6H12O6",
+      "D": "C6H12O3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2528?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "2\n2\nn\nn\n6\n12\n6",
+    "year": "2003"
+  },
+  {
+    "number": "268",
+    "text": "The process by which atoms are rearranged into different molecular structure in the petroleum refining process is referred to as",
+    "options": {
+      "A": "catalytic cracking",
+      "B": "hydrocracking",
+      "C": "polymerization",
+      "D": "reforming"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2529?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "Reforming is\u00a0a chemical process that changes the molecular structure of hydrocarbons to improve their properties.\u00a0It's often used to improve the combustion characteristics of low-quality gasoline stocks.\u00a0Reforming can be done using thermal or catalytic methods.",
+    "year": "2003"
+  },
+  {
+    "number": "269",
+    "text": "Which of the following is found in cotton",
+    "options": {
+      "A": "Starch",
+      "B": "Cellulose",
+      "C": "Fat",
+      "D": "Oil"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2530?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "B",
+    "explanation": "Cotton fibers are the dried-out remains of long and thick cell walls.\u00a0The secondary cell wall of a cotton fiber is made of pure cellulose, while the non-cellulosic components are located in the outer layers or inside the lumens of the fibre.",
+    "year": "2003"
+  },
+  {
+    "number": "270",
+    "text": "The principal constituent of natural gas is",
+    "options": {
+      "A": "methane",
+      "B": "ethane",
+      "C": "propane",
+      "D": "butane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/2531?exam_type=jamb&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "Natural gas is mostly methane, with small amounts of other alkanes like ethane, propane, butane, and pentane.\u00a0It may also contain trace amounts of contaminants like water vapour, carbon(iv)oxide, nitrogen, and hydrogen sulphide.\u00a0The main constituent of natural gas is\u00a0methane, CH\\(_4\\), a simple hydrocarbon compound.",
+    "year": "2003"
+  },
+  {
+    "number": "1637",
+    "text": "2HCI(ag) + CaCO\\(_3\\)(s) \u2192 CaCl\\(_2\\)(s) + CO\\(_2\\)(g)\u00a0 + H\\(_2\\)O(l). From the reaction above, which of the curves in the diagram represents the production of carbon (IV) oxide as dilute HCI is added?",
+    "options": {
+      "A": "L",
+      "B": "M",
+      "C": "N",
+      "D": "P"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/31614?exam_type=jamb&type=obj&page=328",
+    "correct_answer": "B",
+    "explanation": "The reaction of calcium carbonate with hydrochloric acid is said to be first order with respect to hydrochloric acid. This is because the rate depends upon the concentration of hydrochloric acid to the power one. As more HCl is being added,more CO\\(_2\\) is being produced but gradually evolves being a gas, as time goes on. The rate of the reaction is directly proportional to the concentration of a single reactant.\u00a0This means that if the concentration of the reactant doubles, the rate of the reaction also doubles.",
+    "year": "2003"
+  }
+]

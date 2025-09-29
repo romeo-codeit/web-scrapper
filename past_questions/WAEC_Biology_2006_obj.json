@@ -1,0 +1,898 @@
+[
+  {
+    "number": "1012",
+    "text": "The following life processes are common to both\nplants and animals except",
+    "options": {
+      "A": "respiration",
+      "B": "growth",
+      "C": "reproduction",
+      "D": "photosynthesis"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20819?exam_type=waec&type=obj&page=203",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1013",
+    "text": "Which of these organelles is common to both plant\nand animal cells?",
+    "options": {
+      "A": "Chloroplast",
+      "B": "Centriole",
+      "C": "Mitochondrion",
+      "D": "Pyrenoid"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20820?exam_type=waec&type=obj&page=203",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1014",
+    "text": "The epidermis of the mammalian skin is an example\nof a tissue because the cells",
+    "options": {
+      "A": "prevent light from passing through them",
+      "B": "have a similar structure and function",
+      "C": "prevent excessive loss of water",
+      "D": "are impregnated with keratin"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20821?exam_type=waec&type=obj&page=203",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1015",
+    "text": "Which of the following statements is correct about\norgans?",
+    "options": {
+      "A": "They are composed of specialized cells",
+      "B": "They perform a certain overall function",
+      "C": "They are not found in plants",
+      "D": "Unicellular animals have few organs"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20822?exam_type=waec&type=obj&page=203",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1016",
+    "text": "The structure used for movement in Amoeba is",
+    "options": {
+      "A": "cilia",
+      "B": "pseudopodia",
+      "C": "flagella",
+      "D": "endoplasm"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20825?exam_type=waec&type=obj&page=204",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1017",
+    "text": "Which of the following parts of a cell is not an organelle?",
+    "options": {
+      "A": "Food vacuole",
+      "B": "Mitochondrion",
+      "C": "Cell wall",
+      "D": "Nucleus"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20826?exam_type=waec&type=obj&page=204",
+    "correct_answer": "C",
+    "explanation": "A cell wall is not considered a cell organelle, but rather a structural layer outside the cell membrane, providing support and protection.\nOrganelles are internal, membrane-bound structures within a cell that perform specific functions, like the nucleus or mitochondria.\u00a0The cell wall, on the other hand, is a rigid outer layer that surrounds certain cells, including plant and fungal cells, and some bacteria.",
+    "year": "2006"
+  },
+  {
+    "number": "1018",
+    "text": "The folded portion of mitochondrion is called",
+    "options": {
+      "A": "cristae",
+      "B": "cell membrane",
+      "C": "nucleolus",
+      "D": "partition"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20827?exam_type=waec&type=obj&page=204",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1019",
+    "text": "The physical process which occurs when a red blood\ncell is placed in distilled water causing it to burst and\nbreak down is known as",
+    "options": {
+      "A": "crenation",
+      "B": "plasmolysis",
+      "C": "turgidity",
+      "D": "haemolysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20828?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1020",
+    "text": "During the process of osmosis a semi-permeable\nmembrane allows",
+    "options": {
+      "A": "only solute molecules to pass through it",
+      "B": "both solute and solvent molecules to pass through it",
+      "C": "only solvent molecules to pass through it",
+      "D": "only gaseous molecules to pass through it"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20829?exam_type=waec&type=obj&page=204",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1021",
+    "text": "Which of the following environmental conditions is ideal\nfor plant cells to remain turgid?",
+    "options": {
+      "A": "Hot, dry weather",
+      "B": "Windy weather",
+      "C": "Cold, dry weather",
+      "D": "Cool, humid weather"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20830?exam_type=waec&type=obj&page=205",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1022",
+    "text": "Which of the following processes does not contribute\ntowards growth?",
+    "options": {
+      "A": "Cell division",
+      "B": "Cell enlargement",
+      "C": "Cell differentiation",
+      "D": "Cell plasmolysis"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20831?exam_type=waec&type=obj&page=205",
+    "correct_answer": "D",
+    "explanation": "Plasmolysis refers to the shrinking of the cell's cytoplasm away from the cell wall due to loss of water, which does not promote growth. In contrast, cell division, enlargement, and differentiation are all processes that contribute to growth.",
+    "year": "2006"
+  },
+  {
+    "number": "1023",
+    "text": "The aspects of growth in living organisms include all\nthe following processes except",
+    "options": {
+      "A": "increase in dry weight",
+      "B": "reversible increase in size",
+      "C": "irreversible increase in length",
+      "D": "increase in number of cells"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20832?exam_type=waec&type=obj&page=205",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1024",
+    "text": "Support in young herbaceous plants is provided by",
+    "options": {
+      "A": "translocation",
+      "B": "guttation",
+      "C": "turgidity",
+      "D": "osmosis"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20834?exam_type=waec&type=obj&page=205",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1025",
+    "text": "Which of the following heart structures is best adapted\nto cope with double circulation?",
+    "options": {
+      "A": "One auricle and one ventricle",
+      "B": "Two auricles and one ventricle",
+      "C": "Two auricles and partially divided ventricle",
+      "D": "Two auricles and two ventricles"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20835?exam_type=waec&type=obj&page=205",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1026",
+    "text": "Which of these factors does not contribute towards\nthe ascent of water in plants?",
+    "options": {
+      "A": "Root pressure",
+      "B": "Capillarity",
+      "C": "Transpiration pull",
+      "D": "Turgor pressure"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20840?exam_type=waec&type=obj&page=206",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1027",
+    "text": "Gaseous exchange occurs through the following structures in some organisms except",
+    "options": {
+      "A": "spiracle and tracheae",
+      "B": "alveoli and lungs",
+      "C": "stomata and lenticels",
+      "D": "chloroplast and plastids"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20842?exam_type=waec&type=obj&page=206",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1028",
+    "text": "Which of the following organs in mammals is not excretory in function?",
+    "options": {
+      "A": "Liver",
+      "B": "Kidney",
+      "C": "Pancreas",
+      "D": "Lungs"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20844?exam_type=waec&type=obj&page=206",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1029",
+    "text": "The ventricles of the mammalian heart have thicker\nmuscular walls than the auricles because the",
+    "options": {
+      "A": "ventricles are larger",
+      "B": "ventricles receive more blood",
+      "C": "ventricles pump blood to longer distances",
+      "D": "auricles have smaller capacity"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20845?exam_type=waec&type=obj&page=206",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1030",
+    "text": "Which of the following substances is not an excretory product in mammals?",
+    "options": {
+      "A": "Carbon dioxide",
+      "B": "Water",
+      "C": "Faeces",
+      "D": "Urea"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20847?exam_type=waec&type=obj&page=206",
+    "correct_answer": "C",
+    "explanation": "Faeces is discharged through the anus or cloaca which is not a part of the excretory organs in mammals.",
+    "year": "2006"
+  },
+  {
+    "number": "1031",
+    "text": "An organism which maintains a constant temperature irrespective of environmental temperature fluctuation is",
+    "options": {
+      "A": "an insect",
+      "B": "a mammal",
+      "C": "an amphibian",
+      "D": "a fish"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20848?exam_type=waec&type=obj&page=207",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1032",
+    "text": "Which of the following conditions is responsible for the presence of sugar in the blood of diabetic patients?",
+    "options": {
+      "A": "High intake of carbohydrates",
+      "B": "Low production of insulin",
+      "C": "Low intake of carbohydrates",
+      "D": "High production of insulin"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20849?exam_type=waec&type=obj&page=207",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1033",
+    "text": "The central nervous system in humans is made up of the",
+    "options": {
+      "A": "brain, medulla oblongata and nerves",
+      "B": "brain, spinal cord and cranial nerves",
+      "C": "brain and spinal nerves",
+      "D": "brain and spinal cord"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20850?exam_type=waec&type=obj&page=207",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1034",
+    "text": "The part of the ear in mammals responsible for the detection of sound is the",
+    "options": {
+      "A": "utriculus",
+      "B": "tympanum",
+      "C": "cochlea",
+      "D": "semi-circular canal"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20851?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1035",
+    "text": "Which of the following statements best describes pollination? The transfer of pollen grain from",
+    "options": {
+      "A": "anther to stigmas",
+      "B": "stigmas to stamens",
+      "C": "the anther of a flower to the stigma of another flower of a different species",
+      "D": "anther to the ovary"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20852?exam_type=waec&type=obj&page=207",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1036",
+    "text": "Which of the following vertebrae provide articulating surfaces for the ribs?",
+    "options": {
+      "A": "Thoracic",
+      "B": "Lumbar",
+      "C": "Cervical",
+      "D": "Sacral"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20854?exam_type=waec&type=obj&page=208",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1037",
+    "text": "Which of the following is not a component of the appendicular skeleton?",
+    "options": {
+      "A": "Ulna",
+      "B": "Atlas",
+      "C": "Femur",
+      "D": "Pelvic girdle"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20856?exam_type=waec&type=obj&page=208",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1038",
+    "text": "If the mucus in the air track of mammals dry up and the hairs in the nostrils are removed",
+    "options": {
+      "A": "impure air would be breathed into their lungs",
+      "B": "the speed of air movement into their lungs would increase",
+      "C": "breathing air into their lungs would be difficult",
+      "D": "more air would be taken into their lungs"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20859?exam_type=waec&type=obj&page=208",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1039",
+    "text": "A one-seeded fruit in which the pericarp has fused with the seed coat is classified as",
+    "options": {
+      "A": "a berry",
+      "B": "a caryopsis",
+      "C": "a legume",
+      "D": "an achene"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20861?exam_type=waec&type=obj&page=208",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1040",
+    "text": "Study the following list of deficiency symptoms in animals; use it to answer the questions below\nI. Loss of appetite and weight; II. Delayed healing of wounds; III. Rickets; IV Sterility in animals\nV Failure of blood to clot; VI. Night blindness\n\nWhich of the following deficiencies is caused by lack of vitamin A",
+    "options": {
+      "A": "I",
+      "B": "III",
+      "C": "V",
+      "D": "VI"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20862?exam_type=waec&type=obj&page=208",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1041",
+    "text": "Study the following list of deficiency symptoms in animals; use it to answer the questions below\nI. Loss of appetite and weight; II. Delayed healing of wounds; III. Rickets; IV Sterility in animals\nV Failure of blood to clot; VI. Night blindness\nWhich of the following vitamins would correct the deficiency numbered V?",
+    "options": {
+      "A": "Vitamin K",
+      "B": "Vitamin A",
+      "C": "Vitamin C",
+      "D": "Vitamin B"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20866?exam_type=waec&type=obj&page=209",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1042",
+    "text": "Study the following list of deficiency symptoms in animals; use it to answer the questions below\nI. Loss of appetite and weight; II. Delayed healing of wounds; III. Rickets; IV Sterility in animals\nV Failure of blood to clot; VI. Night blindness\nWhich of the following combination of food substances would correct the deficiency numbered II?",
+    "options": {
+      "A": "Tomatoes, oranges and mangoes",
+      "B": "Yeast, liver and rice",
+      "C": "Red palm oil, carrot and egg yolk",
+      "D": "Green vegetables, butter and meat"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20867?exam_type=waec&type=obj&page=209",
+    "correct_answer": "D",
+    "explanation": "Green vegetables, butter, and meat.\ngreen vegetables are\u00a0often rich invitamins A, B6, C, K, folate, calcium, magnesium, potassium, iron, fiber, and antioxidants.\nButter can help in weight gain.\nmeat contains protein.",
+    "year": "2006"
+  },
+  {
+    "number": "1043",
+    "text": "Which of the following food substances would produce a translucent mark when rubbed on a white paper?",
+    "options": {
+      "A": "Potato",
+      "B": "Beans",
+      "C": "Mango",
+      "D": "Groundnut"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20868?exam_type=waec&type=obj&page=209",
+    "correct_answer": "D",
+    "explanation": "If a food sample is rubbed on a piece of paper and the paper becomes translucent and remains translucent even after it dries, it indicates the presence of fats in the tested food. Oils, butter, and cheese are rich sources of fat.\u00a0Groundnut (oil) is a rich source of monounsaturated fats.",
+    "year": "2006"
+  },
+  {
+    "number": "1044",
+    "text": "If an enzyme works best in an acid medium, in which of the following parts of the human gut is the pH best for\nenzyme activities? In the",
+    "options": {
+      "A": "ileum, pH 9.0",
+      "B": "stomach, pH 2.0",
+      "C": "duodenum, pH 7.0",
+      "D": "mouth cavity; pH 8.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20869?exam_type=waec&type=obj&page=209",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1045",
+    "text": "Which of the following organisms is not considered as a parasitic plant?",
+    "options": {
+      "A": "Cassytha",
+      "B": "Rhizopus",
+      "C": "Dodder",
+      "D": "Mistletoe"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20870?exam_type=waec&type=obj&page=209",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1046",
+    "text": "The examples of autotrophic organisms include the following except",
+    "options": {
+      "A": "Euglena",
+      "B": "Chlamydomonas",
+      "C": "Hydra",
+      "D": "Spirogyra"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20872?exam_type=waec&type=obj&page=210",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1047",
+    "text": "Which of the following organisms feeds both autotrophically and heterotrophically?",
+    "options": {
+      "A": "Hydra",
+      "B": "Paramecium",
+      "C": "Mucor",
+      "D": "Euglena"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20873?exam_type=waec&type=obj&page=210",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1048",
+    "text": "Siphons and gills are structures in aquatic organisms used for",
+    "options": {
+      "A": "gaseous exchange",
+      "B": "buoyancy",
+      "C": "excretion",
+      "D": "movement"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20874?exam_type=waec&type=obj&page=210",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1049",
+    "text": "The first step in carrying out ecological studies in a terrestrial habitat is",
+    "options": {
+      "A": "quadrat sampling",
+      "B": "mapping the area",
+      "C": "collection of organisms",
+      "D": "measuring abiotic factors"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20875?exam_type=waec&type=obj&page=210",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1050",
+    "text": "Which of the following components of an ecosystem does not contribute to the biomass of the system?",
+    "options": {
+      "A": "Producers",
+      "B": "Consumers",
+      "C": "Micro-organisms",
+      "D": "Habitat"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20876?exam_type=waec&type=obj&page=210",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1051",
+    "text": "The group of several populations that interact and share a habitat, form",
+    "options": {
+      "A": "a species",
+      "B": "a community",
+      "C": "an ecotype",
+      "D": "a tribe"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20877?exam_type=waec&type=obj&page=211",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1052",
+    "text": "The physical and chemical factors which affect the life of organisms in an environment are described as",
+    "options": {
+      "A": "biotic",
+      "B": "edaphic",
+      "C": "abiotic",
+      "D": "physiographic"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20878?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1053",
+    "text": "Which of these factors are common to both aquatic and terrestrial habitats?",
+    "options": {
+      "A": "Light, rainfall and turbidity",
+      "B": "Light, temperature and tide",
+      "C": "Light, rainfall and temperature",
+      "D": "Rainfall, turbidity and salinity"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20879?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1054",
+    "text": "Organisms that feed essentially on plants within any ecosystem may be referred to as",
+    "options": {
+      "A": "carnivores",
+      "B": "herbivores",
+      "C": "saprophytes",
+      "D": "omnivores"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20880?exam_type=waec&type=obj&page=211",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1055",
+    "text": "Which of the following statements about feeding relationships is correct?",
+    "options": {
+      "A": "In a food web on land, grasshopper feeds on praying mantis and on predator bugs",
+      "B": "In a food chain on land, green plant is the producer",
+      "C": "In an aquatic food chain mollusc larvae are the producers",
+      "D": "In an aquatic food web, various copepods feed on mollusk Larvae and on sand eel"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20881?exam_type=waec&type=obj&page=211",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1056",
+    "text": "Which of these diseases cannot be spread by an insect?",
+    "options": {
+      "A": "Cholera",
+      "B": "Malaria",
+      "C": "Trypanosomiasis",
+      "D": "Measles"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20882?exam_type=waec&type=obj&page=212",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1057",
+    "text": "Air pollution can be reduced by the following methods except?",
+    "options": {
+      "A": "building tall factory chimneys",
+      "B": "passing waste gases through filters and absorbers",
+      "C": "using lead-free petrol in car",
+      "D": "recycling tins, cans and bottles"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20885?exam_type=waec&type=obj&page=212",
+    "correct_answer": "A",
+    "explanation": "Chimneys of factories release\u00a0toxic gases into the air",
+    "year": "2006"
+  },
+  {
+    "number": "1058",
+    "text": "An effective management of natural resources to ensure their continued yield from generation to generation may involve all the following except",
+    "options": {
+      "A": "protection of wildlife",
+      "B": "prevention of habitat destruction",
+      "C": "biological control of pests",
+      "D": "disposal of raw sewage into the sea"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20886?exam_type=waec&type=obj&page=212",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1059",
+    "text": "Which of the following orders correctly represents the trend in eutrophication?",
+    "options": {
+      "A": "Lack of oxygen \u2192 Death of aquatic organisms \u2192 Massive algal growth",
+      "B": "Excess nitrates and phosphates \u2192 Massive algal growth \u2192 Lack of oxygen \u2192 Death of aquatic organisms",
+      "C": "Heavy mineralization \u2192 Lack of oxygen \u2192 Massive algal growth",
+      "D": "Excess nitrates and phosphates \u2192 Lack of oxygen \u2192 Massive algal growth \u2192 Death of aquatic organisms"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20887?exam_type=waec&type=obj&page=212",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1060",
+    "text": "The following practices can contribute towards the conservation of natural resources except",
+    "options": {
+      "A": "afforestation",
+      "B": "deforestation",
+      "C": "contour ploughing",
+      "D": "establishment of Game Reserves"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20888?exam_type=waec&type=obj&page=212",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1061",
+    "text": "Variation is a factor which",
+    "options": {
+      "A": "differentiates between individuals of the same species",
+      "B": "qualifies an organism to live with others",
+      "C": "enables organisms to adapt to the environment",
+      "D": "states the external features of an organism"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20890?exam_type=waec&type=obj&page=213",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1062",
+    "text": "Which of the following trait in humans is not a morphological variation?",
+    "options": {
+      "A": "Height",
+      "B": "Shape of head",
+      "C": "Colour of skin",
+      "D": "Ability to roll the tongue"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20891?exam_type=waec&type=obj&page=213",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1063",
+    "text": "The blood group in humans referred to as a universal recipient is",
+    "options": {
+      "A": "o",
+      "B": "A",
+      "C": "B",
+      "D": "AB"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20892?exam_type=waec&type=obj&page=213",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1064",
+    "text": "If a heterozygous red flowered plant, (Rr) was self-fertilized, the offspring would be expected to be",
+    "options": {
+      "A": "all red flowered plants",
+      "B": "all white flowered plants",
+      "C": "red flowered, white flowered plants",
+      "D": "white flowered red flowered plants"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20893?exam_type=waec&type=obj&page=213",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1065",
+    "text": "The contrasting pair of genes affecting a trait and located at the same position on homologous chromosomes is\nreferred to as",
+    "options": {
+      "A": "chromatids",
+      "B": "mutants",
+      "C": "alleles",
+      "D": "chromatin"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20894?exam_type=waec&type=obj&page=213",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1066",
+    "text": "The haploid number of chromosomes in humans is",
+    "options": {
+      "A": "48",
+      "B": "46",
+      "C": "24",
+      "D": "23"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20895?exam_type=waec&type=obj&page=214",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1067",
+    "text": "a pure breeding white cat (homozygous dominant) mates with a pure breeding black cat (recessive), what would be the fur colour of F1 generation",
+    "options": {
+      "A": "Homozygous white",
+      "B": "Homozygous black",
+      "C": "Heterozygous white",
+      "D": "Heterozygous black"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20896?exam_type=waec&type=obj&page=214",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1068",
+    "text": "Courtship behaviour in animals may include all of the following except",
+    "options": {
+      "A": "howling of a dog",
+      "B": "dancing of the worker bee",
+      "C": "croaking of a toad",
+      "D": "basking in the sun by a lizard"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20897?exam_type=waec&type=obj&page=214",
+    "correct_answer": "D",
+    "explanation": "Courtship behaviour in animals is a set of display behaviours in which an animal attempts to attract a mate and exhibit their desire to copulate. These behaviours often include visual displays, sound production, or specific movements to attract mates. Options 1, 2 and 3 are examples of courtship behaviours. However, basking in the sun by a lizard is not a courtship behaviour but a thermoregulatory behaviour where lizards absorb heat from the sun, which is necessary for their metabolic processes.",
+    "year": "2006"
+  },
+  {
+    "number": "1069",
+    "text": "Honey-Bee workers carry out the following functions except",
+    "options": {
+      "A": "laying eggs",
+      "B": "building nests",
+      "C": "cleaning the nest",
+      "D": "gathering food"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20898?exam_type=waec&type=obj&page=214",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1070",
+    "text": "The long necks and legs of the present day giraffes were some of the basis of",
+    "options": {
+      "A": "Darwins\u2019 theory of evolution",
+      "B": "Mendel\u2019s theory of inheritance",
+      "C": "Lamarck\u2019s theory of evolution",
+      "D": "DeVries theory of evolution"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20899?exam_type=waec&type=obj&page=214",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1123",
+    "text": "Which of the following vertebrae provide articulating surfaces for the ribs?",
+    "options": {
+      "A": "Thoracic",
+      "B": "Lumbar",
+      "C": "Cervical",
+      "D": "Sacral"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20955?exam_type=waec&type=obj&page=225",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1124",
+    "text": "Which of the following vertebrae provide articulating surfaces for the ribs?",
+    "options": {
+      "A": "Thoracic",
+      "B": "Lumbar",
+      "C": "Cervical",
+      "D": "Sacral"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20956?exam_type=waec&type=obj&page=225",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1125",
+    "text": "The ventricles of the mammalian heart have thicker\nmuscular walls than the auricles because the",
+    "options": {
+      "A": "ventricles are larger",
+      "B": "ventricles receive more blood",
+      "C": "ventricles pump blood to longer distances",
+      "D": "auricles have smaller capacity"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20957?exam_type=waec&type=obj&page=225",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1126",
+    "text": "The physical and chemical factors which affect the life of organisms in an environment are described as",
+    "options": {
+      "A": "biotic",
+      "B": "edaphic",
+      "C": "abiotic",
+      "D": "physiographic"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20958?exam_type=waec&type=obj&page=226",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "1127",
+    "text": "Which of the following orders correctly represents the trend in eutrophication?",
+    "options": {
+      "A": "Lack of oxygen \u2192 Death of aquatic organisms \u2192 Massive algal growth",
+      "B": "Excess nitrates and phosphates \u2192 Massive algal growth \u2192 Lack of oxygen \u2192 Death of aquatic organisms",
+      "C": "Heavy mineralization \u2192 Lack of oxygen \u2192 Massive algal growth",
+      "D": "Excess nitrates and phosphates \u2192 Lack of oxygen \u2192 Massive algal growth \u2192 Death of aquatic organisms"
+    },
+    "answer_url": "https://myschool.ng/classroom/biology/20959?exam_type=waec&type=obj&page=226",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "number": "627",
+    "text": "Which of the following correctly expresses 48 as a product of prime factors?",
+    "options": {
+      "A": "3 x 4 x 4",
+      "B": "2 x 3 x 8",
+      "C": "2 x 2 x 2 x 3 x 4",
+      "D": "2 x 2 x 2 x 2 x 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26472?exam_type=waec&type=obj&page=126",
+    "correct_answer": "D",
+    "explanation": "48 = 2 x 2 x 2 x 2 x 3",
+    "year": "2001"
+  },
+  {
+    "number": "628",
+    "text": "Evaluate \\((20_{three})^2 - (11_{three})^2\\) in base three",
+    "options": {
+      "A": "101",
+      "B": "121",
+      "C": "202",
+      "D": "2020"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26473?exam_type=waec&type=obj&page=126",
+    "correct_answer": "C",
+    "explanation": "\\((20_{three})^2 - (11_{three})^2\\)\n= \\((20_{3} - 11_{3})(20_{3} + 11_{3})\\)\n= \\((2_{3})(101_{3})\\)\n= \\(202_{3}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "629",
+    "text": "Evaluate \\(log_{10}5 + log_{10}20\\)",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26474?exam_type=waec&type=obj&page=126",
+    "correct_answer": "A",
+    "explanation": "\\(log_{10}5 + log_{10}20\\)\\(log_{10}[5\\times 20]\\)\\(log_{10}100\\)\\(log_{10}10^2\\)\\(2log_{10}10 = 2\\)",
+    "year": "2001"
+  },
+  {
+    "number": "630",
+    "text": "In a class of 80 students, every students studies Economics or Geography or both. If 65 students study Economics and 50 study Geography, how many study both subjects?",
+    "options": {
+      "A": "15",
+      "B": "30",
+      "C": "35",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26475?exam_type=waec&type=obj&page=126",
+    "correct_answer": "C",
+    "explanation": "Let c = no of students that offered both subjects\n\\(\\therefore\\) No of students offering Economics = 65 - c\nNo of students offering Geography = 50 - c\n65 - c + c + 50 - c = 80\n115 - c = 80\nc = 35\n35 students offer both Economics and Geography.",
+    "year": "2001"
+  },
+  {
+    "number": "631",
+    "text": "If N varies directly as M and N = 8 when M = 20 find M when N = 7",
+    "options": {
+      "A": "13",
+      "B": "15",
+      "C": "\\(17\\frac{1}{2}\\)",
+      "D": "\\(18\\frac{1}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26476?exam_type=waec&type=obj&page=127",
+    "correct_answer": "C",
+    "explanation": "N \u221d M\u2234N = kM where k is a constantN = 8 when M = 20\u2234 8 = k x 20\\(k = \\frac{8}{20}\\) = \\(\\frac{2}{5}\\)\u2234 N = \\(\\frac{2 M}{5}\\)If N = 7\u2234 7 = \\(\\frac{2 M}{5}\\)M = \\(\\frac{35}{2}\\) = 17\\(\\frac{1}{2}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "632",
+    "text": "Express 0.0462 in standard form",
+    "options": {
+      "A": "0.460 x 10-1",
+      "B": "0.462 x 10-2",
+      "C": "4.62 x 10-1",
+      "D": "4.62 x 10-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26477?exam_type=waec&type=obj&page=127",
+    "correct_answer": "D",
+    "explanation": "0.0462 in standard form\n= 4.62 x \\(10^{-2}\\)\nOption D",
+    "year": "2001"
+  },
+  {
+    "number": "633",
+    "text": "In a bag of oranges, the ratio of the good ones to the bad ones is 5:4. If the number of bad oranges in the bag is 36, how many oranges are there in the altogether?",
+    "options": {
+      "A": "81",
+      "B": "72",
+      "C": "54",
+      "D": "45"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26478?exam_type=waec&type=obj&page=127",
+    "correct_answer": "A",
+    "explanation": "Ratio of good ones to bad ones is 5:4; If 36 is bad;\n\u2234 the good ones = \\(\\frac{5\\times 36}{4}=45\\) oranges.\nThe total number of oranges is 36 + 45 = 81.",
+    "year": "2001"
+  },
+  {
+    "number": "634",
+    "text": "A boy estimated his transport fare for a journey as N190 instead of N200. Find the percentage error in his estimate",
+    "options": {
+      "A": "95%",
+      "B": "47.5%",
+      "C": "5.26%",
+      "D": "5%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26479?exam_type=waec&type=obj&page=127",
+    "correct_answer": "D",
+    "explanation": "The percentage error is \\(\\frac{error}{actual value}\\times \\frac{100}{1}\\)%= \\(\\frac{200-190}{200}\\times \\frac{100}{1}\\)= \\(\\frac{10}{200}\\times \\frac{100}{1}\\)% = 5%",
+    "year": "2001"
+  },
+  {
+    "number": "635",
+    "text": "Evaluate \\(5\\frac{2}{5}\\times \\left(\\frac{2}{3}\\right)^2\\div\\left(1\\frac{1}{2}\\right)^{-1}\\)",
+    "options": {
+      "A": "\\(\\frac{8}{25}\\)",
+      "B": "\\(\\frac{12}{25}\\)",
+      "C": "\\(3\\frac{3}{5}\\)",
+      "D": "\\(4\\frac{1}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26480?exam_type=waec&type=obj&page=127",
+    "correct_answer": "C",
+    "explanation": "\\(5\\frac{2}{5}\\times \\left(\\frac{2}{3}\\right)^2\u00a0\u00f7\u00a0 \\left(1\\frac{1}{2}\\right)^{-1}\\)\\(\\frac{27}{5}\\times \\frac{4}{9} \\times \\frac{3}{2} = 3\\frac{3}{5}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "636",
+    "text": "The nth term of a sequence is \\(2^{2n-1}\\). Which term of the sequence is \\(2^9?\\)",
+    "options": {
+      "A": "3rd",
+      "B": "4th",
+      "C": "5th",
+      "D": "6th"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26481?exam_type=waec&type=obj&page=128",
+    "correct_answer": "C",
+    "explanation": "\\(T_{n} = 2^{2n - 1}\\)\n\\(2^{2n - 1} = 2^9\\)\n\\(2n - 1 = 9 \\implies 2n = 9 + 1\\)\n\\(2n = 10 \\implies n = 5\\)\nThe 5th term = 2\\(^9\\)",
+    "year": "2001"
+  },
+  {
+    "number": "637",
+    "text": "Evaluate \\(\\frac{1}{2}+\\frac{3}{4}of\\frac{2}{5}\\div 1\\frac{3}{5}\\)",
+    "options": {
+      "A": "\\(\\frac{15}{16}\\)",
+      "B": "\\(\\frac{11}{16}\\)",
+      "C": "\\(\\frac{49}{50}\\)",
+      "D": "\\(3\\frac{1}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26482?exam_type=waec&type=obj&page=128",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{2} + (\\frac{3}{4} \\text{ of } \\frac{2}{5}) \\div\u00a01\\frac{3}{5}\\)\n= \\(\\frac{1}{2} + (\\frac{3}{4} \\times \\frac{2}{5}) \\div\u00a0\\frac{8}{5}\\)\n= \\(\\frac{1}{2} + \\frac{3}{10} \\div\u00a0\\frac{8}{5}\\)\n= \\(\\frac{1}{2} + (\\frac{3}{10} \\times \\frac{5}{8})\\)\n= \\(\\frac{1}{2} + \\frac{3}{16}\\)\n= \\(\\frac{11}{16}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "638",
+    "text": "A man is four times as old as his son. The difference between their ages is 36 years Find the sum of their ages",
+    "options": {
+      "A": "45 years",
+      "B": "48 years",
+      "C": "60 years",
+      "D": "74 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26483?exam_type=waec&type=obj&page=128",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "639",
+    "text": "Given that y = px + q and y = 5 when x = 3, while y = 4 when x = 2, find the value of p and q.",
+    "options": {
+      "A": "p = 1, q = 3",
+      "B": "p = 1, q = 2",
+      "C": "p = -2, q = 3",
+      "D": "p = 3, q = -2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26484?exam_type=waec&type=obj&page=128",
+    "correct_answer": "B",
+    "explanation": "y = px + q\n5 = 3p + q ... (i)\n4 = 2p + q ... (ii)\n(i) - (ii) : p = 1\n\\(\\therefore\\) 5 = 3(1) + q\n\\(\\implies\\) q = 5 - 3 = 2\n(p, q) = (1, 2)",
+    "year": "2001"
+  },
+  {
+    "number": "640",
+    "text": "Evaluate \\(\\frac{x^2 + x - 2}{2x^2 + x -3}\\) when x = -1",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "\\(-\\frac{1}{2}\\)",
+      "D": "1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26485?exam_type=waec&type=obj&page=128",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{x^2 + x - 2}{2x^2 + x - 3}\\)\n= \\(\\frac{x^2 + 2x - x - 2}{2x^2 + 3x - 2x - 3}\\)\n= \\(\\frac{x(x + 2) - 1(x + 2)}{x(2x + 3) - 1(2x + 3)}\\)\n= \\(\\frac{(x - 1)(x + 2)}{(x - 1)(2x + 3)}\\)\n= \\(\\frac{x + 2}{2x + 3}\\)\nAt x = -1,\n= \\(\\frac{-1 + 2}{2(-1) + 3}\\)\n= \\(\\frac{1}{1}\\)\n= 1",
+    "year": "2001"
+  },
+  {
+    "number": "641",
+    "text": "Factorize \\(6x^2 + 7x - 20\\)",
+    "options": {
+      "A": "(6x - 5)(x + 4)",
+      "B": "2(3x-5)(x+2)",
+      "C": "(3x+4)(2x-5)",
+      "D": "(3x-4)(2x+5)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26486?exam_type=waec&type=obj&page=129",
+    "correct_answer": "D",
+    "explanation": "\\(6x^2 + 7x - 20\\)\n= \\(6x^2 + 15x - 8x - 20\\)\n= \\(3x(2x + 5) - 4(2x + 5)\\)\n= \\((3x - 4)(2x + 5)\\)",
+    "year": "2001"
+  },
+  {
+    "number": "642",
+    "text": "Simplify \\(\\frac{2x-1}{3}-\\frac{x+3}{2}\\)",
+    "options": {
+      "A": "\\(\\frac{x+3}{6}\\)",
+      "B": "\\(\\frac{x+8}{6}\\)",
+      "C": "\\(\\frac{x-11}{6}\\)",
+      "D": "\\(\\frac{x-4}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26487?exam_type=waec&type=obj&page=129",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2x - 1}{3} - \\frac{x + 3}{2}\\)\n= \\(\\frac{2(2x - 1) - 3(x + 3)}{6}\\)\n= \\(\\frac{4x - 2 - 3x - 9}{6}\\)\n= \\(\\frac{x - 11}{6}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "643",
+    "text": "If \\(\\frac{y-3}{2}<\\frac{2y-1}{3}\\), which of the following is true?",
+    "options": {
+      "A": "y > 7",
+      "B": "y < -7",
+      "C": "y > -7",
+      "D": "y < 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26488?exam_type=waec&type=obj&page=129",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{y - 3}{2} < \\frac{2y - 1}{3}\\)\n\\(3(y - 3) < 2(2y - 1)\\)\n\\(3y - 9 < 4y - 2\\)\n\\(3y - 4y < -2 + 9\\)\n\\(-y < 7\\)\n\\(y > -7\\)",
+    "year": "2001"
+  },
+  {
+    "number": "644",
+    "text": "if \\(\\frac{4m+3n}{4m-3n}=\\frac{5}{2}\\), find the ratio m:n",
+    "options": {
+      "A": "7:4",
+      "B": "4:3",
+      "C": "3:4",
+      "D": "4:7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26489?exam_type=waec&type=obj&page=129",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{4m + 3n}{4m - 3n} = \\frac{5}{2}\\)\n\\(5(4m - 3n) = 2(4m + 3n)\\)\n\\(20m - 15n = 8m + 6n\\)\n\\(20m - 8m = 6n + 15n\\)\n\\(12m = 21n\\)\n\\(\\frac{21}{12} = \\frac{m}{n}\\)\n\\(m : n = 7 : 4\\)",
+    "year": "2001"
+  },
+  {
+    "number": "645",
+    "text": "If \\(2x^2 + kx - 14 = (x+2)(2x-7)\\), find the value of K",
+    "options": {
+      "A": "-3",
+      "B": "5",
+      "C": "9",
+      "D": "11"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26491?exam_type=waec&type=obj&page=129",
+    "correct_answer": "A",
+    "explanation": "\\(2x^2 + kx - 14 = (x+2)(2x-7)\\)\u22342\\(x^2 + kx - 14 = 2x^2 - 3x - 14\\)equating coefficient K = -3",
+    "year": "2001"
+  },
+  {
+    "number": "646",
+    "text": "which of the following is not quadratic expression?",
+    "options": {
+      "A": "\\(y = 2x^2 - 5x\\)",
+      "B": "\\(y=x(x-5)\\)",
+      "C": "\\(y = x^2 - 5\\)",
+      "D": "y = 5(x-1)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26492?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "A quadratic equation is an equation of the second order. The highest power in the equation is 2.",
+    "year": "2001"
+  },
+  {
+    "number": "647",
+    "text": "The graph of the curve \\(y = 2x^2 - 5x - 1\\) and a straight line PQ were drawn to solve the equation \\(2x^2 - 5x + 2 = 0\\)\nWhat is the equation of the straight line PQ?",
+    "options": {
+      "A": "y = -1",
+      "B": "y = 1",
+      "C": "y = 3",
+      "D": "y = -3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26493?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "Let the straight line PQ = y\n2x\\(^2\\) - 5x - 1 - y = 2x\\(^2\\) - 5x + 2\ny = 2x\\(^2\\) - 5x - 1 - 2x\\(^2\\) + 5x - 2\ny = -3",
+    "year": "2001"
+  },
+  {
+    "number": "648",
+    "text": "Subtract (-y + 3x + 5z) from (4y - x - 2z)",
+    "options": {
+      "A": "5y - 4x - 7z",
+      "B": "3y + 2x + 3z",
+      "C": "-5y + 4x + 7z",
+      "D": "2x - 5y + 3z"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26494?exam_type=waec&type=obj&page=130",
+    "correct_answer": "A",
+    "explanation": "(4y - x - 2z) - (-y + 3x + 5z)\n= 4y + y - x - 3x - 2z - 5z\n= 5y - 4x - 7z",
+    "year": "2001"
+  },
+  {
+    "number": "649",
+    "text": "If \\(y \\propto \\frac{1}{\\sqrt{x}}\\) and x = 16 when y = 2, find x when y = 24",
+    "options": {
+      "A": "\\(\\frac{1}{9}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26495?exam_type=waec&type=obj&page=130",
+    "correct_answer": "A",
+    "explanation": "\\(y \\propto \\frac{1}{\\sqrt{x}}\\)\n\\(y = \\frac{k}{\\sqrt{x}}\\)\nWhen x = 16, y = 2.\n\\(2 = \\frac{k}{\\sqrt{16}} \\implies 2 = \\frac{k}{4}\\)\n\\(k = 8\\)\n\\(y = \\frac{8}{\\sqrt{x}}\\)\nWhen y = 24,\n\\(24 = \\frac{8}{\\sqrt{x}}\\)\n\\(\\sqrt{x} = \\frac{8}{24} = \\frac{1}{3}\\)\n\\(\\therefore x = (\\frac{1}{3})^2\\)\n\\(x = \\frac{1}{9}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "650",
+    "text": "If 2x : (x +1) = 3:2, what is the value of x?",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "1",
+      "C": "\\(1\\frac{1}{2}\\)",
+      "D": "3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26496?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "2x : (x + 1) = 3:2\\(\\frac{2x}{x+1} = \\frac{3}{2}\\)\n4x = 3x + 3\n4x - 3x = 3\nx = 3",
+    "year": "2001"
+  },
+  {
+    "number": "651",
+    "text": "The bearing S40\u00b0E is the same as",
+    "options": {
+      "A": "040o",
+      "B": "050o",
+      "C": "130o",
+      "D": "140o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26497?exam_type=waec&type=obj&page=131",
+    "correct_answer": "D",
+    "explanation": "= 90\u00b0 + 50\u00b0\n= 140\u00b0",
+    "year": "2001"
+  },
+  {
+    "number": "652",
+    "text": "Given that sin \\(P = \\frac{5}{13}\\), where p is acute, find the value of cos p - tan p",
+    "options": {
+      "A": "\\(\\frac{79}{156}\\)",
+      "B": "\\(\\frac{85}{156}\\)",
+      "C": "\\(\\frac{7}{13}\\)",
+      "D": "\\(\\frac{8}{1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26498?exam_type=waec&type=obj&page=131",
+    "correct_answer": "A",
+    "explanation": "If \\(sin P = \\frac{5}{13}\\) from right angled triangle from Pythagoras theorem\\(BC^2 = 13^2 - 5^2\\)= 169 - 25BC = \\(\\sqrt{144}\\) = 12\u2234 cos P - tan P = \\(\\frac{12}{13} - \\frac{5}{12}\\)=\\(\\frac{79}{156}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "653",
+    "text": "Three observation posts P,Q and R are such that Q is due east of P and R is due north of Q. If |PQ| = 5km and |PR| = 10km, find |QR|",
+    "options": {
+      "A": "5.0km",
+      "B": "7.5km",
+      "C": "7.6km",
+      "D": "8.7km"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26499?exam_type=waec&type=obj&page=131",
+    "correct_answer": "D",
+    "explanation": "\\((PR)^2 = (PQ)^2 + (QR)^2\\)\n\\(10^2 = 5^2 + (QR)^2\\)\n\\((QR)^2 = 100 - 25\\)\n\\(QR = \\sqrt{75}\\)\n= \\(8.660\\)\n\\(\\approxeq\\) 8.7 km",
+    "year": "2001"
+  },
+  {
+    "number": "654",
+    "text": "Express 25\u00b0\u00a045'\u00a0in decimal (Hint: 1\u00b0\u00a0= 60')",
+    "options": {
+      "A": "25.75o",
+      "B": "25.55o",
+      "C": "25.45o",
+      "D": "25.15o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26500?exam_type=waec&type=obj&page=131",
+    "correct_answer": "A",
+    "explanation": "25\u00b0 45' = 25\u00b0 + \\(\\frac{45}{60}\\)\u00b0\n= 25\u00b0 + 0.75\u00b0\n= 25.75\u00b0",
+    "year": "2001"
+  },
+  {
+    "number": "655",
+    "text": "A box contains 5 red, 3 green and 4 blue balls. A boy is allowed to take away two balls from the box. What is the probability that the two balls are red?",
+    "options": {
+      "A": "\\(\\frac{5}{33}\\)",
+      "B": "\\(\\frac{5}{36}\\)",
+      "C": "\\(\\frac{103}{132}\\)",
+      "D": "\\(\\frac{31}{36}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26501?exam_type=waec&type=obj&page=131",
+    "correct_answer": "A",
+    "explanation": "Total number of balls = 5 + 3 + 4\n= 12 balls\nP(first ball is red) = \\(\\frac{5}{12}\\)\nP(second ball is red) = \\(\\frac{4}{11}\\)\n\\(\\therefore\\) P(both balls are red) = \\(\\frac{5}{12} \\times \\frac{4}{11}\\)\n= \\(\\frac{5}{33}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "656",
+    "text": "A box contains 5 red, 3 green and 4 blue balls. A boy is allowed to take away two balls from the box. What is the probability that one is green and the other is blue?",
+    "options": {
+      "A": "\\(\\frac{2}{11}\\)",
+      "B": "\\(\\frac{5}{12}\\)",
+      "C": "\\(\\frac{8}{12}\\)",
+      "D": "\\(\\frac{7}{11}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26502?exam_type=waec&type=obj&page=132",
+    "correct_answer": "A",
+    "explanation": "Total number of balls = 5 + 3 + 4 = 12 balls\nP(one ball is green and the other is blue) = P(first ball is green and second blue) + P(first ball is blue and the second green)\n= \\(\\frac{3}{12} \\times \\frac{4}{11} + \\frac{4}{12} \\times \\frac{3}{11}\\)\n= \\(\\frac{2}{11}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "657",
+    "text": "If the probability that an event will occur is p and the probability that it will not occur is q, which of the following is true?",
+    "options": {
+      "A": "p-q=1",
+      "B": "q-p=0",
+      "C": "p+q=1",
+      "D": "p+q=0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26503?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "The probability that an event will certainly occur + the probability that an event will certainly not occur =\nThe probability that an event will certainly occur\u00a0\u00a0= 1 -\u00a0 the probability that an event will certainly not occur\nThe probability that an event will certainly\u00a0not occur = 1 +\u00a0The probability that an event will certainly occur\nOption C is true.",
+    "year": "2001"
+  },
+  {
+    "number": "658",
+    "text": "What is the range of their age?",
+    "options": {
+      "A": "14 years",
+      "B": "20 years",
+      "C": "30.5 years",
+      "D": "31 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26504?exam_type=waec&type=obj&page=132",
+    "correct_answer": "B",
+    "explanation": "Range = 30.5 - 10.5\n= 20 years",
+    "year": "2001"
+  },
+  {
+    "number": "659",
+    "text": "What is the mode?",
+    "options": {
+      "A": "22.5 years",
+      "B": "23.0 years",
+      "C": "24.0 years",
+      "D": "27.5 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26505?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "MODE \u00a0\\(\\approx\\) 20.5 +\u00a0 3.5 = 24years",
+    "year": "2001"
+  },
+  {
+    "number": "660",
+    "text": "How many students are there in the group?",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "52",
+      "D": "55"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26506?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "Total number of students = 20 + 16 + 10 + 6\n= 52 students",
+    "year": "2001"
+  },
+  {
+    "number": "661",
+    "text": "Which of the following is not the the size of an exterior angle of a regular polygon?",
+    "options": {
+      "A": "15o",
+      "B": "18o",
+      "C": "20o",
+      "D": "21o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26507?exam_type=waec&type=obj&page=133",
+    "correct_answer": "D",
+    "explanation": "The size of an exterior angle = \\(\\frac{360}{n}\\)\nFrom the options, all options can\u00a0perfectly divide 360\u00b0, except 21\u00b0.",
+    "year": "2001"
+  },
+  {
+    "number": "662",
+    "text": "In the diagram, PQR is a triangle.|PQ| = |PR|, |PS| = |SQ| and PRS = 50\u00b0. What is the size of \u2220PSQ?",
+    "options": {
+      "A": "75o",
+      "B": "80o",
+      "C": "85o",
+      "D": "95o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26508?exam_type=waec&type=obj&page=133",
+    "correct_answer": "B",
+    "explanation": "< PQS = 50\u00b0 (PQ = PR)\n< PQS = < SPQ = 50\u00b0 (QS =\u00a0PS)\nIn triangle PSQ, < PQS + < QPS + < PSQ = 180\u00b0\n50\u00b0 + 50\u00b0 + < PSQ = 180\u00b0\n< PSQ = 180\u00b0 - 100\u00b0 = 80\u00b0",
+    "year": "2001"
+  },
+  {
+    "number": "663",
+    "text": "PQRS is a rhombus of side 16cm. The diagonal |QS| = 20cm. Calculate, correct to the nearest degree, \u2220PQR",
+    "options": {
+      "A": "51o",
+      "B": "64o",
+      "C": "77o",
+      "D": "103o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26509?exam_type=waec&type=obj&page=133",
+    "correct_answer": "D",
+    "explanation": "-1\no\no\no",
+    "year": "2001"
+  },
+  {
+    "number": "664",
+    "text": "In the diagram, PQ is a diameter of the circle and \u2220PRS = 58\u00b0. Find \u2220STQ.",
+    "options": {
+      "A": "29o",
+      "B": "32o",
+      "C": "42o",
+      "D": "53o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26510?exam_type=waec&type=obj&page=133",
+    "correct_answer": "B",
+    "explanation": "In \\(\\Delta\\) PRQ, < SRQ = 90\u00b0 - 58\u00b0\n< SRQ = < QTS = x (angles in the segment)\n\\(\\therefore\\) x = 32\u00b0",
+    "year": "2001"
+  },
+  {
+    "number": "668",
+    "text": "A chord of length 30cm is 8cm away from the center of the circle. What is the radius of the circle? Take \\(\\pi =\\frac{22}{7}\\)",
+    "options": {
+      "A": "16cm",
+      "B": "17cm",
+      "C": "18cm",
+      "D": "20cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26514?exam_type=waec&type=obj&page=134",
+    "correct_answer": "B",
+    "explanation": "From the diagram\\(r^2 = B^2 + 15^2\\\\= 64 + 225\\\\r = \\sqrt{289} = 17cm\\)",
+    "year": "2001"
+  },
+  {
+    "number": "669",
+    "text": "A sector of a circle radius 14 cm subtends an angle 135\u00b0 at the center of the circle. What is the perimeter of the sector? Take \\(\\pi = \\frac{22}{7}\\)",
+    "options": {
+      "A": "47cm",
+      "B": "61cm",
+      "C": "88cm",
+      "D": "231cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26515?exam_type=waec&type=obj&page=134",
+    "correct_answer": "B",
+    "explanation": "Perimeter of the sector = \\(2r + \\frac{\\theta}{360} \\times 2\\pi r\\)\n= \\(2(14) + \\frac{135}{360} \\times 2 \\times \\frac{22}{7} \\times 14\\)\n= \\(28 + 33\\)\n= 61 cm",
+    "year": "2001"
+  },
+  {
+    "number": "670",
+    "text": "In the diagram, MN||PQ, |LM| = 3cm and |LP| = 4cm. If the area of \u2206LMN is 18cm2, find the area of the quadrilateral MPQN",
+    "options": {
+      "A": "3cm2",
+      "B": "6cm2",
+      "C": "14cm2",
+      "D": "24cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26516?exam_type=waec&type=obj&page=134",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{LM}{LP} =\u00a0\\frac{3}{4}\\)\n\\(\\frac{Area of LMN}{Area of LPQ}\u00a0= \\frac{3^2}{4^2}\\)\nArea of LPQ =\u00a0\\(\\frac{16}{9}\\times 18 = 32 cm^2\\)\nArea of quadrilateral MPQN\u00a0= 32 \u2013 18 = \\(14 cm^2\\)",
+    "year": "2001"
+  },
+  {
+    "number": "671",
+    "text": "The diagram shows a triangular prism of length 7cm. The right - angled triangle PQR is a cross section of the prism |PR| = 5cm and |RQ| = 3cm. What is the area of the cross-section?",
+    "options": {
+      "A": "4 cm2",
+      "B": "6cm2",
+      "C": "15cm2",
+      "D": "20cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26517?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "In \\(\\Delta\\) RQP, QR\\(^2\\) + QP\\(^2\\) = RP\\(^2\\)\n3\\(^2\\) + QP\\(^2\\) = 5\\(^2\\)\nQP\\(^2\\)\u00a0= 5\\(^2\\) - 3\\(^2\\)\nQP = \\(\\sqrt{16}\\)\n= 4 cm\n\\(\\therefore\\) Area = \\(\\frac{1}{2} \\times base \\times height\\)\n= \\(\\frac{1}{2} \\times 3 \\times 4\\)\n= 6 cm\\(^2\\)",
+    "year": "2001"
+  },
+  {
+    "number": "672",
+    "text": "The diagram shows a triangular prism of length 7cm. The right - angled triangle PQR is a cross section of the prism |PR| = 5cm and |RQ| = 3cm. What is the volume of the prism?",
+    "options": {
+      "A": "28cm2",
+      "B": "42cm2",
+      "C": "70cm2",
+      "D": "84cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26518?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "Volume of prism = Area x height\nIn \\(\\Delta\\) RQP, QR\\(^2\\) + QP\\(^2\\) = RP\\(^2\\)\n3\\(^2\\) + QP\\(^2\\) = 5\\(^2\\)\nQP\\(^2\\)\u00a0= 5\\(^2\\) - 3\\(^2\\)\nQP = \\(\\sqrt{16}\\)\n= 4 cm\n\\(\\therefore\\) Area = \\(\\frac{1}{2} \\times base \\times height\\)\n= \\(\\frac{1}{2} \\times 3 \\times 4\\)\n= 6 cm\\(^2\\)\nVolume = 6 x 7\n= 42 cm\\(^3\\)",
+    "year": "2001"
+  },
+  {
+    "number": "673",
+    "text": "A solid cylinder of radius 7cm is 10 cm long. Find its total surface area.",
+    "options": {
+      "A": "\\(70\\pi cm^2\\)",
+      "B": "\\(189\\pi cm^2\\)",
+      "C": "\\(210\\pi cm^2\\)",
+      "D": "\\(238\\pi cm^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26519?exam_type=waec&type=obj&page=135",
+    "correct_answer": "D",
+    "explanation": "S = \\(2\\pi r^2 + 2\\pi rh\\)\n= \\(2\\pi r(r + h)\\)\n= \\(2\\pi (7) (7 + 10)\\)\n= \\(238\\pi cm^2\\)",
+    "year": "2001"
+  },
+  {
+    "number": "674",
+    "text": "PQRS is a trapezium in which |PS| = 9cm, |QR| = 15cm, |PQ| = \\(2\\sqrt{3}, \\angle PQR = 90^o and \\angle QRS = 30^o\\). Calculate the area of the trapezium",
+    "options": {
+      "A": "\\(24\\sqrt{3} cm^2\\)",
+      "B": "\\(36\\sqrt{3} cm^2\\)",
+      "C": "\\(42\\sqrt{3} cm^2\\)",
+      "D": "\\(72\\sqrt{3} cm^2\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26520?exam_type=waec&type=obj&page=135",
+    "correct_answer": "A",
+    "explanation": "Area of trapezium = \\(\\frac{1}{2}\\)( a + b) x h\na = 9cm, b = 15cm, c = (15 - 9) =\u00a06cm since height was not given, so we calculate for it using trig . ratio\nh = 2\\(\\sqrt{3}\\)cm\nArea of trapezium = \\(\\frac{1}{2}\\)( a + b ) x h\u00a0=\u00a0\\(\\frac{1}{2}\\)( 9\u00a0+ 15\u00a0) x\u00a0 2\\(\\sqrt{3}\\)\n= 24 x\u00a0\\(\\sqrt{3}\\) = 24\\(\\sqrt{3}\\)cm\\(^2\\)",
+    "year": "2001"
+  },
+  {
+    "number": "677",
+    "text": "The variance of a given distribution is 25. What is the standard deviation?",
+    "options": {
+      "A": "125",
+      "B": "75",
+      "C": "25",
+      "D": "5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26523?exam_type=waec&type=obj&page=136",
+    "correct_answer": "D",
+    "explanation": "S.D = \\(\\sqrt{Variance}\\)\n= \\(\\sqrt{25}\\)\n= 5",
+    "year": "2001"
+  },
+  {
+    "number": "678",
+    "text": "Given that P = {b, d, e, f} and Q = {a, c, f, g} are subsets of the universal set U = {a,b, c, d, e, f, g}. Find P'\u00a0\u2229 Q",
+    "options": {
+      "A": "{a,c}",
+      "B": "{a, c, d, g}",
+      "C": "{c, d, g}",
+      "D": "{a, c, g}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26524?exam_type=waec&type=obj&page=136",
+    "correct_answer": "D",
+    "explanation": "U = {a, b, c, d, e, f, g}\nP = {b, d, e, f}\nQ = {a, c, f, g}\nP' = {a, c, g}\nP' \\(\\cap\\) Q = {a, c, g}",
+    "year": "2001"
+  },
+  {
+    "number": "683",
+    "text": "What is the length of \\(\\bar{RP}\\)?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26529?exam_type=waec&type=obj&page=137",
+    "correct_answer": "B",
+    "explanation": "\\(\\bar{RP} = 3 - (-2)\\)\n= 5",
+    "year": "2001"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "number": "440",
+    "text": "Given that the straight lines \\(kx - 5y + 6 = 0\\) and \\(mx + ny - 1 = 0\\) are parallel, find a relationship connecting the constants m, n and k.",
+    "options": {
+      "A": "5n - km = 0",
+      "B": "kn + 5m = 0",
+      "C": "5n + km = 0",
+      "D": "kn - 5m = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51628?exam_type=waec&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "Two lines are parallel if and only if their slopes are equal.\n\\(kx - 5y + 6 = 0 \\implies 5y = kx + 6\\)\n\\(y = \\frac{k}{5}x + \\frac{6}{5}\\)\n\\(Slope = \\frac{k}{5}\\)\n\\(mx + ny - 1 = 0 \\implies ny = 1 - mx\\)\n\\(y = \\frac{1}{n} - \\frac{m}{n}x\\)\n\\(Slope = -\\frac{m}{n}\\)\n\\(Parallel \\implies \\frac{k}{5} = -\\frac{m}{n}\\)\n\\(-5m = kn \\implies 5m + kn = 0\\)",
+    "year": "2007"
+  },
+  {
+    "number": "441",
+    "text": "Given that \\(\\alpha\\) and \\(\\beta\\) are the roots of an equation such that \\(\\alpha + \\beta = 3\\) and \\(\\alpha \\beta = 2\\), find the equation.",
+    "options": {
+      "A": "\\(x^{2} - 3x + 2 = 0\\)",
+      "B": "\\(x^{2} - 2x + 3 = 0\\)",
+      "C": "\\(x^{2} - 3x - 2 = 0\\)",
+      "D": "\\(x^{2} - 2x - 3 = 0\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51630?exam_type=waec&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "Given \\(ax^{2} + bx + c = 0 (\\text{general form of a quadratic equation})\\)\nWe have \\(x^{2} + \\frac{b}{a}x + \\frac{c}{a} = 0\\)\n\\(\u00a0x^{2} - (-\\frac{b}{a})x + \\frac{c}{a} = 0\\)\n\\(\\implies x^{2} - (\\alpha + \\beta)x + (\\alpha \\beta) = 0\\)\n\\(\\therefore \\text{The equation is} x^{2} - 3x + 2 = 0\\)",
+    "year": "2007"
+  },
+  {
+    "number": "442",
+    "text": "Which of the following is the same as \\(\\sin (270 + x)\u00b0\\)?",
+    "options": {
+      "A": "\\(\\sin x\\)",
+      "B": "\\(\\tan x\\)",
+      "C": "\\(- \\sin x \\)",
+      "D": "\\(- \\cos x\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51631?exam_type=waec&type=obj&page=89",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "443",
+    "text": "The sum of the first three terms of an Arithmetic Progression (A.P) is 18. If the first term is 4, find their product.",
+    "options": {
+      "A": "130",
+      "B": "192",
+      "C": "210",
+      "D": "260"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51632?exam_type=waec&type=obj&page=89",
+    "correct_answer": "B",
+    "explanation": "\\(S_{n} = \\frac{n}{2}(2a + (n - 1)d)\\) ( for an arithmetic progression)\n\\(S_{3} = 18 = \\frac{3}{2}(2(4) + (3 - 1) d) \\)\n\\(18 = \\frac{3}{2} (8 + 2d)\\)\n\\(18 = 12 + 3d \\implies 3d = 6\\)\n\\(d = 2\\)\n\\(\\therefore T_{1} = 4 \\implies T_{2} = 4 + 2 = 6; T_{3} = 6 + 2 = 8\\)\nTheir product = \\(4 \\times 6 \\times 8 = 192\\)",
+    "year": "2007"
+  },
+  {
+    "number": "444",
+    "text": "Two functions f and g are defined on the set R of real numbers by \\(f : x \\to 2x - 1\\) and \\(g : x \\to x^{2} + 1\\). Find the value of \\(f^{-1} \\circ g(3)\\).",
+    "options": {
+      "A": "12",
+      "B": "11",
+      "C": "\\(\\frac{11}{2}\\)",
+      "D": "\\(\\frac{9}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51636?exam_type=waec&type=obj&page=89",
+    "correct_answer": "C",
+    "explanation": "\\(f(x) = 2x -\u00a01; g(x) = x^{2} + 1\\)\n\\(f(x) = 2x - 1\\)\n\\(f(y) = 2y - 1 \\)\n\\(x = 2y - 1 \\implies 2y = x + 1\\)\n\\(y = \\frac{x + 1}{2}\\)\n\\(g(3) = 3^{2} + 1 = 10\\)\n\\(f^{-1}(10)\u00a0= \\frac{10 + 1}{2} = \\frac{11}{2}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "445",
+    "text": "The gradient of the line passing through the points P(4, 5) and Q(x, 9) is \\(\\frac{1}{2}\\). Find the value of x.",
+    "options": {
+      "A": "-4",
+      "B": "0",
+      "C": "4",
+      "D": "12"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51639?exam_type=waec&type=obj&page=89",
+    "correct_answer": "D",
+    "explanation": "\\(Gradient = \\frac{y_{1} - y_{2}}{x_{1} - x_{2}} \\)\n\\(\\frac{1}{2} = \\frac{5 - 9}{4 - x}\\)\n\\(\\frac{1}{2} = \\frac{-4}{4 - x} \\implies -8 = 4 - x\\)\n\\(x = 4 + 8 = 12\\)",
+    "year": "2007"
+  },
+  {
+    "number": "446",
+    "text": "Simplify \\(\\frac{\\sqrt{3}}{\\sqrt{3} - 1} + \\frac{\\sqrt{3}}{\\sqrt{3} +1}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{1}{2}\\sqrt{3}\\)",
+      "C": "\\(3\\)",
+      "D": "\\(2\\sqrt{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51641?exam_type=waec&type=obj&page=90",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{\\sqrt{3}}{\\sqrt{3} - 1} + \\frac{\\sqrt{3}}{\\sqrt{3} + 1}\\)\n= \\(\\frac{\\sqrt{3}(\\sqrt{3} + 1) + \\sqrt{3}(\\sqrt{3} - 1)}{(\\sqrt{3} - 1)(\\sqrt{3} + 1)}\\)\n= \\(\\frac{6}{3 - 1} \\)\n= 3",
+    "year": "2007"
+  },
+  {
+    "number": "447",
+    "text": "Simplify \\(\\frac{\\tan 80\u00b0 - \\tan 20\u00b0}{1 + \\tan 80\u00b0 \\tan 20\u00b0}\\)",
+    "options": {
+      "A": "\\(3\\sqrt{2}\\)",
+      "B": "\\(2\\sqrt{3}\\)",
+      "C": "\\(\\sqrt{3}\\)",
+      "D": "\\(\\sqrt{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51649?exam_type=waec&type=obj&page=90",
+    "correct_answer": "C",
+    "explanation": "\\(\\tan (x - y) = \\frac{\\tan x - \\tan y}{1 + \\tan x \\tan y}\\)\n\\(\\implies \\frac{\\tan 80\u00a0- \\tan 20}{1 + \\tan 80 \\tan 20} = \\tan (80 - 20) = \\tan 60\u00b0\\)\n\\(\\tan 60 = \\frac{\\sin 60}{\\cos 60} = \\frac{\\sqrt{3}}{2}\u00a0\u00f7 \\frac{1}{2}\\)\n= \\(\\sqrt{3}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "448",
+    "text": "The binary operation * is defined on the set of R, of real numbers by \\(x * y = 3x + 3y - xy, \\forall x, y \\in R\\). Determine, in terms of x, the identity element of the operation.",
+    "options": {
+      "A": "\\(\\frac{2x}{x - 3}, x \\neq 3\\)",
+      "B": "\\(\\frac{2x}{x + 3}, x \\neq -3\\)",
+      "C": "\\(\\frac{3x}{x - 3}, x \\neq 3\\)",
+      "D": "\\(\\frac{3x}{x + 3}, x \\neq -3\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51653?exam_type=waec&type=obj&page=90",
+    "correct_answer": "A",
+    "explanation": "From the rules of binary operation, \\(x * e = x\\)\n\\(\\implies x * e = 3x + 3e - xe = x\\)\n\\(3e - xe = x - 3x = -2x\\)\n\\(e = \\frac{2x}{x - 3}, x \\neq 3\\)",
+    "year": "2007"
+  },
+  {
+    "number": "449",
+    "text": "Find the fourth term of the binomial expansion of \\((x - k)^{5}\\) in descending powers of x.",
+    "options": {
+      "A": "\\(10x^{3}k^{2}\\)",
+      "B": "\\(5x^{3}k^{2}\\)",
+      "C": "\\(-5x^{2}k^{3}\\)",
+      "D": "\\(-10x^{2}k^{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51654?exam_type=waec&type=obj&page=90",
+    "correct_answer": "D",
+    "explanation": "\\((x - k)^{5} = ^{5}C_{0}x^{5}(-k)^{0} + ^{5}C_{1}x^{4}(-k)^{1} + ...\\)\nThe fourth term in the expansion = \\(^{5}C_{4 - 1}(x)^{5 - 3}(-k)^{3 = 10 \\times x^{2} \\times -k^{3}\\)\n= \\(-10x^{2}k^{3}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "450",
+    "text": "The tangent to the curve \\(y = 4x^{3} + kx^{2} - 6x + 4\\) at the point P(1, m) is parallel to the x- axis, where k and m are constants. Find the value of k.",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "-3",
+      "D": "-2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51660?exam_type=waec&type=obj&page=90",
+    "correct_answer": "C",
+    "explanation": "\\(y = 4x^{3} + kx^{2} - 6x + 4\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 12x^{2} + 2kx - 6\\)\nAt P(1, m)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 12 + 2k - 6 = 0\\) (parallel to the x- axis)\n\\(6 + 2k = 0 \\implies k = -3\\)",
+    "year": "2007"
+  },
+  {
+    "number": "451",
+    "text": "The tangent to the curve \\(y = 4x^{3} + kx^{2} - 6x + 4\\) at the point P(1, m) is parallel to the x- axis, where k and m are constants. Determine the coordinates of P.",
+    "options": {
+      "A": "(1, 2)",
+      "B": "(1, 1)",
+      "C": "(1, -1)",
+      "D": "(1, -2)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51661?exam_type=waec&type=obj&page=91",
+    "correct_answer": "C",
+    "explanation": "\\(y = 4x^{3} + kx^{2} - 6x + 4\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 12x^{2} + 2kx - 6\\)\nAt P(1, m)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 12 + 2k - 6 = 0\\) (parallel to the x- axis)\n\\(6 + 2k = 0 \\implies k = -3\\)\n\\(P(1, m) \\implies m = 4(1^{3}) - 3(1^{2}) - 6(1) + 4)\n= -1\nP = (1, -1)",
+    "year": "2007"
+  },
+  {
+    "number": "452",
+    "text": "Given that \\(\\log_{2} y^{\\frac{1}{2}} = \\log_{5} 125\\), find the value of y.",
+    "options": {
+      "A": "16",
+      "B": "25",
+      "C": "36",
+      "D": "64"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51662?exam_type=waec&type=obj&page=91",
+    "correct_answer": "D",
+    "explanation": "\\(\\log_{2} y^{\\frac{1}{2}} = \\log_{5} 125\\)\n\\(\\log_{2} y^{\\frac{1}{2}} = \\log_{5} 5^{3} = 3\\log_{5} 5 = 3\\)\n\\(\\log_{2} y^{\\frac{1}{2}} = 3 \\implies y^{\\frac{1}{2}} = 2^{3} = 8\\)\n\\(y = 8^{2} = 64\\)",
+    "year": "2007"
+  },
+  {
+    "number": "453",
+    "text": "Two vectors m and n are defined by \\(m = 3i + 4j\\) and \\(n = 2i - j\\). Find the angle between m and n.",
+    "options": {
+      "A": "97.9\u00b0",
+      "B": "79.7\u00b0",
+      "C": "63.4\u00b0",
+      "D": "36.4\u00b0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51663?exam_type=waec&type=obj&page=91",
+    "correct_answer": "B",
+    "explanation": "\\(m . n = |m||n|\\cos \\theta\\)\n\\((3i + 4j) . (2i - j) = 6 - 4 = 2\\)\n\\(2 = |(3i + 4j)||(2i - j)| \\cos \\theta\\)\n\\(|3i + 4j| = \\sqrt{3^{2} + 4^{2}} = \\sqrt{25} = 5\\)\n\\(|2i - j| = \\sqrt{2^{2} + (-1)^{2}} = \\sqrt{5}\\)\n\\(2 = 5(\\sqrt{5})(\\cos \\theta)\\)\n\\(\\cos \\theta = \\frac{2}{5\\sqrt{5}} = 0.08\\sqrt{5}\\)\n\\(\\theta = \\cos^{-1} 0.1788 = 79.7\u00b0\\)",
+    "year": "2007"
+  },
+  {
+    "number": "454",
+    "text": "Find the area of the circle whose equation is given as \\(x^{2} + y^{2} - 4x + 8y + 11 = 0\\).",
+    "options": {
+      "A": "\\(3\\pi\\)",
+      "B": "\\(6\\pi\\)",
+      "C": "\\(9\\pi\\)",
+      "D": "\\(12\\pi\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51664?exam_type=waec&type=obj&page=91",
+    "correct_answer": "C",
+    "explanation": "Equation of a circle: \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nGiven that \\(x^{2} + y^{2} - 4x + 8y + 11 = 0\\)\nExpanding the equation of a circle, we have: \\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2}\\)\nComparing this expansion\u00a0with the given equation, we have\n\\(2a = 4 \\implies a = 2\\)\n\\(-2b = 8 \\implies b = -4\\)\n\\(r^{2} - a^{2} - b^{2} = -11 \\implies r^{2} = -11 + 2^{2} + 4^{2} =9\\)\n\\(r = 3\\)\n\\(Area = \\pi r^{2} = \\pi \\times 3^{2}\\)\n= \\(9\\pi\\)",
+    "year": "2007"
+  },
+  {
+    "number": "455",
+    "text": "Two bodies of masses 8 kg and 5 kg travelling in the same direction with speeds x m/s and 2 m/s respectively collide. If after collision, they move together with a speed of 3.85 m/s, find, correct to the nearest whole number, the value of x.",
+    "options": {
+      "A": "2",
+      "B": "5",
+      "C": "8",
+      "D": "13"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51666?exam_type=waec&type=obj&page=91",
+    "correct_answer": "B",
+    "explanation": "\\((m_{1} v_{1} + m_{2} v_{2}) = (m_{1} + m_{2})v\\) (Inelastic momentum)\n\\(8x + (5 \\times 2) = (8 + 5) \\times 3.85\\)\n\\(8x + 10 = 13 \\times 3.85 = 50.05\\)\n\\(8x = 50.05 - 10 = 40.05\\)\n\\(x \\approxeq 5 m/s\\)",
+    "year": "2007"
+  },
+  {
+    "number": "456",
+    "text": "Calculate in surd form, the value of \\(\\tan 15\u00b0\\).",
+    "options": {
+      "A": "\\(2 + \\sqrt{3}\\)",
+      "B": "\\(1 + \\sqrt{3}\\)",
+      "C": "\\(\\sqrt{3} - 1\\)",
+      "D": "\\(2 - \\sqrt{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51673?exam_type=waec&type=obj&page=92",
+    "correct_answer": "D",
+    "explanation": "\\(\\tan 15 =\u00a0\\tan (60 - 45)\\)\n\\(\\tan (x - y) = \\frac{\\tan x - \\tan y}{1 + \\tan x \\tan y}\\)\n\\(\\tan (60 - 45) = \\frac{\\tan 60 - \\tan 45}{1 + \\tan 60 \\tan 45}\\)\n= \\(\\frac{\\sqrt{3} - 1}{1 + (\\sqrt{3} \\times 1)}\\)\n= \\(\\frac{\\sqrt{3} - 1}{1 + \\sqrt{3}}\\)\nRationalizing by multiplying denominator and numerator by \\(1 - \\sqrt{3}\\),\n\\(\\tan 15 = 2 - \\sqrt{3}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "457",
+    "text": "Evaluate \\(\\lim \\limits_{x \\to 3} \\frac{x^{2} - 2x -\u00a03}{x - 3}\\)",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "0"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51680?exam_type=waec&type=obj&page=92",
+    "correct_answer": "A",
+    "explanation": "\\(\\lim \\limits_{x \\to 3} \\frac{x^{2} - 2x -\u00a03}{x - 3}\\)\n\\(\\frac{x^{2} - 2x -\u00a03}{x - 3} = \\frac{x^{2} - 3x + x - 3}{x - 3}\\)\n\\(\\frac{(x - 3)(x + 1)}{x - 3} = x + 1\\)\n\\(\\lim \\limits_{x \\to 3} \\frac{x^{2} - 2x - 3}{x - 3} \\equiv \\lim \\limits_{x \\to 3} (x + 1)\\) (L'Hopital rule)\n\\(\\lim \\limits_{x \\to 3} (x + 1) = 3 + 1 = 4\\)",
+    "year": "2007"
+  },
+  {
+    "number": "458",
+    "text": "If \\(f(x) = mx^{2} - 6x - 3\\) and \\(f'(1) = 12\\), find the value of the constant m.",
+    "options": {
+      "A": "9",
+      "B": "3",
+      "C": "-3",
+      "D": "-4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51681?exam_type=waec&type=obj&page=92",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = mx^{2} - 6x - 3\\)\n\\(f '(x) = \\frac{\\mathrm d y}{\\mathrm d x} = 2mx - 6\\)\n\\(f'(1) = 2m - 6 = 12\\)\n\\(2m = 18 \\implies m = 9\\)",
+    "year": "2007"
+  },
+  {
+    "number": "459",
+    "text": "A bag contains 2 red and 4 green sweets of the same size and shape. Two boys pick a sweet each from the box, one after the other, without replacement. What is the probability that at least a sweet with green wrapper is picked?",
+    "options": {
+      "A": "\\(\\frac{1}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{8}{15}\\)",
+      "D": "\\(\\frac{14}{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51682?exam_type=waec&type=obj&page=92",
+    "correct_answer": "D",
+    "explanation": "P(at least one green wrapper) = 1 - P(no green wrapper)\n= \\(1 - (\\frac{2}{6} \\times \\frac{1}{5})\\)\n= \\(1 - \\frac{1}{15}\\)\n= \\(\\frac{14}{15}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "460",
+    "text": "A body is acted upon by two forces \\(F_{1} = (5 N, 060\u00b0)\\) and \\(F_{2} = (10 N, 180\u00b0)\\). Find the magnitude of the resultant force.",
+    "options": {
+      "A": "18.75 N",
+      "B": "15.75 N",
+      "C": "9.50 N",
+      "D": "8.66 N"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51689?exam_type=waec&type=obj&page=92",
+    "correct_answer": "D",
+    "explanation": "\\(F_{1} = (5 N, 060\u00b0) = 5 \\cos 60 i + 5 \\sin 60 j = 2.5 i + \\frac{5\\sqrt{3}}{2}j\\)\n\\(F_{2} = (10 N, 180\u00b0) = 10 \\cos 180 i + 10 \\sin 180 j = -10i\\)\n\\(R = F_{1} + F_{2} = -7.5 i + \\frac{5\\sqrt{3}}{2}j\\)\n\\(|R| = \\sqrt{(-7.5)^{2} + (\\frac{5\\sqrt{3}}{2})^{2}}\\)\n= \\(\\sqrt{56.25 + 18.75} = \\sqrt{75}\\)\n= 8.66 N",
+    "year": "2007"
+  },
+  {
+    "number": "461",
+    "text": "The equation of a curve is given by \\(y = 2x^{2} - 5x + k\\). If the curve has two intercepts on the x- axis, find the value(s) of constant k.",
+    "options": {
+      "A": "\\(k = \\frac{8}{25}\\)",
+      "B": "\\(k = \\frac{25}{8}\\)",
+      "C": "\\(k < \\frac{25}{8}\\)",
+      "D": "\\(k > \\frac{25}{8}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51690?exam_type=waec&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "462",
+    "text": "Find the value of p for which \\(x^{2} - x + p\\) becomes a perfect square.",
+    "options": {
+      "A": "\\(-\\frac{1}{2}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(1\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51699?exam_type=waec&type=obj&page=93",
+    "correct_answer": "B",
+    "explanation": "The equation \\(ax^{2} + bx + c\\) is a perfect square if \\(b^{2} = 4ac\\).\n\\(x^{2} - x + p\\)\n\\((-1)^{2} = 4(1)(p)\\)\n\\(1 = 4p \\implies p = \\frac{1}{4}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "463",
+    "text": "The polynomial \\(2x^{3} + 3x^{2} + qx - 1\\) has the same reminder when divided by \\((x + 2)\\) and \\((x - 1)\\). Find the value of the constant q.",
+    "options": {
+      "A": "-11",
+      "B": "-9",
+      "C": "-3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51715?exam_type=waec&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "Using the remainder theorem, the remainder when a polynomial \\(ax^{2} + bx + c\\) is divided by \\((x - a)\\) is equal to \\(f(a)\\).\n\\(2x^{3} + 3x^{2} + qx - 1\\) divided by \\((x +\u00a02)\\), the remainder = \\(f(-2)\\)\n\\(\\implies f(-2) = f(1)\\)\n\\(f(-2) = 2(-2^{3}) + 3(-2^{2}) + q(-2) - 1 = -16 + 12 - 2q - 1 = -5 - 2q\\)\n\\(f(1) = 2(1^{3}) + 3(1^{2}) + q(1) - 1 = 2 + 3 + q - 1 = 4 + q\\)\n\\(4 + q = -5 -2q \\implies 4 + 5 = -2q - q = -3q\\)\n\\(q = -3\\)",
+    "year": "2007"
+  },
+  {
+    "number": "464",
+    "text": "Marks\n5 - 7\n8 - 10\n11 - 13\n14 -\u00a0 16\n17 - 19\n20 - 22\n\n\nFrequency\n4\n7\n26\n41\n14\n8\n\n\n\nThe table above shows the marks obtained by 100 pupils in a test. Find the upper class boundary of the class containing the third quartile.",
+    "options": {
+      "A": "13.0",
+      "B": "16.0",
+      "C": "16.5",
+      "D": "22.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51719?exam_type=waec&type=obj&page=93",
+    "correct_answer": "C",
+    "explanation": "The third quartile can be found in the \\((\\frac{3N}{4})^{th}\\) position\n= \\((\\frac{3 \\times 100}{4})^{th}\\) position\nThis is found in the class 14 - 16.\nThe upper class boundary = 16.5",
+    "year": "2007"
+  },
+  {
+    "number": "465",
+    "text": "Marks\n5 - 7\n8 - 10\n11 - 13\n14 -\u00a0 16\n17 - 19\n20 - 22\n\n\nFrequency\n4\n7\n26\n41\n14\n8\n\n\n\nThe table above shows the marks obtained by 100 pupils in a test. Find the probability that a student picked at random scored at least 14 marks.",
+    "options": {
+      "A": "0.22",
+      "B": "0.41",
+      "C": "0.49",
+      "D": "0.63"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51721?exam_type=waec&type=obj&page=93",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "466",
+    "text": "How many ways can 12 people be divided into three groups of 2, 7 and 3 in that order?",
+    "options": {
+      "A": "7920",
+      "B": "792",
+      "C": "187",
+      "D": "42"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51724?exam_type=waec&type=obj&page=94",
+    "correct_answer": "A",
+    "explanation": "= \\(\\frac{12!}{2! 3! 7!} \\)\n\\(\\frac{12 \\times 11 \\times 10 \\times 9 \\times 8 \\times 7!}{2 \\times 3 \\times 2 \\times 7!}\\)\n= \\(7,920\\)",
+    "year": "2007"
+  },
+  {
+    "number": "467",
+    "text": "Given that \\(P = \\begin{pmatrix} 4 & 9 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} -1 & -2 \\\\ 3 & 2 \\end{pmatrix}\\). Which of the following operations is possible?",
+    "options": {
+      "A": "\\(QP\\)",
+      "B": "\\(P^{2}\\)",
+      "C": "\\(Q^{2}P\\)",
+      "D": "\\(PQ\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51730?exam_type=waec&type=obj&page=94",
+    "correct_answer": "D",
+    "explanation": "A \\(1 \\times 2\\) matrix can be multiplied by \\(2 \\times 2\\) matrix to give\u00a0a \\(1 \\times 2\\) matrix.",
+    "year": "2007"
+  },
+  {
+    "number": "468",
+    "text": "Given that \\(P = \\begin{pmatrix} 4 & 9 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} -1 & -2 \\\\ 3 & 2 \\end{pmatrix}\\). Evaluate \\(|Q|P\\).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 16 & 36 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 8 & 18 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 8 & 0 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 1 & 2 \\end{pmatrix}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51731?exam_type=waec&type=obj&page=94",
+    "correct_answer": "A",
+    "explanation": "\\(|Q| = \\begin{vmatrix} -1 & -2 \\\\ 3 & 2 \\end{vmatrix}\\)\n= \\(-2 - (-6) = 4\\)\n\\(4P = 4\\begin{pmatrix} 4 & 9 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 16 & 36 \\end{pmatrix}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "469",
+    "text": "The equation of a circle is given by \\(x^{2} + y^{2} - 4x - 2y - 3\\). Find the radius and the coordinates of its centre.",
+    "options": {
+      "A": "\\(3, (-1, 2)\\)",
+      "B": "\\(2\\sqrt{2}, (2, -1)\\)",
+      "C": "\\(2\\sqrt{2}, (2, 1)\\)",
+      "D": "\\(9, (2, 1)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51732?exam_type=waec&type=obj&page=94",
+    "correct_answer": "C",
+    "explanation": "Equation of a circle with radius r and centre (a, b).\n= \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding, we have\n\\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2}\\)\nComparing, with \\(x^{2} + y^{2} - 4x - 2y - 3 = 0\\)\n\\(2a = 4 \\implies a = 2\\)\n\\(2b = 2 \\implies b = 1\\)\n\\(r^{2} - a^{2} - b^{2} = 3 \\implies r^{2} = 3 + 2^{2} + 1^{2} = 8\\)\n\\(r = 2\\sqrt{2}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "470",
+    "text": "Simplify \\(\\frac{^{n}P_{3}}{^{n}C_{2}} + ^{n}P_{0}\\)",
+    "options": {
+      "A": "n - 5",
+      "B": "n - 3",
+      "C": "2n - 1",
+      "D": "2n - 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51735?exam_type=waec&type=obj&page=94",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{^{n}P_{3}}{^{n}C_{2}} + ^{n}P_{0}\\)\n\\(\\frac{^{n}P_{3}}{^{n}C_{2}} = \\frac{n!}{(n - 3)!}\u00a0\u00f7 \\frac{n!}{(n - 2)! 2!}\\)\n\\(\\frac{n!}{(n - 3)!} \\times \\frac{(n - 2)(n - 3)! 2!}{n!} = 2n - 4\\)\n\\(^{n}P_{0} = \\frac{n!}{(n - 0)!} = 1\\)\n\\(\\frac{^{n}P_{3}}{^{n}C_{2}} + ^{n}P_{0} = 2n - 4 + 1 = 2n - 3\\)",
+    "year": "2007"
+  },
+  {
+    "number": "471",
+    "text": "X and Y are two independent event. If \\(P(X) = \\frac{1}{5}\\) and \\(P(X \\cap Y) = \\frac{2}{15}\\), find \\(P(Y)\\).",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51742?exam_type=waec&type=obj&page=95",
+    "correct_answer": "A",
+    "explanation": "For independent events \\(P(X \\cap Y) = P(X) \\times P(Y)\\)\n\\(\\frac{2}{15} = \\frac{1}{5} \\times P(Y)\\)\n\\(P(Y) = \\frac{2}{15}\u00a0\u00f7 \\frac{1}{5} = \\frac{2}{3}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "472",
+    "text": "Given that \\(p = 4i + 3j\\), find the unit vector in the direction of p.",
+    "options": {
+      "A": "\\(\\frac{1}{3}(4i + 3j)\\)",
+      "B": "\\(\\frac{1}{3}(3i + 4j)\\)",
+      "C": "\\(\\frac{1}{5}(3i + 4j)\\)",
+      "D": "\\(\\frac{1}{5}(4i + 3j)\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51745?exam_type=waec&type=obj&page=95",
+    "correct_answer": "D",
+    "explanation": "\\(\\hat {n} = \\frac{\\overrightarrow{p}}{|p|}\\)\nwhere \\(\\hat {n}\\) is the unit vector in the direction of p.\n\\(|p| = \\sqrt{4^{2} + 3^{2}} = \\sqrt{25} = 5\\)\n\\(\\hat {n} = \\frac{1}{5} (4i + 3j)\\)",
+    "year": "2007"
+  },
+  {
+    "number": "473",
+    "text": "A particle is projected vertically upwards with a speed of 40 m/s. At what times will it be 35m above its point of projection? \\(\\text{Take g} = 10 ms^{-2}\\)",
+    "options": {
+      "A": "1 sec and 7 sec",
+      "B": "1 sec and 8 sec",
+      "C": "2 sec and 5 sec",
+      "D": "2 sec and 7 sec"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51753?exam_type=waec&type=obj&page=95",
+    "correct_answer": "A",
+    "explanation": "\\(s = ut + \\frac{1}{2}at^{2}\\)\n\\(s = ut - \\frac{1}{2}gt^{2}\\) (Upward movement against gravity)\n\\(35 = 40t - \\frac{1}{2}10t^{2}\\)\n\\(35 = 40t - 5t^{2}\\)\n\\(5t^{2} - 40t + 35 = 0\\)\n\\(t^{2} - 8t + 7 = 0\\)\n\\((t - 1)(t - 7) = 0 \\implies t = \\text{1 sec and 7 sec}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "474",
+    "text": "Three students are working independently on a Mathematics problem. Their respective probabilities of solving the problem are 0.6, 0.7 and 0.8. What is the probability that at least one of them solves the problem?",
+    "options": {
+      "A": "0.024",
+      "B": "0.336",
+      "C": "0.664",
+      "D": "0.976"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51757?exam_type=waec&type=obj&page=95",
+    "correct_answer": "D",
+    "explanation": "\\(P(\\text{at least one solves the problem}) = 1 - P(\\text{none solving the problem})\\)\n= 1 - (0.4)(0.3)(0.2)\n= 1 - 0.024\n= 0.976",
+    "year": "2007"
+  },
+  {
+    "number": "475",
+    "text": "Given that \\(R = (4, 180\u00b0)\\) and \\(S = (3, 300\u00b0)\\), find the dot product.",
+    "options": {
+      "A": "\\(-6\\sqrt{3}\\)",
+      "B": "-6",
+      "C": "6",
+      "D": "\\(6\\sqrt{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51769?exam_type=waec&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "476",
+    "text": "Calculate, correct to one decimal place, the standard deviation of the numbers: -1, 5, 0, 2 and 9.",
+    "options": {
+      "A": "7.2",
+      "B": "6.6",
+      "C": "3.6",
+      "D": "3.2"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51788?exam_type=waec&type=obj&page=96",
+    "correct_answer": "C",
+    "explanation": "\\(x\\)-15029Total = 15\\(x - \\bar {x}\\)-42-3-16\\((x - \\bar{x})^{2}\\)164913666\nMean = \\(\\frac{15}{5} = 3\\)\nSD = \\(\\sqrt{\\frac{\\sum (x - \\bar {x})^{2}}{n}}\\)\n= \\(\\sqrt{\\frac{66}{5}} \\)\n= \\(\\sqrt{13.2}\\)\n= 3.6",
+    "year": "2007"
+  },
+  {
+    "number": "477",
+    "text": "A group of 5 boys and 4 girls is to be chosen from a class of 8 boys and 6 girls. In how many ways can this be done?",
+    "options": {
+      "A": "840",
+      "B": "480",
+      "C": "408",
+      "D": "380"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51793?exam_type=waec&type=obj&page=96",
+    "correct_answer": "A",
+    "explanation": "= \\(^{8}C_{5} \\times ^{6}C_{4}\\)\n=\\(56 \\times 15\\)\n= 840",
+    "year": "2007"
+  },
+  {
+    "number": "478",
+    "text": "A force of 30 N acts at an angle of 60\u00b0 on a body of mass 6 kg initially at rest on a smooth horizontal plane. Find the distance covered in 10 seconds.",
+    "options": {
+      "A": "\\(125\\sqrt{3} m\\)",
+      "B": "\\(125 m\\)",
+      "C": "\\(62.5 m\\)",
+      "D": "\\(25\\sqrt{3} m\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51798?exam_type=waec&type=obj&page=96",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "479",
+    "text": "Three forces \\(F_{1} = (8 N, 300\u00b0), F_{2} = (6 N, 090\u00b0)\\) and \\(F_{3} = (4 N, 180\u00b0)\\) act on a particle. Find the vertical component of the resultant force.",
+    "options": {
+      "A": "2 N",
+      "B": "10 N",
+      "C": "\\((4 + 4\\sqrt{3})N\\)",
+      "D": "\\((6 - 4\\sqrt{3})N\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51803?exam_type=waec&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "The vertical component = \\(8 \\sin 300 + 6 \\sin 90 + 4 \\sin 180\\)\n= \\(-4\\sqrt{3} + 6 + 0 \\)\n= \\((6 - 4\\sqrt{3}) N\\)",
+    "year": "2007"
+  }
+]

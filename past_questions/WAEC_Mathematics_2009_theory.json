@@ -1,0 +1,119 @@
+[
+  {
+    "number": "118",
+    "text": "(a) Given that \\((\\sqrt{3} - 5\\sqrt{2})(\\sqrt{3} + \\sqrt{2}) = a + b\\sqrt{6}\\), find a and b.\n(b) If \\(\\frac{2^{1 - y} \\times 2^{y - 1}}{2^{y + 2}} = 8^{2 - 3y}\\), find y.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52843?exam_type=waec&type=theory&page=24",
+    "correct_answer": "(a) \\((\\sqrt{3} - 5\\sqrt{2})(\\sqrt{3} + \\sqrt{2}) = \\sqrt{3 \\times 3} + \\sqrt{3 \\times 2} - 5\\sqrt{2 \\times 3} - 5\\sqrt{2 \\times 2}\\)\n= \\(3 + \\sqrt{6} - 5\\sqrt{6} - 5(2)\\)\n= \\(-7 - 4\\sqrt{6}\\)\n\\(\\therefore\\) a = -7 and b = -4.\n(b) \\(\\frac{2^{1 - y} \\times 2^{y - 1}}{2^{y + 2}} = 8^{2 - 3y}\\)\n\\(\\frac{2^{1 - y + y - 1}}{2^{y + 2}} = (2^{3})^{2 - 3y}\\)\n\\(2^{0 - (y + 2)} = 2^{6 - 9y} \\implies 2^{- y - 2} = 2^{6\u00a0-\u00a09y}\\)\n\\(- y - 2 = 6 - 9y\u00a0\\implies - y + 9y\u00a0= 6 + 2\\)\n\\(8y\u00a0= 8 \\implies y = 1\\).",
+    "explanation": "(a) \\((\\sqrt{3} - 5\\sqrt{2})(\\sqrt{3} + \\sqrt{2}) = \\sqrt{3 \\times 3} + \\sqrt{3 \\times 2} - 5\\sqrt{2 \\times 3} - 5\\sqrt{2 \\times 2}\\)\n= \\(3 + \\sqrt{6} - 5\\sqrt{6} - 5(2)\\)\n= \\(-7 - 4\\sqrt{6}\\)\n\\(\\therefore\\) a = -7 and b = -4.\n(b) \\(\\frac{2^{1 - y} \\times 2^{y - 1}}{2^{y + 2}} = 8^{2 - 3y}\\)\n\\(\\frac{2^{1 - y + y - 1}}{2^{y + 2}} = (2^{3})^{2 - 3y}\\)\n\\(2^{0 - (y + 2)} = 2^{6 - 9y} \\implies 2^{- y - 2} = 2^{6\u00a0-\u00a09y}\\)\n\\(- y - 2 = 6 - 9y\u00a0\\implies - y + 9y\u00a0= 6 + 2\\)\n\\(8y\u00a0= 8 \\implies y = 1\\).",
+    "year": "2009"
+  },
+  {
+    "number": "119",
+    "text": "(a) If \\(9 \\cos x - 7 = 1\\) and \\(0\u00b0 \\leq x \\leq 90\u00b0\\), find x.\n(b) Given that x is an integer, find the three greatest values of x which satisfy the inequality \\(7x < 2x - 13\\).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52854?exam_type=waec&type=theory&page=24",
+    "correct_answer": "(a) \\(9 \\cos x - 7 = 1 \\implies 9 \\cos x = 1 + 7 = 8\\)\n\\(\\cos x = \\frac{8}{9}\\)\n\\(x = \\cos^{-1} (0.8889)\\)\n\\(x = 27.26\u00b0\\)\n(b) \\(7x < 2x - 13\\)\n\\(7x - 2x < - 13\\)\n\\(5x < - 13\\)\n\\(x < \\frac{-13}{5}\\)\n\\([-2.6] = -3, -4, -5\\)\nNote : The greatest value function rounds up\u00a0a real number to an integer that is less or equal to the real number.",
+    "explanation": "(a) \\(9 \\cos x - 7 = 1 \\implies 9 \\cos x = 1 + 7 = 8\\)\n\\(\\cos x = \\frac{8}{9}\\)\n\\(x = \\cos^{-1} (0.8889)\\)\n\\(x = 27.26\u00b0\\)\n(b) \\(7x < 2x - 13\\)\n\\(7x - 2x < - 13\\)\n\\(5x < - 13\\)\n\\(x < \\frac{-13}{5}\\)\n\\([-2.6] = -3, -4, -5\\)\nNote : The greatest value function rounds up\u00a0a real number to an integer that is less or equal to the real number.",
+    "year": "2009"
+  },
+  {
+    "number": "120",
+    "text": "The table shows the number of children per family in a community.\n\n\n\nNo of children\n0\n1\n2\n3\n4\n5\n\n\nNo of families\n3\n5\n7\n4\n3\n2\n\n\n\n(a) Find the : (i) mode ; (ii) third quartile ; (iii) probability that a family has at least 2 children.\n(b) If a pie chart were to be drawn for the data, what would be the sectorial angle representing families with one child?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52856?exam_type=waec&type=theory&page=24",
+    "correct_answer": "(a) (i) Mode = 2\n(ii) Third quartile : Sum of frequency = 24\n\\(Q_{3} = \\frac{3}{4} \\times 24 = 18\\)\nThe 18th position falls at 3.\n(iii) P(at least 2 children) = \\(\\frac{7 + 4 + 3 + 2}{24}\\)\n= \\(\\frac{16}{24}\\)\n= \\(\\frac{2}{3}\\)\n(b) The sector for 1 child = \\(\\frac{5}{24} \\times 360\\)\n= \\(75\u00b0\\).",
+    "explanation": "(a) (i) Mode = 2\n(ii) Third quartile : Sum of frequency = 24\n\\(Q_{3} = \\frac{3}{4} \\times 24 = 18\\)\nThe 18th position falls at 3.\n(iii) P(at least 2 children) = \\(\\frac{7 + 4 + 3 + 2}{24}\\)\n= \\(\\frac{16}{24}\\)\n= \\(\\frac{2}{3}\\)\n(b) The sector for 1 child = \\(\\frac{5}{24} \\times 360\\)\n= \\(75\u00b0\\).",
+    "year": "2009"
+  },
+  {
+    "number": "121",
+    "text": "(a) Out of 30 candidates applying for a post, 17 have degrees, 15 have diplomas and 4 neither degree nor diploma. How many of them have both?\n(b) In triangle PQR, M and N are points on the side PQ and PR respectively such that MN is parallel to QR. If < PRQ = 75\u00b0, PN = QN and < PNQ = 125\u00b0, determine :\n(i) < NQR\u00a0 ; (ii) < NPM.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52860?exam_type=waec&type=theory&page=25",
+    "correct_answer": "(a) Let B represent those with degree.\nLet D represent those with diploma.\nLet\u00a0 x represent those who have both degree and diploma.\n(17 - x) + x + (15 - x) + 4 = 30\n36 - x = 30\nx = 36 - 30 = 6.\n(b)\n\\(< PNM = 75\u00b0\\) (corresponding angle)\n\\(\\therefore NQR = 125\u00b0 - 75\u00b0 \\)\n= \\(50\u00b0\\)\n\\(< NPM = \\frac{180\u00b0 - 125\u00b0}{2}\\)\n= \\(\\frac{55\u00b0}{2}\\)\n= \\(27.5\u00b0\\). (Base angles of an isosceles triangle).",
+    "explanation": "(a) Let B represent those with degree.\nLet D represent those with diploma.\nLet\u00a0 x represent those who have both degree and diploma.\n(17 - x) + x + (15 - x) + 4 = 30\n36 - x = 30\nx = 36 - 30 = 6.\n(b)\n\\(< PNM = 75\u00b0\\) (corresponding angle)\n\\(\\therefore NQR = 125\u00b0 - 75\u00b0 \\)\n= \\(50\u00b0\\)\n\\(< NPM = \\frac{180\u00b0 - 125\u00b0}{2}\\)\n= \\(\\frac{55\u00b0}{2}\\)\n= \\(27.5\u00b0\\). (Base angles of an isosceles triangle).",
+    "year": "2009"
+  },
+  {
+    "number": "122",
+    "text": "In the diagram, ABCDEF is a triangular prism. < ABC = < DEF = 90\u00b0, /AB/ = 24 cm, /BC/ = 7 cm and /CD/ = 40 cm. Calculate :\u00a0\n(a) /AC/ ;\u00a0\n(b) the total surface area of the prism.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52875?exam_type=waec&type=theory&page=25",
+    "correct_answer": "(a) From the diagram,\n\\(|AC|^{2} = 24^{2} + 7^{2}\\)\n= \\(576 + 49\\)\n\\(|AC|^{2} = 625 \\implies |AC| = \\sqrt{625} = 25 cm\\)\n\\(Area = \\frac{1}{2} \\times b \\times h\\)\n= \\(\\frac{7 \\times 24}{2}\\)\n= \\(84 cm^{2}\\).\n(b) Total Surface Area of prism\n= Area of two right angles ( ABC and EFD) + Area of 3 rectangles (ACDF, ABEF and BCDE)\n= \\(( 2 \\times 84 cm^{2}) + (25 \\times 40)cm^{2}\u00a0+ (24 \\times 40)cm^{2}\u00a0+ (7 \\times 40)cm^{2}\\)\n= \\((168 + 1000 + 960 + 280) cm^{2}\\)\n= \\(2408 cm^{2}\\)",
+    "explanation": "(a) From the diagram,\n\\(|AC|^{2} = 24^{2} + 7^{2}\\)\n= \\(576 + 49\\)\n\\(|AC|^{2} = 625 \\implies |AC| = \\sqrt{625} = 25 cm\\)\n\\(Area = \\frac{1}{2} \\times b \\times h\\)\n= \\(\\frac{7 \\times 24}{2}\\)\n= \\(84 cm^{2}\\).\n(b) Total Surface Area of prism\n= Area of two right angles ( ABC and EFD) + Area of 3 rectangles (ACDF, ABEF and BCDE)\n= \\(( 2 \\times 84 cm^{2}) + (25 \\times 40)cm^{2}\u00a0+ (24 \\times 40)cm^{2}\u00a0+ (7 \\times 40)cm^{2}\\)\n= \\((168 + 1000 + 960 + 280) cm^{2}\\)\n= \\(2408 cm^{2}\\)",
+    "year": "2009"
+  },
+  {
+    "number": "123",
+    "text": "(a) If \\(\\log 5 = 0.6990, \\log 7 = 0.8451\\) and \\(\\log 8 = 0.9031\\), evaluate \\(\\log (\\frac{35 \\times 49}{40 \\div 56})\\).\n(b) For a musical show, x children were present. There were 60 more adults than children. An adult paid D5 and a child D2. If a total of D1280 was collected, calculate the\u00a0\n(i) value of x ; (ii) ratio of the number of children to the number of adults ; (iii) average amount paid per person ; (iv) percentage gain if the organisers spent D720 on the show.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52876?exam_type=waec&type=theory&page=25",
+    "correct_answer": "(a) \\(\\log (\\frac{35 \\times 49}{40 \\div 56})\\)\nGiven \\(\\log 5 = 0.6990 , \\log 7 = 0.8451 , \\log 8 = 0.9031\\)\n\\(\\log (\\frac{35 \\times 49}{40 \\div 56} = \\log (\\frac{(7 \\times 5) \\times 7^{2}}{(8 \\times 5) \\div (8 \\times 7)}\\)\n= \\(\\log (\\frac{7^{3} \\times 5}{5 \\div 7}\\)\n= \\(\\log 7^{3} + \\log 5 - (\\log 5 - \\log 7)\\)\n= \\(3 \\log 7 + \\log 5 - \\log 5 + \\log 7\\)\n= \\(4 \\log 7\\)\n= \\(4 \\times 0.8471\\)\n= \\(3.3804\\)\n(b) (i) Since there are 60 more adults than children, then the number of adults = x + 60\n\\(\\therefore D 5(x + 60) + D x(2) = D 1280\\)\n\\(5x + 300 + 2x = 1280\\)\n\\(7x + 300 = 1280 \\implies 7x = 1280 - 300 = 980\\)\n\\(x = \\frac{980}{7} = 140\\)\nThere were 140 children.\n(ii) Ratio of children to adults = \\(x : x + 60\\)\n= \\(140 : (140 + 60)\\)\n= \\(140 : 200\\)\n= \\(7 : 10\\)\n(iii) Total number of persons at the show : 140 + 200 = 340 persons.\nTotal amount gotten = D 1280\nAverage paid per person = \\( D \\frac{1280}{340}\\)\n= \\(D \\frac{64}{17}\\)\n= D 3.765\n(iv) Percentage profit\nProfit : D (1280 - 720) = D 560\n% profit : \\(\\frac{560}{720} \\times 100% = \\frac{700}{9} %\\)\n= \\(77.78%\\)",
+    "explanation": "(a) \\(\\log (\\frac{35 \\times 49}{40 \\div 56})\\)\nGiven \\(\\log 5 = 0.6990 , \\log 7 = 0.8451 , \\log 8 = 0.9031\\)\n\\(\\log (\\frac{35 \\times 49}{40 \\div 56} = \\log (\\frac{(7 \\times 5) \\times 7^{2}}{(8 \\times 5) \\div (8 \\times 7)}\\)\n= \\(\\log (\\frac{7^{3} \\times 5}{5 \\div 7}\\)\n= \\(\\log 7^{3} + \\log 5 - (\\log 5 - \\log 7)\\)\n= \\(3 \\log 7 + \\log 5 - \\log 5 + \\log 7\\)\n= \\(4 \\log 7\\)\n= \\(4 \\times 0.8471\\)\n= \\(3.3804\\)\n(b) (i) Since there are 60 more adults than children, then the number of adults = x + 60\n\\(\\therefore D 5(x + 60) + D x(2) = D 1280\\)\n\\(5x + 300 + 2x = 1280\\)\n\\(7x + 300 = 1280 \\implies 7x = 1280 - 300 = 980\\)\n\\(x = \\frac{980}{7} = 140\\)\nThere were 140 children.\n(ii) Ratio of children to adults = \\(x : x + 60\\)\n= \\(140 : (140 + 60)\\)\n= \\(140 : 200\\)\n= \\(7 : 10\\)\n(iii) Total number of persons at the show : 140 + 200 = 340 persons.\nTotal amount gotten = D 1280\nAverage paid per person = \\( D \\frac{1280}{340}\\)\n= \\(D \\frac{64}{17}\\)\n= D 3.765\n(iv) Percentage profit\nProfit : D (1280 - 720) = D 560\n% profit : \\(\\frac{560}{720} \\times 100% = \\frac{700}{9} %\\)\n= \\(77.78%\\)",
+    "year": "2009"
+  },
+  {
+    "number": "124",
+    "text": "(a) A woman looking out from the window of a building at a height of 30m, observed that the angle of depression of the top of a flag pole was 44\u00b0. If the foot of the pole is 25m from the foot of the building and on the same horizontal ground, find, correct to the nearest whole number, the (i) angle of depression of the foot of the pole from the woman ; (ii) height of the flag pole.\n(b)\u00a0\u00a0In the diagram, O is the centre of the circle, < OQR = 32\u00b0 and < TPQ = 15\u00b0. Calculate, (i) < QPR ; (ii) < TQo.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52877?exam_type=waec&type=theory&page=25",
+    "correct_answer": "(a)\n(i) From \\(\\Delta\\) TFO,\n\\(\\tan x = \\tan \\theta\\) (alternate angles)\n\\(\\tan x = \\frac{25}{30} = 0.8333\\)\n\\(x = \\tan^{-1} (0.8333)\\)\n= \\(39.80\u00b0 \\approxeq 40\u00b0\\)\nAngle of depression of the pole from the woman\n= 90\u00b0 - 40\u00b0\n= 50\u00b0.\n(ii) From \\(\\Delta\\) TPQ,\n\\(\\tan 46 = \\frac{25}{TQ}\\)\n\\(TQ = \\frac{25}{\\tan 46}\\)\n\\(TQ = \\frac{25}{1.0355}\\)\n= \\(24.1429 m\\)\nHeight of the pole : \\(TF - TQ\\)\n= \\(30 m - 24.1429 m\\)\n= \\(5.8571 m\\)\n\\(\\approxeq 6m\\)",
+    "explanation": "(a)\n(i) From \\(\\Delta\\) TFO,\n\\(\\tan x = \\tan \\theta\\) (alternate angles)\n\\(\\tan x = \\frac{25}{30} = 0.8333\\)\n\\(x = \\tan^{-1} (0.8333)\\)\n= \\(39.80\u00b0 \\approxeq 40\u00b0\\)\nAngle of depression of the pole from the woman\n= 90\u00b0 - 40\u00b0\n= 50\u00b0.\n(ii) From \\(\\Delta\\) TPQ,\n\\(\\tan 46 = \\frac{25}{TQ}\\)\n\\(TQ = \\frac{25}{\\tan 46}\\)\n\\(TQ = \\frac{25}{1.0355}\\)\n= \\(24.1429 m\\)\nHeight of the pole : \\(TF - TQ\\)\n= \\(30 m - 24.1429 m\\)\n= \\(5.8571 m\\)\n\\(\\approxeq 6m\\)",
+    "year": "2009"
+  },
+  {
+    "number": "125",
+    "text": "The marks scored by 50 students in a Geography examination are as follows :\n60 54 40 67 53 73 37 55 62 43 44 69 39 32 45 58 48 67 39 51 46 59 40 52 61 48 23 60 59 47 65 58 74 47 40 59 68 51 50 50 71 51 26 36 38 70 46 40 51 42.\n(a) Using\u00a0class intervals 21 - 30, 31 - 40, ..., prepare a frequency distribution table.\n(b) Calculate the mean mark of the distribution.\n(c) What percentage of the students scored more than 60%?",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52880?exam_type=waec&type=theory&page=25",
+    "correct_answer": "(a)\nMarksfrequencymid-point\\(fx\\)21 - 30225.55131 - 401035.535541 - 501245.554651 - 601555.5832.561 - 70865.552471 - 80375.5226.5\\(\\sum\\)502535\n(b) Mean (x) = \\(\\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{2535}{50}\\)\n= \\(50.7\\)\n(c) Number of students that scored above 60% : 8 + 3 = 11\n%age : \\(\\frac{11}{50} \\times 100% = 22%\\)",
+    "explanation": "(a)\nMarksfrequencymid-point\\(fx\\)21 - 30225.55131 - 401035.535541 - 501245.554651 - 601555.5832.561 - 70865.552471 - 80375.5226.5\\(\\sum\\)502535\n(b) Mean (x) = \\(\\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{2535}{50}\\)\n= \\(50.7\\)\n(c) Number of students that scored above 60% : 8 + 3 = 11\n%age : \\(\\frac{11}{50} \\times 100% = 22%\\)",
+    "year": "2009"
+  },
+  {
+    "number": "126",
+    "text": "(a) Simplify \\(\\frac{x + 2}{x - 2} - \\frac{x + 3}{x - 1}\\)\n(b) The graph of the equation \\(y = Ax^{2} + Bx + C\\) passes through the point (0, 0), (1, 4) and (2, 10). Find the :\u00a0\n(i) value of C ; (ii) values of A and B ; (iii) co-ordinates of the other point where the graph cuts the x- axis.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52899?exam_type=waec&type=theory&page=26",
+    "correct_answer": "(a) \\(\\frac{x + 2}{x - 2} - \\frac{x + 3}{x - 1}\\)\n= \\(\\frac{(x - 1)(x + 2) - (x - 2)(x + 3)}{(x - 2)(x - 1)}\\)\n= \\(\\frac{x^{2} + 2x - x - 2 - (x^{2} + 3x - 2x - 6)}{(x - 2)(x - 1)}\\)\n= \\(\\frac{x^{2} - x^{2} + x - x - 2 + 6}{(x - 2)(x - 1)}\\)\n= \\(\\frac{4}{(x - 2)(x - 1)}\\)\n(b)\n(1, 4) and (2, 10) are supposed roots of the equation\nWhen x = 1, equation becomes \\(A(1)^{2} + B(1) = 4\\)\nWhen x = 2, \\(A(2^{2}) + B(2) = 10\\)\n\\(\\implies A + B = 4 ...... (1)\\)\n\\(4A + 2B = 10 ....... (2)\\)\nSolving for A and B, we have\nA = 1 and B = 3.\n(iii) \\(y = x^{2} + 3x\\)\n\\(y = x(x + 3)\\)\nx = 0 or x = 3.",
+    "explanation": "(a) \\(\\frac{x + 2}{x - 2} - \\frac{x + 3}{x - 1}\\)\n= \\(\\frac{(x - 1)(x + 2) - (x - 2)(x + 3)}{(x - 2)(x - 1)}\\)\n= \\(\\frac{x^{2} + 2x - x - 2 - (x^{2} + 3x - 2x - 6)}{(x - 2)(x - 1)}\\)\n= \\(\\frac{x^{2} - x^{2} + x - x - 2 + 6}{(x - 2)(x - 1)}\\)\n= \\(\\frac{4}{(x - 2)(x - 1)}\\)\n(b)\n(1, 4) and (2, 10) are supposed roots of the equation\nWhen x = 1, equation becomes \\(A(1)^{2} + B(1) = 4\\)\nWhen x = 2, \\(A(2^{2}) + B(2) = 10\\)\n\\(\\implies A + B = 4 ...... (1)\\)\n\\(4A + 2B = 10 ....... (2)\\)\nSolving for A and B, we have\nA = 1 and B = 3.\n(iii) \\(y = x^{2} + 3x\\)\n\\(y = x(x + 3)\\)\nx = 0 or x = 3.",
+    "year": "2009"
+  },
+  {
+    "number": "127",
+    "text": "(a) Using ruler and a pair of compasses only, construct : (i) quadrilateral PQRS such that /PQ/ = 10 cm, /QR/ = 8 cm, /PS/ = 6 cm, < PQR = 60\u00b0 and < QPS = 75\u00b0 ;\n(ii) the locus \\(l_{1}\\) of points equidistant from QR and RS ; (iii) locus \\(l_{2}\\) of points equidistant from R and S ;\n(b) Measure /RS/.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52910?exam_type=waec&type=theory&page=26",
+    "correct_answer": "(a)\n(b) /RS/ = 4.4 cm.",
+    "explanation": "(a)\n(b) /RS/ = 4.4 cm.",
+    "year": "2009"
+  },
+  {
+    "number": "128",
+    "text": "(a) A circle is inscribed in a square. If the sum of the perimeter of the square and the circumference of the circle is 100 cm, calculate the radius of the circle. [Take \\(\\pi = \\frac{22}{7}\\)].\n(b) A rope 60cm long is made to form a rectangle. If the length is 4 times its breadth, calculate, correct to one decimal place, the :\n(i) length ; (ii) diagonal of the rectangle.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52919?exam_type=waec&type=theory&page=26",
+    "correct_answer": "(a) Perimeter of a circle = \\(2\\pi r\\).\nLength of a side of square = 2r in terms of r.\nSum of perimeter of circle and square = \\((2 \\pi r) + (4 \\times 2r)\\)\n\\(2r (\\pi + 4) = 100\\)\n\\(r ( \\frac{22}{7} + 4 ) = 50\\)\n\\(r = 50 \\div \\frac{50}{7}\\)\n\\(r = 7 cm\\)\n(b) (i) L = \\(4 \\times breadth\\)\nB = breadth.\n60 cm = 2(4B + B)\n2(5B) = 60 cm\n\\(B = \\frac{60}{10} = 6 cm\\)\n\\(L = 4 \\times 6 = 24 cm\\).\n(ii)\nLet the diagonal be d.\n\\(d^{2} = 6^{2} + 24^{2}\\)\n\\(d^{2} = 36 + 576\\)\n\\(d^{2} = 612\\)\n\\(d = \\sqrt{612}\\)\n= \\(24.74 cm \\approxeq 24.7 cm\\).",
+    "explanation": "(a) Perimeter of a circle = \\(2\\pi r\\).\nLength of a side of square = 2r in terms of r.\nSum of perimeter of circle and square = \\((2 \\pi r) + (4 \\times 2r)\\)\n\\(2r (\\pi + 4) = 100\\)\n\\(r ( \\frac{22}{7} + 4 ) = 50\\)\n\\(r = 50 \\div \\frac{50}{7}\\)\n\\(r = 7 cm\\)\n(b) (i) L = \\(4 \\times breadth\\)\nB = breadth.\n60 cm = 2(4B + B)\n2(5B) = 60 cm\n\\(B = \\frac{60}{10} = 6 cm\\)\n\\(L = 4 \\times 6 = 24 cm\\).\n(ii)\nLet the diagonal be d.\n\\(d^{2} = 6^{2} + 24^{2}\\)\n\\(d^{2} = 36 + 576\\)\n\\(d^{2} = 612\\)\n\\(d = \\sqrt{612}\\)\n= \\(24.74 cm \\approxeq 24.7 cm\\).",
+    "year": "2009"
+  },
+  {
+    "number": "129",
+    "text": "(a) Copy and complete the table of values for \\(y = \\sin x + 2 \\cos x\\), correct to one decimal place.\n\n\n\nx\n0\u00b0\n30\u00b0\n60\u00b0\n90\u00b0\n120\u00b0\n150\u00b0\n180\u00b0\n210\u00b0\n\n240\u00b0\n\n\n\ny\n\u00a0\n2.2\n\u00a0\n\u00a0\n\u00a0\n-1.2\n-2.0\n\u00a0\n-1.9\n\n\n\n(b) Using a scale of 2 cm to 30\u00b0 on the x- axis and 2 cm to 0.5 units on the y- axis, draw the graph of \\(y = \\sin x + 2\\cos x\\) for \\(0\u00b0 \\leq x \\leq 240\u00b0\\).\n(c) Use your graph to solve the equation : (i) \\(\\sin x + 2 \\cos x = 0\\) ; (ii) \\(\\sin x = 2.1 - 2\\cos x\\).\n(d) From the graph, find y when x = 171\u00b0.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52924?exam_type=waec&type=theory&page=26",
+    "correct_answer": "(a)\nx0\u00b030\u00b060\u00b090\u00b0120\u00b0150\u00b0180\u00b0210\u00b0240\u00b0y2.02.21.91.0-0.1-1.2-2.0-2.2-1.9\n(b)\n(c) (i) x = 117\u00b0\u00a0 ; (ii) x = 9\u00b0 , 45\u00b0.\n(d) When x = 171\u00b0, y = -1.75.",
+    "explanation": "(a)\nx0\u00b030\u00b060\u00b090\u00b0120\u00b0150\u00b0180\u00b0210\u00b0240\u00b0y2.02.21.91.0-0.1-1.2-2.0-2.2-1.9\n(b)\n(c) (i) x = 117\u00b0\u00a0 ; (ii) x = 9\u00b0 , 45\u00b0.\n(d) When x = 171\u00b0, y = -1.75.",
+    "year": "2009"
+  },
+  {
+    "number": "130",
+    "text": "(a) How many numbers between 75 and 500 are divisible by 7?\n(b) The 8th term of an Arithmetic Progression (A.P) is 5 times the 3rd term while the 7th term is 9 greater than the 4th term. Write the first 5 terms of the A.P.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/mathematics/52930?exam_type=waec&type=theory&page=26",
+    "correct_answer": "(a)\u00a0In the set of numbers from 75, 76, 77, ... , 497, 498, 499, 500, you will find that the first term which is the first number divisible by 7 = 77 and the last term = 497.\nGiven the first and last terms of an A.P, you can use the formula\n\\(n = \\frac{l - a}{d} + 1\\) to find the number of terms in the sequence.\nFirst term = a = 77\nLast term = l = 497\nCommon difference = d = 7\n\\(n = \\frac{497 - 77}{7} + 1\\)\n\\(n = \\frac{420}{7} + 1\\)\n= \\(60 + 1\\)\n= 61.\nThere are 61 numbers between 75 and 500 which are divisible by 7.\n(b)\u00a0\\(T_{n} = a + (n - 1)d\\) (for an A.P)\n\\(T_{8} = a + 7d\\)\n\\(T_{3} = a + 2d\\)\n\\(\\implies a + 7d = 5(a + 2d)\\)\n\\(T_{7} = a + 6d\\)\n\\(T_{4} = a + 3d\\)\n\\(\\implies a + 6d = a + 3d + 9\\)\n\\(a + 7d = 5a + 10d \\implies 5a - a + 10d - 7d = 0\\)\n\\(4a + 3d = 0 ... (1)\\)\n\\(a + 6d = a + 3d + 9 \\implies a - a + 6d - 3d = 9\\)\n\\(3d = 9 \\implies d = 3\\)\nPutting d = 3 in (1),\n\\(4a + 3(3) = 0 \\implies 4a + 9 = 0\\)\n\\(4a = -9 \\implies a = \\frac{-9}{4}\\)\n\\(\\therefore\\) The second\u00a0term\u00a0of the\u00a0sequence = \\(\\frac{-9}{4} + 3 = \\frac{3}{4}\\)\nThird term = \\(\\frac{3}{4} + 3 = \\frac{15}{4}\\)\nFourth term = \\(\\frac{15}{4} + 3 = \\frac{27}{4}\\)\nFifth term = \\(\\frac{27}{4} + 3 = \\frac{39}{4}\\)\nThe first 5 terms of the sequence = \\(\\frac{-9}{4}, \\frac{3}{4}, \\frac{15}{4}, \\frac{27}{4}, \\frac{39}{4}\\)",
+    "explanation": "(a)\u00a0In the set of numbers from 75, 76, 77, ... , 497, 498, 499, 500, you will find that the first term which is the first number divisible by 7 = 77 and the last term = 497.\nGiven the first and last terms of an A.P, you can use the formula\n\\(n = \\frac{l - a}{d} + 1\\) to find the number of terms in the sequence.\nFirst term = a = 77\nLast term = l = 497\nCommon difference = d = 7\n\\(n = \\frac{497 - 77}{7} + 1\\)\n\\(n = \\frac{420}{7} + 1\\)\n= \\(60 + 1\\)\n= 61.\nThere are 61 numbers between 75 and 500 which are divisible by 7.\n(b)\u00a0\\(T_{n} = a + (n - 1)d\\) (for an A.P)\n\\(T_{8} = a + 7d\\)\n\\(T_{3} = a + 2d\\)\n\\(\\implies a + 7d = 5(a + 2d)\\)\n\\(T_{7} = a + 6d\\)\n\\(T_{4} = a + 3d\\)\n\\(\\implies a + 6d = a + 3d + 9\\)\n\\(a + 7d = 5a + 10d \\implies 5a - a + 10d - 7d = 0\\)\n\\(4a + 3d = 0 ... (1)\\)\n\\(a + 6d = a + 3d + 9 \\implies a - a + 6d - 3d = 9\\)\n\\(3d = 9 \\implies d = 3\\)\nPutting d = 3 in (1),\n\\(4a + 3(3) = 0 \\implies 4a + 9 = 0\\)\n\\(4a = -9 \\implies a = \\frac{-9}{4}\\)\n\\(\\therefore\\) The second\u00a0term\u00a0of the\u00a0sequence = \\(\\frac{-9}{4} + 3 = \\frac{3}{4}\\)\nThird term = \\(\\frac{3}{4} + 3 = \\frac{15}{4}\\)\nFourth term = \\(\\frac{15}{4} + 3 = \\frac{27}{4}\\)\nFifth term = \\(\\frac{27}{4} + 3 = \\frac{39}{4}\\)\nThe first 5 terms of the sequence = \\(\\frac{-9}{4}, \\frac{3}{4}, \\frac{15}{4}, \\frac{27}{4}, \\frac{39}{4}\\)",
+    "year": "2009"
+  }
+]

@@ -1,0 +1,940 @@
+[
+  {
+    "number": "867",
+    "text": "Evaluate \\((111_{two})^2\\) and leave your answer in base 2",
+    "options": {
+      "A": "\\(111001_{two}\\)",
+      "B": "\\(110001_{two}\\)",
+      "C": "\\(101001_{two}\\)",
+      "D": "\\(10010_{two}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26717?exam_type=waec&type=obj&page=174",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "868",
+    "text": "Find the LCM of \\(2^{3}\\times 3\\times 5^{2}, 2\\times 3^{2}\\times 5 \\hspace{1mm}and \\hspace{1mm}2^{2}\\times 3^{2}\\times 5\\)",
+    "options": {
+      "A": "\\(2^{2}\\times 3^{3}\\times 5^{2}\\)",
+      "B": "\\(2^{3}\\times 3^{23}\\times 5\\)",
+      "C": "\\(2^{2}\\times 3^{2}\\times 5^{2}\\)",
+      "D": "\\(2^{3}\\times 3^{3}\\times 5^{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26718?exam_type=waec&type=obj&page=174",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "869",
+    "text": "Simplify \\((0.3\\times 10^{5})\\div (0.4\\times 10^{7})\\)leaving your answer in standard form",
+    "options": {
+      "A": "\\(7.5\\times 10^{-4}\\)",
+      "B": "\\(7.5\\times 10^{-3}\\)",
+      "C": "\\(7.5\\times 10^{-2}\\)",
+      "D": "\\(7.5\\times 10^{-1}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26719?exam_type=waec&type=obj&page=174",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "870",
+    "text": "If \\(p\\propto \\frac{1}{q}\\), which of the following is true?",
+    "options": {
+      "A": "\\(\\propto p^{2}\\)",
+      "B": "\\(p\\propto \\frac{1}{q^{2}}\\)",
+      "C": "\\(q\\propto \\sqrt{p}\\)",
+      "D": "\\(q\\propto \\frac{1}{p}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26720?exam_type=waec&type=obj&page=174",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "871",
+    "text": "Simplify \\(3\\sqrt{45}-12\\sqrt{5}+16\\sqrt{20}\\)leaving your answer in surd form",
+    "options": {
+      "A": "\\(29\\sqrt{5}\\)",
+      "B": "\\(14\\sqrt{15}\\)",
+      "C": "\\(12\\sqrt{15}\\)",
+      "D": "\\(11\\sqrt{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26721?exam_type=waec&type=obj&page=175",
+    "correct_answer": "A",
+    "explanation": "\\(3\\sqrt{45}-12\\sqrt{5}+16\\sqrt{20}\\)3\\(\\sqrt{5\\times 9}-12\\sqrt{5}+16\\sqrt{4\\times 5}\\)3\\(\\times 3\\sqrt{5}-12\\sqrt{5}+16\\times 2\\sqrt{5}\\)9\\(\\sqrt{5}-12\\sqrt{5}+32\\sqrt{5}\\)29\\(\\sqrt{5}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "872",
+    "text": "Which of the following is true for the set \\(P = \\{-3.2\\leq x< 5\\}\\) where x is an integer",
+    "options": {
+      "A": "least value of x is -3.2",
+      "B": "least value of x is -3",
+      "C": "greatest value of x is 4.9",
+      "D": "greatest value of x is 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26722?exam_type=waec&type=obj&page=175",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "873",
+    "text": "Simplify\\(\\frac{3x^{3}}{(3x)^{3}}\\)",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{1}{9}\\)",
+      "D": "\\(\\frac{1}{27}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26723?exam_type=waec&type=obj&page=175",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "874",
+    "text": "N140,000 is shared between ABU, Kayode and Uche. Abu has twice as much as Kayode, and Kayode has twice as much as Uche. What is Kayode's share?",
+    "options": {
+      "A": "N80,000",
+      "B": "N40,000",
+      "C": "N20,000",
+      "D": "N10,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26724?exam_type=waec&type=obj&page=175",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "875",
+    "text": "I am x years old and my brother is 3 years older. How old was my brother last year",
+    "options": {
+      "A": "(x - 4) years",
+      "B": "(x + 2) years",
+      "C": "(3x - 1) years",
+      "D": "(3x + 1) years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26725?exam_type=waec&type=obj&page=175",
+    "correct_answer": "B",
+    "explanation": "If I\u00a0am x years old, then my brother will be (x + 3)years old\nthen last year my brother was (x + 3) - 1 = (x + 2)years old",
+    "year": "2007"
+  },
+  {
+    "number": "876",
+    "text": "For what value of x is the expression \\(\\frac{2x-1}{x+3}\\)not defined?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1/2",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26726?exam_type=waec&type=obj&page=176",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "877",
+    "text": "If x =3, y = 2 and z = 4 what is the value of \\(3x^{2}-2y+z\\)",
+    "options": {
+      "A": "17",
+      "B": "27",
+      "C": "35",
+      "D": "71"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26727?exam_type=waec&type=obj&page=176",
+    "correct_answer": "B",
+    "explanation": "3x\\(^2\\)\u00a0- 2 y + z\n= 3(3)\\(^{2}\\) - 2(2) + 4\n= 27 - 4\u00a0 +4 =27",
+    "year": "2007"
+  },
+  {
+    "number": "878",
+    "text": "Solve the simultaneous equation: x+y=2 and 3x-2y=1",
+    "options": {
+      "A": "x=2 and y=1",
+      "B": "x=1 and y=1",
+      "C": "x=1 and y=2",
+      "D": "x=-1 and y=1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26728?exam_type=waec&type=obj&page=176",
+    "correct_answer": "B",
+    "explanation": "x + y = 2 --- eqn I3x - 2y = 1 --- eqn IIMultiply eqn I\u00a0by 22x + 2y = 4\u00a0--- eqn IIIadd eqn II to\u00a0eqn III5x = 5 => x = 1Substitute 1 for x in eqn I1 + y = 2 => y = 1",
+    "year": "2007"
+  },
+  {
+    "number": "879",
+    "text": "If \\(8^{x+1}=\\frac{1}{4}\\), find x",
+    "options": {
+      "A": "\\(-\\frac{5}{3}\\)",
+      "B": "-1",
+      "C": "\\(-\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26729?exam_type=waec&type=obj&page=176",
+    "correct_answer": "A",
+    "explanation": "\\(8^{x+1}=\\frac{1}{4}\\\\2^{3(x+1)}=2^{-2}\\Rightarrow 3(x+1)=-2\\Rightarrow 3x+3=-2\\\\3x=-5\\Rightarrow x = -\\frac{5}{3}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "880",
+    "text": "The area of a square field is 110.25m2. Find the cost of fencing it round at N75.00 per meter square",
+    "options": {
+      "A": "N1,575.00",
+      "B": "N3,150.00",
+      "C": "N4,734.30",
+      "D": "N8,268.75"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26730?exam_type=waec&type=obj&page=176",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "881",
+    "text": "A chord of length 6cm is drawn in a circle of radius 5cm. Find the distance of the chord from the center of the circle",
+    "options": {
+      "A": "2.5cm",
+      "B": "3.0cm",
+      "C": "3.5cm",
+      "D": "4.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26731?exam_type=waec&type=obj&page=177",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "882",
+    "text": "A sector of a circle of radius 14cm containing an angle 60o is folded to form a cone. Calculate the radius of the base of the cone.",
+    "options": {
+      "A": "\\(5\\frac{1}{2}cm\\)",
+      "B": "\\(4\\frac{2}{3}cm\\)",
+      "C": "\\(3\\frac{1}{2}cm\\)",
+      "D": "\\(2\\frac{1}{3}cm\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26732?exam_type=waec&type=obj&page=177",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "883",
+    "text": "IN the diagram, |LN| = 4cm, LNM = 90o and tan y = 2/3. What is the area of the \u2206LMN?",
+    "options": {
+      "A": "24cm2",
+      "B": "12cm2",
+      "C": "10cm2",
+      "D": "6cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26733?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "930",
+    "text": "Evaluate(111two)\\(^2\\) and leave your answer in base 2.",
+    "options": {
+      "A": "111001two",
+      "B": "110001two",
+      "C": "101001two",
+      "D": "10010two"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36226?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "(111two)\\(^2\\) change to base 10\n(111two)\\(^2\\) = 1 x 2\\(^2\\) + 1 x 2\\(^1\\) + 1 x 2\\(^0\\) = 4 + 2 + 1 = 7\n(111two)\\(^2\\) = 7\\(^2\\) = 49 in base 10\nconvert 49 in base 10 to base 2\n249224 R 1212 R 026 R 023 R 021 R 120 R 1\nTherefore\u00a0(111two)\\(^2\\) = 110001\\(_2\\)\nOr solve by direct multiplication.",
+    "year": "2007"
+  },
+  {
+    "number": "931",
+    "text": "Find the LCM of 23 x 3 x 52, 2 x 32 x 5 and 23 x 33 x 5",
+    "options": {
+      "A": "22 x 33 x 52",
+      "B": "23 x 33 x 5",
+      "C": "22 x 32 x 52",
+      "D": "23 x 33 x 52"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36227?exam_type=waec&type=obj&page=187",
+    "correct_answer": "D",
+    "explanation": "3\n2\n2\n2\n3\n2\n3\n2",
+    "year": "2007"
+  },
+  {
+    "number": "932",
+    "text": "Simplify(0.3 x 105) \\(\\div\\) (0.4 \\(\\times\\) 107), leaving you answer in the standard form.",
+    "options": {
+      "A": "7.5 x 10-4",
+      "B": "7.5 x 10-3",
+      "C": "7.5 x 10-2",
+      "D": "7.5 x 10-1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36231?exam_type=waec&type=obj&page=187",
+    "correct_answer": "B",
+    "explanation": "4-6\n-2\n-3",
+    "year": "2007"
+  },
+  {
+    "number": "933",
+    "text": "If p \\(\\alpha \\frac{I}{Q}\\) which of the following is true?",
+    "options": {
+      "A": "q \\(\\alpha p^2\\)",
+      "B": "q \\(\\alpha \\frac{1}{p^2}\\)",
+      "C": "q \\(\\alpha \\sqrt{p}\\)",
+      "D": "q \\(\\alpha \\frac{1}{p}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36232?exam_type=waec&type=obj&page=187",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "934",
+    "text": "Simplify 3\\(\\sqrt{45} - 12\\sqrt{5} + 16\\sqrt{20}\\), leaving your answer in surd form.",
+    "options": {
+      "A": "29\\(\\sqrt{5}\\)",
+      "B": "14\\(\\sqrt{15}\\)",
+      "C": "12\\(\\sqrt{15}\\)",
+      "D": "11\\(\\sqrt{15}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36233?exam_type=waec&type=obj&page=187",
+    "correct_answer": "A",
+    "explanation": "3 \\(\\sqrt{45} - 12\\sqrt{5} + 16\\sqrt{20}\\)= 3 x \\(\\sqrt{9 \\times 5} - 12 \\times \\sqrt{5} + 16 \\times \\sqrt{4 \\times 5}\\)= 3 x 3 x \\(\\sqrt{5} - 12 \\times \\sqrt{5} + 16 \\times 2 \\times \\sqrt{5}\\)= 9\\(\\sqrt{5} - 2 \\sqrt{5} + 32 \\sqrt{5}\\)= 9\\(\\sqrt{5} + 32\\sqrt{5} - 12\\sqrt{5}\\)= 29\\(\\sqrt{5}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "935",
+    "text": "Which of the following statement is true for the ste P = {-3.2 \\(\\leq\\) x < 5} where x is an integer?",
+    "options": {
+      "A": "least value of x is -3.2",
+      "B": "least value of x is -3",
+      "C": "greatest value of x is 4.9",
+      "D": "greatest value of x is 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36234?exam_type=waec&type=obj&page=187",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "936",
+    "text": "Simplify \\(\\frac{3x^3}{(3x)^3}\\)",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{1}{9}\\)",
+      "D": "\\(\\frac{1}{27}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36235?exam_type=waec&type=obj&page=188",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "937",
+    "text": "N140,000 is shared between Abu, Kayode and Uche. Abu has twice as much as Kayode and Kayode has twice as much as Uche. What is Kayode'sshare?",
+    "options": {
+      "A": "N80,000",
+      "B": "N40,000",
+      "C": "N2,000",
+      "D": "10,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36236?exam_type=waec&type=obj&page=188",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "938",
+    "text": "I am x years old and my brother is 3 years older. How old was my brother last year?",
+    "options": {
+      "A": "(x - 4)years",
+      "B": "(x + 2) years",
+      "C": "(3x - 10years",
+      "D": "(3x + 1)years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36237?exam_type=waec&type=obj&page=188",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "939",
+    "text": "For what value of x is the expression \\(\\frac{2x - 1}{x + 3}\\) not defined?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36238?exam_type=waec&type=obj&page=188",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "940",
+    "text": "If x = 3, Y = 2 and z = 4, what is the value of 3x2 - 2y + z?",
+    "options": {
+      "A": "17",
+      "B": "27",
+      "C": "35",
+      "D": "71"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36241?exam_type=waec&type=obj&page=188",
+    "correct_answer": "B",
+    "explanation": "2\n2",
+    "year": "2007"
+  },
+  {
+    "number": "941",
+    "text": "Solve the simultaneous equations x + y = 2 and 3x - 2y = 1",
+    "options": {
+      "A": "x = 2 and y = 1",
+      "B": "x = 1 and y = 1",
+      "C": "x = 1 and y = 2",
+      "D": "x = -1 and y = 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36242?exam_type=waec&type=obj&page=189",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "942",
+    "text": "If 8x-1 = \\(\\frac{1}{4}\\), find x",
+    "options": {
+      "A": "-\\(\\frac{-5}{3}\\)",
+      "B": "-1",
+      "C": "-\\(\\frac{1}{3}\\)",
+      "D": "\\(\\frac{1}{3}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36244?exam_type=waec&type=obj&page=189",
+    "correct_answer": "D",
+    "explanation": "x-1\n3(x - 1\n-2",
+    "year": "2007"
+  },
+  {
+    "number": "943",
+    "text": "A chord of length 6cm is drawn in a circle of radius 5cm. Find the distance of the chord from the centre of the circle.",
+    "options": {
+      "A": "2.5cm",
+      "B": "3.0cm",
+      "C": "3.5cm",
+      "D": "4.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36263?exam_type=waec&type=obj&page=189",
+    "correct_answer": "D",
+    "explanation": "Distance(d) = d\\(^2\\) = 5\\(^2\\) - 3\\(^2\\)= 25 - 9 = 16d = \\(\\sqrt{16}\\) = 4cm",
+    "year": "2007"
+  },
+  {
+    "number": "944",
+    "text": "The area of a square field is 110.25m2. Find the cost of fencing it round at N75.00 per metre",
+    "options": {
+      "A": "N1,575.00",
+      "B": "N3,150.00",
+      "C": "N4,734.30",
+      "D": "N8,268.75"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36265?exam_type=waec&type=obj&page=189",
+    "correct_answer": "B",
+    "explanation": "2\n2",
+    "year": "2007"
+  },
+  {
+    "number": "945",
+    "text": "A sector of a circle of radius 14cm containing an angle 60o is folded to form a cone. Calculate the radius of the base of the cone",
+    "options": {
+      "A": "5\\(\\frac{1}{2}cm\\)",
+      "B": "4\\(\\frac{2}{3}cm\\)",
+      "C": "3\\(\\frac{1}{2}cm\\)",
+      "D": "2\\(\\frac{1}{3}cm\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36268?exam_type=waec&type=obj&page=189",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "946",
+    "text": "Find the volume of a solid cylinder with base radius 10cm and height 14cm.",
+    "options": {
+      "A": "2203",
+      "B": "880cm3>",
+      "C": "1400cm3",
+      "D": "4400cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36270?exam_type=waec&type=obj&page=190",
+    "correct_answer": "D",
+    "explanation": "3",
+    "year": "2007"
+  },
+  {
+    "number": "947",
+    "text": "Each of the interior angle of a regular polygon is 162o. How many sides has the polygon?",
+    "options": {
+      "A": "8",
+      "B": "12",
+      "C": "16",
+      "D": "20"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36271?exam_type=waec&type=obj&page=190",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "948",
+    "text": "In a , < PQR = < PRQ = 45o. which of the following statements is/are correct? i. \\(\\bigtriangleup\\)PQR is an equalateral triangle ii. \\(\\bigtriangleup\\)PQR is an isosceles triangle iii. \\(\\bigtriangleup\\)PQR is a right-angled triangle",
+    "options": {
+      "A": "ii only",
+      "B": "i and ii only",
+      "C": "ii and iii only",
+      "D": "i and ii only"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36272?exam_type=waec&type=obj&page=190",
+    "correct_answer": "C",
+    "explanation": "Statement ii:\u00a0\u25b3PQR is an isosceles triangle.This statement is correct. Since two angles are equal (45\u00ba\u00a0), the triangle must have at least two equal sides.Statement iii:\u00a0\u25b3PQR is a right-angled triangle.This statement is correct. The sum of the angles in a triangle is\u00a0180\u00baTherefore, the third angle\u00a0\u2220QRP can be calculated as:\u00a0\u2220QRP = 180\u00ba \u2212(45\u00ba + 45\u00ba ) = 90\u00ba",
+    "year": "2007"
+  },
+  {
+    "number": "949",
+    "text": "The table above gives the distribution of the marks of a number of students in a test.\n\\(\\begin{array}{c|c} Mark &1 & 2 & 3 & 4 & 5 & 6 \\\\ \\hline Frequency & 5 & 3 & 6 & 4 & 2 & 5\\end{array}\\), find the mode of the distribution.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36273?exam_type=waec&type=obj&page=190",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "950",
+    "text": "If the probability of an event occurring is x, what is the probability of the event not occurring?",
+    "options": {
+      "A": "1 - x",
+      "B": "x - 1",
+      "C": "0",
+      "D": "\\(\\frac{1}{x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36275?exam_type=waec&type=obj&page=190",
+    "correct_answer": "A",
+    "explanation": "1\n1\n1\n1",
+    "year": "2007"
+  },
+  {
+    "number": "951",
+    "text": "The table shows the ages(in years) of twenty children chosen at random from a community. What is the mean age? \\(\\begin{array}{c|c} Age(years) & 1 & 2 & 3 & 4 & 5 \\\\ \\hline {\\text {Number of children}} & 2 & 3 & 5 & 6 & 4 \\end{array}\\)",
+    "options": {
+      "A": "4.46 years",
+      "B": "3.35 years",
+      "C": "3.30years",
+      "D": "3.00 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36276?exam_type=waec&type=obj&page=191",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "952",
+    "text": "The table shows the ages(in years) of twenty children chosen at random from a community. What is the median of the distribution? \\(\\begin{array}{c|c} Age(years) & 1 & 2 & 3 & 4 & 5 \\\\ \\hline {\\text {Number of children}} & 2 & 3 & 5 & 6 & 4 \\end{array}\\)",
+    "options": {
+      "A": "3.5 years",
+      "B": "3.0 years",
+      "C": "2.5 years",
+      "D": "2.0 years"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36277?exam_type=waec&type=obj&page=191",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "953",
+    "text": "Divide the sum of 8, 6, 7, 2, 0, 4, 7, 2, 3, by their mean",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "7",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36279?exam_type=waec&type=obj&page=191",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "954",
+    "text": "Q is 32 km away from P on a bearing 042o and R is 25km from P on a bearing of 132o. Calculate the bearing of R from Q.",
+    "options": {
+      "A": "122o",
+      "B": "184o",
+      "C": "190o",
+      "D": "226o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36280?exam_type=waec&type=obj&page=191",
+    "correct_answer": "B",
+    "explanation": "\u25b3PQR is a right-angle triangle\n/QR/\\(^2\\) = 32\\(^2\\) + 25\\(^2\\) = 1024 + 625 = 1649\n/QR/ = \\(\\sqrt{1649}\\) = 40.6Km\nLet < PQR =\u00a0\u03b8\n\\(\\frac{25}{sin \u03b8}\\) = \\(\\frac{40.6}{sin 90}\\)\nSin\u00a0\u03b8 = \\(\\frac{25 Sin 90}{40.6}\\) = 38\u00ba\nBearing of R from Q = 270 - (48 + 38) = 184\u00ba",
+    "year": "2007"
+  },
+  {
+    "number": "955",
+    "text": "The bearing of a point P from another point Q is 310o. If |PQ| = 200m, how far west of Q is P?",
+    "options": {
+      "A": "128.6m",
+      "B": "153.2m",
+      "C": "167.8m",
+      "D": "187.9m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36281?exam_type=waec&type=obj&page=191",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "956",
+    "text": "Find the value of a if log\\(_{10}\\) a + log\\(_{10}\\)a\\(^2\\) = 0.9030",
+    "options": {
+      "A": "4.0",
+      "B": "2.0",
+      "C": "1.6",
+      "D": "0.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36283?exam_type=waec&type=obj&page=192",
+    "correct_answer": "B",
+    "explanation": "log\\(_{10}\\) a + log\\(_{10}\\)a\\(^2\\) = 0.9030log (a x a\\(^2\\)) = 0.9030log a\\(^3\\) = 0.9030a\\(^3\\) = 10^.9030(antilogarithm table)a\\(^3\\) = 7.998a = 3\\(\\sqrt{7.998}\\)a = 1.9998 \u2248 2.0",
+    "year": "2007"
+  },
+  {
+    "number": "957",
+    "text": "A messenger was paid N2.50 an hour during the normal working hours and 4.00 n hour during overtime. If he received N31.00 for 10 hours work, how many hours are for overtime?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36284?exam_type=waec&type=obj&page=192",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "958",
+    "text": "At what rate per cent per annum will N520.00 yield a simple interest of N39.00 in three years?",
+    "options": {
+      "A": "4%",
+      "B": "3\\(\\frac{1}{2}\\)%",
+      "C": "3%",
+      "D": "2\\(\\frac{1}{2}\\)%"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36286?exam_type=waec&type=obj&page=192",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "959",
+    "text": "PQR is an equilateral triangle with sides 2\\(\\sqrt{3cm}\\). calculate its height",
+    "options": {
+      "A": "1.7cm",
+      "B": "3.0cm",
+      "C": "3.2cm",
+      "D": "3.9cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36287?exam_type=waec&type=obj&page=192",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2",
+    "year": "2007"
+  },
+  {
+    "number": "960",
+    "text": "Which of the following is a factor of 2 - x - x2?",
+    "options": {
+      "A": "1 - x",
+      "B": "1 + x",
+      "C": "x - 1",
+      "D": "2 - x"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36288?exam_type=waec&type=obj&page=192",
+    "correct_answer": "A",
+    "explanation": "2\n2",
+    "year": "2007"
+  },
+  {
+    "number": "961",
+    "text": "make w the subject of the relation \\(\\frac{a + bc}{wd + f}\\) = g",
+    "options": {
+      "A": "\\(\\frac{a + bc - fg}{dg}\\)",
+      "B": "\\(\\frac{a - bc + fg}{dg}\\)",
+      "C": "\\(\\frac{a + bc - f}{dg}\\)",
+      "D": "\\(\\frac{a + bc - dg}{dg}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36289?exam_type=waec&type=obj&page=193",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "962",
+    "text": "For what range of values of x is 4x - 3(2x - 1) > 1?",
+    "options": {
+      "A": "x > -1",
+      "B": "x > 1",
+      "C": "x < 1",
+      "D": "x < -1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36290?exam_type=waec&type=obj&page=193",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "963",
+    "text": "Find the smallest value of k such that 2\\(^2\\) x 3\\(^3\\) x\u00a05 x k is a perfect square.",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "15",
+      "D": "30"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36291?exam_type=waec&type=obj&page=193",
+    "correct_answer": "C",
+    "explanation": "2\\(^2\\) x 3\\(^3\\) x 5\\(^1\\) x k;\n2\\(^2\\) x 3\\(^2\\) x 3 x 5 x k\n2\\(^2\\) x 3\\(^2\\) x 15 x k\nsmallest value for k\n2\\(^2\\) x 3\\(^2\\) x 15 = 2\\(^2\\) x 3\\(^2\\) x 15\\(^2\\)\nk = 15",
+    "year": "2007"
+  },
+  {
+    "number": "964",
+    "text": "Expand the expression(3a - xy)(3a + xy)",
+    "options": {
+      "A": "9a2 - x2y2",
+      "B": "9a2 + x2y2",
+      "C": "9a2 - xy",
+      "D": "9a2 + x2y"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36292?exam_type=waec&type=obj&page=193",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2",
+    "year": "2007"
+  },
+  {
+    "number": "965",
+    "text": "Simplify \\(\\frac{4}{2x} - \\frac{2x + x}{x}\\)",
+    "options": {
+      "A": "-1",
+      "B": "-2x",
+      "C": "2x",
+      "D": "\\(\\frac{2 - x}{2x}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36293?exam_type=waec&type=obj&page=193",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{4}{2x} - \\frac{2 + x}{x} = \\frac{4 - 2(2 + x)}{2x}\\)= \\(\\frac{4 - 4 - 2x}{2x} = \\frac{-2x}{2x}\\)= -1",
+    "year": "2007"
+  },
+  {
+    "number": "966",
+    "text": "Two circles have radii 16cm and 23cm. What is the difference between their circumference? take \\(\\pi = \\frac{22}{7}\\)",
+    "options": {
+      "A": "422.92cm",
+      "B": "149.92cm",
+      "C": "44.00cm",
+      "D": "43.96cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36294?exam_type=waec&type=obj&page=194",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "967",
+    "text": "The volume of a cylinder is 1200cm3 and the area of its base is 150cm2. Find the height of the cylinder.",
+    "options": {
+      "A": "80.00cm",
+      "B": "8.00cm",
+      "C": "0.80cm",
+      "D": "0.08cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36295?exam_type=waec&type=obj&page=194",
+    "correct_answer": "B",
+    "explanation": "Vol. of cylinder = \\(\\pi r^2h\\) = 1200cm2Area of base = \\(\\pi(r^2)\\)\u00a0= 150cm2h = \\(\\frac{\\text{volume of cylinder}}{\\text{base area}} = \\frac{1200}{150}\\)= 8.00cm",
+    "year": "2007"
+  },
+  {
+    "number": "968",
+    "text": "In the diagram |LN| = 4cm, LNM = 90o and tan y = \\(\\frac{2}{3}\\). What is the area of the \\(\\bigtriangleup\\)LMN?",
+    "options": {
+      "A": "24cm2",
+      "B": "12cm2",
+      "C": "10cm2",
+      "D": "6cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36296?exam_type=waec&type=obj&page=194",
+    "correct_answer": "B",
+    "explanation": "3",
+    "year": "2007"
+  },
+  {
+    "number": "969",
+    "text": "From the diagram, find the value of x in the diagram.",
+    "options": {
+      "A": "80o",
+      "B": "70o",
+      "C": "55o",
+      "D": "35o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36297?exam_type=waec&type=obj&page=194",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no",
+    "year": "2007"
+  },
+  {
+    "number": "970",
+    "text": "In the diagram, |SP| = |SR| and < PRS = 50o. Calculate < PQR",
+    "options": {
+      "A": "120o",
+      "B": "110o",
+      "C": "100o",
+      "D": "80o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36298?exam_type=waec&type=obj&page=194",
+    "correct_answer": "C",
+    "explanation": "o\no\no",
+    "year": "2007"
+  },
+  {
+    "number": "971",
+    "text": "Find the value of x in the diagram",
+    "options": {
+      "A": "281o",
+      "B": "269o",
+      "C": "201o",
+      "D": "179o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36299?exam_type=waec&type=obj&page=195",
+    "correct_answer": "A",
+    "explanation": "From the diagram above, a = 180\u00ba - 85\u00ba - 45\u00ba = 50\u00ba ( sum of <s on a straight line)\nb = 50\u00ba( vertically opp. <s)\n85\u00ba = c + 34\u00ba ( corresponding <s), so c = 85\u00ba - 34\u00ba = 51\u00ba\nd = 180\u00ba - 50\u00ba - 51\u00ba = 79\u00ba ( sum of <s in a triangle)\nx = 360\u00ba - 79\u00ba = 281\u00ba ( <s at a point)",
+    "year": "2007"
+  },
+  {
+    "number": "972",
+    "text": "The venn diagram shows the choice of food of a number of visitors to a canteen. If there were 35 visitors in all, find the value of x",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36300?exam_type=waec&type=obj&page=195",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "973",
+    "text": "The venn diagram shows the choice of food of a number of visitors to a canteen. How many people took at least two kinds of food?\u00a0\u00a0If there were 35\u00a0visitors\u00a0in all",
+    "options": {
+      "A": "10",
+      "B": "12",
+      "C": "15",
+      "D": "17"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36301?exam_type=waec&type=obj&page=195",
+    "correct_answer": "D",
+    "explanation": "at least 2 kinds of foodtwo or more foodsi.e(R and p) + (p and Y) + (y and R) + R and y andp = 6 + 2 + 4 + 5 = 17",
+    "year": "2007"
+  },
+  {
+    "number": "974",
+    "text": "If the ratio x:y = 3:5 and y:z = 4:7, find the ratio x:y:z",
+    "options": {
+      "A": "15 : 28 : 84",
+      "B": "12 : 20 : 35",
+      "C": "3 : 5 : 4",
+      "D": "5 : 4 : 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36302?exam_type=waec&type=obj&page=195",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "975",
+    "text": "In the diagram, O is the centre of the circle and < PQR = 106\u00ba, find the value of y",
+    "options": {
+      "A": "16",
+      "B": "37",
+      "C": "74",
+      "D": "127"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36303?exam_type=waec&type=obj&page=195",
+    "correct_answer": "C",
+    "explanation": "2y + Reflex angle = 360Reflex angle = 360 - 2y360 - 2y = 2(106)(angles at a centre = 2ce < of circum.)360 - 212 = 2y148 = 2yy \\(\\frac{148}{2}\\)y = 74o",
+    "year": "2007"
+  },
+  {
+    "number": "976",
+    "text": "In the diagram, |XR| = 4cm \n\n|RZ| = 12cm, |SR| = n, |XZ| = m and SR||YZ. Find m in terms of n",
+    "options": {
+      "A": "m = 2n",
+      "B": "m = 3n",
+      "C": "m = 4n",
+      "D": "m = 5n"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36304?exam_type=waec&type=obj&page=196",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "977",
+    "text": "In the diagram, O is the centre of the circle and PQ is a diameter. Triangle RSO is an equilateral triangle of side 4cm. Find the area of the shaded region",
+    "options": {
+      "A": "43.36cm2",
+      "B": "32.072",
+      "C": "18.212",
+      "D": "6.932"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36305?exam_type=waec&type=obj&page=196",
+    "correct_answer": "C",
+    "explanation": "Area of shaded portion = Area of semicircleArea of \\(\\bigtriangleup\\) RSOArea of semicircle = \\(\\frac {\\pi r^2}{2} = \\frac{22\\times 4 \\times 4}{7 \\times 2}\\)= 25.14cm2; Area of \\(\\bigtriangleup\\)RSO=\\(\\sqrt{s(s - 1)(s - b)(s - c)}\\); wheres = \\(\\frac{a + b + c}{2}\\)s = \\(\\frac{4 + 4 + 4}{2}\\)= 6cm= \\(\\sqrt{6(6 - 4)(6 - 4) (6 - 4)}\\)= \\(\\sqrt{6(2) (2) (2)}\\)= \\(\\sqrt{18}\\) = 6.93cm2Area of shaded region= 25.14 - 6.93= 18.21cm2",
+    "year": "2007"
+  },
+  {
+    "number": "980",
+    "text": "Find the product of 0.0409 and 0.0021 leaving your answer in the standard form",
+    "options": {
+      "A": "8.6 x 10-6",
+      "B": "8.6 x 105",
+      "C": "8.6 x 10-4",
+      "D": "8.6 x 10-5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36325?exam_type=waec&type=obj&page=196",
+    "correct_answer": "D",
+    "explanation": "0.0409 x 0.0021 = 409 x 10\\(^{-4}\\) x 21 x 10\\(^{-4}\\)= 409 x 21 x 10\\(^{-4 * -4}\\)= 8589 x 10\\(^{-8}\\)= 8.589 x 10\\(^{3}\\)\u00a0x 10\\(^{-8}\\)= 8.6 x 10\\(^{3-8}\\)= 8.6 x 10\\(^{-5}\\)",
+    "year": "2007"
+  },
+  {
+    "number": "983",
+    "text": "Convert 425 to base three numeral",
+    "options": {
+      "A": "2013",
+      "B": "2103",
+      "C": "2113",
+      "D": "3433"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/36328?exam_type=waec&type=obj&page=197",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  }
+]

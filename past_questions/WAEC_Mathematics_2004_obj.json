@@ -1,0 +1,703 @@
+[
+  {
+    "number": "770",
+    "text": "1. Evaluate \\( 202^2_{three} - 112^2_{three}\\)",
+    "options": {
+      "A": "21120",
+      "B": "21121",
+      "C": "21112",
+      "D": "21011"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26617?exam_type=waec&type=obj&page=154",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "771",
+    "text": "If \\(y = 23_{five} + 101_{three}\\), find y, leaving your answer in base two",
+    "options": {
+      "A": "1110",
+      "B": "10111",
+      "C": "11101",
+      "D": "111100"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26618?exam_type=waec&type=obj&page=155",
+    "correct_answer": "B",
+    "explanation": "\\(23_{five} = X_{ten}; X_{ten}\\) = 2\\(\\times 5^1 + 3\\times 5^0 = 10 + 3 = 13\\)101\\(_{three}\\) = P\\(_{ten}\\); P\\(_{ten}\\) = 1\\(\\times 3^2 + 0\\times 3^1 + 1\\times 3^0 = 9 + 0 + 1 = 10_{ten}\\)Y = 13+10=23\\(_{ten}\\);Converting to base two\\(\\begin{matrix}2 & 23\\\\2 & 11 &R1\\\\2 & 5 & R1\\\\2 & 2 & R1\\\\2 & 1 & R0\\\\& 0& R1 \\uparrow\\\\\\end{matrix}\\)= y = 10111\\(_2\\)",
+    "year": "2004"
+  },
+  {
+    "number": "772",
+    "text": "Given that sin (5x - 28)o = cos (3x - 50)o,0 < x < 90o, find the value of x",
+    "options": {
+      "A": "14o",
+      "B": "21o",
+      "C": "32o",
+      "D": "39o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26619?exam_type=waec&type=obj&page=155",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no",
+    "year": "2004"
+  },
+  {
+    "number": "773",
+    "text": "Solve for t in the equation \\(\\frac{3}{4}t+\\frac{1}{3}(21-t)\\) = 11,",
+    "options": {
+      "A": "\\(\\frac{9}{13}\\)",
+      "B": "\\(\\frac{9}{5}\\)",
+      "C": "5",
+      "D": "\\(9\\frac{3}{5}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26620?exam_type=waec&type=obj&page=155",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "774",
+    "text": "A school girl spends \\(\\frac{1}{4}\\) of her pocket money on books and \\(\\frac{1}{3}\\) on dress. What fraction remains?",
+    "options": {
+      "A": "\\(\\frac{5}{6}\\)",
+      "B": "\\(\\frac{7}{12}\\)",
+      "C": "\\(\\frac{5}{12}\\)",
+      "D": "\\(\\frac{1}{6}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26621?exam_type=waec&type=obj&page=155",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "775",
+    "text": "In the diagram, \\(R\\hat{P}Q = Q\\hat{R}Y, \\hspace{1mm} P\\hat{Q}R = R\\hat{Y}Q, \\\\ \\hspace{1mm}|QP| = 3cm \\hspace{1mm}|QY| = 4cm \\hspace{1mm}and \\hspace{1mm}|RY | = 5cm. \\hspace{1mm} Find \\hspace{1mm}|QR|\\)",
+    "options": {
+      "A": "2.0cm",
+      "B": "2.5cm",
+      "C": "6.4cm",
+      "D": "10.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26622?exam_type=waec&type=obj&page=155",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{PR}{QR} = \\frac{QR}{QY} = \\frac{QP}{YR}\\) (SSS Congruence)\n\\(\\frac{QR}{4} = \\frac{8}{5}\\)\n\\(QR = \\frac{4 \\times 8}{5}\\)\n= 6.4 cm",
+    "year": "2004"
+  },
+  {
+    "number": "776",
+    "text": "Find the value of x in the diagram",
+    "options": {
+      "A": "10o",
+      "B": "28o",
+      "C": "36o",
+      "D": "44o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26623?exam_type=waec&type=obj&page=156",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2004"
+  },
+  {
+    "number": "777",
+    "text": "There are m boys and 12 girls in a class. What is the probability of selecting at random a girl from the class?",
+    "options": {
+      "A": "\\(\\frac{m}{12}\\)",
+      "B": "\\(\\frac{12}{m}\\)",
+      "C": "\\(\\frac{12}{m+12}\\)",
+      "D": "\\(\\frac{12}{m-12}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26624?exam_type=waec&type=obj&page=156",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "778",
+    "text": "Simplify \\(7\\frac{1}{2}-\\left(2\\frac{1}{2}+3\\right)\\div16\\frac{1}{2}\\)and correct your answer to the nearest whole number",
+    "options": {
+      "A": "33",
+      "B": "8",
+      "C": "7",
+      "D": "0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26625?exam_type=waec&type=obj&page=156",
+    "correct_answer": "C",
+    "explanation": "\\(7\\frac{1}{2}-\\left(2\\frac{1}{2}+3\\right)\\div16\\frac{1}{2}; \\frac{15}{2} - \\left(\\frac{5}{2}+\\frac{3}{1}\\right)\\div \\frac{33}{2}\\\\\\frac{15}{2} - \\left(\\frac{5+6}{2}\\right)\\div \\frac{33}{2}; \\frac{15}{2} - \\frac{11}{2} \\div \\frac{33}{2}\\\\\n\\(\\frac{11}{2}\\)\u00a0\u00f7\u00a0\\(\\frac{33}{2}\\) =\u00a0\\(\\frac{11}{2}\\) *\u00a0\\(\\frac{2}{33}\\)\n= \\(\\frac{11}{33}\\) or\u00a0\\(\\frac{1}{3}\\) (when simplified)\n\\(\\frac{15}{2}\\) -\u00a0\\(\\frac{1}{3}\\) =\u00a0\\(\\frac{43}{6}\\)\n7.166\nThe nearest whole number is 7",
+    "year": "2004"
+  },
+  {
+    "number": "779",
+    "text": "The angle of elevation of the top of a tower from a point on the ground which is 36m away from the foot of the tower is 30o. Calculate the height of the tower.",
+    "options": {
+      "A": "62.35m",
+      "B": "20.78m",
+      "C": "18.00m",
+      "D": "10.39m"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26626?exam_type=waec&type=obj&page=156",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "780",
+    "text": "Find the area of a rectangle of length 4cm and whose diagonal is 8cm, (Leave your answer in surd form)",
+    "options": {
+      "A": "8\u221a3cm2",
+      "B": "12\u221a3cm2",
+      "C": "16\u221a2cm2",
+      "D": "16\u221a3cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26627?exam_type=waec&type=obj&page=156",
+    "correct_answer": "D",
+    "explanation": "|AB| = 4cm|BC| = 8cmIn right-angled BAC;\n8\\(^2\\) = 4\\(^2\\) + |AC|\\(^2\\)\n|AC|\\(^2\\) = 8\\(^2\\) - 4\\(^2\\)\n|AC\\\\(^2\\) = 64 - 16\u00a0\u2192 48\n|AC| = \\(\\sqrt{48}\\)cm \u2192\u00a0\\(4\\sqrt{3}cm\\)\nThe area of rectangle = L x B\n= |AB| x |AC|= \\((4 \\times 4\\sqrt{3}cm^2\\)=\\(16\\sqrt{3}cm^2\\)",
+    "year": "2004"
+  },
+  {
+    "number": "781",
+    "text": "Given that x + y = 7 and 3x-y = 5, evaluate \\(\\frac{y}{2}-3\\).",
+    "options": {
+      "A": "-1",
+      "B": "1",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26628?exam_type=waec&type=obj&page=157",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "782",
+    "text": "In the diagram, POQ is the diameter of the circle centre O. Calculate \u2220QRS",
+    "options": {
+      "A": "35o",
+      "B": "70o",
+      "C": "100o",
+      "D": "125o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26629?exam_type=waec&type=obj&page=157",
+    "correct_answer": "D",
+    "explanation": "\u2220PSQ = 90\u00b0\u00a0(angle in a semi-circle)(when SR is joined to SP)\u2220SPQ = 180 \u2013 (90+35) = 180 \u2013 125 = 55\u00b0\u2220QRS + \u2220SPQ = 180\u00b0 (opposite angles in a cyclic quad is supplementary)\u2220QRS = 180\u00b0 - 55\u00b0= 125\u00b0",
+    "year": "2004"
+  },
+  {
+    "number": "783",
+    "text": "If \\(\\left(\\frac{1}{4}\\right)^{(2-y)} = 1\\), find y.",
+    "options": {
+      "A": "-2",
+      "B": "\\(-\\frac{1}{2}\\).",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26630?exam_type=waec&type=obj&page=157",
+    "correct_answer": "D",
+    "explanation": "\\(2^{-2(2-y)}-x=2^{0}; -4 + 2y = 0\\\\2y = 4; y = 2\\)",
+    "year": "2004"
+  },
+  {
+    "number": "784",
+    "text": "Calculate the total surface area of a cupboard which measures 12cm by 10cm by 8cm",
+    "options": {
+      "A": "1920cm2",
+      "B": "592cm2",
+      "C": "296cm2",
+      "D": "148cm2"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26631?exam_type=waec&type=obj&page=157",
+    "correct_answer": "B",
+    "explanation": "Total surfaced area of a cupboard = 2(lb + lh + bh)l = length h = height b = basel = 12cm h = 10cm b = 8cmT.S.A \u00a0= 2(\\(12 \\times 8 \\times + 12 \\times 10 + 8 \\times 10\\))= 2\\((96 + 120 + 80)cm^2 = 592cm^2\\)",
+    "year": "2004"
+  },
+  {
+    "number": "785",
+    "text": "If \\(\\frac{x}{a+1}+\\frac{y}{b}\\) 1. Make y the subject of the relation",
+    "options": {
+      "A": "\\(\\frac{b(a-x+1)}{a+1}\\)",
+      "B": "\\(\\frac{a+1}{b(a-x+1)}\\)",
+      "C": "\\(\\frac{a(b-x+1)}{b+1}\\)",
+      "D": "\\(\\frac{b}{a(b-x+1)}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26634?exam_type=waec&type=obj&page=157",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "786",
+    "text": "lf \\(log_q p= r\\), express p in terms of q and r",
+    "options": {
+      "A": "p =qr",
+      "B": "p =rq",
+      "C": "\\(p = \\frac{r}{q}\\)",
+      "D": "p=qr"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26635?exam_type=waec&type=obj&page=158",
+    "correct_answer": "D",
+    "explanation": "If \\(log_q p\\) = r convert from logarithm to indicesP = q\\(^r\\)",
+    "year": "2004"
+  },
+  {
+    "number": "787",
+    "text": "Find the next two terms of the sequence\n1, 5, 14, 30, 55,\u00a0...",
+    "options": {
+      "A": "61,110",
+      "B": "67,116",
+      "C": "81,140",
+      "D": "91, 140"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26636?exam_type=waec&type=obj&page=158",
+    "correct_answer": "D",
+    "explanation": "\\(1 + 2^2 = 5 + 3^2 = 14 + 4^2 = 30 + 5^2 = 55\\)\n\\(55 + 6^2 = 91 + 7^2 = 140\\).\n91, 140 are the next two terms.",
+    "year": "2004"
+  },
+  {
+    "number": "788",
+    "text": "Each interior angle of a regular polygon is 108\u00b0. How many sides has it?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "9",
+      "D": "14"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26637?exam_type=waec&type=obj&page=158",
+    "correct_answer": "A",
+    "explanation": "The exterior angle of the polygon = 180 \u2013 108 = 72\u00b0. The sum of exterior angle of the regular polygon = 360\u00b0The number of sides \\(=\\frac{360}{72}=5\\)",
+    "year": "2004"
+  },
+  {
+    "number": "789",
+    "text": "Solve the equation 10-3x-x2 = 0",
+    "options": {
+      "A": "x=2 or-5",
+      "B": "x= -2 or 5",
+      "C": "x = 1 or 10",
+      "D": "x = 2 or 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26638?exam_type=waec&type=obj&page=158",
+    "correct_answer": "A",
+    "explanation": "2\n2",
+    "year": "2004"
+  },
+  {
+    "number": "790",
+    "text": "Find, correct to two decimal places, the mean of 9, 13, 16, 17, 19, 23, 24.",
+    "options": {
+      "A": "23.00",
+      "B": "17.29",
+      "C": "16.50",
+      "D": "16.33"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26639?exam_type=waec&type=obj&page=158",
+    "correct_answer": "B",
+    "explanation": "Mean \\(= \\frac{sum\\hspace{1mm}of\\hspace{1mm}all\\hspace{1mm}the\\hspace{1mm}numbers}{Total\\hspace{1mm}Number}\\\\\\frac{9+13+16+17+19+23+24}{7}\\\\\\frac{121}{7}=17.2857=17.29\\)",
+    "year": "2004"
+  },
+  {
+    "number": "791",
+    "text": "In the diagram, \u2206XYZ is similar to \u2206PRQ, |XY| = 5cm, |XZ| =3.5cm and |PR| = 8cm. Find |PQ|",
+    "options": {
+      "A": "5.6 cm",
+      "B": "11.2cm",
+      "C": "11.4cm",
+      "D": "28.0cm"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26640?exam_type=waec&type=obj&page=159",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{PQ}{PR}=\\frac{XZ}{XY}; \\frac{PQ}{8}=\\frac{3.5}{5}\\\\PQ=\\frac{8\\times 3.5}{5}=\\frac{28}{5}=5.6cm\\)",
+    "year": "2004"
+  },
+  {
+    "number": "792",
+    "text": "Factorise 27p2x2 - 48y2.",
+    "options": {
+      "A": "9(3px - 4y)2",
+      "B": "3(3px - 4y)(3px - 4y)",
+      "C": "9(px - 4y)(3p x + 4y)",
+      "D": "3(3px -4y)(3px +4y)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26641?exam_type=waec&type=obj&page=159",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2\n2",
+    "year": "2004"
+  },
+  {
+    "number": "793",
+    "text": "What is the volume of a solid cylinder of diameter 7cm and height 7cm? (Take \\(\\pi = \\frac{22}{7}\\))",
+    "options": {
+      "A": "38.5cm3",
+      "B": "77cm3",
+      "C": "269.5cm3",
+      "D": "1078cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26642?exam_type=waec&type=obj&page=159",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "794",
+    "text": "Find the sum of the roots of the equation 2x2 + 3x - 9 = 0",
+    "options": {
+      "A": "-18",
+      "B": "-6",
+      "C": "\\(-\\frac{9}{2}\\)",
+      "D": "\\(-\\frac{3}{2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26643?exam_type=waec&type=obj&page=159",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2",
+    "year": "2004"
+  },
+  {
+    "number": "795",
+    "text": "Given that \u03be = {1, 2, 3, . . . . . . ,10}, P= (x : x is prime) and Q = {y : y is odd}, find P'\u2229Q",
+    "options": {
+      "A": "{2}",
+      "B": "{1,9}",
+      "C": "{315.7}",
+      "D": "{4, 6, 8, 10}"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26644?exam_type=waec&type=obj&page=159",
+    "correct_answer": "B",
+    "explanation": "\u03be = {1, 2, 3, . . . . . . ,10}, P = (2, 3, 5, 7) and Q = {1, 3, 5, 7, 9},P'\u2229Q = {1, 4, 6, 8, 9, 10}\u2229{1, 3, 5, 7, 9} = {1, 9}",
+    "year": "2004"
+  },
+  {
+    "number": "796",
+    "text": "In the diagram, KS is a tangent to the circle centre O at R and \u2220ROQ = 80\u00ba. Find \u2220QRS.",
+    "options": {
+      "A": "90o",
+      "B": "80o",
+      "C": "50o",
+      "D": "40o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26645?exam_type=waec&type=obj&page=160",
+    "correct_answer": "D",
+    "explanation": "QOP = 180 - 100(straight line angle)\u00a0\u2192 80\u00b0OPQ and OQP are isosceles of 40\u00b0 each.\n\u2220QRS = \u2220RPQ (theorem: angle in the alternate segment are equal)\u2220RPQ = 40\u00ba\u2220QRS = 40\u00ba",
+    "year": "2004"
+  },
+  {
+    "number": "797",
+    "text": "Find the mean deviation of 6, 7, 8, 9, 10",
+    "options": {
+      "A": "1.2",
+      "B": "1.5",
+      "C": "2",
+      "D": "8"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26646?exam_type=waec&type=obj&page=160",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "798",
+    "text": "A point X is on the bearing 342o from a point Y. What is the bearing of Y from X?",
+    "options": {
+      "A": "342o",
+      "B": "252o",
+      "C": "198o",
+      "D": "162o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26647?exam_type=waec&type=obj&page=160",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\no\no\no",
+    "year": "2004"
+  },
+  {
+    "number": "799",
+    "text": "In the diagram, O is the centre of the circle where OS//QR and \u2220SOR = 35\u00ba. Find the value of\u00a0 \u2220QPR.",
+    "options": {
+      "A": "35o",
+      "B": "45o",
+      "C": "55o",
+      "D": "70o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26648?exam_type=waec&type=obj&page=160",
+    "correct_answer": "C",
+    "explanation": "\u2220SOR = \u2220ORQ alternate angle.Also \u2220OQR = \u2220OQR (Base angle of isosceles)\u2220QOR = 180 \u2013 2(35\u00ba) = 180 - 70\u00ba\u00a0=\u00a0110\u00ba,\u00a0\u2220QPR = 1/2QOR = 1/2(110\u00ba) \u2220QPR =\u00a055\u00ba\u00a0(theorem angle at center is twice angle at circumference)",
+    "year": "2004"
+  },
+  {
+    "number": "800",
+    "text": "Find the average of the first four prime numbers greater than10",
+    "options": {
+      "A": "20",
+      "B": "19",
+      "C": "17",
+      "D": "15"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26649?exam_type=waec&type=obj&page=160",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "801",
+    "text": "Given that \\(\\sqrt{128}+\\sqrt{18}-\\sqrt{K} = 7\\sqrt{2}\\), find K,",
+    "options": {
+      "A": "8",
+      "B": "16",
+      "C": "32",
+      "D": "48"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26650?exam_type=waec&type=obj&page=161",
+    "correct_answer": "C",
+    "explanation": "\\(\\sqrt{128} +\\sqrt{18}-\\sqrt{k}=7\\sqrt{2}\\\\\\sqrt{2\\times 64}+\\sqrt{9\\times 2} - \\sqrt{k} = 7\\sqrt{2}\\\\8\\sqrt{2} + 3\\sqrt{2} - \\sqrt{k} = 7\\sqrt{2}; 11\\sqrt{2} - \\sqrt{k} = 7\\sqrt{2}\\\\-\\sqrt{k}=7\\sqrt{2}-11\\sqrt{2}; -\\sqrt{k} = -4\\sqrt{2}; \\sqrt{k}=4\\sqrt{2}\\\\=\\sqrt{4^2\\times 2} = \\sqrt{16\\times 2}; \\sqrt{k}=\\sqrt{32}; k = 32\\)",
+    "year": "2004"
+  },
+  {
+    "number": "802",
+    "text": "In the diagram, PQRW is a circle. Line P, V and QR are produced to meet at M, where \u2220WMR = 30o and |WM| = |MR| Find the value of x",
+    "options": {
+      "A": "10o",
+      "B": "25o",
+      "C": "35o",
+      "D": "60o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26651?exam_type=waec&type=obj&page=161",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no\no\no",
+    "year": "2004"
+  },
+  {
+    "number": "803",
+    "text": "The table above gives the marks scored by a group of students in a test Use the table to answer the Question below\nWhat is the median mark?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26653?exam_type=waec&type=obj&page=161",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "804",
+    "text": "The table above gives the marks scored by a group of students in a test Use the table to answer the Question below\nWhat is the probability of selecting a student from the group that scored 2 or 3?",
+    "options": {
+      "A": "\\(\\frac{1}{11}\\)",
+      "B": "\\(\\frac{5}{22}\\)",
+      "C": "\\(\\frac{7}{22}\\)",
+      "D": "\\(\\frac{6}{11}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26654?exam_type=waec&type=obj&page=161",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "805",
+    "text": "Find the range of values of x for which\\(\\frac{x+2}{4}-\\frac{x+1}{3}>\\frac{1}{2}\\)",
+    "options": {
+      "A": "x > 4",
+      "B": "x > -4",
+      "C": "x < 4",
+      "D": "x < -4"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26655?exam_type=waec&type=obj&page=161",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{x+2}{4}-\\frac{x+1}{3}>\\frac{1}{2}\\)\\(\\frac{3(x+2)-4(x+1)>6}{12}\\); 3x + 6 \u2013 4x \u2013 4 > 6- x +\u00a02 > 6; - x > 4; x < -4",
+    "year": "2004"
+  },
+  {
+    "number": "806",
+    "text": "A boy walks 800m in 20 minutes. Calculate his average speed in km per hour",
+    "options": {
+      "A": "2.4",
+      "B": "4",
+      "C": "16",
+      "D": "24"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26656?exam_type=waec&type=obj&page=162",
+    "correct_answer": "A",
+    "explanation": "\\(Average \\hspace{1mm}speed = \\frac{Distance}{Time\\hspace{1mm} taken}\\)Distance = 800m = \\(\\frac{800}{1000}\\)km = 0.8kmTime\\(\\hspace{1mm}taken = 20\\hspace{1mm}minutes = \\frac{20}{60}\\)hr\n= \\(\\frac{1}{3}hr\\\\Average \\hspace{1mm} speed = \\left(0.8\\div \\frac{1}{3}\\right)\\)km/hr\n= (0.8\\(\\times\\)3)km/hr =2.4km/hr",
+    "year": "2004"
+  },
+  {
+    "number": "807",
+    "text": "Simplify \\(\\frac{2}{a+b}-\\frac{1}{a-b}\\)",
+    "options": {
+      "A": "\\(\\frac{3}{a+b}\\)",
+      "B": "\\(\\frac{a-3b}{a^2-b^2}\\)",
+      "C": "\\(\\frac{3a-b}{a^2 \u2013 b^2}\\)",
+      "D": "\\(\\frac{a-3b}{a^2+b^2}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26657?exam_type=waec&type=obj&page=162",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "808",
+    "text": "The diagram is a circle centre O. Find the value of x",
+    "options": {
+      "A": "30o",
+      "B": "50o",
+      "C": "61o",
+      "D": "78o",
+      "E": "65.5\\(^{\\circ}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26658?exam_type=waec&type=obj&page=162",
+    "correct_answer": "E",
+    "explanation": "\u2220PQR (Reflex) = 360\u00b0\u00a0\u2013 68\u00b0\u00a0= 292\u00b0\u2220PQR = 2\u2220PQR292\u00b0\u00a0= 4x + 30\u00b04x = 292\u00a0\u2013 30 = 262\\(x = \\frac{262}{4}=65.5\u00b0\\)",
+    "year": "2004"
+  },
+  {
+    "number": "809",
+    "text": "Use the graph to answer the Question below\nWhat are the roots of the equation x2 + 3x - 4 = 0?",
+    "options": {
+      "A": "1, 4",
+      "B": "-1, -4",
+      "C": "-1, 4",
+      "D": "-4, 1"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26659?exam_type=waec&type=obj&page=162",
+    "correct_answer": "D",
+    "explanation": "2",
+    "year": "2004"
+  },
+  {
+    "number": "810",
+    "text": "The values of x when y = 3 are approximately",
+    "options": {
+      "A": "-4.7 and 1.4",
+      "B": "-4.6 and 1.5",
+      "C": "-3.6 and 0.4",
+      "D": "-3.6 and 1.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26660?exam_type=waec&type=obj&page=162",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "811",
+    "text": "Which of the following quadratic equations has \\(-\\frac{1}{2}\\) and \\(\\frac{3}{4}\\)  as its roots?",
+    "options": {
+      "A": "8x2 + 11x - 3 = 0",
+      "B": "8x2 -11x \u2013 3 = 0",
+      "C": "8x2 + 2x -3 = 0",
+      "D": "8x2 - 2x \u2013 3 = 0"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26661?exam_type=waec&type=obj&page=163",
+    "correct_answer": "D",
+    "explanation": "2",
+    "year": "2004"
+  },
+  {
+    "number": "812",
+    "text": "The locus of a point which moves in a plane such that it is equidistant from two fixed points X and Y is",
+    "options": {
+      "A": "the perpendicular bisector of the line segment X Y",
+      "B": "a line parallel to the line segment XY",
+      "C": "a circle with XY as diameter",
+      "D": "the line perpendicular to the line segment XY"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26662?exam_type=waec&type=obj&page=163",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "813",
+    "text": "Given that \\(P\\propto \\frac{1}{\\sqrt{r}}\\) and p = 3 when r = 16, find the value of r when p = \\(\\frac{3}{2}\\)",
+    "options": {
+      "A": "48",
+      "B": "64",
+      "C": "72",
+      "D": "324"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26663?exam_type=waec&type=obj&page=163",
+    "correct_answer": "B",
+    "explanation": "Given that \\( P \\propto \\frac{1}{\\sqrt{r}} \\), we can express this relationship as:\n\\(P = k \\cdot \\frac{1}{\\sqrt{r}}\\)\nfor some constant \\( k \\).\nFrom the information provided, when \\( P = 3 \\) and \\( r = 16 \\):\n\\(3 = k \\cdot \\frac{1}{\\sqrt{16}}\\)\nSince \\( \\sqrt{16} = 4 \\), we have: \\(3 = k \\cdot \\frac{1}{4}\\)\nThus, \\(k = 3 \\cdot 4 = 12\\)\nNow we can write the equation as: \\(P = \\frac{12}{\\sqrt{r}}\\)\nNext, we need to find \\( r \\) when \\( P = \\frac{3}{2} \\):\n\\(\\frac{3}{2} = \\frac{12}{\\sqrt{r}}\\)\nCross-multiplying gives:\n\\(3\\sqrt{r} = 24\\)\nDividing both sides by 3:\n\\(\\sqrt{r} = 8\\)\nSquaring both sides:\n\\(r = 64\\). Thus, r = 64",
+    "year": "2004"
+  },
+  {
+    "number": "814",
+    "text": "Which of the following is/are true?  In a plane, the locus of points I. Equidistant from a straight line is a circle radius d where d is the distance between the point and the straight line.\nII Equidistant from two given points P and Q is a circle of radius |PQ|. III Equidistant from two points is the perpendicular bisector of the line joining the two points.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I, II and III"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26664?exam_type=waec&type=obj&page=163",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "815",
+    "text": "The sides of two cubes are in the ratio 2:5. What is the ratio of their volumes?",
+    "options": {
+      "A": "4:5",
+      "B": "8: 15",
+      "C": "6:125",
+      "D": "8:125"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26665?exam_type=waec&type=obj&page=163",
+    "correct_answer": "D",
+    "explanation": "The ratio of the two cubes = 2:5Volume of the two cubes = 2\\(^3\\) : 5\\(^3\\) = 8 : 125",
+    "year": "2004"
+  },
+  {
+    "number": "816",
+    "text": "Given that p = 2, q = -5 and r = - 4, evaluate 3p2 - q2 - r3",
+    "options": {
+      "A": "101",
+      "B": "77",
+      "C": "51",
+      "D": "-27"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26666?exam_type=waec&type=obj&page=164",
+    "correct_answer": "C",
+    "explanation": "2\n2\n3",
+    "year": "2004"
+  },
+  {
+    "number": "817",
+    "text": "A Cooperative Society charges an interest of 5\\(\\frac{1}{2}\\)% per annum on any amount borrowed by its members. If a member borrows N125,000, how much does he pay back after one year?",
+    "options": {
+      "A": "N136875",
+      "B": "N131,875",
+      "C": "N126750",
+      "D": "N126250"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26667?exam_type=waec&type=obj&page=164",
+    "correct_answer": "B",
+    "explanation": "The rate of interest charge = 5\\(\\frac{1}{2}\\)% p.aThe amount borrowed = N125, 000:00Interest charge \\(=\\frac{11}{200} of N125,000\\)= 11 \\(\\times N625.00 = N6,875.00\\)The amount refunded by the member, with interest charged by the cooperative societyN125,000 + N6,875.00 = N131,875.00",
+    "year": "2004"
+  },
+  {
+    "number": "818",
+    "text": "A bag contains 3 red and 2 white identical balls. lf 2 balls are picked at random from the bag, one after the other and with replacement, find the probability that they are of different colours",
+    "options": {
+      "A": "\\(\\frac{36}{625}\\)",
+      "B": "\\(\\frac{16}{625}\\)",
+      "C": "\\(\\frac{12}{25}\\)",
+      "D": "\\(\\frac{13}{25}\\)"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26668?exam_type=waec&type=obj&page=164",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2004"
+  },
+  {
+    "number": "819",
+    "text": "A point on the ground is 5m away from the foot of a vertical wall 7 m high, Calculate, correct to the nearest degree, the angle of depression of the point from the top of the wall",
+    "options": {
+      "A": "36o",
+      "B": "44o",
+      "C": "46o",
+      "D": "54o"
+    },
+    "answer_url": "https://myschool.ng/classroom/mathematics/26669?exam_type=waec&type=obj&page=164",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2004"
+  }
+]

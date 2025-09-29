@@ -1,0 +1,730 @@
+[
+  {
+    "number": "472",
+    "text": "Elements which belong to the same group in the Periodic Table are characterized by",
+    "options": {
+      "A": "difference of +1 in the oxidation numbers of successive members",
+      "B": "presence of the same number of outermost electrons in the respective atoms",
+      "C": "difference of 14 atomic mass units between successive members",
+      "D": "presence of the same number of electron shells in the respective atoms"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36829?exam_type=waec&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "Elements in the same group have the same number of valence electron in their outermost shell while elements in the same period have the same number of shells.",
+    "year": "2001"
+  },
+  {
+    "number": "473",
+    "text": "The atom of an element X combines with aluminium (\\(^{13}\\)AI)?",
+    "options": {
+      "A": "AIX 2",
+      "B": "AI 2X",
+      "C": "AI2X 2",
+      "D": "AI 2X 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36830?exam_type=waec&type=obj&page=95",
+    "correct_answer": "D",
+    "explanation": "Even though we were not told if the element X were a monoatomic or diatomic, inasmuch as Aluminium has a valency of +3, and there is going to be an exchange of valency between the two atoms of elements combining, X will definitely take the 3 from Al, and from the options, only option D has X having 3. Consequently, the correct option is D.",
+    "year": "2001"
+  },
+  {
+    "number": "474",
+    "text": "The presence of unpaired electrons in an atom of a transition metal gives rise to",
+    "options": {
+      "A": "paramagnetism",
+      "B": "malleability",
+      "C": "ductility",
+      "D": "shiny appearance"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36831?exam_type=waec&type=obj&page=95",
+    "correct_answer": "A",
+    "explanation": "Paramagnetism occurs when an atom or material has unpaired electrons, which act like tiny magnets due to their spin.\u00a0The magnetic moment of an electron is a result of its spin and orbital motion.\u00a0Paramagnetism in transition metals is caused by\u00a0the presence of unpaired electrons in their atomic and ionic species.",
+    "year": "2001"
+  },
+  {
+    "number": "475",
+    "text": "What is responsible for metallic bonding?",
+    "options": {
+      "A": "Sharing of electrons between the metal atoms",
+      "B": "Attraction between the atomic unclei and cloud of electrons",
+      "C": "transfer of electrons from one atom to another",
+      "D": "Attraction between positive and negative ions"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36832?exam_type=waec&type=obj&page=95",
+    "correct_answer": "B",
+    "explanation": "The positive ions and delocalized electrons are strongly attracted to each other, forming a metallic bond.\u00a0Metallic bonding occurs when\u00a0positively charged metal ions are attracted to delocalized electrons.",
+    "year": "2001"
+  },
+  {
+    "number": "476",
+    "text": "Which of the following compounds is covalent?",
+    "options": {
+      "A": "CaCI2",
+      "B": "MgO",
+      "C": "NaN",
+      "D": "CH4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36833?exam_type=waec&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "A covalent compound isa molecule that is formed when two or more different atoms are connected with a covalent bond. Covalent compounds are basically the molecules that form when two different atoms form a covalent bond. They typically have similar electronegativity and are non-metals. Only Option D has two non-metals.",
+    "year": "2001"
+  },
+  {
+    "number": "477",
+    "text": "A sheet of paper is placed in the path of a beam from a radioactive source. The emissions that pass through the paper consist of",
+    "options": {
+      "A": "alpha particles and gamma rays",
+      "B": "alpha and beta particles",
+      "C": "beta particles and gamma rays",
+      "D": "alpha particles only"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36834?exam_type=waec&type=obj&page=96",
+    "correct_answer": "C",
+    "explanation": "Among the three types of radiations, alpha, beta and Gamma rays, it is only alpha rays that cannot penetrate a piece of paper or human hand, as it has the lowest penetrating power though the highest ionizing power. However, Beta particles\u00a0and Gamma rays can pass through or penetrate a piece of paper. OptionCis the correct answer.",
+    "year": "2001"
+  },
+  {
+    "number": "478",
+    "text": "Which of the following features of a human skeleton can be determined by carbon-dating?",
+    "options": {
+      "A": "Height",
+      "B": "Mass",
+      "C": "Age",
+      "D": "Race"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36836?exam_type=waec&type=obj&page=96",
+    "correct_answer": "C",
+    "explanation": "Radiocarbon dating is often used in forensics to determine the age and year of death of unidentified human remains.\u00a0It can also be used to identify a person's year of birth by measuring carbon-14 levels in tooth enamel. Carbon-dating, also known as carbon-14 dating, can be used to determine the age of a human skeleton.",
+    "year": "2001"
+  },
+  {
+    "number": "479",
+    "text": "Which of the following statements about ideal gases is/are correct? 1. The cohesive forces between their particles are negligible ll. They have no definite volume but occupy the volume of their containers III. They are not compressible IV. Their particles collide with loss of energy",
+    "options": {
+      "A": "l only",
+      "B": "l and ll only",
+      "C": "l, ll and lll only",
+      "D": "l, ll, lll, and IV"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36839?exam_type=waec&type=obj&page=96",
+    "correct_answer": "B",
+    "explanation": "Here are some \u00a0properties of ideal gases:\nInert: Ideal gases are assumed to not react with each other.Elastic collisions: Ideal gases collide with the container's walls elastically, meaning they don't lose energy after collisions.Take the shape of their container: Ideal gases take the shape of their container, so the volume of the container is the same as the volume of the gas.Follow the ideal gas law: The ideal gas law isPV= nRTCompressibility factor of 1: The compressibility factor of an ideal gas is exactly 1.",
+    "year": "2001"
+  },
+  {
+    "number": "480",
+    "text": "P\\(_{TOTAL}\\) = P\\(_1\\) + P\\(_2\\) + P\\(_3\\) + ...Pn' where P Total is the pressure of a mixture of gasses. The equation above is an expression of",
+    "options": {
+      "A": "Graham's law",
+      "B": "Gay-Lussac's Law",
+      "C": "Boyle's law",
+      "D": "Dalton's law"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36840?exam_type=waec&type=obj&page=96",
+    "correct_answer": "D",
+    "explanation": "Dalton\u2019s Law, or the Law of Partial Pressures,\u00a0states that the total pressure exerted by a mixture of gases is equal to the sum of the partial pressures of the gases in the mixture.\u00a0 P\\(_T\\) = P\\(_1\\) + P\\(_2\\) + P\\(_3\\) + ...",
+    "year": "2001"
+  },
+  {
+    "number": "481",
+    "text": "Which of the following pairs of reagents react to produce hydrogen?",
+    "options": {
+      "A": "Zinc and concentrated trioxonitrate (V) acid",
+      "B": "Water and calcium dicarbide",
+      "C": "Copper and dilute hydrochloric acid",
+      "D": "Magnesium and dilute  tetraoxosulphate (VI) acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36841?exam_type=waec&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "When magnesium reacts with dilute sulfuric acid, it produces magnesium sulfate and hydrogen gas.\nThe chemical equation for this reaction is:\nMg(s) + H2SO4(aq) \u2192 MgSO4(aq) +\u00a0 H2(g)",
+    "year": "2001"
+  },
+  {
+    "number": "482",
+    "text": "A mixture of calcium chloride and calcium trioxocarbonate (IV) in water can be separated by",
+    "options": {
+      "A": "evaporation",
+      "B": "sublimation",
+      "C": "distillation",
+      "D": "filtration"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36842?exam_type=waec&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "To separate calcium chloride (CaCl2) and calcium carbonate (CaCO3) in water, you can\u00a0add water to the mixture, filter it, and collect the CaCO3 on the filter paper.\nThe CaCl2 solution will pass through the filter paper, while the CaCO3 will be collected on the paper.\u00a0This is possible because CaCO3 is insoluble in water, while CaCl2 is soluble. The correct answer is optionD",
+    "year": "2001"
+  },
+  {
+    "number": "483",
+    "text": "Which of the following would dissolve in warm dilute H2SO4 without effervescence, to give a blue solution?",
+    "options": {
+      "A": "Copper turnings",
+      "B": "Copper (ll) trioxocarbonate (IV)",
+      "C": "Copper (ll) oxide",
+      "D": "Copper alloy"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36843?exam_type=waec&type=obj&page=97",
+    "correct_answer": "A",
+    "explanation": "Copper turnings will dissolve in warm dilute sulfuric acid (H2SO4) without effervescence to give a blue solution.\nWhen copper reacts with sulfuric acid, it forms copper sulfate (CuSO4), a salt that is blue in color. The reaction is:\nCu (s) + H2SO4 (aq) \u2192 CuSO4 (aq) + H2 (g) \u2191Copper + Sulfuric acid \u2192 Copper sulfate + Hydrogen",
+    "year": "2001"
+  },
+  {
+    "number": "484",
+    "text": "In which of the reactions represented by the following equations is HNO3 behaving as a typical acid?",
+    "options": {
+      "A": "CaO + 2HNO3 \u2192 Ca(NO3) 2 + H 2O",
+      "B": "Cu + 4HNO3 \u2192 Cu(NO 3)2 + 2H2O + 2NO2",
+      "C": "S + 6HNO3 \u2192 H2SO 4 + 6NO2 + 2H2O",
+      "D": "P + 5HNO3 \u2192 H 3PO 4 + 5NO2 + H2O"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36845?exam_type=waec&type=obj&page=97",
+    "correct_answer": "A",
+    "explanation": "When an acid (HNO3) reacts with a base(CaO), the products are usually salts( Ca(NO3)2 and water(H2O). Hence, HNO3 behaved like a typical acid in OptionA.",
+    "year": "2001"
+  },
+  {
+    "number": "485",
+    "text": "A gas was evolved when a sample of gastric juice reacted with sodium trioxocarbonate (IV) . The gas evolved was",
+    "options": {
+      "A": "NH3",
+      "B": "SO2",
+      "C": "HCI",
+      "D": "CO2"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36846?exam_type=waec&type=obj&page=97",
+    "correct_answer": "D",
+    "explanation": "Gastric juice is made up of hydrochloric acid, digestive enzymes, and other substances that help absorb nutrients. However, whenever a carbonate(IV) salt reacts with an acid (HCl), CO\\(_2\\) is evolved.",
+    "year": "2001"
+  },
+  {
+    "number": "486",
+    "text": "It can be concluded that gastric juice",
+    "options": {
+      "A": "contains enzymes",
+      "B": "is acidic",
+      "C": "is a mixture",
+      "D": "has pH value of 7"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36847?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "Gastric juice is made up ofhydrochloric acid, digestive enzymes, and other substances that help absorb nutrients. It is highly acidic.",
+    "year": "2001"
+  },
+  {
+    "number": "487",
+    "text": "What does \u2206H represent in the following equation ? Cl(g) + e- \u2192 CI- (g); \u2206H = - 363 kJ mol-1",
+    "options": {
+      "A": "lonization energy",
+      "B": "Electron affinity",
+      "C": "Dissociation energy",
+      "D": "Heat of atomization"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36848?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "Electron affinityis defined as the amount of energy released when an electron is added to a neutral atom to form an anion.\nFrom the reaction, an electron is added to a neutral atom, Cl, and an anion Cl- is formed.\u00a0Therefore, the correct answer is optionB",
+    "year": "2001"
+  },
+  {
+    "number": "488",
+    "text": "Consider the following equation: Ag+ (aq) + CI-(aq) \u2192 Ag+CI- (s) ; \u2206H = - 65.7 kJmol-1. From the equation, it can be deduced that",
+    "options": {
+      "A": "direct combination is involved and the reaction is endothermic",
+      "B": "a solid is formed and heat is evolved",
+      "C": "activation energy is high and a catalyst is required",
+      "D": "the reaction is endothermic and occurs at high temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36849?exam_type=waec&type=obj&page=98",
+    "correct_answer": "B",
+    "explanation": "From the chemical equation, the product Ag\\(^+\\) Cl\\(^-\\) is solid and for the fact that H is -ve, it is exothermic i.e heat was evolved. Option B is the correct answer.",
+    "year": "2001"
+  },
+  {
+    "number": "489",
+    "text": "A reaction is represented by the equation below. A2(g) + B2(g)\u00a0 \u2192 2AB(g); \u2206H = +X kJmol-1 Which of the following statements about the system is correct?",
+    "options": {
+      "A": "The reaction goes to completion at equilibrium",
+      "B": "The forward reaction is exothermic",
+      "C": "At equilibrium increase in temperature favours the reverse reaction",
+      "D": "Pressure has no effect on the equilibrium mixture"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36851?exam_type=waec&type=obj&page=98",
+    "correct_answer": "D",
+    "explanation": "The total number of moles of gaseous substances on the LHS = The total number of moles of gaseous product on the RHS.\n1 + 1 = 2\n2 = 2\nTherefore, pressure has no effect on the system in equilibrium.",
+    "year": "2001"
+  },
+  {
+    "number": "490",
+    "text": "What is the oxidation number of nitrogen in Al(NO\\(_3\\))\\(_3\\)?",
+    "options": {
+      "A": "+ 1",
+      "B": "+ 3",
+      "C": "+ 5",
+      "D": "+ 6"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36852?exam_type=waec&type=obj&page=98",
+    "correct_answer": "C",
+    "explanation": "The oxidation number of Al = +3 , O = - 2, N =?\u00a0 in Al(NO\\(_3\\) )\\(_3\\)\nAl(NO\\(_3\\) )\\(_3\\) = 0\nAl + 3N + 3(O3) = 0\n+3 + 3N + 3(-2 X 3) = 0\n3N = 18 - 3\nN = 15/3\nN = + 5 - OptionC",
+    "year": "2001"
+  },
+  {
+    "number": "491",
+    "text": "What is oxidized in the reaction represented by the following equation? 3CU + 8HNO3 \u2192 3Cu(NO3)2 + 2NO + 4H2O",
+    "options": {
+      "A": "Oxygen",
+      "B": "Hydrogen",
+      "C": "Nitrogen",
+      "D": "Copper"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36853?exam_type=waec&type=obj&page=99",
+    "correct_answer": "D",
+    "explanation": "Copper is oxidized because there is an increase of oxidation number from 0 (LHS) to +2 (RHS).",
+    "year": "2001"
+  },
+  {
+    "number": "492",
+    "text": "Which of the following substances decomposes when an electric current is passed through it?",
+    "options": {
+      "A": "Glucose solution",
+      "B": "Zinc rod",
+      "C": "Hydrochloric acid",
+      "D": "Tetrachloromethane"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36855?exam_type=waec&type=obj&page=99",
+    "correct_answer": "C",
+    "explanation": "Glucose does not decompose when an electric current passes through it because it is a non-electrolyte and does not conduct electricity.\u00a0However,\u00a0hydrochloric acid (HCl) does decompose when an electric current passes through it because it is a strong electrolyte.",
+    "year": "2001"
+  },
+  {
+    "number": "493",
+    "text": "A concentrated solution containing H+, Cu2+,OH- and CI- was electrolyzed using platinum electrodes which of the ions will be discharged at the cathode?",
+    "options": {
+      "A": "H+",
+      "B": "Cu2+",
+      "C": "OH-",
+      "D": "CI-"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36856?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "When using a platinum electrode,\u00a0copper ions (Cu2+)\u00a0are deposited at the cathode, while hydrogen ions (H+) remain in solution.\nHere's what happens during the electrolysis of a copper sulfate solution using a platinum cathode:\nCathode:\u00a0Copper ions are attracted to the negative cathode and are deposited as a reddish layer of pure copperAnode:\u00a0Oxygen gas is liberatedElectrolyte:\u00a0The blue color of the electrolyte disappears and it becomes dilute sulfuric acid.\u00a0 \u00a0 The less reactive a metal, the more readily its ion is reduced on the electrode surface.",
+    "year": "2001"
+  },
+  {
+    "number": "494",
+    "text": "Given that the order of reactivity of four metals is P>Q>R>S, which of the following reactions is feasible?",
+    "options": {
+      "A": "S + P+ \u2192 P + S +",
+      "B": "Q + S+ \u2192 S + Q+",
+      "C": "R + P+ \u2192 P + R+",
+      "D": "S + Q+ \u2192 Q + S+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36859?exam_type=waec&type=obj&page=99",
+    "correct_answer": "B",
+    "explanation": "When a metal gives out an electron,it becomes positively charged. The most reactive metal is P, but from the equations given in the options, P should become P+ once it gives out an electron but no option as such. Then we opt for the next most reactive which is Q. If Q gives out an electron, it becomes Q+ while S is the less reactive. Option B is feasible.",
+    "year": "2001"
+  },
+  {
+    "number": "495",
+    "text": "In the electrolysis of CuSO4(aq) using copper electrodes, the reaction at the anode is",
+    "options": {
+      "A": "discharge of SO4 2-",
+      "B": "discharge of OH-",
+      "C": "dissolution of copper electrode",
+      "D": "evolution of oxygen"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36861?exam_type=waec&type=obj&page=99",
+    "correct_answer": "C",
+    "explanation": "When copper electrodes are used to electrolyze an aqueous copper sulfate solution, the following happens at the anode:\nCopper loses electrons:\u00a0Copper atoms at the anode lose electrons, forming copper ions that go into the solution.Anode dissolves:\u00a0The anode slowly dissolves away as the electrolysis continues.Copper ions are generated:\u00a0Copper ions are generated at the anode.\u00a0 In summary, there is dissolution of copper electrode - OptionC",
+    "year": "2001"
+  },
+  {
+    "number": "496",
+    "text": "A feasible cell was constructed by joining the two half cells below. Cu\\(^{2+}\\) (aq) + 2e\\(^-\\) \u2192 Cu(s) E\\(^0\\)\u00a0= +0.34 V; Zn\\({^2+}\\) + 2e\\(^-\\)\u00a0\u2192 Zn\\((_s)\\) E\\(^0\\)\u00a0= - 0.76V.\u00a0What is the standard e.m.f. of the cell?",
+    "options": {
+      "A": "- 1.1V",
+      "B": "- 0.42V",
+      "C": "+0.42V",
+      "D": "+1.1V"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36863?exam_type=waec&type=obj&page=100",
+    "correct_answer": "D",
+    "explanation": "The standard e.m.f.\u00a0of a cell is calculated by subtracting the standard reduction potential of the anode from the standard reduction potential of the cathode:\nE\\(^0\\)\\(_{cell}\\) =\u00a0 E\\(^0\\)\\(_{cathode}\\)\u00a0-\u00a0E\\(^0\\)\\(_{anode}\\)\nSince\u00a0\u00a0 E\\(^0\\)\\(_{Cu^{2+}}\\)\u00a0 >\u00a0 \u00a0E\\(^0\\)\\(_{Zn^{2+}}\\), it can be inferred that Copper is reduced at the cathode while Zinc is oxidized at the anode.\nE\\(^0\\)\\(_{cell}\\) =\u00a0 E\\(^0\\)\\(_{Cu^{2+}}\\)\u00a0 -\u00a0 E\\(^0\\)\\(_{Zn^{2+}}\\)\n= + 0.34 - (- 0.76)\n= + 0.34 + 0.76\n= +1.10V\nThe standard e.m.f. of the cell is +1.10V",
+    "year": "2001"
+  },
+  {
+    "number": "497",
+    "text": "Hydrogenation of butene yields",
+    "options": {
+      "A": "butyne",
+      "B": "butane",
+      "C": "pentence",
+      "D": "butanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36865?exam_type=waec&type=obj&page=100",
+    "correct_answer": "B",
+    "explanation": "Hydrogenation reaction is the addition reaction of Hydrogen molecule, H2. Adding H2 to an unsturated Hydrocarbon will be possible if and only if the double bond is broken in order for the H2 to get added up. This will increase the number of Hydrogen and product will change from C4H8 to C4H10 which is butane.",
+    "year": "2001"
+  },
+  {
+    "number": "498",
+    "text": "Benzene produces more soot than ethene on burning because benzene",
+    "options": {
+      "A": "has a higher molar mass",
+      "B": "has a higher degree of unsaturation",
+      "C": "undergoes substitution and addition reactions",
+      "D": "is a liquid at room temperature"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36866?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "Benzene has a higher carbon content than other saturated hydrocarbons, like ethene. This invariably means it has a higher molar mass. When benzene burns, it forms elementary carbon, which causes it to burn with a sooty flame.\u00a0Benzene is a member of the aromatic hydrocarbon family, which are nonpolar molecules that are usually colourless liquids or solids.",
+    "year": "2001"
+  },
+  {
+    "number": "499",
+    "text": "One of the products of combustion of pentane in excess air is",
+    "options": {
+      "A": "pentanol",
+      "B": "pentene",
+      "C": "nitrogen (ll) oxide",
+      "D": "carbon (IV) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36871?exam_type=waec&type=obj&page=100",
+    "correct_answer": "D",
+    "explanation": "Combustion of Hydrocarbons will usually yield two products: CO2 and H2O. Pentane is an Hydrocarbon, hence one of it's product on combustion will be Carbon(iv)oxide",
+    "year": "2001"
+  },
+  {
+    "number": "500",
+    "text": "Which of the following polymers contains nitrogen?",
+    "options": {
+      "A": "Nylon",
+      "B": "Polyvinyl chloride",
+      "C": "Polyethene",
+      "D": "Cellulose"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36872?exam_type=waec&type=obj&page=100",
+    "correct_answer": "A",
+    "explanation": "The\u00a0chemical formula of Nylon is (C12H22N2O2)n",
+    "year": "2001"
+  },
+  {
+    "number": "501",
+    "text": "What is the function of H2SO4 in the following reaction?\nC12H22O11 conc. H2SO4\u00a0\u2192 12C + 11H2O",
+    "options": {
+      "A": "Oxidizing agent",
+      "B": "Strong acid",
+      "C": "Dehydrating agent",
+      "D": "Catalyst"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36873?exam_type=waec&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "When table sugar (sucrose) is dehydrated with concentrated sulfuric acid (H2SO4), the sugar turns into a column of carbon, and water and carbon dioxide are produced.\nThis is a dehydration reaction, which is a chemical reaction that removes water from a molecule or ion.",
+    "year": "2001"
+  },
+  {
+    "number": "502",
+    "text": "Which of the following constitutes an advantage in the use of hard water?",
+    "options": {
+      "A": "Formation of scum with soap",
+      "B": "Furring of kettles",
+      "C": "Blockage of water pipes",
+      "D": "Formation of strong bones"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36874?exam_type=waec&type=obj&page=101",
+    "correct_answer": "D",
+    "explanation": "Drinking hard water can help strengthen bones because it contains calcium, an essential mineral for bone health. Your body absorbs calcium from hard water the same way it does from other food sources.",
+    "year": "2001"
+  },
+  {
+    "number": "503",
+    "text": "Sugars can be hydrolyzed at room temperature by the action of",
+    "options": {
+      "A": "mineral acids",
+      "B": "strong bases",
+      "C": "enzymes",
+      "D": "oxidants"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36875?exam_type=waec&type=obj&page=101",
+    "correct_answer": "C",
+    "explanation": "Simple sugar molecules (monosaccharide ) when combined to form larger molecules (dissacharides or polysaccharides) is called condensation , water molecules is generated in the process, the reverse process is known as hydrolysis. sugar can be hydrolyszed at room temperature by the action of enzymes.\nSugars can be hydrolyzed by the action of enzymes:\nInvertase:\u00a0Hydrolyzes sucrose (table sugar) into glucose and fructose.\u00a0Yeast normally secretes this enzyme.Lactase:\u00a0Hydrolyzes lactose in milk.\u00a0Many adults do not produce lactase and cannot digest lactose.",
+    "year": "2001"
+  },
+  {
+    "number": "504",
+    "text": "If 10 cm 3 of distilled water is added to 10 cm3 of an aqueous salt solution, the concentration of the solution",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains constant",
+      "D": "doubles"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36878?exam_type=waec&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "The concentration of a solution is the amount of a constituent divided by the total volume of the mixture.\u00a0When water is added to a solution, the total volume increases, but the number of moles of solute remains the same.\u00a0This results in a decrease in concentration.",
+    "year": "2001"
+  },
+  {
+    "number": "505",
+    "text": "Which of the following reactions represents the change that occurs when a photographic film is exposed to sunlight?",
+    "options": {
+      "A": "Ag \u2192 Ag+ + e-",
+      "B": "Ag+ + e- \u2192 Ag",
+      "C": "2Ag + Br22 \u2192 AgBr",
+      "D": "Ag+ + Br- \u2192 AgBr"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36880?exam_type=waec&type=obj&page=101",
+    "correct_answer": "B",
+    "explanation": "When photographic film is exposed to sunlight,\u00a0it undergoes a chemical reaction that converts light energy into chemical energy.\u00a0This reaction causes the film to change chemically and appear black, spoiled, or unable to be developed.The silver bromide in the film breaks down into silver grains.\u00a0The film produces free silver, which appears as black spots.\nThe chemical equation for this reaction is:\n2 AgBr \u2192 2 Ag \u00a0+ Br2\u00a0 Ag gains an electron to become reduced to Ag metal. -OptionB",
+    "year": "2001"
+  },
+  {
+    "number": "506",
+    "text": "Acidic industrial waste can be treated with",
+    "options": {
+      "A": "lime",
+      "B": "brine",
+      "C": "water",
+      "D": "ethanol"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36888?exam_type=waec&type=obj&page=102",
+    "correct_answer": "A",
+    "explanation": "Lime is by far the most widely used neutralizing agent for industrial acidic waste waters.\u00a0Lime, also known as calcium hydroxide, reacts with the acidic components in waste to form water, salts, and other less harmful compounds.",
+    "year": "2001"
+  },
+  {
+    "number": "507",
+    "text": "Waste plastics accumulate in the soil and pollute the environment because plastic materials are",
+    "options": {
+      "A": "insoluble in water",
+      "B": "non-biodegradable",
+      "C": "easily affected by heat",
+      "D": "inflammable"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36889?exam_type=waec&type=obj&page=102",
+    "correct_answer": "B",
+    "explanation": "The bonds between the molecules in plastic are very strong, so microorganisms can't break them down.Thus, they are non-biodegradable.",
+    "year": "2001"
+  },
+  {
+    "number": "510",
+    "text": "The conclusion from Rutherford's radioactive substance alpha-scattering experiment is that",
+    "options": {
+      "A": "atoms are mostly empty space with a samll",
+      "B": "emissions from radioactive substances consist of three main components",
+      "C": "there is unclear pull on orbital electrons",
+      "D": "electrons are deflected by both magnetic and electric fields"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36893?exam_type=waec&type=obj&page=102",
+    "correct_answer": "A",
+    "explanation": "Ernest Rutherford's alpha-scattering experiment led to the conclusion that\u00a0atoms are mostly empty space, with a nucleus that contains the atom's positive charge.",
+    "year": "2001"
+  },
+  {
+    "number": "511",
+    "text": "If a metal R forms a compound with the formula R(NO3)2 the formula of its tetraoxosulphate (VI) is",
+    "options": {
+      "A": "R(SO4)2",
+      "B": "RSO4",
+      "C": "R2SO4",
+      "D": "R2(SO4)3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36894?exam_type=waec&type=obj&page=103",
+    "correct_answer": "B",
+    "explanation": "The compound R formed with\u00a0\u00a0R(NO3)2 shows that the metal R has a valency of +2.\nIf R reacts with tetraoxosulphate(VI), SO4\u00a0 2- has a valency of - 2.\nIf both react or combine together, their valencies will cancel out each other, which implies the formula will be RSO4.",
+    "year": "2001"
+  },
+  {
+    "number": "512",
+    "text": "Which of the following decreases when a given mass of gas is compressed to half its initial volume?",
+    "options": {
+      "A": "Average intermolecular distance",
+      "B": "Frequency of collisions",
+      "C": "Number of molecules present",
+      "D": "Atomic radius of each particle"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36895?exam_type=waec&type=obj&page=103",
+    "correct_answer": "A",
+    "explanation": "Boyle's Law states that the volume of a given mass\u00a0of gas is inversely proportional to its pressure at a constant temperature. As particles are constantly moving and colliding with each other and the walls of their container.\u00a0The particles are far apart, so the forces between them are negligible.\nWhen a gas is compressed, the gas particles move faster and hit the walls of the container more often.\u00a0This increases the pressure of the gas and invariably brings the molecules of the gases closer together, and this leads to a decrease in the average distance between them.",
+    "year": "2001"
+  },
+  {
+    "number": "513",
+    "text": "What volume of hydrogen will be produced if 100cm3 of ammonia is completely decomposed at constant temperature and pressure? The equation for the reaction is 2NH3(g) \u2192 N2(g) + 3H2(g)",
+    "options": {
+      "A": "50cm3",
+      "B": "150cm3",
+      "C": "200cm3",
+      "D": "300cm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36897?exam_type=waec&type=obj&page=103",
+    "correct_answer": "B",
+    "explanation": "3\n2\n2\n3\n3\n3\n3\n2\n3",
+    "year": "2001"
+  },
+  {
+    "number": "514",
+    "text": "The gas given off when NH4Cl is heated with an alkali is",
+    "options": {
+      "A": "H2",
+      "B": "CI2",
+      "C": "N 2",
+      "D": "NH 3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36899?exam_type=waec&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "Ammonia gas, NH3 is given off.",
+    "year": "2001"
+  },
+  {
+    "number": "515",
+    "text": "A major factor considered in selecting a suitable method for preparing a simple salt is its",
+    "options": {
+      "A": "crystalline form",
+      "B": "melting point",
+      "C": "reactivity with dilute acids",
+      "D": "solubility in water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36901?exam_type=waec&type=obj&page=103",
+    "correct_answer": "D",
+    "explanation": "The major factor to consider when selecting a method for preparing a simple salt is\u00a0thesalt's solubility in water:\nSoluble in water:\u00a0A salt can be prepared by titration.Insoluble in water:\u00a0A salt can be prepared by precipitation.\u00a0In this method, the insoluble salt is precipitated, washed, and dried.",
+    "year": "2001"
+  },
+  {
+    "number": "516",
+    "text": "Which of the following acids forms normal salts only?",
+    "options": {
+      "A": "Tetraoxosulphate (VI) acid",
+      "B": "Trioxosulphate (IV) acid",
+      "C": "Tetraoxophosphate (V) acid",
+      "D": "Trioxonitrate (V) acid"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36902?exam_type=waec&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "Trioxonitrate(v) acid will only form one type of salt because it is a monobasic acid i.e. it contains only one replaceable hydrogen atom.",
+    "year": "2001"
+  },
+  {
+    "number": "517",
+    "text": "A substance is said to be hygroscopic if it absorbs?",
+    "options": {
+      "A": "water from the atmosphere to form a solution",
+      "B": "heat from the surrounding",
+      "C": "carbon (IV) oxide from the atmosphere",
+      "D": "moisture from the atmosphere without dissolving"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36906?exam_type=waec&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "Hygroscopy is the phenomenon of attracting and holding water molecules via either absorption or adsorption from the surrounding environment,\nwhich is usually at normal or room temperature.\nDeliquescence,\u00a0the process by which a substance absorbs moisture from the atmosphere until it dissolves in the absorbed water and forms a solution.",
+    "year": "2001"
+  },
+  {
+    "number": "518",
+    "text": "Which of the following substances increases in mass when heated in air?",
+    "options": {
+      "A": "Sodium chloride",
+      "B": "lodine crystals",
+      "C": "magnesium ribbon",
+      "D": "copper (ll) oxide"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36909?exam_type=waec&type=obj&page=104",
+    "correct_answer": "C",
+    "explanation": "The mass of magnesium ribbon increases when heated in air\u00a0because it combines with oxygen to form magnesium oxide, a white powder:\nThe chemical equation for this reaction is:\n2Mg + O2 \u2192 2MgO",
+    "year": "2001"
+  },
+  {
+    "number": "519",
+    "text": "Calculate the mass of sodium hydroxide in 5.00 dm3 of a 0.125 mol dm-3 solution [NaOH = 40 g mol]",
+    "options": {
+      "A": "0.0156 g",
+      "B": "0.625 g",
+      "C": "1.00 g",
+      "D": "25. 0 g"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36910?exam_type=waec&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "1 mole of NaOH per dm3 has a mass of 40g mass of NaOH in 0.125 mole = 0.125 x 40 = 5g mass in 5.00 dm3 of the solution = 5 x 5 = 25.0g",
+    "year": "2001"
+  },
+  {
+    "number": "520",
+    "text": "Which of the following salt solutions will have a pH greater than 7?",
+    "options": {
+      "A": "NaCl(aq)",
+      "B": "Na2CO3(aq)",
+      "C": "Na2SO4(aq)",
+      "D": "NaHSO4(aq)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36911?exam_type=waec&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "The pH of a solution of sodium carbonate is greater than 7 because it's a basic salt. When Na2CO3 is dissolved in water, it undergoes hydrolysis, which produces OH- ions, making the solution pH greater than 7.",
+    "year": "2001"
+  },
+  {
+    "number": "521",
+    "text": "What will happen if more heat is applied to the following system at equilibrium? X2(g) + 3Y 2(g) \u21cc 2XY3(g); \u2206H =-kJmol -1",
+    "options": {
+      "A": "the yield of XY 3 will decompose",
+      "B": "more of XY3 will decompose",
+      "C": "More of X2 will react",
+      "D": "the forward reaction will go to completion"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36912?exam_type=waec&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "If more heat is applied to an exothermic reaction in equilibrium, it means temperature is increased, this will however, cause the equilibrium shift to the left. This means the product will decompose to produce more of the reactants on the LHS. i.e XY\\(_3\\) will decompose.",
+    "year": "2001"
+  },
+  {
+    "number": "522",
+    "text": "Equal amounts of marble chips are reacted separately with 100cm3 of hydrochloric acid of different concentrations . if all the marble chips reacted, which of the following remained the same in each case?",
+    "options": {
+      "A": "Average rate of evolution of gas",
+      "B": "Total mass of gas evolved during the reaction",
+      "C": "Time taken for the reaction to reach completion",
+      "D": "lnitial reaction rates"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36913?exam_type=waec&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "When marble chips (calcium carbonate) react with hydrochloric acid, they produce carbon dioxide gas, water, and calcium chloride.\u00a0The chemical reaction is represented by the equation\u00a0 CaCO3 + 2HCl \u2192 CaCl2 + H2O + CO2.\nThe rate of the reaction is proportional to the number of collisions between reactant molecules.\u00a0Increasing the concentration of hydrochloric acid increases the number of acid particles in the same volume of liquid, which increases the frequency of collisions.\u00a0If equal amounts of marble chips react separately with different concentrations of hydrochloric acid, the amount of\u00a0carbon dioxide gas\u00a0produced remained the same in each case",
+    "year": "2001"
+  },
+  {
+    "number": "523",
+    "text": "CuSO4 5H2O can be obtained from an aqueous solution of copper (ll) tetraoxosulphate (VI) by",
+    "options": {
+      "A": "evaporation to dryness",
+      "B": "using chromatography",
+      "C": "precipitation",
+      "D": "crystallization"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36914?exam_type=waec&type=obj&page=105",
+    "correct_answer": "D",
+    "explanation": "Crystallization is the process by which solids form when atoms or molecules are organized into a crystal structure.\u00a0The resulting crystal's attributes depend on factors like temperature, air pressure, cooling rate, and time of fluid evaporation.\u00a0copper (II) sulphate pentahydrate (CuSO4\u22c55H2O) can be obtained from an aqueous solution of copper (II) tetraoxosulphate (VI) by crystallization.",
+    "year": "2001"
+  },
+  {
+    "number": "524",
+    "text": "Which of the compounds will leave a metal residue when heated?",
+    "options": {
+      "A": "Cu(NO 3 )2",
+      "B": "AgNO3",
+      "C": "K2CO3",
+      "D": "CaCO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36915?exam_type=waec&type=obj&page=105",
+    "correct_answer": "B",
+    "explanation": "AgNO3 is also known as lunar caustic because it:\u00a0Creates a burning sensation and Leaves a black stain similar to the moon. Silver nitrate (AgNO3) will leave a metal residue when heated strongly.",
+    "year": "2001"
+  },
+  {
+    "number": "525",
+    "text": "A visible change is observed when a strip of iron is placed in an aqueous solution of",
+    "options": {
+      "A": "FeSO4",
+      "B": "ZnSO4",
+      "C": "CuSO4",
+      "D": "MgSO4"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/36916?exam_type=waec&type=obj&page=105",
+    "correct_answer": "C",
+    "explanation": "The blue color of the copper sulfate solution fades and eventually turns a pale green or greenish blue color.\u00a0This is because the iron displaces the copper from the copper sulfate solution, forming ferrous sulfate (FeSO4). A\u00a0visible change is observed when a strip of iron is placed in an aqueous solution of copper sulfate (CuSO4)",
+    "year": "2001"
+  }
+]

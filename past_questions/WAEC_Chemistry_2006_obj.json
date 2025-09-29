@@ -1,0 +1,380 @@
+[
+  {
+    "number": "651",
+    "text": "How many orbitals are in the d-sub shell?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37105?exam_type=waec&type=obj&page=131",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "652",
+    "text": "An element X has isotopic masses of 6 and 7. if the relative abundance is 1 to 12.5 respectively, what is the relative atomic mass of X?",
+    "options": {
+      "A": "6.0",
+      "B": "6.1",
+      "C": "6.9",
+      "D": "7.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37106?exam_type=waec&type=obj&page=131",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "653",
+    "text": "An atom 23892X decays by alpha particle emission to give an atom Y. The atomic number and mass number of Y are",
+    "options": {
+      "A": "90 and 234 respectively",
+      "B": "91 and 238 respectively",
+      "C": "92 and 236 respectively",
+      "D": "93 and 238 respectively"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37107?exam_type=waec&type=obj&page=131",
+    "correct_answer": "A",
+    "explanation": "92\n90\n42He Atomic number is 90 while mass number is 234",
+    "year": "2006"
+  },
+  {
+    "number": "654",
+    "text": "If 1 mole of sodium contains 6 x 1023 atoms, how many atoms are contained in 0.6 g of sodium? [Na = 23]",
+    "options": {
+      "A": "1.56 x 1023",
+      "B": "1.56 x 1022",
+      "C": "3.6 x 1023",
+      "D": "3.6 x 1022"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37108?exam_type=waec&type=obj&page=131",
+    "correct_answer": "B",
+    "explanation": "23\n23\n22",
+    "year": "2006"
+  },
+  {
+    "number": "655",
+    "text": "If 20 cm3 of distilled water is added to 80cm 3 of 0. 50 mol dm-3 hydrochloric acid, the new concentration of the acid will be",
+    "options": {
+      "A": "0.10mol dm-3",
+      "B": "0.20mol dm-3",
+      "C": "0.40mol dm-3",
+      "D": "2.00mol dm-3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37109?exam_type=waec&type=obj&page=131",
+    "correct_answer": "C",
+    "explanation": "\\(V_1\\) = 80cm3, \\(C_1\\) = 0.5mol/dm3\n\\(C_2\\) = ? \\(V_2) = 20cm3 + 80cm3 = 100cm3\nusing the dilution formula, \\(C_1 V_1 = C_2 V_2\\)\n0.5 x 80 = \\(C_2\\) x 100\n\\(C_2 =\u00a0\\frac{ 40}{100}\\) = 0.4mol\\(dm^{-3}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "656",
+    "text": "Consider the reaction represented by the equation. 2NaHCO3(s) \\(\\rightarrow\\) 2Na2CO 3(S) + CO 2(g) + H2O(g) what volume of carbon (IV)oxide at s.t.p is evolved when 0. 5 moles of NaHCO3 is heated? [Molar volume = 22.4 dm3 at s.t. p]",
+    "options": {
+      "A": "1.12dm3",
+      "B": "2.24dm3",
+      "C": "5.6dm3",
+      "D": "56.0dm3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37110?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "3(s)\n2\n3(S)\n2(g)\n2\n(g)\n3(s)\n3\n2\n3\n3",
+    "year": "2006"
+  },
+  {
+    "number": "657",
+    "text": "Considered the reaction: H+(aq) + OH - (aq) \u2192 H2O\n(l). The energy change taking place in the reaction above is enthalpy  of",
+    "options": {
+      "A": "formation",
+      "B": "hydration",
+      "C": "neutralization",
+      "D": "solution"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37111?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "658",
+    "text": "Which of the following processes is an endothermic reaction?",
+    "options": {
+      "A": "Dissolving NH4CI crystals in water",
+      "B": "Addition  of concentrated H2SO4",
+      "C": "Dissolving NaOH pellets in water",
+      "D": "Passing SO3 gas into water"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37112?exam_type=waec&type=obj&page=132",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "659",
+    "text": "Which of the following aqueous methods cannot be used to distinguish between a strong acid and a a weak acid?",
+    "options": {
+      "A": "Conductivity measurement",
+      "B": "Measurement of pH",
+      "C": "Measurement of heat of neutralization",
+      "D": "Action on starch iodide paper"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37113?exam_type=waec&type=obj&page=132",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "660",
+    "text": "The indicator used in neutralizing CH3COOH and NaOH solution has pH range of",
+    "options": {
+      "A": "3-5",
+      "B": "7-8",
+      "C": "8-103",
+      "D": "10-12"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37114?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "661",
+    "text": "When aqueous ammonia is added to one of the following solutions,a white precipitate which dissolved in excess ammonia is formed Identify the solution.",
+    "options": {
+      "A": "ZnCl2(aq)",
+      "B": "Pb(NO3)2(aq)",
+      "C": "CuSO4(aq)",
+      "D": "FeSO4(aq)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37115?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "662",
+    "text": "Which of the following compounds absorbs moisture from the atmosphere and dissolves in it?",
+    "options": {
+      "A": "FeCI3",
+      "B": "MgSO4.7H2O",
+      "C": "Na2SO 4",
+      "D": "KCI"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37116?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "663",
+    "text": "Consider the reaction represented by the equation: 2SO\\(_{2(g)}\\) + O\\(_{2(g)}\\) \u21cc 2SO\\(_{3(g)}\\); \u2206H = - 197 kJmol\\(^{-1}\\). Which of the following conditions will not increase the yield of sulphur (VI) oxide?",
+    "options": {
+      "A": "Increase in temperature",
+      "B": "Decrease in temperature",
+      "C": "Increase in pressure",
+      "D": "Addition of O2 into the mixture"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37117?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "The reaction is an exothermic reaction (\u2206H=-197kjmol).For continual yield of sulphur(IV)oxide, heat must be liberated.So,increasing the temperature of the reaction will lead to reduction in yield of \\(SO_3\\) since it favours backward reaction which is endothermic.",
+    "year": "2006"
+  },
+  {
+    "number": "664",
+    "text": "Electrolysis is applied in the following processes except",
+    "options": {
+      "A": "electroplating",
+      "B": "extraction of aluminium",
+      "C": "extraction of iron",
+      "D": "purification of copper"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37118?exam_type=waec&type=obj&page=133",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "665",
+    "text": "The oxidation number of iodine in the iodate ion (IO -3) is",
+    "options": {
+      "A": "-5",
+      "B": "-1",
+      "C": "+1",
+      "D": "+5"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37119?exam_type=waec&type=obj&page=133",
+    "correct_answer": "D",
+    "explanation": "3",
+    "year": "2006"
+  },
+  {
+    "number": "666",
+    "text": "Metals can be extracted from their ores by a process involving",
+    "options": {
+      "A": "reduction",
+      "B": "oxidation",
+      "C": "hydrolysis",
+      "D": "decomposition"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37120?exam_type=waec&type=obj&page=134",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "667",
+    "text": "Consider the reaction: 2AI(s) + 6H+ (aq) \u2192 2AI3+ (aq) + 3H2(g). What is the total number of moles of electrons transferred from the aluminium atoms to the hydrogen ions?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37121?exam_type=waec&type=obj&page=134",
+    "correct_answer": "D",
+    "explanation": "(s)\n+\n(aq)\n3+(aq)+ 3H2(g). One aluminium atom transfers 3 electrons :. Two aluminium atoms will transfer 2x3=6 electrons",
+    "year": "2006"
+  },
+  {
+    "number": "668",
+    "text": "In the reaction represented by the equation. 5Fe 2+ (aq) + MnO- 4(aq) + 8H+ (aq) \u2192 5Fe3+(aq) + Mn2+(aq) + 4H2O(l) which species is reduced?",
+    "options": {
+      "A": "Fe2+",
+      "B": "MnO-4",
+      "C": "H+",
+      "D": "Fe3+"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37122?exam_type=waec&type=obj&page=134",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "669",
+    "text": "Which of the following industrial processes is chlorines not used?",
+    "options": {
+      "A": "Production of polyvinylchloride (PVC)",
+      "B": "Manufacturing of hydrochloric acid",
+      "C": "Manufacturing of common salt",
+      "D": "Manufacturing of domestic bleach"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37123?exam_type=waec&type=obj&page=134",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "670",
+    "text": "What type of reaction occurs between vegetable oil and plant ash extract?",
+    "options": {
+      "A": "Displacement",
+      "B": "Dehydration",
+      "C": "Neutralization",
+      "D": "Saponiflication"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37124?exam_type=waec&type=obj&page=134",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "671",
+    "text": "Which of the following compounds is an alkanoate?",
+    "options": {
+      "A": "CH3COOH",
+      "B": "CH3COOCH3",
+      "C": "CH3CH2OH",
+      "D": "CH3CH2COOH"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37125?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "672",
+    "text": "What is CaHb in the following equation? C a\nH b + 5O2 \u2192 3CO 2 + 4H2O",
+    "options": {
+      "A": "C 3H4",
+      "B": "C3H6",
+      "C": "C3H8",
+      "D": "C 5H 10"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37126?exam_type=waec&type=obj&page=135",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "673",
+    "text": "Greenhouse effect can be reduced by controlling",
+    "options": {
+      "A": "water evaporation",
+      "B": "burning wood and fossil fuel",
+      "C": "the use of aerosols",
+      "D": "the use of artificial fertilizers"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37127?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "674",
+    "text": "Waste plastics accumulate in the soil and pollute the environment because plastic materials are",
+    "options": {
+      "A": "insoluble in water",
+      "B": "non -biodegradable",
+      "C": "easily affected by heat",
+      "D": "inflammab,le"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37128?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "675",
+    "text": "Which of the following substance is an ore of iron?",
+    "options": {
+      "A": "Bauxite",
+      "B": "Cassiterite",
+      "C": "Haematite",
+      "D": "Steel"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37129?exam_type=waec&type=obj&page=135",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "676",
+    "text": "The ammonium compound used in the manufacture of dry cells is",
+    "options": {
+      "A": "NH4NO3",
+      "B": "(NH4)SO4",
+      "C": "NH4Cl",
+      "D": "(NH4)2CO3"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37130?exam_type=waec&type=obj&page=136",
+    "correct_answer": "C",
+    "explanation": "The ammonium compound used in a standard dry cell as the electrolyte is\u00a0ammonium chloride (NH4Cl), typically in the form of a paste.",
+    "year": "2006"
+  },
+  {
+    "number": "677",
+    "text": "Which of the following equations represents a substitution reaction?",
+    "options": {
+      "A": "C 2H10(g) + CI 2(g) \u2192 C4H9 CI(g) + HCI(g)",
+      "B": "C 2H4(g) + HCI (g) \u2192 C 2H5 CI(l)",
+      "C": "C2H2(g) + 2H 2(g) \u2192 C 2H6(g)",
+      "D": "C 3H4(g) + 402(g) \u2192 3CO2(g) + 2H 2O(g)"
+    },
+    "answer_url": "https://myschool.ng/classroom/chemistry/37131?exam_type=waec&type=obj&page=136",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  }
+]

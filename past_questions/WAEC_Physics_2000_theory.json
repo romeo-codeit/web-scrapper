@@ -1,0 +1,137 @@
+[
+  {
+    "number": "241",
+    "text": "A body of mass 0.6kg is thrown vertically upward from the ground with a speed of 20ms\\(^{-2}\\). Calculate its;\n(i) potential energy at the maximum height reached.\n(ii) kinetic energy just before it hits the ground.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54134?exam_type=waec&type=theory&page=49",
+    "correct_answer": "Kinetic energy at point of projection = \\(\\frac{1}{2} mv^2 \\times 0.6 \\times 20^2\\) = 120J\nor\nV\\(^2\\) = U\\(^2\\) - 2gs\nS = \\(\\frac{v^2 - U^2}{-2g}\\) = \\(\\frac{0^2 - 2062}{-2 \\times 10}\\)\n= 20cm\nP.E. = mgs or mgh 0.6 x 10 x 20 = 120J\nii) Kinetic energy in reaching ground = Potential energy at highest point = 120J.",
+    "explanation": "Kinetic energy at point of projection = \\(\\frac{1}{2} mv^2 \\times 0.6 \\times 20^2\\) = 120J\nor\nV\\(^2\\) = U\\(^2\\) - 2gs\nS = \\(\\frac{v^2 - U^2}{-2g}\\) = \\(\\frac{0^2 - 2062}{-2 \\times 10}\\)\n= 20cm\nP.E. = mgs or mgh 0.6 x 10 x 20 = 120J\nii) Kinetic energy in reaching ground = Potential energy at highest point = 120J.",
+    "year": "2000"
+  },
+  {
+    "number": "242",
+    "text": "What is a projectile? Give four examples of projectiles in everyday life",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54135?exam_type=waec&type=theory&page=49",
+    "correct_answer": "A projectile is an object or body launched into the air and allowed to move on its own or moving freely under gravity. Examples are - a shot arrow, a thrown javeline, a fired bullet, a kicked football etc.",
+    "explanation": "A projectile is an object or body launched into the air and allowed to move on its own or moving freely under gravity. Examples are - a shot arrow, a thrown javeline, a fired bullet, a kicked football etc.",
+    "year": "2000"
+  },
+  {
+    "number": "243",
+    "text": "a) Define the term surface tension\n(b) Calculate the force required to lift a needle 4cm long off the surface of water if the surface tension of water is 7.3 x 10\\(^{-4}\\) NM\\(^{-1}\\)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54136?exam_type=waec&type=theory&page=49",
+    "correct_answer": "a) Surface tension is defined as a force per unit length perpendicular to any line on the surface of the liquid OR Property of a liquid which makes the surface of liquid behave like an elastic skin.\n(b) Surface tension =\\(\\frac{F}{2L}\\)\nF = 7.3 x 1\\(^{-2}\\) x 2 x 0.04 = 5.8 x 10\\(^{-3}\\)N",
+    "explanation": "a) Surface tension is defined as a force per unit length perpendicular to any line on the surface of the liquid OR Property of a liquid which makes the surface of liquid behave like an elastic skin.\n(b) Surface tension =\\(\\frac{F}{2L}\\)\nF = 7.3 x 1\\(^{-2}\\) x 2 x 0.04 = 5.8 x 10\\(^{-3}\\)N",
+    "year": "2000"
+  },
+  {
+    "number": "244",
+    "text": "State any three properties of matter which are common to all substances.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54137?exam_type=waec&type=theory&page=49",
+    "correct_answer": "(i) Matter is made up of tiny particles, molecules or atoms\n(ii) Matter occupies space\n(iii) Matter possesses inertia, mass or weight\n(iv) Matter exerts pressure.",
+    "explanation": "(i) Matter is made up of tiny particles, molecules or atoms\n(ii) Matter occupies space\n(iii) Matter possesses inertia, mass or weight\n(iv) Matter exerts pressure.",
+    "year": "2000"
+  },
+  {
+    "number": "245",
+    "text": "Define (i) Elasticity; (ii) Young's modulus; (iii) Force constant.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54138?exam_type=waec&type=theory&page=49",
+    "correct_answer": "(i) Elasticity is the ability of a material to regain its original shape or size after deformations. OR after removal of stress force, OR after it has been 1 compressed.\n(ii) Young's Modulus is the ratio of tensile I or compressive stress to tensile or compressive strain\n(iii) Force constant = the amount of force that causes a unit extension of an elastic material. OR\n\\(\\frac{Force (F)}{ Extension(e)}\\) of an elastic material.",
+    "explanation": "(i) Elasticity is the ability of a material to regain its original shape or size after deformations. OR after removal of stress force, OR after it has been 1 compressed.\n(ii) Young's Modulus is the ratio of tensile I or compressive stress to tensile or compressive strain\n(iii) Force constant = the amount of force that causes a unit extension of an elastic material. OR\n\\(\\frac{Force (F)}{ Extension(e)}\\) of an elastic material.",
+    "year": "2000"
+  },
+  {
+    "number": "246",
+    "text": "A force of 40 N is applied at the end of a wire 4m long and produces an extension of 0.24mm. If the diameter of the wire is 2.00mm, calculate the;\n(i) stress on the wire; (ii) strain in the wire.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54139?exam_type=waec&type=theory&page=50",
+    "correct_answer": "(i) Stress = \\(\\frac{force}{\\text{cross sectiona area}}\\)\n= \\(\\frac{40}{3.142 (1 \\times 10^{-3})^2}\\) = 12.74 x 10\\(^{6}\\)Nm\\(^{-2}\\)\n(ii) Strain = \\(\\frac{e}{I}\\) = \\(\\frac{24 \\times 10^{-5}}{4}\\)\n= 6.0 x 10\\(^{-5}\\)",
+    "explanation": "(i) Stress = \\(\\frac{force}{\\text{cross sectiona area}}\\)\n= \\(\\frac{40}{3.142 (1 \\times 10^{-3})^2}\\) = 12.74 x 10\\(^{6}\\)Nm\\(^{-2}\\)\n(ii) Strain = \\(\\frac{e}{I}\\) = \\(\\frac{24 \\times 10^{-5}}{4}\\)\n= 6.0 x 10\\(^{-5}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "247",
+    "text": "(a) Differentiate between interference and polarisation as applied to waves.\n(b) Mention two uses of polaroids",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54140?exam_type=waec&type=theory&page=50",
+    "correct_answer": "a)(i) Interference occurs in all kinds of waves i.e. longitudinal or transverse, while polarisation occurs only in transverse waves.\n(ii) - In sun glasses to reduce the intensity of light.\n- To produce polarised light.\n- To produce three dimensional pictures.",
+    "explanation": "a)(i) Interference occurs in all kinds of waves i.e. longitudinal or transverse, while polarisation occurs only in transverse waves.\n(ii) - In sun glasses to reduce the intensity of light.\n- To produce polarised light.\n- To produce three dimensional pictures.",
+    "year": "2000"
+  },
+  {
+    "number": "248",
+    "text": "(a) Define angle of contact\n(b) Draw sketches to show angles of contact for a capillary tube dipped vertically in (i) water; (ii) mercury.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54141?exam_type=waec&type=theory&page=50",
+    "correct_answer": "(a) Angle of contact - the angle, measured through the liquid between the wall of the container and the tangent of the meniscus.(b)",
+    "explanation": "(a) Angle of contact - the angle, measured through the liquid between the wall of the container and the tangent of the meniscus.(b)",
+    "year": "2000"
+  },
+  {
+    "number": "249",
+    "text": "During the electrolysis of copper (II) tetraoxosulphate (VI) solution, a steady current of 4.0 x 10\\(^2\\) A flowing for one hour liberated 0.48 g of copper. Calculate the mass of copper liberated by one coulomb of charge.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54142?exam_type=waec&type=theory&page=50",
+    "correct_answer": "M = Zit\nZ = \\(\\frac{M}{It}\\)\n= \\(\\frac{0.48 \\times 10^{-3}}{4 \\times 10^2 \\times 3600}\\) = 3.3 x 10\\(^{-10}\\)kgc\\(^{-1}\\)",
+    "explanation": "M = Zit\nZ = \\(\\frac{M}{It}\\)\n= \\(\\frac{0.48 \\times 10^{-3}}{4 \\times 10^2 \\times 3600}\\) = 3.3 x 10\\(^{-10}\\)kgc\\(^{-1}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "250",
+    "text": "An electron of mass 9. 1 x 10\\(^{-31}\\) kg moves with a velocity of 4.2 x 10 ms\\(^{-1}\\) between the cathode and anode of an x-ray tube. Calculate the wavelength. (Take Planck's constant h = 6.6 x 10\\(^{-34}\\) J S)",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54143?exam_type=waec&type=theory&page=50",
+    "correct_answer": "P = mv = 9.1 x 10\\(^{31}\\) x 4.2 x 10\\(^{-7}\\)\n= 9.1 x 4.2 x 10\\(^{-24}\\) Kgms\\(^{-1}\\)\n\\(\\lambda = \\frac{h}{p} = \\frac{6.6 \\times 10^{-34}}{9.1 \\times 4.2 \\times 10^{-24}}\\)\n= 1.73 x 10\\(^{-11}\\)m\nor\n\\(\\lambda = \\frac{h}{mv} = \\frac{6.6 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 4.2 \\times 10^7}\\) = 1.73 x 10\\(^{-11}\\)",
+    "explanation": "P = mv = 9.1 x 10\\(^{31}\\) x 4.2 x 10\\(^{-7}\\)\n= 9.1 x 4.2 x 10\\(^{-24}\\) Kgms\\(^{-1}\\)\n\\(\\lambda = \\frac{h}{p} = \\frac{6.6 \\times 10^{-34}}{9.1 \\times 4.2 \\times 10^{-24}}\\)\n= 1.73 x 10\\(^{-11}\\)m\nor\n\\(\\lambda = \\frac{h}{mv} = \\frac{6.6 \\times 10^{-34}}{9.1 \\times 10^{-31} \\times 4.2 \\times 10^7}\\) = 1.73 x 10\\(^{-11}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "251",
+    "text": "(a)(i) Define the term linear momentum.\n(ii) State the law of conservation of linear momentum.\n(b) A ball P of mass 0.25 kg, loses one-third of its velocity when it makes a head on collision with an identical ball Q at rest. After the collision, Q moves off with a speed of 2ms\\(^{-1}\\) in the original direction of P. Calculate the initial velocity of R\n(c)(i) State Newton's second law of motion.\n(ii) Show that F = ma where F is the magnitude of the force acting on a body of mass m to give it an acceleration of magnitude a.\n(iii) The engine of a vehicle moves it forward with a force of 9600 N against a resistive force of 2200 N. If the mass of the vehicle is 3400 kg, calculate the acceleration produced.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54145?exam_type=waec&type=theory&page=51",
+    "correct_answer": "(a)(i) The momentum of a body is the product of its mass and its velocity.\n(ii) The total momentum of a system before collision equals to the total momentum after collision provided no external force acts. OR In a system of colliding bodies the total momentum is constant provided no external force acts.\n(b) Mp Up + Mq Uq = Mp Vp + Mq Vq\n0.25 Up + 0 = 0.25 x \\(\\frac{2}{3}\\)\u00a0 Up + 0.25 x 2; 0.25\n(Up - 2/3 Up) = 0.50; 1/3\nUp = \\(\\frac{0.50}{0.25}\\) = 2m/s\nUp = 2 x 3 = 6m/s\n(c)(i) Newton's second law of motion states that the time rate of change of linear momentum is directly proportional to the force causing the change and the change takes place in the direction of the force\n(ii) Let the momentum before collision = mu and momentum after collision = my, change in momentum = my - mu, Change in momentum in unit time\n= \\(\\frac{mv - mu}{t}\\)\nFrom second law: \\(\\frac{mv - mu}{t}\\) = KF\n\\(\\frac{m(v - u)}{t}\\)\u00a0 = KF\nIf m = 1kg, a = 1ms\\(^{-2}\\) and F = 1N, K = 1\nma = F\n(iii) Resultant force on the vehicle = 9600 - 200 = 7400N.\nBut F = ma\na = \\(\\frac{F}{m} = \\frac{7400}{3400}\\) = 2.18ms\\(^{-2}\\) or 2.2ms\\(^{-2}\\)",
+    "explanation": "(a)(i) The momentum of a body is the product of its mass and its velocity.\n(ii) The total momentum of a system before collision equals to the total momentum after collision provided no external force acts. OR In a system of colliding bodies the total momentum is constant provided no external force acts.\n(b) Mp Up + Mq Uq = Mp Vp + Mq Vq\n0.25 Up + 0 = 0.25 x \\(\\frac{2}{3}\\)\u00a0 Up + 0.25 x 2; 0.25\n(Up - 2/3 Up) = 0.50; 1/3\nUp = \\(\\frac{0.50}{0.25}\\) = 2m/s\nUp = 2 x 3 = 6m/s\n(c)(i) Newton's second law of motion states that the time rate of change of linear momentum is directly proportional to the force causing the change and the change takes place in the direction of the force\n(ii) Let the momentum before collision = mu and momentum after collision = my, change in momentum = my - mu, Change in momentum in unit time\n= \\(\\frac{mv - mu}{t}\\)\nFrom second law: \\(\\frac{mv - mu}{t}\\) = KF\n\\(\\frac{m(v - u)}{t}\\)\u00a0 = KF\nIf m = 1kg, a = 1ms\\(^{-2}\\) and F = 1N, K = 1\nma = F\n(iii) Resultant force on the vehicle = 9600 - 200 = 7400N.\nBut F = ma\na = \\(\\frac{F}{m} = \\frac{7400}{3400}\\) = 2.18ms\\(^{-2}\\) or 2.2ms\\(^{-2}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "252",
+    "text": "(a)(i) Mention two modes of heat transfer other than convection.\n(ii) Explain land and sea breezes.\n(b) An iron rod of length 30cm is heated through 50 kelvin. Calculate its increase in length. (linear expansivity of iron = 1.2 x 10\\(^{-5}\\)K\\(^{-1}\\)\n(c) An electric heater immersed in some water raises the temperature of the water from 40\u00b0C to 100\u00b0C in 6 minutes. After another 25 minutes, it is noticed that half the water has boiled away. Neglecting heat losses to the surrounding, calculate the specific latent heat of vaporisation of water.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54146?exam_type=waec&type=theory&page=51",
+    "correct_answer": "(a)(i) Conduction and Radiation.\n(ii)\nThe specific heat capacity of land is less than that of sea.Land Breeze: At night land cools faster than sea, warm air from above the sea rises upward. It's place is taken by cooler air from above the land.Sea Breeze: During the day the land is hotter than the sea. Warm air above land rises, and its place is taken by cooler air from the sea.\n(b) Increase in length (L\\(_2\\) - L\\(_1\\) = L\\(_1 \\alpha \\Delta \\theta = 30 \\times 1.2 \\times 10^{-5} \\times 50 = 1.8 \\times 10^{-2}\\) cm\n(c) Ivt = mc\\(\\Delta \\theta\\)\nPower x time = mc\\(\\Delta \\theta\\)\n(i) Iv x 360 = m x c 60 ----(i) Ivt = \\(\\frac{1}{2}\\)mL\n(ii) Ivx 25 x 60 = \\(\\frac{1}{2}\\)mL ------(ii)\n\\(\\frac{Iv \\times 25 \\times 60}{Iv \\times 360} = \\frac{\\frac{1}{2}mL}{mc \\times 60}\\)\nL = \\(\\frac{25 \\times 60 \\times C \\times 60 \\times 2}{360}\\)\n= \\(\\frac{25 \\times 60 \\times 4200 \\times 60 \\times 2}{360}\\)\n= 2.1 x 10\\(^5\\) Jkg\\(^{-1}\\)",
+    "explanation": "(a)(i) Conduction and Radiation.\n(ii)\nThe specific heat capacity of land is less than that of sea.Land Breeze: At night land cools faster than sea, warm air from above the sea rises upward. It's place is taken by cooler air from above the land.Sea Breeze: During the day the land is hotter than the sea. Warm air above land rises, and its place is taken by cooler air from the sea.\n(b) Increase in length (L\\(_2\\) - L\\(_1\\) = L\\(_1 \\alpha \\Delta \\theta = 30 \\times 1.2 \\times 10^{-5} \\times 50 = 1.8 \\times 10^{-2}\\) cm\n(c) Ivt = mc\\(\\Delta \\theta\\)\nPower x time = mc\\(\\Delta \\theta\\)\n(i) Iv x 360 = m x c 60 ----(i) Ivt = \\(\\frac{1}{2}\\)mL\n(ii) Ivx 25 x 60 = \\(\\frac{1}{2}\\)mL ------(ii)\n\\(\\frac{Iv \\times 25 \\times 60}{Iv \\times 360} = \\frac{\\frac{1}{2}mL}{mc \\times 60}\\)\nL = \\(\\frac{25 \\times 60 \\times C \\times 60 \\times 2}{360}\\)\n= \\(\\frac{25 \\times 60 \\times 4200 \\times 60 \\times 2}{360}\\)\n= 2.1 x 10\\(^5\\) Jkg\\(^{-1}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "253",
+    "text": "(a)(i) State the laws of refraction of light.\n(ii) Describe an experiment to determine the refractive index, n, of the material of an equilaleral triangular glass prism using the minimum deviation method.\n(b) A rectangular glass prism of thickness 12cm is placed on a mark on a piece of paper resting on a horizontal bench:\n(i) Draw a ray diagram to show the apparent position of the mark in the glass prism.\n(ii) If the refractive-index of the material of the prism is 1.5, calculate the apparent displacement of the mark.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54148?exam_type=waec&type=theory&page=51",
+    "correct_answer": "(a)(i) The incident ray, the refracted ray, and the normal at the point of incidence, all lie in the same plane. OR The ratio of the sine of angle of incidence to the sine of angle of refraction is a constant \\(\\frac{\\text{Sin i}}{\\text{Sin r}}\\) = Constant\nPlace the triangular prism on the drawing sheet and trace the outline. Arrange two pins on one side vertically and using two other pins, determine the emergent ray on the other side. Remove the prism and. join the position of pins to meet the outline of the prism. Draw the normal at the point of incidence. Produce both the incident and the emergent rays to intersect and measure the angles of incidence I\u00b0 and the deviation d\u00b0. Repeat the procedure for at least four other values of i. Plot a graph of d on the vertical axis against i on the horizontal axis. Obtain minimum deviation D as below.\nn = \\(\\frac{sin \\frac{1}{2}(A +D)}{sin \\frac{1}{2} A}\\)\n= \\(\\frac{sin \\frac{1}{2} (60 + D)}{sin 30}\\)\nPrecautions\n- neat traces\n- pins fixed vertically\n- Avoid parallax in reading protector\n(b)(i)\n(ii) n = \\(\\frac{\\text{real depth}}{\\text{apparent depth}}\\)\napparent depth = \\(\\frac{\\text{real depth}}{n}\\)\n= \\(\\frac{12}{1.5}\\)\n= 8cm\nApparent displacement = real depth - apparent depth\n= 12 - 8 = 4cm",
+    "explanation": "(a)(i) The incident ray, the refracted ray, and the normal at the point of incidence, all lie in the same plane. OR The ratio of the sine of angle of incidence to the sine of angle of refraction is a constant \\(\\frac{\\text{Sin i}}{\\text{Sin r}}\\) = Constant\nPlace the triangular prism on the drawing sheet and trace the outline. Arrange two pins on one side vertically and using two other pins, determine the emergent ray on the other side. Remove the prism and. join the position of pins to meet the outline of the prism. Draw the normal at the point of incidence. Produce both the incident and the emergent rays to intersect and measure the angles of incidence I\u00b0 and the deviation d\u00b0. Repeat the procedure for at least four other values of i. Plot a graph of d on the vertical axis against i on the horizontal axis. Obtain minimum deviation D as below.\nn = \\(\\frac{sin \\frac{1}{2}(A +D)}{sin \\frac{1}{2} A}\\)\n= \\(\\frac{sin \\frac{1}{2} (60 + D)}{sin 30}\\)\nPrecautions\n- neat traces\n- pins fixed vertically\n- Avoid parallax in reading protector\n(b)(i)\n(ii) n = \\(\\frac{\\text{real depth}}{\\text{apparent depth}}\\)\napparent depth = \\(\\frac{\\text{real depth}}{n}\\)\n= \\(\\frac{12}{1.5}\\)\n= 8cm\nApparent displacement = real depth - apparent depth\n= 12 - 8 = 4cm",
+    "year": "2000"
+  },
+  {
+    "number": "254",
+    "text": "(a) Define the following terms:\n(i) Electric field intensity\n(ii) Electric potential\n(b) The diagram below illustrates two collinear electric charges of magnitudes + Q and -Q. The charges are equidistant from a point P at which a rest charge is placed.\n\nCopy the diagram and use arrows to indicate, from the point P, the direction of the;\n(i) electric force F\\(_1\\) due to + Q.\n(ii) electric force F\\(_2\\) due to -Q.\n(iii) electric field intensity E.\n\u00a0\n(c) What is meant by dielectric substance?\n(ii) List the factors which determine the capacitance of a parallel plate capacitor and state the effect each of them has on the capacitance.The diagram above represents a section of a circuit. Calculate the effective capacitance in the section.\n(iii)\n\nThe diagram above represents a section of a circuit. Calculate the effective capacitance in the section.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54150?exam_type=waec&type=theory&page=51",
+    "correct_answer": "(a)(i) Electric field intensity = Electric force per unit charge OR As negative potential i.e.E = \\(\\frac{-V}{d}\\)\nOR E = \\(\\frac{F}{Q}\\). where F is the force,\nQ is the charge and E electric field intensity.\n(ii) Electric potential =- work done per unit charge to bring a (positive) charge from infinity to a point in an electric field.\n(b)\n(c) (i) A dielectric substance is any insulating material placed between the plates of a capacitor\n(ii) FactorsEffect on capacitorcommon area of platesDistance between platesNature of dielectriccapacitance increases with areacapacitance decreased with increasing distancecapacitance increases with dielectric constant\nC = \\(\\frac{KE_oA}{A}\\)\n(iii) C\\(_{2.3}\\) = C\\(_2\\) + C\\(_3\\) = 20 + 20 = 40\\(\\mu\\) F\n\\(\\frac{1}{C_T} = \\frac{1}{C_{2.3}} + \\frac{1}{C_1}\\)\n\\(C_T = \\frac{\\frac{C_{2.3} \\times C_1}{C_2.3 + C_1} = \\frac{40 \\times 40}{40 \\times 40}\\)\n= 20\\(\\mu F\\)",
+    "explanation": "(a)(i) Electric field intensity = Electric force per unit charge OR As negative potential i.e.E = \\(\\frac{-V}{d}\\)\nOR E = \\(\\frac{F}{Q}\\). where F is the force,\nQ is the charge and E electric field intensity.\n(ii) Electric potential =- work done per unit charge to bring a (positive) charge from infinity to a point in an electric field.\n(b)\n(c) (i) A dielectric substance is any insulating material placed between the plates of a capacitor\n(ii) FactorsEffect on capacitorcommon area of platesDistance between platesNature of dielectriccapacitance increases with areacapacitance decreased with increasing distancecapacitance increases with dielectric constant\nC = \\(\\frac{KE_oA}{A}\\)\n(iii) C\\(_{2.3}\\) = C\\(_2\\) + C\\(_3\\) = 20 + 20 = 40\\(\\mu\\) F\n\\(\\frac{1}{C_T} = \\frac{1}{C_{2.3}} + \\frac{1}{C_1}\\)\n\\(C_T = \\frac{\\frac{C_{2.3} \\times C_1}{C_2.3 + C_1} = \\frac{40 \\times 40}{40 \\times 40}\\)\n= 20\\(\\mu F\\)",
+    "year": "2000"
+  },
+  {
+    "number": "255",
+    "text": "(a)(1) State the energy transformations which take place during the operation of a modern x-ray tube.\n(ii) Distinguish between hard and soft x-rays.\n(iii) State three uses of x-rays.\n(iv) Mention one hazard of over-exposure to x-rays in a radiological laboratory, and indicate any two safety precautions.\n(b) A possible fusion reaction is \\(^2_1 H + ^2_1 H \\to ^3_1H + ^1_1H + Q\\)\nwhere Q is the energy released as a result of the reaction. If Q = 4.03 MeV, calculate the atomic mass of \\(^3_1H\\) in atomic mass units. (\\(^2_1 H = 2.01410 U; ^1_1H = 1.00783 U; 1U = 931 MeV\\))",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/54152?exam_type=waec&type=theory&page=51",
+    "correct_answer": "(i) Electrical \\(to\\) thermal \\(to\\) mechanical (kinetic energy) \\(to\\) thermal \\(to\\) electromagnetic\n(ii) Distinction between hard and soft X-rays\nHard X-raysSoft x-rays(i) High (target) voltage(ii) short wavelength(iii) High penetration(iv) produced by high voltageLow (target) voltageLong wavelengthLow penetrationProduced by low voltage\n(iii) Uses:\n- Used to detect hidden cracks in materials\n- Used to detect alteration to work of art\n- To show broken bones in human body\n- used in crystallography i.e. to study crystals\n- used in diagnosis of ulcer\n(iv) Hazards: genetic mutations\n- skin burn\n- leukemia\n- Tissue damage\n- Tissue damage\n- baldness\n- graying\n- cataracts\n(v) Safety precautions:\nuse of dosimeter, badges of GM counters\n- wearing of lead coats\n- Periodic medical counters\n- wearing of lead coats\n- periodic medical check up\n(b)\n\\(^2_1H + ^2_1H \\to ^3_1H + ^1_1H + Q\\)\nLet atomic mass unit of tritium \\(^3_1H\\) be X\n2.01410 x 2 x 931 = (x + 1.00783) 931 + 4.03\n\\(\\frac{3750.254 - 4.03}{931}\\) = x + 1.00783\n4.0238 - 1.0078 = x\n3.106 = x",
+    "explanation": "(i) Electrical \\(to\\) thermal \\(to\\) mechanical (kinetic energy) \\(to\\) thermal \\(to\\) electromagnetic\n(ii) Distinction between hard and soft X-rays\nHard X-raysSoft x-rays(i) High (target) voltage(ii) short wavelength(iii) High penetration(iv) produced by high voltageLow (target) voltageLong wavelengthLow penetrationProduced by low voltage\n(iii) Uses:\n- Used to detect hidden cracks in materials\n- Used to detect alteration to work of art\n- To show broken bones in human body\n- used in crystallography i.e. to study crystals\n- used in diagnosis of ulcer\n(iv) Hazards: genetic mutations\n- skin burn\n- leukemia\n- Tissue damage\n- Tissue damage\n- baldness\n- graying\n- cataracts\n(v) Safety precautions:\nuse of dosimeter, badges of GM counters\n- wearing of lead coats\n- Periodic medical counters\n- wearing of lead coats\n- periodic medical check up\n(b)\n\\(^2_1H + ^2_1H \\to ^3_1H + ^1_1H + Q\\)\nLet atomic mass unit of tritium \\(^3_1H\\) be X\n2.01410 x 2 x 931 = (x + 1.00783) 931 + 4.03\n\\(\\frac{3750.254 - 4.03}{931}\\) = x + 1.00783\n4.0238 - 1.0078 = x\n3.106 = x",
+    "year": "2000"
+  }
+]
