@@ -1,0 +1,619 @@
+[
+  {
+    "number": "190",
+    "text": "Which of the following is not an external user of accounting information?",
+    "options": {
+      "A": "management",
+      "B": "creditors",
+      "C": "shareholders",
+      "D": "government"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37616?exam_type=waec&type=obj&page=38",
+    "correct_answer": "A",
+    "explanation": "External users\u00a0are people outside the business entity (organization) who use\u00a0accounting information. Examples of\u00a0external users\u00a0are suppliers, banks, customers, investors, potential investors, and tax authorities.\nThe management are internal users of accounting information.",
+    "year": "2010"
+  },
+  {
+    "number": "191",
+    "text": "A trial balance is prepared to",
+    "options": {
+      "A": "detect fraud",
+      "B": "ascertain losses in a trading period",
+      "C": "determine opening capital",
+      "D": "test arithmetical accuracy of ledger entries"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37617?exam_type=waec&type=obj&page=39",
+    "correct_answer": "D",
+    "explanation": "Preparing a\u00a0trial balance\u00a0for a company serves to detect any mathematical errors that have occurred in the double-entry accounting system. If the total debits equal the total credits, the\u00a0trial balance\u00a0is considered to be balanced, and there should be no mathematical errors in the ledgers.",
+    "year": "2010"
+  },
+  {
+    "number": "192",
+    "text": "Which of the following is the reason why a seller allows a customer cash discount?",
+    "options": {
+      "A": "agreement to become a regular customer",
+      "B": "introducing a new customer to the seller",
+      "C": "settlement of account within a stated period",
+      "D": "placing a larger order"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37618?exam_type=waec&type=obj&page=39",
+    "correct_answer": "C",
+    "explanation": "Small\u00a0cash discounts\u00a0benefit the\u00a0seller\u00a0because they increase the likelihood that a buyer will pay quickly, therefore providing the\u00a0seller\u00a0with\u00a0cash\u00a0in a shorter period of time, as it is better to receive e.g. 95% of an invoice with a few days than wait 30 or more days to receive the full amount.",
+    "year": "2010"
+  },
+  {
+    "number": "193",
+    "text": "A ledger is a",
+    "options": {
+      "A": "principal book of accounts",
+      "B": "book of original entry",
+      "C": "record of credit transactions",
+      "D": "summary of entries"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37619?exam_type=waec&type=obj&page=39",
+    "correct_answer": "A",
+    "explanation": "Aledgeris the principal book\u00a0\u00a0that\u00a0\u00a0contains a record of business transactions.",
+    "year": "2010"
+  },
+  {
+    "number": "194",
+    "text": "Which of the following is not found in a trial balance?",
+    "options": {
+      "A": "opening stock",
+      "B": "closing stock",
+      "C": "capital",
+      "D": "rent paid"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37621?exam_type=waec&type=obj&page=39",
+    "correct_answer": "B",
+    "explanation": "Closing stock\u00a0is the leftover\u00a0balance\u00a0out of goods which were purchased during an accounting period. Total purchases are already included in the\u00a0trial balance, Hence\u00a0closing stock\u00a0should not be included in the\u00a0trial balance\u00a0again. If it is included, the effect will be doubled.",
+    "year": "2010"
+  },
+  {
+    "number": "195",
+    "text": "Use the following information to answer the question given\n\\(\\begin{array}{c|c} \\text{Jan. 1} & \\text{\u20a6}\\\\ \\hline \\text{1/1/08 Capital introduced by cash} & 50,000 \\\\ \\text{2/1/08 Bought goods for retail by cash} & 10,000\\\\ \\text{3/1/08 Sold fixtures by cash} & 5,000\\\\ \\text{4/1/08 Sold goods to Lagbaja on credit} & 3,000\\\\ \\text{5/1/08 Bought goods on credit from Tamedu}& 8,000\\end{array}\\)\nCash balance at 5/1/08 is",
+    "options": {
+      "A": "\u20a650,000",
+      "B": "\u20a640,000",
+      "C": "\u20a645,000",
+      "D": "\u20a630,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37622?exam_type=waec&type=obj&page=39",
+    "correct_answer": "C",
+    "explanation": "The amount of money in an account. It is calculated by adding the initial deposit to all subsequent deposits and then subtracting all disbursements.\ncapital introduced\u00a0 \u00a050000purchase\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10000sales\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a05000Bal c/d450005500055000\ncash balance = 45000",
+    "year": "2010"
+  },
+  {
+    "number": "196",
+    "text": "Use the following information to answer the question given\n\\(\\begin{array}{c|c} \\text{Jan. 1} & \\text{\u20a6}\\\\ \\hline \\text{1/1/08 Capital introduced by cash} & 50,000 \\\\ \\text{2/1/08 Bought goods for retail by cash} & 10,000\\\\ \\text{3/1/08 Sold fixtures by cash} & 5,000\\\\ \\text{4/1/08 Sold goods to Lagbaja on credit} & 3,000\\\\ \\text{5/1/08 Bought goods on credit from Tamedu}& 8,000\\end{array}\\)\nBalance in Purchases account at 5/1/08 is",
+    "options": {
+      "A": "\u20a623,000",
+      "B": "\u20a618,000",
+      "C": "\u20a610,000",
+      "D": "\u20a68,00"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37623?exam_type=waec&type=obj&page=40",
+    "correct_answer": "B",
+    "explanation": "purchase account = cash purchase + credit purchase\n10,000 + 8000 = 18,000",
+    "year": "2010"
+  },
+  {
+    "number": "197",
+    "text": "Use the following information to answer the question given \n\\(\\begin{array}{c|c} \\text{Jan. 1} & \\text{\u20a6}\\\\ \\hline  \\text{1/1/08 Capital introduced by cash} & 50,000 \\\\ \\text{2/1/08 Bought goods for retail by cash} & 10,000\\\\ \\text{3/1/08 Sold fixtures by cash} & 5,000\\\\ \\text{4/1/08 Sold goods to Lagbaja on credit} & 3,000\\\\ \\text{5/1/08 Bought goods on credit from Tamedu}& 8,000\\end{array}\\)\nBalance in the Capital Account at 5/1/08 is",
+    "options": {
+      "A": "\u20a660,000",
+      "B": "\u20a650,000",
+      "C": "\u20a635,000",
+      "D": "\u20a65,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37624?exam_type=waec&type=obj&page=40",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "198",
+    "text": "Where a wrong figure occurs in only one account with the second figure correctly stated, this is an error of",
+    "options": {
+      "A": "transposition",
+      "B": "compensation",
+      "C": "omission",
+      "D": "commission"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37626?exam_type=waec&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "Atransposition erroris a data entry error that occurs when two digits are accidentally reversed. It is\u00a0where a bookkeeper accidentally reverses two adjacent digits, when recording transactional data.",
+    "year": "2010"
+  },
+  {
+    "number": "199",
+    "text": "Which of the following is added to the proprietor's capital?",
+    "options": {
+      "A": "Net profit",
+      "B": "gross profit",
+      "C": "net sales",
+      "D": "gross sales"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37627?exam_type=waec&type=obj&page=40",
+    "correct_answer": "A",
+    "explanation": "Net profit is the actual profit after working expenses not included in the calculation of gross profit have been paid. That is, it is the profit after expenses have been deducted from gross profit. It makes up part of the business capital called plough-back profit",
+    "year": "2010"
+  },
+  {
+    "number": "200",
+    "text": "The balance in a sales Ledger Counter Account indicates the",
+    "options": {
+      "A": "difference between debtors and creditors",
+      "B": "total sales",
+      "C": "total purchases",
+      "D": "total debtors"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37644?exam_type=waec&type=obj&page=40",
+    "correct_answer": "D",
+    "explanation": "It represents the total balance of credit sales otherwise known as trade debtors",
+    "year": "2010"
+  },
+  {
+    "number": "201",
+    "text": "A temporary difference of bank occurs in only one account with the second figure stated, this is an error of",
+    "options": {
+      "A": "adjustment account",
+      "B": "suspense account",
+      "C": "imprest account",
+      "D": "appropriation account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37645?exam_type=waec&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "202",
+    "text": "In the preparation of bank reconciliation statement cheque are",
+    "options": {
+      "A": "added to the balance as per bank statement",
+      "B": "deduced from the the balance as per bank statement",
+      "C": "added to the balance as per bank statement",
+      "D": "ignored totally"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37646?exam_type=waec&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "Using the cash balance shown on the\u00a0bank statement, add back any deposits in transit. Deduct any outstanding checks. This will provide the adjusted\u00a0bank\u00a0cash balance. Next, use the company's ending cash balance, add any interest earned and notes receivable amount.\nAll balances should be added to the bank statement",
+    "year": "2010"
+  },
+  {
+    "number": "203",
+    "text": "Which of the following is found in the general ledger?",
+    "options": {
+      "A": "capital account",
+      "B": "sales accounts",
+      "C": "loan account",
+      "D": "drawings account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37647?exam_type=waec&type=obj&page=41",
+    "correct_answer": "B",
+    "explanation": "A\u00a0sales account\u00a0in the general\u00a0ledger\u00a0has a cumulative value or information regarding the actual\u00a0sales ledger. By looking at this\u00a0ledger, detailed information regarding the revenues can be obtained. It contains important information like date of\u00a0sale, invoice number, name of the customer, amount of\u00a0sale\u00a0to name a few.",
+    "year": "2010"
+  },
+  {
+    "number": "204",
+    "text": "Use the following information to answer the given question\n\\(\\begin{array}{c|c} \\text{1/1/06 Debtors} & D2,600\\\\ \\text{1/1/06 Provision for bad debts} & D60\\\\ \\text{31/12/06 New provision provision for bad debts} & \\text{5% on debtors}\\end{array}\\)\nWhat is the amount of the new provision for bad debts?",
+    "options": {
+      "A": "D130",
+      "B": "D127",
+      "C": "D124",
+      "D": "D120"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37650?exam_type=waec&type=obj&page=41",
+    "correct_answer": "A",
+    "explanation": "5% x 2600\n\\(\\frac{5}{100}\\)\u00a0x 2600 = 130",
+    "year": "2010"
+  },
+  {
+    "number": "205",
+    "text": "Use the following information to answer the given question\n\\(\\begin{array}{c|c} \\text{1/1/06 Debtors} & D2,600\\\\ \\text{1/1/06 Provision for bad debts} & D60\\\\ \\text{31/12/06 New provision provision for bad debts} & \\text{5% on debtors}\\end{array}\\)\nThe provision for bad debts in the profit and loss account is",
+    "options": {
+      "A": "D187",
+      "B": "D127",
+      "C": "D67",
+      "D": "D70"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37651?exam_type=waec&type=obj&page=41",
+    "correct_answer": "D",
+    "explanation": "5% x 2600\n\\(\\frac{5}{100}\\)\u00a0x 2600 = 130\n130 - 60 = 70",
+    "year": "2010"
+  },
+  {
+    "number": "206",
+    "text": "Sales was D12,500, total expenses was D2,500 and net profit is 10% of sales what is the gross profit?\nnet profit = 0.1 x 12500 = 1250\ngross profit = sales - cogs\nnet profit = gross profit - expenses\n1250 + 2500",
+    "options": {
+      "A": "D11,250",
+      "B": "D8,750",
+      "C": "D3,750",
+      "D": "D1,250"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37652?exam_type=waec&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "net profit = 0.1 x 12500 = 1250\nnet profit = gross profit - expenses\nTherefore; net profit + expenses = gross profit\n1250 + 2500 = 3750",
+    "year": "2010"
+  },
+  {
+    "number": "207",
+    "text": "Which of the following is the equivalent of the receipts payment accounts?",
+    "options": {
+      "A": "income and expenditure accounts",
+      "B": "cash book",
+      "C": "subscriptions account",
+      "D": "profit and loss account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37653?exam_type=waec&type=obj&page=42",
+    "correct_answer": "B",
+    "explanation": "Following are the characteristics ofreceiptandpayment account:\nIt is a summary of the cash book.We record all the cash\u00a0receipts\u00a0during the whole year on its debit side. ...We include both\u00a0receipts\u00a0and\u00a0payments\u00a0in cash whether they are of capital and revenue nature.\nFrom the above characteristics we can say the receipt and payments account is equivalent to the cash book which is used in recording all cash transactions",
+    "year": "2010"
+  },
+  {
+    "number": "208",
+    "text": "Subscriptions received in advance are",
+    "options": {
+      "A": "included in the income and expenditure account",
+      "B": "not included in the receipts and payment account",
+      "C": "shown as a current asset in the balance sheet",
+      "D": "shown in the Balance Sheet as a current liability"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37657?exam_type=waec&type=obj&page=42",
+    "correct_answer": "D",
+    "explanation": "An amount\u00a0received in advance\u00a0against which the services are yet to provide is a balance sheet item.\u00a0Any\u00a0advance subscription\u00a0is a liability and to be shown in balance sheet",
+    "year": "2010"
+  },
+  {
+    "number": "209",
+    "text": "Where records maintained are inadequate to facilitate the preparation of a trading and profit and loss accounts, this is described as",
+    "options": {
+      "A": "cost accounting",
+      "B": "bookkeeping",
+      "C": "incomplete records",
+      "D": "double entry"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37658?exam_type=waec&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "Incomplete records\u00a0refers to a situation in which an organization is not using double-entry bookkeeping. Instead, it is using a more informal accounting system, such as a single-entry system, to maintain a reduced amount of information about its financial results.",
+    "year": "2010"
+  },
+  {
+    "number": "210",
+    "text": "Bad debts written off is shown as",
+    "options": {
+      "A": "debit in the sales ledger",
+      "B": "debit in the purchases ledger",
+      "C": "credit in the sales ledger",
+      "D": "credit in the purchases ledger"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37659?exam_type=waec&type=obj&page=42",
+    "correct_answer": "C",
+    "explanation": "The journal entry is a\u00a0debit\u00a0to the bad debt expense account and a credit to the accounts receivable account. (Remember your account receivables are credit sales that is the sales journal)",
+    "year": "2010"
+  },
+  {
+    "number": "211",
+    "text": "The balance of the sales ledger control account represents",
+    "options": {
+      "A": "total sales",
+      "B": "total credit sales",
+      "C": "total creditors",
+      "D": "total debtors"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37660?exam_type=waec&type=obj&page=43",
+    "correct_answer": "D",
+    "explanation": "It represents the total of all credit sales. Also known as trade debtors.",
+    "year": "2010"
+  },
+  {
+    "number": "212",
+    "text": "Use the following information to answer given question\n\\(\\begin{array}{c|c} & \u20a6 \\\\ \\hline \\text{Opening stock of raw materials} & 24,750\\\\ \\text{Purchases of raw materials} & 129,640\\\\ \\text{Carriage on raw materials} & 10,000\\\\ \\text{Closing stock of raw materials} & 45,000 \\\\ \\text{Factory supervisor's salary} & 30,000\\\\ \\text{Wages of factory hands} & 50,000 \\\\ \\text{Royalties paid}& 18,000\\\\ \\text{Insurance of factories} & 62,000\\\\ \\text{Work-in-progress(opening)} & 23,000 \\\\ \\text{Raw material returned} & 12,200\\end{array}\\)\nThe value of raw material consumed is",
+    "options": {
+      "A": "\u20a6121,440",
+      "B": "\u20a6119,390",
+      "C": "\u20a6111,190",
+      "D": "\u20a6101,190"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37666?exam_type=waec&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "The value of raw material = opening stock + purchase + carriage cost\n24,750 + 129,640 + 10,000 - 45,000\nN119,390",
+    "year": "2010"
+  },
+  {
+    "number": "213",
+    "text": "Use the following information to answer given question\n\\(\\begin{array}{c|c} & \u20a6 \\\\ \\hline \\text{Opening stock of raw materials} & 24,750\\\\ \\text{Purchases of raw materials} & 129,640\\\\ \\text{Carriage on raw materials} & 10,000\\\\ \\text{Closing stock of raw materials} & 45,000 \\\\ \\text{Factory supervisor's salary} & 30,000\\\\ \\text{Wages of factory hands} & 50,000 \\\\ \\text{Royalties paid}& 18,000\\\\ \\text{Insurance of factories} & 62,000\\\\ \\text{Work-in-progress(opening)} & 23,000 \\\\ \\text{Raw material returned} & 12,200\\end{array}\\)\nThe prime cost is",
+    "options": {
+      "A": "\u20a6152,190",
+      "B": "\u20a6199,190",
+      "C": "\u20a6169,190",
+      "D": "\u20a6146,190"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37667?exam_type=waec&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "Prime cost\u00a0 is the total of all direct cost incurred during production.\nDirect material + direct labour+ direct cost\n129,640 + 24750 + 10,000 - 12,000 = 152190",
+    "year": "2010"
+  },
+  {
+    "number": "214",
+    "text": "Use the following information to answer given question\n\\(\\begin{array}{c|c} & \u20a6 \\\\ \\hline \\text{Opening stock of raw materials} & 24,750\\\\ \\text{Purchases of raw materials} & 129,640\\\\ \\text{Carriage on raw materials} & 10,000\\\\ \\text{Closing stock of raw materials} & 45,000 \\\\ \\text{Factory supervisor's salary} & 30,000\\\\ \\text{Wages of factory hands} & 50,000 \\\\ \\text{Royalties paid}& 18,000\\\\ \\text{Insurance of factories} & 62,000\\\\ \\text{Work-in-progress(opening)} & 23,000 \\\\ \\text{Raw material returned} & 12,200\\end{array}\\)\nThe total overhead expenses is",
+    "options": {
+      "A": "\u20a6142,000",
+      "B": "\u20a6151,000",
+      "C": "\u20a6110,000",
+      "D": "\u20a692,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37668?exam_type=waec&type=obj&page=43",
+    "correct_answer": "A",
+    "explanation": "Overhead cost are cost not directly associated with the production of goods and services. It includes Payroll\u00a0costs\u00a0-- including\u00a0salary, liability and employee insurance.\n30000 + 50000 + 62000 = 142000",
+    "year": "2010"
+  },
+  {
+    "number": "215",
+    "text": "The accounting principle that states that insignificant expenditures are not to be taken into account is the",
+    "options": {
+      "A": "realization concept",
+      "B": "materiality convention",
+      "C": "marching concept",
+      "D": "consistency convention"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37677?exam_type=waec&type=obj&page=43",
+    "correct_answer": "B",
+    "explanation": "This\u00a0accounting convention\u00a0proposed that while\u00a0accounting,\u00a0only those transactions which have material impact on financial status of the organization will be considered\u00a0 and other transactions which have insignificant effect will be ignored.\u00a0It gives relative importance to an item or event.",
+    "year": "2010"
+  },
+  {
+    "number": "216",
+    "text": "The realization concept states that",
+    "options": {
+      "A": "revenue is recognized as being earned when ownership of goods passes to the customer",
+      "B": "revenue and profit  should not be anticipated",
+      "C": "similar way from one accounting period to another",
+      "D": "transaction must be expressed in monetary term"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37678?exam_type=waec&type=obj&page=44",
+    "correct_answer": "D",
+    "explanation": "The\u00a0realization principle\u00a0is the\u00a0concept\u00a0that revenue can only be recognized once the underlying goods or services associated with the revenue have been delivered or rendered, respectively. Thus, revenue can only be recognized after it has been earned. Advance payment for goods .",
+    "year": "2010"
+  },
+  {
+    "number": "217",
+    "text": "Where fixed capitals are maintained, partners' drawings are transferred to the",
+    "options": {
+      "A": "credit of capital account",
+      "B": "debit of capital accounts",
+      "C": "credit of partners's current accounts",
+      "D": "debit of partners' currents account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37679?exam_type=waec&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "Asset\u00a0accounts\u00a0normally have debit balances, while liabilities and\u00a0capital\u00a0normally have\u00a0credit\u00a0balances. Income has a normal\u00a0credit\u00a0balance since it increases\u00a0capital\u00a0. On the other hand, expenses and withdrawals decrease\u00a0capital, hence they normally have debit balances.\nTherefore partners drawings would have a debit balance in the capital account",
+    "year": "2010"
+  },
+  {
+    "number": "218",
+    "text": "The method that provides a reliable check upon cash and stock at the branch and discloses the gross profit in the account is",
+    "options": {
+      "A": "cost plus percentage",
+      "B": "cost price",
+      "C": "average cost",
+      "D": "selling price"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37680?exam_type=waec&type=obj&page=44",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "219",
+    "text": "A partners whose liability goes beyond his capital is known as",
+    "options": {
+      "A": "dormal partner",
+      "B": "limited partner",
+      "C": "general partner",
+      "D": "nominal partner"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37696?exam_type=waec&type=obj&page=44",
+    "correct_answer": "C",
+    "explanation": "General partner\u00a0is a person who joins with at least one other person to form a business. A\u00a0general partner\u00a0has responsibility for the actions of the business, can legally bind the business and is personally liable for all the business's debts and obligations.",
+    "year": "2010"
+  },
+  {
+    "number": "220",
+    "text": "Use the following information to answer the given question, Aba and Baba are partners who agreed to share profits and losses in the ratio 4 : 3 respectively. Extracts from their books for the year ended 31/12/08 are:\n\\(\\begin{array}{c|c} & \\text{ABA} & \\text{BABA} & \\text{TOTAL}\\\\ & \u20a6 & \u20a6 & \u20a6 \\\\ \\hline \\text{Capital} & 20,000 & 15,000 & 35,000 \\\\ \\text{Drawings} & 2,520 & - & 2,520 \\\\ \\text{Interest on drawings} & 504 & - & 504\\\\ \\text{Interest on capital} & 2,000 & 1,500 & 3,500 \\\\ \\text{Net profit 31/12/08} & - & - & 34,636\\end{array}\\)\nAba's share of profit is",
+    "options": {
+      "A": "\u20a621,504",
+      "B": "\u20a619,792",
+      "C": "\u20a618,352",
+      "D": "\u20a616,128"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37697?exam_type=waec&type=obj&page=44",
+    "correct_answer": "B",
+    "explanation": "Share of profit = \\(\\frac{4}{4 + 3}\\) = \\{\\frac{4}{7}\\)\u00a0 = 0.5714\n0.5714 x 34636 =\u00a019,792",
+    "year": "2010"
+  },
+  {
+    "number": "221",
+    "text": "Carriage inwards is shown on the",
+    "options": {
+      "A": "debit side of the trading account",
+      "B": "credit side of the trading account",
+      "C": "credit side of the profit and loss account",
+      "D": "debit side of the profit and loss account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37706?exam_type=waec&type=obj&page=45",
+    "correct_answer": "A",
+    "explanation": "It is posted to the debit side of trading account\u00a0and added to the cost of purchase",
+    "year": "2010"
+  },
+  {
+    "number": "222",
+    "text": "The accounting treatment when goods are sent to branch at a cost is, debit branch stock account and credit",
+    "options": {
+      "A": "branch stock adjustment account",
+      "B": "goods sent to branch account",
+      "C": "branch debtors account",
+      "D": "branch profit and loss account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37707?exam_type=waec&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "when goods are sent to the branch office at cost we debit branch stock account and credit\u00a0goods sent to branch account\u00a0(at cost price)",
+    "year": "2010"
+  },
+  {
+    "number": "223",
+    "text": "The document prepared for the disbursement of government fund is",
+    "options": {
+      "A": "an invoice",
+      "B": "a receipt",
+      "C": "a payment voucher",
+      "D": "a bill"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37708?exam_type=waec&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "224",
+    "text": "A financial plan of action expressed in monetary terms is a/an",
+    "options": {
+      "A": "warrant",
+      "B": "budget",
+      "C": "imprest",
+      "D": "consilidated fund"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37713?exam_type=waec&type=obj&page=45",
+    "correct_answer": "B",
+    "explanation": "A\u00a0budget\u00a0is an estimation of revenue and expenses over a specified future period of time.\u00a0\u00a0Creating this spending plan allows you to determine in advance whether you will have enough money to do the things you need to do or would like to do.\u00a0Budgeting\u00a0is simply balancing your expenses with your income.",
+    "year": "2010"
+  },
+  {
+    "number": "225",
+    "text": "Which of the following reserves is not used for bonus shares?",
+    "options": {
+      "A": "revolutional reserve",
+      "B": "share premium",
+      "C": "capital redemption reserve fund?",
+      "D": "general reserve"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37714?exam_type=waec&type=obj&page=45",
+    "correct_answer": "C",
+    "explanation": "capital redemption reserves fund is\u00a0a part of a company's\u00a0reserves\u00a0and\u00a0capital\u00a0from money invested in shares that is not allowed to be given to shareholders in the form of dividends.",
+    "year": "2010"
+  },
+  {
+    "number": "226",
+    "text": "When shares are sold 'at par' it means they are issued at",
+    "options": {
+      "A": "the market value",
+      "B": "the nominal value",
+      "C": "a discount",
+      "D": "a premium"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37715?exam_type=waec&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "Whensharesare issued at a price equal to their face value it is termed assharesissued atpar.\u00a0Par value\u00a0is also known as\u00a0nominal value\u00a0or face\u00a0value.",
+    "year": "2010"
+  },
+  {
+    "number": "227",
+    "text": "Which of the following does not form part of shareholders fund?",
+    "options": {
+      "A": "ordinary shares",
+      "B": "shares premium",
+      "C": "profit",
+      "D": "debenture"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37717?exam_type=waec&type=obj&page=46",
+    "correct_answer": "D",
+    "explanation": "Debentures are a long-term security yielding a fixed rate of interest, issued by a company and secured against assets. It is a debt security issued by a company by a company to raise money. The holders are paid the amount lended with interest. They are not a source of equity financing",
+    "year": "2010"
+  },
+  {
+    "number": "228",
+    "text": "On 1/7/07, a trader owed wages of Le 2,000. During the year ended 30/6/08, wages of Le, 2,400 were owed and Le 8,000 were paid. Using the information, the wages recorded in the balance sheet as at 30/6/08 is",
+    "options": {
+      "A": "Le 2,400",
+      "B": "Le 8,400",
+      "C": "Le 8,000",
+      "D": "Le 7,600"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37720?exam_type=waec&type=obj&page=46",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "229",
+    "text": "The collection and organization of data is",
+    "options": {
+      "A": "accounting process",
+      "B": "central processing",
+      "C": "data processing",
+      "D": "data manipulation"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37721?exam_type=waec&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "Data processing is the carrying out of operations on data, especially by a computer, to retrieve, transform, or classify information.",
+    "year": "2010"
+  },
+  {
+    "number": "230",
+    "text": "On 1/7/07, a trader owed wages of Le 2,000. During the year ended 30/6/08, wages of Le\u00a02,400 were owed and Le 8,000 were paid. Using the information, wages recorded in the balance sheet as at 30/6/08 is",
+    "options": {
+      "A": "Le 12,400",
+      "B": "Le 6,000",
+      "C": "Le 2,400",
+      "D": "Le 2,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37722?exam_type=waec&type=obj&page=46",
+    "correct_answer": "C",
+    "explanation": "The wages owed as at\u00a030/6/08, wages of Le\u00a02,400",
+    "year": "2010"
+  },
+  {
+    "number": "231",
+    "text": "Money received from a customer is recorded in the customer's account and bank account; the accounting concept applied is",
+    "options": {
+      "A": "business entity",
+      "B": "dual aspect",
+      "C": "going-concern",
+      "D": "money measurement"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37723?exam_type=waec&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "Thedual aspectconcept states that every business transaction requires recordation in two different accounts.",
+    "year": "2010"
+  },
+  {
+    "number": "232",
+    "text": "The amount for which a business is sold is that",
+    "options": {
+      "A": "goodwill",
+      "B": "cosiderated fund",
+      "C": "purchase",
+      "D": "considerations",
+      "E": "capital reserve"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37724?exam_type=waec&type=obj&page=47",
+    "correct_answer": "D",
+    "explanation": "Consideration\u00a0is a payment made by one party to another in exchange for the transfer of something of value. It must be of value to both parties entering into a transaction.",
+    "year": "2010"
+  },
+  {
+    "number": "233",
+    "text": "Which of the following is a prime cost?",
+    "options": {
+      "A": "royalty",
+      "B": "salary",
+      "C": "commission",
+      "D": "discounts allowed"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37725?exam_type=waec&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "Prime cost is the direct cost incurred during production.\u00a0Royalty\u00a0is paid on production basis and on sales basis. If it is paid on production basis then it is considered\u00a0direct expense (prime cost)\u00a0and debited to Trading Account",
+    "year": "2010"
+  }
+]

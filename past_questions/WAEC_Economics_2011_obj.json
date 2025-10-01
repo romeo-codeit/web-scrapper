@@ -1,0 +1,618 @@
+[
+  {
+    "number": "992",
+    "text": "Human wants are",
+    "options": {
+      "A": "limited",
+      "B": "scarce",
+      "C": "unlimited",
+      "D": "in grades"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22507?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "Human wants are unlimited. It means that people never get enough, that there's always something else that they would\u00a0want\u00a0or need.",
+    "year": "2011"
+  },
+  {
+    "number": "993",
+    "text": "The difference between the money cost and the real cost of any item is that",
+    "options": {
+      "A": "real cost is the alternative forgone while the money cost is the actual amount paid for buying the item",
+      "B": "the real cost is the opportunity cost, while the money cost is the marginal cost",
+      "C": "money cost is the opportunity cost, while the real cost is the actual cost in monetary terms",
+      "D": "money cost is always greater than the real cost"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22509?exam_type=waec&type=obj&page=199",
+    "correct_answer": "A",
+    "explanation": "Real cost is the\u00a0cost\u00a0of producing a good or service, including the\u00a0cost\u00a0of all resources used and the\u00a0cost\u00a0of not employing those resources in alternative uses. While Money cost\u00a0is the\u00a0cost\u00a0of acquiring a product or service in available\u00a0cash.\nIn summary, Real cost\u00a0implies an accumulation of various kinds of\u00a0costs\u00a0to attain the total\u00a0costs\u00a0while \"Money\"\u00a0cost\u00a0is the production\u00a0cost\u00a0expressed in\u00a0monetary\u00a0terms.",
+    "year": "2011"
+  },
+  {
+    "number": "994",
+    "text": "The production possibility curve (PPC) indicates that as more of one good is produced.",
+    "options": {
+      "A": "less of the other goods is produced",
+      "B": "the same quantity of the other good is produced",
+      "C": "more of the other good is produced",
+      "D": "none of the other good is produced"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22510?exam_type=waec&type=obj&page=199",
+    "correct_answer": "A",
+    "explanation": "A\u00a0production possibility curve\u00a0(PPC) is a\u00a0curve\u00a0which shows various combinations of the amounts of two goods which can be produced within the given resources. It shows that, as a firm produces more of a particular good, less of the other combination would be produced.\nFor instance, if two different products say X and Y\u00a0are meant to be produced from a particular raw material, if the producer produces more of commodity X from the available material, the materials used in the production of commodity Y would be less. The producer can decide to produce equal amount of each product, but if more of one is produced, less of the other product would be produced.",
+    "year": "2011"
+  },
+  {
+    "number": "995",
+    "text": "An arrangement of data in rows and columns is referred to as",
+    "options": {
+      "A": "graph",
+      "B": "bar chart",
+      "C": "pie chart",
+      "D": "table"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22511?exam_type=waec&type=obj&page=199",
+    "correct_answer": "D",
+    "explanation": "A table is\u00a0an arrangement of data in rows and columns.\u00a0Tables are useful for various tasks such as presenting text information and numerical data.",
+    "year": "2011"
+  },
+  {
+    "number": "996",
+    "text": "A normal demand curve slopes",
+    "options": {
+      "A": "downward from left to right",
+      "B": "upwards from right to left",
+      "C": "downwards from right to left",
+      "D": "upwards from left to right"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22512?exam_type=waec&type=obj&page=200",
+    "correct_answer": "A",
+    "explanation": "A normal\u00a0demand curve is downward sloping\u00a0from left to right indicating the negative relationship between the price of a product and the quantity demanded.",
+    "year": "2011"
+  },
+  {
+    "number": "997",
+    "text": "The co-efficient of income elasticity of demand for inferior goods is",
+    "options": {
+      "A": "positive",
+      "B": "equal to one",
+      "C": "less than one",
+      "D": "negative"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22513?exam_type=waec&type=obj&page=200",
+    "correct_answer": "D",
+    "explanation": "A\u00a0negative income elasticity of demand\u00a0is associated with\u00a0inferior goods; an increase in\u00a0income\u00a0will lead to a fall in the\u00a0demand\u00a0and may lead to changes to more luxurious substitutes.",
+    "year": "2011"
+  },
+  {
+    "number": "998",
+    "text": "If a 20% rise in price of Whiskey leads to a 30% increase in quantity demanded of Schnapps, the cross elasticity of demand is",
+    "options": {
+      "A": "3.0",
+      "B": "2.5",
+      "C": "2.3",
+      "D": "1.5"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22515?exam_type=waec&type=obj&page=200",
+    "correct_answer": "D",
+    "explanation": "It is calculated by taking the percentage change in the quantity\u00a0demanded\u00a0of one good and dividing it by the percentage change in the price of the other good.\nHence we; 30/20 = 1.5",
+    "year": "2011"
+  },
+  {
+    "number": "999",
+    "text": "Palm oil and palm kernel have",
+    "options": {
+      "A": "competitive supply",
+      "B": "excess supply",
+      "C": "joint supply",
+      "D": "composite supply"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22516?exam_type=waec&type=obj&page=200",
+    "correct_answer": "C",
+    "explanation": "Joint supply\u00a0refers\u00a0to a product or process that can yield two or more outputs. This is when a product can be used to produce more than one output. Palm oil is used for cooking as well as in soap and cream making, while palm kernel is used in making palm oil and kernel oil amongst others.\nAnother\u00a0Common examples occur within the livestock industry: cows can be utilized for milk, beef,",
+    "year": "2011"
+  },
+  {
+    "number": "1000",
+    "text": "A supply curve which is vertical has an elasticity co-efficient of",
+    "options": {
+      "A": "0.0",
+      "B": "0.5",
+      "C": "1.5",
+      "D": "2"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22517?exam_type=waec&type=obj&page=200",
+    "correct_answer": "A",
+    "explanation": "A\u00a0vertical\u00a0market\u00a0supply curve\u00a0is illustrated by a line running up and down on the\u00a0graph. When a market\u00a0supply curve is vertical, it represents that the quantity of that good is fixed no matter what the price of the good is. A\u00a0vertical curve\u00a0illustrates a good that has zero elasticity.",
+    "year": "2011"
+  },
+  {
+    "number": "1001",
+    "text": "if the current price of an apple is twice that of last year, it implies that the value of money is",
+    "options": {
+      "A": "stable",
+      "B": "falling",
+      "C": "rising",
+      "D": "getting stronger"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22518?exam_type=waec&type=obj&page=201",
+    "correct_answer": "B",
+    "explanation": "If the price of the apple was 100 in year 1, and by year 2 it increased to 200. It means the value of the money is falling. The value of money is determined by\u00a0how much goods it can buy.",
+    "year": "2011"
+  },
+  {
+    "number": "1002",
+    "text": "price fixed above the equilibrium is to",
+    "options": {
+      "A": "protect agricultural producers",
+      "B": "discourage agricultural producers",
+      "C": "lower the price of agricultural producers",
+      "D": "favour consumers"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22519?exam_type=waec&type=obj&page=201",
+    "correct_answer": "A",
+    "explanation": "When\u00a0prices are\u00a0set above equilibrium, it means more suppliers or producers will be willing to sell their goods because of the high prices. This will invariably lead to a surplus of goods in the market resulting in excess supply.\nThis is usually done to protect and encourage production, as producers will be willing to produce and supply to the markets in large quantities when the price is high.",
+    "year": "2011"
+  },
+  {
+    "number": "1003",
+    "text": "A consumer purchasing a commodity X will maximize his satisfaction if",
+    "options": {
+      "A": "Px = MUx",
+      "B": "Px \u2265 MUx",
+      "C": "Px > MUx",
+      "D": "Px < MUx"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22521?exam_type=waec&type=obj&page=201",
+    "correct_answer": "A",
+    "explanation": "Utility is maximized When price is equal to marginal utility.",
+    "year": "2011"
+  },
+  {
+    "number": "1004",
+    "text": "When total utility is constant, it means marginal utility is",
+    "options": {
+      "A": "increasing",
+      "B": "zero",
+      "C": "decreasing",
+      "D": "one"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22522?exam_type=waec&type=obj&page=201",
+    "correct_answer": "B",
+    "explanation": "When total utility is constant, it means marginal utility is zero.\nTotal utility\u00a0is constant when it is at its\u00a0maximum, then\u00a0marginal utility\u00a0will be Zero. It is based on the law of diminishing\u00a0marginal utility\u00a0which says 'as more and more units of a good are consumed, MU i.e level of satisfaction derived from each successive unit\u00a0goes on\u00a0falling because desire for that commodity tend to fall. Once\u00a0the total utility is constant, marginal utility will be zero.",
+    "year": "2011"
+  },
+  {
+    "number": "1005",
+    "text": "A rational consumer is one who",
+    "options": {
+      "A": "spends his income to maximize satisfaction",
+      "B": "is not influenced by advertisemment",
+      "C": "behaves in a particular way all the time",
+      "D": "knows the price of all goods and buys the cheapest"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22523?exam_type=waec&type=obj&page=201",
+    "correct_answer": "A",
+    "explanation": "A\u00a0rational consumer\u00a0is considered to be that person who makes\u00a0rational\u00a0consumption decisions. In other words, the\u00a0consumer\u00a0who makes consumption decision by portioning his limited resources (income) to buying commodities that will give maximum satisfaction.",
+    "year": "2011"
+  },
+  {
+    "number": "1006",
+    "text": "which of the following is not true about land?",
+    "options": {
+      "A": "the supply is fixed",
+      "B": "land is mobile",
+      "C": "it is subject to diminishing returns",
+      "D": "land is heterogeneous"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22524?exam_type=waec&type=obj&page=202",
+    "correct_answer": "B",
+    "explanation": "Land is not mobile because it can not be moved from one place to another, rather land is fixed.",
+    "year": "2011"
+  },
+  {
+    "number": "1007",
+    "text": "The type of production that involve the tapping and harnessing of natural resources is",
+    "options": {
+      "A": "primary production",
+      "B": "secondary production",
+      "C": "tertiary production",
+      "D": "industrial production"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22525?exam_type=waec&type=obj&page=202",
+    "correct_answer": "A",
+    "explanation": "Primary production: this involves acquiring\u00a0raw materials from its natural source and habitat.\u00a0It involves converting raw materials into components, for example, making plastics from oil. It also involves assembling the product, eg building houses, bridges and roads.",
+    "year": "2011"
+  },
+  {
+    "number": "1008",
+    "text": "which of the following does not change in the short run?",
+    "options": {
+      "A": "Variable cost",
+      "B": "marginal cost",
+      "C": "total cost",
+      "D": "fixed cost"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22526?exam_type=waec&type=obj&page=202",
+    "correct_answer": "D",
+    "explanation": "The short run is a production phase where at least one\u00a0factor\u00a0of production is fixed.Fixed costs\u00a0are expenditures that do not change based on the level of production, at least not in the\u00a0short run. Whether you produce a lot or a little, the\u00a0fixed costs\u00a0are the same.",
+    "year": "2011"
+  },
+  {
+    "number": "1009",
+    "text": "The resource used in production are called",
+    "options": {
+      "A": "variable inputs",
+      "B": "factors of production",
+      "C": "capital for production",
+      "D": "fixed inputs"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22527?exam_type=waec&type=obj&page=202",
+    "correct_answer": "B",
+    "explanation": "Factors of production\u00a0are the inputs needed for the creation of a good or service. They\u00a0include land, labor, entrepreneurship, and capital.",
+    "year": "2011"
+  },
+  {
+    "number": "1010",
+    "text": "A firm will shut down in the long run if its earning is",
+    "options": {
+      "A": "less than normal profit",
+      "B": "greater than normal profit",
+      "C": "equal to super normal profit",
+      "D": "less than super normal profit"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22528?exam_type=waec&type=obj&page=202",
+    "correct_answer": "A",
+    "explanation": "The long run is a phase where all factors of production are variable and\u00a0firms are able to adjust all costs. If its earnings are less than the normal profits, it will shut down. A firm should earn enough to cover its total cost per unit in order to remain in business.",
+    "year": "2011"
+  },
+  {
+    "number": "1011",
+    "text": "A market structure where profit is maximized when marginal revenue, marginal cost and price are equal is known as",
+    "options": {
+      "A": "perfect competition",
+      "B": "monopoly",
+      "C": "oligopoly",
+      "D": "imperfect competition"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22530?exam_type=waec&type=obj&page=203",
+    "correct_answer": "A",
+    "explanation": "In order to maximize\u00a0profits\u00a0in a\u00a0perfectly competitive\u00a0market, firms set marginal revenue equal to marginal cost (MR=MC).\u00a0MR is the slope of the revenue curve, which is also equal to the demand curve (D) and price",
+    "year": "2011"
+  },
+  {
+    "number": "1012",
+    "text": "In which of the following markets does a firm have power to make super normal profits both in the short run and long run?",
+    "options": {
+      "A": "Monopoly",
+      "B": "Duopoly",
+      "C": "Oligopoly",
+      "D": "Monopsony"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22531?exam_type=waec&type=obj&page=203",
+    "correct_answer": "A",
+    "explanation": "If a\u00a0firm makes\u00a0more than normal\u00a0profit\u00a0it is called\u00a0super-normal profit.\nThe monopoly is able to\u00a0make supernormal profits\u00a0in the short run and long run because the price (AR) is greater than AC.",
+    "year": "2011"
+  },
+  {
+    "number": "1013",
+    "text": "If there are no barriers to entering a market, it means that",
+    "options": {
+      "A": "anyone can become a buyer or a seller",
+      "B": "unwanted goods can always enter the market",
+      "C": "the market becomes a dumping ground",
+      "D": "the goods are not inspected"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22532?exam_type=waec&type=obj&page=203",
+    "correct_answer": "A",
+    "explanation": "This means that the firms can\u00a0enter\u00a0or quit the industry as they wish",
+    "year": "2011"
+  },
+  {
+    "number": "1014",
+    "text": "A firm's main aim is to",
+    "options": {
+      "A": "survive the business",
+      "B": "maximize profits",
+      "C": "increase its market share",
+      "D": "satisfy the ambition of its managers"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22533?exam_type=waec&type=obj&page=203",
+    "correct_answer": "B",
+    "explanation": "The main objective of every firm in business is to maximize profits while minimizing cost.",
+    "year": "2011"
+  },
+  {
+    "number": "1015",
+    "text": "One good reason for the elimination of middle men is that they",
+    "options": {
+      "A": "cause increase in price",
+      "B": "help in price stability",
+      "C": "grade and blend goods",
+      "D": "are too many"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22535?exam_type=waec&type=obj&page=203",
+    "correct_answer": "A",
+    "explanation": "The main\u00a0reason\u00a0that many will argue that\u00a0middlemen\u00a0should be\u00a0elimination\u00a0from the channel of distribution is related to the extra costs involved in employing them. Everyone is in business to make profits. The middle men would add a portion of their profits before selling to retailers, the retailers would also increase the price in order to profit off it before selling to the final consumer.\nThis process makes the price of goods high and expensive.",
+    "year": "2011"
+  },
+  {
+    "number": "1016",
+    "text": "The increase in population growth in big cities is referred to as",
+    "options": {
+      "A": "settlement",
+      "B": "migration",
+      "C": "industrialization",
+      "D": "urbanization"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22536?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "Urbanization\u00a0is a word for becoming more like a city. When populations of people grow, the population of a place may spill over from city to nearby areas. This is called\u00a0urbanization.",
+    "year": "2011"
+  },
+  {
+    "number": "1017",
+    "text": "Frictional unemployment can be reduced by",
+    "options": {
+      "A": "encouraging the use of retaining schemes",
+      "B": "removing barriers to labour mobility",
+      "C": "restricting the introduction of new technology",
+      "D": "lowering the level of wages paid to young people"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22538?exam_type=waec&type=obj&page=204",
+    "correct_answer": "A",
+    "explanation": "Frictional unemployment\u00a0is the type of unemployment which exists in any economy due to people being in the process of moving from one job to another.\u00a0It\u00a0 occur when people are switching between jobs or are redundant and searching for jobs.\nFor example, if you graduate from university, you can\u2019t necessarily expect to find a job straight away which matches your skills. This period of searching for a job is known as frictional unemployment.\nOne way\u00a0this type of unemployment can be reduced is by\u00a0retaining workers. They are some jobs that are temporary and considered part time. Workers are laid off at completion of the job, which means the workers are back to being unemployed. But by retaining workers after completion of the task, this type of unemployment will be reduced.",
+    "year": "2011"
+  },
+  {
+    "number": "1018",
+    "text": "If the labour force of a country is 2.5 million and 2 million are employed , what is the unemployment rate?",
+    "options": {
+      "A": "0.2%",
+      "B": "20%",
+      "C": "200%",
+      "D": "250%"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22539?exam_type=waec&type=obj&page=204",
+    "correct_answer": "B",
+    "explanation": "Unemployment Rate\u00a0= Number of\u00a0Unemployed\u00a0Persons / Labor Force.\nLabour force = 2.5millionEmployed = 2 millionunemployed = 2,500,000 - 2,000,000 = 500,000\n\\(\\frac{500,000}{2,500,000}\\) = 0.2percentage = 0.2 x 100 = 2020%",
+    "year": "2011"
+  },
+  {
+    "number": "1019",
+    "text": "The grouping of the population according to the economic activities people engage in is",
+    "options": {
+      "A": "age distribution",
+      "B": "sex distribution",
+      "C": "geographical distribution",
+      "D": "occupational distribution"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22540?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "Occupational distribution of labour\u00a0refers to the aggregate\u00a0distribution\u00a0of\u00a0occupations\u00a0in society, classified according to skill level, economic function, or social status. It is simply grouping of individuals based on the economic activities they are involved in.",
+    "year": "2011"
+  },
+  {
+    "number": "1020",
+    "text": "Natural growth rate of population can be defined as the",
+    "options": {
+      "A": "difference between birth rate and death rate",
+      "B": "number of births in a year",
+      "C": "increase in the population growth in a year",
+      "D": "difference between the total population and the death rate"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22542?exam_type=waec&type=obj&page=204",
+    "correct_answer": "A",
+    "explanation": "The natural growth rate or increase\u00a0is the difference between the numbers\u00a0of\u00a0births and deaths in a population",
+    "year": "2011"
+  },
+  {
+    "number": "1021",
+    "text": "which of the following is  not a consequence of increased unemployment?",
+    "options": {
+      "A": "a fall in tax revenue for the government",
+      "B": "a reduction in trade union's influence",
+      "C": "a fall in death rate",
+      "D": "an increase in the labour force"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22543?exam_type=waec&type=obj&page=205",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "1022",
+    "text": "The following are features of subsistence agriculture except",
+    "options": {
+      "A": "little capital",
+      "B": "processing of raw materials",
+      "C": "small allotments of land",
+      "D": "use of crude oil"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22544?exam_type=waec&type=obj&page=205",
+    "correct_answer": "D",
+    "explanation": "The\u00a0use of crude oil is not a characteristic of subsistent farming. Crude oil is use in the\u00a0oil and gas industry, and refined into various patroleum products",
+    "year": "2011"
+  },
+  {
+    "number": "1023",
+    "text": "Which of the following is not true of small companies ? they",
+    "options": {
+      "A": "Cannot benefit from economies of scale",
+      "B": "Are a good source of new jobs",
+      "C": "Can satisfy demand in specialist markets",
+      "D": "Have a good record of technical innovation"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22545?exam_type=waec&type=obj&page=205",
+    "correct_answer": "D",
+    "explanation": "Small companies do not have a good record of technical innovation because they are mainly a start up whose operations are limited to a small market area, small teams of employee, limited area of locations and lower revenue and profitability.",
+    "year": "2011"
+  },
+  {
+    "number": "1024",
+    "text": "The effect of privatization on the industrial sector of a country is that it",
+    "options": {
+      "A": "ensures efficiency",
+      "B": "discourages efficiency",
+      "C": "leads to decrease in output",
+      "D": "leads to liquidation"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22546?exam_type=waec&type=obj&page=205",
+    "correct_answer": "A",
+    "explanation": "Privatisation\u00a0involves selling state-owned assets to the private sector. It leads to efficiency in the sense that, it\u00a0increases employment and productivity.\u00a0private market factors can more efficiently deliver many goods or service than governments due to free market competition",
+    "year": "2011"
+  },
+  {
+    "number": "1025",
+    "text": "The production strategy used in an over-populated country is",
+    "options": {
+      "A": "import substitution",
+      "B": "capital intensive",
+      "C": "labour intensive",
+      "D": "first come first employed"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22547?exam_type=waec&type=obj&page=205",
+    "correct_answer": "C",
+    "explanation": "Labour intensive simply refers to a process or an industry that requires a large amount of\u00a0labor\u00a0to produce its goods or services. It is suitable for an over-populated economy.",
+    "year": "2011"
+  },
+  {
+    "number": "1026",
+    "text": "National income is used to measure",
+    "options": {
+      "A": "a country's population size",
+      "B": "a country's economic growth",
+      "C": "the human level of development",
+      "D": "the flow of imports to a country"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22548?exam_type=waec&type=obj&page=206",
+    "correct_answer": "B",
+    "explanation": "National income measures\u00a0the monetary value of the flow of output of goods and services produced in an economy over a period of time. This is otherwise considered as measuring the economic growth.",
+    "year": "2011"
+  },
+  {
+    "number": "1027",
+    "text": "A tax is regressive if the",
+    "options": {
+      "A": "rate of tax is constant at all income levels",
+      "B": "rate of tax decrease as income increases",
+      "C": "rate of tax increases as income increases",
+      "D": "tax is direct rather than indirect"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22549?exam_type=waec&type=obj&page=206",
+    "correct_answer": "B",
+    "explanation": "A\u00a0regressive tax\u00a0is ataxapplied uniformly, taking a larger percentage of income from low-income earners than from high-income earners.\u00a0Regressive taxes\u00a0place more burden on low-income earners. Since they are flat\u00a0taxes, they take a higher percentage of income on the poor than on high-income earners.\nThe taxable rate reduces as income increases, and it increases as income decreases.",
+    "year": "2011"
+  },
+  {
+    "number": "1028",
+    "text": "When a country's net income from abroad is added to its total output, the result is",
+    "options": {
+      "A": "gross domestic product",
+      "B": "net national product",
+      "C": "gross national product",
+      "D": "net domestic product"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22550?exam_type=waec&type=obj&page=206",
+    "correct_answer": "C",
+    "explanation": "Gross national product is the total value of goods produced and services provided by a country during one year, equal to the gross domestic product plus the net income from foreign investments. GNP calculation includes income earned by domestic residents abroad minus the income of foreigners earned in the domestic economy.\nGNP\u00a0is calculated\u00a0by taking the sum of personal consumption expenditures, private domestic investment, government expenditure, net exports and any\u00a0income\u00a0earned by residents from overseas investments, minus\u00a0income\u00a0earned within the domestic economy by foreign residents.",
+    "year": "2011"
+  },
+  {
+    "number": "1029",
+    "text": "A fall in national output will necessitate",
+    "options": {
+      "A": "a rise in expenditure on imports",
+      "B": "a rise in the level of savings",
+      "C": "an increase in the consumption of expenditure",
+      "D": "a rise in the standard of living"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22551?exam_type=waec&type=obj&page=206",
+    "correct_answer": "B",
+    "explanation": "An economy's level of output\u00a0occurs when all available resources are used efficiently. It equals the highest\u00a0level\u00a0of production an economy can sustain. A fall in the level of output will invariably\u00a0lead to reduced consumption and high savings. When the people do not have products to spend their monies on, they will be forced to safe the leftover after consumption.",
+    "year": "2011"
+  },
+  {
+    "number": "1030",
+    "text": "The demand for money to take advantage of changes in bond prices is the",
+    "options": {
+      "A": "unforeseen motive",
+      "B": "transaction motive",
+      "C": "speculative motive",
+      "D": "precautionary motive"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22552?exam_type=waec&type=obj&page=206",
+    "correct_answer": "C",
+    "explanation": "Speculative demand for money refers to a\u00a0desire to hold cash/money in order to be ready to take advantage of any attractive investment opportunity requiring a cash expenditure. Example holding money so as to invest in shares or bonds when opportunity arises.",
+    "year": "2011"
+  },
+  {
+    "number": "1031",
+    "text": "Cost push inflation is caused by a",
+    "options": {
+      "A": "rise in the cost of production",
+      "B": "decrease in the transportation cost",
+      "C": "rise in demand for goods",
+      "D": "decrease in the cost of production"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22553?exam_type=waec&type=obj&page=207",
+    "correct_answer": "A",
+    "explanation": "Cost-push inflation\u00a0occurs when overall\u00a0prices\u00a0increase\u00a0due to increases in the\u00a0cost\u00a0of wages and raw materials. An increase in the cost of wages and raw materials means high cost of production.\u00a0This will cause the prices of goods to rise",
+    "year": "2011"
+  },
+  {
+    "number": "1032",
+    "text": "Deposit held in a commercial bank are part of",
+    "options": {
+      "A": "money supply",
+      "B": "transfer payments",
+      "C": "ordinary shares",
+      "D": "treasury bills"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22554?exam_type=waec&type=obj&page=207",
+    "correct_answer": "A",
+    "explanation": "Commercial bank\u00a0refers to a financial institution that accepts deposits, offers cheque\u00a0account services, makes various loans etc. The deposits of commercial banks make up part of the money supply in an economy, which is the total amount of money in circulation or in existence in a country.\n.",
+    "year": "2011"
+  },
+  {
+    "number": "1033",
+    "text": "One profitable form of business undertaken by the commercial banks is",
+    "options": {
+      "A": "the issuing of cheques",
+      "B": "the payment of standing order",
+      "C": "lending money to borrowers",
+      "D": "accepting cheques from customers"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22556?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "Lending money to borrowers is one\u00a0profitable\u00a0business undertaken by the commercial banks. These banks lend money to borrowers and charge interest for the amount lend for the duration of the loan. The interest paid by borrowers is the lender's (bank) is the profit.",
+    "year": "2011"
+  },
+  {
+    "number": "1034",
+    "text": "When governments wants to discourage consumption, they tax goods whose demand is",
+    "options": {
+      "A": "price inelastic",
+      "B": "abnormal in nature",
+      "C": "price elastic",
+      "D": "normal in nature"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22557?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "Taxation\u00a0reduces the purchasing power of the people and it reduces their\u00a0consumption. The decline in\u00a0consumption\u00a0leads to decrease in effective demand for the goods and services, which in turn\u00a0affects\u00a0the production of these commodities.\nGovernment tax goods whose price is elastic. This means that, when there is an increase in price as a result of high taxation, the quantity demanded of the goods will reduce.",
+    "year": "2011"
+  },
+  {
+    "number": "1035",
+    "text": "A rise in government expenditure can lead to",
+    "options": {
+      "A": "higher inflation",
+      "B": "higher unemployment",
+      "C": "lower profits for industries",
+      "D": "lower importation  of raw materials by industries"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/22558?exam_type=waec&type=obj&page=207",
+    "correct_answer": "A",
+    "explanation": "Increased government spending invariably means increasing the money supply in the country. Excess money in circulation can lead to inflationary tendencies.",
+    "year": "2011"
+  }
+]

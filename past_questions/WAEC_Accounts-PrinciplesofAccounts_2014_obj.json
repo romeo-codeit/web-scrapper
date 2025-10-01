@@ -1,0 +1,632 @@
+[
+  {
+    "number": "3",
+    "text": "The source document used to make entries in the purchase day book is",
+    "options": {
+      "A": "debt note",
+      "B": "credit note",
+      "C": "invoice",
+      "D": "receipt"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37310?exam_type=waec&type=obj",
+    "correct_answer": "C",
+    "explanation": "An\u00a0invoice, bill or tab is a commercial document issued by a seller to a buyer, relating to a sale transaction and indicating the products, quantities, and agreed prices for products or services the seller had provided the buyer.",
+    "year": "2014"
+  },
+  {
+    "number": "4",
+    "text": "A book that contains individual accounts of suppliers is the",
+    "options": {
+      "A": "purchase ledger",
+      "B": "general ledger",
+      "C": "nominal ledger",
+      "D": "sales ledger"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37311?exam_type=waec&type=obj",
+    "correct_answer": "A",
+    "explanation": "A bought ledger is a system in accounting by which a business records and monitors its creditors. The purchase ledger contains the individual accounts of suppliers from whom the business has made purchases on credit.",
+    "year": "2014"
+  },
+  {
+    "number": "5",
+    "text": "In the operation of an imprest of petty cash, the",
+    "options": {
+      "A": "petty cashier pays all expenses",
+      "B": "petty cashier pays money to the accountant",
+      "C": "petty cashier regularly begins each period with the same amount of money",
+      "D": "main cashier accounts to the petty cashier for some experiences made by him"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37312?exam_type=waec&type=obj",
+    "correct_answer": "C",
+    "explanation": "An imprest system is a\u00a0Self-checking\u00a0account\u00a0where a fixed\u00a0balance\u00a0is maintained by regular replenishments and used for paying small, routine operating expenses. Also called Imprest account,\u00a0Imprest\u00a0fund, petty cash\u00a0account, or petty cash fund,.",
+    "year": "2014"
+  },
+  {
+    "number": "6",
+    "text": "An example of a credit entry in a profit and loss account is",
+    "options": {
+      "A": "carriage inwards",
+      "B": "carriage outwards",
+      "C": "discounts allowed",
+      "D": "discounts received"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37314?exam_type=waec&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "Discount\u00a0 received\u00a0\u00a0appear as a\u00a0credit\u00a0on \u00a0the\u00a0Profit and Loss Account. Basically, the cash\u00a0discount received\u00a0journal\u00a0entry is\u00a0a\u00a0credit entry\u00a0because it represents a reduction in expenses.",
+    "year": "2014"
+  },
+  {
+    "number": "7",
+    "text": "Which of the following subsidiary books involves cash movements?",
+    "options": {
+      "A": "sales day book",
+      "B": "purchases day book",
+      "C": "returns inwards book",
+      "D": "petty cash book"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37315?exam_type=waec&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "A\u00a0petty cash\u00a0is a\u00a0cash book\u00a0used to enter all small or\u00a0petty\u00a0expenses obtained. For\u00a0example\u00a0tea, Xerox copy etc. The\u00a0petty cash book\u00a0is to enter how the\u00a0cash available for daily expenses are spent for\u00a0example\u00a0milk, tea, taxi charges and postage.",
+    "year": "2014"
+  },
+  {
+    "number": "8",
+    "text": "The accounting treatment for a dishonored cheque is; debit",
+    "options": {
+      "A": "customer's account; credit bank account",
+      "B": "bank account; credit customer's account",
+      "C": "customer's account; credit sales account",
+      "D": "sales account; credit customer account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37316?exam_type=waec&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "Treatment: Before any notice of\u00a0cheque\u00a0being\u00a0dishonored: When a supplier (payee) receives a\u00a0cheque\u00a0from a customer(drawer) the supplier's cash book is debited and the customer's account in the sales ledger is credited with the amount of the\u00a0cheque.",
+    "year": "2014"
+  },
+  {
+    "number": "9",
+    "text": "Net turnover is referred to as",
+    "options": {
+      "A": "purchases",
+      "B": "assets",
+      "C": "sales",
+      "D": "profits"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37318?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "net turnover- is\u00a0turnover before VAT and after trade discounts have been deducted.\u00a0\u00a0A company may use\u00a0net turnover\u00a0to measure the total volume of sales",
+    "year": "2014"
+  },
+  {
+    "number": "10",
+    "text": "Which of the following transactions will result in disagreement between the cash book and the bank statements?",
+    "options": {
+      "A": "selling of goods on credit to a customer",
+      "B": "withdrawal of goods by the proprietor for his personel use",
+      "C": "cheque paid directly into the bank account by a customer",
+      "D": "omission of purchases received from a supplier on credit"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37320?exam_type=waec&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "A\u00a0cheque payment\u00a0is\u00a0recorded in the cash book\u00a0when the\u00a0cheque\u00a0is despatched. The\u00a0bank\u00a0only records such a\u00a0cheque\u00a0when it is paid by the\u00a0bank, which may be several days later. Items such as interest may appear on the\u00a0bank statement\u00a0but are not\u00a0recorded in the cash book\u00a0as the business is unaware that they have arisen.",
+    "year": "2014"
+  },
+  {
+    "number": "11",
+    "text": "Purchase account is overcast by \u20a6200, while wages account is undercast by \u20a6200. This is",
+    "options": {
+      "A": "an error of omission",
+      "B": "a compensating error",
+      "C": "an error of commision",
+      "D": "an error of principal"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37324?exam_type=waec&type=obj&page=3",
+    "correct_answer": "B",
+    "explanation": "Compensating errors are errors equal in amount but opposite in sense that cancel each other. It occurs\u00a0when one wrong entry neutralizes the impact of another incorrect entry.\nFor instance\u00a0when the effect of one transaction is neutralized by another error. When the effect of errors committed cancels out such errors it is called compensating errors.",
+    "year": "2014"
+  },
+  {
+    "number": "12",
+    "text": "Which of the following is used to record the disposal of a fixed asset?",
+    "options": {
+      "A": "journal proper",
+      "B": "petty cash book",
+      "C": "sales day book",
+      "D": "purchase day book"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37325?exam_type=waec&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "The journal proper is in recording books with original entries used for miscellaneous\u00a0credit transactions\u00a0that do not fit into other recorded books. The journal is maintained like a simple journal to record\u00a0opening\u00a0entries,\u00a0closing entries,\u00a0transfer entries,\u00a0adjustment entries,rectification entries, and rare transactions.",
+    "year": "2014"
+  },
+  {
+    "number": "13",
+    "text": "An error of principle is made, if",
+    "options": {
+      "A": "an entry has been made on the wrong class of account",
+      "B": "a transaction has been completely omitted",
+      "C": "an entry has been made on the wrong side of the two accounts corcened",
+      "D": "a transaction is entered in both accounts for the wrong amount"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37326?exam_type=waec&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "An\u00a0error of principle\u00a0is an accounting\u00a0mistake\u00a0in which an entry is recorded in the incorrect account, violating the fundamental\u00a0principles\u00a0of accounting. An\u00a0error of principle\u00a0is a procedural\u00a0error, meaning that the value recorded was the correct value but placed incorrectly.",
+    "year": "2014"
+  },
+  {
+    "number": "14",
+    "text": "Which of the following is entered in the general journal?",
+    "options": {
+      "A": "purchase of goods",
+      "B": "sale of goods on credit",
+      "C": "returns inward",
+      "D": "aquisition of fixed assets"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37327?exam_type=waec&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "The\u00a0general ledger\u00a0should include the date, description and balance or total amount for each account. It is usually divided into at least seven main categories. These categories generally include assets, liabilities, owner's equity, revenue, expenses, gains and losses.",
+    "year": "2014"
+  },
+  {
+    "number": "15",
+    "text": "Us the following information to answer the question given.\n\n\\(\\begin{array}{c|c} \\text{Cost of motor vehicle - 1\\1\\12} & \u20a6 85,000 \\\\ \\text{Residual value} & \u20a65,000 \\\\ \\text{Estimated useful lifespan 10 years} & \\end{array}\\). \nThe business make use of the straight line method for providing depreciation, the annual depreciation is",
+    "options": {
+      "A": "\u20a69,000",
+      "B": "\u20a68,500",
+      "C": "\u20a68,000",
+      "D": "\u20a66,500"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37329?exam_type=waec&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "16",
+    "text": "Use the information to answer the question given.\n\n\\(\\begin{array}{c|c} \\text{Cost of motor vehicle - 1\\1\\12} & \u20a6 85,000\\\\ \\text{Residual value} & \u20a65,000 \\\\ \\text{Estimated useful lifespan 10 years} &  \\end{array}\\). \nThe business make use of the straight line method for providing depreciation, the accumulated depreciation as at 31/12/2013 is",
+    "options": {
+      "A": "\u20a618,500",
+      "B": "\u20a617,000",
+      "C": "\u20a616,000",
+      "D": "\u20a68,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37330?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "17",
+    "text": "The purchase of ten ceiling fans by Akpan Electronic Enterprises will be recorded as",
+    "options": {
+      "A": "an acquisition of fixed asset",
+      "B": "an expense in its general office expense account",
+      "C": "part of capital in the capital account",
+      "D": "an acquisition of stock"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37331?exam_type=waec&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "Since the shop is involved in the sales of electronics and fans are electronics,\u00a0the purchase\u00a0is therefore considered\u00a0stock which has\u00a0been purchased by Akpan electronic enterprise for resale.",
+    "year": "2014"
+  },
+  {
+    "number": "18",
+    "text": "Which of the following accounts would appear in the nominal ledger? i. Sanison's account(a debtor) ii. Motor vehicle account iii. Sales account iv. Rent and rates account",
+    "options": {
+      "A": "i, ii and iii only",
+      "B": "i, iii and iv only",
+      "C": "ii, iii and iv only",
+      "D": "iii and iv only"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37333?exam_type=waec&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "Examples of nominal accounts\u00a0include purchase\u00a0account, sales\u00a0account, salary A/C, commission A/C etc. The\u00a0nominal account\u00a0is income statement\u00a0account(expenses, income, loss, profit) and is also known as temporary\u00a0account\u00a0unlike balance sheet\u00a0account\u00a0( Asset, Liability, owner's equity) which are permanent\u00a0account.",
+    "year": "2014"
+  },
+  {
+    "number": "19",
+    "text": "Net profit in a business is",
+    "options": {
+      "A": "the amount of money taken out of the business by the owner",
+      "B": "the cash in the business bank account",
+      "C": "the difference between sales and cost of sales",
+      "D": "sales revenue less cost of sales expenses"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37334?exam_type=waec&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "Net profit is the actual profit after working expenses not included in the calculation of gross profit have been paid.",
+    "year": "2014"
+  },
+  {
+    "number": "20",
+    "text": "which of the following is not an administrative expenses in a manufacturing organization?",
+    "options": {
+      "A": "discounts allowed",
+      "B": "office electricity",
+      "C": "stationery",
+      "D": "insurance"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37335?exam_type=waec&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "Administrative expenses\u00a0are the\u00a0expenses\u00a0that an organization incurs not directly tied to a specific function such as manufacturing, production or sales. stationaries aren't administrative expense.",
+    "year": "2014"
+  },
+  {
+    "number": "21",
+    "text": "Which of the following items is not contained in the Receipts and Payments Account?",
+    "options": {
+      "A": "Subscription paid in advance",
+      "B": "stock paid for in advance",
+      "C": "outstanding wages and salaries",
+      "D": "donations"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37336?exam_type=waec&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "Receipts and payments account\u00a0are used by non profit making organization,\u00a0It is a summarized form of Cash Book.\u00a0All\u00a0receipts\u00a0are recorded on its left-hand (Debit) side and all\u00a0payments\u00a0are recorded on its right-hand (credit) side.\u00a0receipts\u00a0&\u00a0payments\u00a0accounts show only the cash and bank transactions in that accounting period. it doesnt include\u00a0stock paid for in advance",
+    "year": "2014"
+  },
+  {
+    "number": "22",
+    "text": "The accounting concept underlying the treatment of personal expenses of the business owner as drawing is",
+    "options": {
+      "A": "periodicity",
+      "B": "accrual",
+      "C": "entity",
+      "D": "materiality"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37337?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "The businessentity conceptstates that the transactions associated with a business must be separately recorded from those of its owners or other businesses.",
+    "year": "2014"
+  },
+  {
+    "number": "23",
+    "text": "The sum of direct cost in a manufacturing account is",
+    "options": {
+      "A": "production cost",
+      "B": "prime cost",
+      "C": "total cost",
+      "D": "finance cost"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37339?exam_type=waec&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "Prime cost is\u00a0the direct cost of a commodity in terms of the materials and labour involved in its production, excluding fixed costs.",
+    "year": "2014"
+  },
+  {
+    "number": "24",
+    "text": "When an asset is sold, the entries for the accumulated depreciation are; debit",
+    "options": {
+      "A": "assets disposal account; credit provision for depreciation account",
+      "B": "provision for depreciation account; credit asset disposal account",
+      "C": "fixed asset account; credit asset disposal account",
+      "D": "asset disposal account; credit fixed asset account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37345?exam_type=waec&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "Debit cash for the amount received, debit all\u00a0accumulated depreciation, debit the loss on\u00a0sale\u00a0of\u00a0asset\u00a0account, and credit the fixed\u00a0asset.",
+    "year": "2014"
+  },
+  {
+    "number": "25",
+    "text": "A petty cash account has an imprest of D28,000. The account has a debit balance of D5,000. How much cash is needed to restore the imprest?",
+    "options": {
+      "A": "D33,000",
+      "B": "D28,000",
+      "C": "D23,000",
+      "D": "D5,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37346?exam_type=waec&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "The petty cash monthly imprest= 28,000Debit balance (amount left in the imprest) = 5,00028,000 - 5,000 = 23,000we need 23,000 to reimburse the imprest",
+    "year": "2014"
+  },
+  {
+    "number": "26",
+    "text": "In a not-for-profit making organization, when the total income is less than the total expenditure, the difference is a",
+    "options": {
+      "A": "surplus",
+      "B": "shortfall",
+      "C": "loss",
+      "D": "deficit"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37347?exam_type=waec&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "A\u00a0deficit\u00a0occurs\u00a0for\u00a0a\u00a0nonprofit organization\u00a0whenever its expenses exceed its revenue. (income is less than expenditure) . This is also true of businesses and government agencies.\u00a0Deficits\u00a0can be difficult\u00a0for nonprofit organizations\u00a0to overcome because they are heavily dependent upon the generosity of donors to stay afloat.",
+    "year": "2014"
+  },
+  {
+    "number": "27",
+    "text": "The concept that states that a business should not lay claim to any profits before it is earned with reasonable certainty is",
+    "options": {
+      "A": "constitency concept",
+      "B": "prudence concept",
+      "C": "accrual concept",
+      "D": "going corncern cocept"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37350?exam_type=waec&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "Accrual conceptis the most fundamental principle of accounting which requires recording revenues when they are earned and not when they are received in cash, and recording expenses when they are incurred and not when they are paid.",
+    "year": "2014"
+  },
+  {
+    "number": "28",
+    "text": "When shares are issued above their nominal value, the excess above the nominal value is",
+    "options": {
+      "A": "credited to profit and loss account",
+      "B": "debited to share premium account",
+      "C": "credited to share capital account",
+      "D": "credited to share premium account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37351?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "A company issues its\u00a0shares\u00a0at a\u00a0premium\u00a0when the price at which it sells the shares\u00a0is higher than their par value.\u00a0The amount of the premium\u00a0is the difference between the par value and the selling price and will be debited to the share premium account.",
+    "year": "2014"
+  },
+  {
+    "number": "29",
+    "text": "Shares issued below nominal value are referred to as shares at",
+    "options": {
+      "A": "premium",
+      "B": "discount",
+      "C": "face value",
+      "D": "cumulative value"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37352?exam_type=waec&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "Issue of\u00a0Shares\u00a0at\u00a0Discount Definition: When a\u00a0share\u00a0is issued by the company at a price that is less than the face value of the\u00a0share, the\u00a0share\u00a0is said to be issued at a\u00a0discount.",
+    "year": "2014"
+  },
+  {
+    "number": "30",
+    "text": "Use the following information to answer the question given.\n\n\\(\\begin{array}{c|c} Capital & Le \\\\ \\hline Aye & 20,000\\\\ Bee & 30,000\\\\ Drawings &  \\\\ Aye & 8,000 \\\\ Bee & 2,000 \\\\ \\text{Profit for the year}  & 2,000\\\\ \\text{Interest on capital-6%}   &   \\\\ \\text{Interest on drawings - 10%}  &   \\end{array}\\)\nProfit sharing is in the ratio of capital. The divisible profit is",
+    "options": {
+      "A": "Le 14,000",
+      "B": "Le 12,000",
+      "C": "Le 10,000",
+      "D": "Le 8,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37353?exam_type=waec&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "31",
+    "text": "Use the following information to answer the question given.\n\n\\(\\begin{array}{c|c} Capital & Le\\\\ \\hline Aye & 20,000\\\\ Bee & 30,000\\\\ Drawings &  \\\\ Aye & 8,000 \\\\ Bee & 2,000 \\\\ \\text{Profit for the year}  & 2,000\\\\ \\text{Interest on capital-6%}   &   \\\\ \\text{Interest on drawings - 10%}  &   \\end{array}\\).\nProfit sharing is in the ratio of capital. Aye;s share of profit is",
+    "options": {
+      "A": "Le 6,000",
+      "B": "Le 4,800",
+      "C": "Le 4000",
+      "D": "Le 3,200"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37354?exam_type=waec&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "32",
+    "text": "Use the following information to answer the question given.\n\n\\(\\begin{array}{c|c} Capital & Le\\\\ Aye & 20,000\\\\ Bee & 30,000\\\\ Drawings &  \\\\ Aye & 8,000 \\\\ Bee & 2,000 \\\\ \\text{Profit for the year}  & 2,000\\\\ \\{text{Interest on capital-6%}   &   \\\\ \\text{Interest on drawings - 10%}  &   \\end{array}\\)\nProfit sharing is in the ratio of capital. Bee's share of profit is",
+    "options": {
+      "A": "Le 8,000",
+      "B": "Le 6,000",
+      "C": "Le 4,800",
+      "D": "Le 3,200"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37355?exam_type=waec&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "33",
+    "text": "The accounting ratio used to measure the average number of days for which suppliers remain unpaid is",
+    "options": {
+      "A": "stock turnover",
+      "B": "creditor's payment period",
+      "C": "debtors collection period",
+      "D": "return on capital employed"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37356?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "The\u00a0Creditor\u00a0(or payables) days number is a similar ratio to debtor days and it gives an insight into whether a business is taking full advantage of trade credit available to it.\u00a0Creditor\u00a0days estimates the average time it takes a business to settle its debts with trade suppliers.",
+    "year": "2014"
+  },
+  {
+    "number": "34",
+    "text": "When the purchase consideration exceeds the value of business, the difference is",
+    "options": {
+      "A": "profit",
+      "B": "discount",
+      "C": "goodwill",
+      "D": "reserve"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37357?exam_type=waec&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "Goodwill\u00a0is an intangible asset associated with the purchase of one company by another. It\u00a0\u00a0is a company's value that exceeds its assets minus its liabilities.",
+    "year": "2014"
+  },
+  {
+    "number": "35",
+    "text": "The primary classification of government expenditure is based on",
+    "options": {
+      "A": "programs",
+      "B": "fund",
+      "C": "activity",
+      "D": "project"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37358?exam_type=waec&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "36",
+    "text": "An example of input devices of a computer is",
+    "options": {
+      "A": "an optical character reader",
+      "B": "a graph plotter",
+      "C": "a visual display unit",
+      "D": "a printer"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37361?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "Example of input devices are\nKeyboard.Mouse,JoystickLight Pen,Track Ball, Scanner, Digitizer, Microphone,Magnetic Ink Card Reader(MICR)Optical Character Reader(OCR)Bar Code ReaderOptical Mark Reader(OMR)",
+    "year": "2014"
+  },
+  {
+    "number": "37",
+    "text": "The accounting concept which states that expenditure involving insignificant amounts should be regarded as expenses and not assets is",
+    "options": {
+      "A": "business entity",
+      "B": "materiality",
+      "C": "dual aspect",
+      "D": "realization"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37362?exam_type=waec&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "The\u00a0materiality principle\u00a0states that an accounting standard can be ignored if the net impact of doing so has such a small impact on the financial statements that a reader of the financial statements would not be misled.",
+    "year": "2014"
+  },
+  {
+    "number": "38",
+    "text": "Which of the following information is recorded in the returns outwards book?",
+    "options": {
+      "A": "goods purchased on credit and susequently returned to suppliers",
+      "B": "fixed asset bought on credit and subsequently returned to supplier",
+      "C": "cash payment received from a customer and subsequently returned to supplier",
+      "D": "goods sold to a customer and subsequently returned to the business"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37367?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "Returns outwards\u00a0are goods returned by the customer or business to the supplier. For the supplier, this results in the following accounting transaction: A debit (reduction) in revenue in the amount credited back to the customer.",
+    "year": "2014"
+  },
+  {
+    "number": "39",
+    "text": "Use the information to answer the question given.\n\n\\(\\begin{array}{c|c} \\text{Branch stock account (at selling price)}  & D346,000 - debit \\\\ \\text{Branch mark-up account} & D62,000 - credit \\end{array}\\)\n\nCalculate the stock figure to be included in the balance sheet at the year end",
+    "options": {
+      "A": "D408,000",
+      "B": "D346,000",
+      "C": "D284,000",
+      "D": "D62,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37368?exam_type=waec&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "40",
+    "text": "Use the information to answer the question given.\n\n\\(\\begin{array}{c|c} \\text{Branch stock account (at selling price)}  & D346,000 - debit \\\\ \\text{Branch mark-up account} & D62,000 - credit \\end{array}\\)\n\nThe concept applied in calculating the stock figure to be included in the balance sheet at the year end is",
+    "options": {
+      "A": "matching",
+      "B": "consistency",
+      "C": "prudence",
+      "D": "entiti"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37369?exam_type=waec&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "41",
+    "text": "subscription in advance is classified in the balance sheet as",
+    "options": {
+      "A": "an asset",
+      "B": "a liability",
+      "C": "a deficit",
+      "D": "a surplus"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37372?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "When a company receives money in\u00a0advance\u00a0of earning it, the accounting entry is a debit to the\u00a0asset\u00a0Cash for the amount received and a credit to the liability account such as Customer\u00a0Advances\u00a0or Unearned Revenues. The subscription in advance is a liability because it is a future earning that will be due in future, it means the company is owing outsiders the\u00a0said amount tied to the payment.",
+    "year": "2014"
+  },
+  {
+    "number": "42",
+    "text": "Which of the following item is not treated in the profit and loss account?",
+    "options": {
+      "A": "office expenses",
+      "B": "salaries and allowances",
+      "C": "carriage inwards",
+      "D": "discounts allowed"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37373?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "A\u00a0profit and loss\u00a0account will include your credits (which includes turnover and other\u00a0income) and deduct your debits (which includes\u00a0allowances, cost of sales and overheads). These are used to find your bottom line figure \u2013 either your net\u00a0profit\u00a0or your net\u00a0loss.",
+    "year": "2014"
+  },
+  {
+    "number": "43",
+    "text": "The document prepared by a local/district government to present its annual estimates for a planning period is",
+    "options": {
+      "A": "a balance sheet",
+      "B": "a budget",
+      "C": "an income and expendiure account",
+      "D": "a cash bppk"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37374?exam_type=waec&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "A budget\u00a0is an estimation of revenue and expenses over a specified future period of time; it is compiled and re-evaluated on a periodic basis.",
+    "year": "2014"
+  },
+  {
+    "number": "44",
+    "text": "A manufacturing account is drawn up by",
+    "options": {
+      "A": "firms providing personal services",
+      "B": "firms engaged solely in buying and selling of goods",
+      "C": "firms which makes and sell articles",
+      "D": "non-trading organization"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37376?exam_type=waec&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "The\u00a0manufacturing account\u00a0is anaccountin the general ledger which is used to accumulate all the\u00a0manufacturing\u00a0costs of goods completed by a business during anaccountingperiod. It is used by firms involved in the production and sales of goods",
+    "year": "2014"
+  },
+  {
+    "number": "45",
+    "text": "Which of the following is not a factory overhead cost?",
+    "options": {
+      "A": "manufacturing wages",
+      "B": "factory rent",
+      "C": "depreciation of machinery",
+      "D": "salary of factory guard"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37377?exam_type=waec&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "Examples of factory overhead costs\u00a0include:\u00a0indirect\u00a0materials,\u00a0indirect\u00a0labor, depreciation of the\u00a0factory\u00a0equipment and plant, amortization of patents, the\u00a0cost\u00a0of small tools used,\u00a0factory\u00a0utilities, insurance on the\u00a0factory\u00a0and equipment, property taxes on plant and equipment, property taxes on materials and goods",
+    "year": "2014"
+  },
+  {
+    "number": "46",
+    "text": "A collection of fields relating to one logically definable unit of business information is known as",
+    "options": {
+      "A": "database",
+      "B": "character",
+      "C": "byte",
+      "D": "record"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37378?exam_type=waec&type=obj&page=10",
+    "correct_answer": "A",
+    "explanation": "Database - isanintegratedcollectionoflogically relatedrecords or files.\u00a0\u00a0A database consolidates records previously stored in separate files into a common pool of data records that provides data for many applications.",
+    "year": "2014"
+  },
+  {
+    "number": "47",
+    "text": "The principle of double entry bookkeeping states that",
+    "options": {
+      "A": "every debtor must have a creditor",
+      "B": "every account debited must be immediately credited",
+      "C": "for every debit entry, there must be a corresponding credit entry",
+      "D": "for every double debit, there must be a double credit"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37381?exam_type=waec&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "The double entry principle of bookkeeping states that, for every credit entry, there must be a corresponding debit entry and vice versa",
+    "year": "2014"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "number": "1709",
+    "text": "A bank is interested in accounting information of a client for the purpose of",
+    "options": {
+      "A": "evaluating the entity's share of the market.",
+      "B": "ascertaining the tax payable by the entity.",
+      "C": "assessing the\u00a0credit worthiness of the customer.",
+      "D": "determining the dividend payable to shareholders."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72716?exam_type=waec&type=obj&page=342",
+    "correct_answer": "C",
+    "explanation": "The banks will examine the financial statement of a business when it wishes to give them to such business.",
+    "year": "2024"
+  },
+  {
+    "number": "1710",
+    "text": "An item recorded in the profit and loss account is",
+    "options": {
+      "A": "creditors.",
+      "B": "cash-in-hand.",
+      "C": "debtors.",
+      "D": "general expenses."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72719?exam_type=waec&type=obj&page=342",
+    "correct_answer": "D",
+    "explanation": "General expenses is posted to the debit side of the profit \u00a0and cross account.",
+    "year": "2024"
+  },
+  {
+    "number": "1711",
+    "text": "The concept which assumes that transactions should be expressed using a common denominator is",
+    "options": {
+      "A": "historical cost concept.",
+      "B": "money measurement concept.",
+      "C": "materiality concept.",
+      "D": "consistency concept."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72720?exam_type=waec&type=obj&page=343",
+    "correct_answer": "B",
+    "explanation": "Money measurement concepts emphasis expressing all transactions in one currency denomination.",
+    "year": "2024"
+  },
+  {
+    "number": "1712",
+    "text": "Use the following information to answer the\u00a0questions\nThe yearly depreciation charge using the straight line method is \u00a0\n\\(\\frac{X-Y}{Z}\\)\u00a0\u00a0\n\nThe letter X in the formula represents",
+    "options": {
+      "A": "cost of the asset.",
+      "B": "accumulated depreciation.",
+      "C": "estimated useful life of the asset.",
+      "D": "rate of depreciation."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72724?exam_type=waec&type=obj&page=343",
+    "correct_answer": null,
+    "explanation": "The straight line method of depreciation formular is:\n\\(\\frac{\\text{cost of asset} - \\text{scrap value}}{\\text{estimated useful year}}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1713",
+    "text": "Use the following information to answer the\u00a0questions\nThe yearly depreciation charge using the straight line method is \u00a0\n\\(\\frac{X-Y}{Z}\\)\u00a0\u00a0\nThe letter Z in the formula represents",
+    "options": {
+      "A": "cost of the asset.",
+      "B": "accumulated depreciation.",
+      "C": "estimated useful life of the asset.",
+      "D": "rate of depreciation."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72726?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "The straight line method of depreciation formular is:\n\\(\\frac{\\text{cost of asset} - \\text{scrap value}}{\\text{estimated useful year}}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1714",
+    "text": "In manufacturing account, wages of machine operators are classified as",
+    "options": {
+      "A": "prime cost.",
+      "B": "factory overheads.",
+      "C": "work-in- progress.",
+      "D": "administrative overheads."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72728?exam_type=waec&type=obj&page=343",
+    "correct_answer": "A",
+    "explanation": "Wages of machines operators is a direct cost because in most cases, he will be remunerated based on the quantity produced. This has a direct relationship with output. Thus, it is part of prime cost and prime cost are direct cost in production.",
+    "year": "2024"
+  },
+  {
+    "number": "1715",
+    "text": "Use the following information to answer this question\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Le\nOpening stock\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06,000 \u00a0\nSales\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0180,000 \u00a0\nClosing stock\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04,200 \u00a0\nMark-up is 33\\(\\frac{1}{3}\\)%\n\u00a0\nThe value of purchases is",
+    "options": {
+      "A": "Le 139,200.",
+      "B": "Le 135,000.",
+      "C": "Le 133,200.",
+      "D": "Le 127,200."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72730?exam_type=waec&type=obj&page=343",
+    "correct_answer": "C",
+    "explanation": "Mark-up = \\(\\frac{\\text{profit}}{\\text{cost of sales}}\\)\u00a0 =\u00a0\\(\\frac{1}{3}\\)\nMargin =\u00a0\\(\\frac{\\text{profit}}{\\text{cost} +\u00a0{profit}}\\)\u00a0 =\u00a0\\(\\frac{1}{3\u00a0+ 1}\\) =\u00a0\\(\\frac{1}{4}\\)\n\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{cost} +\u00a0{profit}}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{sales}}\\)\n\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{\\text{profit}}{180000}\\)\nProfit =\u00a0\\(\\frac{le 180,000}{4}\\) = Le 45,000\nCost of sales + Profit = Sales\nCost of sales = Sales - Profit\n= Le 180,000 - Le 45,000\nCost of sales = Le 135,000\nCost of sales = opening stock + purchase - closing stock\nLe 135,000 = Le 6,000 + purchase - Le 4,200\nPurchase = Le 135,000 + 4,200 - Le 6,000\n= Le 133,200",
+    "year": "2024"
+  },
+  {
+    "number": "1716",
+    "text": "Use the following information to answer this question\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Le\nOpening stock\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06,000 \u00a0\nSales\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0180,000 \u00a0\nClosing stock\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04,200 \u00a0\nMark-up is 33\\(\\frac{1}{3}\\)%\nThe cost of goods sold is",
+    "options": {
+      "A": "Le 139,200.",
+      "B": "Le 135,000.",
+      "C": "Le 133,200.",
+      "D": "Le 127,200."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72731?exam_type=waec&type=obj&page=344",
+    "correct_answer": "B",
+    "explanation": "Mark-up = \\(\\frac{\\text{profit}}{\\text{cost of sales}}\\)\u00a0 =\u00a0\\(\\frac{1}{3}\\)\nMargin =\u00a0\\(\\frac{\\text{profit}}{\\text{cost} +\u00a0{profit}}\\)\u00a0 =\u00a0\\(\\frac{1}{3\u00a0+ 1}\\) =\u00a0\\(\\frac{1}{4}\\)\n\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{cost} +\u00a0{profit}}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{sales}}\\)\n\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{\\text{profit}}{180000}\\)\nProfit =\u00a0\\(\\frac{le 180,000}{4}\\) = Le 45,000\nCost of sales + Profit = Sales\nCost of sales = Sales - Profit\n= Le 180,000 - Le 45,000\nCost of sales = Le 135,000\nCost of sales = opening stock + purchase - closing stock\nLe 135,000 = Le 6,000 + purchase - Le 4,200\nPurchase = Le 135,000 + 4,200 - Le 6,000\n= Le 133,200",
+    "year": "2024"
+  },
+  {
+    "number": "1717",
+    "text": "Use the following information to answer this question\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Le\nOpening stock\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a06,000 \u00a0\nSales\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0180,000 \u00a0\nClosing stock\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a04,200 \u00a0\nMark-up is 33\\(\\frac{1}{3}\\)%\nThe gross profit is",
+    "options": {
+      "A": "Le 60,000.",
+      "B": "Le 45,000.",
+      "C": "Le 44,400",
+      "D": "Le 33,750."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72733?exam_type=waec&type=obj&page=344",
+    "correct_answer": "B",
+    "explanation": "Mark-up = \\(\\frac{\\text{profit}}{\\text{cost of sales}}\\)\u00a0 =\u00a0\\(\\frac{1}{3}\\)\nMargin =\u00a0\\(\\frac{\\text{profit}}{\\text{cost} +\u00a0{profit}}\\)\u00a0 =\u00a0\\(\\frac{1}{3\u00a0+ 1}\\) =\u00a0\\(\\frac{1}{4}\\)\n\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{cost} +\u00a0{profit}}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{sales}}\\)\n\\(\\frac{1}{4}\\) =\u00a0\\(\\frac{\\text{profit}}{180000}\\)\nProfit =\u00a0\\(\\frac{le 180,000}{4}\\) = Le 45,000\nCost of sales + Profit = Sales\nCost of sales = Sales - Profit\n= Le 180,000 - Le 45,000\nCost of sales = Le 135,000\nCost of sales = opening stock + purchase - closing stock\nLe 135,000 = Le 6,000 + purchase - Le 4,200\nPurchase = Le 135,000 + 4,200 - Le 6,000\n= Le 133,200",
+    "year": "2024"
+  },
+  {
+    "number": "1718",
+    "text": "A sole trader received the sum of # 4,860 cash from a debtor. The effect of this transaction in the balance sheet is",
+    "options": {
+      "A": "decrease in stock and increase in debtor.",
+      "B": "decrease in asse and increase in liability.",
+      "C": "increase in cash and decrease in debtor.",
+      "D": "increase in cash and decrease in capital."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72734?exam_type=waec&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "Cash receive from debtors will increase cash and will reduce the balance of debtors.",
+    "year": "2024"
+  },
+  {
+    "number": "1719",
+    "text": "According lo the entity concept, ownership is",
+    "options": {
+      "A": "vested or the board of directors.",
+      "B": "vested on the management.",
+      "C": "separated from the business.",
+      "D": "not separated from the business"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72735?exam_type=waec&type=obj&page=344",
+    "correct_answer": "C",
+    "explanation": "Entity concept try to establish that the firm/ company is a separate entity that can sue and be sued in its name separate from the owner of the business.",
+    "year": "2024"
+  },
+  {
+    "number": "1720",
+    "text": "An item recorded in the trial balance is",
+    "options": {
+      "A": "opening stock.",
+      "B": "closing stock.",
+      "C": "accrued expenses.",
+      "D": "depreciation charged for the year."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72736?exam_type=waec&type=obj&page=344",
+    "correct_answer": "A",
+    "explanation": "Opening stock is part of the asset of the company at the beginning of the year. Thus, it appears in the debit side of the trial balance, while other options will not appear in the trial balance because they are usually accounted for by the ending of the accounting period. Therefore, are additional information.",
+    "year": "2024"
+  },
+  {
+    "number": "1721",
+    "text": "The class of shares which are available only to the promoters of a company are",
+    "options": {
+      "A": "ordinary shares.",
+      "B": "cumulative preference shares.",
+      "C": "non-cumulative preference shares",
+      "D": "deferred shares."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72737?exam_type=waec&type=obj&page=345",
+    "correct_answer": "D",
+    "explanation": "Deferred shares are only meant for the founder of the company.",
+    "year": "2024"
+  },
+  {
+    "number": "1722",
+    "text": "Expense incurred but not yet paid is",
+    "options": {
+      "A": "long-term liability",
+      "B": "current liability.",
+      "C": "current asset.",
+      "D": "capital expenditure."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72738?exam_type=waec&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "An expense that has been incurred is a liability for the business, if it remains unpaid for.",
+    "year": "2024"
+  },
+  {
+    "number": "1723",
+    "text": "Work-in-progress is an item in",
+    "options": {
+      "A": "income and expenditure account.",
+      "B": "receipts and payments account.",
+      "C": "appropriation account.",
+      "D": "manufacturing account."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72739?exam_type=waec&type=obj&page=345",
+    "correct_answer": "D",
+    "explanation": "Work in progress only appears in manufacturing account.",
+    "year": "2024"
+  },
+  {
+    "number": "1724",
+    "text": "In an incomplete record, the excess of opening capital ove closing capital is",
+    "options": {
+      "A": "provision.",
+      "B": "loss.",
+      "C": "profit.",
+      "D": "reserve."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72741?exam_type=waec&type=obj&page=345",
+    "correct_answer": "B",
+    "explanation": "If the opening capital is greater than the closing capital, it means the organization has incurred loss that drains its capital or make withdrawals.",
+    "year": "2024"
+  },
+  {
+    "number": "1725",
+    "text": "Use the following information to answer this question\nBayo issued a credit note to Ayo who returned defective goods. Each party maintains sales ledger control account and purchases ledger control account. \u00a0\nAyo will record this transaction on the",
+    "options": {
+      "A": "debit side of the sales ledger control account.",
+      "B": "credit side of the sales ledger control account",
+      "C": "debit side of the purchases ledger control account.",
+      "D": "credit side of the purchases ledger control account."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72742?exam_type=waec&type=obj&page=345",
+    "correct_answer": "C",
+    "explanation": "Since Ayo is the purchaser, the credit note will appear in his purchase ledger control account against purchase.",
+    "year": "2024"
+  },
+  {
+    "number": "1726",
+    "text": "Use the following information to answer this question\n\ufeff\nBayo issued a credit note to Ayo who returned defective goods. Each party maintains sales ledger control account and purchases ledger control account. \u00a0\nBayo will record this transaction on the",
+    "options": {
+      "A": "debit side of the sales lodger control account.",
+      "B": "credit side of the sales ledger control account.",
+      "C": "debit side of the purchases ledger control account.",
+      "D": "credit side of the purchases ledger control account."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72743?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "Bayo is the seller, thus, the credit note issued against him- self will appear in the sales ledger control account against credit sales.",
+    "year": "2024"
+  },
+  {
+    "number": "1727",
+    "text": "The concept that underlies the comparing of expenditure for a period with the revenue of same period is",
+    "options": {
+      "A": "accrual concept.",
+      "B": "money measurement concept.",
+      "C": "matching concept.",
+      "D": "dual aspect concept."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72746?exam_type=waec&type=obj&page=346",
+    "correct_answer": "C",
+    "explanation": "Matching concept emphasis matching expenses against income for the period in which they are incurred.",
+    "year": "2024"
+  },
+  {
+    "number": "1728",
+    "text": "An item is classified as a current asset if it is",
+    "options": {
+      "A": "purchased for long-term use.",
+      "B": "expected to be realized within the balance sheet date.",
+      "C": "fictitious in nature.",
+      "D": "neither cash nor cash equivalent."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72747?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "A current asset is an asset whose life span does not last longer than a year. Its value is expected to be realized within a year, in contrast to non-current asset whose value spans for more than a year.",
+    "year": "2024"
+  },
+  {
+    "number": "1729",
+    "text": "Subscriptions classified in the balance sheet as a current asset is subscriptions",
+    "options": {
+      "A": "in advance.",
+      "B": "in arrears.",
+      "C": "received or the year.",
+      "D": "income for the year."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72753?exam_type=waec&type=obj&page=346",
+    "correct_answer": "B",
+    "explanation": "Subscription in arrears is a type of income that we have earned or worked for within a certain period, but yet to receive. Thus, it is classified as a current asset of the balance sheet.",
+    "year": "2024"
+  },
+  {
+    "number": "1730",
+    "text": "Which of the following items will not be charged to the manufacturing account?",
+    "options": {
+      "A": "Warehouse rent",
+      "B": "Opening work-in-progress",
+      "C": "Direct expenses",
+      "D": "Carriage on raw materials"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72754?exam_type=waec&type=obj&page=346",
+    "correct_answer": "A",
+    "explanation": "Warehouse rent is part of selling and distribution expense. Thus, it will only appear in the profit and loss account.",
+    "year": "2024"
+  },
+  {
+    "number": "1731",
+    "text": "An account in the real ledger is",
+    "options": {
+      "A": "sales account.",
+      "B": "insurance account",
+      "C": "discount received account.",
+      "D": "machinery"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72755?exam_type=waec&type=obj&page=347",
+    "correct_answer": "D",
+    "explanation": "Machinery account is a real account because it is named and identified against what it is incurred on.",
+    "year": "2024"
+  },
+  {
+    "number": "1732",
+    "text": "Use the following information to answer this question.\n\u00a0\nThe margin for a business is 2/5 and the cost of sales is $ 120,000. \u00a0\n\nThe mark-up for the business is",
+    "options": {
+      "A": "4/5",
+      "B": "3/5",
+      "C": "2/3",
+      "D": "1/5"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72756?exam_type=waec&type=obj&page=347",
+    "correct_answer": "C",
+    "explanation": "If margin = \\(\\frac{2}{3}\\) = \\(\\frac{\\text{profit}}{\\text{sales}}\\)\nCost = sales - profit\nMark up =\u00a0\\(\\frac{\\text{profit}}{\\text{cost}}\\) =\u00a0\\(\\frac{2}{5.2}\\) =\u00a0\\(\\frac{2}{3}\\)",
+    "year": "2024"
+  },
+  {
+    "number": "1733",
+    "text": "Use the following information to answer this question.\nThe margin for a business is 2/5 and the cost of sales is $ 120,000. \u00a0\nThe sales value for the business is",
+    "options": {
+      "A": "$216,000.",
+      "B": "$204,000.",
+      "C": "$ 200,000.",
+      "D": "$ 192,000."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72758?exam_type=waec&type=obj&page=347",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2}{3}\\) =\u00a0\\(\\frac{\\text{profit}}{\\text{cost}}\\) =\u00a0\\(\\frac{\\text{profit}}{120,000}\\)\nProfit =\u00a0\\(\\frac{2 \\times\u00a0120,000}{3}\\)\n= #80,000\nSales = cost + profit\n= #120,000 + #80,000\n= # 200,000",
+    "year": "2024"
+  },
+  {
+    "number": "1734",
+    "text": "The objective of preparing a departmental account is to",
+    "options": {
+      "A": "ascertain the cost of raw materials of each department.",
+      "B": "ascertain the profit of each department.",
+      "C": "determine the value of unused stock of each department.",
+      "D": "calculate the stock turnover ratio of each department."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72759?exam_type=waec&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "The departmental account will help to determine which department is making profit and which is making loss.",
+    "year": "2024"
+  },
+  {
+    "number": "1735",
+    "text": "A debit balance of D 61,000 on a customer's bank statement means that",
+    "options": {
+      "A": "the customer's bank balance is D 61,000.",
+      "B": "the customer owes the bank D 61,000.",
+      "C": "a customer's cheque of D 61,000 is yet to be cleared by the bank.",
+      "D": "a direct deposit of D 61,000 was made by a customer."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72760?exam_type=waec&type=obj&page=347",
+    "correct_answer": "B",
+    "explanation": "A customer's account with the bank is supposed to have credit balance. Thus, a debit balance indicates that the customer is owing the bank.",
+    "year": "2024"
+  },
+  {
+    "number": "1736",
+    "text": "Use the following information to answer this question.\u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 GH\u00a2 \u00a0\nTrade creditors 1/1/2022\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 35,000 \u00a0\nPayment to suppliers in 2022\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030,000 \u00a0\nDiscounts received\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1,800 \u00a0\nTrade creditors 31/12/2022\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 24,000 \u00a0\nThe purchases for 2022 is",
+    "options": {
+      "A": "GH\u00a2 90,800.",
+      "B": "GH\u00a2 55,800.",
+      "C": "GH\u00a2 39,200.",
+      "D": "GH\u00a2 20,800."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72762?exam_type=waec&type=obj&page=348",
+    "correct_answer": "D",
+    "explanation": "GH\u00a2GH\u00a2Payment to supplierDiscount receivedBal c/d30,0001,80024,00055,800Bal b/dPurchases35,00020,800\u2014\u2014\u201455,800",
+    "year": "2024"
+  },
+  {
+    "number": "1737",
+    "text": "Use the following information to answer this question.\u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 GH\u00a2 \u00a0\nTrade creditors 1/1/2022\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 35,000 \u00a0\nPayment to suppliers in 2022\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030,000 \u00a0\nDiscounts received\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 1,800 \u00a0\nTrade creditors 31/12/2022\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 24,000 \u00a0\nThe balance sheet as at 31/12/2022 will show current liability of",
+    "options": {
+      "A": "GH\u00a2 59,000.",
+      "B": "GH\u00a2 24,000.",
+      "C": "GH\u00a2 22,200.",
+      "D": "GH\u00a2 1,000."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72763?exam_type=waec&type=obj&page=348",
+    "correct_answer": "B",
+    "explanation": "The balance on the purchases control account at the end is the creditors balance that is shown in the balance sheet.",
+    "year": "2024"
+  },
+  {
+    "number": "1738",
+    "text": "A credit purchase of D 63 from Kofi has been entered in he accounts as D 16. This is an error of",
+    "options": {
+      "A": "principle.",
+      "B": "original entry.",
+      "C": "complete reversal of entry.",
+      "D": "omission."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72765?exam_type=waec&type=obj&page=348",
+    "correct_answer": "B",
+    "explanation": "The error that involves changing the amounts totally at the point of entry is error of original entry.",
+    "year": "2024"
+  },
+  {
+    "number": "1739",
+    "text": "Use the following information to answer this question.\nTaiyelolu and Ejire are partners sharing profits or losses equally. Extracts from their books showed: \u00a0\n\u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Taiyelolu\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 Ejire\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0#\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 # \u00a0\nCapital accounts (1/1/2023)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0100,000 \u00a0\nCurrent accounts (1/1/2023)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a040,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a080,000 \u00a0\nDrawings within the year\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030,000 \u00a0\nAnnual salaries\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 28,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a024,000 \u00a0\n\u00a0\nInterest on capital is agreed at 10% and the net profit for the year is # 120,000. \u00a0\nThe interest on Taiyelolu's capital is",
+    "options": {
+      "A": "#20,000.",
+      "B": "#12,000.",
+      "C": "# 4,000.",
+      "D": "#2,000."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72766?exam_type=waec&type=obj&page=348",
+    "correct_answer": "A",
+    "explanation": "Int. on Taiyelolu's Capital= 10% \u00d7 #200,000= #20,000",
+    "year": "2024"
+  },
+  {
+    "number": "1740",
+    "text": "Use the following information to answer this question.\nTaiyelolu and Ejire are partners sharing profits or losses equally. Extracts from their books showed: \u00a0\n\u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Taiyelolu\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 Ejire\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0#\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 # \u00a0\nCapital accounts (1/1/2023)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0100,000 \u00a0\nCurrent accounts (1/1/2023)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a040,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a080,000 \u00a0\nDrawings within the year\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030,000 \u00a0\nAnnual salaries\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 28,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a024,000 \u00a0\nInterest on capital is agreed at 10% and the net profit for the year is # 120,000. \u00a0\nEjire's share of profit is",
+    "options": {
+      "A": "#45,000.",
+      "B": "# 38,000.",
+      "C": "# 34,000.",
+      "D": "#19,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72767?exam_type=waec&type=obj&page=348",
+    "correct_answer": "D",
+    "explanation": "Appropriation\u00a0account\n#\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0#\n120,000\nNet profit\nLess: interest on capital\nTaiyelolu\u00a010% x #200,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020,000(30,000)\nEjire\u00a0 \u00a0 \u00a0 \u00a0 10% x #100,00010,00090,000\nAnnual salaries:\nTaiyelolu\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a028,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0(52,000)\nEjire\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 24,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 38,000\nShare of profit:\nTaiyelolu\u00a0 (#38,000/2)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 19,000(38,000)\nEjire\u00a0 \u00a0 \u00a0 \u00a0 (#38,000/2)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 19,000",
+    "year": "2024"
+  },
+  {
+    "number": "1741",
+    "text": "Use the following information to answer this question.\nTaiyelolu and Ejire are partners sharing profits or losses equally. Extracts from their books showed: \u00a0\n\u00a0\u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Taiyelolu\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a0 Ejire\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0#\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0 # \u00a0\nCapital accounts (1/1/2023)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 200,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0100,000 \u00a0\nCurrent accounts (1/1/2023)\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a040,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a080,000 \u00a0\nDrawings within the year\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a020,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a030,000 \u00a0\nAnnual salaries\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 28,000\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a024,000 \u00a0\nInterest on capital is agreed at 10% and the net profit for the year is # 120,000. \u00a0\nTaiyelolu's balance of current account at the end of the year is",
+    "options": {
+      "A": "#107,000.",
+      "B": "$87,000.",
+      "C": "#68,000.",
+      "D": "#40,000."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72768?exam_type=waec&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "Taiyelolu current value\n##Drawing\u00a0 \u00a0 \u00a0 \u00a0 \u00a020,000Bal c/d87,000107,000Balance b/d\u00a0 \u00a0 \u00a0 \u00a040,000Salary\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 28,000Int. on capital\u00a0 \u00a0 \u00a020,000Share of profit19,000107,000Bal b/d\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 87,000\nGoodwill value is the difference between the purchase consideration and the net value of all assets of the business.",
+    "year": "2024"
+  },
+  {
+    "number": "1742",
+    "text": "Purchased goodwill is purchase consideration less the value of",
+    "options": {
+      "A": "gross identifiable assets.",
+      "B": "net identifiable assets.",
+      "C": "gross non-current assets.",
+      "D": "current assets."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72769?exam_type=waec&type=obj&page=349",
+    "correct_answer": "B",
+    "explanation": "Purchased goodwill is calculated as the difference between the purchase consideration (the amount paid to acquire a business) and the net identifiable assets (the fair value of the acquired assets minus liabilities). This goodwill represents the intangible advantages of the business, such as brand reputation, customer loyalty, and operational efficiencies.",
+    "year": "2024"
+  },
+  {
+    "number": "1743",
+    "text": "Errors in the trial balance are corrected using the",
+    "options": {
+      "A": "control account.",
+      "B": "cash book.",
+      "C": "ledger.",
+      "D": "journal."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72770?exam_type=waec&type=obj&page=349",
+    "correct_answer": "D",
+    "explanation": "The journal is used to correct the errors in the trial balance.",
+    "year": "2024"
+  },
+  {
+    "number": "1744",
+    "text": "The equivalent of income and expenditure account in a limited liability company is",
+    "options": {
+      "A": "cash book.",
+      "B": "receipts and payments account.",
+      "C": "appropriation account.",
+      "D": "profit and loss account."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72777?exam_type=waec&type=obj&page=349",
+    "correct_answer": "D",
+    "explanation": "Profit and loss account is used by profit making organizations in place of income and expenditure account in a not for profit making organizations.",
+    "year": "2024"
+  },
+  {
+    "number": "1745",
+    "text": "The owner's claim on the asset of a business is",
+    "options": {
+      "A": "capital.",
+      "B": "loan.",
+      "C": "liabilities.",
+      "D": "drawings.."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72778?exam_type=waec&type=obj&page=349",
+    "correct_answer": "A",
+    "explanation": "Creditor's claims over a business asset are called Liabilities while Owner's claims are called Capital/or Owner's Equity.",
+    "year": "2024"
+  },
+  {
+    "number": "1746",
+    "text": "A partner who has not contributed any form of capital into the firm but only lends his name to be used as a partner is a",
+    "options": {
+      "A": "limited partner.",
+      "B": "dormant partner.",
+      "C": "general partner.",
+      "D": "nominal partner."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72779?exam_type=waec&type=obj&page=350",
+    "correct_answer": "D",
+    "explanation": "The nominal partner is the partner that only allows his/her name to be used as goodwill in the business.",
+    "year": "2024"
+  },
+  {
+    "number": "1747",
+    "text": "Liquid assets refer to",
+    "options": {
+      "A": "cash and other assets that can be easily converted into cash.",
+      "B": "cash and other current assets.",
+      "C": "current assets less current liabilities.",
+      "D": "bank balance less overdraft."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72780?exam_type=waec&type=obj&page=350",
+    "correct_answer": "A",
+    "explanation": "Liquid assets or near cash assets are assets that are close to cash including cash at hand or cash in bank.",
+    "year": "2024"
+  },
+  {
+    "number": "1748",
+    "text": "Use the following information to answer this\u00a0 question.\nAde bought goods worth le 30,000 from Ode and was given a 7.5% discount. \u00a0\n\nThe evidence of payment for the goods\u00a0Ade bought is the",
+    "options": {
+      "A": "receipt.",
+      "B": "invoice.",
+      "C": "waybill.",
+      "D": "voucher."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72781?exam_type=waec&type=obj&page=350",
+    "correct_answer": "A",
+    "explanation": "Receipt is the documents that shows transfer of ownership of a good to the bearer.",
+    "year": "2024"
+  },
+  {
+    "number": "1749",
+    "text": "Use the following information to answer this\u00a0 question.\nAde bought goods worth le 30,000 from Ode and was given a 7.5% discount. \u00a0\nThe amount paid for the goods is",
+    "options": {
+      "A": "Le 32,250.",
+      "B": "Le 30,000.",
+      "C": "Le 27,750.",
+      "D": "Le 2,250."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72782?exam_type=waec&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "The amount paidLe 30,000 - (Le 30,000\u00d77.5%)= le 30,000 - Le 2,250= Le 27,750",
+    "year": "2024"
+  },
+  {
+    "number": "1750",
+    "text": "The proportion of the issued capital to be paid later is",
+    "options": {
+      "A": "called-up capital.",
+      "B": "authorized capital.",
+      "C": "uncalled-up capital.",
+      "D": "paid-up capital."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72783?exam_type=waec&type=obj&page=350",
+    "correct_answer": "C",
+    "explanation": "uncalled capital is the amount of the capital which the company has not mandated to be paid now.",
+    "year": "2024"
+  },
+  {
+    "number": "1751",
+    "text": "One of the columns in a single column cash book is",
+    "options": {
+      "A": "bank.",
+      "B": "discount allowed.",
+      "C": "discount received.",
+      "D": "particulars."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72784?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "Single column cash book only records cash transactions. Thus, the \"particular\" must show as it is shown in other columns cash book.",
+    "year": "2024"
+  },
+  {
+    "number": "1752",
+    "text": "Use the following information to answer this question. \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0D \u00a0\nPurchases of motor van\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 370,000 \u00a0\nBuilding of laboratories\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0760,000 \u00a0\nPurchase of drugs\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0110,000 \u00a0\nElectricity\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a026,000 \u00a0\nRepair of equipment\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 10,000\nThe amount of recurrent expenditure is",
+    "options": {
+      "A": "D 146,000.",
+      "B": "D\u00a0136,000.",
+      "C": "D 120,000.",
+      "D": "D 110,000."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72785?exam_type=waec&type=obj&page=351",
+    "correct_answer": "A",
+    "explanation": "Recurrent expenditure:\n= D110,000+D26,000+D10,000\n= D146, 000",
+    "year": "2024"
+  },
+  {
+    "number": "1753",
+    "text": "Use the following information to answer this question. \u00a0\n\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0D \u00a0\nPurchases of motor van\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 370,000 \u00a0\nBuilding of laboratories\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 760,000 \u00a0\nPurchase of drugs\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0\u00a0110,000 \u00a0\nElectricity\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 \u00a026,000 \u00a0\nRepair of equipment\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0 \u00a0 \u00a0 10,000\nThe capital expenditure is",
+    "options": {
+      "A": "D 1.140,000.",
+      "B": "D 1,130,000",
+      "C": "D 870,000.",
+      "D": "D 760,000."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72786?exam_type=waec&type=obj&page=351",
+    "correct_answer": "B",
+    "explanation": "capital expenditure:= D 370,000+D 760,000= D 1,130,000",
+    "year": "2024"
+  },
+  {
+    "number": "1754",
+    "text": "Shares which are issued at no cost to existing shareholders in proportion to existing shares held are",
+    "options": {
+      "A": "founders' shares.",
+      "B": "preference shares.",
+      "C": "deferred shares.",
+      "D": "bonus shares."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72787?exam_type=waec&type=obj&page=351",
+    "correct_answer": "D",
+    "explanation": "Bonus issue of shares occurred when shares are issued to existing share holders for free. This is a way of pacifying them not receiving dividend.",
+    "year": "2024"
+  },
+  {
+    "number": "1755",
+    "text": "Which of the following items will be recorded on the credit side of a club's income and expenditure account?",
+    "options": {
+      "A": "Donation to children's home",
+      "B": "Donations received",
+      "C": "Honoraria paid to guest speakers",
+      "D": "Meeting expenses."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72788?exam_type=waec&type=obj&page=351",
+    "correct_answer": "B",
+    "explanation": "Donations received is an income to the organization. All incomes appear on the credit side of income and expenditureaccount.",
+    "year": "2024"
+  },
+  {
+    "number": "1756",
+    "text": "Where the head office maintains all books of account, the cost of goods returned is credited to",
+    "options": {
+      "A": "Goods Sent to Branch Account",
+      "B": "Branch Stock Account.",
+      "C": "Branch Head Office Current Account.",
+      "D": "Branch Debtors Account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72789?exam_type=waec&type=obj&page=352",
+    "correct_answer": "A",
+    "explanation": "Since it is the head office that maintains accounts, all good returned will be deducted from cost of Goods sent to the branch.",
+    "year": "2024"
+  },
+  {
+    "number": "1757",
+    "text": "Distribution of dividends to shareholders are made from profit",
+    "options": {
+      "A": "on sale of fixed assets",
+      "B": "before tax.",
+      "C": "after tax.",
+      "D": "on purchase of business."
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72790?exam_type=waec&type=obj&page=352",
+    "correct_answer": "C",
+    "explanation": "It is after the taxes have been deducted from profits be- fore dividend can be shared to shareholders.",
+    "year": "2024"
+  },
+  {
+    "number": "1758",
+    "text": "The debit side of a trial balance total is GH\u00a2 2,000 more than the credit side. Which of the following errors would account for the difference?",
+    "options": {
+      "A": "A receipt of GH\u00a2 2,000 for rent has been omitted from the books",
+      "B": "Carriage inwards of GH\u00a2 2,000 has been debited to carriage outwards account",
+      "C": "Petty cash balance of GH\u00a2 1,000 has been omitted from the books",
+      "D": "Discount received of GH\u00a2 1,000 has been debited to discount allowed account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/72791?exam_type=waec&type=obj&page=352",
+    "correct_answer": "A",
+    "explanation": "GH\u00a2 2,000 received from rent is an income that should have appeared in the credit side of the trial balance. This error of omission would definitely make the debit side to be GH\u00a2 2,000 higher than the credit side.",
+    "year": "2024"
+  }
+]

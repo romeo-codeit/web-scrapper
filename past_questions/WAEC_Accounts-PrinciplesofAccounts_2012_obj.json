@@ -1,0 +1,660 @@
+[
+  {
+    "number": "96",
+    "text": "The objectively of accounting information is enable users to",
+    "options": {
+      "A": "prepre the financial statements",
+      "B": "value stock",
+      "C": "make decisions",
+      "D": "prepare budgets"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37478?exam_type=waec&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "To make sound financial decisions.",
+    "year": "2012"
+  },
+  {
+    "number": "97",
+    "text": "Trade discounts are given for",
+    "options": {
+      "A": "bulk purchases",
+      "B": "prompt payment",
+      "C": "quick delivery",
+      "D": "cash payment"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37479?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "A\u00a0trade discount\u00a0represents the reduction in cost of goods or services sold in the business environment.\u00a0Trade discounts\u00a0can help small businesses save money when purchasing goods or services from suppliers. Many suppliers require small businesses to pay within a specific time frame to receive the\u00a0trade discount.\nOne of the mainreasonswhy firms offertrade discountsis to encourage debtors to clear their outstanding balances quickly.",
+    "year": "2012"
+  },
+  {
+    "number": "98",
+    "text": "When closing stock is overstated, it would reduce,",
+    "options": {
+      "A": "cost of sales and increase gross profit",
+      "B": "gross profit and increase cost of sales",
+      "C": "purchases and increases sales",
+      "D": "sales and increase purchases"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37483?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "when closing stock is overstated, the cost of goods available for sale will be high and the gross profit low. The higher the cost of sales, the lower the gross profit",
+    "year": "2012"
+  },
+  {
+    "number": "99",
+    "text": "Which of the following is not a source document?",
+    "options": {
+      "A": "journal paper",
+      "B": "sales invoice",
+      "C": "debit note",
+      "D": "credit note"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37484?exam_type=waec&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "The types of sources documents are:\nPurchase order.Cash\u00a0receipt.Invoice.Cash register.Tapes.Credit.Debit note.Deposit slips",
+    "year": "2012"
+  },
+  {
+    "number": "100",
+    "text": "A fixed assets fully written-down by a trader is now considered to be worth \u20a65,000. The double entry required to reflect this is debit",
+    "options": {
+      "A": "asset account credit purchase account",
+      "B": "asset account credit capital account",
+      "C": "capital account credit asset account",
+      "D": "capital account credit profit and loss account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37485?exam_type=waec&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "Debit asset account with 5000 and credit\u00a0 capital\u00a0account with 5000.",
+    "year": "2012"
+  },
+  {
+    "number": "101",
+    "text": "Which of the following is a book of ordinary entry?",
+    "options": {
+      "A": "ledger",
+      "B": "balance sheet",
+      "C": "bank statement",
+      "D": "sales journal"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37486?exam_type=waec&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "Books of original entry refers to the accounting journals in which business transactions are initially recorded.\u00a0The information\u00a0in these books is then summarized and posted into a\u00a0general ledger, from which\u00a0financial statements\u00a0are produced.\nThe main\u00a0books\u00a0of prime\u00a0entry\u00a0are:\nSales day\u00a0book.Purchase day\u00a0book.Sales returns day\u00a0book.Purchases returns day\u00a0book.Bank\u00a0Book.Cash Receipts\u00a0Book.Cash Payments\u00a0Book.Petty Cash Receipts\u00a0Book.",
+    "year": "2012"
+  },
+  {
+    "number": "102",
+    "text": "A balance sheet shows only",
+    "options": {
+      "A": "fixed assets and current assets",
+      "B": "assets and long term liabilities",
+      "C": "assets and liabilities",
+      "D": "assets and capital"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37487?exam_type=waec&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "A\u00a0balance sheet\u00a0is a financial statement that reports a company's assets, liabilities and shareholders' equity.",
+    "year": "2012"
+  },
+  {
+    "number": "103",
+    "text": "The process of entering transaction from one book to another is",
+    "options": {
+      "A": "reading",
+      "B": "posting",
+      "C": "numbering",
+      "D": "listing"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37488?exam_type=waec&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "Posting in accounting\u00a0is when the balances in sub-ledgers and the general journal are shifted into the general ledger.",
+    "year": "2012"
+  },
+  {
+    "number": "104",
+    "text": "Which of the following is a trading account item?",
+    "options": {
+      "A": "discount allowed",
+      "B": "discount recieved",
+      "C": "carriage outwards",
+      "D": "carriage inwards"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37489?exam_type=waec&type=obj&page=21",
+    "correct_answer": "D",
+    "explanation": "Carriage inwards\u00a0is the shipping and handling costs incurred by a company that is receiving goods from suppliers. It is added to the cost of purchase and recorded in the trading account",
+    "year": "2012"
+  },
+  {
+    "number": "105",
+    "text": "The addition of prime cost and factory overhead is",
+    "options": {
+      "A": "total factory overheads",
+      "B": "market value of goods produced",
+      "C": "cost of goods produced",
+      "D": "work-in-progress"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37490?exam_type=waec&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "The\u00a0cost of goods manufactured equation\u00a0is calculated by adding the total\u00a0manufacturing\u00a0costs; including all direct materials, direct labor (prime cost)\u00a0and factory overhead; to the beginning work in process inventory and subtracting the ending\u00a0goods\u00a0in process inventory.",
+    "year": "2012"
+  },
+  {
+    "number": "106",
+    "text": "Capital receipt is collected",
+    "options": {
+      "A": "on sales of motor vehicle",
+      "B": "on sales of stock in trade",
+      "C": "from trade debtors",
+      "D": "from trading activities"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37491?exam_type=waec&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "Capital receipts\u00a0are\u00a0receipts\u00a0that create liabilities or reduce financial assets. Option A is correct, because when a business sells its motor van, it leads to a reduction in assets",
+    "year": "2012"
+  },
+  {
+    "number": "107",
+    "text": "Which of the following is an example of factory overheads?",
+    "options": {
+      "A": "salary of marketing officer",
+      "B": "salary of production officer",
+      "C": "salary of accounting officer",
+      "D": "wages of machine operator"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37492?exam_type=waec&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "Factory overhead is the costs incurred during the manufacturing process, not including the costs of direct labor and direct materials.\nExamples of factory overhead\u00a0costs include: indirect materials, indirect labor, depreciation of the\u00a0factory\u00a0equipment and plant, amortization of patents, the cost of small tools used,\u00a0factory\u00a0utilities, insurance on the\u00a0factory\u00a0and equipment, property taxes on plant and equipment, property taxes on materials and goods",
+    "year": "2012"
+  },
+  {
+    "number": "108",
+    "text": "Osa started business with Le 40,000 cash. The accounting entry is debit",
+    "options": {
+      "A": "cash account; credit capital account",
+      "B": "capital account; credit cash account",
+      "C": "purchases account; credit cash account",
+      "D": "expenses account; credit capital account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37493?exam_type=waec&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "Debit capital account (i.e the money used in starting a business) and credit cash",
+    "year": "2012"
+  },
+  {
+    "number": "109",
+    "text": "Branch stock account is used to determine the",
+    "options": {
+      "A": "net value of goods sent to branch",
+      "B": "gross profit of the branch",
+      "C": "branch credit sales",
+      "D": "branch net profit or loss"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37494?exam_type=waec&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "This\u00a0account\u00a0records the transactions in regard to the\u00a0stock\u00a0in the\u00a0branch\u00a0at invoice price. The debit side of this\u00a0account\u00a0records the inflow of\u00a0stock\u00a0into the\u00a0branch\u00a0and credit side records its outflow from the\u00a0branch.\nThe primary\u00a0objectives of branch accounting\u00a0are better accountability and control since profitability and efficiency can be closely tracked for individual locations. The head office is able to ascertain the profits and losses of each branch\u00a0and compare results.",
+    "year": "2012"
+  },
+  {
+    "number": "110",
+    "text": "The name given to a budget in public service accounting is",
+    "options": {
+      "A": "vote",
+      "B": "subvention",
+      "C": "general order",
+      "D": "estimate"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37495?exam_type=waec&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "111",
+    "text": "Which of the following is not prepared by a partnership?",
+    "options": {
+      "A": "trading account",
+      "B": "profit and loss account",
+      "C": "income and expenditure account",
+      "D": "profit and loss appropriation account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37496?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "The\u00a0income and expenditure account\u00a0is an\u00a0account prepared\u00a0by non-trading concerns to ascertain surplus or deficit of\u00a0income\u00a0over\u00a0expenditures\u00a0for a particular period. Partneship business is a profit oriented business",
+    "year": "2012"
+  },
+  {
+    "number": "112",
+    "text": "A partner who only make\u00a0capital contribution but does not take part in the management of the partnership business is a/an",
+    "options": {
+      "A": "ordinary partner",
+      "B": "limited partner",
+      "C": "dormant partner",
+      "D": "nominal partner"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37497?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "Dormant partner is\u00a0a\u00a0partner\u00a0who contributes capital and takes no share in the active business of a company or\u00a0partnership, but is entitled to a share of the profits, and subject to a share in losses; They are also called sleeping\u00a0partner or silent\u00a0partner.",
+    "year": "2012"
+  },
+  {
+    "number": "113",
+    "text": "which of the following is a component of prime cost?",
+    "options": {
+      "A": "depreciation",
+      "B": "royalty",
+      "C": "factory rent",
+      "D": "factory electricity"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37498?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "Direct\u00a0materials\u00a0are one of the main components of prime costs and include raw\u00a0materials\u00a0and\u00a0supplies\u00a0that are consumed directly during the production of goods. In production, electricity is required to aid the process. This makes it a part of the prime cost",
+    "year": "2012"
+  },
+  {
+    "number": "114",
+    "text": "The concept which establishes the rule for the periodic recognition of revenue as soon as it is capable of objective measurement is",
+    "options": {
+      "A": "going concern",
+      "B": "entity",
+      "C": "consistency",
+      "D": "realization"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37499?exam_type=waec&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "The\u00a0realization principle\u00a0is the\u00a0concept\u00a0that revenue can only be recognized once the underlying goods or services associated with the revenue have been delivered or rendered, respectively. Thus, revenue can only be recognized after it has been earned.",
+    "year": "2012"
+  },
+  {
+    "number": "115",
+    "text": "Rent accrued in 2009 was D140, in 2010, D900 was paid while D160 was outstanding. Rent for 2010 was",
+    "options": {
+      "A": "D1,200",
+      "B": "D1,060",
+      "C": "D920",
+      "D": "D880"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37500?exam_type=waec&type=obj&page=23",
+    "correct_answer": "C",
+    "explanation": "Accrued rent = 140\n900 - 140 = 760\n760 + 160 = 920",
+    "year": "2012"
+  },
+  {
+    "number": "116",
+    "text": "Which of the following is not an input device?",
+    "options": {
+      "A": "card reader",
+      "B": "paper top reader",
+      "C": "alpha-numeric keyboard",
+      "D": "line partnership"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37501?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "In computing, an input device is a piece of equipment used to provide data and control signals to an information processing system such as a computer or information appliance. Examples of input devices include\u00a0keyboards,\u00a0mouse, scanners, digital cameras, joysticks, and microphones.",
+    "year": "2012"
+  },
+  {
+    "number": "117",
+    "text": "The equivalent of income and expenditure account in a trading concern is",
+    "options": {
+      "A": "trading account",
+      "B": "profit and loss account",
+      "C": "appropriation account",
+      "D": "balance sheet"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37502?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "The\u00a0income and expenditure account\u00a0is an\u00a0account prepared\u00a0by non-trading concerns to ascertain surplus or deficit of\u00a0income\u00a0over\u00a0expenditures\u00a0for a particular period. Its equivalent is the profit and loss account .\nAn income statement or profit and loss account is one of the financial statements of a company and shows the company's revenues and expenses during a particular period.",
+    "year": "2012"
+  },
+  {
+    "number": "118",
+    "text": "The term used to denote the capital of a not-for-profit making organization is",
+    "options": {
+      "A": "annuity fund",
+      "B": "nominal capital",
+      "C": "circulating capital",
+      "D": "accumulated fund"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37503?exam_type=waec&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "An\u00a0accumulated fund\u00a0is the capital\u00a0fund\u00a0of a nonprofit organization. Money is directed into the\u00a0accumulated fund\u00a0when revenues are greater than expenditures and there is a budgetary surplus.",
+    "year": "2012"
+  },
+  {
+    "number": "119",
+    "text": "The portion of authorized capital that has been allotted to subscribers",
+    "options": {
+      "A": "called up capital",
+      "B": "paid up capital",
+      "C": "issued capital",
+      "D": "nominal capital"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37504?exam_type=waec&type=obj&page=24",
+    "correct_answer": "C",
+    "explanation": "The\u00a0Issued Capital\u00a0refers to the number of shares\u00a0issued\u00a0by the company to the shareholders. In other words, the shares allotted or subsequently held by the shareholders is called the\u00a0issued capital.",
+    "year": "2012"
+  },
+  {
+    "number": "120",
+    "text": "Partners whose liabilities are restricted to their financial contribution to the partnership in the event of winding up are",
+    "options": {
+      "A": "ordinary partners",
+      "B": "limited partners",
+      "C": "dormant partners",
+      "D": "sleeping partners"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37505?exam_type=waec&type=obj&page=24",
+    "correct_answer": "B",
+    "explanation": "Limited partner is a partner in a company or venture whose liability towards its debts is legally limited to the extent of their investment.",
+    "year": "2012"
+  },
+  {
+    "number": "121",
+    "text": "If creditors at 1\\1\\10 were Le 3,000; creditors at 31/12/10 Le 5,500 and payments to creditors Le 29,000. The purchases figure for 2010 is",
+    "options": {
+      "A": "Le 34,500",
+      "B": "Le 32,000",
+      "C": "Le 31,500",
+      "D": "Le 26,500"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37506?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "29000 - 3000 = 26000\n26000 + 5500 = 31500",
+    "year": "2012"
+  },
+  {
+    "number": "122",
+    "text": "Which of the following is not found in the personal ledger?",
+    "options": {
+      "A": "debtors account",
+      "B": "creditors account",
+      "C": "capital account",
+      "D": "nominal account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37507?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "personal ledger is a book or a computer document in which details of money owed to or by particular people are recorded: The\u00a0personal ledger\u00a0will contain a separate account for each supplier and customer",
+    "year": "2012"
+  },
+  {
+    "number": "123",
+    "text": "The sales ledger control account is also referred to as",
+    "options": {
+      "A": "bought ledger control account",
+      "B": "purchases account",
+      "C": "total debtors account",
+      "D": "total creditor account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37508?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "Thedebtorscontrolaccountis also known as the sales ledger controlaccount. This name is sometimes used for thisaccountbecause it reflects thetotalof the business debtors or goods sold on credit",
+    "year": "2012"
+  },
+  {
+    "number": "124",
+    "text": "An increases in the provision for doubtful debts results is a\\an",
+    "options": {
+      "A": "increase in the gross profit",
+      "B": "decrease in the gross profit",
+      "C": "decrease in the net profit",
+      "D": "increase in the net profit"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37509?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "The higher the provision for doubtful debt, the lower the net profit at the end of the period",
+    "year": "2012"
+  },
+  {
+    "number": "125",
+    "text": "Share of \u20a63 nominal value were issued at a price \u20a64. The difference of \u20a61 is a",
+    "options": {
+      "A": "commision",
+      "B": "discount",
+      "C": "premium",
+      "D": "bonus"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37510?exam_type=waec&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "Issue of\u00a0shares at premium\u00a0means that the issuing of\u00a0shares\u00a0above the face value (also called as nominal value or par value). The difference between the face value of\u00a0shares\u00a0and the price of\u00a0shares\u00a0issued at\u00a0premium\u00a0is the\u00a0premium\u00a0amount.",
+    "year": "2012"
+  },
+  {
+    "number": "126",
+    "text": "Which of the following errors affects the agreement of a Trial balance?",
+    "options": {
+      "A": "wrong addition in the sales account",
+      "B": "crediting a purchase to the sales account",
+      "C": "failure to enter sales in the books",
+      "D": "posting the purchase of a van to the debit side of the purhases account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37511?exam_type=waec&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "127",
+    "text": "The excess of value of assets over the purchase consideration on acquisition of a business is credited to",
+    "options": {
+      "A": "share  capital account",
+      "B": "goodwill account",
+      "C": "capital reserved account",
+      "D": "general reverse account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37512?exam_type=waec&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "In accounting, goodwill is the value of the business that exceeds itsassetsminus theliabilities.",
+    "year": "2012"
+  },
+  {
+    "number": "128",
+    "text": "Which of the following is not the purpose of a control account?",
+    "options": {
+      "A": "check on errors of addition",
+      "B": "locate errors",
+      "C": "locate missing figures",
+      "D": "monitor the cash book"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37513?exam_type=waec&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "In\u00a0accounting, the controlling\u00a0account\u00a0(also known as an adjustment or\u00a0control account) is an\u00a0account\u00a0in the general ledger for which a corresponding subsidiary ledger has been created.\nThe details for each\u00a0control account\u00a0will be found in a related (but separate) subsidiary ledger. The\u00a0control account\u00a0keeps the general ledger free of details, but still has the correct balance for preparing the company's financial statements.",
+    "year": "2012"
+  },
+  {
+    "number": "129",
+    "text": "Which of the following is not part of the central processing unit of a computer?",
+    "options": {
+      "A": "arithmetical and lgical unit",
+      "B": "memory unit",
+      "C": "input unit",
+      "D": "control unit"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37514?exam_type=waec&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "Central processing unit\u00a0(CPU), computer system, generally composed of the main memory, control unit, and arithmetic-logic unit.",
+    "year": "2012"
+  },
+  {
+    "number": "130",
+    "text": "The double entry to record the proceeds on disposal of assets in debit",
+    "options": {
+      "A": "bank account; credit asset disposal account",
+      "B": "asset disposal account; credit bank account",
+      "C": "provision for depreciation account; credit asset disposal account",
+      "D": "asset disposal account; credit provision for depreciation account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37515?exam_type=waec&type=obj&page=26",
+    "correct_answer": "C",
+    "explanation": "Debit provision for\u00a0Depreciation account\u00a0(to remove the equipment's up-to-date accumulated depreciation), Credit the account Equipment (asset disposal account) to remove the equipment's cost.",
+    "year": "2012"
+  },
+  {
+    "number": "131",
+    "text": "Which of the following is a form of memorandum of association",
+    "options": {
+      "A": "names of directors",
+      "B": "appointment of directors",
+      "C": "object of the business",
+      "D": "payment of dividend"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37516?exam_type=waec&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "Amemorandum of associationcontains a name clause, registered office clause, object (or objective clause), objects clause, liability clause, capital clause, andassociationclause. An MOA is a type of legal paper that is prepared when forming and registering a limited liability company (LLC).",
+    "year": "2012"
+  },
+  {
+    "number": "132",
+    "text": "An underwriter for a company's share is paid",
+    "options": {
+      "A": "interest",
+      "B": "commision",
+      "C": "dividend",
+      "D": "salary"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37517?exam_type=waec&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "Underwriting commission\u00a0is the compensation that anunderwriterreceives for offering underwriting services. a\u00a0fee ispaidas a return for the implicit risk involved in the\u00a0underwriting\u00a0contract.",
+    "year": "2012"
+  },
+  {
+    "number": "133",
+    "text": "Administrative, selling and distribution expenses in a manufacturing firm are recorded in",
+    "options": {
+      "A": "trasing acccount",
+      "B": "manufacturing account",
+      "C": "profit and loss account",
+      "D": "balance sheet"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37518?exam_type=waec&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "A\u00a0profit and loss\u00a0(P&L)\u00a0statement\u00a0summarizes the revenues, costs, and expenses incurred during a specific period of time.",
+    "year": "2012"
+  },
+  {
+    "number": "134",
+    "text": "Which of the following is not a revenue to a local government?",
+    "options": {
+      "A": "fines",
+      "B": "licenses",
+      "C": "personal ncome tax",
+      "D": "tenement rates"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37519?exam_type=waec&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "State and\u00a0local governments\u00a0collect tax\u00a0revenues\u00a0from three primary\u00a0sources:\u00a0income, sales, and property taxes.\u00a0Income\u00a0and sales taxes make up the majority of combined state tax\u00a0revenue, while property taxes are the largest\u00a0source\u00a0of tax\u00a0revenue\u00a0for\u00a0local governments, including school districts.",
+    "year": "2012"
+  },
+  {
+    "number": "135",
+    "text": "Which of the following is not an item in the profit and loss account?",
+    "options": {
+      "A": "drawings",
+      "B": "interest",
+      "C": "salaries",
+      "D": "bad debts"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37520?exam_type=waec&type=obj&page=27",
+    "correct_answer": "A",
+    "explanation": "Drawings account\u00a0is one of the temporary\u00a0accounts\u00a0and is closed at the end of accounting period. But this\u00a0account\u00a0is not closed in the income\u00a0statement\u00a0i.e. trading\u00a0account\u00a0or\u00a0profit and loss account\u00a0rather it is closed in the capital\u00a0account\u00a0of the owner which is reported in the\u00a0statement\u00a0of financial position",
+    "year": "2012"
+  },
+  {
+    "number": "136",
+    "text": "A loss made on the disposal of a fixed assets is debited to",
+    "options": {
+      "A": "sales account",
+      "B": "purchases account",
+      "C": "profit and loss account",
+      "D": "capital account"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37521?exam_type=waec&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "Loss\u00a0on sale; Debit cash for the amount received, debit all accumulated depreciation, debit the\u00a0loss\u00a0on sale of\u00a0asset\u00a0account, and credit the\u00a0fixed asset",
+    "year": "2012"
+  },
+  {
+    "number": "137",
+    "text": "Use the following information to answer the given question\n\\(\\begin{array}{c|c} & D \\\\ \\hline \\text{Cash in hand}& 1,440\\\\ \\text{Cash at bank} & 2440\\\\ \\text{Stock} & 2,500\\\\ \\text{Furniture and fittings} & 2,200 \\\\ \\text{Creditors} & 1,000\\end{array}\\)\nThe capital is",
+    "options": {
+      "A": "D1,440",
+      "B": "D6,580",
+      "C": "D5,380",
+      "D": "D1,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37522?exam_type=waec&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "Capital\u00a0is a term for financial assets, such as funds held in depositaccountsand/or funds obtained from special financing sources.",
+    "year": "2012"
+  },
+  {
+    "number": "138",
+    "text": "Use the following information to answer the given question\n\\(\\begin{array} {c|c} & D \\\\ \\hline \\text{Cash in hand}& 1,440\\\\ \\text{Cash at bank} & 2440\\\\ \\text{Stock} & 2,500\\\\ \\text{Furniture and fittings} & 2,200 \\\\ \\text{Creditors} & 1,000\\end{array}\\)\nThe liability is",
+    "options": {
+      "A": "D7,580",
+      "B": "D6,580",
+      "C": "D5,380",
+      "D": "D1,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37523?exam_type=waec&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "Aliabilityis an obligation arising from a past business event. They are obligations owed to outsiders by a business\nCreditor; is a person or company to whom money is owed.\nFrom the table above, liabilities is 1,000.",
+    "year": "2012"
+  },
+  {
+    "number": "139",
+    "text": "Use the following information to answer the given question\n\\(\\begin{array}{c|c} & Le\\\\ \\hline \\text{Construction and hospital wards} & 300,000\\\\ \\text{purchase of hospital beds} & 40,000 \\\\ \\text{salaries and wages}& 80,000\\\\ \\text{Purchase of drugs} & 55,000\\\\ \\text{purchases of x-ray machine} & 150,000\\end{array}\\)\nCapital expenditure for the year was",
+    "options": {
+      "A": "Le 545,000",
+      "B": "Le 490,000",
+      "C": "Le 450,000",
+      "D": "Le 300,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37524?exam_type=waec&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "capital expenditures; money spent by a business or organization on acquiring or maintaining fixed assets, such as land, buildings, and equipment.\n300,000 + 40,000 + 150,000 = 490,000",
+    "year": "2012"
+  },
+  {
+    "number": "140",
+    "text": "\\(\\begin{array}{c|c} & Le\\\\ \\hline \\text{Construction and hospital wards} & 300,000\\\\ \\text{purchase of hospital beds} & 40,000 \\\\ \\text{salaries and wages}& 80,000\\\\ \\text{Purchase of drugs} & 55,000\\\\ \\text{purchases of x-ray machine} & 150,000\\end{array}\\)\nThe amount of recurrent expenditure was",
+    "options": {
+      "A": "Le 245,000",
+      "B": "Le 175,000",
+      "C": "Le 135,000",
+      "D": "Le 80,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37525?exam_type=waec&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "Recurrent expenditure\u00a0on goods and services is\u00a0expenditure, which does not result in the creation or acquisition of fixed assets (new or second-hand). It consists mainly of\u00a0expenditure\u00a0on wages, salaries and supplements, purchases of goods and services and consumption of fixed capital (depreciation).\n80000 + 55000 = 135000",
+    "year": "2012"
+  },
+  {
+    "number": "141",
+    "text": "Use the following information to answer the given question.\nBALANCE SHEET AS AT 31st DECEMBER, 2010\n\\(\\begin{array}{c|c} & \u20a6 & & \u20a6 \\\\ \\hline \\text{Capital}& 40,000 & \\text{Freehold premises} & 50,000\\\\ \\text{Less: Net loss} & \\frac{5,000}{35,000} & \\text{Stock} & 3,000\\\\ \\text{Less: Drawings} & \\frac{2,000}{33,000} & \\text{Debtors} & 4,000\\\\ \\text{Long term loan} & \\frac{20,000}{53,000} & \\text{Cash at bank} & 6,500\\\\ \\text{Creditors} & 8,000\\\\ \\text{Accrued expenses} & \\frac{4,000}{65,000} & \\text{Cash in hand} & 1,500\\\\ & & & \\text{Total 65,000}\\end{array}\\)\nThe amount of working capital is",
+    "options": {
+      "A": "\u20a611,000",
+      "B": "\u20a67,00",
+      "C": "\u20a64,000",
+      "D": "\u20a63,000"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37526?exam_type=waec&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "Working capital = current assets - current liabilities\ncurrent assets= 3000 + 4000 + 6500 + 1500 = 15000\ncurrent liabilities= 8000 + 4000 = 12000\n15000 - 12000 = 3000",
+    "year": "2012"
+  },
+  {
+    "number": "142",
+    "text": "Use the following information to answer the given question.\nBALANCE SHEET AS AT 31st DECEMBER, 2010\n\\(\\begin{array}{c|c} & \u20a6 & & \u20a6 \\\\ \\hline \\text{Capital}& 40,000 & \\text{Freehold premises} & 50,000\\\\ \\text{Less: Net loss} & \\frac{5,000}{35,000} & \\text{Stock} & 3,000\\\\ \\text{Less: Drawings} & \\frac{2,000}{33,000} & \\text{Debtors} & 4,000\\\\ \\text{Long term loan} & \\frac{20,000}{53,000} & \\text{Cash at bank} & 6,500\\\\ \\text{Creditors} & 8,000\\\\ \\text{Accrued expenses} & \\frac{4,000}{65,000} & \\text{Cash in hand} & 1,500\\\\ & & & \\text{Total 65,000}\\end{array}\\)\nWorking capital ratio is",
+    "options": {
+      "A": "5 : 4",
+      "B": "5 : 3",
+      "C": "4 : 5",
+      "D": "1 : 2"
+    },
+    "answer_url": "https://myschool.ng/classroom/accounts-principles-of-accounts/37527?exam_type=waec&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "The\u00a0working capital ratio\u00a0is calculated simply by dividing total current assets by total current liabilities.\nCurrent assets = 3000 + 4000 +6500 + 1500 = 15000\nCurrent liabilities = 8000 + 4000 = 12000\n15000/12000 = 1.25",
+    "year": "2012"
+  }
+]
