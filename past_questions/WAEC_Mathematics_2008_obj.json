@@ -292,5 +292,365 @@
     "correct_answer": "C",
     "explanation": "click here",
     "year": "2008"
+  },
+  {
+    "number": "1001",
+    "text": "Simplify \\(\\frac{\\log \\sqrt{8}}{\\log 4 - \\log 2}\\)",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{1}{2} \\log 2\\)",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "\\(\\log 2\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36368?exam_type=waec&type=obj&page=201",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1002",
+    "text": "A train travels 60km in M minutes. If its average speed is 400km per hour, find the value of M",
+    "options": {
+      "A": "15",
+      "B": "12",
+      "C": "10",
+      "D": "9"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36381?exam_type=waec&type=obj&page=201",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1003",
+    "text": "An arc of a circle, radius 14cm, is 18.33cm long. Calculate to the nearest degree, the angle which the arc subtends at the centre of the circle. [T = \\(\\frac{22}{7}\\)]",
+    "options": {
+      "A": "11o",
+      "B": "20o",
+      "C": "22o",
+      "D": "75o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36382?exam_type=waec&type=obj&page=201",
+    "correct_answer": "D",
+    "explanation": "o",
+    "year": "2008"
+  },
+  {
+    "number": "1004",
+    "text": "What is the length of an edge of a cube whose total surface area is X cm2 and whose total surface area is \\(\\frac{X}{2}\\)cm3?",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36383?exam_type=waec&type=obj&page=201",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2",
+    "year": "2008"
+  },
+  {
+    "number": "1005",
+    "text": "XY is a chord of circle centre O and radius 7cm. The chord XY which is 8cm long subtends an angle of 120o at the centre of the circle. Calculate the perimeter of the minor segment. [Take \\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "14.67cm",
+      "B": "22.67cm",
+      "C": "29.33cm",
+      "D": "37.33cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36386?exam_type=waec&type=obj&page=201",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1006",
+    "text": "If p = \\(\\frac{1}{2}\\) and \\(\\frac{1}{p - 1} = \\frac{2}{p + x}\\), find the value of x",
+    "options": {
+      "A": "-2\\(\\frac{1}{2}\\)",
+      "B": "-1\\(\\frac{1}{2}\\)",
+      "C": "1\\(\\frac{1}{2}\\)",
+      "D": "2\\(\\frac{1}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36392?exam_type=waec&type=obj&page=202",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1007",
+    "text": "Find the quadratic equation whose roots are c and -c",
+    "options": {
+      "A": "x2 - c2 = 0",
+      "B": "x2 + 2cx = 0",
+      "C": "x2 + 2cx + c2 = 0",
+      "D": "x2 - 2cx + c2 = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36393?exam_type=waec&type=obj&page=202",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2\n2\n2",
+    "year": "2008"
+  },
+  {
+    "number": "1008",
+    "text": "Solve the inequality 1 - 2x < - \\(\\frac{1}{3}\\)",
+    "options": {
+      "A": "x < \\(\\frac{2}{3}\\)",
+      "B": "x < -\\(\\frac{2}{3}\\)",
+      "C": "x > \\(\\frac{2}{3}\\)",
+      "D": "x >  -\\(\\frac{2}{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36394?exam_type=waec&type=obj&page=202",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1009",
+    "text": "Given the sets A = [2, 4, 6, 8] and B = [2, 3, 5, 9]. If a number is selected at random from set B, what is the probability that the number is prime?",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36398?exam_type=waec&type=obj&page=202",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1010",
+    "text": "Given the sets A = [2, 4, 6, 8] and B = [2, 3, 5, 9]. If a number is picked at random from each of the two sets, what is the probability that their product\u00a0is odd?",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "zero"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36399?exam_type=waec&type=obj&page=202",
+    "correct_answer": "D",
+    "explanation": "\\(\\begin{array}{c|c} x & 2 & 3 & 5 & 9 \\\\ \\hline 2 & 4 & 6 & 10 & 18 \\\\ \\hline 4 & 8 & 12 & 20 & 36 \\\\ \\hline 6 & 12 & 18 & 30 & 54 \\\\ \\hline 8 & 16 & 24 & 40 & 72 \\end{array}\\)Note: A {vertical}B {horizontal}Pr (Odd Product) = \\(\\frac{0}{16}\\)= 0",
+    "year": "2008"
+  },
+  {
+    "number": "1011",
+    "text": "Given the sets A = [2, 4, 6, 8] and B = [2, 3, 5, 9]. If a number is picked at random from each of the two sets, what is the probability that their difference is 6 or 7?",
+    "options": {
+      "A": "\\(\\frac{1}{256}\\)",
+      "B": "\\(\\frac{1}{16}\\)",
+      "C": "\\(\\frac{1}{8}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36400?exam_type=waec&type=obj&page=203",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1012",
+    "text": "Find the mean deviation of these numbers 10, 12, 14, 15, 17, 19.",
+    "options": {
+      "A": "2.5",
+      "B": "2.6",
+      "C": "2.7",
+      "D": "2.8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36401?exam_type=waec&type=obj&page=203",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1013",
+    "text": "In the diagram, < QPR = 90o. If q2 = 25 - r2. Find the value of p",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/25818841386_16.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36405?exam_type=waec&type=obj&page=203",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2\n2",
+    "year": "2008"
+  },
+  {
+    "number": "1014",
+    "text": "In the diagram, /PQ/ = /QR/ and /PR/ = /RS/ = /SP/, calculate the side of < QRS",
+    "options": {
+      "A": "150o",
+      "B": "120o",
+      "C": "90o",
+      "D": "60o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/14343821770_20.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36406?exam_type=waec&type=obj&page=203",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "1015",
+    "text": "In the diagram above, PQRS is a rhombus. /PR/ = 10cm and /QS/ = 24cm. Calculate the perimeter of the rhombus.",
+    "options": {
+      "A": "34cm",
+      "B": "52cm",
+      "C": "56cm",
+      "D": "96cm"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/6y57fLTNbsaf1dDbsBbDSV5mRlwr6PrYYQ1XZkmt.jpeg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36407?exam_type=waec&type=obj&page=203",
+    "correct_answer": "B",
+    "explanation": "For a rhombus, all the sides are equal and diagonals bisect each other at 90o. Hence, the triangles formed are congruent: (under RHS).Thus: \\(\\bar{PS}^2\\) = 52 + 122\\(\\bar{PS} = \\sqrt{25 + 144}\\)= \\(\\sqrt{169}\\)\\(\\bar{PS}\\) = 13cmperimeter = 4 x length of a side= 4 x 13cm= 52cm",
+    "year": "2008"
+  },
+  {
+    "number": "1016",
+    "text": "In the figure shown, PQs is a straight line. What is the value of < PRQ?",
+    "options": {
+      "A": "128o",
+      "B": "108o",
+      "C": "98o",
+      "D": "78o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28688893720_21.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36408?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "1017",
+    "text": "In the diagram, PQ//RS, QU//PT and < PSR = 42o. Find angle x.",
+    "options": {
+      "A": "84o",
+      "B": "48o",
+      "C": "42o",
+      "D": "32o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/1434445349_22.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36414?exam_type=waec&type=obj&page=204",
+    "correct_answer": "C",
+    "explanation": "o\no",
+    "year": "2008"
+  },
+  {
+    "number": "1018",
+    "text": "In the figure /PX/ = /XQ/, PQ//YZ and XV//QR. What is the ratio of the area of XYZQ to the area of \\(\\bigtriangleup\\)YZR?",
+    "options": {
+      "A": "1:2",
+      "B": "2:1",
+      "C": "1:3",
+      "D": "3:1"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/7172232545_24.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36415?exam_type=waec&type=obj&page=204",
+    "correct_answer": "B",
+    "explanation": "From the diagram, XYZQ is a parallelogram. Thus, |YZ| = |XQ| = |PX|; \\(\\bigtriangleup\\)PXY, Let the area of XYZQ = A1, the area of \\(\\bigtriangleup\\)PXY= Area of \\(\\bigtriangleup\\)YZR = A2Area of \\(\\bigtriangleup\\)PQR = A = A1 + 2A2But from similarity of triangles\\(\\frac{\\text{Area of PQR}}{\\text{Area of PXY}} = (\\frac{PQ}{PX})^2 = (\\frac{QR}{XY})^2\\)\\(\\frac{A}{A_2} = (\\frac{2}{1})^2 = \\frac{2}{1}\\)A = 4A2 But, A = A1 + 2AA1 = 4A2 - 2A2A1 = 2A2\\(\\frac{A_1}{A_2}\\) = 2A1:A2 = 2:1Area of XYZQ:Area of \\(\\bigtriangleup\\)YZR = 2:1",
+    "year": "2008"
+  },
+  {
+    "number": "1019",
+    "text": "In the diagram, O is the centre of the circle and PQRS is a cyclic quadrilateral. Find the value of x.",
+    "options": {
+      "A": "25o",
+      "B": "65o",
+      "C": "115o",
+      "D": "130o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/5737796568_25.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36417?exam_type=waec&type=obj&page=204",
+    "correct_answer": "B",
+    "explanation": "o",
+    "year": "2008"
+  },
+  {
+    "number": "1020",
+    "text": "If the perimeter of \\(\\bigtriangleup\\)PQR in thr diagram is 24cm, what is the area of \\(\\bigtriangleup\\)PRS?",
+    "options": {
+      "A": "19.5cm2",
+      "B": "15.0cm2",
+      "C": "13.0cm2",
+      "D": "9.3cm2"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/4303353117_38.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36421?exam_type=waec&type=obj&page=204",
+    "correct_answer": "B",
+    "explanation": "3",
+    "year": "2008"
+  },
+  {
+    "number": "1021",
+    "text": "In the diagram, PX is a tangent to the circle and RST is an equilateral triangle. Calculate < PTS",
+    "options": {
+      "A": "60o",
+      "B": "90o",
+      "C": "120o",
+      "D": "150o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/10041159023_44.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36422?exam_type=waec&type=obj&page=205",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "1022",
+    "text": "In the diagram, < QPR = 60o\n\n< PQR = 50o\n\n< QRS = 2xo\n\n< SRP = 3xo\n\n< UQP = yo and RS//TU\n\ncalculate y",
+    "options": {
+      "A": "102o",
+      "B": "78o",
+      "C": "70o",
+      "D": "60o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/21516780495_45.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36424?exam_type=waec&type=obj&page=205",
+    "correct_answer": "A",
+    "explanation": "o\no\no\no\no\no\no\no",
+    "year": "2008"
+  },
+  {
+    "number": "1023",
+    "text": "In the diagram, find the size of the angle marked a\u00b0",
+    "options": {
+      "A": "60o",
+      "B": "80o",
+      "C": "120o",
+      "D": "160o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/editor_images/IMG_20191216_103708%20%282%29.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36425?exam_type=waec&type=obj&page=205",
+    "correct_answer": "B",
+    "explanation": "2 x s = 280\u00b0(Angle at centre = 2 x < at circum)S = \\(\\frac{280^o}{2}\\)= 140\u00b0< O = 360 - 280 = 80\u00b060 + 80 + 140 + a = 360\u00b0(< in a quad); 280 +\u00a0a = 360a = 360 - 280a = 80\u00b0",
+    "year": "2008"
+  },
+  {
+    "number": "1024",
+    "text": "Every staff in an office owns either a Mercedes and/or a Toyota car. 20 own Mercedes, 15 own Toyota and 5 own both. How many staff are there in the office?",
+    "options": {
+      "A": "25",
+      "B": "30",
+      "C": "35",
+      "D": "45"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36427?exam_type=waec&type=obj&page=205",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
   }
 ]

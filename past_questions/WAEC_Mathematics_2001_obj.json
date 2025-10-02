@@ -670,5 +670,35 @@
     "correct_answer": "B",
     "explanation": "\\(\\bar{RP} = 3 - (-2)\\)\n= 5",
     "year": "2001"
+  },
+  {
+    "number": "1509",
+    "text": "The number line represents",
+    "options": {
+      "A": "0 > x \\(\\geq\\) -7",
+      "B": "-7 \\(\\leq\\) x < -1",
+      "C": "-7 < x \\(\\leq\\) -1",
+      "D": "-7 < x < -1"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/M11rdY1ID7OFLgiVZtk5LtWSiqcCn8iTf7az5kQ0.png",
+    "answer_url": "https://myschool.ng/classroom/mathematics/54933?exam_type=waec&type=obj&page=302",
+    "correct_answer": "C",
+    "explanation": "From the diagram provided, x lies between -7 and or equal to 2, i.e.\u00a0-7 < x \\(\\leq\\) -1",
+    "year": "2001"
+  },
+  {
+    "number": "1756",
+    "text": "In the diagram above, O is the centre of the circle. Reflex angle XOY = 210\u00ba and the length of the minor arc is 5.5m. Find, correct to the nearest metre the length of major arc.",
+    "options": {
+      "A": "8m",
+      "B": "9m",
+      "C": "10m",
+      "D": "13m"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/WfujTuoANbssKcS0NfXwqWMpRSsUlQracW1NWJg2.png",
+    "answer_url": "https://myschool.ng/classroom/mathematics/70133?exam_type=waec&type=obj&page=352",
+    "correct_answer": "A",
+    "explanation": "Length of arc = \\(\\frac{\u00d8}{360} \\times 2\\pi\\)\n5.5 = \\(\\frac{360 - 210}{360}\\) x 2 x \\(\\frac{22}{7}\\)\n\\(\\frac{ 5.5 \\times 360\\times7}{150\\times2\\times22}\\) = 2.1\nlength of major arc = \\(\\frac{210}{360}\\) x 2 x \\(\\frac{22}{7}\\) x 2.1\n7.7m\u2248 8m",
+    "year": "2001"
   }
 ]
