@@ -1,0 +1,688 @@
+[
+  {
+    "number": "1402",
+    "text": "If P = \\(\\frac{1}{4}\\)(Qs + 10). What is the quantity supplied at N14?",
+    "options": {
+      "A": "14",
+      "B": "60",
+      "C": "46",
+      "D": "32"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/11209?exam_type=jamb&type=obj&page=281",
+    "correct_answer": "C",
+    "explanation": "P = \\(\\frac{1}{4}\\)(Qs + 10)14 = \\(\\frac{\\text{Qs + 10}}{4}\\)56 = Qs + 1056 - 10 = QsQs = 46",
+    "year": "2013"
+  },
+  {
+    "number": "1404",
+    "text": "The profit of a monopolist can be eliminated where price equals",
+    "options": {
+      "A": "AFC",
+      "B": "MC",
+      "C": "AC",
+      "D": "AVC"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/11212?exam_type=jamb&type=obj&page=281",
+    "correct_answer": "B",
+    "explanation": "Monopolies make profits by\u00a0creating\u00a0prices that are higher, and output that is lower. Profits would be eliminated when price is equal to marginal cost. That is\u00a0the cost incurred by a firm by producing one additional unit of a product or service. The monopoly would no longer make profits if the price it charges for its product is equal to the additional cost it incurred in producing that good.",
+    "year": "2013"
+  },
+  {
+    "number": "1469",
+    "text": "An economy in which both the public and private sectors contribute to economic growth is as",
+    "options": {
+      "A": "feudal economy",
+      "B": "capitalist economy",
+      "C": "socialist economy",
+      "D": "mixed economy"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27228?exam_type=jamb&type=obj&page=294",
+    "correct_answer": "D",
+    "explanation": "A mixed economy is\u00a0an economic system combining private and state enterprise. This means economic activities in a country are undertaken by both private indiduals and the government.",
+    "year": "2013"
+  },
+  {
+    "number": "1470",
+    "text": "If the standard deviation of a given data is 53, what is the variance?",
+    "options": {
+      "A": "2082",
+      "B": "2809",
+      "C": "2808",
+      "D": "2209"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27229?exam_type=jamb&type=obj&page=294",
+    "correct_answer": "B",
+    "explanation": "The root of the standard deviation is the variance. Therefore we have;\n53\\(^2\\) = 53 x 53 =\u00a0 2809",
+    "year": "2013"
+  },
+  {
+    "number": "1471",
+    "text": "Which of the following set of statistical tools is used for further economic analysis?",
+    "options": {
+      "A": "the median and standard deviation",
+      "B": "the mean and mode",
+      "C": "the mean and standard deviation",
+      "D": "the mode and median"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27230?exam_type=jamb&type=obj&page=295",
+    "correct_answer": "B",
+    "explanation": "The\u00a0mean\u00a0is useful for predicting future results when there are no extreme values in the data set. Standard deviation\u00a0is a number used to tell how measurements for a group are spread out from the\u00a0average\u00a0(mean), or expected value",
+    "year": "2013"
+  },
+  {
+    "number": "1472",
+    "text": "An advantage of the range as a measure of dispersion is that it",
+    "options": {
+      "A": "can be used to calculate open-ended distribution",
+      "B": "make use of all values of observations in a distribution",
+      "C": "takes all values into consideration",
+      "D": "is useful for further statistical calculation"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27231?exam_type=jamb&type=obj&page=295",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1473",
+    "text": "Find the median of the following set of data 35,10,14,38,15,18,22,30 and 28",
+    "options": {
+      "A": "10",
+      "B": "38",
+      "C": "35",
+      "D": "22"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27232?exam_type=jamb&type=obj&page=295",
+    "correct_answer": "D",
+    "explanation": "Recall that the median is the middle number. To get the median, we will arrange the numbers from ascending order (that is, from smallest to the biggest). hence we have;\nmedian = 10, 14, 15, 18,22,28, 30, 35, 38\n22 is the middle number in the set.",
+    "year": "2013"
+  },
+  {
+    "number": "1474",
+    "text": "An increase in demand without a corresponding change in supply will lead to",
+    "options": {
+      "A": "a decrease in equilirium price and increase in equilibrium quantity",
+      "B": "an increase in equilibrium price and quantity",
+      "C": "a decrease in equilibrium price and quantity",
+      "D": "an increase in equilibrium price and a decrease in equilibrium quantity"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27233?exam_type=jamb&type=obj&page=295",
+    "correct_answer": "D",
+    "explanation": "An increase in demand without a corresponding increase in supply will lead to a rise in price and a decrease in the quantity available for sale.",
+    "year": "2013"
+  },
+  {
+    "number": "1475",
+    "text": "An increase in the price of a commodity will result in",
+    "options": {
+      "A": "a decrease in the quantity demanded",
+      "B": "an increase in demand",
+      "C": "an increase in quantity demanded",
+      "D": "a decrease in demand"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27234?exam_type=jamb&type=obj&page=295",
+    "correct_answer": "A",
+    "explanation": "According to the law of demand, a rise in price will cause a decrease in the quantity demanded and vice versa.",
+    "year": "2013"
+  },
+  {
+    "number": "1476",
+    "text": "If the price of a bicycle changes from N120 to N80 and quantity bought changes from 300 to 500 units, the elasticity of demand for bicycle is",
+    "options": {
+      "A": "66.7",
+      "B": "0.5",
+      "C": "1.5",
+      "D": "2.0"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27235?exam_type=jamb&type=obj&page=296",
+    "correct_answer": "D",
+    "explanation": "change in price = 120- 80 = 40\nchange in quantity = 500 - 300 = 200\n% change = 40/100 = 0.4\n200/100 = 2\n0.4/2 = 0.2",
+    "year": "2013"
+  },
+  {
+    "number": "1477",
+    "text": "One of the assumptions of the cardinal\u00a0approach is",
+    "options": {
+      "A": "diminishing marginal rate of substitution",
+      "B": "the consistency and transitivity of choice",
+      "C": "that total utility depends on the quantity of the commodities consumed",
+      "D": "unstable marginal utility of money"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27236?exam_type=jamb&type=obj&page=296",
+    "correct_answer": "C",
+    "explanation": "According to the Cardinalist school, the utility/satisfaction which is derived from the consumption of a good is a function of the quantity of that good alone.",
+    "year": "2013"
+  },
+  {
+    "number": "1478",
+    "text": "Utility is the satisfaction derived from the",
+    "options": {
+      "A": "distribution of goods and services",
+      "B": "use of goods and services",
+      "C": "demand of goods and services",
+      "D": "production of goods and services"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27237?exam_type=jamb&type=obj&page=296",
+    "correct_answer": "B",
+    "explanation": "Utility is simply the satisfaction a consumer derives from the consumption of \u00a0goods and services.",
+    "year": "2013"
+  },
+  {
+    "number": "1479",
+    "text": "One of the major factors that brings about changes in supply is",
+    "options": {
+      "A": "market discrimination",
+      "B": "availability of storage facilities",
+      "C": "the cost of storage",
+      "D": "incentives granted to workers"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27238?exam_type=jamb&type=obj&page=296",
+    "correct_answer": "C",
+    "explanation": "The available of facilities to store produced goods would affect the quantity of goods supplied to the market. Producers maybe willing to produce, but if there are no storage facilities to store the manufactured goods pending when the demand for it will arise, producers would cut down on production\u00a0thereby affecting the quantity of goods supplied.",
+    "year": "2013"
+  },
+  {
+    "number": "1480",
+    "text": "If the supply of a product is elastic, a small reduction in price will",
+    "options": {
+      "A": "reduce the cost of production",
+      "B": "reduce the quantity supplied",
+      "C": "increase the quantity supplied",
+      "D": "lead to no change in the quantity supplied"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27239?exam_type=jamb&type=obj&page=296",
+    "correct_answer": "B",
+    "explanation": "Elastic demand means a change in price would cause a change in the quantity demanded. In an elastic demand,\u00a0 a\u00a0small reduction in price would increase the quantity demanded and a decrease in the quantity supplied. This is so because, suppliers will not be willing to supply much goods when the price for it is low.",
+    "year": "2013"
+  },
+  {
+    "number": "1481",
+    "text": "If the price of a commodity is fixed below equilibrium, this will lead to",
+    "options": {
+      "A": "excess demand",
+      "B": "a decrease in price",
+      "C": "an increase in price",
+      "D": "excess supply"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27240?exam_type=jamb&type=obj&page=297",
+    "correct_answer": "A",
+    "explanation": "Just like the law of demand, the higher the price, the lower the quantity demanded and the lower the price the higher the quantity demanded. When the prices of goods are set below equilibrium, it will invariably lead to high demand for the product.",
+    "year": "2013"
+  },
+  {
+    "number": "1482",
+    "text": "One of the criticisms of the price mechanism is that",
+    "options": {
+      "A": "producers are sovereign",
+      "B": "it provides low degree of freedom",
+      "C": "it widens the inequitable gap",
+      "D": "consumers are sovereign"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27241?exam_type=jamb&type=obj&page=297",
+    "correct_answer": "A",
+    "explanation": "Price mechanism\u00a0refers to the system where the forces of demand and supply determine the\u00a0prices\u00a0of commodities. This means that, prices are left in the fate of market forces negating the concept of consumer sovereignty.\nConsumers are forced to purchase those goods which producers want. Thus, the producer is sovereign, not the consumer.",
+    "year": "2013"
+  },
+  {
+    "number": "1483",
+    "text": "In Nigeria, the government can reduce the cost of accommodation by fixing the rent",
+    "options": {
+      "A": "at the prevailing rate",
+      "B": "at the equilibrium price",
+      "C": "above the equilibrium price",
+      "D": "below the equilibrium price"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27242?exam_type=jamb&type=obj&page=297",
+    "correct_answer": "D",
+    "explanation": "The government can reduce the cost of accommodation by fixing the rent at a\u00a0maximum price. Maximum prices\u00a0occur when a government sets a legal limit on the price of a good or service \u2013 with the aim of reducing prices below the market equilibrium price.\nGovernments try to control the rate charged for rent by keeping the cost of renting below a certain level. However,\nsetting the price below equilibrium maximum\u00a0will cause a shortage \u2013 demand will be greater than supply.",
+    "year": "2013"
+  },
+  {
+    "number": "1484",
+    "text": "If a refinery achieves a reduction in cost by purchasing and transporting crude oil in large quantities, it enjoys",
+    "options": {
+      "A": "economies of scale",
+      "B": "specialization",
+      "C": "division of labour",
+      "D": "diseconomies of scale"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27243?exam_type=jamb&type=obj&page=297",
+    "correct_answer": "A",
+    "explanation": "Economies of scale is a\u00a0proportionate saving in costs gained by an increased level of production. This means that, a firm begin to enjoy certain benefits such as a reduction in its direct and overhead cost\u00a0as its scale of transaction and operation expands.",
+    "year": "2013"
+  },
+  {
+    "number": "1485",
+    "text": "An isoquant lying above to the right of another represents",
+    "options": {
+      "A": "a higher output level",
+      "B": "constant returns to scale",
+      "C": "over-capacity utilization",
+      "D": "a lower output level"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27244?exam_type=jamb&type=obj&page=297",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1486",
+    "text": "A measure of national income used as comparison of standard of living among nations is",
+    "options": {
+      "A": "net national product",
+      "B": "gross domestic product",
+      "C": "gross national product",
+      "D": "per capita income"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27247?exam_type=jamb&type=obj&page=298",
+    "correct_answer": "D",
+    "explanation": "Per capita income\u00a0is a measure of the amount of income earned per person in a nation or geographical region. It is used to measure the national income of a country. The national income is then used to ascertain the standard of living. The higher the per capital income, the higher the standard of living and development of a region.",
+    "year": "2013"
+  },
+  {
+    "number": "1487",
+    "text": "The speculative demand for money is inversely related to the",
+    "options": {
+      "A": "interest rate",
+      "B": "level of income",
+      "C": "exchange rate",
+      "D": "inflation rate"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27248?exam_type=jamb&type=obj&page=298",
+    "correct_answer": "A",
+    "explanation": "The speculative demand for money is simply\u00a0a need for\u00a0money\u00a0for investment purposes, which is indirectly influenced by interest rates. When the rates of interest is high, people would most likely want to invest their money so as to get a high return on investment.",
+    "year": "2013"
+  },
+  {
+    "number": "1488",
+    "text": "If Mr .K obtains a N50.000 loan from a bank for the purpose of providing household needs, the demand for money is said to be",
+    "options": {
+      "A": "transactionary",
+      "B": "speculative",
+      "C": "precautionary and speculative",
+      "D": "transactional and speculative"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27249?exam_type=jamb&type=obj&page=298",
+    "correct_answer": "A",
+    "explanation": "The transactionary motive of money is when people hold money for the purpose of meeting their daily needs and wants. It is simply the desire to hold money in order to finance transactions.",
+    "year": "2013"
+  },
+  {
+    "number": "1489",
+    "text": "Which of the following is used by the Central Bank of Nigeria to control inflation?",
+    "options": {
+      "A": "Tariff on imports",
+      "B": "Tax rate",
+      "C": "Exchange rate",
+      "D": "Discount rate"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27250?exam_type=jamb&type=obj&page=298",
+    "correct_answer": "D",
+    "explanation": "Discount rate is the minimum interest rate set by the central bank of a country. It is used in controlling inflation. We all know inflation is an economic situation where the value of money falls and causes a rise in the general price level. Inflation occurs when there is excess money in circulation.\u00a0This means that, much money will be used to purchase few goods.\nThe central bank uses discount rates to control inflation by taking out the excess money in circulation. They do this by increasing interest rates to encourage people to save or\u00a0invest and discourage borrowings. By saving and investment, the excess money in the economy is taken out. For instance, if interest rates are set at 20%, people would prefer to save or invest their monies so as to get a high return on investment rather than borrowing from the banks and pay high interest rates.",
+    "year": "2013"
+  },
+  {
+    "number": "1490",
+    "text": "If CBN reduces money supply, the interest rate will",
+    "options": {
+      "A": "fluctuate",
+      "B": "rise",
+      "C": "fall",
+      "D": "remain unchanged"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27251?exam_type=jamb&type=obj&page=298",
+    "correct_answer": "B",
+    "explanation": "The interest rates will be high if CBN reduces money supply. This is done to discourage borrowing and control the flow of money in the economy. It is mostly done when there is excess money in circulation. CBN would raise the interest rates to discourage borrowing and encourage savings and investments, thereby mopping out the excess money in circulation.",
+    "year": "2013"
+  },
+  {
+    "number": "1491",
+    "text": "A tax on land will ultimately fall",
+    "options": {
+      "A": "partly on agents and users",
+      "B": "entirely on users",
+      "C": "entirely on owners",
+      "D": "partly on users and owners"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27252?exam_type=jamb&type=obj&page=299",
+    "correct_answer": "C",
+    "explanation": "The seller\u00a0is responsible for the maintenance of the property, any repairs and for\u00a0paying property taxes\u00a0and insurance, the same as any landlord.",
+    "year": "2013"
+  },
+  {
+    "number": "1492",
+    "text": "An example of an expansionary fiscal policy action is",
+    "options": {
+      "A": "decrease in the corporate profit tax rates",
+      "B": "decrease in welfare payments",
+      "C": "purchase of government securities",
+      "D": "decrease in the bank rate"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27253?exam_type=jamb&type=obj&page=299",
+    "correct_answer": "A",
+    "explanation": "Expansionary fiscal policy\u00a0is when the government expands the money supply in the economy using budgetary tools to either increase spending or cut taxes\u2014both of which provide consumers and businesses with more money to spend. Cutting down on tax rates would mean higher profits for businesses. This is done to increase the supply of money in the economy.",
+    "year": "2013"
+  },
+  {
+    "number": "1493",
+    "text": "One of the goals of development plans in Nigeria is to",
+    "options": {
+      "A": "increase the profitability of multinational businesses",
+      "B": "improve the country's GDP",
+      "C": "achieve higher standard of living for the citizens",
+      "D": "deregulate the economy"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27254?exam_type=jamb&type=obj&page=299",
+    "correct_answer": "C",
+    "explanation": "Nigeria economic development plan is aimed at\u00a0creating\u00a0and maintaining a strong, vibrant local\u00a0economy that will improve the standard of living of its citizens.\u00a0This is done by putting in place\u00a0policy direction for\u00a0economic growth, and identify\u00a0strategies,\u00a0programs, and projects to improve the\u00a0economy.",
+    "year": "2013"
+  },
+  {
+    "number": "1494",
+    "text": "Life insurance companies contribute to economic development by holding a part of their assets in",
+    "options": {
+      "A": "long-term financial instruments",
+      "B": "money market instruments",
+      "C": "cash and near money",
+      "D": "short-term financial instruments"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27255?exam_type=jamb&type=obj&page=299",
+    "correct_answer": "C",
+    "explanation": "Life insurance\u00a0is a contract in which an insurer (insurance company)\u00a0in exchange for a premium, guarantees payment to an insured's beneficiaries when the insured dies. This means that, the insurance company would compensate the beneficiary of\u00a0a deceased person when they die. The premium paid by the insured are considered cash and near money assets.\nNear money assets are highly liquid assets that can be easily converted to cash.",
+    "year": "2013"
+  },
+  {
+    "number": "1495",
+    "text": "In order to add value to Nigeria agricultural produce, there is need to",
+    "options": {
+      "A": "cultivate high breed crops",
+      "B": "process them into finished goods",
+      "C": "adopt modern storage methods",
+      "D": "advertise them in European markets"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27256?exam_type=jamb&type=obj&page=299",
+    "correct_answer": "C",
+    "explanation": "Most agricultural produce are perishables and do not last past a few days after it has been harvested. The agricultural sector needs to adopt new and modern methods of produce processing and storage\u00a0to preserve the quality and nutritional value of the foods.",
+    "year": "2013"
+  },
+  {
+    "number": "1496",
+    "text": "The main reason for low agricultural produce in west Africa is need to",
+    "options": {
+      "A": "the presence of large-scale agro-allied industries",
+      "B": "high dependency ratio",
+      "C": "over dependence on agriculture for subsistence",
+      "D": "the use of crude implements in farming process"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27257?exam_type=jamb&type=obj&page=300",
+    "correct_answer": "D",
+    "explanation": "Farming implements used by farmers\u00a0especially at the rural level has been known to lower productivity due to the amount of labour needed to increase production. These farmers still use outdated farm tools. This is one of the major reason for low productivity in the agricultural.",
+    "year": "2013"
+  },
+  {
+    "number": "1497",
+    "text": "The most important determinant for the location of a brick industry is the availability of",
+    "options": {
+      "A": "market",
+      "B": "power supply",
+      "C": "water",
+      "D": "raw materials"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27258?exam_type=jamb&type=obj&page=300",
+    "correct_answer": "A",
+    "explanation": "The most important determinant of the location of an industry that is into bricks production is the market.\u00a0This has to do with\u00a0people who are willing and able to patronize the product of the company. The market to buy produced goods/materials is very important. If the industry is located in a rural area, the patronage would be low because urban areas are the highest consumers of building materials.",
+    "year": "2013"
+  },
+  {
+    "number": "1498",
+    "text": "In Nigeria, efficiency in public corporations can be achieved through",
+    "options": {
+      "A": "public offer",
+      "B": "indigenization",
+      "C": "privatization",
+      "D": "nationalization"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27259?exam_type=jamb&type=obj&page=300",
+    "correct_answer": "C",
+    "explanation": "Privatization of public corporations is one of the ways to maintain efficiency in the sector. This happens when government owned and controlled enterprises are transferred to private shareholders which include corporate bodies and\u00a0\u00a0individuals.\nThe main\u00a0reason for privatization\u00a0is for economic growth and development, to reduce waste and to encourage the development of the economic sectors.",
+    "year": "2013"
+  },
+  {
+    "number": "1499",
+    "text": "Government participation in the oil industry was necessitated by the",
+    "options": {
+      "A": "annual increase in production",
+      "B": "formation of OPEC",
+      "C": "high demand for crude oil",
+      "D": "huge investment outlay"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27260?exam_type=jamb&type=obj&page=300",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1500",
+    "text": "The deregulation of the petroleum sector in Nigeria will bring about",
+    "options": {
+      "A": "efficiency in pricing and distribution of the products",
+      "B": "an end to the importation of fuel",
+      "C": "an end to foreign firms' dominance",
+      "D": "fixing appropriate production quotas"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27261?exam_type=jamb&type=obj&page=300",
+    "correct_answer": "A",
+    "explanation": "To understand this, we first have to understand what deregulation means. Deregulation is the removal of regulations or restrictions, especially in a particular industry. In this context it\u00a0is the removal of regulations and restrictions such as subsidy paid by the Nigerian government on petroleum products.\nOne of the main reasons\u00a0for deregulating the petroleum sector is to make the sector competitive, efficient and with lower product prices. The government has been paying for subsidy and this has led to stealing and corruption in that sector as well as high cost of refined products. If the sector is deregulated, petroleum products would be refined and sold in Nigeria eliminating\u00a0the extra cost of paying for subsidy by re-importing the refined products.",
+    "year": "2013"
+  },
+  {
+    "number": "1501",
+    "text": "A distinguishing characteristic of consumer co-operative society is that the",
+    "options": {
+      "A": "the maximum number of shareholders is 20",
+      "B": "members are the owners",
+      "C": "members are the workers",
+      "D": "the minimum number of shareholders is 5"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27262?exam_type=jamb&type=obj&page=301",
+    "correct_answer": "B",
+    "explanation": "Some Characteristics of\u00a0consumers'\u00a0co-operative society:\n(1) A\u00a0consumers'\u00a0co-operative society\u00a0is a voluntary\u00a0association\u00a0of persons and is registered under the\u00a0Co-operative Societies\u00a0Act owned and run\u00a0by members.(2) The membership of these stores is open to all the adults.(3) There is a democratic control and management of the affairs of these\u00a0societies.",
+    "year": "2013"
+  },
+  {
+    "number": "1502",
+    "text": "A major disadvantage of partnership business is",
+    "options": {
+      "A": "difficulty in the transfer of shares",
+      "B": "distrust among members",
+      "C": "limited liability",
+      "D": "large capital outlay"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27263?exam_type=jamb&type=obj&page=301",
+    "correct_answer": "B",
+    "explanation": "Distrust\u00a0among partners often stems from poor communication, leading to\u00a0suspicion\u00a0when none is warranted. This\u00a0often lead to serious disagreement that may eventually end the partnership.",
+    "year": "2013"
+  },
+  {
+    "number": "1503",
+    "text": "The quality of labour force in Nigeria can be improved by",
+    "options": {
+      "A": "establishing more tertiary institutions",
+      "B": "creating sufficient job opportunities",
+      "C": "encouraging the study of science and technology",
+      "D": "establishing more skills acquisition centres"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27264?exam_type=jamb&type=obj&page=301",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1504",
+    "text": "The effect of emigration on a country's population is",
+    "options": {
+      "A": "decrease in the population",
+      "B": "decrease in job opportunities",
+      "C": "increase in population",
+      "D": "increase in dependency ratio"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27265?exam_type=jamb&type=obj&page=301",
+    "correct_answer": "A",
+    "explanation": "Emigration is the act of leaving one's own country to settle permanently in another. The effect on the emigrating country is a reduction in the population and labour force and an increase in the population of the\u00a0new country of residence",
+    "year": "2013"
+  },
+  {
+    "number": "1505",
+    "text": "A measure for preventing the external value of the naira from falling is for the government to",
+    "options": {
+      "A": "increase its spending with foreign reserve",
+      "B": "sell its own currency",
+      "C": "reduce interest rate",
+      "D": "buy its currency with foreign reserve"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27266?exam_type=jamb&type=obj&page=301",
+    "correct_answer": "B",
+    "explanation": "If the naira can be valued to the point where it can compete with other foreign currencies in the foreign exchange market, the value will be high in the international market.",
+    "year": "2013"
+  },
+  {
+    "number": "1506",
+    "text": "A fiscal policy instrument that can influence the demand pattern in an economy is",
+    "options": {
+      "A": "government spending",
+      "B": "interest rate",
+      "C": "income tax",
+      "D": "tariff"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27267?exam_type=jamb&type=obj&page=302",
+    "correct_answer": "C",
+    "explanation": "An\u00a0income tax\u00a0is a\u00a0tax\u00a0that governments impose on\u00a0income\u00a0generated by businesses and individuals within their jurisdiction. The higher the rate of taxation, the higher the cost of product or service. This will affect the rate of demand.",
+    "year": "2013"
+  },
+  {
+    "number": "1507",
+    "text": "One of the main achievements of the Economic Commission for Africa is",
+    "options": {
+      "A": "eliminating trade restrictions among states",
+      "B": "encouraging transport and communication development",
+      "C": "guaranteeing a steady flow of foreign investment into Africa",
+      "D": "providing the machinery for collaboration on monetary issues"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27268?exam_type=jamb&type=obj&page=302",
+    "correct_answer": "A",
+    "explanation": "The Economic Commission for Africa was established to encourage economic cooperation among its member states (the nations of the African continent). They have achieved this\u00a0\u00a0by eliminating barriers to trade among member states",
+    "year": "2013"
+  },
+  {
+    "number": "1508",
+    "text": "The rate of interest change on loans depends largely on",
+    "options": {
+      "A": "the prevailing exchange rate",
+      "B": "marginal efficiency of capital",
+      "C": "the risk associated with the loan",
+      "D": "the prevailing tax rate"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27269?exam_type=jamb&type=obj&page=302",
+    "correct_answer": "A",
+    "explanation": "Interest rates\u00a0are\u00a0determined, in large part\u00a0by central banks who actively commit to maintaining a target\u00a0interest rate. They do this by using the open market operations. To discourage borrowing, interest rates would be set high and set low to encourage lending. Therefore interest rates are determined mainly by the prevailing exchange rate",
+    "year": "2013"
+  },
+  {
+    "number": "1509",
+    "text": "A valid explanation for real wage growth is",
+    "options": {
+      "A": "an increase in the rate of productivity",
+      "B": "the rising cost of capital accumulation",
+      "C": "a contraction of emploment in service industries",
+      "D": "an increase in the quantity of labour"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27270?exam_type=jamb&type=obj&page=302",
+    "correct_answer": "A",
+    "explanation": "Real wage growth is\u00a0largely due to\u00a0increased in\u00a0economic activity creating competition between businesses to attract and retain workers. The higher the rate of economic activities (production, buying and selling) in the economy, the higher the real wage growth.",
+    "year": "2013"
+  },
+  {
+    "number": "1510",
+    "text": "If Mr. X lost his clerical job at a store and searched for a similar job for ten months before finding one this implies that Mr.X was",
+    "options": {
+      "A": "structurally unemployed",
+      "B": "frictionally unemployed",
+      "C": "seasonally unemployed",
+      "D": "cyclically unemployed"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/27271?exam_type=jamb&type=obj&page=302",
+    "correct_answer": "B",
+    "explanation": "Frictional\u00a0unemployment happens when people move from one job to another. Mr X was frictionally unemployed for ten months",
+    "year": "2013"
+  },
+  {
+    "number": "1699",
+    "text": "From the graph above, the price elasticity of demand is",
+    "options": {
+      "A": "unitarily elastic",
+      "B": "perfectly elastic",
+      "C": "perfectly inelastic",
+      "D": "fairly inelastic"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/32392?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "C",
+    "explanation": "price elasticity of demand is the degree to which a change in price would affect the quantity demanded or supplied\u00a0of a product. From the diagram above, price elasticity of demand is perfectly inelastic\u00a0(that is,\u00a0\u00a0the quantity demanded does not respond to price.) When price was zero, the quantity demanded\u00a0remained unchanged/ the same.",
+    "year": "2013"
+  },
+  {
+    "number": "1700",
+    "text": "From the indifference curve above, consumer will prefer combination",
+    "options": {
+      "A": "F",
+      "B": "S",
+      "C": "M",
+      "D": "K"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/32403?exam_type=jamb&type=obj&page=340",
+    "correct_answer": "B",
+    "explanation": "From the above diagram, consumers would mostly likely get the highest level of utility at point S. Because at point S, 3 of Y = 3 of X",
+    "year": "2013"
+  },
+  {
+    "number": "1701",
+    "text": "From the graph above, R represents",
+    "options": {
+      "A": "marginal cost",
+      "B": "total cost",
+      "C": "variable cost",
+      "D": "fixed cost"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/32406?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "B",
+    "explanation": "R represents Total cost which\u00a0is the\u00a0total\u00a0economic\u00a0cost\u00a0of production and is made up of variable\u00a0cost and fixed cost.The diagram below would help you know how\u00a0to identify the various types of cost,",
+    "year": "2013"
+  },
+  {
+    "number": "1702",
+    "text": "The optimum level of output of the firm is",
+    "options": {
+      "A": "BC",
+      "B": "OB",
+      "C": "OS",
+      "D": "BS"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/32409?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2013"
+  },
+  {
+    "number": "1703",
+    "text": "The total revenue of the firm is represented by",
+    "options": {
+      "A": "GHEF",
+      "B": "GHJC",
+      "C": "EFJC",
+      "D": "GHOB"
+    },
+    "answer_url": "https://myschool.ng/classroom/economics/32412?exam_type=jamb&type=obj&page=341",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2013"
+  }
+]
