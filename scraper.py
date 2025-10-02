@@ -93,6 +93,13 @@ async def scrape_page(session, url, semaphore, all_questions):
                 question_number = question_number_tag.text.strip()
                 question_desc = question_desc_tag.text.strip()
 
+                diagram_url = None
+                diagram_tag = item.find('img')
+                if diagram_tag and 'src' in diagram_tag.attrs:
+                    diagram_url = diagram_tag['src']
+                    if not diagram_url.startswith('http'):
+                        diagram_url = f"{BASE_URL}{diagram_url}"
+
                 options = {}
                 if options_list:
                     for option in options_list.find_all('li'):
@@ -111,6 +118,7 @@ async def scrape_page(session, url, semaphore, all_questions):
                     'number': question_number,
                     'text': question_desc,
                     'options': options,
+                    'diagram_url': diagram_url,
                     'answer_url': answer_link, # Store the answer_url
                 }
                 tasks.append((get_answer_and_explanation(session, answer_link, semaphore), question_data))
