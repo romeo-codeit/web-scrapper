@@ -1,0 +1,29 @@
+[
+  {
+    "number": "34",
+    "text": "You are provided with two meter rules and other\u00a0necessary apparatus.\nPlace one of the rules on a knife edge and determine its centre of gravity C. Mark this pos with a piece of chalk.\nRead and record the mass M\\(_{R}\\)\u00a0of the metre\u00a0rule written on the reverse side of it.\nAttach the mass M= 100g firmly to the rule AB at C using sellotape.\nSuspend the metre rule by two parallel threads of length h = 40 cm each at the 10 cm marks. Ensure that the graduated face to the metre rule is facing upwards.\nSet the rule AB into a small angular oscillation about the vertical axis through its centre of gravity.\nDetermine the time, t for 20 complete oscillations. Evaluate the period T and T\\(^{2}\\)\nRead and record the value of d in meters.\nKeeping d constant throughout the experiment, repeat the procedure for other values of h = 50, 60, 70, and 80 cm. In each case determine the corresponding values of f T and T. Tabulate your reading. (x) Plot a graph of T on the vertical axis and h on the horizontal axis.\nDetermine the slope S, of the graph. Evaluate k =s, where Q =2 S, Q 250P\nState two precautions taken to ensure accurate results.\n\n(b)i. Define the term couple as it relates to rotational or oscillatory systems.\nii. Give two practical application of a couple in everyday life.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60022?exam_type=waec&type=practical&page=7",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "35",
+    "text": "You are provided with a measuring cylinder, two different tins labeled C and D, a thermometer, and other necessary materials.\nUse the measuring cylinder provided to measure 100 cm of water and pour it into the tin label.\nHeat the water in the tin almost to boiling (90\u00b0C).\nRemove the tin and place it on a cork or wooden stand.\nInsert the thermometer into the tin and record the temperature of the water every minute starting from 85\u00b0C until the temperature falls to 60\u00b0C.\nRepeat the experiment with the tin labeled D using exactly the same volume of water and temperature range. Tabulate your readings.\nOn the same graph sheet and using the same axis and scales, plot two graphs of temperature on the vertical axis and time on the horizontal axis from the readings obtained using tins C and D.\nLabel the graphs\u00a0appropriately as C and D to correspond with the tins used.\nFrom each graph, read off the time taken to cool from 85\u00b0C to 65\u00b0C.\nState two precautions taken to ensure accurate results.\u00a0\n\n(b)i.\u00a0Explain how heat losses by radiation and convection\u00a0are minimized in a vacuum flask.\nii.\u00a0State four factors that affect the rate of\u00a0evaporation of a liquid in an open container.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60026?exam_type=waec&type=practical&page=7",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "36",
+    "text": "1. Connect the circuit as shown in the diagram above. PQ is a potentiometer wire 100 cm long and R is a standard resistor of 5\\(\\Omega\\).\n2. With the jockey J not making contact with PQ, close the switch. Read and record the ammeter reading I.\u00a0Open the switch.\n3. Use the jockey to make contact with PQ at the 20cm mark such that PJ = I = 20 cm. Close the switch, read and record the value I\\(_{i}\\) of the ammeter. Evaluate I\\(^{-1}\\).\n4. Repeat the procedure for other values of I = 35, 50, 65, and 80 cm. In each case, determine the corresponding values of I\\(_{i}\\), and I\\(^{-1}\\). Tabulate your readings.\n\nPlot a graph of I\\(^{i}\\) on\u00a0the vertical axis and I\\(_{i}\\), on the horizontal axis, starting both axes from the origin (0, 0).\nFrom your graph deduce the value, of I\\(_{o}\\) of\u00a0I\\(_{i}\\), when I\\(^{-1}\\)= 0.\nEvaluate I\\(_{o}\\)e\n\u00a0State two precautions taken to ensure accurate results.\u00a0\n\n(b)) Define the e. m.f. of a battery\nii. A cell X\u00a0e.m.f. 1.00 V is balanced by a length of 40.0 cm on a potentiometer wire. Another cell Y is balanced by a length of 60.0 cm on the same wire. Calculate the e.m.f. of Y.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60030?exam_type=waec&type=practical&page=8",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2009"
+  }
+]

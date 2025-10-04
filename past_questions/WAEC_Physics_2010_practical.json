@@ -1,0 +1,29 @@
+[
+  {
+    "number": "31",
+    "text": "You are provided with three retort stands, a pendulum bob,\u00a0a drawing board, a stopwatch, and other necessary apparatus. Using the diagram above as a guide, carry out the following instructions.\n\nFix the drawing paper on the drawing board and hold the board with two clamps such that it is vertical.\nSuspend the pendulum bob such that it hangs freely in front of the drawing paper.\nDraw a line RP representing the rest position of the pendulum string and mark the position P of the centre of the pendulum bob at rest.\nDisplace the pendulum bob to one side in a plane\u00a0parallel to the drawing board.\nMark the new position P\\(^{1}\\)\u00a0of the centre of the bob.\nMeasure and record the perpendicular distance, d of P\\(^{1}\\)\u00a0from the line RP\nEvaluate and record d\\(^{2}\\).\nMeasure and record the vertical height h of P\\(^{1}\\)\u00a0above P.\nEvaluate G =\\(\\frac{d^{2}}{h}\\)\nRepeat the procedure for four other positions of P\\(^{1}\\).\nTabulate your readings.\nRemove the drawing board so that the pendulum bo can swing freely.\nSet the pendulum bob oscillating through a small bob amplitude and determine the time, t for 20 oscillations.\nDetermine and record the period, T.\nPlot a graph with G on the vertical axis and h on the horizontal axis, starting both axes from the origin (0,0).\nDetermine the intercept I on the horizontal axis.\nEvaluate A = \\(\\frac{1}{19.7T^{2}}\\)\nState two precautions taken to obtain accuratee results. (Attach your drawing paper to your answer booklet.)\n\n(b)i. Distinguish between the period and frequency of oscillation of a simple pendulum.\nii. Differentiate between oscillatory and rotational\u00a0motions.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60016?exam_type=waec&type=practical&page=7",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "32",
+    "text": "You are provided with a glass\u00a0block, a plane mirror, and optical pins.\n\nPlace the glass block on a drawing sheet and trace its outline ABCD as shown in the diagram above.\nRemove the block, measure, and record the width W of the block.\nDraw a normal ON to DC at a point about one-quarter the length of DC.\nDraw a line making an angle i = 10\u00b0 with the normal.\nReplace the block on its outline and mount the plane mirror vertically behind the block such that it makes good contact with the face AB.\nStick two pins P\\(_{1}\\)\u00a0and P\\(_{2}\\)\u00a0on the line MO.\nLooking through the face CD, stick two other pins P\\(_{3}\\)\u00a0and P\\(_{4}\\)\u00a0such that they appear to be in a straight line with the images of pins P\\(_{1}\\)\u00a0\u00a0and P\\(_{2}\\)\u00a0seen through the block.\nJoin P\\(_{3}\\)\u00a0 and P\\(_{4}\\)\u00a0with a straight line and extend it to touch the face CD at O.\u00a0\nDraw a perpendicular line from the midpoint of OO to meet AB at QD.\nDraw lines OQ, O'Q, and normal O'N' produced.\nMeasure and record \\(\\theta\\), e and d.\nEvaluate m = sin e and n = cos(\\(\\frac{\\theta}{2}\\))\nRepeat the procedure for i = 20\u00b0, 30\u00b0, 40\u00b0 and 50\u00b0.\nTabulate your readings.\nPlot a graph with m on the vertical axis and n on the horizontal axis.\nDetermine the slope, s, of the graph and evaluate q = 2Ws.\nState two precautions taken to ensure accurate results. (Attach your traces to your answer booklet.)\n\n(b)i.\u00a0Explain the term refractive index and give a mathematical expression for it in terms of wavelength.\nii. State the conditions necessary for total internal reflection to occur for a given pair of media.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60017?exam_type=waec&type=practical&page=7",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2010"
+  },
+  {
+    "number": "33",
+    "text": "You are provided with a voltmeter V, a chemical cell/ battery E; two standard resistors R, and R a potentiometer a key K a jockey, and other necessary materials.\n\nSet up a circuit as shown in the diagram above.\nClose the key K.\nMake contact with the potentiometer wire AB using the jockey at a point C such that AC = x = 20cm\nRead and record the voltmeter reading\nEvaluate x\\(^{-1}\\)\u00a0and v\\(^{-1}\\)\u00a0\nRepeat the procedure for other values of x= 30, 40, 50, 60 and 80cm.\u00a0\nTabulate your readings.\nPlot a graph with V\\(^{-1}\\)\u00a0on the vertical axis and x\\(^{-1}\\)\u00a0on the horizontal axis, starting both axes from the origin (0, 0).\nDetermine the:\n\t(a) slope, s, of the graph;\n\t(b)\u00a0intercept, c, on the vertical axis.\nState two precautions taken to ensure accurate results.\n\n(b)i. State the two devices in which ohm's law does not apply.\nii. A current of 1 A is supplied to two resistors of resistance 2\\(\\Omega\\) and 3\\(\\Omega\\) connected in parallel. Calculate the current in each resistor.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60018?exam_type=waec&type=practical&page=7",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2010"
+  }
+]

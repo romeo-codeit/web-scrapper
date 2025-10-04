@@ -1,0 +1,29 @@
+[
+  {
+    "number": "72",
+    "text": "You are provided with a metre rule, a weight hanger, slotted masses, M, a piece (if string, a weighing balance and a knife edge. Use the diagram above as a guide to perform the experiment.\n(i) Using the weighing balance, determine and record the mass, M\\(_{o}\\), of the unloaded metre rule.\n(ii) Determine and record the mass, m, of the weight hanger.\n(ii) Suspend the metre rule horizontally on the knife edge. Adjust the knife edge to a point G on the metre rule where it balances horizontally.\n(iv) Record the distance, d = AG.\n(v) Suspend the weight hanger securely at a point, P, on the metre rule such that AP= 5 cm. Keep the hanger at this point throughout the experiment\n(vi) Add a mass, M = 20 g to the hanger, adjust the knife edge to a point K on the metre rule such that it balances horizontally as shown in the diagram above.\n(vii) Determine and record the distance z = AK.\n(vii) Record M and evaluate y - (z - 5), x - (d - z] and v = \\(\\frac{x}{y}\\)\n(ix) Repeat the experiment for M = 40 g, 60 g, 80 g and 100 g. In each case, evaluate y, x and v.\n(x) Tabulate the results.\n(xi) Plot a graph with M on the vertical axis and v on the horizontal axis, sinning both axes from the origin (0,0).\n(xii) Determine the slope, s, of the graph.\n(xii) Determine the intercept, c, on the vertical axis.\n(xiv) State two precautions taken to ensure accurate results.\n(b) (i) Under what condition is an object said to be in a stable equilibrium\n(ii) Auniform beam of weight 50 N has a body of weight 100 N hung at one end of it. If the beam is 12 m long, determine the distance of a support from a 100 N body for it to balance horizontally.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/63747?exam_type=waec&type=practical&page=15",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2022"
+  },
+  {
+    "number": "73",
+    "text": "You are provided with a loaded boiling tube with a centimeter scale fixed inside it, a transparent vessel filled with water, standard masses 2 g, 5g and 10 g, and a slide vernier caliper. Use the diagram above as a guide to perform the experiment.\n(i) Use the slide vernier caliper to measure and record the external diameter, D, of the boiling tube.\n(ii) Evaluated A = 0.25\\(\\pi\\)D\\(^{2}\\), where \\(\\pi\\) = 3.14.\n(iii) Place the loaded boiling tube gently in the water in the transparent vessel such that it floats vertically.\n(iv) Read and record the depth of immersion, y, from the zero mark of the scale fixed inside, the boiling tube.\n(v) Add a mass, m = 2g, to the boiling tube. Read and record the new depth of immersion, y, from the zero mark of the scale.\n(vi) Evaluate h = (y - y\\(_{0}\\)), log h and log m.\n(vii) Repeat the experiment for four other values of m = 5g, 7g, 10 g, and 12g. In each case, record y and evaluate h, log h, and log m.\n(viii) Tabulate the results.\n(ix) Plot a graph with log m on the vertical axis and log h on the horizontal axis starting both axes from the origin (0,0).\n(b)(i) State in full the law on which the experiment in (a) is based.\n(ii) A uniform cylindrical rod is 0.63 m long and it has a cross-sectional area of 0.1 m\\(^{2}\\). Calculate the depth of immersion of the rod if it floats vertically in a liquid of relative density 1.26. [density of rod =720 kg m\\(^{-3}\\), g = 10 m s\\(^{-2}\\)].",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/63754?exam_type=waec&type=practical&page=15",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2022"
+  },
+  {
+    "number": "74",
+    "text": "You are provided with a battery of e.m.f, E, a standard resistor, R, of resistance 2 \\(\\Omega\\), a key, K, an ammeter, A, a jockey, J, a potentiometer, UV, and some connecting wires.\n(i) Measure and record the emf, E, of the battery.\n(ii) Set up the circuit as shown in the diagram above with the key open.\n(iii) Place the jockey at the point, U, of the potentiometer wire. Close the key and record the reading, i, of the ammeter.\n(iv) Place the jockey at a point T on the potentiometer wire UV such that d = UT = 30.0 cm.\n(v) Close the circuit, read and record the current, I, on the ammeter,\n(vi) Evaluate I\\(^{1}\\).\n(vi) Repeat the experiment for four other values of d = 40.0 cm, 50.0 cm, 60.0 cm and 70.0 cm. In each case, record I and evaluate I\\(^{1}\\).\n(vii) Tabulate the results\n(ix) Plot a graph with d on the vertical axis and I on the horizontal axis stalling both axes from the\u00a0origin (0,0).\n(x) Determine the slope, s, of the graph.\n(xi) From the graph determine the value I\\(_{1}\\), of I when d = 0. (ci) Given that=s, calculate 8.\n(xii) State two precautions taken to ensure accurate results.\n(xii) Given that \\(\\frac{E}{\\delta}\\) = s, calculate \\(\\delta\\).\n(b)(i) Write down the equation that connects the resistance, R, of a wire and the factors on which\u00a0it depends. State the meaning of each of the symbols.\n(ii) An electric fan draws a current of0.75 A in a 240 V circuit. Calculate the cost of using, the fan for 10 hours if the utility rate is $ 0.50 per kWh.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/63755?exam_type=waec&type=practical&page=15",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2022"
+  }
+]

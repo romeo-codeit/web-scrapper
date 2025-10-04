@@ -1,0 +1,29 @@
+[
+  {
+    "number": "43",
+    "text": "You have been provided with a metre rule, a clamp, and a set of masses.\n\nClamp the metre rule to the edge of the bench such that 90cm of the rule projects from the edge as shown in the diagram above. Ensure that the rule is capable of performing oscillatory motion.\nFix a mass M =\u00a050g at the free end of the rule.\nDeflect the rule slightly such that it performs vertical oscillation.\nDetermine the time t for 10 complete oscillations.\nCalculate the period T of the oscillations and evaluate T\\(^{2}\\)\nRepeat the procedure for four other values of M = 100, 150, 200, and 250g. In each case determine and record the corresponding values of t, T, and\u00a0T\\(^{2}\\). Tabulate your readings.\nPlot a graph of T\\(^{2}\\) on the vertical axis against M on the horizontal axis, starting both axes from the origin (0,0).\nDetermine the slopes, of the graph and its intercept C on the vertical axis.\nEvaluate k = 4\\(\\pi\\)/s. [Take \\(\\pi\\)\u00a0= \\(\\frac{22}{7}\\)].\nFrom your graph, determine the period T, when M= 180g.\nState two precautions taken to ensure accurate results.\n\n(b)i.\u00a0Explain simple harmonic motion.\nii. Define period and frequency, with respect to a simple harmonic motion.\nPrecautions:\n\nl ensured that the metre rule was firmly clamped\nReadings were repeated\nParallax was avoided when readings on the stopwatch/clock were taken.\nzero error was noted and corrected on the stopwatch/clock.\n\n\n(b)i. Simple harmonic motion is a motion in which the acceleration is proportional to the displacement from a fixed point and is directed towards the point.\nii.\u00a0Period is the time taken by an oscillatory body to make one complete oscillation.\nFrequency: is the number of complete oscillations performed in one second.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60062?exam_type=waec&type=practical&page=9",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "44",
+    "text": "You have been provided with a rectangular glass prism, optical pins, and other necessary apparatus. Using the above diagram as a guide, carry out the following instructions:\n\nFix the drawing paper provided to the drawing board\nPlace the glass\u00a0prism on the drawing paper and trace the outline, ABCD of the prism\nRemove the prism, mark a point O on AB such that AO is about one-quarter of AB\nDraw a normal through point O. Also draw an incident ray to make an angle i = 25 with the normal at O.\u00a0Fix two pins at P\\(_{1}\\)\u00a0and P\\(_{2}\\) On the incident ray.\nReplace the prism. Fix two other pins at P\\(_{3}\\)\u00a0and P\\(_{4}\\)\u00a0such that the pins appear to be in a straight line with the images of the pins at P\\(_{1}\\)\u00a0and P\\(_{2}\\) when viewed through the block along DC\nremove the prism. Join points Pa and P4 and produce it to meet DC at 1. Also, draw a line to join Ol (\nWith O as center and using any Concinient radius, draw a circle to Cut the incident ray and the refracted ray at E and H respectively. Maintain this radius throughout the experiment\nDraw the perpendiculars EF and GH. Measure and record d= EF and I= GH.\nRepeat the procedure for four other values of i = 35\u00b0, 45, 55\u00b0, and 65\u00b0 respectively. In each case measure and record d and I \nPlot a graph of d on the vertical axis against I on the horizontal axis\nDetermine the slope of the graph\nState two precautions taken to ensure accurate results. [Attach your traces to your answer booklet)\n\n(b)i.\u00a0State Snell's law.\nii. Calculate the critical angle for a water-air interface. [refractive index of water = \\(\\frac{4}{3}\\)]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60068?exam_type=waec&type=practical&page=9",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "45",
+    "text": "You are provided with a constantan wire, a 2\\(\\Omega\\)\u00a0standard resistor, an accumulator E, an ammeter A, a key K, and other necessary apparatus.\n\nMeasure and record the e.m.f.of the accumulator provided.\nConnect a circuit as shown in the diagram above.\nClose the key, read and record the ammeter reading l\\(_{o}\\) when the crocodile clip is not in contact with the constantan wire.\nOpen the key. With the clip making contact with the wire, when I = 90cm, close the key. Read and record the ammeter reading /. Evaluate l\\(^{-1}\\).\nRepeat the procedure for l= 80, 70, 60 and 50cm.\nIn each case, read and record the ammeter reading and evaluate l\\(^{-1}\\). Tabulate your readings.\nPlot a graph of l on the vertical axis against l\\(^{-1}\\) on the horizontal axis.\nDetermine the slope, s, of the graph and its intercept, c on the vertical axis.\nEvaluate k = \\(\\frac{c}{s}\\).\nUsing your graph, determine the Current i when / = 55cm.\nState two precautions taken to ensure accurate results.\n\n(b)i.\u00a0Explain what is meant by the potential difference between two points in an electric circuit.\nii. State two factors on which the resistance of a resistance wire depends.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60073?exam_type=waec&type=practical&page=9",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2006"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "number": "19",
+    "text": "You are provided with a grooved inclined plane, a solid sphere, a stopwatch, and other necessary apparatus.\n\nPlace the pile of paper towels at the tail end of the inclined plane to stop the sphere from rolling off the table.\nRelease the sphere from a point at distance D= 140cm from the tail end of the inclined plane.\nDetermine the average time t taken by the sphere to cover this distance.\nEvaluate W = D/t.\nCalculate V= 2W.\nRepeat the procedure for four other values of D= 120cm 100cm, 80 cm and 60cm respectively.\nTabulate your readings.\nPlot a graph with V on the vertical axis and t on the horizontal axis\nDetermine the slope, s, of the graph.\nWhat is the significance of s?\nState two precautions\u00a0taken to obtain accurate results.\n\n(b)i.\u00a0Write the equation for the velocity ratio of an inclined plane, giving the meaning of the symbols used.\nii.\u00a0An object of mass 5kg is placed on a place inclined at an angle of 30\u00b0\u00a0to the horizontal. Calculate the force on the object perpendicular to the plane when the object is at rest. (g =10ms\\(^{-2}\\)).",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/59972?exam_type=waec&type=practical&page=4",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "20",
+    "text": "You are provided with an illuminated object, converging lens, screen, metre rule, and other necessary materials.\n\nMeasure and record the size a\\(_{o}\\) of the illuminated object.\nPlace the object O and the screen S on Opposite sides of the converging lens L.\nSet the distance between the object and the lens U = 30cm.\nAdjust the screen until a sharp image of the illuminated object is obtained on the screen.\n\u00a0Measure and record the size a of the image.\nEvaluate m = \\(\\frac{a}{a_{0}}\\), and m\\(^{-1}\\)\nRepeat the procedure for four other values of U=35cm, 40cm, 45cm and 50cm respectively.\nTabulate your readings.\nPlot a graph with m\\(^{-1}\\)\u00a0on the vertical axis and U on the horizontal axis.\nDetermine the slope, s, of the graph and intercept, C, on the\u00a0vertical axis.\nDetermine the value of U for which\u00a0m\\(^{-1}\\)=0.\nState two precautions taken to obtain accurate results.\n\n(b)i. Using your graph, determine the value of m for which U= 37cm.\nii. Sketch a diagram to illustrate how a converging lens may be used to produce a real diminished image of an object.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/59977?exam_type=waec&type=practical&page=4",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2014"
+  },
+  {
+    "number": "21",
+    "text": "You are provided with a potentiometer AB, a 102\\(\\Omega\\) standard resistor R, a battery of emf 4.5V, a jockey J,\u00a0and other necessary materials.\n\nConnect a circuit as shown in the diagram above.\nClose key K. Without J making contact with AB, read and record the ammeter reading I. Open the key.\nUse the jockey to make contact with AB at the 20cm mark such that AJ\u00a0= x = 20cm. Close the key, read and record the ammeter reading.\n\u00a0Evaluate x\\(^{-1}\\).\nRepeat the procedure for values of x= 35cm, 45cm, 60cm, and 80cm respectively.\nTabulate your readings.\nPlot a graph with x\\(^{-1}\\) on the vertical axis and l\\(_{i}\\)\u00a0on the horizontal axis, starting both axes from the origin (0, 0).\nDetermine the slope, s, of the graph.\nFrom your graph, determine the value l\\(_{o}\\)\u00a0of I\\(_{1}\\)\u00a0for which x\\(^{-1}\\)= 0.\nEvaluate \\(\\frac{I_{o}}{I}\\).\nState two precautions taken to obtain accurate results.\n\n(b)i.\u00a0Define the emf of a battery.\nii.\u00a0A cell X of emf 1.018V\u00a0is balanced\u00a0by a length of 50.0cm on a potentiometer wire. Another cell Y is balanced by a length of 75.0cm on the same wire. Calculate the emf of Y.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/59978?exam_type=waec&type=practical&page=5",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2014"
+  }
+]

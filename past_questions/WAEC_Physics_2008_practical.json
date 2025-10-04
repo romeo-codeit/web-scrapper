@@ -1,0 +1,29 @@
+[
+  {
+    "number": "37",
+    "text": "You are provided with a uniform meter rule, a knife edge, masses and other necessary apparatus.\n\nSuspend the metre rule horizontally on the knife edge. Read and record the point of balance G of the m\u00e9tre rule. Keep the knife edge at this point throughout the experiment.\nUsing the thread provided, suspend the object labelled W at the 15cm mark of the metre rule.\nSuspend a mass M= 20g on the other side of G. Adjust the position of the mass until the metre rule balances horizontally again.\nRead and record the position Y of the mass M on the metre rule.\nDetermine and record the distance L between the mass and G. Also determine and record the distance D between W and G.\nRepeat the procedure for four other values of M = 30, 40, 50 and 60 g. In each casse ensure that W is kept Constant at the 15 cm mark and the knife edge at G.\nEvaluate L\\(^{-1}\\) in each case. Tabulate your readings.\nPlot a graph of M on the vertical axis against L\\(^{-1}\\)\u00a0on the horizontal axis.\nDetermine the slope S, of the graph.\nEvaluate \\(\\frac{4}{D}\\)\n\nState two precautions taken to obtain accurate results.\n(b)i.\u00a0State the principle of moments.\nii. Define centre of gravity",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60034?exam_type=waec&type=practical&page=8",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "38",
+    "text": "Using the above diagram as a guide, carry out the following instructions.\n\nFix a metre rule on the bench with its graduated side facing up.\nPlace the illuminated object at the 0cm end and the screen at the 100cm end of the rule such that the distance d between the illuminated object and screen is 100cm.\nRecord the distance d. Also, evaluate and record d\\(^{2}\\).\nPlace and move the Converging lens between the illuminated object and the Screen until a sharp diminished image of the object is formed on the screen.\nRead and record the position Ih of the lens.\nNow move the lens towards the object until another sharp image of the object is formed on the Screen.\nRead and record the new position l\\(_{2}\\)\u00a0of the lens.\nEvaluate and record L= (l\\(_{1}\\)\u00a0- I\\(_{2}\\)), also evaluate L\\(^{2}\\) and D = d\\(^{2}\\)\u00a0- L\\(^{2}\\).\nRepeat the procedure for four values of d= 85, 75, 65 and 55cm. Tabulate your readings.\nPlot a graph or Don the vertical axis against d on the horizontal axis.\nDetermine the slope, s, of the graph.\nEvaluate k = \\(\\frac{s}{4}\\).\nState two precautions taken to obtain accurate results.\n\n(b)i.\u00a0Explain the statement the focal length of a converging lens is 15cm.\nii.\u00a0Distinguish between a real image and a virtual image.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60035?exam_type=waec&type=practical&page=8",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "39",
+    "text": "You are provided with two resistance wires labeled A and B, a1\\(\\Omega\\)\u00a0standard resistor Rx, and other necessary apparatus.\n\nConnect R\\(_{x}\\) in the left-hand gap of the metre bridge, a length L= 100cm of wire A in the right-hand gap, and the other apparatus as shown in the diagram above.\nDetermine and record the balance point P on the bridge wire NQ.\nMeasure and record l\\(_{x}\\) = NP and l\\(_{y}\\)\u00a0= PQ.\nEvaluate R\\(_{1}\\) =\u00a0\\(\\frac{I_{y}}{L_{x}}\\) = R\\(_{x}\\)\nRepeat the procedure for four other values of L= 95, 85, 75 and 65cm. In each case, determine and record the balance point P and the length l\\(_{x}\\) and l\\(_{y}\\). Also, evaluate R\\(_{1}\\).\nRepeat the experiment with the second wire B. Obtain the balance points P and\u00a0the values of and l\\(_{x}\\) and l\\(_{y}\\).\nEvaluate R\\(_{1}\\) =\u00a0\\(\\frac{I_{y}}{L_{x}}\\) = R\\(_{x}\\) in each case. Tabulate your readings.\nPlot a graph of R\\(_{2}\\)\u00a0on the vertical axis against R\\(_{1}\\)\u00a0on the horizontal axis.\nDetermine the slope, s, of the graph.\nEvaluate k = \\(\\sqrt\u00a0s\u00a0\\).\nState two precautions taken to obtain accurate results.\n\n(b)i. State two advantages of using a potentiometer over a voltmeter for measuring the potential difference.\nii.\u00a0Define the internal\u00a0resistance of a cell.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60036?exam_type=waec&type=practical&page=8",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2008"
+  }
+]

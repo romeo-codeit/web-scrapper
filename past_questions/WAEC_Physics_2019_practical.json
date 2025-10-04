@@ -1,0 +1,29 @@
+[
+  {
+    "number": "4",
+    "text": "You are provided with a stopwatch, a meter rule, a split cork, retort stand and clamp, a pendulum bob, a piece of thread, and other necessary apparatus.\ni. Place the retort stand on a laboratory stool. Clamp the split cork.\nii. Suspend the pendulum bob from the split cork such that the point of support P of the bob is at height H\u00a0= 100cm above the floor Q. The bob should not touch the floor and H should be kept constant throughout the experiment.\niii.\u00a0Adjust the length of the thread such that the center A of the bob is at a height y= AQ= 20cm from the floor.\niv.\u00a0Displace the bob such that it oscillates in a horizontal plane.\nv.\u00a0Take the time t for 20 complete oscillations.\nvi.\u00a0Determine the period T of oscillation and evaluate T\nvii.\u00a0Repeat the procedure for four other values of y = 30cm, 40cm, 50cm, and 60cm. In each case, determine T and T.\nviii.\u00a0Tabulate the results.\nix.\u00a0Plot a graph of T on the vertical axis and y on the horizontal axis, starting both axes from the origin (0,0).\nx. Determine the slope, s, of the graph and the intercept c on the vertical axis.\nxi.\u00a0If in this experiment SR= c, calculate R.\nx. State two precautions taken to ensure accurate results.\n(b) i.\u00a0The bob of a simple pendulum is displaced a small distance from the equilibrium position and then released to perform simple harmonic motion Identify where its:\n(\\(\\propto\\)) kinetic energy is maximum\n(\\(\\beta\\)) acceleration is maximum\nii. An object of weight 120N vibrates with a period of 4.0s when hung from a spring. Calculate the force per unit length of the spring. [g= 10ms\\(^{-2}\\), \\(\\pi\\)=3.142]",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/59765?exam_type=waec&type=practical",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "5",
+    "text": "You are provided with a converging lens and holder, a screen, a ray box containing an illuminated object pin, and a meter rule.(See illustration above)\ni. Place the lens in its holder such that it is facing a distant object seen through a well-lit laboratory window. Move the screen to and fro until a sharp image of the distant object is formed on it. Measure the distance, f\\(_{0}\\), between the screen and the lens.\nii. Clamp the meter rule securely to the table. Place the illuminated object pin at the end R of the meter\u00a0rule.\niii. Place the lens at a position P such that X = RP =\u00a020cm.\niv.\u00a0Move the screen to a position Q to receive a sharp image of the object. Measure the distance Y =\u00a0PQ.\nv.\u00a0Evaluate Z = (X+Y)\nvi.\u00a0Repeat the procedure for five other values of x = 25cm. 3Ocm, 35cm, 40cm and 45cm. In each case, record X,Y and evaluate Z.\nvii.\u00a0Tabulate the results.\nviii.\u00a0Plot a graph with Z on the vertical axis and X on the horizontal axis. Draw a smooth curve through the points.\nix.\u00a0Determine from your graph the minimum value of Z=Z\\(_{0}\\) and its corresponding distance\nx. Evaluate W = \u00bd (\\(\\frac{Z_0}{4}\u00a0+ \\frac{X_0}{2}\\))\nxi.\u00a0State two precautions taken to ensure accurate results.\n(b) i.\u00a0Draw a ray diagram to show how a Convex lens forms an image of magnification less than one.\nii. Name two pairs of features in the human eye and a lens\u00a0camera that performs similar functions.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/59766?exam_type=waec&type=practical",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2019"
+  },
+  {
+    "number": "6",
+    "text": "You are provided with a battery of e.m.f. E, a key K, a voltmeter, a standard resistor R\\(_{0}\\) = 2\\(\\Omega\\), a resistance box R,\u00a0and some connecting wires.\ni. Measure and record the e.m.f. E of the battery.\ni.\u00a0Set up a circuit as shown in the diagram above with the key open.\niii. Set the resistance on the resistance box to R 22.\niv.\u00a0Close the key, read and record the potential difference V\u00a0on the voltmeter.\nv.\u00a0Evaluate V\\(^{-1}\\)\nvi.\u00a0Repeat the procedures for five other values of R = 5\\(\\Omega\\)\u00a010\\(\\Omega\\),12\\(\\Omega\\),15\\(\\Omega\\)\u00a0and 20\\(\\Omega\\). In each case, record V and evaluate V\\(^{-1}\\)\u00a0\nvii.\u00a0Tabulate the results.\nviii.\u00a0Plot a graph with R on the vertical axis and V\\(^{-1}\\) l on the horizontal axis, starting both axes from the origin (0,0).\nix.\u00a0Determine the slope, s, of the graph and the intercept c\u00a0on the vertical axis.\nx. Calculate \\(\\propto\\) and \\(\\beta\\)\u00a0from the equations s =\u00a0R\\(_{0}\\)\u00a0\\(\\propto\\)\u00a0and c= - (R\\(_{0}\\)+B).\nxi. State two precautions taken to obtain accurate results.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/59786?exam_type=waec&type=practical&page=2",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2019"
+  }
+]

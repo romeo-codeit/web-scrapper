@@ -1,0 +1,29 @@
+[
+  {
+    "number": "40",
+    "text": "You are provided with a retort stand, clamp and boss, a pendulum bob, a piece of thread, and other necessary apparatus. Carry out the fo lowing experiment:\n\nSet up the apparatus as shown in the diagram above:\nmeasure and record the distance = 130cm from the centre of the bob to the point of suspension of the pendulum\ndisplace the pendulum\u00a0through a small angle and release. Allow the pendulum\u00a0to oscillate freely;\ndetermine the time t for 20 complete oscillations;\nalso, determine the period T of the oscillations\nevaluate T\\(^{2}\\)\u00a0and L = -30;\nrepeat the procedure for four other values of l = 110, 90, 70, and 50 cm\nin each case, determine t and evaluate T,T\\(^{2}\\) and L. Tabulate your readings.\nplot of a graph of T\\(^{2}\\) on the vertical axis against L on the horizontal axis, starting both axes from the origin (0,0)\ndetermine the slope, s, of the graph. Also determine the intercept, C, of the graph on the T\\(^{2}\\) axis;\nevaluate: i. k\\(_{1}\\)\u00a0= \\(\\frac{4\\pi^{2}}{s_{1}}\\),\n\t\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0ii.\u00a0\u00a0k\\(_{2}\\)\u00a0= \\(\\frac{c}{8}\\)\u00a0[Take \\(\\pi\\) = \\(\\frac{22}{7}\\)]\nstate two precautions taken to ensure accurate results.\n\n(b)i.\u00a0What is meant by the period of oscillation of an oscillating\u00a0body?\ni.\u00a0Explain the acceleration of free fall due to gravity.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60039?exam_type=waec&type=practical&page=8",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "41",
+    "text": "Using the above diagram as a guide, carry out the following experiment:\n\nPlace the equilateral triangular\u00a0glass prism on the drawing paper. Trace the outline ABC of the prism.\nremove the prism. Draw a line NO such that it makes an angle i\u00a0= 25\u00ba with the normal at point O on side AB\nfix\u00a0two pins R\\(_{1}\\)\u00a0and R\\(_{2}\\)\u00a0vertically on line N0. Replace the prism on its outline;\nplace the reflecting surface of the plane mirror in contact with the face AC of the prism;\nlooking through the face BC of the prism, fix two other pins at R\\(_{3}\\)\u00a0and R\\(_{4}\\)\u00a0such that the pins appear to be in a straight line with the images of the pins at R\\(_{1}\\)\u00a0and R\\(_{2}\\);\nremove the prism, the mirror, and the pins. Draw a line to join points R\\(_{4}\\)\u00a0and R\\(_{3}\\)\nproduce line R\\(_{4}\\)R\\(_{3}\\)\u00a0to meet line NO produced at T;\nmeasure and record the angle \\(\\theta\\) at T and e at D;\nrepeat the procedure for four other values of i\u00a0= 30\u00b0, 35\u00b0, 40\u00b0, and 45\u00b0. In each case, measure and record the corresponding values of \\(\\theta\\) and e. Tabulate your readings;\nplot a graph of e on the vertical axis and \\(\\theta\\) on the horizontal axis;\nevaluate k = s\\(^{-1}\\)\u00a0\nstate two precautions taken to ensure accurate results. [Attach your traces to your answer booklet]\n\n(b)i.\u00a0State four characteristics of the image of an object formed by a plane mirror.\nii.\u00a0State two Conditions necessary for total internal reflection to occur in a medium.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60041?exam_type=waec&type=practical&page=9",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "42",
+    "text": "You have been provided with an accumulator E, a standard resistor Rx, two resistance boxes RB\\(_{1}\\)\u00a0and RB\\(_{2}\\), two keys K\\(_{1}\\)\u00a0and K\\(_{2}\\)\u00a0and other necessary apparatus.\n\nMeasure and record the e.m.f of the accumulator.\nConnect a circuit as shown above.\nSet the resistance R, in the resistance box such that R in RB\\(_{1}\\) = R\u00a0in RB\\(_{2}\\)\u00a0= 1\\(\\Omega\\).\nWith K\\(_{1}\\)\u00a0open and K\\(_{2}\\)\u00a0closed, measure and record the potential difference V\u00a0across the standard resistor Rx. (v) Close K, and K,. Read and record the potential difference V\\(_{o}\\)\u00a0across Rx.\nEvaluate V\\(_{1}^{-1}\\)\nRepeat procedure (v) for four other values of R = 2, 3, 4 and 5\\(\\Omega\\)\u00a0respectively. In each case, ensure that the value of R in RB\\(_{1}\\)\u00a0is equal to the value of R in RB\\(_{2}\\).\nEvaluate V\\(_{1}^{-1}\\)\u00a0in each case. Tabulate your readings.\nPlot a graph of V\\(_{1}^{-1}\\)\u00a0on the vertical axis against R on the horizontal axis starting both axes from the origin (0,0).\nDetermine the slope, s, of the graph and the intercept on the vertical axis.\nEvaluate y = \\(\\frac{1}{s}\\)\n\u00a0State two precautions taken to ensure accurate results\n\n(b)i.\u00a0Explain what is meant by the potential difference between two points in an electric circuit\nii. A cell has an e.m.f. of 3 V. When it is connected across a resistor of resistance 4\\(\\Omega\\), a current 0.5A passes through the circuit. Calculate the internal resistance of the cell.",
+    "options": {},
+    "answer_url": "https://myschool.ng/classroom/physics/60043?exam_type=waec&type=practical&page=9",
+    "correct_answer": null,
+    "explanation": "",
+    "year": "2007"
+  }
+]
