@@ -99,6 +99,8 @@ async def scrape_page(session, url, semaphore, all_questions):
                     diagram_url = diagram_tag['src']
                     if not diagram_url.startswith('http'):
                         diagram_url = f"{BASE_URL}{diagram_url}"
+                    if "happy-birthday-my-husband.jpg" in diagram_url:
+                        diagram_url = None
 
                 options = {}
                 if options_list:
@@ -172,7 +174,11 @@ def sanitize_filename(filename):
     """
     Sanitizes a string to be used as a filename.
     """
-    return re.sub(r'[^a-zA-Z0-9_.-]', '', filename)
+    # Replace any sequence of non-alphanumeric characters with a single underscore
+    sanitized = re.sub(r'[^a-zA-Z0-9]+', '_', filename)
+    # Remove leading or trailing underscores
+    sanitized = sanitized.strip('_')
+    return sanitized
 
 async def main():
     parser = argparse.ArgumentParser(description="Scrape past exam questions from myschool.ng")
