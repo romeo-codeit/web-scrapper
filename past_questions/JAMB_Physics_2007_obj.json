@@ -1,0 +1,752 @@
+[
+  {
+    "number": "350",
+    "text": "The unit of moment of a couple can be expressed in?",
+    "options": {
+      "A": "N m-1",
+      "B": "N m-2",
+      "C": "N m",
+      "D": "N m2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13902?exam_type=jamb&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "351",
+    "text": "A gramophone record takes 5s to reach its constant angular velocity of 4\\(\\pi\\) rads-1 from rest. Find its constant angular acceleration.",
+    "options": {
+      "A": "0.4\\(\\pi\\) rads-2",
+      "B": "0.8\\(\\pi\\) rads-2",
+      "C": "1.3\\(\\pi\\) rads-2",
+      "D": "20.0\\(\\pi\\) rads-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13903?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "B",
+    "explanation": "-2\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "352",
+    "text": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms-1. The magnitude of the centripetal force on the car is ?",
+    "options": {
+      "A": "4.8 x 104 N",
+      "B": "4.8 x 103  N",
+      "C": "1.2  x 103  N",
+      "D": "1.2 x 102 N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13904?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "A",
+    "explanation": "2\n4\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "353",
+    "text": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them?\n[G = 6.67 X 10-11 Nm2 Kg\\(^{-2}\\)]",
+    "options": {
+      "A": "3.50 x 10-10N",
+      "B": "3.71 x 10-8 N",
+      "C": "3.57 x 10-2N",
+      "D": "4.00 x 102N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13909?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "B",
+    "explanation": "The force of attraction between the two spheres is given by F (GM1 M2)/r2 = (6.67X 10-11 X5X10)/(0.3)2= 3.71 X 10-8N.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "354",
+    "text": "A machine has a velocity ratio of 4. if it requires 800 N to overcome a load of 1600 N,what is the efficiency of the machine?",
+    "options": {
+      "A": "60%",
+      "B": "50%",
+      "C": "40%",
+      "D": "2%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13916?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "355",
+    "text": "A reservoir 500 m deep is filled with a fluid of density 850 kgm-3. If the atmospheric pressure is 1.05 x 105 Nm-2, the pressure at the bottom of the reservoir is.\n[g = 10ms-2]",
+    "options": {
+      "A": "4.72 x 106 Nm-2",
+      "B": "4.36 x 106 Nm-2",
+      "C": "4.28 x 106 Nm-2",
+      "D": "4.25 x 106 Nm-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13917?exam_type=jamb&type=obj&page=71",
+    "correct_answer": "B",
+    "explanation": "In general, pressure varies with depth in the relation p = \\(\\rho\\)gh= 850 x 10 x 500= 4250000= 4.25 x 10\\(^6\\) Nm\\(^{-2}\\)\nTherefore, Total pressure = 1.05 x 10\\(^5\\) + 4.25 x 10\\(^6\\) = 4.36 x 10\\(^6\\)\u00a0Nm\\(^{-2}\\)\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "356",
+    "text": "A piece of iron weights 250 N in air and 200 N in a liquid of density 1000 kgm-3. the volume of the iron is?",
+    "options": {
+      "A": "5.0 x 10-3 m-3",
+      "B": "4.5 x 10-3 m-3",
+      "C": "2.5 x 10-3 m-3",
+      "D": "2.0 x 10-3 m-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13918?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "A",
+    "explanation": "Wt\u00a0in the air = 250Nwt. in the liquid = 200Nloss in wt. in the liquid = 250 - 200 = 50N\u2234 mass of liquid displaced\u00a0= 50N\u00a0\u2192 5kg\u2234If the density of the liquid is 1000kgm-3then the volume of the liquid = (M)/D = V = (5kg)/1000 = 0.005\u00a0\u2192 5.0 X \\(10^{-3}\\)\\(m^3\\)\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "357",
+    "text": "A clinical thermometer is different from other mercury in glass thermometers owing to",
+    "options": {
+      "A": "the constriction on its stem",
+      "B": "the grade of mercury used in it",
+      "C": "its long stem",
+      "D": "its wide range of temperatures"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13919?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "A",
+    "explanation": "The constriction in the stem of a clinical thermometer prevents the mercury from returning to the bulb after the temperature has been taken, allowing for a more accurate reading. This feature is what distinguishes it from other types of mercury thermometers, which do not typically have this constriction\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "358",
+    "text": "I.   Use a liquid with a high melting point.\nII.  use a liquid of high volume expansivity.\nIII. use a capillary tube of large diameter.\n\n which of the above best describes how the sensitivity of a liquid-in-glass thermometer can be enhanced?",
+    "options": {
+      "A": "I only",
+      "B": "II. only",
+      "C": "I and II only",
+      "D": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13924?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "359",
+    "text": "2 kg of water is heated with a heating coil which draws 3.5 A from a 200 V mains for 2 minutes. what is the increase in temperature of the water?\n\n\n[specific heat capacity of water = 4200 jkg -1k-1]",
+    "options": {
+      "A": "30\u00b0",
+      "B": "25\u00b0",
+      "C": "15\u00b0",
+      "D": "10\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13928?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "360",
+    "text": "I.   Increase the melting point of the liquid.\nII.  Increase the boiling point of the liquid.\nIII. Decrease the melting point of the liquid.\nIV.  Decrease the boiling point of the liquid.\nwhich of the statement above about the effect on increase in pressure in a liquid are correct?",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "III and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13930?exam_type=jamb&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "361",
+    "text": "I. Mass\nII. Density\nIII. Temperature\nIV. Nature of substance\nwhich of the above affect diffusion?",
+    "options": {
+      "A": "I and II only",
+      "B": "I,II and IV only",
+      "C": "II, III and IV only",
+      "D": "I, II, III and IV"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13931?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "D",
+    "explanation": "Diffusion rates of a substance generally depend on mass, density, and temperature. and nature of substances I\u00a0II, III, and IV\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "362",
+    "text": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
+    "options": {
+      "A": "handle is a better conductor of heat than blade",
+      "B": "handle contains stored energy in form of heat",
+      "C": "blade is a better conductor of heat than the handle",
+      "D": "blade is placed at a lower temperature than the heat"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13932?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "C",
+    "explanation": "The metal blade transfers heat away from your skin more effectively than the wooden handle. When you touch the blade, it rapidly absorbs heat from your hand, causing it to feel colder. In contrast, the wooden handle, which is a less effective conductor of heat, doesn't draw heat away as quickly, making it feel warmer in comparison.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "363",
+    "text": "I. They should be identical\nII. They should originate from the same source.\nIII. They should be coherent.\nIV. They should be monochromatic.\nfrom the statements above, the conditions for two waves to interfere are?",
+    "options": {
+      "A": "I,II and III only",
+      "B": "I, III and IV only",
+      "C": "II, III and IV only",
+      "D": "I, II, III  and IV"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13935?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "B",
+    "explanation": "Identical (I): The waves should have the same frequency and wavelength.Coherent (III): The waves must maintain a constant phase relationship.Monochromatic (IV): The waves should have the same frequency (which is closely related to being coherent).\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "364",
+    "text": "In a large telecommunications auditorium, perforated  absorbent materials are used to line the ceiling so as to",
+    "options": {
+      "A": "Increase the reverberation of sound in the hall",
+      "B": "increase the amount of echo in the hall",
+      "C": "reduce the hight of the ceiling from the floor",
+      "D": "reduce the reverberation of sound in the hall"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13939?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "365",
+    "text": "The phenomenon of light bending round an obstacle is?",
+    "options": {
+      "A": "diffraction",
+      "B": "refraction",
+      "C": "reflection",
+      "D": "polarization"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13943?exam_type=jamb&type=obj&page=73",
+    "correct_answer": "A",
+    "explanation": "The phenomenon of light bending around an obstacle is:\u00a0\u00a0diffraction\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "366",
+    "text": "The instrument used by designers to obtain different color pattern is called?",
+    "options": {
+      "A": "periscope",
+      "B": "sextant",
+      "C": "episcope",
+      "D": "kaleidoscope"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13945?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "D",
+    "explanation": "Kaleidoscope is an optical instrument that creates patterns and designs by reflecting light through coloured materials.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "367",
+    "text": "A glass plate 0.9cm thick has a refractive index of 1.50. How long does it take for a pulse of light to pass through the plate?\n[c = 3.0 x 10\\(^8\\) ms-1]",
+    "options": {
+      "A": "4.5 x 10-11s",
+      "B": "4.5 x 10-10s",
+      "C": "4 .5 x 10-12 s",
+      "D": "3.0 x 10-10s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13957?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "N = 1.5 = (speed of light in glass)/speed of light in air(1.5)/1 = (3.0 x 108)/VV = (3.0 x 108)/1.5V = 2.0 x 108 ms-1But x = Vtt = (x)/Vtt = (x)/v = \\( \\frac{9 x 10^{-3}}{2.0 x 10^8}\\)\u2234 Time = 4.5 x 10\\(^{-11}\\)S\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "368",
+    "text": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
+    "options": {
+      "A": "Simple microscope",
+      "B": "refecting lens",
+      "C": "compound microscope",
+      "D": "projector"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13960?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "Simple microscope: A single convex lens used to magnify small objects. It allows the viewer to see details that are not visible to the naked eye.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "369",
+    "text": "The production of pure spectrum could easily be achieved using a?",
+    "options": {
+      "A": "glass prism with a pin",
+      "B": "triangular prism with two convex lens",
+      "C": "traingular prism only",
+      "D": "triangular prism with two concave lenses"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13962?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "B",
+    "explanation": "A pure spectrum can be produced using a triangular prism-two converging lenses and a narrow slit of white light\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "370",
+    "text": "A charge 50 \u00b5c has electric field strength of 360 NC-1 at a certain point. The electric field strength due to another charge 120 \u00b5c kept at the same distance apart and in the same medium is?",
+    "options": {
+      "A": "864 NC-1",
+      "B": "150 NC-1",
+      "C": "144 NC-1",
+      "D": "18 NC-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/13970?exam_type=jamb&type=obj&page=74",
+    "correct_answer": "A",
+    "explanation": "In general, electric field strength E = \\(\\frac{(F)}{q}\\)\nE = \\(\\frac{q}{4\\pi\\varepsilon_0d^2}\\)\n\u21d2 360 = \\(\\frac{9\\times10^9\\times50\\times10^-6}{d^2}\\)\nsolving, we have \\(d^2\\) = 1250\nputting \\(d^2\\) = 1250 into the second equation,\nE = \\(\\frac{9\\times10^9\\times120\\times10^-6}{1250}\\)\nwe have E = \\(864NC^-1\\)\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "372",
+    "text": "The energy E of a photon and it's wavelength are related by E\u03bb = X. the numerical value of X is?\n\n\n[h = 6.63 x 10-34js, c = 3 x 108 ms-1]",
+    "options": {
+      "A": "6.6 X 10-28",
+      "B": "1.99 X 10-27",
+      "C": "6.60 x 10-26",
+      "D": "1.99 x 10-25"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14012?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "-34\n8\n-25\n-25\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "373",
+    "text": "The bond that forms a semiconductor is?",
+    "options": {
+      "A": "covalent",
+      "B": "electrovalent",
+      "C": "ionic",
+      "D": "metallic"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14013?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "A",
+    "explanation": "Semiconductors, such as silicon and germanium, primarily exhibit covalent bonding, where atoms share electrons to form a stable structure.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "374",
+    "text": "Silicon doped with aluminum and germanium doped with arsenic become?",
+    "options": {
+      "A": "p- and n- types respectively",
+      "B": "n- en p- type respectively",
+      "C": "p- type semiconductor",
+      "D": "n- type semiconductors"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14014?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "A",
+    "explanation": "Aluminum has three valence electrons, while silicon has four. When aluminum is added to silicon, it creates \"holes\" (positive charge carriers) because there is one less electron to form a bond. These holes can move and carry charge, making the material p-type.Charge Carriers: Majority carriers in p-type semiconductors are holes. While,\u00a0\u00a0Arsenic (or other elements When doped into germanium (which has four valence electrons), the extra electron becomes free to move, which increases the number of negative charge carriers (electrons) in the material. This results in an n-type semiconductor.Charge Carriers: Majority carriers in n-type semiconductors are electrons\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "509",
+    "text": "The figure above shows 4 forces 3N, 10N, 3\u221a3N and 6N acting on a particle P. The resultant of he four forces is",
+    "options": {
+      "A": "5N",
+      "B": "5\u221a 3N",
+      "C": "10N",
+      "D": "10\u221a 3N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/25912197739_phy20072aaa.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14381?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "C",
+    "explanation": "Resolution of force:\no\no\n3\n2\no\n3\n2\no\nSummary\n2\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "510",
+    "text": "From the diagram above, the bob of the pendulum has the fastest speed at",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "W"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/24548406732_phy20075.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14382?exam_type=jamb&type=obj&page=102",
+    "correct_answer": "A",
+    "explanation": "The ball has its fastest speed at its equilibrium position when its displacement X = 0, which is at X. At this point, the bob has maximum velocity and maximum kinetic energy.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "511",
+    "text": "In the diagram above, a rod 50 cm long of uniform cross-section is suspended horizontally on a fulcrum, F, by the action of two forces. What is the weight of the rod?",
+    "options": {
+      "A": "40N",
+      "B": "80N",
+      "C": "120N",
+      "D": "200N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/23184622015_phy20077.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14383?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "512",
+    "text": "A boy drags a bag of rice along a smooth horizontal floor with  a force of 2N applied at the angle of 60o to the floor. The work done after a distance of 3m is",
+    "options": {
+      "A": "3 J",
+      "B": "4 J",
+      "C": "5 J",
+      "D": "6 J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14384?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "A",
+    "explanation": "o\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "513",
+    "text": "A blacksmith heated a metal whose cubic expansivity is 6.3 x 10\\(^{-6}\\)K\\(^{-1}\\). The area\u00a0expansivity is",
+    "options": {
+      "A": "2.0 x 10-6K-1",
+      "B": "2.1  x 10-6K-1",
+      "C": "4.2  x 10-6K-1",
+      "D": "6.3  x 10-6K-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14385?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "C",
+    "explanation": "If the lineal expansivity = \u221d=> area expansivity \u03b2= 2\u221d.And cubic expansivity \u03b4 = 3\u221d.=> 6.3 x 10\\(^{-6}\\) = 3\u221d\u2234 \u221d =\n\u2234 \u221d =6.3 x 10-6= 2.1x 10-6__3\n\u2234 Area = 2\u221d = 2 x 2.1x10\\(^{-6}\\)= 4.2 x 10\\(^{-6}\\)K\\(^{-1}\\)\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "514",
+    "text": "The ratio of the coefficient of linear expansion of two metals \u221d1/\u221d2 is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, e1/e2 is 1:2, the ratio of the original lengths l1/l2 is",
+    "options": {
+      "A": "8/3",
+      "B": "3/2",
+      "C": "2/3",
+      "D": "3/8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14386?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "C",
+    "explanation": "\u221d1\n\u221d2\ne1\ne2\n1\n1\n1\n2\n2\n2\n=>e1=\u221d1l1\u0394\u03b8=\u221d1l1=1e2\u221d2l2\u0394\u03b8\u221d2l22\nBut\u221d1=3, \u22343xl1=1\u221d244l22\n1\n2\n\u2234l1=4=2OR 2 : 3l263\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "515",
+    "text": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
+    "options": {
+      "A": "1600N",
+      "B": "400N",
+      "C": "160N",
+      "D": "40N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14387?exam_type=jamb&type=obj&page=103",
+    "correct_answer": "A",
+    "explanation": "=>F= K\u221aT\n\u2234F1=F2=>250=500\u221aT1\u221aT2\u221a400\u221aT2\n\u2234\u221aT2=500\u221a400 = 2 x 20250\n2\n2\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "516",
+    "text": "Three cells each of e.m.f 1.5 V and internal resistance 2.5\u03a9 are connected as shown in the diagram above. Find the net e.m.f and the internal resistance",
+    "options": {
+      "A": "1.5V, 7.50\u03a9",
+      "B": "1,5V, 0.83\u03a9",
+      "C": "4.5V, 7.50\u03a9",
+      "D": "4.5V, 0.83\u03a9"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/6819048110_phy200734.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14388?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "B",
+    "explanation": "1\nv\n1\n25\n1\n25\n1\n25\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "517",
+    "text": "In the diagram above , if the magnetic field points into the paper and the force on a current - carrying conductor points upwards, what is the direction of the current?",
+    "options": {
+      "A": "Upwards",
+      "B": "Downwards",
+      "C": "Right",
+      "D": "Left"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/16365719088_phy200737.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14389?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "click here\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "518",
+    "text": "The instantaneous value of the induced e.m.f as a function of time is \u03b5 = \u03b5o sin \u03c9t where \u03b5o is the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
+    "options": {
+      "A": "0.00",
+      "B": "\u03b5o/4",
+      "C": "\u03b5o/2",
+      "D": "\u03b5o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14390?exam_type=jamb&type=obj&page=104",
+    "correct_answer": "D",
+    "explanation": "o\no\nT\n4\n360\n4\no\no\no\no\no\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "548",
+    "text": "During the nuclear reaction described by \n235W \u2192235X\u2192231Y929391\nthe particles emitted are respectively",
+    "options": {
+      "A": "\u03b1 and \u03b1",
+      "B": "\u03b1 and \u03b2",
+      "C": "\u03b2 and \u03b2",
+      "D": "\u03b2 and \u03b1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14475?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "549",
+    "text": "from the diagram above, the inductive reactance and the resistance R are respectively",
+    "options": {
+      "A": "50\u03a9 and 45\u03a9",
+      "B": "25\u03a9 and 51\u03a9",
+      "C": "20\u03a9 and 50\u03a9",
+      "D": "10\u03a9 and 50\u03a9"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/8183736768_phy200742.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14476?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "D",
+    "explanation": "50\n\u03c0\nV\nI\n75\n1.5\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "550",
+    "text": "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current?\n[3.3 x 10-7kgC-1]",
+    "options": {
+      "A": "5.4 min",
+      "B": "10.8 min",
+      "C": "15.0 min",
+      "D": "20.0 min"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14477?exam_type=jamb&type=obj&page=110",
+    "correct_answer": "A",
+    "explanation": "From faradays law, M = itzBut mass, M = volume x densityand volume = cross-sectional area x thicknessM = 118.8\u00a0x 10\\(^{-6}\\) x 9 x 10\\(^3\\)\u2234 118.8cm2 x 10\\(^{-6}\\) x 9 x 10\\(^3\\) = 10 x t x 3.3 x 10\\(^{-7}\\)\u2234 (118.8 x 9) x 10\\(^{-7}\\) = 10 x t x 3.3 x 10\\(^{-7}\\)\u2234 t = \\(\\frac{118.8 \\times 9}{ 3.3}\\)t = 324 secondsConvert to minutes by dividing by 60t = \\(\\frac{324}{60}\\)t = 5.4 mins.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1583",
+    "text": "A particle of weight 120N is placed on a plane inclined at 300 to the horizontal. If the plane has an efficiency of 60% to the floor what is the force required to push the weight uniformly up the plane?",
+    "options": {
+      "A": "50N",
+      "B": "100N",
+      "C": "175N",
+      "D": "210N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41373?exam_type=jamb&type=obj&page=317",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1584",
+    "text": "A string of length 4m is extended by 0.02m when a load of 0.4kg is suspended at its end. What will be the length of the string when the applied force is 15N?",
+    "options": {
+      "A": "4.05m",
+      "B": "4.08m",
+      "C": "5.05m",
+      "D": "6.08m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41376?exam_type=jamb&type=obj&page=317",
+    "correct_answer": "B",
+    "explanation": "1\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1585",
+    "text": "Which of the following gas laws is equivalent to the work done?",
+    "options": {
+      "A": "Boyle' law",
+      "B": "Charles law",
+      "C": "Pressure law",
+      "D": "van der Waal's law"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41379?exam_type=jamb&type=obj&page=317",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1586",
+    "text": "The difference observed in solids, liquids and gases can be accounted for by",
+    "options": {
+      "A": "The different molecules in each of them",
+      "B": "The spaces and forces acting between the molecules",
+      "C": "Thier melting points",
+      "D": "Their relative massess"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41383?exam_type=jamb&type=obj&page=318",
+    "correct_answer": "B",
+    "explanation": "Spaces and Forces: The differences observed in solids, liquids, and gases can primarily be attributed to the arrangement, spacing, and\u00a0intermolecular forces acting between the molecules.\nSolids: Tightly packed molecules with strong intermolecular forces, giving a definite shape and volume.Liquids: Close molecules that can move past each other, resulting in a definite volume but no definite shape.Gases: Widely spaced molecules with weak intermolecular forces, filling the entire container.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1587",
+    "text": "If two charged plates are maintained at a potential difference of 3 kv, the work done in taking a charge of 600\u00b5c across the field is",
+    "options": {
+      "A": "0.8j",
+      "B": "1.8j",
+      "C": "9.0j",
+      "D": "18.0j"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41386?exam_type=jamb&type=obj&page=318",
+    "correct_answer": "B",
+    "explanation": "-6\n3\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1588",
+    "text": "A conductor has a diameter of 1.00mm and length of 2.00m. If the resistance of the material is 0.1\u03a9, the resistivity is",
+    "options": {
+      "A": "2.55 * 105 \u03a9m",
+      "B": "2.55 * 103 \u03a9m",
+      "C": "3.93 * 10-6 \u03a9m",
+      "D": "3.93 * 10-8 \u03a9m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41387?exam_type=jamb&type=obj&page=318",
+    "correct_answer": "D",
+    "explanation": "\\( R = \\frac{\\rho L}{A}\\)\u00a0 \\(\\implies\u00a0\\rho\\)\u00a0= \\(\\frac{R.A}{L}\\) = \\(\\frac{0.1 \\times 3.14}{2} \\left ( \\frac{10^{-3}}{2} \\right)^2\\)\\(\\therefore\\)\u00a0\\(\\rho\\)\u00a0= \\(\\frac{0.1 \\times 3.14 \\times 10^{-6}}{2 \\times 4}\\)= 0.3925 x\u00a010\\(^{-7}\\) OR\u00a03.930 x 10 \\(^{-8}\\)\u03a9m\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1589",
+    "text": "A 40KW electric cable was used\u00a0to transmit electricity through a resistor of resistance 2.00\u03a9 at 800V. The power loss as internal energy is",
+    "options": {
+      "A": "4.0 x 102W",
+      "B": "5.0 x 102W",
+      "C": "4.0 x 103W",
+      "D": "5.0 x 103W"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41388?exam_type=jamb&type=obj&page=318",
+    "correct_answer": "D",
+    "explanation": "In general, Power = IV; \\( \\implies 40KW = IV \\\\\\text{Therefore } 40000 = 1 \\times 800\\\\\\implies I = \\frac{40000}{800} = 50A,\\text{tune the current through} \\)Resistor = 50Apower loss= I2R = 502 x 2= 2500 x 2 = 5.0 x 103W\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1590",
+    "text": "The instrument that measures both ac and dc is called",
+    "options": {
+      "A": "A current balance",
+      "B": "a moving coil ammenter",
+      "C": "a moving iron ammeter",
+      "D": "an inverter"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41389?exam_type=jamb&type=obj&page=318",
+    "correct_answer": "C",
+    "explanation": "A moving iron ammeter can measure both alternating current (AC) and direct current (DC) due to its design, which allows it to respond to the magnetic field created by both types of current.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1591",
+    "text": "Two long parallel wires X and Y carry currents 3A and 5A each. if the force experienced by unit length is 5 x 10-5N. the force per unit length experienced by wire Y is",
+    "options": {
+      "A": "3 x 10-5",
+      "B": "3 x 10-6",
+      "C": "5 x 105",
+      "D": "5 x 10-5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41392?exam_type=jamb&type=obj&page=319",
+    "correct_answer": "D",
+    "explanation": "since the wires are parallel to each other, the forces which they exert on each other are equal and opposite, since they must agree with newton's law of action an reaction. Hence the force exerted by the wire is equally5 x 10-5\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1592",
+    "text": "Lenz's law is a law of conservation of",
+    "options": {
+      "A": "electric charge",
+      "B": "electric current",
+      "C": "Energy",
+      "D": "Momentum"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41393?exam_type=jamb&type=obj&page=319",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1593",
+    "text": "A 120V, 60W lamp is to be operated on 220V ac supply mains. calculate the value of non inductive resistance that would be required to ensure that the lamp is run on correct value",
+    "options": {
+      "A": "100\u03a9",
+      "B": "200\u03a9",
+      "C": "300\u03a9",
+      "D": "500\u03a9"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41395?exam_type=jamb&type=obj&page=319",
+    "correct_answer": "B",
+    "explanation": "Power of the lamp = 60W;\n\\(I = {\\frac{P}{V}}\\)\n\\(I = {\\frac{60}{120}}\\) = \\(0.5A\\)\n\\(R = {\\frac{V}{I}}\\)\n\\(R_mains\\) = \\(\\frac{220}{0.5}\\) = \\(440\\Omega\\)\n\\(R_lamp\\) = \\(\\frac{120}{0.5}\\) = \\(240\\Omega\\)\n\\(\\therefore\\) The non-inductive resistance to keep the lamp = \\((440 - 240)\\Omega\\)\n= \\(200\\Omega\\)\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "1594",
+    "text": "A radioactive substance has a half life of 20 days. What fraction of the original radioactive nuclei will remain after 80 days?",
+    "options": {
+      "A": "\\( \\frac{1}{32} \\)",
+      "B": "\\( \\frac{1}{16} \\)",
+      "C": "\\( \\frac{1}{8} \\)",
+      "D": "\\( \\frac{1}{4} \\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41396?exam_type=jamb&type=obj&page=319",
+    "correct_answer": "B",
+    "explanation": "80 days = 4 half lives (i.e 4 x 20dqs = 80dq)But the fraction always left by any radioactive material after 4 half lives is\\( \\left ( \\frac{1}{2} \\right)^4 = \\frac{1}{16} \\)\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  },
+  {
+    "number": "2360",
+    "text": "A photon of wavelength 6.0 x 10\\(^{-7}\\) m behaves like a particle of a certain mass. The value of that mass is [h =\u00a06.63\u00a0x 10\\(^{-34}\\) Js, c = 3.0 x 10\\(^8\\) ms\\(^{-1}\\)]",
+    "options": {
+      "A": "3.5 x 10\\(^{-36}\\)kg",
+      "B": "2.2 x 10\\(^{-35}\\)kg",
+      "C": "1.1 x 10\\(^{-35}\\)kg",
+      "D": "2.2 x 10\\(^{-7}\\) kg"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/72219?exam_type=jamb&type=obj&page=472",
+    "correct_answer": "A",
+    "explanation": "\\(\\lambda\\) = \\(\\frac{h}{mv}\\), then, h = mv\\(\\lambda\\)\nm = \\(\\frac{h}{v \\lambda}\\) = \\(\\frac{6.63 \\times 10^{-34}}{6.0 \\times 10^{-7} \\times 3 \\times 10^8}\\) = 3.68 x 10\\(^{-36}\\) kg\nOPtion\u00a0A\u00a0is the closest.\nThere is an explanation video availablebelow.",
+    "year": "2007"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "number": "411",
+    "text": "I.   Diameter of a small ball bearing.\nII.  Thickness of a pieces of paper.\nIII. Diameter of a measuring cylinder.\nIV.  Length of a piece of wire.\n Which of the above can be measured using a micrometer screw gauge?",
+    "options": {
+      "A": "I, II and IV only .",
+      "B": "I and II only",
+      "C": "II and III only",
+      "D": "III and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14138?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "412",
+    "text": "What is the acceleration between two points on a velocity time graph which has coordinates\n(10s, 15 ms-1)\nand (20 s, 35 ms-1)?",
+    "options": {
+      "A": "1.7 ms-2",
+      "B": "3.50 ms-2",
+      "C": "1.00 ms-2",
+      "D": "2.00 ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14139?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "D",
+    "explanation": "Acceleration = \\(\\frac{\u0394V}{\u0394t}\\)\n= \\(\\frac{V\u00a0- U}{t_2\u00a0- t_1}\\)\n= \\(\\frac{35 - 15}{20 - 10}\\)\n= \\(\\frac{20}{10}\\)\n= 2ms\\(^-2\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "413",
+    "text": "A bullet fired vertically\u00a0upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0s. calculate its initial velocity.\n[g = 10ms\\(^-2\\)]",
+    "options": {
+      "A": "10 ms-1",
+      "B": "8 ms-1",
+      "C": "40 ms-1",
+      "D": "20 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14140?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "C",
+    "explanation": "At maximum height, the final velocity, v = 0thus from v = u -\u00a0gt0 = u - gt\u2234 U = at = 10 x 4 = 40 mls\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "414",
+    "text": "I. The motion of the tyres of a moving car.\nII. The motion of a loaded test tube oscillated\nvertically.\nIII. The beating of the heart.\nIV. A stone tied to a string and whirled round.\nV. The motion of the pistons in a gasoline engine.\nWhich of the motions above is simple harmonic?",
+    "options": {
+      "A": "III, IV and V only",
+      "B": "II, III and V only",
+      "C": "II, III and IV only",
+      "D": "I,II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14141?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "B",
+    "explanation": "Simple harmonic motion is the motion of a body whose acceleration is directed towards a fixed point and is directly proportional to its displacement from point.\nStatements ii, iii and v are clear examples\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "415",
+    "text": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended?\n[g = 10 m\\s\\(^2\\)]",
+    "options": {
+      "A": "11.50 kw",
+      "B": "12.60 kw",
+      "C": "11.25 kw",
+      "D": "12.10 kw"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14142?exam_type=jamb&type=obj&page=83",
+    "correct_answer": "C",
+    "explanation": "Power = \\(\\frac{work done}{time taken}\\)\nwhere 1 min = 60s\n= \\(\\frac{mgh}{t}\\)= \\(\\frac{750 \\times\u00a010 \\times\u00a090}{60}\\)\n= 11250w or\u00a011.25kw\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "416",
+    "text": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction.\n[g = 10 ms\\(^{-2}\\)]",
+    "options": {
+      "A": "0.8",
+      "B": "0.4",
+      "C": "1.0",
+      "D": "0.6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14143?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "D",
+    "explanation": "coefficient of friction\n= \\(\\frac{F}{R}\\)\n=\\(\\frac{F}{mg}\\)\n= \\(\\frac{500}{80 \\times\u00a010}\\)= 0.625\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "417",
+    "text": "If a heavy barrel is rolled up a plane inclined at 30\u00b0 to the horizontal. its velocity ratio will be?",
+    "options": {
+      "A": "3.0",
+      "B": "3.1",
+      "C": "3.2",
+      "D": "2.0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14146?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "D",
+    "explanation": "V.R =\u00a0\\(\\frac{1}{sin\u03b8}\\)\n= \\(\\frac{1}{sin 30\u00b0}\\)\n=\u00a0\\(\\frac{1}{0.5}\\)\n= 2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "418",
+    "text": "I. Density of the liquid.\nII. Acceleration due to gravity.\nIII. Type of container of the liquid.\nIV. The constituents of the liquid.\nwhich of the above conditions will NOT affect the pressure of fluid?",
+    "options": {
+      "A": "I and III only",
+      "B": "II and III only",
+      "C": "III and IV only",
+      "D": "I and II only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14150?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "C",
+    "explanation": "pressure in fluid is given by P = hpg.\u2234 fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall g. it is therefore independent of type of container and constituents of the liquid.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "419",
+    "text": "If a load of mass 10N stretched a cord by 1.2cm, what is the total work done?",
+    "options": {
+      "A": "6.0 x 10-2J",
+      "B": "7.6 x 10-2J",
+      "C": "1.8 x 10-2J",
+      "D": "6.6 x 10-2J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14151?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "A",
+    "explanation": "Work done on a stretched cord= Average force x extension=\u00a0\\(\\frac{1 \\times 10 \\times 0.012}{2}\\)= 6.0 x 10\\(^{-2}\\)J\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "420",
+    "text": "A plastic sphere floats in water with 50% of its volume submerged. if it floats in glycerine with 40% of its volume submerged,the density of the glycerine is?",
+    "options": {
+      "A": "1400 kgm-3",
+      "B": "1250 kgm-3",
+      "C": "500 kgm-3",
+      "D": "1000 kgm-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14156?exam_type=jamb&type=obj&page=84",
+    "correct_answer": "B",
+    "explanation": "Weight of glycerine displaced = weight of water dispalcedMgh glycerine = Mgh waterPvgh glycerine = Pvgh water0.4V P glycerine = (0.5v)/v.4v P water = 1.25(Polycerine)/p water =But density of substance = relative density x density of water = 1. 25 x 1000kgm3 = 1250kgm-3\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "421",
+    "text": "The thermometer whose reading is indicated by a change in color of its thermometric property is the?",
+    "options": {
+      "A": "bi-metalic strip thermometer",
+      "B": "thermocouple",
+      "C": "platinium resistance thermometer",
+      "D": "optical pyrometer"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14158?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "D",
+    "explanation": "A pyrometer is instrument for measuring high temperature.The optical pyrometer is one in which the luminous radiation from the hot body is compared with that from a known source.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "422",
+    "text": "At 4\u00b0c, the volume of a fixed mass of water is?",
+    "options": {
+      "A": "constant",
+      "B": "minimum",
+      "C": "maximum",
+      "D": "zero"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14170?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "B",
+    "explanation": "Anomalous expansion of water is at temperature ranges 0\u00b0c to 4\u00b0c u. water contract when heated from 0\u00b0c to 4\u00b0c. thus the volume of water is least at 4\u00b0c\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "423",
+    "text": "An electric heater rated 220V, 1000 W is immersed into a bucket full of water. Calculate the mass of water if the temperature changes from 30\u00b0c to 100\u00b0c and the current flows for 300seconds. [specific heat capacity of water = 4200 jkg-1 K-1]",
+    "options": {
+      "A": "4.28 kg",
+      "B": "42.86 kg",
+      "C": "1.02 kg",
+      "D": "7.14 kg"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14180?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "C",
+    "explanation": "The energy supplied by the\u00a0heater = heater gained by the waterpt = Mc\\(\\Delta\\)\u03b81000 x 300 = m x 4200(100 - 30)m = \\(\\frac{(1000 \\times\u00a0300)}{4200 \\times\u00a070}\\) = 1.02 kg\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "424",
+    "text": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
+    "options": {
+      "A": "room temperature",
+      "B": "boiling point",
+      "C": "freezing point",
+      "D": "standard temperature"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14181?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "B",
+    "explanation": "Liquid boils when its saturated vapor pressure\u00a0is equal to the (external) atmospheric pressure.\nI.e. Boiling point at 100\u00b0c\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "425",
+    "text": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is?\n[Special latent heat of Vaporization of water = 2.3 x 10\\(^6\\) Jkg-1]",
+    "options": {
+      "A": "1.15 x 104s",
+      "B": "1.15 x 103s",
+      "C": "4.6 x 104s",
+      "D": "4.6 x 103s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14185?exam_type=jamb&type=obj&page=85",
+    "correct_answer": "D",
+    "explanation": "Heat supplied = Heat gainedpt = mlT = \\(\\frac{ml}{p}\\)\n= \\(\\frac{2 \\times\u00a02.3 \\times\u00a010^6}{1000}\\)\n= 4.6 x 10\\(^3\\) sec\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "426",
+    "text": "It is observed that water will wet a clean glass because the?",
+    "options": {
+      "A": "cohesion of water to glass is stronger than the cohesion of water molecules",
+      "B": "adhesion of water molecules is weaker than the cohesion of water to glass",
+      "C": "cohesion of water to glass is weaker  than the cohesion of water molecules",
+      "D": "adhesion of water molecules is stronger than the cohesion of water molecules"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14194?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "When the adhesion of liquid molecules to the glass is more than the cohesion of the liquid, the liquid will wet glass.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "427",
+    "text": "A man standing 2 m from a charcoal fire is warmed mainly by?",
+    "options": {
+      "A": "convection",
+      "B": "radiation",
+      "C": "refraction",
+      "D": "conduction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14196?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "B",
+    "explanation": "Radiation is the method of heat transfer with or without a material medium. It can be through space or through a material medium.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "428",
+    "text": "Metal cables are used as telephone wires because?",
+    "options": {
+      "A": "they are cheap",
+      "B": "they are sourced locally",
+      "C": "the speed of sound in them is very low",
+      "D": "the speed of sound in them is very high"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14200?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "The speed of sound is highest\u00a0in solid.\nMetals (solids) like copper,\u00a0steel rod, etc\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "429",
+    "text": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their?",
+    "options": {
+      "A": "quality",
+      "B": "pitch",
+      "C": "intensity",
+      "D": "loudness"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14201?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "A",
+    "explanation": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "430",
+    "text": "I. Moon.\nII. Sun.\nIII.street light.\nIV. stars.\nWhich of these\u00a0are\u00a0natural sources of light?",
+    "options": {
+      "A": "II, III, and IV only",
+      "B": "I, II and III only",
+      "C": "III and IV only",
+      "D": "II and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14204?exam_type=jamb&type=obj&page=86",
+    "correct_answer": "D",
+    "explanation": "The sun and stars are self luminous object.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "431",
+    "text": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
+    "options": {
+      "A": "10 cm in front of the mirror.",
+      "B": "5 cm in front of the mirror",
+      "C": "10 cm behind the mirror",
+      "D": "5 cm behind the mirror"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14210?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "u = 5 cm , f = 10 cm, v = ?(1)/v + (1)/u = (1)/f(1)/v + (1)/5 = (1)/10= (1)/v = (1)/10 -\u00a0(1)/5\n= (1 - 2)/10 = (1)/10\u2234 v = - 10 cm\u2234 The image is 10 cm behind the mirror\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "432",
+    "text": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
+    "options": {
+      "A": "4. 0 cm",
+      "B": "3. 0 cm",
+      "C": "12.0 cm",
+      "D": "9.0 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14213?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "433",
+    "text": "If the refractive index of crown glass is 1.51, its critical angle is?",
+    "options": {
+      "A": "48.6\u00b0",
+      "B": "22.5\u00b0",
+      "C": "41.5\u00b0",
+      "D": "45.0\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14215?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "Sin c = (1)/n= (1)/1.51 = 0.6622\u2234 c = sin-\\(^1\\)\u00a00.6622 = 41.47\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "434",
+    "text": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
+    "options": {
+      "A": "x is same as in y",
+      "B": "x and y is same as in vacuum",
+      "C": "x is higher than in y",
+      "D": "y is higher than in x"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14237?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "435",
+    "text": "The ability of the human eye to focus object on the retina is referred to as the power of?",
+    "options": {
+      "A": "interference",
+      "B": "diffraction",
+      "C": "accomodation",
+      "D": "superposition"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14244?exam_type=jamb&type=obj&page=87",
+    "correct_answer": "C",
+    "explanation": "Accommodation\u00a0is the adjustment of the optics of the eye to keep an object in focus on the retina as its distance from the eye varies.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "436",
+    "text": "Which of the following is a secondary colour",
+    "options": {
+      "A": "blue",
+      "B": "orange",
+      "C": "red",
+      "D": "green"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14246?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "437",
+    "text": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
+    "options": {
+      "A": "close up",
+      "B": "become positively charged",
+      "C": "become negatively charged",
+      "D": "open further"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14247?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "A",
+    "explanation": "The leaves collapse as the positive charges on the rod neutralize the negative charges on the electroscope.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "438",
+    "text": "An electric lamp marked 240v, 60 W is left to operate for an hour. How much energy is generated by the filament?",
+    "options": {
+      "A": "3.86 x 105J",
+      "B": "3.56 x 105J",
+      "C": "1.80 x 104J",
+      "D": "2.16 x 105J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14258?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "D",
+    "explanation": "5\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "439",
+    "text": "A band of 500 rectangular loops of wire of area 20 cm by 20 cm, encloses a region of magnetic field which charges from 1.0T to 0.4T within 5 seconds, calculate the induced e.m.f.",
+    "options": {
+      "A": "5.60 v",
+      "B": "24.00 v",
+      "C": "0.24 v",
+      "D": "2.40 v"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14262?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "D",
+    "explanation": "2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "440",
+    "text": "Cancerous cells can be destroyed by?",
+    "options": {
+      "A": "ultraviolet rays",
+      "B": "alpha particules",
+      "C": "x - rays",
+      "D": "infrared rays"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14264?exam_type=jamb&type=obj&page=88",
+    "correct_answer": "C",
+    "explanation": "Canorous cells can be destroyed with a high penetrating radiation which is x - rays\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "441",
+    "text": "If the decay constant of a radioactive substance is 0.231s-\\(^1\\), the half-life is?",
+    "options": {
+      "A": "3.00 s",
+      "B": "0.12 s",
+      "C": "0.33 s",
+      "D": "1.50 s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14265?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "Half-life, T (1)/2 = (0.693)/\u2206 = (0.693)/ 0.231 = 3.0sec\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "442",
+    "text": "A piece of radioactive material contains 10\\(^{20}\\) atoms.\nIf the half life of the material is 20 seconds, the number of disintegration in the first second is?",
+    "options": {
+      "A": "3.47 x 1018",
+      "B": "6.93 x 10 20",
+      "C": "3.47 x 1020",
+      "D": "6.93 x 1018"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14266?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "A",
+    "explanation": "The number of disintegration,\u2206N in time interval At, is given by- \u2206N = N\u2206tWhere N is the number of atoms present at the time tBut ^ = (0.693)/T\n= 0.693\u00a0\u00f7 20\n=\u00a00.0347\u2234 \u2206N =\u00a00.0347 \\(\\times\\) 10\\(^20\\)\n= 3.47\u00a0\\(\\times\\) 10\\(^18\\)\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "443",
+    "text": "Thermionic emission is the process whereby?",
+    "options": {
+      "A": "\u03b2 - rays are produced",
+      "B": "holes are produced",
+      "C": "x - rays are produced",
+      "D": "electrons leave a hot element"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14267?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "D",
+    "explanation": "Thermionic emission is ejection of electron from a metal surface as a result of heating.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "444",
+    "text": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
+    "options": {
+      "A": "germanium",
+      "B": "silicon",
+      "C": "grapefruit",
+      "D": "copper"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14268?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "D",
+    "explanation": "Metals are good conductors due to the presence of free electrons.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "445",
+    "text": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
+    "options": {
+      "A": "a p-type semiconductor",
+      "B": "an n-type semiconductor",
+      "C": "an insulator",
+      "D": "an intrinsic semi-conductor"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14269?exam_type=jamb&type=obj&page=89",
+    "correct_answer": "B",
+    "explanation": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "564",
+    "text": "The value of x, y and z respectively in the expression M\\(^x\\)\u00a0L\\(^y\\)T \\(^z\\)\u00a0for the universal gravitational constant G are?",
+    "options": {
+      "A": "2, -3, -2",
+      "B": "-1, 3, -2",
+      "C": "-1, 2, -3",
+      "D": "-2, -1, 3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14495?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "B",
+    "explanation": "F \u221d \\(\\frac{M_1 M_2}{r^2}\\)\nF = \\(\\frac{GM_1M_2}{r^2}\\)\nwhere F is the force of attractionM\\(_1\\) and M\\(_2\\) are the masses of the two bodies, r is the distance between them, and G is the universal gravitational constant\nTherefore, G = \\(\\frac{Fr^2}{M_1M_2}\\)\nDimension for F = \\(\\frac{\\text{ML}}{T.T}\\) = MLT\\(^{-2}\\)The dimension for G = \\(\\frac{MLT^{-2}L^2}{M.M}\\) = \\(\\frac{L^3T^{-2}}{M}\\)\n= M\\(^{-1}\\)L\\(^3\\)T\\(^{-2}\\)In comparison with M\\(^x\\)L\\(^y\\)T\\(^z\\), the values for x, y and z = -1, 3, -2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "565",
+    "text": "An air craft attempt to fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is?",
+    "options": {
+      "A": "117 kmh-1, N31oE",
+      "B": "127 kmh-1, N31oE",
+      "C": "117 kmh-1, N31oW",
+      "D": "127 kmh-1, N31oW"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14496?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "C",
+    "explanation": "\\(R^2 = 100^2 + 60^2\\)10000+3600 = 13600R = \\(\\sqrt{13600}\\) = 117km60km\u00a0& 100km = tan\u03b8 = \\(\\frac{60}{100}\\)\\(tan^{-1}\\)\u00a00.6= 31\u00ba\u00a0west of the North117km N31\u00baw\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "566",
+    "text": "A car accelerates uniformly from rest at 4 ms\\(^{-2}\\). How far will it travel in the fifth complete second?",
+    "options": {
+      "A": "100 m",
+      "B": "50m",
+      "C": "32 m",
+      "D": "18 m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14497?exam_type=jamb&type=obj&page=114",
+    "correct_answer": "D",
+    "explanation": "From S = ut + 1/2 at2S = 1/2 ut2, since U = 0Let S5 = distance in 5 seconds= 1/2 x 4 x 52 = 2 x 25 = 50mS4 = distance covered in 4 seconds= 1/2 x 4 x 42 = 2 x 16 = 32mDistance covered in the fifth secondS5 - S4 = 50m - 32m = 18m\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "567",
+    "text": "A body of mass 12kg traveling at 4.2ms-1 collides with a second body of mass 18kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
+    "options": {
+      "A": "1.5 ms-1",
+      "B": "1.4 ms-1",
+      "C": "2.1 ms-1",
+      "D": "1.7 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14498?exam_type=jamb&type=obj&page=114",
+    "correct_answer": "D",
+    "explanation": "The sum of momentum before collisionM\\(_1\\) U\\(_1\\) + M\\(_2\\)U\\(_2\\)12 x 4.2 + 18 x 012 x 4.2= 50.4The sum of momentum after collision(m\\(_1\\) + m\\(_2\\))v= (12 + 18)v= 30vV = 50.4/30= 1.7ms-1\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "568",
+    "text": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the?",
+    "options": {
+      "A": "upthrust is equal to the weight of the ball",
+      "B": "ball accelerate uniformly",
+      "C": "upthrust is equal to the velocity of the ball",
+      "D": "velocity is uniform"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14499?exam_type=jamb&type=obj&page=114",
+    "correct_answer": "D",
+    "explanation": "At vt = terminal velocity= zero acceleration= uniform velocity\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "569",
+    "text": "The pressure of two moles of an ideal gas at a temperature of 27 \u00b0C and volume 10\\(^-2\\)m\\(^3\\) is?\n[R = 8.313 J mol\\(^{-1}\\)K\\(^{-1}\\)]",
+    "options": {
+      "A": "4.99 x 105 Nm-2",
+      "B": "9.80 x 103 Nm-2",
+      "C": "4.98 x 103 Nm-2",
+      "D": "9.80 x 105 Nm-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14500?exam_type=jamb&type=obj&page=114",
+    "correct_answer": "A",
+    "explanation": "PV = nRT\n\u2234 P =nRT=2 x 8.313 x 300_V___10-2\n= 4.987 x 105 Nm-2\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "570",
+    "text": "The wave phenomenon demonstrated in the diagram above is?",
+    "options": {
+      "A": "reflection",
+      "B": "deflection",
+      "C": "diffraction",
+      "D": "refraction"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/15005233331_phy200926.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14501?exam_type=jamb&type=obj&page=114",
+    "correct_answer": "C",
+    "explanation": "Diffraction is spreading of wave after passing through a slit\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "571",
+    "text": "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is?",
+    "options": {
+      "A": "20 Nm-1",
+      "B": "40 Nm-1",
+      "C": "30 Nm-1",
+      "D": "10 Nm-1"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/9548787269_phy200915.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14502?exam_type=jamb&type=obj&page=115",
+    "correct_answer": "A",
+    "explanation": "F = Ke (Hooke's law)K = F/e = 80/4= 20 Nm-1\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "572",
+    "text": "If a light wave has a wavelength of 500nm in air what is the frequency of the wave?\n[c = 3 x 10\\(^8\\) ms-1]",
+    "options": {
+      "A": "3.0 x 1014 Hz",
+      "B": "6.0  x 1014 Hz",
+      "C": "6.0  x 1012 Hz",
+      "D": "2.5  x 1014 Hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14503?exam_type=jamb&type=obj&page=115",
+    "correct_answer": "B",
+    "explanation": "f = \\(\\frac{\\text{c}}{\u03bb}\\)\nf = \\(\\frac{ 3 \\times 10^8}{500 \\times 10^{-9}}\\)\n= 6.0 x 10\\(^{14}\\) Hz\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "573",
+    "text": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible",
+    "options": {
+      "A": "12 V",
+      "B": "8 V",
+      "C": "2 V",
+      "D": "36 V"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/17733488513_phy200940.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14504?exam_type=jamb&type=obj&page=115",
+    "correct_answer": "B",
+    "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6= 3/6\u2234 R = 6/3 = 2E = I(R + r) = 4(2 + 0) = 8v\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "574",
+    "text": "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is?",
+    "options": {
+      "A": "116.3 V",
+      "B": "50.0 V",
+      "C": "230.0 V",
+      "D": "106.3 V"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/20422277148_pa.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14505?exam_type=jamb&type=obj&page=115",
+    "correct_answer": "D",
+    "explanation": "V = \u221a \\({(v_l\u00a0 -\u00a0\u00a0v_c)}^2 + V^2R\\)V =\u221a \\({(40 -\u00a0110)}^2 + 80^2\\)V = \u221a \\({-70}^2 + 80^2\\)=\u221a\u00a04900 + 6400=\u221a\u00a011300= 106.3v\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "1595",
+    "text": "A progressive wave is represented by \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) . two layers of the wave separated by 153cm have a phase difference of?",
+    "options": {
+      "A": "2700",
+      "B": "450",
+      "C": "900",
+      "D": "1800",
+      "E": "No Correct Option"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/41400?exam_type=jamb&type=obj&page=319",
+    "correct_answer": "C",
+    "explanation": "Comparing \\( y = 10 \\text{Sin} (1000\\pi t - \\frac{\\pi x}{34}) \\) with y = A sin (\u03c9t -\u00a0\u03d5)\nwhere\u00a0\u03d5 = \\(\\frac{2\\pi x}{\u03bb}\\)\ncomparing:\u00a0 \\(\\frac{2\\pi x}{\u03bb}\\) = \\( \\frac{\\pi x}{34}\\)\n\u03bb = 34 \\(\\times\\) 2 = 68\n:\u00a0\u03d5 =\u00a0 \\(\\frac{2\\pi x}{\u03bb}\\) =\u00a0 \\(\\frac{2\\pi \\times 153}{68}\\)\n\u03d5 = 4.5\\(\\pi\\) rad = 810\u00b0 or 90\u00b0\nsince sin\u00a0810\u00b0 or 90\u00b0 = 1\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "1596",
+    "text": "which of the diagrams above\u00a0shows the position at which a small ball-bearing is in neutral equilibrium?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/bvMkxH76ooE8rRUrlP6SsL0D0D7R6tTCyQ3f0IGv.jpeg",
+    "answer_url": "https://myschool.ng/classroom/physics/41401?exam_type=jamb&type=obj&page=320",
+    "correct_answer": "D",
+    "explanation": "Neutral Equilibrium: If the body neither returns to its original position nor increases its displacement further, it will simply adopt its new position.\nExamples of neutral equilibrium\nBall moving on the ground.Motion of sphere.A roller.A pencil lying horizontally.An egg lying horizontally on a flat surface.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  },
+  {
+    "number": "2128",
+    "text": "The process of energy production in the sun is?",
+    "options": {
+      "A": "nuclear fission",
+      "B": "nuclear fusion",
+      "C": "electron collision",
+      "D": "radioactive decay"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/61067?exam_type=jamb&type=obj&page=426",
+    "correct_answer": "B",
+    "explanation": "The process of energy production in the sun is generally by nuclear fusion of hydrogen nuclei, the reaction of which takes place at a tremendous high temperature.\nThere is an explanation video availablebelow.",
+    "year": "2009"
+  }
+]

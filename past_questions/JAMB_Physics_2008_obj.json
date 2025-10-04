@@ -1,0 +1,737 @@
+[
+  {
+    "number": "375",
+    "text": "I. Force (N)\nII.Torque (Nm)\nIII. Current (A)\nIV. Power (W)\nWhich of the above are the correct S. I: units of the quantities indicated?",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "I, II and III only",
+      "D": "I, II, III and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14015?exam_type=jamb&type=obj&page=75",
+    "correct_answer": "D",
+    "explanation": "\u2234i,ii, iii and iv have correct units.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "376",
+    "text": "Which of the following  is NOT a vector quantity?",
+    "options": {
+      "A": "altitude",
+      "B": "acceleration",
+      "C": "displacement",
+      "D": "weight"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14016?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "377",
+    "text": "If a wheel 1.2 m in diameter rotates at one revolution per second, calculate the velocity of the wheel.",
+    "options": {
+      "A": "3.6 ms-1",
+      "B": "3.77 ms-1",
+      "C": "4.0 ms-1",
+      "D": "7.5 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14017?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "B",
+    "explanation": "V = wr = 2\u03c0f r = 2 x (22)/7 x 1 x 0.6= 3.77ms-1\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "378",
+    "text": "I. All the three forces must be concurrent.\nII. The upward force is equal to the downward force.\nIII. The algebraic sum of the moment about any point must be zero.\n\nwhich of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14018?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "The condition (ii) is a condition for an equilibrium of parallel forces only while conditions (i) and (iii) are correct for both parallel and non- parallel coplanar forces.\nNo specifications are made, so all conditions apply.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "379",
+    "text": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
+    "options": {
+      "A": "0.01 Hz",
+      "B": "0.04 Hz",
+      "C": "2.27 Hz",
+      "D": "3.60 Hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14020?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "D",
+    "explanation": "Frequency = (No. of revolutions)/ Time = (90)/25 = 3.6 Hz\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "380",
+    "text": "If a body mass 5kg is thrown vertically upwards with velocity u,at what height will the potential energy equal to the kinetic energy?",
+    "options": {
+      "A": "h =(u)2/g",
+      "B": "h = (u)2/4g",
+      "C": "h = (2u)2/g",
+      "D": "h = (u)2/2g"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14022?exam_type=jamb&type=obj&page=76",
+    "correct_answer": "B",
+    "explanation": "From V2 = U2 + 2asO = U 2 - 2gH, since at maximum height H, the final velocity, v = O.\nwhen K.E = P.E\u2234 H = (U)2/2gHalfway is the height\u00a0/ 2\nPE = KE at (1)/2 H = (U)2 /2g x (1/2) = U2 / 4g\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "381",
+    "text": "Counting of currency notes with moist fingers is based on the principles of?",
+    "options": {
+      "A": "diffusion",
+      "B": "cohesion",
+      "C": "adhesion",
+      "D": "viscosity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14024?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "C",
+    "explanation": "since currency and finger contain unlike molecules, the force involved is adhesion\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "382",
+    "text": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms\\(^{-1}\\). find the coefficient of friction between the road and the tyres.",
+    "options": {
+      "A": "25.00",
+      "B": "2.50",
+      "C": "0.50",
+      "D": "0.25"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14027?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "D",
+    "explanation": "F = (mv)2/r = (100 x 5)2 = 250NR = mg = 100 x 10 - 1000Ncoefficient of friction,\u00b5 = (F)/R = (250)/1000 = 0.25\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "383",
+    "text": "A spring of force constant 500 Nm\\(^{-1}\\) is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
+    "options": {
+      "A": "0.625 J",
+      "B": "6.250 J",
+      "C": "62.500 J",
+      "D": "625.000 J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14028?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "A",
+    "explanation": "Energy stored in a spring = (1)/2 K e2 = (1)/2 x 500(0.05)2 = 0.625J\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "384",
+    "text": "In the hare's apparatus, water rises to a height of 26.5 cm in one limb. if a liquid rises to a height of 20.4 cm in the other limb, what is the relative density of the liquid?",
+    "options": {
+      "A": "0.8",
+      "B": "1.1",
+      "C": "1.2",
+      "D": "1.3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14031?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "D",
+    "explanation": "l\nl\nw\nw\nw\nl\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "385",
+    "text": "When cold water is poured on a can containing hot water, the can collapses because the?",
+    "options": {
+      "A": "steam condeses and occupies the partial vacuum in the can",
+      "B": "external air pressure counter balances the pressure within the can",
+      "C": "steam expands to occupy the vacuum remaining in the can",
+      "D": "external pressure becomes greater than the pressure within the can."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14032?exam_type=jamb&type=obj&page=77",
+    "correct_answer": "D",
+    "explanation": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "386",
+    "text": "An empty density bottle weighs 2 N. if it\u00a0weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
+    "options": {
+      "A": "(1)/3",
+      "B": "(2)/3",
+      "C": "(1)/5",
+      "D": "(2)/5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14037?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "B",
+    "explanation": "relative density = (weight of substance )/weight of equal volume of water = (4 - 2)/5 - 2 = (2)/3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "387",
+    "text": "The thermometric properties of a thermocouple is the change in?",
+    "options": {
+      "A": "equivalent resistance",
+      "B": "electromotive force",
+      "C": "colour",
+      "D": "pressure"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14039?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "B",
+    "explanation": "Temperature difference between hot and cold junctions of thermocouple is proportional to the emf. generated\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "388",
+    "text": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
+    "options": {
+      "A": "the clock gians time",
+      "B": "the accuracy of the clock is not affected",
+      "C": "the clock losses time",
+      "D": "the clock stops working"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14040?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "C",
+    "explanation": "The elastic potential energy of the balance wheel reduces as the wheel expands, therefore the clock will loose time.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "389",
+    "text": "A sealed flask contains 600cm3 of air at 27\u00b0C and is heated to 35\u00b0C at constant pressure. The new volume is?",
+    "options": {
+      "A": "508 cm3",
+      "B": "516 cm3",
+      "C": "608 cm3",
+      "D": "616 cm3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14041?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "D",
+    "explanation": "V1 = 600cm3, T1 = 27 = 273 = 300kT2 = 35 + 273 = 308K, V2 = ?(V)1/T1= (V)2/T2 = V2= (V)1/T1 x X T2= (600 X 308)/300 = 616 cm3\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "390",
+    "text": "A block of aluminum is heated electrically by a 25 W heater. if the temperature rises by 10\u00b0C in 5 minutes, the heat capacity of the aluminum is?",
+    "options": {
+      "A": "850 JK-1",
+      "B": "750 JK-1",
+      "C": "650 JK-1",
+      "D": "500 JK-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14042?exam_type=jamb&type=obj&page=78",
+    "correct_answer": "B",
+    "explanation": "Heat supplied = Heat gainedP x t = C \u2206 \u00d8(25 x 5 x 60)/10 = 750 JK-1\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "391",
+    "text": "If the partial pressure of water vapour at 27\u00b0C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
+    "options": {
+      "A": "25%",
+      "B": "33%",
+      "C": "75%",
+      "D": "82%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14043?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "RelativeHumidity = (S.V.P. of water at dew point)/S.V.P of water at air temperature =(18)/24 x 100% = 75%\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "392",
+    "text": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
+    "options": {
+      "A": "the lens surface",
+      "B": "the insulating cork",
+      "C": "silvered walls",
+      "D": "the cork lid"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14044?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "A",
+    "explanation": "The silver coating on the inner bottle of a thermos flask isused to prevent heat transfer by radiation\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "393",
+    "text": "Given the progressive wave equation y = 5 sin (2000 \u03c0t - 0.4x), calculate wave length",
+    "options": {
+      "A": "12.4 m",
+      "B": "15.7 m",
+      "C": "17.5 m",
+      "D": "18.6 m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14045?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "B",
+    "explanation": "Comparing y = 5sin (200 \u03c0t - 0.4X) with the wave equation y = A sin (wt -KX) K = (2\u03c0)/\u03bb = 0.4\u2234 \u03bb = (2\u03c0)/0.4 = 15.7M\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "394",
+    "text": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
+    "options": {
+      "A": "wavelength",
+      "B": "harmonics",
+      "C": "frequency",
+      "D": "velocity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14046?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "C",
+    "explanation": "Timber/ quality depends on the overtones or harmonics, and timber is a characteristic property of source of sound,\nA harmonic is a wave with a frequency that is a positive integer multiple of the fundamental frequency,\nThese rest on the fundamental property of FREQUENCY.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "395",
+    "text": "I. Total internal reflection of light.\nII. Conservation of light energy.\nIII. Relative motion of the earth, sun and moon.\nIV. Rectilinear propagation of light.\nwhich of the above is a phenomenon of total solar eclipse?",
+    "options": {
+      "A": "I and IV only",
+      "B": "II and IV only",
+      "C": "I and III only",
+      "D": "III and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14047?exam_type=jamb&type=obj&page=79",
+    "correct_answer": "D",
+    "explanation": "Due to rectilinear propagation of light we have ecslipse which occur as a result relative motion of the earth, sun and moon\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "396",
+    "text": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
+    "options": {
+      "A": "3.0 cm",
+      "B": "8.0 cm",
+      "C": "12.0 cm",
+      "D": "16.0 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14048?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "C",
+    "explanation": "Magnification = \\(\\frac{\\text{image height}}{\\text{object height}}= \\frac{\\text{length camera}}{\\text{object distance from pin-hole}}\\)\u2234\\(\\frac{2}{4} = \\frac{6}{X}\\)X = \\(\\frac{4 \\times 6}{2}\\) = 12 cm\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "397",
+    "text": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
+    "options": {
+      "A": "20 cm",
+      "B": "15 cm",
+      "C": "10 cm",
+      "D": "5 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14049?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "D",
+    "explanation": "(1)/V + (1)/U = (1)/f(1)/V + (1)/20 = (1)/10(1)/V = (1)/10 - (1)/20 = (2 -1)/20 = (1)/20\u2234 V = 20 cmmag = (image height)/object height = (v)/u(X)/5 = (20)/50X = 5 cm\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "398",
+    "text": "Convex mirror are used as driving mirrors because images formed are?",
+    "options": {
+      "A": "erect, virtual and diminished",
+      "B": "erect, real and diminished",
+      "C": "erect, virtual and magnified",
+      "D": "inverted virtual and diminished"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14052?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "A",
+    "explanation": "Image formed by convex mirror is always erect, virtual and diminished\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "399",
+    "text": "An object placed at the bottom of a well full of clear water appears closer to the surface due to?",
+    "options": {
+      "A": "diffraction",
+      "B": "reflection",
+      "C": "refraction",
+      "D": "polarization"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14056?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "C",
+    "explanation": "Real depth and apparent dept is due to refraction\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "400",
+    "text": "In the microscope, the eyepiece lens merely acts as?",
+    "options": {
+      "A": "an inverter",
+      "B": "a refiner",
+      "C": "a diminisher",
+      "D": "a magnifier"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14057?exam_type=jamb&type=obj&page=80",
+    "correct_answer": "D",
+    "explanation": "The basic function of microscope is magnification\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "401",
+    "text": "Short sightedness can be corrected by what type of\u00a0lens?",
+    "options": {
+      "A": "Concave lens",
+      "B": "Convex lens",
+      "C": "Converging lens",
+      "D": "Mirrors"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14058?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "A",
+    "explanation": "Shortsightedness\u00a0is\u00a0corrected\u00a0using a concave (curved inwards)\u00a0lens\u00a0which is placed in front of a\u00a0myopic\u00a0eye\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "402",
+    "text": "A short chain is sometimes attached to the back of a petrol tanker to?",
+    "options": {
+      "A": "generate more friction",
+      "B": "ensure the balancing of the tanker",
+      "C": "caution the driver when overspeeding",
+      "D": "conduct excess charges to the earth"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14064?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "D",
+    "explanation": "The friction between the tanker and air creates charges which the chain conducts to the ground.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "403",
+    "text": "An electric generator has e.m.f. of 240 V and an internal resistance of 1\u2126 if the current supplied by the generator is 20A when the terminal voltage is 220 V, find the ratio of the power supplied to the power dissipated?",
+    "options": {
+      "A": "11:1",
+      "B": "1:11",
+      "C": "12:11",
+      "D": "11:12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14068?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "A",
+    "explanation": "Power supplied = I\\(^2\\) R\u00a0= 20\\(^2\\) X 1\u00a0= 400 WPower dissipated = IV = 20 X 220 = 4400 W(Power supplied)/Power dissipated = 4400 W / 400 W= 11 / 1 or 11 : 1\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "404",
+    "text": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
+    "options": {
+      "A": "0.96 kWh",
+      "B": "1.92 kWh",
+      "C": "9.60 kWh",
+      "D": "19.20 kWh"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14072?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "D",
+    "explanation": "Energy consumed = power x time= (60 W x 10 + 40 W x 5) x 24 h= (600 W + 200 W ) x 24 h= 800 W x 24h = 19200 w h= 19.2 kWh\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "405",
+    "text": "The d.c generator has essentially the same components as the a.c generator except the presence of?",
+    "options": {
+      "A": "slip-ring",
+      "B": "carbon brushes",
+      "C": "split ring",
+      "D": "armature"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14074?exam_type=jamb&type=obj&page=81",
+    "correct_answer": "C",
+    "explanation": "A d.c. generator uses a split ring (commutator) to convert alternating current (a.c.) to direct current (d.c.), while an a.c. generator uses slip rings.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "406",
+    "text": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer.",
+    "options": {
+      "A": "0.31 A",
+      "B": "3.20 A",
+      "C": "3.40 A",
+      "D": "5.00 A"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14078?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "A",
+    "explanation": "To find the primary current of the step-down transformer, we follow these steps:\n1. Calculate the Power Input:The efficiency (\\( \\eta \\)) of the transformer is given by:\\(\\eta = \\frac{\\text{Power Output}}{\\text{Power Input}} \\times 100\\)Rearranging gives:\\(\\text{Power Input} = \\frac{\\text{Power Output}}{\\eta}\\)\nGiven:- Power Output = 50 W- Efficiency = 80\\% = 0.80\nThus,\\(\\text{Power Input} = \\frac{50 \\, \\text{W}}{0.80} = 62.5 \\, \\text{W}\\)\n2. Calculate the Primary Current:The power input can also be expressed in terms of voltage and current:\\(\\text{Power Input} = V_p \\times I_p\\)Where:- \\( V_p \\) = primary voltage (given as 200 V)- \\( I_p \\) = primary current (what we want to find)\nRearranging gives:\\(\u00a0I_p = \\frac{\\text{Power Input}}{V_p}\\)\nNow substituting the values:\\(I_p = \\frac{62.5 \\, \\text{W}}{200 \\, \\text{V}} = 0.3125 \\, \\text{A}\\)\nThus, the primary current of the transformer is: 0.3125A\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "407",
+    "text": "Caesium has a work function of 3 x 10\\(^{-19}\\)J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10\\(^{14}\\)\n\nHZ is?\u00a0 [h = 6.6 x 10\\(^{-34}\\)Js]",
+    "options": {
+      "A": "1.42 x 10-19J",
+      "B": "3.00 x 10-19J",
+      "C": "4.42 x 1010-19J",
+      "D": "7.42 x 10-19J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14081?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "A",
+    "explanation": "Max kinetic energy = Energy of incident electron - work function. EK = hf - w= 6.6 x 10-34 x 6.7 x 1014 - 3 x 10-19= 4.422 x 10-19 - 3 x 10-19= 1.422 x 10-19J\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "408",
+    "text": "zener diode is used for?",
+    "options": {
+      "A": "current amplification",
+      "B": "power amplification",
+      "C": "voltage regulation",
+      "D": "energy conversion"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14083?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "C",
+    "explanation": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "409",
+    "text": "When a pure semiconductor is heated, its resistance?",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains the same",
+      "D": "increases and then decreases"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14085?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "B",
+    "explanation": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "410",
+    "text": "I. for current amplification.\n\nII. for voltage stabilization.\n\nIII. for power amplification.\n\nIV. as a switch.\n\nwhich of the above are the uses of transistor?",
+    "options": {
+      "A": "I,II,III and IV",
+      "B": "I,III, and IV only",
+      "C": "I, II and III only",
+      "D": "I,II and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14089?exam_type=jamb&type=obj&page=82",
+    "correct_answer": "A",
+    "explanation": "Transistor is used for amplification of current, power', voltage stabilization and as a switch in logic gates.\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "551",
+    "text": "The dimension of electromotive force are?",
+    "options": {
+      "A": "ML2T-3I-1",
+      "B": "ML2T-3I-2",
+      "C": "M2LT-2I-1",
+      "D": "M2L2T-1I-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14482?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "A",
+    "explanation": "Electrical work W = QE,Where Q is the quantity of change and E is the electromotive force.\u2234 E = W = FxDQ_ItWhere D is the displacement,I = current and t = timeBut dimension of force,= unit of mass x unit of Acceleration= unit of mass xunit of velocityunit of time= unit of mass x unit of displacement__unit of time x unit of timeML/T2 = MLT-2\u2234 Dimension of emf E= MLT-2L = ML2T-3I-1__IT\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "552",
+    "text": "The resultant of two forces 12N and 5N is 13N. What is the angle between the two forces?",
+    "options": {
+      "A": "0o",
+      "B": "45o",
+      "C": "90o",
+      "D": "180o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14483?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "C",
+    "explanation": "R\\(^2\\) = P\\(^2\\) + Q\\(^2\\) = 12\\(^2\\) + 5\\(^2\\)= 144 + 25 = 169\u2234R = \\(\\sqrt{169}\\) = 13N\u2234 the angle between the forces is 90\u00ba\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "553",
+    "text": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?",
+    "options": {
+      "A": "4.0 ms-1",
+      "B": "6.6 ms-1",
+      "C": "12.1 ms-1",
+      "D": "21.0 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14484?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "C",
+    "explanation": "The force which is centripetalF = \\(\\frac{MV^2}{R}\\)= \\(\\frac{5 \\times\u00a07^2}{3.5}\\)= 70\nSince force is 70 N when speed is 7m/s\nSpeed = ? when force 70N is tripled \u2192\u00a0\u00a070 * 3 = 210N\n210 = \\(\\frac{5\u00d7v^2}{3.5}\\)210 \u00d7 3.5 = 5 *\u00a0v\\(^2\\)735 \u00f7 5 = v\\(^2\\)v\\(^2\\) = 147v =12.12m/s\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "554",
+    "text": "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6N and 8N. Calculate the acceleration of the motion",
+    "options": {
+      "A": "2.5 ms-1",
+      "B": "3.0 ms-1",
+      "C": "4.0 ms-1",
+      "D": "4.5 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14485?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "A",
+    "explanation": "Smooth plane has negligible friction\u2234 only the resultant of the perpendicular forces is acting on the body, which is given asF = \\(\\sqrt{ 6^2 + 8^2}\\)= \\(\\sqrt{64 + 36}\\)= \\(\\sqrt{100}\\)= 10NBut F = Ma\u2234 a = F/M = 10/4 = 2.5 ms-1\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "555",
+    "text": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by?",
+    "options": {
+      "A": "moving Q nearer to O",
+      "B": "moving P nearer to O",
+      "C": "addding a weight Q to Q",
+      "D": "moving P further away from O"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/16367684100_phy20088.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14486?exam_type=jamb&type=obj&page=111",
+    "correct_answer": "B",
+    "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "556",
+    "text": "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N",
+    "options": {
+      "A": "275N",
+      "B": "325N",
+      "C": "375N",
+      "D": "573N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/17731695150_phy200814.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14487?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "C",
+    "explanation": "VR = No. of pulleys = 4Efficiency = \\(\\frac{M.A}{V.R}\\)\ncross multiply\\(\\frac{80}{100} * V.R\\) = M.A\n\\(\\frac{80}{100} * 4\\) = M.AM.A = 3.25where M.A = \\(\\frac{load}{effort}\\)\u2234 Effort = \\(\\frac{1200}{3.2} * V.R\\)\n= 375N\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "557",
+    "text": "The diagram above is the heating curve for a solid, QR is the?",
+    "options": {
+      "A": "melting region",
+      "B": "boiling region",
+      "C": "sublimation region",
+      "D": "evaporating process"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/2727953822_phy200823.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14488?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "A",
+    "explanation": "At melting point there is no change temperature\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "558",
+    "text": "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction?",
+    "options": {
+      "A": "parallel to OX",
+      "B": "parallel to OY",
+      "C": "60o to OX",
+      "D": "60v to OY"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/27279551640_phy200827.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14489?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "B",
+    "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave\nParticle motion of a string (transverse wave) is parallel to OY (or perpendicular to OX)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "559",
+    "text": "If a concave\u00a0lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
+    "options": {
+      "A": "10 cm",
+      "B": "15 cm",
+      "C": "20 cm",
+      "D": "25 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14490?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "B",
+    "explanation": "Magnifications = V/U = 4\u2234 V = 4U1/V + 1/U = 1/f1/4u + 1/U = 1/125/4U = 1/124U = 12 x 5 = 60\u2234 U = 15 cm\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "560",
+    "text": "Find the effective resistance in the diagram above",
+    "options": {
+      "A": "6 \u03a9",
+      "B": "12 \u03a9",
+      "C": "18 \u03a9",
+      "D": "24 \u03a9"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/9547921418_phy200839.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14491?exam_type=jamb&type=obj&page=112",
+    "correct_answer": "D",
+    "explanation": "The resistors are in series\u2234 Reff = R1 + R2 + .....= 4 + 4 + 4 + 4 + 4 + 4 = 24 \u03a9\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "561",
+    "text": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
+    "options": {
+      "A": "0.35mH",
+      "B": "3.50mH",
+      "C": "2.90mH",
+      "D": "35.0mH"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/4091967714_phy200844.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/14492?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "D",
+    "explanation": "Left = L1 + L2 + L3= 5mH + 10mH + 20mH = 35mH\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "562",
+    "text": "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron?\n[m = 9.1 x 10\\(^{-31}\\)kg, e = 1.6 x 10\\(^{-19}\\)C, h = 6.6 x 10\\(^{-34}\\)js]",
+    "options": {
+      "A": "1.22 x 10-11m",
+      "B": "3.87 x 10-10m",
+      "C": "2.27 x 1011m",
+      "D": "2.27 x 1014m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14493?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "A",
+    "explanation": "\\(\\lambda\\) = \\(\\frac{h}{\\sqrt{2evm}}\\)\n= \\(\\frac{6.6 \\times 10^{34}}{\\sqrt{ 2 \\times 1.6 \\times 10^{-19} \\times 10000 \\times 9.1 \\times 10^{-31}}}\\)\n= 1.223 x 10\\(^{-11}\\)m\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  },
+  {
+    "number": "563",
+    "text": "\\(^{14}_7\\)N + \\(^4_2\\)He\u00a0 \u2192 \\(^{17}_8\\)O + X\nIn the equation above, the particles X is?",
+    "options": {
+      "A": "a proton",
+      "B": "a neutron",
+      "C": "an \u03b1 - particle",
+      "D": "a \u03b2 - particle"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/14494?exam_type=jamb&type=obj&page=113",
+    "correct_answer": "A",
+    "explanation": "for the conversion of mass 14 + 4 = 17 + x\u2234 X = 18 - 17 = 1for conservation pf charge:7 + 2 = 8 + yy = 9 - 8 = 1Thus, the element is 11X which is equal to hydrogen nucleus ( proton)\nThere is an explanation video availablebelow.",
+    "year": "2008"
+  }
+]
