@@ -1,0 +1,768 @@
+[
+  {
+    "number": "638",
+    "text": "The diagram above illustrates three forces T\\(_1\\), T\\(_2\\) and 100N in equilibrium. Determine the magnitude of T\\(_1\\).",
+    "options": {
+      "A": "100 tan 30o",
+      "B": "\\(\\frac{100}{\\cos 30^o}\\)",
+      "C": "200 sin 301",
+      "D": "\\(\\frac{200}{tan 30^o}\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/oiS8aXnWTrVnMgURKYg2x060FyEmBSRFbRyW6XDd.jpeg",
+    "answer_url": "https://myschool.ng/classroom/physics/33711?exam_type=waec&type=obj&page=128",
+    "correct_answer": "A",
+    "explanation": "Tan30\u00ba = \\(\\frac{T_1}{100}\\)\nT\\(_1\\) = 100 Tan30\u00ba",
+    "year": "2000"
+  },
+  {
+    "number": "639",
+    "text": "An iron rod is moved from the earth to the moon. Which of the following properties of the rod would remain unchanged? i. mass ii. weight iii. relative density",
+    "options": {
+      "A": "i only",
+      "B": "ii only",
+      "C": "iii only",
+      "D": "i and iii only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33715?exam_type=waec&type=obj&page=128",
+    "correct_answer": "D",
+    "explanation": "When an iron rod is moved from the Earth to the Moon, the following properties are affected:\n>\u00a0 Mass: The mass of the rod remains unchanged regardless of its location. Mass is a measure of the amount of matter in an object and does not vary with location.\n>\u00a0 Weight: The weight of the rod will change because weight is the force due to gravity acting on the mass of the rod. Since the gravitational force on the Moon is weaker than that on Earth (about 1/6th of Earth's gravity), the weight of the rod will decrease.\n>\u00a0 \u00a0Relative Density: Relative density (or specific gravity) is the ratio of the density of a substance to the density of a reference substance (usually water). Since the composition of the iron rod does not change, its relative density remains the same regardless of the location.\nSo the properties that remain unchanged are:\n< Mass(i)\n<\u00a0Relative Density(iii)",
+    "year": "2000"
+  },
+  {
+    "number": "640",
+    "text": "A uniform cylindrical hydrometer of mass 20g and cross sectional area 0.54cm2 floats upright in a liquid. If 25cm of its length is submerged, calculate the relative density of the liquid. (Density of water = 1 gcm-3)",
+    "options": {
+      "A": "1.54",
+      "B": "1.48",
+      "C": "1.25",
+      "D": "0.80"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33725?exam_type=waec&type=obj&page=128",
+    "correct_answer": "B",
+    "explanation": "Density of liquid = \\(\\frac{M}{V}\\)\u00a0 = \\(\\frac{20}{13.5}\\) = 1.48g/cm\\(^3\\)\nVolume \u00a0= area x length = 0.54 x 25 = 13.5cm\\(^3\\) = volume of cylinder = volume of liquid.\nweight of liquid displaced\u00a0 = weight of object = mass of liquid = 20g\nvolume of liquid = 13.5cm\\(^3\\)\nRelative density of liquid = \\(\\frac{\\text{ density of liquid}}{\\text{density of water}}\\)\nR. d = \\(\\frac{1.481}{1}\\) =\u00a0 1.48g/cm\\(^3\\)",
+    "year": "2000"
+  },
+  {
+    "number": "641",
+    "text": "The apparent weight of a body wholly immersed in water is 32N and its weight in air is 96N. Calculate the volume of the body. (Density of water = 1000kgm-3, g = 10ms\\(^{-2}\\))",
+    "options": {
+      "A": "8.9 x 10-3m3",
+      "B": "6.4 x 10-3m3",
+      "C": "3.2 x 10-3m3",
+      "D": "3.0 x 10-3m3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33760?exam_type=waec&type=obj&page=129",
+    "correct_answer": "B",
+    "explanation": "Apparent weight = 32NReal weight = 96NDensity of water = 1000\\(kgm^{-3}\\)acceleration (g) = 10\\(ms^{-2}\\)Upthrust = Real weight - Apparent weight\u21d2 96N - 32N = 64N\n\u03c1 be the density of \u00a0liquid and 'V ' be the volume of the body and we know that upthrust\u00a0force F =\u00a0\u00a0\u03c1Vg\nV = \\(\\frac{F}{\u03c1g}\\) = \\(\\frac{64}{1000 \\times10}\\) =\u00a0\u00a06.4 x 10\\(^{-3}m^3\\)",
+    "year": "2000"
+  },
+  {
+    "number": "642",
+    "text": "A wooden block of mass 1.6kg rests on a rough horizontal surface if the limiting friction force between the block and the surface is 8N. Calculate the coefficient of friction. (g = 10ms-2)",
+    "options": {
+      "A": "0.6",
+      "B": "0.5",
+      "C": "0.3",
+      "D": "0.2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33761?exam_type=waec&type=obj&page=129",
+    "correct_answer": "B",
+    "explanation": "Limiting frictional force is proportional to normal reaction.\nbut R = normal reaction = mg\nmass = 1.6kg\nF\\(_{\\text{lim}}\\)\u00a0= 8N\ng = 10m/s\\(^2\\)\nR = 1.6 x 10 = 16N\ncoefficient of Friction = \\(\\frac{\\text{F}}{\\text{R}}\\) = \\(\\frac{8}{16}\\) = 0.5.",
+    "year": "2000"
+  },
+  {
+    "number": "643",
+    "text": "A ball bearing is gently released from rest and allowed to fall through a viscous fluid. Which of the following statements about the motion is correct?",
+    "options": {
+      "A": "its acceleration decreases before terminal velocity is attained",
+      "B": "when terminal velocity is attained the acceleration of the fluid becomes zero",
+      "C": "its velocity increases before terminal velocity is attained",
+      "D": "there is no resultant force on the ball before it attains terminal velocity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33762?exam_type=waec&type=obj&page=129",
+    "correct_answer": "A",
+    "explanation": "Its acceleration decreases before terminal velocity is attained:When the ball bearing is released, it accelerates due to gravity. As it falls, the viscous drag force exerted by the fluid increases. This drag force opposes the weight of the ball bearing, resulting in a decrease in acceleration until terminal velocity is reached.",
+    "year": "2000"
+  },
+  {
+    "number": "644",
+    "text": "The driver of a car moving with uniform speed of 40ms-1 observes a truck approaching from the opposite direction with a speed of 20ms-1. Calculate the speed of the car relative to that of the truck",
+    "options": {
+      "A": ".5ms-1",
+      "B": "2.0ms-1",
+      "C": "20.0ms-1",
+      "D": "60.0ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33763?exam_type=waec&type=obj&page=129",
+    "correct_answer": "D",
+    "explanation": "Let V\\(_t\\)\u00a0= velocity of truck, = 20m/s\u00a0V\\(_c\\) = velocity of car = 40m/s\n\\(_cV_t\\) = V\\(_t\\) - V\\(_c\\) = 40 -(-20) = 40 + 20 = 60m/s",
+    "year": "2000"
+  },
+  {
+    "number": "645",
+    "text": "A bus travelling at 15ms\\(^{-1}\\) accelerates uniformly at 4ms\\(^{-2}\\), what is the distance covered in 10s?",
+    "options": {
+      "A": "150m",
+      "B": "170m",
+      "C": "350m",
+      "D": "600m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33764?exam_type=waec&type=obj&page=129",
+    "correct_answer": "C",
+    "explanation": "given: u = 15m/s, a = 4m/s\\(^2\\), t = 10secs, S = ?\nUsing:\nS = ut + \\(\\frac{1}{2}\\)at\\(^2\\)\nS = 15 x 10 + 0.5 x 4 x 100\nS = 350m.",
+    "year": "2000"
+  },
+  {
+    "number": "646",
+    "text": "A uniform metre rule of mass 90g is provided at the 40cm mark. If the rule is in equilibrium with an unknown mass m placed at the 10cm mark and a 72g mass at the 70cm mark, determine m",
+    "options": {
+      "A": "72g",
+      "B": "102g",
+      "C": "298g",
+      "D": "504g"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33765?exam_type=waec&type=obj&page=130",
+    "correct_answer": "B",
+    "explanation": "Taking moment about the 40cm mark\nTotal clockwise moments = total anti-clockwise moment\nm x 30 = 90 x 10 + 72 x 30\n30m = 900 + 2160 = 3060\nm = \\(\\frac{3060}{30}\\) = 102g.",
+    "year": "2000"
+  },
+  {
+    "number": "647",
+    "text": "The resultant of two forces acting on an object is maximum when the angle between them is?",
+    "options": {
+      "A": "180o",
+      "B": "90o",
+      "C": "45o",
+      "D": "0o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33766?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "Resultant of two vector will be maximum\u00a0when they are parallel\nThat angle between them as\u00a0zero.",
+    "year": "2000"
+  },
+  {
+    "number": "648",
+    "text": "The bob of a simple pendulum takes 0.25s to swing from its equilibrium position to one extreme end. Calculate its period",
+    "options": {
+      "A": "0.25s",
+      "B": "0.50s",
+      "C": "0.75s",
+      "D": "1.00s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33767?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "period = 0.25 x 4 = 1.0sec, time taken to make one complete circle.",
+    "year": "2000"
+  },
+  {
+    "number": "649",
+    "text": "The period of oscillation of a particle executing simple harmonic motion is 4\\(\\pi\\) seconds. If the amplitude of oscillation is 3.0m. Calculate the maximum speed of the particle.",
+    "options": {
+      "A": "1.5ms-1",
+      "B": "3.0ms-1",
+      "C": "4.5ms-1",
+      "D": "6.0ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33768?exam_type=waec&type=obj&page=130",
+    "correct_answer": "A",
+    "explanation": "V\\(_{max}\\) =\u00a0\u03c9r\n\u03c9 = 2\\(\\pi\\)f but f = \\(\\frac{1}{T}\\)\n\u03c9 =\u00a0 \\(\\frac{2\\pi}{T}\\) =\u00a0 \\(\\frac{2\\pi}{4\\pi}\\) ( since T = 4\\(\\pi\\) given)\n\u03c9 = 0.5rads/secs\nV\\(_{max}\\) =\u00a0\u03c9r = 0.5 x 3 = 1.5m/s ( r = 3cm given)",
+    "year": "2000"
+  },
+  {
+    "number": "650",
+    "text": "An inelastic collision takes place between ball of known masses, just before the collision one of the ball is moving with a known velocity while the other is stationary. Which of the following physical quantities can be determined from the information given?",
+    "options": {
+      "A": "speed of each of the ball after collision",
+      "B": "kinetic energy of each ball after collision",
+      "C": "total momentum of the ball after collision",
+      "D": "total momentum of the two ball after collision",
+      "E": "mutual forces excerted by the balls"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33769?exam_type=waec&type=obj&page=130",
+    "correct_answer": "D",
+    "explanation": "The total momentum of the two balls after collision:\nCan be determined. The total momentum before the collision can be calculated using the mass and velocity of the moving ball, and since momentum is conserved, the total momentum after the collision will be equal to the total momentum before the collision",
+    "year": "2000"
+  },
+  {
+    "number": "651",
+    "text": "Using the force displacement diagram shown above. Calculate the work done",
+    "options": {
+      "A": "2000J",
+      "B": "1000J",
+      "C": "20J",
+      "D": "5J"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/12865748859_maths-17.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33770?exam_type=waec&type=obj&page=131",
+    "correct_answer": "B",
+    "explanation": "Work done = area under the triangle\nWork done = \\(\\frac{1}{2}\\) x base x height = 0.5 x 20 x 100 = 1000J\nTherefore, the work done, as calculated from the force-displacement diagram, is 1000J",
+    "year": "2000"
+  },
+  {
+    "number": "652",
+    "text": "A machine of efficiency 80% is used to raise a body of mass 75kg through a vertical height of 3m in 30s. Calculate the power input. (g = 10ms-2)",
+    "options": {
+      "A": "9.4W",
+      "B": "60.0W",
+      "C": "75.0W",
+      "D": "93.8W"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33771?exam_type=waec&type=obj&page=131",
+    "correct_answer": "D",
+    "explanation": "Efficiency = \\(\\frac{ poweroutput}{powerinput}\\)\nbut power output = \\(\\frac{ f \\times s}{ t}\\) =\u00a0\\(\\frac{75\u00a0\\times 10 \\times 3}{ 30}\\) = 75W\nEfficiency = 80%, power output = 75w\nthen 0.8 =\u00a0 \\(\\frac{ 75}{powerinput}\\)\npower input =\u00a0 \\(\\frac{ 75}{0.8}\\) = 93.75W.",
+    "year": "2000"
+  },
+  {
+    "number": "653",
+    "text": "Two bodies P and Q, are in thermal equilibrium, which of the following statements about the bodies is correct?",
+    "options": {
+      "A": "the temperature of Q is higher than that of P",
+      "B": "P and Q have the same heat capacty",
+      "C": "P and Q have the same mass",
+      "D": "P and Q are at the same temperature"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33772?exam_type=waec&type=obj&page=131",
+    "correct_answer": "D",
+    "explanation": "When two bodies are in thermal equilibrium, it means that they have the same temperature. This is because, in thermal equilibrium, there is no net transfer of heat between the bodies, indicating that they have reached the same temperature.",
+    "year": "2000"
+  },
+  {
+    "number": "654",
+    "text": "The cubic expansivity of mercury is 1.8 x 10-4K-1 and the linear expansivity of glass 8.0 x 10-6K-1, calculate the apparent expansivity of mercury in a glass container",
+    "options": {
+      "A": "1.00 x 10-4K-1",
+      "B": "1.56 x 10-4K-1",
+      "C": "1.72 x 10-4K-1",
+      "D": "2.04 x 10-4K-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33774?exam_type=waec&type=obj&page=131",
+    "correct_answer": "B",
+    "explanation": "\u03b3\\(_r\\)\u00a0=\u00a0\u03b3 +\u00a0\u03b3\\(_{app}\\)\n1.8 x 10\\(^{-4}\\)\u00a0= (3 x\u00a08.0 x 10\\(^{-6}\\)) +\u00a0\u03b3\\(_{app}\\)\n\u03b3\\(_{app}\\) =\u00a01.8 x 10\\(^{-4}\\)\u00a0 - 2.4 x 10\\(^{-5}\\)\n= 1.56 x 10\\(^{-4}\\)K\\(^{-1}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "655",
+    "text": "The diagram shows the variation of volume V of a glass with temperature at the point X is",
+    "options": {
+      "A": "-32oC",
+      "B": "-100oC",
+      "C": "-273oC",
+      "D": "-373oC"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/15724813973_maths-21.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33776?exam_type=waec&type=obj&page=131",
+    "correct_answer": "C",
+    "explanation": "The point X is the Absolute zero temperature(\u00a0the lowest possible temperature).\u00a0Absolute zero is at -273.15 Celsius or -459.67 Fahrenheit\u00a0or 0 k.",
+    "year": "2000"
+  },
+  {
+    "number": "656",
+    "text": "The volume and pressure of a given mass of gas at 27oC are 76cm3 and 80cm of mercury respectively. Calculate the volume at s.t.p",
+    "options": {
+      "A": "36.2cm3",
+      "B": "72.8cm3",
+      "C": "100.0cm3",
+      "D": "808.9cm3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33780?exam_type=waec&type=obj&page=132",
+    "correct_answer": "B",
+    "explanation": "Using the general gas equation, \\(\\frac{ P_1 V_1}{ T_1} = \\frac{ P_2 V_2}{ T_2}\\)\n\\(V_1 = 76cm^3\\), \\(T_1 = 27^0C\\) = 27 + 273K = 300K,\u00a0\\(P_1\\) = 80cm, at STP \\(T_2 = 0^0C\\) = 273K,\u00a0\\(P_2\\) = 76cm, \\(V_2\\) = ?\n\\(V_2\u00a0=\u00a0 \\frac{ P_1\\times V_1\\times T_2}{P_2 \\times\u00a0T_1}\\)\n\\(V_2\u00a0=\u00a0 \\frac{ 80 \\times 76 \\times 273}{76\u00a0\\times 300}\\)\n\\(V_2\u00a0= 72.8cm^3\\)",
+    "year": "2000"
+  },
+  {
+    "number": "657",
+    "text": "A piece of metal of mass 50g is cooled from 80oC to 20oC. Calculate the amount of heat lost. (specific heat capacity of the material of metal = 450Jkg-1K-1)",
+    "options": {
+      "A": "4.50 x 103J",
+      "B": "2.25 x 103J",
+      "C": "1.80 x 103J",
+      "D": "1.35 x 103J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33795?exam_type=waec&type=obj&page=132",
+    "correct_answer": "D",
+    "explanation": "mass of metal = 50g = 0.05kg, c = 45Jkg\\(^{-1}\\)k\\(^{-1}\\),\u00a0\u0394T = 80 - 20 = 60\u00baC\nQuantity of heat lost(Q) = mass of metal x specific capacity of mass x change in temperature\nQ = m x c x\u00a0\u0394T\nQ = 0.05 x 45 x 60 = 1350J = 1.35 x 10\\(^3\\)J",
+    "year": "2000"
+  },
+  {
+    "number": "658",
+    "text": "The mass of water vapour in a given volume of air is 0.05g at 20oC, while the mass of water vapour required to saturate it at the same temperature is 0.15g. Calculate the relative humidity of the air",
+    "options": {
+      "A": "3.33%",
+      "B": "5.55%",
+      "C": "33.33%",
+      "D": "55.55%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33801?exam_type=waec&type=obj&page=132",
+    "correct_answer": "C",
+    "explanation": "Relative humidity = \\(\\frac{\\text{mass of water vapour in a given volume of air(m)}}{\\text{mass of water vapour needed to saturate same volume of air at same temp(M)}}\\) x 100%\nR.H = \\(\\frac{\\text{m}}{\\text{M}}\\)\u00a0 = \\(\\frac{0.05}{0.15}\\) x 100%\nTherefore, relative humidity of the air = 33.33%",
+    "year": "2000"
+  },
+  {
+    "number": "659",
+    "text": "The temperature at which the saturated vapour pressure of a liquid is equal to the external atmospheric pressure is known as its",
+    "options": {
+      "A": "dew point",
+      "B": "boiling point",
+      "C": "lower fixed point",
+      "D": "tripple point"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33802?exam_type=waec&type=obj&page=132",
+    "correct_answer": "B",
+    "explanation": "The temperature at which the saturated vapour pressure of a liquid is equal to the external atmospheric pressure is known as its BOILING POINT.",
+    "year": "2000"
+  },
+  {
+    "number": "660",
+    "text": "A periodic pulse travels a distance of 20.0m in 1.00s. If its frequency is 2.0 x 103Hz. Calculate the wavelength.",
+    "options": {
+      "A": "1.0 x 10-3m",
+      "B": "1.0 x 10-2m",
+      "C": "2.0 x 10-2m",
+      "D": "1.0 x 102m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33803?exam_type=waec&type=obj&page=132",
+    "correct_answer": "B",
+    "explanation": "Given: distance(d) = 20.0m. time(t) = 1secs, f = 2 x 10\\(^3\\)Hz, wavelength(\u03bb) = ?\nBut v = \\(\\frac{s}{t}\\) =20.0m/s = f\u03bb\n\u03bb = \\(\\frac{\\text{v}}{\\text{\u03bb}}\\) = \\(\\frac{20}{2\\times10^3}\\) = 0.01m = 1.0 x 10\\(^{-2}\\)m",
+    "year": "2000"
+  },
+  {
+    "number": "661",
+    "text": "A wave has an amplitude equal to 4.0m, angular speed \\(\\frac{1}{3} \\pi\\) rads-1 and phase angle \\(\\frac{2}{3} \\pi\\) rad. The displacement y of the wave particle is given as",
+    "options": {
+      "A": "y = 4 sin \\(\\frac{\\pi}{3}\\)(t + 2)",
+      "B": "y = 4 sin \\(\\frac{\\pi}{3}\\)(t + \\(\\frac{2}{\\pi}\\)",
+      "C": "y = 4 sin \\(\\frac{\\pi}{3} (2t + 1)\\)",
+      "D": "y = 4 sin \\(\\frac{\\pi}{3}\\) (t + 1)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33806?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "y = A sin(\u03c9t +\u00a0\u03a6 )\nA = 4cm,\u00a0\u03a6 = \\(\\frac{2}{3} \\pi \\) rad,\u00a0\u03c9 = \\(\\frac{1}{3}\\pi\\ rads^{-1}\\)\nsubstituting the given values\ny = 4 sin (\u00a0\\(\\frac{1}{3}\\pi\\)t +\u00a0\\(\\frac{2}{3} \\pi \\))\ny = 4sin\u00a0\u00a0\\(\\frac{\\pi}{3}\\)( t + 2)",
+    "year": "2000"
+  },
+  {
+    "number": "662",
+    "text": "In the diagram above, an incident ray AY makes an angle of 30o with the normal XY. If the mirror is rotated anticlockwise about Y through an angle of 20o, while AY is fixed, what angle will the reflected ray now make with the incident ray?",
+    "options": {
+      "A": "70o",
+      "B": "80o",
+      "C": "100o",
+      "D": "120o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/12865825440_maths-28.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33810?exam_type=waec&type=obj&page=133",
+    "correct_answer": "C",
+    "explanation": "The reflected ray will rotate through angle 2 x 20\u00ba = 40\u00ba\nThe reflected ray will now make angle 30\u00ba + 30\u00ba + 40\u00ba = 100\u00ba with the incident ray(30\u00ba + 30\u00ba since i\u00a0= r)",
+    "year": "2000"
+  },
+  {
+    "number": "663",
+    "text": "A concave mirror can be used to produce a parallel beam of light if a lighted bulb is placed",
+    "options": {
+      "A": "between its focus and the pole",
+      "B": "at its focus",
+      "C": "at its centre of curveture",
+      "D": "between its focus and centre of curvature"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33820?exam_type=waec&type=obj&page=133",
+    "correct_answer": "B",
+    "explanation": "When a light source is placed at the focus of a concave mirror, the rays of light that reflect off the mirror will emerge as a parallel beam of light.\nThis happens because when a point source of light is placed at the focal point of a concave mirror, the reflected rays leave the mirror parallel to each other.",
+    "year": "2000"
+  },
+  {
+    "number": "664",
+    "text": "A simple microscope forms an image 10cm from an eye close to the lens. If the object is 6cm from the eye, calculate the focal length of the lens",
+    "options": {
+      "A": "3.75cm",
+      "B": "4.00cm",
+      "C": "15.00cm",
+      "D": "16.00cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33822?exam_type=waec&type=obj&page=133",
+    "correct_answer": "A",
+    "explanation": "Given:\u00a0u = -6 cm (the object is 6 cm from the eye, and the direction is negative), v = 10 cm (the image is 10 cm from the eye)\nUsing the lens formula:\u00a0 \\(\\frac{1}{\\text{f}}\\) =\u00a0 \\(\\frac{1}{\\text{v}}\\) -\u00a0 \\(\\frac{1}{\\text{u}}\\)\n\\(\\frac{1}{\\text{f}}\\) = \\(\\frac{1}{10}\\) +\u00a0 \\(\\frac{1}{6}\\)\n\\(\\frac{1}{\\text{f}}\\) =\u00a0 \\(\\frac{8}{\\text{30}}\\)\nSo that f = 3.75cm upon cross multiplying\nTherefore, the focal length of the lens is 3.75cm.",
+    "year": "2000"
+  },
+  {
+    "number": "665",
+    "text": "When white light passes through a triangular glass prism, there is dispersion because of",
+    "options": {
+      "A": "diffraction of light",
+      "B": "polarisation of light",
+      "C": "the difference in speed of the components of light",
+      "D": "the interference of light waves in glass"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33823?exam_type=waec&type=obj&page=133",
+    "correct_answer": "C",
+    "explanation": "When white light passes through a prism, dispersion occurs because different colors (wavelengths) of light travel at different speeds in the glass. This causes the colors to spread out and form a spectrum, with red bending the least and violet bending the most.",
+    "year": "2000"
+  },
+  {
+    "number": "666",
+    "text": "In which of the following media does sound travel faster?",
+    "options": {
+      "A": "water",
+      "B": "brass",
+      "C": "air",
+      "D": "wood"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33825?exam_type=waec&type=obj&page=134",
+    "correct_answer": "B",
+    "explanation": "The speed of sound depends on the density of the medium in which it travels\u00a0and increases when the density increases. For example, in solids sound travels faster than in liquid and even faster than in gas, and the density is highest in solids, lower in liquids, and lowest in gas. Hence, sound travels fastest in solids.",
+    "year": "2000"
+  },
+  {
+    "number": "667",
+    "text": "A turning fork of frequency 600Hz is sounded over a closed resonance tube. If the first and second resonant positions are 0.130m and 0.413m respectively, calculate the speed of sound in air",
+    "options": {
+      "A": "508.4ms-1",
+      "B": "480.0ms-1",
+      "C": "339.6ms-1",
+      "D": "169.8ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33828?exam_type=waec&type=obj&page=134",
+    "correct_answer": "C",
+    "explanation": "\\(v = f\\lambda\\)\n\\(v = 2f \\times (l_{2} - l_{1})\\)\n\\(v = 2 \\times 600 \\times(0.413 - 0.130)\\)\n\\(v = 1200 \\times 0.283\\)\n\\(v = 339.6ms^{-1}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "668",
+    "text": "loudness increases as a vibrating tuning fork is brought nearer the end of a pipe containing air column due to",
+    "options": {
+      "A": "resonance",
+      "B": "echo",
+      "C": "reverberation",
+      "D": "diffraction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33830?exam_type=waec&type=obj&page=134",
+    "correct_answer": "A",
+    "explanation": "As the vibrating tuning fork is brought closer to the end of the pipe, it causes the air column in the pipe to resonate. This resonance amplifies the sound waves, leading to an increase in loudness. The air column vibrates at specific frequencies, enhancing the sound produced by the tuning fork.",
+    "year": "2000"
+  },
+  {
+    "number": "669",
+    "text": "the factor which enables the ear to distinguish between a note played on different instruments is the",
+    "options": {
+      "A": "pitch",
+      "B": "speed",
+      "C": "harmonics",
+      "D": "loudness"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33832?exam_type=waec&type=obj&page=134",
+    "correct_answer": "C",
+    "explanation": "Harmonics are additional frequencies that accompany the fundamental frequency of a sound. Each instrument produces a unique harmonic spectrum, giving it a distinct timbre. This allows the ear to distinguish between notes played on different instruments, even at the same pitch.\nPitchrefers to the frequency of the sound.\nSpeedis not a relevant factor in distinguishing instruments .\nLoudnessrelates to the intensity of sound, not its quality",
+    "year": "2000"
+  },
+  {
+    "number": "670",
+    "text": "An object is situated within the Earth's gravitational field. Which of the following factor does not affect the acceleration of free fall g?",
+    "options": {
+      "A": "the distance of the object from the centre of the earth",
+      "B": "the latitude of the earth on which the object is situated",
+      "C": "rotation of the earth",
+      "D": "the mass of the object"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33834?exam_type=waec&type=obj&page=134",
+    "correct_answer": "D",
+    "explanation": "The acceleration due to gravity (g) is affected by the distance from the center of the Earth, the latitude, and the rotation of the Earth. However, the mass of the object does not affect g; all objects fall at the same rate in a vacuum, regardless of their mass.",
+    "year": "2000"
+  },
+  {
+    "number": "671",
+    "text": "The capacitance of a parallel-plate capacitor is increased by making the area of the plates",
+    "options": {
+      "A": "small and their seperation large",
+      "B": "large and their seperation small",
+      "C": "and their seperation small",
+      "D": "and their seperation equal"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33835?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "Making the area large and the separation small will increase the capacitance.",
+    "year": "2000"
+  },
+  {
+    "number": "672",
+    "text": "In the diagram above, the current passing through the 6\\(\\Omega\\) resistor is 1.5A. Calculate the current in the 3\\(\\Omega\\) resistor",
+    "options": {
+      "A": "1.20A",
+      "B": "0.90A",
+      "C": "0.75A",
+      "D": "0.60A"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/1429539591_maths-38.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33836?exam_type=waec&type=obj&page=135",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{1}{\\text{R}}\\) = \\(\\frac{1}{2}\\) +\u00a0 \\(\\frac{1}{3}\\) =\u00a0 \\(\\frac{5}{6}\\)\nR =\u00a0 \\(\\frac{6}{5}\\) = 1.2\\(\\Omega\\);\u00a0So p.d through the 3\\(\\Omega\\) and 2\\(\\Omega\\) resistors in parallel = 1.5 x 1.2 =1.8V\nSo the current through the 3\\(\\Omega\\) resistor(I) = \\(\\frac{\\text{V}}{\\text{R}}\\) =\u00a0 \\(\\frac{1.8}{3}\\) = 0.6A\u00a0 \u00a0 (recall V = IR)",
+    "year": "2000"
+  },
+  {
+    "number": "673",
+    "text": "An immersion heater is rated 120W. How long does it take the heater to raise the temperature of 1.2kg of water by 15oC. (Assuming heat lost to the surrounding is negligible. Specific heat capacity of water = 4200 Jkg-1K-1C)",
+    "options": {
+      "A": "65.0 minutes",
+      "B": "60.0 minutes",
+      "C": "52.5 minutes",
+      "D": "10.5 minutes"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33838?exam_type=waec&type=obj&page=135",
+    "correct_answer": "D",
+    "explanation": "Given:\nP = 120W, t = ?, m of water = 1.2kg, c of water = 4200Jkg\\(^{-1}\\)K\\(^{-1}\\),\u0394T = 15\u00baC\nQ = pt = m c\u0394T\n120 x t = 1.2 x 4200 x 15 = 75600J\nt = \\(\\frac{75600}{120}\\) = 630secs\u00a0\u2192 10.50minutes.",
+    "year": "2000"
+  },
+  {
+    "number": "674",
+    "text": "The region around a magnet in which the magnetic influence is experienced is called",
+    "options": {
+      "A": "magnetic flux",
+      "B": "magnetic field",
+      "C": "magnetic meridian",
+      "D": "magnetic declination"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33839?exam_type=waec&type=obj&page=135",
+    "correct_answer": "B",
+    "explanation": "\"magnetic field\" is the term that describes the region where magnetic effects are felt.",
+    "year": "2000"
+  },
+  {
+    "number": "675",
+    "text": "A device used to prevent wearing away of the make and-brake contacts of an induction coil is called a\\an",
+    "options": {
+      "A": "fuse",
+      "B": "electroscope",
+      "C": "resistor",
+      "D": "capacitor"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33840?exam_type=waec&type=obj&page=135",
+    "correct_answer": "D",
+    "explanation": "A capacitor can be used in circuits with induction coils to smooth out voltage spikes and reduce arcing at the contacts. It helps absorb sudden changes in voltage, thereby minimizing wear and prolonging the life of the contacts.",
+    "year": "2000"
+  },
+  {
+    "number": "676",
+    "text": "If a bar magnet is accidentally broken into three pieces as shown in the diagram above, the polarities of P and Q respectively, are",
+    "options": {
+      "A": "S and S",
+      "B": "N and S",
+      "C": "N and N",
+      "D": "S and N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/2Y0fMURzw3HOszGnvgjfywZ25TG4J37LKJH57GRV.png",
+    "answer_url": "https://myschool.ng/classroom/physics/33841?exam_type=waec&type=obj&page=136",
+    "correct_answer": "B",
+    "explanation": "a piece of magnet consist of north pole and south pole.",
+    "year": "2000"
+  },
+  {
+    "number": "677",
+    "text": "An inductor of inductance 10H carries a current of 0.2A. Calculate the energy stored in the inductor",
+    "options": {
+      "A": "0.1J",
+      "B": "0.2J",
+      "C": "1.0J",
+      "D": "2.0J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33843?exam_type=waec&type=obj&page=136",
+    "correct_answer": "B",
+    "explanation": "The energy(W)stored in an inductor\u00a0is calculated by the formula: \\(\\frac{1}{2}\\)LI\\(^2\\)\n=\u00a0 \\(\\frac{1}{2}\\) x 10 x (0.2)\\(^2\\)\n= 0.2J",
+    "year": "2000"
+  },
+  {
+    "number": "678",
+    "text": "calculate the inductance of an inductor whose reactance is one ohm at 50 Hz.",
+    "options": {
+      "A": "2.00 x 10-2H",
+      "B": "6.36 x 10-2H",
+      "C": "3.18 x 10-3H",
+      "D": "4.55 x 10-2H"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33844?exam_type=waec&type=obj&page=136",
+    "correct_answer": "C",
+    "explanation": "The inductive reactance (X\\(_L\\)\u200b) of an inductor is given by the formula:\nGiven: X\\(_L\\)\u00a0 = 1\\(\\Omega\\), f = 50Hz\nX\\(_L\\)\u00a0 = 2\u03c0fL\nL = \\(\\frac{1}{2\u03c0f}\\) =\u00a0\u00a0 \\(\\frac{1}{2\u03c0 \\times50}\\) =\u00a0 \\(\\frac{1}{100\\pi}\\) = 3.183 x 10\\(^{-3}\\)H",
+    "year": "2000"
+  },
+  {
+    "number": "679",
+    "text": "Borh's theory provides evidence for the",
+    "options": {
+      "A": "structure of the atom",
+      "B": "positive charge of an electron",
+      "C": "existence of energy level in the atom",
+      "D": "positive charge on a proton"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33847?exam_type=waec&type=obj&page=136",
+    "correct_answer": "C",
+    "explanation": "Bohr's theory of the atom introduced the concept of quantized energy levels for electrons in an atom. It explained how electrons occupy specific energy levels and how they can jump between these levels by absorbing or emitting energy in the form of photons.",
+    "year": "2000"
+  },
+  {
+    "number": "680",
+    "text": "A nuclide \\(^{202}_{84} Y\\) emits in succession an \\(\\alpha-particle\\) and a \\(\\beta-particle\\). The atomic number of the resulting nuclide is",
+    "options": {
+      "A": "198",
+      "B": "83",
+      "C": "82",
+      "D": "80"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33849?exam_type=waec&type=obj&page=136",
+    "correct_answer": "B",
+    "explanation": "\\(^{202}_{84} Y\\)\u00a0\u2192 \\(^4_2\\)He + \\(^0_{-1}\\)e + \\(^{98}_{83}\\)X\nTherefore, the atomic number of the resulting nuclide = 83.",
+    "year": "2000"
+  },
+  {
+    "number": "681",
+    "text": "The half life of a radioactive substance is 14 days. If 48g of this substance is stored, after how many days will 1.5g of the original substance remain?",
+    "options": {
+      "A": "84 days",
+      "B": "70 days",
+      "C": "56 days",
+      "D": "40 days"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33851?exam_type=waec&type=obj&page=137",
+    "correct_answer": "B",
+    "explanation": "Using N = N\\(_o\\)\\((\\frac{1}{2})^n\\)\nN\\(_o\\) = 48g, N =1.5g and n = number of half-lives\n1.5 = 48\\((\\frac{1}{2})^n\\)\n\\(\\frac{1.5}{48}\\) =\u00a0\\(\\frac{1}{32}\\) = (\\(\\frac{1}{2})^5\\) =\u00a0\\((\\frac{1}{2})^n\\)\nn = 5 (same base, equate power)\nTotal time = n x t\\(_{\\frac{1}{2}}\\) = 5 x 14 = 70 days\nTherefore, 1.5g will remain after 70 days.",
+    "year": "2000"
+  },
+  {
+    "number": "682",
+    "text": "A material of mass 1.0 x 10-2kg undergoes a fission process which decreases its mass by 0.02 percent. Calculate the amount of energy released in the process. (c = 3.0 x 108ms-1)",
+    "options": {
+      "A": "1.8 x 1020J",
+      "B": "1.8 x 1013J",
+      "C": "1.8 x 1011J",
+      "D": "1.8 x 1010J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33856?exam_type=waec&type=obj&page=137",
+    "correct_answer": "C",
+    "explanation": "To calculate the energy released during the fission process, we can use Einstein's mass-energy equivalence principle, given by the formula:\nE = \u0394mc\\(^2\\)\nm =\u00a0 1.0 x 10\\(^{-2}\\)kg\nc =\u00a03.0 x 10\\(^8\\)ms\\(^{-1}\\)\nMass decrease = 0.02%\n\u0394m = 0.02% x\u00a0\u00a0 1.0 x 10\\(^{-2}\\) =\u00a02.0\u00d710\\(^{\u22126}\\)kg\nE = \u0394mc\\(^2\\) =\u00a02.0\u00d710\\(^{\u22126}\\) x (3.0 x 10\\(^8\\))\\(^2\\) =\u00a01.8\u00d710\\(^{11}\\)J",
+    "year": "2000"
+  },
+  {
+    "number": "683",
+    "text": "Absorption line spectra exhibited by atoms is a result of",
+    "options": {
+      "A": "change in the kinetic energy of a movimg atom",
+      "B": "instability of the nucleons",
+      "C": "excitation of an electron in the atom",
+      "D": "transition of an electron from a higher to a lower energy level"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33858?exam_type=waec&type=obj&page=137",
+    "correct_answer": "C",
+    "explanation": "Absorption line spectra are produced when electrons in an atom absorb specific wavelengths of light to move from a lower energy level to a higher energy level (excitation). The absorbed energy corresponds to the difference in energy between the two levels, resulting in dark lines in the spectrum at those specific wavelengths.",
+    "year": "2000"
+  },
+  {
+    "number": "725",
+    "text": "In which of the following transitions is the largest quantum of energy liberated by an hydrogen atom when the electron changes energy levels? [n is the quantum number]",
+    "options": {
+      "A": "n = 2 to n = 1",
+      "B": "n = 1 to n = 2",
+      "C": "n = 2 to n = 3",
+      "D": "n = 3 to n = 2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33943?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "The largest quantum of energy a hydrogen atom liberates occurs during a transition from a higher to a lower energy level. The energy difference between levels can be calculated using the formula:\nE = \u221213.6eV(\\(\\frac{1}{n_f^2}\u00a0- \\frac{1}{n_i^2\u200b}\\))\nn\\(_i\\)\u200b is the initial quantum number (higher energy level),\nn\\(_f\\)\u00a0is the final quantum number (lower energy level.\nA. n =\u00a0 2 to n = 1\n\u200b",
+    "year": "2000"
+  },
+  {
+    "number": "727",
+    "text": "A proton of wavelength \\(\\lambda_o\\) is emitted when an electron in an atom makes a transition from a level of energy 2E. If the electron transits from \\(\\frac{4}{3}E_k\\) to E level, determine the wavelength of the photon that would be emitted",
+    "options": {
+      "A": "3\\(\\lambda_o\\)",
+      "B": "2\\(\\lambda_o\\)",
+      "C": "\\(\\frac{3}{4}\\)\\(\\lambda_o\\)",
+      "D": "\\(\\frac{1}{3}\\)\\(\\lambda_o\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33945?exam_type=waec&type=obj&page=146",
+    "correct_answer": "A",
+    "explanation": "2E - E = \\(\\frac{hc}{\\lambda}\\) = E =\u00a0 \\(\\frac{hc}{\\lambda}\\)\n\\(\\frac{4}{3}\\)E =\u00a0 \\(\\frac{hc}{\\lambda_{new}}\\)\nE = \\(\\frac{3hc}{\\lambda_2}\\)\n\\(\\frac{3hc}{\\lambda_2}\\) =\u00a0 \\(\\frac{hc}{\\lambda}\\)\n\\(\\lambda_{new}\\) = 3 \\(\\lambda_o\\)",
+    "year": "2000"
+  },
+  {
+    "number": "729",
+    "text": "The nucleon number and the proton number of a neutral atom of an element are 23 and 11 respectively. How many neutrons are present in the atom?",
+    "options": {
+      "A": "11",
+      "B": "12",
+      "C": "23",
+      "D": "34"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33947?exam_type=waec&type=obj&page=146",
+    "correct_answer": "B",
+    "explanation": "Nucleon\u00a0number =\u00a0 Proton\u00a0number +\u00a0Neutron\u00a0number\nNeutron\u00a0number = Nucleon\u00a0number \u2212 Proton\u00a0number\nNeutron number = 23 - 11 = 12\nThe number of neutrons present in the atom is12",
+    "year": "2000"
+  },
+  {
+    "number": "731",
+    "text": "In a nuclear reactor, electricity can be generated through the following processes. Arrange the processes in the correct order. i. The steam is used to drive turbines. ii. The heat energy released is removed by passing water through the reactor. iii. The turbines in turn generate electricity. iv. The water then passes through some form of heat exchanger to produce steam",
+    "options": {
+      "A": "ii, iv, i and iii",
+      "B": "i, ii, iii and iv",
+      "C": "iii, i, iv and ii",
+      "D": "iv, i, iii and ii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33949?exam_type=waec&type=obj&page=147",
+    "correct_answer": "A",
+    "explanation": "To arrange the processes in the correct order for generating electricity in a nuclear reactor, let's break down the steps involved:\n1. Heat Generation: The nuclear reaction generates heat.\n2. Heat Removal: This heat is removed by passing water through the reactor.\n3. Steam Production: The heated water then passes through a heat exchanger to produce steam.\n4. Turbine Operation: The steam drives turbines.\n5. Electricity Generation: The turbines generate electricity\nTherefore, the correct order is:\nii: The heat energy released is removed by passing water through the reactor.\niv: The water then passes through some form of heat exchanger to produce steam.\ni: The steam is used to drive turbines.\niii: The turbines in turn generate electricity",
+    "year": "2000"
+  },
+  {
+    "number": "733",
+    "text": "The duality of matter implies that matter",
+    "options": {
+      "A": "exists as a particle of dual composition",
+      "B": "has momentum and energy",
+      "C": "has both wave and particle properties",
+      "D": "is made up of dual materials"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33951?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "The duality of matter refers to the concept in quantum mechanics that matter exhibits both wave-like and particle-like properties.",
+    "year": "2000"
+  }
+]

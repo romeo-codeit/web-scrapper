@@ -1,0 +1,752 @@
+[
+  {
+    "number": "879",
+    "text": "Which of the following phenomena is the practical evidence for the existence of the continual motion of molecules?",
+    "options": {
+      "A": "Translational motion",
+      "B": "rotational motion",
+      "C": "brownian motion",
+      "D": "oscillatory motion"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34419?exam_type=waec&type=obj&page=176",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "880",
+    "text": "Each of the following physical quantities is classified as a vector or a scalar quantity. Which of the classifications is correct?",
+    "options": {
+      "A": "electric potential (Vector)",
+      "B": "momentum (scalar)",
+      "C": "gravitational field intensity (scalar)",
+      "D": "magnetic flux density (vector)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34425?exam_type=waec&type=obj&page=176",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "881",
+    "text": "Which of the following statements about a spring balance and/or a chemical balance is not correct?",
+    "options": {
+      "A": "the chemical balance operates on the principle of moments",
+      "B": "the sprin balance operates on Hooke's law",
+      "C": "either may be used to measure the weight of a substance",
+      "D": "the reading of a spring balance changes over the surface of the earth, while that of the chemical balance remaind constant"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34426?exam_type=waec&type=obj&page=177",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "882",
+    "text": "The friction which exists between two layers of liquid in relative motion is called",
+    "options": {
+      "A": "capillarity",
+      "B": "surface tension",
+      "C": "viscosity",
+      "D": "cohension"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34427?exam_type=waec&type=obj&page=177",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "883",
+    "text": "A body of mass 25kg, moving at 3ms-1 on a rough horizontal floor, is at rest after sliding through a distance of 2.50m on the floor. Calculate the coefficient of sliding friction. [g = 10.0ms\\(^{-2}\\)]",
+    "options": {
+      "A": "0.09",
+      "B": "0.18",
+      "C": "0.36",
+      "D": "0.54"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34428?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "a = \\(\\frac{v^2 + u^2}{2s} = \\frac{0^2 +\u00a03^2}{2 \\times 2.5}\\) = 1.8m/s2F = ma = 25 x 1.8 = 45N\nN = mg = 25\u00a0x 10 = 250but \\(\\mu = \\frac{F}{R} = \\frac{45}{25 \\times 10} = 0.18\\)",
+    "year": "2005"
+  },
+  {
+    "number": "884",
+    "text": "Which of the following simple machines is a second class lever?",
+    "options": {
+      "A": "wheel barrow",
+      "B": "crowbar",
+      "C": "claw hammer",
+      "D": "seesae"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34429?exam_type=waec&type=obj&page=177",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "885",
+    "text": "A wheel and axle of radii 800mm and 200mm respectively is used to raise a body of weight 800N by the application of 250N. Calculate the efficiency of the machine",
+    "options": {
+      "A": "85%",
+      "B": "80%",
+      "C": "60%",
+      "D": "20%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34430?exam_type=waec&type=obj&page=177",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "886",
+    "text": "Masses,m1 and m2 at the 20-cm and 65-cm marks respectively of a uniform metre rule freely suspended at its centre of gravity. If the metre rule balances horizontally, determine the ratio m2 : m1",
+    "options": {
+      "A": "2 : 1",
+      "B": "3 : 3",
+      "C": "2 : 3",
+      "D": "1 : 2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34437?exam_type=waec&type=obj&page=178",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "887",
+    "text": "Which of the following type of motion does a body undergo when acted upon by a couple?V",
+    "options": {
+      "A": "vibrational",
+      "B": "translational",
+      "C": "rotational",
+      "D": "random"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34439?exam_type=waec&type=obj&page=178",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "888",
+    "text": "A body starts from rest and accelerates uniformly at 5ms^-2\u00a0until it attains a velocity of 25ms-1. Calculate the time taken to attain this velocity",
+    "options": {
+      "A": "2.5s",
+      "B": "5.0s",
+      "C": "10.0s",
+      "D": "125.0s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34443?exam_type=waec&type=obj&page=178",
+    "correct_answer": "B",
+    "explanation": "V = u + at = 25 = 0 + 5tt = 5s",
+    "year": "2005"
+  },
+  {
+    "number": "889",
+    "text": "The frequency of a swinging pendulum is the",
+    "options": {
+      "A": "number of complete oscillations the pendulum makes in a second",
+      "B": "number of amplitudes the bob makes in a second",
+      "C": "angle the bob swings through in a second",
+      "D": "distance the bob covers in a second"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34454?exam_type=waec&type=obj&page=178",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "890",
+    "text": "Which of the following about an object performing simple harmonic motion is correct? Its acceleration",
+    "options": {
+      "A": "is maximum at the extreme ends",
+      "B": "is constant and directed towards a fixed point",
+      "C": "is zero when it is displayed from the equilibrum position",
+      "D": "varies linearly with the displacement from a fixed point and is directed towards the fixed point"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34455?exam_type=waec&type=obj&page=178",
+    "correct_answer": "A",
+    "explanation": "In simple harmonic motion (SHM), the acceleration is maximum\u00a0at the extreme points (maximum displacement) of the motion. These points are where the restoring force is strongest, leading to the highest acceleration.\u00a0Therefore, the correct answer is 'is maximum at the extreme ends. although option D\u00a0is also true.",
+    "year": "2005"
+  },
+  {
+    "number": "891",
+    "text": "A body of mass 5kg moving with a velocity of 10ms-1 collides with a stationary body of mass 6kg. If the two bodies stick together and move in the same direction after their collision, calculate their common velocity",
+    "options": {
+      "A": "4.55ms-1",
+      "B": "12.00ms-1",
+      "C": "30.00ms-1",
+      "D": "50.00ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34456?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "892",
+    "text": "Fuel was consumed at a steady rate of 5.0 x 10-2kg per second in a rocket engine and ejected as a gas with a speed of 4 x 103ms-1. Determine the thrust on the rocket",
+    "options": {
+      "A": "20N",
+      "B": "80N",
+      "C": "200N",
+      "D": "800N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34457?exam_type=waec&type=obj&page=179",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "893",
+    "text": "Which of the following quantities has the same unit as energy?",
+    "options": {
+      "A": "power",
+      "B": "work",
+      "C": "force",
+      "D": "momentum"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34458?exam_type=waec&type=obj&page=179",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "894",
+    "text": "Which of the following source of energy is renewable?",
+    "options": {
+      "A": "sun",
+      "B": "petroleum",
+      "C": "coal",
+      "D": "uranium"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34459?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "895",
+    "text": "The lower and upper fixed point of a thermometer are 30mm and 180mm respectively. Calculate the temperature in degrees Celsius when the thermometer reads 45mm",
+    "options": {
+      "A": "10.0oC",
+      "B": "15.0oC",
+      "C": "20.0oC",
+      "D": "30.0oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34460?exam_type=waec&type=obj&page=179",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "896",
+    "text": "A body of mass m, has a specific heat capacity s, and a heat capacity  c. If the temperature of the body changes by \\(\\theta^oC\\), Which of the following equation is correct?",
+    "options": {
+      "A": "ms\\(\\theta\\) = mv-1",
+      "B": "ms = C",
+      "C": "ms = s\\(\\theta\\)",
+      "D": "ms = c\\(\\theta\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34461?exam_type=waec&type=obj&page=180",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "897",
+    "text": "An immersion heater rated 400W, 220V is used to heat a liquid of mass 0.5kg. If the temperature of the liquid increases uniformly at the rate of 2.5oC per second, calculate the specific heat capacity of the liquid. [Assume no heat is lost]",
+    "options": {
+      "A": "1100Jkg-1K-1",
+      "B": "320Jkg-1K-1",
+      "C": "200Jkg-1K-1",
+      "D": "176Jkg-1K-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34467?exam_type=waec&type=obj&page=180",
+    "correct_answer": "B",
+    "explanation": "-1\n-1",
+    "year": "2005"
+  },
+  {
+    "number": "898",
+    "text": "Water falls through a height of 50m. Determine the temperature rise at the bottom of the fall. [Neglect energy losses. Specific heat capacity of water = 4200Jkg-1 K-1, g = 10ms2]",
+    "options": {
+      "A": "0.119oC",
+      "B": "0.840oC",
+      "C": "1.190oC",
+      "D": "8.400oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34473?exam_type=waec&type=obj&page=180",
+    "correct_answer": "A",
+    "explanation": "o",
+    "year": "2005"
+  },
+  {
+    "number": "899",
+    "text": "The energy required to change a solid to liquid at constant temperature is called",
+    "options": {
+      "A": "thermal capacity",
+      "B": "has lower specific heat capacity",
+      "C": "latent heat of fusion",
+      "D": "latent heat of vaporisation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34478?exam_type=waec&type=obj&page=180",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "900",
+    "text": "Which of the following statements about boiling and evaporation at atmospheric pressure is correct?",
+    "options": {
+      "A": "evaporation and boiling of water take place at 100o",
+      "B": "evaporation of water takes place at a temperature greater than 100oC, while boiling takes place at 100oC",
+      "C": "evaporation of water takes place at 100oC while boiling takes place at a higher temperature",
+      "D": "boiling takes place at 100o while evaporation my take place at temperatures lower than 100oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34480?exam_type=waec&type=obj&page=180",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "901",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "the density of a liquid decreases when it expands",
+      "B": "the density of a liquid increases when the liquids are heated",
+      "C": "the real expansivity of a liquid is less than its apparent expansivity",
+      "D": "a liquid changes to solid when heated to a sufficiently high temperature"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34482?exam_type=waec&type=obj&page=181",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "902",
+    "text": "The pressure exerted by a given mass of gas in a container",
+    "options": {
+      "A": "decreases if the container is heated",
+      "B": "increases if the molecules of the gas move faster",
+      "C": "increases if the container is doubled",
+      "D": "decreases as the kinetic energy of the gas molecules inceases"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34485?exam_type=waec&type=obj&page=181",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "903",
+    "text": "Which of the following statements about a progressive mechanical wave is correct?",
+    "options": {
+      "A": "it can be a plane polarised",
+      "B": "its energy is localised at specific points of its profile",
+      "C": "it does not require a material medium for its propagation",
+      "D": "its frequency remains constant as it travels between different media"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34488?exam_type=waec&type=obj&page=181",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "904",
+    "text": "The distance between two points in phase on a progressive wave is 5cm. If the sped of the wave is 0.2ms-1, calculate its period",
+    "options": {
+      "A": "4.00s",
+      "B": "2.50s",
+      "C": "0.25s",
+      "D": "0.04s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34516?exam_type=waec&type=obj&page=181",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "905",
+    "text": "Radio waves travel in air at 3.0 x 108ms-1. If the waves enter water of refractive index \\(\\frac{4}{3}\\), calculate the speed of radio waves in water",
+    "options": {
+      "A": "4.33 x 108ms-1",
+      "B": "4.00 x 108ms-1",
+      "C": "2.25 x 108ms-1",
+      "D": "1.33 x 108ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34517?exam_type=waec&type=obj&page=181",
+    "correct_answer": "C",
+    "explanation": "8",
+    "year": "2005"
+  },
+  {
+    "number": "906",
+    "text": "The amplitude of a wave is the",
+    "options": {
+      "A": "distance travelled by the wave in a complete cycle of its motion",
+      "B": "maximum diplacement of the wave particle from the equilibrum position",
+      "C": "separation of two adjacent particles vibrating in a phase",
+      "D": "distance between two successive troughs of the wave"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34518?exam_type=waec&type=obj&page=182",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "907",
+    "text": "Which of the following optical instruments does not depend on the use of plane mirrors?",
+    "options": {
+      "A": "kaleidoscope",
+      "B": "simple microscope",
+      "C": "sextant",
+      "D": "simple periscope"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34522?exam_type=waec&type=obj&page=182",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "908",
+    "text": "A ray of light is incident normally on a plan mirror. If the incident ray is kept fixed while the mirror is rotated through an angle of 30o, determine the initial and final angles of reflection respectively",
+    "options": {
+      "A": "0o and 60o",
+      "B": "90o and 30o",
+      "C": "0o and 30o",
+      "D": "90o and 60o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34524?exam_type=waec&type=obj&page=182",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "909",
+    "text": "In which of the following media is the transmission of sound wave fastest?",
+    "options": {
+      "A": "Vacuum",
+      "B": "Air",
+      "C": "Wood",
+      "D": "Iron"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34525?exam_type=waec&type=obj&page=182",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "910",
+    "text": "The ability of a material to store an electric charge when its plates are at different potentials is referred to as its",
+    "options": {
+      "A": "conductance",
+      "B": "inductance",
+      "C": "capacitance",
+      "D": "resistance"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34526?exam_type=waec&type=obj&page=182",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "911",
+    "text": "Two capacitors if capacitance 0.4\\(\\mu F\\) and 0.5\\(\\mu F\\) are connected in parallel and charged to a p.d. of 50V, Determine the total charge acquired",
+    "options": {
+      "A": "45\\(\\mu C\\)",
+      "B": "25\\(\\mu C\\)",
+      "C": "20\\(\\mu C\\)",
+      "D": "10\\(\\mu C\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34527?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "912",
+    "text": "A parallel plate capacitor of capacitance 600\\(\\mu F\\) has a potential difference of 200V between its plates. Calculate the charge on either plate of the capacitor",
+    "options": {
+      "A": "1.2C",
+      "B": "3.3C",
+      "C": "3330.0C",
+      "D": "12.0000.0C"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34528?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "-6",
+    "year": "2005"
+  },
+  {
+    "number": "913",
+    "text": "A parallel plate capacitor of capacitance 600\\(\\mu F\\) has a potential difference of 200V between its plates. Calculate the charge on either plate of the capacitor",
+    "options": {
+      "A": "1.2C",
+      "B": "3.3C",
+      "C": "3330.0C",
+      "D": "12.0000.0C"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34529?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "-6",
+    "year": "2005"
+  },
+  {
+    "number": "914",
+    "text": "a chemical cell of internal resistance 1\\(\\Omega\\) supplies electric current to an external resistor of resistance 3\\(\\Omega\\). Calculate the efficiency of the cell",
+    "options": {
+      "A": "75%",
+      "B": "50%",
+      "C": "33%",
+      "D": "25%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34530?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "915",
+    "text": "An electric lamp is rated 240V, 40W. What is the cost of running the lamp for 72 hours if the electricity authority charges N2.50 per kWh?",
+    "options": {
+      "A": "N7.20",
+      "B": "N18.00",
+      "C": "180.00",
+      "D": "N720.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34532?exam_type=waec&type=obj&page=183",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "916",
+    "text": "Which of the following statements explains lost volt in an electric circuit? The",
+    "options": {
+      "A": "total p.d from a source to maintain a flow of current through the circuit as well as the source",
+      "B": "p.d to drive current through the circuit component except the source",
+      "C": "p.d across all external components connected to the source of electricity",
+      "D": "p.d across the internal resistance of the cell"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34541?exam_type=waec&type=obj&page=184",
+    "correct_answer": "D",
+    "explanation": "The lostvolt is\u00a0the potential drop in a cell due to internal resistance.",
+    "year": "2005"
+  },
+  {
+    "number": "917",
+    "text": "A constantan wire has a cross sectional area of 4 x 10-8m2 and a resistivity of 1.1 x 10-6\\(\\Omega\\)m. If a resistor of resistance 11\\(\\Omega\\) is to be made from this wire, calculate the length of the wire required",
+    "options": {
+      "A": "0.4m",
+      "B": "0.8m",
+      "C": "2.5m",
+      "D": "5.0m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34544?exam_type=waec&type=obj&page=184",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "918",
+    "text": "The mass and weight of a body on earth are 8kg and 80N respectively. Determine the mass and weight of the body respectively on a planet where the pull of gravity is \\(\\frac{1}{8}\\) that on earth",
+    "options": {
+      "A": "8kg, 8N",
+      "B": "1kg, 10N",
+      "C": "64kg, 10N",
+      "D": "8kg, 10N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34559?exam_type=waec&type=obj&page=184",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "919",
+    "text": "Lenz's law of electromagnetic induction states that",
+    "options": {
+      "A": "a force is exerted on a current-carrying conductor in a magnetic field",
+      "B": "electromotive force id induced in a circuit whenever there is a change in the magnetic flux linked with the circuit",
+      "C": "the magnitude of the induced electromotive force in a circuit is proportional to the rate of change of flux linking the circuit",
+      "D": "the induced current in a coil is in such a direction that it sets up a magnetic field which opposes the change producing it"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34564?exam_type=waec&type=obj&page=184",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "920",
+    "text": "A bar magnet is placed near and lying along the axis of a solenoid connected to a galvanometer. The pointer of the galvanometer shows no deflection when",
+    "options": {
+      "A": "the magnet is moved away from the stationary solenoid",
+      "B": "the solenoid is moved away from the stationary magnet",
+      "C": "the magnet is moved towards the stationary solenoid",
+      "D": "there is no relative motion between the magnet and the solenoid"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34567?exam_type=waec&type=obj&page=184",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "921",
+    "text": "an electric motor is a machine that converts",
+    "options": {
+      "A": "mechanical energy into electrical energy",
+      "B": "electrical energy into mechanical energy",
+      "C": "high voltage to low voltage",
+      "D": "low voltage to high voltage"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34571?exam_type=waec&type=obj&page=185",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "922",
+    "text": "Which of the following statements is an advantage of nuclear fusion over nuclear fission?",
+    "options": {
+      "A": "The resulting chain reaction which produces large amount of energy",
+      "B": "no radioactve wave is produced as bye product",
+      "C": "very high temperature is required in the process",
+      "D": "the end product is lead"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34579?exam_type=waec&type=obj&page=185",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "923",
+    "text": "Which of the following statements is not a reason for using soft iron in making the core of a transformer? It",
+    "options": {
+      "A": "retains its magnetism for a long time",
+      "B": "is easily magnitised",
+      "C": "reduces energy loss due to hysteresis",
+      "D": "is easily demagnetised"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34583?exam_type=waec&type=obj&page=185",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "924",
+    "text": "Beta particles are faster-moving",
+    "options": {
+      "A": "protons",
+      "B": "electrons",
+      "C": "neutrons",
+      "D": "photons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34585?exam_type=waec&type=obj&page=185",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "925",
+    "text": "A process by which two light atoms join to form a new atom of higher atomic mass is",
+    "options": {
+      "A": "natural radioactivity",
+      "B": "nuclear fission",
+      "C": "nuclear fusion",
+      "D": "chain reaction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34594?exam_type=waec&type=obj&page=185",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "926",
+    "text": "Light of energy 5.0 eV falls on a metal of work function 3.0 eV and electrons are emitted, determine the stopping potential. [electronic charge, e = 1.60 x 108ms-19]",
+    "options": {
+      "A": "1.7V",
+      "B": "2.0V",
+      "C": "8.0V",
+      "D": "15.0V"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34604?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "927",
+    "text": "The mass of a proton is 1.0089\\(\\mu\\) and that of a neutron is 1.0089\\(\\mu\\). Determine the energy evolved in stabilizing the nucleus of nitrogen of mass number 14 with 7 protons and 7 neutrons. [speed of light = 3.0 x 108ms-1; 1\\(\\mu\\) = 1.67 x 10-27kg]",
+    "options": {
+      "A": "1.710 x 10-8J",
+      "B": "3.131 x 10-8J",
+      "C": "1.476 x 10-8J",
+      "D": "2.332 x 10-9J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34609?exam_type=waec&type=obj&page=186",
+    "correct_answer": "D",
+    "explanation": "2\n-27\n16\n-9",
+    "year": "2005"
+  },
+  {
+    "number": "928",
+    "text": "Uranium of atom number 92 and mass number 238 emits an alpha particle from its nucleus. The new nucleus formed has respectively, atomic number and mass number",
+    "options": {
+      "A": "94 and 238",
+      "B": "90 and 236",
+      "C": "88 and 234",
+      "D": "90 and 234"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34611?exam_type=waec&type=obj&page=186",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2005"
+  }
+]

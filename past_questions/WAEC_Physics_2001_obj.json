@@ -1,0 +1,677 @@
+[
+  {
+    "number": "684",
+    "text": "Which of the following physical processes cannot be explained by the molecular theory of matter?",
+    "options": {
+      "A": "evaporation",
+      "B": "thermal conduction",
+      "C": "radiation of heat",
+      "D": "convectional current of fliuds"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33863?exam_type=waec&type=obj&page=137",
+    "correct_answer": "C",
+    "explanation": "The molecular theory of matter explains processes like evaporation, thermal conduction, and convection, but it does not account for heat radiation, which involves energy transfer through electromagnetic waves and does not require a medium.",
+    "year": "2001"
+  },
+  {
+    "number": "685",
+    "text": "A spring balance,which is suspended from the roof of a lift, carries a mass of 1kg  at its free end. If the lift accelerates upwards at 2.5ms-2, determine the reading on the spring balance. [g = 10ms-2]",
+    "options": {
+      "A": "24.0N",
+      "B": "12.5N",
+      "C": "7.5N",
+      "D": "4.0N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33864?exam_type=waec&type=obj&page=137",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "686",
+    "text": "An object weight 10N immersed in a liquid displaces a quantity of the liquid. If the liquid displaced weighs 6N, determine the upthrust of the object",
+    "options": {
+      "A": "20N",
+      "B": "10N",
+      "C": "6N",
+      "D": "4N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33865?exam_type=waec&type=obj&page=138",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "687",
+    "text": "Which of the following statements about pressure is not correct? pressure",
+    "options": {
+      "A": "increases with an increase in surface area",
+      "B": "decreases with an increase in surface area",
+      "C": "increases with a decrease in surface area",
+      "D": "increases with an increase in the applied force"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33866?exam_type=waec&type=obj&page=138",
+    "correct_answer": "A",
+    "explanation": "Pressure = \\(\\frac{\\text{Force}}{\\text{cross-sectional area}}\\)\nFrom the equation above Option A is incorrect:\u00a0increases with an increase in surface area",
+    "year": "2001"
+  },
+  {
+    "number": "688",
+    "text": "The apparent weight of a body fully immersed in water is 32N and its weight in air is 96N. Calculate the volume of the body. [Density of water = 1000kgm-3, g = 10ms-2]",
+    "options": {
+      "A": "8.9 x 10-3m3",
+      "B": "6.4 x 10-3m3",
+      "C": "3.2 x 10-3m3",
+      "D": "3.0 x 10-3m3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33867?exam_type=waec&type=obj&page=138",
+    "correct_answer": "B",
+    "explanation": "-3\n3",
+    "year": "2001"
+  },
+  {
+    "number": "689",
+    "text": "A block weighing 15N rests on a flat surface and a horizontal force of 3N is exerted on it. Determine the friction force on the block",
+    "options": {
+      "A": "0.3N",
+      "B": "0.5N",
+      "C": "3.0N",
+      "D": "5.0N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33868?exam_type=waec&type=obj&page=138",
+    "correct_answer": "C",
+    "explanation": "Given that:\nWeight of the block: 15N\nHorizontal force applied: 3N\nSince the applied force (3 N) is less than the maximum static friction (which can be greater than or equal to the weight of the block), the friction force will match the applied force to prevent motion\nTherefore,\u00a0The friction force on the block is: 3N",
+    "year": "2001"
+  },
+  {
+    "number": "690",
+    "text": "Which of the following equations represents the distance x, travelled by a body moving on a straight road with a constant speed? [The other symbol have their usual meanings]",
+    "options": {
+      "A": "x = Ut + \\(\\frac{1}{2}t^2\\)",
+      "B": "x = Ut",
+      "C": "x = \\(\\frac{V^2 - U^2}{2a}\\)",
+      "D": "x = -\\(\\frac{1}{2} at^2\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33869?exam_type=waec&type=obj&page=138",
+    "correct_answer": "B",
+    "explanation": "For a body moving at a constant speed, the distance x traveled can be represented by the equation:\nx = U\u00a0t\n(constant speed = zero acceleration)",
+    "year": "2001"
+  },
+  {
+    "number": "691",
+    "text": "The amplitude of the motion of a body performing simple harmonic motion decreases with time because",
+    "options": {
+      "A": "friction force dissipate the energy of motion",
+      "B": "the frequency of oscillation varies with time",
+      "C": "the period of oscillation varies with time",
+      "D": "energy is supplied by some external agency"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33870?exam_type=waec&type=obj&page=139",
+    "correct_answer": "A",
+    "explanation": "The amplitude of the motion of a body performing simple harmonic motion (SHM) decreases over time primarily due to energy loss, often caused by friction or other resistive forces. Therefore OPTION A is correct.",
+    "year": "2001"
+  },
+  {
+    "number": "692",
+    "text": "The amplitude of a particle executing simple harmonic motion in 5cm while its angular frequency is 10 rad s-1. calculate the magnitude of the maximum acceleration of the particle",
+    "options": {
+      "A": "0.25ms-2",
+      "B": "0.50ms-2",
+      "C": "2.00ms-2",
+      "D": "5.00ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33872?exam_type=waec&type=obj&page=139",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "693",
+    "text": "The time rate of change of momentum is",
+    "options": {
+      "A": "impulse",
+      "B": "force",
+      "C": "power",
+      "D": "pressure"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33873?exam_type=waec&type=obj&page=139",
+    "correct_answer": "B",
+    "explanation": "The time rate of change of momentum is defined as force.",
+    "year": "2001"
+  },
+  {
+    "number": "694",
+    "text": "Which of the following statements about elastic collision is correct?",
+    "options": {
+      "A": "momentum is lost due to the sound produced",
+      "B": "loss of momentim is equal to loss in kinetic energy",
+      "C": "both kinetic energy and momentum are conserved",
+      "D": "kinetic energy is lost while momentum is conserved"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33874?exam_type=waec&type=obj&page=139",
+    "correct_answer": "C",
+    "explanation": "In an elastic collision, both kinetic energy and momentum are conserved.\nTherefore, the correct answer is C. Both kinetic energy and momentum are conserved.",
+    "year": "2001"
+  },
+  {
+    "number": "695",
+    "text": "Electrical resistance is a property of an electrical energy to be converted into",
+    "options": {
+      "A": "mechanical energy",
+      "B": "heat energy",
+      "C": "magnetic energy",
+      "D": "chemical energy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33875?exam_type=waec&type=obj&page=139",
+    "correct_answer": "B",
+    "explanation": "Electrical resistance is a property that causes electrical energy to be converted into heat energy\nTherefore, the correct option is B heat energy.",
+    "year": "2001"
+  },
+  {
+    "number": "696",
+    "text": "A simple machine with an efficiency of 75% lifts a load of 5000N when a force of 500N is applied to it. Calculate the velocity ratio of the machine",
+    "options": {
+      "A": "10.0",
+      "B": "13.3",
+      "C": "17.5",
+      "D": "25.0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33876?exam_type=waec&type=obj&page=140",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "697",
+    "text": "A screw jack with a Tommy bar of length 12cm is used to raise a car through a vertical height of 25cm by turning the Tommy bar through 50 revolutions. Calculate the approximate velocity ratio of the jack [\\(\\pi = 3.142\\)]",
+    "options": {
+      "A": "21",
+      "B": "38",
+      "C": "48",
+      "D": "151"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33880?exam_type=waec&type=obj&page=140",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "698",
+    "text": "a beam PQ pivoted at P carries a load of 80N as shown above. Calculate the effort E, required to keep it horizontal. [neglect the weight of the beam]",
+    "options": {
+      "A": "32.0N",
+      "B": "26.7N",
+      "C": "16.0N",
+      "D": "13.3N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/4288835607_maths-15.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33883?exam_type=waec&type=obj&page=140",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "699",
+    "text": "A resistance thermometer has a resistance of 20\\(\\Omega\\) at 0oC and 85\\(\\Omega\\) at 100oC. If its resistance is 52\\(\\Omega\\)in a medium, calculate the corresponding temperature",
+    "options": {
+      "A": "49.2oC",
+      "B": "60.6oC",
+      "C": "80.0oC",
+      "D": "84.7oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33890?exam_type=waec&type=obj&page=140",
+    "correct_answer": "A",
+    "explanation": "o\no\no",
+    "year": "2001"
+  },
+  {
+    "number": "700",
+    "text": "A given mass of an ideal gas has a pressure of 500Nm-2 at -13\u00baC. If its volume remains constant. Calculate its pressure at 247\u00baC.",
+    "options": {
+      "A": "25Nm-2",
+      "B": "50Nm-2",
+      "C": "500Nm-2",
+      "D": "1000Nm-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33893?exam_type=waec&type=obj&page=140",
+    "correct_answer": "D",
+    "explanation": "\\(P_2 = \\frac{p_1 \\times T_2}{T_1} = \\frac{500 \\times\u00a0520}{260}\\)= 1000N\\(m^{-2}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "701",
+    "text": "The volume of an ideal gas at a pressure of 77cmHg and temperature 60oC is 24cm3. If the temperature and pressure are increased to 98oC\n and 81cmhg respectively, calculate the new volume of the gas",
+    "options": {
+      "A": "411.5cm3",
+      "B": "267.1cm3",
+      "C": "254.2cm3",
+      "D": "112.7cm3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33897?exam_type=waec&type=obj&page=141",
+    "correct_answer": "C",
+    "explanation": "2\n3",
+    "year": "2001"
+  },
+  {
+    "number": "702",
+    "text": "The amount of heat given out or absorbed when a substance changes its state at a constant temperature is known as",
+    "options": {
+      "A": "latent heat",
+      "B": "heat capacity",
+      "C": "specific latent heat",
+      "D": "specific heat capacity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33899?exam_type=waec&type=obj&page=141",
+    "correct_answer": "A",
+    "explanation": "The amount of heat given out or absorbed when a substance changes its state at a constant temperature is known aslatent heat.",
+    "year": "2001"
+  },
+  {
+    "number": "703",
+    "text": "Which of the following physical qualities affects the saturated vapour pressure of a liquid ?",
+    "options": {
+      "A": "temperature",
+      "B": "volume",
+      "C": "mass",
+      "D": "density"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33901?exam_type=waec&type=obj&page=141",
+    "correct_answer": "A",
+    "explanation": "The saturated vapor pressure of a liquid is primarily affected bytemperature. As the temperature increases, the vapor pressure also increases.",
+    "year": "2001"
+  },
+  {
+    "number": "704",
+    "text": "Humidity is used to describe the amount of",
+    "options": {
+      "A": "air in water vapour",
+      "B": "cloud available in the atmosphere",
+      "C": "air in equal volume of cloud",
+      "D": "water vapour in the amosphere"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33903?exam_type=waec&type=obj&page=141",
+    "correct_answer": "D",
+    "explanation": "Humidity is used to describe the amount of water vapor in the atmosphere. So OPTION D is correct.",
+    "year": "2001"
+  },
+  {
+    "number": "705",
+    "text": "Surface waves travelling in deep water at 15ms-1 are incident at a shallow water boundary. If the angles of incidence and refraction are 45o and 30o respectively. Calculate the speed of the waves in shallow water",
+    "options": {
+      "A": "8.1ms-1",
+      "B": "10.0ms-1",
+      "C": "10.6ms-1",
+      "D": "22.5ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33907?exam_type=waec&type=obj&page=141",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "706",
+    "text": "An incident ray is reflected normally by a plane mirror onto a screen where it forms a bright spot. The mirror and screen are parallel and 1m apart. If the mirror is rotated through 5o, calculate the displacement of the spot",
+    "options": {
+      "A": "8.7cm",
+      "B": "10.0cm",
+      "C": "15.4cm",
+      "D": "17.6cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33909?exam_type=waec&type=obj&page=142",
+    "correct_answer": "D",
+    "explanation": "From the diagram above,\nTan\\(\\theta\\) = \\(\\frac{\\text{d}}{100}\\)\nTan10\u00ba =\u00a0\\(\\frac{\\text{d}}{100}\\)\nd = 100 x Tan 10\u00ba = 100 x 0.1763\u00a0\u2248 17.6cm.",
+    "year": "2001"
+  },
+  {
+    "number": "707",
+    "text": "Convex spherical mirrors are preferred to plane mirrors as driving mirrors because",
+    "options": {
+      "A": "the image produce is upright and clearly visible",
+      "B": "it provides a wider field of view",
+      "C": "the image produce is errect and diminished",
+      "D": "the image produced is not laterally inverted"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33910?exam_type=waec&type=obj&page=142",
+    "correct_answer": "B",
+    "explanation": "Convex spherical mirrors are preferred as driving mirrors mainly because they provide a wider field of view.",
+    "year": "2001"
+  },
+  {
+    "number": "708",
+    "text": "An object is placed 20cm from a lens. If an image is formed on a screen 260cm away from the lens, calculate the magnification of the image",
+    "options": {
+      "A": "28",
+      "B": "26",
+      "C": "24",
+      "D": "13"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33911?exam_type=waec&type=obj&page=142",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "709",
+    "text": "A piece of cloth appears green in sunlight. When held in red light, it will appear",
+    "options": {
+      "A": "green",
+      "B": "blue",
+      "C": "red",
+      "D": "black"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33912?exam_type=waec&type=obj&page=142",
+    "correct_answer": "D",
+    "explanation": "A piece of cloth that appears green in sunlight reflects green light and absorbs other colors. When held in red light, it will not reflect any red light because it does not contain red pigments to reflect that color.",
+    "year": "2001"
+  },
+  {
+    "number": "710",
+    "text": "Dispersion of white light by a glass prism occurs because",
+    "options": {
+      "A": "white light consist of a mixture of seven different colour",
+      "B": "the refractive index of glass is different from each constituent colour of white light",
+      "C": "the speed of each colour of light in the glass is proportional to the refractive index of glass for each colour",
+      "D": "the speed of each colour of light in the glass is proportional to the angle of refraction in he prism"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33913?exam_type=waec&type=obj&page=142",
+    "correct_answer": "B",
+    "explanation": "Dispersion of white light by a glass prism occurs because the refractive index of glass varies for each color. This difference causes each color to bend at a different angle, resulting in a spectrum of colors.",
+    "year": "2001"
+  },
+  {
+    "number": "711",
+    "text": "Which of the following statements about sound is correct?",
+    "options": {
+      "A": "when sound travels from air to a denser medium, it is refracted away from the normal at the point of incidence",
+      "B": "sound travels faster in air than in water",
+      "C": "the wavelength of sound changes when it travels from to water",
+      "D": "the frequency of it travels from air to water"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33914?exam_type=waec&type=obj&page=143",
+    "correct_answer": "C",
+    "explanation": "When sound moves from air (a less dense medium) to water (a denser medium), its speed increases, leading to a change in wavelength while the frequency remains constant.",
+    "year": "2001"
+  },
+  {
+    "number": "712",
+    "text": "The diagram above shows the wire of a sonometer box set into resonance by a vibrating tuning fork of frequency f, when the wire is stretched by a tension T, the resonating length of the wire is I while the wavelength of the sound produced is \\(\\lambda\\). Which of the following statements is not correct? The wave produced on the wire is",
+    "options": {
+      "A": "stationary and lonitudinal",
+      "B": "stationary and mechanical",
+      "C": "mechanical and longitudinal",
+      "D": "progessive and transverse"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/4JN9LfHwJ3O556zBTOX02dAW8gBCdstBpn9Nfgv0.jpeg",
+    "answer_url": "https://myschool.ng/classroom/physics/33917?exam_type=waec&type=obj&page=143",
+    "correct_answer": "A",
+    "explanation": "The wave produced on the wire in the sonometer box is:\n> Stationary (standing wave)\n> Transverse, not longitudinal.",
+    "year": "2001"
+  },
+  {
+    "number": "713",
+    "text": "The diagram above shows the wire of a sonometer box set into resonance by a vibrating tuning fork of frequency f, when the wire is stretched by a tension T, the resonating length of the wire is I while the wavelength of the sound produced is \\(\\lambda\\). Which of the following statements about the frequency of vibration of the wire is not correct?",
+    "options": {
+      "A": "proportional to the mass per unit length of the wire",
+      "B": "equal to the frequency of the tuning fork",
+      "C": "inversely proportional to the length of the wire",
+      "D": "proportional to the sqare root of the tension"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/UHZO5N9TaYqSW0cEcvYl1qMLoLqLE2tfkELjNvmH.png",
+    "answer_url": "https://myschool.ng/classroom/physics/33920?exam_type=waec&type=obj&page=143",
+    "correct_answer": "A",
+    "explanation": "The frequency of a vibrating stretched string or wire depends on three factors (i) Length of string l, (ii) Tension T, and (iii) Mass per unit length M\nF\u00a0\u221d \\(\\frac{1}{\\text{l}}\\)\\(\\sqrt{\\frac{\\text{T}}{\\text{M}}}\\)\nFrom the formula above, the frequency of vibration of the wire is not\u00a0proportional to the mass per unit length of the wire.",
+    "year": "2001"
+  },
+  {
+    "number": "714",
+    "text": "If the frequency of the tuning fork at resonance is 256Hz, calculate the frequency of vibration of the wire when the tension in he wire is increased to 196N",
+    "options": {
+      "A": "130.6Hz",
+      "B": "182.9Hz",
+      "C": "358.4Hz",
+      "D": "501.8Hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33932?exam_type=waec&type=obj&page=143",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "715",
+    "text": "The magnitude of the gravitational force between two particles 0.10m apart is 10N. If the distance between them is increased to 0.20m, calculate the magnitude of the new force",
+    "options": {
+      "A": "40.0N",
+      "B": "20.0N",
+      "C": "5.0N",
+      "D": "2.5N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33933?exam_type=waec&type=obj&page=143",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "716",
+    "text": "As the plates of a charged variable capacitor are moved closer together, the potential difference between them",
+    "options": {
+      "A": "increased",
+      "B": "decrease",
+      "C": "remains the same",
+      "D": "is doubled"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33934?exam_type=waec&type=obj&page=144",
+    "correct_answer": "B",
+    "explanation": "As the plates of a charged variable capacitor are moved closer together, the potential difference between themdecreases.\nThis is because the capacitance increases as the distance between the plates decreases. For a constant charge, the potential difference (V = \\(\\frac{\\text{Q}}{\\text{C}}\\)) will decrease when capacitance (C) increases.",
+    "year": "2001"
+  },
+  {
+    "number": "717",
+    "text": "What    is the effective capacitance in the circuit?",
+    "options": {
+      "A": "2\\(\\mu F\\)",
+      "B": "6\\(\\mu F\\)",
+      "C": "18\\(\\mu F\\)",
+      "D": "216\\(\\mu F\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28592425240_maths-34.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33935?exam_type=waec&type=obj&page=144",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "718",
+    "text": "What is the total energy stored by the capacitors?",
+    "options": {
+      "A": "2.0 x 10-4J",
+      "B": "1.0 x 10-4J",
+      "C": "9.0 x 10-2J",
+      "D": "1.0 x 10-2J"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/7148107495_maths-34.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33936?exam_type=waec&type=obj&page=144",
+    "correct_answer": "D",
+    "explanation": "-2",
+    "year": "2001"
+  },
+  {
+    "number": "719",
+    "text": "Three identical lamps each power 100W are connected in parallel across a potential difference of 250V. Calculate the current in the circuit",
+    "options": {
+      "A": "7.5A",
+      "B": "2.5A",
+      "C": "1.2A",
+      "D": "0.8A"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33937?exam_type=waec&type=obj&page=144",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2001"
+  },
+  {
+    "number": "720",
+    "text": "An electric bulb is rated 60W, 220V. Calculate the resistance of its filament when it is operating normally",
+    "options": {
+      "A": "296.7\\(\\Omega\\)",
+      "B": "400.0\\(\\Omega\\)",
+      "C": "512.2\\(\\Omega\\)",
+      "D": "806.7\\(\\Omega\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33938?exam_type=waec&type=obj&page=144",
+    "correct_answer": "D",
+    "explanation": "R = \\(\\frac{v^2}{P} = \\frac{220^2}{100} = 806.7\\Omega\\)",
+    "year": "2001"
+  },
+  {
+    "number": "721",
+    "text": "The Earth's magnetic equator passes through Jos in Nigeria. At Jos. the",
+    "options": {
+      "A": "angle of variation is zero",
+      "B": "magnetic declination is 90o",
+      "C": "angle of dip is zero",
+      "D": "horizontal component of the Earth's magnetic field is zero"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33939?exam_type=waec&type=obj&page=145",
+    "correct_answer": "C",
+    "explanation": "At the magnetic equator, the angle of dip (or inclination) is zero because the magnetic field lines are horizontal.",
+    "year": "2001"
+  },
+  {
+    "number": "722",
+    "text": "Which of the following statements about magnetic lines of force is not correct?",
+    "options": {
+      "A": "a magnnetic line of force is an imaginary line which the north pole of a magnet would describe if it is free to moves",
+      "B": "magnetic lines of force do not cross one another",
+      "C": "magnetic lines of force are closely packed together at neutral point",
+      "D": "the presence of magnetic lines of force in a region indicates the presence of a magnetic field"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33940?exam_type=waec&type=obj&page=145",
+    "correct_answer": "C",
+    "explanation": "At a neutral point, the magnetic field is weak or zero, so the magnetic lines of force are not closely packed together. Instead, they are sparse in that region.",
+    "year": "2001"
+  },
+  {
+    "number": "723",
+    "text": "The material used for constructing the core of an electromagnet is",
+    "options": {
+      "A": "iron",
+      "B": "carbon",
+      "C": "copper",
+      "D": "steel"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33941?exam_type=waec&type=obj&page=145",
+    "correct_answer": "A",
+    "explanation": "Iron is used because it has high magnetic permeability, which enhances the magnetic field produced by the electromagnet.",
+    "year": "2001"
+  },
+  {
+    "number": "724",
+    "text": "In the circuit diagram above. Calculate the energy stored in the inductor at resonance",
+    "options": {
+      "A": "0.100J",
+      "B": "0.050J",
+      "C": "0.010J",
+      "D": "0.005J"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/24303624303_maths-41.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33942?exam_type=waec&type=obj&page=145",
+    "correct_answer": "B",
+    "explanation": "To calculate the energy stored in the inductor at resonance, we can use the formula for the energy stored in an inductor:\nEnergy stored in an inductor = \\(\\frac{1}{2}\\)\u00a0x\u00a0L x\u00a0I\\(^2\\) = 0.5 x 0.1 x 1x1 = 0.050J",
+    "year": "2001"
+  },
+  {
+    "number": "726",
+    "text": "Calculate the reactance of the inductor in the circuit diagram shown above [\\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "132\\(\\Omega\\)",
+      "B": "214\\(\\Omega\\)",
+      "C": "264\\(\\Omega\\)",
+      "D": "269\\(\\Omega\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28592542900_maths-42.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33944?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "\\(X_L = 2 \\pi fL = 2 \\times \\pi \\times 60 \\times 0.7 = 264\\Omega \\)",
+    "year": "2001"
+  },
+  {
+    "number": "728",
+    "text": "Production of x-ray tube begins with",
+    "options": {
+      "A": "photo electric emission",
+      "B": "collision of electrons",
+      "C": "thermionic emission",
+      "D": "field emission of electrons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33946?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "The production of X-rays in an X-ray tube begins with thermionic emission from the hot cathode.",
+    "year": "2001"
+  },
+  {
+    "number": "730",
+    "text": "A nitrogen nucleus bombarded with an alpha particle produces an oxygen nucleus and a proton. The nuclear reaction for this process is \\(^4_2H + ^{14}_2N \\to ^{17}_{8}O + ^1_1H + Q\\). Which of the following statements about the reaction is not correct?",
+    "options": {
+      "A": "the  bombardment results into a nucleus with greater proton number",
+      "B": "it is an induced nuclear reaction",
+      "C": "it is a natural radioactive decay",
+      "D": "the sum of the final nucleon numbers"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33948?exam_type=waec&type=obj&page=146",
+    "correct_answer": "C",
+    "explanation": "The\u00a0reaction is not a natural radioactive decay. Natural decay occurs spontaneously without external influence; this reaction requires an external alpha particle to initiate it.",
+    "year": "2001"
+  },
+  {
+    "number": "732",
+    "text": "Electrons passing through crystals are diffracted because they",
+    "options": {
+      "A": "are repelled by the atoms in the crystal",
+      "B": "are attracted by the atoms in the crystals",
+      "C": "possess wave properties",
+      "D": "are particles"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33950?exam_type=waec&type=obj&page=147",
+    "correct_answer": "C",
+    "explanation": "Electrons passing through crystals are diffracted due to their wave properties. This wave-like behavior allows them to interact with the periodic arrangement of atoms in the crystal, leading to diffraction patterns similar to those seen with light waves. Thus, the correct answer is C. possesses wave properties.",
+    "year": "2001"
+  }
+]

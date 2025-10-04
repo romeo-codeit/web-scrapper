@@ -1,0 +1,602 @@
+[
+  {
+    "number": "281",
+    "text": "A binary operation * is defined on the set of real numbers R, by a* b = -1. Find the identity element under the operation *.",
+    "options": {
+      "A": "-1",
+      "B": "0",
+      "C": "1",
+      "D": "2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50898?exam_type=waec&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "\\(a * a^{-1} = e = -1\\)\n\\(\\therefore a^{-1} = -1\\)",
+    "year": "2011"
+  },
+  {
+    "number": "282",
+    "text": "Express 75\u00b0 in radians, leaving your answer in terms of \\(\\pi\\).",
+    "options": {
+      "A": "\\(\\frac{5\\pi}{12}\\)",
+      "B": "\\(\\frac{3\\pi}{4}\\)",
+      "C": "\\(\\frac{5\\pi}{6}\\)",
+      "D": "\\(\\frac{7\\pi}{6}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50900?exam_type=waec&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "\\(180\u00b0 = \\pi rads\\)\n\\(1\u00b0 = \\frac{\\pi}{180}\\)\n\\(\\therefore 75\u00b0 = \\frac{\\pi}{180} \\times 75 \\)\n= \\(\\frac{5\\pi}{12}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "283",
+    "text": "If \\(\\log_{9} 3 + 2x = 1\\), find x.",
+    "options": {
+      "A": "\\(\\frac{-1}{2}\\)",
+      "B": "\\(\\frac{-1}{4}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50902?exam_type=waec&type=obj&page=57",
+    "correct_answer": "C",
+    "explanation": "\\(\\log_{9} 3 = \\log_{9} (9^{\\frac{1}{2}}) = \\frac{1}{2}\\log_{9} 9 = \\frac{1}{2}\\)\n\\(\\frac{1}{2} + 2x = 1 \\implies 2x = \\frac{1}{2}\\)\n\\(x = \\frac{1}{4}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "284",
+    "text": "Evaluate \\(\\cos (\\frac{\\pi}{2} + \\frac{\\pi}{3})\\)",
+    "options": {
+      "A": "\\(\\frac{-2}{\\sqrt{3}}\\)",
+      "B": "\\(\\frac{-\\sqrt{3}}{2}\\)",
+      "C": "\\(\\frac{\\sqrt{3}}{4}\\)",
+      "D": "\\(\\frac{4}{\\sqrt{3}}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50903?exam_type=waec&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "\\(\\cos (x + y) = \\cos x \\cos y - \\sin x \\sin y\\)\n\\(\\cos (\\frac{\\pi}{2} + \\frac{\\pi}{3}) = \\cos \\frac{\\pi}{2} \\cos \\frac{\\pi}{3} - \\sin \\frac{\\pi}{2} \\sin \\frac{\\pi}{3}\\)\n= \\((0 \\times \\frac{1}{2}) - (1 \\times \\frac{\\sqrt{3}}{2})\\)\n= \\(0 - \\frac{\\sqrt{3}}{2} = -\\frac{\\sqrt{3}}{2}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "285",
+    "text": "Find the remainder when \\(5x^{3} + 2x^{2} - 7x - 5\\) is divided by (x - 2).",
+    "options": {
+      "A": "-51",
+      "B": "-23",
+      "C": "29",
+      "D": "49"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50907?exam_type=waec&type=obj&page=57",
+    "correct_answer": "C",
+    "explanation": "Using remainder theorem, the remainder when \\(5x^{3} + 2x^{2} - 7x -5\\) is divided by (x - 2) = f(2)\n\\(f(2) = 5(2^{3}) + 2(2^{2}) - 7(2) -5 = 40 + 8 - 14 - 5\\)\n= 29",
+    "year": "2011"
+  },
+  {
+    "number": "286",
+    "text": "A function is defined by \\(f(x) = \\frac{3x + 1}{x^{2} - 1}, x \\neq \\pm 1\\). Find f(-3).",
+    "options": {
+      "A": "\\(-1\\frac{1}{4}\\)",
+      "B": "\\(-1\\)",
+      "C": "\\(\\frac{4}{5}\\)",
+      "D": "\\(1\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50909?exam_type=waec&type=obj&page=58",
+    "correct_answer": "B",
+    "explanation": "\\(f(x) = \\frac{3x + 1}{x^{2} - 1}\\)\n\\(f(-3) = \\frac{3(-3) + 1}{(-3)^{2} - 1} = \\frac{-8}{8} = -1\\)",
+    "year": "2011"
+  },
+  {
+    "number": "287",
+    "text": "Simplify \\(\\sqrt[3]{\\frac{8}{27}} - (\\frac{4}{9})^{-\\frac{1}{2}}\\)",
+    "options": {
+      "A": "\\(\\frac{-5}{6}\\)",
+      "B": "\\(-\\frac{4}{27}\\)",
+      "C": "\\(0\\)",
+      "D": "\\(\\frac{2}{9}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50916?exam_type=waec&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "\\(\\sqrt[3]{\\frac{8}{27}} - (\\frac{4}{9})^{\\frac{-1}{2}} \\)\n\\(\\frac{2}{3} - (\\frac{9}{4})^{\\frac{1}{2}}\\)\n= \\(\\frac{2}{3} - \\frac{3}{2}\\)\n= \\(\\frac{-5}{6}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "288",
+    "text": "Solve \\(3x^{2} + 4x + 1 > 0\\)",
+    "options": {
+      "A": "\\(x < -1, x < -\\frac{1}{3}\\)",
+      "B": "\\(x > -1, x > -\\frac{1}{3}\\)",
+      "C": "\\(x > \\frac{1}{3}, x < -1\\)",
+      "D": "\\(x < \\frac{1}{3}, x > -1\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50927?exam_type=waec&type=obj&page=58",
+    "correct_answer": "B",
+    "explanation": "\\(3x^{2} + 4x + 1 > 0 \\)\n\\(3x^{2} + 3x + x + 1 > 0\\)\n\\(3x(x + 1) + 1(x + 1) > 0\\)\n\\((3x + 1)(x + 1) > 0\\)\n\\(3x + 1 > 0 \\implies 3x > -1 \\)\n\\(x > -\\frac{1}{3}\\)\n\\(x + 1 > 0 \\implies x > -1\\)\n\\(x > -1, x > -\\frac{1}{3}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "289",
+    "text": "The equation of a circle is \\(3x^{2} + 3y^{2} + 6x - 12y + 6 = 0\\). Find its radius",
+    "options": {
+      "A": "1",
+      "B": "\\(\\sqrt{3}\\)",
+      "C": "\\(\\sqrt{11}\\)",
+      "D": "\\(\\sqrt{6}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50931?exam_type=waec&type=obj&page=58",
+    "correct_answer": "B",
+    "explanation": "The equation of a circle is given as \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding this, we have \\(x^{2} + y^{2} - 2ax - 2by + a^{2} + b^{2} = r^{2}\\)\nComparing with the given equation, \\(3x^{2} + 3y^{2} + 6x -12y + 6 = 0 \\equiv x^{2} + y^{2} + 2x - 4y + 2 = 0\\) (making the coefficients of \\(x^{2}\\) and \\(y^{2}\\) = 1\u00a0, we get that\n\\(-2a = 2\u00a0\\implies a = -1\\)\n\\(2b = 4\u00a0\\implies b = 2\\)\n\\(r^{2} - a^{2} - b^{2} = -2\\)\n\\(\\therefore r^{2} - (-1)^{2} - (2)^{2} = -2\u00a0\\implies r^{2} = -2\u00a0+ 1 + 4 = 3\\)\n\\(r = \\sqrt{3}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "290",
+    "text": "\\(f(x) = p + qx\\), where p and q are constants. If f(1) = 7 and f(5) = 19, find f(3).",
+    "options": {
+      "A": "13",
+      "B": "15",
+      "C": "17",
+      "D": "26"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50936?exam_type=waec&type=obj&page=58",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = p + qx\\)\n\\(f(1) = p + q(1) \\implies p + q = 7 .... (1)\\)\n\\(f(5) = p + 5q = 19 .....(2)\\)\nSolving for p and q using simultaneous equation, p = 4, q = 3\n\\(f(3) = 4 + 3(3) = 13\\)",
+    "year": "2011"
+  },
+  {
+    "number": "291",
+    "text": "The sum and product of the roots of a quadratic equation are \\(\\frac{4}{7}\\) and \\(\\frac{5}{7}\\) respectively. Find its equation.",
+    "options": {
+      "A": "\\(7x^{2} - 4x - 5 = 0\\)",
+      "B": "\\(7x^{2} - 4x + 5 = 0\\)",
+      "C": "\\(7x^{2} + 4x - 5 = 0\\)",
+      "D": "\\(7x^{2} + 4x + 5 = 0\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50941?exam_type=waec&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "Let the roots of the equation be \\(\\alpha\\) and \\(\\beta\\).\n\\(\\alpha + \\beta = \\frac{-b}{a} = \\frac{4}{7}\\)\n\\(\\alpha \\beta = \\frac{c}{a} = \\frac{5}{7}\\)\n\\(\\implies a = 7, b = -4, c = 5\\)\nEquation: \\(ax^{2} + bx + c = 0 \\)\n= \\(7x^{2} - 4x + 5 = 0\\)",
+    "year": "2011"
+  },
+  {
+    "number": "292",
+    "text": "\\(f(x) = (x^{2} + 3)^{2}\\) is defines on the set of real numbers, R. Find the gradient of f(x) at x = \\(\\frac{1}{2}\\).",
+    "options": {
+      "A": "4.0",
+      "B": "6.5",
+      "C": "5.0",
+      "D": "10.6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50963?exam_type=waec&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "\\(f(x) = (x^{2} + 3)^{2}\\)\nUsing the chain rule, \\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{\\mathrm d y}{\\mathrm d u} \\times \\frac{\\mathrm d u}{\\mathrm d x}\\)\nLet \\(u = x^{2} + 3\\) so that \\(y = u^{2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d u} = 2u\\)\n\\(\\frac{\\mathrm d u}{\\mathrm d x} = 2x\\)\n\\(\\therefore \\frac{\\mathrm d y}{\\mathrm d x} = 2u(2x) = 4xu\\)\nBut \\(u = x^{2} + 3\\),\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 4x(x^{2} + 3)\\)\nAt \\(x = \\frac{1}{2}, \\frac{\\mathrm d y}{\\mathrm d x} = 4(\\frac{1}{2})((\\frac{1}{2})^{2} + 3)\\)\n= \\(2 \\times \\frac{13}{4} = \\frac{13}{2} = 6.5\\)",
+    "year": "2011"
+  },
+  {
+    "number": "293",
+    "text": "Find \\(\\lim \\limits_{x \\to 3} \\frac{x + 3}{x^{2} - x - 12}\\)",
+    "options": {
+      "A": "-1",
+      "B": "\\(\\frac{-1}{7}\\)",
+      "C": "\\(\\frac{1}{7}\\)",
+      "D": "1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50964?exam_type=waec&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "\\(\\lim \\limits_{x \\to 3} \\frac{x + 3}{x^{2} - x - 12} = \\frac{3 + 3}{3^{2} - 3 - 12}\\)\n= \\(\\frac{6}{-6} = -1\\)",
+    "year": "2011"
+  },
+  {
+    "number": "294",
+    "text": "If \\(y^{2} + xy - x = 0\\), find \\(\\frac{\\mathrm d y}{\\mathrm d x}\\).",
+    "options": {
+      "A": "\\(\\frac{1 - y}{2y}\\)",
+      "B": "\\(\\frac{1 - 2y}{x}\\)",
+      "C": "\\(\\frac{1 - y}{x + 2y}\\)",
+      "D": "\\(\\frac{1}{x + 2y}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50966?exam_type=waec&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "Given \\(y^{2} + xy - x = 0\\)\nUsing the method of implicit differentiation, we have\n\\(2y\\frac{\\mathrm d y}{\\mathrm d x} + x\\frac{\\mathrm d y}{\\mathrm d x} + y - 1 = 0\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x}(2y + x) = 1 - y\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{1 - y}{x + 2y}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "295",
+    "text": "A line is perpendicular to \\(3x - y + 11 = 0\\) and passes through the point (1, -5). Find its equation.",
+    "options": {
+      "A": "3y - x -14 = 0",
+      "B": "3x + y + 1 = 0",
+      "C": "3y + x + 1 = 0",
+      "D": "3y + x + 14 = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50970?exam_type=waec&type=obj&page=59",
+    "correct_answer": "D",
+    "explanation": "\\(3x - y + 11 = 0 \\implies y = 3x + 11\\)\n\\(Gradient = 3\\)\nGradient of perpendicular line = \\(\\frac{-1}{3}\\)\n\\(\\therefore \\frac{y - (-5)}{x - 1} = \\frac{-1}{3}\\)\n\\(3(y + 5) = 1 - x\\)\n\\(3y + x + 15 - 1 = 3y + x + 14 = 0\\)",
+    "year": "2011"
+  },
+  {
+    "number": "296",
+    "text": "Solve \\(9^{2x + 1} = 81^{3x + 2}\\)",
+    "options": {
+      "A": "\\(\\frac{-3}{4}\\)",
+      "B": "\\(\\frac{-2}{3}\\)",
+      "C": "\\(\\frac{4}{5}\\)",
+      "D": "\\(\\frac{3}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50971?exam_type=waec&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "\\(9^{2x + 1} = 81^{3x + 2}\\)\n\\(9^{2x + 1} = (9^{2})^{3x + 2}\\)\n\\(9^{2x + 1} = 9^{6x + 4}\\)\nEquating powers,\n\\(2x + 1 = 6x + 4 \\implies -3 = 4x\\)\n\\(\\therefore x = \\frac{-3}{4}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "297",
+    "text": "The inverse of a function is given by \\(f^{-1} : x \\to \\frac{x + 1}{4}\\).",
+    "options": {
+      "A": "\\(f : x \\to 4x - 1\\)",
+      "B": "\\(f : x \\to 4x + 1\\)",
+      "C": "\\(f : x \\to \\frac{4x - 1}{4}\\)",
+      "D": "\\(f : x \\to \\frac{x - 1}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50972?exam_type=waec&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "The inverse of the inverse of a function gives the function\ni.e \\(f^{-1}(f^{-1}(x)) = f(x)\\)\n\\(f^{-1}(x) = \\frac{x + 1}{4}\\)\nTake y = x, so\n\\(f^{-1}(y) = \\frac{y + 1}{4}\\)\nLet \\(x = f^{-1}(y)\\),\n\\(x = \\frac{y + 1}{4} \\implies 4x = y + 1\\)\n\\(y = f(x) = 4x - 1\\)",
+    "year": "2011"
+  },
+  {
+    "number": "298",
+    "text": "If \\(\\begin{pmatrix} 3 & 2 \\\\ 7 & x \\end{pmatrix} \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} 12 \\\\ 29 \\end{pmatrix} \\), find x.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50974?exam_type=waec&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "\\(\\begin{pmatrix} 3 & 2 \\\\ 7 & x \\end{pmatrix} \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix} = \\begin{pmatrix} 12 \\\\ 29 \\end{pmatrix}\\)\n\\(\\begin{pmatrix} 3 \\times 2 + 2 \\times 3 \\\\ 7 \\times 2 + x \\times 3 \\end{pmatrix} = \\begin{pmatrix} 12 \\\\ 29 \\end{pmatrix}\\)\n\\(\\implies 14 + 3x = 29 \\)\n\\(3x = 29 - 14 = 15\\)\n\\(x = 5\\)",
+    "year": "2011"
+  },
+  {
+    "number": "299",
+    "text": "The fourth term of a geometric sequence is 2 and the sixth term is 8. Find the common ratio.",
+    "options": {
+      "A": "\\(\\pm 1\\)",
+      "B": "\\(\\pm 2\\)",
+      "C": "\\(\\pm 3\\)",
+      "D": "\\(\\pm 4\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50977?exam_type=waec&type=obj&page=60",
+    "correct_answer": "B",
+    "explanation": "\\(T_{n} = ar^{n - 1}\\) (Exponential sequence)\n\\(T_{4} = ar^{3} = 2 .... (1)\\)\n\\(T_{6} = ar^{5} = 8 ......(2)\\)\nDivide (2) by (1),\n\\(\\frac{ar^{5}}{ar^{3}} = \\frac{8}{2} \\)\n\\(r^{2} = 4\\)\n\\(r = \\pm 2\\)",
+    "year": "2011"
+  },
+  {
+    "number": "300",
+    "text": "What percentage increase in the radius of a sphere will cause its volume to increase by 45%?",
+    "options": {
+      "A": "13%",
+      "B": "15%",
+      "C": "23%",
+      "D": "25%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50995?exam_type=waec&type=obj&page=60",
+    "correct_answer": null,
+    "explanation": "Let the original volume be V with radius r.\n\\(V = \\frac{4}{3}\\pi r^{3}\\)\n45% increased volume = 145%V.\nLet the %age increase in radius = m%r\n\\(\\frac{145}{100}V = \\frac{4}{3}\\pi (\\frac{mr}{100})^{3}\\)\n\\(1.45V = (\\frac{4}{3}\\pi r^{3})(\\frac{m}{100})^{3}\\)\n\\(1.45V = V(\\frac{m}{100})^{3}\\)\n\\(\\implies 1.45 \\times 10^{6} = m^{3}\\)\n\\(m = \\sqrt[3]{1.45 \\times 10^{6}} = 113.2%\\)\n\\(\\therefore \\text{%age increase =}\u00a0 113.2 - 100 = 13.2%\\)\n\\(\\approxeq 13%\\)",
+    "year": "2011"
+  },
+  {
+    "number": "301",
+    "text": "Evaluate \\(\\frac{1}{1 - \\sin 60\u00b0}\\), leaving your answer in surd form.",
+    "options": {
+      "A": "\\(1 - \\sqrt{3}\\)",
+      "B": "\\(2 - \\sqrt{3}\\)",
+      "C": "\\(4 - 2\\sqrt{3}\\)",
+      "D": "\\(4 + 2\\sqrt{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51000?exam_type=waec&type=obj&page=61",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "302",
+    "text": "Find the equation of a circle with centre (-3, -8) and radius \\(4\\sqrt{6}\\).",
+    "options": {
+      "A": "\\(x^{2} - y^{2} - 6x + 16y + 23 = 0\\)",
+      "B": "\\(x^{2} + y^{2} + 6x + 16y - 23 = 0\\)",
+      "C": "\\(x^{2} + y^{2} + 6x - 16y + 23 = 0\\)",
+      "D": "\\(x^{2} + y^{2} - 6x + 16y + 23 = 0\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51001?exam_type=waec&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "Equation of a circle: \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nwhere (a, b) and r are the coordinates of the centre and radius respectively.\nGiven : \\((a, b) = (-3, -8); r = 4\\sqrt{6}\\)\n\\((x - (-3))^{2} + (y - (-8))^{2} = (4\\sqrt{6})^{2}\\)\n\\(x^{2} + 6x + 9 + y^{2} + 16y + 64 = 96\\)\n\\(x^{2} + y^{2} + 6x + 16y + 9 + 64 - 96 = 0\\)\n\\(\\implies x^{2} + y^{2} + 6x + 16y - 23 = 0\\)",
+    "year": "2011"
+  },
+  {
+    "number": "303",
+    "text": "Determine the coefficient of \\(x^{2}\\) in the expansion of \\((a + 3x)^{6}\\).",
+    "options": {
+      "A": "\\(18a^{2}\\)",
+      "B": "\\(45a^{4}\\)",
+      "C": "\\(135a^{4}\\)",
+      "D": "\\(1215a^{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51002?exam_type=waec&type=obj&page=61",
+    "correct_answer": "C",
+    "explanation": "\\((a + 3x)^{6}\\).\nThe coefficient of \\(x^{2}\\) is:\n\\(^{6}C_{4}(a)^{6 - 2} (3x)^{2} = \\frac{6!}{(6 - 4)! 4!} (a^{4})(9x^{2})\\)\n\\(15 \\times a^{4} \\times 9 = 135a^{4}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "304",
+    "text": "The mean of 2, 5, (x + 2), 7 and 9 is 6. Find the median.",
+    "options": {
+      "A": "5.5",
+      "B": "6.0",
+      "C": "6.5",
+      "D": "7.0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51004?exam_type=waec&type=obj&page=61",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{2 + 5+ (x + 2) + 7 + 9}{5} = 6 \\implies 25 + x = 30\\)\n\\(x = 5 \\therefore x + 2 = 5 + 2 = 7\\)\nArranging the numbers in ascending order: 2, 5, 7, 7, 9.\nMedian = 7.0",
+    "year": "2011"
+  },
+  {
+    "number": "305",
+    "text": "The probability that Kofi and Ama hit a target in a shooting competition are \\(\\frac{1}{6}\\) and \\(\\frac{1}{9}\\) respectively. What is the probability that only one of them hit the target?",
+    "options": {
+      "A": "\\(\\frac{1}{54}\\)",
+      "B": "\\(\\frac{13}{54}\\)",
+      "C": "\\(\\frac{20}{27}\\)",
+      "D": "\\(\\frac{41}{54}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51009?exam_type=waec&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "P(only one hit target) = P(Kofi not Ama) + P(Ama not Kofi)\nP(Kofi not Ama) = P(Kofi and Ama') = \\(\\frac{1}{6} \\times \\frac{8}{9} = \\frac{8}{54}\\)\nP(Ama not Kofi) = P(Ama and Kofi') = \\(\\frac{1}{9} \\times \\frac{5}{6} = \\frac{5}{54}\\)\nP(only one hit target) = \\(\\frac{8}{54} + \\frac{5}{54} = \\frac{13}{54}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "306",
+    "text": "In how many ways can 3 prefects be chosen out of 8 prefects?",
+    "options": {
+      "A": "6",
+      "B": "24",
+      "C": "56",
+      "D": "336"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51012?exam_type=waec&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "= \\(^{8}C_{3} = \\frac{8!}{(8 - 3)! 3!}\\)\n= \\(\\frac{8 \\times 7 \\times 6}{3 \\times 2}\\)\n= 56 ways",
+    "year": "2011"
+  },
+  {
+    "number": "307",
+    "text": "Find the standard deviation of the numbers 3,6,2,1,7 and 5.",
+    "options": {
+      "A": "2.00",
+      "B": "2.16",
+      "C": "2.50",
+      "D": "2.56"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51014?exam_type=waec&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "\\(x\\)362175Total = 24\\(x - \\bar{x}\\)-12-2-331\\((x - \\bar{x})^{2}\\)14499128\n\\(\\bar{x} = \\frac{24}{6} = 4\\)\n\\(S.D = \\sqrt{\\frac{\\sum (x - \\bar{x})^{2}}{n}}\\)\n= \\(\\sqrt{\\frac{28}{6}} = \\sqrt{4.667} = 2.16\\)",
+    "year": "2011"
+  },
+  {
+    "number": "308",
+    "text": "Marks\n5-7\n8-10\n11-13\n14-16\n17-19\n20-22\n\n\nNo of students\n4\n7\n26\n41\n14\n8\n\n\n\nThe table above shows the distribution of marks of students in a class. Find the upper class boundary of the modal class.",
+    "options": {
+      "A": "13.5",
+      "B": "16",
+      "C": "16.5",
+      "D": "22.5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51017?exam_type=waec&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "The modal class = 14 - 16\nThe upper class boundary = \\(\\frac{16 + 17}{2} = \\frac{33}{2} = 16.5\\)",
+    "year": "2011"
+  },
+  {
+    "number": "309",
+    "text": "If \\(^{3x}C_{2} = 15\\), find the value of x?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51019?exam_type=waec&type=obj&page=62",
+    "correct_answer": "A",
+    "explanation": "\\(^{3x}C_{2} = \\frac{3x(3x - 1)(3x - 2)!}{(3x - 2)! 2!} = 15\\)\n\\(3x(3x - 1) = 30 \\implies 9x^{2} - 3x - 30 = 0\\)\n\\(9x^{2} - 18x + 15x - 30 = 9x(x - 2) + 15(x - 2) = 0\\)\n\\((9x + 15)(x - 2) = 0\\)\nx = 2.",
+    "year": "2011"
+  },
+  {
+    "number": "310",
+    "text": "Four doctors and two nurses are to sit round a circular table. In how many ways can this be done if the nurses are to sit together?",
+    "options": {
+      "A": "48",
+      "B": "60",
+      "C": "240",
+      "D": "720"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51021?exam_type=waec&type=obj&page=62",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "311",
+    "text": "A basket contains 3 red and 1 white identical balls. A ball is drawn from the basket at random. Calculate the probability that it is either white or red.",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51023?exam_type=waec&type=obj&page=63",
+    "correct_answer": "D",
+    "explanation": "P(white or red) = P(white) + P(red)\n= \\(\\frac{3}{4} + \\frac{1}{4}\\)\n= 1",
+    "year": "2011"
+  },
+  {
+    "number": "312",
+    "text": "A force of 200N acting on a body of mass 20kg initially at rest causes it to move a distance of 320m along a straight line for t secs. Find the value of t.",
+    "options": {
+      "A": "4s",
+      "B": "6s",
+      "C": "8s",
+      "D": "10s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51027?exam_type=waec&type=obj&page=63",
+    "correct_answer": "C",
+    "explanation": "F = ma\n\\(200 = 20a \\implies a = 10m/s^{2}\\)\n\\(s = ut + \\frac{1}{2}at^{2}\\)\n\\(320 = (0 \\times t) + \\frac{1}{2} 10t^{2}\\)\n\\(320 = 5t^{2} \\implies t^{2} = 64\\)\n\\(t = 8secs\\)",
+    "year": "2011"
+  },
+  {
+    "number": "313",
+    "text": "Two forces 10N and 15N act on an object at an angle of 120\u00b0 to each other. Find the magnitude of the resultant.",
+    "options": {
+      "A": "\\(5\\sqrt{5}N\\)",
+      "B": "\\(5\\sqrt{7}N\\)",
+      "C": "\\(7\\sqrt{5}N\\)",
+      "D": "\\(7\\sqrt{7}N\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51030?exam_type=waec&type=obj&page=63",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2011"
+  },
+  {
+    "number": "314",
+    "text": "A body of mass 25kg changes its speed from 15m/s to 35m/s in 5 seconds by the action of an applied force F. Find the value of F.",
+    "options": {
+      "A": "100N",
+      "B": "375N",
+      "C": "500N",
+      "D": "600N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51032?exam_type=waec&type=obj&page=63",
+    "correct_answer": "A",
+    "explanation": "\\(F = ma = m(\\frac{v - u}{t})\\)\n\\(F = 25(\\frac{35 - 15}{5}) = 25 \\times 4 = 100N\\)",
+    "year": "2011"
+  },
+  {
+    "number": "315",
+    "text": "A particle starts from rest and moves in a straight line such that its velocity, v, at time t seconds is given by \\(v = (3t^{2} - 2t) ms^{-1}\\). Calculate the distance covered in the first 2 seconds.",
+    "options": {
+      "A": "2m",
+      "B": "4m",
+      "C": "6m",
+      "D": "8m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51035?exam_type=waec&type=obj&page=63",
+    "correct_answer": "B",
+    "explanation": "\\(v(t) = (3t^{2} - 2t) ms^{-1}\\)\n\\(s(t) = \\int v(t) \\mathrm {d} t\\)\n= \\(\\int (3t^{2} - 2t) \\mathrm {d} t = t^{3} - t^{2}\\)\n\\(s(2) = 2^{3} - 2^{2} = 8 - 4 = 4m\\)",
+    "year": "2011"
+  },
+  {
+    "number": "316",
+    "text": "A particle starts from rest and moves in a straight line such that its velocity, v, at time t seconds is given by \\(v = (3t^{2} - 2t) ms^{-1}\\). Determine the acceleration when t = 2 secs.",
+    "options": {
+      "A": "\\(4 ms^{-2}\\)",
+      "B": "\\(6 ms^{-2}\\)",
+      "C": "\\(8 ms^{-2}\\)",
+      "D": "\\(10 ms^{-2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51038?exam_type=waec&type=obj&page=64",
+    "correct_answer": "D",
+    "explanation": "\\(v(t) = (3t^{2} - 2t) ms^{-1}\\)\n\\(a(t) = \\frac{\\mathrm d v}{\\mathrm d t} = (6t - 2) ms^{-2}\\)\n\\(a(2) = 6(2) - 2 = 12 - 2 = 10 ms^{-2}\\)",
+    "year": "2011"
+  },
+  {
+    "number": "317",
+    "text": "Given that \\(q = 9i + 6j\\) and \\(r = 4i - 6j\\), which of the following statements is true?",
+    "options": {
+      "A": "r and q are collinear",
+      "B": "r and q are perpendicular",
+      "C": "The magnitude of r is 52 units",
+      "D": "The projection of r on q is \\(\\sqrt{117}\\) units."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51039?exam_type=waec&type=obj&page=64",
+    "correct_answer": "B",
+    "explanation": "The dot product of two perpendicular forces = 0\n\\((9i + 6j).(4i - 6j) = 36 - 36 = 0\\)\nHence, r and q are perpendicular.",
+    "year": "2011"
+  },
+  {
+    "number": "318",
+    "text": "The functions f and g are defined on the set, R, of real numbers by \\(f : x \\to x^{2} - x - 6\\) and \\(g : x \\to x - 1\\). Find \\(f \\circ g(3)\\).",
+    "options": {
+      "A": "-8",
+      "B": "-6",
+      "C": "-4",
+      "D": "-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51043?exam_type=waec&type=obj&page=64",
+    "correct_answer": "C",
+    "explanation": "\\(f : x \\to x^{2} - x - 6\\); \\(g : x \\to x - 1\\)\n\\(g(3) = 3 - 1 = 2\\)\n\\(f(g(3)) = f(2) = 2^{2} - 2 - 6 = 4 - 2 - 6 = -4\\)",
+    "year": "2011"
+  },
+  {
+    "number": "319",
+    "text": "Find the unit vector in the direction of (-5i + 12j).",
+    "options": {
+      "A": "\\(\\frac{1}{13}(-5i - 12j)\\)",
+      "B": "\\(\\frac{1}{13}(5i - 12j)\\)",
+      "C": "\\(\\frac{1}{13}(-5i + 12j)\\)",
+      "D": "\\(\\frac{1}{13}(5i + 12j)\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51046?exam_type=waec&type=obj&page=64",
+    "correct_answer": "C",
+    "explanation": "The unit vector \\(\\hat{n} = \\frac{\\overrightarrow{r}}{|r|}\\)\n\\(\\hat{n} = \\frac{-5i + 12j}{\\sqrt{(-5)^{2} + (12)^{2}} \\)\n= \\(\\frac{-5i + 12j}{13} \\)",
+    "year": "2011"
+  },
+  {
+    "number": "320",
+    "text": "Find, correct to two decimal places, the acute angle between \\(p = \\begin{pmatrix} 13 \\\\ 14 \\end{pmatrix}\\) and \\(q = \\begin{pmatrix} 12 \\\\ 5 \\end{pmatrix}\\).",
+    "options": {
+      "A": "23.52\u00b0",
+      "B": "24.50\u00b0",
+      "C": "29.52\u00b0",
+      "D": "29.82\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51054?exam_type=waec&type=obj&page=64",
+    "correct_answer": "B",
+    "explanation": "\\(p . q = |p||q|\\cos \\theta\\)\n\\(156 + 70 = (\\sqrt{13^{2} + 14^{2}})(\\sqrt{12^{2} + 5^{2}}) \\cos \\theta\\)\n\\(226 = (\\sqrt{365})(13) \\cos \\theta\\)\n\\(\\frac{226}{13\\sqrt{365}} = \\cos \\theta\\)\n\\(\\cos \\theta = 0.9099\\)\n\\(\\theta = 24.50\u00b0\\)",
+    "year": "2011"
+  }
+]

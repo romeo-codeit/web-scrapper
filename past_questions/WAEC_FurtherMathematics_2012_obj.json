@@ -1,0 +1,602 @@
+[
+  {
+    "number": "241",
+    "text": "Which of the following sets is equivalent to \\((P \\cup Q) \\cap (P \\cup Q')\\)?",
+    "options": {
+      "A": "P",
+      "B": "\\(P \\cap Q\\)",
+      "C": "\\(P \\cup Q\\)",
+      "D": "\\(\\emptyset\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50766?exam_type=waec&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "242",
+    "text": "Simplify: \\(\\frac{\\cos 2\\theta - 1}{\\sin 2\\theta}\\)",
+    "options": {
+      "A": "\\(-\\tan \\theta\\)",
+      "B": "\\(-\\cos \\theta\\)",
+      "C": "\\(\\tan \\theta\\)",
+      "D": "\\(\\cos \\theta\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50771?exam_type=waec&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{\\cos 2\\theta - 1}{\\sin 2\\theta}\\)\n\\(\\cos (x + y) = \\cos x \\cos y - \\sin x \\sin y \\implies \\cos 2\\theta = \\cos^{2} \\theta - \\sin^{2} \\theta\\)\n\\(\\cos^{2} \\theta = 1 - \\sin^{2} \\theta \\implies \\cos 2\\theta = 1 - 2\\sin^{2} \\theta\\)\n\\(\\sin 2\\theta = 2\\sin \\theta \\cos \\theta\\)\n\\(\\therefore \\frac{\\cos 2\\theta - 1}{\\sin 2\\theta} = \\frac{1 - 2\\sin^{2}\\theta - 1}{2\\sin \\theta \\cos \\theta}\\)\n= \\(\\frac{-2 \\sin^{2} \\theta}{2\\sin \\theta \\cos \\theta} = \\frac{- \\sin \\theta}{\\cos \\theta}\\)\n= \\(-\\tan \\theta\\)",
+    "year": "2012"
+  },
+  {
+    "number": "243",
+    "text": "Solve the inequality \\(x^{2} - 2x \\geq 3\\)",
+    "options": {
+      "A": "\\(-1 \\leq x \\leq 3\\)",
+      "B": "\\(x \\geq 3\\) and \\(x \\leq -1\\)",
+      "C": "\\(x \\geq 3\\) or \\(x < -1\\)",
+      "D": "\\(-1 \\leq x < 3\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50773?exam_type=waec&type=obj&page=49",
+    "correct_answer": "B",
+    "explanation": "\\(x^{2} - 2x \\geq 3 \\implies x^{2} - 2x - 3 \\geq 0\\)\n\\(x^{2} + x - 3x - 3 = (x + 1)(x - 3) \\geq 0\\)\n\\(x = -1 ; x = 3\\)\nCheck: \\(x = -1\u00a0 : (-1)^{2} - 2(-1)\u00a0 = 1 + 2 \\geq 3\\)\u00a0 (satisfied)\n\\(-1 < x < 3 : 0^{2} - 2(0) = 0 \\geq 3\\) (not satisfied)\n\\(x < -1 : (-2)^{2} - 2(-2) = 4 + 4 = 8 \\geq 3\\) (satisfied)\n\\(x = 3 : 3^{2} - 2(3) = 9 - 6 = 3 \\geq 3\\) (satisfied)\n\\(x > 3 : 4^{2} - 2(4) = 16 - 8 = 8 \\geq 3\\) (satisfied)\n\\(\\therefore x^{2} - 2x \\geq\u00a0\\text{3 is satisfied in the region x}\u00a0\\leq \\text{-1 and x} \\geq 3\\)",
+    "year": "2012"
+  },
+  {
+    "number": "244",
+    "text": "Given that \\(\\sqrt{6}, 3\\sqrt{2}, 3\\sqrt{6}, 9\\sqrt{2},...\\) are the first four terms of an exponential sequence (G.P), find in its simplest form the 8th term.",
+    "options": {
+      "A": "\\(27\\sqrt{2}\\)",
+      "B": "\\(27\\sqrt{6}\\)",
+      "C": "\\(81\\sqrt{2}\\)",
+      "D": "\\(81\\sqrt{6}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50776?exam_type=waec&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "\\(T_{n} = ar^{n - 1}\\) (Geometric progression)\n\\(a = \\sqrt{6}, r = \\frac{T_{2}}{T_{1}} = \\frac{3\\sqrt{2}}{\\sqrt{6}} \\)\n\\(r = \\frac{\\sqrt{18}}{\\sqrt{6}} = \\sqrt{3}\\)\n\\(\\therefore T_{8} = (\\sqrt{6})(\\sqrt{3})^{8 - 1} \\)\n= \\((\\sqrt{6})(27\\sqrt{3}) = 27\\sqrt{18} = 81\\sqrt{2}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "245",
+    "text": "Given that \\(\\sin x = \\frac{-\\sqrt{3}}{2}\\) and \\(\\cos x > 0\\), find x.",
+    "options": {
+      "A": "300\u00b0",
+      "B": "240\u00b0",
+      "C": "120\u00b0",
+      "D": "60\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50778?exam_type=waec&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "In order to do this, simply find the option in the range where only the cos is +ve. This occurs in the range \\(270\u00b0 \\leq x \\leq 360\u00b0\\).\nCheck: \\(\\sin 300 = - \\sin 60 = \\frac{-\\sqrt{3}}{2}\\)\n\\(\\cos 300 = \\cos 60 = \\frac{1}{2}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "246",
+    "text": "Evaluate \\(\\log_{10}(\\frac{1}{3} + \\frac{1}{4}) + 2\\log_{10} 2 + \\log_{10} (\\frac{3}{7})\\)",
+    "options": {
+      "A": "-3",
+      "B": "0",
+      "C": "\\(\\frac{5}{6}\\)",
+      "D": "1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50780?exam_type=waec&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "\\(\\log_{10} (\\frac{1}{3} + \\frac{1}{4}) + 2\\log_{10} 2 + \\log_{10} (\\frac{3}{7})\\)\n\\(\\frac{1}{3} + \\frac{1}{4} = \\frac{7}{12}\\)\n= \\(\\log_{10} (\\frac{7}{12} \\times 2^{2} \\times \\frac{3}{7})\\)\n= \\(\\log_{10} 1 = 0\\)",
+    "year": "2012"
+  },
+  {
+    "number": "247",
+    "text": "QRS is a triangle such that \\(\\overrightarrow{QR} = (3i + 2j)\\) and \\(\\overrightarrow{SR} = (-5i + 3j)\\), find \\(\\overrightarrow{SQ}\\).",
+    "options": {
+      "A": "8i + j",
+      "B": "2i - j",
+      "C": "-2i - 3j",
+      "D": "-8i - j"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50784?exam_type=waec&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "\\(\\overrightarrow{SQ} = \\overrightarrow{SR} + \\overrightarrow{RQ}\\)\n\\(\\overrightarrow{RQ} = -\\overrightarrow{QR} = - (3i + 2j) = -3i - 2j\\)\n\\(\\overrightarrow{SQ} = (-5i + 3j) - 3i - 2j = -8i + j\\)",
+    "year": "2012"
+  },
+  {
+    "number": "248",
+    "text": "If (x + 1) is a factor of the polynomial \\(x^{3} + px^{2} + x + 6\\). Find the value of p.",
+    "options": {
+      "A": "-8",
+      "B": "-4",
+      "C": "4",
+      "D": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50786?exam_type=waec&type=obj&page=50",
+    "correct_answer": "B",
+    "explanation": "If (x + 1) is a factor, then f(-1) = 0.\n\\((-1)^{3} + p(-1)^{2} + (-1) + 6 = 0\\)\n\\(-1 + p - 1 + 6 = 0 \\implies p + 4 = 0\\)\n\\(p = -4\\)",
+    "year": "2012"
+  },
+  {
+    "number": "249",
+    "text": "A polynomial is defined by \\(f(x + 1) = x^{3} + px^{2} - 4x + 2\\), find f(2).",
+    "options": {
+      "A": "-8",
+      "B": "-2",
+      "C": "2",
+      "D": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50789?exam_type=waec&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "Given: \\(f(x + 1) = x^{3} + 3x^{2} - 4x + 2\\).\n\\(f(2) = f(x + 1) \\implies x + 1 = 2; x = 1\\)\n\\(f(2) = 1^{3} + 3(1)^{2} - 4(1) + 2 = 1 + 3 - 4 + 2 = 2\\)",
+    "year": "2012"
+  },
+  {
+    "number": "250",
+    "text": "The equation of a circle is \\(3x^{2} + 3y^{2} + 24x - 12y = 15\\). Find its radius.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50792?exam_type=waec&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "The equation of a circle is given as: \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding, we have: \\(x^{2} + y^{2} - 2ax - 2by + a^{2} + b^{2} = r^{2}\\)\n\\(\\implies x^{2} + y^{2} - 2ax - 2by = r^{2} - a^{2} - b^{2}\\)\nComparing with the given equation: \\(3x^{2} + 3y^{2} + 24x - 12y = 15\\)\nMaking the coefficients of \\(x^{2}\\) and \\(y^{2}\\) = 1, we have\n\\(x^{2} + y^{2} + 8x - 4y = 5\\)\n\\(2a = -8 \\implies a = -4\\)\n\\(2b = 4 \\implies b = 2\\)\n\\(r^{2} - a^{2} - b^{2} = 5 \\implies r^{2} = 5 + (-4)^{2} + (2)^{2} = 5 + 16 + 4 = 25\\)\n\\(\\therefore r = 5\\)",
+    "year": "2012"
+  },
+  {
+    "number": "251",
+    "text": "If the midpoint of the line joining (1 - k, -4) and (2, k + 1) is (-k, k), find the value of k.",
+    "options": {
+      "A": "-4",
+      "B": "-3",
+      "C": "-2",
+      "D": "-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50793?exam_type=waec&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "Midpoint between \\((x_{1}, y_{1})\\) and \\((x_{2}, y_{2})\\) = \\((\\frac{x_{1} + x_{2}}{2}, \\frac{y_{1} + y_{2}}{2})\\).\n\\((-k, k) = (\\frac{2 + (1 + k)}{2}, \\frac{-4 + (k + 1)}{2})\\)\n\\(-k = \\frac{k + 3}{2} \\implies -2k = k + 3\\)\n\\(-3k = 3 \\implies k = -1\\)",
+    "year": "2012"
+  },
+  {
+    "number": "252",
+    "text": "Evaluate \\(\\int_{-2}^{3} (3x^{2} - 2x - 12) \\mathrm {d} x\\)",
+    "options": {
+      "A": "-30",
+      "B": "-18",
+      "C": "-6",
+      "D": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50794?exam_type=waec&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "\\(\\int (3x^{2} - 2x - 12) \\mathrm {d} x = \\frac{3x^{2 + 1}}{2 + 1} - \\frac{2x^{1 + 1}}{2} - 12x\\)\n= \\(x^{3} - x^{2} - 12x\\)\n\\((x^{3} - x^{2} - 12x)|_{-2}^{3} = ((3^{3}) - (3^{2}) - 12(3)) - ((-2^{3}) - (-2^{2}) - 12(-2))\\)\n= \\((27 - 9 - 36) - (-8 - 4 + 24) = -18 - 12 = -30\\)",
+    "year": "2012"
+  },
+  {
+    "number": "253",
+    "text": "If \\(y = x^{3} - x^{2} - x + 6\\), find the values of x at the turning point.",
+    "options": {
+      "A": "\\(\\frac{1}{2}, 3\\)",
+      "B": "\\(\\frac{1}{3}, -\\frac{1}{2}\\)",
+      "C": "\\(1, -\\frac{1}{3}\\)",
+      "D": "\\(1, \\frac{1}{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50796?exam_type=waec&type=obj&page=51",
+    "correct_answer": "C",
+    "explanation": "At turning point, \\(\\frac{\\mathrm d y}{\\mathrm d x} = 0\\).\nGiven \\(x^{3} - x^{2} - x + 6 \\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} - 2x - 1 = 0 \\)\n\\(3x^{2} - 3x + x - 1 = 0 \\implies (3x + 1)(x - 1) = 0\\)\n\\(x = \\frac{-1}{3}, 1\\)",
+    "year": "2012"
+  },
+  {
+    "number": "254",
+    "text": "Given that \\(P = \\begin{pmatrix} 2 & 1 \\\\ 5 & -3 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} 4 & -8 \\\\ 1 & -2 \\end{pmatrix}\\), Find (2P - Q).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -6 & 17 \\\\ 3 & 1 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -2 & 9 \\\\ 4 & 1 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 0 & -6 \\\\ 9 & -8 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 0 & 10 \\\\ 9 & -4 \\end{pmatrix}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50797?exam_type=waec&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "\\(P = \\begin{pmatrix} 2 & 1 \\\\ 5 & -3 \\end{pmatrix} ; Q = \\begin{pmatrix} 4 & -8 \\\\ 1 & -2 \\end{pmatrix}\\)\n\\(2P = \\begin{pmatrix} 4 & 2 \\\\ 10 & -6 \\end{pmatrix}\\)\n\\(2P - Q = \\begin{pmatrix} 4 & 2 \\\\ 10 & -6 \\end{pmatrix} - \\begin{pmatrix} 4 & -8 \\\\ 1 & -2 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 0 & 10 \\\\ 9 & -4 \\end{pmatrix}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "255",
+    "text": "A binary operation, \\(\\Delta\\), is defined on the set of real numbers by \\(a \\Delta b = a + b + 4\\). Find the identity element.",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "-4"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50798?exam_type=waec&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "\\(a \\Delta b = a + b + 4\\)\n\\(a \\Delta e = a + e + 4 = a\\)\n\\(e = a - a - 4 = -4\\)",
+    "year": "2012"
+  },
+  {
+    "number": "256",
+    "text": "The marks obtained by 10 students in a test are as follows: 3, 7, 6, 2, 8, 5, 9, 1, 4 and 10. Find the mean mark.",
+    "options": {
+      "A": "4.50",
+      "B": "5.50",
+      "C": "6.50",
+      "D": "6.75"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50801?exam_type=waec&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "Mean \\(\\bar{x}\\) = \\(\\frac{3 + 7 + 6 + 2 + 8 + 5 + 9 + 1 + 4 + 10}{10} \\)\n= \\(\\frac{55}{10} = 5.50\\)",
+    "year": "2012"
+  },
+  {
+    "number": "257",
+    "text": "The marks obtained by 10 students in a test are as follows: 3, 7, 6, 2, 8, 5, 9, 1, 4 and 10. Find the variance.",
+    "options": {
+      "A": "8.25",
+      "B": "8.50",
+      "C": "9.00",
+      "D": "9.17"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50810?exam_type=waec&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "Mean \\(\\bar{x}\\) = \\(\\frac{3 + 7 + 6 + 2 + 8 + 5 + 9 + 1 + 4 + 10}{10} \\)\n= \\(\\frac{55}{10} = 5.50\\)\n\\(x\\)37628591410Total\\(x - \\bar{x}\\)-2.51.50.5-3.52.5-0.53.5-4.5-1.54.5\\((x - \\bar{x})^{2}\\)6.252.250.2512.256.250.2512.2520.252.2520.2582.5\nVariance = \\(\\frac{\\sum (x - \\bar{x})^{2}}{n}\\)\n= \\(\\frac{82.5}{10}\\)\n= 8.25",
+    "year": "2012"
+  },
+  {
+    "number": "258",
+    "text": "If r denotes the correlation coefficient between two variables, which of the following is always true?",
+    "options": {
+      "A": "\\(0 < r \\leq 1\\)",
+      "B": "\\(-1 \\leq r < 1\\)",
+      "C": "\\(-1 < r \\leq 0\\)",
+      "D": "\\(-1 \\leq r \\leq 1\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50819?exam_type=waec&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "259",
+    "text": "A stone is dropped from a height of 45m. Find the time it takes to hit the ground. \\([g = 10 ms^{-2}]\\)",
+    "options": {
+      "A": "3.0 seconds",
+      "B": "4.5 seconds",
+      "C": "5.0 seconds",
+      "D": "9.0 seconds"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50828?exam_type=waec&type=obj&page=52",
+    "correct_answer": "A",
+    "explanation": "\\(s = ut + \\frac{1}{2}gt^{2}\\)\n\\(u = 0; s = 45m; g = 10ms^{-2}\\)\n\\(45 = 0 + \\frac{1}{2}(10)t^{2} = 5t^{2}\\)\n\\(t^{2} = \\frac{45}{5} = 9\\)\n\\(t = 3.0s\\)",
+    "year": "2012"
+  },
+  {
+    "number": "260",
+    "text": "Differentiate \\(\\frac{x}{x + 1}\\) with respect to x.",
+    "options": {
+      "A": "\\(\\frac{1}{x + 1}\\)",
+      "B": "\\(\\frac{1}{(x + 1)^{2}}\\)",
+      "C": "\\(\\frac{1 - x}{x + 1}\\)",
+      "D": "\\(\\frac{1 - x}{(x + 1)^{2}}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50833?exam_type=waec&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "\\(y = \\frac{x}{x + 1}\\)\nUsing quotient rule because the function is of the form \\(\\frac{u(x)}{v(x)}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{v\\frac{\\mathrm d u}{\\mathrm d x} - u\\frac{\\mathrm d v}{\\mathrm d x}}{v^{2}}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{(x + 1) . 1 - x . 1}{(x + 1)^{2}}\\)\n= \\(\\frac{1}{(x + 1)^{2}}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "261",
+    "text": "Two forces 10N and 6N act in the directions 060\u00b0 and 330\u00b0 respectively. Find the x- component of their resultant.",
+    "options": {
+      "A": "\\(5\\sqrt{3} - 3\\)",
+      "B": "\\(3 - 5\\sqrt{3}\\)",
+      "C": "\\(5 - 3\\sqrt{3}\\)",
+      "D": "\\(3\\sqrt{3} - 5\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50840?exam_type=waec&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "\\(F = F \\cos \\theta i\u00a0+ F \\sin \\theta j\\)\n\\(10N = 10\u00a0\\cos 60 i + 10\u00a0\\sin 60 j\\)\n\\(6N = -6\u00a0\\cos 330 i -\u00a06\u00a0\\sin 330 j\\)\n\\(R_{x} = 10\u00a0\\cos 60 -\u00a06\u00a0\\cos\u00a0330 \\)\n= \\(10\u00a0\\times \\frac{1}{2} -\u00a06\u00a0\\times \\frac{\\sqrt{3}}{2}\\)\n= \\(5\u00a0-\u00a03\\sqrt{3}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "262",
+    "text": "Find the unit vector in the direction of the vector \\(-12i + 5j\\).",
+    "options": {
+      "A": "\\(\\frac{-12i}{13} - \\frac{5j}{13}\\)",
+      "B": "\\(\\frac{-1i}{13}  + \\frac{5j}{13}\\)",
+      "C": "\\(\\frac{-12i}{13} + \\frac{5j}{13}\\)",
+      "D": "\\(\\frac{-5i}{13} + \\frac{12j}{13}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50843?exam_type=waec&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "\\(\\hat{n} = \\frac{\\overrightarrow{n}}{|n|}\\)\n\\(\\hat{n} = \\frac{-12i + 5j}{\\sqrt{(-12)^{2} + (5)^{2}}}\\)\n= \\(\\frac{-12i}{13} + \\frac{5j}{13}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "263",
+    "text": "In computing the mean of 8 numbers, a boy mistakenly used 17 instead of 25 as one of the numbers and obtained 20 as the mean. Find the correct mean",
+    "options": {
+      "A": "19",
+      "B": "21",
+      "C": "23",
+      "D": "24"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50846?exam_type=waec&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "\\(Mean = \\frac{sum of items}{total number of items}\\)\n\\(20 = \\frac{x}{8} \\implies x = 160\\)\nThe sum of the 7 nos = 160 - 17 = 143\nCorrect mean = \\(\\frac{143 + 25}{8} = \\frac{168}{8} = 21\\)",
+    "year": "2012"
+  },
+  {
+    "number": "264",
+    "text": "Given that \\(^{n}P_{r} = 90\\) and \\(^{n}C_{r} = 15\\), find the value of r.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50848?exam_type=waec&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{^{n}P_{r}}{^{n}C_{r}} = \\frac{\\frac{n!}{(n - r)!}}{\\frac{n!}{(n - r)! r!}} = \\frac{90}{15} = 6\\)\n\\(\\frac{n!}{(n - r)!} \\times \\frac{(n - r)! r!}{n!} = r! = 6\\)\n\\(r = 3\\)",
+    "year": "2012"
+  },
+  {
+    "number": "265",
+    "text": "Which of the following is nor a measure of central tendency?",
+    "options": {
+      "A": "Mean",
+      "B": "Variance",
+      "C": "Median",
+      "D": "Mode"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50850?exam_type=waec&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "Variance is a measure of dispersion not central tendency.",
+    "year": "2012"
+  },
+  {
+    "number": "266",
+    "text": "A fair die is tossed twice. Find the probability of obtaining a 3 and a 5.",
+    "options": {
+      "A": "\\(\\frac{5}{12}\\)",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "\\(\\frac{1}{18}\\)",
+      "D": "\\(\\frac{1}{36}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50853?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "P(c and e) = \\(P(c) \\times P(e)\\)\nP(3) = \\(\\frac{1}{6}\\)\nP(5) = \\(\\frac{1}{6}\\)\nP(3 and 5) = \\frac{1}{6} \\times \\frac{1}{6} = \\frac{1}{36}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "267",
+    "text": "If P(x - 3) + Q(x + 1) = 2x + 3, find the value of (P + Q).",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50861?exam_type=waec&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  },
+  {
+    "number": "268",
+    "text": "Find the values of x at the point of intersection of the curve \\(y = x^{2} + 2x - 3\\) and the lines \\(y + x = 1\\).",
+    "options": {
+      "A": "(1, -2)",
+      "B": "(0, 4)",
+      "C": "(2, -3)",
+      "D": "(1, -4)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50864?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "Equate the equation of the curve and the line in order to find their point of intersection ie\u00a0The values of y in both equations.\n\\(y + x = 1 \\implies y = 1 - x\\)\n\\(x^{2} + 2x - 3 = 1 - x\\)\n\\(x^{2} + 2x + x - 3 - 1 = 0 \\implies x^{2} + 3x - 4 = 0\\)\n\\((x - 1)(x + 4) = 0\\)\n\\(x = (1, -4)\\)",
+    "year": "2012"
+  },
+  {
+    "number": "269",
+    "text": "Find the constant term in the binomial expansion of \\((2x - \\frac{3}{x})^{8}\\).",
+    "options": {
+      "A": "90720",
+      "B": "1296",
+      "C": "1120",
+      "D": "672"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50869?exam_type=waec&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "\\((x)^{n}(x^{-1})^{8 - n} = x^{0}\\)\n\\(x^{n} . x^{-8 + n} = x^{0} \\implies n - 8 + n = 0\\)\n\\(2n - 8 = 0 \\implies n = 4\\)\nConstant term = \\(^{8}C_{4}(2^{4})(3^{4}) = 70 \\times 16 \\times 81\\)\n= \\(90720\\)",
+    "year": "2012"
+  },
+  {
+    "number": "270",
+    "text": "A straight line makes intercepts of -3 and 2 on the x- and y- axes respectively. Find the equation of the line.",
+    "options": {
+      "A": "2x + 3y + 6 = 0",
+      "B": "3x - 2y - 6 = 0",
+      "C": "-3x + 2y - 6 = 0",
+      "D": "-2x + 3y - 6 =0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50877?exam_type=waec&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "Equation of a straight line : y = mx + b\nwhere m = the slope of the line\nb = y- intercept\nGiven the two points (-3, 0) and (0, 2).\n\\(m = \\frac{2 - 0}{0 - (-3)} = \\frac{2}{3}\\)\n\\(y = \\frac{2}{3}x + 2 \\implies 3y = 2x + 6\\)\n\\(-2x + 3y - 6 = 0\\)",
+    "year": "2012"
+  },
+  {
+    "number": "271",
+    "text": "Find the number of different arrangements of the word IKOTITINA.",
+    "options": {
+      "A": "30240",
+      "B": "60840",
+      "C": "120960",
+      "D": "362880"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50880?exam_type=waec&type=obj&page=55",
+    "correct_answer": "A",
+    "explanation": "IKOTITINA has 9 letters with 2Ts and 3Is. Therefore, the number of different arrangements\n= \\(\\frac{9!}{2!3!} = \\frac{9.8.7.6.5.4}{2} = 30240\\)",
+    "year": "2012"
+  },
+  {
+    "number": "272",
+    "text": "Find the acute angle between the lines 2x + y = 4 and -3x + y + 7 = 0.",
+    "options": {
+      "A": "40\u00b0",
+      "B": "44\u00b0",
+      "C": "45\u00b0",
+      "D": "54\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50884?exam_type=waec&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "\\(2x + y = 4 \\equiv\u00a0y = 4 - 2x \\implies m_{1} = -2\\)\n\\(-3x + y + 7 = 0 \\equiv y = -7 + 3x \\implies m_{2} = 3\\)\n\\(\\tan \\theta = \\frac{m_{1} - m_{2}}{1 - m_{1}m_{2}} = \\frac{-2 - 3}{1 - (-2)(3)} = \\frac{-5}{-5} = 1\\)\n\\(\\tan \\theta = 1 \\implies \\theta = 45\u00b0\\)",
+    "year": "2012"
+  },
+  {
+    "number": "273",
+    "text": "A box contains 4 red and 3 blue identical balls. If two are picked at random, one after the other without replacement, find the probability that one is red and the other is blue.",
+    "options": {
+      "A": "\\(\\frac{4}{7}\\)",
+      "B": "\\(\\frac{2}{7}\\)",
+      "C": "\\(\\frac{1}{7}\\)",
+      "D": "\\(\\frac{1}{12}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50886?exam_type=waec&type=obj&page=55",
+    "correct_answer": "A",
+    "explanation": "P(one blue, other red) = P(1st red then blue) or P(1st blue then red)\n= \\((\\frac{4}{7} \\times \\frac{3}{6}) + (\\frac{3}{7} \\times \\frac{4}{6})\\)\n= \\(\\frac{2}{7} + \\frac{2}{7} = \\frac{4}{7}\\)",
+    "year": "2012"
+  },
+  {
+    "number": "274",
+    "text": "The distance s in metres covered by a particle in t seconds is \\(s = \\frac{3}{2}t^{2} - 3t\\). Find its acceleration.",
+    "options": {
+      "A": "\\(1 ms^{-2}\\)",
+      "B": "\\(2 ms^{-2}\\)",
+      "C": "\\(3 ms^{-2}\\)",
+      "D": "\\(4 ms^{-2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50888?exam_type=waec&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "The two time differentiation of distance with respect to time will give the acceleration.\n\\(s = \\frac{3}{2}t^{2} - 3t\\)\n\\(\\frac{\\mathrm d s}{\\mathrm d t} = v = 3t - 3\\)\n\\(\\frac{\\mathrm d v}{\\mathrm d t} = a = 3\\)",
+    "year": "2012"
+  },
+  {
+    "number": "275",
+    "text": "The angle of a\u00a0sector of a circle is 0.9 radians. If the radius of the circle is 4cm, find the length of the arc of the sector.",
+    "options": {
+      "A": "3.6 cm",
+      "B": "7.6 cm",
+      "C": "8.0 cm",
+      "D": "11.6 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50890?exam_type=waec&type=obj&page=55",
+    "correct_answer": "A",
+    "explanation": "Length of arc given angle in radians = \\(r \\theta\\)\n= \\(4 \\times 0.9 = 3.6 cm\\)",
+    "year": "2012"
+  },
+  {
+    "number": "276",
+    "text": "From the diagram above, which of the following represents the vector V in component form?",
+    "options": {
+      "A": "\\(-5\\sqrt{3} i + 5j\\)",
+      "B": "\\(3i + 3\\sqrt{3}j\\)",
+      "C": "\\(i + 2\\sqrt{3}j\\)",
+      "D": "\\(-2\\sqrt{3}i - j\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/xKIcRrBE4WQj86kQsEj71m1UvEuZX7SL5LRFSdNo.jpeg",
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50891?exam_type=waec&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "\\(V = V\\cos \\theta i + V\\sin \\theta j\\)\n\\(6N = 6 \\cos 60 i + 6 \\sin 60 j\\)\n= \\(3i + 3\\sqrt{3} j\\)",
+    "year": "2012"
+  },
+  {
+    "number": "277",
+    "text": "From the diagram above, \\(h[g(3)]\\) is",
+    "options": {
+      "A": "s",
+      "B": "\\(\\beta\\)",
+      "C": "\\({s, \\beta}\\)",
+      "D": "\\({s, w, \\beta}\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/vDV2yFvZ64IjzeSMh1jzFPW1vVx3Va6k1EyFTsPr.jpeg",
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50893?exam_type=waec&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "From the diagram, \\(g(3) = s;\u00a0h(s) = \\beta\\).",
+    "year": "2012"
+  },
+  {
+    "number": "278",
+    "text": "\\(g \\circ h\\) is",
+    "options": {
+      "A": "one- to- one",
+      "B": "onto",
+      "C": "a relation",
+      "D": "a series"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/RdJNeEpPkMcEZd7dBiFejvsN902dGPTBJDp3u6HM.jpeg",
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50894?exam_type=waec&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "The function \\(y = g(x)\\) is one- to- one but \\(z = h(y)\\) is not one- to- one but onto.\n\\(\\therefore h(g(x)) = onto\\)",
+    "year": "2012"
+  },
+  {
+    "number": "279",
+    "text": "The diagram above is a velocity- time graph of a moving object. Calculate the distance travelled when the acceleration is zero.",
+    "options": {
+      "A": "300 m",
+      "B": "90 m",
+      "C": "150 m",
+      "D": "210 m"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/XxuA2Ml16SAIyTEiHYLUTafCgErJH498UwiX7RB4.jpeg",
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50895?exam_type=waec&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "The acceleration is between the times 3 secs and 8 secs.\nDistance = \\(velocity \\times time\\)\n= \\(30 \\times (8 - 3) = 30 \\times 5\\)\n= \\(150 m\\)",
+    "year": "2012"
+  },
+  {
+    "number": "280",
+    "text": "Simplify \\(\\frac{x^{3n + 1}}{x^{2n + \\frac{5}{2}}(x^{2n - 3})^{\\frac{1}{2}}}\\)",
+    "options": {
+      "A": "\\(0\\)",
+      "B": "\\(-\\frac{1}{2}\\)",
+      "C": "\\(1\\)",
+      "D": "\\(10\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/50897?exam_type=waec&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2012"
+  }
+]

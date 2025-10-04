@@ -1,0 +1,722 @@
+[
+  {
+    "number": "979",
+    "text": "Which of the following observations is not an effect of surface tension?",
+    "options": {
+      "A": "droplets of water dripping slowly from a tap",
+      "B": "mercury spilled on a clean glass plate forms spherical droplets",
+      "C": "an indect walking across the surface of a pond",
+      "D": "water flowing out more easily then engine oil from a container"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34742?exam_type=waec&type=obj&page=196",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "980",
+    "text": "Which of the following physical quantities is correctly paired with it's corresponding S.I unit?",
+    "options": {
+      "A": "density[kg m3]",
+      "B": "power[Js-1]",
+      "C": "specific latent heat [J kg-1K-1",
+      "D": "Pressure [Nm-1]"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34795?exam_type=waec&type=obj&page=196",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "981",
+    "text": "A liquid of volume 2.00 m3 and density 1.00 x 103 is mixed with 3.00 m3 of another liquid of density 8.00 x 103kg m-3. Calculate the density of the mixture [Assuming there is no chemical reaction]",
+    "options": {
+      "A": "5.20 x 102 kg m-2",
+      "B": "1.13 x 103 kg m-3",
+      "C": "8.80 x 102 kg m-3",
+      "D": "5.20 x 103 kg m-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34805?exam_type=waec&type=obj&page=197",
+    "correct_answer": "D",
+    "explanation": "\\(V_T = 5m^3, m_1 = 2 \\times 1 \\times 10^3 = 2 \\times 10^3\\)\\(M_2 = 3 \\times 8 \\times 10^3 = 24 \\times 10^3\\)MT = 26 x 103D = \\(\\frac{m}{v} = \\frac{26 \\times 10^3}{5} = 5.2 \\times 10^3\\)",
+    "year": "2007"
+  },
+  {
+    "number": "982",
+    "text": "Which of the following statements about solid friction are correct? It  i. is a force  ii. occurs between the surfaces of two bodies in contact  iii. depends on the area in contact",
+    "options": {
+      "A": "i and ii only",
+      "B": "i adnd iii only",
+      "C": "ii and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34813?exam_type=waec&type=obj&page=197",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "983",
+    "text": "A mass of mass m, experiences a viscous drag, F and an upthrust, U as he descends towards the ground at a steady velocity, Using a parachute. If the acceleration of free fall is g, which of the following expressions is correct?",
+    "options": {
+      "A": "FU = mg",
+      "B": "U + F - mg = 0",
+      "C": "U - F = mg",
+      "D": "F - U - mg = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34825?exam_type=waec&type=obj&page=197",
+    "correct_answer": "B",
+    "explanation": "The forces acting on the mass include:\nWeight:\u00a0W = mg (downward)Upthrust:\u00a0U (upward)Viscous Drag:\u00a0F (upward)\nSince the mass is descending at a steady velocity, the net force acting on it is zero. This means that the upward forces (upthrust and viscous drag) balance the downward force (weight):\u00a0mg = U + F = U + F - mg = 0",
+    "year": "2007"
+  },
+  {
+    "number": "984",
+    "text": "a body moving at a constant speed accelerates when it is in",
+    "options": {
+      "A": "rectilinear motion",
+      "B": "translational motion",
+      "C": "circular motion",
+      "D": "vibrational motion"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34826?exam_type=waec&type=obj&page=197",
+    "correct_answer": "C",
+    "explanation": "A body moving at a constant speed can accelerate if it is in circular motion. This is because acceleration is a change in velocity, and velocity is a vector quantity, meaning it has both magnitude (speed) and direction. In circular motion, the direction of the velocity is constantly changing, even if the speed is constant, so there is acceleration.",
+    "year": "2007"
+  },
+  {
+    "number": "985",
+    "text": "An object of mass 2 kg moves with a uniform speed of 10ms-1 for 5s along a\u00a0straight path. Determine the magnitude of its acceleration",
+    "options": {
+      "A": "0 ms-2",
+      "B": "1 ms-2",
+      "C": "3 ms-2",
+      "D": "4 ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34830?exam_type=waec&type=obj&page=197",
+    "correct_answer": "A",
+    "explanation": "a = \\(\\frac{v - u}{t} = \\frac{10 - 10}{5} = 0\\)m/s",
+    "year": "2007"
+  },
+  {
+    "number": "986",
+    "text": "The term rectilinear acceleration means the rate of increase of",
+    "options": {
+      "A": "velocity along a circular path in a unit time",
+      "B": "distance along a rectangular path in a unit time",
+      "C": "displacement along a straight-line path in a unit time",
+      "D": "velocity along a straight-line path in a unit time"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34837?exam_type=waec&type=obj&page=198",
+    "correct_answer": "D",
+    "explanation": "Rectilinear acceleration refers to the acceleration experienced by an object moving in a straight line (rectilinear motion). Acceleration is defined as the rate of change of velocity with respect to time, which aligns with the rate of increase of velocity along a straight-line path.",
+    "year": "2007"
+  },
+  {
+    "number": "987",
+    "text": "A body moving with an initial velocity U accelerates until it attains a velocity of V within a time t. The distance, s covered by the body is given by the expressions",
+    "options": {
+      "A": "s = (\\(\\frac{v - u}{2}\\))t",
+      "B": "s = (\\(\\frac{v + 2u}{2}\\))t",
+      "C": "s = (\\(\\frac{v + u}{2}\\))t",
+      "D": "s = (\\(\\frac{2v + u}{2}\\))t"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34844?exam_type=waec&type=obj&page=198",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "988",
+    "text": "A body accelerates uniformly from rest at 2ms-2. Calculate the magnitude of its velocity after travelling 9m",
+    "options": {
+      "A": "4.5 ms-1",
+      "B": "6.0ms-1",
+      "C": "18.0-1",
+      "D": "36.0-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34845?exam_type=waec&type=obj&page=198",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "989",
+    "text": "A swinging pendulum between the rest position and its maximum displacement possesses",
+    "options": {
+      "A": "Kinetic energy only",
+      "B": "potential energy only",
+      "C": "gravitational energy only",
+      "D": "both kinetic and potential energy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34846?exam_type=waec&type=obj&page=198",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "990",
+    "text": "A block of mass 4.0kg causes a spiral spring to extend by 0.16m from its unstretched position. The block is removed and another body of mass 0.50kg is hung from the same spiral spring. If the spring is then stretched and released, what is the angular frequency of the subsequent motion? [g = 10 ms -2]",
+    "options": {
+      "A": "10\\(\\sqrt 5\\) rads-1",
+      "B": "5\\(\\sqrt 2\\) rads-1",
+      "C": "5 rads-1",
+      "D": "\\(\\sqrt 5\\) rads-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34849?exam_type=waec&type=obj&page=198",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "991",
+    "text": "An external force of magnitude 100N acts on a particle of mass 0.15kg for 0.03s. Calculate the change in the speed of the particle",
+    "options": {
+      "A": "50ms-1",
+      "B": "25ms-1",
+      "C": "20ms-1",
+      "D": "5ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34859?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "2",
+    "year": "2007"
+  },
+  {
+    "number": "992",
+    "text": "A car of mass 800kg moves from rest on a horizontal track and travels 60m in 20s with uniform acceleration. Assuming there were no frictional forces, calculate the accelerating force",
+    "options": {
+      "A": "240.0N",
+      "B": "800.0N",
+      "C": "1600.00N",
+      "D": "2400.0N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34861?exam_type=waec&type=obj&page=199",
+    "correct_answer": "A",
+    "explanation": "S = at + \\(\\frac{1}{2} at^2\\)60 = 0 x 20 + \\(\\frac{1}{2}\\) x a x 20\\(^2\\)\na = \\(\\frac{60}{200}\\)a = \\(\\frac{3}{10}\\)m/s\\(^2\\)F = ma = 800 x \\(\\frac{3}{10} = 240N\\)",
+    "year": "2007"
+  },
+  {
+    "number": "993",
+    "text": "A plane inclined at 30o to the horizontal has an efficiency of 50%. Calculate the force parallel to the plane required to push a load of 120N uniformly upn the plane",
+    "options": {
+      "A": "50.0N",
+      "B": "120.0N",
+      "C": "200.0N",
+      "D": "240N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34864?exam_type=waec&type=obj&page=199",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "994",
+    "text": "Mechanical energy can be either",
+    "options": {
+      "A": "kinetic or electric",
+      "B": "chemical or potential",
+      "C": "potential or kinetic",
+      "D": "electric or heat"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34866?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "995",
+    "text": "Which of the following surfaces will radiate heat energy best?",
+    "options": {
+      "A": "Red surface",
+      "B": "white surface",
+      "C": "black surface",
+      "D": "yellow surface"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34870?exam_type=waec&type=obj&page=199",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "996",
+    "text": "The ice and steam point on a mercury-in-glass thermometer are 10cm and 30cm respectively. Calculate the temperature in decree Celsius when the mercury meniscus is the 14cm mark",
+    "options": {
+      "A": "20oC",
+      "B": "30oC",
+      "C": "34oC",
+      "D": "70oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34871?exam_type=waec&type=obj&page=200",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "997",
+    "text": "Which of the following statements distinguishes thermal conduction for convection?  i. Conduction requires a material medium while convection does not  ii. In convection, there is actual motion of hot material, while in conduction, molecules molecules vibrates faster about their mean positions  iii. Conduction takes place in solids while convection takes place in fluids.",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34877?exam_type=waec&type=obj&page=200",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "998",
+    "text": "A cube made of metal of linear expansivity \\(\\alpha\\) is heated through a temperature \\(\\theta\\). If the initial volume of the cube is Vo, the correct expression for the increase in volume of the cube is",
+    "options": {
+      "A": "\\(\\frac{1}{3} \\alpha V_o \\theta\\)",
+      "B": "\\(\\frac{1}{2} \\alpha V_o \\theta\\)",
+      "C": "\\(2 \\alpha V_o \\theta\\)",
+      "D": "\\(3 \\alpha V_o \\theta\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34886?exam_type=waec&type=obj&page=200",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "999",
+    "text": "A relative density bottle of volume 50cm3 is completely filled with a liquid at 30oC. It is then heated to 80oC such that 0.75cm3 of the liquid is expelled. Calculate the apparent cubic expansivity of the liquid.",
+    "options": {
+      "A": "0.00030k-1",
+      "B": "0.00032k-1",
+      "C": "0.01970k-1",
+      "D": "0.02030k-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34890?exam_type=waec&type=obj&page=200",
+    "correct_answer": "A",
+    "explanation": "-1",
+    "year": "2007"
+  },
+  {
+    "number": "1000",
+    "text": "A body of mass 200g and specific heat capacity 0.4Jg-1k-1 cools from 37oC to 31oC. Calculate the quantity of the heat released by the body.",
+    "options": {
+      "A": "4800J",
+      "B": "1200J",
+      "C": "480J",
+      "D": "202J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34893?exam_type=waec&type=obj&page=200",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "1001",
+    "text": "According to the kinetic theory of gasses, which of the following property of a gas can be affected by the collision of the gas molecule with the walls of the container?",
+    "options": {
+      "A": "temperature",
+      "B": "energy",
+      "C": "viscosity",
+      "D": "pressure"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34894?exam_type=waec&type=obj&page=201",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1002",
+    "text": "The pressure of a fixed mass of an ideal gas at 27\u00b0C is 3 pa. The gas is heated at a constant volume until its pressure is 5 pa. Determine the new temperature of the gas.",
+    "options": {
+      "A": "100oC",
+      "B": "227oC",
+      "C": "273oC",
+      "D": "500oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34896?exam_type=waec&type=obj&page=201",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{P_1}{T_1} = \\frac{P_2}{T_2} = \\frac{3}{300} = \\frac{5}{T_2}\\)T\\(_2\\) = 500\u00b0C\u00b0C = 500 - 273 = 227\u00b0",
+    "year": "2007"
+  },
+  {
+    "number": "1003",
+    "text": "Which of the following wave is electromagnetic?",
+    "options": {
+      "A": "x-rays",
+      "B": "sound waves",
+      "C": "water waves",
+      "D": "tidal waves"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34897?exam_type=waec&type=obj&page=201",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1004",
+    "text": "The distance between two points P and Q, along a wave is 0.05m. If the wave length of the wave is 0.10m, determine the phase angle between P and Q in radians",
+    "options": {
+      "A": "0.1\\(\\pi\\)",
+      "B": "\\(\\pi\\)",
+      "C": "2\\(\\pi\\)",
+      "D": "10\\(\\pi\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34898?exam_type=waec&type=obj&page=201",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1005",
+    "text": "Which of the following phenomena is not a direct consequence of rectilinear propagation of light?",
+    "options": {
+      "A": "lunar and solar eclipses",
+      "B": "images of objects in a pin hole camera",
+      "C": "diffraction of light",
+      "D": "shadows of opaque object"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34900?exam_type=waec&type=obj&page=201",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1006",
+    "text": "An object is placed 10cm in front of a plane mirror. If it is moved 8cm away father away from the mirror, determine the distance of the final image from the mirror",
+    "options": {
+      "A": "2cm",
+      "B": "9cm",
+      "C": "16cm",
+      "D": "18cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34917?exam_type=waec&type=obj&page=202",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1007",
+    "text": "In which of the following piece of apparatus is the radius of curvature equal to twice the focal length?",
+    "options": {
+      "A": "converging lens",
+      "B": "diverging lens",
+      "C": "converging mirror",
+      "D": "parabolic mirror"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34919?exam_type=waec&type=obj&page=202",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1008",
+    "text": "When an object is placed at the centre of curvature of a concave mirror, its image is formed at",
+    "options": {
+      "A": "the focus",
+      "B": "infinity",
+      "C": "the centre of curvature",
+      "D": "a distance twice the radius of curvature"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34922?exam_type=waec&type=obj&page=202",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1009",
+    "text": "A rectangular glass prism of thickness d and absolute refractive index n is placed on a point object which is viewed vertically downward from above the prism. Which of the following expressions correctly defines the apparent upward displacement of the object?",
+    "options": {
+      "A": "\\(\\frac{d}{n}\\)",
+      "B": "dn",
+      "C": "\\(\\frac{d}{n - 2}\\)",
+      "D": "\\(\\frac{d(n - 1)}{n}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34932?exam_type=waec&type=obj&page=202",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "1010",
+    "text": "Which of the following factors can affect the speed of sound in air?  i. The temperature of the surrounding  ii. The direction of the wind  iii. The pitch of the sound.",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34935?exam_type=waec&type=obj&page=202",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1011",
+    "text": "A sounding tuning fork is brought near the open end of a pipe containing air and the loudness of the sound is observed to increase. This observation is due to",
+    "options": {
+      "A": "an echo",
+      "B": "resonance",
+      "C": "interference",
+      "D": "reverbration"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34938?exam_type=waec&type=obj&page=203",
+    "correct_answer": "B",
+    "explanation": "When the frequency of the tuning fork matches the natural frequency of the air column in the pipe, resonance occurs. This causes the air in the pipe to vibrate more vigorously, amplifying the sound and increasing its loudness.",
+    "year": "2007"
+  },
+  {
+    "number": "1012",
+    "text": "Which of the following statements about sound wave is not correct? Sound waves can be",
+    "options": {
+      "A": "reflected",
+      "B": "refracted",
+      "C": "diffracted",
+      "D": "polarized"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34940?exam_type=waec&type=obj&page=203",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1013",
+    "text": "A dry plastic comb used in combing hair was found to attract pieces of paper and dust. The most probable explanation for this phenomenon is that the comb has been given",
+    "options": {
+      "A": "magnetization by induction",
+      "B": "electric charges by induction",
+      "C": "electric charges by conduction",
+      "D": "electric charges by friction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34942?exam_type=waec&type=obj&page=203",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1014",
+    "text": "Which of the following statements is correct about resonance? Resonance occurs when a body",
+    "options": {
+      "A": "vibrates with its natural frequency",
+      "B": "is forced to vibrate on its own natural frequency by another body at the same vibration",
+      "C": "vibrates at the frquency of the body causing the vibration",
+      "D": "vibrates with an irregular frequency"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34943?exam_type=waec&type=obj&page=203",
+    "correct_answer": "B",
+    "explanation": "Resonance occurs when a body is forced to vibrate at its own natural frequency by another body vibrating at the same frequency.",
+    "year": "2007"
+  },
+  {
+    "number": "1015",
+    "text": "Which of the following components is used for storing electric charges?",
+    "options": {
+      "A": "inductor",
+      "B": "resistor",
+      "C": "capacitor",
+      "D": "electrometer"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34944?exam_type=waec&type=obj&page=203",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1016",
+    "text": "Which of the following operations does not represent an action of a force field?",
+    "options": {
+      "A": "falling of a mango fruit from the tree",
+      "B": "picking of nails using a bar magnet",
+      "C": "repulsion of two like charges",
+      "D": "pushing of a wheel-barrow on a level gound"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34945?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1017",
+    "text": "A bulb marked 240V, 40W is used for 30 minutes. Calculate the heat generated",
+    "options": {
+      "A": "320J",
+      "B": "400J",
+      "C": "10800J",
+      "D": "72000J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34946?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "1018",
+    "text": "Five 80-W and three 100W are run for 8 hours. If the cost of energy is N5.00 per unit, calculate the cost of running the lamp. [1 unit = 1 kWh]",
+    "options": {
+      "A": "N280.00",
+      "B": "N28.00",
+      "C": "N7.20",
+      "D": "N1.44"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34948?exam_type=waec&type=obj&page=204",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "1019",
+    "text": "Which of the following electromagnetic wave can be detected by its heating effect?",
+    "options": {
+      "A": "ultraviolet radiation",
+      "B": "x-rays",
+      "C": "gamma rays",
+      "D": "infrared radiation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34949?exam_type=waec&type=obj&page=204",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1020",
+    "text": "If a gas is excited by high voltage to produce a discharge and the light is examined in a spectrometer",
+    "options": {
+      "A": "an explosion is observed",
+      "B": "the rainbow colours are seen",
+      "C": "an emission spectrum is observed",
+      "D": "dark lines are observed"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34950?exam_type=waec&type=obj&page=204",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1021",
+    "text": "The number of protons in an element increased by one after a radioactive decay. The element must have decay by emitting",
+    "options": {
+      "A": "a beta particle",
+      "B": "an alpha particle",
+      "C": "a gamma ray",
+      "D": "a neutron"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34951?exam_type=waec&type=obj&page=205",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1022",
+    "text": "In a nuclear reactor, chain reactions result from the release of",
+    "options": {
+      "A": "electrons",
+      "B": "photons",
+      "C": "neutrons",
+      "D": "protons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34952?exam_type=waec&type=obj&page=205",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1023",
+    "text": "The correct sequence of energy transformation in the operation of an x-ray tube is i. X-rays ii. Kinetic energy of thermo electrons iii. Potential energy of the target atoms iv. Heat energy of the emitted electrons",
+    "options": {
+      "A": "iv, iii, ii, i",
+      "B": "ii, iv, iii, i",
+      "C": "iv, ii, iii, i",
+      "D": "iii, iv, ii, i"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34953?exam_type=waec&type=obj&page=205",
+    "correct_answer": "C",
+    "explanation": "X\u2013rays are a stream of particles that are emitted when fast accelerating or moving electrons collide with a tungsten target.\u00a0\u00a0X-rays are produced when electrons produced by thermionic emission are accelerated through high voltage and are focused onto a tungsten target. The accelerated electrons strike the tungsten target, transform into heat, and emit radiation called x-rays.\u00a0 So the correct sequence of energy transformation in the operation of an X-ray tube is\u00a0\u00a0Option C.",
+    "year": "2007"
+  },
+  {
+    "number": "1024",
+    "text": "There is always an uncertainty involved in any attempt to measure the position and momentum of an electron simultaneously. This statement is known as the",
+    "options": {
+      "A": "de Broglie's law",
+      "B": "Heisenberg uncertainty principle",
+      "C": "Franck-Hertz experimental law",
+      "D": "wave-particle paradox"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34954?exam_type=waec&type=obj&page=205",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2007"
+  },
+  {
+    "number": "1032",
+    "text": "The diagram above illustrates three forces acting on an object at point O. If the object is in equilibrium, determine the magnitude of the force P.",
+    "options": {
+      "A": "10.5N",
+      "B": "11.0N",
+      "C": "17.3N",
+      "D": "20.0N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/11446007776_maths-12.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34975?exam_type=waec&type=obj&page=207",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2007"
+  },
+  {
+    "number": "1033",
+    "text": "Calculate the effective resistance between P and Q in the diagram above",
+    "options": {
+      "A": "0.75\\(\\Omega\\)",
+      "B": "4.00\\(\\Omega\\)",
+      "C": "5.00\\(\\Omega\\)",
+      "D": "7.00\\(\\Omega\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/11446009064_maths-42.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34977?exam_type=waec&type=obj&page=207",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2007"
+  }
+]

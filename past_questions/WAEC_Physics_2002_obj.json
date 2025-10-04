@@ -1,0 +1,722 @@
+[
+  {
+    "number": "734",
+    "text": "The force between the molecules of a liquid in contact with that of a solid is",
+    "options": {
+      "A": "adhesive",
+      "B": "cohesive",
+      "C": "magnetic",
+      "D": "repulsive"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33961?exam_type=waec&type=obj&page=147",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "735",
+    "text": "A reservoir is filled with a liquid of density 2000kgm-3. Calculate the depth at which the pressure in the liquid will equal to 9100Nm-2 [g = 10ms-2]",
+    "options": {
+      "A": "0.262m",
+      "B": "0.455m",
+      "C": "0.664m",
+      "D": "0.819m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33962?exam_type=waec&type=obj&page=147",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "736",
+    "text": "A solid weight 45N and 15N respectively in air and water. Determine the relative density of the solid",
+    "options": {
+      "A": "0.33",
+      "B": "0.50",
+      "C": "1.50",
+      "D": "3.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33963?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "737",
+    "text": "One common characteristics of solids, liquids and gasses is that?",
+    "options": {
+      "A": "all the three has fixed volume",
+      "B": "their molecule have the same size",
+      "C": "their molecules are always in motion",
+      "D": "all the three have the same inter molecular forces"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33964?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "The kinetic theory of matter (particle theory) says that\u00a0all matter consists of many, very small particles which are constantly moving or in a continual state of motion.",
+    "year": "2002"
+  },
+  {
+    "number": "738",
+    "text": "A boy travels 8 km eastward to a point B and then 6km northward to another point C. Determine the difference between the magnitude of displacement of the boy and distance travelled by him",
+    "options": {
+      "A": "2.0km",
+      "B": "4.0km",
+      "C": "10.0km",
+      "D": "13.0km"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33967?exam_type=waec&type=obj&page=148",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "739",
+    "text": "The magnitude of the force required to make an object of mass, m move with speed, v in a circular of radius r is given by the expression",
+    "options": {
+      "A": "\\(\\frac{mr}{v}\\)",
+      "B": "\\(\\frac{mr^2}{v}\\)",
+      "C": "\\(\\frac{mv^2}{r}\\)",
+      "D": "\\(\\frac{mv}{r^2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33969?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "740",
+    "text": "A man was moving round a circular path continuously for 4 minutes and covered the following distances in the times stated : \nDistance (in metres) 200, 400, 600, 300\nTime(in minutes) : 1, 2, 3, 4 respectively. Which of the following statements is correct about the motion of the man?",
+    "options": {
+      "A": "the man was moving without uniform velocity",
+      "B": "the speed was changing constantly",
+      "C": "the velocity was uniform",
+      "D": "it was an instance of motion in which both speed and velocity are the same"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33970?exam_type=waec&type=obj&page=148",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "741",
+    "text": "A car takes off from rest and covers a distance of 80m on a straight road in 10s. Calculate the magnitude of its acceleration",
+    "options": {
+      "A": "1.25ms-2",
+      "B": "1.60ms-2",
+      "C": "4.00ms-2",
+      "D": "8.00ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33974?exam_type=waec&type=obj&page=149",
+    "correct_answer": "B",
+    "explanation": "2",
+    "year": "2002"
+  },
+  {
+    "number": "742",
+    "text": "An object is released from rest at a height of 25m. Calculate the time it takes to fall to the ground. [g = 10ms-2]",
+    "options": {
+      "A": "25.00s",
+      "B": "10.00s",
+      "C": "2.50s",
+      "D": "2.24s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33977?exam_type=waec&type=obj&page=149",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "743",
+    "text": "An object is acted upon by a system of parallel forces causing the object to be in static equilibrium. Which of the following statements is not correct?",
+    "options": {
+      "A": "The resultant of the parallel force is zero",
+      "B": "the algebraic sum of the moment of the forces is zero",
+      "C": "all the parallel forces must be equal in magnitude and in direction",
+      "D": "the sum of the forces in one direction must be equal to the sum of forces in the opposite direction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/33983?exam_type=waec&type=obj&page=149",
+    "correct_answer": "C",
+    "explanation": "The conditions of a body in equilibrium by action of parallel forces are ;\ni) total upward forces are equal to total downward forces, ii) The algebraic sum of the moment of all forces about any point should be zero, and iii) The total resultant force must be zero. So OPTION C\u00a0is not correct about\u00a0parallel forces causing an\u00a0object to be in static equilibrium.",
+    "year": "2002"
+  },
+  {
+    "number": "744",
+    "text": "An object A is held in equilibrium as illustrated in the diagram above. Using the data on the diagram determine the magnitude, W of the weight of",
+    "options": {
+      "A": "23N",
+      "B": "17N",
+      "C": "7N",
+      "D": "5N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/10007938521_maths-12.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/33985?exam_type=waec&type=obj&page=149",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "745",
+    "text": "A spiral spring of natural length 30.0cm and force constant of 20Nm-1 is compressed to 20.0cm. Calculate the energy stored in the spring",
+    "options": {
+      "A": "0.1J",
+      "B": "1.0J",
+      "C": "10.0J",
+      "D": "100.0J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34007?exam_type=waec&type=obj&page=149",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "746",
+    "text": "In the diagram above, AB represents a uniform rod of length 1.50m which is in equilibrium on a pivot at P, If AP = 40cm, calculate the mass of the rod. [g = 10ms-2]",
+    "options": {
+      "A": "0.280kg",
+      "B": "0.400kg",
+      "C": "0.613kg",
+      "D": "0.800kg"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/15726810946_maths-14.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34008?exam_type=waec&type=obj&page=150",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "747",
+    "text": "Which of the following statements correctly defines quantitatively the work done by a force? the product of the force and the distance moved",
+    "options": {
+      "A": "parallel to the line of action of the force from a reference point",
+      "B": "perpendicular to the line of action of the force from a reference point",
+      "C": "on a line through the reference point",
+      "D": "by the object"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34009?exam_type=waec&type=obj&page=150",
+    "correct_answer": "A",
+    "explanation": "The quantity of work done (or energy converted) by a force, when the force moves, depends on two obvious factors:- the distance moved (in the direction along which the force acts) and- the magnitude (strength) of the force",
+    "year": "2002"
+  },
+  {
+    "number": "748",
+    "text": "a load of mass120kg is raised vertically through a height of 2m in 30s by a machine whose efficiency is 100%. Calculate the power generated by the machine. [g = 10ms-2]",
+    "options": {
+      "A": "60W",
+      "B": "80W",
+      "C": "100W",
+      "D": "120W"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34016?exam_type=waec&type=obj&page=150",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "749",
+    "text": "A block and tackle system has 6 pulleys. If the efficiency of the machine is 60%, determine its mechanical advantages",
+    "options": {
+      "A": "12.0",
+      "B": "10.0",
+      "C": "3.6",
+      "D": "1.8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34019?exam_type=waec&type=obj&page=150",
+    "correct_answer": "C",
+    "explanation": "M.A = \\(\\frac{Z \\times V.R}{100}\\)\n= \\(\\frac{60 \\times 6}{100}\\) = 3.6",
+    "year": "2002"
+  },
+  {
+    "number": "750",
+    "text": "Which of the following actions will improve the efficiency of the pulley system?",
+    "options": {
+      "A": "reducing the mass of the pulley",
+      "B": "increasing the friction force between the string and the pulley",
+      "C": "increasing the mass per unit length of the string of the pulley",
+      "D": "increasing the mass of the pulley"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34020?exam_type=waec&type=obj&page=150",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "751",
+    "text": "The ice and steam points of a certain thermometer are -20\u00b0\u00a0and 100\u00b0\u00a0respectively. Calculate the Celsius temperature corresponding to 70\u00b0\u00a0on the thermometer",
+    "options": {
+      "A": "84.0o",
+      "B": "75.0o",
+      "C": "64.0o",
+      "D": "58.0o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34024?exam_type=waec&type=obj&page=151",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{70 -(-\u00a020)}{100 -(-20)} = \\frac{\\theta - 0}{100 - 0}\\)\\(\\theta = \\frac{90 \\times 100}{120} = 75^oC\\)",
+    "year": "2002"
+  },
+  {
+    "number": "752",
+    "text": "The silver coating on the inside of a vacuum flask reduces heat loss by",
+    "options": {
+      "A": "conduction",
+      "B": "radiation",
+      "C": "condensation",
+      "D": "convention"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34025?exam_type=waec&type=obj&page=151",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "753",
+    "text": "Water of mass 120g at 50oC is added to 200g of water at 10oC and the mixture is well stirred. Calculate the temperature of the mixture. [Neglect heat losses to the surrounding]",
+    "options": {
+      "A": "60oC",
+      "B": "40oC",
+      "C": "25oC",
+      "D": "10oC"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34030?exam_type=waec&type=obj&page=151",
+    "correct_answer": "C",
+    "explanation": "120 x 4.2(50 - \\(\\theta\\)) = 200 x 4.2(\\(\\theta\\) - 10)\\(\\theta = \\frac{33600}{1344} = 25^oC\\)",
+    "year": "2002"
+  },
+  {
+    "number": "754",
+    "text": "Calculate the energy required to vapourise 50g of water initially at 80oC.[specific heat capacity of water = 4.2Jg-1K-1][specific latent heat of vaporisation of water = 2260Jg-1]",
+    "options": {
+      "A": "113,000J",
+      "B": "117,200J",
+      "C": "234,400J",
+      "D": "420,000J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34072?exam_type=waec&type=obj&page=151",
+    "correct_answer": "B",
+    "explanation": "mc\\(\\theta\\) + ML = 50 x 4.2 x 20 + 50 x 2260= 117,200J",
+    "year": "2002"
+  },
+  {
+    "number": "755",
+    "text": "What type of motion does the skin of a 'talking' drum perform when it is struck with a drum stick?",
+    "options": {
+      "A": "Random",
+      "B": "Rational",
+      "C": "Translational",
+      "D": "vibratory"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34073?exam_type=waec&type=obj&page=151",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "756",
+    "text": "A slinky spring fixed at one end is placed horizontally on a table. The free end is displaced parallel to the table and then released. The resultimg wavelength is",
+    "options": {
+      "A": "transverse",
+      "B": "longitudinal",
+      "C": "stationary",
+      "D": "electromagnetic"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34077?exam_type=waec&type=obj&page=152",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "757",
+    "text": "A radio wave has a wavelength of 150m. If the velocity of radio waves is free spaces is 3 x 10\\(^8\\) ms\\(^{-1}\\), calculate the frequency of the radio wave",
+    "options": {
+      "A": "4.50 x 1010Hz",
+      "B": "5.0 x 109Hz",
+      "C": "4.5 x 109Hz",
+      "D": "2.0 x 106Hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34078?exam_type=waec&type=obj&page=152",
+    "correct_answer": "D",
+    "explanation": "f = \\(\\frac{V}{\\lambda} = \\frac{3 \\times 10^8}{150}\\)= 2.0 x 10\\(^6\\) Hz",
+    "year": "2002"
+  },
+  {
+    "number": "758",
+    "text": "In the wave equation y = Eo, sin(299t - \\(\\pi\\)), Eo represents the",
+    "options": {
+      "A": "amplitude",
+      "B": "frequency",
+      "C": "period",
+      "D": "wavelength"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34079?exam_type=waec&type=obj&page=152",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "759",
+    "text": "The size of the hole of a pin hole camera is increased. The resultant image formed becomes",
+    "options": {
+      "A": "sharper",
+      "B": "reduced in size",
+      "C": "enlarged",
+      "D": "blurred"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34080?exam_type=waec&type=obj&page=152",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "760",
+    "text": "The refractive index of a medium relative to air is 1.8. Calculate to the nearest degree, the critical angle for the medium",
+    "options": {
+      "A": "68o",
+      "B": "56o",
+      "C": "34o",
+      "D": "18o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34081?exam_type=waec&type=obj&page=152",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "761",
+    "text": "A converging lens of focal length 15cm forms a virtual image at a point 10cm from the lens. Calculate the distance of the object from the lens",
+    "options": {
+      "A": "10.00cm",
+      "B": "6.00cm",
+      "C": "5.00cm",
+      "D": "1.50cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34082?exam_type=waec&type=obj&page=153",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "762",
+    "text": "In a compound microscope, the image formed by the objective lens is at a distance of 3.0cm from the eye lens. If the final image is at 25.0cm from the eye lens,\u00a0calculate the focal length of the eye lens",
+    "options": {
+      "A": "0.3cm",
+      "B": "2.7cm",
+      "C": "3.4cm",
+      "D": "8.3cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34084?exam_type=waec&type=obj&page=153",
+    "correct_answer": "B",
+    "explanation": "To find the focal length of the eye lens in a compound microscope, we use the lens formula:\n\\(\\frac{1}{f} = \\frac{1}{v} - \\frac{1}{u}\\)\nGiven:\u00a0Image distance from the eye lens: \\( v_2 = 25.0 \\, \\text{cm}\\)Object distance for the eye lens (image from the objective lens): \\( u = -3.0 \\, \\text{cm} \\) (negative since it is on the same side as the incoming light)\\(\\frac{1}{f} = \\frac{1}{25.0} - \\frac{1}{-3.0}\\)\\(\\frac{1}{f} = \\frac{1}{25.0} + \\frac{1}{3.0}\\)\\(\\frac{1}{25.0} = 0.04 \\quad \\text{and} \\quad \\frac{1}{3.0} \\approx 0.3333\\)\\(\\frac{1}{f} = 0.04 + 0.3333 \\approx 0.3733\\)\\(f \\approx \\frac{1}{0.3733} \\approx 2.68 \\, \\text{cm}\\)\nThe focal length of the eye lens is approximately \\( 2.68 \\, \\text{cm} \\).",
+    "year": "2002"
+  },
+  {
+    "number": "763",
+    "text": "A pulse of a sound is transmitted from a ship and the reflection from the sea bed is recorded after 0.2s. Calculate the depth of the sea. [Take speed of sound in sea water = 1560ms-1]",
+    "options": {
+      "A": "312.0m",
+      "B": "156.0m",
+      "C": "78.0m",
+      "D": "31.2m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34085?exam_type=waec&type=obj&page=153",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "764",
+    "text": "When two notes of nearly equal frequencies are sounded together, a periodic rise and fall in sound intensity can be heard. This phenomenon can be called",
+    "options": {
+      "A": "beats",
+      "B": "diffraction",
+      "C": "overtones",
+      "D": "resonance"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34086?exam_type=waec&type=obj&page=153",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "765",
+    "text": "Which of the following instruments is not a wind instrument?",
+    "options": {
+      "A": "clarinet",
+      "B": "saxophone",
+      "C": "trumpet",
+      "D": "xylophone"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34087?exam_type=waec&type=obj&page=153",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "766",
+    "text": "Which of the following actions will not cause an increase in the frequency of a vibrating string?",
+    "options": {
+      "A": "increasing the tension of the string",
+      "B": "decrease the mass per unit lengthof the string",
+      "C": "decrease the length of the string",
+      "D": "increasing the cross sectional area of the string"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34088?exam_type=waec&type=obj&page=154",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "767",
+    "text": "Which of the following items can be used to compare the relative magnitudes of electric charges on two bodies?",
+    "options": {
+      "A": "ebonite rod",
+      "B": "gold leaf electroscope",
+      "C": "proof plane",
+      "D": "the electrophorus"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34089?exam_type=waec&type=obj&page=154",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "768",
+    "text": "Three capacitors each of capacitance 18\\(\\mu F\\) are connected in series. Calculate the effective capacitance of the capacitors",
+    "options": {
+      "A": "54.00\\(\\mu F\\)",
+      "B": "18.00\\(\\mu F\\)",
+      "C": "6.00\\(\\mu F\\)",
+      "D": "0.17\\(\\mu F\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34097?exam_type=waec&type=obj&page=154",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "769",
+    "text": "Two spheres of masses 100kg and 90kg respectively have their centres separated by a distance of 1.0m. Calculate the magnitude of the force of attraction between them. [G = 6.70 x 10-11Nm-2kg-2]",
+    "options": {
+      "A": "6.70 x 10-11N",
+      "B": "6.70 x 10-10N",
+      "C": "6.03 x 10-11N",
+      "D": "6.03 x 10-7N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34098?exam_type=waec&type=obj&page=154",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "770",
+    "text": "The magnitude of the gravitational attraction between the earth and a particle is 40N. If the mass of the particle is 4kg. Calculate the magnitude of the gravitational field intensity of the earth on the particle",
+    "options": {
+      "A": "10.0N kg-1",
+      "B": "12.6N kg-1",
+      "C": "25.0N kg-1",
+      "D": "160.0N kg-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34102?exam_type=waec&type=obj&page=154",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2002"
+  },
+  {
+    "number": "771",
+    "text": "Local actions is normally prevented in a simple electric cell by",
+    "options": {
+      "A": "introducing an oxidizing agent in the acid",
+      "B": "not drawing current continously for long period",
+      "C": "amalgamating the surface of the zinc plate",
+      "D": "using a porous pot to isolate the zinc plate from the acid"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34103?exam_type=waec&type=obj&page=155",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "772",
+    "text": "The lead-acid accumulator consists of a",
+    "options": {
+      "A": "lead as the positive electrode",
+      "B": "lead ocide as the negative electrode",
+      "C": "hydrochloric acid as the electrolyte",
+      "D": "tetraoxosulphate(VI) acid as the electrolyte"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34104?exam_type=waec&type=obj&page=155",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "773",
+    "text": "Which of the following actions will not lead to an increase in the induced e.m.f. in a coil of wire rotating between the poles of a magnet? Increasing the",
+    "options": {
+      "A": "strength of the magnet",
+      "B": "number of turns in the coil",
+      "C": "speed of location in the coil",
+      "D": "gap between the poles of the magnet"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34105?exam_type=waec&type=obj&page=155",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "774",
+    "text": "A transformer has 400 turns and 200 turns in the primary and secondary windings respectively. If the current in the primary and secondary windings are 3A and 5A respectively. calculate the efficiency of the transformer?",
+    "options": {
+      "A": "85.0%",
+      "B": "83.3%",
+      "C": "37.5%",
+      "D": "30.0%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34108?exam_type=waec&type=obj&page=155",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "775",
+    "text": "A freely-suspended magnet swinging in a horizontal plane comes to rest with its axis pointing approximately",
+    "options": {
+      "A": "north-south",
+      "B": "south-west",
+      "C": "north-east",
+      "D": "south-east"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34110?exam_type=waec&type=obj&page=155",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "776",
+    "text": "Calculate the inductance L, of the coil in the circuit diagram shown above",
+    "options": {
+      "A": "3.8H",
+      "B": "0.6H",
+      "C": "0.4H",
+      "D": "0.2H"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/12868170948_maths-44.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34114?exam_type=waec&type=obj&page=156",
+    "correct_answer": "B",
+    "explanation": "XL = \\(\\frac{V}{I} = \\frac{240}{2} = 120\\Omega\\)L = \\(\\frac{X_L}{2 \\pi f}\\)= \\(\\frac{120 \\times \\pi}{2 \\times \\pi \\times 100}\\)= 0.6H",
+    "year": "2002"
+  },
+  {
+    "number": "777",
+    "text": "In a model of the hydrogen atom, the energy levels Wn are given by the formula Wn = -\\(\\frac{R}{n^2}\\), where n is an integer and R is a constant. Determine the energy released in the transition from n = 3 to n = 2.",
+    "options": {
+      "A": "\\(\\frac{R}{5}\\)",
+      "B": "-\\(\\frac{R}{4}\\)",
+      "C": "\\(\\frac{5R}{36}\\)",
+      "D": "\\(\\frac{-5R}{36}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34120?exam_type=waec&type=obj&page=156",
+    "correct_answer": "C",
+    "explanation": "Given that W = -\\(\\frac{R}{n^2}\\)\nfrom n = 3 to n = 2.\n-\\(\\frac{R}{3^2}\\) - (-\\(\\frac{R}{2^2}\\))\n-\\(\\frac{R}{9}\\) - (-\\(\\frac{R}{4}\\))\n-\\(\\frac{R}{9}\\) + \\(\\frac{R}{4}\\);\nwith LCM 36\n\\(\\frac{-4R\u00a0 + 9R}{36}\\)\n=\u00a0\\(\\frac{5R}{36}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "778",
+    "text": "If a radioactive atom emits a beta particle, Its mass number",
+    "options": {
+      "A": "increases by one",
+      "B": "remains the same",
+      "C": "decreases by one",
+      "D": "increases by two"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34144?exam_type=waec&type=obj&page=156",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "779",
+    "text": "Which of the following is usually used to cause fission in an atomic reactor?",
+    "options": {
+      "A": "Alpha particles",
+      "B": "beta particles",
+      "C": "electrons",
+      "D": "Neutrons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34145?exam_type=waec&type=obj&page=156",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "780",
+    "text": "Which of the following materials is used to control the rate of neutron production in a nuclear reactor?",
+    "options": {
+      "A": "boron rods",
+      "B": "concrete shield",
+      "C": "graphite rods",
+      "D": "uranium rods"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34146?exam_type=waec&type=obj&page=156",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "781",
+    "text": "A nuclide X is produced by bombarding a nitrogen(N) nucleus with an alpha(\\alpha\\) particle with the release of heavy hydrogen(D) nucleus as shown by the following nuclear equation, \\(\\alpha + ^{14}_{7}N \\to ^p_qX + ^2_1D\\). Determine the values of p and q in the equation",
+    "options": {
+      "A": "12 and 6",
+      "B": "14 and 7",
+      "C": "16 and 8",
+      "D": "19 and 8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34148?exam_type=waec&type=obj&page=157",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  }
+]

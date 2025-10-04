@@ -1,0 +1,707 @@
+[
+  {
+    "number": "1025",
+    "text": "If the air inside a rigid box is heated, the   i, average speed of the molecules increases  ii. pressure of the air increases  iii. average separation of the molecule increases. Which of the statements above are correct?",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34958?exam_type=waec&type=obj&page=205",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1026",
+    "text": "Which of the following sets of quantities is fundamental?",
+    "options": {
+      "A": "length, mass and time",
+      "B": "speed, length and time",
+      "C": "speed, mass and distance",
+      "D": "distance, speed and time"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34960?exam_type=waec&type=obj&page=206",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1027",
+    "text": "which of the following statements about Archimedes' principle is correct? The upthrust on a body is a measure of the",
+    "options": {
+      "A": "mass of fluid displaced",
+      "B": "weight of the body",
+      "C": "volume of the body",
+      "D": "weight of the fluid displaced"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34962?exam_type=waec&type=obj&page=206",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1028",
+    "text": "Which of the following is/are in random motion?  i. Pollen grains in water  ii. The molecules of hydrogen gas  ii. Fine chalk particles floating in air",
+    "options": {
+      "A": "i and ii only",
+      "B": "i and iii only",
+      "C": "ii and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34963?exam_type=waec&type=obj&page=206",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1029",
+    "text": "A car travelling with a uniform velocity of 30ms-1 along a horizontal road overcomes a constant frictional force of 600N. Calculate the power of the engine of the car",
+    "options": {
+      "A": "18kW",
+      "B": "20kW",
+      "C": "180kW",
+      "D": "200kW"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34966?exam_type=waec&type=obj&page=206",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1030",
+    "text": "A rectangular block of dimensions 2.0m x 1.0m x 0.5m weighs 200N. calculate the maximum pressure exerted by the block on a horizontal floor.",
+    "options": {
+      "A": "100Nm-2",
+      "B": "200Nm-2",
+      "C": "300Nm-2",
+      "D": "400Nm-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34968?exam_type=waec&type=obj&page=206",
+    "correct_answer": "D",
+    "explanation": "P = \\(\\frac{wt}{A} = \\frac{200}{0.5\u00a0\\times 1} = 400Nm^{-2}\\)\nThis is because Area is inversely proportional to pressure, so an increase in pressure leads to a decrease in area and vice versa.",
+    "year": "2008"
+  },
+  {
+    "number": "1031",
+    "text": "A very sensitive spring balance was used to determine the weight of an object at the north pole. When the same spring balance was used to measure the weight of the same object at the equator, it was found to reduce. The explanation for this observation is that",
+    "options": {
+      "A": "it is very hot at the equator",
+      "B": "the spring balance has expanded",
+      "C": "the acceleration of free fall due to gravity varies with location",
+      "D": "the mass of the body is reduced"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34969?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1034",
+    "text": "The diagram above illustrates a Hare's apparatus. \\(\\mathit{e}_1, \\mathit{e}_2\\) represent densities and \\(\\mathit{h}_1, \\mathit{h}_2\\) heights of columns of liquids. Which of the following equations is correct?",
+    "options": {
+      "A": "\\(\\mathit{h}_1 = \\frac{\\mathit{h}_2 \\mathit{e}_1}{\\mathit{e}_2}\\)",
+      "B": "\\(\\mathit{h}_1 = \\frac{\\mathit{h}_2 \\mathit{e}_2}{\\mathit{e}_1}\\)",
+      "C": "\\(\\mathit{h}_1 = \\frac{\\mathit{e}_1 \\mathit{e}_2}{\\mathit{h}_2}\\)",
+      "D": "\\(\\mathit{h}_1 = \\frac{\\mathit{e}_1}{\\mathit{h}_2 \\mathit{e}_2}\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28615034260_maths-3.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34982?exam_type=waec&type=obj&page=207",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1035",
+    "text": "The diagram above represents the displacement-time graph of the motion of an object thrown upwards. The velocity of the object at the point P is",
+    "options": {
+      "A": "maximum",
+      "B": "uniform",
+      "C": "zero",
+      "D": "terminal"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/20030526012_maths-8.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34983?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1036",
+    "text": "The diagram above illustrates a bar magnet near a coil connected to a galvanometer, When the magnet is rapidly moves towards the coil  i. e.m.f. is induced in the coil  ii. the galvanometer needle deflects  iii. the magnet is attracted by the coil. Which of the statements above is/are correct?",
+    "options": {
+      "A": "i only",
+      "B": "ii only",
+      "C": "iii only",
+      "D": "i and iii only"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/1430752262_maths-44.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34986?exam_type=waec&type=obj&page=208",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1037",
+    "text": "The mass attached to a string is moving in a circular path. If the speed is doubled, the tension in the string will be",
+    "options": {
+      "A": "doubled",
+      "B": "halved",
+      "C": "four times as great",
+      "D": "one-fourth as much"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35015?exam_type=waec&type=obj&page=208",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1038",
+    "text": "An object of mass 2kg moving with a velocity 3ms-11 collides head-on with another object of mass 1kg moving in the opposite direction with a velocity of 4ms-1. If the objects stick together after collision, calculate their common speed.",
+    "options": {
+      "A": "0.60ms-1",
+      "B": "0.67ms-1",
+      "C": "2.00ms-1",
+      "D": "3.33-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35017?exam_type=waec&type=obj&page=208",
+    "correct_answer": "B",
+    "explanation": "-1",
+    "year": "2008"
+  },
+  {
+    "number": "1039",
+    "text": "A ball is dropped and it hits the floor at a point A. It rebounds upward to a point B. While moving from A to B its?",
+    "options": {
+      "A": "kinetic energy is increasing",
+      "B": "potential energy is increasing",
+      "C": "potential energy is decreasing",
+      "D": "kinetic energy remains constant"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35026?exam_type=waec&type=obj&page=208",
+    "correct_answer": "B",
+    "explanation": "The Kinetic Energy of a body is energy possessed by a body as a result of its motion.\nHence, while in motion the kinetic energy of a body changes into potential energy as it rebounds from\u00a0the floor",
+    "year": "2008"
+  },
+  {
+    "number": "1040",
+    "text": "Which of the following devices convert heat energy to electrical energy?",
+    "options": {
+      "A": "transformer",
+      "B": "dynamo",
+      "C": "thermocouple",
+      "D": "thermostat"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35028?exam_type=waec&type=obj&page=208",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1041",
+    "text": "An object of mass 0.25kg moves at a height h above the ground with a speed of 4ms-1, if its mechanical energy at this height is 12 J, determine the value of h. [g = 10ms-1]",
+    "options": {
+      "A": "0.8m",
+      "B": "4.0m",
+      "C": "4.8m",
+      "D": "5.6m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35031?exam_type=waec&type=obj&page=209",
+    "correct_answer": "B",
+    "explanation": "The total mechanical energy E\u00a0at height\u00a0h is given by:\u00a0E\u00a0= PE + KE\nE = mgh + \\(\\frac{1}{2}\\)mv\\(^2\\)\n12 = (0.25 x 10 x h) + (0.5 x 0.25 x 4 x 4)\n12 = 2.5h + 2\n2.5h = 12 - 2 = 10\nh = \\(\\frac{10}{2.5}\\) = 4m.",
+    "year": "2008"
+  },
+  {
+    "number": "1042",
+    "text": "Which of the following equations for the efficiency of a machine is correct?",
+    "options": {
+      "A": "Efficiency = \\(\\frac{\\text{Velocity Ratio}}{\\text{Mechanical Advantage}}\\) x 100%",
+      "B": "Efficiency = \\(\\frac{input}{output}\\) x 100%",
+      "C": "Efficiency = \\(\\frac{\\text{load distance}}{\\text{effort distance}}\\) x 100%",
+      "D": "Efficiency = \\(\\frac{\\text{Mechanical Advantage}}{\\text{Velocity Ratio}}\\) x 100%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35033?exam_type=waec&type=obj&page=209",
+    "correct_answer": "D",
+    "explanation": "EFFICIENCY is the ratio of useful work done by the machine to the total work put into the machine.",
+    "year": "2008"
+  },
+  {
+    "number": "1043",
+    "text": "The design of the thermostat of an electric iron is based on the",
+    "options": {
+      "A": "emmision of electrons from metals when heated",
+      "B": "increase in size of metals when heated",
+      "C": "increase in the density of metals when heated",
+      "D": "change in the mass of metals when heated"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35035?exam_type=waec&type=obj&page=209",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1044",
+    "text": "A metal rod of length 50cm is heated from 40oC to 80oC. If the linear expansivity of the material is \\(\\alpha\\), calculate the increase in length of the rod (in metres) in terms of \\(\\alpha\\)",
+    "options": {
+      "A": "20\\(\\alpha\\)",
+      "B": "200\\(\\alpha\\)",
+      "C": "2000\\(\\alpha\\)",
+      "D": "20000\\(\\alpha\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35041?exam_type=waec&type=obj&page=209",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1045",
+    "text": "The cubic expansivity of a certain gas at constant pressure is \\(\\frac{1}{273} k^{-1}\\). If a given mass of the gas is held at constant pressure and its volume at 0oC is 273m3, determine the volume of the gas at 273oC.",
+    "options": {
+      "A": "273m3",
+      "B": "546m3",
+      "C": "8193",
+      "D": "10923"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35046?exam_type=waec&type=obj&page=209",
+    "correct_answer": "B",
+    "explanation": "3",
+    "year": "2008"
+  },
+  {
+    "number": "1046",
+    "text": "Water of mass 1.5kg is heated from from 30oC to 80oC using an electric kettle which is rated 5A, 230V. Calculate the time taken to reach the final destination [specific heat capacity of water 4200Jkg-1K-1]",
+    "options": {
+      "A": "4.57 minutes",
+      "B": "5.02 minutes",
+      "C": "7.30 minutes",
+      "D": "10.04 minutes"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35048?exam_type=waec&type=obj&page=210",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1047",
+    "text": "The working principle of a pressure cooker is based on the",
+    "options": {
+      "A": "increase in the volume of steam inside it",
+      "B": "complete trapping of heat inside it",
+      "C": "increase in the pressure of the pot",
+      "D": "decrease in the pressure of the pot"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35050?exam_type=waec&type=obj&page=210",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1048",
+    "text": "It takes a shorter time for a liquid to boil at the top of a mountain than at the base because at the top, the",
+    "options": {
+      "A": "temperature is higher",
+      "B": "pressure is lower",
+      "C": "humidity is higher",
+      "D": "temperature is constant"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35052?exam_type=waec&type=obj&page=210",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1049",
+    "text": "Light is considered as a transverse wave because it travels",
+    "options": {
+      "A": "through material without causing disturbance of the medium",
+      "B": "through space with constant speed",
+      "C": "in a direction parallel to the plane containing the electric and magnetic fields",
+      "D": "in a direction perpendicular to the plane containing the electric and magnetic fields"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35055?exam_type=waec&type=obj&page=210",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1050",
+    "text": "In the day time, it is possible to see under shady areas such as under a tree because light has undergone",
+    "options": {
+      "A": "internal reflection",
+      "B": "refraction",
+      "C": "diffraction",
+      "D": "diffuse reflection"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35057?exam_type=waec&type=obj&page=210",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1051",
+    "text": "The distance between a concave mirror and an object placed in front of it is 1.0m. If the raduis of curvature of the mirror is 4.0m, the image formed will be",
+    "options": {
+      "A": "2.00m behind the mirror",
+      "B": "2.00m in front of the mirror",
+      "C": "1.25m in front of the mirror",
+      "D": "1.25m behind the mirror"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35060?exam_type=waec&type=obj&page=211",
+    "correct_answer": "B",
+    "explanation": "The focal length of a concave mirror is negative\nf = -2m\n\\(\\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u}\\)\n\\(\\frac{1}{-2} = \\frac{1}{v} -\u00a0\\frac{1}{1}\\)\n\\(\\frac{1}{v} = \\frac{1}{-2} +\u00a0\\frac{1}{1}\\)\n\\(\\frac{1}{v} = \u00a0\\frac{1}{2}\\)\nv = 2m\nThe image distance is 2.0 m in front of the mirror",
+    "year": "2008"
+  },
+  {
+    "number": "1052",
+    "text": "The image of an object formed by a convex mirror is",
+    "options": {
+      "A": "real, errect and enlarged",
+      "B": "real, inverted and enlarged",
+      "C": "virtual, erect and diminished",
+      "D": "virtual, erect and enlarge"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35062?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1053",
+    "text": "When viewed straight down, a fish in a pond is",
+    "options": {
+      "A": "father below than it appears to be",
+      "B": "nearer than it appears to be",
+      "C": "found at exactly the same point it is seen",
+      "D": "seen beside its image"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35064?exam_type=waec&type=obj&page=211",
+    "correct_answer": "B",
+    "explanation": "When viewed straight down, a fish in a pond appears nearer than it is. This is due to the bending of light as it travels from water to air, which causes the fish to appear closer to the surface than it is. This phenomenon is called refraction. As a result, the fish's actual position in the water is farther below than it appears to be when viewed from above.",
+    "year": "2008"
+  },
+  {
+    "number": "1054",
+    "text": "A converging lens and a screen are placed 20 cm and 80 cm respectively from an object in a straight line so that a sharp image of the object is formed on the screen. If the object is 3cm high. Calculate the height of the image formed",
+    "options": {
+      "A": "1 cm",
+      "B": "9cm",
+      "C": "12cm",
+      "D": "15cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35065?exam_type=waec&type=obj&page=211",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1055",
+    "text": "Which of the following defects of vision is as a result of the eye ball being too long?",
+    "options": {
+      "A": "long sight",
+      "B": "astigmatism",
+      "C": "short sight",
+      "D": "loss of accommodation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35067?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1056",
+    "text": "a sound wave is produced fron a source ans an echo is heard t seconds afterwards. If d is the distance of the reflecting surface from the source, v the speed, p the wavelength and T the period of the wave, then",
+    "options": {
+      "A": "d = \\(\\frac{2t}{\\lambda}\\)",
+      "B": "d = \\(\\frac{\\lambda t}{2T}\\)",
+      "C": "d = \\(\\frac{2T}{\\lambda t}\\)",
+      "D": "d = \\(\\frac{\\lambda T}{2t}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35069?exam_type=waec&type=obj&page=212",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1057",
+    "text": "A negatively charged rod is held close to an uncharged metal ball on an insulating stand. The ball will",
+    "options": {
+      "A": "be negatively chargeed",
+      "B": "be positively charged",
+      "C": "have an excess negatively charges on the side nearest the rod",
+      "D": "have an excess positively charges on the side nearest the rod"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35071?exam_type=waec&type=obj&page=212",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1058",
+    "text": "Two bodies each carrying a charge of 2.00 x 10-10C are 5cm apart. Calculate the magnitude of the force between the charges.[\\(\\frac{1}{4\\pi \\mathit{E}_o} = 9.00 \\times 10^9 Nm^2C{-2}\\)]",
+    "options": {
+      "A": "1.44 x 10-7N",
+      "B": "7.20 x 10-9N",
+      "C": "7.20 x 10-11N",
+      "D": "1.44 x 1011N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35082?exam_type=waec&type=obj&page=212",
+    "correct_answer": "A",
+    "explanation": "f = \\(\\frac{1}{4 \\pi \\mathit{E}_o} \\times \\frac{Q^2}{r^2} = \\frac{9 \\times 10^9(2 \\times 10^{-2})^2}{(0.05)^2}\\)= 1.44 x 10-2N",
+    "year": "2008"
+  },
+  {
+    "number": "1059",
+    "text": "If the charge on an object is measured as 4.0 x 10-18C, how many excess electrons does the object possess, given that the charge of an electron is 1.6 x 10-18C",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "25",
+      "D": "37"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35085?exam_type=waec&type=obj&page=212",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1060",
+    "text": "Which of the following is a unit of the time rate of flow of electric charges?",
+    "options": {
+      "A": "coulomb",
+      "B": "ampere",
+      "C": "volt",
+      "D": "watt"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35087?exam_type=waec&type=obj&page=212",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1061",
+    "text": "A wire 1.0m long and with cross-sectional area 2.0 x 10-7 m2 has a resistance of 0.1\\(\\Omega\\). Calculate the electrical conductivity of the wire",
+    "options": {
+      "A": "2.0 x 107\\(\\Omega^{-1} m^{-1}\\)",
+      "B": "5.0 x 107\\(\\Omega^{-1} m^{-1}\\)",
+      "C": "2.0 x 108\\(\\Omega^{-1} m^{-1}\\)",
+      "D": "5.0 x 108\\(\\Omega^{-1} m^{-1}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35092?exam_type=waec&type=obj&page=213",
+    "correct_answer": "B",
+    "explanation": "K = \\(\\frac{L}{RA} = \\frac{1}{0.1 \\times 2 \\times 10^{-7}} = 5 \\times 10^7\\)",
+    "year": "2008"
+  },
+  {
+    "number": "1062",
+    "text": "Three capacitors each of capacitance 1.5\\(\\mu F\\) are connected in series. The total capacitance in the circuit is",
+    "options": {
+      "A": "2.0 \\(\\mu F\\)",
+      "B": "1.5 \\(\\mu F\\)",
+      "C": "0.6 \\(\\mu F\\)",
+      "D": "0.5 \\(\\mu F\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35097?exam_type=waec&type=obj&page=213",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1063",
+    "text": "A voltmeter is a device that",
+    "options": {
+      "A": "draws high current",
+      "B": "has a very low resistance",
+      "C": "has a very high resistance",
+      "D": "is able to measure both voltage and current"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35098?exam_type=waec&type=obj&page=213",
+    "correct_answer": "C",
+    "explanation": "A voltmeter is a device used to measure the voltage across two points in an electrical circuit. To achieve accurate measurements without interfering with the circuit's operation, a voltmeter is constructed with:\nVery High ResistanceThis high resistance limits the current drawn from the circuit, allowing the voltage measurement to be taken without altering the conditions of the circuit.",
+    "year": "2008"
+  },
+  {
+    "number": "1064",
+    "text": "Which of the following actions will not increase the sensitivity of a moving coil galvanometer?",
+    "options": {
+      "A": "using a strong temporary magnet",
+      "B": "increasing the area and number of turns of the coil",
+      "C": "using a week hair spring",
+      "D": "using a light pointer"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35103?exam_type=waec&type=obj&page=213",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1065",
+    "text": "Fleming's right hand rule is also called the",
+    "options": {
+      "A": "motor rule",
+      "B": "dynamo rule",
+      "C": "screw rule",
+      "D": "thumb rule"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35104?exam_type=waec&type=obj&page=213",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1066",
+    "text": "A transformer is required to supply 12 Vrms to operate a toy train set from a 240 Vrms. If the number of turns in the in the secondary coil is 100, calculate the number of turns required in the primary coil",
+    "options": {
+      "A": "5",
+      "B": "12",
+      "C": "2000",
+      "D": "2400"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35106?exam_type=waec&type=obj&page=214",
+    "correct_answer": "A",
+    "explanation": "p",
+    "year": "2008"
+  },
+  {
+    "number": "1067",
+    "text": "A direct current of 5A flow through a 0.2H inductor. Calculate the energy stored in the inductor",
+    "options": {
+      "A": "0.5J",
+      "B": "1.0J",
+      "C": "2.5J",
+      "D": "5.0J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35107?exam_type=waec&type=obj&page=214",
+    "correct_answer": "C",
+    "explanation": "P = \\(\\frac{1}{2} I^2 L\\)\n= 5\\(^2 \\times\\)\u00a00.2 \\(\\times\\) \\(\\frac{1}{2}\\)\n= 2.5J",
+    "year": "2008"
+  },
+  {
+    "number": "1068",
+    "text": "Both \\(\\gamma\\)-rays and X-rays  i. can be produced by thermionic emission  ii. have low frequencies  iii. have short wavelengths. Which of the statements above is/are correct?",
+    "options": {
+      "A": "i only",
+      "B": "ii only",
+      "C": "iii only",
+      "D": "i and iii only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35108?exam_type=waec&type=obj&page=214",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1069",
+    "text": "When a radioactive substance undergoes a beta decay, its",
+    "options": {
+      "A": "mass number decreases by 1",
+      "B": "atomic number decreases by 1",
+      "C": "mass number increases by 1",
+      "D": "atomic number increases by 1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35109?exam_type=waec&type=obj&page=214",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1070",
+    "text": "Nuclear fission is preffered to nuclear fusion in the generation of energy because",
+    "options": {
+      "A": "very high temperature are required for fusion",
+      "B": "the raw materials for fusion are easily obtained",
+      "C": "energy obtained from fusion is relatively small",
+      "D": "the by-products of fusion is very dangerous"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35111?exam_type=waec&type=obj&page=214",
+    "correct_answer": "A",
+    "explanation": "Elevated temperatures are necessary to initiate fusion but not fission reactionsbecause, In a fission reaction, the positively charged nucleus and neutrally charged neutrons clash to start the fission process. The procedure can be carried out at lower temperatures since it has a low activation barrier.\nNOTE:fusion creates less radioactive material thanfission.",
+    "year": "2008"
+  },
+  {
+    "number": "1071",
+    "text": "Control in nuclear reactors is effected with boron rods because rhe rods have the ability to",
+    "options": {
+      "A": "absorb electrons",
+      "B": "absorb neutron",
+      "C": "accelerate electrons",
+      "D": "slow down neutrons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35112?exam_type=waec&type=obj&page=215",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "1072",
+    "text": "A radioactive element has a decay constant of 0.077s-1. Calculate its half-life",
+    "options": {
+      "A": "13.0s",
+      "B": "9.0s",
+      "C": "5.1s",
+      "D": "0.5s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/35113?exam_type=waec&type=obj&page=215",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2008"
+  },
+  {
+    "number": "1138",
+    "text": "The diagram above shoes three forces F1, F2 and F3, which of the following ewuations is correct?",
+    "options": {
+      "A": "F3 = F1 + F2",
+      "B": "F2 = F1 + F3",
+      "C": "F1 = F2 - F3",
+      "D": "F1 = F2 + F3"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/14310003270_maths-11.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/35316?exam_type=waec&type=obj&page=228",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  }
+]

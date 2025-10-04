@@ -1,0 +1,752 @@
+[
+  {
+    "number": "929",
+    "text": "Which of the following phenomena causes capillary of liquids in tubes of narrow bore?",
+    "options": {
+      "A": "viscosity",
+      "B": "surface tension",
+      "C": "osmosis",
+      "D": "brownian motion"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34615?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "930",
+    "text": "Which of the following physical quantities are derived?  i. Area  ii. Thrust  iii. Pressure  iv. Mass",
+    "options": {
+      "A": "i, ii, iii and iv",
+      "B": "i, ii and iii only",
+      "C": "i, ii and iv only",
+      "D": "i and iii only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34618?exam_type=waec&type=obj&page=186",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "931",
+    "text": "A block of volume 3 x 105m3 and density 2.5 x 103 kg m-3 is suspended from a spring balance with \\(\\frac{2}{3}\\) of its volume immersed in a liquid of density 900 kg m-3. Determine the reading of the spring balance [g = 10ms-2]",
+    "options": {
+      "A": "0.18N",
+      "B": "0.57N",
+      "C": "0.75n",
+      "D": "0.93N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34624?exam_type=waec&type=obj&page=187",
+    "correct_answer": "B",
+    "explanation": "5\n5\n3\n5\n7\n7\n9\n3\n5\n8\n8\n9",
+    "year": "2006"
+  },
+  {
+    "number": "932",
+    "text": "A solid body will float in a liquid if its",
+    "options": {
+      "A": "density is less than that of a liquid",
+      "B": "mass is equal to that of the liquid",
+      "C": "density is greater than that of the liquid",
+      "D": "mass is less than that of the liquid"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34627?exam_type=waec&type=obj&page=187",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "933",
+    "text": "An object is said to undergo oscillatory motion when it moves",
+    "options": {
+      "A": "in an erratic manner",
+      "B": "to and fro about a fixed point",
+      "C": "in a circular path",
+      "D": "along a continuous path from the starting point"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34629?exam_type=waec&type=obj&page=187",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "934",
+    "text": "A body is rotating in a horizontal circle of radius 2.5m with an angular speed of 5 rad s-1. Calculate the magnitude of the radial acceleration of the body",
+    "options": {
+      "A": "62.50ms-2",
+      "B": "31.25ms-2",
+      "C": "12.50ms-2",
+      "D": "10.00ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34635?exam_type=waec&type=obj&page=187",
+    "correct_answer": "C",
+    "explanation": "\\(\\alpha = \\omega^2\\)r\n= 5\\(^2\\) x 2.5 = 25 x 2.5 = 62.5ms\\(^{-2}\\)",
+    "year": "2006"
+  },
+  {
+    "number": "935",
+    "text": "A moving car of mass 800 kg experiences a frictional force of 200N. If it accelerates 2 ms-2, calculate the magnitude of the force applied to the car",
+    "options": {
+      "A": "600N",
+      "B": "1000N",
+      "C": "1600N",
+      "D": "1800N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34638?exam_type=waec&type=obj&page=187",
+    "correct_answer": "D",
+    "explanation": "F",
+    "year": "2006"
+  },
+  {
+    "number": "936",
+    "text": "Uniform speed occurs when there is equal change of",
+    "options": {
+      "A": "distance in equal times",
+      "B": "displacement in equal times",
+      "C": "velocity in equal times",
+      "D": "acceleration in equal times"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34640?exam_type=waec&type=obj&page=188",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "937",
+    "text": "A car accelerates uniformly from rest at 5 ms-2. Determine its speed after 10s",
+    "options": {
+      "A": "50.0ms-1",
+      "B": "25.0ms-1",
+      "C": "2.0ms-1",
+      "D": "0.5ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34643?exam_type=waec&type=obj&page=188",
+    "correct_answer": "A",
+    "explanation": "2",
+    "year": "2006"
+  },
+  {
+    "number": "938",
+    "text": "Which of the following quantities is a vector?",
+    "options": {
+      "A": "speed",
+      "B": "distance",
+      "C": "energy",
+      "D": "momentum"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34645?exam_type=waec&type=obj&page=188",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "939",
+    "text": "which of the following statements about simple harmonic motion is correct? The",
+    "options": {
+      "A": "total mechanical energy is always conserved",
+      "B": "linear acceleration is directed to any variable point",
+      "C": "linear acceleration varies inversely with displacement",
+      "D": "period of oscillation varies linearly as acceleration due to gravity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34650?exam_type=waec&type=obj&page=188",
+    "correct_answer": "A",
+    "explanation": "In SHM, the total mechanical energy (the sum of potential and kinetic energy) remains constant, provided no damping or external forces are acting on the system.",
+    "year": "2006"
+  },
+  {
+    "number": "940",
+    "text": "A force acting on a body causes a change in the momentum of a body from 12 kg ms-1 to 16kg ms-1 in 0.25. Calculate the magnitude of the impulse",
+    "options": {
+      "A": "28.0Ns",
+      "B": "20.0Ns",
+      "C": "4.0Ns",
+      "D": "0.8Ns"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34652?exam_type=waec&type=obj&page=188",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "941",
+    "text": "Which of the following source of energy is renewable?",
+    "options": {
+      "A": "petroleum",
+      "B": "charcoal",
+      "C": "hydro",
+      "D": "nuclear"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34653?exam_type=waec&type=obj&page=189",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "942",
+    "text": "A stone of mass 2.0kg is thrown vertically upward with a velocity of 20.0 ms-1, calculate the initial kinetic energy of the stone",
+    "options": {
+      "A": "200J",
+      "B": "400J",
+      "C": "800J",
+      "D": "1600J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34654?exam_type=waec&type=obj&page=189",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "943",
+    "text": "Which of the following statements about the mouth piece of a telephone is correct? It converts sound energy into",
+    "options": {
+      "A": "acoustic energy",
+      "B": "mechanival energy",
+      "C": "electrical energy",
+      "D": "heat energy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34655?exam_type=waec&type=obj&page=189",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "944",
+    "text": "The potential energy in an elastic string of force constant K which has been extended by X metres is expresses as",
+    "options": {
+      "A": "\\(\\frac{1}{2}k \\Box ^2\\)",
+      "B": "\\(k \\Box ^2\\)",
+      "C": "\\(\\frac{1}{2}k \\Box \\)",
+      "D": "\\(k \\Box \\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34656?exam_type=waec&type=obj&page=189",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "945",
+    "text": "The engine of a train produces a force of 3000N when moving at 30.ms-1. calculate the power of the engine",
+    "options": {
+      "A": "1.00 x 102W",
+      "B": "3.00 x 104W",
+      "C": "9.00 x 104W",
+      "D": "3.00 x 105W"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34657?exam_type=waec&type=obj&page=189",
+    "correct_answer": "C",
+    "explanation": "3\n4",
+    "year": "2006"
+  },
+  {
+    "number": "946",
+    "text": "The velocity ratio of an inclined plane, inclines at an angle \\(\\theta\\) to the horizontal can be expressed as",
+    "options": {
+      "A": "(sin \\(\\theta)^{-1}\\)",
+      "B": "\\(\\sin \\theta\\)",
+      "C": "(cos \\(\\theta)^{-1}\\)",
+      "D": "\\(\\cos \\theta\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34658?exam_type=waec&type=obj&page=190",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "947",
+    "text": "A block and tackle system has six pulleys. a force of 50N applied to it lifts a load of weight W. If the efficiency of the system is 40%, calculate W",
+    "options": {
+      "A": "300N",
+      "B": "200N",
+      "C": "140N",
+      "D": "120N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34659?exam_type=waec&type=obj&page=190",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "948",
+    "text": "The sagging of overhead electrical cables is the consequence of",
+    "options": {
+      "A": "linear expansivity",
+      "B": "superficial expansivity",
+      "C": "cubic expansivity",
+      "D": "conductivity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34660?exam_type=waec&type=obj&page=190",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "949",
+    "text": "The silvered  surface in a vacuum flask reduces heat loos due to",
+    "options": {
+      "A": "conduction",
+      "B": "convection",
+      "C": "radiation",
+      "D": "evaporation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34661?exam_type=waec&type=obj&page=190",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "950",
+    "text": "How long will it take to heat 3kg of water from 28oC to 88oC in an electric kettle taking 6a from a 220V supply? [specific heat capacity of water = 4180 J kg-1K-1]",
+    "options": {
+      "A": "120s",
+      "B": "570s",
+      "C": "600s",
+      "D": "836s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34662?exam_type=waec&type=obj&page=190",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "951",
+    "text": "The amount of energy required to change a kilogram of ice in water without a change in temperature is",
+    "options": {
+      "A": "heat capacity of ice",
+      "B": "specific heat capacity",
+      "C": "specific latent heat of vaporisation of ice",
+      "D": "specific latent heat of fusion of ice"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34663?exam_type=waec&type=obj&page=191",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "952",
+    "text": "A quantity of steam at 100oC condenses to water at the same temperature by releasing 6.9 x 104J of energy. Calculate the mass of the condensed steam. [specific latent heat of vaporization of eater = 2.3 x 106 J kg-1]",
+    "options": {
+      "A": "3.0 x 10-1 kg",
+      "B": "3.0 x 10-2 kg",
+      "C": "3.0 x 10-3 kg",
+      "D": "3.0 x 10-4 kg"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34664?exam_type=waec&type=obj&page=191",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "953",
+    "text": "The temperature of a liquid falls after some of it has evaporated because",
+    "options": {
+      "A": "the liquid left is smaller in volume and the breeae easily cools it",
+      "B": "the more energetic molecules have escaped into the atmosphere",
+      "C": "the liquid left has less latent heat",
+      "D": "after evaporation impurites are left behind"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34665?exam_type=waec&type=obj&page=191",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "954",
+    "text": "The S.I units of frequency, period and amplitude of a wave are respectively",
+    "options": {
+      "A": "hertz, second and centimeter",
+      "B": "second, metre and hertz",
+      "C": "metre, hertz and seconds",
+      "D": "hertz, second and metre"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34666?exam_type=waec&type=obj&page=191",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "955",
+    "text": "a note of frequency 2000Hz has a velocity of 400 ms-1. calculate the wavelength of the note",
+    "options": {
+      "A": "5.0m",
+      "B": "2.0m",
+      "C": "0.5m",
+      "D": "0.2m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34667?exam_type=waec&type=obj&page=191",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "956",
+    "text": "The eclipse of the moon occurs when the",
+    "options": {
+      "A": "moon comes exactly between the earth and the sun",
+      "B": "earth comes exactly between the moon and the sun",
+      "C": "sun comes exactly between the earth and the moon",
+      "D": "moon reflects all the rays from the sun onto the earth"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34668?exam_type=waec&type=obj&page=192",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "957",
+    "text": "Which of the following observations cannot be explained using the rectilinear propagation of light?",
+    "options": {
+      "A": "production of images by a pinhole camera",
+      "B": "production of real images of objects by lenses",
+      "C": "formation of an annular eclipse",
+      "D": "diffraction patterns of light"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34670?exam_type=waec&type=obj&page=192",
+    "correct_answer": "D",
+    "explanation": "The rectilinear propagation of light refers to the principle that light travels in straight lines. This principle explains the production of images by a pinhole camera and the production of real images of objects by lenses. However, it does not explain the formation of diffraction patterns of light. Diffraction is a wave property of light that involves the bending of light waves around obstacles or the spreading of light waves after they pass through a small opening. This phenomenon cannot be explained by the rectilinear propagation of light",
+    "year": "2006"
+  },
+  {
+    "number": "958",
+    "text": "The distance between the successive crests of a wave travelling at 20ms\\(^{-1}\\) is 25cm. Calculate the frequency of the wave",
+    "options": {
+      "A": "0.8Hz",
+      "B": "5.0Hz",
+      "C": "50.0Hz",
+      "D": "80.0hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34671?exam_type=waec&type=obj&page=192",
+    "correct_answer": "D",
+    "explanation": "f = \\(\\frac{v}{\\lambda} = \\frac{20}{0.25} = 80Hz\\)",
+    "year": "2006"
+  },
+  {
+    "number": "959",
+    "text": "A ray from a fixed object is incident on a plane mirror at an angle of 20o. If the mirror is rotated through 30o by how many degree would the reflected ray rotate?",
+    "options": {
+      "A": "60o",
+      "B": "50o",
+      "C": "40o",
+      "D": "30o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34672?exam_type=waec&type=obj&page=192",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "960",
+    "text": "Which of the following distances is usually adjustable in the camera? The distance between the",
+    "options": {
+      "A": "lens and the film",
+      "B": "diaphragm and the shutter",
+      "C": "shutter and the film",
+      "D": "diaphragm and the film"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34675?exam_type=waec&type=obj&page=192",
+    "correct_answer": "A",
+    "explanation": "The lens and the film:\u00a0This distance can be adjusted for focusing the image on the film or sensor, while the distance between the diaphragm and the shutter (B) is generally fixed and not usually adjustable.",
+    "year": "2006"
+  },
+  {
+    "number": "961",
+    "text": "A travelling microscope is focused on a mark on a table. If a glass block of thickness 18.0cm is placed on the mark by how many centimeters will the microscope be moved upwards so as to focus the mark once again? [refractive index of glass = 1.5]",
+    "options": {
+      "A": "27cm",
+      "B": "24cm",
+      "C": "9cm",
+      "D": "6cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34679?exam_type=waec&type=obj&page=193",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "962",
+    "text": "In which of the following media would sound wave travel fastest?",
+    "options": {
+      "A": "wood",
+      "B": "water",
+      "C": "iron",
+      "D": "mercury"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34682?exam_type=waec&type=obj&page=193",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "963",
+    "text": "Which of the following actions is necessary in order to tune a string to produce a note of an octave higher than its fundamental?",
+    "options": {
+      "A": "doucling the length of the string",
+      "B": "reducing the tension by half",
+      "C": "reducing the mass per unit length",
+      "D": "increasing the tension four times"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34686?exam_type=waec&type=obj&page=193",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "964",
+    "text": "The acceleration due o gravity may be defined as the force",
+    "options": {
+      "A": "of attraction of the sun and on the earth",
+      "B": "with which the earth revolves around the sun",
+      "C": "with which the earth attracts one kilo-gram mass",
+      "D": "of the moon on the earth"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34688?exam_type=waec&type=obj&page=193",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "965",
+    "text": "An electron of mass m and charge \\(\\Box\\) enters a uniform electric field between two metal plates P and q separated by a distance d. P is maintained at a potential V while Q is earthed. Determine an expression for the magnitude of the acceleration of electron through the field",
+    "options": {
+      "A": "\\(\\frac{eV}{md}\\)",
+      "B": "\\(\\frac{d}{meV}\\)",
+      "C": "\\(\\frac{md}{eV}\\)",
+      "D": "\\(\\frac{e}{Vmd}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34692?exam_type=waec&type=obj&page=193",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "966",
+    "text": "Which of the following factors does not affect the capacitance of a parallel plate capacitor?",
+    "options": {
+      "A": "area of the plates",
+      "B": "nature of the surface of the plates",
+      "C": "distance of separation between the plates",
+      "D": "nature of the insulating material between the plates"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34694?exam_type=waec&type=obj&page=194",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "967",
+    "text": "The equivalent capacitance of a 3\\(\\mu F\\) capacitor and a 6\\(\\mu F\\) capacitor connected in parallel is",
+    "options": {
+      "A": "2.0\\(\\mu F\\)",
+      "B": "3.0\\(\\mu F\\)",
+      "C": "4.5\\(\\mu F\\)",
+      "D": "9.0\\(\\mu F\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34695?exam_type=waec&type=obj&page=194",
+    "correct_answer": "D",
+    "explanation": "1\n2",
+    "year": "2006"
+  },
+  {
+    "number": "968",
+    "text": "a cell of e.m.f. 1.5V and internal resistance 1.0\\(\\Omega\\) is connected to two resistor of resistance 2.0\\(\\Omega\\) and 3.0\\(\\Omega\\) in series. Calculate the current through the resistors",
+    "options": {
+      "A": "0.25A",
+      "B": "0.30A",
+      "C": "0.35A",
+      "D": "0.50A"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34696?exam_type=waec&type=obj&page=194",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "969",
+    "text": "An electric lamp rated 120W is used on a 240Vrms, calculate the resistance of its filament",
+    "options": {
+      "A": "480\\(\\Omega\\)",
+      "B": "360\\(\\Omega\\)",
+      "C": "60\\(\\Omega\\)",
+      "D": "2\\(\\Omega\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34697?exam_type=waec&type=obj&page=194",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "970",
+    "text": "Which of the following statements about a bar magnet is correct?",
+    "options": {
+      "A": "iron fillings cling uniformly along the length of a bar magnet",
+      "B": "the magnetic properties are more pronounced at the middle of a magnet",
+      "C": "it is impossible to have the same poles at the end of a magnet",
+      "D": "the magnetic properties are more pronounced at points near the end of the bar"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34698?exam_type=waec&type=obj&page=194",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "971",
+    "text": "The force experienced by a current-carrying conductor move in a magnetic field is employed in the working of the  i. moving coil ammeter  ii. electric bell  iii. electric motor. Which of the statements above are correct?",
+    "options": {
+      "A": "i and ii only",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34699?exam_type=waec&type=obj&page=195",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "972",
+    "text": "The breaking up of an atomic nucleus into the fragment of nearly equal size is known as",
+    "options": {
+      "A": "nuclear fusion",
+      "B": "nuclear fission",
+      "C": "thermonuclear reaction",
+      "D": "natural radioactivity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34700?exam_type=waec&type=obj&page=195",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "973",
+    "text": "A 500kV is applied across an X-ray tube. Calculate the maximum velocity of the electrons produced [Me = 9.1 x 10-31kg, e = 1.6 x 10-19C]",
+    "options": {
+      "A": "4.2 x 108ms-1",
+      "B": "1.9 x 108ms-1",
+      "C": "4.2 x 105ms-1",
+      "D": "1.8 x 105ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34701?exam_type=waec&type=obj&page=195",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "974",
+    "text": "A radioactive substance of mass 768g has a half life of 3 years. After how many years does this substance leave only 6g undecayed?",
+    "options": {
+      "A": "21",
+      "B": "18",
+      "C": "15",
+      "D": "12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34703?exam_type=waec&type=obj&page=195",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "975",
+    "text": "Fusion is not usually used for generating electric power because",
+    "options": {
+      "A": "no energy is released when fusion takes place",
+      "B": "very high temperatures are required to initiate fusion reaction",
+      "C": "the raw materials needed is not easily available",
+      "D": "heavy nuclei are involved"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34707?exam_type=waec&type=obj&page=195",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "976",
+    "text": "An atom \\(^{234}_{91} P\\) emits a gamma radiation. The resultant nuclide is",
+    "options": {
+      "A": "\\(^{230}_{90} Th\\)",
+      "B": "\\(^{234}_{91} Pa\\)",
+      "C": "\\(^{234}_{90} Th\\)",
+      "D": "\\(^{234}_{89} Ac\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/34710?exam_type=waec&type=obj&page=196",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2006"
+  },
+  {
+    "number": "977",
+    "text": "The diagram above shows the speed-time graph of a car.If the car covered a total distance of 600m in 25s, calculate its maximum speed",
+    "options": {
+      "A": "30ms-1",
+      "B": "25ms-1",
+      "C": "20ms-1",
+      "D": "15ms-1"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/5721631804_10.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34719?exam_type=waec&type=obj&page=196",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2006"
+  },
+  {
+    "number": "978",
+    "text": "Determine the magnitude of P in the diagram above",
+    "options": {
+      "A": "16N",
+      "B": "20N",
+      "C": "32N",
+      "D": "40N"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/17164895592_12.jpg",
+    "answer_url": "https://myschool.ng/classroom/physics/34720?exam_type=waec&type=obj&page=196",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2006"
+  }
+]

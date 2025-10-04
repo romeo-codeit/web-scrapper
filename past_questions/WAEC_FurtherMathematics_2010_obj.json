@@ -1,0 +1,601 @@
+[
+  {
+    "number": "321",
+    "text": "Find the domain of \\(f(x) = \\frac{x}{3 - x}, x \\in R\\), the set of real numbers.",
+    "options": {
+      "A": "\\({x : x \\in R, x \\neq 3}\\)",
+      "B": "\\({x : x \\in R, x \\neq 1}\\)",
+      "C": "\\({x : x \\in R, x \\neq 0}\\)",
+      "D": "\\({x : x \\in R, x\\neq -3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51057?exam_type=waec&type=obj&page=65",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = \\frac{x}{3 - x} \\)\nf(x) has a defined value except at x = 3 where the function is undefined.",
+    "year": "2010"
+  },
+  {
+    "number": "322",
+    "text": "Find the value of \\(\\cos(60\u00b0 + 45\u00b0)\\) leaving your answer in surd form.",
+    "options": {
+      "A": "\\(\\frac{6 + \\sqrt{2}}{4}\\)",
+      "B": "\\(\\frac{3 + \\sqrt{6}}{4}\\)",
+      "C": "\\(\\frac{\\sqrt{2} - \\sqrt{6}}{4}\\)",
+      "D": "\\(\\frac{3 - \\sqrt{6}}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51059?exam_type=waec&type=obj&page=65",
+    "correct_answer": "C",
+    "explanation": "\\(\\cos (x + y) = \\cos x \\cos y - \\sin x \\sin y \\)\n\\(\\cos (60 + 45) = \\cos 60 \\cos 45 - \\sin 60 \\sin 45\\)\n= \\(\\frac{1}{2} \\times \\frac{\\sqrt{2}}{2} - \\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{2}}{2}\\)\n= \\(\\frac{\\sqrt{2} - \\sqrt{6}}{4}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "323",
+    "text": "If \\(\\frac{5}{\\sqrt{2}} - \\frac{\\sqrt{8}}{8} = m\\sqrt{2}\\), where m is a constant. Find m.",
+    "options": {
+      "A": "\\(1\\frac{1}{2}\\)",
+      "B": "\\(1\\frac{1}{4}\\)",
+      "C": "\\(2\\frac{1}{4}\\)",
+      "D": "\\(2\\frac{1}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51062?exam_type=waec&type=obj&page=65",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{5}{\\sqrt{2}} = \\frac{5 \\times \\sqrt{2}}{\\sqrt{2} \\times \\sqrt{2}} = \\frac{5\\sqrt{2}}{2}\\)\n\\(\\frac{\\sqrt{8}}{8} = \\frac{2\\sqrt{2}}{8} = \\frac{\\sqrt{2}}{4}\\)\n\\(\\frac{5}{\\sqrt{2}} - \\frac{\\sqrt{8}}{8} = (\\frac{5}{2} - \\frac{1}{4})\\sqrt{2}\\)\n= \\(\\frac{9}{4}\\sqrt{2} \\)\n= \\(2\\frac{1}{4}\\sqrt{2}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "324",
+    "text": "If \\(16^{3x} = \\frac{1}{4}(32^{x - 1})\\), find the value of x.",
+    "options": {
+      "A": "\\(-1\\)",
+      "B": "\\(\\frac{-1}{3}\\)",
+      "C": "\\(\\frac{-3}{7}\\)",
+      "D": "\\(\\frac{-5}{19}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51067?exam_type=waec&type=obj&page=65",
+    "correct_answer": "A",
+    "explanation": "\\(16^{3x} = \\frac{1}{4}(32^{x - 1})\\)\n\\((2^{4})^{3x} = (2^{-2})((2^{5})^{x - 1})\\)\n\\(2^{12x} = 2^{-2 + 5x - 5}\\)\n\\(12x = -7 + 5x\\)\n\\(7x = -7 \\implies x = -1\\)",
+    "year": "2010"
+  },
+  {
+    "number": "325",
+    "text": "Simplify \\(\\frac{\\log_{5} 8}{\\log_{5} \\sqrt{8}}\\).",
+    "options": {
+      "A": "-2",
+      "B": "\\(\\frac{-1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51080?exam_type=waec&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{\\log_{5} 8}{\\log_{5} \\sqrt{8}} = \\frac{\\log_{5} 8}{\\log_{5} 8^{\\frac{1}{2}}}\\)\n= \\(\\frac{\\log_{5} 8}{\\frac{1}{2}\\log_{5} 8}\\)\n= \\(\\frac{1}{\\frac{1}{2}} \\)\n= 2",
+    "year": "2010"
+  },
+  {
+    "number": "326",
+    "text": "The coefficient of the 7th term in the binomial expansion of \\((2 - \\frac{x}{3})^{10}\\) in ascending powers of x is",
+    "options": {
+      "A": "\\(\\frac{560}{243}\\)",
+      "B": "\\(\\frac{841}{243}\\)",
+      "C": "\\(\\frac{1120}{243}\\)",
+      "D": "\\(\\frac{4481}{243}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51113?exam_type=waec&type=obj&page=66",
+    "correct_answer": "C",
+    "explanation": "\\(^{10}C_{7 - 1} (2^{10 - 6}) (\\frac{-1}{3})^{6}\\)\n\\(\\frac{10!}{(10 - 6)! 6!} \\times 16 \\times \\frac{1}{243} \\)\n= \\(210 \\times 16 \\times \\frac{1}{729} \\)\n= \\(\\frac{1120}{243}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "327",
+    "text": "The roots of a quadratic equation are \\((3 - \\sqrt{3})\\) and \\((3 + \\sqrt{3})\\). Find its equation.",
+    "options": {
+      "A": "\\(x^{2} - 6x - 9 = 0\\)",
+      "B": "\\(x^{2} - 6x + 6 = 0\\)",
+      "C": "\\(x^{2} + 6x - 9 = 0\\)",
+      "D": "\\(x^{2} + 6x + 6 = 0\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51116?exam_type=waec&type=obj&page=66",
+    "correct_answer": "B",
+    "explanation": "\\((x - \\alpha)(x - \\beta) = 0\\)\n\\((x - (3 - \\sqrt{3}))(x - (3 + \\sqrt{3})) = 0\\)\n\\((x^{2} - (3 - \\sqrt{3})x - (3 + \\sqrt{3})x + (9 + 3\\sqrt{3} - 3\\sqrt{3} - 3) = 0\\)\n\\(x^{2} - 3x - x\\sqrt{3} - 3x + x\\sqrt{3} + 6 = 0\\)\n\\(x^{2} - 6x + 6 = 0\\)",
+    "year": "2010"
+  },
+  {
+    "number": "328",
+    "text": "If (x - 3) is a factor of \\(2x^{2} - 2x + p\\), find the value of constant p.",
+    "options": {
+      "A": "-12",
+      "B": "-6",
+      "C": "3",
+      "D": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51121?exam_type=waec&type=obj&page=66",
+    "correct_answer": "A",
+    "explanation": "Using remainder theorem, since x - 3 is a factor, then\ngiven \\(2x^{2} - 2x + p\\), f(3) = 0\n\\(2(3^{2}) - 2(3) + p = 0 \\implies 18 - 6 = -p\\)\n\\(p = -12\\)",
+    "year": "2010"
+  },
+  {
+    "number": "329",
+    "text": "If \\(\\sin x = -\\sin 70\u00b0, 0\u00b0 < x < 360\u00b0\\), determine the two possible values of x.",
+    "options": {
+      "A": "110\u00b0, 250\u00b0",
+      "B": "110\u00b0, 290\u00b0",
+      "C": "200\u00b0, 250\u00b0",
+      "D": "250\u00b0, 290\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51124?exam_type=waec&type=obj&page=66",
+    "correct_answer": "D",
+    "explanation": "The value\u00a0of the sine of an angle is negative in the third and fourth quadrant. Hence options A and B are not the options.\n\\(\\sin 250 = -\\sin (250 - 180) = - \\sin 70\\)\n\\(\\sin 290 = - \\sin (360 - 290) = - \\sin 70\\)",
+    "year": "2010"
+  },
+  {
+    "number": "330",
+    "text": "For what values of x is \\(\\frac{x^{2} - 9x + 18}{x^{2} + 2x - 35}\\) undefined?",
+    "options": {
+      "A": "6 or 3",
+      "B": "-18 or -9",
+      "C": "-7 or 5",
+      "D": "-5 or 7"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51130?exam_type=waec&type=obj&page=66",
+    "correct_answer": "C",
+    "explanation": "An fraction\u00a0is undefined when the denominator has value = 0.\n\\(\\frac{x^{2} - 9x + 18}{x^{2} + 2x - 35}\\) is undefined when \\(x^{2} + 2x - 35 = 0\\)\n\\(x^2 + 7x - 5x - 35 = 0 \\implies (x + 7)(x - 5) = 0\\)\n\\(x = \\text{-7 or 5}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "331",
+    "text": "Calculate, correct to one decimal place, the length of the line joining points X(3, 5) and Y(5, 1).",
+    "options": {
+      "A": "4.0",
+      "B": "4.2",
+      "C": "4.5",
+      "D": "5.0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51135?exam_type=waec&type=obj&page=67",
+    "correct_answer": "C",
+    "explanation": "\\(XY = \\sqrt{(x_{1} - x_{2})^{2} + (y_{1} - y_{2})^{2}}\\) is the distance between a point \\(X(x_{1}, y_{1})\\) and \\(Y(x_{2}, y_{2})\\).\n\\(XY = \\sqrt{(3 - 5)^{2} + (5 - 1)^{2}} = \\sqrt{20}\\)\n= \\(2\\sqrt{5} = 4. 467 \\approxeq 4.5\\)",
+    "year": "2010"
+  },
+  {
+    "number": "332",
+    "text": "If \\(y = 2(2x + \\sqrt{x})^{2}\\), find \\(\\frac{\\mathrm d y}{\\mathrm d x}\\).",
+    "options": {
+      "A": "\\(2\\sqrt{x}(2x + \\sqrt{2})\\)",
+      "B": "\\(4(2x + \\sqrt{x})(2 + \\frac{1}{2\\sqrt{x}})\\)",
+      "C": "\\(4(2x + \\sqrt{x})(2 + \\sqrt{x})\\)",
+      "D": "\\(8(2x + \\sqrt{x})(2 + \\sqrt{x})\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51142?exam_type=waec&type=obj&page=67",
+    "correct_answer": "B",
+    "explanation": "\\(y = 2(2x + \\sqrt{x})^{2}\\)\nLet \\(u = 2x + \\sqrt{x}\\)\n\\(y = 2u^{2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d u} = 4u\\)\n\\(\\frac{\\mathrm d u}{\\mathrm d x} = 2 + \\frac{1}{2\\sqrt{x}}\\)\n\\(\\therefore \\frac{\\mathrm d y}{\\mathrm d x} = (\\frac{\\mathrm d y}{\\mathrm d u})(\\frac{\\mathrm d u}{\\mathrm d x})\\)\n= \\(4u(2 + \\frac{1}{2\\sqrt{x}}) \\)\n= \\(4(2x + \\sqrt{x})(2 + \\frac{1}{2\\sqrt{x}})\\)",
+    "year": "2010"
+  },
+  {
+    "number": "333",
+    "text": "Calculate, correct to one decimal place, the acute angle between the lines 3x - 4y + 5 = 0 and 2x + 3y - 1 = 0.",
+    "options": {
+      "A": "70.6\u00b0",
+      "B": "50.2\u00b0",
+      "C": "39.8\u00b0",
+      "D": "19.4\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51146?exam_type=waec&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "\\(\\tan \\theta = \\frac{m_{1} - m_{2}}{1 - m_{1}m_{2}}\\)\n\\(m_{1}\u00a0= \\text{slope of 1st line } 4y = 3x + 5 \\implies y = \\frac{3}{4}x + \\frac{5}{4}\\)\n\\(m_{1} = \\frac{3}{4}\\)\n\\(m_{2} = \\text{slope of 2nd line} 3y = 1 - 2x \\implies y = \\frac{1}{3} - \\frac{2}{3}x\\)\n\\(m_{2} = -\\frac{2}{3}\\)\n\\(\\tan \\theta = \\frac{\\frac{3}{4} - (-\\frac{2}{3})}{1 - ((\\frac{3}{4})(-\\frac{2}{3}))} = \\frac{\\frac{17}{12}}{\\frac{1}{2}}\\)\n\\(\\tan \\theta = \\frac{17}{6}\\)\n\\(\\theta \\approxeq 70.6\u00b0\\)",
+    "year": "2010"
+  },
+  {
+    "number": "334",
+    "text": "Evaluate \\(\\int_{1}^{2} \\frac{4}{x^{3}} \\mathrm {d} x\\)",
+    "options": {
+      "A": "\\(-1\\frac{1}{2}\\)",
+      "B": "\\(-\\frac{15}{16}\\)",
+      "C": "\\(\\frac{15}{16}\\)",
+      "D": "\\(1\\frac{1}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51150?exam_type=waec&type=obj&page=67",
+    "correct_answer": "D",
+    "explanation": "\\(\\int \\frac{4}{x^{3}} \\mathrm {d} x = \\int 4x^{-3} \\mathrm {d} x\\)\n\\(\\frac{4x^{-3 + 1}}{-2} = -2x^{-2}|_{1}^{2} = \\frac{-2}{x^{2}}|_{1}^{2}\\)\n= \\(\\frac{-2}{2^{2}}\u00a0 - \\frac{-2}{1^{2}} = -\\frac{1}{2}\u00a0 + 2 = 1\\frac{1}{2}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "335",
+    "text": "If \\(\\begin{vmatrix} 3 & x \\\\ 2 & x - 2 \\end{vmatrix} = -2\\), find the value of x.",
+    "options": {
+      "A": "4",
+      "B": "-4",
+      "D": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51151?exam_type=waec&type=obj&page=67",
+    "correct_answer": "A",
+    "explanation": "\\(\\begin{vmatrix} 3 & x \\\\ 2 & x - 2 \\end{vmatrix} = 3(x - 2) - 2x = -2\\)\n\\(3x - 6 - 2x = -2 \\implies x - 6 = -2\\)\n\\(x = -2 + 6 = 4\\)",
+    "year": "2010"
+  },
+  {
+    "number": "336",
+    "text": "Given that \\(P = {x : \\text{x is a factor of 6}}\\) is the domain of \\(g(x) = x^{2} + 3x - 5\\), find the range of x.",
+    "options": {
+      "A": "{-1, 5, 13}",
+      "B": "{5, 13, 49}",
+      "C": "{1, 2, 3, 6}",
+      "D": "{-1, 5, 13, 49}"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51153?exam_type=waec&type=obj&page=68",
+    "correct_answer": "D",
+    "explanation": "\\(P = {x : \\text{x is a factor of 6}} \\implies P = {1, 2, 3, 6}\\)\n\\(g(x) = x^{2} + 3x - 5\\)\n\\(g(1) = 1^{2} + 3(1) - 5 = 1 + 3 - 5 = -1\\)\n\\(g(2) = 2^{2} + 3(2) - 5 = 4 + 6 - 5 = 5\\)\n\\(g(3) = 3^{2} +\u00a03(3) - 5 = 9 + 9 - 5 = 13\\)\n\\(g(6) = 6^{2} + 3(6) - 5 = 36 + 18 - 5 = 49\\)\n\\(\\therefore Range(g(x)) = {-1, 5, 13, 49}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "337",
+    "text": "The third of geometric progression (G.P) is 10 and the sixth term is 80. Find the common ratio.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51154?exam_type=waec&type=obj&page=68",
+    "correct_answer": "A",
+    "explanation": "\\(T_{n} = ar^{n - 1}\\) ( Geometric Progression)\n\\(T_{3} = ar^{3 - 1} = ar^{2} = 10 .... (1)\\)\n\\(T_{6} = ar^{6 - 1} = ar^{5} = 80 .....(2)\\)\nDivide (2) by (1)\n\\(r^{5 - 2} = r^{3} = 8 \\)\n\\(r = \\sqrt[3]{8} = 2\\)",
+    "year": "2010"
+  },
+  {
+    "number": "338",
+    "text": "Find the axis of symmetry of the curve \\(y = x^{2} - 4x - 12\\).",
+    "options": {
+      "A": "x = -2",
+      "B": "y = -2",
+      "C": "x = 2",
+      "D": "y = 2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51155?exam_type=waec&type=obj&page=68",
+    "correct_answer": "C",
+    "explanation": "The vertical line \\(x = \\frac{-b}{2a}\\) is the axis of symmetry of the curve.\n\\(y = x^{2} - 4x - 12\\)\n\\(\\text{Axis of symmetry} = x = \\frac{-(-4)}{2(1)} = \\frac{4}{2} = 2\\)",
+    "year": "2010"
+  },
+  {
+    "number": "339",
+    "text": "Find the equation of the tangent to the curve \\(y = 4x^{2} - 12x + 7\\) at point (2, -1).",
+    "options": {
+      "A": "y + 4x - 9 = 0",
+      "B": "y - 4x - 9 = 0",
+      "C": "y - 4x + 9 = 0",
+      "D": "y + 4x + 9 = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51156?exam_type=waec&type=obj&page=68",
+    "correct_answer": "C",
+    "explanation": "\\(y = 4x^{2} - 12x + 7\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 8x - 12\\)\nAt x = 2, y = 8(2) - 12 = 4\nEquation of the tangent to the curve: \\(y - (-1) = 4(x - 2)\\)\n\\(y + 1 = 4x - 8 \\implies y - 4x + 1 + 8 = y - 4x + 9 = 0\\)",
+    "year": "2010"
+  },
+  {
+    "number": "340",
+    "text": "The mean age of 15 pupils in a class is 14.2 years. One new pupil joined the class and the mean changed to 14.1 years. Calculate the age of the new pupil.",
+    "options": {
+      "A": "12.4 years",
+      "B": "12.6 years",
+      "C": "13.2 years",
+      "D": "14.1 years"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51161?exam_type=waec&type=obj&page=68",
+    "correct_answer": "B",
+    "explanation": "\\(Mean = \\frac{\\text{sum of ages}}{\\text{no of pupils}}\\)\nLet the sum of the ages of the 15 pupils be x and the sum of the 16 pupils be y.\n\\(\\frac{x}{15} = 14.2 \\implies x = 14.2 \\times 15 = 213\\)\n\\(\\frac{y}{16} = 14.1 \\implies y = 14.1 \\times 16 = 225.6\\)\n\\(\\text{Age of new pupil} = 225.6 - 213 = 12.6\\)",
+    "year": "2010"
+  },
+  {
+    "number": "341",
+    "text": "The distance s metres of a particle from a fixed point at time t seconds is given by \\(s = 7 + pt^{3} + t^{2}\\), where p is a constant. If the acceleration at t = 3 secs is \\(8 ms^{-2}\\), find the value of p.",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{4}{9}\\)",
+      "C": "\\(\\frac{5}{9}\\)",
+      "D": "\\(1\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51165?exam_type=waec&type=obj&page=69",
+    "correct_answer": "A",
+    "explanation": "Differentiate distance twice to get the acceleration and then equate to get p.\n\\(s = 7 + pt^{3} + t^{2}\\)\n\\(\\frac{\\mathrm d s}{\\mathrm d t} = v(t) = 3pt^{2} + 2t\\)\n\\(\\frac{\\mathrm d v}{\\mathrm d t} = a(t) = 6pt + 2\\)\n\\(a(3) = 6p(3) + 2 = 8 \\implies 18p = 8 - 2 = 6\\)\n\\(p = \\frac{6}{18} = \\frac{1}{3}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "342",
+    "text": "The probabilities that a husband and wife will be alive in 15 years time are m and n respectively. Find the probability that only one of them will be alive at that time.",
+    "options": {
+      "A": "mn",
+      "B": "m + n",
+      "C": "m + n - 2mn",
+      "D": "1 - mn"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51169?exam_type=waec&type=obj&page=69",
+    "correct_answer": "C",
+    "explanation": "P(only one alive) = P(husband and not wife) + P(wife and not husband)\n= m (1 - n) + n ( 1 - m)\n= m - mn + n - mn\n= m + n - 2mn",
+    "year": "2010"
+  },
+  {
+    "number": "343",
+    "text": "In a class of 50 pupils, 35 like Science and 30 like History. What is the probability of selecting a pupil who likes both Science and History?",
+    "options": {
+      "A": "0.10",
+      "B": "0.30",
+      "C": "0.60",
+      "D": "0.70"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51179?exam_type=waec&type=obj&page=69",
+    "correct_answer": "B",
+    "explanation": "Let the number of students that like both Science and History = x\nNumber of Science only = 35 - x\nNumber of History only = 30 - x\n35 - x + 30 - x + x = 50\n65 - x = 50\nx = 15\nP(Science and History) = \\(\\frac{15}{50} = 0.30\\)",
+    "year": "2010"
+  },
+  {
+    "number": "344",
+    "text": "P, Q, R, S are points in a plane such that PQ = 8i - 5j, QR = 5i + 7j, RS = 7i + 3j\u00a0 and PS = xi + yj. Find (x, y).",
+    "options": {
+      "A": "(-6, -15)",
+      "B": "(-6, 5)",
+      "C": "(20, 5)",
+      "D": "(20, 15)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51184?exam_type=waec&type=obj&page=69",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "345",
+    "text": "Find the least value of n for which \\(^{3n}C_{2} > 0, n \\in R\\).",
+    "options": {
+      "A": "\\(\\frac{1}{3}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51194?exam_type=waec&type=obj&page=69",
+    "correct_answer": "C",
+    "explanation": "\\(^{3n}C_{2} > 0 \\implies \\frac{3n!}{(3n - 2)! 2!} > 0\\)\n\\(\\frac{3n(3n - 1)(3n - 2)!}{(3n - 2)! 2} > 0\\)\n\\(\\frac{3n(3n - 1)}{2} > 0\\)\n\\(3n(3n - 1) > 0 \\implies n > 0; n > \\frac{1}{3}\\)\nThe least number in the option that satisfies \\(n > 0; n > \\frac{1}{3} = \\frac{2}{3}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "346",
+    "text": "If \\(\\overrightarrow{OA} = 3i + 4j\\) and \\(\\overrightarrow{OB} = 5i - 6j \\) where O is the origin and M is the midpoint of AB, find OM.",
+    "options": {
+      "A": "-2i - 10j",
+      "B": "-2i + 2j",
+      "C": "4i - j",
+      "D": "4i + j"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51224?exam_type=waec&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "\\(\\overrightarrow{OA} = (3, 4)\\)\n\\(\\overrightarrow{OB} = (5, -6)\\)\n\\(\\overrightarrow{OM} = (\\frac{3 + 5}{2}, \\frac{4 + (-6)}{2})\\)\n= \\((4, -1) = 4i - j\\)",
+    "year": "2010"
+  },
+  {
+    "number": "347",
+    "text": "Find the direction cosines of the vector \\(4i - 3j\\).",
+    "options": {
+      "A": "\\(\\frac{9}{10}, \\frac{27}{10}\\)",
+      "B": "\\(\\frac{17}{27}, -\\frac{17}{27}\\)",
+      "C": "\\(\\frac{4}{5}, -\\frac{3}{5}\\)",
+      "D": "\\(\\frac{4}{7}, \\frac{-3}{7}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51226?exam_type=waec&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "Given \\(V = xi +yj\\), the direction cosines are \\(\\frac{x}{|V|}, \\frac{y}{|V|}\\).\n\\(|4i - 3j| = \\sqrt{4^{2} + (-3)^{2}} = \\sqrt{25} = 5\\)\nDirection cosines = \\(\\frac{4}{5}, \\frac{-3}{5}\\).",
+    "year": "2010"
+  },
+  {
+    "number": "348",
+    "text": "Yomi was asked to label four seats S, R, P, Q. What is the probability he labelled them in alphabetical order?",
+    "options": {
+      "A": "\\(\\frac{1}{24}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{2}{13}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51229?exam_type=waec&type=obj&page=70",
+    "correct_answer": "A",
+    "explanation": "The number of arrangements for the 4 letters = \\(^{4}P_{4} = \\frac{4!}{(4 - 4)!}\\)\n\\(4! = 24\\)\nAlphabetical order is just 1 of the arrangements for the letters\n= \\(\\frac{1}{24}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "349",
+    "text": "Two forces (2i - 5j)N and (-3i + 4j)N act on a body of mass 5kg. Find in \\(ms^{-2}\\), the magnitude of the acceleration of the body.",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{2}}{5}\\)",
+      "B": "\\(5\\sqrt{2}\\)",
+      "C": "\\(2\\sqrt{5}\\)",
+      "D": "\\(\\frac{5\\sqrt{2}}{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51234?exam_type=waec&type=obj&page=70",
+    "correct_answer": "A",
+    "explanation": "\\(F\u00a0= F_{1} + F_{2}\\)\n\\((2i - 5j) + (-3i + 4j) = (-i - j)\\)\n\\(F = ma \\implies (-1, -1) = 5a\\)\n\\(a = (-\\frac{1}{5}, -\\frac{1}{5})\\)\n\\(|a| = \\sqrt{(\\frac{-1}{5})^2 + (\\frac{-1}{5})^2} = \\sqrt{2}{25}\\)\n\\(|a| = \\frac{\\sqrt{2}}{5} ms^{-2}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "350",
+    "text": "Two particles are fired together along a smooth horizontal surface with velocities 4 m/s and 5 m/s. If they move at 60\u00b0 to each other, find the distance between them in 2 seconds.",
+    "options": {
+      "A": "\\(2\\sqrt{61}\\)",
+      "B": "\\(\\sqrt{42}\\)",
+      "C": "\\(2\\sqrt{21}\\)",
+      "D": "\\(2\\sqrt{10}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51239?exam_type=waec&type=obj&page=70",
+    "correct_answer": "C",
+    "explanation": "Given lines \\(OA\\) and \\(OB\\) inclined at angle \\(\\theta\\), the line \\(AB\\) is gotten using cosine rule.\n\\(|AB|^{2} = |OA|^{2} + |OB|^{2} - 2|OA||OB|\\cos \\theta\\)\n\\(|AB|^{2} = 4^{2} + 5^{2} - 2(4)(5)\\cos 60\\)\n= \\(16 + 25 - 20\\)\n\\(|AB|^{2} = 21 \\implies |AB| = \\sqrt{21}\\)\n\\(\\implies \\text{The two particles are} \\sqrt{21} m \\text{apart in 1 sec}\\)\nIn two seconds, the particles will be \\(2\\sqrt{21} m\\) apart.",
+    "year": "2010"
+  },
+  {
+    "number": "351",
+    "text": "Two forces \\(F_{1} = (7i + 8j)N\\) and \\(F_{2} = (3i + 4j)N\\) act on a particle. Find the magnitude and direction of \\(F_{1} - F_{2}\\).",
+    "options": {
+      "A": "\\((4\\sqrt{2} N, 000\u00b0)\\)",
+      "B": "\\((4\\sqrt{2} N, 045\u00b0)\\)",
+      "C": "\\((4\\sqrt{2} N, 090\u00b0)\\)",
+      "D": "\\((4\\sqrt{2} N, 180\u00b0)\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51240?exam_type=waec&type=obj&page=71",
+    "correct_answer": "B",
+    "explanation": "\\(F_{1} = (7i + 8j)N ; F_{2} = (3i + 4j)N\\)\n\\(|F_{1} - F_{2}| = |(7i + 8j) - (3i + 4j)| = |4i + 4j|\\)\n\\(|4i + 4j| = \\sqrt{4^{2} + 4^{2}} = \\sqrt{32} = 4\\sqrt{2}\\)\n\\(\\tan \\theta = \\frac{y}{x} = \\frac{4}{4} = 1\\)\n\\(\\theta = \\tan^{-1} 1 = 045\u00b0\\)\n= \\((4\\sqrt{2} N, 045\u00b0)\\)",
+    "year": "2010"
+  },
+  {
+    "number": "352",
+    "text": "A stone is thrown vertically upwards and its height at any time t seconds is \\(h = 45t - 9t^{2}\\). Find the maximum height reached.",
+    "options": {
+      "A": "45. 25 m",
+      "B": "45.50 m",
+      "C": "56.00 m",
+      "D": "56.25 m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51242?exam_type=waec&type=obj&page=71",
+    "correct_answer": "D",
+    "explanation": "\\(h = 45t - 9t^{2}\\)\n\\(\\frac{\\mathrm d h}{\\mathrm d t} = 45 - 18t = 0\\)\n\\(45 = 18t \\implies t = 2.5 s\\)\n\\(h(2.5) = 45(2.5) - 9(2.5)^{2} = 112.5 - 56.25\\)\n= \\(56.25 m.\\)",
+    "year": "2010"
+  },
+  {
+    "number": "353",
+    "text": "Given that \\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} - 4\\) and y = 6 when x = 3, find the equation for y.",
+    "options": {
+      "A": "\\(x^{3} - 4x - 9\\)",
+      "B": "\\(x^{3} - 4x + 9\\)",
+      "C": "\\(x^{3} + 4x - 9\\)",
+      "D": "\\(x^{3} + 4x + 9\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51245?exam_type=waec&type=obj&page=71",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} - 4\\)\n\\(y = \\int (3x^{2} - 4) \\mathrm {d} x = x^{3} - 4x + c\\)\ny = 6 when x = 3\n\\(6 = 3^{3} - 4(3) + c \\implies 6 = 27 - 12 + c\\)\n\\(c = 6 - 15 = -9\\)\n\\(y = x^{3} - 4x - 9\\)",
+    "year": "2010"
+  },
+  {
+    "number": "354",
+    "text": "If \\(h(x) = x^{3} - \\frac{1}{x^{3}}\\), evaluate \\(h(a) - h(\\frac{1}{a})\\).",
+    "options": {
+      "A": "-1",
+      "B": "0",
+      "C": "\\(2a^{3} - \\frac{2}{a^{3}}\\)",
+      "D": "\\(\\frac{2}{a^{3}} - 2a^{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51246?exam_type=waec&type=obj&page=71",
+    "correct_answer": "C",
+    "explanation": "\\(h(x) = x^{3} - \\frac{1}{x^{3}}\\)\n\\(h(a) = a^{3} - \\frac{1}{a^{3}}\\)\n\\(h(\\frac{1}{a}) = (\\frac{1}{a})^{3} - \\frac{1}{(\\frac{1}{a})^{3}} = \\frac{1}{a^{3}} - a^{3}\\)\n\\(h(a) - h(\\frac{1}{a}) = (a^{3} - \\frac{1}{a^{3}}) - (\\frac{1}{a^{3}} - a^{3}) = 2a^{3} - \\frac{2}{a^{3}}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "355",
+    "text": "A company took delivery of 12 vehicles made up of 7 buses and 5 saloon cars for two of its departments; Personnel and General Administration. If the Personnel department is to have at least 3 saloon cars, in how many ways can these vehicles be distributed equally between the departments?",
+    "options": {
+      "A": "350",
+      "B": "455",
+      "C": "462",
+      "D": "571"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51247?exam_type=waec&type=obj&page=71",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "356",
+    "text": "A bicycle wheel of diameter 70 cm covered a distance of 350 cm in 2 seconds. How many radians per second did it turn?",
+    "options": {
+      "A": "5",
+      "B": "7",
+      "C": "8",
+      "D": "10"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51249?exam_type=waec&type=obj&page=72",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2010"
+  },
+  {
+    "number": "357",
+    "text": "The initial velocity of an object is \\(u = \\begin{pmatrix} -5 \\\\ 3 \\end{pmatrix} ms^{-1}\\). If the acceleration of the object is \\(a = \\begin{pmatrix} 3\u00a0\\\\ -4 \\end{pmatrix} ms^{-2}\\) and it moved for 3 seconds, find the final velocity.",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -14 \\\\ 15 \\end{pmatrix} ms^{-1}\\)",
+      "B": "\\(\\begin{pmatrix} -2 \\\\ 1 \\end{pmatrix} ms^{-1}\\)",
+      "C": "\\(\\begin{pmatrix} 4 \\\\ -9 \\end{pmatrix} ms^{-1}\\)",
+      "D": "\\(\\begin{pmatrix} 14 \\\\ -9 \\end{pmatrix} ms^{-1}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51258?exam_type=waec&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "\\(u =\u00a0\\begin{pmatrix} -5 \\\\ 3 \\end{pmatrix} ms^{-1}\\)\n\\(a =\u00a0\\begin{pmatrix} 3\u00a0\\\\ -4\u00a0\\end{pmatrix} ms^{-2}; t = 3 secs\\)\n\\(v = u + at \\implies v =\u00a0\\begin{pmatrix} -5 \\\\ 3 \\end{pmatrix}\u00a0+\u00a0\\begin{pmatrix} 3\u00a0\\\\ -4\u00a0\\end{pmatrix}\u00a0\\times 3\\)\n= \\(\\begin{pmatrix} -5 \\\\ 3 \\end{pmatrix} +\u00a0\\begin{pmatrix} 9\u00a0\\\\ -12\u00a0\\end{pmatrix} = \\begin{pmatrix} 4\u00a0\\\\ -9\u00a0\\end{pmatrix} ms^{-1}\\)\\)",
+    "year": "2010"
+  },
+  {
+    "number": "358",
+    "text": "Find the maximum value of \\(2 + \\sin (\\theta + 25)\\).",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51262?exam_type=waec&type=obj&page=72",
+    "correct_answer": "C",
+    "explanation": "\\(\\sin \\theta \\leq 1\\)\ni.e Maximum value of \\(\\sin \\theta \\forall \\theta = 1\\).\nTherefore, \\(2 + \\sin \\theta \\leq 2 + 1 = 3\\)",
+    "year": "2010"
+  },
+  {
+    "number": "359",
+    "text": "Simplify \\((1 + 2\\sqrt{3})^{2} - (1 - 2\\sqrt{3})^{2}\\)",
+    "options": {
+      "A": "0",
+      "B": "\\(8\\sqrt{3}\\)",
+      "C": "13",
+      "D": "\\(2 - 4\\sqrt{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51277?exam_type=waec&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "\\((1 + 2\\sqrt{3})^{2} = 1 + 4\\sqrt{3} + 12 = 13 + 4\\sqrt{3}\\)\n\\((1 - 2\\sqrt{3})^{2} = 1 - 4\\sqrt{3} + 12 = 13 - 4\\sqrt{3}\\)\n\\(13 + 4\\sqrt{3} - (13 - 4\\sqrt{3}) = 13 + 4\\sqrt{3} - 13 + 4\\sqrt{3}\\)\n= \\(8\\sqrt{3}\\)",
+    "year": "2010"
+  },
+  {
+    "number": "360",
+    "text": "What is the angle between \\(a = (3i - 4j)\\) and \\(b = (6i + 4j)\\)?",
+    "options": {
+      "A": "13\u00b0",
+      "B": "87\u00b0",
+      "C": "100\u00b0",
+      "D": "110\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/further-mathematics/51292?exam_type=waec&type=obj&page=72",
+    "correct_answer": "B",
+    "explanation": "\\(a . b = |a||b| \\cos \\theta\\)\n\\(a = 3i - 4j; b = 6i + 4j\\)\n\\(18 - 16 = (\\sqrt{3^{2} + (-4)^{2}})(\\sqrt{6^{2} + 4^{2}}) \\cos \\theta\\)\n\\(2 = 5\\sqrt{52} \\cos \\theta\\)\n\\(\\cos \\theta = \\frac{2}{5\\sqrt{52}} = 0.0555\\)\n\\(\\theta = 86.8\u00b0 \\approxeq 87\u00b0\\)",
+    "year": "2010"
+  }
+]

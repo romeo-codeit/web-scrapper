@@ -1,0 +1,692 @@
+[
+  {
+    "number": "1025",
+    "text": "Simplify: (3\\(\\frac{1}{2} + 4\\frac{1}{3}) \\div (\\frac{5}{6} - \\frac{2}{3}\\))",
+    "options": {
+      "A": "1\\(\\frac{1}{4}\\)",
+      "B": "8\\(\\frac{1}{2}\\)",
+      "C": "35",
+      "D": "47"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36428?exam_type=waec&type=obj&page=205",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1026",
+    "text": "In a particular year, the exchange rate of naira (N) varies directly with the Dollars{$}. If N1122 is equivalent to $8, find the Naira equivalent of $36",
+    "options": {
+      "A": "N8976",
+      "B": "N5049",
+      "C": "N140.25",
+      "D": "N31.17"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36429?exam_type=waec&type=obj&page=206",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1027",
+    "text": "If log 2 = x, log 3 = y and log 7 = z, find, in terms of x, y and z, the value of log (\\(\\frac{28}{3}\\))",
+    "options": {
+      "A": "2x + y - z",
+      "B": "2x + z - y",
+      "C": "x + y - 2x",
+      "D": "x + x - y"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36430?exam_type=waec&type=obj&page=206",
+    "correct_answer": "B",
+    "explanation": "log (\\(\\frac{28}{3}) = \\log (\\frac{7 \\times 4}{3})\\)= log 7 + log 4 - log 3log 7 + log \\(2^2\\) - log 3 = log 7 + 2log2 - log 3= z\u00a0+ 2x - y= 2x + z\u00a0- y",
+    "year": "2009"
+  },
+  {
+    "number": "1028",
+    "text": "Arrange the following numbers in descending orders of magnitude: 22three, 34five, 21six",
+    "options": {
+      "A": "21six, 22three, 34five,",
+      "B": "21six, 34five, 22three",
+      "C": "22three, 34five,  21six",
+      "D": "34five,  21six, 22three"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36433?exam_type=waec&type=obj&page=206",
+    "correct_answer": "D",
+    "explanation": "three\nfive\nsix\no\n1\n0\n1\n0\nten\nten\nten\nten\nten\nten\nfive\nsix\nthree",
+    "year": "2009"
+  },
+  {
+    "number": "1029",
+    "text": "Find the value to which N3000.00 will amount in 5 years at 6% per annum simple interest",
+    "options": {
+      "A": "N3,900.00",
+      "B": "N3,750.00",
+      "C": "N3,600.00",
+      "D": "N3,300"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36434?exam_type=waec&type=obj&page=206",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1030",
+    "text": "Express the square root of 0.000144 in the standard form",
+    "options": {
+      "A": "1.2 x 10-4",
+      "B": "1.2 x 10-3",
+      "C": "1.2 x 10-2",
+      "D": "1.2 x 10-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36435?exam_type=waec&type=obj&page=206",
+    "correct_answer": "C",
+    "explanation": "-2",
+    "year": "2009"
+  },
+  {
+    "number": "1031",
+    "text": "Two sets are disjoint if",
+    "options": {
+      "A": "they are both empty",
+      "B": "their union is an empty set",
+      "C": "their intersection is an empty set",
+      "D": "one of them is a subset of the other"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36436?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "1032",
+    "text": "If \\(\\frac{3}{2x} - \\frac{2}{3x} = 4\\), solve for x",
+    "options": {
+      "A": "\\(\\frac{4}{5}\\)",
+      "B": "\\(\\frac{4}{13}\\)",
+      "C": "\\(\\frac{5}{24}\\)",
+      "D": "\\(\\frac{13}{24}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36437?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1033",
+    "text": "If (2x + 3)3 = 125, find the value of x",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36446?exam_type=waec&type=obj&page=207",
+    "correct_answer": "A",
+    "explanation": "2",
+    "year": "2009"
+  },
+  {
+    "number": "1034",
+    "text": "Factorize x2 - 2x - 3xy completely",
+    "options": {
+      "A": "(x - 2)(3x - y)",
+      "B": "(x - 3y)(x - 2)",
+      "C": "(x - 3y)(x - 3y)",
+      "D": "(3x + y)(x - 2)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36447?exam_type=waec&type=obj&page=207",
+    "correct_answer": "B",
+    "explanation": "2",
+    "year": "2009"
+  },
+  {
+    "number": "1035",
+    "text": "The diameter of a bicycle wheel is 42cm. If the wheel makes 16 complete revolution, what will be the total distance covered by the wheel? [Take \\(\\pi \\frac{22}{7}\\)",
+    "options": {
+      "A": "672cm",
+      "B": "1056cm",
+      "C": "2112cm",
+      "D": "4224cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36448?exam_type=waec&type=obj&page=207",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1036",
+    "text": "The interior angles of a pentagon are (2x + 5)o, (x + 20)o, xo, (3x - 20)o and (x + 15)o. Find the value of x",
+    "options": {
+      "A": "80o",
+      "B": "70o",
+      "C": "65o",
+      "D": "40o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36451?exam_type=waec&type=obj&page=208",
+    "correct_answer": "C",
+    "explanation": "(2x + 5)o + (xo + 20o) + x + (3x - 20)o + (x + 15)o = (n - 2) x 1808n + 20 = (5 - 2) x 180where n = 5(Pentagon)8n + 20 = 3 x 1808n + 20 = 5408n = 540 - 208n = 520x = 65o",
+    "year": "2009"
+  },
+  {
+    "number": "1037",
+    "text": "If M and N are two fixed points in a plane. Find the locus L = [P : PM = PN]",
+    "options": {
+      "A": "a line equal to MN",
+      "B": "line parallel to MN",
+      "C": "Perpendicular bisector of MN",
+      "D": "A circle centre P, radius MN"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36453?exam_type=waec&type=obj&page=208",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1038",
+    "text": "Given that sin 60o = \\(\\frac{\\sqrt{3}}{2}\\) and cos 60o = \\(\\frac{1}{2}\\), evaluate \\(\\frac{1 - sin 60^o}{1 + cos 60^o}\\)",
+    "options": {
+      "A": "\\(\\frac{2 + \\sqrt{3}}{3}\\)",
+      "B": "\\(\\frac{1 - \\sqrt{3}}{3}\\)",
+      "C": "\\(\\frac{1 + \\sqrt{3}}{3}\\)",
+      "D": "\\(\\frac{2 - \\sqrt{3}}{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36455?exam_type=waec&type=obj&page=208",
+    "correct_answer": "D",
+    "explanation": "o",
+    "year": "2009"
+  },
+  {
+    "number": "1039",
+    "text": "In an examination, Kofi scored x% in Physics, 50% in Chemistry and 70% in Biology. If his mean score for the three subjects was 55%, find x",
+    "options": {
+      "A": "40",
+      "B": "45",
+      "C": "55",
+      "D": "60"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36456?exam_type=waec&type=obj&page=208",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1040",
+    "text": "What is the median of the following scores: 22 35 41 63 74 82",
+    "options": {
+      "A": "82",
+      "B": "52",
+      "C": "49",
+      "D": "22"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36458?exam_type=waec&type=obj&page=208",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1041",
+    "text": "Express 2.7864 x 10-3 to 2 significant figures",
+    "options": {
+      "A": "0.28",
+      "B": "0.27",
+      "C": "0.0028",
+      "D": "0.0027"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36459?exam_type=waec&type=obj&page=209",
+    "correct_answer": "C",
+    "explanation": "-3",
+    "year": "2009"
+  },
+  {
+    "number": "1042",
+    "text": "If 92x = \\(\\frac{1}{3}\\)(27x), find x",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "-1",
+      "D": "-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36460?exam_type=waec&type=obj&page=209",
+    "correct_answer": "C",
+    "explanation": "2x\nx\n2\n2x\n4x\n3x - 1",
+    "year": "2009"
+  },
+  {
+    "number": "1043",
+    "text": "If 85% of x is N3230, what is the value of x?",
+    "options": {
+      "A": "N2745.50",
+      "B": "N3714.50",
+      "C": "N3800.00",
+      "D": "N4845.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36462?exam_type=waec&type=obj&page=209",
+    "correct_answer": "C",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1044",
+    "text": "The capacity of a water tank is 1,800 litres. If the tank is in form of a cuboid with base 600cm by 150 cm. Find the height of the tank",
+    "options": {
+      "A": "2cm",
+      "B": "20cm",
+      "C": "200cm",
+      "D": "2000cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36463?exam_type=waec&type=obj&page=209",
+    "correct_answer": "B",
+    "explanation": "3\n3",
+    "year": "2009"
+  },
+  {
+    "number": "1045",
+    "text": "An arc of a circle subtends an angle of 60o at the centre. If the radius of the circle is 3cm, find , in terms of \\(\\pi\\), the length of the arc",
+    "options": {
+      "A": "\\(\\pi\\)cm",
+      "B": "2\\(\\pi\\)cm",
+      "C": "3\\(\\pi\\)cm",
+      "D": "6\\(\\pi\\)cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36465?exam_type=waec&type=obj&page=209",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1046",
+    "text": "solve \\(\\frac{2x + 1}{6} - \\frac{3x - 1}{4}\\) = 0",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{1}{5}\\)",
+      "C": "-\\(\\frac{1}{5}\\)",
+      "D": "-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36466?exam_type=waec&type=obj&page=210",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1047",
+    "text": "If a positive integer, list the values of x which satisfy the equation 3x - 4 < 6 and x - 1 > 0",
+    "options": {
+      "A": "{1, 2, 3}",
+      "B": "{2, 3}",
+      "C": "{2, 3, 4}",
+      "D": "{2, 3, 4, 5}"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36467?exam_type=waec&type=obj&page=210",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1048",
+    "text": "If c and k are the roots of 6 - x - x2 = 0, find c + k",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "-1",
+      "D": "-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36468?exam_type=waec&type=obj&page=210",
+    "correct_answer": "C",
+    "explanation": "2",
+    "year": "2009"
+  },
+  {
+    "number": "1049",
+    "text": "Each of the interior angles of a regular polygon is 140o. Calculate the sum of all the interior angles of the polygon",
+    "options": {
+      "A": "1080o",
+      "B": "1260o",
+      "C": "1800o",
+      "D": "2160o"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36469?exam_type=waec&type=obj&page=210",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1050",
+    "text": "A bucket holds 10 litres of water. How many buckets of water will fill a reservoir of size 8m x 7m x 5m.(1 litre = 1000cm3)`",
+    "options": {
+      "A": "28",
+      "B": "280",
+      "C": "2800",
+      "D": "28000"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36470?exam_type=waec&type=obj&page=210",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1051",
+    "text": "A box contains black, white and red identical balls. The probability of picking a black ball at random from the box is \\(\\frac{3}{10}\\) and the probability of picking a white ball at random is \\(\\frac{2}{5}\\). If there are 30 balls in the box, how many of them are red?",
+    "options": {
+      "A": "3",
+      "B": "7",
+      "C": "9",
+      "D": "12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36472?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "Total no of balls = 30Let x = no. of red ballsPr(red) = \\(\\frac{x}{30}\\)Pr(black) = \\(\\frac{3}{10} = \\frac{9}{30}\\)Pr(white) = \\(\\frac{2}{5} = \\frac{12}{30}\\)No. of black balls = 9No. of white balls = 129 = 12 + x = 30x = 30 - 21x = 9No. of red balls = 9\nOR\nLet w = no of white balls\nB = no of black balls\nR = no of red balls\nPr(black balls) = \\(\\frac{3}{10}\\)\nPr(white balls) =\u00a0\\(\\frac{2}{5}\\)\nBut\u00a0Pr(white balls) =\u00a0\\(\\frac{2}{5}\\) = \\(\\frac{W}{30}\\)\ncross multiply\nW = no of white balls = 12\nPr(black balls) = \\(\\frac{3}{10}\\) =\u00a0\\(\\frac{B}{30}\\)\ncross multiply\nB = no of black balls = 9\nTotal number of balls in the basket = W + B + R = 30 ( given)\n= 12 + 9 + R = 30\nR = 30 - 12 - 9 = 9\nTherefore, the no of red balls = 9.",
+    "year": "2009"
+  },
+  {
+    "number": "1052",
+    "text": "Simplify; \\(\\frac{1}{2}\\sqrt{32} - \\sqrt{18} + \\sqrt{2}\\)",
+    "options": {
+      "A": "zero",
+      "B": "\\(\\sqrt{2}\\)",
+      "C": "2\\(\\sqrt{2}\\)",
+      "D": "4\\(\\sqrt{2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36473?exam_type=waec&type=obj&page=211",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1}{2}\\sqrt{32} - \\sqrt{18} + \\sqrt{2}\\) = \\(\\frac{1}{2} (4\\sqrt{2}) - 3\\sqrt{2} + \\sqrt{2}\\)= 2\\(\\sqrt{2} - 3\\sqrt{2} + \\sqrt{2}\\)= 3\\(\\sqrt{2} - 3\\sqrt{2} - 3\\sqrt{2}\\) = 0",
+    "year": "2009"
+  },
+  {
+    "number": "1053",
+    "text": "The angles of triangle are (x + 10)o, (2x - 40)o and (3x - 90)o. Which of the following accurately describes the triangle?",
+    "options": {
+      "A": "it is a scalene triangle",
+      "B": "it is right angled isosceles triangle",
+      "C": "t is an equilateral triangle",
+      "D": "It is an isosceles triangle but not right angled"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36474?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no\no\no\no\no\no",
+    "year": "2009"
+  },
+  {
+    "number": "1054",
+    "text": "Simplify (x - 3y)2 - (x + 3y)2",
+    "options": {
+      "A": "2(x + 3y)",
+      "B": "(2x - 3y)",
+      "C": "-12xy",
+      "D": "6xy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36475?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "2\n2",
+    "year": "2009"
+  },
+  {
+    "number": "1055",
+    "text": "Find the quadratic equation whose roots are -\\(\\frac{1}{2}\\) and 3",
+    "options": {
+      "A": "2x2 - 2x + 3 = 0",
+      "B": "2x2 - 2x - 3 = 0",
+      "C": "2x2 - 5x - 3 = 0",
+      "D": "3x2 - 5x - 3 = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/36476?exam_type=waec&type=obj&page=211",
+    "correct_answer": "C",
+    "explanation": "x = \\(\\frac{-1}{2}\\)x = 32x = -1, x = 3; 2x + 1 = 0x - 3 = 0(2x + 1)(x - 3) = 02x2 - 6x + x - 3 = 02x2 - 5x - 3 = 0",
+    "year": "2009"
+  },
+  {
+    "number": "1056",
+    "text": "The following is the graph of a quadratic friction, find the co-ordinates of point P",
+    "options": {
+      "A": "(0, 4)",
+      "B": "(4, 0)",
+      "C": "(0, -4)",
+      "D": "(-4, 0)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/11476944600_10.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36481?exam_type=waec&type=obj&page=212",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "1057",
+    "text": "The following is the graph of a quadratic friction, find the value of x when y = 0",
+    "options": {
+      "A": "1, 2",
+      "B": "1, 4",
+      "C": "2, 3",
+      "D": "1, 6"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/1434618247_10.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36482?exam_type=waec&type=obj&page=212",
+    "correct_answer": "B",
+    "explanation": "2",
+    "year": "2009"
+  },
+  {
+    "number": "1058",
+    "text": "PQRS is a trapezuim. QR//PS, /PQ/ = 5cm, /OR/ = 6cm, /PS/ = 10cm and angle QPS = 42o. Calculate the perpendicular distance between the parallel sides",
+    "options": {
+      "A": "3.35cm",
+      "B": "3.73cm",
+      "C": "4.50cm",
+      "D": "4.62cm"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28692367680_17.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36483?exam_type=waec&type=obj&page=212",
+    "correct_answer": "A",
+    "explanation": "o",
+    "year": "2009"
+  },
+  {
+    "number": "1059",
+    "text": "PQRS is a trapezium. QR//PS, /PQ/ = 5cm, /OR/ = 6cm, /PS/ = 10cm and angle QPS = 42o. Calculate, correct to the nearest cm2, the area of the trapezium (h = 3.35cm2 )",
+    "options": {
+      "A": "27cm2",
+      "B": "30cm2",
+      "C": "36cm2",
+      "D": "37cm2"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/4303855773_17.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36485?exam_type=waec&type=obj&page=212",
+    "correct_answer": "A",
+    "explanation": "2\n2\n2\n2",
+    "year": "2009"
+  },
+  {
+    "number": "1060",
+    "text": "In the diagram, /TP/ = 12cm and it is 6cm from O, the centre of the circle, Calculate < TOP",
+    "options": {
+      "A": "120o",
+      "B": "90o",
+      "C": "60o",
+      "D": "45o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/4303857414_19.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36486?exam_type=waec&type=obj&page=212",
+    "correct_answer": "B",
+    "explanation": "o\no\no",
+    "year": "2009"
+  },
+  {
+    "number": "1061",
+    "text": "In the diagram, IG is parallel to JE, JEF = 120o and FHG = 130o, fins the angle marked t",
+    "options": {
+      "A": "40o",
+      "B": "70o",
+      "C": "80o",
+      "D": "100o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/11476953688_21.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36487?exam_type=waec&type=obj&page=213",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no\no\no",
+    "year": "2009"
+  },
+  {
+    "number": "1062",
+    "text": "Find the value of x in the diagram",
+    "options": {
+      "A": "50o",
+      "B": "30o",
+      "C": "22o",
+      "D": "17o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/24388529341_23.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36488?exam_type=waec&type=obj&page=213",
+    "correct_answer": "D",
+    "explanation": "o\no\no\no\no",
+    "year": "2009"
+  },
+  {
+    "number": "1063",
+    "text": "In the diagram, \\SQ\\ = 4cm, \\PT\\ = 7cm. /TR/ = 5cm and ST//OR. If /SP/ = xcm, find the value of x",
+    "options": {
+      "A": "5.6",
+      "B": "6.5",
+      "C": "6.6",
+      "D": "6.8"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/21519297975_a24.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36491?exam_type=waec&type=obj&page=213",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1064",
+    "text": "Using the diagram, find the bearing of X from Y",
+    "options": {
+      "A": "300o",
+      "B": "240o",
+      "C": "120o",
+      "D": "60o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/18650126625_26.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36502?exam_type=waec&type=obj&page=213",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1065",
+    "text": "If /XY/ = 50m, how far cast of X is Y?",
+    "options": {
+      "A": "25.5m",
+      "B": "40.6m",
+      "C": "40.8m",
+      "D": "43.3m"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/15780877398_26.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36503?exam_type=waec&type=obj&page=213",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1066",
+    "text": "in the diagram, angle 20\u00ba\u00a0is subtended at the centre of the circle, find the value of x",
+    "options": {
+      "A": "30o",
+      "B": "50o",
+      "C": "80o",
+      "D": "100o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28692507040_38.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36504?exam_type=waec&type=obj&page=214",
+    "correct_answer": "B",
+    "explanation": "2(30 + x) = 360 - 20060 + 2x = 1602x = 160 - 602x = 100x = \\(\\frac{100}{2}\\)x = 50",
+    "year": "2009"
+  },
+  {
+    "number": "1067",
+    "text": "The pie chart shows the distribution of 4320 students who graduated from four departments in a university. How many students graduated from the science department?",
+    "options": {
+      "A": "840",
+      "B": "864",
+      "C": "920",
+      "D": "960"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/27257889706_41.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36505?exam_type=waec&type=obj&page=214",
+    "correct_answer": "B",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1068",
+    "text": "The pie chart shows the distribution of 4320 students who graduated from four departments in a university. If a student is picked at random from the four departments, what id the probability that he is not from the education department?",
+    "options": {
+      "A": "\\(\\frac{3}{10}\\)",
+      "B": "\\(\\frac{2}{9}\\)",
+      "C": "\\(\\frac{5}{18}\\)",
+      "D": "\\(\\frac{7}{10}\\)"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/27257896964_41.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36506?exam_type=waec&type=obj&page=214",
+    "correct_answer": "D",
+    "explanation": "",
+    "year": "2009"
+  },
+  {
+    "number": "1069",
+    "text": "From the diagram which of the following statements are correct?  i.  XQ is a radius of a circle centre Q.  ii. /XQ/ = /QY/.  iii. /QX/ = /XY/",
+    "options": {
+      "A": "i only",
+      "B": "inand ii only",
+      "C": "ii and iii only",
+      "D": "i, ii and iii"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/18650145774_45.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36507?exam_type=waec&type=obj&page=214",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "1070",
+    "text": "Find the value of x in the diagram",
+    "options": {
+      "A": "50o",
+      "B": "60o",
+      "C": "70o",
+      "D": "80o"
+    },
+    "diagram_url": "https://myschool.ng/storage/classroom/28692533640_46.jpg",
+    "answer_url": "https://myschool.ng/classroom/mathematics/36508?exam_type=waec&type=obj&page=214",
+    "correct_answer": "C",
+    "explanation": "o",
+    "year": "2009"
+  }
+]
