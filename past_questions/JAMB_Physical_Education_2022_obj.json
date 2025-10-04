@@ -1,0 +1,1487 @@
+[
+  {
+    "number": "1",
+    "text": "Which of the following best describes triple jump?",
+    "options": {
+      "A": "Hop, step and jump",
+      "B": "Hop, step and run",
+      "C": "Jump, hop and step",
+      "D": "Run, hop and jump"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64140?exam_type=jamb&type=obj",
+    "correct_answer": "A",
+    "explanation": "Hop, step and jump are associated with triple jump.",
+    "year": "2022"
+  },
+  {
+    "number": "2",
+    "text": "Which of the following games is started with a jump ball?",
+    "options": {
+      "A": "Basketball",
+      "B": "Handball",
+      "C": "soccer",
+      "D": "Squash"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64141?exam_type=jamb&type=obj",
+    "correct_answer": "A",
+    "explanation": "A jump ball is a method used to begin or resume play in basketball",
+    "year": "2022"
+  },
+  {
+    "number": "3",
+    "text": "Which of these gymnastics activities can be performed without an apparatus?",
+    "options": {
+      "A": "Astride vault",
+      "B": "Backward roll",
+      "C": "Hanging bat",
+      "D": "Rope walking"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64142?exam_type=jamb&type=obj",
+    "correct_answer": "B",
+    "explanation": "Backward roll does not require apparatus.",
+    "year": "2022"
+  },
+  {
+    "number": "4",
+    "text": "When a white flag is raised during a track event, it is an indication that",
+    "options": {
+      "A": "A runner is being expected",
+      "B": "All is set",
+      "C": "An athlete is injured",
+      "D": "Game is over"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64143?exam_type=jamb&type=obj",
+    "correct_answer": "B",
+    "explanation": "White flag indicates \"ready\", I.e. all is set. (B)",
+    "year": "2022"
+  },
+  {
+    "number": "5",
+    "text": "What is the distance in meter(s) between the take-off board and the jumping pit in the long jump event?",
+    "options": {
+      "A": "1",
+      "B": "1.5",
+      "C": "2",
+      "D": "3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64144?exam_type=jamb&type=obj",
+    "correct_answer": "D",
+    "explanation": "The distance between the take-off board and the jumping pit is at most 3m.",
+    "year": "2022"
+  },
+  {
+    "number": "6",
+    "text": "Which of these individuals assists performer in gymnastics?",
+    "options": {
+      "A": "Coach",
+      "B": "judge",
+      "C": "referee",
+      "D": "spotter"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64145?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "Spotter is one who supervises a person performing an activity, in order to help them should they be unable to complete it.",
+    "year": "2022"
+  },
+  {
+    "number": "7",
+    "text": "Which of the following is a style in high jump?",
+    "options": {
+      "A": "Hang",
+      "B": "Hitch-kick",
+      "C": "Sail",
+      "D": "Straddle"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64146?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "The straddle technique was the dominant style in the high jump before the development of the Fosbury Flop. It is a successor of the Western roll, with which it is sometimes confused.",
+    "year": "2022"
+  },
+  {
+    "number": "8",
+    "text": "A goal is scored by handball only when the ball.",
+    "options": {
+      "A": "Crosses the goal line in-between the upright and crossbar",
+      "B": "Goes out of play by the side line or goal line",
+      "C": "Hits any of the crossbar of the upright and bounces back",
+      "D": "Is to be thrown from the 9 metres mark of the court"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64149?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "A goal is scored in hand ball when the ball crosses the goal line in-between the upright and the crossbar. That is, the whole of the ball passes between the goalposts and travels fully over the goal line.",
+    "year": "2022"
+  },
+  {
+    "number": "9",
+    "text": "The elongated start is mostly used by ................... athletes",
+    "options": {
+      "A": "fat",
+      "B": "huge",
+      "C": "short",
+      "D": "tall"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64150?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "Elongated start is usually preferred by the athletes who are very tall and who have powerful legs but slightly weak hands",
+    "year": "2022"
+  },
+  {
+    "number": "10",
+    "text": "In volley game, a team is allowed to hit the ball .................. times only",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64151?exam_type=jamb&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "Teams may only hit the volleyball a maximum of three times (in addition to blocking) for returning the ball",
+    "year": "2022"
+  },
+  {
+    "number": "11",
+    "text": "The standard measurement of a hockey pitch is ......... by ......... metres.",
+    "options": {
+      "A": "19.44, 22.9",
+      "B": "20.9,14",
+      "C": "22.9, 8.66",
+      "D": "91.44, 54.86"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64152?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "The field of play is 91.4 by 55.0 metres (100 yd \u00d7 60 yd) with an area of 5,027 square metres (1.24 acres)",
+    "year": "2022"
+  },
+  {
+    "number": "12",
+    "text": "The following are basic strokes in swimming except",
+    "options": {
+      "A": "basic crawl",
+      "B": "breast stroke",
+      "C": "butterfly",
+      "D": "gliding"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64154?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "Gliding is not a basic stroke associated with swimming.",
+    "year": "2022"
+  },
+  {
+    "number": "13",
+    "text": "Which of the following is not an artificial respiration?",
+    "options": {
+      "A": "Breathing through the nose",
+      "B": "Holger nelson Respiration",
+      "C": "Mouth to Mouth Respiration",
+      "D": "Mouth to Nose Respiration"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64155?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "Breathing through the nose is not a method of artificial respiration.",
+    "year": "2022"
+  },
+  {
+    "number": "14",
+    "text": "The game of volleyball was invented by",
+    "options": {
+      "A": "Adolp Spies",
+      "B": "Ludwig Jahn",
+      "C": "Akeem Olajuwon",
+      "D": "William Morgan"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64157?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "Volleyball was invented in 1895 by William G. Morgan, physical director of the Young Men's Christian Association (YMCA) in Holyoke, Massachusetts.",
+    "year": "2022"
+  },
+  {
+    "number": "15",
+    "text": "Skills like freestyle and back crawl are associated with",
+    "options": {
+      "A": "basketball",
+      "B": "cricket",
+      "C": "swimming",
+      "D": "table tennis"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64158?exam_type=jamb&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "These are swimming strokes",
+    "year": "2022"
+  },
+  {
+    "number": "16",
+    "text": "Grouping of people into body types is known as",
+    "options": {
+      "A": "classification",
+      "B": "recruitment",
+      "C": "screening",
+      "D": "somatotype"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64159?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "This is known as somatotype.",
+    "year": "2022"
+  },
+  {
+    "number": "17",
+    "text": "Where did basketball originate?",
+    "options": {
+      "A": "Britain",
+      "B": "Cuba",
+      "C": "India",
+      "D": "USA"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64160?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "Basketball originate from the USA",
+    "year": "2022"
+  },
+  {
+    "number": "18",
+    "text": "What is mixed double race in racket games?",
+    "options": {
+      "A": "1 male vs 1 female",
+      "B": "2 males vs 2 females",
+      "C": "1 male and 1 female vs 1 male and 1 female",
+      "D": "2 females vs 2 females"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64162?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "In some sports, such as tennis and badminton, mixed doubles is a match in which a man and a woman play as partners against another man and woman.",
+    "year": "2022"
+  },
+  {
+    "number": "19",
+    "text": "Which of these is not a gymnastic activity?",
+    "options": {
+      "A": "Backward roll",
+      "B": "Crab walk",
+      "C": "Hand spring",
+      "D": "Hockey"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64163?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "Hockey is not a gymnastic activity",
+    "year": "2022"
+  },
+  {
+    "number": "20",
+    "text": "A physically fit individual enjoys the following except",
+    "options": {
+      "A": "carrying out his normal duty satisfactorily",
+      "B": "easily overcoming minor and major illness",
+      "C": "feeling a sense of wellness",
+      "D": "growing very tall and fat"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64164?exam_type=jamb&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "A physically fit person is not necessarily a tall and fat person.",
+    "year": "2022"
+  },
+  {
+    "number": "21",
+    "text": "Which of the following best describes physical fitness?",
+    "options": {
+      "A": "lift heavy load",
+      "B": "overcome stress",
+      "C": "perform work",
+      "D": "relate freely"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64165?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "Physical fitness is mostly associated with the ability to overcome stress.",
+    "year": "2022"
+  },
+  {
+    "number": "22",
+    "text": "Swimming competition usually takes place in the",
+    "options": {
+      "A": "arena",
+      "B": "court",
+      "C": "field",
+      "D": "pool"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64166?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "Swimming competition takes place in a pool.",
+    "year": "2022"
+  },
+  {
+    "number": "23",
+    "text": "A long distance walk on foot describes",
+    "options": {
+      "A": "hiking",
+      "B": "jogging",
+      "C": "striding",
+      "D": "strolling"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64167?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "This is known as hiking.",
+    "year": "2022"
+  },
+  {
+    "number": "24",
+    "text": "To win a match of volleyball game, a team must win ........... sets of playing rounds.",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "9",
+      "D": "12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64168?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "Volleyball games consist of five rounds and teams must win three out of five rounds to win",
+    "year": "2022"
+  },
+  {
+    "number": "25",
+    "text": "Rotation of players in volleyball is",
+    "options": {
+      "A": "anticlockwise",
+      "B": "clockwise",
+      "C": "even numbers rotate first",
+      "D": "no define system"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64169?exam_type=jamb&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "In volleyball, you rotate clockwise. If your team wins the point when the other team is serving, then the person in the front right moves to the right back, becoming the new server. If your team is serving and you win a point, you do not rotate, but stay in the same position.",
+    "year": "2022"
+  },
+  {
+    "number": "26",
+    "text": "The game of football is solely controlled by",
+    "options": {
+      "A": "assistant referee",
+      "B": "coach",
+      "C": "commentator",
+      "D": "referee"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64171?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "The game of football is solely controlled by the referee.",
+    "year": "2022"
+  },
+  {
+    "number": "27",
+    "text": "Which of the following games is played by hitting the ball with a racket against a wall?",
+    "options": {
+      "A": "Badminton",
+      "B": "Cricket",
+      "C": "squash",
+      "D": "Tennis"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64172?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "This is known as squash.",
+    "year": "2022"
+  },
+  {
+    "number": "28",
+    "text": "The following are types of passes in basketball except",
+    "options": {
+      "A": "bounce",
+      "B": "chest",
+      "C": "hook",
+      "D": "lay-up"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64187?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "Lay-up is not a type of pass in basketball rather it is a type of dribble in basketball",
+    "year": "2022"
+  },
+  {
+    "number": "29",
+    "text": "The preliminary race to qualify for the next round is called.........",
+    "options": {
+      "A": "heat",
+      "B": "middle distance",
+      "C": "pre-qualify",
+      "D": "sprints"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64188?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "This is known as heat.",
+    "year": "2022"
+  },
+  {
+    "number": "30",
+    "text": "What is the width in metre of an athletic lane?",
+    "options": {
+      "A": "1.10",
+      "B": "1.15",
+      "C": "1.22",
+      "D": "1.25"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64189?exam_type=jamb&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "All lanes have a width of 1.22m (C)",
+    "year": "2022"
+  },
+  {
+    "number": "31",
+    "text": "Which of the following is not a recommended sport wear?",
+    "options": {
+      "A": "Canvas and socks",
+      "B": "gowns",
+      "C": "shorts",
+      "D": "Track suits"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64190?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "Gown is not a recommended sport wear. (B)",
+    "year": "2022"
+  },
+  {
+    "number": "32",
+    "text": "NICEGA is a body responsible for the organization of sports and games among Nigerian",
+    "options": {
+      "A": "armed forces",
+      "B": "colleges of education",
+      "C": "polytechnics",
+      "D": "secondary schools"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64192?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "Nigeria College of Education Games Association, popularly known as NICEGA Games is a sporting competition among all colleges of education in Nigeria",
+    "year": "2022"
+  },
+  {
+    "number": "33",
+    "text": "The following are values derived from swimming except",
+    "options": {
+      "A": "entertainment",
+      "B": "recreational",
+      "C": "safety",
+      "D": "social"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64193?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "safety",
+    "year": "2022"
+  },
+  {
+    "number": "34",
+    "text": "When an athlete beats the gun twice in a track event, he is",
+    "options": {
+      "A": "allowed one more trial",
+      "B": "disqualified",
+      "C": "placed on the last lane",
+      "D": "suspended"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64195?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "This is known as a false start. Athletes are usually disqualified for this offence whether deliberate or not.",
+    "year": "2022"
+  },
+  {
+    "number": "35",
+    "text": "The end product of fat digestion is",
+    "options": {
+      "A": "amino acid",
+      "B": "fatty acid",
+      "C": "glucose",
+      "D": "glycogen"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64197?exam_type=jamb&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "The end product of fat digestion is fatty acid.",
+    "year": "2022"
+  },
+  {
+    "number": "36",
+    "text": "The following are causes of human trafficking except",
+    "options": {
+      "A": "broken homes",
+      "B": "ignorance",
+      "C": "ill-health",
+      "D": "poverty"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64198?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "Ill-health is not responsible for human trafficking",
+    "year": "2022"
+  },
+  {
+    "number": "37",
+    "text": "In a game of volleyball, a player is allowed to hit the ball ...... time(s)",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "1",
+      "D": "3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64199?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "Teams may only hit the volleyball a maximum of three times(in addition to blocking)for returning the ball.",
+    "year": "2022"
+  },
+  {
+    "number": "38",
+    "text": "Which of the following does not affect woman participation in sports?",
+    "options": {
+      "A": "culture",
+      "B": "economy",
+      "C": "emotion",
+      "D": "physique"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64201?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "Economy does not affect woman participation in sports.",
+    "year": "2022"
+  },
+  {
+    "number": "39",
+    "text": "The ability to perform a specific activity without undue fatigue is called",
+    "options": {
+      "A": "Agility",
+      "B": "Endurance",
+      "C": "power",
+      "D": "speed"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64204?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "Endurance is the ability of an organism to exert itself and remain active for a long period of time, as well as its ability to resist, withstand, recover from, and have immunity to trauma, wounds, or fatigue.",
+    "year": "2022"
+  },
+  {
+    "number": "40",
+    "text": "Straddle style is employed in which of the following jumps?",
+    "options": {
+      "A": "Astride vault",
+      "B": "High jump",
+      "C": "Long jump",
+      "D": "pole vault"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64213?exam_type=jamb&type=obj&page=8",
+    "correct_answer": "B",
+    "explanation": "The straddle technique was the dominant style in the high jump before the development of the Fosbury Flop.",
+    "year": "2022"
+  },
+  {
+    "number": "41",
+    "text": "The glide is a skill used in",
+    "options": {
+      "A": "Discus throw",
+      "B": "hammer throw",
+      "C": "high jump",
+      "D": "short put throw"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64216?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "The glide skill is used in shot put throw. The glide technique tries to get the right foot down around the centre of the circle with the shoulders, left arm held back allowing the right leg to engage before the upper body and arm deliver the shot.",
+    "year": "2022"
+  },
+  {
+    "number": "42",
+    "text": "Which of these bodies is responsible for organizing athletic competitions in Nigeria?",
+    "options": {
+      "A": "AFN",
+      "B": "BFN",
+      "C": "GAN",
+      "D": "HFN"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64219?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "The Athletics Federation of Nigeria (AFN) is responsible for the organization of the sport of Athletics in Nigeria.",
+    "year": "2022"
+  },
+  {
+    "number": "43",
+    "text": "Which of the following formations of play is most suitable for defensive strategy in soccer?",
+    "options": {
+      "A": "2:3:5",
+      "B": "2:4:4",
+      "C": "4:2:4",
+      "D": "4:4:2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64220?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "4:4:2 is used in defensive football formation.",
+    "year": "2022"
+  },
+  {
+    "number": "44",
+    "text": "An injury resulting from the forceful twisting of the joint is called",
+    "options": {
+      "A": "Dislocation",
+      "B": "fracture",
+      "C": "sprain",
+      "D": "strain"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64223?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "when a joint is twisted, it is known as a sprain. (C)",
+    "year": "2022"
+  },
+  {
+    "number": "45",
+    "text": "Which of the following is not a function of food in the body?",
+    "options": {
+      "A": "Development",
+      "B": "energy",
+      "C": "growth",
+      "D": "retardation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64224?exam_type=jamb&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "food does not cause retardation.",
+    "year": "2022"
+  },
+  {
+    "number": "46",
+    "text": "The basic aim of administering first aid treatment is to",
+    "options": {
+      "A": "Assure the victim",
+      "B": "Deliver first aid kits",
+      "C": "Educate the victim",
+      "D": "Save life"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64227?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "First aid is the emergency care a sick or injured person gets. The basic aim of first aid is to save life.",
+    "year": "2022"
+  },
+  {
+    "number": "47",
+    "text": "The best technique for receiving a service in the game of volleyball is",
+    "options": {
+      "A": "Blocking",
+      "B": "digging",
+      "C": "setting",
+      "D": "spiking"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64231?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "A",
+    "explanation": "Blocking is the best technique for receiving a service in the game of volley ball.",
+    "year": "2022"
+  },
+  {
+    "number": "48",
+    "text": "Computer game is played for the following reasons except",
+    "options": {
+      "A": "Entertainment",
+      "B": "gain recognition",
+      "C": "recreation",
+      "D": "reduce tension"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64235?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "Computer games are not played for recognition purpose",
+    "year": "2022"
+  },
+  {
+    "number": "49",
+    "text": "Which of these is a traditional dance?",
+    "options": {
+      "A": "Atilogwu",
+      "B": "Gospel",
+      "C": "High life",
+      "D": "Jazz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64237?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "A",
+    "explanation": "Atilogwu is an igbo traditional dance.",
+    "year": "2022"
+  },
+  {
+    "number": "50",
+    "text": "Which of the following equipment are used to play badminton game?",
+    "options": {
+      "A": "Bat and ball",
+      "B": "Bat and shuttle",
+      "C": "Racket and shuttle",
+      "D": "Racket and ball"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64240?exam_type=jamb&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "Badminton involves using a racket to hit a shuttlecock across a net.",
+    "year": "2022"
+  },
+  {
+    "number": "51",
+    "text": "Who is a sports journalist?",
+    "options": {
+      "A": "An individual trained to counsel athletes",
+      "B": "One who instructs the athletes on how to win their opponents",
+      "C": "Professional that impact knowledge in the student",
+      "D": "Sports writer that reports and analyses sports and games"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64242?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "A sport journalist is a person who reports and writes on matters pertaining to sports.",
+    "year": "2022"
+  },
+  {
+    "number": "52",
+    "text": "Which of the following is not a scope of physical education?",
+    "options": {
+      "A": "Athletics",
+      "B": "Coaching",
+      "C": "Dancing",
+      "D": "Drawing"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64245?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "Drawing is not a scope of physical education.",
+    "year": "2022"
+  },
+  {
+    "number": "53",
+    "text": "Health knowledge necessary for healthful living can be acquired through the following except",
+    "options": {
+      "A": "Drawing and painting",
+      "B": "Drug education",
+      "C": "Family planning",
+      "D": "Safety and first aid"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64248?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "Health knowledge cannot be acquired through family planning. (C)",
+    "year": "2022"
+  },
+  {
+    "number": "54",
+    "text": "Flexibility can be defined as the ability to",
+    "options": {
+      "A": "Control excess weight",
+      "B": "Control the movement of object over another",
+      "C": "Maintain stability and rest",
+      "D": "Move easily in different directions"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64249?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "Flexibility is the ability of a joint or series of joints to move through an unrestricted pain free range of motion.",
+    "year": "2022"
+  },
+  {
+    "number": "55",
+    "text": "The following are criteria for selection of warm up exercises except",
+    "options": {
+      "A": "Age",
+      "B": "Interest",
+      "C": "Religion",
+      "D": "Sex"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64251?exam_type=jamb&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "Religion is not a criterion for the selection of warm up exercises.",
+    "year": "2022"
+  },
+  {
+    "number": "56",
+    "text": "The following are postural defects except",
+    "options": {
+      "A": "Flat foot",
+      "B": "Kwashiorkor",
+      "C": "kyphosis",
+      "D": "Lordosis"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64254?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "Kwashiokor is a protein deficiency disease.",
+    "year": "2022"
+  },
+  {
+    "number": "57",
+    "text": "Which of the following is not a preventive measure for postural defect?",
+    "options": {
+      "A": "Adequate exercise",
+      "B": "Balanced diet",
+      "C": "Good habit formation",
+      "D": "Self-medication"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64256?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "Self-medication is not a preventive measure for postural defect.",
+    "year": "2022"
+  },
+  {
+    "number": "58",
+    "text": "Deficiency in vitamin C in the body leads to",
+    "options": {
+      "A": "Anaemia",
+      "B": "diarrhea",
+      "C": "goiter",
+      "D": "scurvy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64259?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "Deficiency in Vitamin C causes scurvy.",
+    "year": "2022"
+  },
+  {
+    "number": "59",
+    "text": "The classes of food that protects the body from diseases is called",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "fats and oil",
+      "C": "proteins",
+      "D": "vitamins"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64260?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "The class of food that protects the body from diseases and boosts the immune system is vitamins",
+    "year": "2022"
+  },
+  {
+    "number": "60",
+    "text": "Which of the following does not assist in detecting drug addict?",
+    "options": {
+      "A": "Neglect of appearance",
+      "B": "possession of drugs",
+      "C": "Spirit of sportsmanship",
+      "D": "Stealing and borrowing of money"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64261?exam_type=jamb&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "Stealing and borrowing of money does not in any way depict a drug addict. Anyone can steal and borrow money, it does not have anything to do with an addiction to drugs.",
+    "year": "2022"
+  },
+  {
+    "number": "61",
+    "text": "Which of the following is not a postural defect?",
+    "options": {
+      "A": "Endomorph",
+      "B": "Flatfoot",
+      "C": "Kyphosis",
+      "D": "Lordosis"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64262?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "Endomorph is not a postural defect. It is a body type.",
+    "year": "2022"
+  },
+  {
+    "number": "62",
+    "text": "Insufficient warm-up activities may result to",
+    "options": {
+      "A": "Anaemia",
+      "B": "Convulsion",
+      "C": "Nausea",
+      "D": "Strain"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64263?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "This may result to strain. Strain is an injury to a part of the body due to overexertion.",
+    "year": "2022"
+  },
+  {
+    "number": "63",
+    "text": "The following are components of physical fitness except",
+    "options": {
+      "A": "Agility",
+      "B": "Balance",
+      "C": "Endurance",
+      "D": "Stability"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64264?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "Stability is not a component of physical fitness.",
+    "year": "2022"
+  },
+  {
+    "number": "64",
+    "text": "The objectives of physical education include the following except ........... development",
+    "options": {
+      "A": "Emotional",
+      "B": "Mental",
+      "C": "Motor skills",
+      "D": "Philosophical"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64265?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "It does not include philosophical development.",
+    "year": "2022"
+  },
+  {
+    "number": "65",
+    "text": "Which of the following is not a manipulative movement?",
+    "options": {
+      "A": "Catching",
+      "B": "Heading",
+      "C": "Laughing",
+      "D": "Striking"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64267?exam_type=jamb&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "Catching is a manipulative movement. Manipulative movement is a movement skill that requires an ability to handle an object or piece of equipment with control.",
+    "year": "2022"
+  },
+  {
+    "number": "66",
+    "text": "A relay team consists of ........ athletes",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64268?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "At the Olympics and other World Athletics-sanctioned tournaments, a relay race is an event where a team of four athletes run equal predetermined distances in a sprint race, each passing a rod-like object called the 'baton' to the next person to continue the race. The last runner in a relay is called the 'anchor",
+    "year": "2022"
+  },
+  {
+    "number": "67",
+    "text": "Desirable health practices include the following except",
+    "options": {
+      "A": "Adequate diet",
+      "B": "Freedom from drugs",
+      "C": "Immunization",
+      "D": "Self-medication"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64269?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "Self medication is not a desirable health practice rather it is a dangerous health practice as it involves the use of drugs without the prescription of a physician.",
+    "year": "2022"
+  },
+  {
+    "number": "68",
+    "text": "The world cup is usually organized by which of the following bodies?",
+    "options": {
+      "A": "Confederation of African Football",
+      "B": "European Union Football Association",
+      "C": "Federation of International Football Association",
+      "D": "Nigeria Football Association"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64270?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "The governing body which sees to the organization of world cup is the FIFA, Federation of International Football Association.",
+    "year": "2022"
+  },
+  {
+    "number": "69",
+    "text": "The physical fitness component that is necessary for a high jumper is",
+    "options": {
+      "A": "agility",
+      "B": "balance",
+      "C": "endurance",
+      "D": "flexibility"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64438?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "The stronger and more flexible a high jumper muscles are in the legs, hips, shoulders and arms, the better their jumps will be.",
+    "year": "2022"
+  },
+  {
+    "number": "70",
+    "text": "Which of the following diseases does regular exercise correct?",
+    "options": {
+      "A": "Goiter",
+      "B": "Kwashiokor",
+      "C": "Obesity",
+      "D": "Pellagra"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64439?exam_type=jamb&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "Regular exercise helps to correct Obesity. Obesity is the build of excessive fat in the body. Regular exercise helps to burn down this excess fat",
+    "year": "2022"
+  },
+  {
+    "number": "71",
+    "text": "The following are causes of postural defects except",
+    "options": {
+      "A": "Accident",
+      "B": "Diseases",
+      "C": "Emotion",
+      "D": "Illness"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64440?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "Illness is not a cause of postural defects.",
+    "year": "2022"
+  },
+  {
+    "number": "72",
+    "text": "Which of the following aspects is concerned with the development of the muscles of the legs, arms and abdomen?",
+    "options": {
+      "A": "Emotional",
+      "B": "Mental",
+      "C": "Physical",
+      "D": "Psychological"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64441?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "This is the physical aspect.",
+    "year": "2022"
+  },
+  {
+    "number": "73",
+    "text": "The air we breathe in during physical activities is called",
+    "options": {
+      "A": "Ammonia",
+      "B": "Carbon dioxide",
+      "C": "Oxygen",
+      "D": "Nitrogen"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64442?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "The air we breathe in is oxygen. We breathe out carbon dioxide.",
+    "year": "2022"
+  },
+  {
+    "number": "74",
+    "text": "Which of these is not true about a warm up exercise? It",
+    "options": {
+      "A": "Improves performance",
+      "B": "Increases muscular contraction",
+      "C": "Reduces blood circulation",
+      "D": "Reduces incidence of injury"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64443?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "warm-up exercise does not reduce blood circulation rather it increases the heart rate and makes blood circulate much faster.",
+    "year": "2022"
+  },
+  {
+    "number": "75",
+    "text": "Which of these exercises is good for strengthening the abdominal muscle?",
+    "options": {
+      "A": "Cartwheel",
+      "B": "Press-up",
+      "C": "Pull-up",
+      "D": "Sit up"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64444?exam_type=jamb&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "Sit up is good for strengthening the abdominal muscle",
+    "year": "2022"
+  },
+  {
+    "number": "76",
+    "text": "During physical exercise, the body requires more supply of",
+    "options": {
+      "A": "Carbon monoxide",
+      "B": "Hydrogen",
+      "C": "Carbon dioxide",
+      "D": "Oxygen"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64445?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "The body requires more supply of oxygen to prevent fatigue.",
+    "year": "2022"
+  },
+  {
+    "number": "77",
+    "text": "Excessive body weight due to fat is called",
+    "options": {
+      "A": "Kwaahiokor",
+      "B": "Kyphosis",
+      "C": "Lordosis",
+      "D": "obesity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64446?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "This is known as Obesity.",
+    "year": "2022"
+  },
+  {
+    "number": "78",
+    "text": "Which of the following prepares one for other sports?",
+    "options": {
+      "A": "Athletics",
+      "B": "Physical exercise",
+      "C": "Gymnastics",
+      "D": "Play"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64447?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "Exercise prepares the body and soul for other sports",
+    "year": "2022"
+  },
+  {
+    "number": "79",
+    "text": "Which of the following is not a physical fitness test?",
+    "options": {
+      "A": "Breaststroke",
+      "B": "Broad jump",
+      "C": "Pull ups",
+      "D": "Sit-ups"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64449?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "Breaststroke is a swimming skill. It is not used for physical fitness test.",
+    "year": "2022"
+  },
+  {
+    "number": "80",
+    "text": "Which of these is not a function of sports on modern day society?",
+    "options": {
+      "A": "Helps to reduce inflation",
+      "B": "Is used for both economic and political games",
+      "C": "It is used to reduce tension",
+      "D": "It serves as a means of livelihood"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64450?exam_type=jamb&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "Sports is not used to reduce inflation.",
+    "year": "2022"
+  },
+  {
+    "number": "81",
+    "text": "The branches of physical education include the following except",
+    "options": {
+      "A": "Aquatics",
+      "B": "Cosmetology",
+      "C": "Games and Sports",
+      "D": "Health"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64452?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "Cosmetology is not a branch of physical education.",
+    "year": "2022"
+  },
+  {
+    "number": "82",
+    "text": "Physical education can be defined as education for",
+    "options": {
+      "A": "All round development",
+      "B": "Development of physical skills",
+      "C": "Development of social interaction",
+      "D": "Physical and mental development"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64453?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "We can describe physical education as an education for All round development, I.e. physical, mental, psychological, emotional, etc.",
+    "year": "2022"
+  },
+  {
+    "number": "83",
+    "text": "Dance in the ancient time was mainly used for the following except to",
+    "options": {
+      "A": "Appease the gods",
+      "B": "Entertain people",
+      "C": "Please the spirit of dead relatives",
+      "D": "Prolong good health"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64455?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "Dance is not used to prolong good health in ancient times",
+    "year": "2022"
+  },
+  {
+    "number": "84",
+    "text": "Which of the following is not a traditional dance?",
+    "options": {
+      "A": "Atilogwu",
+      "B": "Egungun",
+      "C": "Eyo",
+      "D": "Reggae"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64456?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "Reggae dance is not a traditional dance.",
+    "year": "2022"
+  },
+  {
+    "number": "85",
+    "text": "Which of the following is a non-locomotor movement?",
+    "options": {
+      "A": "Bending",
+      "B": "Crawling",
+      "C": "Jumping",
+      "D": "Running"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64457?exam_type=jamb&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "Bending is a non locomotive movement as it does not involve the movement of the whole body from one place to another.",
+    "year": "2022"
+  },
+  {
+    "number": "86",
+    "text": "The following are aspects of leisure activities except",
+    "options": {
+      "A": "Fishing",
+      "B": "Gardening",
+      "C": "Playing",
+      "D": "Wrestling"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64458?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "Wrestling is not an aspect of leisure activities. Leisure activities are usually less stressful and do not inflict injury, also, they are done voluntarily. They are activities that are carried out during free time",
+    "year": "2022"
+  },
+  {
+    "number": "87",
+    "text": "Which of the following recreational activities is best for an elderly person?",
+    "options": {
+      "A": "Camping",
+      "B": "Cycling",
+      "C": "Running",
+      "D": "Walking"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64459?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "Walking is a recreational activity that is suitable for the elderly. It helps them to stretch their skeletal system and also helps blood circulation.",
+    "year": "2022"
+  },
+  {
+    "number": "88",
+    "text": "The game of football is played in two halves of ....... minutes each.",
+    "options": {
+      "A": "30",
+      "B": "45",
+      "C": "55",
+      "D": "60"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64460?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "B",
+    "explanation": "Football is played for 90 minutes. A football game is made up of two halves of which each half lasts for 45 minutes.",
+    "year": "2022"
+  },
+  {
+    "number": "89",
+    "text": "The body charged with the organization of football game in Nigeria is called",
+    "options": {
+      "A": "National Amateur Football Association",
+      "B": "National Sports Commission",
+      "C": "Nigerian Football Federation",
+      "D": "Nigeria Soccer Association"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64461?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "This is the NFF, Nigerian Football Federation",
+    "year": "2022"
+  },
+  {
+    "number": "90",
+    "text": "A good finishing in races is described as",
+    "options": {
+      "A": "Jumping at the finishing line",
+      "B": "Looking back at other athletes",
+      "C": "Running through the finishing line",
+      "D": "Slowing down towards the finishing line"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64462?exam_type=jamb&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "A good finishing in racing is achieved when the athlete runs through the finishing line.",
+    "year": "2022"
+  },
+  {
+    "number": "91",
+    "text": "The two major divisions in gymnastics are",
+    "options": {
+      "A": "Activities with and without apparatus",
+      "B": "Ring and flexibility",
+      "C": "Stunts and tumbling",
+      "D": "Strength and balance"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64463?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "The two major divisions include activities that require apparatus and does that do not require apparatus.",
+    "year": "2022"
+  },
+  {
+    "number": "92",
+    "text": "How many times does an athlete run round a standard track in 800m event?",
+    "options": {
+      "A": "Five",
+      "B": "Four",
+      "C": "One",
+      "D": "Two"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64464?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "The 800 metres is run over two laps of an outdoor (400-metre) track and has been an Olympic event since the first modern games in 1896.",
+    "year": "2022"
+  },
+  {
+    "number": "93",
+    "text": "The start, pacing and finishing are the three ........ of sprinting.",
+    "options": {
+      "A": "Aces",
+      "B": "Cases",
+      "C": "Faces",
+      "D": "Phases"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64466?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "These are the three phases of sprinting",
+    "year": "2022"
+  },
+  {
+    "number": "94",
+    "text": "In which of the following events does an athlete jump for height?",
+    "options": {
+      "A": "Hammer",
+      "B": "Hurdles",
+      "C": "Long jump",
+      "D": "Pole vault"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64467?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "Athletes jump for height in Pole vault. Pole vaulting, also known as pole jumping, is a track and field event in which an athlete uses a long and flexible pole, usually made from fiberglass or carbon fiber, as an aid to jump over a bar.",
+    "year": "2022"
+  },
+  {
+    "number": "95",
+    "text": "The following are skills in table tennis except",
+    "options": {
+      "A": "Backhand drive",
+      "B": "Forehand drive",
+      "C": "Service",
+      "D": "Shooting"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64468?exam_type=jamb&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "Shooting is not a skill in table tennis",
+    "year": "2022"
+  },
+  {
+    "number": "96",
+    "text": "The following benefits can be derived from female participation in sports except",
+    "options": {
+      "A": "Development of high sense of utility",
+      "B": "Development of self confidence",
+      "C": "Promotes juvenile delinquency",
+      "D": "Promoting social adjustments"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64469?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "Female participation in sports does not promote gender delinquency.",
+    "year": "2022"
+  },
+  {
+    "number": "97",
+    "text": "Which of the following equipment is used in javelin?",
+    "options": {
+      "A": "Crossbar",
+      "B": "Measuring tape",
+      "C": "Pole",
+      "D": "Shuttle Cork"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64470?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "The measuring tape could be useful in a javelin throw to determine how far the javelin has travelled after a throw.",
+    "year": "2022"
+  },
+  {
+    "number": "98",
+    "text": "Which part of javelin lands to make a valid throw?",
+    "options": {
+      "A": "Binding",
+      "B": "Butt",
+      "C": "Handle",
+      "D": "Tip"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64471?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "D",
+    "explanation": "If the javelin lands with its tip, then the throw is considered legal or valid.",
+    "year": "2022"
+  },
+  {
+    "number": "99",
+    "text": "A formal educational program designed to guide the consumers against inferior products is called",
+    "options": {
+      "A": "Consumer health",
+      "B": "Consumer price",
+      "C": "Health science",
+      "D": "Physical health"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physical-education/64472?exam_type=jamb&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "This is a definition of consumer health",
+    "year": "2022"
+  }
+]
