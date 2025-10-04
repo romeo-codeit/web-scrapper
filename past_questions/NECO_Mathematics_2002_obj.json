@@ -1,0 +1,514 @@
+[
+  {
+    "number": "36",
+    "text": "Given that the universal set U={14,15,16,17,18,19,20}, J ={16,19,20} and K= {14,15,18}, find (J' \u2229 K')1.",
+    "options": {
+      "A": "{17}",
+      "B": "{16, 17, 19, 20}",
+      "C": "{1, 4, 15, 17, 18}",
+      "D": "{14, 15, 16, 18, 19, 20}",
+      "E": "{14, 15, 16, 17, 18, 19, 20}"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41976?exam_type=neco&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "U = {14,15,16,17,18,19,20}\nJ' = {14,15,17,18}\nK' = {16,17,19,20}\n(J' \\(\\cap\\) K') = {17}\n(J' \\(\\cap\\) K')' = {14,15,16,18.19,20}",
+    "year": "2002"
+  },
+  {
+    "number": "37",
+    "text": "Evaluate 1.25 \u00d7 10\\(^2\\) \u00d7 0.125 \u00d7 10\\(^3\\)\u00a0\u00d7 12.5 \u00d7 10\\(^{-4}\\)\u00a0leaving your answer in standard form",
+    "options": {
+      "A": "1.995 \u00d7 103",
+      "B": "1.95 \u00d7 102",
+      "C": "1.95 \u00d7 101",
+      "D": "1.95 \u00d7 10-2",
+      "E": "1.95 \u00d7 10-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42011?exam_type=neco&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "Where 1.25 \u00d7 10\\(^2\\) = 125\n0.125 \u00d7 10\\(^3\\) = 125\n12.5 \u00d7 10\\(^{-4}\\) = 0.00125\n:\u00a0 125 x 125 x 0.00125\n=\u00a019.53125 or 1.95 x 10\\(^1\\)",
+    "year": "2002"
+  },
+  {
+    "number": "38",
+    "text": "What is the volume of a cube if the diagonal of one of the sides is \\(\\sqrt{50}\\)cm?",
+    "options": {
+      "A": "7.07cm\\(^3\\)",
+      "B": "50.0cm\\(^3\\)",
+      "C": "125.0cm\\(^3\\)",
+      "D": "353.4cm\\(^3\\)",
+      "E": "625.0cm\\(^3\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42018?exam_type=neco&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "39",
+    "text": "A cone was developed from a sector of a circle with radius10cm and an angle at the centre of 108\u00b0. What is the radius of the cone?",
+    "options": {
+      "A": "9.0cm",
+      "B": "8.5cm",
+      "C": "7.2cm",
+      "D": "4.3cm",
+      "E": "3.0cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42021?exam_type=neco&type=obj&page=8",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "40",
+    "text": "If , sT = \\(\\sqrt{\\frac{[(a + T)T]}{a}}\\) what does T equal?",
+    "options": {
+      "A": "T = (a2s2 \u2013 1)",
+      "B": "T = (a2s2\u2013 1) \u00f7 a",
+      "C": "T = a \u00f7 (a2 - s2)",
+      "D": "T = a \u00f7 (a2s2 \u2013 1)",
+      "E": "T = (as \u2013 1)2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42034?exam_type=neco&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "41",
+    "text": "What is the total surface area of a cuboid whose dimensions are 12cm \u00d7 8cm \u00d7 3cm?",
+    "options": {
+      "A": "312cm\\(^2\\)",
+      "B": "96cm\\(^2\\)",
+      "C": "36cm\\(^2\\)",
+      "D": "24cm\\(^2\\)",
+      "E": "12cm\\(^2\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42040?exam_type=neco&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "42",
+    "text": "If sin 30\u00b0 = 0.5, what is the cosine of its complement?",
+    "options": {
+      "A": "-0.866",
+      "B": "-0.5",
+      "C": "0.5",
+      "D": "0.866",
+      "E": "1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42044?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "To find the cosine of the complement of \\(30^\\circ\\), we first calculate the complement:\n\\(90^\\circ - 30^\\circ = 60^\\circ\\)\nNext, we need to find \\( \\cos 60^\\circ \\). The known trigonometric value is:\n\\(\\cos 60^\\circ = 0.5\\)\nTherefore, the cosine of the complement of \\(30^\\circ\\) is: 0.5",
+    "year": "2002"
+  },
+  {
+    "number": "43",
+    "text": "A petrol attendant recorded the number of vehicles that bought petrol from him for -3 hours and recorded 12 cars and 27 buses. What is the probability that the next vehicle will be a bus?",
+    "options": {
+      "A": "\\(\\frac{4}{39}\\)",
+      "B": "\\(\\frac{4}{13}\\)",
+      "C": "\\(\\frac{5}{13}\\)",
+      "D": "\\(\\frac{6}{13}\\)",
+      "E": "\\(\\frac{9}{13}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42062?exam_type=neco&type=obj&page=9",
+    "correct_answer": "E",
+    "explanation": "Prob = \\(\\frac{ no of expected outcome}{ no of total outcome}\\)\nno of cars = 12, no of buses = 27\nno of total outcome = 12 + 27 = 39\nno of expected outcome = 27\nProb( next vehicle will be bus) = \\(\\frac{27}{39} = \\frac{9}{13}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "44",
+    "text": "Two parallel chords of a circle are respectively 46cm and 40cm long. If the radius of the circle is 25cm and the centre of the circle lies between the two chords, what is the distance between the chords?",
+    "options": {
+      "A": "7cm",
+      "B": "15cm",
+      "C": "22cm",
+      "D": "26cm",
+      "E": "30cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42064?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "45",
+    "text": "The angle of elevation of the top (T) of a palm tree from a point (R) on the ground is 30\u00b0. The distance from R to the base (B) of the palm tree is 120m. What is the distance between T and R?",
+    "options": {
+      "A": "60m",
+      "B": "60\\(\\sqrt{3}\\)m",
+      "C": "80\\(\\sqrt{3}\\)m",
+      "D": "120\\(\\sqrt{3}\\)m",
+      "E": "240m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42070?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "46",
+    "text": "If \\(\\frac{t}{1}\\) = \\(\\sqrt{(\\frac{4\\pi^2}{g}})\\), what is the value of g when I = 4.5; t = 5 secs",
+    "options": {
+      "A": "3.20 ms2",
+      "B": "11.31 ms2",
+      "C": "32.00 ms2",
+      "D": "56.57 ms2",
+      "E": "160.00 ms2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42078?exam_type=neco&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "47",
+    "text": "The probability that a student will pass a mathematics test is \u2157. If 3 students are chosen at random, what is the probability that at least 2 of them will pass the test?",
+    "options": {
+      "A": "\\(\\frac{27}{125}\\)",
+      "B": "\\(\\frac{9}{25}\\)",
+      "C": "\\(\\frac{72}{125}\\)",
+      "D": "\\(\\frac{76}{125}\\)",
+      "E": "\\(\\frac{81}{125}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42107?exam_type=neco&type=obj&page=10",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "48",
+    "text": "What is the total surface area of a cylinder with radius 2cm and height 1.5cm, correct to 2 significant figures?",
+    "options": {
+      "A": "440cm\\(^2\\)",
+      "B": "220cm\\(^2\\)",
+      "C": "88cm\\(^2\\)",
+      "D": "44cm\\(^2\\)",
+      "E": "22cm\\(^2\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42130?exam_type=neco&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "T.S.A of a cylinder = \\(2\\pi r (r + h)\\)\n= \\(2 \\times \\frac{22}{7} \\times 2 (2 + 1.5)\\)\n= 44 cm\\(^2\\)",
+    "year": "2002"
+  },
+  {
+    "number": "49",
+    "text": "A wire was shaped to form a square of area 81cm\\(^2\\). An equilateral triangle was formed by the same wire,What is the length of a side of the triangle formed?",
+    "options": {
+      "A": "3cm",
+      "B": "6cm",
+      "C": "9cm",
+      "D": "12cm",
+      "E": "27cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42139?exam_type=neco&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "Area of a square = L\u00a0X L = 81\n: L = 9\nPerimeter of square = 4 X L\n4 X\u00a09 = 36cmAn equilateral triangle with equal sides:\n36/3 = 12cm",
+    "year": "2002"
+  },
+  {
+    "number": "50",
+    "text": "One bag contains 4 white balls and 2 black balls. Another bag contains 3 white balls and 5 black balls, if one ball is drawn from each bag, what is the probability that both are white?",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(\\frac{3}{8}\\)",
+      "C": "\\(\\frac{7}{24}\\)",
+      "D": "\\(\\frac{1}{4}\\)",
+      "E": "\\(\\frac{1}{24}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42154?exam_type=neco&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "51",
+    "text": "A quadratic equation with roots -1\\(\\frac{1}{2}\\) and \\(\\frac{1}{4}\\) is",
+    "options": {
+      "A": "x2 + 3x + 4 = 0",
+      "B": "8x2 + 10x + 3 = 0",
+      "C": "8x2 +12x \u2013 3 = 0",
+      "D": "8x2 + 10x-3.= 0",
+      "E": "8x2 + 12x + 3 = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42161?exam_type=neco&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "52",
+    "text": "What are the factors of 2x\\(^2\\) - xy - 3y\\(^2\\) ?",
+    "options": {
+      "A": "(2x + 3y)(x + y)2",
+      "B": "(2x + 3y)(x + y)",
+      "C": "(2x + 3y)(x - y)",
+      "D": "(2x - 3y)(x + y)",
+      "E": "(2x - 3y)(x - y)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42170?exam_type=neco&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "2x\\(^2\\) - xy - 3y\\(^2\\)\n= 2x\\(^2\\) + 2xy - 3xy - 3y\\(^2\\)\n= 2x(x + y) - 3y(x + y)\n= (2x - 3y)(x + y)",
+    "year": "2002"
+  },
+  {
+    "number": "53",
+    "text": "If sin \u03b8 = \\(\\frac{\\sqrt{3}}{2}\\) and 0 < \u03b8 < 180\u00b0, what is cos \u03b8 ?",
+    "options": {
+      "A": "\\(\\frac{1}{\\sqrt{3}}\\)",
+      "B": "\\(\\frac{2}{\\sqrt{3}}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{3}}{2}\\)",
+      "E": "\\(\\sqrt{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42179?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "54",
+    "text": "Three sets of rice x, y and z are sold for N15.00, N35.00 and N60.00 respectively per kg. It they are mixed in the ratio of 1: 3 : 2, what is the cast per kg of the mixture?",
+    "options": {
+      "A": "N45.00",
+      "B": "N42.50",
+      "C": "N40.00",
+      "D": "N35.50",
+      "E": "N25.80"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42182?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "55",
+    "text": "When a shirt is sold for N12000.00, a loss of 20% is recorded. How much should it be sold for to gain 20%?",
+    "options": {
+      "A": "N4800.00",
+      "B": "N400",
+      "C": "N1800.00",
+      "D": "N1500.00",
+      "E": "N960.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42187?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "57",
+    "text": "What must be added to 3x2 - 5x to make it a perfect square?",
+    "options": {
+      "A": "\\(\\frac{36}{25}\\)",
+      "B": "\\(\\frac{25}{36}\\)",
+      "C": "-\\(\\frac{25}{36}\\)",
+      "D": "-\\(\\frac{5}{6}\\)",
+      "E": "-\\(\\frac{6}{5}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42195?exam_type=neco&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "58",
+    "text": "Twice a number, x, is added to 5, the result is at least 11. What is the range of values of x?",
+    "options": {
+      "A": "x > 3",
+      "B": "x \u2265 3",
+      "C": "x \u2264 3",
+      "D": "x < 3",
+      "E": "x \u2264 -3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42197?exam_type=neco&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "59",
+    "text": "Simplify [1 \u00f7 (x + 1)] - [2 \u00f7 (x - 1)] + [3 \u00f7 (x2 - 1)]",
+    "options": {
+      "A": "- 3x \u00f7 (x2 - 1)",
+      "B": "- x \u00f7 (x2 -1)",
+      "C": "x \u00f7 (x2 - 1)",
+      "D": "(x + 1) \u00f7 (x2 - 1)",
+      "E": "(x + 4) \u00f7 (x2 - 1)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42199?exam_type=neco&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "60",
+    "text": "The mean heights of 3 groups of students consisting of 20, 16 and 14 students are 1.67m, 1.50m and 1.40m Respectively. What is the mean height of all the students?",
+    "options": {
+      "A": "1.52m",
+      "B": "1.53m",
+      "C": "1.54",
+      "D": "1.55m",
+      "E": "1.56m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42201?exam_type=neco&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "61",
+    "text": "The mean and the range of the set of numbers: 1.20, 1.00, 0.90, 1.40, 0.80, 0.80, 1.20 and 1.10 are p and q respectively. What is the value of p \u00f7 q?",
+    "options": {
+      "A": "1.11",
+      "B": "65",
+      "C": "1.85",
+      "D": "2.45",
+      "E": "3.85"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42203?exam_type=neco&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "Mean of\u00a01.20, 1.00, 0.90, 1.40, 0.80, 0.80, 1.20 and 1.10\n\u2192 \\(\\frac{8.4}{8}\\) = 1.05\u00a0\u2192 p\nRange = 1.40 - 0.80 = 0.60\u00a0\u2192 q\np \u00f7 q = 1.05\u00a0\u00f7 0.60\n= 1.75",
+    "year": "2002"
+  },
+  {
+    "number": "62",
+    "text": "A girl on top of a storey building 36m high dropped a N10.00 note on the ground below. If the angle of depression of the N10.00 note is 35\u00b0, how far is the money from the girl?",
+    "options": {
+      "A": "20.64m",
+      "B": "29.48m",
+      "C": "44.49m",
+      "D": "49.55m",
+      "E": "62.76m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42205?exam_type=neco&type=obj&page=13",
+    "correct_answer": "E",
+    "explanation": "make a sketch\nusing trig.ratios\nSin\\(\\theta\\)\u00a0= \\(\\frac{opp}{hyp}\\)\nSin35 = \\(\\frac{36}{hyp}\\)\nhyp =\u00a0\\(\\frac{36}{sin35}\\) = 62.76m\n\u2234 the distance between the girl and the #10.00 note = 62.76m.",
+    "year": "2002"
+  },
+  {
+    "number": "63",
+    "text": "After what length of time will N2400.00 yield an interest of N60.00 at 1\\(\\frac{1}{2}\\)% per annum?",
+    "options": {
+      "A": "2\\(\\frac{4}{5}\\) years",
+      "B": "1\\(\\frac{2}{3}\\)  years",
+      "C": "1\\(\\frac{1}{2}\\) years",
+      "D": "1 years",
+      "E": "\\(\\frac{3}{5}\\) year"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42209?exam_type=neco&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "64",
+    "text": "Solve the equation: \\(\\frac{1}{3}x\\) + \\(\\frac{2}{5}\\) = \\(\\frac{3}{4}x\\) - \\(\\frac{1}{6}\\)",
+    "options": {
+      "A": "\\(\\frac{17}{30}\\)",
+      "B": "\\(\\frac{65}{102}\\)",
+      "C": "\\(\\frac{25}{34}\\)",
+      "D": "\\(\\frac{102}{75}\\)",
+      "E": "\\(\\frac{34}{25}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42213?exam_type=neco&type=obj&page=13",
+    "correct_answer": "E",
+    "explanation": "\\(\\frac{1}{3}x\\) + \\(\\frac{2}{5}\\) = \\(\\frac{3}{4}x\\) - \\(\\frac{1}{6}\\)\ncollect like terms\n\\(\\frac{2}{5}\\) +\u00a0\\(\\frac{1}{6}\\) =\u00a0\u00a0\\(\\frac{3}{4}x\\) -\u00a0\u00a0\\(\\frac{1}{3}x\\)\n\\(\\frac{17}{30}\\) =\u00a0\\(\\frac{5x}{12}\\)\ncross multiply\n150x = 204\nx =\u00a0\\(\\frac{204}{150}\\) =\u00a0\\(\\frac{34}{25}\\)",
+    "year": "2002"
+  },
+  {
+    "number": "65",
+    "text": "An amount of money is shared among P,Q and R such that for every 3P gets, Q gets 2 and for every 1Q gets, R gets 4. Find P: Q : R",
+    "options": {
+      "A": "3 : 1 : 4",
+      "B": "3 : 2 : 1",
+      "C": "3 : 2 : 4",
+      "D": "3 : 3 : 4",
+      "E": "3 : 2 : 8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42215?exam_type=neco&type=obj&page=13",
+    "correct_answer": "E",
+    "explanation": "P gets 3 Q gets 2, Q gets 1 and R gets R\nWhen Q gets 1 then P will get \\(\\frac{3}{2}\\)\nP : Q: R =\u00a0\u00a0\u00a0\\(\\frac{3}{2}\\) : 1\u00a0 : 4\nmultiplying through by 2, we have\n3 : 2:\u00a0 8.",
+    "year": "2002"
+  },
+  {
+    "number": "66",
+    "text": "Simplify 2a2 -4ab - 6a2 - 10ab + 5ab - 5a2",
+    "options": {
+      "A": "-9(a + b)",
+      "B": "9(a + b)",
+      "C": "-9a (a + b)",
+      "D": "9a(a - b)",
+      "E": "9b(a + b)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42218?exam_type=neco&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "67",
+    "text": "A boy leaves station X on a bearing of 035\u00b0 to station y which is 21km away. He then travels to another station Z on a bearing of 125\u00b0. If Z is directly East of X, what is the distance from X to his present position?",
+    "options": {
+      "A": "3.0km",
+      "B": "12.04km",
+      "C": "17.2km",
+      "D": "34.18km",
+      "E": "36.61km"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42220?exam_type=neco&type=obj&page=14",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "68",
+    "text": "The length, breadth and height of a cuboid are 8cm, 7\\(\\frac{1}{2}\\)cm and 6\\(\\frac{1}{2}\\) cm respectively. What Is its volume in m3 (leave your answer in standard form)?",
+    "options": {
+      "A": "3.9 \u00d7 10-1m3",
+      "B": "3.9 \u00d7 10-2m3",
+      "C": "3.9 \u00d7 10-3m3",
+      "D": "3.9 \u00d7 10-4m3",
+      "E": "3.9 \u00d7 10-5m3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42224?exam_type=neco&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "Given: L = 8cm, B =\u00a07\\(\\frac{1}{2}\\)cm = 7.5cm, H =\u00a06\\(\\frac{1}{2}\\)cm = 6.5cm\nVolume of cuboid = LBH = 8 x 7.5 x 6.5 = 390cm\\(^3\\) but in m\\(^3\\)\u00a0= \\(\\frac{390}{1000000}\\) = 0.00039m\\(^3\\)\n0.00039m\\(^3\\) = 3.9 x 10\\(^{-4}\\)m\\(^3\\)",
+    "year": "2002"
+  }
+]

@@ -1,0 +1,738 @@
+[
+  {
+    "number": "1",
+    "text": "A particle of charge q and mass m moving with a velocity v enters a uniform magnetic field B in the direction of the field. The force on the particle is",
+    "options": {
+      "A": "Bqv",
+      "B": "Bq\\(\\frac{v}{m}\\)",
+      "C": "Bqvm",
+      "D": "mv\\(\\frac{B}{q}\\)",
+      "E": "\\(\\frac{mv}{Bq}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42674?exam_type=neco&type=obj",
+    "correct_answer": "A",
+    "explanation": "The formula for Force on the particle is Bqv.",
+    "year": "2000"
+  },
+  {
+    "number": "2",
+    "text": "The helium isotope \\(^3_2He\\)",
+    "options": {
+      "A": "has three pro tons and two neutrons",
+      "B": "has two protons and one neutron",
+      "C": "has two protons and three neutrons",
+      "D": "has one proton and two neutrons",
+      "E": "cannot exist because it has the same mass number as tritium"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42682?exam_type=neco&type=obj",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "3",
+    "text": "When a metal is heated to a high temperature, electrons are emitted from its surface. The process is known as",
+    "options": {
+      "A": "photoelectric effect",
+      "B": "thermionic emission",
+      "C": "field emission",
+      "D": "secondary emission",
+      "E": "radioactive emission"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42683?exam_type=neco&type=obj",
+    "correct_answer": "B",
+    "explanation": "The process by which freeelectronsare emitted from the surface of a metal when external heat energy is applied is called thermionic emission.",
+    "year": "2000"
+  },
+  {
+    "number": "4",
+    "text": "A piece of stone weights 180 N in air and 150 N in a beaker containing 160 N of methylated spirit. What is the up thrust exerted on the stone?",
+    "options": {
+      "A": "50N",
+      "B": "40N",
+      "C": "30N",
+      "D": "20N",
+      "E": "10N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42684?exam_type=neco&type=obj",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "5",
+    "text": "The half-life of a radioactive substance is 2 seconds. Calculate the decay constant.",
+    "options": {
+      "A": "2.890 s-1",
+      "B": "1 .445 s-1",
+      "C": "0.576 s-1",
+      "D": "0.347s-1",
+      "E": "0.152 s-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42685?exam_type=neco&type=obj",
+    "correct_answer": "D",
+    "explanation": "\\(T_{\\frac{1}{2}} = \\frac{\\ln 2}{\\lambda}\\)\nwhere \\(T_{\\frac{1}{2}}\\) = half-life of element; \\(\\lambda\\) = decay constant.\n= \\(\\frac{0.693}{\\lambda}\\)\n\\(\\therefore 2 = \\frac{0.693}{\\lambda}\\)\n\\(\\lambda = \\frac{0.693}{2}\\)\n= 0.3465 s\\(^{-1}\\)\n\\(\\approxeq\\) 0.347\u00a0s\\(^{-1}\\)",
+    "year": "2000"
+  },
+  {
+    "number": "6",
+    "text": "Which of the following is used in a nuclear reactor to slow down fast moving neutrons?",
+    "options": {
+      "A": "graphite rods",
+      "B": "carbon dioxide gas",
+      "C": "liquid sodium metal",
+      "D": "concrete shield",
+      "E": "boron rods"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42686?exam_type=neco&type=obj&page=2",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "7",
+    "text": "When electrical power is transmitted over long distances, the voltage is stepped up so that",
+    "options": {
+      "A": "the resistance of the wire may be increased proportionately to the potential difference",
+      "B": "the time of transmissions between the generating and the receiving stations may be reduced",
+      "C": "there is increased current to produce brighter lights.",
+      "D": "the rate of electrical consumption is increased.",
+      "E": "the energy waste may be minimised as the current is lowered."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42688?exam_type=neco&type=obj&page=2",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "8",
+    "text": "A gas occupies a certain volume at 27\u00b0C. At what temperature will its volume be twice\u00a0times the original volume assuming that its pressure remains constant?",
+    "options": {
+      "A": "54\u00b0C",
+      "B": "108\u00b0C",
+      "C": "150\u00b0C",
+      "D": "327\u00b0C",
+      "E": "600\u00b0C"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42690?exam_type=neco&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{V_{1}}{T_{1}} = \\frac{V_{2}}{T_{2}}\\)\nGiven \\(V_{2} = 2V_{1}\\)\n\\(T_{1} = 27\u00b0C + 273 = 300k\\)\n\\(\\frac{V_{1}}{300} = \\frac{2V_{1}}{T_{2}}\\)\n\\(\\frac{1}{300} = \\frac{2}{T_{2}} \\implies T_{2} = 600k\u00a0 or 327\u00b0C\\)",
+    "year": "2000"
+  },
+  {
+    "number": "9",
+    "text": "What is the coefficient of static friction between a load of mass 2kg and a horizontal surface, if the limiting frictional force is 10N? (g = 10 ms-2)",
+    "options": {
+      "A": "0.2",
+      "B": "0.5",
+      "C": "2",
+      "D": "5",
+      "E": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42693?exam_type=neco&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "10",
+    "text": "When a lever is in equilibrium, under the action of two or more forces, the algebraic sum of the moments of the forces about the point of support is",
+    "options": {
+      "A": "anti-clockwise",
+      "B": "clockwise",
+      "C": "equal to the product to the forces",
+      "D": "numerically equal to the total forces acting",
+      "E": "equal to zero"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42696?exam_type=neco&type=obj&page=2",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "11",
+    "text": "The specific heat of a substance in the solid state is C1; its specific beat in the liquid state is C2 and its latent heat of fusion is L. If a mass M of the substance is changed from the solid state at temperature T, to the liquid state, also at temperature T, the amount of heat required will be",
+    "options": {
+      "A": "M(C1 \u00f7 C2) x T",
+      "B": "ML",
+      "C": "L",
+      "D": "M(C1 + C2) \u00d7 T \u00f7 ML",
+      "E": "ML(C1 + C2 \u00f7 2) \u00d7 T"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42701?exam_type=neco&type=obj&page=3",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "12",
+    "text": "An element of nuclear number A and proton number Z emits an alpha particle from its nucleus. The nucleon number and the proton number of the new element formed are respectively",
+    "options": {
+      "A": "(A \u2013 2) and (Z \u2013 2)",
+      "B": "(A + 4) and (Z + 2)",
+      "C": "(A\u2013 4) and (Z+2)",
+      "D": "(A+ 4) and (Z \u2013 2)",
+      "E": "(A \u2013 4) and (Z \u2013 2)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42704?exam_type=neco&type=obj&page=3",
+    "correct_answer": "E",
+    "explanation": "Let the element be S and the element formed after emission be X.\n\\(\\implies ^{A} _{Z}S \\to ^{4} _{2}He + X\\)\n\\(\\therefore X = ^{A - 4} _{Z - 2}X\\).",
+    "year": "2000"
+  },
+  {
+    "number": "13",
+    "text": "The force exerted on a charged body in an electric field depends on \n\nI. the charge on the body \nII. the electric field intensity \nIII. the square of the mass of the body",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "I and III only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42710?exam_type=neco&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "14",
+    "text": "400g of cold water is added to 200g of water at 70\u00b0C. If they are properly mixed and the temperature of the mixture is 30\u00b0C. calculate the initial temperature of the cold water. (Neglect the heat absorbed by the container)",
+    "options": {
+      "A": "10\u00b0C",
+      "B": "15\u00b0C",
+      "C": "20\u00b0C",
+      "D": "30\u00b0C",
+      "E": "40\u00b0C"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42717?exam_type=neco&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "Heat lost by the warm water = heat gained by cold water\nm\\(_w\\) X c X ( Tw - Tm) = m\\(_c\\) X c X (Tm - Tc)\n200 X ( 70 - 30) = 400 X ( 30 - Tc)\n2 x 40 = 120 -\u00a04Tc\n4Tc = 120 - 80 = 40\nTc = \\(\\frac{40}{4}\\) = 10\u00baC",
+    "year": "2000"
+  },
+  {
+    "number": "15",
+    "text": "The heat from a fire in a closed room reaches someone far away in the room, mainly by",
+    "options": {
+      "A": "reflection",
+      "B": "diffusion",
+      "C": "conduction",
+      "D": "radiation",
+      "E": "convection"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42719?exam_type=neco&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "16",
+    "text": "A solid weights 5.0 N in air, 4.2 N in water and 4.4 N in liquid Y. Calculate the relative density of liquid Y.",
+    "options": {
+      "A": "0.75",
+      "B": "0.88",
+      "C": "0.95",
+      "D": "1.13",
+      "E": "1.33"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42722?exam_type=neco&type=obj&page=4",
+    "correct_answer": "A",
+    "explanation": "Given:\u00a0Weight in air = 5.0 N, in water = 4.2 N, in liquid Y = 4.4 N.:Loss of weight in\u00a0 Water: \\( 5.0 - 4.2 = 0.8 \\, \\text{N} \\)Loss of weight in\u00a0\u00a0Liquid Y: \\( 5.0 - 4.4 = 0.6 \\, \\text{N} \\)\nRelative density of liquid y\\(\\text{RD}_{\\text{Y}} = \\frac{0.6}{0.8} = 0.75\\)\nThe relative density of liquid Y is\u00a0 0.75",
+    "year": "2000"
+  },
+  {
+    "number": "17",
+    "text": "Two forces forming a couple are separated by a distance of 25cm. If one of the forces equals 40N, what is the moment of the couple?",
+    "options": {
+      "A": "1000 Nm",
+      "B": "500 Nm",
+      "C": "10 Nm",
+      "D": "5 Nm",
+      "E": "1.6 Nm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42724?exam_type=neco&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "The moment (or torque) of a couple is calculated by multiplying the size of one of the force\u00a0by the perpendicular distance between the two forces.\nGiven: F = 40N; d = 25cm = 0.25m\nMoment = 40 x 0.25 = 10Nm.",
+    "year": "2000"
+  },
+  {
+    "number": "18",
+    "text": "A radioactive substance has a half-life of 3 minutes. After 9 minutes, the count rate was observed to be 200. What was the count rate at zero time?",
+    "options": {
+      "A": "200",
+      "B": "1200",
+      "C": "1600",
+      "D": "2400",
+      "E": "4800"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42727?exam_type=neco&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "Let the count at zero time = Q,\nthen count after 3s = \\(\\frac{Q}{2}\\)\nbut after 9secs., count was observed to be = 200\ncount after 9secs =\u00a0 \\(\\frac{Q}{8}\\) = 200 ( remember here, that we are dealing with half-life)\nQ = 8 x 200 = 1600\n\u2234 count at zero time = 1600.",
+    "year": "2000"
+  },
+  {
+    "number": "19",
+    "text": "Which of the following is NOT part of an a.c generator?",
+    "options": {
+      "A": "Commutator",
+      "B": "Armature",
+      "C": "Field magnet",
+      "D": "Carbon brushes",
+      "E": "Slip rings"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42729?exam_type=neco&type=obj&page=4",
+    "correct_answer": "A",
+    "explanation": "The general A.C. generator has all the listed components except the commutator.",
+    "year": "2000"
+  },
+  {
+    "number": "20",
+    "text": "In a simple pendulum experiment, a boy observed that the times for 30 oscillations are 70.0s, 72.0s and 67.0s respectively. Calculate the mean period of oscillation of the pendulum.",
+    "options": {
+      "A": "0.14s",
+      "B": "0.43s",
+      "C": "2.32s",
+      "D": "2.40s",
+      "E": "6.97s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42731?exam_type=neco&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "21",
+    "text": "The clinical thermometer differs from other mercury-in-glass thermometers because it has \n\nI. a constriction \nII. a wide range\nIII. a short range\nIV. a narrow bore. \n\nWhich of the above are correct?",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "III and IV only",
+      "D": "I,II and III only",
+      "E": "I, III and IV only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42733?exam_type=neco&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "22",
+    "text": "If a positively charged glass-rod is used to charge an electroscope X by contact and an electroscope Y by induction, then",
+    "options": {
+      "A": "X and Y will be negatively charge",
+      "B": "X and Y will be positively charged",
+      "C": "X will be negatively charged and Y positively charged",
+      "D": "X will be positively charged and Y negatively charged",
+      "E": "X will be positively charged and Y will remain uncharged"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42737?exam_type=neco&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "23",
+    "text": "A wave travels a distance of 20 cm in 3s. The distance between successive crests of the wave is 4cm. What is the frequency of the wave?",
+    "options": {
+      "A": "0.60Hz",
+      "B": "1.67Hz",
+      "C": "7.50Hz",
+      "D": "15.00Hz",
+      "E": "26.67Hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42740?exam_type=neco&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "24",
+    "text": "The unit of inductance is",
+    "options": {
+      "A": "Weber",
+      "B": "Telsa",
+      "C": "Hertz",
+      "D": "Henry",
+      "E": "Farad"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42741?exam_type=neco&type=obj&page=5",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "25",
+    "text": "A man at the back of a crowd watches a parade by holding a plane mirror just above his head. The parade passes 6 metres behinde his head and the mirror is 0.25m in front of the man. How far does the image in the mirror appear to be from the man?",
+    "options": {
+      "A": "6.50m",
+      "B": "6.25m",
+      "C": "6.00m",
+      "D": "5.75m",
+      "E": "5.50m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42742?exam_type=neco&type=obj&page=5",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "26",
+    "text": "To keep a lorry moving at a constant speed v, requires power p, from the engine. The force provided by the engine is",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)v",
+      "B": "pv",
+      "C": "\\(\\frac{p}{v}\\)",
+      "D": "pv2",
+      "E": "\\(\\frac{p}{v^2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42748?exam_type=neco&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "27",
+    "text": "An electric iron rated 250 V has a coil of resistance 125\u03a9. What is the cost of using it for I hour at 10k per kWh?",
+    "options": {
+      "A": "1.25k",
+      "B": "2.50k",
+      "C": "5.00k",
+      "D": "10.00k",
+      "E": "20.00k"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42752?exam_type=neco&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "28",
+    "text": "The image formed by a converging lens of focal length is of a distance of 2f from the lens. Calculate the lateral magnification produced",
+    "options": {
+      "A": "0.5",
+      "B": "1",
+      "C": "1.5",
+      "D": "2",
+      "E": "3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42755?exam_type=neco&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "Using the lens formula,\n\\(\\frac{1}{v} + \\frac{1}{u} = \\frac{1}{f}\\)\nWhere u, v and f are the object distance, image distance and focal length respectively.\n\\(\\therefore \\frac{1}{2f} + \\frac{1}{u} = \\frac{1}{f}\\)\n\\(\\frac{1}{u} = \\frac{1}{2f} - \\frac{1}{f} \\implies \\frac{1}{u} = \\frac{1}{2f}\\)\n\\(u = 2f\\)\n\\(\\therefore Magnification = \\frac{\\text{image distance}}{\\text{object distance}}\\)\n= \\(\\frac{2f}{2f}\\)\n= 1",
+    "year": "2000"
+  },
+  {
+    "number": "29",
+    "text": "If the first position of resonance in a resonance tube is 18.0cm from the open end, the distance from the open end to the next position of resonance will be",
+    "options": {
+      "A": "24.0cm",
+      "B": "27.0cm",
+      "C": "36.0cm",
+      "D": "45.0cm",
+      "E": "54.0cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42770?exam_type=neco&type=obj&page=6",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "30",
+    "text": "Calculate the peak voltage of a mains supply of r.ms. value 220V.",
+    "options": {
+      "A": "121 V",
+      "B": "156 V",
+      "C": "225 V",
+      "D": "240 V",
+      "E": "311 V"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42771?exam_type=neco&type=obj&page=6",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "31",
+    "text": "Two 2.0\u03a9 resistors can be combined circuit to give an overall resistance of",
+    "options": {
+      "A": "0.5\u03a9 only",
+      "B": "1.0 \u03a9 only",
+      "C": "either 0,5\u03a9 or 1.0 \u03a9",
+      "D": "either 1.0\u03a9 or 4.0 \u03a9",
+      "E": "either 0.5\u03a9, 1.0\u03a9 or 4.0\u03a9"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42775?exam_type=neco&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "32",
+    "text": "An astronomical telescope which is being used to view a very distant object is said to be in normal adjustment if",
+    "options": {
+      "A": "the final image is at the near-point",
+      "B": "the image formed by the objective is before the focus of the eye piece",
+      "C": "the angular magnification is the ratio of the focal length of the eye-piece lens to that of the objective",
+      "D": "the foci dl the objective and the eye-piece coincide between the lenses",
+      "E": "the distance between the objective lens and the eye-piece is equal to the difference between their focal lengths."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42778?exam_type=neco&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "33",
+    "text": "A man standing 510m away from a wall sounds a whistle. The echo from the wall reaches him 3s later. Calculate the velocity of sound in air.",
+    "options": {
+      "A": "170 ms-1",
+      "B": "340 ms-1",
+      "C": "680 ms-1",
+      "D": "765 ms-1",
+      "E": "1530 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42781?exam_type=neco&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "34",
+    "text": "The image is a plane mirror is",
+    "options": {
+      "A": "inverted, real with a magnificant of \\(\\frac{1}{2}\\)",
+      "B": "inverted, virtual with a magnification of 1",
+      "C": "inverted, real with a magnification of 2",
+      "D": "upright, virtual with a magnificent of 1",
+      "E": "upright, real with a magnification of 2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42785?exam_type=neco&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "35",
+    "text": "Which of the following pairs of light rays shows the widest separation in the spectrum of white light?",
+    "options": {
+      "A": "Red and blue",
+      "B": "Orange and green",
+      "C": "Red and indigo",
+      "D": "Violet and green",
+      "E": "Yellow and red"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42787?exam_type=neco&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "This is called dispersion . A beam of white light passes through a prism and changes into a spectrum of colours.\nThe spectrum is a band of seven colours which is obtained by splitting of white light by a glass prism. The order of colours from the lower end of spectrum isviolet (V), indigo (I), blue (B), green (G), yellow (Y), orange (O), and red (R).",
+    "year": "2000"
+  },
+  {
+    "number": "36",
+    "text": "Which of the following is/are TRUE of nuclear fission? \n\nI. A heavy nucleus is split into two nuclei of comparable masses \nII. Two light nuclei are joined together to form a heavier nucleus \nIII. The total mass of the products is less than that of the reactants",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and III only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42792?exam_type=neco&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "37",
+    "text": "The image obtained on the screen of a pin-hole camera becomes less sharply defined when the",
+    "options": {
+      "A": "object is moved farther from the pin-hole",
+      "B": "screen is moved farther from the pin-hole",
+      "C": "object is made smaller",
+      "D": "illumination is made more intense",
+      "E": "pin-hole is made larger."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42795?exam_type=neco&type=obj&page=8",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "38",
+    "text": "Which of the following statements about evaporation and boiling is FALSE?",
+    "options": {
+      "A": "Evaporation may take place at any temperature.",
+      "B": "In evaporation, vapour escapes only from the surface of a liquid",
+      "C": "The temperature remains constant as long as the liquid is boiling",
+      "D": "The temperature at which boiling takes place can be altered by changing the external pressure",
+      "E": "The rate of evaporation does not depend on temperature."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42797?exam_type=neco&type=obj&page=8",
+    "correct_answer": "E",
+    "explanation": "Differences between Evaporation and BoilingEvaporationBoilingEvaporation is a normal process that occurs when the liquid form changes into the gaseous form; while causing an increase in the pressure or temperature.Boiling is an unnatural process where the liquid gets heated up and vaporized due to continuous heating.Evaporation usually occurs on the heated liquid\u2019s surface.Boiling usually occurs on the entire mass of the heated liquid.The bubbling effect is not visible in evaporation.The bubbling effect is visible during the process of boiling.produces a cooling effect.does not produce a cooling effect.The process of evaporation is slow.The process of boiling is much quicker.",
+    "year": "2000"
+  },
+  {
+    "number": "39",
+    "text": "Which of the following is/areNOT affected by a magnetic field? \n\nI. Alpha particle\nII. Cathode rays\nIII. Neutrons",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "I,II & III"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42800?exam_type=neco&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "40",
+    "text": "The smallest unit on the sleeve of a micrometer screw gauge is 0.5mm. There are fifty divisions on the thimble of the screw gauge. \nWhat is the smallest length that can be measured with this instrument?",
+    "options": {
+      "A": "0.05cm",
+      "B": "0.01cm",
+      "C": "0.005cm",
+      "D": "0.001cm",
+      "E": "0.0001cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42803?exam_type=neco&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "41",
+    "text": "The length of a side of a metallic cube at 20\u00b0 C is 5.0cm. Given that the linear expansively of the metal is 4.0 \u00d7 10-5K-1, find the volume of the cube at 120\u00b0 C",
+    "options": {
+      "A": "124.50cm3",
+      "B": "125.00cm3",
+      "C": "126.00cm3",
+      "D": "126.25cm3",
+      "E": "126.50cm3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42805?exam_type=neco&type=obj&page=9",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "42",
+    "text": "A boy moving with a velocity of 3 ms-1  is brought to rest by a constant force after travelling 15m. Calculate the retardation.",
+    "options": {
+      "A": "0.15ms-2",
+      "B": "0.30ms-2",
+      "C": "0.60ms-2",
+      "D": "3.33ms-2",
+      "E": "6.66ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42806?exam_type=neco&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "43",
+    "text": "A block of a substance X will sink in a liquid V but float liquid Z. Which of the following statements is NOT correct about the densities of the three substances?",
+    "options": {
+      "A": "Density of liquid Z is greater than that of X",
+      "B": "Density of liquid V is less than that of liquid X",
+      "C": "Density of liquid Y is less than that of liquid Z",
+      "D": "Liquid Z has the greatest density of all the three substances.",
+      "E": "If liquids V and Z do not mix, liquid Z will float on liquid V."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42807?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "The density of liquid Y is less than that of liquid Z.",
+    "year": "2000"
+  },
+  {
+    "number": "44",
+    "text": "I. A scalar quantity has only magnitude\nII. A scalar quantity has both magnitude and direction\nIII. A vector quantity has both magnitude and direction\nIV. A vector quantity has only magnitude.\n\nWhich of the above statement is/are correct?",
+    "options": {
+      "A": "I only",
+      "B": "l and II only",
+      "C": "l and III only",
+      "D": "II and III only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42808?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "A scalar quantity has a magnitude only, which means it tells you how much of something there is, but it does not provide any information about direction.e.g temperature.\nA vector quantity includes both magnitude and direction. This means it tells you how much and also which way something is happening. e.g velocity\nTherefore, I and III are correct.",
+    "year": "2000"
+  },
+  {
+    "number": "45",
+    "text": "An electric bell operated within an evacuated bell jar enables us to infer correctly that",
+    "options": {
+      "A": "light waves require a medium for transmission",
+      "B": "sound waves do not require a medium for transmission",
+      "C": "light waves do not require a medium for transmission but sound waves do",
+      "D": "light waves travel much faster than sound waves",
+      "E": "light waves and sound waves travel at the same speed"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42809?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2000"
+  },
+  {
+    "number": "46",
+    "text": "A boy ran a distance of 200m in 24s. His average speed was 8.3ms-1. Which of the following is correct about the units in which the statements above are expressed?",
+    "options": {
+      "A": "All the units are fundamental.",
+      "B": "All the units are derived",
+      "C": "All the units except one are S.I units",
+      "D": "Two of the units are fundamental and one derived.",
+      "E": "None of the units is S.I units."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42810?exam_type=neco&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2000"
+  }
+]

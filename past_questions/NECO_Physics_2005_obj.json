@@ -1,0 +1,753 @@
+[
+  {
+    "number": "231",
+    "text": "The angle between the geographic and the magnetic meridians at a place on the earth\u2019s surface is the",
+    "options": {
+      "A": "angle of declination",
+      "B": "angle of depression",
+      "C": "angle of dip.",
+      "D": "latitude of the place",
+      "E": "longitude of the place"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42996?exam_type=neco&type=obj&page=47",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "232",
+    "text": "An object is placed in front of a concave mirror whose radius of curvature is 12cm. If the magnification of the Image produced is 1.5, how far is the object from the mirror?",
+    "options": {
+      "A": "8cm",
+      "B": "10cm",
+      "C": "15cm",
+      "D": "18cm",
+      "E": "20cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42997?exam_type=neco&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "Radius of curvature(r)=12cmfocal length(F) = r \u00f7\u00a02\u00a0\u2192 12 \u00f7 2 = 6cmtherefore F = 6cmmagnification(M) = v\u00a0\u00f7 u\n1.5 = v\u00a0\u00f7 u:v = 1.5uUsing mirror formula\n1/f =1/v + 1/u\\(\\frac{1}{6}\\)\u00a0=\\(\\frac{1}{1.5u}\\)\u00a0+\u00a0\\(\\frac{1}{u}\\)\n\\(\\frac{1}{6}\\) =\u00a0\\(\\frac{1 + 1.5}{1.5u}\\)\n\\(\\frac{1}{6}\\) =\u00a0\\(\\frac{2.5}{1.5u}\\)\n1 * 1.5u = 2.5 * 6\nu =\u00a0\\(\\frac{15}{1.5}\\) = 10\ntherefore object distance =10cm.",
+    "year": "2005"
+  },
+  {
+    "number": "233",
+    "text": "A body moves along a circular path with uniform angular speed of 0.6 rad s-1 and at a constant speed of 3.0 ms-1. \n\nCalculate the acceleration of the body towards the centre of the circle.",
+    "options": {
+      "A": "0.2.ms-2",
+      "B": "1.8 ms-2",
+      "C": "5.0 ms-2",
+      "D": "5.4 ms-2",
+      "E": "25.0 ms-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42998?exam_type=neco&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "234",
+    "text": "Which of the statements is/are true of two bodies involved in an inelastic collision? After collision. \n\nI. the kinetic energy increases \nII. The momentum decreases\nIII. Their velocities are the same.",
+    "options": {
+      "A": "I only",
+      "B": "II Only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42999?exam_type=neco&type=obj&page=47",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "235",
+    "text": "491 K is equivalent to",
+    "options": {
+      "A": "273 \u00b0C",
+      "B": "218 \u00b0C",
+      "C": "373 \u00b0C",
+      "D": "491 \u00b0C",
+      "E": "764 \u00b0C"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43000?exam_type=neco&type=obj&page=47",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "236",
+    "text": "An atom radiates 1.5 \u00d7 10-19J when an electron jumps from one level to another. What is the wavelength of the emitted radiation? (Planck\u2019s constant 6.6 \u00d7 l0-34Js ; Speed of light in vacuum = 3.0 \u00d7 108ms-1)",
+    "options": {
+      "A": "1.32 \u00d7 10-6m",
+      "B": "2.97 \u00d7 10-6m",
+      "C": "3.30 \u00d7 10-6m",
+      "D": "6.82 \u00d7 10-6m",
+      "E": "8.01 \u00d7 10m-6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43001?exam_type=neco&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "237",
+    "text": "The following are derived units EXCEPT",
+    "options": {
+      "A": "kg m-3",
+      "B": "N",
+      "C": "Ns",
+      "D": "m3",
+      "E": "kg"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43002?exam_type=neco&type=obj&page=48",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "238",
+    "text": "A 12V battery supplies a current of 0.4A to a lamp. Calculate the resistance of the lamp.",
+    "options": {
+      "A": "30.00",
+      "B": "4.80",
+      "C": "3.00",
+      "D": "0.30",
+      "E": "0.03"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43003?exam_type=neco&type=obj&page=48",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "239",
+    "text": "In which of the following is the expansion of solids a disadvantage?",
+    "options": {
+      "A": "Electric iron",
+      "B": "Fire alarm",
+      "C": "The balance wheel of a watch",
+      "D": "The bimetallic thermometer",
+      "E": "The fitting of wheels in rims"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43004?exam_type=neco&type=obj&page=48",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "240",
+    "text": "Which of the following is a desirable property of a fuse Wire?",
+    "options": {
+      "A": "High expansively",
+      "B": "High thermal conductivity",
+      "C": "Low density",
+      "D": "Low electrical resistivity",
+      "E": "Low melting point"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43005?exam_type=neco&type=obj&page=48",
+    "correct_answer": "E",
+    "explanation": "A fuse wire should have a low melting point so that it can melt and break the circuit quickly in case of an overload, preventing damage to the electrical system.",
+    "year": "2005"
+  },
+  {
+    "number": "241",
+    "text": "A projectile is projected with an initial velocity u, at an angle \u03b8 to the horizontal. The maximum height attained is.",
+    "options": {
+      "A": "U2 sin  \\(\\frac{\\theta}{g}\\)",
+      "B": "2U2 sin2 \\(\\frac{\\theta}{g}\\)",
+      "C": "U sin2 \\(\\frac{\\theta}{g}\\)",
+      "D": "U2 sin2\\(\\frac{\\theta}{2g}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43006?exam_type=neco&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "Using V\\(^2\\) = (Uy)\\(^2\\) - 2gH\nBut Uy = usin\u03b8\nAt max. Height, V = 0\n0 = (Uy)\\(^2\\) - 2gH\n- (Uy)\\(^2\\) = - 2gH\nH = \\(\\frac{u^2(sin)^2\u03b8}{2g}\\)",
+    "year": "2005"
+  },
+  {
+    "number": "242",
+    "text": "A stone of mass 0.7 kg is projected vertically upward with a speed of 5 ms-1. Calculate the maximum height reached. [g =10ms-2]",
+    "options": {
+      "A": "1.25m",
+      "B": "1.50m",
+      "C": "2.50m",
+      "D": "3.75m",
+      "E": "5.00Nm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43007?exam_type=neco&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "243",
+    "text": "Calculate the magnitude of the force due to a magnetic field of 0.40T on an electron moving perpendicular to the field with a speed of 4.00 \u00d7 106ms-1 (e 1.60 \u00d7 10-19C]",
+    "options": {
+      "A": "6.40 \u00d7 -10",
+      "B": "6.40\u00d7 10-13N",
+      "C": "2.56 \u00d7 10-13N",
+      "D": "1.60 \u00d7 10-12N",
+      "E": "2.30 \u00d7 10-11N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43008?exam_type=neco&type=obj&page=49",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "244",
+    "text": "A voltage of 240V is connected to the primary coil of a transformer,\u00a0the rating of the primary turns to the secondary turns if the voltage available at the secondary coil is 15V",
+    "options": {
+      "A": "0.06",
+      "B": "0.9",
+      "C": "1.6",
+      "D": "16",
+      "E": "36"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43009?exam_type=neco&type=obj&page=49",
+    "correct_answer": "D",
+    "explanation": "\\(E_p\\) = 240V,\u00a0 \\(E_s\\) = 15V\n\\(\\frac{E_p}{E_s} = \\frac{ N_p}{N_s}\\)\n\\(\\frac{240}{15} = \\frac{ N_p}{N_s}\\)\n\u2234\u00a0\u00a0\\(\\frac{ N_p}{N_s}\\) = 16.",
+    "year": "2005"
+  },
+  {
+    "number": "245",
+    "text": "Two metals A and B lose the same quantity of heat when their temperatures drop from 20\u00b0C to 15\u00b0C. If the specific heat Capacity of A Ii thrice that of B, calculate the ratio of the mass of A to that of B.",
+    "options": {
+      "A": "3:01",
+      "B": "4:03",
+      "C": "3:04",
+      "D": "1:02",
+      "E": "1:03"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43010?exam_type=neco&type=obj&page=49",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "246",
+    "text": "When a yellow card is viewed in blue light, It will appear",
+    "options": {
+      "A": "black",
+      "B": "orange",
+      "C": "purple",
+      "D": "red",
+      "E": "white"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43011?exam_type=neco&type=obj&page=50",
+    "correct_answer": "A",
+    "explanation": "Yellowdoes not containblue, so it will appear black underblue light",
+    "year": "2005"
+  },
+  {
+    "number": "247",
+    "text": "Mercury does NOT wet glass because",
+    "options": {
+      "A": "glass is an amorphous substance",
+      "B": "the adhesive force is greater than the cohesive force",
+      "C": "the cohesive force is greater than the adhesive force.",
+      "D": "mercury has very high thermal conductivity",
+      "E": "mercury is opaque."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43012?exam_type=neco&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "248",
+    "text": "When some ice cubes are added to a glass of warm water, the glass is cooled by a process of",
+    "options": {
+      "A": "conduction only",
+      "B": "convection only",
+      "C": "conduction and convection",
+      "D": "conduction and radiation",
+      "E": "radiation only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43013?exam_type=neco&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "249",
+    "text": "The length of a simple pendulum is increased by a factor of four. By what factor is its period Increased?",
+    "options": {
+      "A": "0.25",
+      "B": "0.5",
+      "C": "1.66",
+      "D": "2",
+      "E": "4"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43014?exam_type=neco&type=obj&page=50",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "250",
+    "text": "Which of the following pairs is an example of translucent bodies?",
+    "options": {
+      "A": "Cardboard and moon",
+      "B": "Clear water and glass",
+      "C": "Frosted glass and waxed paper",
+      "D": "Oiled paper and brick",
+      "E": "Wood and metal sheet"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43015?exam_type=neco&type=obj&page=50",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "251",
+    "text": "Calculate the peak voltage that could be obtained from a 220 V\\(_{r.m.s}\\)main supply.",
+    "options": {
+      "A": "70.7V",
+      "B": "110.0V",
+      "C": "155.6V",
+      "D": "311.1V",
+      "E": "440.0V"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43016?exam_type=neco&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "252",
+    "text": "The mercury column in a simple mercury barometer is of height 5m above the mercury in a reservoir. If the tube is replaced with one whose radius is twice that of the first tube, what will be the height of the mercury column in the new tube?",
+    "options": {
+      "A": "2.5m",
+      "B": "5.0m",
+      "C": "7.5m",
+      "D": "10.0m",
+      "E": "20.0m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43017?exam_type=neco&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "253",
+    "text": "The escape velocity of an object from the gravitational field of a planet \n\nI. Increases with the mass of the object \nII. Increases with the mass of the planet\nIII. Is smaller on the moon than on the earth. Which of the above statements is/are correct?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "II and III only",
+      "E": "I, II and III"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43018?exam_type=neco&type=obj&page=51",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "254",
+    "text": "Which of the following is a non-renewable energy source?",
+    "options": {
+      "A": "Coal",
+      "B": "Hydro",
+      "C": "Ocean waves",
+      "D": "Solar",
+      "E": "Tides"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43019?exam_type=neco&type=obj&page=51",
+    "correct_answer": "A",
+    "explanation": "",
+    "year": "2005"
+  },
+  {
+    "number": "255",
+    "text": "Which of the following is NOT a component of an a.c. generator?",
+    "options": {
+      "A": "Armature",
+      "B": "Carbon brushes",
+      "C": "Magnet",
+      "D": "Slip ring",
+      "E": "Split rings"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43020?exam_type=neco&type=obj&page=51",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "256",
+    "text": "An object of mass 5.0 cg moving with a velocity of 12ms-1 due north hits a stationary body of mass 7.0kg. If they stick together after collision and move with velocity V due north, calculate the magnitude of V.",
+    "options": {
+      "A": "12ms-1",
+      "B": "7ms-1",
+      "C": "6ms-1",
+      "D": "5ms-1",
+      "E": "4ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43021?exam_type=neco&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "257",
+    "text": "Which of the following statements is/are correct in any machine? \n\nI. The velocity ratio is usually greater than the mechanical advantage. \nII. Efficiency work inputwork outputIII. The velocity ratio is independent of friction.",
+    "options": {
+      "A": "I only",
+      "B": "III only",
+      "C": "I and II only",
+      "D": "I and III only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43022?exam_type=neco&type=obj&page=52",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "258",
+    "text": "Which of the following is a percussion Instrument?",
+    "options": {
+      "A": "Flute",
+      "B": "Guitar",
+      "C": "Piano",
+      "D": "Trumpet",
+      "E": "Xylophone"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43023?exam_type=neco&type=obj&page=52",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "259",
+    "text": "Which of the following is used for shielding radioactive fallout?",
+    "options": {
+      "A": "Aluminum",
+      "B": "Lead",
+      "C": "Iron",
+      "D": "Plastic",
+      "E": "Wood"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43024?exam_type=neco&type=obj&page=52",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "260",
+    "text": "The charge of an alpha particle can be neutralized by",
+    "options": {
+      "A": "1 beta particle",
+      "B": "2 photons of gamma rays",
+      "C": "2 beta particles",
+      "D": "4 beta particles",
+      "E": "4 photons of gamma rays"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43025?exam_type=neco&type=obj&page=52",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "261",
+    "text": "Which of the following statements is correct?",
+    "options": {
+      "A": "Alpha particles have a large mass and high penetrating power",
+      "B": "Alpha particles have a small mass and a low penetrating power",
+      "C": "Beta partials have no mass and a high penetrating power",
+      "D": "Beta particles have a large mass and a low penetrating power",
+      "E": "Gamma rays have no mass and a high penetrating power"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43026?exam_type=neco&type=obj&page=53",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "262",
+    "text": "Which of the following will reduce the frequency of oscillation of a simple pendulum?",
+    "options": {
+      "A": "Decreasing the length of the string",
+      "B": "Increasing the amplitude of oscillation",
+      "C": "Increasing the length of the string",
+      "D": "Increasing the mass of the bob",
+      "E": "Reducing the mass of the bob."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43027?exam_type=neco&type=obj&page=53",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "263",
+    "text": "A box is pulled a distance s along a smooth horizontal floor by a force of magnitude F, inclined at an angle \u03b8 to the horizontal. The work done is",
+    "options": {
+      "A": "Fs cos \u03b8",
+      "B": "Fs cosec \u03b8",
+      "C": "Fs sec \u03b8",
+      "D": "Fs sin \u03b8",
+      "E": "Fs tan \u03b8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43028?exam_type=neco&type=obj&page=53",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "264",
+    "text": "A radio station broadcasts at a frequency of 400 kHz. If the speed of the wave is 3.0 \u00d710\\(^{-8}\\)ms\\(^{-1}\\), calculate the wavelength of the radio wave.",
+    "options": {
+      "A": "1.3 \u00d7 102m",
+      "B": "3.0 \u00d7 102m",
+      "C": "2.4 \u00d7 102m",
+      "D": "5.0 \u00d7 102m",
+      "E": "7.5 \u00d7 10-14m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43029?exam_type=neco&type=obj&page=53",
+    "correct_answer": "E",
+    "explanation": "To calculate the wavelength of a radio wave, we use the formula:\n\\(\\lambda = \\frac{v}{f}\\)\nwhere:- \\( v \\) is the speed of the wave,- \\( f \\) is the frequency.\nGiven:- Frequency \\( f = 400 \\, \\text{kHz} = 400 \\times 10^3 \\, \\text{Hz} \\)- Speed \\( v = 3.0 \\times 10^{-8} \\, \\text{m/s} \\)\nSubstituting the values into the formula:\n\\(\\lambda = \\frac{3.0 \\times 10^{-8} \\, \\text{m/s}}{400 \\times 10^3 \\, \\text{Hz}}\\)\nCalculating:\n\\(\\lambda = \\frac{3.0 \\times 10^{-8}}{4.0 \\times 10^5}\\)\n\\(\\lambda = 7.5 \\times 10^{-14} \\, \\text{m}\\)\nThus, the wavelength of the radio wave is:\n\\(\\lambda = 7.5 \\times 10^{-14} \\, \\text{m}\\)",
+    "year": "2005"
+  },
+  {
+    "number": "265",
+    "text": "Which of the following is/are longitudinal wave(s)? \n\nI. Light waves from the sun\nII. Sound waves in the air\nIII. Waves on a vibrating string",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "I and III only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43030?exam_type=neco&type=obj&page=53",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "266",
+    "text": "Which of the following radiations has the shortest wavelength?",
+    "options": {
+      "A": "Infrared rays",
+      "B": "Light waves",
+      "C": "Microwaves",
+      "D": "Ultraviolet rays",
+      "E": "X-rays"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43031?exam_type=neco&type=obj&page=54",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "267",
+    "text": "Which of the following statements is/are correct? Sound waves travel through\n\nI. air\nII. vacuum\nIII.Water",
+    "options": {
+      "A": "II only",
+      "B": "I and II only",
+      "C": "II and III only",
+      "D": "I and III only",
+      "E": "I, II, and III"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43032?exam_type=neco&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "Sound travels in air and water. However, in a vacuum, sound moves at 0 m/s. Hence, it doesn't travel in a vacuum.",
+    "year": "2005"
+  },
+  {
+    "number": "268",
+    "text": "An electric motor primary converts",
+    "options": {
+      "A": "electrical energy to chemical energy",
+      "B": "electrical energy to heat energy",
+      "C": "electrical energy to mechanical energy",
+      "D": "mechanical energy to electrical energy",
+      "E": "mechanical energy to light energy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43033?exam_type=neco&type=obj&page=54",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "269",
+    "text": "Radio receivers are tuned using",
+    "options": {
+      "A": "electromagnets",
+      "B": "electric motors",
+      "C": "Inductors",
+      "D": "variable capacitors",
+      "E": "variable resistors"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43034?exam_type=neco&type=obj&page=54",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "270",
+    "text": "Three non-parallel coplanar forces which can be represented both in magnitude and direction by the three sides of a triangle taken in order will",
+    "options": {
+      "A": "have any one force being the equilibrant of the other two",
+      "B": "make a body move randomly",
+      "C": "make a body oscillate",
+      "D": "move a body along a straight line",
+      "E": "rotate a body about its axis"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43035?exam_type=neco&type=obj&page=54",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "271",
+    "text": "A constant force acts on a body of mass 50kg and changes its speed from 20ms-1 to 90ms-1 in 10 seconds. Calculate the magnitude of the force applied.",
+    "options": {
+      "A": "590N",
+      "B": "500N",
+      "C": "450N",
+      "D": "350N",
+      "E": "180N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43036?exam_type=neco&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "272",
+    "text": "Which of the following is NOT a component of a slide projector?",
+    "options": {
+      "A": "Concave mirror",
+      "B": "Condenser",
+      "C": "Convex mirror",
+      "D": "light source",
+      "E": "Screen."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43037?exam_type=neco&type=obj&page=55",
+    "correct_answer": "A",
+    "explanation": "You will find\u00a0convex lenses\u00a0in telescopes, microscopes, magnifying glasses, cameras,\u00a0slide\u00a0and movie projectors, and other instruments that use light to create an image.",
+    "year": "2005"
+  },
+  {
+    "number": "273",
+    "text": "The motion of the wheel of a bicycle moving on a smooth straight road is",
+    "options": {
+      "A": "oscillatory and random",
+      "B": "oscillatory and translational",
+      "C": "rotational and oscillatory",
+      "D": "rotational and random",
+      "E": "rotational and translational"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43038?exam_type=neco&type=obj&page=55",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2005"
+  },
+  {
+    "number": "274",
+    "text": "Notes of the same frequency sounded on a guitar and trumpet may differ in\n\nI. loudness\nII. Pitch\nIII. quality Which of the statements above is correct?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "I, II and III"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43039?exam_type=neco&type=obj&page=55",
+    "correct_answer": "C",
+    "explanation": "The quality or timbre of sound isthat characteristic which enables us to distinguish one sound from another having the same pitch and loudness.",
+    "year": "2005"
+  },
+  {
+    "number": "275",
+    "text": "The amplitude of oscillation of a simple pendulum bob diminishes slowly because",
+    "options": {
+      "A": "energy is applied by some external agencies",
+      "B": "frictional forces dissipate the energy of motion",
+      "C": "the frequency of oscillation increases with the mass of the bob",
+      "D": "the frequency of oscillation varies with time",
+      "E": "the period of oscillation varies with time."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43040?exam_type=neco&type=obj&page=55",
+    "correct_answer": "D",
+    "explanation": "The amplitude and the frequency of an oscillating pendulum decrease\u00a0gradually with time.",
+    "year": "2005"
+  },
+  {
+    "number": "276",
+    "text": "The wave theory of light does not explain photoelectricity because",
+    "options": {
+      "A": "light waves carry little energy",
+      "B": "particles cannot be emitted by waves",
+      "C": "the frequency of light waves too high",
+      "D": "there is a threshold wavelength for electron emission",
+      "E": "the wavelength of Light waves is too short."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43041?exam_type=neco&type=obj&page=56",
+    "correct_answer": "A",
+    "explanation": "According to wave theory, after the light falls on a substance electrons are emitted after a small instant of time. However, in photoelectric effect, the electron emissions are immediate without a time delay.\u200bThe energy of a wave increases with increase in intensity. However, in photoelectirc effect, increase in intensity has no effect on the energy of electrons emitted. All that happens is the number of electrons emitted, increases.he energy of a wave grows as its intensity increases. In the photoelectronic effect, however, increasing the intensity has no influence on the energy of electrons released.",
+    "year": "2005"
+  },
+  {
+    "number": "301",
+    "text": "The most suitable instrument for measuring the diameter of a thin wire is a",
+    "options": {
+      "A": "meter rule",
+      "B": "micrometer screw gauge",
+      "C": "pair of dividers",
+      "D": "pair of engineer\u2019s calipers",
+      "E": "venire calipers"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43067?exam_type=neco&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2005"
+  }
+]

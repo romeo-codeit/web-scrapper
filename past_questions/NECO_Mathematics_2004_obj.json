@@ -1,0 +1,562 @@
+[
+  {
+    "number": "69",
+    "text": "Find the surface area of a sphere whose radius is 3.5cm, correct your answer to one decimal place (\u03c0 = \\(\\frac{22}{5}\\))",
+    "options": {
+      "A": "12.8cm2",
+      "B": "25.7cm2",
+      "C": "77.0cm2",
+      "D": "154.0cm2",
+      "E": "179.7cm2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42247?exam_type=neco&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "70",
+    "text": "Two angles of a triangle are 45\u00ba\u00a0each and its longest side is 12cm. Find the length of one of the other sides",
+    "options": {
+      "A": "12cm",
+      "B": "9\\(\\sqrt{2}\\)cm",
+      "C": "6\\(\\sqrt{2}\\)cm",
+      "D": "6cm",
+      "E": "3\\(\\sqrt{2}\\)cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42248?exam_type=neco&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "Two angles of a triangle are 45\u00ba\u00a0each and its longest side is 12cm, this simply describes an isosceles triangle\ntwo equal angles and two equal sides\nusing Pythagoras theorem,\n\\(x^2 + x^2 = 12^2\\)\n\\(2x^2\\) = 144\n\\(x^2\\) = 72( after dividing b/sides by 2)\nx = \\(\\sqrt{72}\u00a0= 6\\sqrt{2}\\)cm.",
+    "year": "2004"
+  },
+  {
+    "number": "71",
+    "text": "The nth term of a sequence is given as \\(4 \\times\u00a03^{(3 - n)}\\). Calculate the third term.",
+    "options": {
+      "A": "12",
+      "B": "32",
+      "C": "4",
+      "D": "3",
+      "E": "1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42249?exam_type=neco&type=obj&page=15",
+    "correct_answer": "C",
+    "explanation": "\\(4 \\times\u00a03^{(3 - n)}\\)\nfor the third term, n = 3\nthen\n\\(4 \\times\u00a03^{(3 - 3)}\\) =\u00a0\\(4 \\times\u00a03^{0}\\) = 4 x 1 = 4.",
+    "year": "2004"
+  },
+  {
+    "number": "72",
+    "text": "If y varies inversely as x2, how does x vary with y?",
+    "options": {
+      "A": "x varies inversely as y2",
+      "B": "x varies inversely as \\(\\sqrt{y}\\)",
+      "C": "x varies directly as y2",
+      "D": "x varies directly as \\(\\sqrt{y}\\)",
+      "E": "x varies directly as y"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42250?exam_type=neco&type=obj&page=15",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "74",
+    "text": "Evaluate \\(1011_{two}\\) + \\(1101_{two}\\) + \\(1001_{two}\\) - \\(111_{two}\\)",
+    "options": {
+      "A": "10001\\(_{two}\\)",
+      "B": "11001\\(_{two}\\)",
+      "C": "110001\\(_{two}\\)",
+      "D": "11010\\(_{two}\\)",
+      "E": "10001\\(_{two}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42253?exam_type=neco&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "Convert each value to decimal (base 10)\n\\(1011_{two}\\)\u00a0\u2192 11\n+ \\(1101_{two}\\)\u00a0\u2192 13\n+ \\(1001_{two}\\)\u00a0\u2192 9\n- \\(111_{two}\\)\u00a0\u2192 7\n: 11 + 13 + 9 - 7 = 26\n26\u00a0\u2192 \\(11010_{two}\\)",
+    "year": "2004"
+  },
+  {
+    "number": "75",
+    "text": "Find the area of a triangle ABC such that a = 16cm, b = 14cm, c = 12cm, leave your answer in surd form",
+    "options": {
+      "A": "5\\(\\sqrt{15}\\)cm2",
+      "B": "7\\(\\sqrt{15}\\)cm2",
+      "C": "21\\(\\sqrt{3}\\)cm2",
+      "D": "21\\(\\sqrt{5}\\)cm2",
+      "E": "21\\(\\sqrt{15}\\)cm2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42287?exam_type=neco&type=obj&page=15",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "76",
+    "text": "If the first term of an AP is 1.2 and the common difference is also 2, what is the mean of the first five terms?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "5",
+      "D": "8",
+      "E": "10"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42289?exam_type=neco&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "Given the first term \\( a = 1.2 \\) and common difference \\( d = 2 \\), the first five terms of the AP are:\\(a_1 = 1.2\\)\\(a_2 = 1.2 + 2 = 3.2\\)\\(a_3 = 1.2 + 4 = 5.2 \\)\\(a_4 = 1.2 + 6 = 7.2 \\)\\(a_5 = 1.2 + 8 = 9.2\\)\nThe sum of the first five terms is:\n\\(\\text{Sum} = 1.2 + 3.2 + 5.2 + 7.2 + 9.2 = 26\\)\nThe mean is calculated as:\n\\(\\text{Mean} = \\frac{26}{5} = 5.2\\)\nThus, the mean of the first five terms is \\(5.2\\).",
+    "year": "2004"
+  },
+  {
+    "number": "77",
+    "text": "The angle subtended by a diameter of a circle at the circumference is a/an",
+    "options": {
+      "A": "acute angle",
+      "B": "obtuse angle",
+      "C": "reflex angle",
+      "D": "right angle",
+      "E": "supplementary angle"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42291?exam_type=neco&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "78",
+    "text": "Calculate (0.05 \u00d7 0.025) \u00f7 (4.25 \u00d7 3.35) and express your answer in standard form",
+    "options": {
+      "A": "8.7796 \u00d7 105",
+      "B": "8.7796 \u00d7 104",
+      "C": "8.7796 \u00d7 103",
+      "D": "8.7796 \u00d7 10-3",
+      "E": "8.7796 \u00d7 10-5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42293?exam_type=neco&type=obj&page=16",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "79",
+    "text": "The expression 4x2 - 4 has the following as its factors EXCEPT",
+    "options": {
+      "A": "x - 1",
+      "B": "x + 1",
+      "C": "x2 -1",
+      "D": "4x + 1",
+      "E": "4x - 4"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42295?exam_type=neco&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "80",
+    "text": "Simplify \\((216^{{\\frac{1}{3}}})^{-2}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{36}\\)",
+      "B": "\\(\\frac{1}{18}\\)",
+      "C": "\\(\\frac{1}{13}\\)",
+      "D": "\\(\\frac{1}{6}\\)",
+      "E": "\\(\\frac{1}{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42297?exam_type=neco&type=obj&page=16",
+    "correct_answer": "A",
+    "explanation": "\\((216^{\\frac{1}{3}})^{-2}\\)\n= \\(216^{\\frac{-2}{3}}\\)\n= (3\u221a216)\\(^{-2}\\)\n= (6)\\(^{-2}\\)\n= \\(\\frac{1}{6^2}\\)\n=\\(\\frac{1}{36}\\)",
+    "year": "2004"
+  },
+  {
+    "number": "81",
+    "text": "Divide the LCM of 15abc and 20a\\(^2\\)bc by their HCF",
+    "options": {
+      "A": "10a",
+      "B": "12a",
+      "C": "5abc",
+      "D": "12a2bc",
+      "E": "60a2bc"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42299?exam_type=neco&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "LCM of 15abc and 20a\\(^2\\)bc = 60a\\(^2\\)bc\nFactors of\u00a015abc = 1, 3, 5,15, a, b, c\nand of\u00a0 20a\\(^2\\)bc = 1, 2, 4, 5, 10, 20, a, b, c\nHCF of\u00a015abc and 20a\\(^2\\)bc = 5abc\n\u2192 LCM\u00a0\u00f7 HCF =\u00a060a\\(^2\\)bc\u00a0\u00f7 5abc\n= 12a",
+    "year": "2004"
+  },
+  {
+    "number": "82",
+    "text": "The first term of an A.P is equal to thrice the common difference, what is the sixth term of the A.P, if the common difference is 8?",
+    "options": {
+      "A": "64",
+      "B": "48",
+      "C": "43",
+      "D": "24",
+      "E": "11"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42305?exam_type=neco&type=obj&page=17",
+    "correct_answer": "A",
+    "explanation": "first term[a] = 3 * d\u00a0\u2192 3 * 8 = 24\nsixth term of the A.P = a + 5d\u00a0\u2192 24 + [5 * 8]\n\u21d2\u00a0\u00a024 + 40 = 64",
+    "year": "2004"
+  },
+  {
+    "number": "83",
+    "text": "Solve the equation: \\(\\frac{3}{[2(x - 2)]} - \\frac{2}{[3(2 - x)]} = 0\\)",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{2}{3}\\)",
+      "E": "-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42308?exam_type=neco&type=obj&page=17",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "84",
+    "text": "A car travels at an average speed of 75km/h. Find its speed in metres per second.",
+    "options": {
+      "A": "270m/s",
+      "B": "208m/s",
+      "C": "27.0m/s",
+      "D": "20.8m/s",
+      "E": "2.08m/s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42309?exam_type=neco&type=obj&page=17",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "85",
+    "text": "What must be added to b2-3ab to make it a perfect square?",
+    "options": {
+      "A": "-3a",
+      "B": "-\\(\\frac{3}{2}\\)",
+      "C": "\\(\\frac{9}{4}\\)",
+      "D": "\\(\\frac{9a}{4}\\)",
+      "E": "\\(\\frac{9^2}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42310?exam_type=neco&type=obj&page=17",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "86",
+    "text": "A sales boy gave a change of N75.00 to a buyer instead of N80.00, calculate his percentage error, correct to one decimal place?",
+    "options": {
+      "A": "6.00%",
+      "B": "6.20%",
+      "C": "6.30%",
+      "D": "6.60%",
+      "E": "6.70%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42311?exam_type=neco&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "87",
+    "text": "Evaluate (Log13 - log5) \u00f7 X(log5-log13) without using tables",
+    "options": {
+      "A": "X",
+      "B": "\u2013x",
+      "C": "X-1",
+      "D": "\u2013X-1",
+      "E": "-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42312?exam_type=neco&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "88",
+    "text": "The roots of a quadratic equation in x, are -m and 2n. Fine equation.",
+    "options": {
+      "A": "x2 - x(2n-m) \u2013 2mn = 0",
+      "B": "x2 + x(2n - m) - 2mn = 0",
+      "C": "x2 + x(m - 2n) + 2mn = 0",
+      "D": "X2 + x (m + 2n ) + 2mn = 0",
+      "E": "x2 - x (m - 2n) - 2mn = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42313?exam_type=neco&type=obj&page=18",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "89",
+    "text": "The bearing of Y from X is 085\u00ba. What is the bearing of X from Y?",
+    "options": {
+      "A": "005\u00b0",
+      "B": "095\u00b0",
+      "C": "185\u00b0",
+      "D": "265\u00b0",
+      "E": "275\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42314?exam_type=neco&type=obj&page=18",
+    "correct_answer": "D",
+    "explanation": "The bearing of Y from X is 085\u00ba lies within 90\u00ba\nThe bearing of X\u00a0from Y lies within 270\u00ba\n: 180\u00ba +\u00a085\u00ba = 265\u00ba",
+    "year": "2004"
+  },
+  {
+    "number": "90",
+    "text": "Four pupils have an average age of 12years and two other pupils of average age of 10.5years are added. What is the average age of the six pupils?",
+    "options": {
+      "A": "10.5yrs.",
+      "B": "11yrs.",
+      "C": "11.5 yrs.",
+      "D": "12yrs.",
+      "E": "12.5yrs."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42315?exam_type=neco&type=obj&page=18",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "91",
+    "text": "A bag contains p dozens of bananas and 3q of these proved to be bad. If I buy one third of the goods ones, how many do I get?",
+    "options": {
+      "A": "P -3q",
+      "B": "\\(\\frac{1}{3}\\) (p - 3q)",
+      "C": "3q",
+      "D": "4p - q",
+      "E": "12p - 3q"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42316?exam_type=neco&type=obj&page=19",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "92",
+    "text": "If log102 = 0.3010 and log103 = 0.4771, simplify: (Log108-log92) \u00f7 (Log109 - log102)",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "0.0784",
+      "D": "-4",
+      "E": "-0.0784"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42319?exam_type=neco&type=obj&page=19",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "93",
+    "text": "Find the value of t such that the expression \\(\\frac{1}{t}\\) + \\(\\frac{4}{3}\\) - \\(\\frac{5}{6t}\\) + 1 is equal to zero",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{1}{-14}\\)",
+      "C": "- \\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{7}{6}\\)",
+      "E": "\\(\\frac{2}{5}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42322?exam_type=neco&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{t}\\) + \\(\\frac{4}{3}\\) - \\(\\frac{5}{6t}\\) + 1 = 0\ncollect like terms\n\\(\\frac{4}{3}\\) + 1 =\u00a0 \\(\\frac{5}{6t}\\) -\u00a0\\(\\frac{1}{t}\\)\n\\(\\frac{4 + 3}{3}\\) =\u00a0\\(\\frac{-1}{6t}\\)\ncross multiply\n42t = - 3\nt =\u00a0 \\(\\frac{-3}{42t}\\)\nt =\u00a0\u00a0\\(\\frac{-1}{14}\\)",
+    "year": "2004"
+  },
+  {
+    "number": "94",
+    "text": "One of the interior angles of a regular polygon is 120\u00b0. Find the number of sides of the polygon",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "9",
+      "E": "12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42323?exam_type=neco&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "95",
+    "text": "If cos x = 4/5, 0\u00b0 \\( \\leq \\) x \\( \\leq \\) 90\u00b0, find the value of (1 + tan x)/(1 - tan x)",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "4",
+      "D": "\\(\\frac{7}{16}\\)",
+      "E": "\\(\\frac{9}{25}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42325?exam_type=neco&type=obj&page=19",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "96",
+    "text": "Evaluate ut - \\(\\frac{1}{2}\\)ft2  when t = 5, u = -20 and f = 10",
+    "options": {
+      "A": "225",
+      "B": "72",
+      "C": "-75",
+      "D": "-125",
+      "E": "-225"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42326?exam_type=neco&type=obj&page=20",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "97",
+    "text": "Express the quotient of 0.422 and 0.004 in standard form",
+    "options": {
+      "A": "1.055 \u00d7 102",
+      "B": "10.55 \u00d7 101",
+      "C": "105 \u00d7 100",
+      "D": "10.55 \u00d7 10-1",
+      "E": "1.055 \u00d7 10-2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42327?exam_type=neco&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "= \\(\\frac{0.422}{0.004}\\)\n= \\(\\frac{4.22 \\times 10^{-1}}{4 \\times 10^{-3}}\\)\n= \\(1.055 \\times 10^{-1 - (-3)}\\)\n= \\(1.055 \\times 10^2\\)",
+    "year": "2004"
+  },
+  {
+    "number": "98",
+    "text": "The 4th term of a G.P is 3 and its first term is 81. What is its common ratio?",
+    "options": {
+      "A": "3",
+      "B": "\\(\\frac{2}{3}\\)",
+      "C": "\\(\\frac{1}{3}\\)",
+      "D": "-\\(\\frac{1}{3}\\)",
+      "E": "-3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42328?exam_type=neco&type=obj&page=20",
+    "correct_answer": "C",
+    "explanation": "T\\(_4\\) = 3 = ar\\(^3\\)\na = 81\n3 = 81\u00a0r\\(^3\\)\ndivide through by 81\nr\\(^3\\) = \\(\\frac{1}{27}\\)\ntake cube root of both sides\nr = \\(\\sqrt[3]{\\frac{1}{27}}\\) = \\(\\frac{1}{3}\\)",
+    "year": "2004"
+  },
+  {
+    "number": "99",
+    "text": "If the mean of the following set of data, 2, 3,3,3, 2,4, 4, and 3 is divided by its mode, the result is:",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "5",
+      "E": "8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42329?exam_type=neco&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "The mean of 2, 3, 3, 3, 4,4,\u00a0and 3\u00a0= \\(\\frac{ 2 + 3 + 3 + 3 + 2+ 4 + 4\u00a0+3}{ 8} = \\frac{24}{8}\\) = 3\nThe mode of 2, 3, 3, 3, 4, 4,\u00a0and 3 = 3\nHence, the mean of 2,3,3,3,4,4,\u00a0and 3 divided by its mode = \\(\\frac{3}{3}\\) = 1",
+    "year": "2004"
+  },
+  {
+    "number": "100",
+    "text": "The diagonals of a rhombus are 16cm and 30cm long. What is the perimeter of the rhombus",
+    "options": {
+      "A": "68cm",
+      "B": "72cm",
+      "C": "80cm",
+      "D": "88cm",
+      "E": "92cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42330?exam_type=neco&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "101",
+    "text": "A bag Contains 2 red, 3 blue and 4 green identical balls. If two balls are picked at random one after the other without replacement, what is the probability that both are green?",
+    "options": {
+      "A": "\\(\\frac{1}{6}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{16}{18}\\)",
+      "D": "\\(\\frac{3}{8}\\)",
+      "E": "\\(\\frac{4}{9}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42331?exam_type=neco&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "102",
+    "text": "A man is 40m from the foot of a cliff of height 23m. Calculate the angle of elevation of the top of the cliff from the man",
+    "options": {
+      "A": "50\u00b0 54\u2032",
+      "B": "35\u00b0 06\u2032",
+      "C": "30\u00b0 00\u2032",
+      "D": "290 90\u2032",
+      "E": "29\u00b0 54\u2032"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42332?exam_type=neco&type=obj&page=21",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "103",
+    "text": "Express the product of 0.007 and 0.057 to two significant figures",
+    "options": {
+      "A": "0.0004",
+      "B": "0.00039",
+      "C": "0.004",
+      "D": "0.0039",
+      "E": "0.04"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42334?exam_type=neco&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2004"
+  },
+  {
+    "number": "104",
+    "text": "Find x if (x - 2)2  = 1\\(\\frac{7}{9}\\)",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\) or \\(\\frac{2}{7}\\)",
+      "B": "3\\(\\frac{1}{3}\\) or \\(\\frac{2}{3}\\)",
+      "C": "3\\(\\frac{7}{9}\\) or \\(\\frac{2}{7}\\)",
+      "D": "3\\(\\frac{1}{3}\\) or \\(\\frac{7}{9}\\)",
+      "E": "\\(\\frac{3}{7}\\) or \\(\\frac{2}{9}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42344?exam_type=neco&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2004"
+  }
+]

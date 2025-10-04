@@ -1,0 +1,770 @@
+[
+  {
+    "number": "93",
+    "text": "In an operating X-ray tube, a high p.d is applied between the cathode and the anode for the purpose of",
+    "options": {
+      "A": "accelerating the electrons to a very high energy",
+      "B": "concentrating electrons on the target",
+      "C": "heating the anode",
+      "D": "heating the cathode",
+      "E": "producing a stream of electrons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42857?exam_type=neco&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "94",
+    "text": "The ability of the eye to focus on objects at various distances is known as",
+    "options": {
+      "A": "accommodation",
+      "B": "astigmatism",
+      "C": "eye ring",
+      "D": "myopia",
+      "E": "presbyopia"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42858?exam_type=neco&type=obj&page=19",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "95",
+    "text": "Which colour is deviated least when white light passes through a triangular prism?",
+    "options": {
+      "A": "green",
+      "B": "indigo",
+      "C": "red",
+      "D": "violet",
+      "E": "yellow"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42859?exam_type=neco&type=obj&page=19",
+    "correct_answer": "C",
+    "explanation": "violet colorwill deviate the most.\nRed lightshows\u00a0the least amount of deviation",
+    "year": "2002"
+  },
+  {
+    "number": "96",
+    "text": "An electric heater takes 4A when operated on a 250V supply. What is the cost of the electricity consumed at 10k per kWh when the heater is used for 5 hours?",
+    "options": {
+      "A": "10k",
+      "B": "50k",
+      "C": "N1.00",
+      "D": "N5.00",
+      "E": "N10.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42860?exam_type=neco&type=obj&page=20",
+    "correct_answer": "B",
+    "explanation": "Electrical power = current x voltage = IV\nbut I = 4A and V = 250v\nP = 4 x 250 = 1000W\u00a0\u2192 1KW\nElectricity consumed = Power x time\n=\u00a0 1 x 5 = 5kwh\nbut 1kwh = 10k ( given )\ncost of electricity consumed for 5hrs = 5 x 10 = 50k.",
+    "year": "2002"
+  },
+  {
+    "number": "97",
+    "text": "An object 8cm in front of a plane mirror moves at a speed of 6cm s-1 away from the mirror. What will be the distance separating the object and the image after 2s?",
+    "options": {
+      "A": "8cm",
+      "B": "12cm",
+      "C": "20cm",
+      "D": "28cm",
+      "E": "40cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42861?exam_type=neco&type=obj&page=20",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "98",
+    "text": "Which is a fundamental unit?",
+    "options": {
+      "A": "ampere",
+      "B": "joule",
+      "C": "Newton",
+      "D": "ohm",
+      "E": "watt"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42862?exam_type=neco&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "99",
+    "text": "The energy stored in a capacitor of capacitance 5 \u03bcF is 40J. What is the voltage applied across its terminals?",
+    "options": {
+      "A": "4V",
+      "B": "8V",
+      "C": "16V",
+      "D": "200V",
+      "E": "4000V"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42863?exam_type=neco&type=obj&page=20",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "100",
+    "text": "Which device does NOT make use of the magnetic effects of an electric current?",
+    "options": {
+      "A": "hot-wire ammeter",
+      "B": "moving-coil ammeter",
+      "C": "moving-coil loudspeaker",
+      "D": "moving-iron ammeter",
+      "E": "telephone earpiece"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42864?exam_type=neco&type=obj&page=20",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "101",
+    "text": "In the normal use of a simple microscope, a person sees an",
+    "options": {
+      "A": "erect, real and magnified image",
+      "B": "erect, virtual and magnified image",
+      "C": "inverted, virtual and magnified image",
+      "D": "inverted, real and magnified image",
+      "E": "inverted and real image the same size as the object"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42865?exam_type=neco&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "102",
+    "text": "What is the escape velocity of a satellite launched from the earth\u2019s surface? (Take g as 10ms\\(^{-2}\\) and the radius of the earth as 6.4 \u00d7 10\\(^6\\)m)",
+    "options": {
+      "A": "7.80 \u00d7 10kms-1",
+      "B": "11.2 \u00d7 10kms-1",
+      "C": "3.56 \u00d7 107ms-1",
+      "D": "6.00 \u00d7 107ms-1",
+      "E": "1.20 \u00d7 108ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42866?exam_type=neco&type=obj&page=21",
+    "correct_answer": "B",
+    "explanation": "V\\(_e\\) = \\(\\sqrt{2gr}\\)\nV\\(_e\\) = \\(\\sqrt{2 \\times 10 \\times 6.4 \\times 10^6}\\) = 11.313km/s\nTheescape speedfrom Earth's surface is about 11.186 km/s",
+    "year": "2002"
+  },
+  {
+    "number": "103",
+    "text": "A body of mass 4 kg is accelerated from rest by a steady force of 9N. What is its speed when it has travelled a distance of 8m?",
+    "options": {
+      "A": "6 ms-1",
+      "B": "18 ms-1",
+      "C": "32 ms-1",
+      "D": "36 ms-1",
+      "E": "48 ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42867?exam_type=neco&type=obj&page=21",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "104",
+    "text": "A brass cube of side 10cm is heated through 30\u00b0C. If the linear expansivity of brass is 2.0 \u00d7 I0\\(^{-5}\\) K-1 , what is the increase in its volume?",
+    "options": {
+      "A": "0.06 cm3",
+      "B": "0.18cm3",
+      "C": "0.60cm3",
+      "D": "1.20cm3",
+      "E": "1.80cm3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42868?exam_type=neco&type=obj&page=21",
+    "correct_answer": "E",
+    "explanation": "cubic expansivity and\u03b3 = 3\u03b1.\u00a0\u2192 3 *\u00a02.0 \u00d7 I0\\(^{-5}\\)\ncubic expansivity = 6.0 \u00d7 I0\\(^{-5}\\) ,\u00a0\u00d8 = 30\u00b0C,\nVolume(v\\(_1\\)) = L\\(^3\\) = 10\\(^3\\)\u00a0\u2192 1000\nV\\(_2\\) = V\\(_1\\)(1 + \u03b3\u03b8)\n\u2192\u00a0V\\(_2\\) = 1000[1 +\u00a0 6.0 \u00d7 I0\\(^{-5}\\) * 30]\n= 1000[1 +\u00a00.0018]\n= 1000 *\u00a01.0018 \u2192\u00a01,001.8\nincrease in volume =\u00a01,001.8 - 1000\n\u2192 1.8cm\\(^3\\)",
+    "year": "2002"
+  },
+  {
+    "number": "105",
+    "text": "Which statement is NOT correct about Rutherford\u2019s model of the atom?",
+    "options": {
+      "A": "The diameter of the nucleus is of the order of 10-15m",
+      "B": "The mass of an atom is concentrated in the nucleus",
+      "C": "The model is applicable to atoms with one electron in the outer shell",
+      "D": "The nucleus of an atom is positively charged",
+      "E": "The nucleus is surrounded by an electron cloud."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42869?exam_type=neco&type=obj&page=21",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "106",
+    "text": "In which of the following are the substances arranged in descending order of their thermal conductivities?",
+    "options": {
+      "A": "aluminium, copper, iron",
+      "B": "aluminium, iron, copper",
+      "C": "copper, aluminium, iron",
+      "D": "copper, iron. aluminium",
+      "E": "iron, copper, aluminium"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42870?exam_type=neco&type=obj&page=22",
+    "correct_answer": "C",
+    "explanation": "metals\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 thermal conductivity( W/mk)\nIRON\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 65.7\nCOPPER\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0377\nALUMINIUM\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 218\nTHERMAL CONDUCTIVITIES OF Al, Fe, and Cu at 100degree Celsius",
+    "year": "2002"
+  },
+  {
+    "number": "107",
+    "text": "What part of the camera corresponds to the iris of the eye?",
+    "options": {
+      "A": "diaphragm",
+      "B": "film",
+      "C": "focusing ring",
+      "D": "lens",
+      "E": "shutter"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42871?exam_type=neco&type=obj&page=22",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "108",
+    "text": "A block of ice of mass 10kg at 0\u00b0C absorbs heat energy from its surroundings and changes to water at the same temperature. The heat absorbed is referred to as",
+    "options": {
+      "A": "heat capacity",
+      "B": "latent heat",
+      "C": "specific heat",
+      "D": "specific heat capacity",
+      "E": "specific latent heat."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42872?exam_type=neco&type=obj&page=22",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "109",
+    "text": "A body executing a simple harmonic motion has an angular velocity of 22 radians per second.\u00a0If it has a maximum displacement of 10cm, what is its linear velocity?",
+    "options": {
+      "A": "1100ms-1",
+      "B": "440 ms-1",
+      "C": "220 ms-1",
+      "D": "22 ms-1",
+      "E": "2.2ms-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42873?exam_type=neco&type=obj&page=22",
+    "correct_answer": "E",
+    "explanation": "Amplitude[r] =10cm =0.1m.\nAngular velocity[w] =22 radians per second\nLinear velocity=wrV=22\u00d70.1V=2.2m/s",
+    "year": "2002"
+  },
+  {
+    "number": "110",
+    "text": "In which simple machine is the effort applied between the load and the fulcrum?",
+    "options": {
+      "A": "claw hammer",
+      "B": "nut crackers",
+      "C": "pliers",
+      "D": "sugar tongs",
+      "E": "wheelbarrow"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42874?exam_type=neco&type=obj&page=22",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "111",
+    "text": "A body of weight 20N displaces 12N of the liquid in which it is immersed. What is the upthrust of the liquid on the body?",
+    "options": {
+      "A": "240N",
+      "B": "32N",
+      "C": "20N",
+      "D": "12N",
+      "E": "8N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42875?exam_type=neco&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "112",
+    "text": "If the temperature of a resistance wire is gradually increased, its resistance will",
+    "options": {
+      "A": "decrease gradually",
+      "B": "first increase and then decrease",
+      "C": "first increase and then remain the same",
+      "D": "increase gradually",
+      "E": "remain the same"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42876?exam_type=neco&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "In a metallic resistance wire (a conductor), as the temperature increases, the atoms vibrate more, causing more collisions with the free electrons. This increases the wire's resistance to the flow of current.",
+    "year": "2002"
+  },
+  {
+    "number": "113",
+    "text": "If the size of the hole of a pinhole camera is increased, the image formed becomes",
+    "options": {
+      "A": "brighter and blurred",
+      "B": "brighter and larger",
+      "C": "brighter and sharper",
+      "D": "blurred and duller",
+      "E": "blurred and larger"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42877?exam_type=neco&type=obj&page=23",
+    "correct_answer": "E",
+    "explanation": "If the size of the hole in a pinhole camera is increased, the image formed becomes blurred and larger. This happens because a larger hole allows more light to enter, creating a larger image. However, the increased size also causes a wider range of rays from different points to converge, resulting in a loss of sharpness and a blurred image. Thus, the image is both larger and blurrier.",
+    "year": "2002"
+  },
+  {
+    "number": "114",
+    "text": "A man stands in front f a high wall and produces a sound. If he receives the echo of the sound four seconds later, what is his distance from the wall? [The speed of sound in air is 330ms-1]",
+    "options": {
+      "A": "1320m",
+      "B": "660m",
+      "C": "400m",
+      "D": "330m",
+      "E": "165m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42878?exam_type=neco&type=obj&page=23",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "115",
+    "text": "A negatively charged rod is brought near the cap of an electroscope. The cap is earthed momentarily while the charge is near to it. The rod is then removed. Which statement is correct?",
+    "options": {
+      "A": "The cap will be positively charged and the leaf will be negatively charged",
+      "B": "The cap will be negatively charged and the leaf will be positively changed",
+      "C": "The cap and the leaf will be positively charged",
+      "D": "The cap and the leaf will be negatively charged",
+      "E": "none"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42879?exam_type=neco&type=obj&page=23",
+    "correct_answer": "D",
+    "explanation": "When a negatively charged rod is brought near an electroscope, it repels electrons, making the cap positively charged and the leaves negatively charged. If the cap is earthed while the rod is near, electrons flow in, neutralizing some positive charge and making the cap negatively charged. After removing the rod and disconnecting the earthing, the cap retains extra electrons and remains negatively charged, while the leaves may also be negatively charged depending on their electron loss. Thus, both the cap and the leaves are negatively charged.",
+    "year": "2002"
+  },
+  {
+    "number": "116",
+    "text": "If the refractive index of water is 1.33, what is the critical angle for a water-air boundary?",
+    "options": {
+      "A": "36.0 \u00b0",
+      "B": "40.2 \u00b0",
+      "C": "41.8 \u00b0",
+      "D": "48.8 \u00b0",
+      "E": "62.7 \u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42880?exam_type=neco&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "117",
+    "text": "What does NOT affect the rate of evaporation of a liquid",
+    "options": {
+      "A": "exposed surface area of the liquid",
+      "B": "humidity of the surroundings",
+      "C": "nature of the liquid",
+      "D": "temperature the liquid",
+      "E": "volume of the liquid."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42881?exam_type=neco&type=obj&page=24",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "118",
+    "text": "The use of electrical fuses in domestic wiring is",
+    "options": {
+      "A": "to prevent and electrical shock",
+      "B": "to supply electricity to all the electrical appliances",
+      "C": "to allow electricity to flow easily through the mains to all the circuits",
+      "D": "to cut off the mains supply it too high a current flows",
+      "E": "to fuse all the circuit into one"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42882?exam_type=neco&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "119",
+    "text": "Which radiation is emitted when a beam of fast moving cathode rays is stopped by a heavy element?",
+    "options": {
+      "A": "Alpha rays",
+      "B": "Gamma rays",
+      "C": "Positive rays",
+      "D": "Ultraviolet rays",
+      "E": "X-rays"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42883?exam_type=neco&type=obj&page=24",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "120",
+    "text": "An object is projected with a velocity of 50ms-1 from ground level at an angle \u03b8 to the vertical. If the total time of flight of the projectile is 5s, what is the value of \u03b8? (g = 10ms-2)",
+    "options": {
+      "A": "0\u00b0",
+      "B": "30\u00b0",
+      "C": "45\u00b0",
+      "D": "60\u00b0",
+      "E": "90\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42884?exam_type=neco&type=obj&page=24",
+    "correct_answer": "D",
+    "explanation": "Time of flight =\\(\u00a0\\frac{2Usin\\theta}{g}\\)\nT = 5, g = 10m/s2\n\\(5 = \\frac {2\\times\u00a050sin\\theta}{10}\\)\n\\(sin\\theta =\\frac {50}{100}\\)\n\\(\\theta = 30\\)\nvertical angle = 90 - 30 = 60\u00b0",
+    "year": "2002"
+  },
+  {
+    "number": "121",
+    "text": "What is stored by a dry Leclanh\u00e9 cell?",
+    "options": {
+      "A": "chemical energy",
+      "B": "heat energy",
+      "C": "mechanical energy",
+      "D": "nuclear energy",
+      "E": "solar energy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42885?exam_type=neco&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "122",
+    "text": "Lenz\u2019s law of electromagnetic induction states that",
+    "options": {
+      "A": "e.m.f. is induced in a circuit whenever there is a change in the magnetic flux linked with the circuit",
+      "B": "the induced e.m.f. in a circuit is proportional to the rate of change f the number of lines of force linking the circuit",
+      "C": "the induced current in a conductor is in such a direction as to oppose the change producing it",
+      "D": "a force is exerted in a current-carrying conductor in a magnetic field.",
+      "E": "the induced e.m.f. is proportional to the current producing the magnetic flux."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42886?exam_type=neco&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "123",
+    "text": "Which process will increase the rate of oscillation of a pendulum?",
+    "options": {
+      "A": "decreasing the amplitude of oscillation of the pendulum",
+      "B": "decreasing the length of the pendulum",
+      "C": "decreasing the mass of the pendulum",
+      "D": "increasing the length of the pendulum",
+      "E": "increasing the mass of the pendulum."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42887?exam_type=neco&type=obj&page=25",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "124",
+    "text": "When a current of 1 .0A flows in an electrolyte for 3.0h, a mass of 1 .0g is deposited. What mass will be deposited in 10.0h if a current of 3.0A flows through the electrolyte?",
+    "options": {
+      "A": "30.0g",
+      "B": "24.0g",
+      "C": "10.0g",
+      "D": "6.0g",
+      "E": "0.4g"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42888?exam_type=neco&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "Q = chargei = currentt = time in secMass(M1)3hours to sec60*60*3= 10800Mass(M2)10hours to sec60*60*10 = 36,00036,000 * 3.0A = 108,000if it takes 10800 current to\u00a0discharge 1ghow much will it take 10800010800---->1108000---x= 108000/10800=10",
+    "year": "2002"
+  },
+  {
+    "number": "125",
+    "text": "An object weighing 0.60N is hung on a spiral spring and caused it to extend by 6.0cm. The object is removed and a black of wood replacing it causes the spring to extend by 10.0cm. What is the weight of the block of wood?",
+    "options": {
+      "A": "0.10N",
+      "B": "0.36N",
+      "C": "0.80N",
+      "D": "1.00N",
+      "E": "3.60N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42889?exam_type=neco&type=obj&page=25",
+    "correct_answer": "D",
+    "explanation": "From Hooke's law... F = ke\nFrom the first statement\n0.6 = k x 0.06\nk = \\(\\frac{0.6}{0.06}\\) = 10N/m\nFrom second statement\nF = weight of the block = ke\nF = 10 x 0.1 = 1.0N\nNOTE: Extension (cm\u00a0\u2192 m)",
+    "year": "2002"
+  },
+  {
+    "number": "126",
+    "text": "A body is uniformly accelerated from rest. Which of the following quantities vary/varies linearly with the square of the time? \n\nI. Displacement\nII. Velocity\nIII. Momentum",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "II and Ill only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42890?exam_type=neco&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "127",
+    "text": "A short response time is obtained in a liquid-in-glass thermometer when the",
+    "options": {
+      "A": "bulb is large and thick-walled",
+      "B": "bulb is small and thick-walled",
+      "C": "stem is long and thin",
+      "D": "liquid is of high density and the bulb is large",
+      "E": "bulb is thin-walled and the liquid is a good conductor of heat."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42891?exam_type=neco&type=obj&page=26",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "128",
+    "text": "A body of mass M1 moving with a velocity U collides with a stationary body of mass M2 and both move with a common velocity V. If linear momentum is conserved, which expression correctly represents V?",
+    "options": {
+      "A": "M1 + M2 \u00f7 M1U",
+      "B": "M2U \u00f7 M1 \u2013 M2",
+      "C": "M1U \u00f7 M1 \u2013 M2",
+      "D": "M1U \u00f7 M1+ M2",
+      "E": "M2U \u00f7 M1 + M2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42892?exam_type=neco&type=obj&page=26",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "129",
+    "text": "According to the Kinetic Theory, what does NOT occur when the temperature of a constant volume of gas is increased?",
+    "options": {
+      "A": "a decrease in the mean speed kinetic energy of the molecules",
+      "B": "an increase in the mean speed of the molecules",
+      "C": "an increase in the momentum change at each collision.",
+      "D": "an increase in the number of collisions per second",
+      "E": "an increase in the pressure exerted by the gas."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42893?exam_type=neco&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "130",
+    "text": "The wavelength of a stationary wave is 36.0cm. What is the distance between a node and the next anti-node?",
+    "options": {
+      "A": "6.0cm",
+      "B": "9.0cm",
+      "C": "18.0cm",
+      "D": "360cm",
+      "E": "72.0cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42894?exam_type=neco&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "131",
+    "text": "An a.c. generator can be converted into a d.c. generator by replacing",
+    "options": {
+      "A": "the slip rings with split-ring commutators",
+      "B": "the slip rings with armatures",
+      "C": "the split-rings with slip rings",
+      "D": "the split-rings with brushes",
+      "E": "the brushes with slip-ring commutators."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42895?exam_type=neco&type=obj&page=27",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "132",
+    "text": "It is NOT possible to determine exactly and simultaneously the position and momentum of a particle. This statement is known as the",
+    "options": {
+      "A": "Crompton effect",
+      "B": "de Broglie\u2019s laws",
+      "C": "Frank-Hertz experimental law",
+      "D": "Heisenberg\u2019s uncertainly principle",
+      "E": "wave-particle paradox"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42896?exam_type=neco&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "133",
+    "text": "An air bubble of volume 4cm3 is formed 20m under water. What will be its volume when it rises to just below the surface of the water if the atmospheric pressure is equivalent to a height of 10cm of water?",
+    "options": {
+      "A": "2cm3",
+      "B": "4cm3",
+      "C": "6cm3",
+      "D": "8cm3",
+      "E": "12cm3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42897?exam_type=neco&type=obj&page=27",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "134",
+    "text": "A platinum-resistance thermometer has a resistance of 10 \u03c9 at 0\u00b0C and 18 \u03c9 at 100\u00b0C. Assuming that resistance changes uniformly with temperature, what is the resistance of the thermometer when the temperature is 45\u00b0C?",
+    "options": {
+      "A": "27.8",
+      "B": "17.8",
+      "C": "13.6",
+      "D": "6.4",
+      "E": "3.6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42898?exam_type=neco&type=obj&page=27",
+    "correct_answer": "C",
+    "explanation": "18\u03c9\u00a0\u21d4 100\u00baC\nx\u00a0 \u00a0 \u00a0 \u21d4 45\u00baC\n10\u03c9\u00a0\u21d4 0\u00baC\n\\(\\frac{ x - 10}{18 - 10} = \\frac{ 45 - 0}{ 100 - 0}\\)\n100x - 1000 = 45 x 8\n100x = 360 + 1000 = 1360\nx = \\(\\frac{1360}{100}\\) = 13.6.",
+    "year": "2002"
+  },
+  {
+    "number": "135",
+    "text": "The silvered walls of a vacuum flask minimise loss of heat due to",
+    "options": {
+      "A": "conduction and convection",
+      "B": "conduction only",
+      "C": "convection and radiation",
+      "D": "convection only",
+      "E": "radiation only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42899?exam_type=neco&type=obj&page=27",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "136",
+    "text": "The phenomenon of photoelectric effect is NOT used in",
+    "options": {
+      "A": "automatic doors",
+      "B": "bimetallic strip thermometers",
+      "C": "light meters in cameras",
+      "D": "setting off burglar alarms",
+      "E": "sound production from film tracks."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42900?exam_type=neco&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "137",
+    "text": "Which of the following is a percussion instrument?",
+    "options": {
+      "A": "bell",
+      "B": "flute",
+      "C": "guitar",
+      "D": "piano",
+      "E": "organ"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42901?exam_type=neco&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "138",
+    "text": "A transformer supplies 12V when connected to a 240V mains. If the transformer takes 0.120A from the mains when used to light a 12V, 24W lamp, what is its efficiency?",
+    "options": {
+      "A": "57.20%",
+      "B": "66.60%",
+      "C": "83.30%",
+      "D": "92.50%",
+      "E": "100%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42902?exam_type=neco&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "139",
+    "text": "Which of the following is/are TRUE of nuclear fission? \n\nI. A heavy nucleus is split into two nuclei of comparable masses. \nII. Two light nuclei are joined together to form a heavier nucleus. \nIII. The total mass of the products is less than that of the reactants.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and III only",
+      "E": "II and III only"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42903?exam_type=neco&type=obj&page=28",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2002"
+  },
+  {
+    "number": "140",
+    "text": "A converging lens of focal length 5cm forms a virtual image which is 20cm from the lens. How far from the lens is the object?",
+    "options": {
+      "A": "2.0cm",
+      "B": "4.0 cm",
+      "C": "6.7cm",
+      "D": "20.0cm",
+      "E": "25.0cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/42904?exam_type=neco&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2002"
+  }
+]
