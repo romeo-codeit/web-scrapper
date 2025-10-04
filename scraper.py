@@ -144,9 +144,10 @@ def sanitize_filename(filename):
 async def main():
     parser = argparse.ArgumentParser(description="Scrape past exam questions from myschool.ng")
     parser.add_argument("subject_name", type=str, nargs='?', default=None, help="The name of the subject to scrape (e.g., 'Mathematics').")
-    parser.add_argument("--exam_type", type=str, choices=['waec', 'jamb'], help="The type of exam (waec or jamb).")
+    parser.add_argument("--exam_type", type=str, choices=['waec', 'jamb', 'neco'], help="The type of exam (waec, neco, or jamb).")
     parser.add_argument("--start_year", type=int, default=2010, help="The starting year for scraping.")
     parser.add_argument("--end_year", type=int, default=2024, help="The ending year for scraping.")
+    parser.add_argument("--paper_types", type=str, nargs='+', default=['obj', 'theory', 'practical'], help="The paper types to scrape (e.g., obj theory practical).")
     parser.add_argument("--strict", action='store_true', help="If set, only save questions that have both options and a correct answer.")
     parser.add_argument("--retry-failed", action='store_true', help="If set, retry scraping from a list of failed URLs.")
 
@@ -157,11 +158,11 @@ async def main():
             parser.error("--retry-failed cannot be used with subject_name or --exam_type.")
         await retry_failed_urls(args.start_year, args.end_year, args.strict)
     elif args.subject_name and args.exam_type:
-        await scrape_subject(args.subject_name, args.exam_type, args.start_year, args.end_year, args.strict)
+        await scrape_subject(args.subject_name, args.exam_type, args.start_year, args.end_year, args.paper_types, args.strict)
     else:
         parser.error("subject_name and --exam_type are required unless --retry-failed is used.")
 
-async def scrape_subject(subject_name, exam_type, start_year, end_year, strict_mode=False):
+async def scrape_subject(subject_name, exam_type, start_year, end_year, paper_types, strict_mode=False):
     """
     Scrapes past questions for a specific subject and exam type within a given year range.
     """
@@ -170,8 +171,6 @@ async def scrape_subject(subject_name, exam_type, start_year, end_year, strict_m
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-
-    paper_types = ['obj', 'theory']
 
     async with aiohttp.ClientSession() as session:
         with requests.Session() as req_session:
