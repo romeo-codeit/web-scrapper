@@ -147,7 +147,7 @@ async def main():
     parser.add_argument("--exam_type", type=str, choices=['waec', 'jamb', 'neco'], help="The type of exam (waec, neco, or jamb).")
     parser.add_argument("--start_year", type=int, default=2010, help="The starting year for scraping.")
     parser.add_argument("--end_year", type=int, default=2024, help="The ending year for scraping.")
-    parser.add_argument("--paper_types", type=str, nargs='+', default=['obj', 'theory', 'practical'], help="The paper types to scrape (e.g., obj theory practical).")
+    parser.add_argument("--paper_types", type=str, nargs='+', default=['obj', 'theory'], help="The paper types to scrape (e.g., obj theory practical).")
     parser.add_argument("--strict", action='store_true', help="If set, only save questions that have both options and a correct answer.")
     parser.add_argument("--retry-failed", action='store_true', help="If set, retry scraping from a list of failed URLs.")
 
