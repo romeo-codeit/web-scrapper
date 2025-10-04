@@ -1,0 +1,626 @@
+[
+  {
+    "number": "141",
+    "text": "Twenty girls and y boys sat on an examination. The mean marks obtained by the girls and boys were 52 and 57 respectively. if the total score for both girls and boys was 2750, find y.",
+    "options": {
+      "A": "51",
+      "B": "48",
+      "C": "30",
+      "D": "25",
+      "E": "18"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42495?exam_type=neco&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "Let the total score for the girls and the boys be A and B respectively.\n\\(\\frac{A}{20} = 52 \\implies A = 52 \\times 20\\)\nA = 1040\n\\(\\frac{B}{y} = 57 \\implies B = 57y\\)\n1040 + 57y = 2750\n57y = 2750 - 1040\n57y = 1710\ny = \\(\\frac{1710}{57}\\)\ny = 30",
+    "year": "2008"
+  },
+  {
+    "number": "142",
+    "text": "A sector of angle 120\u00b0 is cut out from a circle of radius 13.5cm. what area of the circle is remaining ? (\u03c0 = \\(\\frac{22}{7}\\))",
+    "options": {
+      "A": "14.1cm2",
+      "B": "95.5cm2",
+      "C": "190.9cm2",
+      "D": "381.9cm2",
+      "E": "763.7cm2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42502?exam_type=neco&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "143",
+    "text": "Two ladders of length 5m and 7m lean against a pole and make angles 45\u00b0 and 60\u00b0 with the ground respectively. What is their distance apart on the pole correct to two decimal places?",
+    "options": {
+      "A": "9.60m",
+      "B": "6.06m",
+      "C": "2.54m",
+      "D": "2.53m",
+      "E": "2.00m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42505?exam_type=neco&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "144",
+    "text": "The chances of Usman and Dele passing a Mathematics test are 12 and 13 respectively. What is the probability that neither of them passes the test?",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{4}{15}\\)",
+      "D": "\\(\\frac{1}{5}\\)",
+      "E": "\\(\\frac{2}{15}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42511?exam_type=neco&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "145",
+    "text": "x varies directly as y and inversely as z. when x = 5, y = 2 and z = 1. What is the value of x when y = 5 and z = 2?",
+    "options": {
+      "A": "2.5",
+      "B": "5",
+      "C": "6.25",
+      "D": "6.52",
+      "E": "7.5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42514?exam_type=neco&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "x = \\(\\frac{ Ky}{z}\\)\nx = 5, y = 2 and z = 1\nx =\u00a0\\(\\frac{ Ky}{z}\\)\n5 =\u00a0\\(\\frac{ K2}{1}\\)\nK =\u00a0\u00a0\\(\\frac{5}{2}\\) = 2.5\nfind x when y = 5 and z = 2\nx =\u00a0\u00a0\u00a0\\(\\frac{2.5 \\times5}{2}\\)\nx =\u00a0\u00a0\\(\\frac{12.5}{2}\\) = 6.25.",
+    "year": "2008"
+  },
+  {
+    "number": "146",
+    "text": "Find the mean deviation of 20, 25, 21, 27, 28, 29, to the nearest whole number",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42516?exam_type=neco&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "147",
+    "text": "Calculate the area of a parallelogram whose diagonals are of length 8cm and 12cm and intersect at an angle of 135\u00b0",
+    "options": {
+      "A": "271.5cm2",
+      "B": "135.8cm2",
+      "C": "96.0cm2",
+      "D": "48.0cm2",
+      "E": "33.9cm2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42520?exam_type=neco&type=obj&page=30",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "148",
+    "text": "The ratio of the base area of a hollow cone to that of its curved surface is 1:4. If its base radius is 7cm, calculate the slant height of the cone",
+    "options": {
+      "A": "7cm",
+      "B": "22cm",
+      "C": "28cm",
+      "D": "49cm",
+      "E": "154cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42523?exam_type=neco&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "The base\u00a0of a cone is a circle, r = 7cm\nBase area of a cone = \\(\\pi\\)r\\(^2\\)\nCurve surface area of a cone = \\(\\pi\\)l\n\\(\\pi\\)r\\(^2\\) :\u00a0 \\(\\pi\\)l = 1 : 4\n\\(\\frac{\\pi r^2}{\\pi l}\\) = \\(\\frac{1}{4}\\)\n\\(\\frac{r}{l} = \\frac{1}{4}\\)\n\\(\\frac{7}{l} =\u00a0 \\frac{1}{4}\\)\ncross multiplying\nl = 4 x 7 = 28cm.",
+    "year": "2008"
+  },
+  {
+    "number": "149",
+    "text": "Increase 135 in the ratio 3:5",
+    "options": {
+      "A": "225",
+      "B": "216",
+      "C": "143",
+      "D": "140",
+      "E": "140"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42526?exam_type=neco&type=obj&page=30",
+    "correct_answer": "A",
+    "explanation": "To increase 135 in the ratio 3:5\nSimply divide 135 by 3 and then multiply the result by 5\n= \\(\\frac{135}{3}\\) = 45, 45 x 5 = 225",
+    "year": "2008"
+  },
+  {
+    "number": "150",
+    "text": "Given that x2 + y2 + k = 60 and x = \\(\\sqrt{10}\\) when y = 4, find the value of k.",
+    "options": {
+      "A": "56",
+      "B": "34",
+      "C": "32",
+      "D": "-34",
+      "E": "-56"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42529?exam_type=neco&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "x\\(^2\\) + y\\(^2\\) + k\u00a0= 60\n(\u221a10)\\(^2\\) + (4)\\(^2\\) + k = 60\nk + 10 + 16\u00a0= 60\nk =\u00a0 60 - 26\nk = 34",
+    "year": "2008"
+  },
+  {
+    "number": "151",
+    "text": "Find y if sin y = cos 48\u00b0",
+    "options": {
+      "A": "21\u00b0",
+      "B": "24\u00b0",
+      "C": "42\u00b0",
+      "D": "48\u00b0",
+      "E": "102\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42532?exam_type=neco&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "Cos 48\u00ba = 0.6691\nThen Sin y = 0.6691 (since sin y = cos 48\u00ba)\ny = Sin\\(^{-1}\\) 0.6691 = 42\u00ba",
+    "year": "2008"
+  },
+  {
+    "number": "152",
+    "text": "Simplify the expression:\u00a0 \\(Log_{4}16\\) +\u00a0 \\(Log_{3}27\\) + \\(Log_{8}4096\\)",
+    "options": {
+      "A": "-9",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{1}{9}\\)",
+      "D": "3",
+      "E": "9"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42536?exam_type=neco&type=obj&page=31",
+    "correct_answer": "E",
+    "explanation": "WHERE:\n\\(Log_{4}16\\) = 2\n\\(Log_{3}27\\) = 3\n\\(Log_{8}4096\\) = 4\n: 2 + 3 + 4 = 9",
+    "year": "2008"
+  },
+  {
+    "number": "153",
+    "text": "The radii of two similar cylindrical jugs are in the ratio 3:7. Calculate the ratio of their volumes",
+    "options": {
+      "A": "1 : 04",
+      "B": "3 : 07",
+      "C": "9 : 49",
+      "D": "0.086111111",
+      "E": "27 : 343"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42540?exam_type=neco&type=obj&page=31",
+    "correct_answer": "E",
+    "explanation": "radius ratio volume\nr = \\(r^3\\)\nso that\n3 : 7 = \\(3^3 : 7^3\\) = 27 : 343",
+    "year": "2008"
+  },
+  {
+    "number": "154",
+    "text": "A man travels at a rate of 25m/sec. If he travels for 10\u00bdhrs, how many kilometres has he covered?",
+    "options": {
+      "A": "262.5",
+      "B": "945",
+      "C": "970",
+      "D": "995",
+      "E": "1822.9"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42543?exam_type=neco&type=obj&page=31",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "155",
+    "text": "The ages of Abu, Segun, Kofi and Funmi are 17 years, (2x -13) years, 14 years and 16 years respectively. What is the value of x if their mean ages is 17.5 years?",
+    "options": {
+      "A": "18",
+      "B": "23",
+      "C": "25",
+      "D": "36",
+      "E": "70"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42546?exam_type=neco&type=obj&page=31",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "156",
+    "text": "2 bags of sugar at Nx per bag are mixed with 3 bags of sugar at Ny per bag. What is the cost in N of the mixture per bag?",
+    "options": {
+      "A": "\\(\\frac{(2x + 3y)}{5}\\)",
+      "B": "\\(\\frac{(x + y)}{2}\\)",
+      "C": "\\(\\frac{x}{2} +\\frac{y}{3}\\)",
+      "D": "\\(\\frac{(x + y)}{5}\\)",
+      "E": "\\(\\frac{(3x + 2y)}{5}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42575?exam_type=neco&type=obj&page=32",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "157",
+    "text": "The ages of 10 students in a class are; 15, 16, 15.5, 17, 14.9, 14.5, 14.1, 15.1, 14.8. find the range of their ages.",
+    "options": {
+      "A": "6.1",
+      "B": "4.8",
+      "C": "2.9",
+      "D": "2.1",
+      "E": "1.9"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42578?exam_type=neco&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "158",
+    "text": "If the 3rd and the 5th terms of an A.P are 6 and 10 respectively, find the 1st term and the common difference respectively.",
+    "options": {
+      "A": "1, 2",
+      "B": "2, 2",
+      "C": "2, 3",
+      "D": "3, 2",
+      "E": "3,3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42580?exam_type=neco&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "Given the 3rd and 5th terms of an A.P. are 6 and 10 respectively, we have:\nThe formula for the \\( n \\)-th term of an A.P. is given by:\\(T_n = a + (n-1)d\\)where \\( a \\) is the first term and \\( d \\) is the common difference.\nFor the 3rd term:\\(T_3 = a + 2d = 6 \\quad \\text{(Equation 1)}\\)\nFor the 5th term:\\(T_5 = a + 4d = 10 \\quad \\text{(Equation 2)}\\)From these equations, we have:\\(a + 2d = 6 \\tag{1}\\)\\(a + 4d = 10 \\tag{2}\\)Subtract Equation 1 from Equation 2:\\((a + 4d) - (a + 2d) = 10 - 6\\)This simplifies to:\\(2d = 4\\)Thus,\\(d = 2\\)Substituting \\( d = 2 \\) into Equation 1:\\(a + 2(2) = 6\\)This simplifies to:\\(a + 4 = 6\\)Thus,\\(a = 2\\)The first term \\( a \\) is \\( 2 \\) and the common difference \\( d \\) is \\( 2 \\).",
+    "year": "2008"
+  },
+  {
+    "number": "159",
+    "text": "A pair of shoes was sold for N2,250.00 at a loss of 10%. What was the cost price?",
+    "options": {
+      "A": "N750.00",
+      "B": "N2,500.00",
+      "C": "N2,538.00",
+      "D": "N3,288.00",
+      "E": "N4,038.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42583?exam_type=neco&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "160",
+    "text": "Find the coefficient of xy in the expansion of (x - 4y)(3x + 2y)",
+    "options": {
+      "A": "14",
+      "B": "12",
+      "C": "10",
+      "D": "-10",
+      "E": "-12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42587?exam_type=neco&type=obj&page=32",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "161",
+    "text": "Which of the following angular inequalities defines an obtuse angle?",
+    "options": {
+      "A": "0\u00b0 < x < 90\u00b0",
+      "B": "0\u00b0 \u2264 x > 180\u00b0",
+      "C": "90\u00b0 < x < 180\u00b0",
+      "D": "90\u00b0 \u2264 x < 180\u00b0",
+      "E": "90\u00b0 > x < 180\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42594?exam_type=neco&type=obj&page=33",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "162",
+    "text": "If y + \\(\\frac{1}{y}\\) = 9, evaluate y2 +  \\(\\frac{1}{y^2}\\)",
+    "options": {
+      "A": "27",
+      "B": "38",
+      "C": "54",
+      "D": "63",
+      "E": "79"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42625?exam_type=neco&type=obj&page=33",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "163",
+    "text": "If N25,000.00 is kept in a bank at the rate of 2% simple interest, how much will it amount to at the end of 5 years?",
+    "options": {
+      "A": "N2,500.00",
+      "B": "N5,000.00",
+      "C": "N12,500.00",
+      "D": "N27,500.00",
+      "E": "N125,000.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42629?exam_type=neco&type=obj&page=33",
+    "correct_answer": "D",
+    "explanation": "Simple Interest = Principal x Rate x Time\nWhere: Principal = N25,000, Rate = 2% or 0.02 and Time = 5 years\nPlugging in the values:\nSimple Interest = N25,000 x 0.02 x 5 Simple Interest = N25,000 x 0.1 Simple Interest = N2,500\nTo find the total amount at the end of 5 years, we add the simple interest to the principal:\nTotal Amount = Principal + Simple Interest Total Amount = N25,000 + N2,500 Total Amount = N27,500\nTherefore, at the end of 5 years, the total amount would be N27,500.",
+    "year": "2008"
+  },
+  {
+    "number": "164",
+    "text": "Construct a quadratic equation whose roots are -\\(\\frac{3}{2}\\) and 7",
+    "options": {
+      "A": "3x2 + 11x + 21 = 0",
+      "B": "2x2 + 11x + 21 = 0",
+      "C": "2x2 - 11x \u2013 21 = 0",
+      "D": "3x2 - 11x - 21 = 0",
+      "E": "x2 - 11x \u2013 21 = 0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42634?exam_type=neco&type=obj&page=33",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "165",
+    "text": "A chord XY of a circle with centre O and radius 5.32cm has \u2220XOY = 140\u00b0. What is the length of the chord to the nearest centimetre?",
+    "options": {
+      "A": "10cm",
+      "B": "6cm",
+      "C": "5cm",
+      "D": "3cm",
+      "E": "1cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42639?exam_type=neco&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "166",
+    "text": "Rationalize the expression \\(\\frac{(7 - \\sqrt{3})}{(13 - \\sqrt{3})}\\)",
+    "options": {
+      "A": "(44 + 3\\(\\sqrt{3}\\)) \u00f7 83",
+      "B": "(44 + 2\\(\\sqrt{3}\\)) \u00f7 83",
+      "C": "(44 - 3\\(\\sqrt{3}\\)) \u00f7 83",
+      "D": "(44 - 4\\(\\sqrt{3}\\)) \u00f7 83",
+      "E": "(44 - 2\\(\\sqrt{3}\\)) \u00f7 83"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42649?exam_type=neco&type=obj&page=34",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "167",
+    "text": "In proving the congruence of two triangles, which of the following is not important?",
+    "options": {
+      "A": "two sides and the included angles",
+      "B": "two angles and a side",
+      "C": "three sides",
+      "D": "three angles",
+      "E": "right angle, hypotenuse and another side"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42651?exam_type=neco&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "168",
+    "text": "Bello chooses a number randomly from 1 to 10. What is the probability that it is either odd or prime?",
+    "options": {
+      "A": "\\(\\frac{1}{10}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{3}{5}\\)",
+      "E": "\\(\\frac{9}{10}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42655?exam_type=neco&type=obj&page=34",
+    "correct_answer": "D",
+    "explanation": "the numbers from 1,2,3,4,5,6,7,8,9,10.\u00a0 n( total numbers) = 10\nthe odd numbers are\u00a01, 3, 5, 7, 9\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 n( odd) = 5\nthe prime numbers are\u00a0\u00a02, 3, 5, 7\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0n( prime) = 4\nbut total favourable outcome = ( 1,2,3,5,7,9) = 6\nPro( odd or prime no) =\u00a0 \\(\\frac{6}{10}\\) =\u00a0 \\(\\frac{3}{5}\\)",
+    "year": "2008"
+  },
+  {
+    "number": "169",
+    "text": "If tan \u03b1 = \\(\\frac{1}{2}\\) and tan \u03b2 = \\(\\frac{1}{3}\\) and both \u03b1 and \u03b2 are acute, find tan (\u03b1 + \u03b2).",
+    "options": {
+      "A": "0.015",
+      "B": "1",
+      "C": "10",
+      "D": "39.81",
+      "E": "45"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42657?exam_type=neco&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "170",
+    "text": "Multiply (3\\(\\sqrt{a}\\) - 4a) by (4a + 3\\(\\sqrt{a}\\))",
+    "options": {
+      "A": "9a + 16a2",
+      "B": "9a \u2013 16a2",
+      "C": "3a + 16a2",
+      "D": "3a - 16a2",
+      "E": "a - 16a2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42658?exam_type=neco&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "171",
+    "text": "The median of a distribution can be estimated from",
+    "options": {
+      "A": "Barchart",
+      "B": "Cumulative frequency curve",
+      "C": "Frequency polygon",
+      "D": "Pictorial",
+      "E": "Pie chart"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42660?exam_type=neco&type=obj&page=35",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "172",
+    "text": "If A = \\(\\frac{1}{2}\\)h (a + b), make \u2018a\u2019 the subject of the formula",
+    "options": {
+      "A": "(2A \u2013 2bh) \u00f7 b",
+      "B": "(2A \u2013 bh) \u00f7 h",
+      "C": "(2A \u2013 bh) \u00f7 b",
+      "D": "(A \u2013 2bh) \u00f7 h",
+      "E": "(2A \u2013 h) \u00f7 bh"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42661?exam_type=neco&type=obj&page=35",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "173",
+    "text": "The graph of cumulative frequency distribution is known as",
+    "options": {
+      "A": "an ogive",
+      "B": "a histogram",
+      "C": "a frequency polygon",
+      "D": "relative frequency",
+      "E": "none"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42663?exam_type=neco&type=obj&page=35",
+    "correct_answer": "A",
+    "explanation": "An ogive is a graph that shows a cumulative frequency distribution, plotting cumulative frequencies against upper class boundaries to form an \"S\"-shaped curve.",
+    "year": "2008"
+  },
+  {
+    "number": "174",
+    "text": "T varies inversely as the square root of F when T = 7, F = 2\\(\\frac{1}{4}\\). Find T when F = \\(\\frac{27}{9}\\)",
+    "options": {
+      "A": "1.5",
+      "B": "6.1",
+      "C": "6.3",
+      "D": "12.6",
+      "E": "21"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42664?exam_type=neco&type=obj&page=35",
+    "correct_answer": "B",
+    "explanation": "T\u00a0\u221d \\(\\frac{1}{\\sqrt{F}}\\)\nT =\u00a0 \\(\\frac{K}{\\sqrt{F}}\\)\nK = T x \\(\\sqrt{F}\\)\nK = 7 x \\(\\frac{3}{2}\\) = 10.5\nT =\u00a0 \\(\\frac{10.5}{\\sqrt{F}}\\)\nT =\u00a0T =\u00a0 \\(\\frac{10.5}{\\sqrt{3}}\\)\u00a0\u2248 6.1",
+    "year": "2008"
+  },
+  {
+    "number": "175",
+    "text": "Evaluate (25 \u00d7 4-2) \u00f7 (2-3 \u00d7 26)",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "3",
+      "D": "\\(\\frac{8}{9}\\)",
+      "E": "\\(\\frac{1}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42665?exam_type=neco&type=obj&page=35",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "176",
+    "text": "If 5x - 3 = 4x - 7, what is the value 6x?",
+    "options": {
+      "A": "24",
+      "B": "6",
+      "C": "4",
+      "D": "-4",
+      "E": "-24"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42666?exam_type=neco&type=obj&page=36",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "177",
+    "text": "which of the following properties is/are common to parallelograms and rectangles?\nI. all angles are right angles\nII. the diagonals are equals. \nIII. the opposite sides are equal and parallel.",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I",
+      "E": "III"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42667?exam_type=neco&type=obj&page=36",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "178",
+    "text": "P = {x:(x - 2)(x + 3) (x - 4)(x + 5) = 0}. The elements in P are",
+    "options": {
+      "A": "-5,-2, 3, 4",
+      "B": "-5, -3, 2, 4",
+      "C": "-5, -3, -2,4",
+      "D": "-4, -3, -2, 5",
+      "E": "2, 3, 4, 5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42668?exam_type=neco&type=obj&page=36",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2008"
+  },
+  {
+    "number": "179",
+    "text": "Find the value of log\\(_{\\sqrt{3}}\\) 81",
+    "options": {
+      "A": "81",
+      "B": "16",
+      "C": "8",
+      "D": "3",
+      "E": "\\(\\sqrt{3}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42669?exam_type=neco&type=obj&page=36",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2008"
+  }
+]

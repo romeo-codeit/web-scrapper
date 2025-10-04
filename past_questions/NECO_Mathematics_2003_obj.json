@@ -1,0 +1,34 @@
+[
+  {
+    "number": "56",
+    "text": "The ratio of the circumference to the diameter of a circle is approximately equal to",
+    "options": {
+      "A": "2.5",
+      "B": "3.14",
+      "C": "4.83",
+      "D": "6.52",
+      "E": "7"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42190?exam_type=neco&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "To calculate thecircumference of a circle, use theformulaC = \u03c0d, where \"C\" is the circumference, \"d\" is the diameter, and \u03c0 is 3.14\nOr\nThe ratio of the circumference to the diameter of a circle is the mathematical constant \u03c0 (pi), which is approximately 3.14.",
+    "year": "2003"
+  },
+  {
+    "number": "73",
+    "text": "Two similar cylindrical cans have heights of 7cm and 21cm, if the smaller holds 250g of sugar, how many kg of sugar will the larger one hold?",
+    "options": {
+      "A": "0.75",
+      "B": "1.5",
+      "C": "2.25",
+      "D": "3.5",
+      "E": "6.75"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/42251?exam_type=neco&type=obj&page=15",
+    "correct_answer": "E",
+    "explanation": "- If two solids are similar,\u00a0the ratio of their volumes is equal to the cube of the ratio of their corresponding sides.\nGiven: Heights of cylinder\u00a0\u00a0-->\u00a0 \u00a0 \u00a021 : 7 or\u00a0\u00a03 : 1 = \\(\\frac{3}{1}\\)\n= 3 times height enlargement\nVolume / Capacity of larger cylinder\u00a0= 3\\(^3\\)\u00a0\\(\\times\\) 250g\n= 27\u00a0\\(\\times\\) 250g = 6,750 or 6.75kg",
+    "year": "2003"
+  }
+]

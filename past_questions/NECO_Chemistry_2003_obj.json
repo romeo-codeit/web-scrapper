@@ -1,0 +1,609 @@
+[
+  {
+    "number": "42",
+    "text": "Which statement is NOT true about the composition of starch?",
+    "options": {
+      "A": "It contains only the atoms of carbon, hydrogen oxygen",
+      "B": "It is a polysaccharide",
+      "C": "Its empirical formula is C2H20.",
+      "D": "It is made from the monomerC6H12O6.",
+      "E": "The hydrogen and oxygen atoms are in the ratio 2:1."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43402?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "43",
+    "text": "Chlorine is used in water purification because it",
+    "options": {
+      "A": "bleaches impurities in the water",
+      "B": "decolorizes water",
+      "C": "destroys bacteria",
+      "D": "is extremely soluble in water",
+      "E": "is pleasant tasting"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43403?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "44",
+    "text": "The number of hydrogen ions in 1.0dm\\(^3\\)\u00a0of a 0.25 mole tetraoxosulphate(Vl) acid solution is\n[Avogadro constant = 6.02 x 10\\(^{23}\\)]",
+    "options": {
+      "A": "1.45x1023",
+      "B": "1.50 x l023",
+      "C": "3.00x1023",
+      "D": "3.15x1023",
+      "E": "6.00x1023"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43415?exam_type=neco&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "Given :\nNumber of moles = 0.25 mole, Avogadro number = 6.02 x 10\\(^{23}\\)\u00a0 Number of ions = ?\nRecall that\u00a0\u00a0Number of moles = \\(\\frac{Number of ions}{Avogadro number}\\)\n0.25 =\u00a0\\(\\frac{Number of ions}{6.02 x 10\\(^{23}\\)}\\)\nNumber of ions = 0.25 x\u00a0\u00a06.02 x 10\\(^{23}\\)\n=1.50 x\u00a010\\(^{23}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "45",
+    "text": "B is an isotope of the element \\(^{238} _{92}Ur\\). The isotope B has",
+    "options": {
+      "A": "46 protons and 119 neutrons",
+      "B": "92 protons and 92 neutrons",
+      "C": "92 protons and 146 neutrons",
+      "D": "92 protons and 238 neutrons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43417?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "The element \\(^{238} _{92}Ur\\)\u00a0\u21d2\u00a0Mass number = 238\nAtomic number = 92\nRecall that Mass number = Number of protons\u00a0 +\u00a0 Number of\u00a0 neutrons\u00a0 while atomic number = number of protons\nSo,\u00a0Mass number =\u00a0 Number of protons + Number of neutrons\n238\u00a0 \u00a0 \u00a0=\u00a0 \u00a0 \u00a0 \u00a0 92\u00a0 \u00a0 \u00a0 \u00a0 \u00a0+\u00a0 \u00a0 Number of neutrons\nNumber of neutrons = 238 - 92 = 146 neutrons\nNumber of protons\u00a0 = 92\nTherefore, there are 92 protons and 146 neutrons - Option C",
+    "year": "2003"
+  },
+  {
+    "number": "46",
+    "text": "The boiling point of water is higher than the boiling point of ethanol because",
+    "options": {
+      "A": "the bonding in water is electrovalent (ionic) whereas the bonding in ethanol is convalent",
+      "B": "the hydrogen bonding between water molecules is stronger than the hydrogen bonding between ethanol molecules",
+      "C": "water has a higher lattice energy than ethanol.",
+      "D": "water has hydrogen bonding between its molecules but ethanol has no hydrogen bonging between its molecules;",
+      "E": "water is a better solvent than ethanol."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43420?exam_type=neco&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "47",
+    "text": "The reaction C2H6 \u2192 C2H + H2 is known as",
+    "options": {
+      "A": "dehydration",
+      "B": "dehydrogenation",
+      "C": "displacement",
+      "D": "hydrogenation",
+      "E": "reduction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43423?exam_type=neco&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "48",
+    "text": "Which is NOT a synthetic polymer?",
+    "options": {
+      "A": "nylon",
+      "B": "Orion",
+      "C": "Perspex",
+      "D": "polystyrene",
+      "E": "wool"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43425?exam_type=neco&type=obj&page=10",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "49",
+    "text": "A calcium atom and a calcium ion have the same",
+    "options": {
+      "A": "chemical properties",
+      "B": "electric charge",
+      "C": "electronic structure",
+      "D": "number of electrons",
+      "E": "number of neutrons"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43429?exam_type=neco&type=obj&page=10",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "50",
+    "text": "Which compound will give propane when it Is dehy drated by an excess of hot, concentrated tetraoxosvlphate(VI) acid?",
+    "options": {
+      "A": "CH3CH2CHO",
+      "B": "CH3CH2CH2OH",
+      "C": "CH3CH2COQH",
+      "D": "CH3CH20CH",
+      "E": "CH3CH3OH"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43432?exam_type=neco&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "51",
+    "text": "Which formula is used to indicate the degree of acidity of an acid?",
+    "options": {
+      "A": "\\( [H^+] = ^{\\text{mass of acid relative}}  molecular mass of acid \\)",
+      "B": "F = number of H+ = ions x molar mass of the acid",
+      "C": "Kw = [H+][OH-]",
+      "D": "pH = - log10[H+]",
+      "E": "pKa = -log10Ka"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43435?exam_type=neco&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "52",
+    "text": "What is the IUPAC name of CH3CCI=C(CH3)2?",
+    "options": {
+      "A": "2-chloro -3 methylbut -2yne",
+      "B": "2 -chloro -3 methylbut -2ene",
+      "C": "2 -chloro -3 methylbutene",
+      "D": "3- methyl -2-chlorobut -2-ene",
+      "E": "3- methyl -2. chlorobut -2 yne"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43436?exam_type=neco&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "53",
+    "text": "What change will occur to the equilibrium mixture\n\\( 2CrO^{2-}_4(aq) + 2H^+(aq) \u21d4 Cr_2O^{2-}_7(aq) + H_2O(l) \\) when excess sodium hydrogen solution is added?",
+    "options": {
+      "A": "A yellow precipitate of Cr(OH)3 is formed",
+      "B": "An orange precipitate of Cr(OH)3 is formed",
+      "C": "The colour changes from orange to yellow",
+      "D": "The colour changes from yellow to orange",
+      "E": "There is no visible reaction."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43438?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "54",
+    "text": "Which element is the most electronegative?",
+    "options": {
+      "A": "calcium",
+      "B": "fluorine",
+      "C": "iodine",
+      "D": "oxygen",
+      "E": "sodium"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43439?exam_type=neco&type=obj&page=11",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "55",
+    "text": "What mass of copper is deposited when 6.5g of granulated zinc reacts with excess copper(II) tetraoxosulphate(VI) solution?\n\nThe equation for the reaction is: Zn(s) + \\( CuSO_4(aq)\u2192 ZnSO_4(aq)+ Cu(s)\\)[CU= 64; Zn=65]",
+    "options": {
+      "A": "3.2 g",
+      "B": "3.25 g",
+      "C": "6.4 g",
+      "D": "6.5 g",
+      "E": "64.0 g"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43440?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "56",
+    "text": "An organic compound gave the following results on analysis: C = 29.3% ; H = 5.7%; Br = 65%.\nWhat is the empirical formula of the compound? [C = 12, H = 1, Br=80]",
+    "options": {
+      "A": "CH3Br",
+      "B": "C2H5Br",
+      "C": "C3H5Br",
+      "D": "C3H7Br",
+      "E": "C4H9Br"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43441?exam_type=neco&type=obj&page=12",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "57",
+    "text": "Why does the treatment of cotton fabrics with dilute acids weaken the materials?",
+    "options": {
+      "A": "Cotton is hydrolysed completely to glucose",
+      "B": "The fabrics are soluble in dilute acids",
+      "C": "The molecular chains are partially broken",
+      "D": "The molecular chain length f the fabric increases",
+      "E": "The thread holding the fabric together Is completely destroyed."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43442?exam_type=neco&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "58",
+    "text": "Naturally occurring lithium consists of 90% \\( ^7_3Li \\text{ and 10% } ^6_3 Li. \\) What is the relative atomic mass of lithium?",
+    "options": {
+      "A": "6",
+      "B": "6.8",
+      "C": "6.9",
+      "D": "7",
+      "E": "7.1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43444?exam_type=neco&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "the relative atomic mass of lithium = percentage abundance times the mass number of the first isotope + percentage abundance times the mass number of the second isotope.\nthe relative atomic mass of lithium = ( \\(\\frac{90}{100} \\times7 + \\frac{10}{100} \\times 6\\)) =(( 0.9 x 7) + (0.1 x 6)) = 6.3 + 0.6 = 6.9.",
+    "year": "2003"
+  },
+  {
+    "number": "59",
+    "text": "What mass of silver is deposited when a current of 2.6 A is passed through a solution of a silver salt for 40 minutes? [Ag= 108 ; F=96500C]",
+    "options": {
+      "A": "6.89g",
+      "B": "6.93g",
+      "C": "6.98g",
+      "D": "7.04g",
+      "E": "7.12g"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43448?exam_type=neco&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "60",
+    "text": "An atom of element X has an electronic configuration of \\( 1s^22S^22p^63s^23p^3. \\) In which group of the periodic table is X?",
+    "options": {
+      "A": "\\( \\text{0} \\)",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43450?exam_type=neco&type=obj&page=12",
+    "correct_answer": "E",
+    "explanation": "You can determine the group of an element by the number of electrons of their outermost shell.\nHence; this element silicon\u00a0belongs to group 5 OR\u00a0The Group\u00a0to which an element belongs to, can be identified\u00a0by adding the number of electrons of\u00a0the orbital with the highest principal quantum number, in\u00a0this case, 3s2 and 3p3. Therefore, 2+3\u00a0is equal to 5\nnote; if the highest principal quantum number is just 3s2 for example then the element belong to group 2.",
+    "year": "2003"
+  },
+  {
+    "number": "61",
+    "text": "Which metal is a constituent of both bronze and solder?",
+    "options": {
+      "A": "copper",
+      "B": "lead",
+      "C": "silver",
+      "D": "tin",
+      "E": "zinc"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43452?exam_type=neco&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "62",
+    "text": "What change will occur during the electrolysis of brine using carbon electrodes?",
+    "options": {
+      "A": "Chlorine will be given off at the anode",
+      "B": "Oxygen gas will be given off at the anode",
+      "C": "Sodium will be deposited at the cathode",
+      "D": "The resulting solution, after electrolysis, will be acidic.",
+      "E": "The volumes of hydrogen and chlorine given off during the same time are equal"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43453?exam_type=neco&type=obj&page=13",
+    "correct_answer": "A",
+    "explanation": "Chlorine is discharged as follows:\n\\(Cl^- \\to Cl + e^-\\)\n\\(Cl + Cl \\to Cl_{2(g)}\\)\nThis reaction occurs at the anode.",
+    "year": "2003"
+  },
+  {
+    "number": "63",
+    "text": "Which metal bromide is widely used in photography?",
+    "options": {
+      "A": "calcium bromide",
+      "B": "magnesium bromide",
+      "C": "potassium bromide",
+      "D": "silver bromide",
+      "E": "sodium bromide"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43454?exam_type=neco&type=obj&page=13",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "64",
+    "text": "How many Faradays of electricity are required to liberate 9g of aluminium? [Al = 27]",
+    "options": {
+      "A": "0.1",
+      "B": "0.3",
+      "C": "1",
+      "D": "2.7",
+      "E": "3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43455?exam_type=neco&type=obj&page=13",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "65",
+    "text": "At s.t.p, a mole of chlorine occupies 22.4dm3. If the temperature is changed to 35\u00b0C and the pressure to 750mHg the of the new volume will be [Cl = 35.5]",
+    "options": {
+      "A": "\\(\\frac{760\\times 22.4\\times 308}{750\\times 273\\times 35.5} dm^3 \\)",
+      "B": "\\(\\frac{760\\times 22.4\\times 308}{750\\times 273}dm^3 \\)",
+      "C": "\\(\\frac{750\\times 22.4\\times 35.5}{760\\times 273}dm^3\\)",
+      "D": "\\(\\frac{760\\times 22.4\\times 35.5}{750\\times 22.3\\times 273}dm^3 \\)",
+      "E": "\\(\\frac{760\\times 22.4\\times 35.5}{750\\times 308}dm^3 \\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43468?exam_type=neco&type=obj&page=13",
+    "correct_answer": "B",
+    "explanation": "Using the general gas law, \\(\\frac{P_1 \\times V_1}{T_1}\\) = \\(\\frac{P_2 \\times V_2}{T_2}\\)\nAt STP, P1 = 760mmHg, V1 = 22.4dm3, T1 = 273K, P2 = 750mmHg, V2 = ? and T2 = 350C = 35 + 273 = 308K\nmaking \\(V_2\\) subject of formula, then\u00a0\\(V_2\\) = \\(\\frac{P_1\\times V_1\\times T_2}{P_2\\times T_1}\\)\n\\(V_2\\) =\u00a0 \\(\\frac{760\\times 22.4\\times 308}{750\\times 273}\\)",
+    "year": "2003"
+  },
+  {
+    "number": "66",
+    "text": "What is the concentration (mol dm\\(^{-3}\\)) of a solution containing 28 g of potassium hydroxide per 100 cm\\(^3\\) of solution? (K=39; H=1; O=16)",
+    "options": {
+      "A": "0.01",
+      "B": "0.05",
+      "C": "1.0",
+      "D": "5.0",
+      "E": "2.8"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43472?exam_type=neco&type=obj&page=14",
+    "correct_answer": "D",
+    "explanation": "You can apply any of the two methods below:\nMETHOD\u00a01: The use of the solubility formula, which is;\nSolubility = \\(\\frac{mass}{Molar mass}\\) X \\(\\frac{1000}{Volume of Solvent}\\)\nBut Molar mass of KOH = 39 + 16 + 1 = 56g/mol\nAlso given;\u00a0mass of KOH = 28g\nVolume of Solvent used = 100cm\\(^3\\)\nSolubility = \\(\\frac{28}{56}\\) X \\(\\frac{1000}{100}\\)\n= 5 moldm\\(^{-3}\\)\nMETHOD 2: Using the simple proportion method\nIf\u00a0 \u00a0 \u00a0 \u00a0 28g of KOH was dissolved in 100cm\\(^3\\) of water\nthen,\u00a0 Xg of KOH will be dissolved in 1000cm\\(^3\\) of water\nX = \\(\\frac{{28}\\times{1000}}{100}\\)\nX = 280 gdm\\(^{-3}\\)\nRecall that Molar Concentration (mol dm\\(^{-3}\\)) = \\(\\frac{Mass Concentration}{Molar mass}\\)\n=\u00a0\\(\\frac{280}{56}\\)\n=\u00a05 moldm\\(^{-3}\\)\nKindly choose any of the methods you find easier and comprehending.",
+    "year": "2003"
+  },
+  {
+    "number": "67",
+    "text": "Which method is used for the purification of copper from its ore?",
+    "options": {
+      "A": "distillation",
+      "B": "electrochemical",
+      "C": "electrolysis",
+      "D": "neutralization",
+      "E": "reduction"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43473?exam_type=neco&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "68",
+    "text": "Ethene decolourises acidified potassium tetraoxomanganate(VII) solution. Which gas will decolourise bromine water?",
+    "options": {
+      "A": "CH4",
+      "B": "C2H6",
+      "C": "C3H6",
+      "D": "C3H8",
+      "E": "C6H6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43475?exam_type=neco&type=obj&page=14",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "69",
+    "text": "What is formed when starch is completely hydrolysed?",
+    "options": {
+      "A": "fructose",
+      "B": "glucose",
+      "C": "lactose",
+      "D": "maltose",
+      "E": "sucrose"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43479?exam_type=neco&type=obj&page=14",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "70",
+    "text": "Which hydrocarbon does NOT exhibit structural isomerism?",
+    "options": {
+      "A": "C3H6",
+      "B": "C4H6",
+      "C": "C4H8",
+      "D": "C4H10",
+      "E": "C5H12"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43481?exam_type=neco&type=obj&page=14",
+    "correct_answer": "A",
+    "explanation": "Alkenes that show structural isomerism are those with 4 carbons and above.",
+    "year": "2003"
+  },
+  {
+    "number": "71",
+    "text": "Why is tetraoxosulphate(VI) acid NOT used for making carbon dioxide from calcium carbonate? It is",
+    "options": {
+      "A": "a dehydrating agent",
+      "B": "a strong acid",
+      "C": "an oxidising agent",
+      "D": "dibasic",
+      "E": "forms insoluble calcium tetraoxosulphate(Vl)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43482?exam_type=neco&type=obj&page=15",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "72",
+    "text": "Which metal is extracted from bauxite?",
+    "options": {
+      "A": "aluminium",
+      "B": "calcium",
+      "C": "copper",
+      "D": "magnesium",
+      "E": "tin"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43483?exam_type=neco&type=obj&page=15",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "73",
+    "text": "Which separation technique is routinely applied in the petroleum industry?",
+    "options": {
+      "A": "chromatography",
+      "B": "distillation",
+      "C": "evaporation",
+      "D": "fractional crystallization",
+      "E": "fractional distillation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43485?exam_type=neco&type=obj&page=15",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "74",
+    "text": "Small amounts of compounds of transition metals are sometimes added to glass during manufacture in order to make the glass",
+    "options": {
+      "A": "acquire certain colours",
+      "B": "easier to melt",
+      "C": "easier to mould",
+      "D": "little brittle",
+      "E": "more transparent"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43487?exam_type=neco&type=obj&page=15",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "75",
+    "text": "The pH of water is 7.\n\nWhat is the pH of orange juice?",
+    "options": {
+      "A": "7",
+      "B": "above 10",
+      "C": "below 2",
+      "D": "between 5.5 and 6.5",
+      "E": "between 7.5 and 8.5"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43488?exam_type=neco&type=obj&page=15",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "76",
+    "text": "Chlorine displaces bromine from aqueous potassium bromide because",
+    "options": {
+      "A": "bromine is a liquid at room temperature",
+      "B": "bromine is weakly acidic.",
+      "C": "bromine has a greater atomic radius than chlorine",
+      "D": "chlorine is a stronger oxidising agent than bromine.",
+      "E": "the density of chlorine is less than the density of bromine."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43489?exam_type=neco&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "77",
+    "text": "What is the change in the oxidation number of phosphorus in the following reaction?\n\n4P(s) + 5O2(ag) \u2192 2P2O5(s)",
+    "options": {
+      "A": "0 to 2",
+      "B": "0 to 5",
+      "C": "4 to 2",
+      "D": "4 to 5",
+      "E": "4 to 10"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43490?exam_type=neco&type=obj&page=16",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "78",
+    "text": "In the reaction 2H2S(g) + SO2(g) \u2192 2H2SO(I)+3S(s)SO2is acting as _agent",
+    "options": {
+      "A": "a bleaching",
+      "B": "a dehydrating",
+      "C": "an oxidizing",
+      "D": "a precipitating",
+      "E": "a reducing"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43493?exam_type=neco&type=obj&page=16",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2003"
+  },
+  {
+    "number": "79",
+    "text": "What is the number of moles of NaHCO3in 250cm3 of its solution if the solution contains 8.4 g of NaHCO3 in 1 dm3 of the solution. [Na = 23, 0 = 16, C = 12, H = 1)",
+    "options": {
+      "A": "1",
+      "B": "0.25",
+      "C": "0.05",
+      "D": "0.025",
+      "E": "0.01"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43494?exam_type=neco&type=obj&page=16",
+    "correct_answer": "D",
+    "explanation": "no of mole in 250\\(cm^3\\) of its solution is about molar concentration.\nusing n = cv\nc = \\(\\frac{n}{v}\\)\nwhere c = molar concentration, n = number of moles and v = volume in \\(dm^3\\)\nnumber of mole of NaHCO3 = mass of NaHCO3 / molar mass of NaHCO3 = \\(\\frac{8.4}{84}\\) = 0.1moles\nbut v = 250\\(cm^3\\) = 250/1000 = 0.25\\(dm^3\\)\ntherefore c = 0.25 x 0.1 = 0.025mol\\(dm^3\\)",
+    "year": "2003"
+  }
+]

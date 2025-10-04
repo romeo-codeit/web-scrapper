@@ -1,0 +1,961 @@
+[
+  {
+    "number": "1",
+    "text": "The ...... is found in the CPU of a computer.",
+    "options": {
+      "A": "main memory",
+      "B": "modem",
+      "C": "mother board",
+      "D": "register",
+      "E": "zip drive"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61743?exam_type=neco&type=obj",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "2",
+    "text": "In order to find and load a file that has been saved,\u00a0you need to select the ... Command.",
+    "options": {
+      "A": "close",
+      "B": "new",
+      "C": "open",
+      "D": "recycle",
+      "E": "save"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61747?exam_type=neco&type=obj",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "3",
+    "text": "The process of .... is difficult without computer in transportation system.",
+    "options": {
+      "A": "accommodation",
+      "B": "loading",
+      "C": "repair",
+      "D": "reservation",
+      "E": "ticketing"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61749?exam_type=neco&type=obj",
+    "correct_answer": "D",
+    "explanation": "Reservation:\u00a0This allows passengers to plan ahead and ensure they have a seat on the desired date and time.",
+    "year": "2014"
+  },
+  {
+    "number": "4",
+    "text": "Which of the following is not among the features of presentation package?",
+    "options": {
+      "A": "Animation",
+      "B": "Insertion of range and cell",
+      "C": "Insertion of video and audio",
+      "D": "Slide",
+      "E": "Slide show"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61751?exam_type=neco&type=obj",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "5",
+    "text": "The central processing unit is connected to the?",
+    "options": {
+      "A": "expansion boards",
+      "B": "expansion slots",
+      "C": "memory chip",
+      "D": "mother board",
+      "E": "system unit"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61754?exam_type=neco&type=obj",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "6",
+    "text": "Which of these packages is appropriate for preparing payroll of workers?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Microsoft Access",
+      "C": "Microsoft Excel",
+      "D": "Microsoft Word"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61756?exam_type=neco&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "7",
+    "text": "In a worksheet, a set of data is called?",
+    "options": {
+      "A": "Column range",
+      "B": "Data base",
+      "C": "Data file",
+      "D": "Data range",
+      "E": "Row range"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61757?exam_type=neco&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "In a worksheet, a set of data is called \"range of data\", a designatedrange of cells in tabular format.",
+    "year": "2014"
+  },
+  {
+    "number": "8",
+    "text": "In Microsoft Word, the background of word document is?",
+    "options": {
+      "A": "always the same for the entire document",
+      "B": "always white in colour",
+      "C": "automatically give any colour",
+      "D": "either white or black colour",
+      "E": "the colour you pre-set under the option menu"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61758?exam_type=neco&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "9",
+    "text": "1 megabyte is equivalent to ......\u00a0kilobytes?",
+    "options": {
+      "A": "1000",
+      "B": "1024",
+      "C": "1034",
+      "D": "1204",
+      "E": "1304"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61759?exam_type=neco&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "10",
+    "text": "Which of these is not a logic comparison symbol in computer studies ?",
+    "options": {
+      "A": "=",
+      "B": "<",
+      "C": ">",
+      "D": "<=",
+      "E": "^"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61760?exam_type=neco&type=obj&page=2",
+    "correct_answer": "E",
+    "explanation": "There are six main logic comparison symbols in computer studies: equal to, not equal to, greater than, greater than or equal to, less than, and less than or equal to. ^ is not a logic comparison symbol.",
+    "year": "2014"
+  },
+  {
+    "number": "11",
+    "text": "The transfer of information from the Internet to your computer is called?",
+    "options": {
+      "A": "Copy",
+      "B": "Documentation",
+      "C": "Download",
+      "D": "Retrieval",
+      "E": "Upload"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61812?exam_type=neco&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "12",
+    "text": "Every computer system connected to the Internet must have a unique address?",
+    "options": {
+      "A": "Domain name",
+      "B": "Instant message",
+      "C": "Internet protocol",
+      "D": "Internet relay",
+      "E": "Internet service"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61813?exam_type=neco&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "13",
+    "text": "Read Only Memory (ROM) is a kind of...... storage?",
+    "options": {
+      "A": "Disk drive",
+      "B": "Flash drive",
+      "C": "Permanent",
+      "D": "Smart card",
+      "E": "Temporary"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61814?exam_type=neco&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "14",
+    "text": "In a computer system, SQL, simply means ..... Query language?\u00a0\u00a0Sample B. Simple C. Stratified D. Structured E. Summary",
+    "options": {
+      "A": "Sample",
+      "B": "Simple",
+      "C": "Stratified",
+      "D": "Structured",
+      "E": "Summary"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61815?exam_type=neco&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "15",
+    "text": "We can improve computer security by the use of?",
+    "options": {
+      "A": "account number",
+      "B": "ID number",
+      "C": "layout",
+      "D": "password",
+      "E": "user names"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61816?exam_type=neco&type=obj&page=3",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "16",
+    "text": "The fourth generation programming language includes the following except?",
+    "options": {
+      "A": "Borland Delphi",
+      "B": "Java",
+      "C": "Oracle reports",
+      "D": "Postscript",
+      "E": "SQL"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61817?exam_type=neco&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "17",
+    "text": "What is the other word used to describe browsing?",
+    "options": {
+      "A": "Cyber cafing",
+      "B": "Pinging",
+      "C": "Searching",
+      "D": "Surfing",
+      "E": "Uploading"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61818?exam_type=neco&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "18",
+    "text": "When a file or folder is deleted, it goes to the?",
+    "options": {
+      "A": "Hard disk",
+      "B": "Memory",
+      "C": "Monitor",
+      "D": "Recycle bin",
+      "E": "System unit"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61819?exam_type=neco&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "19",
+    "text": "Search engines are used for the following except?",
+    "options": {
+      "A": "finding pages of information or data.",
+      "B": "downloading educational material",
+      "C": "displaying advertisement",
+      "D": "downloading music and videos",
+      "E": "handling virus attacks"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61820?exam_type=neco&type=obj&page=4",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "20",
+    "text": "The mechanical counting device called pascaline was invented by.........\u00a0pascal?",
+    "options": {
+      "A": "Blaize",
+      "B": "Bloom",
+      "C": "John",
+      "D": "Philip",
+      "E": "Susan"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61821?exam_type=neco&type=obj&page=4",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "21",
+    "text": "What is the decimal equivalent of the binary number 10110111?",
+    "options": {
+      "A": "180",
+      "B": "181",
+      "C": "183",
+      "D": "184",
+      "E": "186"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61822?exam_type=neco&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "22",
+    "text": "Any document saved into a disc is referred to as a/an?",
+    "options": {
+      "A": "field",
+      "B": "file",
+      "C": "folder",
+      "D": "lcon",
+      "E": "record"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61823?exam_type=neco&type=obj&page=5",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "23",
+    "text": "ROM is also known as?",
+    "options": {
+      "A": "Adapter",
+      "B": "firmware",
+      "C": "Network",
+      "D": "Semi conductor",
+      "E": "Slot"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61824?exam_type=neco&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "24",
+    "text": "Which of the following is not a function of symbolic DOS command?",
+    "options": {
+      "A": "CLS:",
+      "B": "MD:",
+      "C": "RD:",
+      "D": "TYPE:",
+      "E": "VER:"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61825?exam_type=neco&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "25",
+    "text": "A calculating machine that is made of hardwood with cursor of glass and metal is called?",
+    "options": {
+      "A": "Abacus",
+      "B": "Difference Engine",
+      "C": "Pascaline",
+      "D": "Punched Card",
+      "E": "Slide Rule"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61826?exam_type=neco&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "26",
+    "text": "The speed of a processor is measured in?",
+    "options": {
+      "A": "Kilobyte",
+      "B": "Kilohertz",
+      "C": "Megabyte",
+      "D": "Megahertz",
+      "E": "Megawatt"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61827?exam_type=neco&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "27",
+    "text": "In the I.P.O cycle, P stands for?",
+    "options": {
+      "A": "pack",
+      "B": "pointer",
+      "C": "procedure",
+      "D": "processing",
+      "E": "programming"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61828?exam_type=neco&type=obj&page=6",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "28",
+    "text": "Which of the these is not among the file organization?",
+    "options": {
+      "A": "Indexed",
+      "B": "Parallel",
+      "C": "Random",
+      "D": "Sequential",
+      "E": "Serial"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61829?exam_type=neco&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "29",
+    "text": "The logical unit of transfer between the backing storage and main memory in file organization\u00a0is called?",
+    "options": {
+      "A": "block",
+      "B": "bucket",
+      "C": "hash",
+      "D": "hit",
+      "E": "partial"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61830?exam_type=neco&type=obj&page=6",
+    "correct_answer": "B",
+    "explanation": "Bucket: A bucket is the logical unit of transfer between the backing store and the main memory. while A block is the physical unit of transfer between the backing store and the main memory.",
+    "year": "2014"
+  },
+  {
+    "number": "30",
+    "text": "The four standard ports include the following buses, except?",
+    "options": {
+      "A": "fast infrared",
+      "B": "high performance serial",
+      "C": "parallel",
+      "D": "serial",
+      "E": "universal serial"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61831?exam_type=neco&type=obj&page=6",
+    "correct_answer": "A",
+    "explanation": "A serial port is also called a communication port and they are used for connection of external devices like a modem, mouse, or keyboard (basically in older PCs).\nParallel ports are generally used for connecting scanners and printers.\nAn Infrared(IR) port is used to send and receive infrared signals from other devices.\nUSB (Universal Serial Bus):\u00a0This can connect all kinds of external USB devices, like external hard disk, printer, scanner, mouse, keyboard, etc.",
+    "year": "2014"
+  },
+  {
+    "number": "31",
+    "text": "By default in Microsoft word, your document prints in .. mode?",
+    "options": {
+      "A": "landscape",
+      "B": "page setup",
+      "C": "portrait",
+      "D": "print view",
+      "E": "vertical"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61832?exam_type=neco&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "32",
+    "text": "What displays the content of the active cell in excel?",
+    "options": {
+      "A": "Formula bar",
+      "B": "Name box",
+      "C": "Range",
+      "D": "Row headings",
+      "E": "Task pane"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61833?exam_type=neco&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "33",
+    "text": "How do you find and load a file that has been saved? select ..... command.",
+    "options": {
+      "A": "close",
+      "B": "file",
+      "C": "new",
+      "D": "open",
+      "E": "save"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61834?exam_type=neco&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "34",
+    "text": "If P 1 and Q = 1, find the value of NOT(P and Q).",
+    "options": {
+      "A": "0",
+      "B": "0 and 1",
+      "C": "1",
+      "D": "1 and 0",
+      "E": "1 and 1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61835?exam_type=neco&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "35",
+    "text": "The distribution of video and audio content to a dispersed audience through electronic media is called?",
+    "options": {
+      "A": "broadcasting",
+      "B": "communication",
+      "C": "information",
+      "D": "messages",
+      "E": "news"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61836?exam_type=neco&type=obj&page=7",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "36",
+    "text": "36. Which of these characteristics of languages is common to all computer programs?",
+    "options": {
+      "A": "It uses symbolic storage address",
+      "B": "Machine dependence",
+      "C": "Uses instructions that seem like English",
+      "D": "Uses mnemonics",
+      "E": "Uses special codes"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61837?exam_type=neco&type=obj&page=8",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "37",
+    "text": "The\u00a0 ...... is added to a host computer hardware in order to expand its abilities?",
+    "options": {
+      "A": "input devices",
+      "B": "monitor",
+      "C": "peripheral",
+      "D": "scanner",
+      "E": "webcam"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61838?exam_type=neco&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "38",
+    "text": "The computer that features a Liquid Crystal Display (LCD) is known as ......\u00a0Computer?",
+    "options": {
+      "A": "desktop",
+      "B": "digital",
+      "C": "hybrid",
+      "D": "laptop",
+      "E": "notebook"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61839?exam_type=neco&type=obj&page=8",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "39",
+    "text": "The following are examples of synchronous communication, except?",
+    "options": {
+      "A": "blogs",
+      "B": "Google talk",
+      "C": "phone",
+      "D": "video conferencing",
+      "E": "yahoo\u00a0messenger"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61840?exam_type=neco&type=obj&page=8",
+    "correct_answer": "A",
+    "explanation": "Synchronous communication is communication that occurs when the exchange of information or messages between the sender and the receiver happens at the same time. These exchanges may happen physically or virtually. Examples of synchronous communication include Physical meetings, Video conferencing, Phone calls, Live chat support, and Messaging platforms.",
+    "year": "2014"
+  },
+  {
+    "number": "40",
+    "text": "What is the function of control unit in the CPU?",
+    "options": {
+      "A": "decodes program instructions",
+      "B": "generates data from the field",
+      "C": "performs logic functions",
+      "D": "stores program instructions",
+      "E": "transfers data to primary storage."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61841?exam_type=neco&type=obj&page=8",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "41",
+    "text": "Integrated circuit chips used in micro computer are made of element called?",
+    "options": {
+      "A": "chromium",
+      "B": "copper",
+      "C": "gold",
+      "D": "silicon",
+      "E": "silver"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61842?exam_type=neco&type=obj&page=9",
+    "correct_answer": "D",
+    "explanation": "Silicon is the primary material used in the manufacture of semiconductor devices, including integrated circuits.",
+    "year": "2014"
+  },
+  {
+    "number": "42",
+    "text": "The common name for all input and output devices is?",
+    "options": {
+      "A": "keyboard",
+      "B": "peripheral",
+      "C": "printer",
+      "D": "storage medium",
+      "E": "system unit"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61843?exam_type=neco&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "43",
+    "text": "Lady Ada Lovelace improved upon the idea of?",
+    "options": {
+      "A": "Babbage's analytical engine",
+      "B": "Babbage's difference engine",
+      "C": "Herman hollerinth's machine",
+      "D": "Leibnitz's calculator",
+      "E": "Pascal's arithmetic"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61844?exam_type=neco&type=obj&page=9",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "44",
+    "text": "Notebook is an example of ..... Computer?",
+    "options": {
+      "A": "macro",
+      "B": "mainframe",
+      "C": "micro",
+      "D": "mini",
+      "E": "super"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61845?exam_type=neco&type=obj&page=9",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "45",
+    "text": "The symbolic representation of hard disk is?",
+    "options": {
+      "A": "B:",
+      "B": "B:1",
+      "C": "C:",
+      "D": "C:l",
+      "E": "D:"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61846?exam_type=neco&type=obj&page=9",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "46",
+    "text": "Which of the following circuits is used as memory device in a computer?",
+    "options": {
+      "A": "Attenuator",
+      "B": "Comparator",
+      "C": "Flip-flop",
+      "D": "Modem",
+      "E": "Rectifier"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61847?exam_type=neco&type=obj&page=10",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "47",
+    "text": "AutoCAD is best used in?",
+    "options": {
+      "A": "educating",
+      "B": "engineering",
+      "C": "journalism",
+      "D": "offices",
+      "E": "publishing"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61848?exam_type=neco&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "48",
+    "text": "Change a\\(frac{(b-c)^2}{d +2}\\) in algebraic expression to BASIC arithmetic expression.",
+    "options": {
+      "A": "A * b\\(^2\\) - c\\(^2\\)\u00a0\u00f7 d +2",
+      "B": "A * \\(frac{(b-c)^2}{D +2}\\)",
+      "C": "ab\\(^2\\) - ac\\(^2\\)\u00a0\u00f7 d + 2",
+      "D": "A * \\(frac{(b-c)^2}{D +2}\\) Opera",
+      "E": "Python  AB-AC^2 / D +2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61849?exam_type=neco&type=obj&page=10",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "49",
+    "text": "In data base, the minimum number of characters. user can input in the field is known as field?",
+    "options": {
+      "A": "caption",
+      "B": "format",
+      "C": "name",
+      "D": "size",
+      "E": "text"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61850?exam_type=neco&type=obj&page=10",
+    "correct_answer": "D",
+    "explanation": "In the context of databases, the minimum number of characters that a user can input in a field is referred to as the field size.",
+    "year": "2014"
+  },
+  {
+    "number": "50",
+    "text": "Which of these storage media has the lowest capacity?",
+    "options": {
+      "A": "CD-ROM",
+      "B": "Flash Drive",
+      "C": "Floppy Disk",
+      "D": "RAM",
+      "E": "Register"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61851?exam_type=neco&type=obj&page=10",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "51",
+    "text": "The full meaning of BCD is?",
+    "options": {
+      "A": "Basic Code Decimal",
+      "B": "Basic Computer Decimal",
+      "C": "Binary Coded Decimal",
+      "D": "Binary Coded Digit",
+      "E": "Binary Computer Decimal"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61852?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "52",
+    "text": "The user chosen secret string of characters that allows access to the use of computer is called?",
+    "options": {
+      "A": "address\u00a0code",
+      "B": "ID-Name",
+      "C": "password",
+      "D": "pin code",
+      "E": "username"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61853?exam_type=neco&type=obj&page=11",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "53",
+    "text": "Which of these is a specialized port?",
+    "options": {
+      "A": "Firewall",
+      "B": "IRDA",
+      "C": "Parallel",
+      "D": "Serial",
+      "E": "USB"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61854?exam_type=neco&type=obj&page=11",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "54",
+    "text": "The maximum length of 10 base T unshielded twisted\u00a0pair cable in meters is?",
+    "options": {
+      "A": "100",
+      "B": "185",
+      "C": "500",
+      "D": "2000",
+      "E": "3000"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61855?exam_type=neco&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "55",
+    "text": "Which of these registered jacks is used in terminating phone lines?",
+    "options": {
+      "A": "RJ 11",
+      "B": "RJ 14",
+      "C": "RJ 25",
+      "D": "RJ 35",
+      "E": "RJ 45"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61856?exam_type=neco&type=obj&page=11",
+    "correct_answer": "A",
+    "explanation": "The RJ11\u00a0is the most common phone jack that is in use today. RJ11 connectors are used to terminate phone lines and are typically deployed with single-line POTS (Plain Old Telephone Service) telephone jacks.",
+    "year": "2014"
+  },
+  {
+    "number": "56",
+    "text": "In Microsoft Word, CTRL+ESC..... the start menu?",
+    "options": {
+      "A": "closes",
+      "B": "cuts",
+      "C": "opens",
+      "D": "redo",
+      "E": "undo"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61857?exam_type=neco&type=obj&page=12",
+    "correct_answer": "C",
+    "explanation": "Ctrl+Escis a keyboard shortcut most commonly used to open the Start menu\u00a0in Microsoft Windows.",
+    "year": "2014"
+  },
+  {
+    "number": "57",
+    "text": "A/AN\u00a0is a virus program that copies and\u00a0multiplies itself by using computer networks and security flaws?",
+    "options": {
+      "A": "Asimov 1539",
+      "B": "Elkern",
+      "C": "Polyboot.B",
+      "D": "Stator",
+      "E": "Worm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61858?exam_type=neco&type=obj&page=12",
+    "correct_answer": "E",
+    "explanation": "A worm(\u00a0a type of malware) is a virus program that copies and multiplies itself by using computer networks and security flaws. A classic worm example is the I LOVE YOU virus discovered in 2000. Another worm, Stuxnet, was found in July 2010.",
+    "year": "2014"
+  },
+  {
+    "number": "58",
+    "text": "Convert 687 in decimal to base 16?",
+    "options": {
+      "A": "2AF\\(_{16}\\)",
+      "B": "3BA\\(_{16}\\)",
+      "C": "4ff\\(_{16}\\)",
+      "D": "BB\\(_{16}\\)",
+      "E": "CBC\\(_{16}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61859?exam_type=neco&type=obj&page=12",
+    "correct_answer": "A",
+    "explanation": "\\(687_{10}\\)\u00a0 to hexadecimal =\n687 divided by 16 is 42 with a remainder of 15 (which corresponds to F in base 16) 42 divided by 16 is 2 with a remainder of 10 (which corresponds to A in base 16) 2 divided by 16 is 0 with a remainder of 2\nReading the remainder from bottom to top, we have: 2AF\nTherefore, 687 in base 10 is equal to 2AF in base 16.",
+    "year": "2014"
+  },
+  {
+    "number": "59",
+    "text": "The editing features in Microsoft Word include the following, except?",
+    "options": {
+      "A": "animation",
+      "B": "format painter",
+      "C": "go to",
+      "D": "thesaurus",
+      "E": "word count"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61860?exam_type=neco&type=obj&page=12",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2014"
+  },
+  {
+    "number": "60",
+    "text": "Which of these is not an example of a browser?",
+    "options": {
+      "A": "Chrome",
+      "B": "Internet Explorer",
+      "C": "Mozilla",
+      "D": "Opera",
+      "E": "Python"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/computer-studies/61861?exam_type=neco&type=obj&page=12",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2014"
+  }
+]

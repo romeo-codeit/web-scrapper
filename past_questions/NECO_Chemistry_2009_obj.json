@@ -1,0 +1,754 @@
+[
+  {
+    "number": "122",
+    "text": "A colourless gas with characteristics odour which dissolves in water to form an alkaline solution is",
+    "options": {
+      "A": "ammonia",
+      "B": "carbon(IV)oxide",
+      "C": "hydrogen chloride",
+      "D": "sulphur (IV) oxide",
+      "E": "sulphur (VI) oxide"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43654?exam_type=neco&type=obj&page=25",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "123",
+    "text": "Which of the following equations is NOT balanced?",
+    "options": {
+      "A": "CH4(g) + 202(9) \u2192 CO2(g) + 2H2O(g)",
+      "B": "CU(S) + HNO3(aq) \u2192 Cu(NO3)2(aq) + 4H2O(I) + NO(g)",
+      "C": "2KCIO3(s) \u2192 2KCI(s)+ 3O2(g)",
+      "D": "NaH(s) + H2O(1) \u2192 NaOH(aq) +H2(g)",
+      "E": "Na2SO4(aq) + BaCl2(aq) \u2192 BaSO4(s) + 2NaCl(aq)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43662?exam_type=neco&type=obj&page=25",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "124",
+    "text": "The process involved in the decomposition of sugar by an enzyme is called",
+    "options": {
+      "A": "dehydration",
+      "B": "esterification",
+      "C": "fermentation",
+      "D": "polymerization",
+      "E": "saponification"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43664?exam_type=neco&type=obj&page=25",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "125",
+    "text": "Compound with the general formula CnH\\(_{2n+2}\\) belong to the_______ group",
+    "options": {
+      "A": "alkanal",
+      "B": "alkane",
+      "C": "alkanoate",
+      "D": "alkene",
+      "E": "alkyne"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43668?exam_type=neco&type=obj&page=25",
+    "correct_answer": "B",
+    "explanation": "Alkanes have the general formula ofCnH2n+2where n is the number of carbon atoms.\nAlkenes have the general formula CnH2n.\nThe general formula for Alkynes is CnH2n-2.",
+    "year": "2009"
+  },
+  {
+    "number": "126",
+    "text": "Which of the following non-metals reacts most readily with metals?",
+    "options": {
+      "A": "Carbon",
+      "B": "Chlorine",
+      "C": "Nitrogen",
+      "D": "Phosphorus",
+      "E": "Sulphur"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43669?exam_type=neco&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "127",
+    "text": "The percentage composition of a hydrocarbon is 79.2 carbon 20.8 hydrogen. Calculate its empirical formula [H = 1, C = 12]",
+    "options": {
+      "A": "CH",
+      "B": "CH3",
+      "C": "CH4",
+      "D": "C2H2",
+      "E": "C2H6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43673?exam_type=neco&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "Relative No of Moles for Carbon = 79.2%\u00a0\u00f7 12 = 6.6\nRelative No of Moles for Hydrogen = 20.8%\u00a0\u00f7 1 = 20.8\nRatio of Moles = Carbon 6.6\u00a0\u00f7 6.6 = 1\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0Hydrogen = 20.8\u00a0\u00f7 6.6\u00a0~ 3\nEMPIRICAL FORMULA IS\u00a0 \u00a0 \u00a0 CH\\(_3\\)",
+    "year": "2009"
+  },
+  {
+    "number": "128",
+    "text": "The following compounds decolorize acidified potassium tetraoxomanganate (VII) solution EXCEPT",
+    "options": {
+      "A": "HOCH2 \u2013 CH2OH",
+      "B": "H2C \u2013C =C\u2013 CH3",
+      "C": "H3C \u2013 HC = CH2",
+      "D": "H2C = CH2",
+      "E": "H3C \u2013 C =CH"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43677?exam_type=neco&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "Compounds that decolourize potassium permanganate (KMnO4) include\u00a0unsaturated organic compounds likealkenesandalkynes, as well as reducing agents like sulphur dioxide, hydrogen sulphide, iron(II) sulfate, and sodium sulphite (Na2SO3), which readily react with the oxidizing agent KMnO4, causing a colour change from purple to colorless due to the reduction of manganese ions in the permanganate molecule.\nAll the other options apart from option A are unsaturated hydrocarbons( alkenes).",
+    "year": "2009"
+  },
+  {
+    "number": "129",
+    "text": "The scientist who discovered the zig-zag movement of gas molecules is",
+    "options": {
+      "A": "Brownian",
+      "B": "Dalton",
+      "C": "Gay Lussac",
+      "D": "Graham",
+      "E": "Newton"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43680?exam_type=neco&type=obj&page=26",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "130",
+    "text": "Which of the following is NOT a fraction of petroleum?",
+    "options": {
+      "A": "Bitumen",
+      "B": "Coal",
+      "C": "Diesel",
+      "D": "Kerosene",
+      "E": "Petrol"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43681?exam_type=neco&type=obj&page=26",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "131",
+    "text": "Which of the following statements is NOT correct of group VII elements? They",
+    "options": {
+      "A": "are diatomic",
+      "B": "are good oxidizing agents",
+      "C": "are highly electronegative",
+      "D": "have high electron affinity",
+      "E": "have relatively low ionization potentials"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43683?exam_type=neco&type=obj&page=27",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "132",
+    "text": "The empirical formula of a hydrocarbon containing 0.12 mole of carbon 0.3 mole of hydrogen is",
+    "options": {
+      "A": "CH2",
+      "B": "CH3",
+      "C": "C2H2",
+      "D": "C2H4",
+      "E": "C2H6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43687?exam_type=neco&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "133",
+    "text": "The reaction of an alkanol with alkanioc acid is known as",
+    "options": {
+      "A": "dehydration",
+      "B": "esterification",
+      "C": "halogenation",
+      "D": "hydrogenation",
+      "E": "saponification"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43690?exam_type=neco&type=obj&page=27",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "134",
+    "text": "The rate of a reaction usually increases with increase in the concentration of reactants because the",
+    "options": {
+      "A": "distance between particles of the reactants increases",
+      "B": "frequency of collision of particles is lower",
+      "C": "particles of the reactants gain energy and move faster",
+      "D": "reactants from a complex which decomposes rapidly",
+      "E": "reactants occupy a higher energy level"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43693?exam_type=neco&type=obj&page=27",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "135",
+    "text": "Which of the following compounds will undergo thermal dissociation?",
+    "options": {
+      "A": "AgCl",
+      "B": "CaCO3",
+      "C": "K2S04",
+      "D": "NaOH",
+      "E": "NH4CI"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43697?exam_type=neco&type=obj&page=27",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "136",
+    "text": "Which of the following gases will bleach moist litmus paper?",
+    "options": {
+      "A": "Cl2",
+      "B": "CO2",
+      "C": "HCl",
+      "D": "N2O",
+      "E": "SO3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43699?exam_type=neco&type=obj&page=28",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "137",
+    "text": "What kind of bond exist between carbon and oxygen in C03 2-?",
+    "options": {
+      "A": "Co- ordinate Covalent",
+      "B": "covalent",
+      "C": "Electrovalent",
+      "D": "Metallic",
+      "E": "Van der Waal forces"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43700?exam_type=neco&type=obj&page=28",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "138",
+    "text": "Which of these compounds has the greatest ionic character?",
+    "options": {
+      "A": "AlF3",
+      "B": "BF2",
+      "C": "CF4",
+      "D": "CsF",
+      "E": "NaF"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43701?exam_type=neco&type=obj&page=28",
+    "correct_answer": "E",
+    "explanation": "Sodium fluoride because, of all the metals listed, sodium is the most reactive while fluorine is the most reactive non-metal,\u00a0 distance\u00a0between sodium and fluorine in the periodic table also is a factor",
+    "year": "2009"
+  },
+  {
+    "number": "139",
+    "text": "\\( ^{235}_{92}U + ^1_0n \u2192 ^{145}_{56}Ba + ^{88}_{36}Kr + 3^1_0n + Energy \\)\n\nThe equation above represent a/an",
+    "options": {
+      "A": "alpha particle emission",
+      "B": "endothermic reaction",
+      "C": "nuclear fission",
+      "D": "nuclear fusion",
+      "E": "thermal dissociation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43705?exam_type=neco&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "140",
+    "text": "A neon atom is chemically nonreactive because",
+    "options": {
+      "A": "the electrons at the outermost shell is partially filled",
+      "B": "the number of protons equals the number of electrons",
+      "C": "the outer electron shell is completely filled",
+      "D": "there are equal number of protons and neutrons in its nucleus",
+      "E": "there are no elections at the outermost shell"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43707?exam_type=neco&type=obj&page=28",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "141",
+    "text": "In the electrolysis of dilute tetraoxosulphate (VI) acid using platinum electrodes, the products obtained at the anode are cathode respectively are",
+    "options": {
+      "A": "hydrogen, oxygen",
+      "B": "Hydrogen, tetraoxosulphate (VI) ion",
+      "C": "oxygen, hydrogen",
+      "D": "sulphur, hydrogen",
+      "E": "sulphur, oxygen"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43708?exam_type=neco&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "142",
+    "text": "C\\(_6\\)H\\(_{12}\\)O\\(_6\\)\nWhat is the molar mass of the compound above?\n[ H=1, C=12, O=16 }",
+    "options": {
+      "A": "45",
+      "B": "61",
+      "C": "180",
+      "D": "123",
+      "E": "244"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43710?exam_type=neco&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "The compound above is identified as glucose\nCarbon - 12 \\(\\times\\) 6 atoms present\nHydrogen - 1\u00a0\\(\\times\\) 12\u00a0atoms present\nOxygen - 16\u00a0\\(\\times\\) 6 atoms present\n= 72 + 12 + 96\n= 180",
+    "year": "2009"
+  },
+  {
+    "number": "143",
+    "text": "If the volume of a gas at 35\u00b0C is 60cm3, what would be its volume in cm3 at 273k?",
+    "options": {
+      "A": "39.03",
+      "B": "46.81",
+      "C": "53.18",
+      "D": "67.69",
+      "E": "76.92"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43711?exam_type=neco&type=obj&page=29",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "144",
+    "text": "Sulphur has an oxidation number of +4 in",
+    "options": {
+      "A": "H2S",
+      "B": "H2S04",
+      "C": "MgSO4",
+      "D": "Na2SO3",
+      "E": "S03"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43713?exam_type=neco&type=obj&page=29",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "145",
+    "text": "Atomic size decreases",
+    "options": {
+      "A": "across a period from left to right",
+      "B": "across a period from right to left",
+      "C": "diagonally down the group",
+      "D": "down a group",
+      "E": "with decrease in atomic number"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43715?exam_type=neco&type=obj&page=29",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "146",
+    "text": "A salt which loses its mass when exposed to air is",
+    "options": {
+      "A": "deliquescent",
+      "B": "effervescent",
+      "C": "Efflorescent",
+      "D": "fluorescent",
+      "E": "hygroscopic"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43716?exam_type=neco&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "147",
+    "text": "When air is passed through alkaline pyrogallol and then lime water, the gases left are",
+    "options": {
+      "A": "nitrogen and carbon (IV) oxide",
+      "B": "nitrogen and noble gases",
+      "C": "nitrogen and oxygen",
+      "D": "nitrogen, carbon (VI) oxide and noble gases",
+      "E": "the noble gases"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43717?exam_type=neco&type=obj&page=30",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "148",
+    "text": "How many zones are present in a luminous Bunsen burner flame?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43718?exam_type=neco&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "The luminous bunsen burner flame has four zones namely:\nDark zone/ zone of unburnt gas;burning of the gas does not take place here, it is dark and cool.Luminous yellow zone;the gas burns in this zone but not completely because of limited air. Tiny particles glow in this region to give out light.Thin outer zone;the zone is colorless and gas burns completely due to plenty of air.Blue zone;\u00a0this zone receives plenty of air and burning is more complete than in the luminous zone.",
+    "year": "2009"
+  },
+  {
+    "number": "149",
+    "text": "What mass of copper in gram would be deposited by a current of 1.00ampere passing for 965 seconds through copper(II) tertraoxosulphate (VI) solution? [Cu 63.5; If = 96500c]",
+    "options": {
+      "A": "0.32",
+      "B": "0.64",
+      "C": "3.18",
+      "D": "6.35",
+      "E": "9.65"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43720?exam_type=neco&type=obj&page=30",
+    "correct_answer": "A",
+    "explanation": "Recall that two faradays ( 2 X 96500 ) will be required to discharge 1 mole of a divalent ion like Cu.\n2 X 96500 will deposit 63.5g of Cu\nAnd 965C wiil deposit\u00a0 x-grams\nCROSS MULTIPLY\n(965 X 63.5)\u00a0\u00f7 ( 2 X 96500)\n= 0.3175",
+    "year": "2009"
+  },
+  {
+    "number": "150",
+    "text": "Which of the following metals is NOT extracted by electrolysis?",
+    "options": {
+      "A": "Aluminium",
+      "B": "Calcium",
+      "C": "iron",
+      "D": "Magnesium",
+      "E": "Sodium"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43721?exam_type=neco&type=obj&page=30",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "151",
+    "text": "The furring of kettles and boilers are caused by",
+    "options": {
+      "A": "calcium hydroxide",
+      "B": "calcium hydrogen trioxocarbonate (IV)",
+      "C": "calcium trioxocarbonate (IV)",
+      "D": "calcium tetraoxocarbonate",
+      "E": "magnesium tetraoxocarbonate (VI)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43723?exam_type=neco&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "Thefurring of kettlesor boilers - this is as a result of the decomposition of Ca(HCO3)2 into CaCO3, and this coats the inside of akettleor boiler used in heating water containing dissolved Ca(HCO3)2.",
+    "year": "2009"
+  },
+  {
+    "number": "152",
+    "text": "Two elements X and Y with electronic configurations 2,8,2 and 2,8,7 respectively, are likely to combine by _________bonding",
+    "options": {
+      "A": "covalent",
+      "B": "dative",
+      "C": "electrovalent",
+      "D": "hydrogen",
+      "E": "metallic"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43724?exam_type=neco&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "153",
+    "text": "The Ideal Gas Law is expressed mathematically as",
+    "options": {
+      "A": "P1 /T1 = P2/T2",
+      "B": "P1/V1 = P2V2",
+      "C": "PV =nRT",
+      "D": "PV =KT",
+      "E": "V1/T1 = V2/T2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43725?exam_type=neco&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "The empirical relationships among the volume, the temperature, the pressure, and the amount of agascan be combined into theideal gas law, PV = nRT.",
+    "year": "2009"
+  },
+  {
+    "number": "154",
+    "text": "Non-polar molecules are held together by",
+    "options": {
+      "A": "co-ordinate bond",
+      "B": "covalent bond",
+      "C": "electromagnetic force",
+      "D": "hydrogen bond",
+      "E": "Van der Waals forces"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43727?exam_type=neco&type=obj&page=31",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "155",
+    "text": "Which of the following salt solutions will have a pH greater than 7?",
+    "options": {
+      "A": "NaCl",
+      "B": "NaHSO4",
+      "C": "Na2CO4",
+      "D": "Na2SO4",
+      "E": "MgCl2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43728?exam_type=neco&type=obj&page=31",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "156",
+    "text": "The relationship between equilibrium constant and free energy change is represented as",
+    "options": {
+      "A": "\u03b4 G \u00b0 =-nFE \u00b0",
+      "B": "\u03b4G \u00b0-RT ln K",
+      "C": "\u03b4 G \u00b0= + RT In k",
+      "D": "\u03b4G \u00b0 = \u03b4H \u2013 T S",
+      "E": "H=T\u03b4S"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43729?exam_type=neco&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "157",
+    "text": "Which of the following is a solid at room temperature?",
+    "options": {
+      "A": "Argon",
+      "B": "Bromine",
+      "C": "Chlorine",
+      "D": "Fluorine",
+      "E": "Iodine"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43730?exam_type=neco&type=obj&page=32",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "158",
+    "text": "The green house effect is a climatic condition associated with the presence of excess",
+    "options": {
+      "A": "carbon (II) oxide",
+      "B": "carbon (IV) oxide",
+      "C": "hydrogen sulphide",
+      "D": "nitrogen (II) oxide",
+      "E": "oxygen"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43731?exam_type=neco&type=obj&page=32",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "159",
+    "text": "The following are ores of metals EXCEPT",
+    "options": {
+      "A": "bauxite",
+      "B": "dolomite",
+      "C": "graphite",
+      "D": "haematite",
+      "E": "magnetite"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43732?exam_type=neco&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "So\u00a0Dolomite is a\u00a0magnesium ore,\u00a0haematite,\u00a0and\u00a0magnetite is an iron ore, Bauxite is an aluminum ore while graphite is not a metal ore but a crystalline\u00a0allotrope\u00a0form of carbon.",
+    "year": "2009"
+  },
+  {
+    "number": "160",
+    "text": "Ptotal = P1 + P2 + P3 +\u2026\u2026\u2026\u2026. Pn, is an expression of law",
+    "options": {
+      "A": "Boyle\u2019s",
+      "B": "Charles\u2019",
+      "C": "Dalton\u2019s",
+      "D": "Graham\u2019s",
+      "E": "Gay Lussac\u2019s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43733?exam_type=neco&type=obj&page=32",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "161",
+    "text": "All the following belong to the same family EXCEPT",
+    "options": {
+      "A": "glycerol",
+      "B": "nylon",
+      "C": "perspex polyethene",
+      "D": "polyethene",
+      "E": "polystyrene"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43734?exam_type=neco&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "162",
+    "text": "How many atoms of chlorine are required to saturate the double bonds of a compound containing a triene?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43735?exam_type=neco&type=obj&page=33",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "163",
+    "text": "Which of the following gases is absorbed from the air due to\u00a0photosynthesis?",
+    "options": {
+      "A": "Carbon (II) oxide",
+      "B": "Carbon (IV) oxide",
+      "C": "Nitrogen",
+      "D": "Noble gases",
+      "E": "Oxygen"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43736?exam_type=neco&type=obj&page=33",
+    "correct_answer": "B",
+    "explanation": "The gas that is absorbed from the air due to photosynthesis is carbon dioxide (CO\u2082). During this process, plants take in carbon dioxide from the atmosphere and, using sunlight, convert it into glucose and oxygen",
+    "year": "2009"
+  },
+  {
+    "number": "164",
+    "text": "X = - log10 H+]\n\nWhat does X stand for in the expression above?",
+    "options": {
+      "A": "Degree of acidity",
+      "B": "Enthalpy change",
+      "C": "Equilibrium constant",
+      "D": "Ionic product of water",
+      "E": "Solubility product"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43737?exam_type=neco&type=obj&page=33",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "165",
+    "text": "During the extraction of iron in the blast furnance, slag is produced using",
+    "options": {
+      "A": "carbon",
+      "B": "crylite",
+      "C": "limestone",
+      "D": "oxygen",
+      "E": "sulphur"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43738?exam_type=neco&type=obj&page=33",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "166",
+    "text": "Brain tumors can be located by using an isotope of",
+    "options": {
+      "A": "carbon - 14",
+      "B": "iodine 131",
+      "C": "technetium 99",
+      "D": "uranium235",
+      "E": "uranium 238"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43739?exam_type=neco&type=obj&page=34",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "167",
+    "text": "What volume of carbon (IV) oxide in dm 3 is produced at s.t.p. when 2.50g of CaCO3 reacts with excess acid according to the following equation? CaCO3(s) + 2HCI(aq) \u2192 CaCl2(aq) + H2O(1) + CO2(g)\n\n[CaCO2 100; molar volume of a gas at s.t.p. = 22.4dm 3]",
+    "options": {
+      "A": "0.28",
+      "B": "0.56",
+      "C": "2.24",
+      "D": "5.6",
+      "E": "11.2"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43740?exam_type=neco&type=obj&page=34",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "168",
+    "text": "The following equations represent redox reactions EXCEPT",
+    "options": {
+      "A": "Ba2+(aq) + SO2-4 (aq) \u2192 BaSO4(s)",
+      "B": "Cl2(g) + 2Br- (aq) \u2192 2CI - (aq) + Br2(g)",
+      "C": "Fe2+(aq) + \u00bd C I2(aq) \u2192 Fe3+ (aq) + CI-(aq)",
+      "D": "2Fe3+(aq) + Sn2+(aq) \u2192 2Fe2+(aq) Sn4+ (aq)",
+      "E": "Zn(s) + CU2+(aq) \u2192 Zn2+(aq) + CU(s)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/chemistry/43750?exam_type=neco&type=obj&page=34",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  }
+]

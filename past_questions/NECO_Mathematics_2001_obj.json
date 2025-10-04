@@ -1,0 +1,561 @@
+[
+  {
+    "number": "1",
+    "text": "If s = \\(\\sqrt{(\\frac{a^2}{x^2} - \\frac{b^2}{y^2})}\\)what does y equal?",
+    "options": {
+      "A": "\\(\\sqrt{\\frac{(b^2 - a^2)}{(s^2 - x^2)}}\\)",
+      "B": "\\(\\sqrt{\\frac{(b^2 - a^2)}{(s^2 \\times 2)}}\\)",
+      "C": "\\(\\sqrt{\\frac{x^2 - a^2 - b^2}{s}}\\)",
+      "D": "\\(\\frac{x^2 - a^2 - b^2}{s}\\)",
+      "E": "\\(\\sqrt{\\frac{(b^2 x^2)}{(a^2 - s^2 x^2)}}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41771?exam_type=neco&type=obj",
+    "correct_answer": "E",
+    "explanation": "s = \\(\\sqrt{(\\frac{a^2}{x^2} - \\frac{b^2}{y^2})}\\)\ns\\(^2\\) = \\(\\frac{a^2}{x^2} - \\frac{b^2}{y^2}\\)\n\\(\\frac{b^2}{y^2}\\) = \\(\\frac{a^2}{x^2}\\) - s\\(^2\\)\n\\(\\frac{b^2}{y^2}\\) = \\(\\frac{a^2 - s^2 x^2}{x^2}\\)\n\\(\\frac{1}{y^2}\\) = \\((\\frac{a^2 - s^2 x^2}{x^2}) \\times \\frac{1}{b^2}\\)\n\\(\\frac{1}{y^2}\\) = \\(\\frac{a^2 - s^2 x^2}{b^2 x^2}\\)\n\\(\\therefore\\) y\\(^2\\) = \\(\\frac{b^2 x^2}{a^2 - s^2 x^2}\\)\ny = \\(\\sqrt{\\frac{b^2 x^2}{a^2 - s^2 x^2}}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "2",
+    "text": "Mr Aborowa bought a car for N200,000.00 and later sold it for N170,000.00. What is the percentage loss?",
+    "options": {
+      "A": "11.60%",
+      "B": "7.60%",
+      "C": "15%",
+      "D": "17.65%"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41773?exam_type=neco&type=obj",
+    "correct_answer": "C",
+    "explanation": "Using these:\nLoss = C.p - S.p\n: Percentage Loss = ( Loss X\u00a0100)\u00a0\u00f7 C.p\n=15 %",
+    "year": "2001"
+  },
+  {
+    "number": "3",
+    "text": "Find the 19th term of the A.P. \\(\\frac{5}{6}\\), \\(\\frac{8}{6}\\), \\(\\frac{11}{6}\\).................",
+    "options": {
+      "A": "7\\(\\frac{1}{2}\\)",
+      "B": "9",
+      "C": "9\\(\\frac{1}{2}\\)",
+      "D": "9\\(\\frac{5}{6}\\)",
+      "E": "10"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41776?exam_type=neco&type=obj",
+    "correct_answer": "D",
+    "explanation": "first term (a) =\u00a0\\(\\frac{5}{6}\\)\ncommon difference =\u00a0 \u00a0\\(\\frac{8}{6}\\) - \\(\\frac{5}{6}\\)\u00a0\u2192\u00a0\\(\\frac{3}{6}\\) or\u00a0\\(\\frac{1}{2}\\)\nA.P formula\u00a0\u2192 T\\(_n\\) = a + (n - 1)dT\\(_n\\) =\u00a0\\(\\frac{5}{6}\\) + (19 - 1)\\(\\frac{1}{2}\\)T\\(_n\\) =\u00a0\\(\\frac{5}{6}\\) + 9\n\u2192\u00a09\\(\\frac{5}{6}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "4",
+    "text": "Simplify 27\\(^{-\\frac{1}{3}}\\) \\(\\times\\) 64\\(^{-\\frac{1}{3}}\\) \\(\\times\\) 4\\(^{\\frac{1}{3}}\\)",
+    "options": {
+      "A": "48",
+      "B": "12",
+      "C": "\\(\\frac{4}{3}\\)",
+      "D": "\\(\\frac{1}{12}\\)",
+      "E": "\\(\\frac{1}{48}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41781?exam_type=neco&type=obj",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "5",
+    "text": "The bearing of a point Y from point x is 150\u00b0. What is the bearing of X from Y?",
+    "options": {
+      "A": "330\u00b0",
+      "B": "240\u00b0",
+      "C": "150\u00b0",
+      "D": "120\u00b0",
+      "E": "30\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41784?exam_type=neco&type=obj",
+    "correct_answer": "A",
+    "explanation": "From the diagram above,\u00a0the bearing of X from Y is330\u00ba\n(The bearing from Y to X is the opposite direction of the bearing from X to Y. Since bearings are measured clockwise, to find the reverse bearing, you need to add 180\u00b0 to the original bearing and then adjust for any values over 360\u00b0)",
+    "year": "2001"
+  },
+  {
+    "number": "6",
+    "text": "If the mean of 3, 5, 8, k, 14 and 17 is 11, what is the value of k",
+    "options": {
+      "A": "58",
+      "B": "38",
+      "C": "19",
+      "D": "11",
+      "E": "967"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41789?exam_type=neco&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "To calculate Mean:\nadd up all the numbers\u00a0\u21d2\u00a03+5+8+k+14+17 = 47 + k\nthen divide by how many numbers there are\u00a0\u21d2 6\nThe Mean is already given as 11\n11 = (47\u00a0+ k) / 6\nCross multiply to solve for k\n: k = (6 X 11) - 47\nk = 19",
+    "year": "2001"
+  },
+  {
+    "number": "7",
+    "text": "From the top of a storey-buliding, the angle of depression of a mango on a tree 20m away from the base of the storey building\u00a0is 68\u00b0. if the mango is 4.5 m above the ground, what is the height of the storey building\u00a0to the nearest metre?",
+    "options": {
+      "A": "55m",
+      "B": "54m",
+      "C": "50m",
+      "D": "49m",
+      "E": "45m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41792?exam_type=neco&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "From the figure above,\nTan\\(\\theta\\) = \\(\\frac{\\text{O}}{\\text{A}}\\)\nTan 68\u00ba =\u00a0\\(\\frac{\\text{x}}{20}\\)\nx = Tan 68\u00ba x 20 =\u00a0 49.501m to 3 d.p\nHeight of Storey building = 49.501 + 4.5 = 54. 001\u00a0\u2248 54m to the nearest metre.",
+    "year": "2001"
+  },
+  {
+    "number": "8",
+    "text": "The mean age of 12 boys involved survey is 19 years, 3 months. lf the-age of one of the boys is 22 years, what is the mean age of the other-boys?",
+    "options": {
+      "A": "10.5 years",
+      "B": "19.0 years",
+      "C": "35.4 years",
+      "D": "264.0 years",
+      "E": "423.5 years"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41795?exam_type=neco&type=obj&page=2",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "9",
+    "text": "If cos x = - \\(\\frac{5}{13}\\) where 180\u00b0 < X < 270\u00b0, what is the value of tan x -sin x ?",
+    "options": {
+      "A": "\\(\\frac{111}{13}\\)",
+      "B": "\\(\\frac{321}{65}\\)",
+      "C": "\\(\\frac{216}{65}\\)",
+      "D": "\\(\\frac{112}{13}\\)",
+      "E": "\\(\\frac{131}{65}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41798?exam_type=neco&type=obj&page=2",
+    "correct_answer": "C",
+    "explanation": "Given \\(\\cos x = -\\frac{5}{13}\\) where \\(180^\\circ < x < 270^\\circ\\):\nUsing: \\(\\sin^2 x + \\cos^2 x = 1\\)\n\\(\\sin^2 x = 1 - \\left(-\\frac{5}{13}\\right)^2 = \\frac{144}{169} \\implies \\sin x = -\\frac{12}{13}\\)\n\\(\\tan x = \\frac{\\sin x}{\\cos x} = \\frac{-\\frac{12}{13}}{-\\frac{5}{13}} = \\frac{12}{5}\\)\nCalculating \\(\\tan x - \\sin x\\):\n\\(\\tan x - \\sin x = \\frac{12}{5} - \\left(-\\frac{12}{13}\\right) = \\frac{12}{5} + \\frac{12}{13}\\)\nFinding a common denominator (65):\n\\(\\tan x - \\sin x = \\frac{12 \\times 13}{65} + \\frac{12 \\times 5}{65} = \\frac{156}{65} + \\frac{60}{65} = \\frac{216}{65}\\)\nThus, the value is:\n\\(\\tan x - \\sin x = \\frac{216}{65}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "10",
+    "text": "Given that (3 - y) \u00f7 2x = (6y + 7) \u00f7 (4x - 5), find the value of x when y = 2",
+    "options": {
+      "A": "\\(\\frac{64}{5}\\)",
+      "B": "6",
+      "C": "\\(\\frac{5}{34}\\)",
+      "D": "\\(\\frac{-5}{34}\\)",
+      "E": "\\(\\frac{-64}{5}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41801?exam_type=neco&type=obj&page=2",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "11",
+    "text": "An arc of a circle subtends an angle of 75\u00b0 at the centre of the circle. If the diameter of the circle is 7cm, what Is the length of the arc? (take \u03c0 = 3.142)",
+    "options": {
+      "A": "4.58 cm",
+      "B": "8.02 cm",
+      "C": "16.04 cm",
+      "D": "32.08 cm",
+      "E": "34 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41807?exam_type=neco&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "To find the length of the arc, we use the formula:\n\\(\\text{Length of arc} = \\frac{\\theta}{360^\\circ} \\times 2\\pi r\\)\nGiven:\\(\\theta = 75^\\circ \\)Diameter = 7cm, r = \\(\\frac{7}{2}\\) = 3.5 cm.\\(\\pi \u00a0= \\frac{22}{7}\\)\nCalculate the circumference of the circle:\\(\\text{Circumference} = 2\\pi r = 2 \\times \\frac{22}{7} \\times 3.5\\)Calculating:\\(= 2 \\times \\frac{22}{7} \\times \\frac{7}{2} = 22 \\text{ cm}\\)\nCalculate the length of the arc:\\(\\text{Length of arc} = \\frac{75}{360} \\times 22\\)Calculating:\\(= \\frac{75 \\times 22}{360} = \\frac{1650}{360} \\approx 4.5833 \\text{ cm}\\)\nThe length of the arc is approximately 4.58 cm",
+    "year": "2001"
+  },
+  {
+    "number": "12",
+    "text": "If n{A} = 6, n{B} = 5 and n{A \u2229 B} = 2, find n{A \u222a B}",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "13",
+      "E": "15"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41811?exam_type=neco&type=obj&page=3",
+    "correct_answer": "C",
+    "explanation": "n(A U B) = n(A) + n(B) - n(A n B)\nn(A U\u00a0B) = 6 + 5 - 2 = 9",
+    "year": "2001"
+  },
+  {
+    "number": "13",
+    "text": "If 3 boys shared x oranges among themselves in the ratio 3:5:8, and smallest share was 45 oranges, find the value of x",
+    "options": {
+      "A": "75",
+      "B": "120",
+      "C": "165",
+      "D": "195",
+      "E": "240"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41815?exam_type=neco&type=obj&page=3",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "14",
+    "text": "Find the value of k such that \\(t^2\\) + kt + \\(\\frac{25}{4}\\) is a perfect square",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "\\(\\frac{5}{2}\\)",
+      "D": "\\(\\frac{5}{4}\\)",
+      "E": "\\(\\frac{1}{5}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41822?exam_type=neco&type=obj&page=3",
+    "correct_answer": "A",
+    "explanation": "\\(t^2\\) + kt + \\(\\frac{25}{4}\\)\nThe general form of quadratic expression = ax\\(^2\\) + bx + c\ncomparing\u00a0 \\(t^2\\) + kt + \\(\\frac{25}{4}\\) and the general form\na = 1, b = k and c =\u00a0\\(\\frac{25}{4}\\)\nusing: b\\(^2\\) = 4ac we can find the value of k. ( note: there is/are another way(s) to find the value of k)\nk\\(^2\\) = 4 x 1 x\u00a0 \\(\\frac{25}{4}\\)\nk\\(^2\\) = 25\ntaking\u00a0the square root of both sides\nk = 5",
+    "year": "2001"
+  },
+  {
+    "number": "15",
+    "text": "The angle of elevation of the top T of a pole from a point X on the horizontal ground is 32\u00b0, if X is 68 m away from the foot F of the pole, calculate the height FT of the pole, correct to one decimal place.",
+    "options": {
+      "A": "128.3m",
+      "B": "108.8m",
+      "C": "80.2m",
+      "D": "57.7m",
+      "E": "42.5m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41826?exam_type=neco&type=obj&page=3",
+    "correct_answer": "E",
+    "explanation": "to calculate for the high of the pole, we use sohcahtoa\nLet the height of the pole be x.\nTan32\u00ba = \\(\\frac{opp}{adj}\\)\nTan32\u00ba =\u00a0 \\(\\frac{x}{68}\\)\nx = Tan32\u00ba x 68 = 42.5m ( to 1 d.p)",
+    "year": "2001"
+  },
+  {
+    "number": "16",
+    "text": "If the volume of a cube is (8 x \\(10^3\\))cm\\(^3\\), what is the surface area of the cube?",
+    "options": {
+      "A": "2,400 cm\\(^2\\)",
+      "B": "1,600 cm\\(^2\\)",
+      "C": "120 cm\\(^2\\)",
+      "D": "24 cm\\(^2\\)",
+      "E": "16 cm\\(^2\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41836?exam_type=neco&type=obj&page=4",
+    "correct_answer": "A",
+    "explanation": "VOLUME of CUBE = \\(L^3\\)\n8000 =\u00a0 \\(L^3\\)\nL = \\(\\sqrt[3]{8000}\\) = 20\nS. A. CUBE = 6\\(L^2\\)\nS. A. CUBE = 6 x 20 x 20 = 2400\\(cm^2\\)",
+    "year": "2001"
+  },
+  {
+    "number": "17",
+    "text": "A chord is drawn 12cm away from the centre of a circle of radius 13cm. What is the length of the chord?",
+    "options": {
+      "A": "169.00 cm",
+      "B": "144.00 cm",
+      "C": "25.00 cm",
+      "D": "17.69 cm",
+      "E": "10.00 cm"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41846?exam_type=neco&type=obj&page=4",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "18",
+    "text": "A bottle of malt costs three times as much as a bottle of Mirinda. If 5 bottles of malt and 4 bottles of Mirinda cost N380.00 altogether, how much does a bottle of malt cost?",
+    "options": {
+      "A": "N90.00",
+      "B": "N80.000",
+      "C": "N60.000",
+      "D": "N40.000",
+      "E": "N20.000"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41849?exam_type=neco&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "let one bottle of mirinda cost = #x, a bottle of malt will cost #3x\n4 bottles of mirinda will cost = #4x, then 5 bottles of malt cost = #15x\ntotal cost = 4x + 15x = 380\nx = 380/19 = 20, therefore a bottle of mirinda cost = #20 then a bottle of mirinda will cost 3 x 20 = #60.00",
+    "year": "2001"
+  },
+  {
+    "number": "19",
+    "text": "Two beads are drawn at random, one after the other, with replacement, from a box containing 5 red and 7 white identical beads. What is the probability that the beads are the same colour",
+    "options": {
+      "A": "\\(\\frac{119}{144}\\)",
+      "B": "\\(\\frac{95}{144}\\)",
+      "C": "\\(\\frac{37}{72}\\)",
+      "D": "\\(\\frac{49}{144}\\)",
+      "E": "\\(\\frac{1}{6}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41861?exam_type=neco&type=obj&page=4",
+    "correct_answer": "C",
+    "explanation": "To find the probability that two beads drawn (with replacement) are of the same color, we consider two cases: both red and both white.\nBeads = 5,\u00a0White beads = 7, Total beads = 12\nBoth Red:\\(P(\\text{Red}) = \\frac{5}{12}, \\quad P(\\text{Both Red}) = \\frac{5}{12} \\times \\frac{5}{12} = \\frac{25}{144}\\)\nBoth White:\\(P(\\text{White}) = \\frac{7}{12}, \\quad P(\\text{Both White}) = \\frac{7}{12} \\times \\frac{7}{12} = \\frac{49}{144}\\)\nTotal Probability of Same Color:\\(P(\\text{Same Color}) = \\frac{25}{144} + \\frac{49}{144} = \\frac{74}{144} = \\frac{37}{72}\\)\nThe probability that the two beads are the same color is \\( \\frac{37}{72}\\).",
+    "year": "2001"
+  },
+  {
+    "number": "20",
+    "text": "Simplify \\(\\sqrt{6a^{-2}} \\times \\sqrt{24a^6}\\)",
+    "options": {
+      "A": "\u00b1 16a\\(^2\\)",
+      "B": "\u00b1 16a",
+      "C": "\u00b1 14a\\(^2\\)",
+      "D": "\u00b1 12a\\(^2\\)",
+      "E": "\u00b1 12a"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41869?exam_type=neco&type=obj&page=4",
+    "correct_answer": "D",
+    "explanation": "\\(\\sqrt{6a^{-2}} \\times \\sqrt{24a^6}\\) = \\(\\sqrt{6a^{-2} \\times\u00a024a^6}\\) = \\(\\sqrt{144a^4}\\) =\u00a0\u00b112a\\(^2\\).",
+    "year": "2001"
+  },
+  {
+    "number": "21",
+    "text": "Find the value of x in the equation: 9\\(^x\\)\u00a0= 729",
+    "options": {
+      "A": "81",
+      "B": "27",
+      "C": "18",
+      "D": "9",
+      "E": "3"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41873?exam_type=neco&type=obj&page=5",
+    "correct_answer": "E",
+    "explanation": "9\\(^x\\)\u00a0= 729\n3\\(^2\\)\\(^x\\) = 3\\(^6\\)\n2x = 6\nx = 3",
+    "year": "2001"
+  },
+  {
+    "number": "22",
+    "text": "In an acute angle-triangle XYZ, XZ = 9cm, YZ = 11cm and \u2220XZY = 35\u00b0 Calculate \u2220YXZ, correct to the nearest degree.",
+    "options": {
+      "A": "57\u00b0",
+      "B": "45\u00b0",
+      "C": "33\u00b0",
+      "D": "16\u00b0",
+      "E": "89\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41875?exam_type=neco&type=obj&page=5",
+    "correct_answer": "E",
+    "explanation": "..",
+    "year": "2001"
+  },
+  {
+    "number": "23",
+    "text": "The surface area of a sphere is 616m2. what is the volume of-the sphere (correct to two significant figures)? (take \u03c0 = 3.142)",
+    "options": {
+      "A": "14 cm\\(^3\\)",
+      "B": "210 cm\\(^3\\)",
+      "C": "1,400 cm\\(^3\\)",
+      "D": "2,100 cm\\(^3\\)",
+      "E": "4,300 cm\\(^3\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41880?exam_type=neco&type=obj&page=5",
+    "correct_answer": "C",
+    "explanation": "\\(Surface area (A) = 4\\pi r^{2} = 616m^{2}\\)\nsolving, we have\n\\(r = 7m\\)\n\\(Volume = \\frac{4}{3}\\pi r^{3}\\)\n\\(Volume = \\frac{4\\times 3.142 \\times 7^{3}}{3}\\)\n\\(Volume = \\frac{4310.824}{3}\\)\n= \\(1436.941m^{3} \\approxeq 1400m^{3}(2 sig. fig)\\)",
+    "year": "2001"
+  },
+  {
+    "number": "24",
+    "text": "51 women wore coloured shoes to a party, out of which 21 wore purple and 9 wore white. if a woman is selected at Random. What is the probability that she is wearing neither a purple shoe nor a white shoe?",
+    "options": {
+      "A": "\\(\\frac{10}{17}\\)",
+      "B": "\\(\\frac{7}{17}\\)",
+      "C": "\\(\\frac{20}{51}\\)",
+      "D": "\\(\\frac{3}{17}\\)",
+      "E": "\\(\\frac{1}{51}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41883?exam_type=neco&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "No of women\u00a0wearing both purple and white shoes = 21 + 9\n= 30 women.\nNo of women wearing neither purple nor white shoes = 51 - 30\n= 21 women\n\\(\\therefore\\) Probability of picking a woman wearing neither purple nor white shoes\n= \\(\\frac{21}{51}\\)\n= \\(\\frac{7}{17}\\).",
+    "year": "2001"
+  },
+  {
+    "number": "25",
+    "text": "The radius of a sphere is 21cm. If s and v represent the curved surface area and volume respectively, what is s : v? (take \u03c0 = 3.142)",
+    "options": {
+      "A": "1:03",
+      "B": "1:07",
+      "C": "3:01",
+      "D": "3:07",
+      "E": "7:01"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41887?exam_type=neco&type=obj&page=5",
+    "correct_answer": "B",
+    "explanation": "C.S.A = 5,544\nVolume = 38,808\nS : V =1 : 07",
+    "year": "2001"
+  },
+  {
+    "number": "26",
+    "text": "A trader sold an article for N4,600.00 thereby making a profit of 15%. Calculate the cost price of the article",
+    "options": {
+      "A": "N3450.00",
+      "B": "N3910.00",
+      "C": "N4000.00",
+      "D": "N5290.00",
+      "E": "N6900.00"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41889?exam_type=neco&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "SP = #4600, profit % = 15\n% profit = \\(\\frac{SP - CP}{CP}\\) X 100\n\\(\\frac{15}{100} =\u00a0 \\frac{4600 - CP}{CP}\\)\n15CP = 460000 - 100CP\n15CP + 100CP = 460000\nCP = \\(\\frac{460000}{115}\\) = #4000\nCost price of article = #4000\nOR\nProfit % = 100 + 15 = 115\nCP = \\(\\frac{4600 \\times\u00a0100}{115}\\) = #4000",
+    "year": "2001"
+  },
+  {
+    "number": "27",
+    "text": "The first term of a G.P is 7. Find its 4th term, if its common ratio is 3.",
+    "options": {
+      "A": "567",
+      "B": "280",
+      "C": "189",
+      "D": "63",
+      "E": "21"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41895?exam_type=neco&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "28",
+    "text": "Express 0.03785 in standard form correct to 3 significant figures.",
+    "options": {
+      "A": "3 \u00d7 10\\(^{-2}\\)",
+      "B": "3.78 \u00d7 10\\(^{-2}\\)",
+      "C": "3.79 \u00d7 10\\(^{-2}\\)",
+      "D": "3.79 \u00d7 10\\(^{-1}\\)",
+      "E": "3.78 \u00d7 10\\(^{-2}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41904?exam_type=neco&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "To express 0.03785\u00a0in standard form to 3 significant figures:\n* Identify significant figures: 3.785\n* Round to 3 figures: 3.79.\n* Write in standard form: 3.79 \u00d7 10\\(^{-2}\\)\nFinal answer:\u00a0 3.79\u00d710\\(^{\u22122}\\)\u200b",
+    "year": "2001"
+  },
+  {
+    "number": "29",
+    "text": "Convert (\\(101.011)_2\\) to base 10",
+    "options": {
+      "A": "63",
+      "B": "43",
+      "C": "10",
+      "D": "\\(\\frac{77}{8}\\)",
+      "E": "\\(\\frac{43}{8}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41910?exam_type=neco&type=obj&page=6",
+    "correct_answer": "E",
+    "explanation": "Convert (\\(101.011)_2\\) to base 10\n\\(1 \\times\u00a02^2 + 0 \\times\u00a02^1 + 1 \\times\u00a02^0 + 0 \\times\u00a02^{-1} + 1 \\times\u00a02^{-2} + 1 \\times\u00a02^{-3}\\)\n1 x 4 + 0 x 2 + 1 x 1 + 0 x \\(\\frac{1}{2}\\) + 1 x \\(\\frac{1}{4}\\) + 1 x \\(\\frac{1}{8}\\)\n4 + 1 +\u00a0 \\(\\frac{1}{4}\\) +\u00a0\\(\\frac{1}{8}\\)\n=\u00a0\u00a0\\(\\frac{43}{8}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "30",
+    "text": "Solve the equation x\\(^2\\) - 3x - 10 = 0",
+    "options": {
+      "A": "-2 or -5",
+      "B": "-3 or -10",
+      "C": "5 or -2",
+      "D": "2 or 5",
+      "E": "3 or 10"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41922?exam_type=neco&type=obj&page=6",
+    "correct_answer": "C",
+    "explanation": "x\\(^2\\) - 3x - 10 = 0\nUsing factorisation method:\u00a0 x\\(^2\\) - 3x - 10 = 0 becomes\nx\\(^2\\) - 5x + 2x - 10 = 0\n(x\\(^2\\) - 5x) + (2x - 10) = 0\nx(x - 5) + 2(x -5) = 0\nx - 5 = 0 or x + 2 = 0\n\\(\\therefore\\) x = 5 or -2",
+    "year": "2001"
+  },
+  {
+    "number": "31",
+    "text": "Evaluate (\\(\\frac{1}{343}\\))\\(^{\\frac{1}{3}}\\) + (64)\\(^{-\\frac{1}{3}}\\) - \\(\\frac{4}{9}\\)\\(^{-\\frac{1}{2}}\\)",
+    "options": {
+      "A": "-\\(\\frac{17}{36}\\)",
+      "B": "-\\(\\frac{3}{28}\\)",
+      "C": "-\\(\\frac{31}{28}\\)",
+      "D": "\\(\\frac{17}{36}\\)",
+      "E": "\\(\\frac{1}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41952?exam_type=neco&type=obj&page=7",
+    "correct_answer": "C",
+    "explanation": "(\\(\\frac{1}{343}\\))\\(^{\\frac{1}{3}}\\) + (64)\\(^{-\\frac{1}{3}}\\) - \\(\\frac{4}{9}\\)\\(^{-\\frac{1}{2}}\\)\nwhere \\(343 = 7^3,\u00a0 64 = 2^6,\u00a0 4 = 2^2,\u00a0 9 = 3^2\\)\n\\(7^{-3}\\)\u00a0\\(^{\\frac{1}{3}}\\) + \\(2^6\\) \\(^{\\frac{-1}{3}}\\) - \\(\\frac{2^2}{3^2}\\) \\(^{\\frac{-1}{2}}\\)\n\\(7^{-1} + 2^{-2} - (\\frac{2}{3})^{-1}\\)\n\\(\\frac{1}{7} +\u00a0\\frac{1}{4} -\u00a0\\frac{3}{2}\\)\n\\(\\frac{4+7-42}{28}\\)\n-\\(\\frac{31}{28}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "32",
+    "text": "If sin \u03b8 = \\(\\frac{4}{5}\\) where 0\u00b0 \u2220 \u03b8 \u2220 90\u00ba, what is the value of cos \u03b8 + tan \u03b8?",
+    "options": {
+      "A": "\\(\\frac{14}{15}\\)",
+      "B": "\\(\\frac{29}{15}\\)",
+      "C": "\\(\\frac{13}{8}\\)",
+      "D": "\\(\\frac{144}{15}\\)",
+      "E": "\\(\\frac{24}{5}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41960?exam_type=neco&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "0\u00b0 \u2220 \u03b8 \u2220 90\u00ba,\nFrom the diagram above, the adjacent by Pythagoras theorem = 3\nCos\u00a0\u03b8 = \\(\\frac{\\text{adj}}{\\text{hyp}}\\) = \\(\\frac{3}{5}\\)\nTan\u00a0\u03b8 = \\(\\frac{\\text{opp}}{\\text{adj}}\\) =\u00a0\\(\\frac{4}{3}\\)\ncos \u03b8 + tan \u03b8 =\u00a0 \\(\\frac{3}{5}\\) +\u00a0\\(\\frac{4}{3}\\) =\u00a0\\(\\frac{29}{15}\\)",
+    "year": "2001"
+  },
+  {
+    "number": "33",
+    "text": "The lengths of the sides of a triangle are 15m, 21m, and 28cm. What is the size of the angle facing the side 21m (correct to one decimal place)?",
+    "options": {
+      "A": "85.7\u00b0",
+      "B": "47.5\u00b0",
+      "C": "41.5\u00b0",
+      "D": "41.4\u00b0",
+      "E": "38.2\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41965?exam_type=neco&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "using cosine rule,\n\\(cos\\theta\\) = \\(\\frac{28^2 + 15^2 - 21^2}{2\\times28\\times15}\\)\n= \\(\\frac{568}{840}\\)\n\\(\\theta = cos^{-1}\\)\n= 47.5\u00b0",
+    "year": "2001"
+  },
+  {
+    "number": "34",
+    "text": "If t varies inversely as the cube of s, and t = 24, when s = 3, find t when s = 2",
+    "options": {
+      "A": "8",
+      "B": "24",
+      "C": "27",
+      "D": "81",
+      "E": "648"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41968?exam_type=neco&type=obj&page=7",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2001"
+  },
+  {
+    "number": "35",
+    "text": "Two fair coins are tossed at the same time. what is the probability of getting\u00a0a head?",
+    "options": {
+      "A": "1",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{1}{3}\\)",
+      "E": "\\(\\frac{1}{4}\\)"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/mathematics/41970?exam_type=neco&type=obj&page=7",
+    "correct_answer": "B",
+    "explanation": "THTT, TT, HHH , TH\u00a0 ,H\nPro(one head) = \\(\\frac{3}{4}\\) = \\(\\frac{3}{4}\\)",
+    "year": "2001"
+  }
+]

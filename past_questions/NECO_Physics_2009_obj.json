@@ -1,0 +1,721 @@
+[
+  {
+    "number": "277",
+    "text": "An observer heard the sound of thunder 5.8s after the lightning flash was seen. How far was he from the source? [Speed of sound in air = 330ms-1]",
+    "options": {
+      "A": "957m",
+      "B": "1914m",
+      "C": "3828m",
+      "D": "8700m",
+      "E": "17400m"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43042?exam_type=neco&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "VELOCITY=DISTANCE/TIME\nDistance = 330\u00d75.8 Distance = 1914m",
+    "year": "2009"
+  },
+  {
+    "number": "278",
+    "text": "The space between the two walls of a vacuum flask is completely evacuated to reduce heat loss by",
+    "options": {
+      "A": "condensation",
+      "B": "conduction",
+      "C": "convection",
+      "D": "evaporation",
+      "E": "radiation"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43043?exam_type=neco&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "279",
+    "text": "Which of the following substances undergoes sublimation?",
+    "options": {
+      "A": "Ether",
+      "B": "Ice",
+      "C": "Iodine",
+      "D": "Naphthalene",
+      "E": "Turpentine"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43044?exam_type=neco&type=obj&page=56",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "280",
+    "text": "Determine the value of x from the nuclear reaction below,\n\n\\(^{222}_{86}Rn\\) \u2192 \\(^{x}_{88}Ra\\) + 2\u03b2 + energy",
+    "options": {
+      "A": "220",
+      "B": "222",
+      "C": "224",
+      "D": "226",
+      "E": "228"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43045?exam_type=neco&type=obj&page=56",
+    "correct_answer": "B",
+    "explanation": "The equation above is Beta-decay:where\u00a0\u03b2 is an electron\u00a0\u2192 \\(^{0} _{-1}e\\)\n2\u03b2 in the equation =\u00a0\\(^{0} _{-1}e\\) +\u00a0\\(^{0} _{-1}e\\)\u00a0\u2192\u00a0\u00a0\\(^{0} _{-2}e\\)\n\\(^{222}_{86}Rn\\) \u2192 \\(^{x}_{88}Ra\\) + \\(^{0} _{-2}e\\)\u00a0+ energy\nwhere\u00a0 \\(^{x}_{88}Ra\\) + \\(^{0} _{-2}e\\)\u00a0\u2192\u00a0\\(^{222}_{86}Rn\\)\n: x = 222 for element Radon [\u00a0\\(^{222}_{88}Ra\\)",
+    "year": "2009"
+  },
+  {
+    "number": "281",
+    "text": "Which of the following statements about the pressure in a liquid is NOT correct? It",
+    "options": {
+      "A": "acts in all direction",
+      "B": "changes with the material of the container",
+      "C": "is the same at all points in the same horizontal plane",
+      "D": "varies with the density of the liquid",
+      "E": "varies with the depth of the liquid"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43046?exam_type=neco&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "282",
+    "text": "In which of the following fields is repulsion NOT experienced?",
+    "options": {
+      "A": "Electrical only",
+      "B": "Gravitational only",
+      "C": "Magnetic only",
+      "D": "Magnetic and electrical",
+      "E": "Magnetic and gravitational"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43047?exam_type=neco&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "283",
+    "text": "A ball of mass 100g falls from a height of 5m onto a concrete floor and rebounds to a height of 3m. Calculate the energy lost. (g = 10ms-2)",
+    "options": {
+      "A": "2J",
+      "B": "20J",
+      "C": "100J",
+      "D": "1000J",
+      "E": "2000J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43048?exam_type=neco&type=obj&page=57",
+    "correct_answer": "A",
+    "explanation": "To calculate the energy lost when a ball falls from a height of \\(5 \\, \\text{m}\\) and rebounds to a height of \\(3 \\, \\text{m}\\):\nGiven:\u00a0\u00a0Mass of the ball, \\( m = 100 \\, \\text{g} = 0.1 \\, \\text{kg} \\),\u00a0Initial height, \\( h_1 = 5 \\, \\text{m} \\),\nRebound height, \\( h_2 = 3 \\, \\text{m} \\), Acceleration due to gravity, \\( g = 10 \\, \\text{m/s}^2 \\)\nCalculating the potential energy at height \\( h_1 \\):\n\\(\\text{PE}_1 = mgh_1 = 0.1 \\, \\text{kg} \\cdot 10 \\, \\text{m/s}^2 \\cdot 5 \\, \\text{m} = 5 \\, \\text{J}\\)\nCalculating the potential energy at height \\( h_2 \\):\n\\(\\text{PE}_2 = mgh_2 = 0.1 \\, \\text{kg} \\cdot 10 \\, \\text{m/s}^2 \\cdot 3 \\, \\text{m} = 3 \\, \\text{J}\\)\nThe energy lost is:\n\\(\\text{Energy lost} = \\text{PE}_1 - \\text{PE}_2 = 5 \\, \\text{J} - 3 \\, \\text{J} = 2 \\, \\text{J}\\)\nThus, the energy lost is: \\({2 \\, \\text{J}}\\)",
+    "year": "2009"
+  },
+  {
+    "number": "284",
+    "text": "Two forces of magnitude 8N and 4N act at right angle to each other. The angle between the resultant and the 8N force is",
+    "options": {
+      "A": "23.9\u00b0",
+      "B": "26.6\u00b0",
+      "C": "29.5\u00b0",
+      "D": "60.0\u00b0",
+      "E": "63.4\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43049?exam_type=neco&type=obj&page=57",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "285",
+    "text": "The defect of the eye lens which occurs as a result of weak ciliary muscles is called",
+    "options": {
+      "A": "astigmatism",
+      "B": "hypermetropia",
+      "C": "myopia",
+      "D": "presbyopia",
+      "E": "spherical aberration"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43050?exam_type=neco&type=obj&page=57",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "286",
+    "text": "Which of the following pairs of phenomena helps in the resolution of the wave-particle paradox of matter?",
+    "options": {
+      "A": "Compton effect and thermionic emission",
+      "B": "Electron diffraction and refraction",
+      "C": "emission and absorption of light",
+      "D": "Interference and polarization",
+      "E": "Reflection and photoelectric effect"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43051?exam_type=neco&type=obj&page=58",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "287",
+    "text": "Which of the following phenomena is responsible for the spherical shape of soap bubbles?",
+    "options": {
+      "A": "Adhesion",
+      "B": "Capillarity",
+      "C": "Cohesion",
+      "D": "Osmosis",
+      "E": "Surface tension"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43053?exam_type=neco&type=obj&page=58",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "288",
+    "text": "A plane progressive wave is represented by the equation y = 0.2sin (200\u03c0t - 0.5.x) where x and y are measured in cm and t in s. What is the frequency of the wave?",
+    "options": {
+      "A": "0.5Hz",
+      "B": "4.0Hz",
+      "C": "10.0Hz",
+      "D": "100.0Hz",
+      "E": "200.0Hz"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43054?exam_type=neco&type=obj&page=58",
+    "correct_answer": "D",
+    "explanation": "Comparing\u00a0y = 0.2sin (200\u03c0t - 0.5.x) with the general equation of wave y = Asin(\u03c9t - kx)\n\u03c9 = 200\\(\\pi\\)\nBut\u00a0\u03c9 = 2\\(\\pi\\)f = 200\\(\\pi\\)\nf = \\(\\frac{200\u03c0}{2\u03c0}\\) = 100Hz",
+    "year": "2009"
+  },
+  {
+    "number": "289",
+    "text": "A stone is thrown with a speed of 10ms at an angle of 30\u00b0 to the horizontal, Calculate its time of flight, (g = 10ms2)",
+    "options": {
+      "A": "0.5s",
+      "B": "1.0s",
+      "C": "1.7s",
+      "D": "2.0s",
+      "E": "3.4s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43055?exam_type=neco&type=obj&page=58",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "290",
+    "text": "A projectile attains its maximum height when the angle of projection is?",
+    "options": {
+      "A": "30\u00b0",
+      "B": "45\u00b0",
+      "C": "60\u00b0",
+      "D": "75\u00b0",
+      "E": "90\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43056?exam_type=neco&type=obj&page=58",
+    "correct_answer": "E",
+    "explanation": "At an angle of 90\u00b0, the projectile is launched straight up, maximizing its height. While other angles can also achieve significant heights, 90\u00b0 results in the highest possible elevation.",
+    "year": "2009"
+  },
+  {
+    "number": "291",
+    "text": "Inertia is the property of a body which makes the body to",
+    "options": {
+      "A": "accelerate",
+      "B": "be reluctant to move when at rest",
+      "C": "experience friction when moving",
+      "D": "move randomly",
+      "E": "retard"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43057?exam_type=neco&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "292",
+    "text": "The term torque means",
+    "options": {
+      "A": "the equilibrant of two concurrent forces",
+      "B": "the moment of a force about an ads",
+      "C": "the resultant of several forces acting on a body in equilibrium",
+      "D": "two coplanar forces at right angle to each other",
+      "E": "two equal and opposite forces whose lines of action do not coincide"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43058?exam_type=neco&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "293",
+    "text": "A ball of mass 0.1kg moving with a velocity of 20ms-1 is hit by a force which acts on it for 0.02s. If the ball moves off in the opposite direction with a velocity of 25ms-1 , calculate the magnitude of the force.",
+    "options": {
+      "A": "25N",
+      "B": "125N",
+      "C": "225N",
+      "E": "100N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43059?exam_type=neco&type=obj&page=59",
+    "correct_answer": "C",
+    "explanation": "Impulse = \\(\\Delta\\) momentum\nF x t = m(V\\(_2\\) - V\\(_2\\))\nF = \\(\\frac{M(V_1 - V_2)}{t}\\) =\u00a0\\(\\frac{0.1(-25\u00a0- 20)}{0.02}\\) =\u00a0\\(\\frac{- 4.5}{0.02}\\) = - 225N\nTherefore, the force = 225N",
+    "year": "2009"
+  },
+  {
+    "number": "294",
+    "text": "An object of mass 2kg moves for 5s with a uniform velocity of 10ms. What is the magnitude of its acceleration in ms-2\n?",
+    "options": {
+      "A": "zero",
+      "B": "2.5",
+      "C": "10",
+      "D": "12.5",
+      "E": "100"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43060?exam_type=neco&type=obj&page=59",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "295",
+    "text": "In the electrical method of making a magnet, the polar the magnet formed depends on the",
+    "options": {
+      "A": "amount of current passed",
+      "B": "direction of the current",
+      "C": "nature of the material used",
+      "D": "orientation of the magnetic material in space",
+      "E": "size of the magnetic material"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43061?exam_type=neco&type=obj&page=59",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "296",
+    "text": "Two images Y and X are formed by a plane mirror and a convex mirror respectively. Which of the following is correct about their characteristics?",
+    "options": {
+      "A": "Both are inverted",
+      "B": "The magnification of Y is greater than one while that of X is one",
+      "C": "The magnification of Y is one while that of X is less than one",
+      "D": "Y is inverted while X is erect",
+      "E": "Y is real while X is virtual."
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43062?exam_type=neco&type=obj&page=60",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "297",
+    "text": "The electric potential at a distance d from a point charge q in air of permittivity eo is expressed as?",
+    "options": {
+      "A": "q2 \u00f7 4\u03c0eod",
+      "B": "q2 \u00f7 4\u03c0eo",
+      "C": "q \u00f7 4\u03c0eod2",
+      "D": "q \u00f7 4\u03c0eod",
+      "E": "q \u00f7 4\u03c0eo2d"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43063?exam_type=neco&type=obj&page=60",
+    "correct_answer": "D",
+    "explanation": "The electric potential at a point in an electric field is defined as\u00a0the amount of work done in moving a unit positive charge from infinity to that point against the action of the field.\nV = \\(\\frac{Q}{4\u03c0\u2208r}\\)",
+    "year": "2009"
+  },
+  {
+    "number": "298",
+    "text": "The work done in extending a spring by 40 mm is 1.52J. Calculate the elastic constant of the spring.",
+    "options": {
+      "A": "38.8 Nm-1",
+      "B": "60.8 Nm-1",
+      "C": "190.0 Nm-1",
+      "D": "1900.0 Nm-1",
+      "E": "3800.0 Nm-1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43064?exam_type=neco&type=obj&page=60",
+    "correct_answer": "D",
+    "explanation": "Force = Elastic constant x extension\nWork done = \\(\\frac{1}{2} K \\times e^2\\)\nGiven Work done = 1.52J; Elastic constant (k) = ?; e = 40mm = 0.04 m\n\\(\\therefore 1.52 = \\frac{k \\times (0.04)^2}{2}\\)\n\\(3.04 = k \\times 1.6 \\times 10^{-3}\\)\n\\(k = \\frac{3.04}{1.6} \\times 10^3\\)\n= 1.9 x 10\\(^3\\)\n= 1900 Nm\\(^{-1}\\)",
+    "year": "2009"
+  },
+  {
+    "number": "299",
+    "text": "Which of the following statements is correct about volatile liquids? They have",
+    "options": {
+      "A": "low boiling point",
+      "B": "Low evaporating rate",
+      "C": "high conductivity",
+      "D": "high density",
+      "E": "high viscosity"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43065?exam_type=neco&type=obj&page=60",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "300",
+    "text": "A transformer has an efficiency of 92.5%. the ratio number of turns in the primary coil to that in the secondary coil is 128 : 45. If the current passing through the secondary coil is 9.0A, calculate the current passing through the primary-coil.",
+    "options": {
+      "A": "2.93A",
+      "B": "3.16A",
+      "C": "3.42A",
+      "D": "25.60A",
+      "E": "27.68A"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43066?exam_type=neco&type=obj&page=60",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "302",
+    "text": "An immersion heater is rated 1500W. How long does it take the heater to raise the temperature of 1 kg of water by 30\u00b0C? (Assume heat lost to the surrounding is negligible, Specific heat capacity of water 4200Jkg-1K-1)",
+    "options": {
+      "A": "84s",
+      "B": "112s",
+      "C": "130s",
+      "D": "168s",
+      "E": "280s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43068?exam_type=neco&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "303",
+    "text": "The equation PxVyTz = Constant is Charles\u2019 law if",
+    "options": {
+      "A": "x = 0, y = 1 and z = -1",
+      "B": "x = 0, y = -1 and z = 1",
+      "C": "x = 1, y = 1 and z = 0",
+      "D": "x = 1, y = 1 and z = -1",
+      "E": "x = 1, y = 1 and z = 1"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43069?exam_type=neco&type=obj&page=61",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "304",
+    "text": "When a resistor of resistance R is connected across a.c. the terminal p.d. of the cell is reduced to three-quarter its e.m.f. The cell\u2019s internal resistance in terms of R is",
+    "options": {
+      "A": "\\(\\frac{R}{4}\\)",
+      "B": "\\(\\frac{R}{3}\\)",
+      "C": "\\(\\frac{R}{2}\\)",
+      "D": "2\\(\\frac{R}{3}\\)",
+      "E": "R"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43070?exam_type=neco&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "Given that the terminal potential difference (p.d.) of the cell is reduced to three-quarters of its e.m.f. when a resistor \\( R \\) is connected, we can express this as:\n\\(V = \\frac{3}{4} E\\)\nThe relationship between terminal voltage \\( V \\), e.m.f. \\( E \\), internal resistance \\( r \\), and current \\( I \\) is given by:\n\\(V = E - Ir\\)\nThe current \\( I \\) can be expressed as: \\(I = \\frac{V}{R}\\)\nSubstituting for \\( I \\) in the voltage equation:\n\\(V = E - \\left(\\frac{V}{R}\\right) r\\)\nSubstituting \\( V = \\frac{3}{4} E \\):\n\\(\\frac{3}{4} E = E - \\left(\\frac{\\frac{3}{4} E}{R}\\right) r\\)\nRearranging gives: \\(\\frac{3}{4} E = E - \\frac{3Er}{4R}\\)\nSimplifying: \\(\\frac{3}{4} E - E = -\\frac{3Er}{4R}\\)\nThis leads to: \\(-\\frac{1}{4} E = -\\frac{3Er}{4R}\\)\nDividing both sides by \\( -E \\): \\(\\frac{1}{4} = \\frac{3r}{4R}\\)\nCross-multiplying results in: \\(R = 3r\\)\nFinally, solving for \\( r \\): \\(r = \\frac{R}{3}\\).",
+    "year": "2009"
+  },
+  {
+    "number": "305",
+    "text": "Which of the following cells does not require a dipolar for effective and efficient delivery of current?",
+    "options": {
+      "A": "Daniel cell",
+      "B": "Dry Leclanche cell",
+      "C": "Nickel-iron accumulator",
+      "D": "Voltaic cell",
+      "E": "Wet Leclanche cell"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43071?exam_type=neco&type=obj&page=61",
+    "correct_answer": "B",
+    "explanation": "The dry Leclanch\u00e9 cell's use of a paste electrolyte allows it to function effectively without the need for a dipolar structure, making it advantageous for portability and stability in various applications",
+    "year": "2009"
+  },
+  {
+    "number": "306",
+    "text": "Which of the following statements about water is NOT correct?",
+    "options": {
+      "A": "Pure water freezes at 0\u00b0C under normal pressure",
+      "B": "The volume of a given mass of water at 0\u00b0 is less than its volume at 4\u00b0C",
+      "C": "Water boils at a definite temperature",
+      "D": "Water evaporates at all temperatures",
+      "E": "Water has its maximum density at 4\u00b0C"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43072?exam_type=neco&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "Water has its least volume and highest density at 4\u00b0C",
+    "year": "2009"
+  },
+  {
+    "number": "307",
+    "text": "A body accelerating will have a constant speed if it is",
+    "options": {
+      "A": "falling from a height",
+      "B": "in equilibrium",
+      "C": "moving in a circular path",
+      "D": "moving in a straight line",
+      "E": "oscillating"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43073?exam_type=neco&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "308",
+    "text": "A sound wave from a ship is received 8.4s later. What is the depth of the sea? [Speed of sound in water 1500ms-1]",
+    "options": {
+      "A": "0.179km",
+      "B": "0.357km",
+      "C": "3.150km",
+      "D": "6.300km",
+      "E": "12.600km"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43074?exam_type=neco&type=obj&page=62",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "309",
+    "text": "Which of the following statements about a gas is NOT correct?",
+    "options": {
+      "A": "It has no definite shape",
+      "B": "It is compressible",
+      "C": "Its molecules are closely packed",
+      "D": "Its molecules gain kinetic energy when heated",
+      "E": "Its molecules move about randomly"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43075?exam_type=neco&type=obj&page=62",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "310",
+    "text": "A body executing simple harmonic motion has an angular speed of 2\u03c0 radians. Its period of oscillation is (\u03c0 3.14).",
+    "options": {
+      "A": "0.05s",
+      "B": "1.00s",
+      "C": "2.00s",
+      "D": "3.14s",
+      "E": "6.28s"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43076?exam_type=neco&type=obj&page=62",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "311",
+    "text": "Which of the following statements is correct about light and sound waves? Both",
+    "options": {
+      "A": "are longitudinal waves",
+      "B": "are transverse waves",
+      "C": "have the same velocity in air",
+      "D": "need a medium for propagation",
+      "E": "transmit energy"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43079?exam_type=neco&type=obj&page=63",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "312",
+    "text": "Which of the following pairs of musical instruments produce sound due to the vibration of air column?",
+    "options": {
+      "A": "Bell and piano",
+      "B": "Guitar and flute",
+      "C": "Trumpet and drum",
+      "D": "Trumpet and flute",
+      "E": "Violin and organ"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43080?exam_type=neco&type=obj&page=63",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "313",
+    "text": "Calculate the heat energy lost when 10g of boiling water changes to ice at 0\u00b0C. [Specific latent heat of ice 336Jg-1 . Specific heat capacity of water 4.2Jg-1 K-1]",
+    "options": {
+      "A": "840J",
+      "B": "3360J",
+      "C": "3420J",
+      "D": "4200J",
+      "E": "7560J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43081?exam_type=neco&type=obj&page=63",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "314",
+    "text": "An effort P applied at one end of a crowbar just overcomes the resistance W at the lid of a tin. The mechanical advantage of the crowbar is expressed as",
+    "options": {
+      "A": "W + P",
+      "B": "P - W",
+      "C": "\\(\\frac{w}{p}\\)",
+      "D": "\\(\\frac{p}{w}\\)",
+      "E": "wp"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43082?exam_type=neco&type=obj&page=63",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "315",
+    "text": "The phenomenon of photoelectric effect is used in the following EXCEPT",
+    "options": {
+      "A": "automatic doors",
+      "B": "bugler alarm",
+      "C": "electric fire alarm",
+      "D": "sound production from film tracks",
+      "E": "television cameras"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43083?exam_type=neco&type=obj&page=63",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "316",
+    "text": "Calculate the work done in charging a capacitor of capacitance 20\u00b5F through a potential difference of 1000V.",
+    "options": {
+      "A": "0.02 J",
+      "B": "0.10 J",
+      "C": "0.20 J",
+      "D": "1.00 J",
+      "E": "10.00 J"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43084?exam_type=neco&type=obj&page=64",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "317",
+    "text": "Arrange the following in the order of their increasing frequency.\n\nI. Visible light \nII. Gamma rays \nIII. Radio waves\nIV. Infra-red radiation \nV. Ultra-violet radiation",
+    "options": {
+      "A": "I, II, III, IV, V",
+      "B": "II, III, IV, V, I",
+      "C": "III, IV, V, I, II",
+      "D": "IV, III, I. V, II",
+      "E": "III, IV, I,V, II"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43085?exam_type=neco&type=obj&page=64",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "318",
+    "text": "Two forces A and B act at a point. If their resultant is [given by] (B - A) in the direction of B, then",
+    "options": {
+      "A": "A and B are equal",
+      "B": "A is greater than B",
+      "C": "the angle between A and B is 0\u00b0",
+      "D": "the angle between A and B is 90\u00b0",
+      "E": "the angle between A and B is 180\u00b0"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43086?exam_type=neco&type=obj&page=64",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "319",
+    "text": "The gravitational field intensity at a location X, in space, is two-fifths of its value on the earth\u2019s surface. If the weight of an object at X is 4.80N. what is its weight on the earth?",
+    "options": {
+      "A": "1.92N",
+      "B": "2.88N",
+      "C": "6.72N",
+      "D": "8.00N",
+      "E": "12.00N"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43087?exam_type=neco&type=obj&page=64",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "320",
+    "text": "Electric charges on the surface of a conductor would be most evenly distributed if the shape of the conductor is",
+    "options": {
+      "A": "conical",
+      "B": "cubical",
+      "C": "cylindrical",
+      "D": "parabolic",
+      "E": "spherical"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43088?exam_type=neco&type=obj&page=64",
+    "correct_answer": "E",
+    "explanation": "Excess charges placed on a spherical conductor repel and move until they are evenly distributed.",
+    "year": "2009"
+  },
+  {
+    "number": "321",
+    "text": "Which of the following types of motion is/are exhibited by a cylindrical drum rolling down an incline plane?",
+    "options": {
+      "A": "Random and rotational",
+      "B": "Rotational and oscillatory",
+      "C": "Rotational only",
+      "D": "Translations only",
+      "E": "Translational and rotational"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43089?exam_type=neco&type=obj&page=65",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "year": "2009"
+  },
+  {
+    "number": "322",
+    "text": "A series RLC circuit is said to resonate, when",
+    "options": {
+      "A": "capacitive reactance is zero",
+      "B": "conductance is maximum",
+      "C": "current is minimum",
+      "D": "impedance is minimum",
+      "E": "inductive reactance is zero"
+    },
+    "diagram_url": null,
+    "answer_url": "https://myschool.ng/classroom/physics/43090?exam_type=neco&type=obj&page=65",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "year": "2009"
+  }
+]
